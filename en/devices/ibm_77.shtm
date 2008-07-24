@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="IBM 77"
+   --><!--#set var="url_de"       value="ibm_77.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="en" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Extraseite neustrukturiert" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/en/computer/punchcard.shtm#ibm77" -->
+    <!--#set var="forwarding_title" value="Punch card computing" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+<div class="center"><div class="boxleft" style="width: 600px;">
+  <img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 77">
+  <p class="bildtext">
+      <ul id="nav">
+          <li><a href="/en/computer/early-computer.shtm">Scientifical calculators and mini computers</a></li>
+          <li><a href="/en/">technikum29 homepage</a></li>
+      </ul>
+  </div>
+</div></div>
+
+</div><!--content-->
+</body>
+</html>

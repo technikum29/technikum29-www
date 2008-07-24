@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Delay line memory"
+   --><!--#set var="url_de"       value="laufzeitspeicher.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="en" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Umstrukturiert, Forwarding" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/en/computer/storage-meda.shtm#delay-line-memory" -->
+    <!--#set var="forwarding_title" value="Storage media" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+<div class="box left">
+    <img src="/shared/photos/rechnertechnik/laufzeitspeicher.jpg" width="343" height="355" alt="Fotografie eines Laufzeitspeichers" />
+    <div class="bildtext">  
+        <h2><!--#echo var="title" --></h2>
+        <p class="justify">Pulses of sound are "pushed" on a (convulted) conductor by magnetostrictions (fast constriction of conductor because of a strong magnetic field). This information runs with (the material's) sonic speed to the end and is reconverted in electric pulses. Now the information were lost if it would not be reconverted and feeded into the conductor again.</p>
+        <p class="justify">Thus the data permanently go in circles and can be read and changed when they quit the conductor. The longer the conductor, the bigger the capacity.</p>
+        <p class="justify">It is a non-permanent storage with a comparatively long access time. If you turn of the computer, all data is lost.</p>
+        <ul id="nav">
+            <li><a href="/en/computer/programmable.shtm">Programmable seccond-generation calculators</a></li>
+            <li><a href="combitron.shtm">Diehl Combitron</a></li>
+            <li><a href="/en/">technikum29 homepage</a></li>
+        </ul>
+    </div>
+</div>
+
+</div><!--content-->
+</body>
+</html>

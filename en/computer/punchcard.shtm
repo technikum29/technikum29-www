@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Punch card computing"
+   --><!--#set var="location"     value="lochkarten"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/lochkarten-edv.shtm"
+   --><!--#set var="prev"         value="tabulating-machine.shtm"
+   --><!--#set var="prev_title"   value="Punch card tabulator"
+   --><!--#set var="next"         value="electron-tubes.shtm"
+   --><!--#set var="next_title"   value="Desk calculators with electron tubes"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" content="" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
+    <meta name="t29.comment" content="Ergaenzung der Sortierer/Mischer-Links" />
+    <!-- 15.09.2007/v5.7.8: IBM 077 Sync mit deutsch -->
+    <!-- 18.07.2007/v5.7.5: Komplette Neuübersetzung, Sync und strukturelle v5.7-Umstellung -->
+    <!-- 29.01-03.02.07: initial translation to v5.6.5 based on v5.6 german orig-->
+    <!-- 16.02: first update to v5.6.6, various changings, based on v5.6.6 german orig-->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>Punch cards are used since the beginnings of the 20th century as storage media. They are handy, can be labeled automatically or by hand, and sorted quickly. Therefore they were used until the late 1980s. Indeed they were mainly used in the 1960s, when EDP conquered the world. Today's folk is astonished at the size, the clearness and functionality of these machines. At technikum29 most of these archaic devices still work.</p>
+
+    <div class="box left">
+        <img src="/shared/photos/start/bull_kartenstanzer.jpg" alt="Bull card puncher" width="245" height="164" class="nomargin-bottom" />
+        <div class="bildtext">
+            <b>BULL card puncher</b>
+            <p>Bull's punch card code was not compatible to the IBM code, so we have to punch the cards for the tabulating machine manually with this handy electronical puncher.</p>
+        </div>
+        <p class="clear">&nbsp;</p>
+    </div>
+
+    <p>A typical machinery consists of a card puncher which punches the information and data on the cards, a card collator which sorts cards from different stacks (for instance adresses and bills), a sorter which sorts with specified loads and possibly a punch card interpreter that writes the punched information on a prescribed position on the punch card.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="323" />
+        <p class="bildtext-bildbreite" style="width: 580px;">
+            <b>IBM 029 and JUKI card puncher.</b>
+            On the right is the legendary IBM 029 (build since 1964), on the left the JUKI puncher (made in Japan).
+            The JUKI puncher is not accidentally looking like the IBM: In 1971 IBM brought the puncher 129 on the market
+            which saves the content of the whole punchcard while reading. Therefore IBM selled the license to
+            reproduce the machine. In 1971, the IBM 029 costed about 15.500 DM</p>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box center">
+        <a href="/en/devices/punchcard-sorter.shtm" name="backlink-sorter"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 sorter" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 sorter (without cover)" width="215" height="287" /></a>
+        <p class="center">
+            <b>IBM 082 punch card sorter</b>, Built since 1949
+            <br/><a class="go" href="/en/devices/punchcard-sorter.shtm">The function of the punch card sorter</a>
+         </p>
+    </div>
+
+    <div class="box center">
+        <a href="/en/devices/punchcard-sorter.shtm"><img src="/shared/photos/rechnertechnik/ibm_083.jpg" alt="IBM 083 punch card sorter" width="569" height="487" /></a>
+        <p class="bildtext-bildbreite" style="width: 570px;">
+            <b>IBM 083 sorter</b><br/>
+            Compared to the IBM 082 the sorting mechanics were greatly improved. The machine can sort 1000 cards
+            per minute. Much more than 16 cards per second are not possible, due to the mechanic's inertia. This
+            type was built since 1958.
+            <br/><a class="go" href="/en/devices/punchcard-sorter.shtm">The function of the punch card sorter</a>
+        </p>
+    </div>
+
+     <div class="box center">
+         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="455" height="519" />
+         <p class="bildtext">
+             <b>IBM 548</b>. A huge punch card interpreter made by IBM. This machine can label 60 cards
+             per minute in 60 cols and two rows, according to the settings which you can set.
+         </p>
+     </div>
+
+     <div class="box center">
+         <a href="/en/devices/punchcard-collator.shtm" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" /></a>
+         <p class="bildtext">
+             The picture above show the heart of an <b>IBM punch card collator 77</b>, year of manufacture 1959. The collector reads 480 cards per minute. It is capable of changing the order of the cards, looking for copies (and seperating them out) or comparing two stacks and finding out the differences. Compared to today's database storages this card collator is a kind of mechanical database query language interpreter.
+             <!--<br/>The programs are plugged together on a patch panel. Thus they can easily be changed. -->
+             <br />The electronics comprises of relays and camshafts which control
+	     switches. Early engineers had to use oilcans for the bearing's
+	     maintenance as often as a checking device.
+	     <br />The programs could be changed by replacing the programing field.
+	     <br/><a class="go" href="/en/devices/punchcard-collator.shtm">The function of the punch card collator</a>
+         </p>
+     </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

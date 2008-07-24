@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="The tabulating machine Bull BS-PR on the small side"
+   --><!--#set var="url_de"       value="bull-bs-pr/seitlich-offen.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="Fotos der Anita" />
+    <meta name="t29.this.version" content="v5.7.5" />
+    <meta name="t29.this.summary" content="Von v5.7FINAL/de: Seite einmotten" />
+    <!-- meta: t29.germanoriginal="06.01.2007/v5.6" -->
+    <!-- meta: t29.thistranslation="29.01.2007/v5.6.5" -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/en/computer/tabulating-machine.shtm" -->
+    <!--#set var="forwarding_title" value="Punch card tabulator BULL BS-PR" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+
+
+<div class="center">
+    <img src="/shared/photos/rechnertechnik/bull-bs-pr/seitlich-offen.jpg" alt="Ansicht Offen" width="569" height="396" />
+    <div class="bildtext-bildbreite" style="width: 569px;">
+        In the foreground you can see the punch card scanning. Each punch card is read
+        two times. At the first time the device discovers if it is a controler card/program card
+        or a data card. At the second time the information is allocated accordingly.
+        Additionally the content of two successive punch cards can be compared to each other.
+    </p>
+    <ul id="nav">
+        <li><a href="/en/computer/punchcard.shtm">Punch card computing: The tabulating machine Bull BS-pr</a></li>
+        <li><a href="/en/">technikum29 homepage</a></li>
+    </ul>
+</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Analog and hybrid computers"
+   --><!--#set var="location"     value="analogrechner"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/analogrechner.shtm"
+   --><!--#set var="prev"         value="univac9400.shtm"
+   --><!--#set var="prev_title"   value="UNIVAC mainframe computer from the 60s"
+   --><!--#set var="next"         value="storage-media.shtm"
+   --><!--#set var="next_title"   value="Storage media"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Analogrechner, Hybridrechner, Telefunken, RAT 700" />
+    <meta name="keywords" lang="en" content="analog computers, hyprid computers, telefunken, heathkit, rat 700, eai 180" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="03.2008/v5.7.19" />
+    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
+    <!--changelog: 26.04.2006/v5.5.1, Original 2005/v4.1.1 -->
+    <!--changelog: 21.08.2007/v5.7.5 Original: 18.07.2007/v5.7FINAL:v5.7 Änderungen (Struktur), Synchronisation der Übersetzung -->
+    <!--changelog: 09.09.2007/v5.7.6, Original: 08.09.2007/v5.7.6: EAI 185/180 + DO 240 neu -->
+    <meta name="t29.comment" content="EC-1 neu" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>Analog computers were used for the calculation of mathematical, phycial and technical problems. They were especially capable of solving equations containing variables which are dependent on time or differential equations.</p>
+
+    <p>Analog computers simulate the given problem by abstract it to a physical system which follows the same mathematical laws. This system is "plugged together" on a patch-board by using electronical networks which are situated in the computer's inner life (negators, summing unit, integrator, multiplier, function generator, etc.). Therewith even non-linear problems which differential equations which cannot be solved in a notation free of integrals can be solved with analog computers.</p>
+
+    <p>Among others, computer systems by Telefunken (1961-64) are installed. They draw awesome curves on a storage oscilloscope and xy plotter. They solve difficult problems quite quickly, but handing, programming (plug connections) and analysis is not easy.</p>
+
+    <!--alter Text: <p>Electronical analog computers solved mathematical equations that represented electrical networks which you had to plug ("programm") on the board. They were solved by the electrical simulation. Results were not numbers, but graphs (curves) that can be plotted with a writer or an oscilloscope.</p>-->
+
+    <h3>Heathkit Analog Computer H1</h3>
+    <div class="box center" style="margin-bottom: 0;">
+        <img src="/shared/photos/rechnertechnik/heathkit-analogrechner.jpg" width="493" height="337" alt="Heathkit Analog Computer H1" />
+        <p>Heathkit, known for it's construction kits, developed an analoge computer in 1956 that was primary designed for education. This monster has 70 tubes, whereas 45 were placed external due to better cooling. It is equipped with 15 computing amplifiers.</p>
+    </div>
+
+    <div class="box left" style="margin-top: 0;">
+       <img src="/shared/photos/rechnertechnik/heathkit-ausschnitt.jpg" alt=" Heathkit Analog Computers H1" width="247" height="179" class="nomargin-bottom"/>
+       <div class="bildtext">
+          It demonstrates archaic early technology from the first generation. We will refloat it and equipp it with a tube filled xy plotter 
+          <p>The glimming tubes gives the cold technology an fantastic warmness.</p>
+       </div>
+       <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box left">	 
+        <h3>Heathkit Analog Computer EC-1</h3>
+        <img src="/shared/photos/rechnertechnik/heathkit EC-1.jpg" width="365" height="256" alt="Heathkit EC-1" />
+        <p>This is a very small analog computer that was designed for educational purpose. It was built since 1960 and
+           was equipped with only 17 tubes (whereas 5 were used for stabilisation of voltage). With such a sparse
+           equipment the device is just good enough to yield the function of an analog computer &ndash; it is too
+           inexactly to be used for real computing.</p>
+
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box right">
+        <h3>Telefunken RAT 700</h3>
+        <img src="/shared/photos/rechnertechnik/telefunken_rat700.jpg" width="291" height="917" alt="Telefunken RAT 700" class="nomargin-bottom" />
+        <div class="bildtext">
+            The image shows the <b>Telefunkten RAT 700</b> in the bottom (first model from 1961), above a part from the
+            successor. On the new model you can change the whole patch board and thus change prgorams quickly.
+            <br/>When it's running, you hear an undetermined buzzing (400 Hz), due to the mechanical chopper
+            that change direct voltage in alternating voltage. That was the only chance to disable the
+            disturbing termeratre drift (Changing of the germanium transistor parameters).
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box center">
+        <h3>EAI 180 digital-anloge computer</h3>
+        <div class="bildtext" style="margin-bottom: 30px;">
+            <p><b>EAI 180</b> from "Electronic Associates Incorporated",
+            New Jersey, is a so called <b>hybrid computer</b>  (hybris [greek]: From twofold parentage), year of
+            manufacture 1970. It contains the parts of an analoge computer and these from a digital computer. The
+            device is equipped with IC's from the first generation (DTL-technology). The calculation circuit is
+            plugged with cables on the front panel. The cycle time from the analoge part can be set to less than
+            10ms. With that parameter, an equation will be solved at least 100 times per second. So you can watch
+            the output with a simple oscilloscope.
+            </p>
+        </div>
+        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="464" height="370" alt="EAI 180 hybrid computer" />
+    </div>
+
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/analogrechner-details.jpg" width="127" height="680" alt="details of the EAI" />
+
+        <div class="box center" style="margin-left: 127px;">
+            <h3>EAI 185</h3>
+            <img src="/shared/photos/rechnertechnik/eai185.jpg" width="424" height="535" style="float:none" alt="EAI 185 Hybridrechner" />
+        </div>
+
+        <p class="bildtext">
+             The EAI 185 is almost exactly the same as the EAI 180 (shown in the photo above). The
+             only difference is the stage of expansion &ndash; you will notice that the EAI 185 is
+             much more taller than the EAI 180.
+             They were both used in the applied physics and informatics of German Technical Universities.
+        </p>
+        <div class="clear">&nbsp;</div>
+    </div>
+    
+    <div class="box left">
+        <h3 class="center">Dornier DO 240</h3>
+         <img src="/shared/photos/rechnertechnik/do_240.jpg" alt="Dornier DO 240" width="424" height="412"/>
+         <p class="bildtext">
+             The analog computer DO 240, made by the German enterprise DORNIER, is a high precision device,
+             compared to the EAI hybrid computers, which were used almost only for education due to their
+             moderate precision.
+             It features very much elements in a highly compact case. Among others there are digital potentiometers
+             (gating pulse manually adjustable), a highly customizable digital clock generator (which uses
+             nixie tubes as a display), a digital counter, two function generators and many more.
+             This computer was built in the early 1970s and was priced at 80.000 DM (about 40.000 euro/dollar)
+         </p>
+    </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

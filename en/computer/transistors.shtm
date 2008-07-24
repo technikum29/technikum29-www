@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Transistorized calculators"
+   --><!--#set var="location"     value="transistoren"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/transistoren.shtm"
+   --><!--#set var="prev"         value="electron-tubes.shtm"
+   --><!--#set var="prev_title"   value="Desk calculators with electron tubes"
+   --><!--#set var="next"         value="programmable.shtm"
+   --><!--#set var="next_title"   value="Programable second-generation calculators"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Kernspeicher, Wanderer Conti, Erste Rechner mit Transistoren, IME 84" />
+    <meta name="keywords" lang="en" content="technikum, transistorised calculators, seccond-generation, calculators, IME 84, OLYMPIA, WANDERER, FRIDEN" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5" />
+    <!--changelog: 19.04.2006/v5.5FINAL auf Basis von 2005/v5.1.1 -->
+    <!--changelog: v5.7.5 FRIEDEN-Übersetzung by B.Ulmann -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+    
+    <!-- klingt scheiße: <p class="progress10">Jolt by the calculators featuring all tube technology, now a vehement race of the development of transistorised second-generation calculators began.</p>-->
+
+    <p>Due to the accelerated progress of calculators featuring all tube technology, the development of transistorised second-generation calculators began.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="456" height="288" />
+        <p class="bildtext"><b>IME 84</b>, the world's first desk calculator using transistors. Among others, it features an appealing design (1964!). Compared to the IME 84, the german device made by Olympia looks ungracefully.
+        <br />This calculator is at least able to exponentiate a number and uses a core memory.</p>
+    </div>
+
+    <p>The first digital transistorised calculator was produced in Italy (IME 84, 1964). In 1965, OLYMPIA built a calculator which was capable of handling floating-point numbers and at the same time, the company WANDERER released the <a class="go" href="/en/devices/wanderer_conti.shtm" title="Wanderer Conti original brochure">"first printing electonic universal automate"</a>.</p>
+    <!--Gibts ja jetzt mit Bild: FRIDEN from the USA surprised with a calculator that displayed the contents of four registers on one cathod ray tube at the same time. But all these calculators could only compute with the four fundamental arithmetic operations, like many others. At least some of them could already extract a root. A core memory mostly served as storagemedia. The memory shown below is especially illustrative.</p>-->
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/frieden130.jpg" alt="Frieden 130" width="448" height="316" />
+        <p class="bildtext">In 1966 the <b>FRIDEN 130</b> was announced. It was the first desktop calculator featuring a CRT display using an oscillocope tube to display the contents of four internal registers of the machine. The memory is based on a <a class="go" href="storage-media.shtm#delay-time-storage">magnetostrictive line</a>.
+        <br />The overall design of the calculator is quite futuristic - the machine might well be found in a space travel movie of that time. The smallest model featuring only the four basic arithmetic operations was sold for about 5000 DM while the larger model, the FRIDEN 132, which included a square root function was priced at 6700 DM.</p>
+    </div>
+
+    <p>Most of these calculators like many other brands were only capable of performing the four basic arithmetic operations although some machines had extra provisions for calculating square roots. In most cases a small <a href="storage-media.shtm#core-memory">core memory</a> was employed for internal storage.</p>
+
+     <p>You can read further details at the <a class="go" href="/en/details1.shtm" title="Details 1">tabular list of desk calculators</a></p>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

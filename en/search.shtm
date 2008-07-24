@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="We are looking for..."
+   --><!--#set var="location"     value="suche"
+   --><!--#set var="url_de"       value="suche.shtm"
+   --><!--#set var="prev"         value="computer/storage-media.shtm"
+   --><!--#set var="prev_title"   value="Storage media"
+   --><!--#set var="next"         value="contact.shtm"
+   --><!--#set var="next_title"   value="contact/credits"
+   -->
+     <title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--<link rel="stylesheet" type="text/css" href="../shared/css/kontakt.css" media="all" title="technikum29" />-->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="technikum29 what we are seeking/looking for..." />
+    <meta name="t29.germanoriginal" content="29.08.2007/v5.7.5 (nur Teile auf Anweisung!)" />
+    <meta name="t29.thistranslation" content="29.08.2007/v5.7.6" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <h3>Manuals</h3>
+    <ul>
+        <li>A manual for the NCR 446</li>
+    </ul>
+
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/typenrad.jpg" alt="character wheel, type wheel" />
+        <div class="bildtext">
+           <h3>Type wheel</h3>
+           <p>We are looking for a replacement for the type wheel displayed at the left. The diameter is about 9cm. It was used in the console printer from the <a href="/computer/univac9400.shtm">UNIVAC mainframe</a> and was probably also used in other printers.
+           <br/>Unfortunately the type wheel on the left has a wrong order of the letters.</p>
+        </div>
+    </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

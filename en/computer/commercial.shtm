@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Early commercial computers"
+   --><!--#set var="location"     value="kommerzielle"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/kommerzielle.shtm"
+   --><!--#set var="prev"         value="ic-technology.shtm"
+   --><!--#set var="prev_title"   value="Third-generation calculators with IC's"
+   --><!--#set var="next"         value="early-computers.shtm"
+   --><!--#set var="next_title"   value="Scientifical calculators and mini computers"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" content="" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="17.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="22.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Mit v5.7.5 neueingeführt, Initialübersetzung von de" />
+    <!--t29: v5.7.5: komplett B.Ulmann-Übersetzung -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>In contrast to computers used for scientific applications, commercial data processing systems have a different structure since they are optimized to support large storage systems and to process lots of data like in payroll applications and the like. Sometimes the distinction between scientific and commercial systems is not a clear one. The examples below are typical small to medium systems for commercial applications.</p>
+
+    <div class="box right">
+       <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="419" />
+       <div class="bildtext">
+          <b>Olivetti P 203</b>
+          <p>In 1968 the Olivetti P 101 with enlarged memory capacity was coupled with an electric type writer which led to a system capable of printing the results of computations directly. This system is of a remarkable design and won quite some prices for Olivetti in its time. The following machines made by Olivetti departed from that and were packaged in simple cubic enclosures.</p>
+        </div>
+       <div class="clear">&nbsp;</div>
+    </div>
+    
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="NCR 446 Rechner" width="535" height="355" />
+        <p class="bildtext">Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.</p>
+        <div class="clear">&nbsp;</div>
+        <!-- das war B.Ulmann. Meine Übersetzung (alt):
+        <img src="/shared/photos/start/ncr_rechner.jpg" alt="NCR-Rechner" style="margin-right: 25px" />
+        <div class="bildtext">As an alternative to the desktop calculators, small installations
+           etablished in the market, used for special purpose. The NCR 446 (the picture on the left)
+           was called an "electronically invoicing machine". The installation features three paper tape
+           readers, paper tape punchers, a keyboard and an IBM spherical printhead machine as a printer.
+           Year of manufacture 1968 in Germany. It features as well a core memory and threaded ROM to
+           program freely (even scienteficially).</div>
+        -->
+    </div>
+
+     <div class="box center">
+         <a href="/en/devices/nixdorf820.shtm" name="backlink-nixdorf" title="Zur Detailaufnahme der Nixdorf 820-Anlage"><img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
+         <p class="bildtext-bildbreite" style="width: 670px;">
+              A typical small to medium data processing system is the <b>NIXDORF 820</b> built in 1969/1970. This system is built entirely from modules, has a magnetic account reader and a <a href="storage-media.shtm#threading-rom">threading ROM</a> which was user modifyable. The console consists of a typewriter, the magnetic account reader and two punch card readers. In addition to this the system supports a card punching unit, a high speed matrix printer (visible on the right), two cassette tape drives and a stand alone card puncher (IBM or YUKI, see above). Clicking on the picture will yield <a class="go" href="/en/devices/nixdorf820.shtm">a more detailed version</a> of it.
+         </p>
+    </div>
+
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

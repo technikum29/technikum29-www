@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>/etc :: technikum29</title>
+
+    <link rel="stylesheet" href="/shared/css/screen.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/improved.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/dir-listings.css" type="text/css" title="technikum29">
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/etc/src/heading.shtm" -->
+
+<div id="page">
+
+<div style="margin: 2em; border: 1em double grey; padding: 2em; text-align: center; font-size: 150%;">
+  <a href="go.htm">englische Version anschauen</a>
+</div>
+
+<h2>Informationen über die Englische Übersetzung</h2>
+<p>Die englische Übersetzung wird erstmals in <a href="/etc/v5.5">Version 5.5</a> in die
+offizielle Homepage intigriert. Bis dahin ist sie vollkommen inoffiziell und für einen
+Homepagebesucher noch nicht zu erreichen.</p>
+<ul>
+   <li><a href="../progress.shtm">Übersetzungsfortschritt</a></li>
+   <li><a href="../words.txt">Liste unbekannter Wörter</a></li>
+</ul>
+
+<h2>Multilinguale Startseite</h2>
+<p>Informationen zur Entwicklung einer <a href="/">Startseite</a>, die auf die <a href="/de/">deutsche</a> und
+<a href="/en/">englische Version</a> der Homepage verweist, gibt es unter
+<a href="/etc/tmp/startseite/"><code>/etc/tmp/startseite</code></a></p>
+
+<h2>Dinge, die bei der Integration gemacht werden müssen</h2>
+<ul>
+  <li><a href="/robots.txt">robots.txt</a>: Verzeichnis <a href="/en/"><tt>/en</tt></a> für
+      Suchmaschinen freigeben.</li>
+  <li>Stand der englischen Übersetzung auf die <a href="/changelog">aktuelle deutsche</a>
+      angleichen.</li>
+  <li>In allen deutschen Seiten die Links auf die englische Übersetzung machen</li>
+</ul>
+
+
+<div class="seealso">
+ Siehe auch: <a href="/dev/">Development-Zone</a>, <a href="/changelog">ChangeLog</a>, <a href="go.htm">englische Startseite</a>
+</div>

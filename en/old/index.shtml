@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Start"
+   --><!--#set var="location"     value="start"
+   --><!--#set var="url_de"       value=""
+   --><!--#set var="prev"         value=""
+   --><!--#set var="prev_title"   value=""
+   --><!--#set var="next"         value="communication/broadcasting.shtm"
+   --><!--#set var="next_title"   value="Broadcasting"
+   -->
+    <title>Technikum29 - <!--#echo var="title" --></title>
+    <!--<link rel="stylesheet" type="text/css" href="/shared/css/start.css" media="all" title="technikum29" />-->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.subject" content="technikum29 homepage (english)" />
+    <meta name="keywords" lang="en" content="technikum29, science museum, computer museum, Main-Taunus" />
+
+    <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 27.07.2006/Aktuelles(v5.5.4)" />
+    <meta name="t29.thistranslation" content="17.02.2007/v5.6.6" />
+    <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
+    <!--changelog: Edit am 30.12.2006: aktualisierte new devices section (NCR/Messgeraet) -->
+    <!--changelog: Edit am 17.02.2007: aktualisierte new devices section (BULL) -->
+    <!--changelog: Edit am 24.03.2007: aktualisierte new devices section (Lochkarten-Samstag VW-Werk) -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <div class="desc-right">
+        <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" />
+        <p>The building after the reconstruction</p>
+    </div>
+
+    <p>The museum was officially opened in september 2005.</p>
+    <p>It shows the interesting development of technology that strongly
+       influences our life.</p>
+    <p>In contrast to similar museums that normally only exhibit the history
+       of technology without showing their functionality, almost all devices in
+       the technikum29 are operative and are demonstrated during the guided
+       tours. So you get a totally different picture of that time.</p>
+
+    <p>The museum is located in Germany, close to Frankfurt/Main
+       (more precisely: 65779 Kelkheim). It is privately owned and run and has
+       currently about 250 square meters of exhibition floor space. It is open
+       for interested visitors in a biweekly fashion on Sundays.
+       <br />You can approach us by
+       <a class="arrow" href="mailto:post@technikum29.de">post@technikum29.de</a>.</p>
+
+    <p>Now some pictures that show the exhibits we got at least:</p>
+
+    <div class="aktuell">
+       <h2 class="center">New entrants</h2>
+       <p class="stand">(last update mar. 2007)</p>
+       <!-- translated @ 24.03.2007 23:25 -->
+        <div class="center">
+            <img src="/shared/photos/start/neuzugang-maerz-2007.jpg" alt="New entrants in march 2007" />
+            <p class="justify">
+               We have got many new punch card devices. On the left hand: NIXDORF card puncher + labeler, in
+               the center: YOKI puncher, on the right hand: IBM 086 sorter. We will get a NIXDORF 820/20
+               installation in the near future.
+            </p>
+        </div>
+        <div class="clear"><span class="hidden">&nbsp;</span></div>
+    </div>
+
+
+    <p>The virtual tour only shows some of the exhibits. Let's start a trip to the
+     technical past &ndash; note there is no future without the past,
+     therefore museums are an important part of the human cultural history.
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

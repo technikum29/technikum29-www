@@ -1,0 +1,225 @@
+/**
+ technikum29.de Stylesheet for
+ translation-special (only during translation-development
+ on english pages)
+**/
+
+/*  common styles  */
+.devnote {
+    /* Seitenhinweis */
+    border: 1px solid #FF0000;
+    padding: 5px;
+}
+
+.devnote b {
+    color: #E06B1F;
+}
+
+u {
+    /* unbekanntes wort */
+    background-color: #C2FF19;
+}
+
+
+/* special-box styles  */
+
+.special-box {
+    margin: 2px 5px 10px 5px;
+/*  border: 1px solid #eee;*/
+    background-color: #fff;
+    position: relative;
+}
+
+.special-box .clear { clear: both; }
+.special-box .hidden { display: none; }
+
+#specialBanner {
+    /* überdimensionaler Banner */
+    background-color: #acdca1;
+/*  -moz-border-radius-topleft: 20px;
+    -moz-border-radius-topright: 20px;*/ /* durch .[x]border gemacht */
+    border: 1px solid #93bc8a;
+    border-bottom: none;
+    position: relative;
+}
+
+#specialBanner .leftborder, #specialBanner .rightborder {
+    /* rounded border elemente */
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 16px; height: 16px;
+    z-index: 10;
+}
+
+#specialBanner .leftborder { background: url(design-idee/rounded-left.gif) left top; top: -1px; left: -1px; }
+#specialBanner .rightborder { background: url(design-idee/rounded-right.gif) right top; top: -1px; right: -1px; }
+
+#specialBanner .technikum {
+    padding: 5px;
+    font-size: 20px;
+    letter-spacing: 120%;
+    color: #fff;
+    background: #5d7eac url(/shared/img/banner-gradient.png) repeat-y;
+}
+
+#specialBanner .heading {
+    font-size: 100px;
+    letter-spacing: 120%;
+    color: #e6f4e2;
+    position: relative;
+/*    min-height: 130px;*/
+/*  border: 1px solid black;*/
+    text-align: center;
+}
+
+#specialBanner .heading .v {
+    /* "version" */
+    font-size: 55px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+#specialBanner .heading .v5 {
+    /* "5.5" */
+    
+}
+
+#specialBanner .heading .five {
+    /* die letzte 5 von "5.5" */
+    color: #fff;
+}
+
+#specialBanner .heading .state {
+    /* state ("alpha", "beta", ...) */
+    font-size: 53px;
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+}
+
+#specialBanner h2 {
+    /* schatten mit css */
+    background-color: #e5f4e2;
+    font-size: 28px;
+    line-height: 30px;
+    font-weight: normal;
+    color: #7c986d;
+    text-align: center;
+    margin: 15px 0 0 0; padding: 0;
+}
+
+#specialBanner h2 .no1 {
+    /* shadow */
+    color: #ccdec6;
+}
+
+#specialBanner h2 .no2 {
+    /* shadow */
+    display: block;
+    margin-top: -29px;
+    margin-left: 1px;
+    line-height: 30px;
+}
+
+#specialRealContent {
+    background-color: #e5f4e2;
+    border: 1px solid #93bc8a;
+    border-top: none;
+    border-bottom-color: #000;
+    padding: 10px;
+}
+
+.special-box .shortinfo {
+    float: left;
+    width: 48%;
+}
+
+.special-box .longinfo {
+    margin-left: 50%;
+}
+
+.special-box .shortinfo h2,
+.special-box .longinfo h2 {
+    margin: 0; padding: 0 0 3px 0;
+    font-size: 19px;
+    border-bottom: 1px solid #93bc8a;
+}
+
+/*  Shortinfo-Box */
+
+.special-box .shortinfo ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.special-box .shortinfo li {
+    /* Kurzinfo-Eintrag */
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #aaa;
+    background-color: #fff;
+    line-height: 150%;
+    text-align: center;
+    position: relative;
+    height: 80px;
+    overflow: hidden;
+    padding-left: 50px;
+}
+
+.special-box .shortinfo li .bg {
+    /* text => background */
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    width: 50px;
+    border-right: 1px solid #aaa;
+    color: #ddd;
+    font-size: 70px;
+    line-height: 100px;
+}
+
+
+
+.special-box .en {
+    color: #999999;
+}
+
+.special-box p {
+    margin: 2px;
+    font-size: 90%;
+}
+
+#specialAlternate {
+    /* für javascript-toggler: alternativtext */
+    display: none;
+    font-weight: bold;
+    background-color: #e5f4e2;
+    border: 1px solid #93bc8a;
+    padding: 5px;
+    overflow: hidden;
+}
+
+#specialAlternate .block {
+   /* blue block for #specialToggle-bg */
+   position: absolute;
+   top: -1px;
+   right: -1px;
+   background: #5d7eac url(design-idee/rounded-right.gif) right top no-repeat;
+   width: 100px;
+   padding: 8px;
+}
+
+#specialToggle {
+    /* für javascript-toggler: link */
+    float: right;
+    display: block;
+    padding: 5px;
+    position: relative;
+    z-index: 20;
+    font-weight: bold;
+    color: #fff;
+/*    border: 2px solid red;*/
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="WANDERER conti"
+   --><!--#set var="url_de"       value="wanderer.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="en" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Extraseite neustrukturiert" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+
+<div class="box right">
+    <img src="/shared/photos/rechnertechnik/wanderer_conti.jpg" alt="Wanderer conti" width="321" height="456" />
+    <div class="bildtext">
+        <h2>WANDERER conti</h2>
+        <p class="justify">The following extract of the back from the flyer shows the fascination for that totally
+           new technology:
+
+        <blockquote>
+             <p>WANDERER conti  als erste der Welt - druckend - elektronisch - portabel - setzt neue Ma&szlig;st&auml;be f&uuml;r Tischrechenmaschinen durch SCHNELLIGKEIT - EINFACHHEIT - SICHERHEIT - GER&Auml;USCHLOSIGKEIT DER ELEKTRONIK</p>
+             <p>
+                Elektronischer Rechenk&ouml;rper mit modernen Silizium-Transistoren
+                <br>3 freie elektronische Magnetkernspeicher
+                <br>Elektronische Schnelligkeit in Sekundenbruchteilen, v&ouml;llig ger&auml;uschlos ....
+                <br>Vollendete, sichere Komma-Automatik
+                <br>Konstantenabruf
+                <br>Gro&szlig;e Kapazit&auml;t (14-stellig in Ein- und Ausgabe, jedoch 28-stellig im Elektronenrechner)
+                <br>Verbl&uuml;ffend einfach selbst bei schwierigsten Aufgabenstellungen
+                <br>Kompakte und handliche Form (50 x 40 x 20 cm), leicht an jeden Arbeitsplatz zu tragen...
+             </p>
+             <p>WANDERER-WERKE AG  B&uuml;romaschinenwerk K&ouml;ln</p>
+        </blockquote>
+
+        <p class="justify">The text directly translated in english:</p>
+
+        <blockquote>
+            <p>WANDERER conti  the world's first - printing - electronic - portable - sets new patterns for desktop calculators by SPEED - SIMPLICITY - SECURITY - NOISELESS ELECTRONIC</p>
+            <p>Electronic calculator with modern silicium-transistors
+               <br>3 free electronic magnetic core memories
+               <br>Electronical speed in split seconds, totally quiet...
+               <br>perfected, secure comma automatic
+               <br>constant calls
+               <br>Big capacity (14 places input and output, but 28 internal decimal places)
+               <br>Amazingly simple even with difficult tasks
+               <br>Compact and handy form (50 x 40 x 20 cm), easy to carry to every workplace...
+            </p>
+            <p>WANDERER-WERKE AG B&uuml;romaschinenwerk K&ouml;ln</p>
+        </blockquote>
+
+    <ul id="nav">
+        <li><a href="/en/computer/transistors.shtm#backlink-wanderer">First calculators with transistors</a></li>
+        <li><a href="/en/">Homepage of technikum29-Website</a></li>
+    </ul>
+    </div>
+</div>
+
+</div><!--content-->
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <title>technikum29.de - <!--#echo var="title" --></title>
+
+    <link rel="stylesheet" type="text/css" href="/shared/css/extra.css" media="screen,projection" title="technikum29" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/details.css" media="all" title="technikum29" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/print.css" media="print" title="technikum29" />
+    <link rel="top" href="/" title="technikum29 homepage" />
+    <link rel="first" href="/en/" title="english homepage" />
+    <link rel="author" href="/en/impressum.shtm" title="contact" />
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="author" content="h. m&uuml;ller" />
+    <meta name="DC.Format" content="text/html" />
+    <meta name="DC.Identifier" content="http://www.technikum29.de/" />
+    <meta name="DC.Language" content="en" />
+    <meta name="robots" content="index,follow" />
+</head>
+<body>
+<h1><a href="/en/" class="en" title="Homepage (english)"><span>technikum29</span></a><span class="d">&nbsp;</span></h1>
+<div id="h1border">&nbsp;</div>
+
+<!--#if expr="($hide_heading = false)" --><h2><!--#else --><h2 class="hidden"><!--#endif --><!--#echo var="title" --></h2>
+

@@ -1,0 +1,63 @@
+<hr class="hidden" />
+<h2 class="hidden">Navigation</h2>
+
+<div id="sidebar">
+    <div id="lang"><a href="/de/<!--#echo var="url_de" -->" lang="de" title="Deutsche Version dieser Seite">deutsche Version</a></div>
+
+    <div id="menu">
+      <ul class="l1">
+        <li class="l1"><a name="nav" <!--#if expr="$location = start" -->class="on"<!--#else -->href="/en/" title="Homepage"<!--#endif -->>Start</a></li>
+        <li class="l2"><div<!--#if expr="($part) &&  ($part = communication)" --> class="on"<!--#endif -->><em class="l2">Communication Technology</em>
+            <ul class="l2">
+                <li><a <!--#if expr="$location = rundfunk" -->class="on"<!--#else -->href="/en/communication/broadcasting.shtm"<!--#endif --> >Broadcasting<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = tontechnik" -->class="on"<!--#else -->href="/en/communication/sound_technology.shtm"<!--#endif -->>Sound recording and reproducing technology<span>&nbsp;</span></a></li>
+                <li><a <!--#if expr="$location = fernsehen" -->class="on"<!--#else -->href="/en/communication/television.shtm"<!--#endif --> >Television<span>&nbsp;</span></a></li>
+                <li><a <!--#if expr="$location = faxtechnik" -->class="on"<!--#else -->href="/en/communication/fax.shtm"<!--#endif -->>Fax engineering<span>&nbsp;</span></a></li>
+                <li><a <!--#if expr="$location = messtechnik" -->class="on"<!--#else -->href="/en/communication/measurement.shtm"<!--#endif -->>Measurement technology<span>&nbsp;</span></a></li>
+            </ul>
+        </div></li>
+        <li class="l2"><div<!--#if expr="($part) && ($part = computer)" --> class="on"<!--#endif -->><em class="l2">Computer Technology</em>
+            <ul class="l2">
+                <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/en/computer/electro-mechanical.shtm"<!--#endif -->>(Elektro-) mechanical calculators<span>&nbsp;</span></a></li>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
+                    <ul>
+                        <li class="long"><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>Tabulating machine, BULL GAMMA 3 and GAMMA 10<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif -->>Punch card devices<span>&nbsp;</span></a></li>
+                    </ul>
+                </div></li>
+                <li class="l3"><div<!--#if expr="($location = elektronenroehren) || ($location = transistoren) || ($location = programmierbare) || ($location = ic-technik)"--> class="on"<!--#endif -->><em>Electronical desk calculators<span>&nbsp;</span></em>
+                    <ul>
+                        <li class="long"><a <!--#if expr="$location = elektronenroehren" -->class="on"<!--#else -->href="/en/computer/electron-tubes.shtm"<!--#endif -->>Desk calculators with electron tubes<span>&nbsp;</span></a></li>
+                        <li class="long"><a <!--#if expr="$location = transistoren" -->class="on"<!--#else -->href="/en/computer/transistors.shtm"<!--#endif -->>First calcucaltors with transistors<span>&nbsp;</span></a></li>
+                        <li class="long3"><a <!--#if expr="$location = programmierbare" -->class="on"<!--#else -->href="/en/computer/programmable.shtm"<!--#endif -->>Programable second-generation calculators<span>&nbsp;</span></a></li>
+                        <li class="long"><a <!--#if expr="$location = ic-technik" -->class="on"<!--#else -->href="/en/computer/ic-technology.shtm"<!--#endif -->>Third-generation calculators with IC's<span>&nbsp;</span></a></li>
+                    </ul>
+                </div></li>
+                <li class="long"><a <!--#if expr="$location = kommerzielle" -->class="on"<!--#else -->href="/en/computer/commercial.shtm"<!--#endif -->>Early commercial computers<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = fruehe-computer" -->class="on"<!--#else -->href="/en/computer/early-computers.shtm"<!--#endif -->>Scientifical calculators and mini computers<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = univac" -->class=" on"<!--#else -->href="/en/computer/univac9400.shtm"<!--#endif -->>Univac 9400 mainframe computer, data center<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = analogrechner" -->class="on"<!--#else -->href="/en/computer/analog.shtm"<!--#endif -->>Analog and digital-analog computers<span>&nbsp;</span></a></li>
+                <li><a <!--#if expr="$location = speichermedien" -->class="on"<!--#else -->href="/en/computer/storage-media.shtm"<!--#endif -->>Storage media<span>&nbsp;</span></a></li>
+            </ul>
+        </div></li>
+        <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/en/search.shtm"<!--#endif --> title="What we a looking for...">We search for...</a></li>
+        <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/en/contact.shtm"<!--#endif --> title="Imprint, Legal notices">Contact/credits</a></li>
+    </ul>
+  </div><!-- id=menu -->
+</div><!-- id=sidebar -->
+
+<div id="footer">
+    <div class="border">&nbsp;</div>
+    <ul>
+        <li class="up"><a href="#nav" title="Go to menu and top heading"><b>top</b><br/>Navigation<span>&nbsp;</span></a></li>
+        <!--#if expr="($prev)" --><li class="prev"><a href="<!--#echo var="prev" -->" title="Go back to previous page"><b>previous page</b><br/><!--#echo var="prev_title" --><span>&nbsp;</span></a></li><!--#endif -->
+        <!--#if expr="($next)" --><li class="next"><a href="<!--#echo var="next" -->" title="Go to next page"><b>next page</b><br/><!--#echo var="next_title" --><span>&nbsp;</span></a></li><!--#endif -->
+    </ul>
+</div>
+</div><!-- id=wrapper -->
+</div><!-- class=$location -->
+
+<div id="copyright">
+    &copy; 2003-2007 technikum29. You must not use contents and photographies without the permission of the owner.
+    <a class="go" href="/en/contact.shtm">Legal Information</a>.
+</div>

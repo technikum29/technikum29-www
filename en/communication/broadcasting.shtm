@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Broadcasting"
+   --><!--#set var="location"     value="rundfunk"
+   --><!--#set var="part"         value="communication"
+   --><!--#set var="url_de"       value="kommunikationstechnik/rundfunk.shtm"
+   --><!--#set var="prev"         value="../"
+   --><!--#set var="prev_title"   value="Start"
+   --><!--#set var="next"         value="sound_technology.shtm"
+   --><!--#set var="next_title"   value="Sound recording and reproducing technology"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
+    <meta name="keywords" lang="en" content="Broadcasting, broadcast devices, museum, Signalbau Huth, Telefunken W9, K&ouml;rtng Ultramar, Telefunken 650, Metz" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="03.02.2008/v5.7.17" />
+    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
+    <meta name="t92.comment" content="Neuer Auschnitt Rundfunkecke (Text angepasst, neues Bild)" />
+    <!--changelog: 19.04.2006/v5.5.BETA - last edit own translation -->
+    <!--changelog: 10.08.2006/v5.5.7 - new translation (Ulmann) -->
+    <!--changelog: 19.08.2007/v5.7.5 - new translation, new structure [v5.7 grundlegende Änderungen, weitgehend gleicher Text] -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/neuer-ausschnitt-rundfunkecke.jpg" alt="Photography from the museum: A partial view of the broadcasting corner" width="594" height="418" />
+        <p class="bildtext-bildbreite" style="width:594px;">
+            Som of the broadcast devices in the exhibition &ndash; from left to right:
+            the twenties, early thirties, mid-thirties, late thirties,
+            early fifties.
+        </p>
+    </div>
+
+    <!--<div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/ausschnitt-rundfunkecke.jpg" alt="Partial view of the broadcasting corner" height="297" width="396" class="nomargin-bottom" />
+        <div class="bildtext" style="padding-top: 127px;">Some of the broadcast
+            devices in the exhibition &ndash; shown are mostly receivers from the
+            1920s and 1930s.</div>
+        <div class="clear">&nbsp;</div>
+    </div>-->
+
+    <p>It is astonishing to see the incredible pace at which the development of
+       broadcasting systems took place. Beginning with very simple devices using
+       crystals for demodulation the technology matured very fast and resulted
+       in the design and development of high performance transmitters and receivers
+       employing super heterodyning and the like.
+       This paved the way from simple crystal receivers which required special
+       skills to operate to everyday radios which were easy to operate and soon
+       could be found in nearly every household. A process which took a mere 15
+       years from its first steps to near perfection.
+       This development is reflected in the appearance of the devices as well. While
+       the first receivers were of a very technical design, later devices turned into
+       wonderful pieces of furniture, fitting neatly into the average household and
+       denying the fact that the receiver itself was a rather complicated piece of
+       equipment. This page shows some selected examples from the collection of the
+       museum which contains about 150 different receivers.
+    </p>
+
+<!--
+      <p>The short time between the moderate launch of broadcasting in the early 1920s and its perfection is amazing. The era of broadcasting began in Germany in 1923, at first with very limited reception quality. 15 years later the quality of reception was almost perfect. At the beginning the apparatures had a very technical design (exactly like today), but since the 30s the radio apparatures changed to partially attractive pieces of furniture. Chosen examples from the museum-holding (150 pieces) for both kinds are shown on this page.</p>
+-->
+
+      <div class="box center">
+          <img src="/shared/photos/kommunikationstechnik/huth_e72.jpg" width="474" height="319" alt="HUTH-Empf&auml;nger (HUTH-Receiver)" />
+          <p class="bildtext">Receiver made by Signalbau Huth (model E72):
+            This is an example of a cheap
+            receiver made in 1928. It was one of the first models which could
+            be connected to the mains thus eliminating the bulky anode batteries
+            requires by previous generations of receivers.
+            The sound quality of this receiver is quite limited and the horn
+            loudspeaker makes for a sound which one would expect from a tin can.</p>
+      </div>
+
+      <div class="box left">
+         <img src="/shared/photos/kommunikationstechnik/telefunken_w90.jpg" width="307" height="371" alt="Telefunken W9" class="nomargin-bottom" />
+         <p class="bildtext">Wealthy people could afford a <b>Telefunken W9</b>
+           (shown in the picture on the left) which was available during the
+           same time frame. Equipped with an Acrophon loudspeaker it featured
+           a rich sound although with very limited bass. In addition to this
+           the receiver was quite sensible and could even receive stations
+           far away while the cheap model above was limited to the reception
+           of local broadcast stations.</p>
+         <div class="clear">&nbsp;</div>
+      </div>
+
+      <p>The following pictures show some receivers of outstanding design
+         and outstanding technical properties. Apart from these the
+         museum's collection contains a lot of different receivers
+         covering all stages of the development of public radio
+         broadcasting.
+         These receivers include crystal radios, battery powered receivers
+         from the 1920s, a 'Luxus Super' (1930s) as well as the first postwar
+         receiver equipped with motorized search functionality and remote
+         control by cable, the SABA Freiburg 3D. The sound of this receiver
+         is so rich and impressive that even young people are faszinated and
+         admire this 50 year old technical miracle.</p>
+
+<!--
+      <p>The next two pictures show two apparatures that point out themselves optically and also technically, but the picture gallery could be continued without stopping.
+      <br />Many other curiosities can be admired in the museum, an audio experience is possible in every epoch: detectors, batterie-receivers (1920s), "Luxus-Super" (1930s) and at the end the first postwar receivers with motor-channel search and cable-remote control: SABA Freiburg 3D. The sound of this milestone with 5 built-in loudspeakers is so impressing that even CD-spoiled kids would stand wondering in front of this nearly 50-years old apparature.
+      <br />All in all you see how broadcasting was two or three generations ago and how fast the aparatures developed.</p>
+-->
+
+      <div class="box center">
+          <img src="/shared/photos/kommunikationstechnik/ultramar.jpg" width="354" height="336" alt="K&ouml;rting Ultramar" />
+          <p class="bildtext"><b>K&ouml;rting Ultramar</b>: One of the most
+            nobel, most complex and most expensive recievers made in 1935.
+            Its circuitry contains 11 vacuum tubes driving two loudspeakers
+            which results in an astonishable quality of sound. See also
+            some pictures showing the
+            <a class="go" name="backlink-ultramar" href="/en/devices/ultramar_back.shtm">Innards of the Ultramar</a>.
+            <br />The <a class="go" name="backlink-telefunken" href="/en/devices/telefunken_650.shtm">Telefunken 650</a>
+            is another example of the wonderful receivers built in the 1930s.</p>
+      </div>
+
+      <div class="center">
+          <img src="/shared/photos/kommunikationstechnik/metz.jpg" width="351" height="319" alt="Metz portable reciever" />
+          <p class="bildtext">The portable reveceiver from Metz, built in
+            1956 and shown above, is another outstanding piece of equipment.
+            It is a so called "Kofferradio" so it can be carried around and
+            it features even an integrated recordplayer - forseeing the
+            development of modern multipurpose receiver/CD-player combinations</p>
+
+          <!--
+          A rapid leap in time to the youngest model in the museal collection: The portable receiver from Metz with built-in gramophone. Of course the apparature, built 1956, still uses tubes. Youth would have been able to hear their "Elvis Presley"-records in the swimming pool if the radio were much more cheaper.-->
+      </div>
+
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

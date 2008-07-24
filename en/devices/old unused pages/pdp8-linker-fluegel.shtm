@@ -1,0 +1,15 @@
+<!--#set var="title" value="PDP 8 linker Fl&uuml;gel"-->
+<!- #set var="hide_heading" value="true" -->
+<!--#include virtual="/de/inc/extra.inc.shtm" -->
+
+<div class="center"><div class="boxleft" style="width: 430px;">
+    <img src="/shared/photos/pdp_8_linker.jpg" style="width: 430px; height: 322px;" alt="PDP 8 linker Fl&uuml;gel">
+    <p class="center"><strong>linker Flügel des PDP8</strong></p>
+    <hr noshade="noshade" style="width: 430px;">
+    <ul id="nav">
+          <li><a href="/de/rechnertechnik/fruehe-computer.shtm">Fr&uuml;he Computer</a></li>
+        <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+    </ul>
+</div></div>
+</body>
+</html>

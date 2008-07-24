@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Desk calculators with electron tubes"
+   --><!--#set var="location"     value="elektronenroehren"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/elektronenroehren.shtm"
+   --><!--#set var="prev"         value="punchcard.shtm"
+   --><!--#set var="prev_title"   value="Punch card computing"
+   --><!--#set var="next"         value="transistors.shtm"
+   --><!--#set var="next_title"   value="First calculators with transistors"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />
+    <meta name="keywords" lang="en" content="technikum29, electron tubes, Anita, Bell Punch Co" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="16.09.2007/v5.7.8" />
+    <meta name="t29.changelog" content="käfer->beetle" />
+    <!-- 26.04.2006/v5.5.1 german original 2005/v5.5.1 -->
+    <!-- 21.08.2007/v5.7.5 v5.6.5: page relation to punchcard computing -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>The development of electronic calculators since the 1950s is at least as interesting as the
+    development of broadcast engineering in the 1920/30s.
+    <br/>The first electronic desk calculator in the world (1962) is a real milestone. The
+    modern-looking monster features 190 electron tubes and belongs consequently to the first
+    generation of calculators. It has a wonderful glowing display. However, the
+    tube based computer can only compute with the four basic arithmetic operations and
+    costed the price of a VW beetle and an holiday trip.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/anita.jpg" width="408" height="302" alt="Antia C/VIII" />
+        <p class="bildtext"><b>Anita  C/VIII</b> (Manufactor: BELL PUNCH Co, England), an historic calculator that revolutionised calculating on desktops.
+        For the first time, you could multiply and divide without mechanics and noise. Technically speaken, the device was actually obsolete in 1962. The calculator works in decimal system, just as every other mechanical sprocket wheel machine. It still took two years until transistorized desk calculators (IME 84) came onto the market.
+        <br />You can see more pictures and details at <a class="go" href="/en/devices/anita.shtm">Details of Anita</a>.</p>
+    </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

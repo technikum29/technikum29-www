@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Measurement technology"
+   --><!--#set var="location"     value="messtechnik"
+   --><!--#set var="part"         value="communication"
+   --><!--#set var="url_de"       value="kommunikationstechnik/messtechni.shtm"
+   --><!--#set var="prev"         value="fax.shtm"
+   --><!--#set var="prev_title"   value="Fax engineering"
+   --><!--#set var="next"         value="/en/computer/electro-mechanical.shtm"
+   --><!--#set var="next_title"   value="(Elektro-) mechamical calculators"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="13.04.2006/v5.4.1" />
+    <meta name="t29.thistranslation" content="13.04.2006/v5.5ALPHA" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+    <!--#include virtual="/en/dev/special/special.inc.txt" -->
+
+    <p>Professionals can see many beautiful measurement devices, from the complex mirror galvanometer (a piece from the German Kaiserzeit) to the <u>Szintillationsmeﬂplatz</u> with <u>Z‰hlger‰ten</u> from several epoches (since 1956), used for measurement of radioactivity.</p>
+
+      <div class="right">
+          <img src="/shared/photos-v5.5/kommunikationstechnik/galvanometer.jpg" alt="Galvometers" style="width: 321px; height: 275px;">
+          <p class="bildtext">This is only an example from the early measurement technique: any galvanometer from the 20s. The lovely, sumptuous and nice design of the appearance is unmistakable, althought it is only a simple customer equipment.</p>
+          <div class="clear">&nbsp;</div>
+      </div>
+
+      <p class="clear">&nbsp;</p>
+      <p>In addition to the measurement technology that mostly covers the big area of counting, there are also exhibits which show how electronics was taught in schools since 1930. The picture stated below shows at the top demo models for tube technology (approx. 1935) and galvanometers, demo tubes (approx. 1939) and an oscillating circuit (variometer) under it.</p>
+
+      <p>A giant leap in time from 40 years to the picture below: In the early 1970s digital electronics was taught in the school for the first time. A wonderful combination of physics, informatics and mathematics. Unfortunately that time is over. There is no more time for electronics in the curriculars. Of course that is not totally wrong: The every day electronics has developed too much away from the basis.</p>
+      <div class="center">
+          <img src="/shared/photos/schulelektronik.jpg" alt="Schulelektronik in den 30ern">
+      </div>
+      <p>&nbsp;</p>
+      <div class="center">
+          <img src="/shared/photos/digitalexp-1970.jpg" alt="Digitales Experimentiersystem um 1970">
+      </div>
+</div>
+
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

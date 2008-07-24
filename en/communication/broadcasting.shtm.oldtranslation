@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Broadcasting"
+   --><!--#set var="location"     value="rundfunk"
+   --><!--#set var="part"         value="communication"
+   --><!--#set var="url_de"       value="kommunikationstechnik/rundfunk.shtm"
+   --><!--#set var="prev"         value="../"
+   --><!--#set var="prev_title"   value="start"
+   --><!--#set var="next"         value="television.shtm"
+   --><!--#set var="next_title"   value="television"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
+    <meta name="keywords" lang="en" content="Broadcasting, broadcast devices, museum, Signalbau Huth, Telefunken W9, K&ouml;rtng Ultramar, Telefunken 650, Metz" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="13.04.2006/v5.1.1" />
+    <meta name="t29.thistranslation" content="19.04.2006/v5.5BETA" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <div class="right">
+        <img src="/shared/photos/kommunikationstechnik/ausschnitt-rundfunkecke.jpg" alt="Ein Teil der Rundfunkgeräte" style="height: 297px; width: 396px; margin-right: 40px;" />
+        <div class="bildtext" style="padding-top: 127px;">A part from the broadcast devices, in this photo espacially apparatures from the 1920s and 30s.</div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+      <p>The short time between the moderate launch of broadcasting in the early 1920s and its perfection is amazing. The era of broadcasting began in Germany in 1923, at first with very limited reception quality. 15 years later the quality of reception was almost perfect. At the beginning the apparatures had a very technical design (exactly like today), but since the 30s the radio apparatures changed to partially attractive pieces of furniture. Chosen examples from the museum-holding (150 pieces) for both kinds are shown on this page.</p>
+
+      <div class="center">
+          <img src="/shared/photos/kommunikationstechnik/huth_e72.jpg" style="width: 474px; height: 319px;" alt="HUTH-Empf&auml;nger (HUTH-Receiver)" />
+          <p class="bildtext" style="width: 80%; margin: auto;">Receiver made by <b>SIGNALBAU-HUTH</b> (model E72): This is a cheap affordable apparature from 1928. It could already be connected to the "lighting main" and did not need batteries anymore. The reception quality of the small feedback apparature is very poor. The connected horn made of metall completes the tinny sound.</p>
+      </div>
+
+      <div class="right">
+         <img src="/shared/photos/kommunikationstechnik/telefunken_w90.jpg" style="width: 307px; height: 371px;" alt="Telefunken W9" />
+         <p class="bildtext">Rich persons could buy a <strong>Telefunken W9</strong> at the same time. Equipped with the compatible Arcophon loudspeaker, the sound was not tinny anymore, but there was also almost no bass. Additionally the apparatures could receive many broadcast stations that were stationed far away.</p>
+         <div class="clear">&nbsp;</div>
+      </div>
+
+      <p>The next two pictures show two apparatures that point out themselves optically and also technically, but the picture gallery could be continued without stopping.
+      <br />Many other curiosities can be admired in the museum, an audio experience is possible in every epoch: detectors, batterie-receivers (1920s), "Luxus-Super" (1930s) and at the end the first postwar receivers with motor-channel search and cable-remote control: SABA Freiburg 3D. The sound of this milestone with 5 built-in loudspeakers is so impressing that even CD-spoiled kids would stand wondering in front of this nearly 50-years old apparature.
+      <br />All in all you see how broadcasting was two or three generations ago and how fast the aparatures developed.</p>
+
+      <div class="center">
+          <img src="/shared/photos/kommunikationstechnik/ultramar.jpg" style="width: 354px; height: 336px;" alt="K&ouml;rting Ultramar" />
+          <p class="bildtext"><b>K&ouml;rting Ultramar</b>, the most nobel, most complex and most expensive apparature from 1935. It contains 11 tubes, two loudspeaker and an enormous quality of reception. See also some pictures of the <a class="go" href="/en/devices/ultramar_back.shtm">Inner life of Ultramar</a>.<br>The <a class="go" href="/en/devices/telefunken_650.shtm">Telefunken 650</a> is also one of the most nice apparatures made in 1932.</p>
+      </div>
+
+      <div class="center">
+          <img src="/shared/photos/kommunikationstechnik/metz.jpg" style="width: 351px; height: 319px;" alt="Metz portable reciever" />
+          <p class="bildtext">A rapid leap in time to the youngest model in the museal collection: The portable receiver from Metz with built-in gramophone. Of course the apparature, built 1956, still uses tubes. Youth would have been able to hear their "Elvis Presley"-records in the swimming pool if the radio were much more cheaper.</p>
+      </div>
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

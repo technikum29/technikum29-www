@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Mid range data processing equipment and proffessional early computers"
+   --><!--#set var="url_en"       value="../details2.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <link rel="stylesheet" type="text/css" href="/shared/css/details.css" />
+    <meta name="keywords" lang="en" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="09.08.2006/v5.5.6" />
+    <meta name="t29.thistranslation" content="09.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Nur Strukuränderungen" />
+    <!--changes: 09.08.06: typo -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+    
+<table width="100%" border="0" cellpadding="0" cellspacing="1">
+  <colgroup>
+    <col class="middle">
+    <col class="middle">
+    <col class="middle">
+    <col class="bemerkungen">
+  </colgroup>
+  <tr>
+    <th width="20%">type or manufacturer</th>
+    <th width="5%">year of construction</th>
+    <th width="25%">attached periphery</th>
+    <th width="50%">annotations</th>
+  </tr>
+  <tr>
+    <td class="b">DEC Classic 8</td>
+    <td>1965</td>
+    <td>Big tape deck "580"(**), hard disc DF 32**, 12 KB additional
+        memory**, teletype</td>
+    <td>The world's first mass-produced "mini"computer with very low
+        serial number. The classic 8 and the peripheral devices do
+	not contain ICs. It is a seccond-generation computer.</td>
+  </tr>
+  <tr>
+    <td class="b"><!--<a href="geraete/pdp_8I.shtm">-->DEC PDP 8 I<!--</a>--></td>
+    <td>1967-69</td>
+    <td>Teletype</td>
+    <td>The 8I is DEC's first calculator with integrated circuits
+        after the "Classic-8". 8 KB core memory.</td>
+  </tr>
+  <tr>
+    <td class="b">DEC PDP 8L</td>
+    <td>1968-70</td>
+    <td>teletype-printer, two additionall memories (now 12K), two DECTAPEs
+        incl. controller (transistor technology), punchcard reader,
+	analog-digital-transducer and many more</td>
+    <td>Early "Mini"-Computer with the size of a small cupboard
+        (approx. 300kg). Typical old versatile industrial computer.
+	Core memory.<br />The complete system is functionally attached.</td>
+  </tr>
+  <tr>
+    <td class="b"><!--<a href="geraete/lab_8e.shtm">-->DEC LAB 8e<!--</a>--></td>
+    <td>1971/72</td>
+    <td>2 tape desks TU56, highspeed-punchcard reader and puncher,
+        removable disk drive RK05, 8 inch floppy RX01, monitor VR12,
+	AD-DA-converter, teletype</td>
+    <td>Laboratory Computer that weights half a ton</td>
+  </tr>
+  <tr>
+    <td class="b">DEC PDP 11/20</td>
+    <td>1970</td>
+    <td>highspeed-punchcard reader and puncher, teletype</td>
+    <td>card M 729 is missing. First computer in DEC's PDP 11
+        production run with core memory technology</td>
+  </tr>
+  <tr>
+    <td class="b">WANG 2200 A/B</td>
+    <td>1973</td>
+    <td>8-inch triple floppy disk rive, 36-cm removable hard-disc, punch
+        card reader, reader for stacked cards, special BASIC-keyboard,
+	multiple printers, teletype</td>
+    <td>Perhaps the first device that looks a bit like today's computers.
+        Pure BASIC-computer, CPU without microprocessor. CPU, power supply,
+	keyboard and monitor are seperated. Built in tape drive: 1,7KB per
+	meter. RAM: 8KB. disk drive: 5MB.<br />This very early computer is
+	probably the only one in germany (in it's stage of expansion).
+	Total value at that time: More than 100.000,- DM</td>
+  </tr>
+  <tr>
+    <td class="b">WANG PCS II</td>
+    <td>1976</td>
+    <td>Integrated, attached doublefloppy (5 &frac14;-inch)</td>
+    <td>The world's first <i>personal</i>computer (PC).</td>
+  </tr>
+  <tr>
+    <td class="b">WANG 2200 VP**</td>
+    <td>1977</td>
+    <td>Peripheral compatible to 2200 A/B</td>
+    <td>VP: <i>Very Powerful</i> device with advanced Basic-2 by Wang</td>
+  </tr>
+  <tr>
+    <td class="b">WANG 2200 MVP**</td>
+    <td>1979</td>
+    <td>type-wheel printer, additional periphery is compatible to the
+        2200 A/B</td>
+    <td>Computer for up to 4 work stations. 32K (64K) RAM. 80 MB hard disk
+        system costed 80.000,- DM (that means 1000,-DM per MB) on its own
+	and has to run in a climatized room.</td>
+  </tr>
+  <tr>
+    <td colspan="4"><i>**) For lack of space, these devices are stored in the archive</i></td>
+  </tr>
+</table>
+
+<ul id="nav">
+    <li><a href="/en/computer/earty-computer.shtm">Early computers </a></li>
+    <li><a href="/en/">technikum29 homepage</a></li>
+</ul>
+
+</div><!--content-->
+</body>
+</html>

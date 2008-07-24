@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Start"
+   --><!--#set var="location"     value="start"
+   --><!--#set var="url_de"       value=""
+   --><!--#set var="prev"         value=""
+   --><!--#set var="prev_title"   value=""
+   --><!--#set var="next"         value="communication/broadcasting.shtm"
+   --><!--#set var="next_title"   value="Broadcasting"
+   -->
+    <title>Technikum29 - <!--#echo var="title" --></title>
+    <link rel="stylesheet" type="text/css" href="/shared/css/start.css" media="all" title="technikum29" />
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.subject" content="technikum29 homepage (english)" />
+    <meta name="keywords" lang="en" content="technikum29, science museum, computer museum, Main-Taunus" />
+
+    <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 27.07.2006/Aktuelles(v5.5.4)" />
+    <meta name="t29.thistranslation" content="09.08.2006/v5.5.6" />
+    <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <div class="desc-right">
+        <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" />
+        <p>The building after the reconstruction</p>
+    </div>
+
+    <p>The museum was officially opened in september 2005.</p>
+    <p>It shows the interesting development of technology that strongly
+       influences our life.</p>
+    <p>In contrast to similar museums that normally only exhibit the history
+       of technology without showing their functionality, almost all devices in
+       the technikum29 are operative and are demonstrated during the guided
+       tours. So you get a totally different picture of that time.</p>
+
+    <p>The museum is located in Germany, close to Frankfurt/Main
+       (more precisely: 65779 Kelkheim). It is privately owned and run and has
+       currently about 250 square meters of exhibition floor space. It is open
+       for interested visitors in a biweekly fashion on Sundays.
+       <br />You can approach us by
+       <a class="arrow" href="mailto:post@technikum29.de">post@technikum29.de</a>.</p>
+
+    <p>Now some pictures that show the exhibits we got at least:</p>
+
+    <div class="aktuell">
+       <h2>New entrants</h2>
+       <p class="stand">(last update jul. 2006)</p>
+       <!-- the legendary univac 9400 text: -->
+       <!--<div class="center">
+        <a href="devices/univac9400.shtm"><img src="/shared/photos/start/univac9400.thumb.jpg" alt="Univac 9400" /></a>
+        <p class="justify">A small sensation: The <b>technikum</b> has got a complete mainframe computer (year
+         of manufacture 1969) in september 2005. The well-preserved system UNIVAC 9400 has four tons overall
+         weight and 13 meters total length! The transport from Cologne to Kelkheim was underwritten by the
+         company UNISYS (succesor to Sperry-Univac). We have scaled down the system for lack of space.
+         Two specialists are trying to refloat it. Then it certainly will be Europe's only computer (from that UNIVAC
+         series) that is still executable.</p>
+        </div>-->
+        <!-- current holding at 27.07.2006 -->
+        <div class="center">
+          <div class="cols">
+             <div class="leftcol">
+                 <img  src="/shared/photos/start/telefunken-RA_742.jpg" alt="Telefunken RA 742" />
+                 <p class="center">Telefunken analog computer RA 742, the last model from the
+                     740 series. (presently stored in the archive)</p>
+             </div>
+             <div class="rightcol">
+                 <img  src="/shared/photos/start/bull_kartenstanzer.jpg" alt="Bull Kartenstanzer" />
+                 <p>Electromechanical punchcard puncher made by  BULL, year of manufacture 1961.
+		    We will open a new category "punchcard EDV" with many punchcard
+		    devices soon.</p>
+             </div>
+          </div>
+        </div>
+
+        <div class="clear"><span class="hidden">&nbsp;</span></div>
+    </div>
+
+
+    <p>The virtual tour only shows some of the exhibits. Let's start a trip to the
+     technical past &ndash; note there is no future without the past,
+     therefore museums are an important part of the human cultural history.
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

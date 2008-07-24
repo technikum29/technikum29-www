@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Contact"
+   --><!--#set var="location"     value="impressum"
+   --><!--#set var="url_de"       value="impressum.shtm"
+   --><!--#set var="prev"         value="search.shtm"
+   --><!--#set var="prev_title"   value="We are looking for..."
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   -->
+     <title>Technikum29 - <!--#echo var="title" --></title>
+
+    <link rel="stylesheet" type="text/css" href="/etc/contact/kontakt.css" />
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="technikum29, Impressum, Kontakt, E-Mail" />
+    <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="technikum29 impressum, contact, copyright" />
+    <meta name="t29.germanoriginal" content="26.05.2007/v5.6.13" />
+    <meta name="t29.thistranslation" content="27.05.2007/v5.6.13" />
+    <!-- changelog: 19.04.06/v5.5BETA von de: 2005/v5.5.1 -->
+    <!-- changelog: 27.05.07/v5.6.13: aktualisierung (völlig falsche infos) -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <address>
+       Dipl. Phys. H. M&uuml;ller
+       <br />D-65779 Kelkheim/Taunus
+       <br />Germany
+       <br />e-mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a>
+       <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
+    </address>
+
+    <h3>Contact us now</h3>
+    <p>If desired you can contact us also by using the following input mask:</p>
+    <!--#set var="lang" value="en" -->
+    <!--#include virtual="/etc/contact/formular.inc.shtm" -->
+
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

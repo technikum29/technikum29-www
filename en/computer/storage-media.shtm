@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Storage media"
+   --><!--#set var="location"     value="speichermedien"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/speichermedien.shtm"
+   --><!--#set var="prev"         value="analog.shtm"
+   --><!--#set var="prev_title"   value="Analog and digital-analog computers"
+   --><!--#set var="next"         value="../search.shtm"
+   --><!--#set var="next_title"   value="We are looking for..."
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="08.04.2008/v5.7.21" />
+    <meta name="t29.thistranslation" content="18.06.2008/v5.7.22" />
+    <meta name="t29.comment" content="BULL GAMMA 3 Laufzeitspeicher neu" />
+    <!--changelog: 12.09.2007/v5.7.7 based on 17.07.2007/v5.7FINAL: Initialübersetzung von de dank B.Ullmann :-) -->
+    <!--changelog: 01.12.2007/v5.7.13 based on 22.08.2007/v5.7.5: Added plated wire storage -->
+    <!--changelog: 21.03.2008/v5.7.20 based on 18.02.2007/v5.7.18: Neues Kernspeicherbild uebernommen, Alt-Texte von Bildern uebersetzt -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>
+      In the following some types of memory are described which are found in the computers on display at the technikum29. These devices may be classified as either RAM (random access memory) or ROM (read only memory). Due to their respective size these are very demonstrative examples.
+      <br/>The problem of storing information is of central importance for digital computers and was a difficult area during the early days of computing. In these times building a fast processor was considerably more easy than building an equally fast and large memory system for this processor. This led to some rather arcane solutions which are completely extinct today.
+    </p>
+
+    <div class="box center">
+        <h3>Delay line memory from the BULL GAMMA 3 tube calculator</h3>
+        <div style="white-space: nowrap;"> <!-- quick & dirty -->
+            <img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher.jpg" alt="Photography from a delay line memory" width="435" height="338" />
+	    <img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher-gross.jpg" alt="Details from the delay line memory" style="margin-left: 3px;" width="228" height="338" />
+        </div>
+        <div class="bildtext-bildbreite" style="width:100%;">
+            <p>
+            One of these solutions is the so called delay line memory.
+            It consists of several chained LC-oscillators that are set
+            up as low-pass filters. In this circuit the pulses are carried slower compared
+            to ohmic conductors. Due to the high damping the pulses must be amplified again.
+            Therefore the memory is equipped with 12 tube amplifiers. After amplification
+            at the end of the LC chain, the information is read in at the beginning of the
+            chain again. In this way it runs permanentely throught the delay line memory.
+            <br/>The pictures show a memory unit which is capable of storing onley one decimal
+            integer with 12 digits. Obviously storage was very expensive in the early
+            times of computing.
+            </p>
+        </div>
+    </div>
+
+    <div class="box center">
+        <h3><a name="run-time-memory">Magnetostrictive memory</a></h3>
+        <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Photography of a magnetostrictive memory" width="421" height="393" />
+        <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="details" style="margin-left: 3px;" width="421" height="393" />
+       <div class="bildtext">  
+           <p>
+           Another kind of "delay line" memory is the so called magnetostrictive memory. This technique is based on the idea of the propagation of ultrasonic waves through a thin wire. The information to be stored is fed into a long wire by the effect of magnetostricion (the wire contracts when exposed to a strong magnetic field &ndash; this in turn yields an acoustic wave traveling across the wire). A bit pattern created by this effect travels along the wire to its end where the information is picked up by a piezo electric element. The output of this pickup will be amplified and fed back into the beginning of the wire loop.</p>
+           <p>This basically yields a sequential storage circuit - an impulse pattern will run in an endless loop through the wire. To insert information into the loop some (simple) additional circuitry is necessary. To delete bits, the feedback loop will be opened while setting bits requires an OR gate at the input of the wire loop.</p>
+           <p>This type of memory is volatile and has a rather long access time &ndash; on the other hand, its capacity depends mainly on the length of the wire and the basic clock of the surrounding circuitry so it may easily expanded. In addition to this it is relatively inexpensive and rugged making it suitable for applications like desktop calculators and the like.</p>
+        </div>
+    </div>
+
+    <div class="box center">
+        <h3><a name="core-memory">Core memory</a></h3>
+        <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-weiss.jpg" alt="Core memory made by Triumph" width="694" height="463" />
+        <div class="bildtext">
+            <p>The picture shows a core memory made by Triumpf (about 1961). The circuit card, measuring 16 cm by 20 cm, can store 144 bit which equals 12 machine words of 12 bits each (which was a common word length in this time). Thus a single bit occupies an area of about 2.2 square centimeters.</p>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-univac.jpg" alt="A core memory built onto a modul from the UNIVAC 9400 mainframe" width="550" height="420" />
+        <p class="bildtext">
+            Another core memory made in 1969 is shown here. It is used in the <a href="/en/devices/univac9400/highspeed-printer.shtm">high speed printer</a> of the <a href="univac9400.shtm">UNIVAC mainframe</a> and stores a single line of text to be printed (132 characters). The individual cores can still be seen by the naked eye.
+         </p>
+    </div>
+
+   <div class="box center">
+       <img src="/shared/photos/rechnertechnik/kernspeicher.big.jpg" alt="Photography illustrating the size of a core memory in contrast to a match" width="629" height="443" />
+       <div class="bildtext">
+           <p>During the years the capacity of core memory devices was increased more and more while the dimensions were shrinked accordingly. This picture shows a core memory plane made in the time frame 1975 - 1978. The area shown equals
+that of the 144 bit memory by Triumph shown earlier. Now there are more then 16000 cores on the same area. The individual cores can only be seen with the aid of a magnifying glass. The whole core memory block contains 16 planes like this containing more then 256000 single cores (this is equivalent to 32 kB of data) occupying a volume of about 2.5 cubic decimeters. This device marks the end of the era of core memory.</p>
+
+           <p>The smaller the individual cores the faster the access time &ndash; this device features an access time of only 200 ns. One drawback of core memory is that reading the information stored in a row of cores destroys the information. So every read access has to be followed by a write access to retain the information (reading from a core memory takes more time than writing to the memory which is a rather unique "feature" of this technology).</p>
+
+           <p>A major advantage of core memory is its non-volatility. The information stored in a core memory will be retained even when power is lost. It is possible to turn on a machine switched off in 1975 and continue operation at the very same step where it ended in 1975. Even today main memory is sometimes called "core" which is a reminiscence of the early days of computing when memory was in fact core memory. A memory dump as a result of a program crash is still called "core dump" in the UNIX operating systems family, for example.</p>
+       </div>
+   </div>
+
+
+   <div class="box center">
+        <h3><a name="threaded-rom">Threaded ROM</a></h3>
+        <a name="backlink-gefaedeltes-rom" href="/en/devices/threaded-rom.shtm"><img src="/shared/photos/rechnertechnik/speichermedien/nixdorf-rom-gesamt.jpg" alt="Photography of a threaded ROM made by Nixdorf" width="694" height="470" /></a>
+        <div class="bildtext">
+            <p>All of the memory devices shown before were capable of read and write operations. Sometimes a read only memory (ROM for short) is needed. The picture shows such a ROM made in the mid 1960s which is closely related to a core memory.
+            <br/>The device shown is from a NIXDORF-WANDERER Logatronic system (made in 1966 approximately) which is a predecessor of the well known NIXDORF 820 system (see below). This ROM can store 2048 words of 18 bits each. The implementation is a true masterpiece of its time.</p>
+            
+            <p>You can get further explanations and a <a class="go" href="/en/devices/threaded-rom.shtm">more detailed version</a> by clicking on the picture.</p>
+        </div>
+   </div>
+   
+
+   <div class="box center">
+       <h3><a name="magnetic-stick-memory">Magnetic stick memory</a></h3>
+       <a href="/en/devices/magnetic-stick-memory.shtm"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="A 'magnetic stick memory' made by nixdorf" width="692" height="379" /></a>
+       <div class="bildtext">
+           <p>NIXDORF decided to implement a read only memory which could be easily modified by customers and did not require a service technician to modify its contents.The whole operating system of the NIXDORF 820 was stored in ROMs like this (all in all 3 modules &ndash; type 177 &ndash; were necessary for this). Even empty ROMs were manufactured which were sold to customers who liked to modify their 820 system. Each of these modules could hold 4096 word of 18 bits each. One of these ROMs weighs 2.4 kg.</p>
+           <p>Clicking on the picture will yield a <a class="go" href="/en/devices/magnetic-stick-memory.shtm">more detailed version</a> of it.</p>
+       </div>
+   </div>
+   
+   <div class="box right">
+       <!-- Neu seit 01.12.07 -->
+       <h3><a name="plated-wire-storage">Plated wire storage</a></h3>
+       <a href="/en/devices/plated-wire-storage.shtm"><img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-uebersicht.en.gif" alt="Simplified diagram showing the plated wire storage" width="400" height="254" /></a>
+
+       <p>The plated wire storage was intended for replacing the core memory. Our
+          <a href="/en/devices/univac9400/univac_9300.shtm">UNIVAC 9300</a> is equipped
+          with this type of memory. Unfortunately it is very error-prone.</p>
+
+       <p>You can get <a class="go" href="/en/devices/plated-wire-storage.shtm">further informations and many graphics</a> by clicking on the picture.</p>
+       <div class="clear"></div>
+   </div>
+
+   <div class="box left">
+       <h3 class="center"><a name="lochband">Two channel punched tape</a></h3>
+       <img src="/shared/photos/rechnertechnik/speichermedien/lochband-combitron.jpg" alt="A two channel punched tape from the DIEHL combitron calculator" width="424" height="322" />
+       <p class="bildtext">
+           As already described before (section <a class="go" href="programmable.shtm">programmable 2nd generation desktop calculators</a>), the DIEHL Combitron calculator used a time delay memory (like the magnetostrictive memory described elsewhere). Since this type of memory is volatily, DIEHL needed a non-volatile memory for the overall control of the machine. This had been implemented using a two channel punched tape. The first channel serves as a clock channel while the second channel contains the actual control data.
+           <br/>During the startup of the calculator, the contents of this punched tape were copied to the time delay memory which then took over control of the machine.
+        </p>
+   </div>
+
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

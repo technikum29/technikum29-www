@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Scientifical calculators and mini computers"
+   --><!--#set var="location"     value="fruehe-computer"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/fruehe-computer.shtm"
+   --><!--#set var="prev"         value="commercial.shtm"
+   --><!--#set var="prev_title"   value="Early commercial computers"
+   --><!--#set var="next"         value="univac9400.shtm"
+   --><!--#set var="next_title"   value="Univac 9400 mainframe computer, data center"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="en" content="technikum29, early computers, DEC PDP, WANG 2200" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5" />
+    <!--changleog: 27.04.2006/v5.5.1 auf Basis 2005/v5.5.1 -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>Today's kids think of the latest mobile devices when talking about "mini computers". In contrast, in the 1960s and the early 70s, a computer was always huge (like our <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini". Early computers are well worth seeing due to their enormous size and the nice transparent auxillary devices.
+    <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP&nbsp;8. The museum owns a complete production run from that devices: From the PDP&nbsp;8 (also called Classic&nbsp;8), year of manufacture 1965 to the PDP&nbsp;8a (1975, this one is less important so it is located in the archive).
+    
+    <!--<br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.</p> - noch nicht englisch -->
+
+    <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
+    Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
+    <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
+
+    <div class="box center">
+       <img src="/shared/photos/rechnertechnik/dec/pdp_8.jpg" width="504" height="521" alt="PDP 8 Classic" />
+       <p class="bildtext">
+         One of the museal highlights: The complete PDP 8 system with processor,
+         big tape deck TU 580 (originally belongs to the PDP 5, year of manufacture
+         1963), punch card reader/puncher PC 01, hard disc DF 32 with immovable heads
+         and a teletype as printer. The Classic-8 is called the world's first mass-produced
+         "minicomputer". Without ICs or their ancestor it is a seccond-generation apparature.
+         <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
+         He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
+         strong men can lift the computer. It is better to have four people to carry it!.
+         Without ICs or their ancestors the device is counted among the seccond-generation calculators.
+         <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a>
+         (<u>flank</u>). The core memory is set above (storage capacity 4kB).-->
+       </p>
+    </div>
+
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/dec/pdp_8i.jpg" alt="DEC PDP 8I" width="317" height="441" />
+        <div class="bildtext">
+            <h3>PDP 8I</h3>
+            <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
+             its own (in the middle of the picture) without periphery costed 27000$ at that time.<br/>
+             The main memory had a capacity of 8kB. While calculating a "bigger" problem, possibly some files
+             (programs, data) had to be swapped on a (magnetic) tape and read in afterwards. DEC developed
+             a very intelligent operating system (OS/8) which could work very efficiently with such few memory.
+             It is very interesting to watch this computer working.</p>
+            <p>If you have not yet seen such a computer, you should know that it is more than 2m high (with
+             plotter) and has a weight of more than 300 kg.</p>
+            <p>The periphery constists of 2 x TU 55 (tape drives), PC 04 (high speed paper tape reader),
+             Calcomp 563 plotter (at the top) and of course a teletype (not in the picture).</p>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box right">
+        <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab_8e.jpg" width="317" height="486" alt="LAB 8e" class="nomargin-bottom" /></a>
+        <!-- other picture -->
+        <div  class="bildtext">
+            <h3>Lab 8e</h3>
+            <p>Successor of the PDP8i was the PDP8e (1970). This computer had already an
+             internal bus system. So you could easily attach any periphery with interface cards. This
+             feature made the "Mini"computer all-purpose. This Computer type was offered with diverse
+             A/D- and D/A-converters and connection facilities as laboratory computer for analogue
+             devices (shown in the picture). The periphery is:</p>
+            <ul>
+                <li>VR 12 (oscilloscope display)</li>
+                <li>PC 04 (High speed paper tape reader/puncher)</li>
+                <li>2 x TU 56 (double tape drive)</li>
+                <li>RK 05 (removable disk drive)</li>
+                <li>A/D- and D/A-converter</li>
+            </ul>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+
+    <p>Furthermore the first system that looks like a today's computer is connected: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. The computer with so much peripheral devices is propably unique in Germany. The periphery: paper tape reader, reader for stacked cards, 8-inch triple disc drive, disc system with 38cm big disks (the device has a weight of 100kg and costed 24.000,- DM whereas it only saved 5MB), special basic-keyboard, etc.</p>
+    <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP built his
+    computers only with a single LED display until 1975.</p>
+
+    <div class="box center">
+       <a href="/en/devices/wang2200.shtm" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200_komplettanlage.jpg" width="474" height="325" alt="Wang 2200" /></a>
+    </div>
+
+    <p>The first personal computer was also build by WANG: PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as a today's PC but saved 8kB and had decent applications. Many more Homepcomputer followed, the market got out of hand and therewith the collection of computers ends. <a class="go" href="/en/details2.shtm" title="Details 2">See also details 2</a></p>
+</div>
+
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

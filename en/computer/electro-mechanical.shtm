@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="(Electro-) mechanical calculators"
+   --><!--#set var="location"     value="elektro-mechanik"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/elektro-mechanik.shtm"
+   --><!--#set var="prev"         value="/en/communication/measurement.shtm"
+   --><!--#set var="prev_title"   value="Measurement technology"
+   --><!--#set var="next"         value="tabulating-machine.shtm"
+   --><!--#set var="next_title"   value="Punch card tabulator"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />
+    <meta name="keywords" lang="en" content="technikum, calculator, electromechanical, mechanical calculator, madas, curta I, diehl VSR-18" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5" />
+    <meta name="t29.changelog" content="v5.6.5: page relation to punchcard computing" />
+    <!--changelog: 22.04.2006/v5.5FINAL Original 13.04.2006/v5.5.1 -->
+    <meta name="t29.comment" content="v5.7 Umstrukturierung..." />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>The first electronically calculating calculators were gigantic mainframes
+    in the 1940/50s. Until then, calculators worked mechanically.
+    <!--Calculators worked mechanically until they could calculate electronically, which was
+    only possible with gigantic mainframe computers in the 1940/50s.-->
+
+    When the handwheel was replaced by an electric engine, the era of mechanical calculators began.
+    The first printing mechanical calculator (1905) is an unicum with an huge exterior engine!
+    From the first fully automatic machines (1927) until these with balancing memory
+    (1960s), mechanical calculators calculated independently after the input of the numbers.
+    The world's first "pocket calculator machine", Curta I, has 1/3 from the volume of a
+    Coca Cola-pin and is consequently the smallest four-species machine ever built.
+    If you look at the picture of Curta I (shown below), you recognize the enormous importance of the
+    positional notation.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/madas.jpg" width="498" height="255" alt="Madas Rechenmaschiene" />
+        <p class="bildtext">Shown above: MADAS, an electromechanical calculator from 1927
+        made by the calculating machine factury "Egli AG" in Zurich. On the left side you see
+        CURTA I, in the background an old matchbox that shows the enormous size of these
+        machines.</p>
+    </div>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/rheinmetall-superautomat.jpg" width="496" height="372" alt="Rheinmetall Superautomat" />
+        <p class="bildtext">1932 Rheinmetall extended an adding machine with an "annex",
+          thus they made a 4-species calculating machine.
+          The comfortable usability seems to be the reason why they called it "Superautomat".</p>
+    </div>
+
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/diehl_vsr-18.jpg" width="469" height="360" alt="DIEHL VSR-18" />
+        <p class="bildtext"><b>DIEHL VSR-18</b>, one of many mechanical calculators
+        built between 1955 and 1965.
+        <br/>The engineers were hardly pressed to design better and better machines, until
+        the limit of feasibility. So the operating instructions say: "This DIEHL-device VSR
+        performs outstanding work". That is really true: For example, one were able to
+        cache results and to transfer back them anytime you want to. With this feature
+        daily calculations like 25 + 12 x 7 - 17 x 6 could be solved without notating
+        anything. However, this luxury still had a drawback: You must not run them wrongly,
+        because they were highly sensitive agains any operating error.</p>
+    </div>
+
+    <div id="sidebar-footnote">
+        <a href="/en/devices/sprocket-wheel-machine.shtm">Big photography &uarr; of the sprocket wheel machine</a>
+    </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

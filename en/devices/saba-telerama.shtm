@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Saba Telerama: Schmitt-Optik"
+   --><!--#set var="url_de"       value="saba-telerama.shtm"
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
+    <meta name="t29.thistranslation" content="28.08.2007/v5.7.5" />
+    <meta name="t29.comment" content="Neu eingeführt, eigene Initialübersetzung" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<div class="box center">
+  <img src="/shared/photos/kommunikationstechnik/telerama-schmitt-optik.jpg" alt="Telerama-Schmitt-Optik" width="574" height="356" />
+  <div class="bildtext-bildbreite" style="width: 574px;">
+      <p>The <b>Schmitt lenses</b>, demounted from the Saba Telerama projection TV-set.
+         <br />The CRT (6&nbsp;cm diameter) is partly visible in the pice. The light
+         coming from this tube caroms on the concave mirror (in the picture laying on
+         the floor). Afterwards it is adjusted by an special lens (on the right of the
+         box) and leaves the box, arriving at the projection screen.
+         <br />During this long way the original picture which is about
+         4,5cm&nbsp;x&nbsp;3,5cm big is scaled up to 123cm&nbsp;x&nbsp;97,5cm on the
+         projection screen. Consequently, the luminosity is decreasing enormously.
+         If you compute the final fraction of the original luminosity, you'll
+         understand, why this projection TV had to be set in a totally shaded room.</p>
+       </p>
+       <ul id="nav">
+           <li><a href="/en/comunication/television.shtm#backlink-telerama">Television</a></li>
+          <li><a href="/en/">technikum29 homepage</a></li>
+       </ul>
+  </div>
+</div>
+
+</div><!--content-->	
+</body>
+</html>

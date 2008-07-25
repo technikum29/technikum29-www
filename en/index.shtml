@@ -18,6 +18,7 @@
 
     <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 28.08.2007/Aktuelles(v5.7.5)" />
     <meta name="t29.thistranslation" content="17.02.2007/v5.6.6" />
+	<meta name="t29.SVN" content="$Id$" />
     <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
     <!--changelog: Edit am 30.12.2006: aktualisierte new devices section (NCR/Messgeraet) -->
     <!--changelog: Edit am 17.02.2007: aktualisierte new devices section (BULL) -->
@@ -26,6 +27,7 @@
     <!--changelog: Edit am 28.11.2007: aktualisierte "what's new" section (Univac UNISERVO 16) -->
     <!--changelog: Edit am 21.03.2008: aktualisierte "what's new" section (Heathkit EC-1) -->
     <!--changelog: Edit am 18.06.2008: aktualisierte "what's new" section (BULL GAMMA 3) -->
+	<!--changelog: Edit am 25.07.2008: aktualisierte "what's new" section (Tondraht-Diktiergeraet) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -57,17 +59,20 @@
     <p>Now some pictures that show the exhibits we got at least:</p>
 
     <div class="aktuell">
-       <!-- translated @ 18.06.2008 03:03 -->
+       <!-- translated @ 25.07.2008 20:50 -->
         <div class="left">
-            <img src="/shared/photos/start/bull-gamma-10-offen-klein.jpg" alt="The BULL GAMMA 10" class="nomargin-bottom" width="183" height="180" />
+            <img src="/shared/photos/kommunikationstechnik/klein-reporter,spulen.jpg"
+			     width="272" height="204" class="nomargin-bottom"
+				 alt="Photography of the small reporter's backside" />
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: june 2008)</p>
+            <p class="stand">(last update: july 2008)</p>
 
-            <p>We have sensational new devices in technikum29: The
-              <a href="computer/tabulating-machine.shtm#bull3">BULL GAMMA 3 tube calculator</a>
-              (1. generation device) and the
-              <a href="computer/tabulating-machine.shtm#bull10">BULL GAMMA 10 EDP</a> (2. generation).
-            </p>
+			<p>Even small devices are very impressive: The
+			   picture on the left shows a dictating machine
+			   (year of manufacture 1952) which saves the sound
+			   on wires. See our page
+			   <a href="communication/sound_technology.shtm"
+			   >Sound recording and reproducing technology</a>.</p>
         </div>
         <div class="clear">&nbsp;</div>
     </div>

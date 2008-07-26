@@ -1,3 +1,8 @@
+<!-- SVN development special -->
+<a href="http://dev.technikum29.de/websvn/filedetails.php?repname=technikum29-www&path=%2FREADME.SVN.txt&rev=0&sc=0"
+ style="display: block; width:120px; height:119px; background: url(/en/dev/SVN-badge.png) bottom right no-repeat; right: 0; bottom: 0; position: fixed; text-indent: -999em;text-decoration: none; z-index:12;"
+ >This is the SVN Testing Reposity</a>
+
 <hr class="hidden" />
 <h2 class="hidden">Navigation</h2>
 

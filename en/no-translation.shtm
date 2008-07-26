@@ -35,8 +35,6 @@
     <!--#if expr="$QUERY_STRING = /backurl=([^,&]+)/" --><!--#set var="url_de" value="$1" --><!--#endif --> 
     <!--#if expr="$QUERY_STRING = /backtitle=([^,&]+)/" --><!--#set var="backtitle" value="$1" --><!--#endif --> 
 
-<pre><!--#printenv --></pre>
-
     <!--#if expr="$how = yet" -->
     <h2>The page <!--#if expr="($backtitle)" -->&raquo;<!--#echo var="backtitle" -->&laquo;<!--#else --><!--#endif --> has not been translated yet</h2>
     <!--#else -->

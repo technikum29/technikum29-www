@@ -15,11 +15,13 @@
     <meta name="keywords" lang="de" content="Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="15.09.2007/v5.7.8" />
-    <meta name="t29.comment" content="Kaiserzeit ersetzt, morsing sache auch" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.germanoriginal" content="22.07.2007/v5.7.23" />
+    <meta name="t29.thistranslation" content="27.07.2007/v5.7.23" />
+    <meta name="t29.comment" content="neu: AEG-Oszi, Schulelektronikbild geaendert" />
     <!--changelog: 19.04.2006/v5.5BETA based on 13.04.2006/v5.4.1(De) -->
     <!--changelog: 19.08.2007/v5.7.5 -->
+    <!--changelog: 15.09.2007/v5.7.8 based on 18.07.2007/v5.7FINAL: Kaiserzeit ersetzt, morsing sache auch -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -35,6 +37,23 @@
             </p>
             <div class="clear">&nbsp;</div>
       </div>
+      
+    <!-- paragraph: AEG Oszi. Translated/Started at 28.07.08-->
+    <div class="box right">
+          <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Photography of an AEG oscilloscope" width="425" height="419" class="nomargin-bottom" />
+		  <p class="bildtext">
+              After the currency reform in West Germany, the production
+              of mesurement devices got going again. This AEG
+              oscilloscope was built in 1949. It seems to be an exact
+              replica from an AEG device of the late thirties. It is
+              equipped with steel tubes that were put on the German
+              market at 1938. Neither the time base of the horizontal
+              deflection nor the amplitude of the vertical deflection
+              are callibrated by the manufacturer. To measure
+              absolutely with this device, you always need reference sizes.
+          </p>
+		  <div class="clear">&nbsp;</div>
+      </div>
 
       <div class="box right">
           <img src="/shared/photos/kommunikationstechnik/galvanometer.jpg" alt="Galvometers" width="321" height="275" class="nomargin-bottom" />
@@ -44,14 +63,22 @@
 
       <p>In addition to the measurement technology that mostly covers the big area of counting, there are also exhibits which show how electronics was taught in schools since 1930. The picture stated below shows at the top demo models for tube technology (approx. 1935) and galvanometers, demo tubes (approx. 1939) and an oscillating circuit (variometer) under it.</p>
 
-      <p>A giant leap in time from 40 years to the picture below: In the early 1970s digital electronics was taught in the school for the first time. A wonderful combination of physics, informatics and mathematics. Unfortunately that time is over. There is no more time for electronics in the curriculars. Of course that is not totally wrong: The every day electronics has developed too much away from the basis.</p>
+    <p>On the third shelf (counted from the top, in the background) the
+       picture shows models of transistorized circuits (from 
+       approximately 1965). The big white board in front of these models
+       is an experience system from Leybold from the early 1970. At that
+       time, the subject "digital electonics" was taught in the school.
+       It was a wonderful combination of physics, informatics and
+       mathematics.  Unfortunately that time is over, too. In ordinary
+       schools, there is no more time for electronics in the curriculars.
+       Of course that is not totally wrong: The every day electonics have
+       developed too much away from the basis. Thus, the youngest
+       generation has no more idea how it's Ipod or mobile phone works
+       and they do not even want to learn the basics of electronics
+       because the relationship is too complex.</p>
 
       <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/schulelektronik.jpg" width="464" height="372" alt="electronical tools used in schools in the 30s" />
-      </div>
-
-      <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/digitalexperimentiersystem.jpg" width="427" height="546" alt="digital experience system, 1970" />
+          <img src="/shared/photos/kommunikationstechnik/schulphysik.jpg" width="431" height="718" alt="Electronical tools used in schools in the 30s, along with the digital experience system, 1970." />
       </div>
 
 </div><!-- end of content -->

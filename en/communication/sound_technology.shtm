@@ -16,10 +16,12 @@
     <meta name="keywords" lang="en" content="technikum, museum, communication, gramophone, Loewe, dictating machine" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="19.08.2007/v5.7.1" />
-    <meta name="t29.thistranslation" content="19.08.2007/v5.7.5" />
-    <meta name="t29.comment" content="Übersetzung/Umstrukturierung v5.7" />
+	<meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.germanoriginal" content="22.07.2008/v5.7.23" />
+    <meta name="t29.thistranslation" content="27.07.2008/v5.7.23" />
+    <meta name="t29.comment" content="Update: AEG-Magnetophon, Klein-Reporter W52" />
     <!--changelog: 26.04.2006/v5.5.1 -->
+	<!--changelog: 19.08.2007/v5.7.5 (Überetzung/Umstrukturierung v5.7) auf Basis 19.08.2007/v5.7.1 -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -35,6 +37,14 @@
         <img src="/shared/photos/kommunikationstechnik/kosmograph.jpg" width="546" height="407" alt="Dictating-machine KOSMOGRAPH" />
         <p class="bildtext center">Dictating-machine <b>KOSMOGRAPH</b> from the dictating machine factury of Dresden (1935)</p>
     </div>
+	
+	<div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/aeg-magnetophon.jpg" alt="Photography of the AEG Magnetophon" width="546" height="407" />
+        <p class="bildtext-bildbreite" style="width: 546px;">
+            <!-- Paragraph translated: 27.07.08 19:00-->
+			Tape recorders that are older than 1952 are very rare and technically very interesting. The <b>AEG Magnetophon AW 1</b> was built 1948/49 with the state of art of 1939. The auxiliary case contains amplifiers for recording and replay as well as a loud speaker. On the original tape that is pictured in the photography, one can listen to a german carneval convention <!-- sic! --> recorded in the early 1950s. At that time the device was too expensive for private customers.
+		</p>
+	</div>
 
     <div class="box center">
         <img src="/shared/photos/kommunikationstechnik/loewe_opta.jpg" alt="Ferrophon IIIc/3" width="546" height="405" />
@@ -45,10 +55,21 @@
     <div class="box center">
         <a href="/en/devices/schaub-lorenz-supraphon.shtm" name="backlink-supraphon" title="See a More detailed photography"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Schaub Lorenz Supraphon" width="546" height="561" /></a>
         <div class="bildtext-bildbreite" style="width: 546px">
-            <b>(Schaub-)Lorenz Supraphon</b>, year of manufacture 1952
-            <p>This device uses wires as sound storage media. Thus an hour of music fits into the small coil shown on the right side of device. This is the advantage of using steel wire: It doesn't need much space. The quality of sound was quite suitable, but the flimsy wire was always in danger of tear apart.
-            <br/>With this device, you could listen to a shellac record (78 RPM) while record concurrently to wire.</p>
+            <b>(Schaub-)Lorenz Supraphon</b>, year of manufacture 1952.
+            <p>This device uses wires as sound storage media. Thus an hour of music fits into the small coil shown on the right side of device. This is the advantage of using steel wire: It doesn't need much space. The quality of sound was quite suitable, but the flimsy wire was always in danger of tearing.
+            <br/>With this device, you could also listen to a shellac record (78 RPM) while record concurrently to wire.</p>
             <p>The era of devices using wires to store sound began before the second world war but was already finished at 1965. In this time, tape recorders conquered the market.<br/>Clicking on the picture will show <a href="/en/devices/schaub-lorenz-supraphon.shtm" class="go">a larger and more detailed version</a>.</p>
+			
+			<!-- start of Paragraph "Klein-Reporter W 52", translated 27.07.2008 -->
+			<p>Among others, dictating machines also used wires as sound storage media. Thus they could be built quite compactly. The width of a wire tape is only 7cm (about 1.5 inch), but it records about 100 minutes.</p>
+			
+			<p><img src="/shared/photos/kommunikationstechnik/klein-reporter,spulen.jpg" width="272" height="204" alt="Photography of the Klein-Reporter (backside)" style="float:left;"/>
+		<img src="/shared/photos/kommunikationstechnik/klein-reporter.jpg" width="194" height="204" alt="Photography of the Klein-Reporter W 52 by REICHHALTER" style="float:right;"/></p>
+		     <div class="clear"></div>
+		
+			<p>The <b>Klein-Reporter W 52</b> (translated literally "small reporter"), was made by the german firm REICHHALTER, year of manufacture 1952. On the record which is pictured in the photography one can listen to an original reading about the allied powers in Germany after the World War II. This record is at least 55 years old! Apparently the magnetization of the wire is still very good. </p>
+		
+			<!-- end of Paragraph "Klein reporter ..." -->
         </div>
     </div>
 

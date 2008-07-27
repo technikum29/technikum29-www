@@ -16,6 +16,17 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="extra" class="content">
 
+<!--
+    27.07.2008: The content of this page is merged into fax.shtm
+                (kind of merged -- exactly it is replaced by new text and
+                 a new image ;-) )
+    $Id$
+-->
+    <!--#set var="forwarding_page" value="/en/communication/fax.shtm#olympia" -->
+    <!--#set var="forwarding_title" value="Fax engineering &ndash; Olympia Flexowriter" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template -->
+
 <div class="box center">
   <img src="/shared/photos/kommunikationstechnik/olympia_schreibautomat.jpg" width="443" height="264" alt="Olympia flexowriter" />
   <div class="bildtext-bildbreite" style="width: 443px">

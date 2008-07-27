@@ -9,20 +9,22 @@
    --><!--#set var="prev_title"   value="Television"
    --><!--#set var="next"         value="measurement.shtm"
    --><!--#set var="next_title"   value="Measurement technology"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />
-    <meta name="keywords" lang="en" content="technikum, fax engineering, writing engineering, telegraphy" />
+    <meta name="keywords" lang="en" content="technikum, fax engineering, writing engineering, telegraphy, hellfax, hellschreiber, olympia, flexowriter" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="03.2008/v5.7.19" />
-    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
-    <meta name="t29.comment" content="Neuer Beginn (ausschnitt), KF106, KF108, Hellfax, Telegraf neu/geaendert" />
+    <meta name="t29.SVN" content="$Id" />
+    <meta name="t29.germanoriginal" content="22.07.2008/v5.7.23" />
+    <meta name="t29.thistranslation" content="27.07.2008/v5.7.23" />
+    <meta name="t29.comment" content="new: Hellschreiber GL, Olympia flexowriter, and some text about teletypes" />
     <!--changelog: 26.04.2006/v5.5.1 auf Basis de:13.04.2006/v5.5.1 -->
     <!--changelog: 24.08.2007/v5.7.5 -->
     <!--changelog: 15.09.2007/v5.7.8 based on 16.07.2007/v5.7.1: ein wort (astonished) -->
     <!--changelog: 27.11.2007/v5.7.12 based on 04.11.2007/v5.7.11: Telegrafentext geaendert -->
+    <!--changelog: 21.03.2008/v5.7.20 based on 03.2008/v5.7.19: Neuer Beginn (ausschnitt), KF106, KF108, Hellfax, Telegraf neu/geaendert -->
     <script type="text/javascript">
     <!--
         // small "quick & dirty" script to "open the box". See the same at /de/kommunikationstechnik/faxtechnik
@@ -44,11 +46,10 @@
 
 	}
 
-        function switchGeraet(name) {
-            document.getElementById(name+"-zu").style.display = "none";
-            document.getElementById(name+"-offen").style.display = name=="telegraf"?"block":"inline";
-        }
-    // -->
+    function switchGeraet(name) {
+        document.getElementById(name+"-zu").style.display = "none";
+        document.getElementById(name+"-offen").style.display = name=="telegraf"?"block":"inline";
+    }
     // -->
     </script>
 </head>
@@ -104,13 +105,13 @@
 
      <div class="box center">
           <img src="/shared/photos/kommunikationstechnik/morsetelegraph-um1900.jpg" width="439" height="249" alt="Morsetelegraph um 1900" />
-          <p class="bildtext">This telegraph station was built in the time about 1900. More than 100 years ago, no one cared about time
+          <p class="bildtext-bildbreite" style="width:439px;">This telegraph station was built in the time about 1900. More than 100 years ago, no one cared about time
             thus communication was quite unhurried.</p>
       </div>
 
      <div class="box center">
           <img src="/shared/photos/kommunikationstechnik/morseempfaenger.jpg" width="439" height="254" alt="Morse reciever" />
-          <p class="bildtext">This picture shows the edgewise view from the morse reciever. The apparature is connected to a paper tape morse transmitter from the 60s.</p>
+          <p class="bildtext-bildbreite" style="width:439px;">This picture shows the edgewise view from the morse reciever. The apparature is connected to a paper tape morse transmitter from the 60s.</p>
      </div>
 
       <p>It is quite incredible: Fax machines were already mass-produced in 1929. However, it
@@ -161,6 +162,54 @@
             The <b>Hellfax-Blattschreiber BS 100</b> shows how exhausting it was to send DIN A2 fax drawings in the 1960s. This device was used to recive weather cards with radio communication. You can also see an <a class="go" name="backlink-hellfax" href="/en/devices/hellfax-functionality.shtm">Hellfax functional diagram</a>.
          </p>
      </div>
+     
+    <!--
+     next Paragraph/box: In Deutsch "ohne Worte". Heribert schreibt
+                         Text fuer englische Version in Mail am
+                         26. Juli 2008:
+                         
+    Links: Hellschreiber GL 72 (ca. Bj. 1952). Jede Taste erzeugt eine
+    bestimmte Tonsequenz. Mit diesen Geräten konnte man daher im
+    Gegensatz zu den Fernschreibern im Telefonnetz kommunizieren.
+    
+    Rechts: Diktiergerät mit Magnetplatten (Bj. 1952), welches auch die
+    Informationen des Hellschreibers aufzeichnen konnte. Damit wurde es
+    schließlich möglich Text auf einer Magnetplatte abzuspeichern und
+    beliebig oft durch den Hellschreiber "ausdrucken" zu lassen.
+    
+     Auf Basis dieses Textes nun meine englische Übersetzung:
+    -->
+    <div class="box center">
+		<img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
+		<p class="bildtext-bildbreite" style="width:629px;">
+            The <b>Hellschreiber GL 72</b>, year of manufacture 1952
+            (in the picture on the left). An unique sequence of frequencies
+            is assigned to each key. Thus the device could make use of the
+            telephone network, like the later modems did to build up the
+            internet. This feature distinguishes it from the ordinary
+            teletypes.
+        </p>
+    </div>
+    
+    <!-- paragraph between Hellschreiber and teletype:
+         translated 27. July 2008 from de -->
+    <p>Nevertheless the clatting teletypes coined high speed
+       telecommunication for decades. The first teletype was presented
+       in 1930 by Siemens &amp; Halske &ndash; only three years later,
+       the German Post used them for communication all over Germany.
+       The first official connection was build between the capital of
+       Germany, Berlin, and the Hanseatic City of Hamburg. Unlike the
+       Hellschreiber, the teletype did not use the already existing
+       telephone network, so they had to build up a seperate telex
+       network.
+       <br/>
+       At first there were only 21 subscribers in 1933, but only six
+       years later, they counted 1500 subscribers in 1939. In 1975
+       there were actually more than 90,000 subscribers. In these
+       days, the mechanically working teletypes were replaced by
+       electronically driven devices (Telex). Even nowadays, in
+       times of the internet, a few developing countries use this
+       disaster safe kind of communication.</p>
 
      <div class="box center">
          <img src="/shared/photos/kommunikationstechnik/fernschreiber.jpg" width="520" height="536" alt="Teletypewriter" />
@@ -171,10 +220,29 @@
             Of course this apperature is still fully executable.
          </p>
      </div>
-
+    
+    <!-- This paragraph was replaced on 27. july 08 in favour of... -->
+     <!--
      <p>Long time before, telegraph offices (about 1900), the early teleprinters (1938) and Hellschreiber (1952) were used. A demonstration shows something unbelievable: The Hellschreiber writes a dictate from a dictating machine from the early fifties without mistakes!?<br/>
      <br/>The electomechanical "text processing systems" (1962-64) show you how texts could be duplicated and written automatically with punched tapes and punch cards as storages. Only big companies could afford the complex technology which was typically german. See the <a class="go" href="/en/devices/olympia-flexowriter.shtm" title="Olympia Schreibautomat" name="backlink-olympia">Olympia flexowriter</a>.</p>
-
+     -->
+     <!-- ...this paragraph: -->
+	 <div class="box center">
+		<img src="/shared/photos/kommunikationstechnik/olympia-schreibautomat.jpg" width="629" height="242" alt="Olympia Flexowriter" />
+		<div class="bildtext-bildbreite" style="width:629px;">
+            <p>As a kind of spin-off products of the teletype
+               development, the electromechanical "wordprocessing systems"
+               (1962&ndash;-&ndash;1964) were invented. They were capable
+               of duplicating and writing texts automatically, using
+               paper tapes and punch cards as storage media.
+               <br/>The technology of these devices was quite complex
+               &ndash; at that time only big companies could afford these
+               typically German devices.
+               <br/>The picture above shows the <b>Olympia flexowriter</b>
+               with two paaper tape readers and one paper tape puncher,
+               year of manufacture 1962.</p>
+        </div>
+    </div><!-- end of image box -->
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

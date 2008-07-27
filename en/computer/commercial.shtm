@@ -15,11 +15,13 @@
     <meta name="keywords" content="" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="17.07.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="22.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Mit v5.7.5 neueingeführt, Initialübersetzung von de" />
     <!--t29: v5.7.5: komplett B.Ulmann-Übersetzung -->
-    <!--t29: v5.7.später: Sync (NCR-Rechner-Bild Dimensionen geaendert, Heribert) -->
+    <!--t29: v5.7.später: Sync (NCR-Rechner-Bild Dimensionen geaendert, Heribert; Link zu Extraseite) -->
+    
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -38,8 +40,10 @@
     </div>
     
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="NCR 446 Rechner" width="670" height="433" />
-        <p class="bildtext">Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.</p>
+        <a href="/en/devices/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="Photography of the NCR 446" width="670" height="433" /></a>
+        <div class="bildtext-bildbreite" style="width: 670px;">
+            <p>Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.
+            <br/>Clicking on the picture yields a <href="/en/devices/ncr446.shtm">more detailed picture</a></p>
         <!-- das war B.Ulmann. Meine Übersetzung (alt):
         <img src="/shared/photos/start/ncr_rechner.jpg" alt="NCR-Rechner" style="margin-right: 25px" />
         <div class="bildtext">As an alternative to the desktop calculators, small installations

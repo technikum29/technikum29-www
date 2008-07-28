@@ -28,10 +28,11 @@
 
     <div class="box left">
         <img src="/shared/photos/rechnertechnik/gamma-10-drucker.jpg" alt="Printer from the BULL GAMMA 10 EDP" width="237" height="256" class="nomargin-bottom" />
-        <p class="bildtext">
-            This is the printer from our <a href="/en/computer/tabulating-machine.shtm#bull10">BULL GAMMA 10</a>, but
-            unfortunately it is incomplete: The small case with the auxillary electronics is missing. Therefore we are looking for a complete printer or a part from another GAMMA 10 setup.
-		</p>
+        <div class="bildtext">
+            <h3>BULL GAMMA 10 Printer</h3>
+            <p>This is the printer from our <a href="/en/computer/tabulating-machine.shtm#bull10">BULL GAMMA 10</a>, but
+            unfortunately it is incomplete: The small case with the auxillary electronics is missing. Therefore we are looking for a complete printer or a part from another GAMMA 10 setup.</p>
+		</div>
 		<div class="clear"></div>
     </div>
 
@@ -40,7 +41,7 @@
     <p>We are always looking for:</p>
     <ul>
         <li>An old <b>PET 2001</b> from Commodore (even if they are scrap)</li>
-        <li>A manual for the <a href="/en/computer/commercial.shtm#backlink-ncr">NCR 446</a> (or at least a copy)</li>
+        <li>A manual for the <a href="/en/computer/commercial.shtm#ncr-backlink">NCR 446</a> (or at least a copy)</li>
         <li>Any kind of tube calculators</li>
         <li>Very old plotter</li>
         <li>Any kind of telegraph technology</li>

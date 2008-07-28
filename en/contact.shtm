@@ -17,6 +17,7 @@
     <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="technikum29 impressum, contact, copyright" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="26.05.2007/v5.6.13" />
     <meta name="t29.thistranslation" content="27.05.2007/v5.6.13" />
     <!-- changelog: 19.04.06/v5.5BETA von de: 2005/v5.5.1 -->
@@ -35,10 +36,13 @@
        <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
     </address>
 
+    <!-- contact mask form: Not wanted, until now. -->
+    <!--
     <h3>Contact us now</h3>
     <p>If desired you can contact us also by using the following input mask:</p>
-    <!--#set var="lang" value="en" -->
-    <!--#include virtual="/etc/contact/formular.inc.shtm" -->
+    -#set var="lang" value="en" -
+    -#include virtual="/etc/contact/formular.inc.shtm" -
+    -->
 
 </div>
 

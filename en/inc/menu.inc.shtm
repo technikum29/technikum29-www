@@ -1,7 +1,18 @@
-<!-- SVN development special -->
+<!--
+ | Begin of menu.inc file, VERSION 5.7.23
+ | $Id$
+ +-->
+
+<!--
+  SVN development special:
+  Added in Revision 5 ("SVN Web2.0 Corner Badge"),
+  removed in Revision 13 (SVN now published officially)
+-->
+<!--
 <a href="http://dev.technikum29.de/websvn/filedetails.php?repname=technikum29-www&path=%2FREADME.SVN.txt&rev=0&sc=0"
  style="display: block; width:120px; height:119px; background: url(/en/dev/SVN-badge.png) bottom right no-repeat; right: 0; bottom: 0; position: fixed; text-indent: -999em;text-decoration: none; z-index:12;"
  >This is the SVN Testing Reposity</a>
+-->
 
 <hr class="hidden" />
 <h2 class="hidden">Navigation</h2>
@@ -63,6 +74,6 @@
 </div><!-- class=$location -->
 
 <div id="copyright">
-    &copy; 2003-2007 technikum29. You must not use contents and photographies without the permission of the owner.
+    &copy; 2003-2008 technikum29. You must not use contents and photographies without the permission of the owner.
     <a class="go" href="/en/contact.shtm">Legal Information</a>.
 </div>

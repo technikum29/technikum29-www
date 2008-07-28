@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="/shared/css/fresh.css" media="screen,projection" title="technikum29 fresh" />
     <link rel="stylesheet" type="text/css" href="/shared/css/common.css" />
     <!-- Während Entwicklung -->
-           <link rel="stylesheet" type="text/css" href="/en/dev/progress-design.css" />
+    <!--   <link rel="stylesheet" type="text/css" href="/en/dev/progress-design.css" />-->
     <!-- /Während Entwicklung -->
     <!--[if lt IE 7]><link rel="stylesheet" href="/shared/css/fresh-iefixing.css" title="technikum29 fresh" /><![endif]-->
     <!--[if lte IE 5.5999]><script language="JavaScript" src="/shared/js/ie5.js"></script><![endif]-->

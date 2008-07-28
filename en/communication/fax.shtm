@@ -159,7 +159,7 @@
          <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="The Hellfax-Blatschreiber BS 100, with closed lid" onClick="switchGeraet('hellfax');" id="hellfax-zu" />
          <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geoeffnet.jpg" alt="The Hellfax-Blattschreiber BS 110 with opened lid" id="hellfax-offen" />
          <p class="bildtext">
-            The <b>Hellfax-Blattschreiber BS 100</b> shows how exhausting it was to send DIN A2 fax drawings in the 1960s. This device was used to recive weather cards with radio communication. You can also see an <a class="go" name="backlink-hellfax" href="/en/devices/hellfax-functionality.shtm">Hellfax functional diagram</a>.
+            The <b>Hellfax-Blattschreiber BS 100</b> shows how exhausting it was to send DIN A2 fax drawings in the 1960s. This device was used to recive weather cards with radio communication. You can also see an <a class="go" name="backlink-hellfax" href="/en/devices/hellfax-functionality.shtm">Hellfax functional diagram</a>. Click on the picture to open the front lid.
          </p>
      </div>
      
@@ -180,11 +180,11 @@
      Auf Basis dieses Textes nun meine englische Übersetzung:
     -->
     <div class="box center">
-		<img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
-		<p class="bildtext-bildbreite" style="width:629px;">
+        <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
+        <p class="bildtext-bildbreite" style="width:629px;">
             The <b>Hellschreiber GL 72</b>, year of manufacture 1952
-            (in the picture on the left). An unique sequence of frequencies
-            is assigned to each key. Thus the device could make use of the
+            (in the picture on the left). This device assignes an unique
+            sequence of frequencies to each key. Thus the device could make use of the
             telephone network, like the later modems did to build up the
             internet. This feature distinguishes it from the ordinary
             teletypes.
@@ -197,8 +197,8 @@
        telecommunication for decades. The first teletype was presented
        in 1930 by Siemens &amp; Halske &ndash; only three years later,
        the German Post used them for communication all over Germany.
-       The first official connection was build between the capital of
-       Germany, Berlin, and the Hanseatic City of Hamburg. Unlike the
+       The first official connection in Germany was build between the capital, Berlin,
+       and the Hanseatic City of Hamburg. Unlike the
        Hellschreiber, the teletype did not use the already existing
        telephone network, so they had to build up a seperate telex
        network.
@@ -232,7 +232,7 @@
 		<div class="bildtext-bildbreite" style="width:629px;">
             <p>As a kind of spin-off products of the teletype
                development, the electromechanical "wordprocessing systems"
-               (1962&ndash;-&ndash;1964) were invented. They were capable
+               (1962 &ndash; 1964) were invented. They were capable
                of duplicating and writing texts automatically, using
                paper tapes and punch cards as storage media.
                <br/>The technology of these devices was quite complex

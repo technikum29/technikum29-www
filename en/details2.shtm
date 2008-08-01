@@ -9,10 +9,12 @@
     <link rel="stylesheet" type="text/css" href="/shared/css/details.css" />
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="09.08.2006/v5.5.6" />
     <meta name="t29.thistranslation" content="09.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Nur Strukuränderungen" />
     <!--changes: 09.08.06: typo -->
+    <!--cbanges: 01.08.08: backlink typo -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -113,7 +115,7 @@
 </table>
 
 <ul id="nav">
-    <li><a href="/en/computer/earty-computer.shtm">Early computers </a></li>
+    <li><a href="/en/computer/early-computers.shtm">Scientifical calculators and mini computers</a></li>
     <li><a href="/en/">technikum29 homepage</a></li>
 </ul>
 

@@ -8,9 +8,11 @@
     <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="28.08.2007/v5.7.5" />
-    <meta name="t29.comment" content="Neu eingeführt, eigene Initialübersetzung" />
+    <meta name="t29.thistranslation" content="01.08.2008/v5.8.0" />
+    <meta name="t29.comment" content="backlink typo" />
+    <!--changelog: 28.08.2007/v5.7.5 based on 08.2007/v5.7FINAL: Neu eingeführt, eigene Initialübersetzung -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -32,7 +34,7 @@
          understand, why this projection TV had to be set in a totally shaded room.</p>
        </p>
        <ul id="nav">
-           <li><a href="/en/comunication/television.shtm#backlink-telerama">Television</a></li>
+           <li><a href="/en/communication/television.shtm#backlink-telerama">Television: Saba Telerama</a></li>
           <li><a href="/en/">technikum29 homepage</a></li>
        </ul>
   </div>

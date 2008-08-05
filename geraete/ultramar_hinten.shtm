@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Körting Ultramar"
+   --><!--#set var="url_en"       value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="hidden"><!--#echo var="title" --></h2>
+
+<div class="box left">
+    <img src="/shared/photos/kommunikationstechnik/ultramar_hinten.jpg" alt="Der Ultramar von hinten" width="516" height="476" />
+    <div class="bildtext"> <!-- style="margin: 0 10px 10px 524px; padding: 10px;">-->
+        <h2>11 R&ouml;hren-Luxus-Gro&szlig;super</h2>
+        <p>Einiges zur Technik: 100fache Empfindlichkeit eines Einkreisers, 9 Kreise, Alloptik-Skala mit Lichtprojektion, Empfindlichkeits- , Feldst&auml;rke- und Bandbreitenanzeige. Ein solcher technischer Luxus war bisher unbekannt. Daher bezeichnete man das Ger&auml;t auch als "&Uuml;bersuper". Im Bild rechts unten sind zwei R&ouml;hren RE 604 (Gegentaktendstufe), oben zwei Gleichrichterr&ouml;hren RGN 1064 zu sehen. Die restlichen R&ouml;hren sind aus der A-Serie.
+        <br />Die Leistungsaufnahme war mit 145 Watt beachtlich, genau wie der Verkaufspreis: Ein Ultramar kostete stolze 640 RM (Reichsmark).</p>
+        <!--<hr noshade="noshade">-->
+        <ul id="nav">
+            <li><a href="/de/kommunikationstechnik/rundfunk.shtm#backlink-ultramar">Rundfunk</a></li>
+            <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+        </ul>
+    </div>
+</div>
+</table>
+</body></html>

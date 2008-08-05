@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Impressum"
+   --><!--#set var="location"     value="impressum"
+   --><!--#set var="url_en"       value="contact.shtm"
+   --><!--#set var="prev"         value="suche.shtm"
+   --><!--#set var="prev_title"   value="Das Museum sucht..."
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   -->
+     <title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--<link rel="stylesheet" type="text/css" href="../shared/css/kontakt.css" media="all" title="technikum29" /> erweiterungscss -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Technikum29, Impressum, Kontakt, E-Mail" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="Impressum, Kontakt, Copyright der Technikum29-Webpr&auml;senz" />
+    <meta name="t29.thisversion" content="26.05.2007 24:00/v5.6.13" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <address>
+       Dipl. Phys. H. M&uuml;ller
+       <br />Am Flachsland 29
+       <br />65779 Kelkheim/Taunus
+       <br />Telefon: 06195/2170
+       <br />E-Mail: <a href="mailto:post@technikum29.de">Post@technikum29.de</a>
+       <br />Internet: <a href="http://www.technikum29.de">www.technikum29.de</a>
+    </address>
+
+     <p>Wir sind Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a> (Frankfurt).</p>
+	 
+	
+     <p>Zur <a href="http://maps.google.de/maps?f=q&hl=de&q=Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr" class="go">Wegbeschreibung bei Google Maps</a>
+    </p>
+
+
+	
+	
+</div><!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

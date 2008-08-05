@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Didaktische Konzeption, Informationen für Lehrer"
+   --><!--#set var="location"     value="lehrerinfo"
+   --><!--#set var="url_en"       value="no-translation.shtm?how=no&amp;backurl=lehrerinfo&amp;backtitle=Lehrerinfo"
+   --><!--#set var="prev"         value="index.shtml"
+   --><!--#set var="prev_title"   value="Startseite"
+   --><!--#set var="next"         value="kommunikationstechnik/rundfunk.shtm"
+   --><!--#set var="next_title"   value="Rundfunk"
+   -->
+
+    <title>technikum29 - <!--#echo var="title" --></title>
+
+	<!--#include virtual="/de/inc/head.inc.shtm" -->
+    <style type="text/css">
+    <!--
+        /* ehemalig in extra.css als .highlight { } */
+        em {
+            color: #000E8C;
+            font-style: italic;
+        }
+		
+		ol { text-align: justify; }
+		ol li { margin-top: 1em; }
+    -->
+    </style>
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7.18" />
+	<meta name="t29.date" content="18.02.2008 22:17" />
+	<meta name="t29.comment" content="Viel neuer Inhalt, Erhebung zur 'völligen' Inhaltsseite" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<!--<div id="extra" class="content">-->
+<div id="content">
+<h2><!--#echo var="title" --></h2>
+
+
+
+<p>Wir bieten zwei Arten von Führungen an:</p>
+
+<ul>
+	<li><p>
+		Für "normale" Besucher in gemischten Gruppen gibt es ca. 3 Themenbereiche, wobei mindestens eins davon durch eine Präsentation unterstützt wird.
+		<br/>Besucher von Firmengruppen sollten ihre Schwerpunkte selbst wählen. Auch wenn wir zu ca. 5 Themenbereichen einiges zu sagen und zeigen haben, muss man sich beschränken. 
+    </p></li>
+	<li><!-- Monsterlistenelement start -->
+		
+		Für Schülergruppen wird eine pädagogisch abgewogene Spezialführung in 3 Modulen angeboten, wobei Schüler fortwährend mit einbezogen werden. 
+
+<p style="text-align:left;">
+	<b>Modul 1:</b> Präsentation (2 Themen) inklusive Schüler-Referate
+	<br><b>Modul 2:</b> Besichtigen von funktionsfähigen Exponaten zu diesen Themen
+	<br><b>Modul 3:</b> Rallye "technikum29" . Hier werden Schüler in Gruppen aktiv, arbeiten an  historischen Geräten, lösen Rätsel und knacken knifflige Spiele aus dem Bereich unserer Themen.
+</p>
+	
+<p>Die Erfahrung zeigt, dass viele Gruppen einen zweiten Besuch wünschen. Daher kann man einen Besuch mit Themen aus der Kommunikationstechnik füllen und den zweiten Besuch mit dem Thema Rechner- und Computertechnik wählen. Man sollte jeweils ca. 2 Zeitstunden einplanen, damit auch eine kurze Besprechung der Rallye-Ergebnisse möglich ist und die "Siegergruppe" einen Preis erhält.</p>
+
+<p>Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren (im besten Fall zu begeistern). Dies ist anhand "begreifbarer" historischer Technik als Einstieg möglich. Insbesondere im Bereich Computer ist eine Anbindung von neuer an alte Technik machbar und führt schnell auf sehr interessante aber auch komplexe Themen.</p>
+
+
+<div class="desc-right">
+    <img src="/shared/photos/start/praesentationsecke-gross.jpg" alt="Präsentationsmöglichkeiten im technikum29" width="360" height="268" />
+    <p style="width:360px;">
+        Optimale Präsentationsmöglichkeit im technikum29 durch eine fest installierte Computer-Beamer Anlage.
+    </p>
+</div>
+
+<p>Prinzipiell ist der Besuch für Klassen bzw. Oberstufenkurse gut geeignet. Man sollte aber einen solchen Besuch aber nicht als "Wandertag" o.ä. deklarieren. Es ist vielmehr eine Exkursion, eine Fortführung von "Unterricht" mit anderen Inhalten an einem anderen Ort. Auf gar keinen Fall ist eine solche Exkursion ein Ersatz für ein Kino- oder Schwimmbadbesuch!!</p>
+
+<p>Nicht geeignet ist eine solche Exkursion für 6. bis 8. Klassen. Schüler dieser Altersstufe haben i.A. ganz andere Interessen. Fünftklässler wären sicher interessiert, würden aber von der teils komplexen Materie zu wenig Nutzen haben. Also bleiben 9. und 10. Klassen, sowie insbesondere Oberstufenkurse.<br/>
+Das zweite Problem ist die Gruppengröße. Selbst in großen öffentlich geführten Museen sind Gruppen von mehr als 20 Personen problematisch. Das gilt natürlich erst recht hier. Ein Besuch von größeren Gruppen lässt sich nur als Ausnahme nach Rücksprache verwirklichen. </p>
+
+<p>Der Besuch des <strong>technikum29</strong> muss vorbereitet werden. Sinnvollerweise sollte man 2 oder 3 Schwerpunkte setzen, da sonst der Umfang zu groß ist und eine Überforderung eintritt. 
+Die Schüler sollen durch eigene Referate vor Ort einbezogen werden. Verteilen Sie aber bitte die Referate nach Interesse und dem Vermögen, spannend zu referieren und nicht als saure Pflichterfüllung zur Aufbesserung der Note.<br />
+Materialien hierzu werden u.a. auf dem eigenen Server zur Verfügung gestellt. Sie können diese mit Hilfe eines Passwortes abrufen. Das Passwort erhalten Sie nach Rücksprache.</p>
+
+
+<!--<div class="box bordered" style="width:75%;margin-left:auto;margin-right:auto;">-->
+
+<p>Themenschwerpunkte mit folgenden Inhalten wären denkbar.</p>
+
+<ol>
+<li>Wie funktioniert die Pneumatik eines selbstspielenden Klaviers? Ein hochinteressantes Referat zu pneumatischen Verstärkern. Eine komplexe Funktion, die dennoch nachvollziehbar ist. Hochaufgelöste Graphiken werden für Referate zur Verfügung gestellt. Am Ende steht das Spiel dieses 90 Jahre alten Wunderwerkes.</li>
+
+<li>Entwicklung von Rundfunk und Fernsehen. Die allerersten Anfänge der Bildübertragung mit der Nipkowscheibe beinhalten viel interessante Physik. Bilder und Texte stehen auf unserem Server bereit. Referatthema: Nipkow´s elektromechanisches Fernsehen, Entstehen von Farbbildern.
+Für Computerspezies: Wie kann man ein aktuelles Fernsehbild auf einem Nipkowgerät "abspielen"?</li>
+
+<li>Entwicklung der Telegraphie, Bildtelegraphie, Fax- und Schreibtechnik.   Entwicklung der Faximiletechnik. Die Ära der Fernschreib- und Telextechnik, Geschichte des Telex, wo und warum gibt es heute noch Telex?</li>
+
+<li>Entwicklungsgeschichte mechanischer Rechner (Exkurs in die tiefe Vergangenheit: Zahlensysteme und frühe Rechenhilfen, erste industriell gefertigte Rechenmaschinen, die Superidee der Differenzenmaschine, Rechenautomaten).</li>
+
+<li>Die ersten elektronischen Rechner (Beispiele anhand von "Tisch"-Rechnern: der erste programmierbare Rechner, Die allerersten IC-Rechner. Referatvorschlag: Welche Speichermedien gibt es ? Wie funktionieren sie ?).</li>
+
+<li>Mit neuester Computertechnik alte Programme analysieren (hier auf Lochstreifen). Interface und Programme zum Lesen historischer Daten (nur für Profis).</li>
+
+<li>Die Ära der Lochkarten-EDV. Was ist eine Lochkarte, wie wurden sie eingesetzt?</li>
+
+<li>Die Zeit der digitalen "Rechenmoster" (z.B. anhand von sog. "Klein" -rechnern in der Größe von Schränken). Referatvorschlag: Die Entwicklung der Programmiersprachen, Maschinensprache, Assembler- und Quellprogramme, von Neumann-Rechnerarchitektur usw. </li>
+
+<li>Was ist ein "Rechenzentrum" ? Vorführen der UNIVAC Anlage, lassen Sie sich z.B. von diesem einzigartigen Großrechner Ihren aktuellen Biorhythmus berechnen.</li>
+
+<li>Ein sehr spezielles aber schönes Thema: Analogrechner (kurze einfachste Grundzüge insbesondere für LK Physik interessant, schöne Programme können gezeigt werden) Referatvorschlag: Wie kann man mit Hilfe von Widerständen und Kondensatoren "differenzieren" und "integrieren" ?</li><br><br>
+
+</ol>
+<div class="desc-right">
+    <img src="/shared/photos/start/dezi-exp.jpg" alt="Schülerexperiment im Modul 3" width="340" height="254" />
+    <p style="width:340px;">
+        Eines der vielen Schüler-Experimente: Elektromechanischer Dezimalzähler/Speicher. Wie funktioniert er? Hier kann man noch eine Menge elementare Physik lernen.</p></div>
+<p>Sie sehen, es gibt eine Unzahl von Möglichkeiten und es ist unmöglich alles zu behandeln bzw. zu besichtigen. Ca. 2 Schwerpunkte genügen, von den anderen gibt es eine kleine Auswahl der Highlights. Vergeben Sie ca. 2 Referate, der Rest wird per Führung übernommen. Art und Inhalt der Führung wird selbstverständlich den Vorkenntnissen des Publikums angepasst. Das Ganze soll vor allem auch Spaß machen!</p>
+
+
+	
+
+<!-- Monsterlistenelement Ende --></li>
+</ul>
+
+</div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

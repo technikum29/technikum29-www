@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Tabelliermaschine"
+   --><!--#set var="location"     value="tabelliermaschine"
+   --><!--#set var="part"         value="rechnertechnik"
+   --><!--#set var="url_en"       value="computer/tabulating-machine.shtm"
+   --><!--#set var="prev"         value="elektro-mechanik.shtm"
+   --><!--#set var="prev_title"   value="(Elektro-) Mechanische Rechenmaschinen"
+   --><!--#set var="next"         value="lochkarten-edv.shtm"
+   --><!--#set var="next_title"   value="Lochkartengeräte"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" content="Tabelliermaschine, Lochkarten-EDV, ..." />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7.21" />
+    <meta name="t29.this.date" content="03.04.2008" />
+    <meta name="t29.this.comment" content="BULL GAMMA 3 neu" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>
+       Als in den fünfziger Jahren in mittleren und großen Betrieben langsam die elektronische Datenverarbeitung (EDV) auf breiter Ebene einsetzte, stand die Tabelliermaschine im Mittelpunkt.
+       Diese Maschinen wurden als wahre technische Wunderwerke bezeichnet. Spätestens ein Blick ins Innere einer solchen Maschine lässt erahnen, welche Ingenieurleistung hier vollbracht wurde. Eine Technik, die uns heute fremd ist und die wie aus einer anderen Welt erscheint.
+    </p>
+    <p>Die hier abgebildete Tabelliermaschine BULL BS-PR wurde im Oktober 1956 gebaut. Der Kaufpreis betrug damals ca. 260.000,- DM  (130.000. Euro), eine horrende Summe, wenn man bedenkt, dass 1956 ein durchschnittliches KFZ für ca. 3000,- DM zu haben war. Dennoch kamen große und mittlere Betriebe nicht umhin Lochkartenmaschinen anzuschaffen um rationell arbeiten zu können.</p>
+    <p>Hochwertige Tabelliermaschinen konnten durch das Auswechseln einer Schalttafel sehr unterschiedliche kombinierte Schreib- und Rechenarbeiten ausführen. Durch geschicktes Programmieren an der Schalttafel (Kabel stöpseln) waren in Grenzen auch wissenschaftliche Rechnungen ausführbar.
+      „Gefüttert“ wurde die Maschine immer mit Lochkarten. Daher waren zur Umstellung auf Lochkarten-EDV weitere Geräte notwendig, die unser Museum ebenfalls funktionsfähig aufweisen kann.<p>
+      An dieser Stelle möchten wir uns ganz herzlich beim F.E.B. (Federation des Equipes Bull) Deutschland e.V. (www.feb-d.de) für die Mithilfe bei der Reparatur der Tabelliermaschine bedanken.</p>
+    </p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/bull-tabelliermaschine.jpg" alt="Bull Tabelliermaschine" width="620" height="492" />  
+        <p class="bildtext"><b>Tabelliermaschine Bull BS-PR</b>. Von außen ein unscheinbarer Blechkasten aber von innen ein Meisterwerk an elektromechanischer Technik. Ganz links befindet sich die auswechselbare Schalttafel, welche zur Demonstration offen und damit zugänglich ist. Hier ist nur ein sehr einfaches Rechenprogramm gesteckt.</br> Multiplikationen und Divisionen benötigen ein Mehrfaches an Zeit als einfache Saldierungen. Um diese Zeit drastisch zu verkürzen, konnte man den "Elektronenrechner" BULL GAMMA 3 anschließen, der im Hintergrund zu sehen ist. </p>
+    
+</div>
+    
+     
+        
+      
+
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg" alt="Teilansicht der Relais der geöffneten Bull-Tabelliermaschine" width="312" height="416" />
+        <p class="bildtext">
+          Etwa 1500 Relais wurden verwendet, um die programmierbare Steuerung der Maschine durchzuführen und Zwischenwerte zu speichern. <br>
+		  Oben sind 3 der 10 Rechenwerke zu sehen, die alle parallel arbeiten. Sie werden durch den großen Hauptmotor angetrieben, bei jeder Umdrehung bewegen sich ca. 300 Kontakte und ca. ebenso viele Schleifkontakte. Trotz des hohen Alters rechnet nur ein Rechenwerk dieser Maschine falsch. Das kann man jedoch durch eine entsprechende Programmierung leicht umgehen.</br>
+        </p>
+		<div class="clear"></div>
+     </div>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/offen1.jpg" alt="Vorderansicht der geöffneten Bull-Tabelliermaschine" width="555" height="325" />
+        <p class="bildtext"><!--class="bildtext-bildbreite" style="width: 569px;">-->
+            Hier ist ein Teil des sehr aufwändigen Druckwerkes zu erkennen. Es wird immer eine komplette Zeile gleichzeitig geschrieben. Im Vordergrund sieht man den Lochkarteneinzug. Jede Lochkarte wird zwei Mal gelesen. Beim ersten Abfühlen wird erkannt, ob eine Steuer- bzw. Programmkarte oder eine Datenkarte vorhanden ist. Beim zweiten Auslesen (direkt darunter) wird die Information entsprechend zugeordnet. Zusätzlich kann man auch die Inhalte zweier aufeinander folgender Lochkarten vergleichen.
+         </p>
+         <div class="clear">&nbsp;</div>
+    </div>
+    
+   
+	
+	<h2>Röhrenrechner der 1. Generation: BULL GAMMA 3</h2>
+	<div class="box left">
+		<img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg" alt="BULL GAMMA 3 Geschlossen" width="156" height="210" />
+		<p class="bildtext">
+			Dieser Rechner wurde ab 1952 gebaut. Man bezeichnete damals solche Rechner auch als "elektronisches Rechengerät" (original BULL-Übersetzung im technischen Handbuch) oder "Elektronenrechner" bzw. in der damaligen Hochachtung vor solchen Leistungen auch als "Elektronengehirn".
+			<br/>Der Rechner mit einem unscheinbaren Äußerem war an Lochkartenmaschinen anschließbar, so z.B. an die Tabelliermaschine BS, den Kartendoppler PRD oder den Stanzer ULP.
+			<br/>Unsere GAMMA 3 ist voll ausgebaut und verfügt über 7 Laufzeitspeicher mit einer Kapazität von je 12 Dezimalstellen (siehe "Speichermedien") die sich in einen Rechenspeicher und 6 Zahlenspeicher aufteilen. Zur Speichererweiterung gab es noch so genannte "Speicherschränke" mit 24 Speichereinheiten für je 12 Dezimalstellen, also der Platzbedarf eines Kleiderschrankes zum Abspeichern von 24 zwölfstelligen Dezimalzahlen!!! <br/>Insgesamt ist der Rechner mit knapp 400 Elektronenröhren bestückt. Die Anpassung des schnellen Elektronenrechners an die langsame Lochkartenmaschine erfolgt durch Thyratrons. Eine Thyratronröhre arbeitet ähnlich wie ein Thyristor (Halbleiterbauelement) und kann binäre Zustände zwischenspeichern.
+		</p>
+	</div>
+	
+	<div class="box center">
+		<img src="/shared/photos/rechnertechnik/bull-gamma-3-offen.jpg" alt="BULL GAMMA 3 Innen" width="690" height="517" />
+		<p>
+			Die einzelnen Module können ausgeklappt werden, wodurch das Gerät sehr servicefreundlich ist. Zwei große Ventilatoren ziehen die durch die Heizung der Röhren bedingte Wärme aus dem Gehäuse. Links sieht man einen Teil des gigantischen Netzteils. 39 Sicherungen schützen die Stromkreise.
+	
+		<br>Beim Anschluss an unsere BULL Tabelliermaschine werden die Informationen der Lochkartenabfühlbürsten direkt in den Gamma 3 eingelesen. Es lassen sich so Programme und Daten eingeben, die vom Gamma 3 unmittelbar bearbeitet werden. Die Ausgabe der Ergebnisse wird in das Druckwerk der Tabelliermaschine zurückgeführt.</br> 
+		<br>Wir versuchen, diese Anlage in Betrieb zu nehmen, obwohl das ein schwieriges Unterfangen mit nur geringen Erfolgsaussichten ist. Die Architektur dieser Röhrenrechner der 1. Generation hat nichts mit der von Computern der letzten 30 Jahre gemeinsam. </br>
+		<br>Techniker und Ingenieure, die damit gearbeitet haben und sich in dieser völlig anderen Welt des Rechnens auskannten, sind heute schon deutlich über 70 Jahre alt und stehen daher zur "Einstiegshilfe" leider kaum zur Verfügung. </br>
+		</p>
+	
+	</div>
+	<h2>EDV-Anlage der 2. Generation: BULL GAMMA 10</h2>
+	
+	
+	<div class="box center">
+		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
+		<p class="bildtext">
+		
+		1962 brachte BULL (General Electric) den GAMMA 10 auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher war ein Kernspeicher mit wahlweise 1kB bis maximal 4 kB Kapazität. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.<br>
+		Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).<br>
+		</div>
+	<div class="box left">
+		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" width="367" height="360" />
+		<p class="bildtext">
+Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in obenstehender Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
+Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche") </br>
+</div>
+<div class="box right">
+		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" width="183" height="247" />
+		</div>
+</div><!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

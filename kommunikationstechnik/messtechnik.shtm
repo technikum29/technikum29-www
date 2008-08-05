@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Messtechnik"
+   --><!--#set var="location"     value="messtechnik"
+   --><!--#set var="part"         value="kommunikationstechnik"
+   --><!--#set var="url_en"       value="communication/measurement.shtm"
+   --><!--#set var="prev"         value="faxtechnik.shtm"
+   --><!--#set var="prev_title"   value="Telegraphie-, Fax- und Schreibtechnik"
+   --><!--#set var="next"         value="/de/rechnertechnik/elektro-mechanik.shtm"
+   --><!--#set var="next_title"   value="(Elektro-) Mechanische Rechenmaschienen"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="technikum, Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7FINAL" />
+    <meta name="t29.this.date" content="18.07.2007" />
+    <meta name="t29.this.comment" content="Universalmessgerät von Neuzugänge; allgemeine Umstrukturierung" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+      <p>F&uuml;r Profis gibt es noch viele sch&ouml;ne Messger&auml;te zu sehen. Vom aufwendigen Spiegelgalvanometer (ein Schmuckst&uuml;ck aus der Kaiserzeit) bis zum Szintillationsme&szlig;platz mit Z&auml;hlger&auml;ten verschiedener Epochen (ab 1956) zur Messung von Radioaktivit&auml;t.</p>
+
+      <div class="box left">
+            <img src="/shared/photos/start/universalmessgeraet2.jpg" alt="Fotografie des Universalmeßgerätes" width="396" height="300" class="nomargin-bottom" />
+            <p class="bildtext">
+             Hier ist ein außergewöhnlich aufwändiges, großes und schönes Universalmessgerät von Siemens &amp; Halske aus der Kaiserzeit abgebildet. Es war seinerzeit üblich, dass selbst reine Gebrauchsgeräte mit geradezu liebevollen Details angefertigt wurden. Dieses Gerät wurde bei der Reichstelegraphenverwaltung ab ca. 1905 eingesetzt.
+            </p>
+            <div class="clear">&nbsp;</div>
+      </div>
+
+      <div class="box right">
+          <img src="/shared/photos/kommunikationstechnik/galvanometer.jpg" alt="Foto eines Galvometers" width="321" height="275" class="nomargin-bottom" />
+          <p class="bildtext">Selbst ein x-beliebiges Galvanometer der 20iger Jahre ist unverkennbar liebevoll, aufwändig und sch&ouml;n gestaltet, obgleich es nur ein einfaches Gebrauchsger&auml;t ist.</p>
+          <div class="clear">&nbsp;</div>
+      </div>
+<div class="box right">
+          <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Foto eines AEG Oszilloskop" width="425" height="419" class="nomargin-bottom" />
+		  <p class="bildtext">Nach der Währungsreform blühte langsam auch wieder die Produktion der Messgeräte auf. Dieser AEG Oszilloskop wurde 1949 hergestellt. Es ist wohl ein unveränderter Nachbau von AEG aus dem Fundus der späten 30er Jahre. Verwendet wurden Stahlröhren, die 1938 auf den deutschen Markt kamen. Weder die Zeitbasis der Horizontalablenkung, noch die Amplitude der Vertikalablenkung sind geeicht. Das quantitative Messen musste mit Vergleichsgrößen praktiziert werden. Aller Anfang ist mühsam!!
+		  <div class="clear">&nbsp;</div>
+      </div>
+      <p>Neben der Messtechnik, die insbesondere den großen Bereich des Zählens abdeckt, gibt es auch Exponate, die zeigen, wie Elektronik in der Schule ab 1930 vermittelt wurde. Das untenstehende Bild zeigt oben Demo-Modelle für Röhrentechnik (ca. 1935) sowie ein Galvanometer, darunter Demo-Röhren (ca. 1939) und einen Schwingkreis (Variometer).</p>
+      <p>In der dritten Etage von oben stehen im Hintergrund Modelle für Transistorschaltungen (ca. 1965) und davor ein Experimentiersystem von Leybold aus den frühen siebziger Jahren, als die Digital-Elektronik in die Schule einzog. Die digitale Elektronik ist herrliche Verbindung zwischen Physik, Informatik und Mathematik. Leider ist auch diese Zeit schon wieder vorüber. Für Elektronik steht laut Lehrplan keine Zeit mehr zur Verfügung. Nicht ganz zu Unrecht: Die Alltagselektronik hat sich weit von der Technik der 60er und frühen 70er Jahren fort entwickelt, damit schwindet die Einsicht, hierüber noch Grundlagen zu vermitteln. </p>
+
+      <div class="box center">
+          <img src="/shared/photos/kommunikationstechnik/schulphysik.jpg" width="431" height="718" alt="Schulelektronik ab den 30ern" />
+      </div>
+
+      
+
+</div><!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Univac 9400 Rechner"
+   --><!--#set var="url_en"       value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Panorama von links" />
+    <meta name="t29.version" content="v5.7.11" />
+    <meta name="t29.date" content="04.11.2007" />
+    <meta name="t29.summary" content="Neu angelegt" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<div class="box center">
+    <img src="/shared/photos/rechnertechnik/univac/panorama-links.jpg" alt="Univac-Panorama von links" width="979" height="442" />
+</div>
+
+<ul id="nav">
+    <li><a href="/de/rechnertechnik/univac9400.shtm#backlink-link">Übersicht Univac 9400</a></li>
+    <li><a href="/de/">technikum29 Startseite</a></li>
+</ul>
+
+</div><!--content-->
+</body>
+</html>

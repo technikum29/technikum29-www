@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Tischrechner mit Elektronenr&ouml;hren"
+   --><!--#set var="location"     value="elektronenroehren"
+   --><!--#set var="part"         value="rechnertechnik"
+   --><!--#set var="url_en"       value="computer/electron-tubes.shtm"
+   --><!--#set var="prev"         value="lochkarten-edv.shtm"
+   --><!--#set var="prev_title"   value="Lochkartengeräte"
+   --><!--#set var="next"         value="transistoren.shtm"
+   --><!--#set var="next_title"   value="Rechner mit Transistoren"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="technikum, Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7FINAL" />
+    <meta name="t29.this.date" content="18.07.2007" />
+    <meta name="t29.this.comment" content="Relationen, Allgemeine Umstrukturierung, ..." />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+    <p>Mindestens genau so aufregend wie die Entwicklung der Rundfunktechnik in den 20/30er Jahren ist die Entwicklung der elektronischen Rechner seit den 50er Jahren.
+    <br/>Ein wahrer Meilenstein ist der erste elektronische Tischrechner der Welt (1962). Das durchaus neuzeitlich aussehende Monstrum beinhaltet 190 Elektronenr&ouml;hren und geh&ouml;rt daher zur ersten Rechnergeneration. Er hat eine wundersch&ouml;n leuchtende Ziffernanzeige. Da wirft man jeden flau anzeigenden LCD-Solarrechner fort! Jedoch beherrschte der R&ouml;hrenrechner nur die 4 Grundrechenarten und war im Gegenwert von einem VW-K&auml;fer inklusive Urlaubsreise zu haben.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/anita.jpg" width="408" height="302" alt="Antia C/VIII" />
+        <p class="bildtext"><b>Anita  C/VIII</b> (Hersteller: BELL PUNCH Co, England), ein Rechner der Geschichte machte. Er revolutionierte das Rechnen auf dem Schreibtisch. Multiplizieren und Dividieren war erstmals ohne Mechanik und v&ouml;llig ger&auml;uschlos m&ouml;glich. Technisch gesehen war das Ger&auml;t 1962 eigentlich schon veraltet. Der Rechner arbeitet im Zehnersystem, genau so wie eine mechanische Sprossenradmaschine. Dennoch dauerte es noch zwei Jahre, bis ein transistorisierter Tischrechner (IME 84) auf den Markt kam.
+        <br/>Weitere Bilder und Details gibt es unter <a class="go" name="backlink-anita" href="/de/geraete/anita.shtm">Details der Anita</a>.</p>
+    </div>
+
+</div> <!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik"
+   --><!--#set var="location"     value="ic-technik"
+   --><!--#set var="part"         value="rechnertechnik"
+   --><!--#set var="url_en"       value="computer/ic-technology.shtm"
+   --><!--#set var="prev"         value="programmierbare.shtm"
+   --><!--#set var="prev_title"   value="Programmierbare Rechner der 2. Generation"
+   --><!--#set var="next"         value="kommerzielle.shtm"
+   --><!--#set var="next_title"   value="Fr&uuml;he kommerzielle Rechner"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" content="Wang 700, Erste Rechner der 3. Generation mit einfacher IC-Technik" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7FINAL" />
+    <meta name="t29.this.date" content="18.07.2007" />
+    <meta name="t29.this.comment" content="Relationen, Allgemeine Umstrukturierung, ..." />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsf&auml;higer Rechner. Hier ist auch der teuerste Tischrechner der Welt aufgebaut: WANG 700 (kostete mit sehr umfangreicher Peripherie deutlich &uuml;ber 70.000,-DM bzw. 35.000 Euro).
+      <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgef&uuml;hrt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Gr&ouml;&szlig;e einer Zigarrenkiste auf den Markt.
+      <a class="go" href="/de/details1.shtm" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
+
+      <div class="box center">
+          <a href="/de/geraete/wang700.shtm" name="backlink-wang700" title="Zur Großaufnahme des WANG 700"><img src="/shared/photos/rechnertechnik/wang_700-anlage.jpg" alt="WANG 700" width="524" height="416" /></a>
+          <div class="bildtext">
+            <p>Hier ist eine einzigartige Komplettanlage <b>WANG 700</b> abgebildet. Sie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.</p>
+            <p>Links befindet sich der Rechner mit einem zweizeiligen gro&szlig;en Nixier&ouml;hren-Display, 2 kB Kernspeicher und eingebautem Kassettentape zur Programmaufzeichnung. Dieser Rechner war für Jahre der schnellste Tischrechner der Welt.
+               <a class="go" href="/de/geraete/wang700.shtm">Großaufnahme des Rechners betrachten</a>
+               <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umst&auml;ndlich. Das Plotterprogramm z.B. beinhaltet 794 (!) Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre sp&auml;ter ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 36 Schritten bew&auml;ltigen.
+            </p>
+          </div>
+      </div>
+
+      <div class="box left">
+          <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
+          <div class="bildtext">
+            <p class="h-ul">Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
+            <ul class="h-ul">
+              <li>Im Zentrum (Mitte) befindet sich der unter "Rechner der 2. Generation" beschriebene HP 9100.</li>
+              <li>Darunter ist das Nachfolgermodell HP 9810 (gleiche Logik wie HP 9100 aber mit TTL-IC´s und den allerersten sehr kleinen 3 spaltigen LED-Anzeigen.</li>
+              <li>Ganz unten das nächste Modell, der HP 9820 (Bj. 1971) mit alphanumerischer Anzeige auf 7x5 Punktmatrix-LED.</li>
+              <li>Oben befindet sich der bekannteste HP-Rechner: HP 9830, Bj. 1972 mit Lochstreifenleser, Lochstreifenstanzer und Plotter. Dies ist der erste BASIC-programmierbare Tischrechner der Welt.</li>
+            </ul>
+          </div>
+          <div class="clear">&nbsp;</div>
+      </div>
+
+</div><!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

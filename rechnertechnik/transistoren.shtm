@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Rechner mit Transistoren"
+   --><!--#set var="location"     value="transistoren"
+   --><!--#set var="part"         value="rechnertechnik"
+   --><!--#set var="url_en"       value="computer/transistors.shtm"
+   --><!--#set var="prev"         value="elektronenroehren.shtm"
+   --><!--#set var="prev_title"   value="Tischrechner mit Elektronenr&ouml;hren"
+   --><!--#set var="next"         value="programmierbare.shtm"
+   --><!--#set var="next_title"   value="Programmierbare Rechner der 2. Generation"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="technikum, transistorisierte Rechner, 2. Generation, IME 84, Wanderer Conti, Olympia, Friden" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7FINAL" />
+    <meta name="t29.this.date" content="18.07.2007" />
+    <meta name="t29.this.comment" content="Designverallgemeinerungen zu v5.7 (fertig)" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+    <p>Aufgeschreckt durch den R&ouml;hrenrechner begann nun ein st&uuml;rmischer Wettlauf der Entwicklung von transistorisierten Rechnern der 2. Generation. Wir zeigen exemplarisch zwei Stück davon.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="456" height="288" />
+        <p class="bildtext"><b>IME 84</b>, der erste Tischrechner der Welt mit Transistoren. U.a. zeichnet ihn ein gef&auml;lliges Design (1964!) aus. Dagegen wirkt das deutsche Modell von Olympia recht plump. Als Speicher wird ein <a href="speichermedien.shtm#kernspeicher">Kernspeicher</a> verwendet. Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden.</p>
+    </div>
+
+    <p>Der erste digitale Transistor-Rechner kam aus Italien (IME 84, 1964). OLYMPIA baute 1965 einen Rechner mit Gleitkomma und die Firma WANDERER brachte zeitgleich den "ersten druckenden elektronischen Universalautomaten der Welt" heraus, so der <a class="go" name="backlink-wanderer" href="/de/geraete/wanderer.shtm">Originalprospekt</a>.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/frieden130.jpg" alt="Frieden 130" width="448" height="316" />
+        <p class="bildtext">Im Jahre 1966 kam der <b>FRIDEN 130</b> auf den Markt. Es war der erste "Bildschirmrechner" der auf einer Oszilloskopröhre den Inhalt von 4 Registern anzeigt. Als Speichermedium dient ein <a href="speichermedien.shtm#laufzeitspeicher">Laufzeitspeicher</a>. <br/>Das Aussehen erinnert an die Zeit der damaligen Fernsehsendung "Raumschiff Enterprise"... Er hat etwas Futuristisches.<br/> Unter der Bezeichnung FRIDEN 132 wurde er als Rechner mit Wurzelprogramm verkauft. Mit den 4 Grundrechenarten kostete er ca. 5000,- DM, mit der Wurzeloption war er ca. 1700 DM teurer.</p>
+    </div>
+
+    <p>Doch all diese Rechner, wie viele andere, beherrschten nur die 4 Grundrechenarten. Einige konnten immerhin schon die Wurzel ziehen. Als Speichermedium diente meist ein Kernspeicher.</p>
+
+     <p>Weitere Details erhalten sie auf der <a class="go" href="/de/details1.shtm" title="Details 1">tabellarischen Darstellung der Tischrechner</a>.</p>
+
+</div><!-- end of content -->
+
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

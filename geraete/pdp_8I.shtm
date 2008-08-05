@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="PDP 8I"
+   --><!--#set var="url_en"       value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/de/rechnertechnik/fruehe-computer.shtm#pdp8i" -->
+    <!--#set var="forwarding_title" value="Wissenschaftliche Rechner und Minicomputer" -->
+    <!--#include virtual="/de/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+<div class="box right">
+  <img src="/shared/photos/rechnertechnik/dec/pdp_8i.jpg" alt="PDP 8I" style="width: 240px; height: 423px;" />
+  <div class="bildtext" style="margin: 5px 30px 10px 250px;">
+      <h2><!--#echo var="title" --></h2>
+      <p class="justify">Der erste Rechner mit integrierten Schaltungen von DEC war nicht gerade billig. Alleine die CPU (im Bild links, Mitte) ohne Peripherie kostete damals 27000 $. Bei dem Umrechnungskurs der 60iger Jahre entspricht das ca. 55000 Euro.<br>Der Arbeitsspeicher hatte eine Kapazit&auml;t von 8 kB. W&auml;hrend der Bearbeitung eines "gr&ouml;&szlig;eren" Problems m&uuml;ssen eventuell fortw&auml;hrend Files (Programme, Daten) auf ein Tape (Magnetband) ausgelagert und sp&auml;ter wieder eingelesen werden. Um mit sowenig Arbeitsspeicher dennoch erstaunlich effektiv arbeiten zu k&ouml;nnen, wurde schon in diesen fr&uuml;hen Jahren ein ausgesprochen intelligentes Betriebssystem (OS/8) entwickelt!  Es ist sehr interessant, dem Rechner bei seiner Arbeit zuzuschauen.</p>
+      <p class="justify">F&uuml;r alle, die einen solchen Computer noch nie gesehen haben, sei angemerkt, dass dieser mit Plotter &uuml;ber 2m hoch ist und ein Gewicht von ca. 300 kg hat.</p>
+      <p class="justify">Die Peripherie besteht aus 2 x TU 55 (Bandlaufwerke), PC 04 (High speed Lochstreifenleser), Calcomp 563 Plotter (oben) und nat&uuml;rlich einer Teletype (hier nicht abgebildet).</p>
+      <ul class="nav">
+          <li><a href="/de/rechnertechnik/fruehe-computer.shtm">Fr&uuml;he Computer</a></li>
+          <li><a href="/de/details2.shtm">Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand</a></li>
+          <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+      </ul>
+  </div>
+</div>
+</body>
+</html>

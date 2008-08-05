@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="LAB 8e"
+   --><!--#set var="url_en"       value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<div class="box center">
+   <img src="/shared/photos/rechnertechnik/dec/lab_8e-seitlich.jpg" alt="LAB 8e von der Seite" width="438" height="595"/>
+   <div class="bildtext-bildbreite" style="width: 438px;">
+      <ul id="nav">
+          <li><a href="/de/rechnertechnik/fruehe-computer.shtm#lab8e">Wissenschaftliche Rechner und Minicomputer</a></li>
+          <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+      </ul>
+   </div>
+</div>
+
+</div><!--content -->
+</body>
+</html>

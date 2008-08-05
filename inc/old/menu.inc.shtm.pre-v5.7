@@ -1,0 +1,43 @@
+<hr class="hidden">
+<h2 class="hidden"><a name="#nav">Navigation</a></h2>
+<div id="lang"><a href="/en/<!--#echo var="url_en" -->" lang="en" title="english version of this page">englische Version</a></div>
+
+<div id="menu">
+    <ul class="menu">
+        <!--#if expr="$location = start" --><li class="on"><span class="t">Start</span></li><!--#else --><li><a href="/de/" class="t" title="Startseite">Start</a></li><!--#endif -->
+        <li><span class="t">Kommunikations-<br>technik</span>
+            <ul>
+                <li><a <!--#if expr="$location = rundfunk" --> class="on"<!--#else --><!--#endif --> href="/de/kommunikationstechnik/rundfunk.shtm" title="Rundfunkgeräte">Rundfunk</a></li>
+                <li><a <!--#if expr="$location = fernsehen" --> class="on"<!--#else --><!--#endif --> href="/de/kommunikationstechnik/fernsehen.shtm" title="Fernseher und Videorekorder">Fernsehen</a></li>
+                <li><a <!--#if expr="$location = tontechnik" --> class="on"<!--#else --><!--#endif --> href="/de/kommunikationstechnik/tontechnik.shtm" title="Tonaufnahme- und Wiedergabetechnik">Tonaufnahme- und Wiedergabetechnik</a></li>
+                <li><a <!--#if expr="$location = faxtechnik" --> class="on"<!--#else --><!--#endif --> href="/de/kommunikationstechnik/faxtechnik.shtm" title="Fax und Schreibtechnik">Telegraphie-, Fax- und Schreibtechnik</a></li>
+                <li><a <!--#if expr="$location = messtechnik" --> class="on"<!--#else --><!--#endif --> href="/de/kommunikationstechnik/messtechnik.shtm" title="Messtechnik">Messtechnik</a></li>
+            </ul>
+        </li>
+        <li><span class="t">Rechnertechnik und Computer</span>
+            <ul>
+                <li><a <!--#if expr="$location = elektro_mechanik" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/elektro-mechanik.shtm" title="(Elektro-) Mechanische Rechenmaschinen">(Elektro-) Mechanische Rechenmaschinen</a></li>
+                <li><a <!--#if expr="$location = elektronenroehren" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/elektronenroehren.shtm" title="Rechner mit Elektronenr&ouml;hren">Rechner mit Elektronenr&ouml;hren</a></li>
+                <li><a <!--#if expr="$location = transistoren" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/transistoren.shtm" title="Erste Rechner mit Transistoren">Erste Rechner mit Transistoren</a></li>
+                <li><a <!--#if expr="$location = programmierbare" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/programmierbare.shtm" title="Programmierbare Rechner der 2.Generation">Programmierbare Rechner der 2.Generation</a></li>
+                <li><a <!--#if expr="$location = ic_technik" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/ic-technik.shtm" title="Erste Rechner der 3.Generation mit einfacher IC-Technik">Erste Rechner der 3.Generation mit einfacher IC-Technik</a></li>
+                <li><a <!--#if expr="$location = fruehe_computer" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/fruehe-computer.shtm" title="Fr&uuml;he Computer und EDV-Technik">Fr&uuml;he Computer und EDV-Technik</a></li>
+                <li><a <!--#if expr="$location = univac" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/univac9400.shtm" title="Univac 9400">UNIVAC Großrechner der 60er Jahre</a></li>
+                <li><a <!--#if expr="$location = analogrechner" --> class="on"<!--#else --><!--#endif -->href="/de/rechnertechnik/analogrechner.shtm" title="Analog- und Hybridrechner">Analog- und Hybridrechner</a></li>
+            </ul>
+        </li>
+        <!--#if expr="$location = suche" --><li class="on"><span class="t">Wir Suchen</span></li><!--#else --><li><a href="/de/suche.shtm" class="t" title="Was das Museum noch dringend sucht">Wir suchen</a></li><!--#endif -->
+        <!--#if expr="$location = impressum" --><li class="on"><span class="t">Kontakt/Impressum</span></li><!--#else --><li><a href="/de/impressum.shtm" class="t" title="Impressum und Kontakt">Kontakt/Impressum</a></li><!--#endif -->
+    </ul>
+</div>
+
+<h2 class="hidden">Seitenrelationen</h2>
+<div id="rel">
+    <span class="border">&nbsp;</span>
+    <ul>
+        <li class="up"><a href="#top" title="Nach oben">Inhalt</a></li>
+        <!--#if expr="($prev)" --><li class="prev"><a href="<!--#echo var="prev" -->" title="Zur vorherigen Seite">zurück</a><br><!--#echo var="prev_title" --></li><!--#endif -->
+        <!--#if expr="($next)" --><li class="next"><a href="<!--#echo var="next" -->" title="Zur nächsten seite">weiter</a><br><!--#echo var="next_title" --></li><!--#endif -->
+    </ul>
+    <div class="space">&nbsp;</div>
+</div>

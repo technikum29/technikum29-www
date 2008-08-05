@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Startseite"
+   --><!--#set var="location"     value="start"
+   --><!--#set var="url_en"       value=""
+   --><!--#set var="prev"         value=""
+   --><!--#set var="prev_title"   value=""
+   --><!--#set var="next"         value="lehrerinfo.shtm"
+   --><!--#set var="next_title"   value="Didaktische Konzeption, Lehrerinfo"
+   -->
+     <title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="technikum29, Technikmuseum, Computermuseum, Museum, Main-Taunus" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="Technikum29 Startseite Deutsch" />
+    <meta name="t29.this.version" content="v5.7.14" />
+    <meta name="t29.this.date" content="07.01.08" />
+    <meta name="t29.this.comment" content="Was gibt es neues" />
+    <!--t29.changelog: 16.08.07/v5.7.1: Was gibt es neues: Telegrafenstation hinzugefügt -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <div class="cols">
+       <div class="leftcol startseiten-design">
+         <div class="besonderes">
+           <h2>Was ist das Besondere&nbsp;?</h2>
+           <ul>
+                <li>Aktive Technik in historischen Dimensionen</li>
+                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnügen sich mit der bloßen Darstellung der Objekte, eventuell immerhin manchmal noch gut gestylt. Doch wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Die meisten der Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist zumindest im Rhein-Main-Gebiet einmalig.
+                <br />Computer und Kommunikation beherrschen unsere Zeit (leider?) in einem zunehmenden Maße. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation Auskunft.</li>
+           </ul>
+          </div>
+
+        <div class="wen">
+            <h2>Für wen&nbsp;?</h2>
+            <ul>
+                <li>Für "alte Technikhasen" (natürlich zweibeinige), die dort nostalgisch von der guten alten Zeit transparenter, großformatiger Technik schwärmen können.</li>
+                <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
+                <li>Für Schülergruppen (ca. ab Klasse 9) und Studentengruppen u.ä. (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>), Firmengruppen usw.</li>
+            </ul>
+        </div>
+      </div><!--leftcol-->
+
+      <div class="rightcol startseiten-design">
+        <div class="wo">
+            <h2>Wo&nbsp;?</h2>
+            <ul>
+                <li>In der Nähe von Frankfurt/Main, <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
+            </ul>
+        </div>
+        
+        <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
+                <p>Das Museumsgeb&auml;ude</p>
+        </div>
+        
+        <div class="wann">
+            <h2>Wann&nbsp;?</h2>
+            <ul>
+                <li>Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.
+					</li>
+            </ul>
+        </div>
+        
+        <div class="erwartung">
+            <h2>Was wird geboten ?</h2>
+            <ul>
+                <li>Ein Besuch ist immer mit einer Führung und mindestens einer Präsentation verbunden. Schülergruppen (ab 15 Jahre) erhalten eine pädagogisch geleitete Führung in 3 Modulen (siehe "Didaktische Konzeption").  </li>
+            </ul>
+        </div>
+        
+        <!-- wird nicht mehr gewollt:
+          <div class="homepage">
+            <h2>Zur Homepage</h2>
+            <ul>
+                <li>Wir haben natürlich in der Homepage nicht alles aufgeführt, was vorhanden ist, sondern nur einen Ausschnitt. Die Homepage wird fortwährend verbessert und erweitert. Alles was neu ist, erscheint im Kasten: "Was gibt es neues?"</li>
+            </ul>
+        </div>-->
+      </div><!--rightcol-->
+    </div><!-- cols -->
+    <div class="clear">&nbsp;</div>
+    
+    
+    <div class="aktuell">
+	
+	
+	<div class="box left">
+	<div class="left">
+        <img src="/shared/photos/kommunikationstechnik/klein-reporter,spulen.jpg" width="272" height="204" alt="Foto des Klein-Reporters (Rückseite)" /></div>
+        
+            <h2 class="center">Was gibt es neues</h2>
+            <p class="stand">(Stand: Juli 2008)</p>
+            
+            
+                <p>Auch kleine Geräte können eindrucksvoll sein: Hier ein Tondraht-Diktiergerät von 1952 mit einer interessanten historischen Aufnahme, siehe Rubrik "Tonaufnahme- und Wiedergabetechnik"
+          </p>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+
+
+</div><!-- id=content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

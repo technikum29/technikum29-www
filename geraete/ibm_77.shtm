@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="IBM 77"
+   --><!--#set var="url_en"       value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="extra" class="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/de/rechnertechnik/lochkarten-edv.shtm#ibm77" -->
+    <!--#set var="forwarding_title" value="Lochkartenger&auml;te" -->
+    <!--#include virtual="/de/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+
+<div class="box center">
+  <img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 77" width="559" height="587" />
+  <div class="bildtext-bildbreite" style="width: 559px;">
+      <ul id="nav">
+          <li><a href="/de/rechnertechnik/fruehe-computer.shtm">Frühe Computer und EDV-Technik</a></li>
+          <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+      </ul>
+  </div>
+</div>
+
+</div><!--content-->
+</body>
+</html>

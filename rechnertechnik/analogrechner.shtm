@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Analog- und Hybridrechner"
+   --><!--#set var="location"     value="analogrechner"
+   --><!--#set var="part"         value="rechnertechnik"
+   --><!--#set var="url_en"       value="computer/analog.shtm"
+   --><!--#set var="prev"         value="univac9400.shtm"
+   --><!--#set var="prev_title"   value="UNIVAC-Gro&szlig;rechner, Rechenzentrum"
+   --><!--#set var="next"         value="speichermedien.shtm"
+   --><!--#set var="next_title"   value="Speichermedien"
+ --><title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="Analogrechner, Hybridrechner, Telefunken, RAT 700" />
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7.20" />
+    <meta name="t29.this.date" content="21.03.2008" />
+    <meta name="t29.this.comment" content="Heriberts EC-1-Änderung verschönert" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p>Analogrechner wurden zur Berechnung mathematischer, physikalischer und technischer Probleme verwendet. Dies insbesondere dann, wenn die Variablen sich zeitlich kontinuierlich ändern oder wenn sich die Abhängigkeit in Form einer Differentialgleichung mathematisch darstellen lässt.<br>
+	Ohne Berücksichtigung ihres physikalischen oder technischen Ursprungs bezeichnet man alle Systeme, die zu ein und derselben mathematischen Modellvorstellung führen, als einander analoge Systeme. Die Güte der Analogie eines Systems hängt von der Approximationsgenauigkeit des Modells (Analogrechner) und von der Wiedergabegenauigkeit ab. Je nach Preis waren die Analogrechner diesbezüglich sehr verschieden.</p>
+    <p>Analogrechner simulieren das vorgegebene Problem indem sie ein physikalisches System bilden, das den gleichen Gesetzen gehorcht. Dieses System wird durch elektrische Netzwerke, welche sich im Rechner befinden (Negator, Summierer, Integrierer, Multiplizierer, Funktionsgeber....) auf dem Patchboard "zusammengestöpselt". Dabei lassen sich auch nichtlineare Probleme lösen, deren Differentialgleichung in geschlossener Form nicht lösbar ist. Im Gegensatz zum Digitalrechner werden hier die Systemgrößen gemessen und nicht gezählt.</br>
+	Analogrechner eignen sich daher wenig zur Lösung algebraischer Gleichungen und überhaupt nicht für kaufmännische Berechnungen.</p>
+	
+    <p>Im Museum sind u.a. Rechnersysteme von Telefunken (1960-64) installiert die eindrucksvoll Kurven auf dem Speicheroszilloskop und xy-Schreiber zeichnen. Sie lösten schwierige Probleme für die damalige Zeit recht schnell, doch waren Bedienung, Programmierung (Steckkabel) und Auswertung alles andere als einfach.</p>
+ 
+		
+    <h3>Heathkit Analog Computer H1 (ES-400)</h3>
+    <div class="box center" style="margin-bottom: 0;">
+        <img src="/shared/photos/rechnertechnik/heathkit-analogrechner.jpg" width="493" height="337" alt="Heathkit Analog Computer H1 (ES-400)" />
+
+        <p>Heathkit, bekannt durch seine Bausätze, entwickelte 1956 einen Analogrechner, der vorwiegend für die Ausbildung gedacht war. So entstand ein Ungetüm mit 70 Röhren, wobei 45 wegen der besseren Kühlung außen platziert waren. Dieser Lehrcomputer für Übungszwecke ist mit 15 Rechenverstärkern ausgestattet.</p>
+    </div>
+
+    <div class="box left" style="margin-top: 0;">
+       <img src="/shared/photos/rechnertechnik/heathkit-ausschnitt.jpg" alt="Ausschnitt des Heathkit Analog Computers H1" width="247" height="179" class="nomargin-bottom" />
+       <div class="bildtext">
+          Er demonstriert archaisch frühe Technik der 1. Generation. Dazu passend ist ein röhrenbestückter xy-Schreiber angeschlossen.
+       </div>
+       <div class="clear">&nbsp;</div>
+    </div>
+
+
+    <div class="box left">	 
+        <h3>Heathkit Analog Computer EC-1</h3>
+        <img src="/shared/photos/rechnertechnik/heathkit EC-1.jpg" width="365" height="256" alt="Heathkit EC-1" />
+        <p>Dies ist ein sehr kleiner ab 1960 gebauter Analogrechner für Schulen und Ausbildung. Aufgebaut mit nur 17 Röhren (davon 5 für die Spannungsstabilisierung) war er gerade gut, um das Prinzip des Analogrechners zu verdeutlichen. Für ernsthafte Berechnungen war er zu klein und zu ungenau. Ein abgespeckter ES-400 der 1960 als Bausatz stolze 1.494,- DM kostete, betriebsfertig jedoch 1.894,- DM (ca. 900 Euro).</p>
+
+        <div class="clear">&nbsp;</div>
+    </div>
+
+     <div class="box right">
+        <h3>Telefunken RAT 700</h3>
+        <img src="/shared/photos/rechnertechnik/telefunken_rat700.jpg" width="291" height="917" title="Telefunken RAT 700" class="nomargin-bottom" />
+        <div class="bildtext">
+            <p>Die Abbildung zeigt unten den <b>Telefunken RAT 700</b> (erstes Modell von 1961), dar&uuml;ber ein Nachfolgermodell. Bei dem neueren Rechner kann man das gesamte Steckboard austauschen und so Programme schnell wechseln. Über diesem befinden sich ein Speicheroszilloskop und darüber schließlich ein xy-Schreiber zum Aufzeichnen langsamer Vorgänge.
+            <br />Im eingeschalteten Zustand vernimmt man ein schwebendes Summen (400 Hz), bedingt durch die mechanischen Chopper, die Gleichspannungen in Wechselspannungen umwandeln. Nur so war der störende Temperaturdrift (Änderung der Germanium-Transistorparameter) unwirksam. Im Prinzip werden auch heute Gleichspannungen mit Hilfe von Choppern verstärkt. Nur sind diese elektronisch aufgebaut.</p>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box center">
+        <h3>EAI 180 Hybridrechner</h3>
+        <div class="bildtext" style="margin-bottom: 30px;">
+           <p><b>EAI 180</b> von "Electronic Associates Incorporated", New Jersey,  ist ein sogenannter <b>Hybrid-Recher</b> (hybris [griech.]: Von zweierlei Abkunft),  Baujahr 1970. Er beinhaltet die Komponenten eines Analogrechners und die eines Digitalrechners. Das Ger&auml;t ist mit ICs der ersten Generation (DTL-Technik) ausgestattet. Die Rechen-Schaltung wird per Kabel am Frontpannel zusammengesteckt. Die Zykluszeit des analogen Teils kann auf weniger als 10&nbsp;ms eingestellt werden. Eine zu l&ouml;sende Gleichung wird dann mindestens 100 Mal pro Sekunde gel&ouml;st. Damit ben&ouml;tigt man zum Betrachten der Kurven nur ein einfaches Oszilloskop.
+           </p>
+        </div>
+        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="464" height="370" alt="EAI 180 Hybridrechner" />
+    </div>
+
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/analogrechner-details.jpg" width="127" alt="Details der EAI-Rechner" />
+        
+        <div class="box center" style="margin-left: 127px;">
+            <h3>EAI 185</h3>
+            <img src="/shared/photos/rechnertechnik/eai185.jpg" width="424" height="535" style="float:none" alt="EAI 185 Hybridrechner" />
+        </div>
+    
+        <p class="bildtext">
+             Die beiden EAI Rechner sind im Prinzip identisch. Der Untere ist jedoch weiter ausgebaut.
+             Beide Rechner waren im Praktikum für Physiker, Chemiker und Ingenieure von Technischen Hochschulen eingesetzt.<br/>
+               Eine typische Aufgabe zur Simulation eines Vorganges war z.B.:<br/>
+"Untersuchen Sie das Schwingungsverhalten einer PKW-Radaufhängung, wenn der Fahrer über einen Bordstein fährt". <br/>
+Hier gibt es eine Menge Variablen, z.B. Geschwindigkeit des PKW, Höhe des Bordsteins, Feder- und Dämpfungskonstante der Radaufhängung, Anfahrtwinkel gegen den Bordstein, Luftdruck des Reifens und schlimmstenfalls weitere Parameter. Jeder Variablen wurde ein Potentiometer zugeordnet. So konnte man sehr schnell eine Optimierung der für die Entwicklungsingenieure von PKW´s wichtigen Feder- und Dämpfungskomponenten finden, insbesondere war der Einfluss von jedem Parameter sofort am Oszillogramm zu erkennen.                 
+        </p>
+    </div>
+    
+    <div class="box left">
+        <h3 class="center">Dornier DO 240</h3>
+         <img src="/shared/photos/rechnertechnik/do_240.jpg" alt="Dornier DO 240" width="424" height="412"/>
+         <p class="bildtext">
+             Während die EAI Hybridrechner mit mäßiger Genauigkeit fast nur für Unterrichtszwecke verwendet wurden, ist der Analogrechner DO 240 der Firma DORNIER (durch den Bau von Flugzeugen bekannt) ein wahres Präzisionsinstrument. Auf kleinstem Raum sind sehr viele Komponenten untergebracht. U.a. Digitalpotentiometer, die durch Taktimpulse einstellbar sind, ein sehr vielfältig einstellbarer digitaler Taktgenerator (Anzeige mit Nixieröhren), Digitalzähler, 2 Funktionsgeneratoren und vieles mehr. Der Rechner wurde Anfang der 70er Jahre gebaut und kostete ca. 80.000,- DM (ca. 40.000,- Euro).<br/>
+             Dieser Rechnertyp wurde jedoch nicht von Dornier selbst entwickelt, sondern es sind Nachbauten der von
+Simulators Inc. entwickelten Systeme. Deren Patente wurden von Dornier aufgekauft. 
+         </p>
+    </div>
+    
+
+</div><!-- content -->
+<!-- end of content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

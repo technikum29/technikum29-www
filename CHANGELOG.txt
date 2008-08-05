@@ -1,0 +1,882 @@
+
+   .************************************************************.
+  *                                                              *
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   20052   9    *
+ *                                                                *
+ *                       C H A N G E L O G                        *
+ *                                                                *
+ * Willkommen beim Changelog der Technikum29-Homepage, dem        *
+ * "Protokoll" über die Veränderungen (Changes) und neuen         *
+ * Versionen der Homepage.                                        *
+ *                                                                *
+ * Anhand dieser Datei lässt sich einfach feststellen, welche     *
+ * Version der Homepage in diesem Verzeichnis installiert ist:    *
+ * es wird einfach nach der Version geschaut, die ganz oben       *
+ * steht.                                                         *
+ *                                                                *
+ *================================================================*
+ *==         Jetzt neu: GRAFISCHER CHANGELOG unter              ==*
+ *==          http://dev.technikum29.de/changelog               ==*
+ *================================================================*
+ *                                                                *
+ * Weitere Dokumente:                                             *
+ *                                                                *
+ *  - http://www.technikum29.de/etc/txt/roadmap - Eine Roadmap    *
+ *    wo alle gemachten/geplanten grossen Versionen verzeichnet   *
+ *    sind                                                        *
+ *                                                                *
+ *  - http://www.technikum29.de/TODO - Dinge, die in den          *
+ *    nächsten Versionen (noch) getan werden müssen               *
+ *                                                                *
+ *  - http://www.technikum29.de/etc/txt/VERSIONCOUNTING           *
+ *    Vorstellung des Technikum29-Versionszählprinzips            *
+ *                                                                *
+ *  - http://www.technikum29.de/etc/txt/WHYCOUNTING               *
+ *    Warum Versionszählung so wichtig ist                        *
+ *                                                                *
+ ******************************************************************
+
+ VERSION 5.8 BETA - (28.07.2008 16:00)
+ ~~~~~~~~~~~~~~~~
+ Das Verzeichnis /en wird jetzt erstmals in einem SVN-Repositorium
+ geführt. An dem Changelog aendert sich dabei aber zunächst nichts.
+ * /en: Quasi komplett geaendert
+ * /de: Sehr viele undokumentierte Aenderungen Heriberts, quasi
+   alles geaendert
+ * Neue Seiten: /de/geraete/ncr446 und /en/devices/ncr446;
+ * Neue Bilder, alle autonom vom Heribert:
+   /shared/photos/kommunikationstechnik/schulelektronik.jpg,
+   ~/aeg-oszi.jpg, ~/hellschreiber.jpg, ~/klein-reporter,spulen.jpg,
+   ~/klein-reporter.jpg, ~/kosmograph.jpg, ~/schulphysik.jpg
+   ~/olympia-schreibautomat.jpg, ~/schaub-lorenz-supraphon.jpg,
+   /shared/photos/rechnertechnik/ncr-rechner.jpg, ~/ncr_446-detail
+ Eine Zusammenfassung von allen Änderungen seit v5.7 FINAL gibt es
+ auf http://dev.technikum29.de/wiki/Homepage/v5.8
+
+ VERSION 5.7.22 - (18.06.20008 03:18)
+ ~~~~~~~~~~~~~~
+ Sync der englischen Übersetzung:
+ * /en/index: "What's new": BULL GAMMA 3
+ * /en/computer/tabulating-machine: BULL GAMMA 3, 10
+ * /en/computer/storage-media: Delay Line Memory (BULL)
+ * /en/inc/menu.inc.shtm: "Tabulating Machine" erweitert um
+   "BULL GAMMA 3 and GAMMA 10"
+ Viele undokumentierte Änderungen Heriberts:
+ * /de/index, /de/lehrerinfo, /de/suche,
+   /de/rechnertechnik/kommerzielle, ~/tabelliermaschine
+ * neue bzw. geänderte Fotos:
+   /shared/photos/rechnertechnik/wang_320se.jpg,
+   bull-gamma-3-offen.jpg, bull-gamma-10.jpg,
+   gamma-10-von-hinten.jpg, gamma-10-drucker.jpg,
+   /shared/photos/start/dezi-exp.JPG
+
+ VERSION 5.7.21 - (03.2008 bis 08.04.2008)
+ ~~~~~~~~~~~~~~
+ Viele undokumentierte Änderungen Heriberts:
+ * /de/index inzwischen mehrfach geändert, "Was gibt es neues",
+   mittlerweile BULL GAMMA 3, dafür neu
+   /shared/photos/start/bull-gamma-10-offen-klein.jpg
+ * /de/impressum wurde auch geändert, Änderung aber zurückgenommen
+   (irgendein blöder Spruch über kB und kiB...)
+ * /de/lehrerinfo hat sich offensichtlich auch geändert
+ * /de/suche wurde weiter verschandelt (<h2> zur
+   Formatierung missbraucht...)
+ * in mir unbekanntem Ausmaß wurden /de/rechnertechnik/analogrechner,
+   /de/rechnertechnik/lochkarten-edv und
+   /de/kommunikationstechnik/faxtechnik offensichtlich verändert
+ * BULL GAMMA 3 neu, dafür
+   * /de/rechnertechnik/tabelliermaschine komplett geändert
+   * neue Bilder: /shared/photos/rechnertechnik/bull-gamma-3-offen.jpg,
+     ~/bull-gamma-3.jpg, ~/bull-gamma-10-offen.jpg,
+     ~/bull-gamma-10.jpg, ~/bull-bs-pr/bull-tabelliermaschine.jpg,
+     ~/bull-bs-pr/offen1.jpg (schrecklich! was für Namen!),
+     ~/bull-bs-pr/relais1.jpg (das schmerzt in den Augen...)
+  * /en/computer/tabulating-machine.shtm, weil er intelligenterweise
+    mal wieder alle Bilder gelöscht hat. Dort auch gleich noch
+    verzerrt eingebunden, musste also nachgebessert werden
+  * /de/inc/menu.inc.shtm wg. verändertem Seitentext für
+    Tabelliermaschinenseite
+ * BULL GAMMA 3 Laufzeitspeicher neu, dafür
+   * /de/rechnertechnik/speichermedien oben hinzugefügt
+   * neue Bilder:
+     .../speichermedien/bull-gamma-3-laufzeitspeicher-gross.jpg
+     und ~/bull-gamma-3-laufzeitspeicher.jpg
+ * eine kleine saubere Änderung von mir:
+   /shared/css/fresh.css - Seitenhöhe endlich gefixt
+
+ VERSION 5.7.20 - (21.03.2008 23:00)
+ ~~~~~~~~~~~~~~
+ kleine Aenderungen an der deutschen Version:
+ * /de/rechnertechnik/analogrechner: Heathkit EC-1 korrigiert
+ * Heriberts Aenderungen an /de/index ("Was gibt es neues")
+ Komplett-Synchronisation der englischen Version
+ * /en/index: What's new: analog computer Heathkit EC-1
+ * /en/communication/broadcasting: Neues Rundfunkecke-Bild inkl. Text
+ * /en/communiaction/fax: Neue Eingangsbilder inkl. Text und
+   /en/devices/morse_telegraph neu, ausserdem
+   * Siemens KF 106 neu, KF 108 mit neuem Bild
+   * Hellfax BS 100 mit neuen Bildern, Siemens Teletype neu
+ * /en/computer/punchcard: Punch card sorter und collator erstmals
+   übersetzt (u.a. Dank an Udo)
+   * /en/devices/punchcard-sorter neu, dafuer die uebersetzte Grafik
+     /shared/photos/rechnertechnik/grafiken/lochkartensortierer.en.gif
+   * /en/devices/punchcard-collator neu, auch dafuer die Grafik
+     /shared/photos/rechnertechnik/grafiken/lochkartenmischer.en.gif
+  * /en/computer/analog: Heathkit EC-1 hinzugefuegt
+  * /en/computer/storage-media: Neues Kernspeicherbild
+
+ VERSION 5.7.19 - (irgendwann 03.2008)
+ ~~~~~~~~~~~~~~
+ Verschiedene eigenständige Änderungen Heriberts
+ * /de/index: Was gibt es neues: Heathkit EC-1, dafür
+   /shared/photos/start/Heathkit%20EC-1.JPG
+ * /de/kommunikationstechnik/faxtechnik: KF 106 neu, dafür
+   /shared/photos/kommunikationstechnik/siemens_kf106.jpg
+
+ VERSION 5.7.18 - (18.02.2008)
+ ~~~~~~~~~~~~~~
+ * Lehrerinfo ins Menue aufgenommen, dazu
+   * /de/index: Seitenrelationen (naechste Seite)
+   * /de/etc/menu.inc: Lehrerinfo aufgenommen vor Rundfunktechnik
+   * /de/lehrerinfo: Umbenannt zu "Didaktische Konzeption,
+     Informationen für Lehrer", neuer Text, Seitenrelation,
+     Praesentationsbild verkleinert, kein Link mehr zum Klassenfoto
+   * /de/kommunikationstechnik/rundfunk: Seitenrelation (vorherige)
+ * /de/geraete/lochkartensortierer-funktion: Typos von Udo
+ * /en/index: Datum korrigiert ("january 2008")
+ * Zwischenzeitlich ist ausserdem geschehen:
+   * /de/rechnertechnik/speichermedien: Neues Kernspeicher-Bild
+     /shared/photos/rechnertechnik/speichermedien/kernspeicher-weiss
+
+ VERSION 5.7.17 - (03.02.2008 24:00)
+ ~~~~~~~~~~~~~~
+ Aenderungen vom 02.02.08 hier mit aufgefuehrt:
+ * /de/kommunikationstechnik/rundfunk: Ausschnitt Rundfunkecke
+   neues Bild (+ Text), dafuer neu:
+   /shared/photos/kommunikationstechnik/neuer-ausschnitt-rundfunkecke
+ * /de/kommunikationstechnik/faxtechnik neu bebildert:
+   * Bereichsausschnitt neue Bilder:
+     telegrafie-regal.jpg, morseschreiber.jpg
+   * Morsetelegraf rausgenommen, dafuer neue Extraseite
+     /de/geraete/morsetelegraf.shtm mit altem grossem Bild
+   * Siemens KF108 neues Bild: siemens_kf108-gross.jpg
+   * Hellfax neue Bilder: hellfax_bs110-geschlossen.jpg,
+     hellfax_bs110-geoeffnet.jpg
+   * Siemens Fernschreiber neu: fernschreiber.jpg
+ * IE-Bug bei .boxed-Layout zentral korrigiert unter
+   /shared/css/fresh-iefixing.css
+
+ VERSION 5.7.15 - (29.01.2008)
+ ~~~~~~~~~~~~~~
+ technikum29 ist heute nachmittag auf den neuen V-Server von Strato
+ umgezogen! Die Homepagestruktur blieb zunächst gleich, als kleine
+ Neuheit gibt es /favicon.ico
+ * /de/lehrerinfo wurde zur Inhaltsseite angehoben, allerdings ohne
+   Auflistung im Menue
+ * /de/inc/menu.inc.shtm und /en/inc/menu.inc.shtm: Copyright von
+   "2003-2007" auf "2003-2008" umgestellt
+
+ VERSION 5.7.14 - (07.01.2008 00:00)
+ ~~~~~~~~~~~~~~
+ * /de/index: Was gibt es neues: Praesentationsbereich
+ * /de/lehrerinfo mit dem gleichen vergroesserten Bild
+ * neu: /shared/photos/start/praesentation.jpg und
+   /shared/photos/start/praesentation-gross.jpg
+ * /shared/css/common: .desc-right fuer Lehrerinfoseite veraendert
+
+ VERSION 5.7.13 - (01.12.2007 24:00)
+ ~~~~~~~~~~~~~~
+ * /en/computer/storage-media: Plated Wire hinzugefuegt
+ * /en/devices/plated-wire-storage neu, eigene Uebersetzung
+
+ VERSION 5.7.12 - (27.11.2007 24:00)
+ ~~~~~~~~~~~~~~
+ Englischer Sync mit den 5.7.11-Aenderungen:
+ * /en/index: Univac-Panorama
+ * /en/communication/fax: Telegrafenboxtext geaendert
+ * /en/computer/univac9400: Panoramabild, Text geaendert
+   * /en/devices/univac9400/panorama neu, ~/console+uniservo geaendert
+
+ VERSION 5.7.11 - (04.11.2007)
+ ~~~~~~~~~~~~~~
+ * /de/index: Telegrafenbox raus, Univac-UNISERVO 16 rein, dafür
+   * /shared/photos/start/univac-panorama.jpg neu
+ * /de/kommunikationstechnik/faxtechnik: Text zu Telegrafenbox geändert
+ * /de/rechnertechnik/univac9400: Neues Panoramabild, Text geändert
+   * /shared/css/common.css geändert (Menü auf Univac nach unten)
+   * /shared/photos/rechnertechnik/univac/panorama-rechts.jpg,
+     panorama-links.jpg, panorama-links.klein.jpg, uniservo-12-16.jpg,
+     uniservo-12-16.klein.jpg neu
+   * /de/geraete/univac9400/panorama-links neu,
+     ~/konsole+uniservo.shtm geändert wg. neuem Bild
+
+ VERSION 5.7.10 - (19.10.2007)
+ ~~~~~~~~~~~~~~
+ * /shared/photos/rechnertechnik/geraete/: Lochkartensortierer- und
+   Mischer-Grafiken Fehlerberichtigungen
+ Außerdem undokumentierte Änderungen an Dateien von v5.7.9 seitens
+ Heriberts.
+
+ VERSION 5.7.9 - (15.10.2007 23:00)
+ ~~~~~~~~~~~~~
+ Vektorgrafiken zur Funktionsweise von Magnetdrahtspeicher und
+ Lochkartensortierer/-mischer, dazu
+ * Ordner /shared/photos/rechnertechnik/geraete/ neu (10 GIFs)
+ * /de/rechnertechnik/edv-technik zwecks Links zu (neu:)
+   /de/geraete/lochkartenmischer-funktion, lochkartensortierer-funktion
+ * /de/rechnertechnik/speichermedien Titel umbenannt + Magnetdraht-
+   speicher hinzugefügt, Link zu (neu:)
+   /de/geraete/magnetdrahtspeicher
+ Verschiedene Ordner (in /shared) haben jetzt HEADER.shtm-Dateien
+ zwecks informeller Beschreibung. Änderungen betreffen nicht die
+ Homepage und werden hier nicht aufgeführt.
+
+ VERSION 5.7.8 - (16.09.2007 00:20)
+ ~~~~~~~~~~~~~
+ Viele englische Updates
+ * kleine Fixes: /en/fax, /en/measurement, /en/devices/ultramar_back,
+   /en/inc/menu, /en/computer/electron-tubes, ~/punchcard
+ * Initialübersetzung von Speichermedien: /en/computer/storage-media
+   neu: /en/devices/magenetic-stick-memory, /en/devices/threaded-rom
+ Vielen Dank an Bernd Ulmann (www.vaxman.de) für die zahlreichen
+ englischen Übersetzungen und Tipps :-)
+
+ VERSION 5.7.7 - (08.09.2007 24:00)
+ ~~~~~~~~~~~~~
+ * /de/rechnertechnik/analogrechner und /en/devices/analog EAI 185,
+   EAI 180 und DO 240 hinzugefügt, dafür
+ * /shared/photos/rechnertechnik/analogrechner-details.jpg,
+   do_240.jpg, eai185.jpg neu, eai180.jpg aktualisiert
+
+ VERSION 5.7.6 - (29.08.2007 22:20)
+ ~~~~~~~~~~~~~
+ * /shared/css/fresh: Safari2-Bug (Opacity) beseitigt
+ * /en/search neu, dafür /en/computer/storage-media, /en/inc/menu
+   und /en/contact Relationen geändert
+ * /de/suche: Heriberts Text neu + enlink
+
+ VERSION 5.7.5 - (28.08.2007 21:40)
+ ~~~~~~~~~~~~~
+ Komplettsynchronisation der englischen Homepage inklusive Übernahme
+ des neuen Designs
+ * /en: komplett neu
+ * Viele (vor allem in /de/geraete) Dateien geändert, zwecks korrektem
+   Sprachlink.
+ * /de/index: "Über die Homepage"-Box entfernt
+ Außerdem Designanpassungen und -korrekturen:
+ * /shared/css/: Alle CSS geändert
+ * /shared/img/banner/big.en.png neu
+
+ VERSION 5.7.1 - (17.08.2007 23:45)
+ ~~~~~~~~~~~~~
+ * /de/index, Was gibt es neues: Telegrafenstation
+ * /de/kommunikationstechnik/faxtechnik: Telegrafenstation neu
+   mit Javascript-"Öffnen"-Spielchen, dafür
+   * /shared/photos/start/telegrafenstation,
+     /shared/photos/kommunikationstechnik/telegrafenstation-halboffen
+     und telegrafenstation-offen
+ * /de/rechnertechnik/speichermedien: Gefädeltes ROM neu, dafür
+   * /shared/photos/rechnertechnik/speichermedien/nixdorf-rom-gesamt
+   * /de/geraete/gefaedeltes-rom.shtm neu
+   * /shared/photos/re...medien/nixdorf-rom-ausschnitt
+ Zwischenzeitlich wurden vermutlich undokumentierte Änderungen
+ Heriberts durchgeführt.
+
+ VERSION 5.7 FINAL - (23.07.2007 24:00)
+ ~~~~~~~~~~~~~~~~~
+ Offizielle Veröffentlichung des neuen Designs. Viele neue Inhalte,
+ Gliederung neu, Aufmachung neu -- Zusammenfassung auf /etc/txt/v5.7
+ Nur kleine Änderungen von 5.7 BETA:
+ * neue Sidebar-Hintergründe für Fernsehen, Messtechnik, Lochkarten
+ * Messtechnik: Stäbchenspeicher inkl. Extraseite anders/neu
+
+ VERSION 5.7 BETA - (23.07.2007 01:00)
+ ~~~~~~~~~~~~~~~~
+ Größtes Update in der Geschichte der technikum29.de-Homepage:
+ Komplettes Redesign und sehr viel neuer oder geänderter Inhalt
+ * Alle Seiten in /de/ geändert. Viele neue Seiten, aber auch einige
+   nicht mehr genutzte (in /de/geraete/)
+ * Komplette Restrukturierung in /shared/css
+ * Komplette Restrukturierung in /shared/img
+ * /shared/js/ie5.js neu
+ * Sehr viele neue oder aktualisierte Bilder in /shared/photos, z.B.
+   Verzeichnis ~/rechnertechnik/speichermedien neu mit 6 Bildern
+ Ausführliche Änderungen unter /etc/txt/v5.7
+
+ VERSION 5.6.17 - (20.06.2007 22:45)
+ ~~~~~~~~~~~~~~
+ * /de/index: Neuzugänge: Universalmessgerät Siemens & Halske, dafür
+   /shared/photos/start/universalmessgeraet2.jpg
+ * Nixdorf 820 von Neuzugang nach /de/rechnertechnik/lochkarten-edv
+   verschoben
+ * /de/geraete/nixdorf: Rückverweis auf Lochkarten-EDV erstellt
+ * /de/kommunikationstechnik/fernsehen:
+   * Saba-Telerama anklickbar, dafür neu /de/geraete/saba-telerama
+     und /shared/photos/kommunikationstechnik/telerama-schmitt-optik
+   * .../kommunikationstechnik/telefunken_bildplattenspieler_tp1005
+     hinzugefügt
+ * /de/kommunikationstechnik/tontechnik:
+   * Loewe-Opta-Bild ersetzt (kommunikationstechnik/loewe_opta.jpg)
+   * .../kommunikationstechnik/schaub-lorenz_supraphon.jpg
+   * Das neue schaub-Lorenz-Supraphon anklickbar
+     (/de/geraete/schaub-lorenz-supraphon.shtm), dafür
+     /shared/photos/kommunikationstechnik/supraphon_ausschnitt.jpg
+
+ VERSION 5.6.16 - (11.06.2007 23:00)
+ ~~~~~~~~~~~~~~
+ * /de/kommunikationstechnik/fernsehen: Saba Telerama & Sony KP 5000
+   neu, dafür /shared/photos/kommunikationstechnik/saba_telerama.jpg
+   und ~/sony_kp5000.jpg
+ * /de/kommunikationstechnik/tontechnik: (Schaub-)Lorenz Supraphon neu,
+   dafür /shared/photos/kommunikationstechnik/schaub-lorenz_supraphon
+ * /de/rechnertechnik/lochkarten-edv: kleine Designänderungen an der
+   Seite, IBM 083 Sortiermaschine neu, dafür
+   /shared/photos/rechnertechnik/ibm_083.jpg
+
+ VERSION 5.6.15 - (07.06.2007 23:15)
+ ~~~~~~~~~~~~~~
+ * /de/rechnertechnik/lochkarten-edv: IBM 029 & Juki sowie IBM 548 neu
+ * Neu: /shared/photos/rechnertechnik/ibm_029-juki.jpg & ~/ibm_548.jpg
+
+ VERSION 5.6.14 - (06.06.2007 22:00)
+ ~~~~~~~~~~~~~~
+ * /de/index: Neuzugang (Nixdorf 820 Komplettanlage)
+ * Neu: /de/geraete/nixdorf820 (Konsole)
+ * Neu: /shared/photos/start/nixdorf_820
+ * Neu: /shared/photos/rechnertechnik/nixdorf_820-konsole
+
+ VERSION 5.6.13 - (26.05.2007 24:00)
+ ~~~~~~~~~~~~~~
+ * /de/impressum, /en/contact, /en/inc/menu.inc.shtm:
+   Impressums-Übersetzung war uralt und fehlerhaft
+
+ VERSION 5.6.12 - (01.05.2007 22:30)
+ ~~~~~~~~~~~~~~
+ * /de/rechnertechnik/programmierbare: Wang 320 SE hinzugefügt
+ * /de/geraete/wang320.shtm: Neu (Großes Photo)
+ * /shared/photos/wang_320se.jpg, wang_320se-keyboard.jpg
+
+ VERSION 5.6.11 - (25.04.2007 21:45)
+ ~~~~~~~~~~~~~~
+ * /de/impressum: Link zu Google Maps
+ zwischenzeitlich undokumentierte Änderungen an den 5.6.10-Dateien
+
+ VERSION 5.6.10 - (24.04.2007)
+ ~~~~~~~~~~~~~~
+ Viele neue Bilder (mit Text) in der Rechnertechnik:
+ * /de/rechnertechnik/transistoren: Friden 130 hinzugefuegt
+ * ~/programmierbare: Olivetti P203, HP 9100
+ * ~/ic-technik: Wang 700 (neues Bild+Text), neu /de/geraete/wang700 
+ * Neu unter /shared/photos: wang700-detail.jpg, wang_700-anlage.jpg,
+   hp9100.jpg, olivetti_p203, frieden130 (sic)
+
+ VERSION 5.6.9 - (04.2007)
+ ~~~~~~~~~~~~~
+ undokumentierte Änderungen Heriberts während der Osterferien:
+ * 04.04: /de/ (Tag des Museums), 05.04: /de/rechnertechnik/univac9400,
+   10.04: /de/impressum, /de/suche
+
+ VERSION 5.6.8 - (24.03.2007 24:00)
+ ~~~~~~~~~~~~~
+ * /en/index: Sync mit /de/index (VW-Samstag Neuzugänge)
+ * /en/computer/programmable: Sync (NCR von 5.6.4, Diehl Combitron
+   von Extraseite direkt rein)
+
+ VERSION 5.6.7 - (11.03.2007 22:00)
+ ~~~~~~~~~~~~~
+ * /de/index: Neuzugänge vom VW-Samstag (Nixdorf-Stanzer, Yoki-Stanzer,
+   IBM Sortierer-Nachfolgemodell)
+ * /shared/photos/start/neuzugang-maerz-2007.jpg neu dafür
+
+ VERSION 5.6.6 - (16.02.2007 23:45)
+ ~~~~~~~~~~~~~
+ * /de/computer/lochkarten-edv: Bull-Kartenstanzer dazugekommen
+ * /en/computer/punchcard: Mit DM-Euro-Dollar-Wechselkurs umgerechnet;
+   Bull-Kartenstanzer mitübernommen
+ * /de/index: Sync des aktuellen Teiles mit aktuellem BULL-Inhalt
+
+ VERSION 5.6.5 - (03.02.2007 20:30)
+ ~~~~~~~~~~~~~
+ * Initialübersetzung der Lochkarten-EDV (v5.6)
+   * /en/inc/menu.shtm aktualisiert
+   * Neu: /en/computer/punchcard.shtm
+   * /en/computer/electro-mechanical &
+     /en/computer/electrontubes Relationenänderungen
+   * Neue Extraseiten /en/devices/bull-bs-pr mit jeweils
+     relais.shtm, uncovered.shtm und uncovered-side.shtm
+   * Wichtig: /de/rechnertechnik/lochkarten-edv: Englischer Link!
+ * /en/devices/anita: Glimmlampenbild neu (Sync mit deutscher Version)
+
+ VERSION 5.6.4 - (02.02.2007 22:00)
+ ~~~~~~~~~~~~~
+ * /de/index: NCR-Rechner verschoben und neugetextet nach
+   /de/rechnertechnik/programmierbare
+
+ VERSION 5.6.3 - (29.01.2007 23:00)
+ ~~~~~~~~~~~~~
+ Verschiedene kleine Bugfixes verstreut in der deutschen Fassung:
+ * /de/lehrerinfo: des technikum*s* - Genitiv "S" bitteschön.
+ * /de/rechnertechnik/analogrechner: Absätze formatiert, en-link fix
+
+ VERSION 5.6.2 - (25.01.2007 22:00)
+ ~~~~~~~~~~~~~
+ * /de/geraete/bull-bs-pr/* typo "BS-PR"
+ Zwischenzeitliche unkommentierte Änderungen Heriberts möglich. So
+ zum Beispiel
+ * /de/rechnertechnik/lochkarten-edv - v5.6.1-Edit von ihm
+   überschrieben. Englischer Linkfix nochmals vollzogen
+
+ VERSION 5.6.1 - (08.01.2007 22:30)
+ ~~~~~~~~~~~~~
+ * /de/rechnertechnik/lochkarten-edv (englischer Link)
+ * /en/no-translation
+ Mit der Regex-Implementierung, die Apache 1.3.3s mod_include, welches
+ 1und1 anbietet, ist es sinnlos, irgendetwas mt Verstand aufsetzen
+ zu wollen. Die "Keine Übersetzung"sseite besteht nun nur noch aus
+ einem Satz und fertig. Wird Zeit, dass technikum29.de zu einem
+ ordentlichen Webhosting-Angebot umzieht.
+
+ VERSION 5.6 - (06.01.2007)
+ ~~~~~~~~~~~
+ Großes inhaltliches Update in der Rechnertechnik-Branche
+ * Neue Seite: Lochkarten-EDV
+   * /de/inc/menu.shtm aktualisiert
+   * /de/rechnertechnik/elektro-mechanik &
+     /de/rechnertechnik/elektronenroehren Relationenänderungen
+   * Neu: /de/rechnertechnik/lochkarten.shtm
+   * Neue Extraseiten: /de/geraete/bull-bs-pr mit jeweils
+     offen.shtm, relais.shtm und seitlich-offen.shtm
+ * Verschiebungen der (Lochkarten-)EDV-Anteile aus "Frühe Computer"
+   * /de/rechnertechnik/ic-technik & /de/rechnertechnik/univac Rel.
+   * /de/rechnertechnik/fruehe-computer Titel umbenannt, Inhalt
+ * "Neuzugänge" mit BULL BS-PR erweitert, Messgerät entfernt
+   * /de/index aktualisiert
+ * Zahlreiche neue Bilder:
+   * /shared/photos/start/bull-bs-pr-tabelliermaschine.jpg
+   * /shared/photos/rechnertechnik/bull-bs-pr neu mit
+     bull-tabelliermaschine.jpg, offen.jpg, offen.thumb.jpg,
+     relais.jpg, relais.thumb.jpg, seitlich-offen.jpg
+     seitlich-offen.thumb.jpg
+   * IBM Sorter: shared/photos/rechnertechnik/ibm-082-sorter.jpg
+     und ~/ibm-082-sorter.offen.jpg
+
+
+ VERSION 5.5.11 - (30.12.2006 01:00)
+ ~~~~~~~~~~~~~~
+ /en-Update:
+ * /en/index mit /de/index synchronisiert (New entrants auf 5.5.9)
+ * verschiedene Uploads von alten Bugfixes: Seiten mit
+   "seccond" => "second"; /en/details1 und /en/details2
+
+ VERSION 5.5.10 - (15.12.2006 23:00)
+ ~~~~~~~~~~~~~~
+ * /de/index: "einfachen Counter" auf Anliegen entfernt, siehe
+   /etc/counter
+ * (vermeintliches) Aufräumen einzelner Verzeichnisse in /de,
+   konkret wurden alte Backup-Dateien in "old"-Verzeichnisse
+   geschoben
+ * nicht-protokollierte Änderungen Heriberts (mindestens eine Datei
+   in /de/kommunikationstechnik)
+
+ VERSION 5.5.9 - (02.12.2006 22:00)
+ ~~~~~~~~~~~~~
+ * /de ("Neuzugänge") wieder einmal aktualisiert, neu dazu kamen
+   NCR-Rechner und Universalmessgerät (siehe /photos/start/)
+ Hinweis: zwischenzeitliche Änderungen an /de/index auf Seiten
+          Heriberts sind wie immer undokumentiert...
+
+ VERSION 5.5.8 - (30.09.2006 18:30)
+ ~~~~~~~~~~~~~
+ * /en/index: Kleine Textänderungen
+ * /en/communication/broadcasting: Neuübersetzung, danke an B.Ulmann
+ * /en/inc/menu.inc.shtm: Univac9400 mit in der Liste (bug behoben)
+
+ VERSION 5.5.7 - (04.09.2006 21:30)
+ ~~~~~~~~~~~~~
+ * /shared/css/screen: min-height für #content von 660 auf 750px
+   erhöht, weil Menü in Footer reinrragte (Bug bei besonders kurzen
+   Seiten, z.B. /de/suche)
+
+ VERSION 5.5.6 - (06.08.2006 24:00) 
+ ~~~~~~~~~~~~~
+ * neue Startseite mit gleicherwertiger Nennung von
+   deutsch und englisch - /index.html
+ * Update: /shared/css/startseite.css - Designänderung
+ * Neu: /shared/js/startseite.js - Funktion zum Anklicken der Sprache
+
+ VERSION 5.5.5 - (02.08.2006 22:07)
+ ~~~~~~~~~~~~~
+ * Erstübersetzung von /en/computer/univac9400. Mitbetroffen sind:
+ * Relationen: /en/~/early-computers, /en/~/analog,
+   /de/rechnertechnik/univac9400
+ * Neu: /en/devices/univac9400 (Ordner) inklusive aller 9 Dateien
+ * Update von /en/index ("aktuell"-sync mit deutscher Version)
+
+ VERSION 5.5.4 - (~ 07.2006)
+ ~~~~~~~~~~~~~
+ * update /de/index
+ * /shared/photos/start/bull_kartenstanzer.jpg
+   /shared/photos/start/telefunken-RA_742.jpg
+   neu für /de/index
+
+ VERSION 5.5.3 - (03.06.2006 13:40)
+ ~~~~~~~~~~~~~
+ * Designfehler bei /de/rechnertechnik/univac9400 besetitigt,
+   /shared/css/additional.css dafür etwas verändert
+
+ VERSION 5.5.2 - (12.05.2006 22:25)
+ ~~~~~~~~~~~~~
+ * update /de/index, /de/rechnertechnik/univac9400
+ * Zerstümmelung des Listenlayouts im /de/index-Inhalt in
+   /shared/css/start.css (auf Wunsch)
+
+ VERSION 5.5.1 - (26,04,2006 24:00)
+ ~~~~~~~~~~~~~
+ * neu /de/geraete/univac/werbung & /shared/../univac9400/werbung*
+   update /de/rechnertechnik/univac9400
+ * /de/rechnertechnik/analogrechner update wegen link auf en
+ * zahlreiche Updates in /en (kleine Verbesserungen)
+
+ VERSION 5.5 FINAL - (23.04.2006 23:44)
+ ~~~~~~~~~~~~~~~~~
+ * Erste Veröffentlichung der englischen Version unter /en
+ * /robots.txt verändert
+ Ausführliche Hinweise zu den Vorhaben und deren Umsetzung in
+ /etc/txt/v5.5.shtm
+
+ VERSION 5.5 BETA - (20.04.2006 23:50)
+ ~~~~~~~~~~~~~~~~
+ * /shared/photos neu strukturiert (in Unterordner eingeteilt)
+ * Umstellung aller Seiten auf XHTML
+ * Umstellung aller Seiten auf das neue Photos-Verzeichnis
+ * Kleinere Fehler entfernt
+ * Links auf englische Version bereits gesetzt
+ * Zusammenlegung von /de/inc/details.inc.shtm und
+   /de/inc/extra.inc.shtm
+ * CSS aktualisiert (u.a. /shared/css/print)
+ Die 5.5 ALPHA war die Ersteinführung von /en/, wurde aber
+ nicht dokumentiert. Während der Entwicklungsphase ist das
+ englische Projekt in /en-v5.5/ anzutreffen
+
+ VERSION 5.4.1 - (31.03.2006 22:30)
+ ~~~~~~~~~~~~~
+ * (Auf dringenden Wunsch) Screendesign kaputt gemacht
+   (Hässlicher Riesenabstand im Menü erzeugt)
+ * Kleinere Typo-Fehler beseitigt
+
+ VERSION 5.4 FINAL - (28.03.2006 22:00)
+ ~~~~~~~~~~~~~~~~~
+ * Sehr viele neue Inhalte (Univac-Seiten), große Updates
+ * Viele neue Bilder (z.B. Messtechnik, HP-Rechner, etc.)
+ * Viele geupdatete Dateien (quasi Komplettupdate)
+ * Neues CSS: additional.css
+
+ VERSION 5.2.16 - (15.12.2005 20:00)
+ ~~~~~~~~~~~~~~
+ * /de/index - Rechtschreibfehler entfernt, HTML gesäubert
+ zwischen v5.2.15 un v5.2.16 können unter Umständen undokumentierte
+ Änderungen an der Datei /de/index vorgenommen worden sein.
+
+ VERSION 5.2.15 - (06.11.2005 21:45)
+ ~~~~~~~~~~~~~~
+ Das technikum29 wurde am 05.11.05 eröffnet!
+ * /de/index - kleine Textänderung, Univac9400 Thumbnail Link
+ * /shared/photos/univac9400 - update
+ * /shared/photos/univac9400_thumb - für /de/index
+ * /de/geraete/univac9400 - große Version des Univac9400-Bildes
+
+ VERSION 5.2.14 - (03.11.2005 19:15)
+ ~~~~~~~~~~~~~~
+ Typo-Fehler durch Tante Sia
+ * /de/index - sonntags klein, ihr fehlt die Uhrzeit bei "Erste Öffnung"
+ * /de/suche - Kommatafehler nach "würden" und "alles"
+ * /de/rechnertechnik/analogrechner - x-y-Schreiber zu xy-Schreiber!?
+   10ms zu 10&nbsp;ms, und mehr (siehe diff zu $0-backup)
+ * /de/kommunikationstechnik/rundfunk - "das waren nur wenige" durch
+   Gedankenstriche abgegrenzt
+
+ VERSION 5.2.13 - (28.10.2005 02:05)
+ ~~~~~~~~~~~~~~
+ Typo-Fehler und ähnliches
+ * /de/lehrerinfo - Leerzeichen vor ? entfernt
+ * /de/kommunikationstechnik/faxtechnik - Solidität :
+ * /de/rechnertechnik/fruehe-computer - >> Details 2
+ * /de/rechnertechnik/analogrechner - placiert zu plaziert
+
+ VERSION 5.2.12 - (14.10.2005 19:40)
+ ~~~~~~~~~~~~~~
+ * /de/kontakt - Hinweis wegen Formular (war noch erreichbar)
+ * /de/index - Link zum Kontaktformular weggemacht
+
+ VERSION 5.2.11 - (13.10.2005 01:00)
+ ~~~~~~~~~~~~~~
+ * /de/kommunikationstechnik/tontechnik - Designfehler ist weg
+ * /de/rechnertechnik/ic-technik - hp-rechner haben mehr Abstand
+ * /de/index - richtiger Counter eingesetzt (siehe /etc/tmp/counter)
+ * unter Umständen andere kleinere undokumentierte Updates
+
+ VERSION 5.2.10 - (05.07.2005 22:40)
+ ~~~~~~~~~~~~~~
+ * /de/rechnertechnik/analogrechner - update
+ * /shared/photos/heathkit-analogrechner.jpg - neu
+ * /shared/photos/heathkit-analogrechner-ausschnitt.jpg -neu
+
+ VERSION 5.2.7 - (26.05.2005 15:30)
+ ~~~~~~~~~~~~~
+ * kleines Update von /shared/css/screen.css
+
+ VERSION 5.2.6 - (21.05.2005)
+ ~~~~~~~~~~~~~
+ * Es gibt wohl keine eigenen Programme mehr - siehe auch /dev/
+ * /de/impressum.shtm, /de/index.shtml update wegen Counter
+   und Mailprogramm
+
+ VERSION 5.2.5 - (16.05.2005 21:00)
+ ~~~~~~~~~~~~~
+ * /de/lehrerinfo.shtm update
+ * /shared/css/screen.css update (h2 margin-top)
+ * /de/fernsehen.shtm, /de/rundfunk.shtm & /de/faxtechnik.shtm
+   Designkorrektur
+
+ VERSION 5.2.4 - (13.05.2005 20:30)
+ ~~~~~~~~~~~~~
+ * /de/index.shtml     update
+ * /de/lehrerinfo.shtm neu
+ * /de/impressum.shtm  update
+
+ VERSION 5.2.3 - (12.05.2005)
+ ~~~~~~~~~~~~~
+ Einige Änderungen, u.a. an /de/index.shtml, /de/impressum.shtm,
+ /de/suche.shtm, /de/rechnertechnik/fruehe-computer.shtm
+
+ VERSION 5.2.2 - (02.05.2005 20:15)
+ ~~~~~~~~~~~~~
+ * /de/kommunikationstechnik/index.htm
+ * /de/rechnertechnik/index.htm
+ wurden entfernt und durch symlinks auf die jeweiligen Startdateien
+ der Homepageteile ersetzt. Vorteil: keine lästigen
+ "Weiterleitungs"-Nachrichten.
+ Zu Symlinks ("Softlinks") siehe auch
+ http://de.wikipedia.org/wiki/Symbolischer_Link
+
+
+ VERSION 5.2.1 - (01.05.2005 22:45)
+ ~~~~~~~~~~~~~
+ Designproblembehebungen
+ * /de/fernsehen.shtm, /de/rundfunk.shtm & /de/faxtechnik.shtm
+   Ausschnitte (ganz oben) Designkorrigierungen
+ * /de/tontechnik.shtm - Designproblem an Seitenende gelöst
+ * /de/index.shtml - Musemsgebäude-Box mehr Abstand und
+   Floating-problem gelöst, etc.
+ darüberhinaus geupdatet:
+ * /de/inc/head.inc.shtm
+ * /shared/css/screen.css
+ * /shared/css/screen.ie5-fixes.css
+ * /shared/css/start.css
+ Ungelöste Designprobleme: * Linkpfeile der Extraseiten für IEs
+ (siehe auch TODO.txt)     * Linkpfeile generell für IEs
+
+ VERSION 5.2 - (30.04.2005 23:00)
+ ~~~~~~~~~~~
+ Sehr viel inhaltliche Updates, neue Bilder
+ * geändert praktisch alles in /de/
+ * neue Bilder in /shared/photos/
+ * /shared/css/screen.css und extra.css
+
+ VERSION 5.1.2 - (25.04.2005 20:00)
+ ~~~~~~~~~~~~~
+ einige updates: fehlerseiten, /dev-Zone. zur Homepage:
+ * /shared/css/screen.css
+
+ VERSION 5.1.1 - (18.04.2005 23:30)
+ ~~~~~~~~~~~~~
+ * /de/inc/details.inc.shtm - Fehler: <h1 class="[lang]"> fehlte
+ * /shared/css/print.css - kleine optimierung
+
+ VERSION 5.1 FINAL RELEASE - (15.04.2005 21:24)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ 5.1 FINAL! Alle Zusammengefassten Neuheiten von Version 5.0 bis 5.1
+ siehe unter www.technikum29.de/etc/txt/v5.1.shtm
+ Changes von 5.1. Gamma:
+ * Geräteseiten haben jetzt richtige ul.nav-Linkbullets
+ * weitere kleine updates (z.b. gibt es jetzt richtige 404er im style)
+ aktualisiert/neu:
+ * /shared/css/screen.css, extra.css
+ * /shared/img/banner/int.jpg (internationaler banner)
+ * /de/inc/extra.inc.shtm (<h1><a ... => class="de")
+
+ VERSION 5.1 GAMMA RELEASE - (11.04.2005 22:30)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ kleine updates:
+ * /shared/css/screen.css
+ * /shared/css/print.css
+ neu: (aber nicht zur homepage gehörend)
+ * /shared/img/banner/index.html
+ * /shared/index.shtm
+
+ VERSION 5.1 BETA RELEASE - (10.04.2005 21:00 MES)
+ ~~~~~~~~~~~~~~~~~~~~~~~~
+ theoretischer update aller Dateien:
+ * Update aller inhaltsdateien: <h1> gespeichert in
+   head.inc um screen.css multilingual zu machen (unterschiedliche
+   sprachbanner mittels <h1 class="[lang]">
+ * Update einiger anderer Dateien in /de/geraete/
+ * Update von /en/index.htm
+
+ VERSION 5.1 ALPHA RELEASE - (10.04.2005 02:15 MES)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ * Neue Extraseiten mit neuen Funktionen:
+   * Eingliederung in Seitendesign (durch heading-zeile)
+   * Designoptimierung (richtiges design in richtigen browsern :)
+   * Links zu allen verlinkenden Seiten
+   aktualisiert:
+   * Geräteseiten /de/geraete/ komplett
+     * Umbenennung aller Seiten: .htm => .shtm
+     * Umbenennung diehl.htm => combitron.shtm
+       (Grund: diehl ist der Hersteller, combitron das Gerät)
+   * Details komplett
+     * Umbenennung der zwei Detail-Seiten: .htm => .shtm
+   neu:
+   * /de/inc/details.inc.shtm
+   * /de/inc/extra.inc.shtm
+ * komplettupdate aller inhaltichen unterseiten:
+   * /de/kommunikationstechnik/
+   * /de/rechnertechnik/
+   wegen neuen links zu spezialseiten
+ * css upgedatet:
+   * /shared/css/screen.css
+   * /shared/css/extra.css (neu)
+   * /shared/css/details.css
+ * neue dateien und umbenennungen wegen banner
+   * /shared/img/banner.jpg => banner.de.jpg
+   * alle möglichen banner-varianten umgezogen nach
+     /shared/img/banner/
+ * update von /de/suche.shtm: relationen hinzugefügt
+
+ VERSION 5.0.7 - (09.04.2005 20:40 MEW)
+ ~~~~~~~~~~~~~
+ * Update: /de/index.shtml
+   (aktualisierter text)
+ (tempörärer hinweis: 5.0.7 beinhaltet *nicht* 5.0.6)
+
+ VERSION 5.0.6 - (23.03.2005 18:30)
+ ~~~~~~~~~~~~~
+ Startseitenupdate
+ * neu: /shared/img/startseite-v2.jpg
+   (Versuch, das qualitativ schlechte Bild durch Objekte
+   des Originalbildes zu verbessern)
+ * Update von /shared/css/startseite.css; alle IEs stellen
+   jetzt den Link richtig dar
+ * Update von /index.html
+
+ VERSION 5.0.5 - (03.03.2005 22:00)
+ ~~~~~~~~~~~~~
+ * Analog- und Hybridrechner: Der Text und das Foto des
+   EAI 180 fehlten.
+   Geupdatet wurde /de/rechnertechnik/analogrechner.shtm
+ * Schriftgröße von h2 von 180% auf 150% gesenkt
+   Geupdatet wurde /shared/css/screen.css
+ * Update von /de/index.shtml: & zu &amp;, damit Seite
+   valide ist ;)
+
+ VERSION 5.0.4 - (03.03.2005 22:00)
+ ~~~~~~~~~~~~~
+ Aktualisierung der /de/index.shtml-Seite da ein simpler
+ Job für den Counter dort gestartet wurde (der Counter
+ wurde übrigens komplett upgedatet)
+
+ VERSION 5.0.3 - (03.03.2005 22:30)
+ ~~~~~~~~~~~~~
+ Viele Seiten validiert, screen.css sowie startseite.css
+ aktualisiert, /de/index.shtml aktualisiert,
+ /de/inc/head.inc.shtm aktualisiert.
+
+ VERSION 5.0.2 - (03.03.2005 21:00)
+ ~~~~~~~~~~~~~
+ Änderung von /de/impressum.shtm: Entfernen der logischen
+ Subüberschriften; anstatt der logischen Strukturierung
+ links jetzt die logische Strukturierung rechts.
+    1.Impressum            1. Impressum
+      1.1. Impressum       2. Kontakt
+      2.2. Kontakt
+ auf Wunsch von Heribert (...)
+ 
+
+ VERSIOn 5.0.1 - (03.03.2005 17:30)
+ ~~~~~~~~~~~~~
+ Update des Formmailers (/etc/mail)
+  * Behebung von Bugs
+  * Einführung des Verbose modes
+  * mehr Kommentare
+  * Programmierung eines Logsystems
+ zudem werden die Mails nun an post@technikum29.de gesendet.
+ Das Verzeichnis, in dem die versendeten E-Mails gespeichert
+ sind, ist /etc/mails/logs. Für dieses Verzeichnis gibt es
+ keine Zugriffsmöglichkeiten über das Web.
+
+
+ VERSION 5.0 FINAL - (02.03.2005 22:30)
+ ~~~~~~~~~~~~~~~~~
+ Finale 5.0 Version.
+
+ Ein paar Features der 5er-Version:
+
+  * komplette Homepage mit SSI's
+    * seperat gespeichertes Menü
+    * halbautomatisches Erkennen der Menüposition
+  * Formatierung komplett mit CSS, Suchmaschinenoptimierung
+  * strikte Sprachentrennung
+  * absolute Zugänglichkeit (Barrierefreiheit)
+
+ So ziemlich alle Dateien wurden nochmals upgedatet, die
+ Homepage ist fürs erste Fertig. Es gibt jedoch noch einige
+ unbedeutendere Designprobleme mit dem IE/den IE-Versionen,
+ sowie andere weniger wichtige Dinge wie die Updates der
+ Geräte-Seiten müssen noch vollzogen werden - siehe TODO.
+
+
+ VERSION 5.0 EPSILON RELEASE - (27.01.2005 23:00)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  * die absolute Startseite wurde gemacht
+  * die Links aller seiten auf die englische version gefixt,
+    englische infoseite erstellt
+  * verschiedenste Designoptimierungen, IE workarounds & more
+  * Menü wieder absolut (nicht mehr fixed, also mitscrollend)
+  * Footer in allen IEs richtig
+  * Formmailer und Impressum wurde gemacht
+  * Indexes (directorylistings) in allen /shared/-ordnern
+  * ...
+
+
+ VERSION 5.0 DELTA RELEASE (25.01.2005 19:00)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ Mitscrollendes Menü (testweise), Dateien dafür sind:
+ /de/inc/menu.shtm, /shared/css/screen.css,
+ /shared/img/scroller.menu.jpg, evv. /de/inc/header.shtm
+
+
+ VERSION 5.0 GAMMA RELEASE (20.01.2005 24:00)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ "Geräte"-Seiten gemacht, Details gemacht, Seitendesign soweit
+ zeitlich bereits möglich prefektioniert, inhaltich Verbesserungen
+ vorgenommen (nur bei Verlinkung). Seite ziemlich fertig, einige
+ Dinge stehen noch aus.
+
+
+ VERSION 5.0 BETA RELEASE (20.01.2005 12:00)
+ ~~~~~~~~~~~~~~~~~~~~~~~~
+ Erster Upload der neuen technikum29-Seite, wo der "alte" Inhalt
+ in das neue Design verplanzt wurde. Seiten komplett zugänglich
+ gemacht, "repariert", Design optimiert, Strukturen erstellt.
+
+
+ VERSION 5.0 ALPHA RELEASE (01.2005)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~
+ Vorstellung des neuen technikum29-Designs, noch kein Inhalt.
+ Anlegung der Ordnerstrukturen.
+ Veränderungen in nicht zur Homepage gehörenden Ordnern (/dev,
+ /etc, ...) werden nicht in dieser Versionszählung übernommen.

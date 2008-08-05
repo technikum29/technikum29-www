@@ -1,0 +1,35 @@
+
+  /**************************************************************\
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+ *                                                                *
+ *                           T O    D O                           *
+  \**************************************************************/
+
+  Für großangelegte Neuerungen und Änderungen siehe die technikum29-
+       Roadmap:  www.technikum29.de/etc/txt/roadmap.shtm
+
+ * Design für Navigationsstruktur, siehe:
+   * www.technikum29.de/etc/txt/roadmap
+   * www.technikum29.de/etc/txt/v5.3
+   * www.technikum29.de/etc/tmp/design/
+
+ * Geräteseiten:
+   * für optimiertes Suchmaschinenranking die ausgeblendeten
+     Überschriften (<h2>) einblenden, gekennzeichnet mit 
+     class="hidden"
+ 
+ * Design
+   * IE5.0 Rahmen des Headers
+     (Funktioniert in IE5.5 und IE6!)
+   * Linkpfeile im IE
+     * IE5 alle Linkpfeile in Extraseiten in Text reingerutscht
+     * IE5.5, IE6 Linkpfeile bei zweizeiligen Navigationslinks
+       in Extraseiten sind falsch
+     * alle IEs a.go & a.arrow in Inhaltsseiten
+   
+
+ 

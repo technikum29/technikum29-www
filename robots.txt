@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /etc/
+Disallow: /icons/
+Disallow: /dev/
+Disallow: /en/dev/
+Allow: /de/
+Allow: /en/
+Allow: /shared/

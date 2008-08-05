@@ -1,0 +1,63 @@
+
+/*------------------------------------------*
+ *          T E C H N I K U M 2 9           *
+ *               Kontakt CSS                *
+ *------------------------------------------*/
+
+   /* Stylesheet für das Kontaktformular
+    * Edit zu v5.5: da Formular seit langem nicht mehr vorhanden,
+    * bleibt das halt so rum
+    */
+
+form label {
+    font: bold 12px Verdana;
+    width: 90px;
+    float: left;
+    display: block;
+}
+
+form div.input, form div.error {
+    margin-bottom: 3px;
+    margin-left: 90px;
+    max-width: 473px;
+}
+
+form div.error {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #FFE6E6;
+}
+
+form div.error p {
+    margin: 0;
+    color: #F54548;
+}
+
+input.text, input.optional, textarea, input.error {
+    background-color: #F6F8FA;
+    border: 1px solid #3A6198;
+    font: 12px Verdana;
+    width: 470px;
+}
+
+input.optional {
+    color: #7090C0;
+}
+
+input.error {
+    border: 1px solid #B74860;
+    color: #B74860;
+}
+
+textarea {
+    height: 200px;
+}
+
+input.button {
+    font: 12px Verdana;
+    padding: 1px 3px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #FFFFFF #7090C0 #7090C0 #FFFFFF;
+    background-color: #BED0E5;
+}

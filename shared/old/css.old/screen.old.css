@@ -1,0 +1,240 @@
+
+  /**************************************************************\
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+ *                                                                *
+ *                       S C R E E N    C S S                     *
+  \**************************************************************/
+
+body {
+    margin: 0; padding: 0;
+    color: #000;
+    font: 13px Verdana,Tahoma,Helvetica,Arial,sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    border: none;
+}
+
+
+/***** HEAD *****/
+
+h1 {
+    margin: 0; padding: 0;
+    height: 85px;
+
+    background-color: #5E7FAD;
+    background-image: url(../img/banner.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+
+    border-bottom: 1px solid #3A6198;
+}
+
+h1 a span {
+    display: none;
+}
+
+h2 {
+    font: bold 150% Verdana;
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+div#lang {
+    position: absolute;
+    top: 86px; left: 0;
+    display: block;
+    width: 160px;
+    margin: 0; padding: 1px;
+    height: 13px;
+    border-top: 2px solid #C8C8C8;
+
+    text-align: center;
+
+/*
+    background-color: #ACBDD4;
+    background-image: url(../img/lang.bg.png);
+    background-position: top left;
+    background-repeat: repeat-y;
+
+    border-bottom: 1px solid #0B387C;
+*/
+}
+
+div#lang a {
+    color: #416397;
+    font-size: 90%;
+}
+
+/***** GENERAL *****/
+
+#menu {
+    position:absolute;
+    top: 100px;
+    left: 0;
+    width: 160px;
+    padding-top: 10px;
+}
+
+#content {
+    margin-left: 160px;
+    padding: 10px;
+    border-top: 2px solid #C8C8C8;
+    border-bottom: 2px solid #C8C8C8;
+}
+
+/***** MENU *****/
+
+#menu ul, #menu li {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: inline;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+
+#menu li a.t {
+    /* Menüeintrag obersten Levels */
+    color: #000;
+    margin: 1.1em 0 2px 1px;
+
+    display: block;
+    border-width: 1px 1px 1px 0.8em;
+    border-style: solid;
+    border-color: #305992 #305992 #305992 #0C377A;
+
+    padding: 1.2px;
+}
+
+#menu li.on a.t {
+    /* Menüeintrag oberstes Level, das selektiert ist */
+    border-color: #396CBF;
+}
+
+#menu li li a {
+    /* Submenüeinträge */
+    display: block;
+    margin: 0 0 1px 10px;
+    color: #224B88;
+
+    background-position: 0 2px;
+/*  background-position: 0 50%;  - geht nur bei einzeiligen links*/
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+#menu li li a:link, #menu li li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+#menu li li a:hover {
+    color: #882224;
+    background-image: url(../img/double-hot.a.png);
+}
+
+/***** TEXT *****/
+
+p {
+    text-align: justify;
+}
+
+a:link, a:visited {
+    color: #224B88;
+    text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #882224;
+    text-decoration: underline;
+}
+
+a.arrow {
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+a.arrow:link, a.arrow:visited {
+    background-image: url(../img/double.a.png);
+}
+
+a.arrow:hover, a.arrow:active, a.arrow:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/****** FOOTER *****/
+
+#rel {
+    border-top: 1px solid #3A6198;
+    background-image: url(../img/body.bg.png);
+    background-color: #5F80AE;
+    background-repeat: repeat-y;
+    background-position: top left;
+
+    color: #eee;
+}
+
+div.space {
+    width: 100%;
+    display: block;
+    height: 1px;
+    overflow: hidden;
+}
+
+html > body div.space {
+    height: 30px;
+}
+
+div#rel ul, div#rel li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+div#rel li a {
+    color: #FFF;
+}
+
+div#rel li {
+    background-repeat: no-repeat;
+}
+
+div#rel li.up, div#rel li.prev {
+    background-position: 0 2px;
+    padding-left: 13px;
+}
+
+div#rel li.up {
+    float: left;
+    width: 160px;
+    margin: 1px;
+    background-image: url(../img/up.rel.gif);
+}
+
+div#rel li.next {
+    float: right;
+    width: 30%;
+    text-align: right;
+    background-position: right 2px;
+    padding-right: 13px;
+    background-image: url(../img/next.rel.gif);
+}
+
+div#rel li.prev {
+    float: left;
+    width: 30%;
+    text-align: left;
+    background-image: url(../img/prev.rel.gif);
+}
+

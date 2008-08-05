@@ -1,0 +1,698 @@
+/***************************************************************************\
+|       _         _         _                                               |
+|      /\ \     /\ \      / /\          technikum29.de                      |
+|      \_\ \   /  \ \    / /  \         Screendesign der Version 5.7        |
+|      /\__ \ / /\ \ \  / / /\ \                                            |
+|     / /_ \ \\/_/\ \ \/_/ /\ \ \       Seit Version 5.7 default-css fuer   |
+|    / / /\ \ \   / / /\ \ \_\ \ \      die Homepage. screen.css steht      |
+|   / / /  \/_/  / / /  \ \/__\ \ \     jedoch immer noch als gleichwertige |
+|  / / /        / / /  _ \_____\ \ \    Alternative zur Verfuegung.         |
+| / / /        / / /_/\_\       \ \ \                                       |
+|/_/ /        / /_____/ /        \ \ \  Alle "Spezialstyles" fuer einzelne  |
+|\_\/         \________/          \_\/  Inhaltsseiten sind in common.css    |
+|                                       mit dem ehemal. print.css           |
+|                                       zusammengefasst.                    |
+|                                                                           |
+| IE6-Workarounds sind hauptsaechlich in fresh-iefixing.css festgehalten!  |
+\***************************************************************************/
+
+/*
+ * "fresh" -- das klingt nach Freiheit, Frische, Vitalitaet, ein Design, was
+ * alte Zoepfe abschneidet trotzdem aestetisch schoen ist. So oder so aehnlich
+ * war es auch in der ersten Version geplant -- was in dieser hier vorliegenden
+ * Endfassung davon uebrig geblieben ist, haben viele Leute unabhaengig von-
+ * einander auf den Punkt gebracht: Konservativ. Jedes einzige der "frischen"
+ * Elemente wurde in einer zaehen, langen Woche Stueck fuer Stueck entfernt
+ * und durch etwas ersetzt, was in seiner Ganzheit nun von einigen Leuten als
+ * schlichtweg "haesslich", von anderen als "konservativ" und "altbacken" be-
+ * zeichnet wird. Eigentlich trifft nur eins zu: Es trifft vermutl. im Grossen
+ * und ganzen die Vorstellungen des "Kunden", wenn auch jede Hoffnung auf das,
+ * was man von einem "Redesign" erhoffen koennte, weitgehend gestorben ist.
+ * So bleibt nur noch der Name, den ich - entgegen jedem Frust - aus Hoffnung
+ * heraus nicht in "conservative.css" geaendert habe. Denn auch Rueckschritt
+ * kann Frische bringen, und, um mit den Worten der Leute zu schliessen, die
+ * das Design als "neutral" und "nicht schlecht" empfunden haben, es passt doch
+ * zu einem Museum auch ein bisschen.
+ * In diesem Sinne viel Spass beim Lesen eines Stylesheets, was meinem Empfinden
+ * nach fuer ein solches Aussehen ueberpropertional umfangreich ist.
+ *  -- Sven, 15.07.2007 23:00
+ */
+
+
+body {
+    margin: 0; padding: 0;
+    color: #000; background-color: #fff;
+    font-family: Verdana,Tahoma,Helvetica,Arial,sans-serif;
+    /* exiplit keine font-size */
+}
+
+.hidden { display: none; }
+img     { border: none; }
+.center { text-align: center; }
+.clear  { /* clearendes element, inhalt egal */
+          display: block; clear: both;
+          height: 2px; overflow: hidden; }
+
+/*
+ * Table of contents:
+ *   1. Banner
+ *   2. General page layout (#wrapper, #page, #menu, #content,...)
+ *   3. Sidebar (Menu, language link,...)
+ *   4. Common content
+ *   5. Image box design
+ *   6. Footer (Relations, copyright)
+ *
+ */
+
+
+/*****\
+|*****| 1. Banner
+\*****/
+
+h1 {
+    margin: 0; padding: 0;
+    height: 98px;
+    text-align: center;
+    background-color: #5E7FAD;
+    background-repeat: repeat-x;
+    background-image: url(../img/fresh.design/freshbanner.bg.png);
+}
+
+h1 a {
+    /* Schriftzug als Link zu /[Sprache]/ */
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -438px;
+    /*margin-left: auto;
+    margin-right: auto;*/
+    display: block;
+
+    /* background-image: multilangual => h1.[lang] a */
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 877px;
+    height: 96px;
+}
+
+h1.de a {
+    /* Deutscher Banner */
+    background-image: url(../img/banner/big.de.png);
+}
+
+h1.en a {
+    /* English banner */
+    background-image: url(../img/banner/big.en.png);
+}
+
+h1.int a {
+    /* International banner (Deutsch grosse Schrift, englisch klein drunter) */
+    background-image: url(../img/banner/int.jpg);
+}
+
+h1.none a {
+    /* Banner with no subtitle in any language */
+    /* Banner mit ueberhaupt keinem Subtitel */
+    background-image: url(../img/banner/logo.jpg);
+}
+
+h1 a span, h1 .old, #h1-subtitle {
+    /* a span: Beschriftung fuer Druck/designlose Darstellung */
+    /* h1 .old, #h1-subtitle: Legacylast zwecks Kombatibilitaet screen.css */
+    /* #h1-subtitle hiess frueher #h1border und wird jetzt im printlayout genutzt */
+    display: none;
+}
+
+
+/*****\
+|*****|  2. General Page Layout (#sidebar, #content, #page,...)
+\*****/
+/* An dieser Stelle nur Groessen der Bereiche regeln, kein Design */
+
+#wrapper {
+    /* Wrapper, der #content und #sidebar umfliesst. Er ist fuer
+       min-width notwendig, damit #sidebar aus dem Bildschirm ver-
+       schwinden kann. Hier wird auch der Hintergrund definiert */
+    position: relative;
+    min-width: 1020px;
+
+    background-position: top right;
+    background-image: url(../img/fresh.design/menu-bg/binary.png);
+    background-repeat: repeat-y;
+    /*background-attachment: fixed; netter effekt, aber komisch */
+}
+
+/* NAVIGATIONSLEISTENHINTERGRUENDE
+ * Die Klasse um #wrapper rum ist einfach die $location-SSI-Variable.
+ * Wegen IE6 braucht's leider noch einen Wrapper um den #wrapper :/
+ */
+.rundfunk #wrapper, .tontechnik #wrapper { background-image: url(../img/fresh.design/menu-bg/rundfunk.jpg); }
+.fernsehen #wrapper { background-image: url(../img/fresh.design/menu-bg/frensehen.jpg); }
+.messtechnik #wrapper { background-image: url(../img/fresh.design/menu-bg/messtechnik.jpg); }
+.elektro-mechanik #wrapper { background-image: url(../img/fresh.design/menu-bg/elektro-mechanik.jpg); }
+.tabelliermaschine #wrapper { background-image: url(../img/fresh.design/menu-bg/tabelliermaschine.png); }
+.lochkarten #wrapper { background-image: url(../img/fresh.design/menu-bg/lochkarte.jpg); }
+.speichermedien #wrapper { background-image: url(../img/fresh.design/menu-bg/speichermedien.png); }
+.transistoren #wrapper { background-image: url(../img/fresh.design/menu-bg/transistoren.png); }
+.fruehe-computer #wrapper { background-image: url(../img/fresh.design/menu-bg/fruehe-computer.png); }
+.analogrechner #wrapper { background-image: url(../img/fresh.design/menu-bg/analogrechner.png); }
+.elektronenroehren #wrapper { background-image: url(../img/fresh.design/menu-bg/elektronenroehren.jpg); }
+
+
+#sidebar {
+    /* Rechte Seitenleiste, relativ zum #wrapper */
+    position: absolute;
+    right: 0; top: 98px;
+    width: 210px;
+    padding: 10px 20px 0 0;
+}
+
+#content, .content {
+    /* Allgemeines fuer Inhalt */
+    /*font-family: "Times New Roman", "Times", serif;*/
+    /*font-size: 105%;*/
+    line-height: 125%;
+}
+
+#content {
+    /* Inhalt (nur in Zusammenhang mit #menu nutzen!) */
+    margin-right: 230px; /* #sidebar.width + 2*#sidebar.padding! */
+    padding: 5%;
+    padding-bottom: 0;  /* Kleines Workaround, um keine Riesenabstaende */
+    margin-bottom: 5%;  /* unten zu kriegen, denn margins ueberlagern sich */
+
+    min-height: 1000px;
+    height: 1000px; /* IE workaround */
+    overflow: visible;
+    position: relative; /* für #sidebar-footnote, absolut dazu positiniert */
+}
+
+html>body #content { height: auto; }
+
+#page, .content {
+    /* Fuer seiten ohne #menu */
+    /* muss man ggf. noch anders regeln */
+    margin: 2em;
+}
+
+
+/*****\
+|*****|  3. Sidebar: Menue, Languagelink, Footnote
+\*****/
+
+#sidebar {
+    font-size: 12px;
+    /*background-color: #fafafa; geregelt als img für #wrapper */
+    font-weight: bold; /* Herihässlich */
+}
+
+#lang {
+    /* Link auf englische/deutsche Version, auffällig  */
+    margin: 12px 0 20px 0;
+}
+
+#lang a {
+    display: block;
+    line-height: 140%;
+    padding: 5px 12px 5px 20px;
+    background-color: #fff;
+    /*background-image: url(../img/fresh.design/langbg.menu.png);*/
+    text-decoration: none;
+    border: 1px solid #5D7EAB;
+}
+
+#lang a:hover, #lang a:focus {
+    border: 1px outset #5D7EAB;
+    color: #000;
+    background-color: #f90;
+    background-image: url(../img/fresh.design/orangebg.menu.png);
+}
+
+/* Menue */
+#menu ul.l1 {
+    /* Menue Level1, Hauptmenue */
+    list-style: none;
+    margin: 0; padding: 0;
+}
+
+#menu li {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: inline;
+}
+
+#menu ul ul {
+    margin: 0; padding: 0;
+}
+
+/* Beschreibung aller allgemeinen Links */
+#menu a, #menu em {
+    /* a=link, em=Kategorieueberschrift, a.on=hier ist man */
+    text-decoration: none;
+    display: block;
+    padding: 6px 3px 6px 20px;
+    position: relative; /* fuer absolut positionierbares #menu a span */
+    margin: 1px; /* Nicht mehr als ruckelkompensation */
+}
+
+/* Beschreibung der Elemente der Hauptkategorie */
+#menu em.l1, #menu li.l1 a:link, #menu li.l1 a:visited, #menu li.l1 a.on {
+    /* die zwei Ueberschriften fuer Hauptunterkategorien &      ^--- a.on nur wegen margin-top-dominanz!
+       Ausserdem die Links der Hauptkategorie
+       Achtung: #menu a.on muss das hier teilweise ueberschreiben, siehe
+                weiter unten
+    */
+    margin-top: 15px !important; /* wird sonst von #menu a:link ueberschrieben */
+    /*text-align: right;*/
+    font-weight: bold;
+    font-style: normal;
+    color: #fff;  /*#5D7EAB;*/
+    /*background-color: #5d7eab;*/
+    background-image: url(../img/fresh.design/headl1-bg.menu.png);
+    /*border: 1px outset #5d7eab;*/
+    border-top: 2px solid #d9e0ea;
+    border-left: 2px solid #d9e0ea;
+    border-right: 2px solid #929dad;
+    border-bottom: 2px solid #929dad;
+}
+
+/* Allgemeiner Orange-Hover-Effekt (muss unter li.l1 a stehen) */
+#menu a:hover, #menu li.l1 a:hover {
+    /* alle gehoverten Links */
+    background-color: #f0d994;
+    background-image: url(../img/fresh.design/orangebg.menu.png);
+    color: #000;
+    border: 1px outset #ffbf00;
+    padding: 5px 2px 5px 19px; /* um den 1px border zu kompensieren (gegen ruckeln) */
+}
+
+#menu li.l1 a:hover {
+    /* Um 1px Rahmen wieder zu ueberschreiben */
+    border-width: 2px;
+    /* und um 2px-Kompensation zu überschreiben, da sich rahmenbreite nicht ändert */
+    padding: 6px 3px 6px 20px;
+}
+
+#menu li.long a:hover, #menu li.long3 a:hover {
+    /* fuer mehrzeilige (lange) Links langer Hintergrund */
+    /* long3 wird zwar bis jetzt  nicht mehr genutzt, aber egal. */
+    background-image: url(../img/fresh.design/orangebg-long.menu.png);
+}
+
+#menu ul.l2 {
+    /* Erstes Unterkategorielevel Abstand von erstem Link
+       kompensieren um direkten Anschluss an die Ueberschrift
+       zu gewaehrleisten */
+    margin-top: -2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#menu ul.l2:hover, #menu li.on ul.l2 {
+    /* Unterkategorien gehovert/aktiv - allgemein - Hintergrundfarbe */
+    /*background-color: #DEE5EE;*/
+    background-image: url(../img/fresh.design/catl1-bg.menu.png);
+}
+
+/*
+Besuchte-Seiten-Haeckchen letzendlich voellig entfernt :(
+#menu ul.l2 a:visited span {
+    * Link-Span fuer Haeckchen fuer bereits besuchte
+       Seiten anzeigen nutzen *
+    right: 0;
+    width: 18px; height: 26px;
+    background-image: url(../img/fresh.design/visitedbg.menu.png);
+}
+#menu ul.l2 li.long a:visited span,
+#menu ul.l2 li.long3 a:visited span {
+    height: 42px;
+}
+*/
+
+#menu ul.l2 a:link span, #menu ul.l2 a:visited span, #menu li.l3 em span {
+    /* Allgemeine Listenpunkte (kleine blaue Pfeile) */
+    display: block;
+    position: absolute;
+    top: 0; left: 0;
+    width: 20px; height: 20px;
+    overflow: hidden; /* wegen &nbsp;-Inhalt */
+    background-image: url(../img/fresh.design/arrowbg.menu.png);
+    background-repeat: no-repeat;
+    background-position: 6px 7px;
+}
+
+body>html #menu ul.l2 a:hover span { /* IE darf nicht mitmachen, der positioniert anders */
+    /* position:absolute geht nach border, und der ist jetzt 1px breit */
+    top: -1px; left: -1px;
+}
+
+#menu ul.l2 a:focus span {
+    /* Ausblenden bei focus -> da kommt der schwarze grosse Pfeil */
+    display: none;
+}
+
+/* Beschreibung der Elemente zur 2. Unterkategorie */
+/* Hover-Effekt: Zunaechst Erscheinen wie normale Links */
+#menu li.l3 em {
+    /* Ueberschriften der Unterkategorien Level2 */
+    font-weight: bold;
+    font-style: normal;
+    color: #224B88;
+    /* siehe auch z.317 direkt hier drueber wegen allgemeinen Listenpunkten */
+}
+
+#menu li.l3 ul {
+    display: none; /* nichtanzeige bei nicht-hover */
+}
+
+#menu li.l3:hover ul, #menu li.l3 div.on ul {
+    /* Unterkategorien Level3 - gehovert -- vgl. z. 363 wegen zusammenfuehrung wenn das bleibt */
+    display: block;
+    margin-top: -2px;
+    padding: 5px 0 5px 10px;
+    background-image: url(../img/fresh.design/catl2-bg.menu.png);
+    /*background-color: #BACEEC;*/
+    /*border-left: 5px solid #d4d4d4;*/
+}
+
+#menu li.l3:hover em, #menu li.l3 div.on em {
+    /* Ueberschrift der Unterkategorien Level2 -- gehovert oder aktiv */
+    border-bottom: 1px solid #d4d4d4;
+    background-image: url(../img/fresh.design/headl2-bg.menu.png);
+    color: #000;
+}
+
+#menu li.l3:hover em span, #menu li.l3 div.on em span {
+    /* Icon wird runtergefahren */
+    background-image: url(../img/fresh.design/subarrow.menu.png);
+    background-position: 4px 10px;
+}
+
+#menu a.on, #menu a.on:hover, #menu a:focus, #menu li.l1 a.on, #menu li.l1 a:focus { /* #menu a.on.l1, #menu a.on.l1:hover */
+    /* Formatierung des Dings, wo man gerade ist */
+    /* Dort soll ein schwarzer Pfeil links raushaengen */
+    background-image: url(../img/fresh.design/blackarrow.menu.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    color: #000;
+    margin-left: -12px;
+    padding: 6px 5px 6px 31px; /* gegen :hover-Ueberschreibung */
+    font-weight: bold;
+    height: 19px;
+    /* gegen allgemeines #menu a:hover */
+    background-color: inherit !important;
+    border: none !important;
+}
+
+#menu li.long a.on, #menu li.long a.on:hover, #menu li.long a:focus {
+    /* Zweizeilige oder dreizeilige Elemente */
+    background-image: url(../img/fresh.design/blackarrow-long.menu.png);
+    height: 32px;
+    /* ggf. :focus-Teil entfernen, der laesst den Pfeil bereits */
+    /* vor dem Laden der neuen Seite erscheinen */
+}
+
+#menu li.long3 a.on, #menu li.long3 a.on:hover, #menu li.long3 a:focus {
+    /* Dreizeilige Elemente */
+    background-image: url(../img/fresh.design/blackarrow-long3.menu.png);
+    height: 48px;
+}
+
+#sidebar-footnote {
+    /* Container, der in #content steckt und rechts in der Seitenleiste 
+       angeordnet wird und z.B. benutzt werden kann, um auf den Hintergrund
+       einzugehen. */
+    position: absolute;
+    /* Position relativ zum inneren padding von #content! */
+    bottom: 0;
+    right: -230px;
+    width: 230px;
+}
+
+#sidebar-footnote a {
+    display: block;
+    padding: 1em;
+    text-align: center;
+}
+
+
+
+/*****\
+|*****|  4. Common Content
+\*****/
+
+h2 {
+    font-weight: bold;
+    font-size: 160%;
+    line-height: 125%; /* wird sonst relativ zu falscher schriftgroesse vererbt */
+    margin: 0 0 0.7em 0;
+    padding: 0;
+}
+
+p { text-align: justify; }
+
+a:link, a:visited {
+    color: #224B88;
+    text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #882224;
+    text-decoration: underline;
+}
+
+/*
+  Links mit Pfeilen: a.go & a.arrow
+  entweder mit Bildern oder mit &raquo;-Dooppelpfeil
+*/
+
+/*a.arrow:before, a.go:before {
+    content: "»";
+    text-decoration: none;
+    padding-right: 0.5em;
+    font-weight: bold;
+}*/
+
+html>body a.arrow,
+html>body a.go {
+    background-position: center left;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+html>body a.arrow:link,
+html>body a.arrow:visited,
+html>body a.go:link,
+html>body a.go:visited {
+    background-image: url(../img/fresh.design/arrowbg.a.png);
+}
+
+html>body a.arrow:hover,
+html>body a.arrow:active,
+html>body a.arrow:focus,
+html>body a.go:hover,
+html>body a.go:active,
+html>body a.go:focus {
+    background-image: url(../img/fresh.design/arrowbg-hot.a.png);
+}
+
+html>body #content ul {
+    /* Allgemeine Listen: Listenzeichen Dreieck */
+    list-style-image: url(../img/fresh.design/arrowbg.menu.png);
+    /* transparentes PNG => IE bitte nicht. */
+}
+
+/*  Navigationslisten: <ul class="nav">/<ul id="nav">
+    werden im Prinzip nur von Extraseiten (/de/geraete) verwendet
+*/
+
+ul.nav, ul#nav {
+    list-style: none;
+    padding: 0;
+}
+
+ul.nav li, ul#nav li {
+    margin: 0;
+    padding: 0;
+}
+
+ul.nav li a, ul#nav li a {
+    padding-left: 13px;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+ul.nav li a:link, ul#nav li a:link,
+ul.nav li a:visited, ul#nav li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+ul.nav li a:hover, ul#nav li a:hover,
+ul.nav li a:active, ul#nav li a:active,
+ul.nav li a:focus, ul#nav li a:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/*****\
+|*****|  5. IMAGE BOX DESIGN
+\*****/
+
+#content .box, .content .box {
+    /* .box als allgemeine Klasse fuer abstandswuerdige */
+    /* Objekte (.center/.right/.left zum Beispiel) */
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+#content .left img, .content .left img {
+    /* Links ausgerichtetes Bild mit Abstand drumherum */
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
+#content .right img, .content .right img {
+    /* Rechts ausgerichtetes Bild mit Abstand drumherum */
+    float: right;
+    margin: 0 0 2em 2em;
+}
+
+#content .center img, .content .center img {
+    /* Mittig ausgerichtetes Bild mit Abstand drunter */
+    margin: 0 0 0.3em 0;
+}
+
+#content img.nomargin, .content img.nomargin {
+    /* Links/rechts/mittig ausgerichtetes Bild mit exiplit keinem Abstand */
+    margin: 0;
+}
+
+#content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
+.content .left img.nomargin-bottom, #content .right img.nomargin-bottom {
+    /* Zur absoluten Perfektion: Kein Abstand unter dem Bild bei links/rechts-fliessendem
+       (nur machbar, wenn der Text nicht umbrechen wird, weil er einfach zu kurz ist).
+       Dadurch wird der viel zu grosse Abstand unter einer .box verhindert, den ein
+       .clear dann erzeugt. */
+    margin-bottom: 0;
+}
+
+#content .left .bildtext, .content .left .bildtext,
+#content .right .bildtext, .content .right .bildtext {
+    /* p.bildtext oder div.bildtext: Kein Abstand! */
+    text-align: justify;
+    /* Im Endeffekt ist .bildtext hier unnoetig! */
+}
+
+#content .center .bildtext, .content .center .bildtext {
+    /* p.bildtext oder div.bildtext im center = Abgrenzung links/rechts */
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#content .center .bildtext-bildbreite, .content .center .bildtext-bildbreite {
+    /* Text zentriert unter dem Bild in der Breite des Bildes */
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*****\
+|*****|  6. FOOTER
+\*****/
+
+#footer {
+    /* Seitenrelationenleiste ganz unten */
+    clear: both; padding: 0;
+    font-size: 12px;
+
+    /*border-top: 2px solid #C8C8C8; color: #eee;*/
+    /*background: #5F80AE url(../img/fresh.designbody.bg.png) repeat-y top left;*/
+    background-image: url(../img/fresh.design/bg.footer.png);
+    background-repeat: repeat-x;
+    background-position: top left;
+    background-color: #305690; /* fallback */
+
+    position: relative;
+    height: 58px;
+
+    border-top: 1px solid #0B0F07;
+}
+
+#footer .border {
+    /* Legacy zwecks Kompatibilitaet zu screen.css */
+    display: none;
+}
+
+#footer ul, #footer li {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: inline;
+}
+
+#footer li a {
+    color: #000;
+    display: block;
+    position: absolute;
+    top: 0;
+    text-decoration: none;
+
+    color: #fff;
+    margin: 8px 20px;
+    padding: 5px;
+    /*min-width: 30%;*/
+    background-repeat: no-repeat;
+}
+
+#footer a:hover, #footer a:focus {
+    background-color: #b5c4d9;
+    color: #000;
+}
+
+#footer li.prev a {
+    left: 0;
+    background-position: left center;
+    background-image: url(../img/fresh.design/white-left.footer.png);
+    padding-left: 22px;
+}
+
+#footer li.next a {
+    right: 220px;
+    background-position: right center;
+    background-image: url(../img/fresh.design/white-right.footer.png);
+    padding-right: 22px;
+    text-align: right;
+}
+
+#footer li.up a {
+    right: 5px;
+    width: 195px;
+    background-position: right center;
+    background-image: url(../img/fresh.design/white-up.footer.png);
+    padding-right: 22px;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: right;
+}
+
+#footer .ieFixPNG {
+    /* Hell of IE5.5. and IE6 */
+    display: none;
+}
+
+/*****\
+|*****|  7. COPYRIGHT/IMPRESSUM
+\*****/
+
+#copyright  {
+    background-color: #fff; /* um bodybg auszublenden */
+    margin: 0;
+    padding: 17px 5%; /* 20% war vorher*/
+
+    font-size: 13px;
+    font-weight: bold;
+    color: #808f93;
+    text-align: center;
+}
+
+
+/* EOF */

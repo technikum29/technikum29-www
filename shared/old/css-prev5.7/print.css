@@ -1,0 +1,76 @@
+
+  /**************************************************************\
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+ *                                                                *
+ *                        P R I N T    C S S                     *
+  \**************************************************************/
+
+/*
+    v5 testing changes:
+       body: font:  12pt => 100%
+       a: links als solche unkenntlich gemacht
+       h1: experimentell: für intellgente Browser erheblich
+           erweiterten Anfang (technikum29 + Banner...)
+*/
+
+body {
+    margin: 1em; padding: 0;
+    color: #000;
+    font: 100% "Times New Roman",Times,serif;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    border: none;
+}
+
+h1 {
+    margin: 0; padding: 6px 0;
+    border-bottom: 1px solid #AAA;
+    text-align: center;
+
+    font: 180% Arial,Verdana,Helvetica,sans-serif;
+}
+
+h1 a, h1 a span {
+    color: #AAA !important;
+    text-decoration: none !important;
+}
+
+h1 span.d:after {
+    content: "Museum für Rechner-, Computer- und Kommunikationstechnik";
+}
+
+h1 span.d {
+    display: block;
+    font-size: 60%;
+}
+
+h2 {
+    font-size: 150%;
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+div#lang, #menu, #rel {
+    display: none;
+}
+
+/***** TEXT *****/
+
+p {
+    text-align: justify;
+    line-height: 110%;
+}
+
+a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+}

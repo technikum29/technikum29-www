@@ -1,0 +1,127 @@
+/*
+    Technikum29 CSS fr Startdatei ([lang]/index.shtml)
+
+    Komplett nach common.css umgezogen, nur noch zwecks Kompatibilitaet hier
+    
+    ****
+    **** v5.7 FRESH UP:
+    ****    Kompatiblität nur noch zu /en/index erhalten, wenn /en
+    ****    aufs neue Design umgestellt ist, wird diese datei nicht
+    ****    mehr gebraucht!!!
+    ****
+    ****
+    ****
+*/
+
+/* .desc-right und .aktuell sind nach common.css umgezogen */
+
+div.desc-right {
+    /**
+     * rechts gefloatetes thumbnail mit Beschreibungstext
+     */
+
+    float: right;
+
+    margin: 0 0 10px 20px;
+/*  width: 236px; */
+
+/*  border: 1px solid #7090C0;
+    background-color: #EBEBEB; */
+}
+
+div.desc-right img {
+    border: 1px solid #094099;
+}
+
+div.desc-right p {
+    width: 300px;
+    margin: 0; padding: 0;
+    font-size: 90%;
+    text-align: left;
+}
+
+
+
+div.aktuell {
+    /**
+     * "Aktuelle Bilder"-Bereich
+     */
+
+    border: 1px solid #7090C0;
+    padding: 5px;
+    clear: both;
+
+    /**  fr rechts floatende Aktuell-Box: */
+   /* float: right; width: 300px; margin: 10px 0 20px 20px;*/
+}
+
+div.aktuell h2 {
+    margin: 1px;
+    padding: 0;
+}
+
+div.aktuell .stand {
+    font-size: 80%;
+    text-align: center;
+    margin-top: 1px;
+}
+
+div.aktuell p {
+    margin: 20px 4px;
+/*  clear: both;*/
+}
+
+/* folgendes waren vermutlich die Bildergalerien -- seit Ewigkeiten nicht mehr genutzt! */
+div.float {
+/*  border: 1px solid black; */
+    text-align: center;
+    width: 650px;
+    margin:auto;
+}
+
+html>body div.float {
+    max-width: 650px;
+    /* ... */
+}
+
+div.float .c {
+    clear: both;
+}
+
+ul.float {
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+}
+
+ul.float li {
+    display: inline;
+    float: left;
+}
+
+ul.float li img {
+    margin: 3px;
+    width: 198px;
+    height: 148px;
+
+}
+
+ul.float a:link img, ul.float a:visited img {
+    border: 1px solid #F2FCFF;
+}
+
+ul.float a:hover img, ul.float a:focus img {
+    border: 1px solid #2C5494;
+}
+
+/* Speziallistenformatierungen... (sehr unschoen) */
+/** => Umgezogen nach common.css als ul.ugly ;-) */
+#content ul {
+   list-style: disc inside;
+    margin-left: 0;
+    text-align: justify;
+}
+
+html>body #content ul {
+    padding: 0;
+}

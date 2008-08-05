@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>technikum29.de /shared/photos</title>
+    <link rel="stylesheet" href="/shared/css/screen.css" title="technikum29.de">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/etc/src/heading.shtm" -->
+
+<pre>
+
+   Umgestaltung des Photoverzeichnisses mit Version 5.5
+
+   * Bilder werden nach Kategorien in Ordner eingeteilt (z.B. Start, Rechnertechnik,
+     Kommunikationstechnik)
+
+   * Für Hersteller/Bildergalerien/etc., die viele Bilder umfassen, sollten
+     Unterordner geschaffen werden (z.B. UNIVAC, DEC, ...)
+
+   * einheitliches Format von Dateinamen:
+        (hersteller)_nameNummer.jpg  oder ...-nameNummer.jpg
+        maximale Informationen und trotzdem kürzester Name
+
+        z.B.  dec_pdp8.jpg  telefunken_rat800.jpg   eai180.jpg
+              wang2200.jpg  hellfax_bs110.jpg       loewe_ferrofon.jpg
+        aber auch           funktionsschema.gif     galvanometer.jpg
+                            anita-anzeige.jpg
+
+   * einheitliches Format von Dateinamen zur Speicherung von Vorschaubildern
+     (Thumbnails):
+       (dateiname)<b>.thumb</b>.jpg      oder    (dateiname).klein.jpg
+
+   * einheitlichs Format von Dateinamen zur Archivierung:
+       (dateiname)<b>.old</b>.jpg    (dateiname).old[X].jpg
+       wenn nötig auch:    old.(dateiname).jpg
+
+
+   * prinzipiell natürlich:
+     * nur Kleinschreibung
+     * keine Leerzeichen, keine Sonderzeichen
+
+   * vor allem gilt auch:
+     * Niemals alte Versionen wegschmeißen, falls sie nicht trivial sind!
+
+
+
+  13.04.2006/17:30 für Version 5.5
+<pre>
+
+</body>
+</html>

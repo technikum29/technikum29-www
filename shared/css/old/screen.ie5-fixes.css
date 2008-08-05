@@ -1,0 +1,17 @@
+/*
+    technikum29.de
+    screen-layout
+    Additional Fixes for IE 5.0 & 5.5
+    (not IE6)
+*/
+
+div.space {
+    width: 100%;
+    display: block;
+    height: 40px;
+    overflow: hidden;
+}
+
+div#lang {
+    top: 84px; left: 0;
+}

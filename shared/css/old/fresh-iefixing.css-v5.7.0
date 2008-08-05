@@ -1,0 +1,193 @@
+/*
+ * technikum29 fresh design (seit v5.7)
+ * Spezialcss fuer IE6, ueber Conditional Comments eingebunden
+ * IE5 wird per Conditional Comment automatisch auf das alte Design umgestellt
+ *
+**   Für das größte Stückchen Softwarescheiße, welches die Welt
+**   je erlebt hat, dieses exklusive CSS mit Microsoft-proprietärem
+**   Schrott.
+**         -- Sven, 13.07.2007, 00:45, nach stundenlangem Rumgefrickel
+**            bezueglich Lösungen für transparente PNGs und die Navigation
+ *
+ * Man beachte die aktuellen Statistiken, hier aus April/Mai/Juni 2007:
+ * 
+ * 40.60%  Gecko-Engine (z.B. Firefox) und KHTML (Konqueror, Safari)
+ * 31.90%  Internet Explorer 6
+ * 16.50%  Internet Explorer 7
+ *  3.39%  Opera
+ *  1.01%  Internet Explorer 5
+ *  1.85%  Bots (z.B. Suchmaschinen)
+ *
+ * Für gerade mal 30% der Homepagepagebesucher wurden die folgenden Zeilen
+ * ganz exklusiv geschrieben und unglaubliche Verrenkungen im HTML-Sourcecode
+ * vorgenommen. Für 30% der Homeepagebesucher, eine Gruppe, die sich dadurch
+ * auszeichnet, dass sie von unheimlicher Dummheit und Ignoranz gezeichnet ist.
+ * Natürlich wissen diese DAUs nicht, was sie da machen. Denn wie man sieht,
+ * schadet ihr Verhalten nicht nur ihnen, sondern auch vielen anderen.
+ *
+ */
+
+/* #wrapper: min-width im IE simulieren */
+html{behavior:expression(function(element){
+    /* scripting hack, funktioniert "leider" erst im ie5.5. Und zerstört
+       nebenbei mein Syntaxhighlighting */
+    runtimeStyle.behavior = "none"; /* trash this expression */
+    var minWidth = 1020; /* Siehe fresh.css, gegen Zeile 136 (Selektor #wrapper) */
+
+    function fixwidth() {
+        /* Mindestbreite bei kleinen Monitoren sichern */
+        if(document.body.offsetWidth < minWidth) { // entspricht quasi window.innerWidth
+            document.all.wrapper.style.width = minWidth+"px";
+            //document.all.wrapper.style.overflow = "visible"; // bringt eigentlich nichts
+        } /*else... - da stuerzt er immer ab */
+    } // damit mein syntaxhighlighting glücklich ist : (nichts)
+
+    if (document.readyState == "complete") fixwidth();
+    else window.attachEvent("onload", fixwidth);
+    window.attachEvent("onresize", fixwidth);
+}(this))}
+
+#menu a {
+    /* border: 2px solid red !important;*/
+}
+
+#menu ul.l2 a:link span, #menu ul.l2 a:visited span, #menu li.l3 em span {
+    /* Listenpunkte, mal schaun ob der IE das auf die Reihe kriegt */
+    top: 7px; left: -14px; /* IEs top:0 geht relativ zum padding-left... */
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/arrowbg.menu.png', enabled='true', sizingMethod='crop');
+    /*border: 1px solid red;*/
+}
+
+/* Hauptueberschriften */
+#menu em.l1, #menu li.l1 a:link, #menu li.l1 a:visited, #menu li.l1 a.on {
+    background-image: none;
+    height: 10px; overflow: visible; /* Kleiner Hack, weil der Filter eine Groessenangabe braucht */
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/headl1-bg.menu.png', enabled='true', sizingMethod='scale');
+}
+
+/* (Hauptüberschriften) gehovert, um Bg zurückzukriegen */
+#menu li.l1 a:hover {
+    background-image: url(../img/fresh.design/orangebg.menu.png);
+    filter: none;
+}
+
+/* Gehoverte/aktive Kategorie */
+#menu li.on ul.l2 {
+    background-image: none;
+    height: 10px; overflow: visible; /* Kleiner Hack, weil der Filter eine Groessenangabe braucht */
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/catl1-bg.menu.png', enabled='true', sizingMethod='scale');
+    /* Das :hover klappt nicht mal ansatzweise. Aufgegeben. */
+}
+
+/* Unterkategorieüberschriften */
+#menu li.l3 div.on em {
+    /* Überschrift eines aktiven Untermenüs, wo man ist. Volle Formatierung. */
+    background-image: none !important;
+    height: 10px; overflow: visible; /* Kleiner Hack, weil der Filter eine Groessenangabe braucht */
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/headl2-bg.menu.png', enabled='true', sizingMethod='scale') !important;
+}
+
+#menu li.l3 em span {
+    /* Immer einen ausgeklappten Pfeil zeigen, weil das Submenü eh immer angezeigt wird. */
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/subarrow.menu.png', enabled='true', sizingMethod='crop');
+    left: -16px; top: 10px;
+}
+
+/* Hier das, was bei dem Versuch übrig blieb, wenigstens für die Sublisten ein
+   :hover-Effekt nachbauen (letztendlich mit onclick, wie man sieht). Doch das
+   fuehrte dazu, dass man die Links in den Boxen nicht mehr anklicken kann.
+   Der gleiche Grund, weswegen es kein Hintergrundbild mehr gibt.
+   Auch das kriegt der Krüppel nicht hin.
+*/
+/*#menu li.l3 em {
+    cursor: pointer;
+    m: expression(this.onclick = new Function("this.parentElement.className='on';"));
+}
+#menu div.on em {
+   cursor: pointer;
+   *m: expression(this.onclick = new Function("this.parentElement.className='';"));*
+}*/
+
+#menu li.l3 em {
+    /* Weil das Hover nicht geht, das ganze wenigstens etwas kenntlich machen */
+    color: #000;
+    border-bottom: 1px solid #ccc;
+}
+
+#menu li.l3 ul {
+    /* Menü immer anzeigen -- HOVER geht einfach nicht. */
+    display: block;
+    margin-top: -2px;
+    padding: 5px 0 5px 10px;
+}
+
+/* Hintergrund der Unter(unter)kategorien */
+#menu li.l3 div.on ul {
+    /* Hintergrund dritte Navigation */
+    background-image: none !important;
+    /* Filter führt dazu, dass man andere Links der Box nicht anklicken kann... */
+    /*height: 10px; overflow: visible; * Kleiner Hack, weil der Filter eine Groessenangabe braucht */
+    /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/catl2-bg.menu.png', enabled='true', sizingMethod='scale') !important;*/
+    background-color: #D2DDEE;
+}
+
+#menu li.l3 div.on ul {
+    /* IE-Bug: Hintergrund "wackelt" -- Jeenas Empfehlung :-) */
+    position: relative;
+}
+
+
+/* Schwarzer Pfeil eine Zeile */
+#menu a.on, #menu a.on:hover, #menu li.l1 a.on, #menu li.l1 a.on:hover { 
+    background-image: none;
+    background-color: transparent !important; /* Hintergrundfarbenbug bei li.l1 */
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/blackarrow.menu.png', enabled='true', sizingMethod='crop');
+    height: 19px; /* direkt von fresh.css nur um den height: 10px-wert oben zu überschreiben */
+}
+
+/** Schwarzer Pfeil zwei Zeilen. */
+#menu li.long a.on, #menu li.long a.on:hover {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/blackarrow-long.menu.png', enabled='true', sizingMethod='crop');
+    height: 32px;
+}
+
+/* Schwarzer Pfeil drei Zeilen */
+#menu li.long3 a.on, #menu li.long3 a.on:hover {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/blackarrow-long3.menu.png', enabled='true', sizingMethod='crop');
+    height: 48px;
+    /*border: 2px solid green !important;*/
+}
+
+
+/* FOOTER */
+#footer li a span {
+    overflow: hidden;
+    position: absolute;
+    display: block !important;
+    height: 29px;
+    width: 12px;
+    top: 05px;
+}
+
+#footer li a {
+    background-image: none !important;
+}
+
+#footer li.prev a span {
+    left: 0;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/white-left.footer.png', enabled='true', sizingMethod='crop');
+}
+
+#footer li.next a span {
+    right: 0;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/white-right.footer.png', enabled='true', sizingMethod='crop');
+}
+
+#footer li.up a span {
+    right: 0;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/white-up.footer.png', enabled='true', sizingMethod='crop');
+}

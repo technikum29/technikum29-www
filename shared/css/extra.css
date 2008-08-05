@@ -1,0 +1,325 @@
+/***
+ *** v5.7. FRESH UP:
+ *** Diese Datei wird im neuen Layout nicht mehr gebraucht.
+ *** Nur noch erhalten, bis die englische Version umgestellt
+ *** ist, da die Extraseiten unter /en/devices diese Datei
+ *** noch nutzen!
+ ***
+ ***
+ ***/
+
+
+/*------------------------------------------*
+ *          T E C H N I K U M 2 9           *
+ *             Extrastylesheet              *
+ * Ersatzstylesheet für screen.css mit      *
+ * kleinerem banner (dazu etwas abgespeckt),*
+ * *nur* zu benutzen für Spezialseiten      *
+ * (Details & Geräte)                       *
+ *------------------------------------------*/
+
+body {
+    margin: 0; padding: 0;
+    color: #000;
+    font: 13px Verdana,Tahoma,Helvetica,Arial,sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    border: none;
+}
+
+
+/***** HEAD *****/
+h1 {
+    margin: 0; padding: 0;
+    height: 47px; /* real height: 67px */
+    border-bottom: 1px solid #3A6198;
+    text-align: center;
+    background-color: #5E7FAD;
+
+    z-index: 12;
+}
+
+html > body h1 {
+    /* For intelligent browsers */
+    height: 47px;
+}
+
+h1 a {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -380px;
+    z-index: 11;
+    display: block;
+
+    /* background-image: see h1 a.[lang] */
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 760px;
+    height: 47px;
+}
+
+h1 a.de {
+    background-image: url(../img/banner/small.de.jpg);
+}
+
+h1 a.en {
+    background-image: url(../img/banner/small.en.jpg);
+}
+
+h1 a span {
+    display: none;
+}
+
+h1 span.d {
+    background-color: #0C377A;
+    display: block;
+    width: 50%;
+    height: 47px;
+    position: absolute;
+    top: 0; left: 0;
+    z-index: 10;
+}
+
+h2 {
+    font: bold 140% Verdana,Arial,Helvetica,sans-serif;
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+/* Abstand zwischen h2 und h1 */
+.a {
+    height: 10px;
+    display: block;
+}
+
+
+#h1border {
+    /* border hilfsmittel */
+    background-color: #C8C8C8;
+    position: absolute; z-index: 10;
+/*  border: 10px solid red; */
+    display: block;
+    height: 2px; width: 100%;
+    overflow: hidden;
+    margin: 0; padding: 0;
+}
+
+
+/* Seiteninhalt */
+
+#page {
+    margin: 40px 35px;
+}
+
+/* Seitenelemente */
+
+p {
+    text-align: justify;
+}
+
+a:link, a:visited {
+    color: #224B88;
+    text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #882224;
+    text-decoration: underline;
+}
+
+
+.highlight {
+     color: #000E8C;
+     font-style: italic;
+}
+
+
+/*
+  Links mit Pfeilen: a.go & a.arrow:
+  Momentan noch kein IE-Workaround gefunden
+  (Bei mehrzeiligen Links pfeile im text)
+  Siehe auch Changelog (/CHANGELOG.txt)
+*/
+
+html>body a.arrow,
+html>body a.go {
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+html>body a.arrow:link,
+html>body a.arrow:visited,
+html>body a.go:link,
+html>body a.go:visited {
+    background-image: url(../img/double.a.png);
+}
+
+html>body a.arrow:hover,
+html>body a.arrow:active,
+html>body a.arrow:focus,
+html>body a.go:hover,
+html>body a.go:active,
+html>body a.go:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/* Definitionslisten */
+
+dt {
+   margin-top: 1.2em;
+   font-weight: bold;
+   display: block;
+}
+dd {
+    text-align: justify;
+    margin: 0; padding: 0;
+}
+
+
+/* Navigationsleisten mit Pfeilen: Auch
+   Benutzung für IE */
+
+
+ul.nav, ul#nav {
+    list-style: none;
+    padding: 0;
+}
+ul.nav li, ul#nav li {
+    margin: 0;
+    padding: 0;
+}
+ul.nav li a, ul#nav li a {
+    padding-left: 13px;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+ul.nav li a:link,
+ul#nav li a:link,
+ul.nav li a:visited,
+ul#nav li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+ul.nav li a:hover, ul#nav li a:hover,
+ul.nav li a:active, ul#nav li a:active,
+ul.nav li a:focus, ul#nav li a:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+
+/****** IMAGES & MORE *****/
+
+p.bildtext {
+    /* Bildbeschreibung */
+    margin: 10px 10%;
+}
+
+div.bildtext {
+    /* Bildbeschreibung, die in irgendeiner
+    Art Spalte angezeigt wird, daher kein
+    relativer Rand (10%, siehe p.bildtext) */
+    text-align: justify;
+}
+
+.center {
+    /* bild über text, alles zentriert */
+    text-align: center;
+/*  border: 1px solid #B6C6D4;
+    background-color: #F1FCFE; */
+    margin: 10px;
+}
+
+.center .boxleft {
+    /*
+        zentrierter inhalt mit .center
+        box mit bestimmter breite und
+        text-align: left;
+    */
+    text-align: left !important;
+}
+
+html>body .center .boxleft {
+    /* intelligent browsers only */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.right {
+    /* Image -> left, text -> right */
+    margin: 10px;
+}
+
+.right img {
+    float: left;
+    margin: 1px;
+}
+
+.right p.bildtext {
+    padding: 5px;
+    margin: 0 15px 5px 15px;
+}
+
+.left {
+    /* Image -> right, text -> left */
+    margin: 10px;
+}
+
+.left img {
+    float: right;
+}
+
+.left p.bildtext {
+    padding: 5px;
+}
+
+.clear {
+    /* clearendes element, inhalt egal */
+    display: block;
+    clear: both;
+    height: 2px;
+    overflow: hidden;
+}
+
+blockquote {
+    margin: 5px 0px;
+    padding: 0px;
+    color: #2F319D;
+    text-align: justify;
+}
+
+
+/* spezialseitennavigation (kleine <ul>) */
+ul#nav {
+    text-align: left;
+}
+
+
+/* Mehrspaltigkeit */
+
+
+.cols {
+    /* Mehrspaltiger Inhalt. */
+}
+
+.cols .leftcol,
+.cols .rightcol {
+    padding: 5px 10px;
+/*  border: 3px dashed red;*/
+}
+
+.col .leftcol {
+    float: left; width: 43%;
+}
+
+.col .rightcol {
+    float: right; width: 43%;
+}

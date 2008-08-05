@@ -1,0 +1,106 @@
+/*
+    Technikum29 CSS für Startdatei ([lang]/index.shtml)
+*/
+
+
+div.desc-right {
+    /**
+     * rechts gefloatetes thumbnail mit Beschreibungstext
+     */
+
+    float: right;
+
+    margin: 0 0 10px 20px;
+/*  width: 236px; */
+
+/*  border: 1px solid #7090C0;
+    background-color: #EBEBEB; */
+}
+
+div.desc-right img {
+    border: 1px solid #094099;
+}
+
+div.desc-right p {
+    width: 300px;
+    margin: 0; padding: 0;
+    font-size: 90%;
+    text-align: left;
+}
+
+
+
+div.aktuell {
+    /**
+     * "Aktuelle Bilder"-Bereich
+     */
+
+    border: 1px solid #7090C0;
+    padding: 5px;
+    text-align: center;
+
+/*    background-color: #EBEBEB; */
+}
+
+div.aktuell h2 {
+    margin: 1px;
+    padding: 0;
+}
+
+div.aktuell .stand {
+    font-size: 80%;
+    text-align: center;
+    margin-top: 1px;
+}
+
+div.aktuell p {
+    margin: 20px 4px;
+    clear: both;
+}
+
+div.float {
+/*  border: 1px solid black; */
+    text-align: center;
+    width: 650px;
+    margin:auto;
+}
+
+html>body div.float {
+    max-width: 650px;
+    /* ... */
+}
+
+div.float .c {
+    clear: both;
+}
+
+ul.float {
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+}
+
+ul.float li {
+    display: inline;
+    float: left;
+}
+
+ul.float li img {
+    margin: 3px;
+    width: 198px;
+    height: 148px;
+
+}
+
+ul.float a:link img, ul.float a:visited img {
+    border: 1px solid #F2FCFF;
+}
+
+ul.float a:hover img, ul.float a:focus img {
+    border: 1px solid #2C5494;
+}
+
+/* Speziallistenformatierungen... */
+
+#content ul { list-style: disc inside; margin-left: 0; }
+#content ul ul { margin-left: 20px; }

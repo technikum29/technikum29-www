@@ -1,0 +1,101 @@
+/*
+ *   technikum29.de
+ *   CSS der "Homepage"/Startseite (/index.html), alleinstehend
+ *
+ *   Version vom 27.07.2006 (v5.5.5)
+ */
+
+body {
+    width: 100%; height: 100%;
+    color: #FFF;
+    font: bold 13px Verdana,Arial,sans-serif;
+    margin: 0;
+    background-color: #0B387C; /*#2C408B*/
+    text-align: center;
+}
+
+/* nur zur internen Strukturierung */
+h1, h2 { display: none; }
+
+/* Root-Container für gesamtes Bild + Inhalt */
+#container {
+    position: absolute;
+    left: 50%; top: 50%;
+    width: 675px; height: 450px;
+    margin-left: -337px; margin-top: -225px;
+    background-image: url(/shared/img/startseite-v2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: left;
+}
+
+/* Sprachcontainer */
+#de, #en {
+    position: absolute;
+    /*top: 160px;*/ /* "alte" Startposition */
+    height: 220px; /* 450px - top */
+    width: 325px; /* Hälfte */
+}
+
+#en {
+    left: 0;
+    border: 2px solid green;
+}
+
+/* Container für deutschen Inhalt */
+#de {
+    left: 355px;
+    border:2px solid red;
+}
+
+.text, .author, .go {
+    position: absolute;
+}
+
+.text {
+    margin: 10px;
+    /*font: bold 14px Verdana,Arial,sans-serif; */
+    font: bold 16px Verdana,Arial,sans-serif; 
+}
+
+/* Autor ausgeblendet (seit einiger Zeit, Grund unklar) */
+.author {
+    display: none;
+    bottom: 15px;
+    left: 23px;
+    font: 8pt Verdana,sans-serif;
+    text-align: left;
+    color: #7F8AB1;
+    text-transform: lowercase;
+}
+
+.go {
+    /*left: 0; top: 373px; [alt] */
+    right: 10px;  bottom: 10px;
+
+    /*width: 325px;*/
+    margin: 1px 10px 6px -5px;
+    padding: 5px; /* padding für border in #go a im IE */
+    text-align: right;
+    font: bold 18pt Verdana,Arial,sans-serif;
+    letter-spacing: 0;
+    word-spacing: 0;
+}
+
+.go span {
+    /* Text "Eingang" */
+    letter-spacing: 6px;
+}
+
+.go a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.go a:link, .go a:visited {
+    border-bottom: 1px solid #FFF;
+}
+
+.go a:hover, .go a:focus, .go a:active {
+    border-bottom: 2px dotted #72CFDF;
+}

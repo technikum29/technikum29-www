@@ -1,0 +1,452 @@
+
+  /**************************************************************\
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+ *                                                                *
+ *                       S C R E E N    C S S                     *
+  \**************************************************************/
+
+body {
+    margin: 0; padding: 0;
+    color: #000;
+    font: 13px Verdana,Tahoma,Helvetica,Arial,sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    border: none;
+}
+
+
+/***** HEAD *****/
+
+h1 {
+    margin: 0; padding: 0;
+    height: 68px; /* real height: 67px */
+    border-bottom: 1px solid #3A6198;
+    text-align: center;
+    background-color: #5E7FAD;
+
+    z-index: 12;
+}
+
+html > body h1 {
+    /* For intelligent browsers */
+    height: 67px;
+}
+
+h1 a {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -380px;
+    z-index: 11;
+    display: block;
+
+    background-image: url(../img/banner.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 760px;
+    height: 67px;
+}
+
+h1 a span {
+    display: none;
+}
+
+h1 span.d {
+    background-color: #0C377A;
+    display: block;
+    width: 50%;
+    height: 67px;
+    position: absolute;
+    top: 0; left: 0;
+    z-index: 10;
+}
+
+/*
+h1 .b1 {
+    * Border-hilfsmittel *
+    background-color: ;
+    display: block; overflow: hidden;
+    height: 1px; width: 100%;
+    position: absolute;
+    top: 66px; left: 0;
+    z-index: 12;
+}
+*/
+
+h2 {
+    font: bold 180% Verdana;
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+div#lang {
+    position: fixed;
+    top: 68px; left: 0;
+    display: block;
+    width: 160px;
+    margin: 0; padding: 1px;
+    height: 13px;
+/*    border-top: 2px solid #C8C8C8;*/
+
+    text-align: center;
+}
+
+div#lang a {
+    color: #416397;
+    font-size: 90%;
+}
+
+#h1border {
+    /* border hilfsmittel */
+    background-color: #C8C8C8;
+    position: absolute; z-index: 10;
+/*  border: 10px solid red; */
+    display: block;
+    height: 2px; width: 100%;
+    overflow: hidden;
+    margin: 0; padding: 0;
+}
+
+
+/***** GENERAL *****/
+
+#menu {
+    position: fixed;
+    left: 0;
+    top: 81px;
+    width: 160px;
+    padding-top: 10px;
+}
+
+#content {
+    margin-left: 160px;
+    padding: 10px;
+}
+
+/***** MENU-FASTNAVIGATIOn *****/
+
+
+#nav .bg {
+    display: block;
+    position: fixed;
+    top: 0; left: 0;
+    width: 160px;
+    height: 70px;
+    z-index: 2;
+
+    background-image: url(/shared/img/scroller.menu.png);
+    background-repeat: no-repeat;
+}
+
+#nav ul, #nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#nav li a {
+    display: inline;
+    color: #FFF;
+}
+
+#nav li {
+    background-repeat: no-repeat;
+}
+
+#nav li.next {
+    display: block;
+    width: 65px;
+    margin: 0; padding: 0;
+    position: fixed;
+    top: 40px;
+    left: 75px;
+    text-align: right;
+    background-position: right 2px;
+    padding-right: 13px;
+    background-image: url(../img/next.rel.gif);
+}
+#nav li.prev {
+    display: block;
+    margin: 0; padding: 0;
+    position: fixed;
+    top: 40px;
+    left: 0;
+    text-align: left;
+    background-position: 0 2px;
+    padding-left: 13px;
+    margin-left: 7px;
+    background-image: url(../img/prev.rel.gif);
+}
+
+
+
+
+/***** MENU *****/
+
+#menu ul, #menu li {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: inline;
+    line-height: 100%;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu li .t {
+    /* Menüeintrag obersten Levels */
+    color: #000;
+    margin: 1.1em 0 2px 1px;
+
+    display: block;
+    border-width: 1px 1px 1px 0;
+    border-style: solid;
+    border-color: #305992;
+
+    padding: 1px 1px 1px 3px;
+
+    text-align: center
+}
+
+#menu li a.t:link, #menu li a.t:visited {
+    border-color: #97ABC8;
+    color: #92A2B9;
+}
+
+#menu li a.t:hover, #menu li a.t:active, #menu li a.t:focus {
+    color: #000;
+    border-color: #305992;
+}
+
+#menu li.on a.t, #menu li.on span.t {
+    /* Menüeintrag oberstes Level, das selektiert ist */
+    border-color: #305992;
+    color: #000;
+}
+
+#menu li li a {
+    /* Submenüeinträge */
+    display: block;
+    margin: 0 0 1px 10px;
+    color: #224B88;
+
+    background-position: 0 2px;
+/*  background-position: 0 50%;  - geht nur bei einzeiligen links*/
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+#menu li li a:link, #menu li li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+#menu li li a:hover {
+    color: #882224;
+    background-image: url(../img/double-hot.a.png);
+}
+
+#menu li li a.on {
+    /* selektierter Submenüeintrag */
+    color: #112544;
+    background-image: url(/shared/img/square.a.png) !important;
+}
+
+/***** TEXT *****/
+
+p {
+    text-align: justify;
+}
+
+a:link, a:visited {
+    color: #224B88;
+    text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #882224;
+    text-decoration: underline;
+}
+
+a.arrow {
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+a.arrow:link, a.arrow:visited {
+    background-image: url(../img/double.a.png);
+}
+
+a.arrow:hover, a.arrow:active, a.arrow:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/****** IMAGES & MORE *****/
+
+#content p.bildtext {
+    /* Bildbeschreibung */
+    margin: 10px 10%;
+}
+
+#content div.bildtext {
+    /* Bildbeschreibung, die in irgendeiner
+    Art Spalte angezeigt wird, daher kein
+    relativer Rand (10%, siehe p.bildtext) */
+    text-align: justify;
+}
+
+#content .center {
+    /* bild über text, alles zentriert */
+    text-align: center;
+/*  border: 1px solid #B6C6D4;
+    background-color: #F1FCFE; */
+    margin: 10px;
+}
+
+#content .right {
+    /* Image -> left, text -> right */
+    margin: 10px;
+}
+
+#content .right img {
+    float: left;
+}
+
+#content .right p.bildtext {
+    padding: 5px;
+}
+
+#content .left {
+    /* Image -> right, text -> left */
+    margin: 10px;
+}
+
+#content .left img {
+    float: right;
+}
+
+#content .left p.bildtext {
+    padding: 5px;
+}
+
+#content .clear {
+    /* clearendes element, inhalt egal */
+    display: block;
+    clear: both;
+    height: 2px;
+    overflow: hidden;
+}
+
+
+#content .cols {
+    /* Mehrspaltiger Inhalt. Nur genutzt in <faxtechnik> */
+}
+
+#content .cols .left, #content .cols .right {
+    padding: 5px 7px;
+}
+
+#content .cols .left {
+    float: left;
+    width: 48%;
+}
+
+#content .cols .right {
+    float: right;
+    widht: 48%;
+}
+
+#content blockquote {
+    margin: 5px 0px;
+    padding: 0px;
+    color: #2F319D;
+    text-align: justify;
+}
+
+/****** FOOTER *****/
+
+#rel {
+    clear: both;
+
+    border-top: 2px solid #C8C8C8;
+    background-image: url(../img/body.bg.png);
+    background-color: #5F80AE;
+    background-repeat: repeat-y;
+    background-position: top left;
+
+    color: #eee;
+    padding: none;
+}
+
+#rel .border {
+    background-color: #3A6198;
+    height: 1px; widht: 100%; display: block;
+    overflow: hidden;
+    clear: both;
+}
+
+div#rel .space {
+    width: 100%;
+    display: block;
+    height: 1px;
+    overflow: hidden;
+    border-bottom: 1px solid white;
+    clear:both;
+}
+
+html > body div.space {
+    height: 40px;
+}
+
+div#rel ul, div#rel li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+div#rel li a {
+    color: #FFF;
+}
+
+div#rel li {
+    background-repeat: no-repeat;
+}
+
+div#rel li.up, div#rel li.prev {
+    background-position: 0 2px;
+    padding-left: 13px;
+}
+
+div#rel li.up {
+    float: left;
+    width: 160px;
+    margin: 1px;
+    background-image: url(../img/up.rel.gif);
+}
+
+div#rel li.next {
+    float: right;
+    width: 30%;
+    text-align: right;
+    background-position: right 2px;
+    padding-right: 13px;
+    background-image: url(../img/next.rel.gif);
+}
+
+div#rel li.prev {
+    float: left;
+    width: 30%;
+    text-align: left;
+    background-image: url(../img/prev.rel.gif);
+}
+

@@ -1,0 +1,99 @@
+<html>
+<head>
+    <title>technikum29.de - Banner</title>
+
+    <link rel="stylesheet" href="/shared/css/fresh.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/improved.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/dir-listings.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/autoindex.css" type="text/css" title="technikum29">
+
+    
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/etc/src/heading.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="17.10.2007 20:30" -->
+<!--#include virtual="/etc/src/templates/lastmod.shtm" -->
+
+<h2><a href="/">technikum29.de</a> Banner &amp; Logos</h2>
+
+<p>Im Verzeichnis <a href="/shared/img/banner/"><tt>/shared/img/banner/</tt></a> befinden sich einige offizielle sowie inoffizielle Banner- und Logos der <a href="/">technikum29.de</a>-Homepage.</p>
+
+<p><b>Hinweis zur Verwendung außerhalb der technikum29-Präsenz:</b> Diese Banner sind Eigentum von technikum29 und dürfen nur im Zusammenhang damit (Namensnennung, etc.) verwendet werden. Nehmen sie im Zweifelsfall <a href="/de/impressum">Kontakt auf</a>.</p>
+
+<h3>Neue Banner (seit v5.7)</h3>
+<ul class="dir">
+<li class="img"><strong>Deutsch</strong>: <a href="/shared/img/banner/big.de.png">/shared/img/banner/big.de.png</a><br>
+    <img src="/shared/img/banner/big.de.png" alt="Big Banner german (web2.0)"></li>
+    
+<li class="img"><strong>Englisch</strong>: <a href="/shared/img/banner/big.en.png">/shared/img/banner/big.en.png</a><br>
+    <img src="/shared/img/banner/big.en.png" alt="Big Banner english (web2.0)"></li>
+
+<li class="img"><strong>Entwicklungsversion</strong>: <a href="/shared/img/banner/dev.png">/shared/img/banner/dev.png</a><br>
+    <img src="/shared/img/banner/dev.png" alt="Big Banner german devzone"></li>
+
+<li class="img"><strong>Nur Logo</strong>: <a href="/shared/img/banner/logo.png">/shared/img/banner/logo.png</a><br>
+    <img src="/shared/img/banner/logo.png" alt="Big Banner logo only (web2.0)"></li>
+
+<li class="img"><strong>Schwarz auf Weiß</strong>: <a href="/shared/img/banner/light.png">/shared/img/banner/light.png</a><br>
+    <img src="/shared/img/banner/light.png" alt="Big Banner black on white (web2.0)">
+    (Als Ersatz für den alten schwarz auf weiß-Banner, s.u.)
+    </li>
+
+</ul>
+
+<h3>Alte Banner, mit Unterschrift</h3>
+<p>Im alten screen-Design gab es große und kleine Banner, jeweils für Inhalts- und Extraseiten</p>
+
+<b>Groß:</b>
+
+<ul class="dir">
+<li class="img"><strong>Deutsch</strong>: <a href="/shared/img/banner/big.de-old.jpg">/shared/img/banner/big.de-old.jpg</a><br>
+   <img src="/shared/img/banner/big.de-old.jpg" alt="banner big german"></li>
+
+<li class="img"><strong>Englisch</strong>: <a href="/shared/img/banner/big.en-old.jpg">/shared/img/banner/big.en-old.jpg</a><br>
+   <img src="/shared/img/banner/big.en-old.jpg" alt="banner big english"></li>
+
+<li><strong>Chinesisch</strong>: <a href="/shared/img/banner/chinese.jpg">/shared/img/banner/chinese.jpg</a><br>
+   <img src="/shared/img/banner/chinese.jpg" alt="banner big chinese">
+   <br>Hinweis: Dieser Banner ist ein <b>Scherz</b>. (this banner is a bulk!)</li>
+</ul>
+
+<b>Klein:</b>
+
+<ul class="dir">
+<li class="img"><strong>Deutsch</strong>: <a href="/shared/img/banner/small.de.jpg">/shared/img/banner/small.de.jpg</a><br>
+   <img src="/shared/img/banner/small.de.jpg" alt="banner small german"></li>
+
+<li class="img"><strong>Englisch</strong>: <a href="/shared/img/banner/small.en.jpg">/shared/img/banner/small.en.jpg</a><br>
+   <img src="/shared/img/banner/small.en.jpg" alt="banner small english"></li>
+</ul>
+
+<h3>Ältere Versionen</h3>
+<p>Diese Banner wurden nie benutzt, lediglich während der Entwicklung von v5.0:</p>
+<ul>
+<li>Version 1:<br><img src="/shared/img/banner/banner-v1.old.jpg"></li>
+<li>version 2:<br><img src="/shared/img/banner/banner-v2.old.jpg"></li>
+</ul>
+
+<h3>Anderes</h3>
+<p>Für diese alten Banner gibt es die neuen Banner als Ersatz, siehe oben</p>
+
+<ul class="dir">
+<li class="img"><strong>Nur Logo</strong>: <a href="/shared/img/banner/logo.jpg">/shared/img/banner/logo.jpg</a><br></p>
+    <img src="/shared/img/banner/logo.jpg" alt="logo only"></li>
+
+<li class="img"><strong>inoffiziell</strong> ein nicht so toller Banner schwarz auf weiß:<br>
+    <img src="/shared/img/banner/light.jpg" alt="light"></li>
+
+</ul>
+
+</div><!--page-->
+<!--#include virtual="/etc/src/templates/autoindex-footer.shtm" -->
+
+

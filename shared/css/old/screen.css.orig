@@ -1,0 +1,478 @@
+
+  /**************************************************************\
+ *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+ *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+ *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+ *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+ *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+ *                                                                *
+ *                     technikum29.de - Design                    *
+ *                       S C R E E N    C S S                     *
+  \**************************************************************/
+
+body {
+    margin: 0; padding: 0; color: #000;
+    font: 13px Verdana,Tahoma,Helvetica,Arial,sans-serif;
+}
+
+.hidden { display: none; }
+img     { border: none; }
+.center { text-align: center; }
+
+
+/***** HEAD *****/
+
+h1 {
+    margin: 0; padding: 0;
+    height: 67px; /* real height: 67px */
+    text-align: center;
+    background-color: #5E7FAD;
+
+    z-index: 12;
+}
+
+html > body h1 {
+    /* For intelligent browsers */
+    height: 67px;
+}
+
+h1 a {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -380px;
+    z-index: 11;
+    display: block;
+
+    /* background-image: multilangual, so look at h1.[lang] a */    
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 760px;
+    height: 67px;
+}
+
+h1.de a {
+    /* Deutscher Banner */
+    background-image: url(../img/banner.de.jpg);
+}
+
+h1.en a {
+    /* English banner */
+    background-image: url(../img/banner.en.jpg);
+}
+
+h1.int a {
+    /* International banner (Deutsch grosse Schrift, englisch klein drunter) */
+    background-image: url(../img/banner/int.jpg);
+}
+
+h1.none a {
+    /* Banner with no subtitle in any language */
+    /* Banner mit überhaupt keinem Subtitel */
+    background-image: url(../img/banner/logo.jpg);
+}
+
+h1 a span {
+    display: none;
+}
+
+h1 span.d {
+    background-color: #0C377A;
+    display: block;
+    width: 50%;
+    height: 67px;
+    position: absolute;
+    top: 0; left: 0;
+    z-index: 10;
+}
+
+h2 {
+    font: bold 140% Verdana,Arial,Helvetica,sans-serif;
+    margin: 30px 0 10px 0;
+    padding: 0;
+}
+
+div#lang {
+    /* <div> mit Sprachauswahl (z.b. "englische Version") */
+    position: absolute;
+    top: 70px; left: 0;
+    display: block; text-align: center;
+    width: 160px; height: 13px;
+    margin: 0; padding: 1px;
+}
+
+div#lang a {
+    color: #416397;
+    font-size: 90%;
+}
+
+#h1border {
+    /* <h1> border-hilfsmittel */
+    background-color: #C8C8C8;
+    position: absolute; z-index: 10;
+    border-top: 1px solid #3A6198;
+    top: 67px; left: 0;
+    display: block; overflow: hidden;
+    height: 3px; /* für IE: 2px inhalt + 1px rahmen */
+    width: 100%;
+    margin: 0; padding: 0;
+}
+
+/* für intelligente browser: 2px inhalt + rahmen */
+html>body #h1border { height: 2px; }
+
+
+
+/***** GENERAL *****/
+
+#menu {
+    /* Menü-<div> */
+    position: absolute;
+    left: 0; top: 81px;
+    width: 160px;
+    padding-top: 10px;
+}
+
+#content {
+    /* Inhalt (nur in Zusammenhang mit #menu nutzen!) */
+    margin-left: 160px;
+    padding: 10px;
+
+    min-height: 600px;
+
+    height: 600px;
+    overflow: visible;
+}
+
+html>body #content { height: auto; }
+
+#page {
+    /* Für seiten ohne #menu */
+    margin: 10px;
+}
+
+
+/***** MENU *****/
+
+#menu ul, #menu li {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: inline;
+    line-height: 100%;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu li .t {
+    /* Menüeintrag obersten Levels */
+    color: #000;
+    margin: 1.1em 0 2px 1px;
+    display: block;
+    border-width: 1px 1px 1px 0;
+    border-style: solid;
+    border-color: #305992;
+    padding: 1px 1px 1px 3px;
+    text-align: center
+}
+
+#menu li a.t:link, #menu li a.t:visited {
+    color: #92A2B9; border-color: #97ABC8;
+}
+
+#menu li a.t:hover, #menu li a.t:active, #menu li a.t:focus {
+    color: #000; border-color: #305992;
+}
+
+#menu li.on a.t, #menu li.on span.t {
+    /* Menüeintrag oberstes Level, das selektiert ist */
+    color: #000; border-color: #305992;
+}
+
+#menu li li a {
+    /* Submenüeinträge */
+    display: block;
+    margin: 10px 10px 1px 10px; /* zerissenes design */
+    color: #224B88;
+
+    background-position: 0 2px;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+#menu li li a:link, #menu li li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+#menu li li a:hover {
+    color: #882224;
+    background-image: url(../img/double-hot.a.png);
+}
+
+#menu li li a.on {
+    /* selektierter Submenüeintrag */
+    color: #112544;
+    background-image: url(/shared/img/square.a.png) !important;
+}
+
+
+
+/***** CONTENT *****/
+
+p { text-align: justify; }
+p.text-left { text-align: left; }
+
+ul.text-left li, li.text-left { text-align: left; }
+
+a:link, a:visited {
+    color: #224B88;
+    text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #882224;
+    text-decoration: underline;
+}
+
+/*
+  Links mit Pfeilen: a.go & a.arrow:
+  Momentan noch kein IE-Workaround gefunden
+  (Bei mehrzeiligen Links pfeile im text) -
+  daher momentan nur intelligenten Browsern
+  vorenthalten
+  Siehe auch /CHANGELOG, /TODO
+*/
+
+html>body a.arrow,
+html>body a.go {
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    padding-left: 13px;
+}
+
+html>body a.arrow:link,
+html>body a.arrow:visited,
+html>body a.go:link,
+html>body a.go:visited {
+    background-image: url(../img/double.a.png);
+}
+
+html>body a.arrow:hover,
+html>body a.arrow:active,
+html>body a.arrow:focus,
+html>body a.go:hover,
+html>body a.go:active,
+html>body a.go:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/*  Navigationslisten: <ul class="nav">/<ul id="nav"> */
+
+ul.nav, ul#nav {
+    list-style: none;
+    padding: 0;
+}
+
+ul.nav li, ul#nav li {
+    margin: 0; padding: 0;
+}
+
+ul.nav li a, ul#nav li a {
+    padding-left: 13px;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+ul.nav li a:link, ul#nav li a:link,
+ul.nav li a:visited, ul#nav li a:visited {
+    background-image: url(../img/double.a.png);
+}
+
+ul.nav li a:hover, ul#nav li a:hover,
+ul.nav li a:active, ul#nav li a:active,
+ul.nav li a:focus, ul#nav li a:focus {
+    background-image: url(../img/double-hot.a.png);
+}
+
+/* Definitionslisten */
+dt { font-weight: bold; }
+dt em, dt i { font-weight: normal; }
+
+
+/* Überschrift => Liste gleicher margin-left */
+p.h-ul { text-align: left; }
+ul.h-ul { margin: 0; padding: 1em; }
+
+
+/****** IMAGES & MORE *****/
+
+#content p.bildtext {
+    /* Bildbeschreibung */
+    margin: 10px 10%;
+}
+
+#content div.bildtext {
+    /* Bildbeschreibung, die in irgendeiner
+    Art Spalte angezeigt wird, daher kein
+    relativer Rand (10%, siehe p.bildtext) */
+    text-align: justify;
+}
+
+#content .center {
+    /* bild über text, alles zentriert */
+    text-align: center; margin: 10px;
+}
+
+/*
+    Aufbau eines .right / .left-Bild-Bildbeschreibung-Gebildes:
+    <div class="right">
+        <img src="links-das-bild">
+        <div class="bildtext">
+            rechts der bildtext (ggf. abstand
+            mit style="..." nachhelfen)
+        </div>
+        <div class="clear">&nbsp;</div> <- sorgt dafür,
+         dass Bild nicht in nachfolgenden text reingeht
+         (falls grösser als text)
+    </div>
+*/
+
+
+#content .right {
+    /* Image -> left, text -> right */
+    margin: 10px;
+}
+
+#content .right img {
+    float: left;
+}
+
+#content .right p.bildtext {
+    padding: 5px;
+}
+
+#content .left {
+    /* Image -> right, text -> left */
+    margin: 10px;
+}
+
+#content .left img {
+    float: right;
+}
+
+#content .left p.bildtext {
+    padding: 5px;
+}
+
+#content .clear {
+    /* clearendes element, inhalt egal */
+    display: block; clear: both;
+    height: 2px; overflow: hidden;
+}
+
+/*
+    Mehrspaltiger Inhalt:
+    <div class="cols">
+        <div class="leftcol">linke spalte</div>
+        <div class="rightcol">rechte spalte</div>
+    </div>
+*/
+
+
+#content .cols {
+    /* Mehrspaltiger Inhalt. Nur genutzt in <faxtechnik> */
+}
+
+#content .cols .leftcol, #content .cols .rightcol {
+    padding: 5px 7px;
+/*  border: 3px dashed red;*/
+}
+
+#content .cols .leftcol {
+    float: left; width: 47%;
+}
+
+#content .cols .rightcol {
+    float: right; width: 47%;
+}
+
+#content blockquote {
+    /* bis jetzt nur genutzt in <faxtechnik> */
+    margin: 5px 0px;
+    padding: 0px;
+    color: #2F319D;
+    text-align: justify;
+}
+
+
+
+
+/****** FOOTER *****/
+
+#rel {
+    /* seitenrelationenleiste ganz unten */
+    clear: both; padding: 0;
+
+    border-top: 2px solid #C8C8C8; color: #eee;
+    background: #5F80AE url(../img/body.bg.png) repeat-y top left;
+}
+
+#rel .border {
+    /* rahmen-hilfsmittel */
+    background-color: #3A6198;
+    height: 1px; width: 100%;
+    display: block; overflow: hidden; clear: both;
+}
+
+div#rel .space {
+    /* verschafft der leiste eine vernünftige
+    Höhe bei dummen Browsern (IE) */
+    width: 100%; height: 1px;
+    display: block; overflow: hidden; clear:both;
+    border-bottom: 1px solid white;
+}
+
+html > body div.space {
+    height: 40px;
+}
+
+div#rel ul, div#rel li {
+    list-style: none;
+    margin: 0; padding: 0;
+}
+
+div#rel li a {
+    color: #FFF;
+}
+
+div#rel li {
+    background-repeat: no-repeat;
+}
+
+div#rel li.up, div#rel li.prev {
+    background-position: 0 2px;
+    padding-left: 13px;
+}
+
+div#rel li.up {
+    float: left; width: 160px; margin: 1px;
+    background-image: url(../img/up.rel.gif);
+}
+
+div#rel li.next {
+    float: right; width: 30%;
+    text-align: right;
+    padding-right: 13px;
+    background-image: url(../img/next.rel.gif);
+    background-position: right top;
+/*  background-position: right 2px; nicht valide? */
+}
+
+div#rel li.prev {
+    float: left; width: 30%;
+    text-align: left;
+    background-image: url(../img/prev.rel.gif);
+}
+
+/* EOF */

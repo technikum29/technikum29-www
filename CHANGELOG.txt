@@ -20,7 +20,7 @@
  *                                                                *
  *================================================================*
  *==       Jetzt neu: technikum29 unter VERSIONSKONTROLLE       ==*
- *==        http://dev.technikum29.de/wiki/Homepage/v5.8        ==*
+ *==        http://dev.technikum29.de/wiki/Homepage/SVN         ==*
  *==   $Id::                                                $   ==*
  *================================================================*
  *                                                                *
@@ -60,7 +60,7 @@
    ~/olympia-schreibautomat.jpg, ~/schaub-lorenz-supraphon.jpg,
    /shared/photos/rechnertechnik/ncr-rechner.jpg, ~/ncr_446-detail
  Eine Zusammenfassung von allen Änderungen seit v5.7 FINAL gibt es
- auf http://dev.technikum29.de/wiki/Homepage/v5.8
+ auf /etc/txt/v5.8
 
  VERSION 5.7.22 - (18.06.20008 03:18)
  ~~~~~~~~~~~~~~

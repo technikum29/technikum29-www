@@ -19,8 +19,9 @@
  * steht.                                                         *
  *                                                                *
  *================================================================*
- *==         Jetzt neu: GRAFISCHER CHANGELOG unter              ==*
- *==          http://dev.technikum29.de/changelog               ==*
+ *==       Jetzt neu: technikum29 unter VERSIONSKONTROLLE       ==*
+ *==        http://dev.technikum29.de/wiki/Homepage/v5.8        ==*
+ *==   $Id::                                                $   ==*
  *================================================================*
  *                                                                *
  * Weitere Dokumente:                                             *
@@ -39,6 +40,10 @@
  *    Warum Versionszählung so wichtig ist                        *
  *                                                                *
  ******************************************************************
+
+ VERSION 5.8 GAMMA - (06.08.2008 00:00)
+ ~~~~~~~~~~~~~~~~~
+ Die komplette Homepage wurde in das SVN-Repositorium überführt.
 
  VERSION 5.8 BETA - (28.07.2008 16:00)
  ~~~~~~~~~~~~~~~~

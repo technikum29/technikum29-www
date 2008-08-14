@@ -17,7 +17,7 @@
     <meta name="keywords" lang="en" content="technikum29, science museum, computer museum, Main-Taunus" />
 
     <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 28.08.2007/Aktuelles(v5.7.5)" />
-    <meta name="t29.thistranslation" content="17.02.2007/v5.6.6" />
+    <meta name="t29.thistranslation" content="14.08.2008/v5.8BETA" />
 	<meta name="t29.SVN" content="$Id$" />
     <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
     <!--changelog: Edit am 30.12.2006: aktualisierte new devices section (NCR/Messgeraet) -->
@@ -27,7 +27,8 @@
     <!--changelog: Edit am 28.11.2007: aktualisierte "what's new" section (Univac UNISERVO 16) -->
     <!--changelog: Edit am 21.03.2008: aktualisierte "what's new" section (Heathkit EC-1) -->
     <!--changelog: Edit am 18.06.2008: aktualisierte "what's new" section (BULL GAMMA 3) -->
-	<!--changelog: Edit am 25.07.2008: aktualisierte "what's new" section (Tondraht-Diktiergeraet) -->
+    <!--changelog: Edit am 25.07.2008: aktualisierte "what's new" section (Tondraht-Diktiergeraet) -->
+    <!--changelog: Edit am 17.02.2007: aktualisierte "what's new" section (UNIVAC prices) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -59,20 +60,19 @@
     <p>Now some pictures that show the exhibits we got at least:</p>
 
     <div class="aktuell">
-       <!-- translated @ 25.07.2008 20:50 -->
+       <!-- translated @ 14.08.2008 22:12 -->
         <div class="left">
-            <img src="/shared/photos/kommunikationstechnik/klein-reporter,spulen.jpg"
-			     width="272" height="204" class="nomargin-bottom"
-				 alt="Photography of the small reporter's backside" />
+            <img src="/shared/photos/rechnertechnik/univac/univac-preis.jpg" width="320" height="155"
+                 class="nomargin-bottom"
+                 alt="Illustration: One Univac 9400 equals 470 new cars" />
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: july 2008)</p>
+            <p class="stand">(last update: august 2008)</p>
 
-			<p>Even small devices are very impressive: The
-			   picture on the left shows a dictating machine
-			   (year of manufacture 1952) which saves the sound
-			   on wires. See our page
-			   <a href="communication/sound_technology.shtm"
-			   >Sound recording and reproducing technology</a>.</p>
+            <p><b>From rags to riches</b>
+            <br/>According to original price lists from 1968 our
+                <a href="/en/computer/univac9400.shtm">UNIVAC 9400 Mainframe</a> had a
+                contervalue of 470 brand new cars, making about 1 million US dollars.
+                <a href="/en/devices/univac9400/costs.shtm" class="go">Incredible...</a>
         </div>
         <div class="clear">&nbsp;</div>
     </div>

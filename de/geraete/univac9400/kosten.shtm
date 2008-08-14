@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Wie viel kostete die UNIVAC 9400-Anlage?"
-   --><!--#set var="url_en"       value="univac9400/"
+   --><!--#set var="url_en"       value="devices/univac9400/costs.shtm"
    --><!--#set var="location"     value="extraseite"
    --><title>technikum29 - <!--#echo var="title" --></title>
 
@@ -59,6 +59,7 @@
         padding-bottom: 348px;
       }
     </style>
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -214,7 +215,7 @@
 </div><!--content-->
 
 <div id="sidebar">
-    <div id="lang"><a lang="en" title="read the english version of this page" href="/en/">english version</a></div>
+    <div id="lang"><a lang="en" title="read the english version of this page" href="/en/<!--#echo var="url_en" -->">english version</a></div>
 </div>
 
 <div id="footer">
@@ -223,7 +224,7 @@
         <li class="up"><a href="#top" title="Zu Men&uuml; und &Uuml;berschrift"><b>nach oben</b><br/>Zur &Uuml;bersicht<span>&nbsp;</span></a></li>
 
         
-        <li class="prev"><a href="/de/rechnertechnik/univac9400.shtm" title="Zur nächsten Seite"><b>zur&uuml;ck</b><br/>Übersicht Univac 9400<span>&nbsp;</span></a></li>
+        <li class="prev"><a href="/de/rechnertechnik/univac9400.shtm" title="Vorherige Seite"><b>zur&uuml;ck</b><br/>Übersicht Univac 9400<span>&nbsp;</span></a></li>
     </ul>
 </div>
 </div><!--wrapper-->

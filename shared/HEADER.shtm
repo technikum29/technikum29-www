@@ -10,7 +10,7 @@
 <!--#include virtual="/src/inc/heading.shtm" -->
 
 <div id="page">
-<!--#set var="TEMPLATE:lastmod" value="15.10.2007 15:40" -->
+<!--#set var="TEMPLATE:lastmod" value="15.10.2007 15:40, 15.08.2008" -->
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2>Verzeichnis <a href="/shared/">/shared/</a></h2>
@@ -18,16 +18,9 @@
 
 <h3>Unterverzeichnis <a href="css/">css</a></h3>
 <p>Im Verzeichnis <a href="/shared/css/">/shared/css/</a> befinden sich sämtliche
-   Designinformationen (CSS).</p>
-<p>Wichtige Dateien im Überblick seit Version 5.7:</p>
-<ul>
-    <li><a href="css/screen.css">Screen-Design</a>. Die zentrale CSS-Datei für das ehemalige Bildschirmdesign der technikum29.de-Seite.</li>
-    <li><a href="css/fresh.css">Fresh-Design</a>. Die zentrale CSS-Datei für das neue Bildschirmdesign der technikum29.de-Seite (seit Version 5.7)</li>
-    <li><a href="css/common.css">Common Styles</a>. Ursprünglich gedacht für zwischen den beiden gleichberechtigten Seitendesigns gemeinsam genutzte Stile. Hier werden spezielle Designanweisungen gespeichert, die von einzelnen Inhaltsseiten genutzt werden (z.B. Startseite oder UNIVAC-Seite). Außerdem ist das ehemalige <tt>print.css</tt> hier eingebaut, zwecks Ladezeit. Mithilfe des Drucklayouts sind moderne Browser in der Lage, aus jeder technikum29.de-Seite eine sinnvolle Druckversion mit nur dem nötigsten Inhalt zu generieren.</li>
-    <li><a href="css/fresh-iefixing.css">Fresh-Design: Korrekturen für den Internet Explorer 6</a>. Die etwa 30% IE6-Benuter (Stand Juli 07) müssen zu jeder Seite dieses absurde CSS, Paradebeispiel für Javascript-getränkte Microsoft-Stylesheets, laden, um das neue Fresh-Design der Version 5.7 mit Kompromissen anzeigen zu können.</li>
-    <li><a href="css/startseite.css">Design der absoluten Startseite</a> (<a href="/">die Startseite</a>)</li>
-    <li><a href="css/details.css">Erweiterungscss für die Details</a> (z.B. <a href="/de/details1.shtm">/de/details1.shtm</a>)</li>
-</ul>
+   Designinformationen (CSS). Siehe dort für eine ausführliche Übersicht über verwendete
+   und veraltete CSS-Dateien sowie Rechtliches zwecks Benutzung außerhalb der Homepage.
+   Zusätzlich sind alle CSS-Dateien mit ausführlichen Kommentaren versehen.</p>
 
 <h3>Unterverzeichnis <a href="img/">img</a></h3>
 <p>Im Verzeichnis <a href="/shared/img/">/shared/img/</a> befinden sich die Bilder für das technikum29.de-Design. Seit Version 5.7 sind diese für die beiden gleichberechtigten Seitenstiele in Unterordner geteilt</p>

@@ -6,9 +6,11 @@
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
-    <meta name="t29.germanoriginal" content="21.10.2007/v5.7.10" />
-    <meta name="t29.thistranslation" content="01.12.2007/v5.7.12" />
-    <meta name="t29.this.comment" content="initialübersetzung von de" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.germanoriginal" content="17.08.2008/v5.8.0" />
+    <meta name="t29.thistranslation" content="17.08.2008/v5.8.0" />
+    <meta name="t29.this.comment" content="several text improvements and new translations (new german text)" />
+    <!--changelog: 01.12.2007/v5.7.12 based on 21.10.2007/v5.7.10: initialübersetzung von de -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -19,16 +21,17 @@
         <img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-uebersicht.en.gif" alt="plated wire storage overview picture, shows the relationship between word straps and plated wires" />
     </div>
 
-    <p>In the early 1970s, magnetical core memory was quite expensive. The cycle time (time needed to read and rewrite the information) was quite big, because all information had to be rewritten after they had been read.
+    <p>In the early 1970s, magnetical core memory was quite expensive and slow. That is, the cycle time (time needed to read and rewrite the information) was quite long, because all information had to be rewritten after they had been read. Furthermore the storage medium was not consistent, all stored informations vanished after the power supply was turned off.
       <br/>As a replacement, the plated wire was invented, just before the first semiconductor memories were ready for beeing mass-produced. The plated wire consists of magnetic wire which replaces the cores (see picture at the right).</p>
-
     <p>The installations from the UNIVAC 9000 series (like our <a href="/en/devices/univac9400/univac_9300.shtm">UNIVAC 9300</a>) were equipped with plated wire storages. We could offer pictures of our storage units, but the assembly of this type of memory is quite opaque. Therefore we publish self-drawn diagrams to illustrate the plated wire characteristics.</p>
+
+    <p>From the physical point of view the magnetical core memory is a thin-film storage medium. The information carrier is a 1 micrometer thick permalloy solenoid film (the "word strap") that is stacked on the "plated wire", that is a beryllium copper wire with 0.13mm in diameter.</p>
 
     <div class="box center" style="clear:right;">
         <img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-details.en.gif" alt="Detailed diagram: Plated Wire Characteristics, labeled" />
     </div>
 
-    <p>The plated wire constists of copper with a thin film which consists of an iron-nickel alloy. These plated wires are embedded into word straps which are perpendicular to two sides of the plated wire. In the easy direction of magnetization (see diagram above), the magnet layer is quite stable, whereas it is unstable in the hard direction of magnetization.
+    <p>That plated wire constists of copper with a thin film which consists of an iron-nickel alloy. These plated wires are embedded into word straps which are perpendicular to two sides of the plated wire. In the easy direction of magnetization (see diagram above), the magnet layer is quite stable, whereas it is unstable in the hard direction of magnetization.
     <br/>To read the information, the word current is raised. The current will establish a magnetic field which tries to align the magnetization vector at the area in the plated wire covered by the word strap.
     Lengthwise, the magnetic film is very hard to magnetize, therefore the vector only librates (insteads of rotating) <!--and falls back to the former position after the word current was lowered.-->
     and falls back to the former position. This libration induces a small voltage. The sign of this voltage depends on the direction of the magnetization vector. Therefore it is possible to read a bit without destroying its value. This saves valuable access time, compared to the core memory.</p>
@@ -48,7 +51,7 @@
       <br/>Fortunately, the first semiconductor memories were mass-produced in the early 1970s, so most of the computers featuring plated wire storage could be upgraded to semiconductor memories made by INTEL.</p>
 
     <ul id="nav">
-          <li><a href="/en/computer/storage-media.shtm#plated-wire-storage">Storage media</a></li>
+          <li><a href="/en/computer/storage-media.shtm#plated-wire-storage">Storage media: The plated wire storage</a></li>
           <li><a href="/en/">technikum29 homepage</a></li>
     </ul>
 

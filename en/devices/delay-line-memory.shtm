@@ -2,7 +2,16 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Delay line memory"
-   --><!--#set var="url_de"       value="laufzeitspeicher.shtm"
+   --><!--#set var="location"     value="delay-line-memory"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/laufzeitspeicher.shtm"
+   --><!--#set var="title_de"     value="Laufzeitspeicher"
+   --><!--#set var="prev"         value="/en/computer/programmable.shtm"
+   --><!--#set var="prev_title"   value="Programmable seccond-generation calculators"
+   --><!--#set var="prev2"        value="combitron.shtm"
+   --><!--#set var="prev2_title"  value="Diehl Combitron"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
@@ -14,7 +23,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
 <!-- Begin of Forwarding Template (v5.7) -->
     <!--#set var="forwarding_page" value="/en/computer/storage-meda.shtm#delay-line-memory" -->
     <!--#set var="forwarding_title" value="Storage media" -->
@@ -28,14 +37,17 @@
         <p class="justify">Pulses of sound are "pushed" on a (convulted) conductor by magnetostrictions (fast constriction of conductor because of a strong magnetic field). This information runs with (the material's) sonic speed to the end and is reconverted in electric pulses. Now the information were lost if it would not be reconverted and feeded into the conductor again.</p>
         <p class="justify">Thus the data permanently go in circles and can be read and changed when they quit the conductor. The longer the conductor, the bigger the capacity.</p>
         <p class="justify">It is a non-permanent storage with a comparatively long access time. If you turn of the computer, all data is lost.</p>
+        <!--
         <ul id="nav">
             <li><a href="/en/computer/programmable.shtm">Programmable seccond-generation calculators</a></li>
             <li><a href="combitron.shtm">Diehl Combitron</a></li>
             <li><a href="/en/">technikum29 homepage</a></li>
         </ul>
+        -->
     </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

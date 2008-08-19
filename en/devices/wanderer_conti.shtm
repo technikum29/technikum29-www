@@ -2,27 +2,35 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="WANDERER conti"
-   --><!--#set var="url_de"       value="wanderer.shtm"
+   --><!--#set var="location"     value="wanderer_conti"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/wanderer.shtm"
+   --><!--#set var="title_de"     value=""
+   --><!--#set var="prev"         value="/en/computer/transistors.shtm#backlink-wanderer"
+   --><!--#set var="prev_title"   value="First calculators with transistors"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
-    <meta name="t29.comment" content="Extraseite neustrukturiert" />
+    <meta name="t29.thistranslation" content="19.08.2008/v5.8" />
+    <meta name="t29.comment" content="Redesign (extra pages in page design)" />
+    <!--changelog: 23.08.2007/v5.7.5 based on 08.2007/v5.7FINAL: Extraseite neustrukturiert -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
+
+<h2 class="center">WANDERER conti</h2>
+<p>The following extract of the back from the flyer shows the fascination for that totally new technology:</p>
 
 <div class="box right">
     <img src="/shared/photos/rechnertechnik/wanderer_conti.jpg" alt="Wanderer conti" width="321" height="456" />
     <div class="bildtext">
-        <h2>WANDERER conti</h2>
-        <p class="justify">The following extract of the back from the flyer shows the fascination for that totally
-           new technology:
-
         <blockquote>
              <p>WANDERER conti  als erste der Welt - druckend - elektronisch - portabel - setzt neue Ma&szlig;st&auml;be f&uuml;r Tischrechenmaschinen durch SCHNELLIGKEIT - EINFACHHEIT - SICHERHEIT - GER&Auml;USCHLOSIGKEIT DER ELEKTRONIK</p>
              <p>
@@ -37,8 +45,11 @@
              </p>
              <p>WANDERER-WERKE AG  B&uuml;romaschinenwerk K&ouml;ln</p>
         </blockquote>
+     </div>
+     <div class="clear"></div>
+</div>
 
-        <p class="justify">The text directly translated in english:</p>
+        <p>The text directly translated in english:</p>
 
         <blockquote>
             <p>WANDERER conti  the world's first - printing - electronic - portable - sets new patterns for desktop calculators by SPEED - SIMPLICITY - SECURITY - NOISELESS ELECTRONIC</p>
@@ -54,13 +65,7 @@
             <p>WANDERER-WERKE AG B&uuml;romaschinenwerk K&ouml;ln</p>
         </blockquote>
 
-    <ul id="nav">
-        <li><a href="/en/computer/transistors.shtm#backlink-wanderer">First calculators with transistors</a></li>
-        <li><a href="/en/">Homepage of technikum29-Website</a></li>
-    </ul>
-    </div>
-</div>
-
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

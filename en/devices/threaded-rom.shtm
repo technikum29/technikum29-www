@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Details of the ROM"
-   --><!--#set var="url_en"       value="gefaedeltes-rom.shtm"
+   --><!--#set var="location"     value="plated-wire-storage"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/gefaedeltes-rom.shtm"
+   --><!--#set var="title_de"     value="Gefädeltes ROM"
+   --><!--#set var="prev"         value="/en/computer/storage-media.shtm#threaded-rom"
+   --><!--#set var="prev_title"   value="Storage Media: Threaded ROM"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.germanoriginal" content="17.08.2007/v5.7.1" />
@@ -14,7 +21,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="center">
@@ -25,13 +32,16 @@
        <br/>To change a word stored in this ROM, it is necessary to remove (or simply cut) the proper wire and thread a new wire (sometimes more than one wire has to be replaced). This tedious technique has been improved in form of the NIXDORF rod memory.
        </p>
 
+      <!--
       <ul id="nav">
           <li><a href="/en/computer/storage-media.shtm#threaded-rom">Storage Media: Threaded ROM</a></li>
           <li><a href="/en/">technikum29 homepage</a></li>
       </ul>
+      -->
    </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

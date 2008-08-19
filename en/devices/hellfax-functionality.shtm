@@ -2,19 +2,27 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Hellfax functional diagram"
-   --><!--#set var="url_de"       value="hellfax-funktionsschema.shtm"
+   --><!--#set var="location"     value="hellfax"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/hellfax-funktionsschema.shtm.shtm"
+   --><!--#set var="title_de"     value="Hellfax Funktionsschema"
+   --><!--#set var="prev"         value="/en/communication/fax.shtm#backlink-hellfax"
+   --><!--#set var="prev_title"   value="Fax engineering: Hellschreiber GL 72"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Extraseite neustrukturiert" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
@@ -27,14 +35,10 @@
    blooting paper, afterwards placed on the next line, and so on.
    <br>The absolute transparency of the function is typical for that technical era. You can
    see it, hear it, smell it and touch all important things.</p>
-
-  <ul id="nav">
-      <li><a href="/en/communication/fax.shtm#backlink-hellfax">Fax engineering</a></li>
-      <li><a href="/en/">Homepage of technikum29-Website</a></li>
-  </ul>
  </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

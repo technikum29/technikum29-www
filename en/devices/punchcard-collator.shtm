@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="The function of the punch card collator"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="punchcard-collector"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/lochkartenmischer-funktion.shtm"
+   --><!--#set var="title_de"     value="Die Funktion des Lochkartenmischers"
+   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#backlink-ibm077"
+   --><!--#set var="prev_title"   value="Punch card computing: IBM 77"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Lochkartensortieralgorithmus" />
     <meta name="t29.germanoriginal" content="13.10.2007/v5.7.9" />
@@ -14,14 +21,14 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
     <p>What does a punch card collator do? Operations were mostly divided into two categories: Non-changing numbers (e.g. adresses are subject to few changes) and changing numbers (e.g. sales volume are constantly changing).</p>
     
     <p>If we had a list of customer names to be sorted, we would first give each customer a 5 digit customer number.  We can then sort this list in numerical order or sort by their names.</p>
 
-    <div class="box left">
+    <div class="box center">
         <img src="/shared/photos/rechnertechnik/grafiken/lochkartenmischer.en.gif" width="600" height="523" alt="Diagram about the function of the card collator" />
     </div>
 
@@ -29,13 +36,7 @@
 
     <p>The ability to sort the 2 independent decks of input cards into these 3 categories was the primary task of the collator. Therefore, the machine requires 2 input hoppers and at least 4 output pockets. In addition there were many other sorting variations and possibilites for this machine.</p>
 
-      <ul id="nav">
-          <li><a href="/en/computer/punchcard.shtm#backlink-ibm077">Punch card computing: IBM 77</a></li>
-          <li><a href="/en/">technikum29 homepage</a></li>
-      </ul>
-
-    <div class="clear">&nbsp;</div>
-
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

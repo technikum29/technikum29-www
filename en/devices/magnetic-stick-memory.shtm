@@ -2,19 +2,27 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="The magnetic stick memory"
-   --><!--#set var="url_en"       value="staebchenspeicher.shtm"
+   --><!--#set var="location"     value="magnetic-stick-memory"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/staebchenspeicher.shtm"
+   --><!--#set var="title_de"     value="Der Stäbchenspeicher"
+   --><!--#set var="prev"         value="/en/computer/storage-media.shtm#magnetic-stick-memory"
+   --><!--#set var="prev_title"   value="Storage media: Magnetic stick memory"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="17.08.2007/v5.7.1" />
     <meta name="t29.thistranslation" content="16.09.2007/v5.7.8" />
     <meta name="t29.comment" content="Neu eingeführt: Initialübersetzung von B.Ulmann" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="center">
@@ -31,14 +39,10 @@
 Draper-Laboratories,
 > ! die im Netz zu finden sind.
        -->
-
-      <ul id="nav">
-          <li><a href="/en/computer/storage-media.shtm#magnetic-stick-memory">Storage media: Magnetic stick memory</a></li>
-          <li><a href="/en/">Homepage of technikum29-Website</a></li>
-      </ul>
    </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

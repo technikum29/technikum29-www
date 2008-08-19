@@ -1,11 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Saba Telerama: Schmitt-Optik"
-   --><!--#set var="url_de"       value="saba-telerama.shtm"
+<head><!--#set var="title"        value="Saba Telerama: Schmitt lenses"
+   --><!--#set var="location"     value="plated-wire-storage"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/saba-telerama.shtm"
+   --><!--#set var="title_de"     value="Schmitt-Optik"
+   --><!--#set var="prev"         value="/en/communication/television.shtm#backlink-telerama"
+   --><!--#set var="prev_title"   value="Television: Saba Telerama"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
@@ -16,7 +23,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
@@ -33,13 +40,10 @@
          If you compute the final fraction of the original luminosity, you'll
          understand, why this projection TV had to be set in a totally shaded room.</p>
        </p>
-       <ul id="nav">
-           <li><a href="/en/communication/television.shtm#backlink-telerama">Television: Saba Telerama</a></li>
-          <li><a href="/en/">technikum29 homepage</a></li>
-       </ul>
   </div>
 </div>
 
 </div><!--content-->	
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

@@ -2,8 +2,14 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="What was the price one had to pay for an UNIVAC 9400?"
+   --><!--#set var="location"     value="univac-kosten"
+   --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/univac9400/kosten.shtm"
-   --><!--#set var="location"     value="extraseite"
+   --><!--#set var="title_de"     value="Wie viel kostete eine UNIVAC 9400?"
+   --><!--#set var="prev"         value="/en/computer/univac9400.shtm"
+   --><!--#set var="prev_title"   value="Univac 9400 overview"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
    <!--
@@ -32,28 +38,26 @@
     <link href="/shared/css/details.css" type="text/css" rel="stylesheet"/>
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.8.0" />
-    <meta name="t29.this.summary" content="Neu mit v5.8.0" />
     <style type="text/css">
       /**
        * Like the german page original, this site uses, as the first one, the
        * complete t29 design. Thus it's currently only imitating the whole style,
        * instead of including the complete menu file, etc.
        **/
-      .extraseite #wrapper {
-        background-image:url(/shared/img/fresh.design/menu-bg/autos.png);
-      }
-
-      .extraseite #content {
+      .univac-kosten #content {
         min-height: inherit;
         margin-bottom: 5px;
         padding-bottom: 348px;
       }
     </style>
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="09.08.2008/v5.8BETA" />
-    <meta name="t29.thistranslation" content="14.08.2008/v5.8BETA" />
-    <meta name="t29.comment" content="Initial translation" />
+    <meta name="t29.germanoriginal" content="14.08.2008/v5.8" />
+    <meta name="t29.thistranslation" content="09.08.2008/v5.8.0" />
+    <meta name="t29.comment" content="Only design (Sidebar)" />
+    <!--
+        Changelog of this file:
+          * 14.08.2008/v5.8BETA based on 09.08.2008/v5.8BETA: Initial translatio
+     -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -218,25 +222,6 @@
          alt="An illustration: One Univac 9400 equals 470 cars!"  />
 
 </div><!--content-->
-
-<div id="sidebar">
-    <div id="lang"><a lang="en" title="Deutsche Version dieser Seite" href="/de/<!--#echo var="url_de" -->">deutsche Version</a></div>
-</div>
-
-<div id="footer">
-    <div class="border">&nbsp;</div>
-    <ul>
-        <li class="up"><a href="#top" title="Zu Men&uuml; und &Uuml;berschrift"><b>top</b><br/>Navigation<span>&nbsp;</span></a></li>
-
-
-        <li class="prev"><a href="/en/computer/univac9400.shtm" title="Previous page"><b>back to previous page</b><br/>Overview: Univac 9400<span>&nbsp;</span></a></li>
-    </ul>
-</div>
-</div><!--wrapper-->
-</div><!-- extraseite -->
-<div id="copyright">
-    &copy; 2003-2008 technikum29. You must not use contents and photographies without the permission of the owner.
-    <a class="go" href="/en/contact.shtm">Legal Information</a>.
-</div>
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

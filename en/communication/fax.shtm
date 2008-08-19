@@ -73,7 +73,7 @@
             <p>The picture above was printed in the little book "The technical telegraph service" from 1876. As you
                can see, morse telegraphs were already used at that time. This kind of technology is amazing due
                to it's overwhelming simplicity.
-               <br/>Clicking on the picture which shows the rack yields the <a
+               <br/>Clicking on the picture which shows the rack yields the <a class="go"
                href="/en/devices/morese_telegraph.shtm">telegraph station</a>, made by S.A. HASLER (Bern, Switzerland).
             </p>
         </div>
@@ -215,8 +215,9 @@
          <img src="/shared/photos/kommunikationstechnik/fernschreiber.jpg" width="520" height="536" alt="Teletypewriter" />
          <p class="bildtext-bildbreite" style="width:520px;">
             Teletype from Siemens, year of manufacture 1952. Below in the picture, you can see a paper tape sender.
-            While typing the text, it was fed into the paper tape and could be send afterwards quite fast. Basically
-            this is comparable to an SMS or e-mail which is buffered in the device until it is sent in one go.
+            While typing the text, it was fed into the paper tape and could be send afterwards quite fast.
+            This is quite equal how today's e-mail clients work: They buffer the text while the user inputs
+            it until it is send in one go, instead of streaming the keyboard input "live" to the recipient.
             Of course this apperature is still fully executable.
          </p>
      </div>

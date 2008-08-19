@@ -2,22 +2,27 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Rise and Fall of DIGITAL (Equipment Corporation)"
-   --><!--#set var="url_de"       value="dec-geschichte.shtm"
+   --><!--#set var="location"     value="dec-history"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/dec-geschichte.shtm"
+   --><!--#set var="prev"         value="/de/rechnertechnik/fruehe-computer.shtm"
+   --><!--#set var="prev_title"   value="Early computers"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="..." />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Extraseite neustrukturiert" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
-
-<div id="page">
 
 <div class="col">
 
@@ -63,19 +68,19 @@
 </dl>
 
 <p>......wird fortgesetzt.....</p>
-</div>
+</div><!--rightcol -->
 
-</div>
+</div><!--cols -->
 
+<!--
 <hr class="clear">
 <ul class="nav">
           <li><a href="/de/rechnertechnik/fruehe-computer.shtm">Fr&uuml;he Computer</a></li>
           <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
 
 </ul>
-
-</div>
-<div class="clear">&nbsp;</div>
-
+-->
+</div><!-- page -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

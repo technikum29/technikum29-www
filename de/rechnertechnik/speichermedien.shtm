@@ -15,9 +15,12 @@
     <meta name="keywords" content="Frühe Computer, Frühe kommerzielle Rechner, NCR, Olivetti Programma 203, Nixdorf 820, ..." />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7.21" />
-    <meta name="t29.this.date" content="03.04.2008" />
-    <meta name="t29.this.comment" content="BULL GAMMA 3 Laufzeitspeicher neu" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.this.version" content="v5.8.0" />
+    <meta name="t29.this.date" content="19.08.2008" />
+    <meta name="t29.this.comment" content="Magnetdrahtspeicherbild-Größen geändert" />
+    <!--changelog: 03.04.2008/v5.7.21: BULL GAMMA 3 Laufzeitspeicher neu -->
+    <!-- (changelog nicht sauber gefuehrt) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -108,7 +111,7 @@
 
    <div class="box right">
        <h3><a name="magnetdrahtspeicher">Magnetdrahtspeicher</a></h3>
-       <a href="/de/geraete/magnetdrahtspeicher.shtm"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Magnetdrahtspeicher-Grafik" width="300" height="266" /></a>
+       <a href="/de/geraete/magnetdrahtspeicher.shtm"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Beschriftetes Photo: Aufbau des Magnetdrahtspeichers" width="340" height="303" /></a>
        <p>Dieser Speicher sollte den Kernspeicher ablösen. Mit Ankündigung der UNIVAC Serie 9000 (ca. 1965/66) stellte UNIVAC "eine technische Neuerung ersten Ranges" vor: Den Magnetdrahtspeicher, so der Text in der UNIVAC-Zeitschrift "Die Lochkarte" von 1967.</p><p>
 	   Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA wurde mit UNIVAC ein Vertrag geschlossen über den Bau eines Speichers mit einem Leistungsbedarf von weniger als 1 Watt, nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie Funktionsfähigkeit bei Temperaturen von -20 bis +50 Grad Celsius.<br>
 	   Mit genialen Ideen wurde der Speicher entwickelt, doch schon nach kurzer Zeit kam die Ernüchterung: Der Speicher war sehr störanfällig.</br></p>

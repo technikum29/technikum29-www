@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Wang 2200"
-   --><!--#set var="url_de"       value="wang2200.shtm"
+   --><!--#set var="location"     value="wang2200"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/wang2200.shtm"
+   --><!--#set var="title_de"     value=""
+   --><!--#set var="prev"         value="/en/computer/early-computers.shtm#backlink-wang2200"
+   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
@@ -16,20 +23,21 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
 
 <div class="box left">
   <img src="/shared/photos/rechnertechnik/wang2200.jpg" width="336" height="456" alt="Wang 2200" />
   <div class="bildtext">
       <h2>Wang 2200</h2>
       <p>Original brochure on the left. You see only the terminal witht the BASIC-keyboard. The CPU is located in a seperate suitcase. The power supply is suited in an own case.</p>
-      <ul id="nav">
+      <!--<ul id="nav">
           <li><a href="/en/computer/early-computers.shtm#backlink-wang2200">Scientifical calculators and mini computers</a></li>
           <li><a href="/en/">Homepage of technikum29-Website</a></li>
-      </ul>
+      </ul>-->
   </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

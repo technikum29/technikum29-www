@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Univac 9400 frontpanel"
-   --><!--#set var="url_de"       value=""
+   --><!--#set var="location"     value="univac-frontpanel"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/univac9400/frontpanel.shtm"
+   --><!--#set var="title_de"     value="Univac 9400 Frontpanel"
+   --><!--#set var="prev"         value="/en/computer/univac9400.shtm#backlink-frontpanel"
+   --><!--#set var="prev_title"   value="Univac 9400 overview"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.germanoriginal" content="v5.7FINAL" />
     <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
@@ -14,7 +21,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
 <div class="box left">
     <img src="/shared/photos/rechnertechnik/univac/frontpanel.jpg" alt="Univac 9400 Frontpannel" width="361" height="575" />
     <div class="bildtext">
@@ -25,13 +32,15 @@
 	changings. The display features four rotary switches so it can
 	be switched between eight different state arrays with 18 bits.</p>
     </div>
-
+    <!--
     <ul id="nav">
         <li><a href="/en/computer/univac9400.shtm#backlink-frontpanel">Univac 9400 overview</a></li>
         <li><a href="/en/">technikum29 homepage</a></li>
     </ul>
+    -->
  </div>
 
 </div><!--content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

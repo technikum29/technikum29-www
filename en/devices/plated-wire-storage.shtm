@@ -1,20 +1,28 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Plated wire storage"
-   --><!--#set var="url_de"       value="magnetdrahtspeicher.shtm"
-   --><title>technikum29 - <!--#echo var="title" --></title>
+   --><!--#set var="location"     value="plated-wire-storage"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/magnetdrahtspeicher.shtm"
+   --><!--#set var="prev"         value="/en/computer/storage-media.shtm#plated-wire-storage"
+   --><!--#set var="prev_title"   value="Storage media: The plated wire storage"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   -->
+    <title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="17.08.2008/v5.8.0" />
-    <meta name="t29.thistranslation" content="17.08.2008/v5.8.0" />
-    <meta name="t29.this.comment" content="several text improvements and new translations (new german text)" />
+    <meta name="t29.thistranslation" content="19.08.2008/v5.8.0" />
+    <meta name="t29.this.comment" content="bugfix: wrong header (german)" />
     <!--changelog: 01.12.2007/v5.7.12 based on 21.10.2007/v5.7.10: initialübersetzung von de -->
+    <!--changelog: 17.08.2008/v5.8.0 based on 17.08.2008/v5.8.0: several text improvements and new translations (new german text) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
     <div class="box right">
@@ -50,11 +58,14 @@
       <br/>But there is a rub in it. The construction is very sensitive and error-prone. While the wires could be replaced in the former storage systems, typical plated wire storages were completely stuck together so they could not be repared later on. This was a disaster for the companies which made use of this storage.
       <br/>Fortunately, the first semiconductor memories were mass-produced in the early 1970s, so most of the computers featuring plated wire storage could be upgraded to semiconductor memories made by INTEL.</p>
 
+    <!--
     <ul id="nav">
           <li><a href="/en/computer/storage-media.shtm#plated-wire-storage">Storage media: The plated wire storage</a></li>
           <li><a href="/en/">technikum29 homepage</a></li>
     </ul>
+    -->
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

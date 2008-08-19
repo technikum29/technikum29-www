@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Univac 9300"
-   --><!--#set var="url_de"       value="univac9400/univac_9300.shtm"
+   --><!--#set var="location"     value="univac-9300"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/univac9400/univac_9300.shtm"
+   --><!--#set var="title_de"     value="Die Univac 9300"
+   --><!--#set var="prev"         value="/en/computer/univac9400.shtm#"
+   --><!--#set var="prev_title"   value="Univac 9400 overview"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.germanoriginal" content="v5.7FINAL" />
     <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
@@ -14,7 +21,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 
@@ -27,13 +34,16 @@
 	compatible. The 9300's main storage can be extended
         to at most 32 KB. Unfortunately the accident-sensitive
 	magnetic wire was still used.</p>
+	<!--
       <ul id="nav">
         <li><a href="/en/computer/univac9400.shtm#backlink-univac9300">Univac 9400 overview</a></li>
         <li><a href="/en/">technikum29 homepage</a></li>
       </ul>
+      -->
     </div>
 </div>
 
 </div><!--content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

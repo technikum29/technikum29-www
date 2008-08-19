@@ -2,12 +2,19 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Details of Anita C/VIII"
-   --><!--#set var="url_de"       value="anita.shtm"
+   --><!--#set var="location"     value="anita"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/anita.shtm"
+   --><!--#set var="prev"         value="/en/computer/electron-tubes.shtm"
+   --><!--#set var="prev_title"   value="Calculators with electron tubes"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Extraseite neustrukturiert" />
@@ -16,7 +23,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
@@ -51,13 +58,16 @@
 </div>
 
 
+<!--
 <div class="center"><div class="bildtext-bildbreite" style="width: 516px;">
 <ul id="nav">
     <li><a href="/en/computer/electron-tubes.shtm">Calculators with electron tubes</a></li>
     <li><a href="/en/">Homepage of technikum29-Website</a></li>
 </ul>
 </div></div>
+-->
 
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

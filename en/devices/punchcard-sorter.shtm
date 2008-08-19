@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="The function of the punch card sorter"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="punchcard-sorter"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/lochkartensortierer-funktion.shtm"
+   --><!--#set var="title_de"     value="Die Funktion der Sortiermaschine"
+   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#backlink-sorter"
+   --><!--#set var="prev_title"   value="Punch card computing: IBM 082, IBM 083"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/en/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Lochkartensortieralgorithmus" />
     <meta name="t29.germanoriginal" content="v5.7.19" />
@@ -14,7 +21,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
     <p>Only people who are born prior to 1960 may have knowledge of the punch card machines. We would like to give you an example of these historic machines' functionality.</p>
@@ -37,11 +44,7 @@
         <li>The sorting algorithm needs as many loops as the number of digits in each number (three loops in this case)</li>
     </ul>
 
-      <ul id="nav">
-          <li><a href="/en/computer/punchcard.shtm#backlink-sorter">Punch card computing: IBM 082, IBM 083</a></li>
-          <li><a href="/en/">technikum29 homepage</a></li>
-      </ul>
-
 </div><!--content-->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

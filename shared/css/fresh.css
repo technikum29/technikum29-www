@@ -13,6 +13,8 @@
 |                                       mit dem ehemal. print.css           |
 |                                       zusammengefasst.                    |
 |                                                                           |
+| $Id::                                                                   $ |
+|                                                                           |
 | IE6-Workarounds sind hauptsaechlich in fresh-iefixing.css festgehalten!   |
 \***************************************************************************/
 
@@ -26,6 +28,7 @@
 **              common.css, Styleswticher, etc.
 **   v5.7.6:    opacity:.99; für Safari2-Bug
 **   v5.7.21:   Seitenmindesthöhe vergrößert
+**   v5.8.0:    Extraseitenstyles hinzugefügt.
 **
 **
 **
@@ -190,6 +193,12 @@ h1 a span, h1 .old, #h1-subtitle {
     * Univac
 */
 
+/*
+** Navigationsleistenhingergruende fuer Extraseiten.
+** Auch jede Extraseite hat seit v5.8 einen Namen und ist im Seitendesign integriert.
+**/
+.univac-kosten #wrapper { background-image: url(/shared/img/fresh.design/menu-bg/autos.png); }
+
 
 #sidebar {
     /* Rechte Seitenleiste, relativ zum #wrapper */
@@ -233,6 +242,12 @@ h1 a span, h1 .old, #h1-subtitle {
 }
 
 html>body #content { height: auto; }
+
+.extra #wrapper #content {
+    /* Extraseiten: Keine Mindesthoehe! */
+    min-height: inherit;
+    height: inherit;
+}
 
 #page, .content {
     /* Fuer seiten ohne #menu */

@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Univac 9400 Module"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="univac-board"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/univac9400/typical-board"
+   --><!--#set var="title_en"     value="Univac 9400 modules"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm#backlink-board"
+   --><!--#set var="prev_title"   value="Übersicht Univac 9400"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Fotos der Anita" />
@@ -14,20 +21,17 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
     <img src="/shared/photos/rechnertechnik/univac/typisches-board.jpg" alt="Typisches Board/Modul" width="541" height="365" />
     <div class="bildtext-bildbreite" style="width: 541px;">
         <p>Hier ein typisches Modul der Anlage. Deutlich sind die DTL-IC´s zu erkennen. Um jedes IC gruppieren sich Dioden, die in der Regel als logische UND-Schaltungen ausgeführt waren. So konnte man mit einem IC sehr verschiedene Logikbausteine verwirklichen. Integriert waren eigentlich nur ein paar Transistoren im IC. Daher ist der Unterschied zu Rechnern der 2. Generation sehr gering. Viele Module der Anlage wurden noch mit diskreter Transistortechnik verwirklicht. Die kompletten Bandeinheiten stammen aus mitte der 60er Jahre und sind daher ohne integrierte Schaltungen aufgebaut.</p>
-      <ul id="nav">
-        <li><a href="/de/rechnertechnik/univac9400.shtm#backlink-board">Übersicht Univac 9400</a></li>
-        <li><a href="/de/">technikum29 Startseite</a></li>
-      </ul>
     </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

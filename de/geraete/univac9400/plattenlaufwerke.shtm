@@ -2,19 +2,26 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Univac 9400 Plattenlaufwerke"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="univac-discdrives"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/univac9400/discdrives.shtm"
+   --><!--#set var="title_en"     value="Univac 9400 disc drives"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm#backlink-plattenlaufwerke"
+   --><!--#set var="prev_title"   value="Übersicht Univac 9400"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="Fotos der Anita" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.this.version" content="v5.7" />
     <meta name="t29.this.summary" content="FINAL fertig" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
@@ -22,13 +29,10 @@
     <div class="bildtext-bildbreite" style="width: 595px;">
         <p>Plattenlaufwerke haben gegenüber den Bändern den großen Vorteil der kurzen Zugriffszeit. Die Steuerung der Laufwerke und der 10-fach Köpfe ist jedoch sehr aufwändig. Dazu bedurfte es eines ganzen Schrankes mit Elektronik (hier nur zum Teil abgebildet).
         <br />Die Speicherkapazität beträgt 7,5 MB pro Plattenstapel. Für 1969 waren das ungeheuerliche Dimensionen.</p>
-      <ul id="nav">
-        <li><a href="/de/rechnertechnik/univac9400.shtm#backlink-plattenlaufwerke">Übersicht Univac 9400</a></li>
-        <li><a href="/de/">technikum29 Startseite</a></li>
-      </ul>
     </div>
 </div>
 
 </div><!--content-->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

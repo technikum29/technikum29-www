@@ -2,10 +2,17 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Aufbau und Funktion des Magnetdrahtspeichers"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="plated-wire-storage"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/plated-wire-storage.shtm"
+   --><!--#set var="title_en"     value="Plated wire storage"
+   --><!--#set var="prev"         value="/de/rechnertechnik/speichermedien.shtm#magnetdrahtspeicher"
+   --><!--#set var="prev_title"   value="Interne Speichermedien"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="t29.this.version" content="v5.7.9" />
     <meta name="t29.this.date" content="13.10.2007" />
@@ -13,7 +20,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
     <div class="box right">
@@ -30,7 +37,6 @@
 
     <p> Diese "Plated Wires" (beschichtete Drähte) wurden in Bahnen von "Word Straps" (Wort- bzw. Leseleitungen) eingebettet. In Drahtrichtung sind die Magnetschichten nur schwer-, quer dazu jedoch leicht magnetisierbar. <br/>
     Zum Lesen der Information wird durch die Leseleitungen, die vertikal zum Magnetdraht liegen, ein Stromimpuls geschickt. Das durch ihn erzeugte Magnetfeld versucht den magnetischen Vektor an dieser Stelle des Drahtes in Drahtrichtung auszulenken. In Längsrichtung ist die Magnetschicht des Drahtes aber nur schwer zu magnetisieren. Der Magnetvektor wird etwas ausgelenkt und kippt sofort wieder in seine Ursprungslage zurück. Dieses "Wackeln" induziert im Draht eine sehr kleine Spannung. Hier wurde ein Bit ausgelesen ohne den Zustand zu zerstören. Die gespeicherte Information ist nach dem Lesevorgang noch vorhanden (im Gegensatz zum Kernspeicher). Das Vorzeichen der induzierten Spannung gibt Auskunft darüber, ob hier eine "1" oder eine "0" gespeichert ist.<br/>
-   
 
     <div class="box left">
         <img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-lesen.de.gif" alt="Kleine Grafik zum Lesevorgang (Impuls auf der Wortleitung)" />
@@ -44,11 +50,7 @@
     <p style="clear:both;">Im Prinzip war das eine geniale Idee, kein Fädeln der Ringkerne, kurze Zykluszeit, preiswert und maschinell herzustellen...
     <br/>Doch man ahnt es schon: Der Aufbau war so empfindlich, dass schon bald viele Probleme auftraten; ein Horror für jede Firma, die diesen Speicher verwendete. Bei ganz alten Speichern konnte man die Drähte noch einzeln auswechseln, später wurde alles verklebt und eine Reparatur ist unmöglich. Anfang der 70er Jahre kamen glücklicherweise die ersten Halbleiterspeicher auf den Markt, so dass die meisten Rechner mit Magnetdrahtspeicher auf Halbleiterspeicher mit INTEL-Chip´s umgerüstet wurden, so auch unsere UNIVAC 9400.</p>
 
-    <ul id="nav">
-          <li><a href="/de/rechnertechnik/speichermedien.shtm#magnetdrahtspeicher">Speichermedien</a></li>
-          <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
-    </ul>
-
 </div><!--content-->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

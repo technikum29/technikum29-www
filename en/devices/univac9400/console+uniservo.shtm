@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Univac Servo"
-   --><!--#set var="location"     value="univac-console"
+   --><!--#set var="location"     value="univac-servo"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/univac9400/konsole+uniservo.shtm"
    --><!--#set var="title_de"     value="Univac Konsole und Uniservo"

@@ -33,13 +33,15 @@
       <br/>As a replacement, the plated wire was invented, just before the first semiconductor memories were ready for beeing mass-produced. The plated wire consists of magnetic wire which replaces the cores (see picture at the right).</p>
     <p>The installations from the UNIVAC 9000 series (like our <a href="/en/devices/univac9400/univac_9300.shtm">UNIVAC 9300</a>) were equipped with plated wire storages. We could offer pictures of our storage units, but the assembly of this type of memory is quite opaque. Therefore we publish self-drawn diagrams to illustrate the plated wire characteristics.</p>
 
-    <p>From the physical point of view the magnetical core memory is a thin-film storage medium. The information carrier is a 1 micrometer thick permalloy solenoid film (the "word strap") that is stacked on the "plated wire", that is a beryllium copper wire with 0.13mm in diameter.</p>
+    <p>From the physical point of view the plated wire storage is a thin-film storage medium. The information carrier is a 1 micrometer thick permalloy solenoid film that  sheats a beryllium copper wire with 0.13mm in diameter.</p>
+
+    <!-- bzw. That plated wire constists of copper with a thin film which consists of an iron-nickel alloy. -->
 
     <div class="box center" style="clear:right;">
         <img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-details.en.gif" alt="Detailed diagram: Plated Wire Characteristics, labeled" />
     </div>
 
-    <p>That plated wire constists of copper with a thin film which consists of an iron-nickel alloy. These plated wires are embedded into word straps which are perpendicular to two sides of the plated wire. In the easy direction of magnetization (see diagram above), the magnet layer is quite stable, whereas it is unstable in the hard direction of magnetization.
+    <p>These plated wires are embedded into word straps which are perpendicular to two sides of the plated wire. In the easy direction of magnetization (see diagram above), the magnet layer is quite stable, whereas it is unstable in the hard direction of magnetization.
     <br/>To read the information, the word current is raised. The current will establish a magnetic field which tries to align the magnetization vector at the area in the plated wire covered by the word strap.
     Lengthwise, the magnetic film is very hard to magnetize, therefore the vector only librates (insteads of rotating) <!--and falls back to the former position after the word current was lowered.-->
     and falls back to the former position. This libration induces a small voltage. The sign of this voltage depends on the direction of the magnetization vector. Therefore it is possible to read a bit without destroying its value. This saves valuable access time, compared to the core memory.</p>

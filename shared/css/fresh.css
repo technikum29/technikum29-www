@@ -173,31 +173,62 @@ h1 a span, h1 .old, #h1-subtitle {
 ** Die Klasse um #wrapper rum ist einfach die $location-SSI-Variable.
 ** Wegen IE6 braucht's leider noch einen Wrapper um den #wrapper :/
 */
-.rundfunk #wrapper, .tontechnik #wrapper { background-image: url(../img/fresh.design/menu-bg/rundfunk.jpg); }
-.fernsehen #wrapper { background-image: url(../img/fresh.design/menu-bg/fernsehen.jpg); }
-.messtechnik #wrapper { background-image: url(../img/fresh.design/menu-bg/messtechnik.jpg); }
-.elektro-mechanik #wrapper { background-image: url(../img/fresh.design/menu-bg/elektro-mechanik.jpg); }
-.tabelliermaschine #wrapper { background-image: url(../img/fresh.design/menu-bg/tabelliermaschine.png); }
-.lochkarten #wrapper { background-image: url(../img/fresh.design/menu-bg/lochkarte.jpg); }
-.speichermedien #wrapper { background-image: url(../img/fresh.design/menu-bg/speichermedien.png); }
-.transistoren #wrapper { background-image: url(../img/fresh.design/menu-bg/transistoren.png); }
-.fruehe-computer #wrapper { background-image: url(../img/fresh.design/menu-bg/fruehe-computer.png); }
-.analogrechner #wrapper { background-image: url(../img/fresh.design/menu-bg/analogrechner.png); }
-.elektronenroehren #wrapper { background-image: url(../img/fresh.design/menu-bg/elektronenroehren.jpg); }
-/*
-   Es fehlen noch spezielle Hintergründe für:
-    * Faxtechnik
-    * Programmierbare Rechner 2. Generation
-    * 3. Generation mit ICs
-    * Kommerzielle Rechner
-    * Univac
-*/
 
 /*
-** Navigationsleistenhingergruende fuer Extraseiten.
-** Auch jede Extraseite hat seit v5.8 einen Namen und ist im Seitendesign integriert.
+** Eine Uebersicht ueber die existierenden und noch nicht existierenden
+** Menu-Bg-Grafiken erhaelt man auf
+** http://technikum29.de/shared/img/fresh.design/menu-bg/
 **/
-.univac-kosten #wrapper { background-image: url(/shared/img/fresh.design/menu-bg/autos.png); }
+.rundfunk #wrapper, .tontechnik #wrapper, .ultramar #wrapper, .telefunken650 #wrapper,
+.schaub-lorenz-supraphon #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/rundfunk.jpg); }
+.fernsehen #wrapper, .saba-telerama #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/fernsehen.jpg); }
+/*
+.faxtechnik -> .morse-telegraph, .hellfax
+*/
+.messtechnik #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/messtechnik.jpg); }
+.elektro-mechanik #wrapper, .sprocket-wheel-machine #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/elektro-mechanik.jpg); }
+.tabelliermaschine #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/tabelliermaschine.png); }
+.lochkarten #wrapper, .punchcard-sorter #wrapper, .punchcard-collator #wrapper,
+.univac-cardreader #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/lochkarte.jpg); }
+.elektronenroehren #wrapper, .anita #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/elektronenroehren.jpg); }
+.transistoren #wrapper, .wanderer #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/transistoren.png); }
+/*
+.programmierbare -> wang320
+*/
+/*
+.ic-technik -> wang700
+*/
+/*
+.kommerzielle -> ncr446, nixdorf820
+*/
+.fruehe-computer #wrapper, .dec-history #wrapper, .lab8e #wrapper, .wang2200 #wrapper,
+.details2 #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/fruehe-computer.png); }
+/*
+.univac -> .univac, .univac-frontpanel, .univac-console, .univac-servo,
+          [.univac-cardreader (we use the punch card image at this place)],
+           .univac-bandcontroller, .univac-discdrives, .univac-highspeed-printer,
+           .univac-board, .univac-9300, .univac-werbung
+*/
+.univac-kosten #wrapper
+    { background-image: url(/shared/img/fresh.design/menu-bg/autos.png); }
+
+.analogrechner #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/analogrechner.png); }
+.speichermedien #wrapper
+    { background-image: url(../img/fresh.design/menu-bg/kernspeicher.jpg);
+    /*background-image: url(../img/fresh.design/menu-bg/speichermedien.png);*/ }
+/* .speichermedien nicht passend fuer -> .threaded-rom, .magnetic-stick-memory, 
+                                         .plated-wire-storage
+*/
 
 
 #sidebar {
@@ -266,12 +297,18 @@ html>body #content { height: auto; }
 }
 
 /* Sprachlink */
+#lang ul, #lang li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 #lang {
     /* Link auf englische/deutsche Version, auffällig  */
     margin: 12px 0 20px 0;
 }
 
-#lang a {
+#lang a, #lang span {
     display: block;
     line-height: 140%;
     padding: 5px 12px 5px 20px;
@@ -279,6 +316,11 @@ html>body #content { height: auto; }
     /*background-image: url(../img/fresh.design/langbg.menu.png);*/
     text-decoration: none;
     border: 1px solid #5D7EAB;
+}
+
+#lang span {
+    /* Bevor Entscheidung fuer Sprachlinkdesign getroffen wurde, ausblenden */
+    display: none;
 }
 
 #lang a:hover, #lang a:focus {

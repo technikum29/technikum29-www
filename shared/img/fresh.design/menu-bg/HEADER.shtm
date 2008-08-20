@@ -2,8 +2,7 @@
 <html>
 <head>
     <title>technikum29.de Navigationsleistenhintergründe</title>
-    <link rel="stylesheet" href="http://dev.<!--#echo var="HTTP_HOST" -->/src/css/full-fresh.css" type="text/css" title="technikum29.de">
-    <link rel="stylesheet" href="/etc/src/autoindex.css" type="text/css" title="technikum29.de">
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
     <style>
         .box img { border: 1px solid #888; }
         
@@ -58,21 +57,42 @@
 <h1 class="none"><a href="/"><span>technikum29</span></a></h1>
 
 <div id="page" class="content">
-<!--#set var="TEMPLATE:lastmod" value="07.01.2008" -->
-<!--#include virtual="/etc/src/templates/lastmod.shtm" -->
+<!--#set var="TEMPLATE:lastmod" value="07.01.2008, 20.08.2008" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
 <h2>Navigationsleitenhintergründe</h2>
 
-<p>Die Dateien in diesem Verzeichnis werden im <a href="/shared/css/fresh">neuen Fresh-Design</a>
+<p>Die Dateien in diesem Verzeichnis werden im <a href="/shared/css/fresh.css">neuen Fresh-Design</a>
 (seit <a href="/etc/txt/v5.7">Version 5.7</a>)
-als Hintergründe für die seitenleiste (rechts) verwendet. Für fast jeden Themenbereich/jede Inhaltsseite
+als Hintergründe für die Seitenleiste auf der rechten Seite verwendet. Für fast jeden Themenbereich/jede Inhaltsseite
 gibt es einen eigenen Hintergrund, der immer in einem Bezug zum Thema steht.</p>
 
 <p>Jeder einzelne Hintergrund wurde in mühevoller Kleinarbeit erstellt. Entsprechend gilt der folgende
 Hinweis auch hier:</p>
-<!--#include virtual="/etc/src/templates/copyright.txt" -->
+<!--#include virtual="/src/templates/copyright.txt" -->
 <p>Originalquellen sind vorhanden.</p>
 
-<h3>Übersicht der Grafiken</h3>
+<h3>Übersicht der fehlenden Grafiken</h3>
+<p>Seit der Einführung des allgemeinen Seitendesigns auch für Extraseiten mit der
+   <a href="/etc/txt/v5.8">Version 5.8</a> bekamen auch diese Seitenleisten, die sich
+   anboten, mit etwas anderem als den standardmäßigen Nullen und Einsen gefüllt zu
+   werden. Da jede Extraseite üblicherweise von einer Inhaltsseite verlinkt ist,
+   bot sich an, die zugehörigen Bilder der Inhaltsseiten auch auf den Extraseiten zu
+   verwenden. Für folgende Inhaltsseiten (und damit auch Extraseiten) gibt es allerdings
+   (noch) keine passenden Grafiken:</p>
+
+<ul>
+  <li><b>Schreib- und Faxtechnik</b> sowie die Extraseiten <i>Morse-Telegraph</i>, <i>Hellfax</i></li>
+  <li><b>Programmierbare Rechner der 2. Generation</b> swie die Extraseite <i>wang320</i></li>
+  <li><b>Programmierbare Rechner der 3. Generation</b> sowie die Extraseite <i>wang700</i></li>
+  <li><b>Kommerzielle Rechner</b> sowie die Extraseite <i>ncr446</i>, <i>nixdorf820</i></li>
+  <li><b>Univac 9400</b> sowie <i>11</i> zugehörige Extraseiten</li>
+  <li>Die Extraseiten zu den <b>Speichermedien</b>, und zwar <i>Threaded ROM</i>, <i>Magnetic Stick Memory</i>
+      sowie <i>Plated Wire Storage</i>.</li>
+</ul>
+
+<p><b>Stand: $Date$</b></p>
+
+<h3>Übersicht der vorhandenen Grafiken</h3>
 <div class="box" name="hoverbox" style="background-image:url(binary.png);">
     <h4><a name="binary.png" href="binary.png">binary.png</a></h4>
     <p>Allgemeine Fallback-Grafik, wird bei Seiten wie Start/Suche/Impressum verwendet. Dargestellt sind kleine
@@ -130,7 +150,6 @@ Hinweis auch hier:</p>
        komplett mit GIMP nachgezeichnet.</p>
 </div>
 
-
 <div class="box" name="hoverbox" style="background-image:url(rundfunk.jpg);">
     <h4><a name="rundfunk.jpg" href="rundfunk.jpg">rundfunk.jpg</a></h4>
     <p>Es handelt sich hier um Noten von Richard Strauss
@@ -154,6 +173,15 @@ Hinweis auch hier:</p>
        zwei Transistoren besonders zur Geltung kommen und eine Kachelung möglich ist.</p>
 </div>
 
+<div class="box" name="hoverbox" style="background-image:url(autos.png);">
+    <h4><a name="autos.png" href="autos.png">autos.png</a></h4>
+    <p>Diese VW-Beetles, genutzt auf der <a href="/de/geraete/univac9400/kosten.shtm">Univac-Kosten</a>-Seite,
+       basieren auf einer
+       <a href="http://openclipart.org/media/files/Chrisdesign/3732">OpenClipart-Vektorgrafik</a>. Sie wurden
+       so dimensioniert, dass sie auf der Univac-Kosten-Seite etwa 500 Stück ergeben. Grafik erstellt
+       mit Inkscape und zum technikum29-Blau verfärbt mit GIMP.</p>
+</div>
+
 <div class="clear">&nbsp;</div>
 </div><!--page -->
-<!--#include virtual="/etc/src/templates/autoindex-footer.shtm" -->
+<!--#include virtual="/src/templates/autoindex.shtm" -->

@@ -5,14 +5,14 @@
    --><!--#set var="url_en"       value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
 
 <div class="box center">
   <img src="/shared/photos/kommunikationstechnik/olympia_schreibautomat.jpg" width="443" height="264" alt="Olympia Schreibautomat" />
@@ -31,5 +31,6 @@
 </div>
 
 </div><!--content-->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

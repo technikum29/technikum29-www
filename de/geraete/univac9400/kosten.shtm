@@ -2,8 +2,14 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Wie viel kostete die UNIVAC 9400-Anlage?"
+   --><!--#set var="location"     value="univac-kosten"
+   --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/univac9400/costs.shtm"
-   --><!--#set var="location"     value="extraseite"
+   --><!--#set var="title_en"     value="What was the price one had to pay for an UNIVAC 9400?"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm"
+   --><!--#set var="prev_title"   value="Übersicht Univac 9400"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
@@ -49,11 +55,7 @@
        * werden.
        *
        **/
-      .extraseite #wrapper {
-        background-image:url(/shared/img/fresh.design/menu-bg/autos.png);
-      }
-
-      .extraseite #content {
+      .univac-kosten #content {
         min-height: inherit;
         margin-bottom: 5px;
         padding-bottom: 348px;
@@ -213,26 +215,6 @@
 
 
 </div><!--content-->
-
-<div id="sidebar">
-    <div id="lang"><a lang="en" title="read the english version of this page" href="/en/<!--#echo var="url_en" -->">english version</a></div>
-</div>
-
-<div id="footer">
-    <div class="border">&nbsp;</div>
-    <ul>
-        <li class="up"><a href="#top" title="Zu Men&uuml; und &Uuml;berschrift"><b>nach oben</b><br/>Zur &Uuml;bersicht<span>&nbsp;</span></a></li>
-
-        
-        <li class="prev"><a href="/de/rechnertechnik/univac9400.shtm" title="Vorherige Seite"><b>zur&uuml;ck</b><br/>Übersicht Univac 9400<span>&nbsp;</span></a></li>
-    </ul>
-</div>
-</div><!--wrapper-->
-</div><!-- extraseite -->
-<div id="copyright">
-    &copy; 2003-2008 technikum29. <a class="go" href="/de/impressum.shtm">Impressum</a>. Alle Bilder und Fotografien sind
-    kopierrechtlich gesch&uuml;zt
-
-</div>
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

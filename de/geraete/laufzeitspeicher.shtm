@@ -5,14 +5,14 @@
    --><!--#set var="url_en"       value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
 <!-- Begin of Forwarding Template (v5.7) -->
     <!--#set var="forwarding_page" value="/de/rechnertechnik/speichermedien.shtm#laufzeitspeicher" -->
     <!--#set var="forwarding_title" value="Speichermedien" -->
@@ -36,5 +36,6 @@
 </div>
 
 </div><!--content-->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!--
- | Begin of menu.inc file, VERSION 5.7.23
+ | Begin of menu.inc file, VERSION 5.8
  | $Id$
  +-->
 
@@ -18,7 +18,12 @@
 <h2 class="hidden">Navigation</h2>
 
 <div id="sidebar">
-    <div id="lang"><a href="/de/<!--#echo var="url_de" -->" lang="de" title="Deutsche Version dieser Seite">deutsche Version</a></div>
+    <div id="lang">
+      <ul>
+         <li><a href="/de/<!--#echo var="url_de" -->" lang="de" title="Die deutsche Seite, <!--#echo var="title_de" -->, lesen.">deutsch</a></li>
+         <li><span lang="en" title="This page, namely <!--#echo var="title" -->">english</span></li>
+      </ul>
+    </div>
 
     <!--#if expr="$part != extra" -->
     <div id="menu">

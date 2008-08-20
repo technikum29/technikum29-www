@@ -2,30 +2,34 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Schaub-Lorenz-Supraphon"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="schaub-lorenz-supraphon"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/schaub-lorenz-supraphon.shtm"
+   --><!--#set var="title_en"     value="Schaub Lorenz Supraphon"
+   --><!--#set var="prev"         value="/de/kommunikationstechnik/tontechnik.shtm#backlink-supraphon"
+   --><!--#set var="prev_title"   value="Tonaufnahme- und Wiedergabetechnik"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
   <img src="/shared/photos/kommunikationstechnik/supraphon_ausschnitt.jpg" alt="Ausschnitt des Supraphons" width="633" height="258"  />
   <div class="bildtext-bildbreite" style="width: 633px;">
      <p>Deutlich ist der sehr dünne Stahldraht zu erkennen. Im geöffneten Tonkopf sieht man links die Aufnahmespule, rechts die kleinere Spule für den Löschvorgang.</p>
-  <ul id="nav">
-      <li><a href="/de/kommunikationstechnik/tontechnik.shtm#backlink-supraphon">Tonaufnahme- und Wiedergabetechnik</a></li>
-      <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
-  </ul>
   </div>
 </div>
 
 </div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

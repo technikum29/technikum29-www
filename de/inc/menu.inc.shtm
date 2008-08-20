@@ -1,9 +1,24 @@
+<!--
+ | Begin of menu.inc file, VERSION 5.8.0
+ | $Id$
+ +-->
+
 <hr class="hidden" />
 <h2 class="hidden">Navigation</h2>
 
 <div id="sidebar">
-  <div id="lang"><a href="/en/<!--#echo var="url_en" -->" lang="en" title="read the english version of this page">english version</a></div>
+  <div id="lang">
+      <ul>
+         <li><span lang="de" title="Diese Seite, <!--#echo var="title" -->">deutsch</span></li>
+         <li><a href="/en/<!--#echo var="url_en" -->" lang="en" title="Read the english version of this page, <!--#echo var="title_en" -->.">english</a></li>
+      </ul>
+  </div>
 
+<!--
+  <div id="lang"><a href="/en/<!--#echo var="url_en" -->" lang="en" title="read the english version of this page">english version</a></div>
+--> 
+
+  <!--#if expr="$part != extra" -->
   <div id="menu">
       <ul class="l1">
         <li class="l1"><a name="nav" <!--#if expr="$location = start" -->class="on"<!--#else -->href="/de/" title="Startseite der deutschen Version"<!--#endif -->>Startseite</a></li>
@@ -50,6 +65,7 @@
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/de/impressum.shtm" title="Impressum und Kontakt"<!--#endif -->>Kontakt/Impressum</a></li>
     </ul>
   </div><!-- id=menu -->
+  <!--#endif -->
 </div><!-- id=sidebar -->
 
 <div id="footer">

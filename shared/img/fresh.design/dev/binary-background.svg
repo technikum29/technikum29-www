@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2769"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docbase="/mnt/data/Heribert/Homepage/Design-Ideen/t29v5.7/hauptseiten/shared/img/dev"
+   sodipodi:docname="binary-background.svg">
+  <defs
+     id="defs2771" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="337.0926"
+     inkscape:cy="595.01302"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="931"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="166" />
+  <metadata
+     id="metadata2774">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;color:black;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.12399995;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.23591548;visibility:visible;display:inline;overflow:visible"
+       id="rect2777"
+       width="220"
+       height="217.14285"
+       x="250.35713"
+       y="421.29077" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="blubb"
+     style="opacity:0.06000001">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3665"
+       transform="translate(1.785714,-0.142857)"
+       style="font-size:7px"><flowRegion
+         id="flowRegion3667"><rect
+           id="rect3669"
+           width="221.21428"
+           height="106.46428"
+           x="249.28572"
+           y="421.29074"
+           style="font-size:7px" /></flowRegion><flowPara
+         id="flowPara3675">1011010010111010010111011011011011101100010010011101111100010011010100011010001010110100101110110110110111011000100100111011111000100110101000110100010101101001011101101101101110110001001001110111</flowPara></flowRoot>  </g>
+</svg>

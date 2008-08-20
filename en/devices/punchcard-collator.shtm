@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="The function of the punch card collator"
-   --><!--#set var="location"     value="punchcard-collector"
+   --><!--#set var="location"     value="punchcard-collator"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/lochkartenmischer-funktion.shtm"
    --><!--#set var="title_de"     value="Die Funktion des Lochkartenmischers"

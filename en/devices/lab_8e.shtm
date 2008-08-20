@@ -5,7 +5,7 @@
    --><!--#set var="location"     value="lab8e"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/lab_8e.shtm"
-   --><!--#set var="title_de"     value="PDP Lab 8e"
+   --><!--#set var="title_de"     value="DEC Lab 8e"
    --><!--#set var="prev"         value="/en/computer/early-computers.shtm#lab8e"
    --><!--#set var="prev_title"   value=Scientifical calculators and mini computers: LAB 8e"
    --><!--#set var="next"         value=""

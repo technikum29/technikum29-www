@@ -2,10 +2,21 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Besonders interessante Tischrechner und Kleinanlagen aus dem Museumsbestand"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="details1"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="details1.shtm"
+   --><!--#set var="title_en"     value="Tabular list of desk calculators"
+   --><!--#set var="prev"         value="/de/rechnertechnik/transistoren.shtm"
+   --><!--#set var="prev_title"   value="Erste Rechner mit Tranistoren"
+   --><!--#set var="prev2"        value="/de/rechnertechnik/programmierbare.shtm"
+   --><!--#set var="prev2_title"  value="Programmierbare Rechner der 2. Generation"
+   --><!--#set var="prev3"        value="/de/rechnertechnik/ic-technik.shtm"
+   --><!--#set var="prev3_title"  value="Erste Rechner der 3. Generation mit einfacher IC-Technik"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <link rel="stylesheet" type="text/css" href="/shared/css/details.css" />
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
@@ -13,7 +24,7 @@
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
@@ -158,13 +169,7 @@
     </td>
 </table>
 
-<ul id="nav">
-    <li><a href="/de/rechnertechnik/transistoren.shtm">Erste Rechner mit Tranistoren</a></li>
-    <li><a href="/de/rechnertechnik/programmierbare.shtm">Programmierbare Rechner der 2. Generation</a></li>
-    <li><a href="/de/rechnertechnik/ic-technik.shtm">Erste Rechner der 3. Generation mit einfacher IC-Technik</a></li>
-    <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
-</ul>
-
 </div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

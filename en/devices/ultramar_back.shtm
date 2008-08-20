@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="K&ouml;rting Ultramar"
-   --><!--#set var="location"     value="ultramar_back"
+   --><!--#set var="location"     value="ultramar"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/ultramar_hinten.shtm"
    --><!--#set var="title_de"     value="Rückseite des K&ouml;rting Ultramar"

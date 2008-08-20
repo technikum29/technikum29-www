@@ -2,18 +2,26 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Details der Anita"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="location"     value="anita"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/anita.shtm"
+   --><!--#set var="title_en"     value="Details of Anita C/VIII"
+   --><!--#set var="prev"         value="/de/rechnertechnik/elektronenroehren.shtm"
+   --><!--#set var="prev_title"   value="Rechner mit Elektronenr&ouml;hren"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/extra-head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="DC.Subject" content="Fotos der Anita" />
     <meta name="t29.this.version" content="v5.7" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<div id="extra" class="content">
+<div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
@@ -38,14 +46,7 @@
     </div>
 </div>
 
-
-<div class="center"><div class="bildtext-bildbreite" style="width: 516px;">
-<ul id="nav">
-    <li><a href="/de/rechnertechnik/elektronenroehren.shtm">Rechner mit Elektronenr&ouml;hren</a></li>
-    <li><a href="/de/">technikum29 Startseite</a></li>
-</ul>
-</div></div>
-
 </div><!--content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>
 </html>

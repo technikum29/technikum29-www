@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Telefunken 650"
-   --><!--#set var="location"     value="telefunken_650"
+   --><!--#set var="location"     value="telefunken650"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/telefunken_650.shtm"
    --><!--#set var="prev"         value="/en/communication/broadcasting.shtm"

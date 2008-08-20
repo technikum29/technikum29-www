@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="WANDERER conti"
-   --><!--#set var="location"     value="wanderer_conti"
+   --><!--#set var="location"     value="wanderer"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/wanderer.shtm"
    --><!--#set var="title_de"     value=""

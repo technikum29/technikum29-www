@@ -2,7 +2,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Details of the ROM"
-   --><!--#set var="location"     value="plated-wire-storage"
+   --><!--#set var="location"     value="threaded-rom"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/gefaedeltes-rom.shtm"
    --><!--#set var="title_de"     value="Gefädeltes ROM"

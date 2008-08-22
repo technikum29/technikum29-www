@@ -399,6 +399,9 @@ html>body #content, html>body .extra #wrapper #content {
 #lang a {
     top: 0; left: 0;
     z-index: 2; /* unter <h1> darstellen, also unter Schatten */
+    /* Der Sprachlink ist jetzt in einem Azur/Mint-Ton. Der ist völlig neu
+       auf der Homepage, von Heribert aber gewollt, weil "englisch etwas
+       besonderes" sei. */
     background-image: url(../img/fresh.design/langbg.menu.png);
 
     text-decoration: none;

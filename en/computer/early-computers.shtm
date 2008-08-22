@@ -17,10 +17,11 @@
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="28.07.2008/v5.8.0" />
-    <meta name="t29.comments" content="details 2 paragraph formulierung" />
+    <meta name="t29.thistranslation" content="22.08.2008/v5.8FINAL" />
+    <meta name="t29.comments" content="Link to new DEC-HISTORY page" />
     <!--changleog: 27.04.2006/v5.5.1 auf Basis 2005/v5.5.1 -->
     <!--changelog: 21.08.2007/v5.7.5 auf Bais 18.07.2007/v5.7FINAL -->
+	<!--changelog: 28.07.2008/v5.8.0 auf Basis 18.07.2007/v5.7FINAL:  details 2 paragraph formulierung -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -29,9 +30,9 @@
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers". In contrast, in the 1960s and the early 70s, a computer was always huge (like our <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini". Early computers are well worth seeing due to their enormous size and the nice transparent auxillary devices.
     <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP&nbsp;8. The museum owns a complete production run from that devices: From the PDP&nbsp;8 (also called Classic&nbsp;8), year of manufacture 1965 to the PDP&nbsp;8a (1975, this one is less important so it is located in the archive).
+	 <br/>For further reading see the story about <a class="go" name="backlink-dec" href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.
+	</p>
     
-    <!--<br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.</p> - noch nicht englisch -->
-
     <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
     Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->

@@ -21,5 +21,5 @@
 
     <!--#config timefmt="%d.%m.%Y %T" --><!-- header last modified: <!--#echo var="LAST_MODIFIED" --> (new header v5.7) -->
 <!--#set var="heading" value='<div class="${location} ${part}"><div id="wrapper">
-<h1 class="de"><a href="/de/" title="Zur technikum29-Startseite (deutsch)"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
+<h1 class="de"><a href="/de/" title="Zur technikum29-Startseite (deutsch)" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
 <p id="h1-subtitle">Museum f&uuml;r Rechner-, Computer- und Kommunikationstechnik</p>' -->

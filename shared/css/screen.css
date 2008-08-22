@@ -10,24 +10,29 @@
  *                       S C R E E N    C S S                     *
  *                                                                *
  *  ab Version v5.7 ist fresh.css das neue Standardcss fuer Bild- *
- *  schirmanzeige. Das Screen-Design ist allerdings fuer "kleine" *
+ *  schirmanzeige. Das Screen-Design ist zwar fuer "kleine"       *
  *  Anzeigebereiche (Breite < 900px) besser geeignet, soll jedoch *
  *  nicht mehr benutzt werden. Trotzdem steht es als mehr oder    *
  *  weniger "gleichwertige" Alternative dank XHTML-Quelltext-     *
  *  kompatibilitaet zur Verfuegung und laesst sich mit der        *
  *  Browserfunktion zum CSS-Wechseln aktivieren.                  *
+ *  Internet Explorer der Version 5 werden automatisch auf dieses *
+ *  Design umgestellt (Anteil der IE5s im Jahr 2008 an den        *
+ *  Homepagebesuchern: 0% IE5 25% IE6, 25% IE7).                  *
+ *                                                                *
  *  fuer v5.7 wurde diese Datei so angepasst, dass sie sowohl fuer*
  *  alte Quelltexte als auch neue gleichzeitig nutzbar ist. In der*
- *  Uebergangsphase, wo /en noch alt ist, ist dies noetig.        *
- *  IEs der Version 5 werden automatisch auf dieses Design        *
- *  umgestellt                                                    *
+ *  Uebergangsphase, wo /en noch alt ist, war dies noetig.        *
  *                                       12.07.07 2:15 v5.7BETA   *
+ *  $Id::                                                      $  *
   \**************************************************************/
 
 /*
 ** Changelog seit v5.7:
 **   v5.7FINAL: Changelog gestartet
 **   v5.7.5:    Diverse Anpassungen für besseres Aussehen
+**   v5.8:      Einige Fixes, damit das Design zumindest noch
+**              benutzbar waere.
 **
 **
 **
@@ -120,13 +125,24 @@ h2 {
     padding: 0;
 }
 
-div#lang {
+div#lang a {
     /* <div> mit Sprachauswahl (z.b. "englische Version") */
     position: absolute;
     top: 70px; left: 0;
     display: block; text-align: center;
     width: 160px; height: 13px;
     margin: 0; padding: 1px;
+}
+
+div#lang ul, div#lang li {
+    list-style: none;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+div#lang span, div#lang strong {
+    display: none;
 }
 
 div#lang a {
@@ -439,17 +455,6 @@ div#footer li.prev {
 #copyright {
     /* Wer wirklich auf Screen umschaltet, ist kein Idiot, der einen Copyright-Vermerk braucht */
     display: none;
-    /*margin: 0;
-    border-top: 1px solid white;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background: #5F80AE url(../img/screen.design/body.bg.png) repeat-y top left;
-    color: #fff;
-    text-align: center;
 }
-
-#copyright a {
-    color: #fff;
-}*/
 
 /* EOF */

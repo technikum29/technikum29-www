@@ -1,26 +1,48 @@
-/***************************************************************\
-|       _         _         _                                   |
-|      /\ \     /\ \      / /\          technikum29.de          |
-|      \_\ \   /  \ \    / /  \         Common Styles           |
-|      /\__ \ / /\ \ \  / / /\ \        Version 5.7 ff          |
-|     / /_ \ \\/_/\ \ \/_/ /\ \ \                               |
-|    / / /\ \ \   / / /\ \ \_\ \ \      Alle "Spezialstyles"    |
-|   / / /  \/_/  / / /  \ \/__\ \ \     die in Inhaltsseiten    |
-|  / / /        / / /  _ \_____\ \ \    verwendet werden,       |
-| / / /        / / /_/\_\       \ \ \   koennen hier notiert    |
-|/_/ /        / /_____/ /        \ \ \  werden. Ausserdem ist   |
-|\_\/         \________/          \_\/  das ehemalige print.css |
-|                                       hier eingearbeitet.     |
-|                                                               |
-\***************************************************************/
+/**********************************************************************\
+|       _         _         _                                          |
+|      /\ \     /\ \      / /\          technikum29.de  Common Styles  |
+|      \_\ \   /  \ \    / /  \         Version 5.8                    |
+|      /\__ \ / /\ \ \  / / /\ \                                       |
+|     / /_ \ \\/_/\ \ \/_/ /\ \ \       Diese CSS-Datei implementiert  |
+|    / / /\ \ \   / / /\ \ \_\ \ \      das Konzept, alle "Spezial-    |
+|   / / /  \/_/  / / /  \ \/__\ \ \     styles" von alen Seiten an     |
+|  / / /        / / /  _ \_____\ \ \    einer Stelle zu sammeln. Das   |
+| / / /        / / /_/\_\       \ \ \   erhöht die Ladezeit der Seiten |
+|/_/ /        / /_____/ /        \ \ \  nur minimal, vermindert den    |
+|\_\/         \________/          \_\/  Wartungsaufwand aber enorm.    |
+|                                       Dieses Konzept wurde seit      |
+| Version 5.7 erfolgreich angewandt. Mittlerweile sind alle anderen    |
+| Zusatz-Stylesheets hier migriert, und zwar extra.css, details.css    |
+| sowie print.css.                                                     |
+|                                                                      |
+| $Id::                                                              $ |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+| Changelog seit v5.7:                                                 |
+|                                                                      |
+|   v5.7FINAL: eingeführt                                              |
+|   v5.7.11:   Univac-Spezialstyle neu                                 |
+|   v5.7.14:   .desc-right zurück ins Leben gerufen                    |
+|   v5.7.15:   .bordered zum allgemeineren Rahmenelement               |
+|   v5.8.0:    Erheblich aufgeräumt, details.css migriert, umgestellt. |
+|              Zu jedem Spezialstyle gibt es jetzt einen Pflicht-      |
+|              kasten, der ausgefüllt werden soll, der Übersicht       |
+|              halber.                                                 |
+|                                                                      |
+\**********************************************************************/
 
-/* Changelog seit v5.7:
-**   v5.7FINAL: eingeführt
-**   v5.7.11:   Univac-Spezialstyle neu
-**   v5.7.14:   .desc-right zurück ins Leben gerufen
-**   v5.7.15:   .bordered zum allgemeineren Rahmenelement
-**
-*/
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Neue Startseiten, (de|en)/index.shtml           |
+| In Benutzung seit:   v5.7 (Redesign)                                 |
+| Besonderheiten:      Zweispaltiges Design mit Boxen                  |
+| Zuletzt geändert:    v5.7                                            |
+|                                                                      |
+\**********************************************************************/
+
 
 /* Spezialstyle der neuen Startseite: */
 .startseiten-design div {
@@ -70,6 +92,41 @@
     float: right;
     margin: 0 0 1em 2em;
 }
+
+/* Spezialstyle auf der Startseite: */
+/* "Neuzugaenge" */
+div.aktuell {
+    /* "Aktuelle Bilder"-Bereich */
+    border: 1px solid #7090C0;
+    /*margin-top: 2em;*/
+    padding: 1.5em;
+    clear: both;
+    /**  fuer rechts floatende Aktuell-Box: */
+    /* float: right; width: 300px; margin: 10px 0 20px 20px;*/
+}
+
+/* gegen kaputte Rahmen bei IEs, danke an Jeena */
+* html div.aktuell { position: relative;  }
+/* geht doch nicht --> er sieht es ploetzlich relativ zu der "Ausgansbrowsergroesse"  */
+
+div.aktuell h2 {
+    margin: 1px;
+    padding: 0;
+    color: #224B88; /* gleiche Farbe wie die ganzen anderen Boxen */
+    font-size: 126%;
+}
+
+div.aktuell .stand {
+    font-size: 80%;
+    text-align: center;
+    margin-top: 1px;
+}
+
+div.aktuell p {
+    margin: 20px 4px;
+/*  clear: both;*/
+}
+
 
 /* Ursprüngliches völlig freies Spezialstyle der neuen Startseite,
    letzendlich doch nicht mehr genutzt
@@ -154,81 +211,43 @@
 } \* media -> printausschluss *\
 */
 
-
-/* ehemaliger Spezialstyle auf der Startseite,
-   jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
-div.desc-right {
-    /* rechts gefloatetes thumbnail mit Beschreibungstext */
-    float: right;
-    margin: 0pt 0pt 2em 2em;
-/*  width: 236px; */
-/*  border: 1px solid #7090C0;
-    background-color: #EBEBEB; */
-    border: 1px solid #094099;
-    padding: 1em;
-}
-
-div.desc-right img {
-}
-
-div.desc-right p {
-    /* Damit der Text nicht über die ganze Fensterbreite geht,
-       <p style="width: Bildbreite;"> nötig. */
-    margin: 1em 0 0 0; padding: 0;
-    font-size: 90%;
-    text-align: left;
-}
-
-/* Spezialstyle auf der Startseite: */
-/* "Neuzugaenge" */
-div.aktuell {
-    /* "Aktuelle Bilder"-Bereich */
-    border: 1px solid #7090C0;
-    /*margin-top: 2em;*/
-    padding: 1.5em;
-    clear: both;
-    /**  fuer rechts floatende Aktuell-Box: */
-    /* float: right; width: 300px; margin: 10px 0 20px 20px;*/
-}
-
-/* gegen kaputte Rahmen bei IEs, danke an Jeena */
-* html div.aktuell { position: relative;  }
-/* geht doch nicht --> er sieht es ploetzlich relativ zu der "Ausgansbrowsergroesse"  */
-
-div.aktuell h2 {
-    margin: 1px;
-    padding: 0;
-    color: #224B88; /* gleiche Farbe wie die ganzen anderen Boxen */
-    font-size: 126%;
-}
-
-div.aktuell .stand {
-    font-size: 80%;
-    text-align: center;
-    margin-top: 1px;
-}
-
-div.aktuell p {
-    margin: 20px 4px;
-/*  clear: both;*/
-}
-
 /* Ende aller Spezialstyles der Startseite */
 
 
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 IC-Technik, /de/rechnertechnik/ic-technik.shtm  |
+| In Benutzung seit:   v5.7 oder so (quick and dirty)                  |
+| Besonderheiten:      Floatendes Bild links und <ul> daneben, das     |
+|                      macht haessliche Effekte. Diese Quick & Dirt-   |
+|                      Lösung sollte eigentlich gar nicht mehr in      |
+|                      Benutzung sein, ist es aber trotzdem irgendwie  |
+|                      noch.                                           |
+| Zuletzt geändert:    v5.7 oder so.                                   |
+|                                                                      |
+\**********************************************************************/
 
-/* Spezialstyle bei IC-Technik: */
-/* Ueberschrift => Liste gleicher margin-left */
-p.h-ul { text-align: left; }
-ul.h-ul { margin: 0; padding: 1em; }
-/* wird nicht mehr gebraucht! Löschen. */
+p.h-ul  { text-align: left; }
+ul.h-ul { margin: 0; margin-left: 380px; }
 
 
-/* Links floatende Bildergalerie, einfache Listenstruktur
-   gebraucht auf univac9400-Seite
-    ** seit 5.5.2 wegen Designkorrektur spezialisierung auf **
-    ** univac-Seite                                         **
-*/
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 UNIVAC 9400-Gebiet:                             |
+|                         /de/rechnertechnik/univac9400.shtm           |
+|                         /de/geraete/univac9400/                      |
+| In Benutzung seit:   v5.5.2 wegen Designkorrektur, Spezialisierung   |
+|                      auf der Univac-Seite                            |
+|                      Teile später in v5.7 und v5.8 hinzugekommen     |
+| Besonderheiten:      Auf der Univac-Hauptseite:                      |
+|                      Links floatende Bildergalerie, einfache Listen- |
+|                      struktur gebraucht, zudem einmalig.             |
+|                      Außerdem: Panoramabildmenüverschiebung.         |
+| Zuletzt geändert:    v5.7.11                                         |
+|                                                                      |
+\**********************************************************************/
 
 ul.univac-thumbs, ul.univac-thumbs li {
    list-style: none;
@@ -247,25 +266,42 @@ ul.univac-thumbs li img {
 
 /* Univac-Seite seit 5.7.11: Menü unter Panoramabild
    Quick&Dirty-Lösung, angelehnt an Navigationsleistenhintergrundrealisierungen */
-
 .univac #wrapper #menu {
     margin-top: 520px; /* circa... */
 }
 
+/* Univac-Kosten-Seite seit v5.8.0: Ein absolut positioniertes Bild
+   (Illustration, soll an Seitennavigation klatschen) am Ende der
+   #content-Box, daher dieser künstliche Rand: */
+.univac-kosten #content {
+    min-height: inherit;
+    margin-bottom: 5px;
+    padding-bottom: 348px;
+}
 
 
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Fax- und Schreibtechnik, Startseite             |
+|                         /de/kommunikationstechnik/faxtechnik.shtm    |
+|                         /de/index.shtml                              |
+| In Benutzung seit:   Prinzipiell seit Ewigkeiten (v5.0?)             |
+|                      Startseite nutzt Stil mit seit v5.7       n     |
+| Besonderheiten:      Mehrspaltiger Inhalt (Originalzitat), nach      |
+|                      dem simplen Schema:                             |
+|                                                                      |
+|   <div class="cols">                                                 |
+|       <div class="leftcol">linke spalte</div>                        |
+|       <div class="rightcol">rechte spalte</div>                      |
+|   </div>                                                             |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
 
-
-/* Nur verwendet bei Faxtechnik und auf der Startseite: */
-/*
-    Mehrspaltiger Inhalt:
-    <div class="cols">
-        <div class="leftcol">linke spalte</div>
-        <div class="rightcol">rechte spalte</div>
-    </div>
-*/
 #content .cols {
-    /* Mehrspaltiger Inhalt. Nur genutzt in <faxtechnik> */
+    /* Mehrspaltiger Inhalt. */
 }
 
 #content .cols .leftcol, #content .cols .rightcol {
@@ -292,7 +328,72 @@ ul.univac-thumbs li img {
 
 
 
-/*
+/**********************************************************************\
+| CENTRAL COMMON STYLES: TABLE LAYOUT FROM details.css                 |
++----------------------------------------------------------------------+
+| Hier ist das Tabellenlayout der ehemaligen details.css. Es wird      |
+| (basismäßig) mittlerweile auch auf anderen Seiten genutzt, unter     |
+| anderem die Univac9400-Kosten-Seite (seit v5.8).                     |
+|                                                                      |
+| Begrenzt auf #content, damit andere Seiten in dev.t29.de oder        |
+| ähnlichem verschont bleiben.                                         |
+|                                                                      |
+| Das CSS ist uralt (stammt wohl noch von v5.0 und vorher) und wurde   |
+| seit dem nie verändert (wie die Details-Seiten ;-) )                 |
+|                                                                      |
+\**********************************************************************/
+
+
+#content td, #content table, #content tr {
+    font: 12px Verdana;
+}
+
+#content table p {
+    text-align: justify;
+    line-height: 120%;
+}
+
+#content table p.center {
+    margin: 5px 0px;
+    text-align: center;
+}
+
+#content td b {
+    display: block;
+}
+
+#content td.b, #content td.b a {
+    font-weight: bold;
+}
+
+#content table {
+    background-color: #7090C0;
+}
+
+#content td {
+    padding: 2px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #F7FDFF;
+}
+
+#content th {
+    padding: 2px;
+    text-align: center;
+    background-color: #BED0E5;
+}
+
+#content .bemerkungen {
+    vertical-align: middle;
+    text-align: justify;
+}
+
+
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |
++----------------------------------------------------------------------+
+|
 ** Bildboxen ("Imageboxen")
 ** Das Bildboxen-Konzept wird auf ausnahmslos allen Inhalts- und Extraseiten
 ** genutzt. Aufbau eines .right/.left/.center-Bildbeschreibungs-Gebildes:
@@ -306,7 +407,8 @@ ul.univac-thumbs li img {
 ** Dazu existieren Erweiterungen: img.nomargin-bottom bei weniger Text als Bild,
 ** .center .bildtext-bildbreite, damit zentrale Texte genauso breit wie die
 ** Bilder werden.
-*/
+|
+\**********************************************************************/
 
 #content .box, .content .box {
     /* .box als allgemeine Klasse fuer abstandswuerdige */
@@ -380,6 +482,30 @@ ul.univac-thumbs li img {
 #content .bordered img, .content .bordered img {
 }
 
+
+/* ehemaliger Spezialstyle auf der Startseite,
+   jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
+div.desc-right {
+    /* rechts gefloatetes thumbnail mit Beschreibungstext */
+    float: right;
+    margin: 0pt 0pt 2em 2em;
+/*  width: 236px; */
+/*  border: 1px solid #7090C0;
+    background-color: #EBEBEB; */
+    border: 1px solid #094099;
+    padding: 1em;
+}
+
+div.desc-right img {
+}
+
+div.desc-right p {
+    /* Damit der Text nicht über die ganze Fensterbreite geht,
+       <p style="width: Bildbreite;"> nötig. */
+    margin: 1em 0 0 0; padding: 0;
+    font-size: 90%;
+    text-align: left;
+}
 
 
 @media print {

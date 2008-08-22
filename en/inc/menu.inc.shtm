@@ -20,15 +20,15 @@
 <div id="sidebar">
     <div id="lang">
       <ul>
-         <li><a href="/de/<!--#echo var="url_de" -->" lang="de" title="Die deutsche Seite, <!--#echo var="title_de" -->, lesen.">deutsch</a></li>
-         <li><span lang="en" title="This page, namely <!--#echo var="title" -->">english</span></li>
+         <li lang="de"><span>Es gibt auch eine </span><a href="/de/<!--#echo var="url_de" -->" class="de" title="Die deutsche Seite, <!--#echo var="title_de" -->, lesen.">deutsch<span>e Version dieser Seite: <!--#echo var="title" -->.</span></a></li>
+         <li lang="en"><span>You are currently reading the </span><strong class="en" title="This page, namely <!--#echo var="title" -->">english<span> version of the page.</span></strong></li>
       </ul>
     </div>
 
     <!--#if expr="$part != extra" -->
     <div id="menu">
       <ul class="l1">
-        <li class="l1"><a name="nav" <!--#if expr="$location = start" -->class="on"<!--#else -->href="/en/" title="Homepage"<!--#endif -->>Start</a></li>
+        <li class="l1"><a <!--#if expr="$location = start" -->class="on"<!--#else -->href="/en/" title="Homepage"<!--#endif -->>Start</a></li>
         <li class="l2"><div<!--#if expr="($part) &&  ($part = communication)" --> class="on"<!--#endif -->><em class="l2">Communication Technology</em>
             <ul class="l2">
                 <li><a <!--#if expr="$location = rundfunk" -->class="on"<!--#else -->href="/en/communication/broadcasting.shtm"<!--#endif --> >Broadcasting<span>&nbsp;</span></a></li>
@@ -72,7 +72,7 @@
 <div id="footer">
     <div class="border">&nbsp;</div>
     <ul>
-        <li class="up"><a href="#nav" title="Go to menu and top heading"><b>top</b><br/>Navigation<span>&nbsp;</span></a></li>
+        <li class="up"><a href="#top" title="Go to menu and top heading"><b>top</b><br/>Navigation<span>&nbsp;</span></a></li>
         <!--#if expr="($prev)" --><li class="prev"><a href="<!--#echo var="prev" -->" title="Go back to previous page"><b>previous page</b><br/><!--#echo var="prev_title" --><span>&nbsp;</span></a></li><!--#endif -->
         <!--#if expr="($next)" --><li class="next"><a href="<!--#echo var="next" -->" title="Go to next page"><b>next page</b><br/><!--#echo var="next_title" --><span>&nbsp;</span></a></li><!--#endif -->
     </ul>

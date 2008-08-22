@@ -26,5 +26,5 @@
 
     <!-- technikum29.de general SSI homepage header, $Id$ -->
 <!--#set var="heading" value='<div class="${location} ${part}"><div id="wrapper">
-<h1 class="en"><a href="/en/" title="Go to technikum29 homepage"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
+<h1 class="en"><a href="/en/" title="Go to technikum29 homepage" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
 <p id="h1-subtitle">Museum for the historical development of calculator, computer and communication technology</p>' -->

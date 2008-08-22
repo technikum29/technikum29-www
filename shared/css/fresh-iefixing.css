@@ -9,21 +9,30 @@
 **         -- Sven, 13.07.2007, 00:45, nach stundenlangem Rumgefrickel
 **            bezueglich Lösungen für transparente PNGs und die Navigation
  *
- * Man beachte die aktuellen Statistiken, hier aus April/Mai/Juni 2007:
- * 
- * 40.60%  Gecko-Engine (z.B. Firefox) und KHTML (Konqueror, Safari)
- * 31.90%  Internet Explorer 6
- * 16.50%  Internet Explorer 7
- *  3.39%  Opera
- *  1.01%  Internet Explorer 5
- *  1.85%  Bots (z.B. Suchmaschinen)
+ * Man beachte den Verlauf der Statistiken:
  *
- * Für gerade mal 30% der Homepagepagebesucher wurden die folgenden Zeilen
- * ganz exklusiv geschrieben und unglaubliche Verrenkungen im HTML-Sourcecode
- * vorgenommen. Für 30% der Homeepagebesucher, eine Gruppe, die sich dadurch
- * auszeichnet, dass sie von unheimlicher Dummheit und Ignoranz gezeichnet ist.
- * Natürlich wissen diese DAUs nicht, was sie da machen. Denn wie man sieht,
- * schadet ihr Verhalten nicht nur ihnen, sondern auch vielen anderen.
+ *                             April/Mai/Juni 07   02.08   05.08  08.08
+ * Firefox (Gecko)          |            40.60%   |  38% |   39% |  47%
+ * Internet Explorer 5      |             1.01%   | 0.3% |    0% |   0%
+ * Internet Explorer 6      |            31.90%   |  26% |   26% |  22%
+ * Internet Explorer 7      |            16.50%   |  23% |   23% |  22%
+ * Opera, Safari, KHTML     |             3.90%   |   9% |    7% |   9%
+ * Bots (Suchmaschinen)     |             1.85%   |      |       |
+ *
+ * Die Tendenz geht bei IE-Benutzern eindeutig Richtung IE7 (wenn auch,
+ * widererwarten langsam), insgesamt aber noch mehr richtung Alternativbrowser.
+ * So wurde letztes Jahr in diesem CSS an dieser Stelle gesagt:
+ *
+ ** Für gerade mal 30% der Homepagepagebesucher wurden die folgenden Zeilen
+ ** ganz exklusiv geschrieben und unglaubliche Verrenkungen im HTML-Sourcecode
+ ** vorgenommen. Für 30% der Homeepagebesucher, eine Gruppe, die sich dadurch
+ ** auszeichnet, dass sie von unheimlicher Dummheit und Ignoranz gezeichnet ist.
+ ** Natürlich wissen diese DAUs nicht, was sie da machen. Denn wie man sieht,
+ ** schadet ihr Verhalten nicht nur ihnen, sondern auch vielen anderen.
+ *
+ * Heute lässt sich resümieren: Jetzt sind es nur noch 20%. ;-)
+ *
+ * $Id$
  *
  */
 
@@ -46,6 +55,23 @@ html{behavior:expression(function(element){
     else window.attachEvent("onload", fixwidth);
     window.attachEvent("onresize", fixwidth);
 }(this))}
+
+/* Sprachlinks */
+#lang strong {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/langbg-on.menu.png', enabled='true', sizingMethod='crop');
+}
+
+#lang a {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/langbg.menu.png', enabled='true', sizingMethod='crop');
+    cursor: pointer;
+}
+
+#lang a:hover {
+    background-image: none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/shared/img/fresh.design/langbg-hot.menu.png', enabled='true', sizingMethod='crop');
+}
 
 #menu a {
     /* border: 2px solid red !important;*/

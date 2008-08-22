@@ -13,9 +13,9 @@
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <link rel="stylesheet" type="text/css" href="/shared/css/details.css" />
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.this.version" content="v5.7" />
 </head>
 <body>

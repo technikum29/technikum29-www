@@ -35,28 +35,15 @@
    -->
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <link href="/shared/css/details.css" type="text/css" rel="stylesheet"/>
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <style type="text/css">
-      /**
-       * Like the german page original, this site uses, as the first one, the
-       * complete t29 design. Thus it's currently only imitating the whole style,
-       * instead of including the complete menu file, etc.
-       **/
-      .univac-kosten #content {
-        min-height: inherit;
-        margin-bottom: 5px;
-        padding-bottom: 348px;
-      }
-    </style>
     <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="14.08.2008/v5.8" />
     <meta name="t29.thistranslation" content="09.08.2008/v5.8.0" />
     <meta name="t29.comment" content="Only design (Sidebar)" />
     <!--
         Changelog of this file:
-          * 14.08.2008/v5.8BETA based on 09.08.2008/v5.8BETA: Initial translatio
+          * 14.08.2008/v5.8BETA based on 09.08.2008/v5.8BETA: Initial translation
      -->
 </head>
 <body>

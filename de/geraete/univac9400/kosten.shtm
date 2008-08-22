@@ -13,54 +13,10 @@
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <link href="/shared/css/details.css" type="text/css" rel="stylesheet"/>
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.8.0" />
     <meta name="t29.this.summary" content="Neu mit v5.8.0" />
-    <style type="text/css">
-      /**
-       * Extraseiten im technikum29-Seitendesign
-       *
-       * Diese Extraseite bedient sich dem normalen Seitendesign von technikum29-
-       * Inhaltsseiten. Dies wurde (erstmals) aus Designzwecken gemacht, hat
-       * aber ganz abgesehen davon noch andere positive Nebeneffekte:
-       *
-       *  * Ein allumfassendes einheitliches Seitenlayout inklusive
-       *    der abgesetzten blauen Navigationsleiste am Ende der Seite, in
-       *    die sich die Links zurück zu den Seiten sehr gut eingliedern.
-       *
-       *  * Einheitliche zentrale Urheberrechtshinweise am Ende *jeder*
-       *    technikum29.de-Seite.
-       *
-       *  * Ein gefälligeres Seitendesign, da der Text nicht mehr über
-       *    die gesamte Fensterbreite geht.
-       *
-       *  * Eine konsequente Nutzung der Seitenleiste:
-       *
-       *      * Möglichkeit, dort Informationen in Form von Hintergrundbildern
-       *        einzubinden
-       *
-       *      * Links zur englischen Übersetzung und damit einfachere Navigation,
-       *        auch für Ausländer.
-       *
-       *      * Links zurück auf mehrere Seiten, z.B. bei den Details-Seiten, die
-       *        ja zuweilen von mehreren Inhaltsseiten verlinkt werden.
-       *
-       *  * Eine einfachere Organisation der Seiten, weniger Syntax-Overhead
-       *    und weniger Zusatzdateien, die die Besucher laden müssen.
-       *
-       * Die folgenden CSS-Anweisungen tragen eben diesen Zusatzstyles Rechnung,
-       * die entfallen soll(t)en, wenn sie an zentraler Stelle zusammengefasst
-       * werden.
-       *
-       **/
-      .univac-kosten #content {
-        min-height: inherit;
-        margin-bottom: 5px;
-        padding-bottom: 348px;
-      }
-    </style>
     <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>

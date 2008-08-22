@@ -9,8 +9,8 @@
 <div id="sidebar">
   <div id="lang">
       <ul>
-         <li><span lang="de" title="Diese Seite, <!--#echo var="title" -->">deutsch</span></li>
-         <li><a href="/en/<!--#echo var="url_en" -->" lang="en" title="Read the english version of this page, <!--#echo var="title_en" -->.">english</a></li>
+         <li lang="de"><span>Dies ist die </span><strong class="de" title="Diese Seite, <!--#echo var="title" -->">deutsch<span>e Version der Seite.</span></strong></li>
+         <li lang="en"><span>You can also read the </span><a href="/en/<!--#echo var="url_en" -->" class="en" title="Read the english version of this page, <!--#echo var="title_en" -->.">english<span> version of this page, called <!--#echo var="title_en" -->.</span></a></li>
       </ul>
   </div>
 
@@ -21,7 +21,7 @@
   <!--#if expr="$part != extra" -->
   <div id="menu">
       <ul class="l1">
-        <li class="l1"><a name="nav" <!--#if expr="$location = start" -->class="on"<!--#else -->href="/de/" title="Startseite der deutschen Version"<!--#endif -->>Startseite</a></li>
+        <li class="l1"><a <!--#if expr="$location = start" -->class="on"<!--#else -->href="/de/" title="Startseite der deutschen Version"<!--#endif -->>Startseite</a></li>
 
 		<li class="l1 long"><a <!--#if expr="$location = lehrerinfo" -->class="on"<!--#else --> href="/de/lehrerinfo.shtm" title="Didaktische Konzeption, Workshops, Informationen für Lehrer"<!--#endif -->>Didaktische Konzeption, Informationen für Lehrer</a></li>
 		
@@ -71,7 +71,7 @@
 <div id="footer">
     <div class="border">&nbsp;</div>
     <ul>
-        <li class="up"><a href="#nav" title="Zu Men&uuml; und &Uuml;berschrift"><b>nach oben</b><br/>Zur &Uuml;bersicht<span>&nbsp;</span></a></li>
+        <li class="up"><a href="#top" title="Zu Men&uuml; und &Uuml;berschrift"><b>nach oben</b><br/>Zur &Uuml;bersicht<span>&nbsp;</span></a></li>
         <!--#if expr="($prev)" --><li class="prev"><a href="<!--#echo var="prev" -->" title="Zur vorherigen Seite"><b>vorherige Seite</b><br/><!--#echo var="prev_title" --><span>&nbsp;</span></a></li><!--#endif -->
         <!--#if expr="($next)" --><li class="next"><a href="<!--#echo var="next" -->" title="Zur nächsten Seite"><b>n&auml;chste Seite</b><br/><!--#echo var="next_title" --><span>&nbsp;</span></a></li><!--#endif -->
     </ul>

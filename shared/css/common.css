@@ -283,11 +283,14 @@ ul.univac-thumbs li img {
 /**********************************************************************\
 | SPEZIAL STYLE                                                        |
 +----------------------------------------------------------------------+
-| Für:                 Fax- und Schreibtechnik, Startseite             |
+| Für:                 Fax- und Schreibtechnik, Startseite,            |
+|                      DEC-Geschichte                                  |
 |                         /de/kommunikationstechnik/faxtechnik.shtm    |
 |                         /de/index.shtml                              |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
 | In Benutzung seit:   Prinzipiell seit Ewigkeiten (v5.0?)             |
-|                      Startseite nutzt Stil mit seit v5.7       n     |
+|                      Startseite nutzt Stil mit seit v5.7             |
 | Besonderheiten:      Mehrspaltiger Inhalt (Originalzitat), nach      |
 |                      dem simplen Schema:                             |
 |                                                                      |
@@ -324,6 +327,31 @@ ul.univac-thumbs li img {
     padding: 0px;
     color: #2F319D;
     text-align: justify;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 DEC-Geschichte                                  |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
+| In Benutzung seit:   Wohl schon recht lange.     (v5.0?)             |
+| Besonderheiten:      Definitionslisten ohne Einschub und mit dick-   |
+|                      gedrucktem <dt>.                                |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
+
+#content dt {
+    margin-top: 1.2em;
+    font-weight: bold;
+    display: block;
+}
+
+#content dd {
+    text-align: justify;
+    margin: 0; padding: 0;
 }
 
 

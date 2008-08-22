@@ -6,8 +6,8 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/dec-geschichte.shtm"
    --><!--#set var="title_de"     value="Aufstieg und Ende von DIGITAL (Equipment Corporation)"
-   --><!--#set var="prev"         value="/de/rechnertechnik/fruehe-computer.shtm"
-   --><!--#set var="prev_title"   value="Early computers"
+   --><!--#set var="prev"         value="/en/computer/early-computers.shtm"
+   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
@@ -15,10 +15,10 @@
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="2008/v5.7.x" />
+    <meta name="t29.germanoriginal" content="22.08.2008/v5.8FINAL" />
     <meta name="t29.thistranslation" content="22.08.2008/v5.8.0FINAL" />
     <meta name="t29.comment" content="Initial translation" />
-	<!--changelog: 23.08.2007/v5.7.5 based on 08.2007/v5.7FINAL": Extraseite neustrukturiert -->
+    <!--changelog: 23.08.2007/v5.7.5 based on 08.2007/v5.7FINAL": Extraseite neustrukturiert -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -41,7 +41,7 @@
 </div><!-- leftcol -->
 <div class="rightcol">
 
-<p>An overview in chronological order:</p>
+<h3>An overview in chronological order</h3>
 
 <dl>
 <dt>1963</dt>

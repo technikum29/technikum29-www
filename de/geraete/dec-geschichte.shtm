@@ -7,45 +7,17 @@
    --><!--#set var="url_en"       value="devices/dec-history.shtm"
    --><!--#set var="title_en"     value="Rise and Fall of DIGITAL (Equipment Corporation)"
    --><!--#set var="prev"         value="/de/rechnertechnik/fruehe-computer.shtm"
-   --><!--#set var="prev_title"   value="Frühe Computer"
+   --><!--#set var="prev_title"   value="Wissenschaftliche Rechner und Minicomputer"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <style type="text/css">
-    <!--
-        /* ehemals auf extra.css, jetzt hier */
-        dt {
-            margin-top: 1.2em;
-            font-weight: bold;
-            display: block;
-        }
-        dd {
-            text-align: justify;
-            margin: 0; padding: 0;
-        }
-	.cols {
-	/* Mehrspaltiger Inhalt. */
-	}
-	.cols .leftcol,
-	.cols .rightcol {
-	padding: 5px 10px;
-	/*  border: 3px dashed red;*/
-	}
-	
-	.col .leftcol {
-	float: left; width: 43%;
-	}
-	
-	.col .rightcol {
-	float: right; width: 43%;
-	}
-    -->
-    </style>
-    <meta name="keywords" lang="de" content="" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7" />
+    <meta name="t29.version" content="v5.8.0" />
+    <meta name="t29.comment" content="Stile hier entfernt und zentral gespeichert." />
+    <!--changelog: Zuletzt geaendert v5.7 oder so -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -53,7 +25,7 @@
 
 <h2 class="center"><!--#echo var="title" --></h2>
 
-<div class="col">
+<div class="cols">
 
 <div class="leftcol">
 <p>Es begann mit einer Idee. Ein junger Ingenieur vom renommierten Massachusetts Institute of Technololgy hatte am Lincoln Lab einen neuartigen Rechner kennengelernt, der grundlegend andere Arbeitsweise hatte als die bis dahin bekannten Rechner der <em>&bdquo;Eniac&ldquo;</em>-Generation.

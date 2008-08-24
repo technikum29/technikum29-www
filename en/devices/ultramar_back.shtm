@@ -10,7 +10,6 @@
    --><!--#set var="prev_title"   value="Broadcasting: K&ouml;rting Ultramar (front side)"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
-   --><!--#set var="url_de"       value="ultramar_hinten.shtm"
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->

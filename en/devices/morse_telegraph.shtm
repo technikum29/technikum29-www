@@ -4,7 +4,7 @@
 <head><!--#set var="title"        value="TELEGRAPH made by S.-A. HASLER, Bern (Switzerland)"
    --><!--#set var="location"     value="morse-telegraph"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/morse_telegraph.shtm"
+   --><!--#set var="url_de"       value="geraete/morsetelegraf.shtm"
    --><!--#set var="title_de"     value=""
    --><!--#set var="prev"         value="/en/communication/fax.shtm#backlink-morse-telegraph"
    --><!--#set var="prev_title"   value="Fax and writing engineering"

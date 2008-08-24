@@ -41,6 +41,16 @@
  *                                                                *
  ******************************************************************
 
+ VERSION 5.8 FINAL - (24.08.2008 16:00)
+ ~~~~~~~~~~~~~~~~~
+ Das Sprachlinkkonzept wurde überarbeitet, außerdem all CSS-Dateien.
+ Zudem viele kleinere Bugfixes
+ * /shared/css/ - Alle Dateien geändert
+ * /shared/img/fresh.design/langbg.menu.png, langbg-hot.menu.png,
+   langbg-on.menu.png neu/geändert
+ * Alle Dateien in /de/inc und /en/inc wurden verändert
+ Siehe /etc/txt/v5.8 für einen Kommentar zur Version 5.8.
+
  VERSION 5.8 DELTA - (20.08.2008 04:40)
  ~~~~~~~~~~~~~~~~~
  Alle Extraseiten (Englisch + Deutsch) wurden in das Seitendesign

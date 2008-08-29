@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+    <title>technikum29.de: /shared/js</title>
+    <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/heading.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="29.08.2008" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+
+<h2>Javascripte der technikum29-Homepage</h2>
+<p>Dieses Verzeichnis beinhaltet alle JavaScripte, die auf der technikum29.de-Homepage
+eingebunden werden.</p>
+
+<ul class="icons">
+   <li class="script"><a href="ie5.js">ie5.js</a>: JavaScript, welches über Conditional Comments nur in dem Internet Explorer 5 eingebunden wird und diesen dazu bewegt, auf das alte screen.design zu wechseln.</li>
+   <li class="script"><a href="startseite.js">startseite.js</a>: Unobstructive JavaScript, welches die Hover-Effekte auf der <a href="/">absoluten Startseite</a> ermöglicht.</lii>
+</ul>
+
+<!--#include virtual="/src/templates/copyright.txt" -->
+</div>
+<!--#include virtual="/src/templates/autoindex.shtm" -->

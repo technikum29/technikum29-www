@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+    <title>technikum29.de: /shared/img/screen.design</title>
+    <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/heading.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="29.08.2008 19:00" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+
+<h2>Grafiken des <a href="/shared/img/screen.design">screen-Designs</a></h2>
+<p>In diesem Verzeichnis befinden sich sämtliche Grafiken, die speziell für die Darstellung des ehemaligen technikum29-Seitendesigns, dem <b>screen.design</b>, notwendig sind. Zusätzlich zu diesen Bildern benötigt das screen.design auch noch den passenden Banner der Homepage, er wird aus dem Verzeichnis <a href="/shared/img/banner/">/shared/img/banner</a> geladen.</p>
+
+<p>In seiner Funktion erfüllt dieses Verzeichnis die gleiche Aufgabe wie sein Gegenspieler, <a href="/shared/img/fresh.design">/shared/img/fresh.design</a>. Siehe auch <a href="/shared/img">/shared/img/</a> für einen größeren Überblick.</p>
+
+
+<h3>Rechtliches: Verwendung der Designgrafiken außerhalb der Homepage</h3>
+<p>Dieses technikum29-Designs basiert maßgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element für den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrückliche Genehmigung untersagt.</p>
+<!--#include virtual="/src/templates/copyright.txt" -->
+
+</div>
+<!--#include virtual="/src/templates/autoindex.shtm" -->

@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Was und wen das Museum noch sucht"
    --><!--#set var="location"     value="suche"
-   --><!--#set var="url_en"       value="search.shtm"
+   --><!--#set var="url_en"       value="no-translation.shtm?how=no,backurl=suche.shtm,backtitle=${title}"
    --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
    --><!--#set var="prev_title"   value="Speichermedien"
    --><!--#set var="next"         value="impressum.shtm"
@@ -20,9 +20,12 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
    
+    <br/><!-- quick and dirty... -->
+   
+  
    <h2>Was das Museum noch sucht</h2>
 	
-	Wir suchen u.a. noch einen <b>PET 2001</b> von Commodore (auch Schrottgreät).
+
 <div class="box left">
         <img src="/shared/photos/rechnertechnik/gamma-10-drucker.jpg" alt="Drucker des BULL GAMMA 10 Rechners" width="237" height="256" class="nomargin-bottom" />
         <p class="bildtext">

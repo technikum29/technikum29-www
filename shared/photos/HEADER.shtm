@@ -2,22 +2,20 @@
 <html>
 <head>
     <title>technikum29.de /shared/photos</title>
-    <link rel="stylesheet" href="/shared/css/fresh.css" type="text/css" title="technikum29.de">
-    <link rel="stylesheet" href="/etc/src/improved.css" type="text/css" title="technikum29.de">
-    <link rel="stylesheet" href="/etc/src/autoindex.css" type="text/css" title="technikum29.de">
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
 <!--#set var="lang" value="none" -->
-<!--#include virtual="/etc/src/header.shtm" -->
+<!--#include virtual="/src/inc/heading.shtm" -->
 
 <div id="page">
 <!--#set var="TEMPLATE:lastmod" value="15.10.2007 18:30" -->
-<!--#include virtual="/etc/src/templates/lastmod.shtm" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
 <h2>Das Photoverzeichnis von technikum29</h2>
 <p>In diesem Verzeichnis befinden sich, auf Unterverzeichnisse verteilt, sämtliche inhaltliche
 Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte Photographien.</p>
 
-<!--#include virtual="/etc/src/templates/copyright.txt" -->
+<!--#include virtual="/src/templates/copyright.txt" -->
 
 <h3>Dateinamenrichtlinien seit <a href="/etc/txt/v5">v5.5</a></h3>
 <pre>
@@ -58,4 +56,4 @@ Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte 
   13.04.2006/17:30 für Version 5.5
 </pre>
 </div>
-<!--#include virtual="/etc/src/templates/autoindex-footer.shtm" -->
+<!--#include virtual="/src/templates/autoindex.shtm" -->

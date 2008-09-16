@@ -1,0 +1,16 @@
+AuthType Basic
+AuthName "technikum29 Projekt-Verzeichnisse (der Benutzername ist der Projektname!)"
+AuthUserFile /srv/www/.htpasswd-projekte
+
+# Require-Geschichten in den jeweilgen .htaccess-Files
+#Require valid-users
+
+# bla:
+IndexOptions NameWidth=* DescriptionWidth=*
+HeaderName /projekte/.HEADER.shtm
+# darf nicht im admin-Verzeichnis stehen weil man dafuer
+# Zugriffsrechte braeuchte
+
+# und noch mehr bla:
+ErrorDocument 401 /projekte/.ERROR.shtm
+ErrorDocument 403 /projekte/.ERROR.shtm

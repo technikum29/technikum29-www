@@ -1,0 +1,9 @@
+# Diesen Unterordner ohne Paswort freigeben
+# weil z.B. in Wiki genutzt und frueher war
+# er auch nicht passwortgesichert.
+# und ohne Passwort zu Pianola oder dem Wissen
+# von diesem langen Ordnernamen kommt man hier
+# eh nicht hin.
+Order Allow,Deny
+Satisfy Any
+Allow From All

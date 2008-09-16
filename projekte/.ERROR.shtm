@@ -1,0 +1,33 @@
+<html>
+<head>
+  <title>technikum29 Projekte -- Fehler</title>
+     <link rel="stylesheet" type="text/css" href="/src/private.design/style.css">
+</head>
+<body>
+
+<h1><a href="/projekte"><span>technikum29: </span></a><strong>Projekte</strong></h1>
+
+<h2>Zugriff nicht erlaubt auf <tt><!--#echo var="REQUEST_URI" --></tt></h2>
+<p>Möglicherweise wurde das falsche Passwort und/oder der falsche Benutzername eingegeben. Probieren sie folgendes aus:</p>
+<ul>
+  <li>Der Benutzername muss dem Name des Projektes entsprechen:
+      Heißt das Projekt z.B. <i>pianola</i>, dann muss auch der
+      Benutzername <i>pianola</i> heißen. Mit keinem anderen
+      Benutzernamen wird der Zugriff gestattet.</li>
+  <li>Der Benutzername muss komplett klein geschrieben sein. Heißt
+      das Projekt z.B. <i>pianola</i>, dann heißt der Benutzername
+      nicht etwa <i>Pianola</i> oder <i>PIANOLA</i>, sondern
+      einfach <i>pianola</i>.</li>
+  <li>Selbstverständlich gilt auch bei dem vom Projektleiter
+      mitgeteiltem Passwort Groß- und Kleinschreibung.</li>
+  <li>Möglicherweise hat der Projektleiter den Zugriff auf das Projekt
+      mittlerweile wieder gestrichen. Dies kann nach mehreren
+      Wochen geschehen, da es sich bei den Projekten um
+      limitierte Zugangsgenehmigungen für exklusive Dateien handelt,
+      die nicht der Allgemeinheit zugänglich sein sollen.</li>
+  <li>Bei unlösbaren Problemen beim Zugriff wenden sie sich
+      an <a href="http://technikum29.de/de/impressum">das Projektmanagament</a>.</li>
+</ul>
+
+</body>
+</html>

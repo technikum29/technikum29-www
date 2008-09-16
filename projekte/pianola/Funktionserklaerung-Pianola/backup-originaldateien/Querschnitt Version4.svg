@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210.00000mm"
+   height="296.99999mm"
+   id="svg1306"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/mnt/data/Heribert/Bilder/Pianola"
+   sodipodi:docname="Querschnitt Version4.svg"
+   inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/Querschnitt Version4.png"
+   inkscape:export-xdpi="142.36913"
+   inkscape:export-ydpi="142.36913">
+  <defs
+     id="defs1308">
+    <linearGradient
+       id="linearGradient4044">
+      <stop
+         style="stop-color:#fff706;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4046" />
+      <stop
+         style="stop-color:#aeceff;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop4048" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2231"
+       id="linearGradient3798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.583333,0.000000,0.000000,1.418983,-1740.583,1254.354)"
+       x1="870.59808"
+       y1="-217.10390"
+       x2="864.51135"
+       y2="-220.41159" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2231"
+       id="linearGradient3795"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.738889,0.000000,0.000000,1.418983,-1180.409,1254.354)"
+       x1="870.59808"
+       y1="-217.10390"
+       x2="864.51135"
+       y2="-220.41159" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path2691"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(-5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient2254">
+      <stop
+         id="stop2256"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop2258"
+         offset="1.0000000"
+         style="stop-color:#ffffff;stop-opacity:0.0000000;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2231">
+      <stop
+         style="stop-color:#aeceff;stop-opacity:1;"
+         offset="0"
+         id="stop2233" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop2235" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient18177">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop18179" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop18181" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14353">
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop14355" />
+      <stop
+         id="stop14361"
+         offset="0.50000000"
+         style="stop-color:#ffffff;stop-opacity:0.0000000;" />
+      <stop
+         style="stop-color:#737373;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop14357" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14234">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop14236" />
+      <stop
+         style="stop-color:#7f7f7f;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop14238" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15175"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-5.860443e-6,4.000000)"
+       x1="342.23969"
+       y1="924.72943"
+       x2="351.07852"
+       y2="924.72943" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15177"
+       gradientUnits="userSpaceOnUse"
+       x1="338.88092"
+       y1="972.63586"
+       x2="354.26050"
+       y2="972.63593" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="radialGradient15181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.984084,-2.362914e-7,1.806077e-7,-0.891617,691.9771,1838.279)"
+       cx="346.59189"
+       cy="981.78229"
+       fx="346.59189"
+       fy="981.78229"
+       r="21.567146" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15203"
+       gradientUnits="userSpaceOnUse"
+       x1="122.82283"
+       y1="968.86218"
+       x2="202.17717"
+       y2="968.86218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15228"
+       gradientUnits="userSpaceOnUse"
+       x1="157.82269"
+       y1="1003.4063"
+       x2="169.36481"
+       y2="1003.4063" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15230"
+       gradientUnits="userSpaceOnUse"
+       x1="153.82269"
+       y1="1049.4062"
+       x2="169.36481"
+       y2="1016.1352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15232"
+       gradientUnits="userSpaceOnUse"
+       x1="157.32269"
+       y1="1048.9062"
+       x2="145.86481"
+       y2="1019.6352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient15986"
+       gradientUnits="userSpaceOnUse"
+       x1="122.82283"
+       y1="968.86218"
+       x2="202.17717"
+       y2="968.86218" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="radialGradient17883"
+       cx="-294.00000"
+       cy="1149.3622"
+       fx="-294.00000"
+       fy="1149.3622"
+       r="15.521654"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="linearGradient17899"
+       x1="-291.70670"
+       y1="1138.2756"
+       x2="-296.75000"
+       y2="1138.2756"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.000000,0.000000,0.000000,0.626010,-0.499998,426.2942)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="linearGradient17903"
+       gradientUnits="userSpaceOnUse"
+       x1="-291.70670"
+       y1="1137.1808"
+       x2="-296.75000"
+       y2="1138.2756"
+       gradientTransform="matrix(1.000000,0.000000,0.000000,0.719508,-0.499998,349.2298)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="radialGradient17905"
+       gradientUnits="userSpaceOnUse"
+       cx="-294.00000"
+       cy="1149.3622"
+       fx="-294.00000"
+       fy="1149.3622"
+       r="15.521654" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="linearGradient18139"
+       x1="-1621.6709"
+       y1="2099.4576"
+       x2="-1589.7654"
+       y2="2099.4576"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-532.0000,-26.96046)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="linearGradient18141"
+       x1="-1652.3529"
+       y1="2075.6081"
+       x2="-1577.4682"
+       y2="2075.6081"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-532.0000,-26.96046)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14234"
+       id="linearGradient18175"
+       x1="-296.12500"
+       y1="902.48718"
+       x2="-287.88971"
+       y2="879.14655"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18177"
+       id="linearGradient18183"
+       x1="-299.73032"
+       y1="923.45428"
+       x2="-293.01968"
+       y2="923.44690"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2254"
+       id="radialGradient2237"
+       cx="106.94727"
+       cy="972.43384"
+       fx="106.94727"
+       fy="972.43384"
+       r="70.000000"
+       gradientTransform="matrix(0.802588,0.248794,-0.167978,0.541890,177.4623,413.8985)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2231"
+       id="linearGradient2252"
+       x1="165.51323"
+       y1="961.31659"
+       x2="165.51323"
+       y2="984.65674"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2254"
+       id="radialGradient2529"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.802588,0.248794,-0.167978,0.541890,177.4623,413.8985)"
+       cx="106.94727"
+       cy="972.43384"
+       fx="106.94727"
+       fy="972.43384"
+       r="70.000000" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2231"
+       id="linearGradient2531"
+       x1="157.50000"
+       y1="948.86218"
+       x2="157.50000"
+       y2="934.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient1440"
+       gradientUnits="userSpaceOnUse"
+       x1="157.82269"
+       y1="1003.4063"
+       x2="169.36481"
+       y2="1003.4063" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient1447"
+       gradientUnits="userSpaceOnUse"
+       x1="153.82269"
+       y1="1049.4062"
+       x2="169.36481"
+       y2="1016.1352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient1449"
+       gradientUnits="userSpaceOnUse"
+       x1="157.32269"
+       y1="1048.9062"
+       x2="145.86481"
+       y2="1019.6352" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient2196"
+       gradientUnits="userSpaceOnUse"
+       x1="321.75311"
+       y1="1034.5077"
+       x2="369.15088"
+       y2="1034.5077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14353"
+       id="linearGradient2198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.411410,0.000000,0.000000,0.902687,-142.6920,102.0254)"
+       x1="334.82513"
+       y1="1007.4609"
+       x2="358.84659"
+       y2="1007.4609" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4044"
+       id="linearGradient4052"
+       x1="455.23242"
+       y1="1006.2234"
+       x2="448.71780"
+       y2="1006.2234"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4044"
+       id="linearGradient1465"
+       x1="450.24997"
+       y1="1006.2372"
+       x2="442.99997"
+       y2="1006.2372"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.0"
+     inkscape:pageopacity="1.0000000"
+     inkscape:pageshadow="0"
+     inkscape:zoom="0.70710682"
+     inkscape:cx="246.94373"
+     inkscape:cy="63.743884"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     showgrid="false"
+     inkscape:window-width="928"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     fill="#00ffff"
+     inkscape:guide-points="true">
+    <sodipodi:guide
+       orientation="vertical"
+       position="1.4285714"
+       id="guide1314" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="457.14286"
+       id="guide1316" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="-0.53683870"
+       id="guide1318" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="109.69404"
+       id="guide1322" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="77.958522"
+       id="guide4270" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="150.31483"
+       id="guide5010" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="177.51466"
+       id="guide5012" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="21.763864"
+       id="guide5028" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="33.999382"
+       id="guide14286" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="403.66958"
+       id="guide17008" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="232.00000"
+       id="guide17023" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="506.00000"
+       id="guide17027" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="513.50000"
+       id="guide17135" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="331.75000"
+       id="guide17147" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="362.75000"
+       id="guide17149" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-748.00000"
+       id="guide18005" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-1764.0000"
+       id="guide18087" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="-1068.0000"
+       id="guide18157" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="62.578947"
+       id="guide1456" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="22.627416"
+       id="guide1458" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pianola Querschnitt</dc:title>
+        <dc:date>Oktober 2005</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sven Köppel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Heribert Müller</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Heribert Müller</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source />
+        <dc:coverage />
+        <dc:description>Querschnitt einer Pianola</dc:description>
+        <cc:license
+           rdf:resource="" />
+        <dc:relation>http://www.technikum29.de/</dc:relation>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.25042135;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect4032"
+       width="16.324150"
+       height="46.201450"
+       x="451.59000"
+       y="986.90900" />
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#fff706;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.24296919;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect4034"
+       width="14.553430"
+       height="39.696049"
+       x="449.84268"
+       y="989.91589" />
+    <rect
+       transform="scale(-1.000000,1.000000)"
+       style="opacity:1.0000000;color:#000000;fill:url(#linearGradient3798);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect3280"
+       width="20.357145"
+       height="16.216951"
+       x="-375.80695"
+       y="937.26904" />
+    <rect
+       y="937.26904"
+       x="318.45056"
+       height="16.216951"
+       width="22.357145"
+       id="rect3282"
+       style="opacity:1.0000000;color:#000000;fill:url(#linearGradient3795);fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:1.0000000;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+    <path
+       sodipodi:nodetypes="cs"
+       id="path3412"
+       d="M 315.98129,929.73837 C 315.98129,929.73837 311.33843,947.23837 327.76700,947.23837"
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Mend);stroke-opacity:1.0000000" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Mend);stroke-opacity:1.0000000"
+       d="M 375.01870,930.09547 C 375.01870,930.09547 379.66156,947.59547 363.23299,947.59547"
+       id="path3414"
+       sodipodi:nodetypes="cs" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:url(#linearGradient2531);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.37753007;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 101.59191,942.28633 L 106.09191,991.00691 L 121.87316,991.00691 C 127.86934,986.57812 133.30602,977.83242 138.85876,975.61887 L 183.21447,975.25164 C 189.76721,975.58447 194.50198,986.57812 200.49816,991.00691 L 220.06066,991.00691 C 220.06066,991.00691 219.47955,991.95970 214.68566,992.61336 L 223.43566,987.51552 C 223.43566,987.51552 245.93627,949.39445 214.68566,940.66706 C 197.79894,935.95108 185.77550,926.35590 159.47374,926.43971 C 133.16883,926.52354 101.59191,942.28633 101.59191,942.28633 z M 200.49816,991.00691 L 203.65441,992.61336 C 202.47847,992.24572 201.42746,991.69330 200.49816,991.00691 z M 106.09191,992.29991 L 106.09191,992.61336 L 107.68566,992.61336 C 106.99865,992.51969 106.61170,992.40301 106.09191,992.29991 z "
+       id="rect15998"
+       sodipodi:nodetypes="cccccccccszcccccccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#fff706;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.35374999;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect16996"
+       width="115.96551"
+       height="42.072849"
+       x="293.47446"
+       y="989.66187"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       sodipodi:nodetypes="czczc"
+       id="path2182"
+       d="M 310.95710,1022.6234 C 310.95710,1022.6234 316.99868,1016.1234 349.20710,1016.1234 C 381.06198,1016.1234 387.45710,1022.6234 387.45710,1022.6234 C 387.45710,1022.6234 379.74625,1029.7305 349.20710,1029.7305 C 318.31554,1029.7305 310.95710,1022.6234 310.95710,1022.6234 z "
+       style="color:#000000;fill:#aeceff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.28346458;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+    <path
+       style="color:#000000;fill:#fff706;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:4.2500000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible"
+       d="M 21.593750 957.75000 L 21.593750 971.65625 L 21.437500 1057.6875 L -266.59375 1055.1875 L -247.09375 1100.2812 L -263.59375 1143.3438 L 196.87500 1059.1875 L 45.187500 1057.8750 C 45.443217 1039.7656 46.650762 991.24367 52.843750 981.28125 C 76.382813 974.25357 113.21875 974.21875 113.21875 974.21875 L 113.21875 957.75000 L 21.593750 957.75000 z "
+       id="rect1484"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.00000"
+       inkscape:export-ydpi="140.00000" />
+    <path
+       style="fill:url(#linearGradient18175);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient18183);stroke-width:4.9606299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.65530300"
+       d="M -297.25000,1171.1122 L -297.25000,688.05857"
+       id="path17887"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#aeceff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.35374999;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect16059"
+       width="43.250000"
+       height="39.353550"
+       x="325.21088"
+       y="950.98718"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#fff706;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:0.57575756;visibility:visible;display:inline;overflow:visible"
+       id="rect17139"
+       width="175.66548"
+       height="89.510406"
+       x="81.384773"
+       y="942.83087"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="color:#000000;fill:#aeceff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.29598790;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 125.41421,1023.5158 C 125.41421,1023.5158 131.45579,1017.0158 163.66421,1017.0158 C 195.51909,1017.0158 201.91421,1023.5158 201.91421,1023.5158 C 201.91421,1023.5158 194.20336,1030.6229 163.66421,1030.6229 C 132.77265,1030.6229 125.41421,1023.5158 125.41421,1023.5158 z "
+       id="rect1451"
+       sodipodi:nodetypes="czczc" />
+    <path
+       style="color:#000000;fill:url(#linearGradient1465);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.35374999;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 404.21875,898.68750 L 406.00000,990.15625 L 407.15625,1030.2188 L 356.00000,1030.0312 L 356.00000,1028.3125 L 338.87500,1028.3125 L 338.87500,1029.9688 L 337.59375,1029.9688 L 321.50000,1057.3750 L 436.01472,1057.3750 L 436.01472,1017.7031 L 451.51472,1007.7852 L 451.51472,997.86719 L 436.01472,978.03125 L 436.01472,898.68750 L 404.21875,898.68750 z "
+       id="rect16998"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:#aeceff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.49037263;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 148.56250,1026.6875 C 148.56250,1034.0104 148.56250,1045.5833 148.56250,1052.9062 C 189.92708,1052.9062 233.04167,1052.9063 274.40625,1052.9062 C 274.40625,1027.2917 274.40625,1001.6771 274.40625,976.06250 C 295.11458,976.06250 315.82292,976.06250 336.53125,976.06250 C 336.53125,980.70833 336.53125,985.35417 336.53125,990.00000 C 343.38542,990.00000 350.23958,990.00000 357.09375,990.00000 C 357.09375,985.35417 357.09375,980.70833 357.09375,976.06250 C 372.78125,976.06250 388.46875,976.06250 404.15625,976.06250 C 404.15625,972.30208 404.15625,968.54167 404.15625,964.78125 C 388.46875,964.78125 372.78125,964.78125 357.09375,964.78125 C 357.09375,960.22917 357.09375,955.67708 357.09375,951.12500 C 350.23958,951.12500 343.38542,951.12500 336.53125,951.12500 C 336.53125,955.67708 336.53125,960.22917 336.53125,964.78125 C 312.39028,964.76597 288.17302,964.82698 264.12500,964.71875 C 264.12500,991.31250 264.12500,1017.9062 264.12500,1044.5000 C 235.25000,1044.5000 206.37500,1044.5000 177.50000,1044.5000 C 177.50000,1039.9792 177.50000,1031.2083 177.50000,1026.6875"
+       id="rect5016"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <rect
+       style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:4.5999999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       id="rect1342"
+       width="32.324883"
+       height="24.243662"
+       x="-5.0507627"
+       y="1033.1693"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.37753007;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 101.61384,942.48342 C 101.61384,942.48342 107.43192,935.39782 133.25000,949.02652 C 137.73034,958.40322 183.49652,968.25322 194.57119,946.47352 C 214.21729,936.83652 224.88616,942.71252 224.88616,942.71252 C 224.88616,942.71252 185.79743,926.55292 159.49567,926.63672 C 133.19076,926.72062 101.61384,942.48342 101.61384,942.48342 z "
+       id="path3304"
+       sodipodi:nodetypes="cccczc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <g
+       id="g15970"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000"
+       transform="translate(0.000000,-6.000000)">
+      <g
+         transform="translate(-1.456000e-3,0.000000)"
+         id="g15222">
+        <g
+           id="g1436"
+           transform="matrix(1.000000,0.000000,0.000000,0.817423,0.000000,178.2940)">
+          <path
+             style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35459059;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+             d="M 171.25000,1016.3125 C 164.62362,1004.9510 168.75000,976.71875 168.75000,976.71875 L 158.43750,976.71875 C 158.43750,976.71875 160.69372,1006.5767 156.68750,1016.3125"
+             id="path15214"
+             sodipodi:nodetypes="cccz" />
+          <path
+             sodipodi:nodetypes="cccz"
+             id="rect15191"
+             d="M 171.25000,1016.3125 C 164.62362,1004.9510 168.75000,976.71875 168.75000,976.71875 L 158.43750,976.71875 C 158.43750,976.71875 160.69372,1006.5767 156.68750,1016.3125"
+             style="opacity:1.0000000;color:#000000;fill:url(#linearGradient1440);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35459059;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+        </g>
+        <g
+           id="g1442"
+           transform="translate(0.000000,-7.498913)">
+          <path
+             sodipodi:nodetypes="cccccc"
+             id="path17141"
+             d="M 156.68750,1016.3125 C 149.80914,1027.8341 124.50000,1024.1096 124.50000,1030.0938 L 163.59375,1030.0938 L 202.68750,1030.0938 C 202.68749,1024.1096 178.24725,1027.9591 171.25000,1016.3125 C 157.12362,1016.4510 170.69372,1016.5767 156.68750,1016.3125 z "
+             style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35459059;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+          <path
+             style="opacity:1.0000000;color:#000000;fill:url(#linearGradient1447);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35459059;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+             d="M 156.68750,1016.3125 C 149.80914,1027.8341 124.50000,1024.1096 124.50000,1030.0938 L 163.59375,1030.0938 L 202.68750,1030.0938 C 202.68749,1024.1096 178.24725,1027.9591 171.25000,1016.3125 C 157.12362,1016.4510 170.69372,1016.5767 156.68750,1016.3125 z "
+             id="path15208"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             id="path15216"
+             d="M 156.68750,1016.3125 C 149.80914,1027.8341 124.50000,1024.1096 124.50000,1030.0938 L 163.59375,1030.0938 L 202.68750,1030.0938 C 202.68749,1024.1096 178.24725,1027.9591 171.25000,1016.3125 C 157.12362,1016.4510 170.69372,1016.5767 156.68750,1016.3125 z "
+             style="opacity:1.0000000;color:#000000;fill:url(#linearGradient1449);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35459059;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+        </g>
+      </g>
+      <g
+         transform="translate(1.092294,0.000000)"
+         id="g15197">
+        <rect
+           y="957.86218"
+           x="123.00000"
+           height="22.000000"
+           width="79.000000"
+           id="rect15193"
+           style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+        <rect
+           style="opacity:1.0000000;color:#000000;fill:url(#linearGradient15986);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+           id="rect15187"
+           width="79.000000"
+           height="22.000000"
+           x="123.00000"
+           y="957.86218" />
+      </g>
+    </g>
+    <path
+       style="opacity:1.0000000;color:#000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35375000;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 403.65625 883.84375 L 403.65625 900.68750 L 434.00000 900.68750 L 434.00000 946.15625 L 434.00000 1004.8125 L 456.62500 1004.8125 L 456.62500 943.75000 L 456.62500 883.87500 L 434.09375 883.87500 L 434.09375 883.84375 L 403.65625 883.84375 z M 273.84375 975.43750 L 273.84375 976.68750 L 273.75000 976.68750 L 273.75000 1052.5312 L 215.81250 1052.5312 L 198.84375 1052.8750 L 198.84375 1059.7188 L 215.81250 1059.7188 L 215.81250 1070.8125 L 456.65625 1070.8125 L 456.65625 1053.5938 L 456.65625 1029.1875 L 456.62500 1029.1875 L 456.62500 1007.6250 L 434.00000 1007.6250 L 434.00000 1053.4375 L 425.56250 1053.4375 L 425.56250 1053.2812 L 338.90625 1053.2812 L 338.90625 1052.5000 L 338.84375 1052.5000 L 338.84375 1029.1875 L 294.65625 1029.1875 L 294.65625 990.03125 L 331.78125 990.03125 L 331.78125 975.43750 L 273.84375 975.43750 z "
+       id="path16985" />
+    <path
+       style="opacity:1.0000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35375000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M -13.437500 942.06250 L -13.437500 1031.0625 L -143.00000 1031.0625 L -172.75000 1052.7188 L 21.625000 1052.7188 L 21.781250 1031.0625 L 21.781250 957.84375 L 113.40625 957.84375 L 113.40625 942.46875 L 13.781250 942.37500 L 13.781250 942.06250 L -13.437500 942.06250 z "
+       id="rect2084"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.00000"
+       inkscape:export-ydpi="140.00000" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:0.69696969;fill-rule:evenodd;stroke:#000000;stroke-width:0.49783149;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 355.11049,716.67020 L 325.47432,733.78355 L 343.20326,764.49260 L 355.37431,757.47489 L 508.21604,757.47489 L 508.21604,757.63319 C 511.43346,757.63319 514.03775,748.36233 514.03774,736.94943 C 514.03774,725.61985 511.47144,716.41710 508.28639,716.28326 L 508.28639,716.21290 L 355.11049,716.67020 z "
+       id="rect17016"
+       sodipodi:nodetypes="ccccccsccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <g
+       id="g17130"
+       transform="translate(-5.721942,1.000000)"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000">
+      <path
+         transform="matrix(0.939215,0.000000,0.000000,0.925432,79.58212,149.1878)"
+         d="M 472.00000 719.36218 A 48.000000 48.000000 0 1 1  376.00000,719.36218 A 48.000000 48.000000 0 1 1  472.00000 719.36218 z"
+         sodipodi:ry="48.000000"
+         sodipodi:rx="48.000000"
+         sodipodi:cy="719.36218"
+         sodipodi:cx="424.00000"
+         id="path17012"
+         style="opacity:1.0000000;color:#000000;fill:#e6e6e6;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(9.556959,15.25782)"
+         d="M 461.95195,793.16065 C 465.60362,789.76248 471.47003,790.10629 474.83291,793.73417 C 478.41061,797.59380 478.04343,803.78364 474.20798,807.32647 C 470.14040,811.08371 463.62709,810.69316 459.90433,806.65012 C 455.96753,802.37462 456.38146,795.53781 460.63210,791.63513 C 465.11550,787.51875 472.27586,787.95606 476.35843,792.41432 C 480.65441,797.10561 480.19372,804.58954 475.52783,808.85199 C 470.62865,813.32757 462.82114,812.84350 458.37881,807.96998 C 453.72361,802.86293 454.23107,794.73181 459.31224,790.10961 C 464.62715,785.27479 473.08190,785.80564 477.88395,791.09446 C 482.89841,796.61722 482.34417,805.39562 476.84769,810.37751 C 471.11708,815.57162 462.01502,814.99398 456.85329,809.28983 C 451.47954,803.35139 452.08056,793.92566 457.99239,788.58409 C 464.13866,783.03068 473.88808,783.65510 479.40947,789.77460 C 485.14254,796.12871 484.49473,806.20182 478.16754,811.90304 C 471.60562,817.81577 461.20880,817.14456 455.32777,810.60969 C 449.23536,803.83995 449.92997,793.11942 456.67253,787.05857 C 463.65008,780.78649 474.69434,781.50449 480.93500,788.45475 C 487.38675,795.64011 486.64535,807.00810 479.48740,813.42856 C 472.09423,820.06000 460.40251,819.29520 453.80224,811.92954 C 446.99112,804.32857 447.77932,792.31311 455.35267,785.53305 C 463.16145,778.54223 475.50066,779.35383 482.46052,787.13489 C 489.63102,795.15147 488.79603,807.81443 480.80725,814.95408 C 472.58289,822.30428 459.59616,821.44588 452.27672,813.24940 C 444.74683,804.81724 445.62863,791.50675 454.03282,784.00752 C 462.67277,776.29793 476.30703,777.20313 483.98604,785.81504 C 491.87533,794.66278 490.94673,808.62081 482.12711,816.47960 C 473.07158,824.54860 458.78978,823.59660 450.75120,814.56925 C 442.50250,805.30594 443.47791,790.70036 452.71296,782.48200 C 462.18406,774.05360 477.11343,775.05240 485.51156,784.49518 C 494.11967,794.17406 493.09746,809.42721 483.44696,818.00512 C 473.56030,826.79295 457.98337,825.74733 449.22568,815.88911 C 440.25815,805.79467 441.32716,789.89394 451.39311,780.95648 C 461.69533,771.80924 477.91985,772.90166 487.03708,783.17533 C 496.36404,793.68532 495.24821,810.23364 484.76682,819.53064 C 474.04905,829.03732 457.17693,827.89809 447.70016,817.20897 C 438.01377,806.28342 439.17640,789.08750 450.07325,779.43096 C 461.20658,769.56486 478.72629,770.75089 488.56260,781.85547 C 498.60842,793.19657 497.39898,811.04009 486.08667,821.05617 C 474.53780,831.28170 456.37048,830.04886 446.17464,818.52882 C 435.76938,806.77218 437.02563,788.28105 448.75340,777.90544 C 460.71781,767.32046 479.53275,768.60012 490.08813,780.53562 C 500.85282,792.70780 499.54976,811.84655 487.40653,822.58169 C 475.02658,833.52610 455.56402,832.19964 444.64911,819.84868 C 433.52498,807.26095 434.87485,787.47458 447.43354,776.37992 C 460.22903,765.07606 480.33922,766.44933 491.61365,779.21576 C 503.09723,792.21902 501.70055,812.65302 488.72638,824.10721 C 475.51536,835.77052 454.75754,834.35043 443.12359,821.16853 C 431.28056,807.74974 432.72405,786.66811 446.11369,774.85439 C 459.74025,762.83164 481.14570,764.29854 493.13917,777.89591 C 505.34165,791.73023 503.85134,813.45950 490.04624,825.63273 C 476.00415,838.01494 453.95106,836.50123 441.59807,822.48839 C 429.03614,808.23853 430.57325,785.86162 444.79383,773.32887 C 459.25145,760.58722 481.95218,762.14774 494.66469,776.57605 C 507.58607,791.24144 506.00215,814.26599 491.36610,827.15825 C 476.49295,840.25937 453.14457,838.65203 440.07255,823.80824 C 426.79171,808.72733 428.42245,785.05513 443.47398,771.80335 C 458.76265,758.34278 482.75868,759.99693 496.19021,775.25620 C 509.83051,790.75263 508.15296,815.07249 492.68595,828.68377 C 476.98175,842.50380 452.33807,840.80284 438.54703,825.12810 C 424.54727,809.21613 426.27164,784.24863 442.15412,770.27783 C 458.27385,756.09835 483.56518,757.84612 497.71573,773.93634 C 512.07495,790.26383 510.30377,815.87899 494.00581,830.20930 C 477.47056,844.74824 451.53157,842.95366 437.02151,826.44795 C 422.30283,809.70494 424.12082,783.44212 440.83427,768.75231 C 457.78504,753.85390 484.37169,755.69530 499.24125,772.61648 C 514.31939,789.77501 512.45459,816.68550 495.32566,831.73482 C 477.95937,846.99269 450.72506,845.10448 435.49598,827.76781 C 420.05838,810.19376 421.97000,782.63562 439.51441,767.22679 C 457.29622,751.60946 485.17820,753.54448 500.76678,771.29663 C 516.56384,789.28620 514.60541,817.49201 496.64552,833.26034 C 491.64389,837.65164 485.65485,840.88212 479.23961,842.65453"
+         sodipodi:t0="0.20000000"
+         sodipodi:argument="-17.319338"
+         sodipodi:radius="44.307968"
+         sodipodi:revolution="21.964710"
+         sodipodi:expansion="1.0000000"
+         sodipodi:cy="799.86218"
+         sodipodi:cx="467.75000"
+         id="path17113"
+         style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.57575756"
+         sodipodi:type="spiral" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1.0000000;color:#000000;fill:#e6e6e6;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="path17117"
+         sodipodi:cx="424.00000"
+         sodipodi:cy="719.36218"
+         sodipodi:rx="48.000000"
+         sodipodi:ry="48.000000"
+         d="M 472.00000 719.36218 A 48.000000 48.000000 0 1 1  376.00000,719.36218 A 48.000000 48.000000 0 1 1  472.00000 719.36218 z"
+         transform="matrix(0.186067,0.000000,0.000000,0.183337,398.9169,683.0229)" />
+    </g>
+    <g
+       id="g17125"
+       transform="translate(-2.381312,1.000000)"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000">
+      <path
+         transform="matrix(0.939215,0.000000,0.000000,0.925432,76.24149,-8.984840)"
+         d="M 472.00000 719.36218 A 48.000000 48.000000 0 1 1  376.00000,719.36218 A 48.000000 48.000000 0 1 1  472.00000 719.36218 z"
+         sodipodi:ry="48.000000"
+         sodipodi:rx="48.000000"
+         sodipodi:cy="719.36218"
+         sodipodi:cx="424.00000"
+         id="path17119"
+         style="opacity:1.0000000;color:#000000;fill:#e6e6e6;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(6.215380,-142.8744)"
+         d="M 481.89084,767.35861 C 499.81175,774.96291 508.30647,796.32223 500.71601,814.20420 C 493.00210,832.37702 471.34068,840.99067 453.20679,833.29064 C 434.78208,825.46711 426.04950,803.50359 433.85911,785.11779 C 441.79224,766.44117 464.05787,757.58967 482.69558,765.50885 C 501.62410,773.55159 510.59453,796.11933 502.56577,815.00895 C 494.41342,834.18937 471.54358,843.27873 452.40204,835.14040 C 432.96973,826.87844 423.76143,803.70649 432.00934,784.31304 C 440.38092,764.62883 463.85496,755.30160 483.50033,763.65909 C 503.43644,772.14027 512.88260,795.91642 504.41554,815.81370 C 495.82475,836.00171 471.74649,845.56681 451.59730,836.99016 C 431.15738,828.28976 421.47336,803.90940 430.15958,783.50829 C 438.96959,762.81648 463.65206,753.01352 484.30508,761.80933 C 505.24879,770.72893 515.17068,795.71352 506.26530,816.61845 C 497.23608,837.81406 471.94939,847.85488 450.79255,838.83992 C 429.34503,829.70110 419.18528,804.11230 428.30982,782.70354 C 437.55825,761.00413 463.44916,750.72544 485.10982,759.95956 C 507.06114,769.31760 517.45876,795.51062 508.11506,817.42319 C 502.88176,829.69617 492.09623,839.10250 479.23961,842.65453"
+         sodipodi:t0="0.80000001"
+         sodipodi:argument="-17.319338"
+         sodipodi:radius="44.307968"
+         sodipodi:revolution="21.964710"
+         sodipodi:expansion="1.0000000"
+         sodipodi:cy="799.86218"
+         sodipodi:cx="467.75000"
+         id="path17121"
+         style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:0.57575756"
+         sodipodi:type="spiral" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1.0000000;color:#000000;fill:#e6e6e6;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="path17123"
+         sodipodi:cx="424.00000"
+         sodipodi:cy="719.36218"
+         sodipodi:rx="48.000000"
+         sodipodi:ry="48.000000"
+         d="M 472.00000 719.36218 A 48.000000 48.000000 0 1 1  376.00000,719.36218 A 48.000000 48.000000 0 1 1  472.00000 719.36218 z"
+         transform="matrix(0.727164,0.000000,0.000000,0.716494,166.1511,141.3173)" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+       d="M 489.00000,616.86218 C 515.62500,625.48718 517.50000,657.36218 517.50000,657.36218 L 517.50000,816.36218 C 517.50000,816.36218 517.37500,847.98718 487.50000,857.36218"
+       id="path17137"
+       sodipodi:nodetypes="cccs"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.8543305;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 101.25000,990.67238 C 101.25000,990.67238 102.09554,992.15925 114.10355,992.39941 C 126.35355,992.64941 127.50000,979.92238 136.00000,982.17238"
+       id="path17143"
+       sodipodi:nodetypes="css"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <path
+       sodipodi:nodetypes="css"
+       id="path17145"
+       d="M 221.00000,991.67238 C 221.00000,991.67238 220.15446,993.15925 208.14645,993.39941 C 195.89645,993.64941 195.25000,979.92238 186.75000,982.17238"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.8543305;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-opacity:1.0000000"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <path
+       style="opacity:1.0000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35375000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 48.593750,974.75000 C 46.724000,974.75000 45.218748,976.25523 45.218750,978.12500 L 45.218750,984.50000 C 45.218750,984.55574 45.247354,984.60118 45.250000,984.65625 L 45.250000,1052.8125 L 47.250000,1052.8125 L 47.250000,1052.9062 L 149.71875,1052.9062 L 149.71875,1031.2500 L 149.62500,1031.2500 L 149.62500,1030.1562 L 129.81250,1030.1562 L 107.89219,1030.0938 C 85.476560,1030.0238 89.173193,1024.9644 88.687500,1018.5625 L 83.343750,1018.5625 L 83.343750,991.78125 L 112.93750,991.78125 L 112.93750,974.75000 L 57.406250,974.75000 L 54.812500,974.75000 L 48.593750,974.75000 z "
+       id="rect2812"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="opacity:1.0000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35375000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 211.40625,942.65625 L 211.40625,991.87500 L 242.93750,991.87500 L 242.93750,1018.3438 L 238.84375,1018.3438 C 237.86234,1024.9957 241.85554,1030.2394 219.76406,1030.3125 L 177.59375,1030.3750 L 177.59375,1030.8125 L 177.65625,1044.5938 L 242.93750,1044.5312 L 264.09375,1044.5938 L 264.18750,991.87500 L 264.18750,965.09375 L 332.02308,965.09375 L 332.02308,951.12500 L 295.09375,951.12500 L 295.09375,942.65625 L 250.71875,942.90625 L 211.40625,942.65625 z "
+       id="rect5044"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:#a17520;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.38341129;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       d="M 403.87500,906.09254 L 403.87500,944.09375 C 403.87500,944.09375 404.00000,948.73958 404.00000,951.06250 L 362.59375,951.06250 L 363.12500,989.93750 L 404.00000,989.93750 C 404.00000,1002.6213 404.00000,1016.8918 404.00000,1029.6152 L 356.18750,1029.6152 L 356.18750,1044.5312 L 428.46875,1044.5312 L 428.46875,1030.5938 C 428.46875,1030.3957 428.46875,1030.1678 428.46875,1029.9688 C 428.46875,1017.2218 428.46875,1002.6248 428.46875,989.93750 C 428.83389,987.08318 428.52041,983.55237 428.62500,980.43750 C 428.62691,976.28641 428.35966,972.41452 428.46875,968.15625 C 428.46875,960.13929 428.46875,952.11184 428.46875,944.09375 L 428.50000,944.09375 L 428.50000,906.09254 L 403.87500,906.09254 z "
+       id="rect16062"
+       sodipodi:nodetypes="cccccccccccsccccccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#747474;stroke-width:3.5433071;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none"
+       d="M -180.31223,1133.6795 L -283.54982,1152.0643"
+       id="path17151"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <g
+       id="g17909"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000">
+      <path
+         transform="translate(3.250000,-3.750000)"
+         d="M -286.75000 1156.1122 A 13.750000 13.750000 0 1 1  -314.25000,1156.1122 A 13.750000 13.750000 0 1 1  -286.75000 1156.1122 z"
+         sodipodi:ry="13.750000"
+         sodipodi:rx="13.750000"
+         sodipodi:cy="1156.1122"
+         sodipodi:cx="-300.50000"
+         id="path17879"
+         style="opacity:1.0000000;color:#000000;fill:url(#radialGradient17905);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#747474;stroke-width:0.62500000;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path17881"
+         d="M -311.92357,1152.3622 L -282.57643,1152.3622"
+         style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#747474;stroke-width:2.3156843;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000" />
+      <rect
+         style="opacity:1.0000000;color:#000000;fill:url(#linearGradient17899);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#747474;stroke-width:0.14460011;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="rect17891"
+         width="9.9038649"
+         height="3.2333283"
+         x="-302.20193"
+         y="1136.5641" />
+      <rect
+         y="1165.5818"
+         x="-302.20193"
+         height="3.7162409"
+         width="9.9038649"
+         id="rect17901"
+         style="opacity:1.0000000;color:#000000;fill:url(#linearGradient17903);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.15502281;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:0.15151514;visibility:visible;display:inline;overflow:visible" />
+    </g>
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#919191;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#747474;stroke-width:0.36049989;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect18173"
+       width="427.65399"
+       height="10.060606"
+       x="-679.39343"
+       y="697.37354" />
+    <path
+       sodipodi:nodetypes="css"
+       id="path15966"
+       d="M 101.25000,942.59328 C 101.25000,942.59328 102.09554,941.10641 114.10355,940.86625 C 126.35355,940.61625 127.00000,951.34328 135.50000,949.09328"
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.8543307;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-opacity:1.0000000"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <path
+       style="fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:4.8543305;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5.4000001;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 220.58471,941.91415 C 220.58471,941.91415 219.70579,940.44676 207.69542,940.47795 C 195.44290,940.50476 195.03896,951.24367 186.49030,949.18627"
+       id="path17051"
+       sodipodi:nodetypes="css"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="339.75162"
+       inkscape:export-ydpi="339.75162" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.9885123;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 330.55732,748.07798 L 354.75873,735.13304 L 519.53516,735.32409"
+       id="path17025"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:5.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none"
+       d="M 332.49999,746.86219 C 332.49999,746.86219 226.08142,793.76966 258.49999,858.86219 C 285.83159,913.74071 404.37499,903.36219 404.37499,903.36219"
+       id="path2535"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:nodetypes="czczc"
+       id="path1460"
+       d="M 125.41421,1023.5158 C 125.41421,1023.5158 131.45579,1017.0158 163.66421,1017.0158 C 195.51909,1017.0158 201.91421,1023.5158 201.91421,1023.5158 C 201.91421,1023.5158 194.20336,1030.6229 163.66421,1030.6229 C 132.77265,1030.6229 125.41421,1023.5158 125.41421,1023.5158 z "
+       style="color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.28346458;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:0.61363637;visibility:visible;display:inline;overflow:visible;stroke-dasharray:0.28346458,1.1338583" />
+    <path
+       style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.28346458;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:0.28346458 0.85039374 ;stroke-dashoffset:0.0000000;stroke-opacity:0.73484850;visibility:visible;display:inline;overflow:visible"
+       d="M 310.95710,1022.6234 C 310.95710,1022.6234 316.99868,1016.1234 349.20710,1016.1234 C 381.06198,1016.1234 387.45710,1022.6234 387.45710,1022.6234 C 387.45710,1022.6234 379.74625,1029.7305 349.20710,1029.7305 C 318.31554,1029.7305 310.95710,1022.6234 310.95710,1022.6234 z "
+       id="path2194"
+       sodipodi:nodetypes="czczc" />
+    <g
+       id="g16991"
+       transform="translate(0.000000,-0.707107)"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000">
+      <path
+         id="rect15988"
+         d="M -260.11450,1060.0059 L 199.49081,1060.0059 L -260.11450,1140.4635"
+         style="color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:13.413750;stroke-linecap:square;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:0.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path16877"
+         d="M 196.00000,1060.8622 L -248.96342,1100.8769"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000" />
+      <path
+         id="path16881"
+         d="M -263.50000,1062.6138 L -247.50000,1099.9411 L -264.50000,1142.1483"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.98791474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:#fff706;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:0.28346458;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:0.28346457 1.1338583 ;stroke-dashoffset:0.0000000;stroke-opacity:0.73484850;visibility:visible;display:inline;overflow:visible"
+       id="rect2928"
+       width="23.275000"
+       height="21.805441"
+       x="21.799015"
+       y="1048.2251" />
+    <g
+       id="g15163"
+       transform="translate(0.862994,-8.386815)"
+       inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+       inkscape:export-xdpi="140.78000"
+       inkscape:export-ydpi="140.78000">
+      <rect
+         style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="rect15117"
+         width="10.960155"
+         height="9.1923885"
+         x="341.35580"
+         y="925.84552"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+      <rect
+         y="925.84552"
+         x="341.35580"
+         height="9.1923885"
+         width="10.960155"
+         id="rect14351"
+         style="opacity:1.0000000;color:#000000;fill:url(#linearGradient15175);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+      <rect
+         style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="rect14379"
+         width="16.617010"
+         height="53.386562"
+         x="338.52737"
+         y="945.94263"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+      <rect
+         y="945.94263"
+         x="338.52737"
+         height="53.386562"
+         width="16.617010"
+         id="rect14335"
+         style="opacity:1.0000000;color:#000000;fill:url(#linearGradient15177);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+      <g
+         id="g2192"
+         transform="translate(0.000000,-5.200000)">
+        <path
+           inkscape:export-ydpi="140.00000"
+           inkscape:export-xdpi="140.00000"
+           inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+           transform="matrix(1.000000,0.000000,0.000000,-1.000000,0.883883,2060.834)"
+           sodipodi:end="3.1415927"
+           sodipodi:start="0.0000000"
+           d="M 375.47370,1030.9722 A 29.521708,7.0710678 0 1 1 316.43029,1030.9722 L 345.95200,1030.9722 z"
+           sodipodi:ry="7.0710678"
+           sodipodi:rx="29.521708"
+           sodipodi:cy="1030.9722"
+           sodipodi:cx="345.95200"
+           id="path15111"
+           style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+           sodipodi:type="arc" />
+        <path
+           inkscape:export-ydpi="140.00000"
+           inkscape:export-xdpi="140.00000"
+           inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+           sodipodi:type="arc"
+           style="opacity:1.0000000;color:#000000;fill:url(#linearGradient2196);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+           id="path14339"
+           sodipodi:cx="345.95200"
+           sodipodi:cy="1030.9722"
+           sodipodi:rx="29.521708"
+           sodipodi:ry="7.0710678"
+           d="M 375.47370,1030.9722 A 29.521708,7.0710678 0 1 1 316.43029,1030.9722 L 345.95200,1030.9722 z"
+           sodipodi:start="0.0000000"
+           sodipodi:end="3.1415927"
+           transform="matrix(1.000000,0.000000,0.000000,-1.000000,0.883883,2060.834)" />
+      </g>
+      <g
+         id="g2184"
+         transform="matrix(1.000000,0.000000,0.000000,0.811484,0.000000,188.1989)">
+        <rect
+           inkscape:export-ydpi="140.00000"
+           inkscape:export-xdpi="140.00000"
+           inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+           style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.39053696;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+           id="rect14337"
+           width="42.415771"
+           height="25.865877"
+           x="325.62799"
+           y="998.51465" />
+        <rect
+           inkscape:export-ydpi="140.00000"
+           inkscape:export-xdpi="140.00000"
+           inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+           y="998.51465"
+           x="325.62799"
+           height="25.865877"
+           width="42.415771"
+           id="rect15107"
+           style="opacity:1.0000000;color:#000000;fill:url(#linearGradient2198);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.39053696;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="opacity:1.0000000;color:#000000;fill:#ffffff;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         id="path14377"
+         sodipodi:cx="350.90173"
+         sodipodi:cy="963.08997"
+         sodipodi:rx="21.389980"
+         sodipodi:ry="21.389980"
+         d="M 372.29171,963.08997 A 21.389980,21.389980 0 1 1 329.51175,963.08996 L 350.90173,963.08997 z"
+         sodipodi:start="0.0000000"
+         sodipodi:end="3.1415927"
+         transform="matrix(-1.000000,0.000000,0.000000,-0.918669,697.7376,1836.217)"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+      <path
+         transform="matrix(-1.000000,0.000000,0.000000,-0.918669,697.7376,1836.278)"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0.0000000"
+         d="M 372.29171,963.08997 A 21.389980,21.389980 0 1 1 329.51175,963.08996 L 350.90173,963.08997 z"
+         sodipodi:ry="21.389980"
+         sodipodi:rx="21.389980"
+         sodipodi:cy="963.08997"
+         sodipodi:cx="350.90173"
+         id="path14333"
+         style="opacity:1.0000000;color:#000000;fill:url(#radialGradient15181);fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10.000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+         sodipodi:type="arc"
+         inkscape:export-filename="/mnt/data/Heribert/Bilder/Pianola/g17909.png"
+         inkscape:export-xdpi="140.00000"
+         inkscape:export-ydpi="140.00000" />
+    </g>
+  </g>
+</svg>

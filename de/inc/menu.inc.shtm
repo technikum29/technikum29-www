@@ -63,6 +63,7 @@
 
         <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/de/suche.shtm" title="Was das Museum noch dringend sucht"<!--#endif -->>Wir suchen</a></li>
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/de/impressum.shtm" title="Impressum und Kontakt"<!--#endif -->>Kontakt/Impressum</a></li>
+        <li class="l1"><a href="/projekte" title="Projektportal - zugriffsgeschützer Inhalt">Projekte</a></li>
     </ul>
   </div><!-- id=menu -->
   <!--#endif -->

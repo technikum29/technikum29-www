@@ -54,7 +54,7 @@
   /**
    * Einzelne Teilroutinen sind ziemlich genau aus der ersten komplett
    * PHP-basierten Weiterleit-Engine übernommen
-   **/
+0   **/
   // htpasswd einlesen
   $passwd_file_content = file($passwd_file);
   if(!$passwd_file_content) {
@@ -73,23 +73,19 @@
   if(!isset($_GET['dir']) && empty($_POST)) {
 ?>
 
-<p>Übersicht der vorhandenen Projekt-Verzeichnisse: (<span style="background-color:green;">grün</span> = Passwortgeschützt, <span style="background-color:orange;">orange</span> = momentan für jeden auslesbar)</p>
+<p>Übersicht aller vorhandenen Projekt-Verzeichnisse <u>auf dem Server</u>: (<span style="background-color:green;">grün</span> = Passwortgeschützt, <span style="background-color:orange;">orange</span> = momentan für jeden Besucher lesbar)</p>
 
 <div style="float:right; margin-left: 2em; border: 1px solid #aaa; padding: 1em;width:40%;">
     <h4>Welche Daten ausreichen, um zu einem Projekt zu kommen</h4>
     <p>Der Person, die auf das Projekt <em>beispiel</em> zugreifen soll,
-       müssen folgende vier Dinge übermittelt werden:</p>
+       müssen folgende drei Dinge übermittelt werden:</p>
     <ol>
-       <li>Die Adresse der Projekte:
-           <br><tt>http://<?=$_SERVER['HTTP_HOST']; ?>/projekte</tt>
-       </li>
-       <li>Den Namen des Projektes, den er in der Liste anklickt.
-       </li>
-       <li>Den Benutzername, er lautet stets so, wie das
-           Projekt, also hier
-	   <br><tt><em>beispiel</em></tt>
-       </li>
-       <li>Das Passwort, welches man für das Projekt gesetzt hat</li>
+       <li>Die Adresse der Homepage, <i>www.technikum29.de</i>, wo
+           auf die Projekte verlinkt ist</li>
+       <li>Den <em>Namen des Projektes</em>, den er in der Liste
+           anklickt.</li>
+       <li>Ggf. das <em>Passwort</em>, welches für das Projekt
+           gesetzt wurde.</li>
     </ol>
     <p>Beim Klick auf den Projektnamen erscheint dann ein Dialogfenster,
        wo der Besucher aufgefordert wird, die Benutzer/Passwort-
@@ -118,18 +114,30 @@
 ?>
 </table>
 
-<p>Durch einen Klick auf <i>anschauen</i> werden die Projekt-Ordner in einem neuen Fenster
-geöffnet, mit dem überall gültigen Administrator-Passwort erhält man überall Zugriff.
-Ein Klick auf <i>Passwort ändern</i> bzw. <i>Passwort für neues Verzeichnis einrichten</i>
-ändert das Passwort, welches (nur) für dieses Verzeichnis gültig ist.
-Das gesetzte Passwort kann später nicht mehr abgefragt werden (weil es verschlüsselt gespeichert wird).</p>
+<p>Legende zur Benutzung der Tabelle: Durch einen Klick auf <i>anschauen</i>
+werden die Projekt-Ordner in einem neuen Fenster geöffnet. Die Eingabe eines
+Passwortes ist dabei nicht notwendig, da bereits als Administrator angemeldet.
+Ein Klick auf <i>Passwort ändern</i> bzw. <i>Passwort für neues Verzeichnis
+einrichten</i> ändert das Passwort, welches (nur) für dieses Verzeichnis
+gültig ist. Das gesetzte Passwort kann später nicht mehr gelesen werden
+(weil es verschlüsselt gespeichert wird).</p>
 
-<p>Ein Projekt entspricht einem Verzeichnis in dem <a href="/projekte">Projekte</a>-Verzeichnis. Neue Projekte erstellt man, in dem man ein neues Verzeichnis per Hand (z.B. über FTP-Programm) erzeugt (und bei der Gelegenheit gleich die Dateien hochlädt), anschließend lässt sich hier mit <i>Passwort für neues Verzeichnis einrichten</i> das Verzeichnis mit Passwort schützen. Neue Projekte sind standardmäßig ohne Passwort erreichbar.</p>
+<h3>Leitfaden zum Anlegen neuer Projekte</h3>
 
-<p>Die Projekte befinden sich um Unterordner <i>projekte</i> im Homepageverzeichnis! Daher kann man mit dem FTP-Programm zum Hochladen der Homepage auch die Projekte verändern.</p>
+<p>Die Projekte befinden sich im Unterordner <em>projekte</em> im Homepageverzeichnis.
+Ein einzelnes Projekt entspricht dabei einem Verzeichnis in diesem Unterordner.
+Neue Projekte erstellt man also, in dem man
+ein neues Verzeichnis per Hand erzeugt. In diesem Verzeichnis kann man dann nach
+ohne Beschränkung Dateien erstellen. Anschließend sollte das neue Projekt in der
+HTML-Datei <a href="../index.shtml">index.shtml</a> in der Liste eingetragen werden.</p>
 
-<p>Bitte für die <b>Namen von Verzeichnissen</b> beachten: Es wird ausdrücklich empfohlen, ausschließlich ein <u>einzelnes, kleingeschriebenes Wort</u> als Projekt/Verzeichnisname zu wählen! Punkte (<tt>.</tt>) und Doppelpunkte (<tt>:</tt>) sind z.B. zuzüglich zu den normalen Beschränkungen für Dateinamen nicht erlaubt.</p>
+<p>In der (über FTP) runtergeladenen Version der Projekte ist der Passwortschutz
+noch nicht vorhanden. <b>Erst nachdem der neue Projektordner</b> und die geänderte
+<i>index.shtml</i>-Datei per FTP <b>hochgeladen wurden, kann in dieser
+Administrationsoberfläche hier ein Passwort für das neue Projekt eingerichtet
+werden</b>.</p>
 
+<p>Bitte für die <b>Namen von Projekt-Verzeichnissen</b> beachten: Es wird ausdrücklich empfohlen, ausschließlich ein <u>einzelnes, kleingeschriebenes Wort</u> als Projekt/Verzeichnisname zu wählen! Punkte (<tt>.</tt>) und Doppelpunkte (<tt>:</tt>) sind zuzüglich zu den normalen Beschränkungen für Dateinamen nicht erlaubt.</p>
 
 <?php
   } else if(isset($_GET['dir']) && empty($_POST)) {

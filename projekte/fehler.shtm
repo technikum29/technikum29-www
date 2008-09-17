@@ -13,7 +13,12 @@
 
 <h1><a href="/projekte"><span>technikum29: </span></a><strong>Projekte</strong></h1>
 
-<h2>Zugriff nicht erlaubt auf <tt><!--#echo var="REQUEST_URI" --></tt></h2>
+<h2>Zugriff nicht erlaubt auf <tt>
+<!--#if expr="$QUERY_STRING" -->
+  <!--#echo var="QUERY_STRING" -->
+<!--#else -->
+  <!--#echo var="REQUEST_URI" -->
+<!--#endif --></tt></h2>
 <p>Möglicherweise wurde das falsche Passwort und/oder der falsche
 Benutzername eingegeben. Probieren Sie folgendes aus:</p>
 <ul>

@@ -8,26 +8,10 @@
        th { width: 20%; }
        td { color: #555; }
      </style>
-     <script type="text/javascript">
-
-function getHTTPObject() {
-  if(typeof XMLHttpRequest != 'undefined') {
-      return new XMLHttpRequest();
-  }
-  try {
-     return new ActiveXObject("Msxml2.XMLHTTP");
-  } catch (e) {
-     try {
-        return new ActiveXObject("Microsoft.XMLHTTP");
-      } catch (e) {}
-  }
-  return false;
-}
-     
-     
-     </script>
+     <script type="text/javascript" src="/src/js/http-auth.js"></script>
+     <script type="text/javascript" src="passwortschutz.js"></script>
      <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/private.design/style.css">
-	 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+      <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
 </head>
 <body>
 

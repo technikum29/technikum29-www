@@ -12,5 +12,5 @@ HeaderName /projekte/.HEADER.shtm
 # Zugriffsrechte braeuchte
 
 # und noch mehr bla:
-ErrorDocument 401 /projekte/.ERROR.shtm
-ErrorDocument 403 /projekte/.ERROR.shtm
+ErrorDocument 401 /projekte/fehler.shtm
+ErrorDocument 403 /projekte/fehler.shtm

@@ -6,8 +6,8 @@ AuthUserFile /srv/www/.htpasswd-projekte
 #Require valid-users
 
 # bla:
-IndexOptions NameWidth=* DescriptionWidth=*
-HeaderName /projekte/.HEADER.shtm
+IndexOptions SuppressHTMLPreamble NameWidth=* DescriptionWidth=*
+HeaderName /projekte/Uebersichtskopf.shtm
 # darf nicht im admin-Verzeichnis stehen weil man dafuer
 # Zugriffsrechte braeuchte
 

@@ -2,8 +2,30 @@
 <head>
   <title>technikum29 Projekte</title>
      <style>
-       li { font-size: 130%; line-height: 150%; }
+       table { width: 100%; border-collapse: collapse; }
+       td, th { font-size: 130%; line-height: 150%; text-align: left;
+                border: 1px solid #888; padding: 5px;  }
+       th { width: 20%; }
+       td { color: #555; }
      </style>
+     <script type="text/javascript">
+
+function getHTTPObject() {
+  if(typeof XMLHttpRequest != 'undefined') {
+      return new XMLHttpRequest();
+  }
+  try {
+     return new ActiveXObject("Msxml2.XMLHTTP");
+  } catch (e) {
+     try {
+        return new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (e) {}
+  }
+  return false;
+}
+     
+     
+     </script>
      <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/private.design/style.css">
 	 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
 </head>
@@ -22,12 +44,15 @@ Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das P
 <h2>Liste der Projekte</h2>
 <p>Jedes Projekt ist möglicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
 <br><b>Als Benutzer ist stets der Name des Projekts </b>(kleingeschrieben)<b> einzugeben!</b></p>
-<ul>
-	<li><a href="pianola">pianola</a></li>
-	<li><a href="schach">schach</a></li>
-	<li><a href="computer">computer</a></li>
-	<li><a href="fernsehen">fernsehen</a></li>
-</ul>
+<table>
+<tr><th><a href="pianola">Pianola</a>          <td>Funktionsbeschreibung der Pianola und Entwurf einer Präsentation
+<tr><th><a href="schach">Schach</a>            <td>Anleitung für ein Schachspiel gegen den PDP 8 Computer mit 8KB Arbeitsspeicher
+<tr><th><a href="computer">Computer</a>        <td>Entwurf einer Präsentation über historische Computer der Frühzeit (ab ca. 1944)
+<tr><th><a href="rundfunk">Rundfunk</a>        <td>Präsentationsentwurf für die Gebiete Rundfunk, Fernsehen und Tonfilm
+<tr><th><a href="telegrafie">Telegraphie</a>   <td>Präsentationsentwurf für Telegrafie, Bildtelegrafie und Faximiletechnik
+<tr><th><a href="fernsehen">Fernsehen</a>               <td>Zur Zeit im Ordner "Rundfunk" integriert
+<tr><th><a href="nipkow">Nipkow</a>            <td>Präsentation, welche die physikalischen Grundlagen und Techniken des Fernsehens nach Paul Nipkow zeigt
+</table>
 
 <br>
 

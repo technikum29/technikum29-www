@@ -7,7 +7,7 @@
      table td, table th { padding: 10px; }
      table th { font-weight: bold; background-color: #aaa; }
      a:hover { background-color: yellow; }
-     pre, label { display:block; padding: 10px; border: 1px solid #aaa; background-color: #fff; }
+     pre, label, div.label { display:block; padding: 10px; border: 1px solid #aaa; background-color: #fff; }
      /* allgemeine hervorhebung */
      em, h2 i { background-color: yellow; }
   </style>
@@ -160,11 +160,14 @@ werden</b>.</p>
       }
       ?><form method="POST">
           <input type="hidden" name="dir" value="<?=$dir; ?>">
-          <label for="source1"><input type="radio" name="pwd_source" id="source1" value="auto" checked="checked"> Bitte automatisch ein Passwort mit
-              <input type="input" name="auto_length" value="8"> Zeichen generieren.</label>
+          <div class="label"> <!--for="source1">--><input type="radio" name="pwd_source" id="source1" value="auto" checked="checked"> Bitte automatisch ein Passwort mit
+              <input type="input" name="auto_length" value="8"> Zeichen generieren.
+	  </div>
           <p><u>oder</u></p>
-          <label for="source2"><input type="radio" name="pwd_source" id="source2" value="self"> Das folgende, selbst gewählte Passwort einstellen:
-              <input type="password" name="own_pwd"></label>
+          <div class="label"><!-- for="source2">-->
+	  <input type="radio" name="pwd_source" id="source2" value="self"> Das folgende, selbst gewählte Passwort einstellen:
+              <input type="password" name="own_pwd">
+	  </div>
 
          <p><u>oder</u></p>
 	 <label for="source3"><input type="radio" name="pwd_source" id="source3" value="delete"> Passwort für dieses Passwort löschen &ndash; jeder kann dann den Projektinhalt ohne Passwort erreichen!</label>

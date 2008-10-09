@@ -23,7 +23,14 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten. Die erste druckende Rechenmaschine der Welt (1905) ist ein Unikum mit riesigem Au&szlig;enbordmotor! Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.) rechnen nach Eingabe der Zahlen selbstt&auml;tig. Die erste "Taschenrechenmaschine" der Welt, Curta I, hat 1/3 des Volumens einer Cola-Dose und ist die kleinste je gebaute 4-spezies Maschine. Bei allen mechanischen Rechnern erkennt man die gro&szlig;e Bedeutung des Stellenwertsystems.</p>
+    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten.
+<div class="box center">
+        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
+        <p class="bildtext"><b>Burroughs Mod. 2.</b>
+		Die erste druckende Rechenmaschine (ca. 1905) stammt aus Amerika. Mit 17-stelliger Volltastatur, Druckwerk und Breitwagen für Bogenpapier-Einrichtung war sie damit erste erfolgreich verkaufte druckende Rechenmaschine der Welt. Sie konnte auch als einfache Buchungsmaschine verwendet werden. Damals waren die Motoren schon so "klein", dass man eine solche Maschine gerade eben bauen konnte. Dennoch musste der für heutige Verhältnisse riesige Motor außerhalb der Maschine (unten) placiert werden. Die im unteren Teil des Bildes zu sehende Schürze dient zum Auffangen des überflüssigen Öls.
+
+</div>
+Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.) rechnen nach Eingabe der Zahlen selbstt&auml;tig. Die erste "Taschenrechenmaschine" der Welt, Curta I, hat 1/3 des Volumens einer Cola-Dose und ist die kleinste je gebaute 4-spezies Maschine. Bei allen mechanischen Rechnern erkennt man die gro&szlig;e Bedeutung des Stellenwertsystems.</p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/madas.jpg" width="498" height="255" alt="Madas Rechenmaschiene" />

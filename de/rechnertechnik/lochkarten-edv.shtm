@@ -65,24 +65,28 @@
     </div>
 
      <div class="box center">
-         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="455" height="519" />
-         <p class="bildtext">
-             <b>IBM 548</b>. Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien 	in 60 Spalten auf zwei Zeilen beschriften.
-         </p>
-     </div>
-
-     <div class="box center">
-         <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="559" height="587" /></a>
+         <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
          <p class="bildtext">
               <b>IBM Lochkartenmischer 77</b>
               <br/>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
-             <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Meßgerät.
+             <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Messgerät.
 	     <br/><a class="go" href="/de/geraete/lochkartenmischer-funktion.shtm">Funktionsweise des Lochkartenmischers</a>
          </p>
          <!--<p class="clear">&nbsp;</p>-->
      </div>
-
-
+<div class="box center">
+         <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
+         <p class="bildtext">
+              <b>Bull Lochkartenmischer.</b>
+			  Ein gigantisch großes Gerät mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch möglich. Je nach Anwendung können 250 bis 500 Lochkarten in der Minute verarbeitet werden.
+			  </div>
+    <div class="box center">
+         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="501" />
+         <p class="bildtext">
+             <b>IBM 548</b>. Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Für unsere Zwecke ist ein Nachteil gravierend: Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. Die Beschriftung einer FORTRAN-Lochkarte ist dann fast unlesbar.
+			 <br>Vorne ist das Programmierfeld zu sehen</br>
+         </p>
+     </div>
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

@@ -72,17 +72,9 @@
     </div>
 
      <div class="box center">
-         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="455" height="519" />
+         <a href="/en/devices/punchcard-collator.shtm" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
          <p class="bildtext">
-             <b>IBM 548</b>. A huge punch card interpreter made by IBM. This machine can label 60 cards
-             per minute in 60 cols and two rows, according to the settings which you can set.
-         </p>
-     </div>
-
-     <div class="box center">
-         <a href="/en/devices/punchcard-collator.shtm" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" /></a>
-         <p class="bildtext">
-             The picture above show the heart of an <b>IBM punch card collator 77</b>, year of manufacture 1959. The collector reads 480 cards per minute. It is capable of changing the order of the cards, looking for copies (and seperating them out) or comparing two stacks and finding out the differences. Compared to today's database storages this card collator is a kind of mechanical database query language interpreter.
+             The picture above show the heart of an <b>IBM punch card collator 077</b>, year of manufacture 1959. The collector reads 480 cards per minute. It is capable of changing the order of the cards, looking for copies (and seperating them out) or comparing two stacks and finding out the differences. Compared to today's database storages this card collator is a kind of mechanical database query language interpreter.
              <!--<br/>The programs are plugged together on a patch panel. Thus they can easily be changed. -->
              <br />The electronics comprises of relays and camshafts which control
 	     switches. Early engineers had to use oilcans for the bearing's
@@ -90,8 +82,20 @@
 	     <br />The programs could be changed by replacing the programing field.
 	     <br/><a class="go" href="/en/devices/punchcard-collator.shtm">The function of the punch card collator</a>
          </p>
+ 
+	    </div>
+<div class="box center">
+         <img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
+         <p class="bildtext">
+              <b>Bull punch card collator 56.00.</b>
+<div class="box center"></p>
+</div>
+         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
+         <p class="bildtext">
+             <b>IBM 548</b>. A huge punch card interpreter made by IBM. This machine can label 60 cards
+             per minute in 60 cols and two rows, according to the settings which you can set.
+         </p>
      </div>
-
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>

@@ -29,6 +29,7 @@
     <!--changelog: Edit am 18.06.2008: aktualisierte "what's new" section (BULL GAMMA 3) -->
     <!--changelog: Edit am 25.07.2008: aktualisierte "what's new" section (Tondraht-Diktiergeraet) -->
     <!--changelog: Edit am 17.02.2007: aktualisierte "what's new" section (UNIVAC prices) -->
+    <!--changelog: Edit am 12.10.2008: aktualisierte "what's new" section (Als Gefuehl noch gefragt war...) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -60,19 +61,18 @@
     <p>Now some pictures that show the exhibits we got at least:</p>
 
     <div class="aktuell">
-       <!-- translated @ 14.08.2008 22:12 -->
+       <!-- translated @ 12.10.2008 22:35 -->
         <div class="left">
-            <img src="/shared/photos/rechnertechnik/univac/univac-preis.jpg" width="320" height="155"
+            <img src="/shared/photos/rechnertechnik/burroughs,klein.jpg" width="134" height="181"
                  class="nomargin-bottom"
-                 alt="Illustration: One Univac 9400 equals 470 new cars" />
+                 alt="Burroughs Mod. 2" />
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: august 2008)</p>
+            <p class="stand">(last update: October 2008)</p>
 
-            <p><b>From rags to riches</b>
-            <br/>According to original price lists from 1968 our
-                <a href="/en/computer/univac9400.shtm">UNIVAC 9400 Mainframe</a> had a
-                contervalue of 470 brand new cars, making about 1 million US dollars.
-                <a href="/en/devices/univac9400/costs.shtm" class="go">Incredible...</a>
+            <p><b>At the time when computing was performed carefully</b>
+            <br/>Very old electro mechanical calculator: Burroughs Mod. 2 from
+               about 1905, see our page
+               <a class="go" href="/en/computer/electro-mechanical.shtm">(Electro-) mechanical calculators</a>.
         </div>
         <div class="clear">&nbsp;</div>
     </div>

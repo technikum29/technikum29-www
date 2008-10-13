@@ -18,6 +18,7 @@
     <meta name="t29.this.version" content="v5.7.17" />
     <meta name="t29.this.date" content="03.02.2008" />
     <meta name="t29.this.comments" content="Neuer Auschnitt Rundfunkecke" />
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -46,16 +47,22 @@
 
       <p>Die n&auml;chsten Bilder zeigen beispielhaft Ger&auml;te, die sich optisch und auch von der Technik her hervorheben. Jedoch lie&szlig;e sich diese Bildergalerie beliebig weiterf&uuml;hren.
       <br/>Im Museum sind viele weitere Rarit&auml;ten zu bewundern, ein H&ouml;rerlebnis ist aus jeder Epoche  m&ouml;glich: Detektorger&auml;te, Batterieempf&auml;nger (20er J.), Luxus-Super (30er J.), fr&uuml;he Musikschr&auml;nke (1932) sowie quasi als Ende einer Etappe der erste Nachkriegsempf&auml;nger mit Motor-Sendersuchlauf und Kabelfernbedienung: SABA Freiburg 3D (Bj. 1954), ein Meilenstein mit 5 eingebauten Lautsprechern, der so beeindruckend im Klang ist, dass selbst CD-verw&ouml;hnte Kids staunend vor dem &uuml;ber 50 Jahre altem Ger&auml;t stehen. Insgesamt wird einsichtig, wie Rundfunk vor zwei bis drei Generationen erlebt wurde und wie schnell sich die Entwicklung vollzogen hat.</p>
-<div class="box left">
+
+      <div class="box left">
           <img src="/shared/photos/kommunikationstechnik/musikschrank.jpg" width="310" height="465" alt="Telefunken Musikschrank" />
-          <p class="bildtext">Der Wunsch nach "Tonmöbeln" kam schon ein paar Jahre nach der Einführung des Rundfunks. Hier ist ein <b>Telefunken 650 GK</b> Musikschrank aus den Jahren 1931/32 abgebildet. Fortschrittlich war der  Plattenspieler mit "Magnetsystem" und Elektromotor; aber noch mit Grammophonnadeln und hohem Gewicht des Tonarms, welcher die Platten beachtlich strapazierte. Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikkonserven in akzeptabler Qualität abspielbar. Das Gehäuse wurde aus edlem Nussbaum gefertigt. Das konnten sich nicht viele Menschen leisten.<br>
-		  Auch das Tischgerät <a class="go" name="backlink-telefunkten" href="/de/geraete/telefunken_650.shtm">Telefunken 650</a> ist als Exportmodell in einem besonders schönen Gehäuse per Mausklick zu erreichen.</br>
-		 </p> </div> 
+          <p class="bildtext">
+             Der Wunsch nach "Tonmöbeln" kam schon ein paar Jahre nach der Einführung des Rundfunks. Hier ist ein <b>Telefunken 650 GK</b> Musikschrank aus den Jahren 1931/32 abgebildet. Fortschrittlich war der  Plattenspieler mit "Magnetsystem" und Elektromotor; aber noch mit Grammophonnadeln und hohem Gewicht des Tonarms, welcher die Platten beachtlich strapazierte. Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikkonserven in akzeptabler Qualität abspielbar. Das Gehäuse wurde aus edlem Nussbaum gefertigt. Das konnten sich nicht viele Menschen leisten.
+             <br/>Auch das Tischgerät <a class="go" name="backlink-telefunkten" href="/de/geraete/telefunken_650.shtm">Telefunken 650</a> ist als Exportmodell in einem besonders schönen Gehäuse per Mausklick zu erreichen.
+          </p>
+          <div class="clear">&nbsp;</div>
+      </div>
+
       <div class="box center">
           <img src="/shared/photos/kommunikationstechnik/ultramar.jpg" width="354" height="336" alt="Fotografie des K&ouml;rting Ultramars" />
           <p class="bildtext"><b>K&ouml;rting Ultramar</b>, das gr&ouml;&szlig;te, aufwendigste und teuerste Ger&auml;t des Jahres 1935. 11 R&ouml;hren, zwei Lautsprecher und eine enorme Empfangsleistung zeichneten es aus.
-<br>Einiges zur Technik: 100fache Empfindlichkeit eines Einkreisers, 9 Kreise, Alloptik-Skala mit Lichtprojektion, Empfindlichkeits- , Feldstärke- und Bandbreitenanzeige. Ein solcher technischer Luxus war bisher unbekannt. Daher bezeichnete man das Gerät auch als "Übersuper".</br>
-		  Auf Wunsch können sie das <a class="go" name="backlink-ultramar" href="/de/geraete/ultramar_hinten.shtm">Innenleben des Ultramars</a> erforschen.<br/></p>
+             <br/>Einiges zur Technik: 100fache Empfindlichkeit eines Einkreisers, 9 Kreise, Alloptik-Skala mit Lichtprojektion, Empfindlichkeits- , Feldstärke- und Bandbreitenanzeige. Ein solcher technischer Luxus war bisher unbekannt. Daher bezeichnete man das Gerät auch als "Übersuper".
+             <br/>Auf Wunsch können sie das <a class="go" name="backlink-ultramar" href="/de/geraete/ultramar_hinten.shtm">Innenleben des Ultramars</a> erforschen.
+          </p>
       </div>
 
       <div class="box left">

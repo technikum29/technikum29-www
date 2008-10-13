@@ -16,9 +16,9 @@
     <meta name="keywords" lang="de" content="Kosmograph Diktierger&auml;t, Loewe Ferrophon III, Loewe, Diktierger&auml;t" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7FINAL" />
-    <meta name="t29.this.date" content="18.07.2007" />
-    <meta name="t29.this.comment" content="allgemeine Umstrukturierung" />
+    <meta name="t29.this.version" content="v5.8.x" />
+    <meta name="t29.this.date" content="10.2008" />
+    <meta name="t29.this.comment" content="Heriberts Version" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -33,24 +33,27 @@
         <img src="/shared/photos/kommunikationstechnik/kosmograph.jpg" width="546" height="407" alt="Foto des Diktiergerätes KOSMOGRAPH" />
         <p class="bildtext" style="text-align: center">Diktierger&auml;t <b>KOSMOGRAPH</b> der Diktiermaschinenfabrik Dresden (1935)</p>
     </div>
-<div class="box center">
+
+    <div class="box center">
         <img src="/shared/photos/kommunikationstechnik/aeg-magnetophon.jpg" alt="Fotografie des AEG Magnetophon" width="546" height="407" />
         <p class="bildtext-bildbreite" style="width: 546px;">
-    
-	Tonbandgeräte, die vor 1952 hergestellt wurden, sind extrem selten und technisch sehr interessant. Dieses Gerät, <b>AEG Magnetophon AW 1</b>, wurde 1948/49 gebaut und steht auf dem Stand der Technik von ca. 1939. Im Zusatzkoffer sind der Aufnahme- und Wiedergabeverstärker, sowie ein Lautsprecher untergebracht. Auf dem Originalband befindet sich die Aufzeichnung einer Karnevalssitzung aus den frühen 50er Jahren. Das Gerät war damals so teuer, dass der Kauf für Privatleute praktisch unerschwinglich war.
-	</div>
+           Tonbandgeräte, die vor 1952 hergestellt wurden, sind extrem selten und technisch sehr interessant. Dieses Gerät, <b>AEG Magnetophon AW 1</b>, wurde 1948/49 gebaut und steht auf dem Stand der Technik von ca. 1939. Im Zusatzkoffer sind der Aufnahme- und Wiedergabeverstärker, sowie ein Lautsprecher untergebracht. Auf dem Originalband befindet sich die Aufzeichnung einer Karnevalssitzung aus den frühen 50er Jahren. Das Gerät war damals so teuer, dass der Kauf für Privatleute praktisch unerschwinglich war.
+        </p>
+    </div>
 	<div class="box center">
         <img src="/shared/photos/kommunikationstechnik/loewe_opta.jpg" alt="Fotografie des Ferrophon IIIc/3" width="546" height="405" />
         <p class="bildtext-bildbreite" style="width: 546px;">Wenn ein Rundfunkreporter 1951 eine Reportage aufzeichnen wollte, musste er für den Transport der Anlage kräftig gebaut sein. Dieses semiprofessionelle Tonbandgerät der <b>Loewe-Radio AG Typ "Ferrophon IIIc/3"</b> war nicht für den Privatgebrauch gedacht. Erstaunlich sind die gute Tonqualität (max. Bandgeschwindigkeit 76cm/sec!!) und die Verwendung edler Materialien (viel Kupfer...), die in der frühen Nachkriegszeit sehr rar waren.</p>
     </div>
-<div class="box center">
+
+    <div class="box center">
         <img src="/shared/photos/kommunikationstechnik/schellackplattenspieler.jpg" alt="Plattenwechsler für Schellackplatten" width="546" height="343" />
         <p class="bildtext-bildbreite" style="width: 546px;">
-    
-	Die Schallplatte hat als Tonträger eine lange Geschichte. Dabei wurde die leicht zerbrechliche "Schellackplatte" bis Mitte der Fünfziger Jahre hergestellt und dann durch die Vinylplatte abgelöst. Automatische Plattenwechsler für Schellackplatten sind sehr selten. Hier ist der Wechsler <b>"Dual 1000"</b> abgebildet. Er wurde ca. 1951/52 gebaut. Die nach heutigen Maßstäben sehr langsamen Tonarmbewegungen beim Plattenwechsel zeigen, wie man auch ohne Hektik Musik genießen konnte. Schon das Zuschauen beruhigt die Nerven.
-	Zunächst arbeitete das Tonsystem noch mit Grammophonnadeln. Später wurden "Dauernadeln" hergestellt, deren Spitze mit einem Saphir bestückt war. Das war schon deswegen notwendig, da eine Stahlnadel nach ca. 3 Platten merklich in der Qualität nachließ.
-      </p> </div>  
-	 <div class="box center">	
+           Die Schallplatte hat als Tonträger eine lange Geschichte. Dabei wurde die leicht zerbrechliche "Schellackplatte" bis Mitte der Fünfziger Jahre hergestellt und dann durch die Vinylplatte abgelöst. Automatische Plattenwechsler für Schellackplatten sind sehr selten. Hier ist der Wechsler <b>"Dual 1000"</b> abgebildet. Er wurde ca. 1951/52 gebaut. Die nach heutigen Maßstäben sehr langsamen Tonarmbewegungen beim Plattenwechsel zeigen, wie man auch ohne Hektik Musik genießen konnte. Schon das Zuschauen beruhigt die Nerven.
+           Zunächst arbeitete das Tonsystem noch mit Grammophonnadeln. Später wurden "Dauernadeln" hergestellt, deren Spitze mit einem Saphir bestückt war. Das war schon deswegen notwendig, da eine Stahlnadel nach ca. 3 Platten merklich in der Qualität nachließ.
+        </p>
+    </div>
+
+    <div class="box center">	
 	<a href="/de/geraete/schaub-lorenz-supraphon.shtm" name="backlink-supraphon" title="Detailaufnahme des Supraphons"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Foto des Lorenz Supraphons" width="546" height="561" /></a>
         <div class="bildtext-bildbreite" style="width: 546px"><b>(Schaub-) Lorenz Supraphon</b>
 	<p>Es gab vor über 50 Jahren schon sehr merkwürdige Möglichkeiten, um Töne zu speichern. Dieses Gerät, 1952 hergestellt, nimmt die Information auf Drähten auf. Der Vorteil liegt in der sehr kompakten Bauweise der Tonträger (=Stahldraht): Eine Stunde passte auf die kleine Spule (rechts). Die Tonqualität war (fast) akzeptabel aber gnade Gott, wenn der sehr dünne Draht reißt!!</p>

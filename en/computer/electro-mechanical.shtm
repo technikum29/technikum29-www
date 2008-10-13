@@ -16,11 +16,13 @@
     <meta name="keywords" lang="en" content="technikum, calculator, electromechanical, mechanical calculator, madas, curta I, diehl VSR-18" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5" />
-    <meta name="t29.changelog" content="v5.6.5: page relation to punchcard computing" />
+    <meta name="t29.SVN" content="$Id" />
+    <meta name="t29.germanoriginal" content="10.2008" />
+    <meta name="t29.thistranslation" content="v5.8.x/13.10.2008" />
+    <meta name="t29.changelog" content="New: Burroughs" />
     <!--changelog: 22.04.2006/v5.5FINAL Original 13.04.2006/v5.5.1 -->
-    <meta name="t29.comment" content="v5.7 Umstrukturierung..." />
+    <!--changelog: 21.08.2007/v5.7.5 based on 18.07.2007/v5.7FINAL:  v5.6.5: page relation to punchcard computing -->
+    <!--<meta name="t29.comment" content="v5.7 Umstrukturierung..." />-->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -32,8 +34,18 @@
     <!--Calculators worked mechanically until they could calculate electronically, which was
     only possible with gigantic mainframe computers in the 1940/50s.-->
 
-    When the handwheel was replaced by an electric engine, the era of mechanical calculators began.
-    The first printing mechanical calculator (1905) is an unicum with an huge exterior engine!
+    When the handwheel was replaced by an electric engine, the era of mechanical calculators began.</p>
+
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
+        <p class="bildtext">
+           <b>Burroughs Mod. 2.</b>
+           The first printing calculating machine was invented in the USA (about 1905) and was selled worldwide. It features a complete keyboard for 17 digits, a printing unit and a long carriage for the sheet paper. The device could be used as a simple electronic accounting machine. At that time the engines could already be built just compact enough for such a device. Anyway, the (for today's circumstances) huge engine had to be placed below the device (on the right hand side in the picture). The sack below the engine is intended for collecting the leakage oil.
+        </p>
+
+    </div>
+
+    <p>The first printing mechanical calculator (1905) is an unicum with an huge exterior engine!
     From the first fully automatic machines (1927) until these with balancing memory
     (1960s), mechanical calculators calculated independently after the input of the numbers.
     The world's first "pocket calculator machine", Curta I, has 1/3 from the volume of a

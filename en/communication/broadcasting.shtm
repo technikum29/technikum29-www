@@ -15,12 +15,14 @@
     <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
     <meta name="keywords" lang="en" content="Broadcasting, broadcast devices, museum, Signalbau Huth, Telefunken W9, K&ouml;rtng Ultramar, Telefunken 650, Metz" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="03.02.2008/v5.7.17" />
-    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
-    <meta name="t92.comment" content="Neuer Auschnitt Rundfunkecke (Text angepasst, neues Bild)" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.germanoriginal" content="v5.8.x/10.2008" />
+    <meta name="t29.thistranslation" content="v5.8.x+1/12.10.2008" />
+    <meta name="t92.comment" content="New: Telefunken 650 GK" />
     <!--changelog: 19.04.2006/v5.5.BETA - last edit own translation -->
     <!--changelog: 10.08.2006/v5.5.7 - new translation (Ulmann) -->
     <!--changelog: 19.08.2007/v5.7.5 - new translation, new structure [v5.7 grundlegende Änderungen, weitgehend gleicher Text] -->
+    <!--changelog: 21.03.2008/v5.7.20 based on 03.02.2008/v5.7.17: Neuer Auschnitt Rundfunkecke (Text angepasst, neues Bild) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -100,6 +102,26 @@
          is so rich and impressive that even young people are faszinated and
          admire this 50 year old technical miracle.</p>
 
+      <div class="box left">
+          <!-- Section new at 12.10.2008 from de -->
+          <img src="/shared/photos/kommunikationstechnik/musikschrank.jpg" width="310" height="465" alt="Telefunken radiogramophone" />
+          <p class="bildtext">
+              Having intelligent all-in-one furniture suitable for all kinds of music is an old dream
+              which appeared some years after the introducion of mass broadcasting. The radiogramophone
+              on the left is the <b>Telefunken 650 GK</b> from 1931/32. The record player was quite
+              modern, featuring a magnetic system and electric motor. On the other hand it still used
+              gramophone needles and the needlessly weighty pick-up stressed the records.
+              Nevertheless the sound quality of the radiogramophone was much better, compared to an
+              ordinary gramophone player. The chassis is made out of noble walnut trees, therefore
+              this piece of furniture was very expensive.
+              <br />The <a class="go"
+              name="backlink-telefunken" href="/en/devices/telefunken_650.shtm">Telefunken 650</a>
+              is the alternative table-top type and was a very successful export hit.
+          </p>
+          <div class="clear">&nbsp;</div>
+      </div>
+
+
 <!--
       <p>The next two pictures show two apparatures that point out themselves optically and also technically, but the picture gallery could be continued without stopping.
       <br />Many other curiosities can be admired in the museum, an audio experience is possible in every epoch: detectors, batterie-receivers (1920s), "Luxus-Super" (1930s) and at the end the first postwar receivers with motor-channel search and cable-remote control: SABA Freiburg 3D. The sound of this milestone with 5 built-in loudspeakers is so impressing that even CD-spoiled kids would stand wondering in front of this nearly 50-years old apparature.
@@ -114,12 +136,11 @@
             which results in an astonishable quality of sound. See also
             some pictures showing the
             <a class="go" name="backlink-ultramar" href="/en/devices/ultramar_back.shtm">Innards of the Ultramar</a>.
-            <br />The <a class="go" name="backlink-telefunken" href="/en/devices/telefunken_650.shtm">Telefunken 650</a>
-            is another example of the wonderful receivers built in the 1930s.</p>
       </div>
 
-      <div class="center">
-          <img src="/shared/photos/kommunikationstechnik/metz.jpg" width="351" height="319" alt="Metz portable reciever" />
+      <div class="box left">
+          <img src="/shared/photos/kommunikationstechnik/metz.jpg" width="351" height="319"
+             alt="Metz portable reciever" class="nomargin-bottom" />
           <p class="bildtext">The portable reveceiver from Metz, built in
             1956 and shown above, is another outstanding piece of equipment.
             It is a so called "Kofferradio" so it can be carried around and
@@ -128,6 +149,7 @@
 
           <!--
           A rapid leap in time to the youngest model in the museal collection: The portable receiver from Metz with built-in gramophone. Of course the apparature, built 1956, still uses tubes. Youth would have been able to hear their "Elvis Presley"-records in the swimming pool if the radio were much more cheaper.-->
+          <div class="clear">&nbsp;</div>
       </div>
 
 

@@ -17,11 +17,12 @@
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="22.07.2008/v5.8.0" />
-    <meta name="t29.thistranslation" content="27.07.2008/v5.8.0" />
-    <meta name="t29.comment" content="Update: AEG-Magnetophon, Klein-Reporter W52" />
+    <meta name="t29.germanoriginal" content="v5.8.x/10.2008" />
+    <meta name="t29.thistranslation" content="v5.8.x+1/13.10.2008" />
+    <meta name="t29.comment" content="New: Dual 1000 gramophone automatic recorder" />
     <!--changelog: 26.04.2006/v5.5.1 -->
     <!--changelog: 19.08.2007/v5.7.5 (Überetzung/Umstrukturierung v5.7) auf Basis 19.08.2007/v5.7.1 -->
+    <!--changelog: 27.07.2008/v5.8.0 auf Basis 22.07.2008/v5.8.0 Update: AEG-Magnetophon, Klein-Reporter W52 -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -50,6 +51,15 @@
         <img src="/shared/photos/kommunikationstechnik/loewe_opta.jpg" alt="Ferrophon IIIc/3" width="546" height="405" />
         <p class="bildtext-bildbreite" style="width: 546px;">A radio reporter in 1951 had to be a strong guy to carry the Ferrophon around. This semi-professional tape recorder of Loewe Opta Radio AG Type "Ferrophon IIIc/3" was hardly affordable for the non-commercial user. The replay quality is excellent (max. tape speed of 76cm/sec!) and likewise the used components (a lot of copper parts) which was rare in the early past war years.
         Including a match box in the picture helps to visualize the physical size of this recorder combination. </p>
+    </div>
+
+    <div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/schellackplattenspieler.jpg" alt="Automatic recorder changer for shellac records" width="546" height="343" />
+        <p class="bildtext-bildbreite" style="width: 546px;">
+           <!-- paragraph translated: 13.10.2008 01:25 -->
+           Gramophone records are used as sound storage media for quite a long time. After all, in the 1950s, the shellac records were invented. Breakage was very common in this era, until it was displaced by the vinyl records. Automatic record changers were quite rare in the shellac era. The photography above shows the <b>"Dual 1000"</b>, built in 1951/52. The slowly moving pick-up arm while record changing demonstrates the way of listening music at that time.
+           At first this device used the old steel needles that decreased in quality after only three records, until sapphire styluses were invented.
+        </p>
     </div>
 
     <div class="box center">

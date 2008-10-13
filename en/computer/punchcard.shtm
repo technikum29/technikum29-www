@@ -15,9 +15,10 @@
     <meta name="keywords" content="" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="21.03.2008/v5.7.20" />
-    <meta name="t29.comment" content="Ergaenzung der Sortierer/Mischer-Links" />
+    <meta name="t29.germanoriginal" content="v5.8.x/10.2008" />
+    <meta name="t29.thistranslation" content="v5.8.x/13.10.2008" />
+    <meta name="t29.comment" content="New: BULL 56.00" />
+    <!-- 21.03.2008/v5.7.20 based on 18.07.2007/v5.7FINAL - Ergaenzung der Sortierer/Mischer-Links -->
     <!-- 15.09.2007/v5.7.8: IBM 077 Sync mit deutsch -->
     <!-- 18.07.2007/v5.7.5: Komplette Neuübersetzung, Sync und strukturelle v5.7-Umstellung -->
     <!-- 29.01-03.02.07: initial translation to v5.6.5 based on v5.6 german orig-->
@@ -82,14 +83,17 @@
 	     <br />The programs could be changed by replacing the programing field.
 	     <br/><a class="go" href="/en/devices/punchcard-collator.shtm">The function of the punch card collator</a>
          </p>
- 
-	    </div>
-<div class="box center">
-         <img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
+     </div>
+
+     <div class="box center">
+         <a href="/en/devices/punchcard-collator.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
          <p class="bildtext">
               <b>Bull punch card collator 56.00.</b>
-<div class="box center"></p>
-</div>
+              <br/>This very big device features very much chrome and almost 1000 relays, assembled to allow developers to implement varoius mixing algorithms with wired panels. Thus collating and sorting could be performed in only one working cycle. Depending on the task, the device could process about 250 - 500 cards per minute.
+         </p>
+     </div>
+
+     <div class="box center">
          <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
          <p class="bildtext">
              <b>IBM 548</b>. A huge punch card interpreter made by IBM. This machine can label 60 cards

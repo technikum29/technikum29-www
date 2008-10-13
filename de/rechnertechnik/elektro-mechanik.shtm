@@ -23,14 +23,17 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten.
-<div class="box center">
-        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
-        <p class="bildtext"><b>Burroughs Mod. 2.</b>
-		Die erste druckende Rechenmaschine (ca. 1905) stammt aus Amerika. Mit 17-stelliger Volltastatur, Druckwerk und Breitwagen für Bogenpapier-Einrichtung war sie damit erste erfolgreich verkaufte druckende Rechenmaschine der Welt. Sie konnte auch als einfache Buchungsmaschine verwendet werden. Damals waren die Motoren schon so "klein", dass man eine solche Maschine gerade eben bauen konnte. Dennoch musste der für heutige Verhältnisse riesige Motor außerhalb der Maschine (unten) placiert werden. Die im unteren Teil des Bildes zu sehende Schürze dient zum Auffangen des überflüssigen Öls.
+    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten.</p>
 
-</div>
-Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.) rechnen nach Eingabe der Zahlen selbstt&auml;tig. Die erste "Taschenrechenmaschine" der Welt, Curta I, hat 1/3 des Volumens einer Cola-Dose und ist die kleinste je gebaute 4-spezies Maschine. Bei allen mechanischen Rechnern erkennt man die gro&szlig;e Bedeutung des Stellenwertsystems.</p>
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
+        <p class="bildtext">
+           <b>Burroughs Mod. 2.</b>
+           Die erste druckende Rechenmaschine (ca. 1905) stammt aus Amerika. Mit 17-stelliger Volltastatur, Druckwerk und Breitwagen für Bogenpapier-Einrichtung war sie damit erste erfolgreich verkaufte druckende Rechenmaschine der Welt. Sie konnte auch als einfache Buchungsmaschine verwendet werden. Damals waren die Motoren schon so "klein", dass man eine solche Maschine gerade eben bauen konnte. Dennoch musste der für heutige Verhältnisse riesige Motor außerhalb der Maschine (unten) placiert werden. Die im unteren Teil des Bildes zu sehende Schürze dient zum Auffangen des überflüssigen Öls.
+        </p>
+    </div>
+
+    <p>Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.) rechnen nach Eingabe der Zahlen selbstt&auml;tig. Die erste "Taschenrechenmaschine" der Welt, Curta I, hat 1/3 des Volumens einer Cola-Dose und ist die kleinste je gebaute 4-spezies Maschine. Bei allen mechanischen Rechnern erkennt man die gro&szlig;e Bedeutung des Stellenwertsystems.</p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/madas.jpg" width="498" height="255" alt="Madas Rechenmaschiene" />
@@ -48,7 +51,7 @@ Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.)
         <br />Die Ingenieure wurden angetrieben, immer komfortablere Maschinen zu konstruieren, oft bis an die Grenze des Machbaren. So hei&szlig;t es in der Bedienungsanleitung: "Das vor ihnen stehende DIEHL-Modell VSR leistet &Uuml;berdurchschnittliches". Das ist wohl wahr: Man konnte z.B. Ergebnisse zwischenspeichern und das Resultat jederzeit r&uuml;ck&uuml;bertragen. So waren oft auftretende Rechnungen wie  25 + 12 x 7 - 17 x 6  l&ouml;sbar ohne dass man etwas notieren musste. Doch der Luxus von 5 Rechenwerken und vielem sonstigen "Schnickschnack" zollte ein Attribut: Die Ger&auml;te waren sehr empfindlich bez&uuml;glich einer Fehlbedienung.</p>
     </div>
 
-
+    <!-- Der folgende Text erscheint unten rechts in der Seitenleiste: -->
     <div id="sidebar-footnote">
         <a href="/de/geraete/sprossenradmaschine.shtm">Bild &uarr; der Sprossenradmaschine groß</a>
     </div>

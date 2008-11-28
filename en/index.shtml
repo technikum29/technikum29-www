@@ -18,7 +18,7 @@
 
     <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 28.08.2007/Aktuelles(v5.7.5)" />
     <meta name="t29.thistranslation" content="14.08.2008/v5.8BETA" />
-	<meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.SVN" content="$Id$" />
     <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
     <!--changelog: Edit am 30.12.2006: aktualisierte new devices section (NCR/Messgeraet) -->
     <!--changelog: Edit am 17.02.2007: aktualisierte new devices section (BULL) -->
@@ -30,6 +30,7 @@
     <!--changelog: Edit am 25.07.2008: aktualisierte "what's new" section (Tondraht-Diktiergeraet) -->
     <!--changelog: Edit am 17.02.2007: aktualisierte "what's new" section (UNIVAC prices) -->
     <!--changelog: Edit am 12.10.2008: aktualisierte "what's new" section (Als Gefuehl noch gefragt war...) -->
+    <!--changelog: Edit am 28.11.2008: aktualisierte "what's new" section (Die Revolution im Ingeneurbuero) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -61,18 +62,23 @@
     <p>Now some pictures that show the exhibits we got at least:</p>
 
     <div class="aktuell">
-       <!-- translated @ 12.10.2008 22:35 -->
+       <!-- translated @ 28.11.2008 23:58 -->
         <div class="left">
-            <img src="/shared/photos/rechnertechnik/burroughs,klein.jpg" width="134" height="181"
-                 class="nomargin-bottom"
-                 alt="Burroughs Mod. 2" />
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: October 2008)</p>
+            <p class="stand">(last update: November 2008)</p>
+            <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"
+                 class="nomargin-bottom"
+                 alt="Combitron" />
 
-            <p><b>At the time when computing was performed carefully</b>
-            <br/>Very old electro mechanical calculator: Burroughs Mod. 2 from
-               about 1905, see our page
+            <p><b>1966: The revolution of engineering</b>
+            <br/>This ist the first programmable desk calculator "Made in Germany".
+             At these times it was too expensive to be used by ordinary employees
+             &ndash; it was therefore secured in a display case.
+             <!--See our page 
                <a class="go" href="/en/computer/electro-mechanical.shtm">(Electro-) mechanical calculators</a>.
+	       Well, I could not find some explanation about the device on any
+	       content page! -->
+	     </p>
         </div>
         <div class="clear">&nbsp;</div>
     </div>

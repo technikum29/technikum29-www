@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Tabelliermaschine"
+<head><!--#set var="title"        value="Tabelliermaschine, GAMMA 3, GAMMA 10"
    --><!--#set var="location"     value="tabelliermaschine"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/tabulating-machine.shtm"
@@ -29,8 +29,9 @@
        Diese Maschinen wurden als wahre technische Wunderwerke bezeichnet. Spätestens ein Blick ins Innere einer solchen Maschine lässt erahnen, welche Ingenieurleistung hier vollbracht wurde. Eine Technik, die uns heute fremd ist und die wie aus einer anderen Welt erscheint.
     </p>
     <p>Die hier abgebildete Tabelliermaschine BULL BS-PR wurde im Oktober 1956 gebaut. Der Kaufpreis betrug damals ca. 260.000,- DM  (130.000. Euro), eine horrende Summe, wenn man bedenkt, dass 1956 ein durchschnittliches KFZ für ca. 3000,- DM zu haben war. Dennoch kamen große und mittlere Betriebe nicht umhin Lochkartenmaschinen anzuschaffen um rationell arbeiten zu können.</p>
-    <p>Hochwertige Tabelliermaschinen konnten durch das Auswechseln einer Schalttafel sehr unterschiedliche kombinierte Schreib- und Rechenarbeiten ausführen. Durch geschicktes Programmieren an der Schalttafel (Kabel stöpseln) waren in Grenzen auch wissenschaftliche Rechnungen ausführbar.
-      „Gefüttert“ wurde die Maschine immer mit Lochkarten. Daher waren zur Umstellung auf Lochkarten-EDV weitere Geräte notwendig, die unser Museum ebenfalls funktionsfähig aufweisen kann.<p>
+    <p>Tabelliermaschinen konnten durch das Auswechseln einer Schalttafel sehr unterschiedliche kombinierte Schreib- und Rechenarbeiten ausführen. Mit voll ausgerüsteten Maschinen konnten in Grenzen auch wissenschaftliche Berechnungen durchgeführt werden.<br>
+Die Programmierung der Tabelliermaschine wurde durch das Stöpseln von Kabeln auf der Schalttafel realisiert. Für jedes Programm wurde eine eigene Schalttafel benötigt. Das Eingebemedium für die Maschine sind nur Lochkarten. Daher waren bei der Lochkarten EDV zur Erstellung, Sortierung, Mischung etc. der Karten weitere Maschinen erforderlich, die in unserem Museum ebenfalls funktionsfähig vorhanden sind.</br>
+<p>
       An dieser Stelle möchten wir uns ganz herzlich beim F.E.B. (Federation des Equipes Bull) Deutschland e.V. (www.feb-d.de) für die Mithilfe bei der Reparatur der Tabelliermaschine bedanken.</p>
     </p>
 
@@ -39,10 +40,6 @@
         <p class="bildtext"><b>Tabelliermaschine Bull BS-PR</b>. Von außen ein unscheinbarer Blechkasten aber von innen ein Meisterwerk an elektromechanischer Technik. Ganz links befindet sich die auswechselbare Schalttafel, welche zur Demonstration offen und damit zugänglich ist. Hier ist nur ein sehr einfaches Rechenprogramm gesteckt.</br> Multiplikationen und Divisionen benötigen ein Mehrfaches an Zeit als einfache Saldierungen. Um diese Zeit drastisch zu verkürzen, konnte man den "Elektronenrechner" BULL GAMMA 3 anschließen, der im Hintergrund zu sehen ist. </p>
     
 </div>
-    
-     
-        
-      
 
     <div class="box left">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg" alt="Teilansicht der Relais der geöffneten Bull-Tabelliermaschine" width="312" height="416" />
@@ -98,7 +95,7 @@
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" width="367" height="360" />
 		<p class="bildtext">
 Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in obenstehender Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
-Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche") </br>
+Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche"). Mittlerweile funktioniert bereits die gesamte Mechanik (ein wesentlicher Teil dieses Rechners). Jetzt verfolgen wir die Fehler in der Elektronik. </br>
 </div>
 <div class="box right">
 		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" width="183" height="247" />

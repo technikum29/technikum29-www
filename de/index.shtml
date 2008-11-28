@@ -15,10 +15,10 @@
     <meta name="keywords" lang="de" content="technikum29, Technikmuseum, Computermuseum, Museum, Main-Taunus" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Technikum29 Startseite Deutsch" />
-    <meta name="t29.this.version" content="v5.8.x" />
-    <meta name="t29.this.date" content="10.08" />
-    <meta name="t29.this.comment" content="Heriberts Version" />
-    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.this.version" content="v5.7.14" />
+    <meta name="t29.this.date" content="07.01.08" />
+    <meta name="t29.this.comment" content="Was gibt es neues" />
+    <!--t29.changelog: 16.08.07/v5.7.1: Was gibt es neues: Telegrafenstation hinzugefügt -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -85,21 +85,27 @@
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>
     
+    
     <div class="aktuell">
-
+	
+	
 	<div class="box left">
-            <img src="/shared/photos/rechnertechnik/burroughs,klein.jpg" width="134" height="181"/>
-
+	<div class="left">
+        <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"/></div>
+        
             <h2 class="center">Was gibt es neues</h2>
-            <p class="stand">(Stand: Oktober 2008)</p>
-
-            <p>
-                <b>Als Gefühl noch gefragt war</b><br/>
-                Sehr frühe elektromechanische Rechenmaschine: Burroughs Mod. 2 um 1905, siehe Rubrik "Elektromechanische Rechenmaschinen"
-            </p>
+            <p class="stand">(Stand: November 2008)</p>
+            
+            
+                <p><b>1966: Die Revolution im Ingenieurbüro</b>
+				<br><br>
+				Der erste programmierbare Tischrechner "Made in Germany". Damals so wertvoll, dass er in einer Glasvitrine Platz fand. Siehe Rubrik "Programmierbare Tischrechner...".</br>
+          </p>
         </div>
         <div class="clear">&nbsp;</div>
     </div>
+
+
 
 </div><!-- id=content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

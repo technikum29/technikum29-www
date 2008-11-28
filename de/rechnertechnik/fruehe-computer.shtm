@@ -24,14 +24,14 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
     <p>Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Fr&uuml;he Computer sind wegen ihrer stattlichen Gr&ouml;&szlig;e und der sehr sch&ouml;nen transparenten Zusatzger&auml;ten vor allem in ihrer Funktion sehenswert.
-    <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma Digital Equipment Corporation (kurz DEC) der Serie PDP 8. Das Museum verfügt über die komplette Serie dieser Geräte: Von der PDP 8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP 8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
+    <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma Digital Equipment Corporation (kurz DEC) der Serie PDP 8. Wir verfügen über die komplette Serie dieser Geräte: Von der PDP 8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP 8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
     <br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.
 </p>
 
     <div class="box center">
        <img src="/shared/photos/rechnertechnik/dec/pdp_8.jpg" width="504" height="521" alt="PDP 8 Classic" />
        <p class="bildtext">
-          Eines der musealen Highlights ist eine PDP 8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP 5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt. Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration.
+          Eines der musealen Highlights ist eine PDP 8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP 5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt. Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration. <br />Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a>
        </p>
        <!--<div class="clear">&nbsp;</div>-->
     </div>
@@ -72,7 +72,7 @@
     </div>
 
      <p>Auch der erste Personalcomputer wurde von WANG gebaut: PCS II (1975). Der erste f&uuml;r den Durchschnittsb&uuml;rger bezahlbare PC kam 1977 auf den Markt: PET 2001 von Commodore. Er war so billig wie ein heutiger PC, speicherte aber ganze 8 KB und hatte bescheidene Anwendungsvarianten. Weitere Homecomputer folgten, der Markt uferte aus, und damit endet die Sammlung der Computer.
-     <br/><a class="go" href="/de/details2.shtm" name="backlink-details2" title="Details 2">Siehe tabellarische Darstellung mittlerer Datentechnik und professioneller Früh-Computer aus dem Museumsbestand</a></p>
+     <br/><a class="go" href="/de/details2.shtm" name="backlink-details2" title="Details 2">Siehe tabellarische Darstellung wissenschaftliche- und Mini- Computer aus dem Museumsbestand</a></p>
 
 </div> <!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

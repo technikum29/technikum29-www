@@ -16,9 +16,11 @@
     <meta name="DC.subject" content="technikum29 homepage (english)" />
     <meta name="keywords" lang="en" content="technikum29, science museum, computer museum, Main-Taunus" />
 
-    <meta name="t29.germanoriginal" content="15.04.2006/exklusivanfertigung; 28.08.2007/Aktuelles(v5.7.5)" />
-    <meta name="t29.thistranslation" content="14.08.2008/v5.8BETA" />
+    <meta name="t29.germanoriginal" content="06.12.2008/v5.8..." />
+    <meta name="t29.thistranslation" content="08.12.2008/v5.8.6" />
+    <meta name="t29.comment" content="New directive: 1-to-1 english translation of index-homepage" />
     <meta name="t29.SVN" content="$Id$" />
+    <!--changelog: 15.04.2006/exklusivanfertigung; 28.08.2007/Aktuelles(v5.7.5) -->
     <!--changelog: Edit am 09.08.2006: kleinere Umformulierungen -->
     <!--changelog: Edit am 30.12.2006: aktualisierte new devices section (NCR/Messgeraet) -->
     <!--changelog: Edit am 17.02.2007: aktualisierte new devices section (BULL) -->
@@ -37,12 +39,82 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
+    <div class="cols">
+       <div class="leftcol startseiten-design">
+         <div class="besonderes">
+           <h2>What makes us special?</h2>
+           <ul>
+               <li>Our museum shows the interesting development of technology
+                   that strongly influences our life</li>
+               <li>In contrast to similar museums that normally only exhibit
+                   the history of technology without showing their functionality,
+                   almost all devices in the technikum29 are operative and are
+                   demonstrated during the guided tours. So you get a totally
+                   different picture of that time. This is quite absolutely
+                   unique </li>
+           </ul>
+          </div>
+
+        <div class="wen">
+            <h2>Target group</h2>
+            <ul>
+                <li>"Old veterans" who might become enthusiastic while
+                    actually using devices from their former days</li>
+                <li>Interested people who want to trace the process of
+                    origin of today's technolgy. You don't have to be
+                    an expert: Almost everybody can find an interesting
+                    part in our broad spectrum of possibilities.</li>
+                <li>Student groups (at least 15 years old), firms outgoing, etc.</li>
+            </ul>
+        </div>
+      </div><!--leftcol-->
+
+      <div class="rightcol startseiten-design">
+        <div class="wo">
+            <h2>Location</h2>
+            <ul>
+                <li>The museum is located in Germany, close to Frankfurt am Main
+                    (more precisely: 65779 Kelkheim). It is privately owned
+                    and run and has currently about 250 square meters of
+                    exhibition floor space.</li>
+                <li>See <a class="go" href="contact.shtm">contact data</a></li>
+            </ul>
+        </div>
+
+        <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />
+                <p>The Museum</p>
+        </div>
+
+        <div class="wann">
+            <h2>Opening hours</h2>
+            <ul>
+                <li>We currently accept only group registrations (at least 5
+                    persons). Dating requests are accepted until five days
+                    before the favored date.</li>
+                </li>
+            </ul>
+        </div>
+
+        <div class="erwartung">
+            <h2>Provided services</h2>
+            <ul>
+                <li>Visits are always connected to a guided tour and at least one
+                   presentation on a particular topic. Student groups get an
+                   educational tour, divided in three modules.
+                </li>
+            </ul>
+        </div>
+
+      </div><!--rightcol-->
+    </div><!-- cols -->
+    <div class="clear">&nbsp;</div>
+
+<!--
     <div id="startseitenfoto-en">
         <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" />
         <p>The Museum</p>
     </div>
-
-    <!--<p>technikum29 is a german museum of technology. We -->
 
     <p>The museum was officially opened in september 2005.</p>
     <p>It shows the interesting development of technology that strongly
@@ -60,6 +132,7 @@
        <a class="arrow" href="mailto:post@technikum29.de">post@technikum29.de</a>.</p>
 
     <p>Now some pictures that show the exhibits we got at least:</p>
+-->
 
     <div class="aktuell">
        <!-- translated @ 28.11.2008 23:58 -->
@@ -74,18 +147,17 @@
             <br/>This ist the first programmable desk calculator "Made in Germany".
              At these times it was too expensive to be used by ordinary employees
              &ndash; it was therefore secured in a display case.
-             <!--See our page 
-               <a class="go" href="/en/computer/electro-mechanical.shtm">(Electro-) mechanical calculators</a>.
-	       Well, I could not find some explanation about the device on any
-	       content page! -->
+             See our page 
+               <a class="go" href="/en/computer/programmable.shtm">Programmable second-generation calculators</a>.
 	     </p>
         </div>
         <div class="clear">&nbsp;</div>
     </div>
-
+<!--
     <p>The virtual tour only shows some of the exhibits. Let's start a trip to the
      technical past &ndash; note there is no future without the past,
      therefore museums are an important part of the human cultural history.
+-->
 </div>
 
 <!-- end of content -->

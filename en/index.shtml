@@ -42,7 +42,7 @@
     <div class="cols">
        <div class="leftcol startseiten-design">
          <div class="besonderes">
-           <h2>What makes us special?</h2>
+           <h2>What's special about it?</h2>
            <ul>
                <li>Our museum shows the interesting development of technology
                    that strongly influences our life</li>
@@ -67,25 +67,7 @@
                 <li>Student groups (at least 15 years old), firms outgoing, etc.</li>
             </ul>
         </div>
-      </div><!--leftcol-->
-
-      <div class="rightcol startseiten-design">
-        <div class="wo">
-            <h2>Location</h2>
-            <ul>
-                <li>The museum is located in Germany, close to Frankfurt am Main
-                    (more precisely: 65779 Kelkheim). It is privately owned
-                    and run and has currently about 250 square meters of
-                    exhibition floor space.</li>
-                <li>See <a class="go" href="contact.shtm">contact data</a></li>
-            </ul>
-        </div>
-
-        <div class="foto">
-                <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />
-                <p>The Museum</p>
-        </div>
-
+        
         <div class="wann">
             <h2>Opening hours</h2>
             <ul>
@@ -103,45 +85,40 @@
                    presentation on a particular topic. Student groups get an
                    educational tour, divided in three modules.
                 </li>
+                <li>Guided tours are currently only kept in German.</li>
+            </ul>
+        </div>
+        
+      </div><!--leftcol-->
+
+      <div class="rightcol startseiten-design">
+        <div class="wo">
+            <h2>Location</h2>
+            <ul>
+                <li>The museum is located in Germany, close to Frankfurt am Main
+                    (more precisely: 65779 Kelkheim). It is privately owned
+                    and run.</li>
+                <li>See <a class="go" href="contact.shtm">contact data</a></li>
             </ul>
         </div>
 
-      </div><!--rightcol-->
-    </div><!-- cols -->
-    <div class="clear">&nbsp;</div>
+        <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />
+                <p>The Museum</p>
+        </div>
 
-<!--
-    <div id="startseitenfoto-en">
-        <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" />
-        <p>The Museum</p>
-    </div>
 
-    <p>The museum was officially opened in september 2005.</p>
-    <p>It shows the interesting development of technology that strongly
-       influences our life.</p>
-    <p>In contrast to similar museums that normally only exhibit the history
-       of technology without showing their functionality, almost all devices in
-       the technikum29 are operative and are demonstrated during the guided
-       tours. So you get a totally different picture of that time.</p>
-
-    <p>The museum is located in Germany, close to Frankfurt/Main
-       (more precisely: 65779 Kelkheim). It is privately owned and run and has
-       currently about 250 square meters of exhibition floor space. It is open
-       for interested visitors in a biweekly fashion on Sundays.
-       <br />You can approach us by
-       <a class="arrow" href="mailto:post@technikum29.de">post@technikum29.de</a>.</p>
-
-    <p>Now some pictures that show the exhibits we got at least:</p>
--->
 
     <div class="aktuell">
        <!-- translated @ 28.11.2008 23:58 -->
-        <div class="left">
             <h2 class="center">What's new</h2>
             <p class="stand">(last update: November 2008)</p>
+
+            <p class="center">
             <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"
                  class="nomargin-bottom"
                  alt="Combitron" />
+            </p>
 
             <p><b>1966: The revolution of engineering</b>
             <br/>This ist the first programmable desk calculator "Made in Germany".
@@ -150,17 +127,13 @@
              See our page 
                <a class="go" href="/en/computer/programmable.shtm">Programmable second-generation calculators</a>.
 	     </p>
-        </div>
-        <div class="clear">&nbsp;</div>
     </div>
-<!--
-    <p>The virtual tour only shows some of the exhibits. Let's start a trip to the
-     technical past &ndash; note there is no future without the past,
-     therefore museums are an important part of the human cultural history.
--->
-</div>
 
-<!-- end of content -->
+      </div><!--rightcol-->
+    </div><!-- cols -->
+    <div class="clear">&nbsp;</div>
+
+</div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

@@ -67,28 +67,6 @@
                 <li>Student groups (at least 15 years old), firms outgoing, etc.</li>
             </ul>
         </div>
-        
-        <div class="wann">
-            <h2>Opening hours</h2>
-            <ul>
-                <li>We currently accept only group registrations (at least 5
-                    persons). Dating requests are accepted until five days
-                    before the favored date.</li>
-                </li>
-            </ul>
-        </div>
-
-        <div class="erwartung">
-            <h2>Provided services</h2>
-            <ul>
-                <li>Visits are always connected to a guided tour and at least one
-                   presentation on a particular topic. Student groups get an
-                   educational tour, divided in three modules.
-                </li>
-                <li>Guided tours are currently only kept in German.</li>
-            </ul>
-        </div>
-        
       </div><!--leftcol-->
 
       <div class="rightcol startseiten-design">
@@ -107,18 +85,38 @@
                 <p>The Museum</p>
         </div>
 
+        <div class="wann">
+            <h2>Opening hours</h2>
+            <ul>
+                <li>We currently accept only group registrations (at least 5
+                    persons). Dating requests are accepted until five days
+                    before the favored date.</li>
+                </li>
+            </ul>
+        </div>
 
+        <div class="erwartung">
+            <h2>Provided services</h2>
+            <ul>
+                <li>Visits are always connected to a guided tour and at least one
+                   presentation on a particular topic. Student groups get an
+                   educational tour, divided in three modules.
+                </li>
+            </ul>
+        </div>
+
+      </div><!--rightcol-->
+    </div><!-- cols -->
+    <div class="clear">&nbsp;</div>
 
     <div class="aktuell">
        <!-- translated @ 28.11.2008 23:58 -->
+        <div class="left">
             <h2 class="center">What's new</h2>
             <p class="stand">(last update: November 2008)</p>
-
-            <p class="center">
             <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"
                  class="nomargin-bottom"
                  alt="Combitron" />
-            </p>
 
             <p><b>1966: The revolution of engineering</b>
             <br/>This ist the first programmable desk calculator "Made in Germany".
@@ -127,11 +125,9 @@
              See our page 
                <a class="go" href="/en/computer/programmable.shtm">Programmable second-generation calculators</a>.
 	     </p>
+        </div>
+        <div class="clear">&nbsp;</div>
     </div>
-
-      </div><!--rightcol-->
-    </div><!-- cols -->
-    <div class="clear">&nbsp;</div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

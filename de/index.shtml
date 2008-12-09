@@ -44,13 +44,6 @@
                 <li>Für Schülergruppen (ab ca. 15 Jahre) und Studentengruppen u.ä. (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>), Firmengruppen usw.</li>
             </ul>
         </div>
-
-        <div class="erwartung">
-            <h2>Was wird geboten ?</h2>
-            <ul>
-                <li>Ein Besuch ist immer mit einer Führung und mindestens einer Präsentation verbunden. Schülergruppen erhalten eine pädagogisch geleitete Führung in 3 Modulen (siehe "Didaktische Konzeption").  </li>
-            </ul>
-        </div>
       </div><!--leftcol-->
 
       <div class="rightcol startseiten-design">
@@ -60,36 +53,57 @@
                 <li>In der Nähe von Frankfurt/Main, <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
             </ul>
         </div>
-
+        
         <div class="foto">
-             <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
-             <p>Das Museumsgeb&auml;ude</p>
+                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
+                <p>Das Museumsgeb&auml;ude</p>
         </div>
-
+        
         <div class="wann">
             <h2>Wann&nbsp;?</h2>
             <ul>
                 <li>Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.
-                </li>
+					</li>
             </ul>
         </div>
-
-        <div class="aktuell">
-            <h2 class="center">Was gibt es neues</h2>
-            <p class="stand">(Stand: November 2008)</p>
-
-            <p class="center">
-               <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"/>
-            </p>
-
-                <p><b>1966: Die Revolution im Ingenieurbüro</b>
-				<br><br>
-				Der erste programmierbare Tischrechner "Made in Germany". Damals so wertvoll, dass er in einer Glasvitrine Platz fand. Siehe Rubrik <a class="go" href="rechnertechnik/programmierbare.shtm">Programmierbare Tischrechner...</a></br>
-              </p>
+        
+        <div class="erwartung">
+            <h2>Was wird geboten ?</h2>
+            <ul>
+                <li>Ein Besuch ist immer mit einer Führung und mindestens einer Präsentation verbunden. Schülergruppen erhalten eine pädagogisch geleitete Führung in 3 Modulen (siehe "Didaktische Konzeption").  </li>
+            </ul>
         </div>
+        
+        <!-- wird nicht mehr gewollt:
+          <div class="homepage">
+            <h2>Zur Homepage</h2>
+            <ul>
+                <li>Wir haben natürlich in der Homepage nicht alles aufgeführt, was vorhanden ist, sondern nur einen Ausschnitt. Die Homepage wird fortwährend verbessert und erweitert. Alles was neu ist, erscheint im Kasten: "Was gibt es neues?"</li>
+            </ul>
+        </div>-->
       </div><!--rightcol-->
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>
+    
+    
+    <div class="aktuell">
+	 <div class="box left">
+	  <div class="left">
+        <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"/>
+	   </div>
+        
+            <h2 class="center">Was gibt es neues</h2>
+            <p class="stand">(Stand: November 2008)</p>
+            
+            
+                <p><b>1966: Die Revolution im Ingenieurbüro</b>
+				<br><br>
+				Der erste programmierbare Tischrechner "Made in Germany". Damals so wertvoll, dass er in einer Glasvitrine Platz fand. Siehe Rubrik <a class="go" href="rechnertechnik/programmierbare.shtm">Programmierbare Tischrechner...</a></br>
+          </p>
+      </div>
+      <div class="clear">&nbsp;</div>
+    </div>
+
 
 
 </div><!-- id=content -->

@@ -29,8 +29,6 @@
 |              Zu jedem Spezialstyle gibt es jetzt einen Pflicht-      |
 |              kasten, der ausgefüllt werden soll, der Übersicht       |
 |              halber.                                                 |
-|   v5.8.6:    Extradesign fuer Aktuell-Bereich entfernt, Anpassung    |
-|              an normales Startseitendesign                           |
 |                                                                      |
 \**********************************************************************/
 
@@ -89,14 +87,28 @@
     font-weight: bold;
 }
 
-/*
+/* Spezialstyle auf der Startseite: */
+/* "Neuzugaenge" */
+div.aktuell {
+    /* "Aktuelle Bilder"-Bereich */
+    border: 1px solid #7090C0;
+    /*margin-top: 2em;*/
+    padding: 1.5em;
+    clear: both;
+    /**  fuer rechts floatende Aktuell-Box: */
+    /* float: right; width: 300px; margin: 10px 0 20px 20px;*/
+}
+
+/* gegen kaputte Rahmen bei IEs, danke an Jeena */
+* html div.aktuell { position: relative;  }
+/* geht doch nicht --> er sieht es ploetzlich relativ zu der "Ausgansbrowsergroesse"  */
+
 div.aktuell h2 {
     margin: 1px;
     padding: 0;
-    color: #224B88; * gleiche Farbe wie die ganzen anderen Boxen *
+    color: #224B88; /* gleiche Farbe wie die ganzen anderen Boxen */
     font-size: 126%;
 }
-*/
 
 div.aktuell .stand {
     font-size: 80%;

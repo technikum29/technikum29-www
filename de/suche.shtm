@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Was und wen das Museum noch sucht"
    --><!--#set var="location"     value="suche"
-   --><!--#set var="url_en"       value="no-translation.shtm?how=no,backurl=suche.shtm,backtitle=${title}"
+   --><!--#set var="url_en"       value="search.shtm"
    --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
    --><!--#set var="prev_title"   value="Speichermedien"
    --><!--#set var="next"         value="impressum.shtm"
@@ -15,12 +15,11 @@
     <meta name="keywords" lang="de" content="Technikum29, Suche, Geräte" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Das Technikum29 sucht..." />
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-   
-    <br/><!-- quick and dirty... -->
    
   
    <h2>Was das Museum noch sucht</h2>
@@ -70,9 +69,5 @@
 
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
- 
- 
-</body>
- 
- 
-</html>
+ </body>
+ </html>

@@ -15,6 +15,7 @@
     <meta name="keywords" lang="en" content="technikum, programmable calculators, Diehl Combitron, Programma 101, Olivetti, delay line memory, second-generation calculator" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="21.08.2007/v5.7.5, Teile von B.Ulmann" />
     <!--changelog: 24.03.2007/v5.6.8 auf Basis von 2005/v4.1.1 -->
@@ -32,10 +33,10 @@
     Such complete installations are very rare.</p>
 
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/diehl_combitron.jpg" alt="Diehl Combitron" width="616" height="195" />
+        <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="690" height="232" />
         <p class="bildtext"><b>DIEHL Combitron</b>. This is the first operative
-        programmable desk calculator that was built and selled in Germany. Right in the front you see the DIEHL
-        Dilector (paper tape reader) and right the DIEHL ELS 830 (paper tape puncher). The system is fully executable.
+        programmable desk calculator that was built and selled in Germany. On the right hand side you see the DIEHL
+        Dilector (paper tape reader) and on the left hand side the DIEHL ELS 830 (paper tape puncher). The system is fully executable.
         The <a href="storage-media.shtm#delay-line-memory" class="go">delay line memory</a> serves as storage media
         (capacity ca. 1000 Bit).</p>
     </div>

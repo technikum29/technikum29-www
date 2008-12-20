@@ -61,12 +61,19 @@
         <h3>Telefunken RAT 700</h3>
         <img src="/shared/photos/rechnertechnik/telefunken_rat700.jpg" width="291" height="917" title="Telefunken RAT 700" class="nomargin-bottom" />
         <div class="bildtext">
-            <p>Die Abbildung zeigt unten den <b>Telefunken RAT 700</b> (erstes Modell von 1961), dar&uuml;ber ein Nachfolgermodell. Bei dem neueren Rechner kann man das gesamte Steckboard austauschen und so Programme schnell wechseln. Über diesem befinden sich ein Speicheroszilloskop und darüber schließlich ein xy-Schreiber zum Aufzeichnen langsamer Vorgänge.
+            <p>Die Abbildung rechts zeigt unten den <b>Telefunken RAT 700</b> (erstes Modell von 1961), dar&uuml;ber ein Nachfolgermodell. Beide Rechner verfügen über 15 Rechenverstärker. Bei dem neueren Rechner kann man das gesamte Steckboard austauschen und so Programme schnell wechseln. Über diesem befinden sich ein Speicheroszilloskop und darüber schließlich ein xy-Schreiber zum Aufzeichnen langsamer Vorgänge.
             <br />Im eingeschalteten Zustand vernimmt man ein schwebendes Summen (400 Hz), bedingt durch die mechanischen Chopper, die Gleichspannungen in Wechselspannungen umwandeln. Nur so war der störende Temperaturdrift (Änderung der Germanium-Transistorparameter) unwirksam. Im Prinzip werden auch heute Gleichspannungen mit Hilfe von Choppern verstärkt. Nur sind diese elektronisch aufgebaut.</p>
         </div>
-        <div class="clear">&nbsp;</div>
-    </div>
+	</div>
+	
+	
+	<div class="box center" style="margin-right: 291px">
+        <h3>GTE Analogrechner EA22</h3>
+        <img src="/shared/photos/rechnertechnik/gte-analogrechner.jpg" width="310" height="336" title="GTE Analogrechner EA22" />
+		<p>Die Änhnlichkeit des EA22 von GTE mit den Telefunken Rechnern ist auffällig. Der GTE Rechner hat jedoch mehr Rechenverstärker ( 22 Stück), ist übersichtlicher und insbesondere servicefreundlicher aufgebaut. Dieser Analogrechner wurde Anfang der 60er Jahre hergestellt.</p>
+	</div>
 
+    <div class="clear">&nbsp;</div>
     <div class="box center">
         <h3>EAI 180 Hybridrechner</h3>
         <div class="bildtext" style="margin-bottom: 30px;">

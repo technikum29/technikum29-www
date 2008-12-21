@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Details der Combitronic"
+   --><!--#set var="location"     value="diehl"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/diehl-combitronic.shtm"
+   --><!--#set var="title_en"     value="Details of Diehl Combitronic"
+   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#backlink-diehl-combitronic"
+   --><!--#set var="prev_title"   value="Erste Rechner der 2. Generation mit einfacher IC-Technik"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="DC.Subject" content="Fotos der Combitron" />
+    <meta name="t29.this.version" content="v5.7" />
+	<meta name="t29.comment" content="Neu" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<div class="box center">
+	<div style="white-space:nowrap">
+        <img src="/shared/photos/rechnertechnik/combitronic-lochstreifen.jpg" width="330" height="247" alt="Bootlochstreifen" />
+        <img src="/shared/photos/rechnertechnik/combitronic-logik.jpg" width="330" height="247" alt="Combitronic Logikplatinen" style="margin-left:14px" />
+	</div>
+    <p>Hier ein paar Details der Combitronic. Rechts ist der Metall-Bootlochstreifen zu sehen. Er wird vom Motor des Druckers angetrieben. Links erkennt man in der oberen Platine die Germaniumtransistoren und auf der unteren Platine die keramischen ROM-ICs.</p>
+</div>
+
+</div><!--content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

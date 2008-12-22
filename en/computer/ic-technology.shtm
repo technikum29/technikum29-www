@@ -15,9 +15,11 @@
     <meta name="keywords" lang="en" content="technikum29, third-generation calculators, HP, HP 9100, HP 9830, Wang 700, BASIC" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5" />
+    <meta name="t29.germanoriginal" content="21.12.2008" />
+    <meta name="t29.thistranslation" content="22.12.2008" />
+    <meta name="t29.comment" content="Combitronic new, +p after combitronic, more text to HP rack" />
     <!--changelog: 18.04.2006/v5.5ALPHA auf Basis 13.04.2006/v5.1.1 -->
+    <!--changelog: 18.07.2007/v5.7FINAL auf Basis 21.08.2007/v5.7.5 -->
     <!--changelog: v5.7.5: WANG 700 von B.Ulmann -->
 </head>
 <body>
@@ -58,15 +60,44 @@
           </div>
       </div>
 
+    <div class="box center">
+          <a href="/en/devices/diehl-combitronic.shtm" name="backlink-diehl-combitronic" title="Diehl Combitronic details">
+              <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="The Diehl Combitronic computer" width="526" height="420"/></a>
+          <div class="bildtext">
+              In 1970-72, <b>DIEHL</b> selled the <b>Combitronic</b>, featured with germanium transistors from the early 1960s
+              (used for the printer interface), (still) a paper tape used for booting, a slow delay line memory and ceramic
+              ICs (modern LSI technology). This device is a prime example for the enormous speed of development of new
+              technology. The transistor logic was implemented by simply taking four LSI ICs together. Therefore the
+              computer is logically identical to the almost obsolte Combitron, but the case is much smaller and the whole
+              computer shrank up to two small boards (see <a href="/en/devices/diehl-combitronic.shtm">detailed pictures from the
+              Diehl Combitronic</a>). In the picture above you see the compatible paper tape puncher ELS 850 and the reader
+              "Dilector" on the left.
+         </div>
+    </div>
+
+    <p>While DIEHL still emphazised the mechanics, HP tried to hide it as much as possible. For scientifical calculations
+       the Diehl computers from the series shown above were too slowly, compared to HP or WANG, whereas the Diehl devices
+       were much cheaper than the others. On the other hand, for normal calculations in engineering offices the
+       perfomance of the Diehl devices was quite sufficient.
+    <br/>For large scientifical calculations you had to buy Wang or HP devices.</p>
+
       <div class="box left">
           <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="HP desk calculators (panorama)" width="335" height="1045" class="nomargin-bottom" />
           <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
             <p class="left">The history of development from the HP-desk calculators in one rack:</p>
             <ul>
-              <li>In the center there is the HP 9100 (first electronical desk calculator from HP)</li>
-              <li>Above the successor model HP 9810 (same logic but uses TTL-ICs)</li>
-              <li>At the bottom the next model, HP 9820 (year of manufacture 1971)</li>
-              <li>At the top the most known HP-computer: HP 9830, year of manufacture 1972 with paper tape reader, puncher and plotter</li>
+              <li>In the center there is the HP 9100 (see
+                  <a href="/en/computer/programmable.shtm">Programmable
+                  second-generation calculators</a> for description)</li>
+              <li>Above the successor model HP 9810 (same logic like the HP 9100
+                  but uses TTL-ICs), uses the very first LED displays that are
+                  still very small and have only three rows.</li>
+              <li>At the bottom the next model, HP 9820 (year of manufacture 1971)
+                  with alphanumerical 7x5 pixel LED display.
+              </li>
+              <li>At the top the best known computer from HP: HP 9830, year of manufacture 1972
+                  with paper tape reader, puncher and plotter. This is the world's first desk
+                  calculator that can be programmed with BASIC.</li>
             </ul>
           </div>
           <div class="clear">&nbsp;</div>

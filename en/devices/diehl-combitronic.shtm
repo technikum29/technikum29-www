@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Details of the Diehl Combitronic"
+   --><!--#set var="location"     value="diehl"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/diehl-combitronic.shtm"
+   --><!--#set var="title_de"     value="Details der Diehl Combitronic"
+   --><!--#set var="prev"         value="/en/computer/ic-technology.shtm#backlink-diehl-combitronic"
+   --><!--#set var="prev_title"   value="Programmable third-generation calculators with early IC-technology"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="DC.Subject" content="Fotos der Combitron" />
+    <meta name="t29.germanoriginal" content="21.12.2008" />
+    <meta name="t29.thistranslation" content="22.12.2008/03:42" />
+    <meta name="t29.comment" content="initial translation" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+<div class="box center">
+      <div style="white-space:nowrap">
+        <img src="/shared/photos/rechnertechnik/combitronic-lochstreifen.jpg" width="330" height="247" alt="Paper Tape used for booting" />
+        <img src="/shared/photos/rechnertechnik/combitronic-logik.jpg" width="330" height="247" alt="Combitronic logic boards" style="margin-left:14px" />
+      </div>
+      <p>These two pictures show some details from the Combitronic. In the picture on the left
+         hand you see the metallic paper tape that is used for booting the device. It is driven
+         by the engine from the printer. The picture on the right hand shows germanium transistors
+         on the upper board and ceramic ROM ICs on the lower board.</p>
+</div>
+
+</div><!--content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

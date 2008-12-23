@@ -37,8 +37,10 @@
     networks which are situated in the computer's inner life (negators,
     summing unit, integrator, multiplier, function generator, etc.). Unlike
     digital ones, analog computers don't count but measure (input) parameters.
-    Therewith even non-linear differential equations can be solved quickly
-    numerically. On the other hand, analog computers are not suitable for
+    Thus an anlog computer does not even recognize the complexity of a
+    differential equation &ndash; it solves even non-linear ones where
+    there does not exist any approach very quickly by simply drawing the
+    graph of the solution. On the other hand, analog computers are not suitable for
     solving literal equations and suitable for commercial calculations
     not at all.</p>
 

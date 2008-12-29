@@ -68,7 +68,7 @@
               (used for the printer interface), (still) a paper tape used for booting, a slow delay line memory and ceramic
               ICs (modern LSI technology). This device is a prime example for the enormous speed of development of new
               technology. The transistor logic was implemented by simply taking four LSI ICs together. Therefore the
-              computer is logically identical to the almost obsolte Combitron, but the case is much smaller and the whole
+              computer is logically (almost) identical to the almost obsolte Combitron, but the case is much smaller and the whole
               computer shrank up to two small boards (see <a href="/en/devices/diehl-combitronic.shtm">detailed pictures from the
               Diehl Combitronic</a>). In the picture above you see the compatible paper tape puncher ELS 850 and the reader
               "Dilector" on the left.
@@ -79,7 +79,8 @@
        the Diehl computers from the series shown above were too slowly, compared to HP or WANG, whereas the Diehl devices
        were much cheaper than the others. On the other hand, for normal calculations in engineering offices the
        perfomance of the Diehl devices was quite sufficient.
-    <br/>For large scientifical calculations you had to buy Wang or HP devices.</p>
+    <br/>For large scientifical calculations or even more complex jobs you
+       had to buy Wang or HP devices.</p>
 
       <div class="box left">
           <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="HP desk calculators (panorama)" width="335" height="1045" class="nomargin-bottom" />

@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Details der Combitronic"
+<head><!--#set var="title"        value="Details der Combitronic und Algotronic"
    --><!--#set var="location"     value="diehl"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/diehl-combitronic.shtm"
-   --><!--#set var="title_en"     value="Details of Diehl Combitronic"
+   --><!--#set var="title_en"     value="Details of Diehl Combitronic and Algotronic"
    --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#backlink-diehl-combitronic"
    --><!--#set var="prev_title"   value="Erste Rechner der 2. Generation mit einfacher IC-Technik"
    --><!--#set var="next"         value=""
@@ -30,6 +30,8 @@
         <img src="/shared/photos/rechnertechnik/combitronic-logik.jpg" width="330" height="247" alt="Combitronic Logikplatinen" style="margin-left:14px" />
 	</div>
     <p>Hier ein paar Details der Combitronic. Rechts ist der Bootlochstreifen (dünnes Stahlband) zu sehen. Er wird vom Motor des Druckers angetrieben. Links erkennt man in der oberen Platine die Germaniumtransistoren und auf der unteren Platine die keramischen LSI-ICs.</p>
+	
+	<p>Historisch interessant ist, wie DIEHL das Prinzip der kleinen Schritte weiter verfolgte: Im Nachfolgemodell z.B. <b>DIEHL-Algotronic</b> (ca. 1973/74) wurde der Drahtspeicher durch zwei mal 21 Stück Schieberegister mit je 512 Bit Kapazität ersetzt. Das ergab insgesamt ca. 20 KBit Speicherkapazität und erlaubte, den immer noch verwendeten Metall-Bootlochstreifen erheblich zu erweitern. Dieser Lochstreifen hatte nun 3 Spuren (davon eine Taktspur), wobei die eine Spur beim Abspulen und die andere beim sofort danach einsetzenden Rückspulen in die Schieberegister eingelesen wurde. Dieses "Boottape" enthielt auch Mikroprogramme für wissenschaftliche Funktionen (sin, cos, tan, ln, exp u.a.). Sollte der Rechner eher für statistische Funktionen ausgelegt werden, brauchte er nur einen anderen Bootlochstreifen. Diese Diehl-Rechner sehen wie die Combitronic aus, haben jedoch ein paar Tasten mehr. Insgesamt war die Architektur des Tischrechners selbst für die damalige Zeit lange überholt und teilweise sogar immer noch mit Germanium-Transistoren aufgebaut. Danach hat Diehl die Rechnerentwicklung nach Japan abgegeben. Die Rechner wurden vollkommen neu konzipiert, sind damit aber historisch weniger interessant.  </p>
 </div>
 
 </div><!--content -->

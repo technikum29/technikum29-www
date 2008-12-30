@@ -102,7 +102,7 @@
     <div class="box center">
       <img src="/shared/photos/rechnertechnik/bull-bs-pr/offen1.jpg"
            alt="Front view of the BULL BS PR Tabulating Machine" width="555" height="325"/>
-      <p class="bildtext-bildbreite" style="width: 555px;"">
+      <p class="bildtext-bildbreite" style="width: 555px;">
         This picture partly shows the complicated printing unit &ndash; in
         every step a complete line is printed (like later line printers did).
         <br/>In the foreground you can see the punchcard feeder. Every punchcard is
@@ -159,7 +159,7 @@
       <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"
            alt="BULL GAMMA 10" width="640" height="390" />
       <p class="bildtext">
-        In 1962 BULL General Electric presented the BULL GAMMA 10
+        In 1963 BULL General Electric presented the BULL GAMMA 10
         which was intended for commercial purpose and puchcard
         computing. The standard equipment contains a CPU with
         panel, a punchcard reader/puncher unit and a barrel printer.
@@ -178,19 +178,14 @@
       </p>
     </div>
 
-    <div class="box left">
-      <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg"
-           alt="BULL GAMMA 10 without panels" width="367" height="360"/>
-      <div class="right">
-        <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg"
-             alt="BULL GAMMA 10 without panels (from the back)"
-             width="183" height="242" />
-      </div>
-      <p class="bildtext">
-        The chassis is metallic bright and glossy. It is clearly arranged
-        and therefore the machine is quite easy to maintain.
-      </p>
-      <div class="clear"></div>
+    <div class="box center">
+        <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 without panels" style="float:left;" width="367" height="360" />
+	<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="272" height="360" />
+	<div class="clear"></div>
+	<p class="bildtext">
+	  The chassis is metallic bright and glossy. It is clearly arranged
+          and therefore the machine is quite easy to maintain.
+        </p>
     </div>
 
 </div><!-- end of content -->

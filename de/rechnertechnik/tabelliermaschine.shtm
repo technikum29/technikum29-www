@@ -88,18 +88,24 @@ Die Programmierung der Tabelliermaschine wurde durch das Stöpseln von Kabeln auf
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
 		<p class="bildtext">
 		
-		1962 brachte BULL (General Electric) den GAMMA 10 auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher war ein Kernspeicher mit wahlweise 1kB bis maximal 4 kB Kapazität. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.<br>
+		1963 brachte BULL (General Electric) den GAMMA 10 auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher war ein Kernspeicher mit wahlweise 1kB bis maximal 4 kB Kapazität. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.<br>
 		Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).<br>
 		</div>
-	<div class="box left">
-		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" width="367" height="360" />
+	
+		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" style="float:left;" width="367" height="360" />
+		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" style="float:right;" width="272" height="360" />
+		<div class="clear"></div>
 		<p class="bildtext">
+		
 Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in obenstehender Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
-Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche"). Mittlerweile funktioniert bereits die gesamte Mechanik (ein wesentlicher Teil dieses Rechners). Jetzt verfolgen wir die Fehler in der Elektronik. </br>
+Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche"). Mittlerweile funktioniert bereits die gesamte Mechanik (ein wesentlicher Teil dieses Rechners). Jetzt verfolgen wir die Fehler in der Elektronik. </p>
+
+<div class="box left">
+		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="311" height="345" />
+		<p class="bildtext">
+		Nebenstehend ein typisches Modul (eins von 476 Stück!) des Rechners. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
 </div>
-<div class="box right">
-		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" width="183" height="247" />
-		</div>
+
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

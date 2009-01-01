@@ -101,11 +101,10 @@ Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufba
 Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion zu bringen. (Siehe Rubrik "Suche"). Mittlerweile funktioniert bereits die gesamte Mechanik (ein wesentlicher Teil dieses Rechners). Jetzt verfolgen wir die Fehler in der Elektronik. </p>
 
 <div class="box left">
-		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="311" height="345" />
+		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="485" height="345" />
 		<p class="bildtext">
 		Nebenstehend ein typisches Modul (eins von 476 Stück!) des Rechners. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
 </div>
-
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

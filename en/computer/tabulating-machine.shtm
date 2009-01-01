@@ -17,8 +17,8 @@
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="08.04.2008/v5.7.21" />
-    <meta name="t29.thistranslation" content="28.07.2008/v5.8.0" />
-    <meta name="t29.comment" content="Minor typos" />
+    <meta name="t29.thistranslation" content="01.01.2009/03:08" />
+    <meta name="t29.comment" content="sync from the scratch" />
     <!-- v5.7.5: Bildübersetzungsteile von Ulmann -->
     <!--changelog: 18.06.2008/v5.7.22 based on 08.04.2008/v5.7.21: Komplettaenderungen an der Tabelliermaschine, GAMMA 3+10 neu -->
 </head>
@@ -36,16 +36,20 @@
     <p>The tabulating machine BULL BS-PR was constructed in October 1956, thus it
        is the oldest pice of EDP in the museum. At these days you could buy it
        for about 260.000 German marks (about 62.000 US$).
-       Nevertheless even medium-sized businesses had to buy these punch card machines to
-       work economically.</p>
+       Nevertheless even medium-sized businesses had to buy these punch card
+       machines to work economically.</p>
 
     <p>On high quality tabulating machines the patch panel could be replaced to
        perform very different tasks. By plugging the cables on the programming field 
-       cleverly, even some scientifical caluclations could be solved.</p>
+       cleverly, even some scientifical caluclations could be solved.
+    <br/>For every new program the software engineer had to plug a new
+       programming field. The only data input medium are punch cards. Therefore
+       we own other machines that are also operational to perform card driven EDP,
+       that is, devices for creation, sorting, mixing, etc. the cards.</p>
 
-    <p>Of course this device uses punch cards. Therefore we own other operational machines
-       to perform card driven EDP.</p>
-
+    <p><small>We would like to thank the <a href="www.feb-d.de">F.E.B.
+       (Federation des Equipes Bull) Deutschland e.V.</a> for their assistance
+       of the reperation of the tabulating machine</small></p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/bull-tabelliermaschine.jpg" width="620" height="492" alt="Bull PS BR Tabulating Machine" />
@@ -180,12 +184,28 @@
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 without panels" style="float:left;" width="367" height="360" />
-	<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="272" height="360" />
-	<div class="clear"></div>
-	<p class="bildtext">
-	  The chassis is metallic bright and glossy. It is clearly arranged
+        <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="272" height="360" />
+        <div class="clear"></div>
+        <p class="bildtext">
+          The chassis is metallic bright and glossy. It is clearly arranged
           and therefore the machine is quite easy to maintain.
+          <br/>We want to repair this computer, too (see our page
+          <a href="/en/search.shtm">We are looking for...</a>). By now the
+          complete mechanics is working again, this is a central component of
+          the reperation. We are currently debugging electronical errors.
         </p>
+    </div>
+
+    <div class="box left">
+         <img src="/shared/photos/rechnertechnik/modul-gamma10.jpg"
+            alt="Typical GAMMA 10 module" height="345" width="485">
+         <p class="bildtext">
+            This is one of 476 modules from the GAMMA 10 computer.
+            On the base plate the conductor tracks are aligned
+            horizontally while they are aligned vertically on the
+            small boards (flip flops, amplifier, etc.). Almost all
+            transistors are still Germanium transistors.
+         </p>
     </div>
 
 </div><!-- end of content -->

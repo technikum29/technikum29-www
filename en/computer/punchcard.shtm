@@ -15,41 +15,59 @@
     <meta name="keywords" content="" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="v5.8.x/10.2008" />
-    <meta name="t29.thistranslation" content="v5.8.x/13.10.2008" />
-    <meta name="t29.comment" content="New: BULL 56.00" />
-    <!-- 21.03.2008/v5.7.20 based on 18.07.2007/v5.7FINAL - Ergaenzung der Sortierer/Mischer-Links -->
-    <!-- 15.09.2007/v5.7.8: IBM 077 Sync mit deutsch -->
-    <!-- 18.07.2007/v5.7.5: Komplette Neuübersetzung, Sync und strukturelle v5.7-Umstellung -->
-    <!-- 29.01-03.02.07: initial translation to v5.6.5 based on v5.6 german orig-->
-    <!-- 16.02: first update to v5.6.6, various changings, based on v5.6.6 german orig-->
+    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.comment" content="de syncs" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <p>Punch cards are used since the beginnings of the 20th century as storage media. They are handy, can be labeled automatically or by hand, and sorted quickly. Therefore they were used until the late 1980s. Indeed they were mainly used in the 1960s, when EDP conquered the world. Today's folk is astonished at the size, the clearness and functionality of these machines. At technikum29 most of these archaic devices still work.</p>
+    <p>Punch cards are used since the beginnings of the 20th century
+       as storage media. They are handy, can be labeled automatically or by
+       hand, and can be sorted quickly. Therefore they were used until
+       the late 1980s. Indeed they were mainly used in the 1960s, when
+       EDP conquered the world. Today's folk is astonished at the size,
+       the clearness and functionality of these machines. At technikum29
+       most of these archaic devices still work.</p>
 
     <div class="box left">
-        <img src="/shared/photos/start/bull_kartenstanzer.jpg" alt="Bull card puncher" width="245" height="164" class="nomargin-bottom" />
+        <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg"
+	  alt="Various card punchers" width="330" height="368"
+	  class="nomargin-bottom" />
         <div class="bildtext">
-            <b>BULL card puncher</b>
-            <p>Bull's punch card code was not compatible to the IBM code, so we have to punch the cards for the tabulating machine manually with this handy electronical puncher.</p>
-        </div>
+            <b>Card puncher devices</b>
+            <p>For punching cards only occasionally, the small bottom device
+	       was quite sufficient, e.g. for small companies. The device in
+	       the middle of the picture is a puncher from BULL and the topmost
+	       device is a so-called "magnetic puncher" that is equipped with
+	       solenoids that punch the holes. For even higher amounts of
+	       punching requirements, there were quite more expensive
+	       "motor-driven punchers".
+	    </p>
+	</div>
         <p class="clear">&nbsp;</p>
     </div>
 
-    <p>A typical machinery consists of a card puncher which punches the information and data on the cards, a card collator which sorts cards from different stacks (for instance adresses and bills), a sorter which sorts with specified loads and possibly a punch card interpreter that writes the punched information on a prescribed position on the punch card.</p>
+    <p>A typical machinery consists of a card puncher which punches the
+       information and data on the cards, a card collator which sorts
+       the cards from different stacks (for instance <i>adresses</i>
+       and <i>bills</i>), a sorter which sorts with specified loads
+       and possibly a punch card interpreter that writes the punched
+       information on a prescribed position on the punch card.</p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="323" />
         <p class="bildtext-bildbreite" style="width: 580px;">
             <b>IBM 029 and JUKI card puncher.</b>
-            On the right is the legendary IBM 029 (build since 1964), on the left the JUKI puncher (made in Japan).
-            The JUKI puncher is not accidentally looking like the IBM: In 1971 IBM brought the puncher 129 on the market
-            which saves the content of the whole punchcard while reading. Therefore IBM selled the license to
-            reproduce the machine. In 1971, the IBM 029 costed about 15.500 DM</p>
+            On the right hand in the picture there is the legendary
+	    IBM 029 (build since 1964), on the left hand the JUKI puncher
+	    (made in Japan). The JUKI puncher is not accidentally looking
+	    like the IBM: In 1971 IBM brought the puncher 129 on the market
+            which buffers the content of the whole punchcard while reading.
+	    Therefore IBM selled the license to reproduce the machine. In
+	    1971, the IBM 029 costed about 15.500 DM.
+	</p>
         <div class="clear">&nbsp;</div>
     </div>
 

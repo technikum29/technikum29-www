@@ -103,7 +103,8 @@ Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur Funktion
 <div class="box left">
 		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="485" height="345" />
 		<p class="bildtext">
-		Nebenstehend ein typisches Modul (eins von 476 Stück!) des Rechners. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
+		Nebenstehend ein typisches Modul (eins von 570 Stück!) des Rechners. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.<br/>
+		Die langsame Logik (u.a. der Kartensteuerung) wird von 573 Relais übernommen. Es war mutig, in einen Computer eine so große Menge Verschleißteile einzubeziehen.
 </div>
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

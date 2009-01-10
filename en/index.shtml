@@ -33,6 +33,7 @@
     <!--changelog: Edit am 17.02.2007: aktualisierte "what's new" section (UNIVAC prices) -->
     <!--changelog: Edit am 12.10.2008: aktualisierte "what's new" section (Als Gefuehl noch gefragt war...) -->
     <!--changelog: Edit am 28.11.2008: aktualisierte "what's new" section (Die Revolution im Ingeneurbuero) -->
+    <!--changelog: Edit am 10.01.2009: aktualisierte "what's new" section (60er Jahre: Analogrechner) -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -113,17 +114,15 @@
        <!-- translated @ 28.11.2008 23:58 -->
         <div class="left">
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: November 2008)</p>
-            <img src="/shared/photos/rechnertechnik/combitron.jpg" width="170" height="122"
+            <p class="stand">(last update: January 2009)</p>
+            <img src="/shared/photos/rechnertechnik/gte.jpg" height="199" width="180"
                  class="nomargin-bottom"
-                 alt="Combitron" />
+                 alt="GTE Analog computer" />
 
-            <p><b>1966: The revolution of engineering</b>
-            <br/>This ist the first programmable desk calculator "Made in Germany".
-             At these times it was too expensive to be used by ordinary employees
-             &ndash; it was therefore secured in a display case.
-             See our page 
-               <a class="go" href="/en/computer/programmable.shtm">Programmable second-generation calculators</a>.
+            <p><b>1960s: Analog computers</b>
+            <br/>In those days, when digital computers were too slowly...
+            <br/>Analog computer from GTE. <a class="go" href="/en/computer/analog.shtm"
+              >Analog and digital-analog computers</a>.
 	     </p>
         </div>
         <div class="clear">&nbsp;</div>

@@ -122,13 +122,63 @@
 
       <div class="box center">
           <img src="/shared/photos/kommunikationstechnik/fultograph.jpg" width="487" height="338" alt="Fultograph" />
-              <p class="bildtext">The <b>Fultograph</b> is an <b>"image reciever"</b>, invented by the
-                 Englishman Otho Fulton in 1929.
-                 This devices made it possible to transmit weather chartes by funk for the first time.
-                 <br />The rotating roll, which had been coated with chemically preperated paper, was spirally
+          <div class="cols">
+            <div class="leftcol">
+              <p>The <b>Fultograph</b> is an <b>"image reciever"</b>, invented by the
+                 Englishman Otho Fulton in 1929. This devices made it possible to transmit weather
+                 chartes by funk for the first time in the world.
+                 <br />The following text is cited from an unknown source from about 1930. It shows up
+                 a strange world for today's people:
+              </p>
+              <!-- English translation by Ruediger Kraatz on 18.01.2009: -->
+              <blockquote>
+                Who hasn't felt, when listening to a thrilling wireless transmission
+                from the opera or when enjoying a radio play, the wish to experience
+                such a feat not only with one's ears, but also with one's eyes? How
+                often have you regretted to rely solely on your own imagination rather
+                than being able to actually see the presentations which sound so
+                natural in your ears?
+                The realisation of these aspirations, which would be possible by
+                distance cinema, has not only failed due to the technical complexities
+                of the problems, but especially because of the enormous costs caused
+                by such an equipment.
+                It is now a truly invaluable achievement that every owner of a good
+                wireless apparatus has been put into a position to call something his
+                own, which is at least a preliminary stage of a distance cinema, namely
+                a radiophoto receiver, providing beautiful and steady images out of the
+                ether.
+                In the future, broadcasting stations will be able to illustrate their
+                acoustic transmissions. Scenic images of public performances, portraits
+                of artists, comments on lectures, illustrations of daily reports,
+                sketches of sporting events, weather charts, public quizzes and many
+              </blockquote>
+            </div>
+            <div class="rightcol">
+              <blockquote>
+                other such events can be made an issue of broadcasting in a simple way.
+                All owners of a suitable apparatus can &ndash; without previous technical
+                knowledge and without a dark room &ndash; receive these images, which
+                will appear in front of your eyes in brilliant brown colour in a matter
+                of minutes and which will be ready in stable conditions immediately.
+                The simple appliance providing such miracles was quietly developed to
+                such a perfection by an English inventor, Captain Otho Fulton, and within
+                a short period of time regular image broadcasting will be carried out
+                in most European countries, so that the owner of a "Fultograph" &ndash;
+                this is how Fulton called his image receiver &ndash; will be able to
+                receive an international image broadcasting programme in his own home.
+                The images are true to the originals, distinct and pleasant to watch,
+                and apart from that of particular artistic efficacy because of their
+                special granularity.
+                It takes 3 to 5 minutes to transmit a picture in the format of 9 to
+                12 centimetres.
+               </blockquote>
+               <p>The rotating roll, which had been coated with chemically preperated paper, was spirally
                  scanned by an attached "pen" (tabluator). In this way an electric current could flow
                  from the pen over the paper to the roll in the rythm of the picture informations. That way, the
                  image developed by electrolysis.</p>
+            </div>
+          </div><!--cols-->
+          <div class="clear">&nbsp;</div>
       </div>
 
       <div class="box center">

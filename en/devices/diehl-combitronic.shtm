@@ -39,9 +39,9 @@
      <p>It is quite interesting to see DIEHL improving quite slowly but
         continuing their hardware: The successor model <b>DIEHL Algotronic</b>
 	(1973/74) featured 2x 21 shift registers with each 512 bits storage
-	capacity instead of the magnetic wire storage. Thus the device had
+	capacity instead of the delay line. Thus the device had
 	about 20 kbit storage capacity, so the metallic boot tape could be
-        extended: The new paper tape had 3 tracks (including one timing track).
+        extended: The new boot tape had 3 tracks (including one timing track).
         While the first track was read in while moving the tape forward, the
 	second one was read in while rewinding the tape. This "boot device"
 	contained micro programs for scientifical functions (sin, cos, tan,

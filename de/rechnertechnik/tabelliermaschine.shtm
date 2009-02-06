@@ -25,8 +25,8 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>
-       Als in den fünfziger Jahren in mittleren und großen Betrieben langsam die elektronische Datenverarbeitung (EDV) auf breiter Ebene einsetzte, stand die Tabelliermaschine im Mittelpunkt.
-       Diese Maschinen wurden als wahre technische Wunderwerke bezeichnet. Spätestens ein Blick ins Innere einer solchen Maschine lässt erahnen, welche Ingenieurleistung hier vollbracht wurde. Eine Technik, die uns heute fremd ist und die wie aus einer anderen Welt erscheint.
+       Als in den fünfziger Jahren in mittleren und großen Betrieben langsam die elektronische Datenverarbeitung (EDV) auf breiter Ebene einsetzte, stand die Tabelliermaschine im Mittelpunkt. Wie der Name schon andeutet, kann diese Maschine Ausdrucke auf Endlospapier in Tabellenform liefern. Und das in einer für die damalige Zeit atemberaubenden Geschwindigkeit.
+       Diese Maschinen wurden daher als wahre technische Wunderwerke bezeichnet und sie waren es auch. Spätestens ein Blick ins Innere einer solchen Maschine lässt erahnen, welche Ingenieurleistung hier vollbracht wurde. Eine Technik, die uns heute fremd ist und die offensichtlich aus einer anderen Welt entstammt.
     </p>
     <p>Die hier abgebildete Tabelliermaschine BULL BS-PR wurde im Oktober 1956 gebaut. Der Kaufpreis betrug damals ca. 260.000,- DM  (130.000. Euro), eine horrende Summe, wenn man bedenkt, dass 1956 ein durchschnittliches KFZ für deutlich unter 3000,- DM zu haben war. Dennoch kamen große und mittlere Betriebe nicht umhin Lochkartenmaschinen anzuschaffen um rationell arbeiten zu können.</p>
     <p>Tabelliermaschinen konnten durch das Auswechseln einer Schalttafel sehr unterschiedliche kombinierte Schreib- und Rechenarbeiten ausführen. Mit voll ausgerüsteten Maschinen konnten in Grenzen auch wissenschaftliche Berechnungen durchgeführt werden.<br>
@@ -93,7 +93,7 @@ Die Programmierung der Tabelliermaschine wurde durch das Stöpseln von Kabeln auf
 		</div>
 	
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" style="float:left;" width="367" height="360" />
-		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" style="float:right;" width="272" height="360" />
+		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" style="float:right;" width="268" height="360" />
 		<div class="clear"></div>
 		<p class="bildtext">
 		

@@ -184,7 +184,7 @@
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 without panels" style="float:left;" width="367" height="360" />
-        <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="272" height="360" />
+        <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="268" height="360" />
         <div class="clear"></div>
         <p class="bildtext">
           The chassis is metallic bright and glossy. It is clearly arranged
@@ -200,7 +200,7 @@
          <img src="/shared/photos/rechnertechnik/modul-gamma10.jpg"
             alt="Typical GAMMA 10 module" height="345" width="485">
          <p class="bildtext">
-            This is one of 476 modules from the GAMMA 10 computer.
+            This is one of 570 modules from the GAMMA 10 computer.
             On the base plate the conductor tracks are aligned
             horizontally while they are aligned vertically on the
             small boards (flip flops, amplifier, etc.). Almost all

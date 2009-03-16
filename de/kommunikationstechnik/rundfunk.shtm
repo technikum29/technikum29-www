@@ -15,9 +15,8 @@
     <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7.17" />
-    <meta name="t29.this.date" content="03.02.2008" />
-    <meta name="t29.this.comments" content="Neuer Auschnitt Rundfunkecke" />
+    <meta name="t29.this.date" content="16.03.2009" />
+    <meta name="t29.this.comments" content="Telefunken t40w neu" />
     <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
@@ -35,8 +34,8 @@
       <p>Es ist erstaunlich, welch geringe Zeitspanne zwischen der sehr bescheidenen Einf&uuml;hrung des Rundfunks Anfang der Zwanziger Jahre und dessen Perfektion liegt. 1923 begann in Deutschland die &Auml;ra des Rundfunks mit zun&auml;chst sehr begrenzter Emfangsqualit&auml;t. 15 Jahre sp&auml;ter war der Empfang prinzipiell perfekt m&ouml;glich. Am Anfang hatten die Ger&auml;te noch ein technisches Design, genau wie heute, doch ab den drei&szlig;iger Jahren wandelte sich das Radioger&auml;t zu teils attraktiven M&ouml;belst&uuml;cken. F&uuml;r beides sind Beispiele aus dem Museumsbestand (150 St&uuml;ck!) abgebildet.</p>
 
       <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/huth_e72.jpg" width="474" height="319" alt="Fotografie des HUTH-Empf&auml;ngers" />
-          <p class="bildtext">Empf&auml;nger von <b>SIGNALBAU-HUTH</b> (Modell E72): Dies ist ein preiswertes Ger&auml;t aus dem Jahre 1928 f&uuml;r die "kleinen Leute". Es konnte bereits an das "Lichtnetz" angeschlossen werden und ben&ouml;tigte keine Batterien mehr. Die Empfangsqualit&auml;t des kleinen R&uuml;ckkopplungsger&auml;tes ist sehr d&uuml;rftig. Der angeschlossene Trichterlautsprecher aus Metall rundete durch einen sprichw&ouml;rtlich blechernen Klang das Bild ab. Radioh&ouml;ren war durchaus eine Sensation; aber kein H&ouml;rgenuss.</p>
+         <img src="/shared/photos/kommunikationstechnik/huth_e72.jpg" width="474" height="319" alt="Fotografie des HUTH-Empf&auml;ngers" />
+         <p class="bildtext">Empf&auml;nger von <b>SIGNALBAU-HUTH</b> (Modell E72): Dies ist ein preiswertes Ger&auml;t aus dem Jahre 1928 f&uuml;r die "kleinen Leute". Es konnte bereits an das "Lichtnetz" angeschlossen werden und ben&ouml;tigte keine Batterien mehr. Die Empfangsqualit&auml;t des kleinen R&uuml;ckkopplungsger&auml;tes ist sehr d&uuml;rftig. Der angeschlossene Trichterlautsprecher aus Metall rundete durch einen sprichw&ouml;rtlich blechernen Klang das Bild ab. Radioh&ouml;ren war durchaus eine Sensation; aber kein H&ouml;rgenuss.</p>
       </div>
 
       <div class="box left">
@@ -44,6 +43,15 @@
          <p class="bildtext">Wer viel Geld hatte &ndash; das waren nur wenige &ndash; konnte sich zur selben Zeit z.B. einen <b>Telefunken W9</b> leisten. Mit dem passenden Arcophon Lautsprecher (mit Faltmembrane!) ausgestattet, war das H&ouml;rvergn&uuml;gen nur noch "d&uuml;nn" (keine B&auml;sse) aber nicht mehr "blechern". Zus&auml;tzlich empfing das Ger&auml;t viele fernab gelegene Sender.</p>
          <div class="clear">&nbsp;</div>
       </div>
+
+      <!--
+        Dieser Text steht noch nicht offiziell in der Homepage:
+      <div class="box right">
+         <a href="/de/geraete/telefunken_t40w.shtm"><img src="/shared/photos/kommunikationstechnik/telefunken_t40w-klein.jpg" alt="Fotografie des Telefunken T40W" class="nomargin-bottom" /></a>
+         <p class="bildtext">Dies ist ein netter Text zu dem Bild, bei dem sooo viel nette Spielerei passiert. Siehe dazu auch <a href="/de/geraete/telefunken_t40w.shtm" class="go">die Extraseite "Telefunken t40w"</a></p>
+         <div class="clear">&nbsp;</div>
+      </div>
+      -->
 
       <p>Die n&auml;chsten Bilder zeigen beispielhaft Ger&auml;te, die sich optisch und auch von der Technik her hervorheben. Jedoch lie&szlig;e sich diese Bildergalerie beliebig weiterf&uuml;hren.
       <br/>Im Museum sind viele weitere Rarit&auml;ten zu bewundern, ein H&ouml;rerlebnis ist aus jeder Epoche  m&ouml;glich: Detektorger&auml;te, Batterieempf&auml;nger (20er J.), Luxus-Super (30er J.), fr&uuml;he Musikschr&auml;nke (1932) sowie quasi als Ende einer Etappe der erste Nachkriegsempf&auml;nger mit Motor-Sendersuchlauf und Kabelfernbedienung: SABA Freiburg 3D (Bj. 1954), ein Meilenstein mit 5 eingebauten Lautsprechern, der so beeindruckend im Klang ist, dass selbst CD-verw&ouml;hnte Kids staunend vor dem &uuml;ber 50 Jahre altem Ger&auml;t stehen. Insgesamt wird einsichtig, wie Rundfunk vor zwei bis drei Generationen erlebt wurde und wie schnell sich die Entwicklung vollzogen hat.</p>
@@ -68,6 +76,7 @@
       <div class="box left">
           <img src="/shared/photos/kommunikationstechnik/metz.jpg" width="351" height="319" alt="Fotografie des Kofferradios von Metz" />
           <p class="bildtext">Schnell noch ein riesiger Zeitsprung zum j&uuml;ngsten Modell des Museumsbestandes: Der Kofferempf&auml;nger von Metz mit eingebautem Plattenspieler. Das 1956 gebaute Ger&auml;t ist nat&uuml;rlich noch mit R&ouml;hren best&uuml;ckt. Damit konnte man seine "Elvis Presley"-Platten im Schwimmbad abspielen. Jedoch war das Vergn&uuml;gen f&uuml;r Jugendliche wegen der hohen Anschaffungs- und Batteriekosten kaum erschwinglich.</p>
+          <div class="clear">&nbsp;</div>
       </div>
 </div>
 

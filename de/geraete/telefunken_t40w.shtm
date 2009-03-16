@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Telefunken T40W"
+   --><!--#set var="location"     value="telefunkent40w"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/telefunken_t40w.shtm"
+   --><!--#set var="title_en"     value="Telefunken T40W"
+   --><!--#set var="prev"         value="/de/kommunikationstechnik/rundfunk.shtm"
+   --><!--#set var="prev_title"   value="Rundfunk"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="t29.this.SVN" content="$Id$" />
+
+    <!-- Kram fuer das Transparenz-Zeug -->
+    <script type="text/javascript" src="/shared/js/slider/slider.js"></script>
+    <link rel="stylesheet" type="text/css" href="/shared/js/slider/slider.css" />
+    <script type="text/javascript">
+     // setup
+     var slider = new Array();
+     slider[1] = new Object();
+     slider[1].min = 0;
+     slider[1].max = 100;
+     slider[1].val = 0;
+     slider[1].onchange = setTransparency;
+
+     function setTransparency(val, blubb) {
+         val = val / 100; // normierung auf [0,1]
+         document.getElementById("zu").style.opacity = 1-val;
+         //document.getElementById("offen").style.opacity = val;
+     }
+    </script>
+    <style type="text/css">
+      #rel, #zu, #offen {
+	  position: absolute;
+	  width: 930px;
+          height: 569px;
+          top: 0; left: 0;
+      }
+      #rel { position: relative; }
+    </style>
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+
+    <div class="box center">
+      <div id="rel">
+        <img id="offen" src="/shared/photos/kommunikationstechnik/telefunken_t40w-offen.jpg" />
+        <img id="zu" src="/shared/photos/kommunikationstechnik/telefunken_t40w-geschlossen.jpg" />
+      </div>
+        <div class="slider" id="slider01">
+           <div class="left"></div>
+           <div class="right"></div>
+           <img src="/shared/js/slider/img/knob.png" width="31" height="15" />
+        </div>
+    </div>
+
+    <p>Benutzen sie den Schieberegler, um einen Einblick in das
+       Gerät erhalten zu können.</p>
+
+</div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

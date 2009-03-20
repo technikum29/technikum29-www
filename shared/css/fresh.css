@@ -215,7 +215,7 @@ h1 a span, h1 .old, #h1-subtitle {
 ** http://technikum29.de/shared/img/fresh.design/menu-bg/
 **/
 .rundfunk #wrapper, .tontechnik #wrapper, .ultramar #wrapper, .telefunken650 #wrapper,
-.schaub-lorenz-supraphon #wrapper
+.schaub-lorenz-supraphon #wrapper, .telefunkent40w #wrapper
     { background-image: url(../img/fresh.design/menu-bg/rundfunk.jpg); }
 .fernsehen #wrapper, .saba-telerama #wrapper
     { background-image: url(../img/fresh.design/menu-bg/fernsehen.jpg); }

@@ -3,9 +3,28 @@
  * 
  * This is a lightweight slider implementation originally from
  * http://www.arantius.com/article/lightweight+javascript+slider+control
- * (2006 Anthony Lieuallen)
+ * (2006 Anthony Lieuallen).
+ * It has been improved a lot to fully implement the requirements of
+ * technikum29.
  * 
+ * FEATURES of the slider + player extension:
  *
+ * * basic features: Can be used as simple slider in a user defined
+ *   range and with an user defined call back function.
+ * * There can be as much sliders on your page as you want.
+ * * player features: The player imitates some kind of media player
+ *   where the slider is the actual position in the played file.
+ *   Principally, it's a highly configurable extension that simply
+ *   increases/decreases your slider value on a regular basis.
+ *
+ * This script uses advanced DOM technologies like they are typical
+ * for huge javascript libraries like prototype. Anyway, it's very
+ * small for it's features.
+ * 
+ * This script is used for the Telefunken T40W page.
+ *
+ * (c) 2009 Sven Koeppel
+ * Released under the public domain.
  */
 
 // add event function from http://www.dynarch.com/projects/calendar/
@@ -67,21 +86,43 @@ function sliderFromEvent(e) {
 	return el;
 }
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/**
+ * function attachSliderEvents: Called at window onload, parses
+ * DOM tree to get slider widgets and setup events for mouse
+ * capturing. This will also setup the player button/extension.
+ **/
 function attachSliderEvents() {
 	var divs=document.getElementsByTagName('div');
-	var divNum;
+	var divNum, playerButton;
 	for(var i=0; i<divs.length; i++) {
 		if (divNum=divs[i].id.match(/\bslider(\d+)\b/)) {
-			// set initial properties
 			divNum=parseInt(divNum[1]);
-			divs[i].min=slider[divNum].min;
-			divs[i].max=slider[divNum].max;
-			divs[i].val=slider[divNum].val;
-			divs[i].onchange=slider[divNum].onchange;
-			divs[i].num=divNum;
+			// copy initial properties
+			for(var key in slider[divNum]) {
+				divs[i][key] = slider[divNum][key];
+			}
+			divs[i].num = divNum;
+
 			// and make sure the display matches
 			drawSliderByVal(divs[i]);
 			divs[i].onchange(divs[i].val, divNum);
+
+			if(playerButton=document.getElementById('slider-button'+divNum)) {
+				divs[i].isPlayable = true;
+				// announce them to each other
+				divs[i].playerButton = playerButton;
+				playerButton.slider = divs[i];
+				// setup button
+				setPlayerLabel(divs[i]);
+				addAnEvent(playerButton, 'click', function(e){
+					togglePlayer(this.slider);
+				});
+				// auto start support
+				if(divs[i].playerAutoStart)
+					startPlayer(divs[i]);
+			} else {
+				divs[i].isPlayable = false;
+			}
 
 			addAnEvent(divs[i], 'mousedown', function(e){
 				sliderClick(e);
@@ -97,6 +138,88 @@ function attachSliderEvents() {
 		}
 	}
 }
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+/**
+ * startPlayer(slider): This will start the player extension (moving the
+ * slider automatically).
+ **/
+function startPlayer(slider) {
+	if(slider.isPlaying) stopPlayer(slider);
+	if(slider.isPlayerPreparingRepeatFromMin) {
+		// we are now starting from minimum.
+		slider.isPlayerPreparingRepeatFromMin = false;
+		// rewind rapidly back to minimum
+		/*while(slider.val > slider.min) {
+			slider.val -= slider.playerStepDistance * 100;
+			drawSliderByVal(slider);
+			slider.onchange(slider.val, slider.num);
+		}*/
+		slider.val = slider.min;
+	}
+	slider.isPlaying = true;
+	setPlayerLabel(slider);
+	slider.playerInterval = window.setInterval(function(slider){
+		slider.val += slider.playerStepDistance;
+		if(slider.val > slider.max) {
+			slider.val = slider.max;
+			if(slider.playerAutoReverse)
+				slider.playerStepDistance *= -1;
+			else
+				stopPlayer(slider);
+			if(slider.playerRepeatFromMin) {
+				slider.isPlayerPreparingRepeatFromMin = true
+				setPlayerLabel(slider);
+			}
+		} else if(slider.val < slider.min) {
+			slider.val = slider.min;
+			if(slider.playerAutoReverse)
+				slider.playerStepDistance *= -1;
+			else
+				stopPlayer(slider);
+		}
+		drawSliderByVal(slider);
+		slider.onchange(slider.val, slider.num);
+	}, slider.playerStepTimeout, slider);
+}
+
+/**
+ * stopPlayer(slider): This function does exactly what you think it
+ * will do (see startPlayer).
+ **/
+function stopPlayer(slider) {
+	slider.isPlaying = false;
+	setPlayerLabel(slider);
+	window.clearInterval(slider.playerInterval);
+}
+
+/**
+ * setPlayerLabel(slider): Set the player button label according to
+ * the current state (whether the slider is currently playing or not)
+ **/
+function setPlayerLabel(slider) {
+	if(!slider.isPlayable) return false;
+	if(slider.isPlaying) {
+		slider.playerButton.value = slider.playerStopLabel?slider.playerStopLabel:'|_| Stop';
+	} else if(slider.isPlayerPreparingRepeatFromMin) {
+		slider.playerButton.value = slider.playerRepeatLabel?slider.playerRepeatLabel:'|<< Repeat';
+	} else {
+		slider.playerButton.value = slider.playerStartLabel?slider.playerStartLabel:'> Start';
+	}
+}
+
+/**
+ * togglePlayer(slider): Start/Stop the slider player according to
+ * the current state (wheter the slider is currently playing or not)
+ **/
+function togglePlayer(slider) {
+	if(slider.isPlaying) {
+		stopPlayer(slider);
+	} else {
+		startPlayer(slider);
+	}
+}
+
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 //borrowed from prototype: http://prototype.conio.net/
 function stopEvent(event) {

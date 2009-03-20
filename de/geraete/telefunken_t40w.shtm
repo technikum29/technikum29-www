@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Telefunken T40W"
+<head><!--#set var="title"        value="Telefunken T 40W"
    --><!--#set var="location"     value="telefunkent40w"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/telefunken_t40w.shtm"
-   --><!--#set var="title_en"     value="Telefunken T40W"
+   --><!--#set var="title_en"     value="Telefunken T 40W"
    --><!--#set var="prev"         value="/de/kommunikationstechnik/rundfunk.shtm"
    --><!--#set var="prev_title"   value="Rundfunk"
    --><!--#set var="next"         value=""
@@ -25,12 +25,33 @@
      slider[1].min = 0;
      slider[1].max = 100;
      slider[1].val = 0;
+     slider[1].playerStepTimeout = 50; // ms
+     slider[1].playerStepDistance = 0.8; // in min/max/val-Einheiten!
+     slider[1].playerStopLabel = "Animation stoppen";
+     slider[1].playerStartLabel = "Animation starten";
+     slider[1].playerRepeatLabel = "Animation wiederholen"
+     slider[1].playerAutoReverse = false;
+     slider[1].playerAutoStart = true;
+     slider[1].playerRepeatFromMin = true;
      slider[1].onchange = setTransparency;
 
      function setTransparency(val, blubb) {
          val = val / 100; // normierung auf [0,1]
-         document.getElementById("zu").style.opacity = 1-val;
-         //document.getElementById("offen").style.opacity = val;
+         // bereits ab 0.75 ist der Kasten nicht mehr zu sehen
+         setOpacity("zu",            -val/0.75 + 1);
+         // ab 0.75 erscheint die Beschriftung, hoch 3 potenziert
+         setOpacity("beschriftung",  Math.pow(val - 0.75, 3)*64 );
+         // linearer Zuwachs, okay:
+         //setOpacity("beschriftung",  (val-0.75)*4  );
+         //document.getElementById("zu").style.opacity = 1-val;
+         //document.getElementById("beschriftung").style.opacity = val / 2;
+         ////document.getElementById("offen").style.opacity = val;
+     }
+
+     function setOpacity(id, value) {
+         if(value >= 1) value = 1.0;
+         if(value <= 0) value = 0;
+         document.getElementById(id).style.opacity = value;
      }
     </script>
     <style type="text/css">
@@ -40,7 +61,15 @@
           height: 569px;
           top: 0; left: 0;
       }
-      #rel { position: relative; }
+      #beschriftung {
+          position: absolute;
+          top: -53px;
+          left: -36px;
+      }
+      #zu           { z-index: 3 }
+      #beschriftung { z-index: 2; }
+      #offen        { z-index: 1; }
+      #rel          { position: relative; margin-bottom: 80px; margin-top: 60px; }
     </style>
 </head>
 <body>
@@ -50,18 +79,37 @@
 
     <div class="box center">
       <div id="rel">
-        <img id="offen" src="/shared/photos/kommunikationstechnik/telefunken_t40w-offen.jpg" />
-        <img id="zu" src="/shared/photos/kommunikationstechnik/telefunken_t40w-geschlossen.jpg" />
+        <img id="offen" src="/shared/photos/kommunikationstechnik/telefunken_t40w/offen.jpg"
+             alt="Telefunken T40W: Sicht auf die Elektronik/das Innenleben" />
+        <img id="zu" src="/shared/photos/kommunikationstechnik/telefunken_t40w/geschlossen.jpg"
+             alt="Telefunken T40W: Sicht auf das geschlossene Gehäuse" />
+        <img id="beschriftung" src="/shared/photos/kommunikationstechnik/telefunken_t40w/beschriftung.png"
+             alt="Telefunken T40W Legende: Beschriftung der Verstärkerstufen, Röhren, etc." />
       </div>
-        <div class="slider" id="slider01">
-           <div class="left"></div>
-           <div class="right"></div>
-           <img src="/shared/js/slider/img/knob.png" width="31" height="15" />
-        </div>
+      <div id="controls">
+         <noscript>Bitte aktivieren sie in ihrem Browser JavaScript, um
+           die Animation betrachten zu können.</noscript>
+         <div class="cols">
+           <div class="leftcol">
+             <input type="button" value="Abspielen" id="slider-button1" />
+             <div class="slider" id="slider01">
+                <div class="left"></div><div class="right"></div>
+                <img src="/shared/js/slider/img/knob.png" width="31" height="15" />
+             </div>
+           </div><!--left-->
+           <div class="rightcol">
+               Benutzen sie den Schieberegler, um einen Einblick in das
+               Gerät erhalten zu können, oder klicken sie auf "Animation
+               starten"
+           </div><!--right--> 
+           <div class="clear"></div>
+         </div><!--cols-->
+       </div><!--controls-->
     </div>
 
-    <p>Benutzen sie den Schieberegler, um einen Einblick in das
-       Gerät erhalten zu können.</p>
+    <p>Hier steht viel erläuternder Text, der sich möglicherweise noch einiger anderer
+       Bilder bedient, je nach Belieben.</p>
+
 
 </div><!-- content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

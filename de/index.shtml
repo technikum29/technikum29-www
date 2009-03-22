@@ -41,7 +41,7 @@
             <ul>
                 <li>Für "alte Technikhasen" (natürlich zweibeinige), die dort nostalgisch von der guten alten Zeit transparenter, großformatiger Technik schwärmen können.</li>
                 <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
-                <li>Für Schülergruppen (ab ca. 15 Jahre) und Studentengruppen u.ä. (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>), Firmengruppen usw.</li>
+                <li>Für Schülergruppen (ab ca. 16 Jahre) und Studentengruppen u.ä. (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>), Firmengruppen usw.</li>
             </ul>
         </div>
       </div><!--leftcol-->
@@ -62,7 +62,8 @@
         <div class="wann">
             <h2>Wann&nbsp;?</h2>
             <ul>
-                <li>Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.
+                <li>Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>
+				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.</br>
 					</li>
             </ul>
         </div>
@@ -89,16 +90,17 @@
     <div class="aktuell">
 	 <div class="box left">
 	  <div class="left">
-        <img src="/shared/photos/rechnertechnik/gte.jpg" width="180" height="199"/>
+        <img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" width="250" height="153" alt="Telefunken T 40W" />
 	   </div>
         
             <h2 class="center">Was gibt es neues</h2>
-            <p class="stand">(Stand: Januar 2009)</p>
+            <p class="stand">(Stand: März 2009)</p>
             
             
-                <p><b>60er Jahre: Analogrechner</b>
+                <p><b>Transparente Technik: Rundfunk-Animation</b>
 				<br><br>
-				Als die digitalen Rechner noch zu langsam waren... Analogrechner von GTE. <a class="go" href="rechnertechnik/analogrechner.shtm"> Siehe "Analog- und Hybridrechner"</a></br>
+				Wir zeigen in einer Animation das faszinierende Innenleben eines genau 80 Jahre alten Rundfunkempfängers.
+				 <a class="go" href="kommunikationstechnik/rundfunk.shtm"> Siehe "Rundfunk"</a></br>
           </p>
       </div>
       <div class="clear">&nbsp;</div>

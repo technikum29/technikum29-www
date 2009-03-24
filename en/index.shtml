@@ -111,22 +111,20 @@
     <div class="clear">&nbsp;</div>
 
     <div class="aktuell">
-       <!-- translated @ 28.11.2008 23:58 -->
         <div class="left">
             <h2 class="center">What's new</h2>
-            <p class="stand">(last update: January 2009)</p>
-            <img src="/shared/photos/rechnertechnik/gte.jpg" height="199" width="180"
-                 class="nomargin-bottom"
-                 alt="GTE Analog computer" />
+            <p class="stand">(last update: March 2009)</p>
+            <img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg"
+                 class="nomargin-bottom" alt="Telefunken T 40W" height="153" width="250">
 
-            <p><b>1960s: Analog computers</b>
-            <br/>In those days, when digital computers were too slowly...
-            <br/>Analog computer from GTE. <a class="go" href="/en/computer/analog.shtm"
-              >Analog and digital-analog computers</a>.
-	     </p>
+            <p><b>Transparent technology: A broadcasting animation</b></p>
+            <p>We show an animation of the fascinating inner life of an 80-years-old
+               broadcasting reciever.
+               <a class="go" href="/en/communication/broadcasting.shtm" class="go">Broadcasting</a>
+            </p>
         </div>
-        <div class="clear">&nbsp;</div>
-    </div>
+        <div class="clear"></div>
+   </div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

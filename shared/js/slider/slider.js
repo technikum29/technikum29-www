@@ -149,17 +149,11 @@ function startPlayer(slider) {
 	if(slider.isPlayerPreparingRepeatFromMin) {
 		// we are now starting from minimum.
 		slider.isPlayerPreparingRepeatFromMin = false;
-		// rewind rapidly back to minimum
-		/*while(slider.val > slider.min) {
-			slider.val -= slider.playerStepDistance * 100;
-			drawSliderByVal(slider);
-			slider.onchange(slider.val, slider.num);
-		}*/
 		slider.val = slider.min;
 	}
 	slider.isPlaying = true;
 	setPlayerLabel(slider);
-	slider.playerInterval = window.setInterval(function(slider){
+	slider.playerInterval = window.setInterval(function(){
 		slider.val += slider.playerStepDistance;
 		if(slider.val > slider.max) {
 			slider.val = slider.max;
@@ -180,7 +174,7 @@ function startPlayer(slider) {
 		}
 		drawSliderByVal(slider);
 		slider.onchange(slider.val, slider.num);
-	}, slider.playerStepTimeout, slider);
+	}, slider.playerStepTimeout);
 }
 
 /**

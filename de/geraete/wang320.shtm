@@ -23,9 +23,15 @@
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="center">
-   <img src="/shared/photos/rechnertechnik/wang_320se-keyboard.jpg" alt="Wang 320 SE" width="595" height="446" />
+   <img src="/shared/photos/rechnertechnik/wang_320se-keyboard.jpg" alt="Wang 320 SE" width="595" height="446"/>
 </div>
+<p>
+Zur Anzeige für 10x10 Ziffern, 9 Kommastellen und der Vorzeichenanzeige werden nur 14 Datenleitungen benötigt. Hier wurde also schon 1966 das Multiplex-Verfahren für die Datenübertragung angewendet. <br>
+Das untenstehende Bild zeigt einen Ausschnitt des Innenlebens vom Keyboard mit den Nixieröhren, Glimmlampen als Kommaanzeige und Transistoren als Verstärker. Im Hintergrund ist ein Teil der Tastatur zu sehen: Ordentliche Mikroschalter die bei Betätigung eindeutig "klicken".</p>
 
+<div class="center">
+   <img src="/shared/photos/rechnertechnik/wang-nixietube.jpg" alt="Wang Nixieröhren" width="595" height="446"/>
+</div>
 </div><!--content-->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

@@ -1,3 +1,16 @@
+<?php
+ /* technikum29 language negotation since v5.8.x
+  * automatical redirection based on user language
+  */
+ $de = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'de');
+ $en = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'en');
+
+ if( ($en !== false && $de !== false && $de < $en) ||
+     ($en === false && de !== false)              )
+        header("Location: /de/");
+ else
+        header("Location: /en/");
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
@@ -28,14 +41,16 @@
 
     <meta name="t29.thisversion" content="06.08.2006/v5.5.6" />
 </head>
+
 <body>
 <div id="container">
     <h1>technikum29</h1>
     <div id="languages">
         <div lang="de" xml:lang="de" id="de">
             <h2>technikum29 auf deutsch</h2>
-            <p class="text">Museum für Rechner-, Computer- und Kommunikationstechnik</p>
+            <p class="text">Museum fÃ¼r Rechner-, Computer- und Kommunikationstechnik</p>
             <p class="go" title="Weiter zur Homepage"><a href="/de/" title="Weiter">&raquo; <span>Deutsch</span></a></p>
+
             <p class="author">Autor: h.M&uuml;ller (dipl.-phys.)</p>
         </div>
 
@@ -43,9 +58,11 @@
             <h2>technikum29 in english</h2>
             <p class="text">Museum of calculator, computer and communication technology</p>
             <p class="go"><a href="/en/" title="Next page...">&raquo; <span>English</span></a></p>
+
             <p class="author">Author: h.M&uuml;ller (dipl.-phys.)</p>
         </div>
     </div>
 </div>
 </body>
 </html>
+

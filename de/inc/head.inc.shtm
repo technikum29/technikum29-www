@@ -14,6 +14,7 @@
     <link rel="alternate" href="/en/<!--#echo var="url_en" -->" hreflang="en" title="English Version of this page" />
 
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+    <meta name="ICBM" content="50.14, 8.456" /> <!-- Geolocation: somewhere in Kelkheim -->
     <meta name="author" content="h. m&uuml;ller" />
     <meta name="DC.Identifier" content="http://www.technikum29.de/" />
     <meta name="DC.Language" content="de" />

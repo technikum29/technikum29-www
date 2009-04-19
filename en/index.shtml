@@ -108,23 +108,6 @@
 
       </div><!--rightcol-->
     </div><!-- cols -->
-    <div class="clear">&nbsp;</div>
-
-    <div class="aktuell">
-        <div class="left">
-            <h2 class="center">What's new</h2>
-            <p class="stand">(last update: March 2009)</p>
-            <img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg"
-                 class="nomargin-bottom" alt="Telefunken T 40W" height="153" width="250">
-
-            <p><b>Transparent technology: A broadcasting animation</b></p>
-            <p>We show an animation of the fascinating inner life of an 80-years-old
-               broadcasting reciever.
-               <a class="go" href="/en/communication/broadcasting.shtm" class="go">Broadcasting</a>
-            </p>
-        </div>
-        <div class="clear"></div>
-   </div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

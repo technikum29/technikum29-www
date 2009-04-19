@@ -84,29 +84,6 @@
         </div>-->
       </div><!--rightcol-->
     </div><!-- cols -->
-    <div class="clear">&nbsp;</div>
-    
-    
-    <div class="aktuell">
-	 <div class="box left">
-	  <div class="left">
-        <img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" width="250" height="153" alt="Telefunken T 40W" />
-	   </div>
-        
-            <h2 class="center">Was gibt es neues</h2>
-            <p class="stand">(Stand: März 2009)</p>
-            
-            
-                <p><b>Transparente Technik: Rundfunk-Animation</b>
-				<br><br>
-				Wir zeigen in einer Animation das faszinierende Innenleben eines genau 80 Jahre alten Rundfunkempfängers.
-				 <a class="go" href="kommunikationstechnik/rundfunk.shtm"> Siehe "Rundfunk"</a></br>
-          </p>
-      </div>
-      <div class="clear">&nbsp;</div>
-    </div>
-
-
 
 </div><!-- id=content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

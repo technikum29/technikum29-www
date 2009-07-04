@@ -23,7 +23,7 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
     <p>Mindestens genau so aufregend wie die Entwicklung der Rundfunktechnik in den 20/30er Jahren ist die Entwicklung der elektronischen Rechner seit den 50er Jahren.
-    <br/>Ein wahrer Meilenstein ist der erste elektronische Tischrechner der Welt (1962). Das durchaus neuzeitlich aussehende Monstrum beinhaltet 190 Elektronenr&ouml;hren und geh&ouml;rt daher zur ersten Rechnergeneration. Er hat eine wundersch&ouml;n leuchtende Ziffernanzeige. Da wirft man jeden flau anzeigenden LCD-Solarrechner fort! Jedoch beherrschte der R&ouml;hrenrechner nur die 4 Grundrechenarten und war im Gegenwert von einem VW-K&auml;fer inklusive Urlaubsreise zu haben.</p>
+    <br/>Ein wahrer Meilenstein ist der erste elektronische Tischrechner der Welt (1962). Das durchaus neuzeitlich aussehende Monstrum beinhaltet 144 Elektronenr&ouml;hren und geh&ouml;rt daher zur ersten Rechnergeneration. Er hat eine wundersch&ouml;n leuchtende Ziffernanzeige. Da wirft man jeden flau anzeigenden LCD-Solarrechner fort! Jedoch beherrschte der R&ouml;hrenrechner nur die 4 Grundrechenarten und war im Gegenwert von einem VW-K&auml;fer inklusive Urlaubsreise zu haben.</p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/anita.jpg" width="408" height="302" alt="Antia C/VIII" />

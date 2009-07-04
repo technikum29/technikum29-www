@@ -29,13 +29,14 @@
 
     <p>Kernspeicher waren in der Herstellung relativ teuer. Die Tatsache, dass beim Auslesen der Information der gespeicherte Inhalt gelöscht wird und daher ein Neuschreiben notwendig ist, vergrößert die Zykluszeit (Auslesen und Neuschreiben). Halbleiterspeicher waren noch lange nicht serienreif und der Speicherinhalt verschwand mit dem Abschalten der Betriebsspannung.
     <p>Da die ersten Anlagen der 9000er Serie von UNIVAC (auch unsere 9300) mit Magnetdrahtspeichern aufgebaut wurden, beschreiben wir hier kurz ihre Funktion. 
-	Physikalisch gesehen ist ein Magnetdrahtspeicher ein Dünnfilmspeicher. Er benutzt als Informationsträger einen zusammenhängenden Permalloy-Magnetfilm von etwa 1 Mikrometer, der sich auf einem Beryllium-Kupferdraht von ca. 0,13mm Durchmesser befindet.</p>
+	Physikalisch gesehen ist ein Magnetdrahtspeicher ein Dünnfilmspeicher. Er benutzt als Informationsträger einen zusammenhängenden Permalloy-Magnetfilm (81% Nickel, 19% Eisen) von etwa 1 Mikrometer, der sich auf einem Beryllium-Kupferdraht von ca. 0,13mm Durchmesser befindet.<br>
+	Mit dem hier abgebildetem Ausschnitt könnte man also 4 Wörter mit je 3 Bit speichern.</p>
 
     <div class="box center" style="clear:right;">
         <img src="/shared/photos/rechnertechnik/grafiken/magnetdrahtspeicher-details.de.gif" alt="Detailgrafik Magnetdrahtspeicher, beschriftet" />
     </div>
 
-    <p> Diese "Plated Wires" (beschichtete Drähte) wurden in Bahnen von "Word Straps" (Wort- bzw. Leseleitungen) eingebettet. In Drahtrichtung sind die Magnetschichten nur schwer-, quer dazu jedoch leicht magnetisierbar. <br/>
+    <p> Diese "Plated Wires" (beschichtete Drähte) wurden in Bahnen von "Word Straps" (Wort- bzw. Leseleitungen aus Kupfer) eingebettet. Jeder Kreuzungspunkt von Kupferband und Magnetdraht ist fähig, eine binäre Information (Bit) zu speichern. Der Magnetdraht ist die Bitlinie und als solcher Schreib- und Leselinie zugleich. Die Wortlinien bestehen aus dünnen Kupferfolien und adressieren eine Mehrzahl von Bits. In Drahtrichtung sind die Magnetdrähte nur schwer-, quer dazu jedoch leicht magnetisierbar<br/>
     Zum Lesen der Information wird durch die Leseleitungen, die vertikal zum Magnetdraht liegen, ein Stromimpuls geschickt. Das durch ihn erzeugte Magnetfeld versucht den magnetischen Vektor an dieser Stelle des Drahtes in Drahtrichtung auszulenken. In Längsrichtung ist die Magnetschicht des Drahtes aber nur schwer zu magnetisieren. Der Magnetvektor wird etwas ausgelenkt und kippt sofort wieder in seine Ursprungslage zurück. Dieses "Wackeln" induziert im Draht eine sehr kleine Spannung. Hier wurde ein Bit ausgelesen ohne den Zustand zu zerstören. Die gespeicherte Information ist nach dem Lesevorgang noch vorhanden (im Gegensatz zum Kernspeicher). Das Vorzeichen der induzierten Spannung gibt Auskunft darüber, ob hier eine "1" oder eine "0" gespeichert ist.<br/>
 
     <div class="box left">

@@ -62,7 +62,8 @@
         <div class="wann">
             <h2>Wann&nbsp;?</h2>
             <ul>
-                <li>Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
+			
+                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 5 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.</br>
 					</li>
             </ul>
@@ -84,6 +85,12 @@
         </div>-->
       </div><!--rightcol-->
     </div><!-- cols -->
+    <div class="clear">&nbsp;</div>
+    
+    
+    
+
+
 
 </div><!-- id=content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

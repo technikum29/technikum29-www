@@ -246,6 +246,7 @@ ul.h-ul { margin: 0; margin-left: 380px; }
 ul.univac-thumbs, ul.univac-thumbs li {
    list-style: none;
    margin: 0; padding: 0;
+   float: left; /* beseitigt Bug mit class="box left/right" im Text. */
 }
 
 ul.univac-thumbs li {

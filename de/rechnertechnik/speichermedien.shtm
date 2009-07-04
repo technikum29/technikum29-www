@@ -28,8 +28,19 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>
-        Wir beschreiben hier ein paar Speichertypen, die in den Rechnern des technikum29 verwendet werden. Es handelt sich um Arbeits- bzw. Festwertspeicher, die aufgrund ihrer Größe sehr anschaulich sind. Allgemein ist zu bemerken, dass das Problem des Speicherns von Daten und Programmen in der Frühzeit der Computer sehr viel größer war als der Bau leistungsfähiger diskreter Prozessoren. Hier war viel Phantasie gefragt; so kam es zu sehr originellen Lösungen.
+        Wir beschreiben hier ein paar Speichertypen, die in den Rechnern des technikum29 verwendet werden. Es handelt sich um Arbeits- bzw. Festwertspeicher, die aufgrund ihrer Größe sehr anschaulich sind. Allgemein ist zu bemerken, dass das Problem des Speicherns von Daten und Programmen in der Frühzeit der Computer sehr viel größer war als der Bau leistungsfähiger diskreter Prozessoren. Hier war viel Phantasie gefragt; so kam es zu sehr originellen Lösungen.<br>
+		Heute wie vor 50 Jahren waren (sind) folgende charakteristische Größen wichtig:
+	<ul>
+		<li>Zykluszeit
+		<li>Packungsdichte
+		<li>Kosten/Bit (heute Kosten/MB)
+		<li>Verlustleistung</li></ul>
+Man unterscheidet geometrisch:  <ul>
+		<li>Eindimensionale Anordnung (z.B. Laufzeitleitung)
+		<li>Zweidimensionale Anordung (z.B. Trommel-/Plattenspeicher)
+		<li>Dreidimensionale Anordnung (z.B. Kernspeicher, Zahl der Ebenen entspricht der Wortlänge)</li></ul>
     </p>
+	<p>	Physikalisch hat man folgende Prinzipien verwendet: Elektrostatische Ladung (Speicherröhren), Ausbreitung von Schallwellen (Laufzeitleitungen), Ferromagnetismus (Kernspeicher, Magnetdrahtspeicher, Trommel-/Plattenspeicher), Holographie (optische Speicher). Die größte Bedeutung und die weiteste Verbreitung hatten die ferromagnetischen Speicher.</p>
 	
 	<div class="box center">
 		<h3>Laufzeitspeicher des BULL GAMMA 3 Röhrenrechners</h3>
@@ -55,7 +66,7 @@
                <br/>Durch Magnetostriktion (kurzes Zusammenziehen eines Drahtes, wenn ihn ein starkes Magnetfeld umgibt) werden quasi Schallimpulse auf einen (zusammengerollten) Draht gegeben. Diese Information l&auml;uft mit der Schallgeschwindigkeit (des Materials) bis zum Ende und wird dort wieder in Stromimpulse umgewandelt. Jetzt w&auml;re die Information verloren, wenn man sie nicht aufbereiten und wieder am Anfang des Drahtes eingeben w&uuml;rde.</p>
             <p>Die Daten laufen damit permanent "im Kreis" und k&ouml;nnen, wenn sie den Draht verlassen, gelesen und ver&auml;ndert werden. Je l&auml;nger der Draht ist, desto gr&ouml;&szlig;er ist die Speicherkapazit&auml;t.</p>
             <p>Es handelt sich um einen fl&uuml;chtigen Speicher mit relativ langer Zugriffszeit. Wird der Rechner abgeschaltet, sind alle Daten weg.</p>
-        </div>
+  Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de/geraete/diehl-combitronic.shtm">"Diehl-Combitronic"</a>    </div>
     </div>
 
     <div class="box center">
@@ -77,7 +88,7 @@
    <div class="box center">
        <img src="/shared/photos/rechnertechnik/kernspeicher.big.jpg" alt="Abbildung eines Kernspeichers im Vergleich zu einem Streichholz" width="629" height="443" />
        <div class="bildtext"><!--class="bildtext-bildbreite" style="width: 629px">-->
-          <p>Die Kapazit&auml;t der Kernspeicher wurde immer gr&ouml;&szlig;er bei drastisch abnehmenden Volumen. Das Bild zeigt eine Ebene eines Speichers (Bj. ca. 1975-1978). Die Fl&auml;che entspricht der des 144-Bit-Speichers. Die Kerne sind mit blo&szlig;em Auge nicht mehr zu erkennen. In dieser Ebene befinden sich &uuml;ber 16000 Kerne. Nur in einer Vergr&ouml;&szlig;erung sind sie sichtbar. Der Speicherblock beinhaltet 16 Ebenen mit insgesamt ca. 256000 Kernen, er kann also 32 kB (Wortl&auml;nge 8 Bit) speichern. Dazu wurde ein Volumen von ca. 2,5 dm&sup3; ben&ouml;tigt, das entspricht 2,5 Milcht&uuml;ten! Damit sind die Grenzen und auch das Ende dieser Speicher&auml;ra aufgezeigt.
+          <p>Die Kapazit&auml;t der Kernspeicher wurde immer gr&ouml;&szlig;er bei drastisch abnehmenden Volumen. Das Bild zeigt eine Ebene eines Speichers (Bj. ca. 1975-1978). Die Fl&auml;che entspricht der des 144-Bit-Speichers. Die Kerne sind mit blo&szlig;em Auge nicht mehr zu erkennen. In dieser Ebene befinden sich &uuml;ber 16000 Kerne. Nur in einer Vergr&ouml;&szlig;erung sind sie sichtbar. Der Speicherblock beinhaltet 16 Ebenen (= Wortlänge) mit insgesamt ca. 256000 Kernen, er kann also 32 kB speichern. Dazu wurde ein Volumen von ca. 2,5 dm&sup3; ben&ouml;tigt, das entspricht 2,5 Milcht&uuml;ten! Damit sind die Grenzen und auch das Ende dieser Speicher&auml;ra aufgezeigt.
           <br/>Die Zugriffszeit sinkt mit der Verkleinerung des Ringkernes. Hier betr&auml;gt sie ca. 0,2 &micro;s. Wird die Information eines Kerns (links- oder rechtsdrehender Magnetismus steht f&uuml;r "0" bzw. "1") ausgelesen, so wird er dadurch entmagnetisiert. Damit der Inhalt dieses Bits nicht verloren geht muss er sofort wieder magnetisiert werden. Diese gesamte Zykluszeit liegt bei ca. 0,5 &micro;s. (Zum Vergleich: Bei einem 2 kB Laufzeitspeicher betr&auml;gt sie ca. 1 ms, also 2000-mal mehr! Bei einem Halbleiterspeicher von 1975 lag sie jedoch bereits unter 100 ns, war also 5-mal kleiner).</p>
           <p>Kernspeicher haben einen entscheidenden Vorteil: Sie behalten ihr Ged&auml;chtnis. Man kann einen z.B. 1975 abgeschalteten Rechner heute wieder mit den Programmen starten, die zuletzt dort "abgelegt" wurden. Ein Booten ist nicht notwendig.
           <br/>Noch lange nach der Zeit des Kernspeichers bezeichnete man den Arbeitsspeicher eines Rechners mit "Core" (Kern), obwohl l&auml;ngst Halbleiterchips verwendet wurden.</p>
@@ -113,8 +124,8 @@
        <h3><a name="magnetdrahtspeicher">Magnetdrahtspeicher</a></h3>
        <a href="/de/geraete/magnetdrahtspeicher.shtm"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Beschriftetes Photo: Aufbau des Magnetdrahtspeichers" width="340" height="303" /></a>
        <p>Dieser Speicher sollte den Kernspeicher ablösen. Mit Ankündigung der UNIVAC Serie 9000 (ca. 1965/66) stellte UNIVAC "eine technische Neuerung ersten Ranges" vor: Den Magnetdrahtspeicher, so der Text in der UNIVAC-Zeitschrift "Die Lochkarte" von 1967.</p><p>
-	   Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA wurde mit UNIVAC ein Vertrag geschlossen über den Bau eines Speichers mit einem Leistungsbedarf von weniger als 1 Watt, nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie Funktionsfähigkeit bei Temperaturen von -20 bis +50 Grad Celsius.<br>
-	   Mit genialen Ideen wurde der Speicher entwickelt, doch schon nach kurzer Zeit kam die Ernüchterung: Der Speicher war sehr störanfällig.</br></p>
+	   Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA erhielt UNIVAC 1964 den Auftrag ein Speichersystem zu entwickeln, das weniger als 1 Watt Leistung benötigt (ein Kernspeicher benötigt dafür 10-15 Watt), nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br>
+	   Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und für Satelliten und Raumschiffe eingesetzt werden. Doch schon nach relativ kurzer Zeit kam die Ernüchterung: Der Speicher war sehr störanfällig.</br></p>
        <p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de/geraete/magnetdrahtspeicher.shtm">Aufbau und Funktion des Magnetdrahtspeichers</a></p>
        <div class="clear"></div>
    </div>

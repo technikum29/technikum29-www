@@ -32,6 +32,26 @@
       In the following some types of memory are described which are found in the computers on display at the technikum29. These devices may be classified as either RAM (random access memory) or ROM (read only memory). Due to their respective size these are very demonstrative examples.
       <br/>The problem of storing information is of central importance for digital computers and was a difficult area during the early days of computing. In these times building a fast processor was considerably more easy than building an equally fast and large memory system for this processor. This led to some rather arcane solutions which are completely extinct today.
     </p>
+    <p>
+      Nowadays as well as 50 years ago, these characteristical attributes are important:
+    </p>
+
+    <ul>
+           <li>cycle time</li>
+           <li>packing density</li>
+           <li>costs / bit</li>
+           <li>(thermal) power loss</li>
+    </ul>
+    <p>Storages are classified geometrically:</p>
+    <ul>
+           <li>one-dimensional alignment (e.g. the delay line memory)</li>
+           <li>two-dimensional alignment (e.g. drom storage, disk storage)</li>
+           <li>three-dimensional alignment (e.g. core memory, the number of layers is the word length)</li>
+    </ul>
+    <p>These physical principles has been used: electrostatic charge (storage tube),
+       propagation of acoustic waves (delay line memories), ferromagnetism (core memory,
+       plated wire memory, drum/disk memory), holography (optical memories). The most important
+       and most spread memories are the ferromagnetic memories.</p>
 
     <div class="box center">
         <h3>Delay line memory from the BULL GAMMA 3 tube calculator</h3>

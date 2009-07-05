@@ -197,11 +197,16 @@
          <a class="go" href="/en/devices/univac9400/costs.shtm">Incredible:
          UNIVAC 9400 = 470 cars (Volkswagen beatle)</a></p>
 
-      <!-- Absatz hinzugekommen zu v5.8... -->
-      <p><small>We would like to thank Dr. J&uuml;rgen Steen from the
-         <a href="http://www.historisches-museum.frankfurt.de/">Historical
-         Museum Frankfurt</a> for lending several UNIVAC boards. Reparations
-         are quite difficult without comparative boards.</small></p>
+      <!-- Absatz hinzugekommen/zuletzt geaendert 05.07.09 -->
+      <div class="box right">
+         <a href="http://www.unisys.com/"><img src="/shared/photos/rechnertechnik/unisys_tag.gif"  width="142" height="75" /></a>
+         <p class="bildtext"><small>We would like to thank to the UNISYS
+            Corporation for funding all trucking of the big machines.
+            We would also like to thank Dr. J&uuml;rgen Steen from the
+            <a href="http://www.historisches-museum.frankfurt.de/">Historical
+            Museum Frankfurt</a> for lending several UNIVAC boards. Reparations
+            are quite difficult without comparative boards.</small></p>
+      </div>
 
 
 </div><!-- end of content -->

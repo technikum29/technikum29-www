@@ -301,8 +301,8 @@ h1 a span, h1 .old, #h1-subtitle {
     padding-bottom: 0;  /* Kleines Workaround, um keine Riesenabstaende */
     margin-bottom: 5%;  /* unten zu kriegen, denn margins ueberlagern sich */
 
-    min-height: 1100px;
-    height: 1100px; /* IE workaround */
+    min-height: 1230px; /* fuer kurze Seiten */
+    height: 1230px; /* IE workaround */
     overflow: visible;
     position: relative; /* für #sidebar-footnote, absolut dazu positiniert */
 }

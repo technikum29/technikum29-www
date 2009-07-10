@@ -7,8 +7,8 @@
    --><!--#set var="url_en"       value="computer/storage-media.shtm"
    --><!--#set var="prev"         value="analogrechner.shtm"
    --><!--#set var="prev_title"   value="Analog- und Hybridrechner"
-   --><!--#set var="next"         value="/de/suche.shtm"
-   --><!--#set var="next_title"   value="Das Museum sucht..."
+   --><!--#set var="next"         value="/de/news.shtm"
+   --><!--#set var="next_title"   value="Was gibt es neues?"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->

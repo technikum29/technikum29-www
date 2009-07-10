@@ -31,7 +31,7 @@
                 <li class="long"><a <!--#if expr="$location = tontechnik" -->class="on"<!--#else -->href="/de/kommunikationstechnik/tontechnik.shtm"<!--#endif -->>Tonaufnahme- und Wiedergabetechnik<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = fernsehen" -->class="on"<!--#else -->href="/de/kommunikationstechnik/fernsehen.shtm"<!--#endif --> >Fernsehen<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = faxtechnik" -->class="on"<!--#else -->href="/de/kommunikationstechnik/faxtechnik.shtm"<!--#endif -->>Telegraphie-, Fax- und Schreibtechnik<span>&nbsp;</span></a></li>
-                <li><a <!--#if expr="$location = messtechnik" -->class="on"<!--#else -->href="/de/kommunikationstechnik/messtechnik.shtm"<!--#endif -->>Messtechnik<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = messtechnik" -->class="on"<!--#else -->href="/de/kommunikationstechnik/messtechnik.shtm"<!--#endif -->>Mess-und Experimentaltechnik<span>&nbsp;</span></a></li>
             </ul>
         </div></li>
         <li class="l2"><div<!--#if expr="($part) && ($part = rechnertechnik)" --> class="on"<!--#endif -->><em class="l2">Rechnertechnik und Computer</em>
@@ -61,6 +61,7 @@
             </ul>
         </div></li>
 
+	<li class="l1"><a <!--#if expr="$location = new" -->class="on"<!--#else --> href="/de/news.shtm" title="Was ist neu auf der Homepage des Museums"<!--#endif -->>Was gibt es neues&nbsp;? <!--sic!--></a></li>
         <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/de/suche.shtm" title="Was das Museum noch dringend sucht"<!--#endif -->>Wir suchen</a></li>
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/de/impressum.shtm" title="Impressum und Kontakt"<!--#endif -->>Kontakt/Impressum</a></li>
         <li class="l1"><a href="/projekte" title="Projektportal - zugriffsgeschützer Inhalt">Projekte</a></li>

@@ -301,8 +301,8 @@ h1 a span, h1 .old, #h1-subtitle {
     padding-bottom: 0;  /* Kleines Workaround, um keine Riesenabstaende */
     margin-bottom: 5%;  /* unten zu kriegen, denn margins ueberlagern sich */
 
-    min-height: 1230px; /* fuer kurze Seiten */
-    height: 1230px; /* IE workaround */
+    min-height: 1340px; /* fuer kurze Seiten */
+    height: 1340px; /* IE workaround */
     overflow: visible;
     position: relative; /* für #sidebar-footnote, absolut dazu positiniert */
 }
@@ -464,9 +464,11 @@ html>body #content, html>body .extra #wrapper #content {
     width: 230px;
 }
 
-#sidebar-footnote a {
+#sidebar-footnote a, #sidebar-footnote p {
+    /* #sidebar-footnote p: Anpassungen fuer counter (testweise ab 11.07.09) */
     display: block;
-    padding: 1em;
+    padding: 4px 1em;
+    margin: 0;
     text-align: center;
 }
 

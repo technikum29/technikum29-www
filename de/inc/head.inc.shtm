@@ -13,9 +13,6 @@
     <link rel="copyright" href="/de/impressum.shtm" title="Impressum" />
     <link rel="alternate" href="/en/<!--#echo var="url_en" -->" hreflang="en" title="English Version of this page" />
 
-    <!-- Seit 11.07.09: Counter auf jeder Seite... -->
-    <script type="text/javascript" src="/shared/js/counter.js"></script>
-
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
     <meta name="ICBM" content="50.14, 8.456" /> <!-- Geolocation: somewhere in Kelkheim -->
     <meta name="author" content="h. m&uuml;ller" />

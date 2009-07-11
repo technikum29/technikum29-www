@@ -12,19 +12,21 @@
 
 // bei stand wird die Bildkomposition eingesetzt
 var t29_counter_text = function(stand){
-	var s = "<p>Sie sind der</p>";
-	s += "<p class='center'>"+stand+"</p>";
-	s += "<p>Besucher dieser Homepage</p>";
+	var s = "<div style='color:grey'>";
+	s += "<p class='center'><span style='border: 1px solid grey; padding: 5px; font-family: monospace; letter-spacing: 3px; color: grey;'>"+stand+"</span></p>";
+	s += "<p>Besucher seit 2003</p>";
+	s += "</div>";
 	return s;
 }
 
 // Zeug zum zurueckgeben fuer eine Zahl
 var t29_counter_image = function(digit) {
 	// variante 1: Per CSS holen (elegant)
-	//counterBox += "<span class='digit"+s+"'>"+s+"</span>";
+	return "<span class='digit"+digit+"'>"+digit+"</span>";
 
 	// variante 2: selbst composen (schnell)
-	return "<img src='/shared/js/counter-digits/"+digit+"A.GIF' alt='"+digit+"' />";
+	//return "<img src='/shared/js/counter-digits/"+digit+"A.GIF' alt='"+digit+"' />";
+	//return "<img src='http://svenk.homeip.net/tmp/"+digit+"SBRS.GIF' />";
 }
 
 var t29_counter_get_value = function() {
@@ -59,8 +61,12 @@ window.onload = function(){
 	// print data
 	counter_text = "";
 	snumber = t29_counter_get_value().toString();
+	tausender_trennzeichen = '.';
 	for(x = 0; x < snumber.length; x++) {
 		s = snumber.charAt(x);
+		if(x != 0 && (x % 3 == 0) ) {
+			counter_text += t29_counter_image(tausender_trennzeichen);
+		}
 		counter_text += t29_counter_image(s);
 	}
 	

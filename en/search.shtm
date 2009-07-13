@@ -4,8 +4,8 @@
 <head><!--#set var="title"        value="We are looking for..."
    --><!--#set var="location"     value="suche"
    --><!--#set var="url_de"       value="suche.shtm"
-   --><!--#set var="prev"         value="computer/storage-media.shtm"
-   --><!--#set var="prev_title"   value="Storage media"
+   --><!--#set var="prev"         value="news.shtm"
+   --><!--#set var="prev_title"   value="What's new?"
    --><!--#set var="next"         value="contact.shtm"
    --><!--#set var="next_title"   value="contact/credits"
    -->

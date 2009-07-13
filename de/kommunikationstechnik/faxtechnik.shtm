@@ -8,7 +8,7 @@
    --><!--#set var="prev"         value="tontechnik.shtm"
    --><!--#set var="prev_title"   value="Tonaufnahme- und Wiedergabetechnik"
    --><!--#set var="next"         value="messtechnik.shtm"
-   --><!--#set var="next_title"   value="Messtechnik"
+   --><!--#set var="next_title"   value="Mess- und Experimentaltechnik"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->

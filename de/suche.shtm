@@ -5,7 +5,7 @@
    --><!--#set var="location"     value="suche"
    --><!--#set var="url_en"       value="search.shtm"
    --><!--#set var="prev"         value="news.shtm"
-   --><!--#set var="prev_title"   value="Was gibt es neues?"
+   --><!--#set var="prev_title"   value="Was gibt es Neues?"
    --><!--#set var="next"         value="impressum.shtm"
    --><!--#set var="next_title"   value="Kontakt/Impressum"
    -->

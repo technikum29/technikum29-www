@@ -35,9 +35,11 @@
                 <li class="long"><a <!--#if expr="$location = tontechnik" -->class="on"<!--#else -->href="/en/communication/sound_technology.shtm"<!--#endif -->>Sound recording and reproducing technology<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = fernsehen" -->class="on"<!--#else -->href="/en/communication/television.shtm"<!--#endif --> >Television<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = faxtechnik" -->class="on"<!--#else -->href="/en/communication/fax.shtm"<!--#endif -->>Fax engineering<span>&nbsp;</span></a></li>
-                <li><a <!--#if expr="$location = messtechnik" -->class="on"<!--#else -->href="/en/communication/measurement.shtm"<!--#endif -->>Measurement technology<span>&nbsp;</span></a></li>
             </ul>
         </div></li>
+
+        <li class="l1 long"><a <!--#if expr="$location = messtechnik" -->class="on"<!--#else -->href="/en/communication/measurement.shtm"<!--#endif -->>Measurement and Experimental technology<span>&nbsp;</span></a></li>
+
         <li class="l2"><div<!--#if expr="($part) && ($part = computer)" --> class="on"<!--#endif -->><em class="l2">Computer Technology</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/en/computer/electro-mechanical.shtm"<!--#endif -->>(Elektro-) mechanical calculators<span>&nbsp;</span></a></li>
@@ -62,6 +64,8 @@
                 <li><a <!--#if expr="$location = speichermedien" -->class="on"<!--#else -->href="/en/computer/storage-media.shtm"<!--#endif -->>Storage media<span>&nbsp;</span></a></li>
             </ul>
         </div></li>
+
+        <li class="l1"><a <!--#if expr="$location = news" -->class="on"<!--#else --> href="/en/news.shtm" title="Recent changes on the technikum29 homepage"<!--#endif -->>What's new?</a></li>
         <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/en/search.shtm"<!--#endif --> title="What we a looking for...">We search for...</a></li>
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/en/contact.shtm"<!--#endif --> title="Imprint, Legal notices">Contact/credits</a></li>
     </ul>

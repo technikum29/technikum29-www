@@ -8,7 +8,7 @@
    --><!--#set var="prev"         value="analogrechner.shtm"
    --><!--#set var="prev_title"   value="Analog- und Hybridrechner"
    --><!--#set var="next"         value="/de/news.shtm"
-   --><!--#set var="next_title"   value="Was gibt es neues?"
+   --><!--#set var="next_title"   value="Was gibt es Neues?"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->

@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/electro-mechanical.shtm"
    --><!--#set var="prev"         value="/de/kommunikationstechnik/messtechnik.shtm"
-   --><!--#set var="prev_title"   value="Messtechnik"
+   --><!--#set var="prev_title"   value="Mess- und Experimentaltechnik"
    --><!--#set var="next"         value="tabelliermaschine.shtm"
    --><!--#set var="next_title"   value="Tabelliermaschine"
  --><title>Technikum29 - <!--#echo var="title" --></title>

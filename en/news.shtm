@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="What's new?"
+   --><!--#set var="location"     value="news"
+   --><!--#set var="url_de"       value="news.shtm"
+   --><!--#set var="prev"         value="computer/storage-media.shtm"
+   --><!--#set var="prev_title"   value="Storage media"
+   --><!--#set var="next"         value="search.shtm"
+   --><!--#set var="next_title"   value="We search for..."
+   -->
+     <title>Technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="t29.SVN" content="$Id: search.shtm 64 2008-12-15 22:55:17Z sven $" />
+    <meta name="t29.comment" content="13.07.09: Neu" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+    <p><i>This page is currently (13.07.2009) under construction. Please come back
+       again later.</i></p>
+
+
+</div><!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

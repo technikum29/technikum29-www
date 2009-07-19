@@ -28,12 +28,28 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
+    <p>Measurement- and Experimental technology can link Communication and Computer
+       Technology. Measurement technology has a long history and there have been nice and
+       remarkable devices.</p>
+<!--
     <p>Professionals can see many beautiful measurement devices, from the complex mirror galvanometer (a piece from the German Kaiserzeit) to the scintillation measuring station with counting devices from several epoches (since 1956), used for measurement of radioactivity.</p>
+-->
+
+    <div class="box left">
+         <img src="/shared/photos/kommunikationstechnik/experimente.jpg" alt="Some of the experimental physics devices" width="396" height="451" class="nomargin-bottom" />
+         <p class="bildtext">
+           This picture shows some devices from the "experimental physics" area. You
+           will probably note the use of "natural" materials (wood, glass, metal) and the
+           well-designed very simplified interface that makes comprehension simple.
+           <br/>We will go into detail for some of the devices shown on the left.
+         </p>
+         <div class="clear"></div>
+    </div>
 
       <div class="box left">
             <img src="/shared/photos/start/universalmessgeraet2.jpg" alt="Fotografie des Universalmeßgerätes" width="396" height="300" class="nomargin-bottom" />
             <p class="bildtext">
-               This is a remarkably functional, big and beautiful all-purpose measurement device made by Siemens &amp; Halske (about 1910). At that time even simple objects of utulity were made lovely detailed. This device was used as auxiliary device for morsing purposes.
+               This is a remarkably functional, big and beautiful all-purpose measurement device made by Siemens &amp; Halske (about 1905). At that time even simple objects of utulity were made lovely detailed. This device was used as auxiliary device for morsing purposes in the national administration of the German Empire.
             </p>
             <div class="clear">&nbsp;</div>
       </div>
@@ -43,7 +59,38 @@
           <p class="bildtext">This is only an example from the early measurement technique: any galvanometer from the 20s. The lovely, sumptuous and nice design of the appearance is unmistakable, althought it is only a simple customer equipment.</p>
           <div class="clear">&nbsp;</div>
       </div>
-      
+
+      <div class="box left">
+           <img src="/shared/photos/kommunikationstechnik/h&amp;b-galvanometer.jpg" alt="Photography of a mirror galvanometer" width="396" height="436" />
+           <div class="bildtext">
+             <p>Until the invention of measurement amplifiers, measuring very small voltages
+             and currents was a big problem. To do that job, moving coil devices had to be
+             very sensitive. This was realized with a moving coil that was mounted on a
+             torsion wire. The reflecting mirror at the lower end of the wire was spotted by
+             a light ray, so the whole composition acts like a very long "light needle".
+             By this way very long needle lengths (multiple meters) could be simulated.
+             Such a galvanometer must be set up absolutely horizontally and vibration-free.
+             <br/>The <b>Mirror Galvanometer</b> by Hartmann&nbsp;&nbsp;&nbsp;Braun is
+             a simple and functional demonstration model from the 1920s.</p>
+           </div>
+           <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/loewe-kathodenstrahl.jpg" alt="Photography of the cathode ray tube" width="396" height="189" />
+        <p class="bildtext">
+            At the time where there was no television and no oscilloscope yet, the
+            <b>Cathode Ray Tube</b> was a sensation, especially at school. This was one of
+            the very first experiments where students could see that electrons have
+            almost no inertia, so they can be deflected easily at the presence of an
+            electric field.
+            <br/>This tube (with power supply on the left) from the German company
+            <b>Loewe</b> is an historical piece from the 1930s. It measures about
+            50&nbsp;cm!
+        </p>
+   </div>
+
+
     <!-- paragraph: AEG Oszi. Translated/Started at 28.07.08-->
     <div class="box right">
           <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Photography of an AEG oscilloscope" width="425" height="419" class="nomargin-bottom" />
@@ -58,29 +105,52 @@
               are callibrated by the manufacturer. To measure
               absolutely with this device, you always need reference sizes.
           </p>
-		  <div class="clear">&nbsp;</div>
+          <div class="clear">&nbsp;</div>
       </div>
 
-      <p>In addition to the measurement technology that mostly covers the big area of counting, there are also exhibits which show how electronics was taught in schools since 1930. The picture stated below shows at the top demo models for tube technology (approx. 1935) and galvanometers, demo tubes (approx. 1939) and an oscillating circuit (variometer) under it.</p>
+      <div class="box left">
+          <img src="/shared/photos/kommunikationstechnik/phywe-oszi.jpg" alt="Photography of a Phywe demonstration oscilloscope" width="396" height="269" class="nomargin-bottom" />
+          <p class="bildtext">
+             The "Physikalischen Werkst&auml;tten" (<i>phsyical facilities</i>), <b>Phywe</b>,
+             have built this small oscilloscope for demonstration purposes that can be
+             used to show the electromagnetic interaction of an electron beam in E/B fields.
+             Since (CRT driven) television got a mass medium, these experiments
+             were state-of-art at those days.
+          </p>
+          <div class="clear">&nbsp;</div>
+       </div>
 
-    <p>On the third shelf (counted from the top, in the background) the
-       picture shows models of transistorized circuits (from 
-       approximately 1965). The big white board in front of these models
-       is an experience system from Leybold from the early 1970. At that
-       time, the subject "digital electonics" was taught in the school.
-       It was a wonderful combination of physics, informatics and
-       mathematics.  Unfortunately that time is over, too. In ordinary
-       schools, there is no more time for electronics in the curriculars.
-       Of course that is not totally wrong: The every day electonics have
-       developed too much away from the basis. Thus, the youngest
-       generation has no more idea how it's Ipod or mobile phone works
-       and they do not even want to learn the basics of electronics
-       because the relationship is too complex.</p>
+    <div class="box left">
+          <img src="/shared/photos/kommunikationstechnik/neva-funktechnik.jpg" alt="Photography of the Neva Experimental system" width="396" height="280" class="nomargin-bottom" />
+          <p class="bildtext">With the <b>NEVA radio technology system</b>, students could
+            do challenging experiments like measuring the wave lengths in the VHF area
+            with the Lecher lines. <!-- Das mit den 300V ist Bloedsinn, weil die Stroeme
+            niedrig sind => ungefaehrlich. -->
+          </p>
+          <div class="clear">&nbsp;</div>
+    </div>
 
-      <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/schulphysik.jpg" width="431" height="718" alt="Electronical tools used in schools in the 30s, along with the digital experience system, 1970." />
-      </div>
+    <div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/digitalexperimentiersystem.jpg" alt="photography of an electronic experimental system for use in schools" width="396" height="509" class="nomargin-bottom" />
+        <p class="bildtext">This big white board is an experience system from
+          <b>Leybold</b> from the early 1970s. At that time, the subject
+          "digital electonics" was taught in the school. Students could set up
+          logic systems like binary counters, full adders, flip-flops, multiplexer,
+          etc. This was quite fascinating for students at that time. Today, in ordinary
+          schools, there is no more time for electronics in the curriculars.</p>
+        <div class="clear">&nbsp;</div>
+    </div>
 
+    <div class="box left">
+       <img src="/shared/photos/kommunikationstechnik/frequenz-ereigniszaehler.jpg" alt="Photography of different frequency- and event counters" width="396" height="500" class="nomargin-bottom" />
+       <p class="bildtext"><b>Calculating requires counting</b>
+         <br/>Last but not least we show a composition of (frequency) counters from
+         different epoches. There are, among others, devices equipped with tubes (57
+         electron tubes) or discrete transistor logic (mostly germanium).
+         The different counting tubes (e.g. E1T or GC10B) and the very different
+         display types are quite impressive.</p>
+       <div class="clear">&nbsp;</div>
+    </div>
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>

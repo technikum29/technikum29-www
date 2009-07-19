@@ -47,6 +47,20 @@
        we own other machines that are also operational to perform card driven EDP,
        that is, devices for creation, sorting, mixing, etc. the cards.</p>
 
+    <p>Our tabluating machine is now even capable of calculating and printing bank
+       statements as well as multiplying and dividing.
+    <!-- <LOL> -->
+    <br/>In the year 1959 some BULL engineer asked himself why there was not some
+       algorithm for the tabulating machine somewhere outside to compute square roots.
+       Since he was bored, he knew already dozens of simple algorithms he learned
+       in his study of computer science and he wanted to gouge his friends, he
+       bet them that you could compute square roots of any real number with a
+       tabulating machine. Since his friends have not studied computer science,
+       they bet against it. The engineer made some programming efforts and won
+       the bet. We came across that program, so we are currently trying to get
+       it back running, so we can relive that historical moment. <!-- </LOL> -->
+    </p>
+
     <p><small>We would like to thank the <a href="www.feb-d.de">F.E.B.
        (Federation des Equipes Bull) Deutschland e.V.</a> for their assistance
        of the reperation of the tabulating machine</small></p>

@@ -12,6 +12,9 @@
      <title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
+
+    <!-- Well... quite simple ;-) -->
+    <link href="http://page2rss.com/rss/15c37d8c11d3729e650502a0881277e4" title="Get a nifty RSS feed from this list" type="application/rss+xml" rel="alternate" />
     <meta name="t29.SVN" content="$Id: search.shtm 64 2008-12-15 22:55:17Z sven $" />
     <meta name="t29.comment" content="13.07.09: Neu" />
 </head>
@@ -20,10 +23,23 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <p><i>This page is currently (13.07.2009) under construction. Please come back
-       again later.</i></p>
+    <p>This is a news feed for the recent changes on our homepage. The latest
+       posts are on top.</p>
 
-
+    <ul class="news-feed">
+        <li><h3>July 2009</h3>
+            We're urgently <a href="/en/search.shtm" class="go">looking for manuals for an Analex drum printer</a>
+        </li>
+        <li><h3>July 2009</h3>
+            Our <a href="/en/communication/measurement.shtm">Measurement technology</a> collection was extended for experimental technology thanks to a donation from a german school
+        </li>
+        <li><h3>June 2009</h3>
+            Extracting roots with the <a href="/en/computer/tabulating-machine.shtm">Tabulating Machine</a>! Virtually impossible, but we tried to reconstruct some 50-years-old bet.
+        </li>
+        <li><h3>March 2009</h3>
+            Gain an <a href="/en/devices/telefunken_t40w.shtm">exceptional insight the Telefunken T40W</a>.
+        </li>
+    </ul>
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>

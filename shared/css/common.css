@@ -390,6 +390,30 @@ ul.univac-thumbs li img {
 
 
 /**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 "Was gibt es neues?"-Seite, komisches Listen-   |
+|                      Aussehen.                                       |
+|                         /de/news.shtm                                |
+|                         /en/news.shtm                                |
+| In Benutzung seit:   Juli 2009                                       |
+| Besonderheiten:      Nicht sonderlich originell, nur eben etwas      |
+|                      spezifisch.                                     |
+|                                                                      |
+\**********************************************************************/
+
+ul.news-feed li {
+    margin-bottom: 1.2em;
+}
+
+ul.news-feed h3 {
+   margin: 0; padding: 0;
+   font-weight: normal;
+   font-size: 100%;
+   font-style: italic;
+}
+
+/**********************************************************************\
 | CENTRAL COMMON STYLES: TABLE LAYOUT FROM details.css                 |
 +----------------------------------------------------------------------+
 | Hier ist das Tabellenlayout der ehemaligen details.css. Es wird      |
@@ -605,6 +629,7 @@ div.desc-right p {
     }
     
     h1 a, h1 a span {
+        display: inline !important; /* falls screen/fresh versehentlich angewandtfalls screen/fresh versehentlich angewandt */
         color: #AAA !important;
         text-decoration: none !important;
     }

@@ -181,6 +181,26 @@ h1 a span, h1 .old, #h1-subtitle {
     display: none;
 }
 
+/* Auf Wunsch von Heribert: Banner-Verschandelung (intern: Banner-v3).
+ * Heribert kam im Juli 2009 ploetzlich auf die Idee, dass man doch die wohldefinierte
+ * Farbpalette des technikum29-Designs ueber Bord werfen koennte und alles gruen
+ * machen koennte. Nachdem er einsah, dass ein Farbverlauf gruen-blau im Banner
+ * wirklich scheusslich aussieht, hat er sich halt fuer ein haessliches graublau
+ * entschieden, welches dem Banner seinen kompletten Glanz nimmt. Die Entfernung
+ * des "Spiegeleffektes" tut dazu sein uebriges.
+ * Um mit diesem "Experiment" nicht die guten Banner zu zerstoeren, laueft es unter
+ * einer "Pseudo"-Sprache "de-v3", erst mal nur auf deutsch.
+ */
+
+h1.de-v3 {
+    background-image: url(../img/fresh.design/freshbanner-v3.bg.png);
+}
+
+h1.de-v3 a {
+    /* "Neuer" deutscher Banner */
+    background-image: url(../img/banner/big.de-v3.png);
+}
+
 /***********************************************************************************\
 **  ____                                      _   Das General Page Layout um-      **
 ** |___ \      __ _  ___ _ __   ___ _ __ __ _| |  schliesst #sidebar, #content,    **

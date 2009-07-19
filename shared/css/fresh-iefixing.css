@@ -11,15 +11,15 @@
  *
  * Man beachte den Verlauf der Statistiken:
  *
- *                             April/Mai/Juni 07   02.08   05.08  08.08
- * Firefox (Gecko)          |            40.60%   |  38% |   39% |  47%
- * Internet Explorer 5      |             1.01%   | 0.3% |    0% |   0%
- * Internet Explorer 6      |            31.90%   |  26% |   26% |  22%
- * Internet Explorer 7      |            16.50%   |  23% |   23% |  22%
- * Opera, Safari, KHTML     |             3.90%   |   9% |    7% |   9%
- * Bots (Suchmaschinen)     |             1.85%   |      |       |
+ *                             April/Mai/Juni 07   02.08   05.08  08.08  07.09
+ * Firefox (Gecko)          |            40.60%   |  38% |   39% |  47% |  42%
+ * Internet Explorer 5      |             1.01%   | 0.3% |    0% |   0% |   0%
+ * Internet Explorer 6      |            31.90%   |  26% |   26% |  22% |  17%
+ * Internet Explorer 7 & 8  |            16.50%   |  23% |   23% |  22% |  29%
+ * Opera, Safari, KHTML     |             3.90%   |   9% |    7% |   9% |  11%
+ * Bots (Suchmaschinen)     |             1.85%   |      |       |      |
  *
- * Die Tendenz geht bei IE-Benutzern eindeutig Richtung IE7 (wenn auch,
+ * Die Tendenz geht bei IE-Benutzern eindeutig Richtung IE7, (wenn auch,
  * widererwarten langsam), insgesamt aber noch mehr richtung Alternativbrowser.
  * So wurde letztes Jahr in diesem CSS an dieser Stelle gesagt:
  *
@@ -30,7 +30,11 @@
  ** Natürlich wissen diese DAUs nicht, was sie da machen. Denn wie man sieht,
  ** schadet ihr Verhalten nicht nur ihnen, sondern auch vielen anderen.
  *
- * Heute lässt sich resümieren: Jetzt sind es nur noch 20%. ;-)
+ * (2008) Heute lässt sich resümieren: Jetzt sind es nur noch 20%. ;-)
+ * 
+ * (2009) Mittlerweile gibt es den Internet Explorer 8 (ich hab ihn selbst noch
+ *   nie getestet), der zur Zeit etwa 8% der Besucher ausmacht. Die IE6-Benutzer
+ *   sind aber doch zaeh und wechseln nur sehr, sehr langsam (etwa 1% pro Monat).
  *
  * $Id$
  *

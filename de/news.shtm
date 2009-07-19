@@ -18,9 +18,21 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
+	
+	
+	<p>Damit alle die öfters unsere Homapage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
-    <p><i>Diese Seite ist zur Zeit (13. Juli 2009) noch in Entstehung.
-       Bitte schauen sie in einigen Tagen noch einmal nach.</i></p>
+<ul>
+	<li><i>Juli 2009</i><br>Für einen Anelex Trommeldrucker suchen wir dringend technische Unterlagen, siehe  <a href="/de/suche.shtm" class="go"> Wir suchen"</a>    </li><br>
+	<li><i>Juli 2009</i><br>Die Rubrik Messtechnik wurde um "Experimentaltechnik" erweitert. Dank einer Spende von uralten Physik-Experimentalmitteln eines Frankfurter Gymnasiums konnte die Sammlung stark erweitert werden, siehe "Mess- und Experimentaltechnik"</li><br>
+	
+	<li><i>Juni 2009</i><br>Wurzelziehen mit der Tabelliermaschine! Eigentlich unmöglich, doch wir versuchen eine 50 Jahre alte Wette nachzuvollziehen, siehe "Tabelliermaschine"</li><br>
+	
+	<li><i>März 2009</i><br>Ungewöhnliche Einblicke in ein Rundfunkgerät bietet die Extraseite <a href="/de/geraete/telefunken_t40w.shtm" class="go">die Extraseite "Telefunken T 40W"</a></li>
+	
+	</ul>
+	
+	
 
 	
 	

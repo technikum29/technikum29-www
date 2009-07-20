@@ -3,7 +3,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
 <head><!--#set var="title"        value="Mess- und Experimentaltechnik"
    --><!--#set var="location"     value="messtechnik"
-   --><!--#set var="part"         value="kommunikationstechnik"
    --><!--#set var="url_en"       value="communication/measurement.shtm"
    --><!--#set var="prev"         value="faxtechnik.shtm"
    --><!--#set var="prev_title"   value="Telegraphie-, Fax- und Schreibtechnik"

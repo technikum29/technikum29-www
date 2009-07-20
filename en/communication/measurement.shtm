@@ -3,7 +3,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Measurement and Experimental technology"
    --><!--#set var="location"     value="messtechnik"
-   --><!--#set var="part"         value="communication"
    --><!--#set var="url_de"       value="kommunikationstechnik/messtechnik.shtm"
    --><!--#set var="prev"         value="fax.shtm"
    --><!--#set var="prev_title"   value="Fax engineering"

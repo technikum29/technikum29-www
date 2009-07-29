@@ -22,13 +22,21 @@
 	
 	<p>Damit alle die öfters unsere Homapage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
-<ul>
-	<li><i>Juli 2009</i><br>Für einen Anelex Trommeldrucker suchen wir dringend technische Unterlagen, siehe  <a href="/de/suche.shtm" class="go"> Wir suchen"</a>    </li><br>
-	<li><i>Juli 2009</i><br>Die Rubrik Messtechnik wurde um "Experimentaltechnik" erweitert. Dank einer Spende von uralten Physik-Experimentalmitteln eines Frankfurter Gymnasiums konnte die Sammlung stark erweitert werden, siehe "Mess- und Experimentaltechnik"</li><br>
+
+
+<ul class="news-feed">
+     <li><h3>Juli 2009</h3>
+ <div class="box left">
+          <img src="/shared/photos/rechnertechnik/ibm1442.jpg" alt="Foto des IBM 1442 Lochkartenstanzer/leser" width="166" height="168" class="nomargin-bottom" /> 
+		  <p class="bildtext">	Neuzugang: Lochkartenleser/stanzer Typ <b> IBM 1442 </b>, Baujahr 1966. Dieser wurde an eine IBM 1130 oder IBM 360 Anlage angeschlossen. Da wir beide nicht besitzen werden wir das Gerät über ein noch zu entwerfendes Interface an einen PC anschließen.</li><div class="clear">&nbsp;</div>
+    </p>  </div>
+		  
+	<li><h3>Juli 2009</h3>Für einen Anelex Trommeldrucker suchen wir dringend technische Unterlagen, siehe  <a href="/de/suche.shtm" class="go"> Wir suchen"</a>    </li>
+	<li><h3>Juli 2009</h3>Die Rubrik Messtechnik wurde um "Experimentaltechnik" erweitert. Dank einer Spende von uralten Physik-Experimentalmitteln eines Frankfurter Gymnasiums konnte die Sammlung stark erweitert werden, siehe "Mess- und Experimentaltechnik"</li>
 	
-	<li><i>Juni 2009</i><br>Wurzelziehen mit der Tabelliermaschine! Eigentlich unmöglich, doch wir versuchen eine 50 Jahre alte Wette nachzuvollziehen, siehe "Tabelliermaschine"</li><br>
+	<li><h3>Juni 2009</h3>Wurzelziehen mit der Tabelliermaschine! Eigentlich unmöglich, doch wir versuchen eine 50 Jahre alte Wette nachzuvollziehen, siehe "Tabelliermaschine"</li>
 	
-	<li><i>März 2009</i><br>Ungewöhnliche Einblicke in ein Rundfunkgerät bietet die Extraseite <a href="/de/geraete/telefunken_t40w.shtm" class="go">die Extraseite "Telefunken T 40W"</a></li>
+	<li><h3>März 2009</h3>Ungewöhnliche Einblicke in ein Rundfunkgerät bietet die Extraseite <a href="/de/geraete/telefunken_t40w.shtm" class="go">die Extraseite "Telefunken T 40W"</a></li>
 	
 	</ul>
 	

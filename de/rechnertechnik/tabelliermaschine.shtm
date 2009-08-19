@@ -42,17 +42,25 @@ Die Programmierung der Tabelliermaschine wurde durch das Stöpseln von Kabeln auf
         <p class="bildtext"><b>Tabelliermaschine Bull BS-PR</b>. Von außen ein unscheinbarer Blechkasten aber von innen ein Meisterwerk an elektromechanischer Technik. Ganz links befindet sich die auswechselbare Schalttafel, welche zur Demonstration offen und damit zugänglich ist. Hier ist nur ein sehr einfaches Rechenprogramm gesteckt.</br> Multiplikationen und Divisionen benötigen ein Mehrfaches an Zeit als einfache Saldierungen. Um diese Zeit drastisch zu verkürzen, konnte man den "Elektronenrechner" BULL GAMMA 3 anschließen, der im Hintergrund zu sehen ist. </p>
     
 </div>
-
-    <div class="box left">
+<div class="box left">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg" alt="Teilansicht der Relais der geöffneten Bull-Tabelliermaschine" width="312" height="416" />
         <p class="bildtext">
+    
           Etwa 1500 Relais wurden verwendet, um die programmierbare Steuerung der Maschine durchzuführen. <br>
-		  Oben sind 3 der 10 Rechenwerke zu sehen, die alle parallel arbeiten. Sie werden durch den großen Hauptmotor angetrieben, bei jeder Umdrehung bewegen sich ca. 300 Kontakte und ca. ebenso viele Schleifkontakte. Trotz des hohen Alters rechnet nur ein Rechenwerk dieser Maschine falsch. Das kann man jedoch durch eine entsprechende Programmierung leicht umgehen.</br>
+		  Oben sind die Anschlüsse von 3 der 10 Rechenwerke zu sehen, die alle parallel arbeiten. Sie werden durch den großen Hauptmotor angetrieben, bei jeder Umdrehung bewegen sich ca. 300 Kontakte und ca. ebenso viele Schleifkontakte. Trotz des hohen Alters rechnet nur ein Rechenwerk dieser Maschine falsch. Das kann man jedoch durch eine entsprechende Programmierung leicht umgehen.</br>
 		 
         </p>
 		<div class="clear"></div>
      </div>
+<div class="box center">
 
+        <img src="/shared/photos/rechnertechnik/rechenwerke.jpg" alt="Rechenwerke der Bull-Tabelliermaschine" width="555" height="329" />
+        <p class="bildtext">
+		 Für eine einmalige Aufnahme haben wir zwei der 10 Rechenwerke frei gelegt. Deutlich ist das Prinzip der Sprossenradmaschine zu erkennen. Das Rechnen wird rein mechanisch ausgeführt und elektrisch mit Hilfe von Kontakten abgefühlt. Man sieht sogar den Inhalt der Rechenwerke: Beide stehen auf "144". Die Überträge finden auch mechanisch statt. Es ist erstaunlich, dass solche Maschinen z.B. in Banken täglich 12 Stunden und mehr gelaufen sind, ohne dass gravierende Probleme auftraten.
+		</p>
+		<div class="clear"></div>
+     </div>
+		
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/offen1.jpg" alt="Vorderansicht der geöffneten Bull-Tabelliermaschine" width="555" height="325" />
         <p class="bildtext"><!--class="bildtext-bildbreite" style="width: 569px;">-->

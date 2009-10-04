@@ -4,8 +4,8 @@
 <head><!--#set var="title"        value="Was gibt es Neues?"
    --><!--#set var="location"     value="news"
    --><!--#set var="url_en"       value="news.shtm"
-   --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
-   --><!--#set var="prev_title"   value="Speichermedien"
+   --><!--#set var="prev"         value="lernprojekte/"
+   --><!--#set var="prev_title"   value="Lernprojekte"
    --><!--#set var="next"         value="suche.shtm"
    --><!--#set var="next_title"   value="Wir suchen"
    -->

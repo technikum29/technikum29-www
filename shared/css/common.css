@@ -474,6 +474,39 @@ ul.news-feed h3 {
 }
 
 
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Lernprojekte-Uebersichtsseite                   |
+|                         /de/lernprojekte/index.shtml                 |
+| In Benutzung seit:   04.10.2009 (Einbindung der Seite in die         |
+|                      Homepage)
+| Besonderheiten:      Spezialisierung des allgemeinen Tabellen-       |
+|                      designs mit sehr grosser Schrift.               |
+|                                                                      |
+\**********************************************************************/
+
+
+.lernprojekte #content table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 1.5em;
+}
+
+.lernprojekte #content td,
+.lernprojekte #content th {
+	font-size: 130%;
+	border: 1px solid #888;
+	line-height: 150%;
+	padding: 11px;
+	text-align: left !important;
+}
+
+.lernprojekte #content th { width: 20%; }
+.lernprojekte #content td { color: #555; }
+
+
+
 
 /**********************************************************************\
 | CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |

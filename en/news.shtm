@@ -4,8 +4,8 @@
 <head><!--#set var="title"        value="What's new?"
    --><!--#set var="location"     value="news"
    --><!--#set var="url_de"       value="news.shtm"
-   --><!--#set var="prev"         value="computer/storage-media.shtm"
-   --><!--#set var="prev_title"   value="Storage media"
+   --><!--#set var="prev"         value="development-projects.shtm"
+   --><!--#set var="prev_title"   value="Development Projects"
    --><!--#set var="next"         value="search.shtm"
    --><!--#set var="next_title"   value="We search for..."
    -->

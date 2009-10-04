@@ -63,10 +63,17 @@
             </ul>
         </div></li>
 
+        <li class="l2"><div<!--#if expr="($part) && ($part = projekte)" --> class="on"<!--#endif -->><em class="l2">Projekte</em>
+             <ul class="l2">
+		<li><a <!--#if expr="$location = entwicklungsprojekte" -->class=" on"<!--#else -->href="/de/entwicklungsprojekte.shtm"<!--#endif -->>Entwicklungsprojekte<span>&nbsp;</span></a></li>
+		<li><a <!--#if expr="$location = lernprojekte" -->class=" on"<!--#else -->href="/de/lernprojekte/"<!--#endif -->>Lernprojekte<span>&nbsp;</span></a></li>
+             </ul>
+	</div></li>
+
+
         <li class="l1"><a <!--#if expr="$location = news" -->class="on"<!--#else --> href="/de/news.shtm" title="Was ist neu auf der Homepage des Museums"<!--#endif -->>Was gibt es Neues&nbsp;? <!--sic!--></a></li>
         <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/de/suche.shtm" title="Was das Museum noch dringend sucht"<!--#endif -->>Wir suchen</a></li>
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/de/impressum.shtm" title="Impressum und Kontakt"<!--#endif -->>Kontakt/Impressum</a></li>
-        <li class="l1"><a href="/projekte" title="Projektportal - zugriffsgeschützer Inhalt">Projekte</a></li>
     </ul>
   </div><!-- id=menu -->
   <!--#endif -->

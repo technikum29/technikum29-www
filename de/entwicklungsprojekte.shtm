@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Entwicklungsprojekte"
+   --><!--#set var="location"     value="entwicklungsprojekte"
+   --><!--#set var="url_en"       value="development-projects.shtm"
+   --><!--#set var="part"         value="projekte"
+   --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
+   --><!--#set var="prev_title"   value="Speichermedien"
+   --><!--#set var="next"         value="lernprojekte/"
+   --><!--#set var="next_title"   value="Lernprojekte"
+   -->
+
+    <title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.date" content="04.10.2009" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<!--<div id="extra" class="content">-->
+<div id="content">
+  <h2><!--#echo var="title" --></h2>
+
+  <p>
+
+     <i>Diese Seite ist in Entwicklung. Bitte schauen sie später noch einmal vorbei.</i>
+
+  </p>
+
+
+</div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

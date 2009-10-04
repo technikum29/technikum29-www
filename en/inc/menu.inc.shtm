@@ -65,6 +65,7 @@
             </ul>
         </div></li>
 
+        <li class="l1"><a <!--#if expr="$location = entwicklungsprojekte" -->class="on"<!--#else --> href="/en/development-projects.shtm"<!--#endif -->>Development Projects</a></li>
         <li class="l1"><a <!--#if expr="$location = news" -->class="on"<!--#else --> href="/en/news.shtm" title="Recent changes on the technikum29 homepage"<!--#endif -->>What's new?</a></li>
         <li class="l1"><a <!--#if expr="$location = suche" -->class="on"<!--#else --> href="/en/search.shtm"<!--#endif --> title="What we a looking for...">We search for...</a></li>
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/en/contact.shtm"<!--#endif --> title="Imprint, Legal notices">Contact/credits</a></li>

@@ -1,33 +1,38 @@
-<html>
-<head>
-  <title>technikum29 Projekte</title>
-     <style>
-       table { width: 100%; border-collapse: collapse; }
-       td, th { font-size: 130%; line-height: 150%; text-align: left;
-                border: 1px solid #888; padding: 5px;  }
-       th { width: 20%; }
-       td { color: #555; }
-     </style>
-	 <!--
-     <script type="text/javascript" src="/src/js/http-auth.js"></script>
-     <script type="text/javascript" src="passwortschutz.js"></script>
-	 -->
-     <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/private.design/style.css">
-      <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Lernprojekte"
+   --><!--#set var="location"     value="lernprojekte"
+   --><!--#set var="url_en"       value="no-translation.shtm"
+   --><!--#set var="part"         value="projekte"
+   --><!--#set var="prev"         value="../entwicklungsprojekte.shtm"
+   --><!--#set var="prev_title"   value="Entwicklungsprojekte"
+   --><!--#set var="next"         value="../news.shtm"
+   --><!--#set var="next_title"   value="Was gibt es Neues?"
+   -->
+
+    <title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.date" content="04.10.2009" />
 </head>
 <body>
+<!--#echo encoding="none" var="heading" -->
+<!--<div id="extra" class="content">-->
+<div id="content">
+ <h2>Lernprojekte</h2>
 
-<h1><a href="/"><span>technikum29: </span></a><strong>Projekte</strong></h1>
-
-<h2>Willkommen zu den technikum29-Projekten</h2>
-<p>Die <i>technikum29-Projekte</i> sind eine Sammlung von Präsentationsdateien,
+<p>Die <i>technikum29-Lernprojekte</i> sind eine Sammlung von Präsentationsdateien,
 etc., die größtenteils nur gegen Passworteingabe zugänglich sind. <!--Für jedes einzelne
 "Projekt" gibt es dabei nur ein Passwort, welches nur für einen begrenzten
 Zeitraum gültig ist.-->
 
 Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das Projektmanagament</a>.</p>
 
-<h2>Liste der Projekte</h2>
+<div class="box center">
+<h3>Liste der Projekte</h3>
 <p>Jedes Projekt ist möglicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
 <br><b>Als Benutzer ist stets der Name des Projekts </b>(kleingeschrieben)<b> einzugeben!</b></p>
 
@@ -42,14 +47,12 @@ Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das P
 <tr><th><a href="nipkow">Nipkow</a>            <td>Präsentation, welche die physikalischen Grundlagen und Techniken des Fernsehens nach Paul Nipkow zeigt
 </table>
 
-<br>
+</div><!--box-->
 
 <!-- Fussbereich -->
-<hr>
-<div style="float:left; font-weight:bold;"><a href="/de">Zurück zur Startseite</a></div>
 <div style="text-align:right;"><a href="http://www.technikum29.de/projekte/admin/">Administration der Projekte (online)</a></div>
-</div>
 
-</div><!-- ende der Seite -->
-
-
+</div><!-- content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

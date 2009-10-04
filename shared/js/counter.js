@@ -14,7 +14,7 @@
 var t29_counter_text = function(stand){
 	var s = "<div style='color:grey'>";
 	s += "<p class='center'><span style='border: 1px solid grey; padding: 5px; font-family: monospace; letter-spacing: 3px; color: grey;'>"+stand+"</span></p>";
-	s += "<p>Besucher seit 2003</p>";
+	s += "<p>Besucher seit 2004</p>";
 	s += "</div>";
 	return s;
 }

@@ -479,7 +479,7 @@ html>body #content, html>body .extra #wrapper #content {
        einzugehen. */
     position: absolute;
     /* Position relativ zum inneren padding von #content! */
-    bottom: 0;
+    bottom: -20px;
     right: -230px;
     width: 230px;
 }

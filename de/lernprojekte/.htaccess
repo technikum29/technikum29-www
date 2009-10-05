@@ -6,9 +6,9 @@ AuthUserFile /srv/www/.htpasswd-projekte
 #Require valid-users
 
 IndexOptions +SuppressHTMLPreamble NameWidth=* DescriptionWidth=*
-HeaderName /projekte/Header.shtm
+HeaderName /de/lernprojekte/Header.shtm
 # darf nicht im admin-Verzeichnis stehen weil man dafuer
 # Zugriffsrechte braeuchte
 
-ErrorDocument 401 /projekte/fehler.shtm
-ErrorDocument 403 /projekte/fehler.shtm
+ErrorDocument 401 /de/lernprojekte/fehler.shtm
+ErrorDocument 403 /de/lernprojekte/fehler.shtm

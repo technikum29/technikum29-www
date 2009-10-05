@@ -590,6 +590,8 @@ ul.news-feed h3 {
 /*
    Mehr oder weniger "halboffizielle" Rahmen um class="box [right|left|center]"-Bilder.
    Verwendung als Zusatzklasse zu box.
+   
+   Feststellung 04.10.2009: Box-Modell zu speziell, um Rahmen hinzuzufuegen
 */
 
 #content .bordered, .content .bordered {
@@ -600,10 +602,9 @@ ul.news-feed h3 {
 #content .bordered img, .content .bordered img {
 }
 
-
 /* ehemaliger Spezialstyle auf der Startseite,
    jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
-div.desc-right {
+div.desc-right, div.desc-left {
     /* rechts gefloatetes thumbnail mit Beschreibungstext */
     float: right;
     margin: 0pt 0pt 2em 2em;
@@ -614,10 +615,15 @@ div.desc-right {
     padding: 1em;
 }
 
+div.desc-left {
+	float: left;
+	margin: 0pt 2em 2em 0pt;
+}
+
 div.desc-right img {
 }
 
-div.desc-right p {
+div.desc-right p, div.desc-left p {
     /* Damit der Text nicht über die ganze Fensterbreite geht,
        <p style="width: Bildbreite;"> nötig. */
     margin: 1em 0 0 0; padding: 0;

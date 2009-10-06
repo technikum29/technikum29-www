@@ -15,27 +15,30 @@
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.Id" content="$Id$" />
     <meta name="t29.date" content="04.10.2009" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
-<!--<div id="extra" class="content">-->
 <div id="content">
   <h2><!--#echo var="title" --></h2>
 
-  <p><i>
-Auf dieser Seite zeigen wir anhand ausgewählter eigener Entwicklungen, dass unser Museumsteam sich aktiv mit der Vernetzung historischer Computerkomponenten und deren Anbindung an PC´s der Jetztzeit auseinandersetzt. Dazu sind teils sehr aufwändige Hard- und Software-Konstrukte notwendig.<br>
-Diese Seite ist daher weniger für Laien gedacht, sondern richtet sich mehr an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. Die Seite wird permanent erweitert. Die nächsten Projekte:<br>
-Lochkarten in einen PC einlesen und vom PC ausstanzen<br>
-Einen Anelex Drucker an einen Bull Gamma 10 Computer anschließen<br>
-Einen Lochkartenleser/stanzer "IBM 1442" an einen PC anschließen.</i></p><br><br>
+  <p>
+Auf dieser Seite zeigen wir anhand ausgewählter eigener Entwicklungen, dass unser Museumsteam sich aktiv mit der Vernetzung historischer Computerkomponenten und deren Anbindung an PCs der Jetztzeit auseinandersetzt. Dazu sind teils sehr aufwändige Hard- und Software-Konstrukte notwendig.<br>
+Diese Seite ist daher weniger für Laien gedacht, sondern richtet sich mehr an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. Die Seite wird permanent erweitert.
+Die nächsten Projekte:</p>
+<ul>
+  <li>Lochkarten in einen PC einlesen und vom PC ausstanzen</li>
+  <li>Einen Anelex Drucker an einen Bull Gamma 10 Computer anschließen</li>
+  <li>Einen Lochkartenleser/stanzer "IBM 1442" an einen PC anschließen.</li>
+</ul>
+<br>
 
 	 
-	 <li><h3>Kommunikation zwischen Lochstreifengeräten und PC</h3></li>
+<h3>Kommunikation zwischen Lochstreifengeräten und PC</h3>
 	 
 <p>	 Möchte man Lochstreifendateien versenden oder abändern, so ist das Einlesen von Lochstreifen in den Speicher eines PC unabdingbar. Umgekehrt ist es notwendig, veränderte oder per E-Mail erhaltene Dateien auf Lochstreifen auszustanzen, so dass diese auf historischen Computern "laufen" können.<br>
-Das Ziel des <b>"Paper Tape Projects"</b> ist es, Lochstreifen mit heutigen Computern einlesen, "bearbeiten" und ausstanzen zu können. Dazu wurden vergleichsweise neue Lochstreifengeräte verwendet, die bereits über eine parallele Schnittstelle (Centronics) angesprochen werden, auf der sie auf TTL-Niveau kommunizieren (hier: Lochstreifenleser Ghilmetti FER 201, Lochstreifenstanzer FACIT 4070). Leider sind diese Geräte aber noch nicht neu genug, um dem Centronics-Quasi-Standard der 1970er-Jahre zu entsprechen (erst 1994 als IEEE-1284 standardisiert). Deswegen kann man nicht einfach ein gewöhnliches paralleles Druckerkabel verwenden, um einen PC mit dem Lochstreifengerät zu verbinden.</p>
+Das Ziel des "<b>Paper Tape Projects</b>" ist es, Lochstreifen mit heutigen Computern einlesen, "bearbeiten" und ausstanzen zu können. Dazu wurden vergleichsweise neue Lochstreifengeräte verwendet, die bereits über eine parallele Schnittstelle (Centronics) angesprochen werden, auf der sie auf TTL-Niveau kommunizieren (hier: Lochstreifenleser Ghilmetti FER 201, Lochstreifenstanzer FACIT 4070). Leider sind diese Geräte aber noch nicht neu genug, um dem Centronics-Quasi-Standard der 1970er-Jahre zu entsprechen (erst 1994 als IEEE-1284 standardisiert). Deswegen kann man nicht einfach ein gewöhnliches paralleles Druckerkabel verwenden, um einen PC mit dem Lochstreifengerät zu verbinden.</p>
  <div class="desc-left">
         <img src="/shared/photos/rechnertechnik/fer201.jpg" width="239" height="148" alt="Foto des Lochstreifenlesers" />
         <p class="bildtext" style="width:239px;"><b>Ghilmetti FER 201</b> Lochstreifenleser mit Vorsatz zum Lesen von Zick-Zack-Lochstreifen</p>
@@ -50,7 +53,7 @@ Der Parallelport besteht aus drei 8-bit-Hardwareregistern: Ein bidirektionales D
         <p class="bildtext" style="width:145px;">Der legendäre Lochstreifenstanzer <b>FACIT 4070</b></p>
     </div>
 	<p>Wie oben erwähnt, stellt sich bei Lochstreifen nicht die Frage der Modellierung, da Oktetts als Bytes auf PC-Architekturen gerade die kleinste adressierbare Speichereinheit darstellen und somit als nativer Datentyp verarbeitet werden. Eine 250 Byte lange Binärdatei stellt somit genau einen 250 Zeichen langen Lochstreifen dar. Dadurch ist die computerinterne Verarbeitung von Lochstreifen durch Unix-Kommandozeilenwerkzeuge oder grafische Werkzeuge wie Hex-Editoren sehr leicht möglich. Zur Vereinfachung des Arbeitsflusses wurden zunächst einfache Werkzeuge in der Scriptsprache Perl geschrieben, mit denen etwa auch Beschriftungen von Lochstreifen vorgenommen werden konnten. Später entstand ein grafischer Editor, mit dem Binärdateien direkt als Lochstreifen visualisiert bearbeitet werden können. Dieser in der Programmiersprache C mit Gtk+ programmierter "Paper Tape Editor" wurde ausgebaut zu der "Paper Tape Suite", mit der nun auch unter Windows Lochstreifen eingelesen, bearbeitet, abgespeichert und ausgestanzt werden können. Auf diese Weise sind alle nur denkbaren Aufgaben mit Lochstreifen dank der Vielseitigkeit von Computern möglich.<br><br>
-Weitere Details zu diesem Projekt mit umfassenden Hintergrundinformationen gibt es auf der englischsprachigen Homepage, <b>The Paper Tape Project</b>. Alle Quelltexte wurden unter einer Open Source-Lizenz veröffentlicht und können im technikum29.de Subversion-Repositorium eingesehen werden.
+Weitere Details zu diesem Projekt mit umfassenden Hintergrundinformationen gibt es auf der englischsprachigen Homepage, <a class="go" href="http://dev.technikum29.de/projekte/paper-tape-project/documentation/">The Paper Tape Project</a>. Alle Quelltexte wurden unter einer Open Source-Lizenz veröffentlicht und können im <a href="http://dev.technikum29.de/svn/listing.php?repname=paper-tape-project">technikum29.de Subversion-Repositorium</a> eingesehen werden.
 </p>
   
 

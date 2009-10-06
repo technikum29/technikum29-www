@@ -15,18 +15,88 @@
 
     <!-- Well... quite simple ;-) -->
     <link href="http://page2rss.com/rss/15c37d8c11d3729e650502a0881277e4" title="Get a nifty RSS feed from this list" type="application/rss+xml" rel="alternate" />
-    <meta name="t29.SVN" content="$Id: search.shtm 64 2008-12-15 22:55:17Z sven $" />
+    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.initialdate" content="04.10.2009" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
 
-    <p>
-       <i>This page is about to be translated. Please see again later.</i>
-    </p>
+<h2><!--#echo var="title" --></h2>
 
+<p>This page lists some of our development projects where old hardware meets modern
+computer equipment. All projects are selfmade, with partly enormous hardware and
+software efforts, like routed PCBs, kernel drivers and microcontrollers.
+<br/>Upcoming projects:</p>
+<ul>
+  <li>punch card I/O with AVR ATmega microcontrollers via RS232 to computers,
+      Qt platform independent processing, with various hardware</li>
+  <li>Analex printer interface to the Bull Gamma 10 computer (uC based)</li>
+</ul>
+<br/>
+
+<h3>Paper tape processing with contemporary computers</h3>
+
+<p>We were often in a situation when some data stored on a punched paper needed
+to be sent on long distances. Having Internet access and e-mail, that's no matter
+for todays computers, once you can read in paper tapes. The other way around,
+punching new or modified data on punched papers is a frequent need in our daily
+business. <br/>Therefore we've initiated the <b>Paper Tape Project</b> with the
+pronounced goal to handle paper tapes with contemporary computers, that is, to
+read, change and write (punch) them.</p>
+<p>We used comparatively new punched paper devices that already feature a Centronics
+interface at TTL level. Unfortunately the devices (in details: reader
+Ghilmetti FER 201, puncher FACIT 4070) aren't yet implementing the Centronics
+common standard from the 1970s (officially standardized as IEEE-1284 not until 1994),
+therefore connecting those devices with a simple parallel port printer cable
+won't do the job.</p>
+
+<div class="desc-left">
+   <img src="/shared/photos/rechnertechnik/fer201.jpg" width="239" height="148" alt="Photography of the paper tape reader Ghilmetti FER 201" />
+   <p class="bildtext" style="width:239px;"><b>Ghilmetti FER 201</b> reader with framework for reading zig-zag tapes</p>
+</div>
+
+<p>The very first step was to read the manual carefully to assemble a specially wired
+cable to connect the punch card device with the parallel port of a PC (commonly known as 
+"LPT port", a standard port on PC motherboards just a few years ago). Since the devices
+don't implement the standarized hand shake, the second step was to implement a suitable
+driver to emulate the right communication behaviour for the punch card devices.</p>
+
+<p>Development started on the free GNU/Linux Operating System where we used the ppdev
+framework of the Linux 2.6 kernel series to program a user space driver in the programming
+language C with a little effort compared to a real kernel space driver.</p>
+
+<p>The parallel port consists of three 8-bit hardware registers: a bidirectional data
+register, a control register and a signal register. Since paper tapes are made of
+8-bit words (octetts), we just connected these eight bits on the data register to save
+them directly to one byte in the computer. Using the control and signal pins, we could
+implement a interrupt (device cycle) driven communication, since the status register
+features one interrupt enabled bit (strobe). Our devices punch at 80 chars/sec and read in
+250 chars/sec, so even older PCs can easily run the driver programs.</p>
+
+<div class="desc-right">
+   <img src="/shared/photos/rechnertechnik/facit4070.jpg" width="144" height="196" alt="Photography of the paper tape puncher FACIT 4070" />
+   <p class="bildtext" style="width:145px;">The legendary puncher <b>FACIT 4070</b></p>
+</div>
+
+<p>As already told, there's not really the question how to model punched papers on
+computers, since they use the same word length (8 bit) and computer files are
+conceptually the same as paper tapes: byte arrays. A 250 byte binary file therefore
+represents a 250 chars long punched paper. Thus processing punch card files
+with Unix command line tools or hex editors is very easy. To speed up the workflow,
+we wrote some simple perl scripts to label paper tapes. Afterwards we wrote a
+graphical editor, called "Paper Tape Editor", where binary files could be visualized
+and directly edited as paper tapes on the screen. This program was written in C, using
+the Gtk+ toolkit. After writing drivers for the Microsoft Windows Operating System,
+this program was extended to the "Paper Tape Suite" to read, edit, save and punch
+paper tapes graphically. That way every possible procedures with paper tapes can be
+performed with ordinary PCs.</p>
+
+<p>You can get further details with a lot of documentation material on the homepage of
+<a class="go" href="http://dev.technikum29.de/projekte/paper-tape-project/documentation/"
+>The Paper Tape Project</a>. The source code was released as open source can be checked
+out from the <a
+href="http://dev.technikum29.de/svn/listing.php?repname=paper-tape-project">technikum29.de  subversion repository</a>.</p>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

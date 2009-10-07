@@ -38,17 +38,17 @@ software efforts, like routed PCBs, kernel drivers and microcontrollers.
 <h3>Paper tape processing with contemporary computers</h3>
 
 <p>We were often in a situation when some data stored on a punched paper needed
-to be sent on long distances. Having Internet access and e-mail, that's no matter
+to be sent over long distances. Having Internet access and e-mail, that's no matter
 for todays computers, once you can read in paper tapes. The other way around,
-punching new or modified data on punched papers is a frequent need in our daily
-business. <br/>Therefore we've initiated the <b>Paper Tape Project</b> with the
+punching new or modified data on punched papers is also a frequent need in our daily
+business. <br/>Therefore we initiated the <b>Paper Tape Project</b>, having the
 pronounced goal to handle paper tapes with contemporary computers, that is, to
 read, change and write (punch) them.</p>
-<p>We used comparatively new punched paper devices that already feature a Centronics
-interface at TTL level. Unfortunately the devices (in details: reader
-Ghilmetti FER 201, puncher FACIT 4070) aren't yet implementing the Centronics
+<p>We use comparatively new punched paper devices that already feature a Centronics
+interface at TTL level. Unfortunately the devices (in detail: reader
+Ghilmetti FER 201, puncher FACIT 4070) didn't yet implement the Centronics
 common standard from the 1970s (officially standardized as IEEE-1284 not until 1994),
-therefore connecting those devices with a simple parallel port printer cable
+therefore simply connecting those devices with a standard parallel port printer cable
 won't do the job.</p>
 
 <div class="desc-left">

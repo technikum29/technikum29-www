@@ -25,7 +25,7 @@
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="center">
-    <img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.jpg" alt="Lämpchen des Bandcontrollers" width="595" height="446" />
+    <img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.jpg" alt="Lämpchen des Bandcontrollers" width="444" height="412" />
     <div class="bildtext-bildbreite" style="width: 595px;">
         <p>Each single peripheral device can be controlled both from
 	the processor and from the controller with a switch-register

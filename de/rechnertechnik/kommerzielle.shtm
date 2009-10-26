@@ -30,7 +30,7 @@
     </p>
 
     <div class="box right">
-       <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="419" />
+       <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="371" />
        <div class="bildtext">
           <b>Olivetti P 203</b>
           <p>Im Jahre 1968 wurde die P 101 (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Dieser "Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.</p>
@@ -39,11 +39,12 @@
     </div>
     
     <div class="box center">
-        <a href="/de/geraete/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="NCR 446 Rechner" width="670" height="433" /></a>
+        <a href="/de/geraete/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="NCR 446 Rechner" width="670" height="451" /></a>
         <div class="bildtext-bildbreite" style="width: 670px;">
 		
-		Neben den Tischrechnern etablierten sich auch Kleinanlagen insbesondere für spezielle Verwendungszwecke. Der hier abgebildete <b> NCR 446 Rechner </b> wurde als "Elektronische Fakturiermaschine" bezeichnet. Es handelt sich um einen Rechner der 2. Generation (Transistortechnik). Durch Anklicken des Bildes erhält man eine Detailaufnahme.<br> Die Anlage beinhaltet 3 Lochstreifenleser, Lochstreifenstanzer, Eingabetastatur und IBM Kugelkopfmaschine als Drucker. Sie wurde 1968 in Deutschland gebaut. Ausgerüstet mit Kernspeicher und gefädeltem ROM konnte man den Rechner fast beliebig programmieren (auch wissenschaftliche Funktionen).</br>
-		<br>Es ist herrlich, dem Rechner z.B. bei der Berechnung der Wurzel einer Zahl zuzuschauen. Spätestens dann versteht man, was ein Algorithmus ist! Da sich das gesamte Programm auf dem Lochstreifen befindet, kann man jeden Rechenschritt und alle Programmsprünge anhand der Bewegung des Lochstreifens verfolgen.</br>
+		<br>Der<b> NCR 446 </b> ist ein Rechner der 2. Generation (Transistortechnik). Er wurde ab 1966/67 in Deutschland von 4 Ingenieuren entwickelt, die gerade ihr Examen an der Universität absolviert hatten. Im Jahre 1968 war er marktreif. Die Architektur ist ungewöhnlich. Das gesamte Programm befindet sich auf dem Lochstreifen im Programmleser. Verknüpfungen werden in einem gefädeltem ROM ausgeführt. Die Anlage wurde als "Elektronische Fakturiermaschine" angeboten, weil das ihr Hauptanwendungsgebiet war. Dennoch verwendeten auch Statiker den Rechner, da er praktisch beliebig programmierbar war (und natürlich immer noch ist!). <br>
+		Durch Anklicken des Bildes erhält man eine Detailaufnahme.<br> Die Anlage beinhaltet neben dem Programmleser noch zwei Daten-Lochstreifenleser, einen Lochstreifenstanzer, die Eingabetastatur und eine IBM Kugelkopfmaschine als Drucker.</br>
+		<br>Es ist herrlich, dem Rechner z.B. bei der Berechnung der Wurzel einer Zahl zuzuschauen. Spätestens dann versteht man, was ein Algorithmus ist! Da sich das Programm auf dem Lochstreifen befindet, kann man jeden Rechenschritt und alle Programmsprünge anhand der Bewegung des Lochstreifens verfolgen.</br>
 		<br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: "<a href="/de/geraete/details-ncr446.shtm">Reparatureinblicke</a>"</div>
         <p class="clear">&nbsp;</p>
     </div>

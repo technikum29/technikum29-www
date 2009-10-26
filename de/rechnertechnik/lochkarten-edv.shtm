@@ -42,7 +42,13 @@
         <p class="bildtext-bildbreite" style="width: 580px;"><b>IBM 029 und JUKI Lochkartenstanzer</b> Rechts im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), links der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
         <div class="clear">&nbsp;</div>
     </div>
-
+<div class="box center">
+        <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />
+        <p class="bildtext-bildbreite" style="width: 580px;">Der <b>UNIVAC Lochkartenstanzer 1710</b> kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
+		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man Stanzprogramme (z.B. Feldsprünge) und auch Daten speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
+		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
+        <div class="clear">&nbsp;</div>
+    </div>
     <div class="box center">
         <a name="backlink-sortierer" href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
 
@@ -83,7 +89,7 @@
     <div class="box center">
          <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
          <p class="bildtext">
-             <b>IBM 548</b>. Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Für unsere Zwecke ist ein Nachteil gravierend: Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. Die Beschriftung einer FORTRAN-Lochkarte ist dann fast unlesbar.
+             <b>IBM 548</b>. Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. 
 			 <br>Vorne ist das Programmierfeld zu sehen</br>
          </p>
      </div>

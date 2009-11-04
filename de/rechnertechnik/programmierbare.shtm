@@ -23,7 +23,7 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-    <p>Rechner der 2. Generation hatten noch keine integrierten Schaltkreise. Das erschwerte den Bau leistungsf&auml;higer Rechner erheblich. Daher sind programmierbare Rechner dieser Spezies technisch besonders interessant. Schon 1966 brachte die deutsche Firma DIEHL einen solchen Rechner auf den Markt. Das Betriebsprogramm wird &uuml;ber einen Metall-Lochstreifen "gebootet" (siehe "Speichermedien"), Anwenderprogramme auf Papier-Lochstreifen gestanzt, die wieder eingelesen werden k&ouml;nnen. Wahrlich die Steinzeit programmierbarer Rechner! Solche Komplett-Anlagen sind sehr rar.</p>
+    <p>Rechner der 2. Generation hatten noch keine integrierte Schaltkreise. Das erschwerte den Bau leistungsf&auml;higer Rechner erheblich. Daher sind programmierbare Rechner dieser Spezies technisch besonders interessant. Schon 1966 brachte die deutsche Firma DIEHL einen solchen Rechner auf den Markt. Das Betriebsprogramm wird &uuml;ber einen Metall-Lochstreifen "gebootet" (siehe "Speichermedien"), Anwenderprogramme auf Papier-Lochstreifen gestanzt, die wieder eingelesen werden k&ouml;nnen. Wahrlich die Steinzeit programmierbarer Rechner! Solche Komplett-Anlagen sind sehr rar.</p>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="690" height="232" />

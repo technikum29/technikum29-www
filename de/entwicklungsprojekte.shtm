@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="entwicklungsprojekte"
    --><!--#set var="url_en"       value="development-projects.shtm"
    --><!--#set var="part"         value="projekte"
-   --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
-   --><!--#set var="prev_title"   value="Speichermedien"
+   --><!--#set var="prev"         value="sonstiges.shtm"
+   --><!--#set var="prev_title"   value="Pianola und Anderes"
    --><!--#set var="next"         value="lernprojekte/"
    --><!--#set var="next_title"   value="Lernprojekte"
    -->

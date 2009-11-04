@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="Pianola und Anderes"
+   --><!--#set var="location"     value="sonstiges"
+   --><!--#set var="url_en"       value=""
+   --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
+   --><!--#set var="prev_title"   value="Speichermedien"
+   --><!--#set var="next"         value="entwicklungsprojekte.shtm"
+   --><!--#set var="next_title"   value="Entwicklungsprojekte"
+   -->
+    <title>technikum29 - <!--#echo var="title" --></title>
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+	<p>    <i>Diese Seite befindet sich im Aufbau. Bitte schauen Sie später nocheinmal
+	          vorbei</i>
+			  
+	</p>
+	
+	
+</div><!-- id=content -->
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

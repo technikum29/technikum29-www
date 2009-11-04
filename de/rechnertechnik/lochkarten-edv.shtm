@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Lochkartenger&auml;te"
+<head><!--#set var="title"        value="Lochkarten-Peripherie"
    --><!--#set var="location"     value="lochkarten"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/punchcard.shtm"
-   --><!--#set var="prev"         value="tabelliermaschine.shtm"
-   --><!--#set var="prev_title"   value="Tabelliermaschine"
+   --><!--#set var="prev"         value="gamma10.shtm"
+   --><!--#set var="prev_title"   value="BULL GAMMA 10"
    --><!--#set var="next"         value="elektronenroehren.shtm"
    --><!--#set var="next_title"   value="Tischrechner mit Elektronenr&ouml;hen"
  --><title>Technikum29 - <!--#echo var="title" --></title>
@@ -38,13 +38,13 @@
     <p>Ein typischer Maschinenpark bestand aus den Lochkartenstanzern (hier entstand der Beruf der "Locherin"), mit dem die Informationen und Daten auf Karten gestanzt wurden, einem Kartenmischer, der die Karten aus verschiedenen Stapeln (z.B. Adressen, Rechnungen) in die jeweils richtige Reihenfolge brachte, einem Sortierer, der Lochkarten nach vorgegebenen Bedingungen sortieren konnte und eventuell einem Lochschriftübersetzer, der die gestanzte Information als Klartext an eine vorbestimmte Stelle der Lochkarte schrieb.</p>
 
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="323" />
-        <p class="bildtext-bildbreite" style="width: 580px;"><b>IBM 029 und JUKI Lochkartenstanzer</b> Rechts im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), links der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+        <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
+        <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b>  Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
         <div class="clear">&nbsp;</div>
     </div>
 <div class="box center">
         <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />
-        <p class="bildtext-bildbreite" style="width: 580px;">Der <b>UNIVAC Lochkartenstanzer 1710</b> kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
+        <p class="bildtext">Der <b>UNIVAC Lochkartenstanzer 1710</b> kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
 		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man Stanzprogramme (z.B. Feldsprünge) und auch Daten speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
 		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
         <div class="clear">&nbsp;</div>
@@ -62,7 +62,7 @@
 
     <div class="box center">
         <a href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm_083.jpg" alt="IBM 083 Sortiermaschine" width="569" height="487" /></a>
-        <p class="bildtext-bildbreite" style="width: 570px;">
+        <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
             Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut.
 	    <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>

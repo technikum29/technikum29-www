@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="NCR 446 program reader"
+<head><!--#set var="title"        value="NCR 446 program reader and tape puncher"
    --><!--#set var="location"     value="ncr446"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/ncr446.shtm"
@@ -26,9 +26,9 @@
 <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
-   <img src="/shared/photos/rechnertechnik/ncr-446,detail.jpg" alt="NCR detailed photography" width="670" height="433" />
+   <img src="/shared/photos/rechnertechnik/ncr-446,detail.jpg" alt="NCR detailed photography" width="669" height="502" />
    <div class="bildtext-bildbreite" style="width: 670px">
-      <p>The case on the left contains the program reader station for the program paper tapes. The device on the right side is the paper tape uncher.</p>
+      <p>The case on the left contains the program reader station for the program paper tapes. The device on the right side is the paper tape puncher.</p>
       <!--
       <ul id="nav">
           <li><a href="/en/computer/commercial.shtm#ncr-backlink">Early commercial computers: NCR 446</a></li>

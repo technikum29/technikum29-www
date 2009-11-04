@@ -31,7 +31,7 @@
     <p>In contrast to computers used for scientific applications, commercial data processing systems have a different structure since they are optimized to support large storage systems and to process lots of data like in payroll applications and the like. Sometimes the distinction between scientific and commercial systems is not a clear one. The examples below are typical small to medium systems for commercial applications.</p>
 
     <div class="box right">
-       <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="371" />
+       <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
        <div class="bildtext">
           <b>Olivetti P 203</b>
           <p>In 1968 the Olivetti P 101 with enlarged memory capacity was coupled with an electric type writer which led to a system capable of printing the results of computations directly. This system is of a remarkable design and won quite some prices for Olivetti in its time. The following machines made by Olivetti departed from that and were packaged in simple cubic enclosures.</p>
@@ -40,7 +40,7 @@
     </div>
     
     <div class="box center">
-        <a href="/en/devices/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="Photography of the NCR 446" width="670" height="451" /></a>
+        <a href="/en/devices/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-rechner.jpg" alt="Photography of the NCR 446" width="670" height="502" /></a>
         <div class="bildtext-bildbreite" style="width: 670px;">
             <p>Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.
             <br/>Clicking on the picture yields a <href="/en/devices/ncr446.shtm">more detailed picture</a></p>

@@ -27,35 +27,35 @@
        posts are on top.</p>
 
     <ul class="news-feed">
-		<li><h3>October 2009</h3>
-		    <div class="box left">
-			<img src="/shared/photos/rechnertechnik/1710.jpg" alt="Photography of the Univac 1770 verifying interpreting punch" width="166" height="136" class="nomargin-bottom" /> 
-			<p class="bildtext">
-				New devices: <a href="/en/computer/punchcard.shtm#univac1710" class="go">UNIVAC 1710 Verifying Interpreting Punch</a>
-				<br/>suitable to our <a href="/en/computer/univac9400.shtm">Univac 9400 mainframe</a>
-			</p>
-			<div class="clear"></div>
-		    </div>
-		</li>
+                <li><h3>October 2009</h3>
+                    <div class="box left">
+                        <img src="/shared/photos/rechnertechnik/1710.jpg" alt="Photography of the Univac 1770 verifying interpreting punch" width="166" height="136" class="nomargin-bottom" /> 
+                        <p class="bildtext">
+                                New devices: <a href="/en/computer/punchcard.shtm#univac1710" class="go">UNIVAC 1710 Verifying Interpreting Punch</a>
+                                <br/>suitable to our <a href="/en/computer/univac9400.shtm">Univac 9400 mainframe</a>
+                        </p>
+                        <div class="clear"></div>
+                    </div>
+                </li>
 
-		<li><h3>October 2009</h3>
-		    There's a new page, <a class="goto" href="development-projects.shtm">Development Projects</a>,
-		    where we'll exhibit some of our interdisciplinary development
-		    efforts.
-		</li>
+                <li><h3>October 2009</h3>
+                    There's a new page, <a class="goto" href="development-projects.shtm">Development Projects</a>,
+                    where we'll exhibit some of our interdisciplinary development
+                    efforts.
+                </li>
 
-		<li><h3>July 2009</h3>
-		    <div class="box left">
-			    <img src="/shared/photos/rechnertechnik/ibm1442.jpg" alt="The IBM 1442 punch card reader/puncher (Photography)" width="166" height="168" class="nomargin-bottom" />
-				<div class="bildtext">
-				  <p>This <b>IBM 1442</b> card reader/puncher, year of manufacture 1966, is one of the
-				  new devices we got this month. It was a peripheral device for the IBM 1130 or IBM 360
-				  computer. Since we do not have either of them, we plan to connect this device to
-				  a PC with an interface that we are currently developing.</p>
-				</div>
-				<div class="clear"></div>
-			</div>
-		</li>
+                <li><h3>July 2009</h3>
+                    <div class="box left">
+                            <img src="/shared/photos/rechnertechnik/ibm1442.jpg" alt="The IBM 1442 punch card reader/puncher (Photography)" width="166" height="168" class="nomargin-bottom" />
+                                <div class="bildtext">
+                                  <p>This <b>IBM 1442</b> card reader/puncher, year of manufacture 1966, is one of the
+                                  new devices we got this month. It was a peripheral device for the IBM 1130 or IBM 360
+                                  computer. Since we do not have either of them, we plan to connect this device to
+                                  a PC with an interface that we are currently developing.</p>
+                                </div>
+                                <div class="clear"></div>
+                        </div>
+                </li>
         <li><h3>July 2009</h3>
             We're urgently <a href="/en/search.shtm" class="go">looking for manuals for an Anelex drum printer</a>.
         </li>
@@ -73,3 +73,7 @@
 <!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>
+
+
+
+

@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="NCR 446 Program-Reader"
+<head><!--#set var="title"        value="NCR 446 Lochstreifenverarbeitung"
    --><!--#set var="location"     value="ncr446"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/ncr446.shtm"
@@ -23,9 +23,9 @@
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="box center">
-   <img src="/shared/photos/rechnertechnik/ncr-446,detail.jpg" alt="NCR Detailaufnahme" width="670" height="433" />
+   <img src="/shared/photos/rechnertechnik/ncr-446,detail.jpg" alt="NCR Detailaufnahme" width="670" height="502" />
    <div class="bildtext-bildbreite" style="width: 670px">
-      <p>Links befindet sich die Lesestation für den Programmlochstreifen, rechts ist ein Teil des Stanzers zu sehen</p>
+      <p>Links befindet sich die Lesestation für den Programmlochstreifen, rechts der Stanzer und ganz rechts ein Datenlochstreifenleser. </p>
    </div>
 </div>
 

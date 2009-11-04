@@ -23,8 +23,8 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsf&auml;higer Rechner. Hier ist auch der teuerste Tischrechner der Welt aufgebaut: WANG 700 (kostete mit sehr umfangreicher Peripherie deutlich &uuml;ber 70.000,-DM bzw. 35.000 Euro).
-      <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgef&uuml;hrt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Gr&ouml;&szlig;e einer Zigarrenkiste auf den Markt.
+      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: WANG 700 (kostete 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM bzw. 35.000 Euro).
+      <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
       <a class="go" href="/de/details1.shtm" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
 
       <div class="box center">
@@ -43,7 +43,7 @@
 		 <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="Diehl Combitronic Anlage" width="526" height="420"/>
           <div class="bildtext">
 		  
-		  Die von <b>DIEHL</b> 1970-72 verkaufte <b>Combitronic</b> ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; der gesamte Rechner ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Leser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de/geraete/diehl-combitronic.shtm">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
+		  Die von <b>DIEHL</b> 1970-72 verkaufte <b>Combitronic</b> ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; die gesamte Rechnerlogik ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Lochstreifenleser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de/geraete/diehl-combitronic.shtm">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
 		  </div>
 	</div>
 

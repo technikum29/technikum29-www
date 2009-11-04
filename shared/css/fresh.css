@@ -321,8 +321,8 @@ h1.de-v3 a {
     padding-bottom: 0;  /* Kleines Workaround, um keine Riesenabstaende */
     margin-bottom: 5%;  /* unten zu kriegen, denn margins ueberlagern sich */
 
-    min-height: 1340px; /* fuer kurze Seiten */
-    height: 1340px; /* IE workaround */
+    min-height: 1450px; /* fuer kurze Seiten */
+    height: 1450px; /* IE workaround */
     overflow: visible;
     position: relative; /* für #sidebar-footnote, absolut dazu positiniert */
 }

@@ -24,6 +24,12 @@
     <meta name="DC.Language" content="en" />
     <meta name="robots" content="index,follow" />
 
+    <!-- Geotagging, war frueher in t29.de/index.html, gibts 
+         aber jetzt nicht mehr, also ueberall ;-) -->
+    <meta name="geo.position" content="50.1451473;8.4456586" />
+    <meta name="geo.placename" content="technikum29 computer museum" />
+    <meta name="ICBM" content="50.14514738, 8.4456586" />
+
     <!-- technikum29.de general SSI homepage header, $Id$ -->
 <!--#set var="heading" value='<div class="${location} ${part}"><div id="wrapper">
 <h1 class="en"><a href="/en/" title="Go to technikum29 homepage" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>

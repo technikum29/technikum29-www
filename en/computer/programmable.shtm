@@ -15,7 +15,6 @@
     <meta name="keywords" lang="en" content="technikum, programmable calculators, Diehl Combitron, Programma 101, Olivetti, delay line memory, second-generation calculator" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="21.08.2007/v5.7.5, Teile von B.Ulmann" />
     <!--changelog: 24.03.2007/v5.6.8 auf Basis von 2005/v4.1.1 -->
@@ -35,8 +34,8 @@
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="690" height="232" />
         <p class="bildtext"><b>DIEHL Combitron</b>. This is the first operative
-        programmable desk calculator that was built and selled in Germany. On the right hand side you see the DIEHL
-        Dilector (paper tape reader) and on the left hand side the DIEHL ELS 830 (paper tape puncher). The system is fully executable.
+        programmable desk calculator that was built and selled in Germany. Right you see the DIEHL
+        Dilector (paper tape reader) and left the DIEHL ELS 830 (paper tape puncher). The system is fully executable.
         The <a href="storage-media.shtm#delay-line-memory" class="go">delay line memory</a> serves as storage media
         (capacity ca. 1000 Bit).</p>
     </div>
@@ -57,21 +56,24 @@
     <p>The WANG 320 is an outstanding machine in the collection. It was built in 1967 and is extremely rare nowadays. The system can be programmed using punched cards and features multiple keyboards, a sensational feature in its time.</p>
 
     <div class="box center">
-        <a href="/en/devices/wang320.shtm" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang_320se.jpg" alt="WANG 320 SE" width="557" height="375" /></a>
+        <a href="/en/devices/wang320.shtm" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
         <p class="bildtext-bildbreite" style="width: 557px;"><b>wang 320 SE</b>.
             In 1966/1967 the WANG 320 SE was a flag ship calculator. Two of its features were truly sensational for its time: It could calculate quickly logarithms and anti-logarithms (in fact this took less time than the calcultion of a square root) and up to four keyboards could be connected to a single calculator unit thus the machine was in fact a time sharing system. Further more the system could be programmed using punched cards &ndash; running programs were suspended for a short period of time to allow interactive users access to the machine. The 80 column punched cards could be prepared manually  using a stencil. These features made the calcultar a perfect match for schools and universities. While the slide rule was in use in most of these places thismachine allowed them to enter the field of computer science. <br/>
             Clicking on the picture will show a <a class="go" href="/en/devices/wang320.shtm">larger and more detailed version</a>.
        </p>
     </div>
 
-    <div class="box left">
-       <img src="/shared/photos/rechnertechnik/hp9100.jpg" alt="HP 9100" width="408" height="329" class="nomargin-bottom" />
+    <div class="box center">
+       <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="557" height="432" />
        <div class="bildtext">
            <b>HP 9100</b>
            <p>In 1968 the first desktop calculator made by HP hit the market and was a truly outstanding machine. All of its internal logic is implemented using discrete transistor logic without a single integrated circuit. The machine supports a wealth of mathematical and scientific functions and employs a magnetic core memory, so even after a power off the contents of memory (data and programs) are preserved. Magnetic cards serve as external storage media. The printer shown on top of the HP 9100 is an optional device. The heart of the display is a CRT on which the contents of three internal registers are displayed. The character generation is controlled by a wired ROM. This technological marvel indeed had its price &ndash; with a price of 23 000&nbsp;DM for the basic version it was not affordable for individuals.
            <br/>Only two years later WANG brought the <a class="go" href="ic-technology.shtm#backlink-wang700">WANG 700</a> to the market in direct competition to the HP 9100.
            </p>
         </div>
+		<div class="box center">
+       <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" alt="HP-9100-Display" width="557" height="198" />
+       <p class="bildtext-bildbreite" style="width: 557px;"> Display of HP 9100.</p></div>
        <div class="clear">&nbsp;</div>
     </div>
 

@@ -68,7 +68,7 @@
 -->
 
       <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/huth_e72.jpg" width="474" height="319" alt="HUTH-Empf&auml;nger (HUTH-Receiver)" />
+          <img src="/shared/photos/kommunikationstechnik/huth.jpg" width="600" height="385" alt="HUTH-Empf&auml;nger (HUTH-Receiver)" />
           <p class="bildtext">Receiver made by Signalbau Huth (model E72):
             This is an example of a cheap
             receiver made in 1928. It was one of the first models which could
@@ -93,7 +93,7 @@
       <p>There have always been devices that have been built very aesthetically.
         One of these devices is the Telefunken T 40W.</p>
 
-      <div class="box right">
+      <div class="box left">
          <a href="/en/devices/telefunken_t40w.shtm"><img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" alt="Photography of the Telefunken T40W" class="nomargin-bottom"></a>
          <p class="bildtext">
             Clicking on the picture yields the
@@ -119,7 +119,7 @@
 
       <div class="box left">
           <!-- Section new at 12.10.2008 from de -->
-          <img src="/shared/photos/kommunikationstechnik/musikschrank.jpg" width="310" height="465" alt="Telefunken radiogramophone" />
+          <img src="/shared/photos/kommunikationstechnik/telefunken,musikschrank.jpg" width="350" height="610" alt="Telefunken radiogramophone" />
           <p class="bildtext">
               Having intelligent all-in-one furniture suitable for all kinds of music is an old dream
               which appeared some years after the introducion of mass broadcasting. The radiogramophone
@@ -144,7 +144,7 @@
 -->
 
       <div class="box center">
-          <img src="/shared/photos/kommunikationstechnik/ultramar.jpg" width="354" height="336" alt="K&ouml;rting Ultramar" />
+          <img src="/shared/photos/kommunikationstechnik/ultramar3.jpg" width="600" height="533" alt="K&ouml;rting Ultramar" />
           <p class="bildtext"><b>K&ouml;rting Ultramar</b>: One of the most
             nobel, most complex and most expensive recievers made in 1935.
             Its circuitry contains 11 vacuum tubes driving two loudspeakers
@@ -154,7 +154,7 @@
       </div>
 
       <div class="box left">
-          <img src="/shared/photos/kommunikationstechnik/metz.jpg" width="351" height="319"
+          <img src="/shared/photos/kommunikationstechnik/metz,koffer.jpg" width="400" height="333"
              alt="Metz portable reciever" class="nomargin-bottom" />
           <p class="bildtext">The portable reveceiver from Metz, built in
             1956 and shown above, is another outstanding piece of equipment.

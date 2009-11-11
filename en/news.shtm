@@ -27,6 +27,21 @@
        posts are on top.</p>
 
     <ul class="news-feed">
+		<li><h3>November 2009</h3>
+		   We're about to publish the new page about <a class="go" href="miscellaneous.shtm">The Pianola and Miscellaneous</a>
+		   were you can see some highly interesting exhibits that neither match computer nor
+		   communication technology.
+		</li>
+
+
+		<li><h3>November 2009</h3>
+		   There are many new pictures on our page about <a class="go" href="communication/broadcasting">Broadcasting</a>,
+		   there will be new more verbose texts soon (you can read them already in german). We're about to
+		   gradually replace all low quality images with high resolution pictures. Pleace take care that
+		   they are still protected by international copyright law. If you want to use some of them,
+		   please <a href="contact.shtm">contact us</a>.
+		</li>
+
                 <li><h3>October 2009</h3>
                     <div class="box left">
                         <img src="/shared/photos/rechnertechnik/1710.jpg" alt="Photography of the Univac 1770 verifying interpreting punch" width="166" height="136" class="nomargin-bottom" /> 

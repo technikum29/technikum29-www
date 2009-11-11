@@ -7,8 +7,8 @@
    --><!--#set var="url_de"       value="rechnertechnik/speichermedien.shtm"
    --><!--#set var="prev"         value="analog.shtm"
    --><!--#set var="prev_title"   value="Analog and digital-analog computers"
-   --><!--#set var="next"         value="../development-projects.shtm"
-   --><!--#set var="next_title"   value="Development Projects"
+   --><!--#set var="next"         value="../miscellaneous.shtm"
+   --><!--#set var="next_title"   value="Miscellaneous"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->

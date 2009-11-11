@@ -36,7 +36,7 @@
 
     <div class="box center">
         <img src="/shared/photos/kommunikationstechnik/kosmograph.jpg" width="546" height="407" alt="Dictating-machine KOSMOGRAPH" />
-        <p class="center">Dictating-machine <b>KOSMOGRAPH</b> from the dictating machine factury of Dresden (1935)</p>
+        <p class="bildtext-bildbreite" style="width: 546px;">Dictating-machine <b>KOSMOGRAPH</b> from the dictating machine factury of Dresden (1935)</p>
     </div>
 
     <div class="box center">
@@ -73,8 +73,8 @@
             <!-- start of Paragraph "Klein-Reporter W 52", translated 27.07.2008 -->
             <p>Among others, dictating machines also used wires as sound storage media. Thus they could be built quite compactly. The width of a wire tape is only 7cm (about 1.5 inch), but it records about 100 minutes.</p>
 
-            <p><img src="/shared/photos/kommunikationstechnik/klein-reporter,spulen.jpg" width="272" height="204" alt="Photography of the Klein-Reporter (backside)" style="float:left;"/>
-               <img src="/shared/photos/kommunikationstechnik/klein-reporter.jpg" width="194" height="204" alt="Photography of the Klein-Reporter W 52 by REICHHALTER" style="float:right;"/></p>
+            <p><img src="/shared/photos/kommunikationstechnik/reichhalter.diktiergeraet.jpg" width="546" height="222" alt="Photography of the Klein-Reporter"/>
+               </p>
             <div class="clear"></div>
 
             <p>The <b>Klein-Reporter W 52</b> (translated literally "small reporter") was made by the german firm REICHHALTER, year of manufacture 1952. On the record which is pictured in the photography one can listen to an original reading about the allied powers in Germany after the World War II. This record is at least 55 years old! Apparently the magnetization of the wire is still very good. </p>

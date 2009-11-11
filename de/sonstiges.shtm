@@ -1,26 +1,45 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Pianola und Anderes"
+<head><!--#set var="title"        value="Pianola, Kinomaschine und Anderes"
    --><!--#set var="location"     value="sonstiges"
-   --><!--#set var="url_en"       value=""
+   --><!--#set var="url_en"       value="miscellaneous.shtm"
    --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
    --><!--#set var="prev_title"   value="Speichermedien"
    --><!--#set var="next"         value="entwicklungsprojekte.shtm"
    --><!--#set var="next_title"   value="Entwicklungsprojekte"
    -->
     <title>technikum29 - <!--#echo var="title" --></title>
+
     <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2><br>
 
-	<p>    <i>Diese Seite befindet sich im Aufbau. Bitte schauen Sie später nocheinmal
-	          vorbei</i>
-			  
-	</p>
+	    <h3>1. Pianola</h3>
+	<p>Unser Museum ist recht vielseitig. Neben der Kommunikations- und Computertechnik haben wir auch einen Leckerbissen der besonderen Art zu bieten: Eine funktionsfähige Pianola, Bj. ca. 1910-15.<br>
+	Es ist unglaublich, was die Menschen zu dieser Zeit an Wunderwerken bezüglich Musikautomaten entworfen und hergestellt haben. Verwendet wurden dabei nur sehr einfache und natürliche Materialien:<br>
+	Darmleder, Leder, Gummi, Holz, Knochenleim, Filz, Metall, Papier, Elfenbein und Glas. <br>
+	Wenn man das sehr geschickt zusammenbaut, entsteht ein Automat, der heute noch hochtechnisierte Menschen zum Staunen und Raunen bringt. Wir zeigen Ihnen vor Ort wie dieses Gerät funktioniert, erklären die Grundlagen der Pianola-Physik und spielen Musikstücke, die kein Pianist spielen kann! Dabei haben Sie bei geöffneter Verkleidung Einblick in die faszinierende Mechanik.</p>
+	 <div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/pianola.jpg" alt="Abbildung der Pianola" width="700" height="618" class="nomargin-bottom" />
+        <div class="bildtext"><b>Pianola</b>
+        <div class="clear">&nbsp;</div>
+    </div></div>		  </p>
+	
+	<p>    <h3>2. Kinomaschine</h3>
+	
+	<div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/kinomaschine.dresden1.jpg" alt="Abbildung der Kinomaschine Dresden 1" width="350" height="630" />
+        <div class="bildtext"><b>Kinomaschine Dresden D1</b></p>
+        
+    </div></div>		  
+	<p>Auch das gibt es im <b>technikum29</b>: Eine Kinomaschine aus dem Jahre 1951. Weitere Kinomaschinen aus den 30ern stehen aus Platzgründen im Archiv.<br>
+	Filmvorführmaschinen beinhalten auch eine recht komplexe Mechanik; schließlich musste die helle und weiße Bildausleuchtung mit Hilfe eines Bogenlichtes zwischen zwei Kohlestiften erzeugt werden. Die als Folge der Verbrennung entstehende Hitze wurde durch einen Kamin abgeleitet! Da die Stifte während der Vorführung immer kürzer werden, müssen sie kontinuierlich aufeinander zu driften, damit deren Abstand und damit die Lichtstärke konstant bleibt. Ansonsten erlischt der Bogen und das Kinopublikum dankt es mit lautstarken Protesten.<br>
+	Diese Maschine werden wir noch reparieren um Ihnen dann einen originalen Wochenschaufilm aus den 60er Jahren ("FOX TÖNENDE WOCHENSCHAU") vorführen zu können.</p>
 	
 	
 </div><!-- id=content -->

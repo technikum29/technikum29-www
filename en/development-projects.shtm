@@ -4,8 +4,8 @@
 <head><!--#set var="title"        value="Development Projects"
    --><!--#set var="location"     value="entwicklungsprojekte"
    --><!--#set var="url_de"       value="entwicklungsprojekte.shtm"
-   --><!--#set var="prev"         value="computer/storage-media.shtm"
-   --><!--#set var="prev_title"   value="Storage media"
+   --><!--#set var="prev"         value="miscellaneous.shtm"
+   --><!--#set var="prev_title"   value="Miscellaneous"
    --><!--#set var="next"         value="news.shtm"
    --><!--#set var="next_title"   value="What's new?"
    -->

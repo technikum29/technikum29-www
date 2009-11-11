@@ -4,8 +4,8 @@
 <head><!--#set var="title"        value="Wang 320 SE"
    --><!--#set var="location"     value="wang320"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/wang320.shtm"
-   --><!--#set var="title_de"     value="Wang 320 SE"
+   --><!--#set var="url_de"       value="geraete/magnetdrahtspeicher.shtm"
+   --><!--#set var="title_de"     value=""
    --><!--#set var="prev"         value="/en/computer/programmable.shtm#backlink-wang320"
    --><!--#set var="prev_title"   value="Programable second-generation calculators"
    --><!--#set var="next"         value=""
@@ -26,7 +26,7 @@
     <h2 class="center"><!--#echo var="title" --></h2>
 
 <div class="center">
-   <img src="/shared/photos/rechnertechnik/wang_320se-keyboard.jpg" alt="Wang 320 SE" width="595" height="446" />
+   <img src="/shared/photos/rechnertechnik/wang320,keyboard.jpg" alt="Wang 320 SE" width="600" height="596" />
    <!--
    <div class="bildtext-bildbreite" style="width: 595px;">
       <ul id="nav">

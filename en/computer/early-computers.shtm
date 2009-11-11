@@ -38,15 +38,13 @@
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
     <div class="box center">
-       <img src="/shared/photos/rechnertechnik/dec/pdp_8.jpg" width="504" height="521" alt="PDP 8 Classic" />
+       <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
        <p class="bildtext">
          One of the museal highlights: The complete PDP 8 system with processor,
          big tape deck TU 580 (originally belongs to the PDP 5, year of manufacture
          1963), punch card reader/puncher PC 01, hard disc DF 32 with immovable heads
          and a teletype as printer. The Classic-8 is called the world's first mass-produced
          "minicomputer". Without ICs or their ancestor it is a seccond-generation apparature.
-         <br />The CPU and paper tape reader are loans from the <a href="http://www.fitg.de/fitg_english/">FITG (Association for the promition of industrial and technological history)</a>.
-
          <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
          strong men can lift the computer. It is better to have four people to carry it!.
@@ -57,7 +55,7 @@
     </div>
 
     <div class="box left">
-        <img src="/shared/photos/rechnertechnik/dec/pdp_8i.jpg" alt="DEC PDP 8I" width="317" height="441" />
+        <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" /
         <div class="bildtext">
             <h3>PDP 8I</h3>
             <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
@@ -74,11 +72,11 @@
         <div class="clear">&nbsp;</div>
     </div>
 
-    <div class="box right">
-        <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab_8e.jpg" width="317" height="486" alt="LAB 8e" class="nomargin-bottom" /></a>
+    <div class="box left">
+        <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
         <!-- other picture -->
         <div  class="bildtext">
-            <h3>Lab 8e</h3>
+            <h3>Lab 8e, PDP 8e</h3>
             <p>Successor of the PDP8i was the PDP8e (1970). This computer had already an
              internal bus system. So you could easily attach any periphery with interface cards. This
              feature made the "Mini"computer all-purpose. This Computer type was offered with diverse
@@ -87,8 +85,7 @@
             <ul>
                 <li>VR 12 (oscilloscope display)</li>
                 <li>PC 04 (High speed paper tape reader/puncher)</li>
-                <li>2 x TU 56 (double tape drive)</li>
-                <li>RK 05 (removable disk drive)</li>
+                <li>3 x TU 56 (double tape drive)</li>
                 <li>A/D- and D/A-converter</li>
             </ul>
         </div>

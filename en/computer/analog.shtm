@@ -171,7 +171,27 @@
              nixie tubes as a display), a digital counter, two function generators and many more.
              This computer was built in the early 1970s and was priced at 80.000 DM (about 40.000 euro/dollar)
          </p>
+         <div class="clear"></div>
     </div>
+
+    <div class="box center">
+        <h3 class="center">(Cylindrical) slide rules</h3>
+         <img src="/shared/photos/rechnertechnik/rechenschieber.jpg"
+          alt="Slide rule (slipstick) and Cylindrical slide rule" width="694" height="161"/>
+         <p class="bildtext">
+             Last but not least a mechanical analog computer that was used up to
+             the 1970s for scientific calculations without hand and desk calculators.
+             <br/>The picture above displays a 1.8m long demo slide rule
+             made of wood (1950s) that was used in schools for students since the
+             10th grade. Compared to hand calculators, these analog computers
+             also had some advantages: Students could not give absurd computing
+             precisions, these "computers" were cheap and quite fast. The big
+             disadvantage was that adding and subtracting was not possible at all.
+             <br/>To get higher precisions in the 1920s, there was this
+             "Cylindrical slide rule". This 60cm NESTLER device can be compared
+             to an ordinary slide rule measuring 12.50m.
+	  </p>
+     </div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

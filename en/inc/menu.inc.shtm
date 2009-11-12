@@ -43,10 +43,12 @@
         <li class="l2"><div<!--#if expr="($part) && ($part = computer)" --> class="on"<!--#endif -->><em class="l2">Computer Technology</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/en/computer/electro-mechanical.shtm"<!--#endif -->>(Elektro-) mechanical calculators<span>&nbsp;</span></a></li>
-                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location = gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
                     <ul>
-                        <li class="long"><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>Tabulating machine, BULL GAMMA 3 and GAMMA 10<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif -->>Punch card devices<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>BULL Tabulating machine<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/en/computer/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/en/computer/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif --> title="Punch card devices">Peripheral card devices<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>
                 <li class="l3"><div<!--#if expr="($location = elektronenroehren) || ($location = transistoren) || ($location = programmierbare) || ($location = ic-technik)"--> class="on"<!--#endif -->><em>Electronical desk calculators<span>&nbsp;</span></em>

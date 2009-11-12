@@ -15,9 +15,7 @@
     <meta name="keywords" lang="en" content="technikum, programmable calculators, Diehl Combitron, Programma 101, Olivetti, delay line memory, second-generation calculator" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="21.08.2007/v5.7.5, Teile von B.Ulmann" />
-    <!--changelog: 24.03.2007/v5.6.8 auf Basis von 2005/v4.1.1 -->
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -70,11 +68,11 @@
            <p>In 1968 the first desktop calculator made by HP hit the market and was a truly outstanding machine. All of its internal logic is implemented using discrete transistor logic without a single integrated circuit. The machine supports a wealth of mathematical and scientific functions and employs a magnetic core memory, so even after a power off the contents of memory (data and programs) are preserved. Magnetic cards serve as external storage media. The printer shown on top of the HP 9100 is an optional device. The heart of the display is a CRT on which the contents of three internal registers are displayed. The character generation is controlled by a wired ROM. This technological marvel indeed had its price &ndash; with a price of 23 000&nbsp;DM for the basic version it was not affordable for individuals.
            <br/>Only two years later WANG brought the <a class="go" href="ic-technology.shtm#backlink-wang700">WANG 700</a> to the market in direct competition to the HP 9100.
            </p>
-        </div>
-		<div class="box center">
-       <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" alt="HP-9100-Display" width="557" height="198" />
-       <p class="bildtext-bildbreite" style="width: 557px;"> Display of HP 9100.</p></div>
-       <div class="clear">&nbsp;</div>
+       </div>
+    </div>
+    <div class="box center">
+       <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" alt="display of the HP-9100" width="557" height="198" />
+       <p class="bildtext-bildbreite" style="width: 557px;">Closeup of the HP 9100 tube display</p>
     </div>
 
     <p>Read further details at the <a class="go" href="/en/details1.shtm" title="Details 1">tabular overview of desk calculators</a></p>

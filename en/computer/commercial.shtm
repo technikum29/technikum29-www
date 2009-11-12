@@ -15,7 +15,7 @@
     <meta name="keywords" content="" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.SVN" content="$Id: commercial.shtm 121 2009-11-04 23:11:29Z heribert $" />
     <meta name="t29.germanoriginal" content="17.07.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="22.08.2007/v5.7.5" />
     <meta name="t29.comment" content="Mit v5.7.5 neueingeführt, Initialübersetzung von de" />

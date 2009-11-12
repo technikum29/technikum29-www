@@ -15,7 +15,7 @@
     <meta name="keywords" lang="en" content="technikum29, early computers, DEC PDP, WANG 2200" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
+    <meta name="t29.SVN" content="$Id: early-computers.shtm 123 2009-11-11 22:56:33Z heribert $" />
     <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
     <meta name="t29.thistranslation" content="22.08.2008/v5.8FINAL" />
     <meta name="t29.comments" content="Link to new DEC-HISTORY page" />

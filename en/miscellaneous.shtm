@@ -13,7 +13,7 @@
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id: search.shtm 108 2009-08-19 17:20:00Z heribert $" />
-    <meta name="t29.thistranslation" content="11.11.2009" />
+    <meta name="t29.thistranslation" content="12.11.2009" />
     <meta name="t29.comment" content="Initial announcement" />	
 </head>
 <body>
@@ -21,9 +21,50 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <p><i>This page hast not been translated yet. We'll inform you about
-    our pianola and our movie projector in just a few days, so keep an
-    eye on this page!</i></p>
+    <h3>Pianola</h3>
+    <p>The technikum29 is quite versatile &ndash; beside all the communication
+       and computer technology we also show very special exhibits: This is
+       a fully executable pianola, year of manufacture about 1910-1915.</p>
+
+    <p>
+       It's quite incredible to see these amazing marvels of technology,
+       concerning jukeboxes. They were typically made only of natural
+       materials like leather, gum, wood, bone glue, felt, metal, paper,
+       ivory and glas.
+       <br/>By assembling these elements on an intelligent way, you can
+       build a simple mechanical machine which is especially impressive
+       for today's people. Here at the technikum29, we will show you how
+       this device works, we will explain the basic functionality and
+       play challenging compositions. While having covers removed, you can
+       even see the fascinating mechanics working.
+    </p>
+
+     <div class="box center">
+       <img src="/shared/photos/kommunikationstechnik/pianola.jpg"
+         alt="Picture of the Pianola" width="700" height="618" class="nomargin-bottom" />
+     </div>
+
+    <h3>Movie projector</h3>
+
+     <div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/kinomaschine.dresden1.jpg"
+           alt="Photography of the movie projector Dresden 1" width="350" height="630" />
+     </div>
+
+     <p>The technikum29 also features a movie projector from 1951 (there are
+        more and even older projectors from the 1930s that are stored in the
+        archive for lack of space).</p>
+     <p>
+        Movie projectors have always been very complex devices. At that time,
+        the bright picture projection was archived with an arc light which was
+        generated between two carbon pencils. The waste heat was piped via a
+        chimney pipe! <!-- stupid mode... -->
+	Since the pencils got shorter and shorter while the movie went on, they
+	had to be moved continously closer together for producing a constant
+	luminosity. Otherwise the light goes out.
+        <br/>We will repair this device to show you an original german
+        newsreel from the 1960s ("FOX T&Ouml;NENDE WOCHENSCHAU").
+    </p>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

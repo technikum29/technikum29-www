@@ -1,26 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Punch card tabulator"
+<head><!--#set var="title"        value="BULL Tabulating machine"
    --><!--#set var="location"     value="tabelliermaschine"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/tabelliermaschine.shtm"
    --><!--#set var="prev"         value="electro-mechanical.shtm"
    --><!--#set var="prev_title"   value="(Electro-) mechanical calculators"
-   --><!--#set var="next"         value="punchcard.shtm"
-   --><!--#set var="next_title"   value="Punch card computing"
+   --><!--#set var="next"         value="gamma3.shtm"
+   --><!--#set var="next_title"   value="BULL GAMMA 3"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" content="" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="<!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="08.04.2008/v5.7.21" />
-    <meta name="t29.thistranslation" content="01.01.2009/03:08" />
-    <meta name="t29.comment" content="sync from the scratch" />
-    <!-- v5.7.5: Bildübersetzungsteile von Ulmann -->
-    <!--changelog: 18.06.2008/v5.7.22 based on 08.04.2008/v5.7.21: Komplettaenderungen an der Tabelliermaschine, GAMMA 3+10 neu -->
+    <meta name="t29.thistranslation" content="12.11.2009" />
+    <meta name="t29.comment" content="aufgetrennt und Inhaltlich synchronisiert" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -61,19 +57,20 @@
        it back running, so we can relive that historical moment. <!-- </LOL> -->
     </p>
 
-    <p><small>We would like to thank the <a href="www.feb-d.de">F.E.B.
+    <p><small>We would like to thank the <a href="http://www.feb-d.de">F.E.B.
        (Federation des Equipes Bull) Deutschland e.V.</a> for their assistance
        of the reperation of the tabulating machine</small></p>
 
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/bull-bs-pr/tabelliermaschine.jpg" width="679" height="658" alt="Bull PS BR Tabulating Machine" />
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/tabelliermaschine.jpg"
+         width="679" height="658" alt="Bull PS BR Tabulating Machine" />
         <p class="bildtext">The <b>Tabulating Machine Bull BS-pr</b>: With closed walls it
          looks like a strange chunk made of metal, but it comprises impressive
          electromechanical technology.
 	 <br />Multiplying and dividing mechanically needs lots of time. To shorten
-	 this amount of time, you could attach the "electronical calculator" BULL
-	 GAMMA&nbsp;3. The auxiliary tube calculator was only used for this purpose.
-	 Unfortunately it is no more available.</p>
+	 this amount of time, you could attach the <a href="gamma3.shtm">"electronical
+	 calculator" BULL GAMMA&nbsp;3</a>. The auxiliary tube calculator was
+         only used for this purpose.</p>
     </div>
 
     <!--
@@ -111,19 +108,19 @@
         The control and memory of the machine is comprised of about 1500 relays. 
         <br/>10 ALUs work in parallel and are driven and synchronized by the large main motor.
         Every revolution engages about 300 sliding contacts. In the upper part of the picture
-        you can see three ALUs. Only one of the ALUs is broken, that is quite astonishing in
-        view of the old age.
+        you can see three ALUs. Only one of the ALUs is broken (that can be easily bypassed by
+        customizing the programs), that is quite astonishing in view of the old age.
       </p>
       <div class="clear"></div>
     </div>
 
     <div class="box center">
          <img src="/shared/photos/rechnertechnik/rechenwerke.jpg" alt="ALUs of the Bull tabulating machine" width="555" height="329" />
-         <p class="bildtext">
+         <p class="bildtext-bildbreite" style="width: 555px;">
             We exposed two of the 10 ALUs for an one-of-a-kind photo. The principle of sprocket wheel
             machines is visible to the naked eye. All calculation work is performed only by mechanical
             components and read in electronically by touch-sensitive contacts. You can even read out
-            the current arithmetic register contents: They are both <i>144</i>. Carries are also
+            the current arithmetic register contents: They hold both <i>144</i>. Carries are also
             performed purley mechanically. It's hardly imaginable that these machines worked more than
             12 hours every day without any serious problems.
          </p>
@@ -144,98 +141,6 @@
       </p>
     </div>
 
-
-    <h2><a name="bull3">A first generation tube calculator: BULL GAMMA 3</a></h2>
-    <div class="box left">
-      <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"
-           alt="The BULL GAMMA 3, closed state" width="156" height="210" />
-      <p class="bildtext">
-        The BULL GAMMA 3 was build since 1952. It could be connected to several
-        punchcard devices, for example to the Tabulating Machine BS, to the
-        card copier PRD and to the ULP puncher.
-        <br/>Our GAMMA 3 installation is fully developed and features seven
-        delay line memory units each with a capacity of 12 decimal digits. To
-        extend the built-in memory, there were special so-called "storage cabinets"
-        that contained additional 24 storage units, each with a capacity
-        of 12 decimal numbers.
-        <br/>Summing up, the calculator features almost 400 electron tubes.
-        Thyratrons were used to connect this fast calculator to the slow
-        punchcard auxillary devices. A thyratron tube is capable of saving
-        temporary digital states.
-      </p>
-      <div class="clear"></div>
-    </div>
-    
-    <div class="box center">
-      <img src="/shared/photos/rechnertechnik/bull-gamma-3-offen.jpg"
-           alt="BULL GAMMA 3 Innen" width="690" height="517" />
-      <p class="bildtext">
-        The modules could be folded out, hence the calculator is quite
-        service friendly. Two big fans circulate fresh air thorught the
-        case. On the left you can see a part of the big power supply &ndash;
-        39 fuses keep the electric circuits seperated for additional security.
-
-        <br/>When this calculator is connected to our BULL Tabulating Machine,
-        all the information from the papertape reader brushes are directly
-        transfered to the GAMMA 3. Thus programs and data can be manipulated
-        directly by the GAMMA 3. The output is transfered back to the
-        printing unit from the Tabulating Machine.
-      </p>
-    </div>
-
-
-    <h2><a name="bull10">A second generation calculator: The BULL GAMMA 10</a></h2>
-    <div class="box center">
-      <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"
-           alt="BULL GAMMA 10" width="640" height="390" />
-      <p class="bildtext">
-        In 1963 BULL General Electric presented the BULL GAMMA 10
-        which was intended for commercial purpose and puchcard
-        computing. The standard equipment contains a CPU with
-        panel, a punchcard reader/puncher unit and a barrel printer.
-        The RAM consists of a 1kb core memory which could be
-        extended up to 4kb capacity. There are 59 different
-        opcodes to program the CPU.
-        <br/>The cycle time from the core memory is 7 micro
-        seconds. The calculator is capable of reading and
-        punching 300 cards per minute. Five punchcards per
-        second, that is an amazing speed &ndash;
-        therefore the punching unit is generously built. The
-        printer can only print up to 300 lines per minute. Compared
-        to our <a href="univac9400.shtm">Univac 9400</a> this
-        is quite slow &ndash; the Univac 9400 is capable of
-        printing more than 1000 lines per minute.
-      </p>
-    </div>
-
-    <div class="box center">
-        <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 without panels" style="float:left;" width="367" height="360" />
-        <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 from the back" style="float:right;" width="268" height="360" />
-        <div class="clear"></div>
-        <p class="bildtext">
-          The chassis is metallic bright and glossy. It is clearly arranged
-          and therefore the machine is quite easy to maintain.
-          <br/>We want to repair this computer, too (see our page
-          <a href="/en/search.shtm">We are looking for...</a>). By now the
-          complete mechanics works again. After tuning the temperature
-          of the heated core memory and switching some defect
-	  transistors, we can already execte a program for duplicating
-	  punch cards, as well as the first mathematical programs.
-	  That's really sensational for such an old computer.
-        </p>
-    </div>
-
-    <div class="box left">
-         <img src="/shared/photos/rechnertechnik/modul-gamma10.jpg"
-            alt="Typical GAMMA 10 module" height="345" width="485">
-         <p class="bildtext">
-            This is one of 570 modules from the GAMMA 10 computer.
-            On the base plate the conductor tracks are aligned
-            horizontally while they are aligned vertically on the
-            small boards (flip flops, amplifier, etc.). Almost all
-            transistors are still Germanium transistors.
-         </p>
-    </div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

@@ -61,22 +61,23 @@ Man unterscheidet geometrisch:  <ul>
         <h3><a name="laufzeitspeicher">Laufzeitspeicher: Magnetostriktion</a></h3>
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="421" height="393" />
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 3px;" width="421" height="393" />
-        <div class="bildtext">  
+         
             <p>Wenn sich (Ultra-)Schall ausbreitet, benötigt er Zeit zum Durchlaufen des Mediums. In dieser Zeit ist der Schall "gespeichert".
                <br/>Durch Magnetostriktion (kurzes Zusammenziehen eines Drahtes, wenn ihn ein starkes Magnetfeld umgibt) werden quasi Schallimpulse auf einen (zusammengerollten) Draht gegeben. Diese Information l&auml;uft mit der Schallgeschwindigkeit (des Materials) bis zum Ende und wird dort wieder in Stromimpulse umgewandelt. Jetzt w&auml;re die Information verloren, wenn man sie nicht aufbereiten und wieder am Anfang des Drahtes eingeben w&uuml;rde.</p>
             <p>Die Daten laufen damit permanent "im Kreis" und k&ouml;nnen, wenn sie den Draht verlassen, gelesen und ver&auml;ndert werden. Je l&auml;nger der Draht ist, desto gr&ouml;&szlig;er ist die Speicherkapazit&auml;t.</p>
             <p>Es handelt sich um einen fl&uuml;chtigen Speicher mit relativ langer Zugriffszeit. Wird der Rechner abgeschaltet, sind alle Daten weg.</p>
-  Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de/geraete/diehl-combitronic.shtm">"Diehl-Combitronic"</a>    </div>
+  <p>Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de/geraete/diehl-combitronic.shtm">"Diehl-Combitronic"</a></p> 
     </div>
 
     <div class="box center">
         <h3><a name="kernspeicher">Kernspeicher</a></h3>
-        <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-weiss.jpg" alt="Kernspeicher von Triumph" width="694" height="463" />
-        <div class="bildtext">
-            <p>Kernspeicher von Triumph, ca. 1961. Die gesamte Karte (ca. 16cm x 20 cm) speichert genau 144 Bit (= 144 Kerne). Das sind gerade 12 W&ouml;rter mit einer Länge von je 12 Bit. Also ca. 26 cm&sup2; Fl&auml;che f&uuml;r jedes Wort !!!</p>
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
+        <img src="/shared/photos/rechnertechnik/speichermedien/triumph-kernspeicher.jpg" alt="Kernspeicher von Triumph" width="694" height="520" />
+        <div class="bildtext-bildbreite" style="width: 694px;">
+            <p>Ein besonders anschaulicher Kernspeicher wurde von der Firma "Triumph" ca. 1961 hergestellt. Die gesamte Karte (ca. 16cm x 20 cm) speichert genau 144 Bit (= 144 Kerne). Das sind gerade 12 W&ouml;rter mit einer Länge von je 12 Bit. Also ca. 26 cm&sup2; Fl&auml;che f&uuml;r jedes Wort !!!<br>Unten ist ein Ausschnitt dieses Speichers abgebildet.</p>
+			
+        <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-ausschnitt.jpg" alt="Ausschnitt des Kernspeichers" width="694" height="90" />
+        
+Während der Triumph-Speicher noch von Hand gefädelt wurde, ist der untenstehende Speicher bereits maschinell gefädelt worden.</div></div>
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-univac.jpg" alt="Kernspeicher auf einem Modul der Univac-Anlage" width="550" height="420" />
@@ -86,8 +87,9 @@ Man unterscheidet geometrisch:  <ul>
     </div>
 
    <div class="box center">
-       <img src="/shared/photos/rechnertechnik/kernspeicher.big.jpg" alt="Abbildung eines Kernspeichers im Vergleich zu einem Streichholz" width="629" height="443" />
-       <div class="bildtext"><!--class="bildtext-bildbreite" style="width: 629px">-->
+       <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher.big.jpg" alt="Abbildung eines Kernspeichers im Vergleich zu einem Streichholz" width="629" height="443" />
+       <div class="bildtext">
+	   <!--class="bildtext-bildbreite" style="width: 629px">-->
           <p>Die Kapazit&auml;t der Kernspeicher wurde immer gr&ouml;&szlig;er bei drastisch abnehmenden Volumen. Das Bild zeigt eine Ebene eines Speichers (Bj. ca. 1975-1978). Die Fl&auml;che entspricht der des 144-Bit-Speichers. Die Kerne sind mit blo&szlig;em Auge nicht mehr zu erkennen. In dieser Ebene befinden sich &uuml;ber 16000 Kerne. Nur in einer Vergr&ouml;&szlig;erung sind sie sichtbar. Der Speicherblock beinhaltet 16 Ebenen (= Wortlänge) mit insgesamt ca. 256000 Kernen, er kann also 32 kB speichern. Dazu wurde ein Volumen von ca. 2,5 dm&sup3; ben&ouml;tigt, das entspricht 2,5 Milcht&uuml;ten! Damit sind die Grenzen und auch das Ende dieser Speicher&auml;ra aufgezeigt.
           <br/>Die Zugriffszeit sinkt mit der Verkleinerung des Ringkernes. Hier betr&auml;gt sie ca. 0,2 &micro;s. Wird die Information eines Kerns (links- oder rechtsdrehender Magnetismus steht f&uuml;r "0" bzw. "1") ausgelesen, so wird er dadurch entmagnetisiert. Damit der Inhalt dieses Bits nicht verloren geht muss er sofort wieder magnetisiert werden. Diese gesamte Zykluszeit liegt bei ca. 0,5 &micro;s. (Zum Vergleich: Bei einem 2 kB Laufzeitspeicher betr&auml;gt sie ca. 1 ms, also 2000-mal mehr! Bei einem Halbleiterspeicher von 1975 lag sie jedoch bereits unter 100 ns, war also 5-mal kleiner).</p>
           <p>Kernspeicher haben einen entscheidenden Vorteil: Sie behalten ihr Ged&auml;chtnis. Man kann einen z.B. 1975 abgeschalteten Rechner heute wieder mit den Programmen starten, die zuletzt dort "abgelegt" wurden. Ein Booten ist nicht notwendig.

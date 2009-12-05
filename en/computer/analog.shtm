@@ -129,35 +129,27 @@
     <div class="clear">&nbsp;</div>
     <div class="box center">
         <h3>EAI 180 digital-anlog computer</h3>
-        <div class="bildtext" style="margin-bottom: 30px;">
+      
             <p><b>EAI 180</b> from "Electronic Associates Incorporated",
-            New Jersey, is a so called <b>hybrid computer</b>  (hybris [greek]: From twofold parentage), year of
-            manufacture 1970. It contains the parts of an analoge computer and these from a digital computer. The
-            device is equipped with IC's from the first generation (DTL-technology). The calculation circuit is
-            plugged with cables on the front panel. The cycle time from the analoge part can be set to less than
-            10ms. With that parameter, an equation will be solved at least 100 times per second. So you can watch
-            the output with a simple oscilloscope.
+            New Jersey, is a so called <b>hybrid computer</b>  (hybris [greek]: From twofold parentage), year of manufacture 1970. It contains the parts of an analoge computer and these from a digital computer. The device is equipped with IC's from the first generation (DTL-technology). The calculation circuit is plugged with cables on the front panel. The cycle time from the analoge part can be set to less than 10ms. With that parameter, an equation will be solved at least 100 times per second. So you can watch the output with a simple oscilloscope.<br><br>
             </p>
-        </div>
-        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="464" height="370" alt="EAI 180 hybrid computer" />
+       
+        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="545" height="435" alt="EAI 180 hybrid computer" />
     </div>
 
-    <div class="box left">
-        <img src="/shared/photos/rechnertechnik/analogrechner-details.jpg" width="127" height="680" alt="details of the EAI" />
-
-        <div class="box center" style="margin-left: 127px;">
+        <div class="box center" style="margin-bottom: 30px;">
             <h3>EAI 185</h3>
-            <img src="/shared/photos/rechnertechnik/eai185.jpg" width="424" height="535" style="float:none" alt="EAI 185 Hybridrechner" />
+            <img src="/shared/photos/rechnertechnik/eai,185.jpg" width="545" height="535" style="float:none" alt="EAI 185 Hybridrechner" />
         </div>
 
-        <p class="bildtext">
+        <p>
              The EAI 185 is almost exactly the same as the EAI 180 (shown in the photo above). The
              only difference is the stage of expansion &ndash; you will notice that the EAI 185 is
              much more taller than the EAI 180.
              They were both used in the applied physics and informatics of German Technical Universities.
         </p>
         <div class="clear">&nbsp;</div>
-    </div>
+    
     
     <div class="box left">
         <h3 class="center">Dornier DO 240</h3>
@@ -178,7 +170,7 @@
         <h3 class="center">(Cylindrical) slide rules</h3>
          <img src="/shared/photos/rechnertechnik/rechenschieber.jpg"
           alt="Slide rule (slipstick) and Cylindrical slide rule" width="694" height="161"/>
-         <p class="bildtext">
+         <p>
              Last but not least a mechanical analog computer that was used up to
              the 1970s for scientific calculations without hand and desk calculators.
              <br/>The picture above displays a 1.8m long demo slide rule

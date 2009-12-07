@@ -36,13 +36,36 @@
        <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
     </address>
 
-    <!-- contact mask form: Not wanted, until now. -->
-    <!--
-    <h3>Contact us now</h3>
-    <p>If desired you can contact us also by using the following input mask:</p>
-    -#set var="lang" value="en" -
-    -#include virtual="/etc/contact/formular.inc.shtm" -
-    -->
+    <br/>
+
+    <h3>Image use policy and information about reusing technikum29 website contents</h3>
+    <p>Since we recieved a great number of image usage requests, the following information
+       may give you an overview how you can resue the contents, especially the pictures,
+       of the museal website.</p>
+    <p>Basically, everything on this website is protected by international copyright
+       law. On the other hand, there are useful limitations and exceptions to copyright
+       law. To create clarification, please distinguish:</p>
+
+    <ol>
+       <li>If you want to use one or multiple pictures in the private domain, e.g. for
+           presentations, you can take any pictures without request.</li>
+
+       <li>If you want to publish our pictures within your document, but without any
+           view to profit (e.g. on private websites, company-internal publications,
+           anything in the educational and scientifical domain like lectures, papers,
+           books, presentations, etc.), we can grant you free authorization on request
+           if it is clearly evident that your work is for non-profit.</li>
+
+       <li>If you want to publish our pictures within your document and you want
+           to make profit with that document (e.g. commercial magazines, books, web
+           sites, stock image usage, etc.) you must make a request. We usually grant
+           permissions for royalty. Prices vary heavily depending on the intended
+           usage, picture size, print run, etc.</li>
+    </ol>
+
+    <p>We can send you partially high resolution pictures. If the situations #2 or #3
+       apply in your case, please get in touch with us.</p>
+
 
 </div>
 

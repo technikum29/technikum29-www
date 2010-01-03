@@ -11,7 +11,7 @@
    -->
      <title>Technikum29 - <!--#echo var="title" --></title>
 
-    <link rel="stylesheet" type="text/css" href="/etc/contact/kontakt.css" />
+	<script type="text/javascript" src="/shared/js/gmaps-impressum.js"></script>
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum29, Impressum, Kontakt, E-Mail" />
     <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />
@@ -36,7 +36,13 @@
        <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
     </address>
 
-    <br/>
+	<h3>Location</h3>
+	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
+        <div style="padding: 1em; color: gray">Please stand by while maps is loading ...</div>
+		<noscript>
+			<p>Sorry, your browser doesn't understand javascript. See the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Am+Flachsland+29,+65779+Kelkheim,+Deutschland&sll=50.275299,8.745117&sspn=7.598462,15.930176&ie=UTF8&hq=&hnear=Am+Flachsland+29,+65779+Kelkheim+(Taunus),+Main-Taunus-Kreis,+Hessen,+Deutschland&ll=50.373496,6.855469&spn=15.17797,31.860352&z=5" class="go">Our location at Google Maps</a>
+		</noscript>
+    </div>
 
     <h3>Image use policy and information about reusing technikum29 website contents</h3>
     <p>Since we recieved a great number of image usage requests, the following information

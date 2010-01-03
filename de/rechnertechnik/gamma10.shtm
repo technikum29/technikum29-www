@@ -12,54 +12,64 @@
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="t29.this.date" content="31.10.2009" />
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-	<div class="box center">
+	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
 		<p class="bildtext">
-		
-		1963 brachte BULL (General Electric) den GAMMA 10 (G10) auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3). Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.<br>
-		Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher ist ein Kernspeicher der wahlweise 1kB bis maximal 4 kB Kapazität hatte. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.<br>
-		Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).<br>
-		</div>
+			1963 brachte BULL (General Electric) den GAMMA 10 (G10) auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3). Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.
+		    <br/>Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher ist ein Kernspeicher der wahlweise 1kB bis maximal 4 kB Kapazität hatte. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.
+		    <br/>Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).
+		</p>
+	</div>
 	
-		<img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" style="float:left;" width="367" height="360" />
-		<img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" style="float:right;" width="268" height="360" />
+	<div class="box center manuelle-bildbreite" style="width: 650px;">
+	    <img src="/shared/photos/rechnertechnik/bull-gamma-10-offen.jpg" alt="BULL GAMMA 10 ohne Verkleidung" style="float:left;" width="367" height="360" />
+	    <img src="/shared/photos/rechnertechnik/gamma-10-von-hinten.jpg" alt="BULL GAMMA 10 ohne Verkleidung (Rückansicht)" style="float:right" width="268" height="360" />
 		<div class="clear"></div>
+
 		<p class="bildtext">
-		
-Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in obenstehender Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
-Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur vollen Funktion zu bringen. Mittlerweile funktioniert bereits die gesamte und sehr komplexe Mechanik, die ein wesentlicher Teil dieses Rechners ist. Nachdem wir den beheizten Kernspeicher auf die richtige Temperatur eingeregelt und ein paar defekte Transistoren gewechselt haben, laufen bereits ein Programm zum Doppeln von Lochkarten, sowie die ersten Mathematikprogramme. Das ist für einen so alten Computer wahrlich sensationell.</p>
+            Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in obenstehender Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
+            Wir haben uns als Ziel gesetzt, auch diesen schönen Computer wieder zur vollen Funktion zu bringen. Mittlerweile funktioniert bereits die gesamte und sehr komplexe Mechanik, die ein wesentlicher Teil dieses Rechners ist. Nachdem wir den beheizten Kernspeicher auf die richtige Temperatur eingeregelt und ein paar defekte Transistoren gewechselt haben, laufen bereits ein Programm zum Doppeln von Lochkarten, sowie die ersten Mathematikprogramme. Das ist für einen so alten Computer wahrlich sensationell.
+		</p>
+	</div>
 
-
-<div class="box left">
+    <div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/steuerpult.jpg" alt="Ausschnitt des Programmierer-Steuerpults" width="485" height="379" />
 		<p class="bildtext">
-		Das Steuerpult ermöglicht einerseits während der Programmabwicklung die Steuerung und Überwachung des Gamma 10, andererseits den einfachen Programmtest durch den Programmierer.<br>
-		Das Bild zeigt einen Ausschnitt des Programmierer-Steuerpultes. Es dient dazu, den Programmablauf schrittweise durchzuführen, den Inhalt der Register, Vergleicher usw., sowie der verschiedenen Speicherstellen des Zentralspeichers abzulesen und schließlich Programmbefehle zu bilden und ablaufen zu lassen.<br>
-		Alle Anzeigen sind mit den grün leuchtenden Miniaturröhren "DM 160" ausgestattet.</p></div>
-		
-		
-<div class="box left">
+		    Das Steuerpult ermöglicht einerseits während der Programmabwicklung die Steuerung und Überwachung des Gamma 10, andererseits den einfachen Programmtest durch den Programmierer.<br>
+		    Das Bild zeigt einen Ausschnitt des Programmierer-Steuerpultes. Es dient dazu, den Programmablauf schrittweise durchzuführen, den Inhalt der Register, Vergleicher usw., sowie der verschiedenen Speicherstellen des Zentralspeichers abzulesen und schließlich Programmbefehle zu bilden und ablaufen zu lassen.<br>
+		    Alle Anzeigen sind mit den grün leuchtenden Miniaturröhren "DM 160" ausgestattet.
+		</p>
+	</div>
+
+    <div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="485" height="345" />
-		<p class="bildtext">
-		Unten ist das Bild eines typischen Moduls (insges. 570 Stück, ohne Drucker!) zu sehen. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.<br/>
-		Die langsame Logik (u.a. der Kartensteuerung) wird von 573 Relais übernommen. Es war mutig, in einen Computer eine so große Menge Verschleißteile einzubeziehen.
-		<p>Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für die Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
-		Zentraleinheit mit 4 k Kernspeicher:  267.000,- DM  (ca. 133.000,- €),
-		Drucker 105.000,- DM  (ca. 50.000,- €).</p>
-</div>
+		<div class="bildtext">
+		    <p>
+		        Unten ist das Bild eines typischen Moduls (insges. 570 Stück, ohne Drucker!) zu sehen. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
+		        <br/>Die langsame Logik (u.a. der Kartensteuerung) wird von 573 Relais übernommen. Es war mutig, in einen Computer eine so große Menge Verschleißteile einzubeziehen.
+			</p>
+		    <p>
+			    Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für die Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
+		        Zentraleinheit mit 4 k Kernspeicher:  267.000,- DM  (ca. 133.000,- €), Drucker 105.000,- DM  (ca. 50.000,- €).
+			</p>
+		</div>
+	</div>
 
-<p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Daher steht bereits ein ANELEX Drucker (Series 5) aus dem Jahre 1965 bereit. Dieser Drucker war 1965 mit 1250 Druckzeilen pro Minute der schnellste Drucker der Welt. Für unseren Gamma 10 darf er ruhig etwas langsamer sein. Die Anpassung des Anelex an den Bull-Rechner wird ein schwieriges Unterfangen. Wir werden darüber in der Rubrik "Entwicklungsprojekte" berichten.</p>
+    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Daher steht bereits ein ANELEX Drucker (Series 5) aus dem Jahre 1965 bereit. Dieser Drucker war 1965 mit 1250 Druckzeilen pro Minute der schnellste Drucker der Welt. Für unseren Gamma 10 darf er ruhig etwas langsamer sein. Die Anpassung des Anelex an den Bull-Rechner wird ein schwieriges Unterfangen. Wir werden darüber in der Rubrik "Entwicklungsprojekte" berichten.</p>
 
-<div class="box left">
+    <div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" />
-		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p></div>
+		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p>
+	</div>
+
+
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

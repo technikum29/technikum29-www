@@ -13,31 +13,26 @@
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="PDP 8, PDP 8L, PDP 8I, Classic, Lochstreifentechnik, Lochkartentechnik, Fr&uuml;he Computer" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7FINAL" />
-    <meta name="t29.this.date" content="18.07.2007" />
-    <meta name="t29.this.comment" content="Relationen, Allgemeine Umstrukturierung, ..." />
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-    <p>Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Fr&uuml;he Computer sind wegen ihrer stattlichen Gr&ouml;&szlig;e und der sehr sch&ouml;nen transparenten Zusatzger&auml;ten vor allem in ihrer Funktion sehenswert.
-    <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP 8. Wir verfügen über die komplette Serie dieser Geräte: Von der PDP 8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP 8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
-    <br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.
-</p>
+    <p>
+	    Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Fr&uuml;he Computer sind wegen ihrer stattlichen Gr&ouml;&szlig;e und der sehr sch&ouml;nen transparenten Zusatzger&auml;ten vor allem in ihrer Funktion sehenswert.
+        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP 8. Wir verfügen über die komplette Serie dieser Geräte: Von der PDP 8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP 8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
+        <br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.
+    </p>
 
-    <div class="box center">
+    <div class="box center auto-bildbreite">
        <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
        <p class="bildtext">
           Eines der musealen Highlights ist eine PDP 8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP 5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt. Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration. <br />Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a>
        </p>
-       <!--<div class="clear">&nbsp;</div>-->
     </div>
 
-
-    <div class="box left">
+    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
         <div class="bildtext">
             <h3>PDP 8I</h3>
@@ -45,10 +40,9 @@
             <p>F&uuml;r alle, die einen solchen Computer noch nie gesehen haben, sei angemerkt, dass dieser mit Plotter &uuml;ber 2m hoch ist und ein Gewicht von ca. 300 kg hat.</p>
             <p>Die Peripherie besteht aus 2 x TU 55 (Bandlaufwerke), PC 04 (High speed Lochstreifenleser), Calcomp 563 Plotter (oben) und nat&uuml;rlich einer Teletype (hier nicht abgebildet).</p>
         </div>
-        <div class="clear">&nbsp;</div>
     </div>
 
-    <div class="box left">
+    <div class="box left clear-after">
         <a href="/de/geraete/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB 8e" class="nomargin-bottom" /></a>
         <div class="bildtext">
             <h3>Lab 8e, PDP 8e</h3>
@@ -60,7 +54,6 @@
                 <li>AD- und DA- Wandler</li>
             </ul>
         </div>
-        <div class="clear">&nbsp;</div>
     </div>
 
     <p>Weiterhin ist das erste System angeschlossen, was schon so &auml;hnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.shtm">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>

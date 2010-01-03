@@ -13,11 +13,7 @@
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Wang 700, Erste Rechner der 3. Generation mit einfacher IC-Technik" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7FINAL" />
-    <meta name="t29.this.date" content="18.07.2007" />
-    <meta name="t29.this.comment" content="Relationen, Allgemeine Umstrukturierung, ..." />
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -27,7 +23,7 @@
       <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
       <a class="go" href="/de/details1.shtm" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
 
-      <div class="box center">
+      <div class="box center auto-bildbreite">
           <a href="/de/geraete/wang700.shtm" name="backlink-wang700" title="Zur Großaufnahme des WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
           <div class="bildtext">
             <p>Hier ist eine einzigartige Komplettanlage <b>WANG 700</b> abgebildet. Sie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.</p>
@@ -38,33 +34,29 @@
           </div>
       </div>
 	  
-    <div class="box center">
-          
-		 <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="Diehl Combitronic Anlage" width="526" height="420"/>
-          <div class="bildtext">
-		  
-		  Die von <b>DIEHL</b> 1970-72 verkaufte <b>Combitronic</b> ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; die gesamte Rechnerlogik ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Lochstreifenleser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de/geraete/diehl-combitronic.shtm">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
-		  </div>
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="Diehl Combitronic Anlage" width="526" height="420"/>
+        <p class="bildtext">
+		    Die von <b>DIEHL</b> 1970-72 verkaufte <b>Combitronic</b> ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; die gesamte Rechnerlogik ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Lochstreifenleser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de/geraete/diehl-combitronic.shtm">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
+		</p>
 	</div>
 
 	<p>Während DIEHL noch die Mechanik stark betonte, versuchten WANG und HP diese zu meiden oder zumindest zu minimieren, wo immer es möglich war. Die Diehl-Rechner der obigen Serie waren für wissenschaftliche Berechnungen einfach zu langsam. Sie hatten weder gegen HP noch gegen WANG eine Chance, obwohl sie natürlich in einer erheblich niedrigeren Preisklasse lagen. Für die Alltagsberechnungen in Ingenieurbüros reichte jedoch zunächst die Leistung dieser Rechner.<br/>
-	Für umfangreiche wissenschaftliche Berechnungen und komplexere Programme führte jedoch kein Weg an WANG bzw. HP vorbei.
+	   Für umfangreiche wissenschaftliche Berechnungen und komplexere Programme führte jedoch kein Weg an WANG bzw. HP vorbei.
 	</p>
 		
-      <div class="box left">
-          <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
-          <div class="bildtext">
+    <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
+        <div class="bildtext">
             <p class="h-ul">Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
             <ul class="h-ul">
               <li>Im Zentrum (Mitte) befindet sich der unter "Rechner der 2. Generation" beschriebene HP 9100.</li>
               <li>Darunter ist das Nachfolgermodell HP 9810 (gleiche Logik wie HP 9100 aber mit TTL-IC´s und den allerersten sehr kleinen 3 spaltigen LED-Anzeigen.</li>
               <li>Ganz unten das nächste Modell, der HP 9820 (Bj. 1971) mit alphanumerischer Anzeige auf 7x5 Punktmatrix-LED.</li>
               <li>Oben befindet sich der bekannteste HP-Rechner: HP 9830, Bj. 1972 mit Lochstreifenleser, Lochstreifenstanzer und Plotter. Dies ist der erste BASIC-programmierbare Tischrechner der Welt.</li>
-			  </ul>
-          
-          </div>
-          <div class="clear">&nbsp;</div>
-      </div>
+			</ul>
+        </div>
+    </div>
 
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

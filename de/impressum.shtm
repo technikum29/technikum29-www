@@ -11,12 +11,38 @@
    -->
      <title>Technikum29 - <!--#echo var="title" --></title>
 
-    <!--<link rel="stylesheet" type="text/css" href="../shared/css/kontakt.css" media="all" title="technikum29" /> erweiterungscss -->
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAOB_SbGFqyjIhbxfTLL5G7BSbm8ut-SLOX_ryap21RzOrwkDY8hQQh2Z-aOGiMjXLzswj5TLsbcCGxA" type="text/javascript"></script>
+    <script type="text/javascript">
+	//<!--
+	    var CONTENT='<div><b>technikum29</b><br/>Am Flachsland 29<br/>65779 Kelkheim/Taunus</div>';
+		var restore = window.onload;
+		window.onload = function() {
+			if(restore) restore();
+			
+			if(GBrowserIsCompatible()) {
+				var map = new GMap2(document.getElementById("map"));
+				map.setUIToDefault();
+				
+				var pos = new GLatLng(50.145129,8.445667);
+				
+				map.addControl(new GOverviewMapControl(new GSize(200,150)));
+				map.setCenter(pos, 14);
+				map.setMapType(G_HYBRID_MAP);
+				map.enableContinuousZoom();
+				var marker = new GMarker(pos);
+				map.addOverlay(marker);
+				GEvent.addListener(marker, "click", function() {
+					marker.openInfoWindowHtml(CONTENT);
+				});
+				marker.openInfoWindowHtml(CONTENT);
+			}
+		}
+	//-->
+	</script>
+	
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Technikum29, Impressum, Kontakt, E-Mail" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="Impressum, Kontakt, Copyright der Technikum29-Webpr&auml;senz" />
-    <meta name="t29.thisversion" content="26.05.2007 24:00/v5.6.13" />
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -34,8 +60,17 @@
 
      <p>Wir sind Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a> (Frankfurt).</p>
 	 
+
+	<noscript>
+	    <p>Zur <a href="http://maps.google.de/maps?f=q&hl=de&q=Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr" class="go">Wegbeschreibung bei Google Maps</a>
+	</noscript>
+
+	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
+        <div style="padding: 1em; color: gray">Karte wird geladen ...</div>
+    </div>
+
 	
-     <p>Zur <a href="http://maps.google.de/maps?f=q&hl=de&q=Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr" class="go">Wegbeschreibung bei Google Maps</a>
+	
     </p><br><br>
 	
 	<h3>Hinweise für die Nutzung von Bildern aus der Website des  technikum29</h3>

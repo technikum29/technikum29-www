@@ -13,10 +13,7 @@
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum, Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7FINAL" />
-    <meta name="t29.this.date" content="18.07.2007" />
-    <meta name="t29.this.comment" content="Relationen, Allgemeine Umstrukturierung, ..." />
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -27,8 +24,10 @@
 
     <div class="box center">
         <img src="/shared/photos/rechnertechnik/anita.jpg" width="408" height="302" alt="Antia C/VIII" />
-        <p class="bildtext"><b>Anita  C/VIII</b> (Hersteller: BELL PUNCH Co, England), ein Rechner der Geschichte machte. Er revolutionierte das Rechnen auf dem Schreibtisch. Multiplizieren und Dividieren war erstmals ohne Mechanik und v&ouml;llig ger&auml;uschlos m&ouml;glich. Technisch gesehen war das Ger&auml;t 1962 eigentlich schon veraltet. Der Rechner arbeitet im Zehnersystem, genau so wie eine mechanische Sprossenradmaschine. Dennoch dauerte es noch zwei Jahre, bis ein transistorisierter Tischrechner (IME 84) auf den Markt kam.
-        <br/>Weitere Bilder und Details gibt es unter <a class="go" name="backlink-anita" href="/de/geraete/anita.shtm">Details der Anita</a>.</p>
+        <p class="bildtext">
+		    <b>Anita  C/VIII</b> (Hersteller: BELL PUNCH Co, England), ein Rechner der Geschichte machte. Er revolutionierte das Rechnen auf dem Schreibtisch. Multiplizieren und Dividieren war erstmals ohne Mechanik und v&ouml;llig ger&auml;uschlos m&ouml;glich. Technisch gesehen war das Ger&auml;t 1962 eigentlich schon veraltet. Der Rechner arbeitet im Zehnersystem, genau so wie eine mechanische Sprossenradmaschine. Dennoch dauerte es noch zwei Jahre, bis ein transistorisierter Tischrechner (IME 84) auf den Markt kam.
+            <br/>Weitere Bilder und Details gibt es unter <a class="go" name="backlink-anita" href="/de/geraete/anita.shtm">Details der Anita</a>.
+		</p>
     </div>
 
 </div> <!-- end of content -->

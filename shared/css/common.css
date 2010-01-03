@@ -274,6 +274,11 @@ ul.univac-thumbs li img {
     padding-bottom: 348px;
 }
 
+/* Rand links, damit Liste im Univac-Artikel ordentlich aussieht (Jan 2010) */
+.univac li {
+	margin-left: 270px;
+}
+
 
 /**********************************************************************\
 | SPEZIAL STYLE                                                        |
@@ -586,6 +591,66 @@ ul.news-feed h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*
+    03. Januar 2010: Erweiterung des Konzeptes um automatische Bildbreiten (fuer .box.center),
+    Breiten der Bilder werden zur Laufzeit durch /shared/js/auto-bildbreite.js ausgelesen.
+*/
+
+#content .auto-bildbreite, #content .manuelle-bildbreite {
+	/* manuell etwa auf der Gamma 10 Seite, wo mehrere Bilder nebeneinandergepfuscht sind */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content .auto-bildbreite  p.bildtext, #content .manuelle-bildbreite  p.bildtext,
+#content .auto-bildbreite  div.bildtext , #content .manuelle-bildbreite div.bildtext {
+	/* Saemtliche Abstaende abschalten, weil Breite des gesamten <div class="box">-Elements
+       durch ein JavaScript geregelt wird */
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/*
+    03. Januar 2010: In Konstrukten wie
+	  <div class="box left">
+	     <img ... />
+		 <p class="bildtext">foo bar</p>
+		 <div class="clear">&nbsp;</div>
+	  </div>
+	kann ab sofort das clear-Element weggelassen werden zugunsten einer einfachen Klasse
+	  <div class="box left clear-after">
+	     <img .../>
+		 <p class="bildtext">foo bar</p>
+	  </div>
+	Realisiert wird das ueber einen kruden CSS-Hack. Muss noch getestet werden, ob der ueberall
+	laeuft.
+*/
+
+#content .clear-after {
+	display: inline-table;
+	/* CSS-Hack to hide from IE-mac \*/
+	height: 1%;
+	display: block;
+	/* IE mac is wayne, isn't it!? */
+}
+
+html>body #content .clear-after {
+	height: auto;
+}
+
+#content .clear-after:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+
+
+
+
 
 /*
    Mehr oder weniger "halboffizielle" Rahmen um class="box [right|left|center]"-Bilder.

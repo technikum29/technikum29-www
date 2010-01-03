@@ -4,7 +4,8 @@
  * Dieses JavaScript wird auf den Impressumsseiten eingebunden, um
  * per Google Maps API diese einzubinden. Dazu ist noch ein kurzes
  * Schnipsel HTML in der Form <div id="map">...</div> noetig,
- * aber keine Einbindung eines weiteren JavaScripts.
+ * ausserdem muss dieses JavaScript eingebunden werden:
+ * <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>
  *
  * Als Konstanten koennen in diesem Script bearbeitet werden:
  *  * Der Google Maps API Key
@@ -16,9 +17,6 @@
  * Released under the public domain
  **/ 
  
-// Google Maps API Key fuer www.technikum29.de
-var t29_gmaps_key = "ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw";
-
 var t29_gmaps_content = {
 	"de": "<b>technikum29</b><br/>Am Flachsland 29<br/>Kelkheim/Taunus"
 			+"<br/><a href='http://maps.google.com/maps?&daddr=Am+Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr'>Route berechnen...</a>",
@@ -40,6 +38,7 @@ function t29_gmaps_detect_page_language() {
 		return "en";
 }
 
+// das schnipsel hier geht unterm IE sowieso nicht:
 function t29_gmaps_include_once(src) {
     // hole alle vorhandenen Script-Elemente
     var scripts = document.getElementsByTagName('script');
@@ -59,7 +58,8 @@ function t29_gmaps_include_once(src) {
     (document.getElementsByTagName('HEAD')[0] || document.body).appendChild(script);
 }
 
-t29_gmaps_include_once("http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key="+t29_gmaps_key);
+// damit verweigert Google den Dienst (unter localhost gehts aber...)
+//t29_gmaps_include_once("http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key="+t29_gmaps_key);
 
 var t29_gmaps_restore = window.onload;
 var gmap;

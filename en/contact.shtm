@@ -11,7 +11,8 @@
    -->
      <title>Technikum29 - <!--#echo var="title" --></title>
 
-	<script type="text/javascript" src="/shared/js/gmaps-impressum.js"></script>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>
+    <script type="text/javascript" src="/shared/js/gmaps-impressum.js"></script>
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum29, Impressum, Kontakt, E-Mail" />
     <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />

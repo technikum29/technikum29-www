@@ -11,10 +11,11 @@
    -->
      <title>Technikum29 - <!--#echo var="title" --></title>
 
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAOB_SbGFqyjIhbxfTLL5G7BSbm8ut-SLOX_ryap21RzOrwkDY8hQQh2Z-aOGiMjXLzswj5TLsbcCGxA" type="text/javascript"></script>
     <script type="text/javascript">
 	//<!--
-	    var CONTENT='<div><b>technikum29</b><br/>Am Flachsland 29<br/>65779 Kelkheim/Taunus</div>';
+		if(location.hostname == 'localhost') {
+		document.write('<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAOB_SbGFqyjIhbxfTLL5G7BSbm8ut-SLOX_ryap21RzOrwkDY8hQQh2Z-aOGiMjXLzswj5TLsbcCGxA" type="text/javascript"></sc' + 'ript>');
+		var CONTENT='<div><b>technikum29</b><br/>Am Flachsland 29<br/>65779 Kelkheim/Taunus</div>';
 		var restore = window.onload;
 		window.onload = function() {
 			if(restore) restore();
@@ -37,6 +38,7 @@
 				marker.openInfoWindowHtml(CONTENT);
 			}
 		}
+		} // if on localhost
 	//-->
 	</script>
 	
@@ -65,9 +67,16 @@
 	    <p>Zur <a href="http://maps.google.de/maps?f=q&hl=de&q=Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr" class="go">Wegbeschreibung bei Google Maps</a>
 	</noscript>
 
+    <script type="text/javascript">
+	//<!--
+		if(location.hostname == 'localhost') {
+		document.write('
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
         <div style="padding: 1em; color: gray">Karte wird geladen ...</div>
-    </div>
+        </div>
+
+	');
+    </script>
 
 	
 	

@@ -19,7 +19,7 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2><br>
 
-	<h3>1. Pianola</h3>
+	<h3>Pianola</h3>
 	<p>Unser Museum ist recht vielseitig. Neben der Kommunikations- und Computertechnik haben wir auch einen Leckerbissen der besonderen Art zu bieten: Eine funktionsfähige Pianola, Bj. ca. 1910-15.<br>
 	Es ist unglaublich, was die Menschen zu dieser Zeit an Wunderwerken bezüglich Musikautomaten entworfen und hergestellt haben. Verwendet wurden dabei nur sehr einfache und natürliche Materialien:<br>
 	Darmleder, Leder, Gummi, Holz, Knochenleim, Filz, Metall, Papier, Elfenbein und Glas. <br>
@@ -30,7 +30,7 @@
 		<p class="center"><b>Pianola</b></p>
 	</div>
 	
-	<h3>2. Kinomaschine</h3>
+	<h3>Kinomaschine</h3>
 	
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/kinomaschine.dresden1.jpg" alt="Abbildung der Kinomaschine Dresden 1" width="350" height="630" />

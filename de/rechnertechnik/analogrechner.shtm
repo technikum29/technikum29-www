@@ -59,52 +59,50 @@
         </div>
 		<!-- bewusst kein clear -->
 	</div>
-	
+	<h3>GTE Analogrechner EA22</h3>
 	<div class="box center" style="margin-right: 291px">
-        <h3>GTE Analogrechner EA22</h3>
+        
         <img src="/shared/photos/rechnertechnik/gte-analogrechner.jpg" width="312" height="346" title="GTE Analogrechner EA22" />
 		<p>Die Änhnlichkeit des EA22 von GTE mit den Telefunken Rechnern ist auffällig. Der GTE Rechner hat jedoch mehr Rechenverstärker ( 22 Stück), ist übersichtlicher und insbesondere servicefreundlicher aufgebaut. Dieser Analogrechner wurde Anfang der 60er Jahre von der Firma <u>G</u>oldmann <u>T</u>echnische <u>E</u>lektronik, Ulm/Donau hergestellt.</p>
 	</div>
     <div class="clear">&nbsp;</div>
 	
-
-	<div class="box center auto-bildbreite">
-        <h3>EAI 180 Hybridrechner</h3>
-        <p><b>EAI 180</b> von "Electronic Associates Incorporated", New Jersey,  ist ein sogenannter <b>Hybrid-Recher</b> (hybris [griech.]: Von zweierlei Abkunft),  Baujahr 1970. Er beinhaltet die Komponenten eines Analogrechners und die eines Digitalrechners. Das Ger&auml;t ist mit ICs der ersten Generation (DTL-Technik) ausgestattet. Die Rechen-Schaltung wird per Kabel am Frontpannel zusammengesteckt. Die Zykluszeit des analogen Teils kann auf weniger als 10&nbsp;ms eingestellt werden. Eine zu l&ouml;sende Gleichung wird dann mindestens 100 Mal pro Sekunde gel&ouml;st. Damit ben&ouml;tigt man zum Betrachten der Kurven nur ein einfaches Oszilloskop.</p>
-       
-        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="545" height="435" alt="EAI 180 Hybridrechner" />
+   <h3>EAI 180 und EAI 185 Hybridrechner</h3>
+	
+     
+        <p>EAI 180 von "Electronic Associates Incorporated", New Jersey,  ist ein sogenannter <b>Hybrid-Recher</b> (hybris [griech.]: Von zweierlei Abkunft),  Baujahr 1970. Er beinhaltet die Komponenten eines Analogrechners und die eines Digitalrechners. Das Ger&auml;t ist mit ICs der ersten Generation (DTL-Technik) ausgestattet. Die Rechen-Schaltung wird per Kabel am Frontpannel zusammengesteckt. Die Zykluszeit des analogen Teils kann auf weniger als 10&nbsp;ms eingestellt werden. Eine zu l&ouml;sende Gleichung wird dann mindestens 100 Mal pro Sekunde gel&ouml;st. Damit ben&ouml;tigt man zum Betrachten der Kurven nur ein einfaches Oszilloskop.</p>
+		
+       <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/eai180.jpg" width="545" height="435" alt="EAI 180 Hybridrechner" /> <p class="bildtext"><b>EAI 180 Hybridrechner</b>
     </div>
 	
     <div class="box center auto-bildbreite">
-        <h3>EAI 185</h3>
-        <img src="/shared/photos/rechnertechnik/eai,185.jpg" width="545" height="535" style="float:none" alt="EAI 185 Hybridrechner" />
-        <p>
-            Die beiden EAI Rechner sind im Prinzip identisch. Der Untere ist jedoch weiter ausgebaut.
+        <img src="/shared/photos/rechnertechnik/eai,185.jpg" width="545" height="535" style="float:none" alt="EAI 185 Hybridrechner" /><p class="bildtext"><b>EAI 185 Hybridrechner</b>
+        <p></div>
+            <p>Die beiden EAI Rechner sind im Prinzip identisch. Der Untere ist jedoch weiter ausgebaut.
             Beide Rechner waren im Praktikum für Physiker, Chemiker und Ingenieure von Technischen Hochschulen eingesetzt.<br/>
             Eine typische Aufgabe zur Simulation eines Vorganges war z.B.:<br/>
             "Untersuchen Sie das Schwingungsverhalten einer PKW-Radaufhängung, wenn der Fahrer über einen Bordstein fährt". <br/>
             Hier gibt es eine Menge Variablen, z.B. Geschwindigkeit des PKW, Höhe des Bordsteins, Feder- und Dämpfungskonstante der Radaufhängung, Anfahrtwinkel gegen den Bordstein, Luftdruck des Reifens und schlimmstenfalls weitere Parameter. Jeder Variablen wurde ein Potentiometer zugeordnet. So konnte man sehr schnell eine Optimierung der für die Entwicklungsingenieure von PKW´s wichtigen Feder- und Dämpfungskomponenten finden, insbesondere war der Einfluss von jedem Parameter sofort am Oszillogramm zu erkennen.                 
         </p>
-    </div>
-    
-    <div class="box left clear-after">
-        <h3 class="center">Dornier DO 240</h3>
-         <img src="/shared/photos/rechnertechnik/do_240.jpg" alt="Dornier DO 240" width="424" height="412"/>
-         <p class="bildtext">
-             Während die EAI Hybridrechner mit mäßiger Genauigkeit fast nur für Unterrichtszwecke verwendet wurden, ist der Analogrechner DO 240 der Firma DORNIER (durch den Bau von Flugzeugen bekannt) ein wahres Präzisionsinstrument. Auf kleinstem Raum sind sehr viele Komponenten untergebracht. U.a. Digitalpotentiometer, die durch Taktimpulse einstellbar sind, ein sehr vielfältig einstellbarer digitaler Taktgenerator (Anzeige mit Nixieröhren), Digitalzähler, 2 Funktionsgeneratoren und vieles mehr. Der Rechner wurde Anfang der 70er Jahre gebaut und kostete ca. 80.000,- DM (ca. 40.000,- Euro).<br>
-             Dieser Rechnertyp wurde jedoch nicht von Dornier selbst entwickelt, sondern es sind Nachbauten der von Simulators Inc. entwickelten Systeme. Deren Patente wurden von Dornier aufgekauft. 
-         </p>
-    </div>
+  
+    <h3>Dornier DO 240 Analogrechner</h3>
 	
+    <div class="box left clear-after">
+         <img src="/shared/photos/rechnertechnik/do_240.jpg" alt="Dornier DO 240" width="424" height="412"/>
+         <p>Während die EAI Hybridrechner mit mäßiger Genauigkeit fast nur für Unterrichtszwecke verwendet wurden, ist der Analogrechner DO 240 der Firma DORNIER (durch den Bau von Flugzeugen bekannt) ein wahres Präzisionsinstrument. Auf kleinstem Raum sind sehr viele Komponenten untergebracht. U.a. Digitalpotentiometer, die durch Taktimpulse einstellbar sind, ein sehr vielfältig einstellbarer digitaler Taktgenerator (Anzeige mit Nixieröhren), Digitalzähler, 2 Funktionsgeneratoren und vieles mehr. Der Rechner wurde Anfang der 70er Jahre gebaut und kostete ca. 80.000,- DM (ca. 40.000,- Euro).<br>
+             Dieser Rechnertyp wurde jedoch nicht von Dornier selbst entwickelt, sondern es sind Nachbauten der von Simulators Inc. entwickelten Systeme. Deren Patente wurden von Dornier aufgekauft. 
+         </p></div>
+    
+	<h3>Rechenschieber und Rechenwalze</h3>
     <div class="box center auto-bildbreite">
-        <h3 class="center">Rechenschieber und Rechenwalze</h3>
-        <img src="/shared/photos/rechnertechnik/rechenschieber.jpg" alt="Rechenschieber und Rechenwalze" width="694" height="161"/>
+        <img src="/shared/photos/rechnertechnik/rechenschieber.jpg" alt="Rechenschieber und Rechenwalze" width="694" height="161"/></div>
         <p>
 		    Nicht unerwähnt sollen die Möglichkeiten bleiben, wie man bis zu Beginn der 70er Jahre ohne Taschen- und Tischrechner wissenschaftlich rechnen konnte.<br>
 		    Das obige Bild zeigt einen 1,80m langen Schul-Demo-Rechenschieber aus Holz (50er Jahre), der ab der 10. Klasse Schüler beglückte. Diese Methode hatte auch Vorteile: Sinnlose Genauigkeiten waren unmöglich, der "Rechner" war preiswert und die Rechengeschwindigkeit recht hoch. Nachteil: Man konnte damit nicht addieren oder subtrahieren.<br>
 		    Um schon in den 20er Jahren noch genauer rechnen zu können, baute man sogenannte "Rechenwalzen", die bei dieser NESTLER-Walze mit einer Länge von 60cm im Prinzip einem 12,50m langen "zerschnittenen" Rechenschieber entsprach. Alle diese Geräte sind analoge Rechengeräte.
 		</p>
-	</div>
+	
 
 </div><!-- content -->
 <!-- end of content -->

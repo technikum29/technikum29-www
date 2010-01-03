@@ -41,7 +41,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+    <h2>Telegraphietechnik</h2>
 
     <div class="box left clear-after">
         <a href="/de/geraete/morsetelegraf.shtm" name="backlink-morsetelegraf"><img src="/shared/photos/kommunikationstechnik/telegrafie-regal.jpg" alt="Das Telegrafie-Regal" width="240" height="464" /></a>
@@ -84,7 +84,7 @@
         <img src="/shared/photos/kommunikationstechnik/morseempfaenger.jpg" width="439" height="254" alt="Fotografie eines Morseempfängers" />
         <p class="bildtext">Hier die seitliche Ansicht des Morse-Empfängers. Die Anlage ist im Museum an einen Lochstreifen-Morsesender der 60er Jahre angeschlossen.</p>
     </div>
-	 
+	 <h2>Faxtechnik, Bildtelegraphie</h2>
 	<p>Die Faximile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
     <p>Der erste in Serie hergestellte Bildtelegraph (Fultograph) kam bereits 1929 auf den Markt. Dieses Gerät wäre allerdings nur mit erheblichem Aufwand noch zu betreiben. </br>
         Die ersten praktikablen Faxgeräte waren eine deutsche Erfindung: Das Normalpapierfax von Siemens-Hell, Bj. 1956 mit Röhrentechnik, ist noch voll funktionsfähig. Gemächlich und durchschaubar dauert eine Faxübertragung (DIN A5) etwa 4 Minuten. Mit ihm könnte man theoretisch sogar mit Hilfe einiger Tricks ein Fax in Farbe übertragen!</p>
@@ -109,29 +109,33 @@
 	<div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="Fotografie des SIEMENS Faxgerät KF 106" />
         <p class="bildtext">
-		    Sehr seltenes <b>Siemens (HELL) Faxgerät KF 106</b>. Dieser "Fernkopierer" wurde ca. 1954/55 hergestellt. Das Tinten-Schreibsystem war schon ausgereift und wurde unverändert im Nachfolgemodell übernommen. Die Übertragungsfläche ist etwas kleiner als DIN A5. Doch die Servicefreundlichkeit des gewichtigen Gerätes (27 kg) entsprach nicht dem Niveau von Siemens. 
+		    Sehr seltenes <b>Siemens (HELL) Faxgerät KF 106</b>. </p></div>
+			<p>Dieser "Fernkopierer" wurde ca. 1954/55 hergestellt. Das Tinten-Schreibsystem war schon ausgereift und wurde unverändert im Nachfolgemodell übernommen. Die Übertragungsfläche ist etwas kleiner als DIN A5. Doch die Servicefreundlichkeit des gewichtigen Gerätes (27 kg) entsprach nicht dem Niveau von Siemens. 
 		    Das KF 106 war ein "Lehrstück" denn schon 1956 folgte eine wesentliche Verbesserung mit dem Modell KF 108.
      	</p>
-    </div>
 	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="Fotografie des SIEMENS Faxgerät KF 108" />
         <p class="bildtext">
-            Die Abbildung zeigt das <b>SIEMENS Faxgerät KF 108</b> (Bj. 1956).
-            <br/>Es arbeitet nach dem ähnlichen Prinzip wie der Fultograph. Anstelle der elektrochemischen Aufzeichnung wird hier über eine aufwendige Mechanik mit Hilfe eines rotierenden Saphirröllchens Tinte auf das gewöhnliche Schreibpapier gebracht.
+          <b>SIEMENS Faxgerät KF 108</b> (Bj. 1956).</p></div>
+		  
+            <p>Das Faximlie-Gerät KF 108 arbeitet nach dem ähnlichen Prinzip wie der Fultograph. Anstelle der elektrochemischen Aufzeichnung wird hier über eine aufwendige Mechanik mit Hilfe eines rotierenden Saphirröllchens Tinte auf das gewöhnliche Schreibpapier gebracht.
             <br/>Ein KF 108 wird selbst dann noch Faxe übertragen können, wenn die Geräte der Neuzeit längst funktionslos im Sondermüll entsorgt werden. Es ist aber nicht kompatibel zu heutigen Faxgeräten. Siemens baute das Gerät in einer typisch deutschen Solidität: Alles kugelgelagert verwindungssteif und reichlich überdimensioniert. Die Wegwerfmentalität hatte sich noch nicht etabliert.
         </p>
-    </div>
 
-    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender die aktuelle Wetterkarte (größer als DIN A 3) empfangen.</p>
+
+    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.shtm">Funktionsweise des HELLfax</a>.
+	</p>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geschlossen)" width="550" height="334" onClick="switchGeraet('hellfax');" id="hellfax-zu" />
 		<img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geoeffnet.jpg" alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geöffnet)" id="hellfax-offen" />
         <p class="bildtext">
-            Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril die Realisierung ist, zeigt der <b>Hellfax-Blattschreiber BS 110</b>. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.shtm">Funktionsweise des HELLfax</a>.
+             <b>Hellfax-Blattschreiber BS 110</b>. 
         </p>
     </div>
+	
+<h2>Fernschreibtechnik</h2>
 
 	<div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245"  />
@@ -146,9 +150,12 @@
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/kommunikationstechnik/fernschreiber.jpg" width="520" height="536" alt="Fernschreiber" />
 		<p class="bildtext">
-	        Siemens Fernschreiber ca. Bj. 1952. Dieses Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig. Im Rahmen der Museumsrallye kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.
+	        <b>Siemens Fernschreiber ca. Bj. 1952</b> 
 		</p>
 	 </div>
+	 <p>Dieses Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig. Im Rahmen der Museumsrallye kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p>
+	 
+	 <h2>Schreibautomaten</h2>
 	 
     <div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/olympia-schreibautomat.jpg" width="629" height="242" alt="Schreibautomat" />

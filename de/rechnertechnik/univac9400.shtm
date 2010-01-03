@@ -18,7 +18,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+    <h2>UINVAC 9400 Groﬂrechner, Rechenzentrum</h2>
 
     <div class="box center" style="position:relative;">
         <!-- Umst‰ndliche Lˆsung f¸r die 30% IE6-Benutzer: Absolut positioniertes

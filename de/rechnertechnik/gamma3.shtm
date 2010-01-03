@@ -40,13 +40,14 @@
 	
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="BULL GAMMA 3 Innen" width="692" height="565" />
-		<p class="bildtext">
-			Die einzelnen Module können ausgeklappt werden, wodurch das Gerät sehr servicefreundlich ist. Zwei große Ventilatoren ziehen die durch die Heizung der Röhren bedingte Wärme aus dem Gehäuse. Links sieht man einen Teil des gigantischen Netzteils. 39 Sicherungen schützen die Stromkreise.
+		<p class="bildtext"><b>Röhren, Röhren, Röhren...BULL Gamma 3</b></div>
+		
+		<p>Die einzelnen Module können ausgeklappt werden, wodurch das Gerät sehr servicefreundlich ist. Zwei große Ventilatoren ziehen die durch die Heizung der Röhren bedingte Wärme aus dem Gehäuse. Links sieht man einen Teil des gigantischen Netzteils. 39 Sicherungen schützen die Stromkreise.
             <br/>Beim Anschluss an unsere BULL Tabelliermaschine werden die Informationen der Lochkartenabfühlbürsten direkt in den Gamma 3 eingelesen. Es lassen sich so Programme und Daten eingeben, die vom Gamma 3 unmittelbar bearbeitet werden. Die Ausgabe der Ergebnisse wird in das Druckwerk der Tabelliermaschine zurückgeführt.
 		    <br/>Wir versuchen, diese Anlage in Betrieb zu nehmen, obwohl das ein schwieriges Unterfangen mit nur geringen Erfolgsaussichten ist. Die Architektur dieser Röhrenrechner der 1. Generation hat nichts mit der von Computern der letzten 30 Jahre gemeinsam. 
 		    <br/>Techniker und Ingenieure, die damit gearbeitet haben und sich in dieser völlig anderen Welt des Rechnens auskannten, sind heute schon deutlich über 70 Jahre alt und stehen daher zur "Einstiegshilfe" leider kaum zur Verfügung.
 		</p>
-	</div>
+	
 	
 	<div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/gamma-3-netzteil.jpg" alt="BULL GAMMA 3 Netzteil" width="350" height="527" />

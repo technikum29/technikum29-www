@@ -24,13 +24,15 @@
         <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP 8. Wir verfügen über die komplette Serie dieser Geräte: Von der PDP 8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP 8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
         <br/>Für besonders Interessierte gibt es eine <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a>.
     </p>
+	
+<h3>Classic PDP 8</h3>
 
     <div class="box center auto-bildbreite">
        <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
-       <p class="bildtext">
-          Eines der musealen Highlights ist eine PDP 8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP 5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt. Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration. <br />Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a>
+       <p class="bildtext"><b>PDP 8</b> mit Bandlaufwerk TU 580, Lochstreifenleser und Festplatte</p></div>
+          <p>Eines der musealen Highlights ist eine PDP 8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP 5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt. Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration. <br />Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a>
        </p>
-    </div>
+    
 
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
@@ -55,6 +57,7 @@
             </ul>
         </div>
     </div>
+<h3><b>WANG 2200</b> mit umfangreicher Peripherie</h3>
 
     <p>Weiterhin ist das erste System angeschlossen, was schon so &auml;hnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.shtm">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
     <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen LED-Anzeige.</p>

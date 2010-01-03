@@ -1,18 +1,17 @@
 <!--
-		Dies ist der dynamisch generierte Quelltext einer deutschsprachigen Seite
-		auf technikum29.de. Aenderungen an dieser Datei werden vorraussichtlich
-		keinen Effekt haben. Bitte die Original-Dateien (SSI, Endung .shtm oder
-		.shtml) bearbeiten.
+     Dies ist der dynamisch generierte Quelltext einer deutschsprachigen Seite
+     auf technikum29.de. Aenderungen an dieser Datei werden vorraussichtlich
+     keinen Effekt haben. Bitte die Original-Dateien (SSI, Endung .shtm oder
+    .shtml) bearbeiten.
 		
-		Fuer weitere Informationen siehe Entwicklungsportal:
-		http://dev.technikum29.de
-		$Id$
+    Fuer weitere Informationen siehe Entwicklungsportal:
+    http://dev.technikum29.de
+    $Id$
     -->
 
     <link rel="alternate stylesheet" type="text/css" href="/shared/css/screen.css" media="screen,projection" title="technikum29 old" />
     <link rel="stylesheet" type="text/css" href="/shared/css/fresh.css" media="screen,projection" title="technikum29 fresh" />
     <link rel="stylesheet" type="text/css" href="/shared/css/common.css" />
-	<link rel="stylesheet" type="text/css" href="/shared/css/jan-2010.css" />
     <!--[if lt IE 7]><link rel="stylesheet" href="/shared/css/fresh-iefixing.css" title="technikum29 fresh" /><![endif]-->
     <!--[if lte IE 5.5999]><script language="JavaScript" src="/shared/js/ie5.js"></script><![endif]-->
     <link rel="top" href="/de/" title="Startseite" />

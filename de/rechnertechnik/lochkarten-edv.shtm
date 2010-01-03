@@ -20,11 +20,11 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher konnten sie sich bis in die 80er Jahre halten. Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
-
+<h3>Lochkartenstanzer</h3>
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg" alt="Lochkartenstanzer" width="330" height="368" class="nomargin-bottom" />
         <div class="bildtext">
-            <b>Lochkartenstanzer</b>
+           
             <p>Für sehr kleine Betriebe, die nur gelegentlich eine Karte stanzen mussten, reichte der kleine Kartenstanzer unten. In der Mitte befindet sich ein Stanzer von BULL und oben schließlich ein sogenannter "Magnetstanzer", bei welchem die Löcher mit Hilfe eines Elektromagneten gestanzt wurden. Für größere Lochkartenmengen verwendete man die "Motorlocher" (siehe unten), die jedoch erheblich teurer waren. </p>
         </div>
     </div>
@@ -33,17 +33,21 @@
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
-        <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b>  Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+        <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b></p></div>
+		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
 
-    </div>
+    
 	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />
-        <p class="bildtext">Der <b>UNIVAC Lochkartenstanzer 1710</b> kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
+        <p class="bildtext"><b>UNIVAC Lochkartenstanzer 1710</b></p> 
+    </div>
+	<p>Der Univac 1710 kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
 		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man Stanzprogramme (z.B. Feldsprünge) und auch Daten speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
 		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
-    </div>
-	
+		
+		<h3>Sortiermaschinen</h3>
+		
     <div class="box center manuelle-bildbreite" style="width: 580px;">
         <a name="backlink-sortierer" href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
 
@@ -62,32 +66,36 @@
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
+<h3>Lochkartenmischer</h3>
 
     <div class="box center auto-bildbreite">
         <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
         <p class="bildtext">
-            <b>IBM Lochkartenmischer 77</b>
-            <br/>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
+            <b>IBM Lochkartenmischer 77</b></p></div>
+			
+            <p>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
             <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Messgerät.
 	        <br/><a class="go" href="/de/geraete/lochkartenmischer-funktion.shtm">Funktionsweise des Lochkartenmischers</a>
         </p>
-    </div>
+
 	
     <div class="box center auto-bildbreite">
         <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
         <p class="bildtext">
-            <b>Bull Lochkartenmischer Typ 56.00.</b>
-		    Ein gigantisch großes Gerät mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch möglich. Je nach Anwendung können 250 bis 500 Lochkarten in der Minute verarbeitet werden.
+            <b>Bull Lochkartenmischer Typ 56.00.</b></p></div>
+			
+		   <p> Dieser Lochkartenmischer ist ein gigantisch großes Gerät mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch möglich. Je nach Anwendung können 250 bis 500 Lochkarten in der Minute verarbeitet werden.
 		</p>
-	</div>
+	
+	<h3>Lochschriftübersetzer</h3>
 	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
         <p class="bildtext">
-            <b>IBM 548</b>. Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. 
-	        <br>Vorne ist das Programmierfeld zu sehen</br>
+            <b>IBM 548</b></p></div>
+			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.
         </p>
-    </div>
+  
 	 
 </div><!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->

@@ -16,7 +16,7 @@
 **                                          Workarounds fuer den IE6 sind haupt-   **
 **                                          saechlich in fresh-iefixing.css        **
 ** This is $Revision::    $ from            festgehalten, fuer den IE7 hier.       **
-** $Author::         $, latest change at                                           **
+** $Author::          $, latest change at                                           **
 ** $Date:: 2006-07-22 21:42:37 -0700 (Sat, Jul 2006)$                              **
 **                                                                                 **
 **    Alle technikum29-CSS sind valide CSS3: http://tinyurl.com/t29-css-valid      **
@@ -306,12 +306,21 @@ h1.de-v3 a {
 
 #content, .content {
     /* Allgemeines fuer Inhalt */
-    /*font-family: "Times New Roman", "Times", serif;*/
-    font-size: 90%; /*  kleinere Schrift für Inhalt, seit v5.7.1 gewünscht*/
-    /* problematishce Sache. VOrher stand font-size:105% ausgeklammert, d.h. 100% wurde genutzt. 
-       Afaik soll sogar ein Schriftwechsler implementiert werden.
+    /* Wesentlicher Punkt Schriftgroesse:
+        * Urspruenglich 100% (ich wollte eine grosse Schrift)
+        * seit v5.7.1 dann 90% gewuenscht (Heribert hat auf nem 19" TFT
+          mit 1024x768px gearbeitet => scheinbar grosse Schrift)
+        * Zwischenzeitlich stand mal ein Schriftwechsler (a aa AAA)
+          in der Diskussion, wurde aber auch nie umgesetzt
+        * seit 03.01.2009 wieder 100% (Heribert arbeitet seit ein paar
+          Wochen mit 1280x1024 um ein schaerferes Bild zu erhalten)
     */
-    line-height: 125%; /* 1.5em sieht auch nett aus */
+    font-size: 100%;
+    /* Zeilenhoehe:
+       * war 125% ("1.5em sieht auch nett aus")
+       * seit 03.01.09 marginal groesser (130%)
+    */
+    line-height: 130%;
 }
 
 #content {
@@ -746,12 +755,29 @@ html>body #menu ul.l2 a:hover span, html>body #menu ul.l2 a:focus span {
  **                                                                                 **
  \***********************************************************************************/
 
-h2 {
+h2, html>body #page h2 {
     font-weight: bold;
     font-size: 160%;
     line-height: 125%; /* wird sonst relativ zu falscher schriftgroesse vererbt */
     margin: 0 0 0.7em 0;
     padding: 0;
+}
+
+#content h2 {
+    /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
+       auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
+    font-weight: normal;
+    font-family: Trebuchet Ms;
+    font-size: 180%;
+    border-bottom: 3px double #aaa;
+}
+
+#content h3 {
+    /* Und das gleiche auch fuer Unter-Ueberschriften */
+    font-weight: normal;
+    font-family: Trebuchet Ms;
+    font-size: 140%;
+    border-bottom: 3px double #aaa;
 }
 
 p { text-align: justify; }

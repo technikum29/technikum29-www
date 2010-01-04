@@ -17,6 +17,8 @@
     <link rel="author" href="/en/contact.shtm" title="contact" />
     <link rel="alternate" href="/de/<!--#echo var="url_de" -->" hreflang="de" title="Deutsche Version der Seite" />
 
+    <script type="text/javascript" src="/shared/js/auto-bildbreite.js"></script>
+
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
     <meta name="author" content="h. m&uuml;ller" />
     <meta name="DC.Format" content="text/html" />

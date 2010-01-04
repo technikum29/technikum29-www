@@ -54,8 +54,12 @@
     background-image: url(../img/fresh.design/sidebar-stripe.gif);
 }
 
+#content .startseiten-design div h2, /* id zur Bedeutungssteigerung */
 .startseiten-design div h2 {
-    font-size: 126%;
+    font-weight: bold;
+    font-size: 113%;
+    font-family: inherit; /* 04.01.10: Neue Header-Styles */
+    border: none;         /*           neutralisieren     */
     color: #224B88; /* gleiche Farbe wie Navilinks rechts */
 }
 
@@ -88,7 +92,8 @@
 }
 
 /* Spezialstyle auf der Startseite: */
-/* "Neuzugaenge" */
+/* "Neuzugaenge" (wurde aufgeloest zugunsten eigener Seite)  */
+/* (d.h. die folgenden Styles werden nicht mehr gebraucht!) */
 div.aktuell {
     /* "Aktuelle Bilder"-Bereich */
     border: 1px solid #7090C0;
@@ -411,8 +416,9 @@ ul.news-feed li {
     margin-bottom: 1.2em;
 }
 
-ul.news-feed h3 {
-   margin: 0; padding: 0;
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
+   margin: 0; padding: 0; border: none;
+   font-family: inherit;
    font-weight: normal;
    font-size: 100%;
    font-style: italic;

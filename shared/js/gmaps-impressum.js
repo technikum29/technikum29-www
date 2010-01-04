@@ -15,7 +15,11 @@
  *
  * 2009 Sven Koeppel $Id$
  * Released under the public domain
- **/ 
+ **/
+
+// if not on this domain => deactivate script since google
+// will print out error otherwise
+var t29_gmaps_valid_domain = "www.technikum29.de";
  
 var t29_gmaps_content = {
 	"de": "<b>technikum29</b><br/>Am Flachsland 29<br/>Kelkheim/Taunus"
@@ -67,7 +71,12 @@ window.onload = function() {
 	if(t29_gmaps_restore) t29_gmaps_restore();
 	
 	var lang = t29_gmaps_detect_page_language();
-			
+
+	if(location.hostname != t29_gmaps_valid_domain) {
+		document.getElementById("map").getElementsByTagName("div")[0].firstChild.data = 
+			"Karte kann nur auf www.technikum29.de geladen werden, nicht auf anderen Kopien der Homepage!";
+	}
+
 	if(GBrowserIsCompatible()) {
 		var map = new GMap2(document.getElementById("map"));
 		gmap = map;

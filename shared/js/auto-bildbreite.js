@@ -23,6 +23,11 @@ var t29_auto_bildbreite_old_onload = window.onload;
 window.onload = function() {
 	if (typeof(t29_auto_bildbreite_old_onload)=="function")
 		t29_auto_bildbreite_old_onload();
+
+	if( /msie|MSIE 6/.test(navigator.userAgent) ) {
+		// is IE6 (we silently ignore the even older IE5)
+		return;
+	}
 	
 	// get all divs
 	var divs = document.getElementsByTagName('div');

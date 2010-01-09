@@ -45,7 +45,7 @@
        <li><a href="/de/geraete/univac9400/plattenlaufwerke.shtm" name="backlink-plattenlaufwerke" title="Großes Bild der Plattenlaufwerke"><img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.klein.jpg" alt="Foto 7: Plattenlaufwerke" height="178" /></a></li>
        <li><a href="/de/geraete/univac9400/schnelldrucker.shtm" name="backlink-schnelldrucker" title="Großes Bild vom Univac 9400 Schnelldrucker"><img src="/shared/photos/rechnertechnik/univac/schnelldrucker.klein.jpg" alt="Foto 8: Schnelldrucker" height="232" /></a></li>
        <li><a href="/de/geraete/univac9400/typisches-board.shtm" name="backlink-board" title="Großes Bild von einem typischen Modul"><img src="/shared/photos/rechnertechnik/univac/typisches-board.klein.jpg" alt="Foto 9: Typisches Board" height="161" /></a></li>
-       <li><a href="/de/geraete/univac9400/univac_9300.shtm" name="backlink-univac9300" title="Großes Bild von der Univac 9300"><img src="/shared/photos/rechnertechnik/univac/univac_9300.klein.jpg" alt="Foto 10: Univac 9300" height="182" /></a></li>
+       <li><img src="/shared/photos/rechnertechnik/univac/univac_9300.klein.jpg" alt="Foto 10: Univac 9200" height="182" /></a></li>
        <li><a href="/de/geraete/univac9400/werbung.shtm" name="backlink-werbung" title="Die Anzeige für die Univac 9400 lesen"><img src="/shared/photos/rechnertechnik/univac/werbung.klein.jpg" alt="Foto 11: Univac 9400 Anzeige" height="344" /></a></li>
     </ul>
 	
@@ -81,8 +81,8 @@ Seit September 2005 schmückt sie unser Museum. Das 3. Hessische Fernsehprogramm 
 
 <p>Die UNIVAC Serie 9000 wurde Mitte der 60er Jahre konzipiert. Alle Rechner sind mittels "Monolith-Schaltkreisen" aufgebaut. Das sind ICs aus der DTL-Serie, die etwa 1966 auf den Markt kamen. DTL bedeutet "Dioden-Transistor-Logik"; die Transistoren waren in Form einfacher OR- und NOR-Gates integriert, während die eigentliche Logik außerhalb der ICs durch einfache Dioden realisiert wurde. Alle DTL-Rechner kamen daher mit nur 4 verschiedenen IC-Typen aus. Streng genommen sind dies noch Rechner der 2. Generation, der Integrationsgrad befindet sich auf der denkbar untersten Ebene. So mussten auch z.B. alle Flip-Flop-Elemente mit Hilfe der NOR-Gates realisiert werden.</p>
 
-<p>Die UNIVAC 9200 wurde als "leistungsstarke, kartenorientierte elektronische Datenverarbeitungsanlage" mit einer Speicherkapazität bis 16 kB angeboten.
-Der kurz darauf angebotene Nachfolger UNIVAC 9300 (auch diese Komplett-Anlage befindet sich in unseren Archiven) war bereits karten-, band- und plattenorentiert mit max. 32 kB Speicherkapazität.
+<p>Die UNIVAC 9200 wurde als "leistungsstarke, kartenorientierte elektronische Datenverarbeitungsanlage" mit einer Speicherkapazität bis 16 kB angeboten. Diese Anlage ist auch Bestand des Museums und wird unter der Rubrik <a href="/de/rechnertechnik/univac9200.shtm" title="UNIVAC 9200 Anlage" class="go">"Lochkarten-EDV, UNIVAC 9200"</a> beschrieben.<br>
+Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und plattenorentiert mit max. 32 kB Speicherkapazität.
 <br />1969 wurde dann schließlich die Krönung UNIVAC 9400 als "flexibles band- und plattenorientiertes Computersystem mit Multiprogramming, Real-Time-Eigenschaften und vielfältigen Möglichkeiten der Datenfernübertragung" angeboten. Das unterste Bild zeigt eine Anzeige von 1968, in welcher die Eigenschaften des Rechners offeriert werden.</p>
 
 <p>Alle Rechner dieser Serie verfügten über einen Magnetdrahtspeicher. Dieser Speicher, damals als revolutionäre Neuentwicklung angepriesen, sollte besonders zuverlässig sein und schaffte eine Zykluszeit von 600 ns pro 2 Bytes. Der geringe Zyklus war u.a. der Tatsache zu verdanken, dass der Speicherinhalt beim Lesen nicht verloren geht, wie es beim Kernspeicher der Fall ist. Zeit zum Regenerieren der Speicherinhalte nach dem Auslesen war daher nicht notwendig. 

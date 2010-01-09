@@ -66,7 +66,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
     <div class="box center">
       <div id="rel">

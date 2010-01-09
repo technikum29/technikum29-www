@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Univac 9300"
+<head><!--#set var="title"        value="Univac 9200"
    --><!--#set var="location"     value="univac-9300"
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/univac9400/univac_9300.shtm"
@@ -22,12 +22,12 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
 <div class="box center">
     <img src="/shared/photos/rechnertechnik/univac/univac_9300.jpg" alt="Univac 9300" width="563" height="432" />
     <div class="bildtext-bildbreite" style="width: 563px;">
-        <p>Dieser Computer  "UNIVAC 9300"  steht noch im Archiv des Museums. Die Anlage läßt sich als Untersystem zur UNIVAC 9400 verwenden. Alle Rechner der Serie 9000 sind Programm- und Datenkompatibel. Der Speicher der 9300 konnte auf maximal 32 KB ausgebaut werden. Problematisch ist, dass hier noch der störanfällige Magnetdrahtspeicher verwendet wurde.</p>
+        <p>Dieser Computer  "UNIVAC 9200"  steht noch im Archiv des Museums. Die Anlage läßt sich als Untersystem zur UNIVAC 9400 verwenden. Alle Rechner der Serie 9000 sind Programm- und Datenkompatibel. Der Speicher der 9200 konnte auf maximal 32 KB ausgebaut werden. Problematisch ist, dass hier noch der störanfällige Magnetdrahtspeicher verwendet wurde.</p>
     </div>
 </div>
 

@@ -22,7 +22,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
     <p>Nur die deutlich über 50-jährigen wissen noch, wie solche Lochkartenmaschinen arbeiten. Daher versuchen wir, Ihnen einen Einblick zu geben.</p>
 

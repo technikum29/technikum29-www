@@ -22,7 +22,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
   <!--<div class="center">
     <div class="bildtext-bildbreite" style="width: 930px;">-->
@@ -124,7 +124,7 @@
       </tr>
       <tr>
         <td></td>
-        <td>Plattenstapel  (40 MB), 1 Stück</td>
+        <td>Plattenstapel  (50 MB), 1 Stück</td>
         <td>2.950,-</td>
         <td>0,5</td>
       </tr>

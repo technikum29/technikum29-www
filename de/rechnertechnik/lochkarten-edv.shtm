@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="lochkarten"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/punchcard.shtm"
-   --><!--#set var="prev"         value="gamma10.shtm"
-   --><!--#set var="prev_title"   value="BULL GAMMA 10"
+   --><!--#set var="prev"         value="univac9200.shtm"
+   --><!--#set var="prev_title"   value="UNIVAC 9200"
    --><!--#set var="next"         value="elektronenroehren.shtm"
    --><!--#set var="next_title"   value="Tischrechner mit Elektronenr&ouml;hen"
  --><title>Technikum29 - <!--#echo var="title" --></title>

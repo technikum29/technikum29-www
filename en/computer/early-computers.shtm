@@ -13,15 +13,7 @@
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="technikum29, early computers, DEC PDP, WANG 2200" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id: early-computers.shtm 123 2009-11-11 22:56:33Z heribert $" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="22.08.2008/v5.8FINAL" />
-    <meta name="t29.comments" content="Link to new DEC-HISTORY page" />
-    <!--changleog: 27.04.2006/v5.5.1 auf Basis 2005/v5.5.1 -->
-    <!--changelog: 21.08.2007/v5.7.5 auf Bais 18.07.2007/v5.7FINAL -->
-	<!--changelog: 28.07.2008/v5.8.0 auf Basis 18.07.2007/v5.7FINAL:  details 2 paragraph formulierung -->
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -29,17 +21,21 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers". In contrast, in the 1960s and the early 70s, a computer was always huge (like our <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini". Early computers are well worth seeing due to their enormous size and the nice transparent auxillary devices.
-    <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP&nbsp;8. The museum owns a complete production run from that devices: From the PDP&nbsp;8 (also called Classic&nbsp;8), year of manufacture 1965 to the PDP&nbsp;8a (1975, this one is less important so it is located in the archive).
-	 <br/>For further reading see the story about <a class="go" name="backlink-dec" href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.
+       <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP&nbsp;8. The museum owns a complete production run from that devices: From the PDP&nbsp;8 (also called Classic&nbsp;8), year of manufacture 1965 to the PDP&nbsp;8a (1975, this one is less important so it is located in the archive).
+	   <br/>For further reading see the story about <a class="go" name="backlink-dec" href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.
 	</p>
     
     <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
     Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
-    <div class="box center">
+	<h3>Classic PDP 8</h3>
+    <div class="box center auto-bildbreite">
        <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
-       <p class="bildtext">
+       <p class="bildtext"><b>PDP 8</b> with tape deck TU 580, paper tape reader and hard disc</p>
+	</div>
+	
+	<p>
          One of the museal highlights: The complete PDP 8 system with processor,
          big tape deck TU 580 (originally belongs to the PDP 5, year of manufacture
          1963), punch card reader/puncher PC 01, hard disc DF 32 with immovable heads
@@ -51,10 +47,9 @@
          Without ICs or their ancestors the device is counted among the seccond-generation calculators.
          <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a>
          (<u>flank</u>). The core memory is set above (storage capacity 4kB).-->
-       </p>
-    </div>
+    </p>
 
-    <div class="box left">
+    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
         <div class="bildtext">
             <h3>PDP 8I</h3>
@@ -69,10 +64,9 @@
             <p>The periphery constists of 2 x TU 55 (tape drives), PC 04 (high speed paper tape reader),
              Calcomp 563 plotter (at the top) and of course a teletype (not in the picture).</p>
         </div>
-        <div class="clear">&nbsp;</div>
     </div>
 
-    <div class="box left">
+    <div class="box left clear-after">
         <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
         <!-- other picture -->
         <div  class="bildtext">
@@ -89,10 +83,9 @@
                 <li>A/D- and D/A-converter</li>
             </ul>
         </div>
-        <div class="clear">&nbsp;</div>
     </div>
 
-
+    <h3>WANG 2200 with bulky peripheral hardware</h3>
     <p>Furthermore the first system that looks like a today's computer is connected: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. The computer with so much peripheral devices is propably unique in Germany. The periphery: paper tape reader, reader for stacked cards, 8-inch triple disc drive, disc system with 38cm big disks (the device has a weight of 100kg and costed 24.000,- DM whereas it only saved 5MB), special basic-keyboard, etc.</p>
     <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP built his
     computers only with a single LED display until 1975.</p>

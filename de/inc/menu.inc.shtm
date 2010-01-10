@@ -39,11 +39,12 @@
         <li class="l2"><div<!--#if expr="($part) && ($part = rechnertechnik)" --> class="on"<!--#endif -->><em class="l2">Rechnertechnik und Computer</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/de/rechnertechnik/elektro-mechanik.shtm"<!--#endif -->>(Elektro-) Mechanische Rechenmaschinen<span>&nbsp;</span></a></li>
-                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location == gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Lochkarten-EDV<span>&nbsp;</span></em>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location == gamma10) || ($location == univac9200) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Lochkarten-EDV<span>&nbsp;</span></em>
                     <ul>
                         <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/de/rechnertechnik/tabelliermaschine.shtm"<!--#endif -->>BULL Tabelliermaschine<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
+						<li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/de/rechnertechnik/univac9200.shtm"<!--#endif -->>UNIVAC 9200<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/de/rechnertechnik/lochkarten-edv.shtm"<!--#endif -->>Lochkarten-Peripherie<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>

@@ -13,14 +13,7 @@
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="en" content="technikum29, third-generation calculators, HP, HP 9100, HP 9830, Wang 700, BASIC" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="21.12.2008" />
-    <meta name="t29.thistranslation" content="22.12.2008" />
-    <meta name="t29.comment" content="Combitronic new, +p after combitronic, more text to HP rack" />
-    <!--changelog: 18.04.2006/v5.5ALPHA auf Basis 13.04.2006/v5.1.1 -->
-    <!--changelog: 18.07.2007/v5.7FINAL auf Basis 21.08.2007/v5.7.5 -->
-    <!--changelog: v5.7.5: WANG 700 von B.Ulmann -->
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -37,7 +30,7 @@
       Three years before something like this was unimaginable!
       1971 the first scientifically programmable "pocket calculators" with the size of
       a matchbox came on the market, too.
-      <a class="go" href="/en/details1.shtm" title="Details 1">see also details 1</a></p>
+      See also: <a class="go" href="/en/details1.shtm" title="Details 1">Tabular list of desk calculators</a></p>
 
       <!-- altes Photo, alter TExt: <div class="box center">
           <img src="/shared/photos/rechnertechnik/wang700.jpg" alt="WANG 700" />
@@ -50,31 +43,38 @@
           a much more comfortable plotter program (HP-Basic) with only 36 commands two years later.</p>
       </div> Und nun die B.Ulmann-Übersetzung: -->
       
-      <div class="box center">
+	  <h3>WANG 700</h3>
+      <div class="box center auto-bildbreite">
           <a href="/en/devices/wang700.shtm" name="backlink-wang700" title="Detailed Photo of WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
-          <div class="bildtext">
-             <p>The picture shows a unique system with a <b>WANG 700</b> at its heart. It is a one-of-a-kind machine and was built specifically for the department of mathematical didactics of a German university. Students of pure mathematics were forced to compete for the scarce CPU time on the university's mainframe while students of mathematical didactics had exclusive access to the system shown which eventually led to some arguments between both faculties.</p>
-            <p>On the left the calculator itself can be seen &ndash; it features a two line display made from so called NIXIE-tubes, has 2 kB core memory and a built in cassette drive for mass storage. For years this machine was the fastest desktop calculator in the world.</p>
-            <p>In the middle the optical reader can be seen (which, in fact, obscures the manual punch card reader which can not be seen in this picture). On the right is a modified IBM selectric typewriter which can not only be used to print out text, but to create plots of functions as well. Below the calculator an alphanumeric keyboard can be found; on the bottom an additional dual cassette tape drive is located. Programming of this machine was quite cumbersome - a simple plotterprogram took 794 program steps to perform a task which could be done on a later HP desktop calculator like the HP 9830 in only 36 steps using HP-BASIC as its programming language.</p>
-            <a class="go" href="/en/devices/wang700.shtm">See a larger and more detailed version of the photography</a>
-          </div>
-      </div>
+          <p class="bildtext">Unique system <b>WANG 700</b></p>
+	  </div>
+	  
+      <p>The picture shows a unique system with a <b>WANG 700</b> at its heart. It is a one-of-a-kind machine and was built specifically for the department of mathematical didactics of a German university. Students of pure mathematics were forced to compete for the scarce CPU time on the university's mainframe while students of mathematical didactics had exclusive access to the system shown which eventually led to some arguments between both faculties.</p>
+      <p>On the left the calculator itself can be seen &ndash; it features a two line display made from so called NIXIE-tubes, has 2 kB core memory and a built in cassette drive for mass storage. For years this machine was the fastest desktop calculator in the world.</p>
+      <p>In the middle the optical reader can be seen (which, in fact, obscures the manual punch card reader which can not be seen in this picture). On the right is a modified IBM selectric typewriter which can not only be used to print out text, but to create plots of functions as well. Below the calculator an alphanumeric keyboard can be found; on the bottom an additional dual cassette tape drive is located. Programming of this machine was quite cumbersome - a simple plotterprogram took 794 program steps to perform a task which could be done on a later HP desktop calculator like the HP 9830 in only 36 steps using HP-BASIC as its programming language.</p>
+      <a class="go" href="/en/devices/wang700.shtm">See a larger and more detailed version of the photography</a>
 
-    <div class="box center">
-          <a href="/en/devices/diehl-combitronic.shtm" name="backlink-diehl-combitronic" title="Diehl Combitronic details">
-              <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="The Diehl Combitronic computer" width="526" height="420"/></a>
-          <div class="bildtext">
-              In 1970-72, <b>DIEHL</b> selled the <b>Combitronic</b>, featured with germanium transistors from the early 1960s
-              (used for the printer interface), (still) a paper tape used for booting, a slow delay line memory and ceramic
-              ICs (modern LSI technology). This device is a prime example for the enormous speed of development of new
-              technology. The transistor logic was implemented by simply taking four LSI ICs together. Therefore the
-              computer is logically (almost) identical to the almost obsolte Combitron, but the case is much smaller and the whole
-              computer shrank up to two small boards (see <a href="/en/devices/diehl-combitronic.shtm">detailed pictures from the
-              Diehl Combitronic</a>). In the picture above you see the compatible paper tape puncher ELS 850 and the reader
-              "Dilector" on the left.
-         </div>
-    </div>
-
+	  
+	<h3>Diehl Combitronic</h3>
+	
+    <div class="box center auto-bildbreite">
+        <a href="/en/devices/diehl-combitronic.shtm" name="backlink-diehl-combitronic" title="Diehl Combitronic details"><img
+              src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="The Diehl Combitronic computer" width="526" height="420"/></a>
+		<p class="bildtext"><b>Diehl Combitronic</b> with paper tape reader and puncher</p>
+	</div>
+	
+	<p>
+        In 1970-72, DIEHL selled the Combitronic, featured with germanium transistors from the early 1960s
+        (used for the printer interface), (still) a paper tape used for booting, a slow delay line memory and ceramic
+        ICs (modern LSI technology). This device is a prime example for the enormous speed of development of new
+        technology. The transistor logic was implemented by simply taking four LSI ICs together. Therefore the
+        computer is logically (almost) identical to the almost obsolte Combitron, but the case is much smaller and the whole
+        computer shrank up to two small boards (see <a class="go" href="/en/devices/diehl-combitronic.shtm">detailed pictures from the
+        Diehl Combitronic</a>). In the picture above you see the compatible paper tape puncher ELS 850 and the reader
+        "Dilector" on the left.
+    </p>
+	
+	<h3>Hewlett Packard HP 9810, 9820, 9830</h3>
     <p>While DIEHL still emphazised the mechanics, HP tried to hide it as much as possible. For scientifical calculations
        the Diehl computers from the series shown above were too slowly, compared to HP or WANG, whereas the Diehl devices
        were much cheaper than the others. On the other hand, for normal calculations in engineering offices the
@@ -82,7 +82,7 @@
     <br/>For large scientifical calculations or even more complex jobs you
        had to buy Wang or HP devices.</p>
 
-      <div class="box left">
+      <div class="box left clear-after">
           <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="HP desk calculators (panorama)" width="335" height="1045" class="nomargin-bottom" />
           <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
             <p class="left">The history of development from the HP-desk calculators in one rack:</p>
@@ -101,7 +101,6 @@
                   calculator that can be programmed with BASIC.</li>
             </ul>
           </div>
-          <div class="clear">&nbsp;</div>
       </div>
 
 </div><!-- end of content -->

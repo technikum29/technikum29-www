@@ -68,7 +68,7 @@
 
       <p>The picture on top shows from right to left:</p>
 
-      <div style="margin-left: 238px; padding-left: 50px;"><ul>
+      <ul>
           <li>the <a href="/en/devices/univac9400/frontpanel.shtm" title="see a detailed picture from the processor's frontpanel">main processor cabinet</a></li>
           <li>the <a href="/en/devices/univac9400/console+uniservo.shtm" title="read more about hte console and uniservo">system's console</a></li>
           <li>the Tape Control Unit</li>
@@ -80,7 +80,7 @@
           <li>the <a href="/en/devices/univac9400/highspeed-printer.shtm">high speed printer</a> of type 768</li> 
           <li><a href="/en/devices/univac9400/discdrives.shtm">two disk drives</a> of type 8425</li>
           <li>a <a href="/en/devices/univac9400/cardreader.shtm" title="further reading and viewing about the punchcard reader">punch card reader</a></li>
-      </ul></div>
+      </ul>
 
     <!-- ulmann text begins -->
     <p>This truly one-of-a-kind machine, a UNIVAC 9400 mainframe, is the heart of 
@@ -137,10 +137,10 @@
          The members of the UNIVAC 9000 family were:</p>
 
          <!-- The following list is originally continous text... -->
-         <div style="margin-left: 238px; padding-left: 50px;"><ul class="justify">
+     <ul class="justify">
 	    <li>The UNIVAC 9200, a "powerful, card oriented electronic data
 	    processing installation" with a memory capacity of up to 16 kB.</li>
-	    <li>The UNIVAC 9300 faetured tape and disk drives and could be
+	    <li>The UNIVAC 9300 featured tape and disk drives and could be
 	    equipped with up to 32 kB of main memory (the museum has one of
 	    this systems in storage).</li>
 	    <li>Finally, the UNIVAC 9400 was sold in 1969 as a "flexible
@@ -148,7 +148,7 @@
 	    programming, real time capabilities and versatile possibilities
 	    for data telecommunication". (The picture on the left shows an
 	    "advertising brochure" for this system dating back to 1969.)</li>
-	 </ul></div>
+	 </ul>
 
       <p>As in interesting note all systems of this series used a magnetic
          thin film memory, a then revolutionary development which,

@@ -14,13 +14,7 @@
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />
     <meta name="keywords" lang="en" content="technikum29, electron tubes, Anita, Bell Punch Co" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="18.07.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="16.09.2007/v5.7.8" />
-    <meta name="t29.changelog" content="käfer->beetle" />
-    <!-- 26.04.2006/v5.5.1 german original 2005/v5.5.1 -->
-    <!-- 21.08.2007/v5.7.5 v5.6.5: page relation to punchcard computing -->
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->

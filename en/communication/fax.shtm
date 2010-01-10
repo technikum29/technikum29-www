@@ -14,51 +14,33 @@
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />
     <meta name="keywords" lang="en" content="technikum, fax engineering, writing engineering, telegraphy, hellfax, hellschreiber, olympia, flexowriter" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id" />
-    <meta name="t29.germanoriginal" content="22.07.2008/v5.7.23" />
-    <meta name="t29.thistranslation" content="27.07.2008/v5.7.23" />
-    <meta name="t29.comment" content="new: Hellschreiber GL, Olympia flexowriter, and some text about teletypes" />
-    <!--changelog: 26.04.2006/v5.5.1 auf Basis de:13.04.2006/v5.5.1 -->
-    <!--changelog: 24.08.2007/v5.7.5 -->
-    <!--changelog: 15.09.2007/v5.7.8 based on 16.07.2007/v5.7.1: ein wort (astonished) -->
-    <!--changelog: 27.11.2007/v5.7.12 based on 04.11.2007/v5.7.11: Telegrafentext geaendert -->
-    <!--changelog: 21.03.2008/v5.7.20 based on 03.2008/v5.7.19: Neuer Beginn (ausschnitt), KF106, KF108, Hellfax, Telegraf neu/geaendert -->
+    <meta name="t29.SVN" content="$Id$" />
     <script type="text/javascript">
     <!--
         // small "quick & dirty" script to "open the box". See the same at /de/kommunikationstechnik/faxtechnik
-        /*function initTelegrafenstation() {
-            document.getElementById("telegraf-offen").style.display = "none";
-            document.getElementById("telegraf-zu").getElementsByTagName("img")[0].style.cursor = "pointer";
-        }
-        function switchTelegrafenstation() {
-            document.getElementById("telegraf-zu").style.display = "none";
-            document.getElementById("telegraf-offen").style.display = "block";
-        }*/
         // umgeschrieben fuers Hellfax
 	function initGeraeteoeffner() {
-            /*document.getElementById("telegraf-offen").style.display = "none";
-            document.getElementById("telegraf-zu").getElementsByTagName("img")[0].style.cursor = "pointer";*/
-		
             document.getElementById("hellfax-offen").style.display = "none";
             document.getElementById("hellfax-zu").style.cursor = "pointer";
-
 	}
 
     function switchGeraet(name) {
         document.getElementById(name+"-zu").style.display = "none";
         document.getElementById(name+"-offen").style.display = name=="telegraf"?"block":"inline";
     }
+	
+	var backup = window.onload;
+	window.onload = function() { backup(); initGeraeteoeffner(); }
     // -->
     </script>
 </head>
-<body onLoad="initGeraeteoeffner();">
+<body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+    <!-- Etwas unkonventionell - mehrere h2 auf der Seite verteilt -->
+    <h2>Telegraphy</h2>
 
-    <div class="box left">
+    <div class="box left clear-after">
         <a href="/en/devices/morse_telegraph.shtm" name="backlink-morse-telegraph"><img src="/shared/photos/kommunikationstechnik/telegrafie-regal.jpg" alt="The telegraph's rack" width="240" height="464" /></a>
         <div class="bildtext">
             An extract from the area fax and writing engineering.
@@ -77,7 +59,6 @@
                href="/en/devices/morese_telegraph.shtm">telegraph station</a>, made by S.A. HASLER (Bern, Switzerland).
             </p>
         </div>
-        <div class="clear">&nbsp;</div>
     </div>
 
 
@@ -103,17 +84,23 @@
         </div>
     </div>-->
 
-     <div class="box center">
+     <div class="box center auto-bildbreite">
           <img src="/shared/photos/kommunikationstechnik/morsetelegraph-um1900.jpg" width="439" height="249" alt="Morsetelegraph um 1900" />
-          <p class="bildtext-bildbreite" style="width:439px;">This telegraph station was built in the time about 1900. More than 100 years ago, no one cared about time
+          <p class="bildtext">This telegraph station was built in the time about 1900. More than 100 years ago, no one cared about time
             thus communication was quite unhurried.</p>
       </div>
 
-     <div class="box center">
+     <div class="box center auto-bildbreite">
           <img src="/shared/photos/kommunikationstechnik/morseempfaenger.jpg" width="439" height="254" alt="Morse reciever" />
-          <p class="bildtext-bildbreite" style="width:439px;">This picture shows the edgewise view from the morse reciever. The apparature is connected to a paper tape morse transmitter from the 60s.</p>
+          <p class="bildtext">This picture shows the edgewise view from the morse reciever. The apparature is connected to a paper tape morse transmitter from the 60s.</p>
      </div>
-
+	 
+	<h2>Fax engineering, Picture Telegraphy</h2>
+	
+	<!-- Eigentlich steht hier ziemlich anderes Zeug im Deutschen (Januar 2010),
+	     aber gespickt mit alten Spezialbegriffen, fuer die es im englischen keine
+		 Uebersetzungen gibt (bereits erstes Wort: Faximile) -->
+	
       <p>It is quite incredible: Fax machines were already mass-produced in 1929. However, it
       was difficult to run these machines. The first pracitcal fax machines are a german invention: The "Normalpapierfax" (a fax machine that
       used usual paper) from Siemens-Hell, year of manufacture 1956, with tube technology, is still completely runable.
@@ -181,37 +168,64 @@
           <div class="clear">&nbsp;</div>
       </div>
 
-      <div class="box center">
+      <div class="box center auto-bildbreite">
           <img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="SIEMENS fax machine KF 106" />
-          <p class="bildtext-bildbreite" style="width:513px;">
-              The <b>Siemens (HELL) fax machine KF 106</b> is very rare. This "remote copy machine" was produced in
-              1954/55. The ink-based write approach was already matured. Sad to say, the service-friendliness was quite
-              bad. The bulky device (27 kilogram) scans only a DIN A5 sheet. Already 1956 the successor KF 108
-              came on the market, with great improvements.
-          </p>
-    </div>
+          <p class="bildtext">
+		      Very rare <b>Siemens (HELL) fax machine KF 106</b>
+	      </p>
+	  </div>
+	  
+	  <p>
+	      This "remote copy machine" was produced in 1954/55. The ink-based write
+		  approach was already matured. Sad to say, the service-friendliness was
+		  quite bad. The bulky device (27 kilogram) scans only a DIN A5 sheet.
+		  Already 1956 the successor KF 108 came on the market, with great 
+		  improvements.
+       </p>
 
-      <div class="box center">
+      <div class="box center auto-bildbreite">
           <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="SIEMENS fax machine KF 108" />
           <p class="bildtext">
-              The illustration shows the <b>SIEMENS fax machine KF 108</b> (year of manufacture 1956).
-              <br/>It works in a similar way like the Fultograph. Instead of the electrochemical recording,
-              ink is put on the usual paper by the help of complex mechanics.
+		      <b>SIEMENS fax machine KF 108</b> (year of manufacture 1956)
+		  </p>
+	  </div>
+	  
+	  <p>	  
+          The KF 108 works in a similar way like the Fultograph. Instead of the
+		  electrochemical recording, ink is put on the usual paper with the help
+		  of complex mechanics.
 
-              <br/>It works similar to the fultograph. Instead of a electochemical notation, ink is brought by a small rotating sapphire reel onto normal paper.
-              <br/>A KF 108 will even be able to send and recive faxes when the modern fax devices are trashed. Of course, it is not compatible to today's devices. Siemens produced the device in a typical german manner: Everything is huge and indestructible. In these days you did not throw everything away.
-          </p>
-      </div>
+          <br/>It works similar to the fultograph. Instead of a electochemical
+		  notation, ink is brought by a small rotating sapphire reel onto normal
+		  paper.
+          <br/>A KF 108 will even be able to send and recive faxes when the modern
+		  fax devices are trashed. Of course, it is not compatible to today's
+		  devices. Siemens produced the device in a typical german manner: Everything 
+		  is huge and indestructible. In these days you did not throw everything away.
+      </p>
 
-     <p>The next fax (year of manufacture 1963, also used for weather cards) weights 90 kg and has even electonic tubes. In the 1960s, weather offices were able to recive the latest weather cards (with pages bigger than DIN A3) with these machines.</p>
+      <p>
+	      The next fax (year of manufacture 1963, also used for weather cards) weights
+		  90 kg and has even electonic tubes. In the 1960s, weather offices were able
+		  to recive the latest weather cards (with pages bigger than DIN A3) with
+		  these machines.
+		  <br/>The Hellfax-Blattschreiber BS 100 shows how exhausting it was to send
+		  DIN A2 fax drawings in the 1960s. This device was used to recive weather
+		  cards with radio communication. You can also see an <a class="go" 
+		  name="backlink-hellfax" href="/en/devices/hellfax-functionality.shtm">Hellfax 
+		  unctional diagram</a>. Clicking on the picture will open the front lid.
+	  </p>
 
-     <div class="box center">
+			
+     <div class="box center auto-bildbreite">
          <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="The Hellfax-Blatschreiber BS 100, with closed lid" onClick="switchGeraet('hellfax');" id="hellfax-zu" />
          <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geoeffnet.jpg" alt="The Hellfax-Blattschreiber BS 110 with opened lid" id="hellfax-offen" />
          <p class="bildtext">
-            The <b>Hellfax-Blattschreiber BS 100</b> shows how exhausting it was to send DIN A2 fax drawings in the 1960s. This device was used to recive weather cards with radio communication. You can also see an <a class="go" name="backlink-hellfax" href="/en/devices/hellfax-functionality.shtm">Hellfax functional diagram</a>. Click on the picture to open the front lid.
+		    <b>Hellfax-Blattschreiber BS 110</b>
          </p>
      </div>
+	 
+	<h2>Teletype technology</h2>
      
     <!--
      next Paragraph/box: In Deutsch "ohne Worte". Heribert schreibt
@@ -229,9 +243,9 @@
     
      Auf Basis dieses Textes nun meine englische Übersetzung:
     -->
-    <div class="box center">
+    <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
-        <p class="bildtext-bildbreite" style="width:629px;">
+        <p class="bildtext">
             The <b>Hellschreiber GL 72</b>, year of manufacture 1952
             (in the picture on the left). This device assignes an unique
             sequence of frequencies to each key. Thus the device could make use of the
@@ -261,26 +275,32 @@
        times of the internet, a few developing countries use this
        disaster safe kind of communication.</p>
 
-     <div class="box center">
+     <div class="box center auto-bildbreite">
          <img src="/shared/photos/kommunikationstechnik/fernschreiber.jpg" width="520" height="536" alt="Teletypewriter" />
-         <p class="bildtext-bildbreite" style="width:520px;">
-            Teletype from Siemens, year of manufacture 1952. Below in the picture, you can see a paper tape sender.
-            While typing the text, it was fed into the paper tape and could be send afterwards quite fast.
-            This is quite equal how today's e-mail clients work: They buffer the text while the user inputs
-            it until it is send in one go, instead of streaming the keyboard input "live" to the recipient.
-            Of course this apperature is still fully executable.
-         </p>
-     </div>
-    
-    <!-- This paragraph was replaced on 27. july 08 in favour of... -->
+         <p class="bildtext">
+		     <b>Siemens Teletype</b>, year of manufacture 1952
+	     </p>
+	 </div>
+	
+    <p>
+	    Below in the picture, you can see a paper tape sender.
+        While typing the text, it was fed into the paper tape and could be send afterwards quite fast.
+        This is quite equal how today's e-mail clients work: They buffer the text while the user inputs
+        it until it is send in one go, instead of streaming the keyboard input "live" to the recipient.
+        Of course this apperature is still fully executable.
+    </p>
+
+
+	<h2>Flexowriter</h2>
+     <!-- This paragraph was replaced on 27. july 08 in favour of... -->
      <!--
      <p>Long time before, telegraph offices (about 1900), the early teleprinters (1938) and Hellschreiber (1952) were used. A demonstration shows something unbelievable: The Hellschreiber writes a dictate from a dictating machine from the early fifties without mistakes!?<br/>
      <br/>The electomechanical "text processing systems" (1962-64) show you how texts could be duplicated and written automatically with punched tapes and punch cards as storages. Only big companies could afford the complex technology which was typically german. See the <a class="go" href="/en/devices/olympia-flexowriter.shtm" title="Olympia Schreibautomat" name="backlink-olympia">Olympia flexowriter</a>.</p>
      -->
      <!-- ...this paragraph: -->
-	 <div class="box center">
+	 <div class="box center auto-bildbreite">
 		<img src="/shared/photos/kommunikationstechnik/olympia-schreibautomat.jpg" width="629" height="242" alt="Olympia Flexowriter" />
-		<div class="bildtext-bildbreite" style="width:629px;">
+		<div class="bildtext">
             <p>As a kind of spin-off products of the teletype
                development, the electromechanical "wordprocessing systems"
                (1962 &ndash; 1964) were invented. They were capable

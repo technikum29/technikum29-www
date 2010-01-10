@@ -14,15 +14,7 @@
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />
     <meta name="keywords" lang="en" content="technikum, calculator, electromechanical, mechanical calculator, madas, curta I, diehl VSR-18" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id" />
-    <meta name="t29.germanoriginal" content="10.2008" />
-    <meta name="t29.thistranslation" content="v5.8.x/13.10.2008" />
-    <meta name="t29.changelog" content="New: Burroughs" />
-    <!--changelog: 22.04.2006/v5.5FINAL Original 13.04.2006/v5.5.1 -->
-    <!--changelog: 21.08.2007/v5.7.5 based on 18.07.2007/v5.7FINAL:  v5.6.5: page relation to punchcard computing -->
-    <!--<meta name="t29.comment" content="v5.7 Umstrukturierung..." />-->
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -36,13 +28,12 @@
 
     When the handwheel was replaced by an electric engine, the era of mechanical calculators began.</p>
 
-    <div class="box center">
+    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
         <p class="bildtext">
            <b>Burroughs Mod. 2.</b>
            The first printing calculating machine was invented in the USA (about 1905) and was selled worldwide. It features a complete keyboard for 17 digits, a printing unit and a long carriage for the sheet paper. The device could be used as a simple electronic accounting machine. At that time the engines could already be built just compact enough for such a device. Anyway, the (for today's circumstances) huge engine had to be placed below the device (on the right hand side in the picture). The sack below the engine is intended for collecting the leakage oil.
         </p>
-
     </div>
 
     <p>The first printing mechanical calculator (1905) is an unicum with an huge exterior engine!
@@ -53,24 +44,24 @@
     If you look at the picture of Curta I (shown below), you recognize the enormous importance of the
     positional notation.</p>
 
-    <div class="box center">
-        <img src="/shared/photos/rechnertechnik/madas.jpg" width="498" height="255" alt="Madas Rechenmaschiene" />
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/madas1.jpg" width="600" height="373" alt="Madas Rechenmaschiene" />
         <p class="bildtext">Shown above: MADAS, an electromechanical calculator from 1927
-        made by the calculating machine factury "Egli AG" in Zurich. On the left side you see
-        CURTA I, in the background an old matchbox that shows the enormous size of these
-        machines.</p>
+        made by the calculating machine factury "Egli AG" in Zurich.
+		Since multiplying and dividing needs some time, the inventors installed a small bell (at the upper
+		left) that rings after the calculation has finished.</p>
     </div>
 
-    <div class="box center">
-        <img src="/shared/photos/rechnertechnik/rheinmetall-superautomat.jpg" width="496" height="372" alt="Rheinmetall Superautomat" />
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/rheinmetall.jpg" width="600" height="499" alt="Rheinmetall Superautomat" />
         <p class="bildtext">1932 Rheinmetall extended an adding machine with an "annex",
           thus they made a 4-species calculating machine.
           The comfortable usability seems to be the reason why they called it "Superautomat".</p>
     </div>
 
 
-    <div class="box center">
-        <img src="/shared/photos/rechnertechnik/diehl_vsr-18.jpg" width="469" height="360" alt="DIEHL VSR-18" />
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/diehl-vsr18.jpg" width="500" height="375" alt="DIEHL VSR-18" />
         <p class="bildtext"><b>DIEHL VSR-18</b>, one of many mechanical calculators
         built between 1955 and 1965.
         <br/>The engineers were hardly pressed to design better and better machines, until

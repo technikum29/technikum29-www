@@ -34,7 +34,7 @@
                 <li><a <!--#if expr="$location = rundfunk" -->class="on"<!--#else -->href="/en/communication/broadcasting.shtm"<!--#endif --> >Broadcasting<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = tontechnik" -->class="on"<!--#else -->href="/en/communication/sound_technology.shtm"<!--#endif -->>Sound recording and reproducing technology<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = fernsehen" -->class="on"<!--#else -->href="/en/communication/television.shtm"<!--#endif --> >Television<span>&nbsp;</span></a></li>
-                <li><a <!--#if expr="$location = faxtechnik" -->class="on"<!--#else -->href="/en/communication/fax.shtm"<!--#endif -->>Fax engineering<span>&nbsp;</span></a></li>
+                <li class="long"><a <!--#if expr="$location = faxtechnik" -->class="on"<!--#else -->href="/en/communication/fax.shtm"<!--#endif -->>Telegraphy and Fax engineering<span>&nbsp;</span></a></li>
             </ul>
         </div></li>
 
@@ -43,11 +43,12 @@
         <li class="l2"><div<!--#if expr="($part) && ($part = computer)" --> class="on"<!--#endif -->><em class="l2">Computer Technology</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/en/computer/electro-mechanical.shtm"<!--#endif -->>(Elektro-) mechanical calculators<span>&nbsp;</span></a></li>
-                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location = gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location = univac9200) || ($location = gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
                     <ul>
                         <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>BULL Tabulating machine<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/en/computer/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/en/computer/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/en/computer/univac9200.shtm"<!--#endif -->>UNIVAC 9200<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif --> title="Punch card devices">Peripheral card devices<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>

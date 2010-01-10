@@ -26,7 +26,23 @@
     <p>This is a news feed for the recent changes on our homepage. The latest
        posts are on top.</p>
 
-    <ul class="news-feed">
+
+<ul class="news-feed">
+
+        <li><h3>January 2010</h3>
+		   A new challenge: The UNIVAC 9200 data processing center was moved from the archives to the
+		   museum building and is currently restored optically and technically.
+		   <div class="box left clear-after">
+		        <img src="/shared/photos/rechnertechnik/univac9200klein.jpg" alt="Foto der UNIVAC 9200 Anlage" width="350" height="184" class="nomargin-bottom" /> 
+				<p class="bildtext">Univac 9200 in restoration<br/>See new page <a class="go" href="/en/computer/univac9200.shtm">UNIVAC 9200</a>
+           </div>
+		</li>
+
+        <li><h3>January 2010</h3>
+		   The structure of our homepage was improved. We arranged topics with more headings
+		   and improved the site design.
+		</li>
+	
 		<li><h3>November 2009</h3>
 		   We're have published the new page <a class="go" href="miscellaneous.shtm">The Pianola and Miscellaneous</a>
 		   where you can see some highly interesting exhibits that neither match computer nor

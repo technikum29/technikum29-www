@@ -13,15 +13,13 @@
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.thistranslation" content="12.11.2009/21:40" />
-    <meta name="t29.comment" content="tabulating machine geteilt in 3 Seiten wie auf de, Uebersetzung sync" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <div class="box left">
+    <div class="box left clear-after">
       <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"
            alt="The BULL GAMMA 3, closed state" width="156" height="210" />
       <p class="bildtext">
@@ -51,13 +49,15 @@
         punchcard auxillary devices. A thyratron tube is capable of saving
         temporary digital states.
       </p>
-      <div class="clear"></div>
     </div>
     
-    <div class="box center">
-      <img src="/shared/photos/rechnertechnik/bull-gamma3.jpg"
-           alt="BULL GAMMA 3 Innen" width="692" height="565" />
-      <p class="bildtext">
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/bull-gamma3.jpg"
+             alt="BULL GAMMA 3 Innen" width="692" height="565" />
+	    <p class="bildtext"><b>Tubes over Tubes: BULL Gamma 3</b></p>
+	</div>
+	
+	<p>
         The modules could be folded out, hence the calculator is quite
         service friendly. Two big fans circulate fresh air thorught the
         case. On the left you can see a part of the big power supply &ndash;
@@ -68,10 +68,9 @@
         transfered to the GAMMA 3. Thus programs and data can be manipulated
         directly by the GAMMA 3. The output is transfered back to the
         printing unit from the Tabulating Machine.
-      </p>
-    </div>
+    </p>
 
-    <div class="box left">
+    <div class="box left clear-after">
       <img src="/shared/photos/rechnertechnik/gamma-3-netzteil.jpg"
         alt="BULL GAMMA 3 power supply" width="350" height="527" />
       <p class="bildtext">
@@ -92,7 +91,6 @@
         as you can see in the lower right of the picture.
         At the left side you see dozens of electrolytic capacitors.
       </p>
-      <div class="clear"></div>
     </div>
 
 </div><!-- end of content -->

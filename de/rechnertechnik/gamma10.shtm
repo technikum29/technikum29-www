@@ -7,8 +7,8 @@
    --><!--#set var="url_en"       value="computer/gamma10.shtm"
    --><!--#set var="prev"         value="gamma3.shtm"
    --><!--#set var="prev_title"   value="BULL GAMMA 3"
-   --><!--#set var="next"         value="lochkarten-edv.shtm"
-   --><!--#set var="next_title"   value="Lochkarten-Peripherie"
+   --><!--#set var="next"         value="univac9200.shtm"
+   --><!--#set var="next_title"   value="UNIVAC 9200"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->

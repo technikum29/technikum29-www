@@ -22,15 +22,19 @@
 	<p>Diese Seite ist gerade am Entstehen!<br> Wir berichten zunächst über den Fortgang der Restauration dieser Anlage. Das ist eine nicht unbeachtliche Herausforderung.</p>
 	
 	
-	<p>Dazu wurde die Anlage zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen beginnt die Arbeit mit dem gründlichen Säubern der Geräte. Das ist hier eine ganze besondere Herausforderung: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen oder sie haben sich zu einer klebrigen, teerartigen Masse verändert. Wir mussten mit beidem kämpfen.<br>
-	Mittlerweile wurden die Lärmdämm-Matten (Schaumgummi) erneuert, wodurch die Geräte von innen wieder neuwertig aussehen. Die nächste Hürde bestand darin, die teils festsitzende Mechanik wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf! Der Lochkartenleser, der stolze 500 Karten pro Minute liest, arbeitet wieder und auch die Mechanik des Stanzers läuft mittlerweile wieder einwandfrei. <br>
+	<p>Die UNIVAC 9200 ist eine lochkartenorientierte EDV-Anlage die 1966 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Der Wunsch, diese wieder zur vollen Funktion zu bringen schlummert seit 4 Jahren in unseren Köpfen und wird nun Realität. <br>
+	Dazu wurde die Anlage zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen beginnt die Arbeit mit dem gründlichen Säubern der Geräte. Das ist hier eine ganz besondere Herausforderung: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen oder sie haben sich zu einer klebrigen, teerartigen Masse verändert. Wir mussten mit beidem kämpfen.<br>
+	Mittlerweile wurden die Lärmdämm-Matten (Schaumgummi) erneuert, wodurch die Geräte von innen wieder neuwertig aussehen.<br>
+	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern erwarten wir hier die größten Probleme.	Die nächste Hürde bestand darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf! Der Lochkartenleser, der stolze 500 Karten pro Minute liest, arbeitet wieder und auch die Mechanik des Stanzers läuft mittlerweile wieder einwandfrei was jedoch nicht bedeutet, dass die Lochkartenperipherie auch mit der Steuerung über den Prozessor funktionsfähig ist (Test kommt später). 
+	
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200 Anlage" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
 	
-	Schließlich müssen viele der Verkleidungsbleche neu lackiert werden damit die Anlage auch äußerlich unseren Anforderungen entspricht.<br>
-	Danach ist der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen müssen. Hier warten mit Sicherheit noch viele zu lösende Probleme auf uns.<br>
-	Die Mühe der aufwändigen Restauration wird sich lohnen, da diese Anlage (gebaut und vertrieben ab 1966) als reine Lochkartenmaschine mit Assembler-Programmierung einen Seltenheitswert hat.<br>
+	<p>Anschließend müssen viele der Verkleidungsbleche neu lackiert werden damit die Anlage auch äußerlich unseren Anforderungen entspricht.<br>
+	
+	Danach ist der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen müssen. Hier warten mit Sicherheit noch viele Fehler auf uns.<br>
+	Die Mühe der aufwändigen Restauration wird sich lohnen, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
 	Wir werden über den Fortgang der Reparatur berichten und technische Details beschreiben, wenn die Anlage wieder funktioniert.</p>
 
 

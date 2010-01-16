@@ -18,13 +18,40 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
+	
+	<p>The Univac 9200 is a punch card computing data center from 1966. It is not
+	   common that such old devices are completely preserverd, furthermore all
+	   manuals are available. This system was stored over four years in the museum
+	   archives until we moved it with a freight company just into the museum, next
+	   to the <a href="univac9400.shtm">UNIVAC 9400</a>.</p>
+	   
+	<p>The restauration started with cleaning all the devices, removing the typical
+	   old rotten noise-absorbing mats at the very first. They have been replaced by
+	   brand new cellular rubber.</p>
 
-	<p><i>This page is currently under construction. Please come again later to get the latest information.</i></p>
+    <p>We expect most of the problems with all the mechanical parts that take most
+	   of the place in the cabins. We already removed transportation lockings
+	   <!-- LOL - wirkt inhaltich echt behindert, sowas geht sonst ja schnell ;) -->
+	   and replaced some bearings, drive rollers and belts. The card puncher features
+	   15 timing belts, for instance.
+	   The card reader (500 cards/minute) works again and the puncher mechanics is
+	   now executable, too. The processor link of these auxillary devices is another
+	   issue and will be checked in the near future.</p>
 	
 	<div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9200</b> electronic data processing system, uncovered while being restored</p>
 	</div>
+	
+	<p>For optical reasons, we will also repaint the cases.</p>
+	<p>Afterwards, we will address the bar printer. In contrast to the already
+       mentioned devices, the printer cannot be controlled manually, so we will
+	   start up the processor, too. This will be a buggy job, too.
+	   But all the work is not for nothing, <!-- sic! gute uebersetzung -->
+	   since the system is really unique, featuring punch card assembler programming.</p>
+	   
+	<p><i>We will continuously update this page about the progress of the reparation.
+	   Please come again later to get the latest details.</i></p>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

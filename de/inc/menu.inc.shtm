@@ -45,7 +45,7 @@
                         <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
 						<li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/de/rechnertechnik/univac9200.shtm"<!--#endif -->>UNIVAC 9200<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/de/rechnertechnik/lochkarten-edv.shtm"<!--#endif -->>Lochkarten-Peripherie<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/de/rechnertechnik/lochkarten-edv.shtm"<!--#endif -->>Lochkartengeräte<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>
                 <li class="l3"><div<!--#if expr="($location = elektronenroehren) || ($location = transistoren) || ($location = programmierbare) || ($location = ic-technik)"--> class="on"<!--#endif -->><em>Elektronische Tischrechner<span>&nbsp;</span></em>

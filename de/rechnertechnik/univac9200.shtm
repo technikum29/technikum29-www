@@ -28,7 +28,7 @@
 	<br>Der Lochkartenleser, der stolze 500 Karten pro Minute liest, arbeitet wieder und auch die Mechanik des Stanzers läuft mittlerweile einwandfrei was jedoch nicht bedeutet, dass die Lochkartenperipherie auch mit der Steuerung über den Prozessor funktionsfähig ist (Test kommt später).</p> 
 	
 	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/univac9200-2.jpg" alt="UNIVAC 9200 Anlage" width="700" height="462" />
+		<img src="/shared/photos/rechnertechnik/univac_9200.jpg" alt="UNIVAC 9200 Anlage" width="700" height="462" />
 		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit den Komponenten (von links nach rechts): 
 		Stabdrucker, Prozessor, Electronic-Cabinett (Netzteil u. Magnetdrahtspeicher), Lochkartenleser,
 		Lochkartenstanzer</p></div>
@@ -41,7 +41,9 @@
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200 Anlage" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
-	<b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.</p>
+	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.<br>
+	<b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.<br>
+	Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!</p>
 
 
 </div><!-- end of content -->

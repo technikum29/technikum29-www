@@ -22,7 +22,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
 <!-- Beginn der Weiterleitungs-Befehle -->
     <!--#set var="forwarding_page" value="/en/computer/univac9200.shtm" -->

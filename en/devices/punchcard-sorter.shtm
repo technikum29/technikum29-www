@@ -15,6 +15,7 @@
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Lochkartensortieralgorithmus" />
+	<meta name="t29.SVN" content="$Id$" />
     <meta name="t29.germanoriginal" content="v5.7.19" />
     <meta name="t29.thistranslation" content="09.04.2008/v5.7.22" />
     <meta name="t29.comment" content="Udos Berichtigungen eingefuegt" />
@@ -22,7 +23,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
     <p>Only people who are born prior to 1960 may have knowledge of the punch card machines. We would like to give you an example of these historic machines' functionality.</p>
 

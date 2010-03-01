@@ -49,7 +49,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
     <p>40 years ago, computer systems were incredibly expensive. The prices in the
        following abstract are taken from the original UNIVAC price list from 1968

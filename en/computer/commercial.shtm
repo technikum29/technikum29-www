@@ -20,6 +20,8 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>In contrast to computers used for scientific applications, commercial data processing systems have a different structure since they are optimized to support large storage systems and to process lots of data like in payroll applications and the like. Sometimes the distinction between scientific and commercial systems is not a clear one. The examples below are typical small to medium systems for commercial applications.</p>
+	
+	<p>The <a class="go" href="/en/computer/gamma10.shtm">BULL GAMMA 10</a> and the <a class="go" href="/en/computer/univac9200.shtm">UNIVAC 9200</a> were two very nice devices that were primarily used for commercial applications.</p>
 
 	<h3>Olivetti P 203</h3>
     <div class="box right clear-after">

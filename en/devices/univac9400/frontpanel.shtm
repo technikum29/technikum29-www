@@ -25,7 +25,7 @@
 <div class="box left">
     <img src="/shared/photos/rechnertechnik/univac/frontpanel.jpg" alt="Univac 9400 Frontpannel" width="361" height="575" />
     <div class="bildtext">
-        <h2 class="center"><!--#echo var="title" --></h2>
+        <h2><!--#echo var="title" --></h2>
         <p>Light ermitting diodes (LEDs) has not been invented yet. Little
 	glow lamps were used to display the binary states because
 	filament bulbs would have been too lazy to perform the fast

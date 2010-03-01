@@ -4,7 +4,7 @@
 <head><!--#set var="title"        value="Reparatur der NCR 446"
    --><!--#set var="location"     value="ncr"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/ncr-446.shtm"
+   --><!--#set var="url_en"       value="devices/ncr446.shtm"
    --><!--#set var="title_en"     value="Details of NCR 446"
    --><!--#set var="prev"         value="/de/rechnertechnik/kommerzielle.shtm#backlink-ncr-446"
    --><!--#set var="prev_title"   value="Kommerzielle Rechner"

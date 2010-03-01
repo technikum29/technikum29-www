@@ -13,8 +13,6 @@
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
 
-    <!-- Well... quite simple ;-) -->
-    <link href="http://page2rss.com/rss/15c37d8c11d3729e650502a0881277e4" title="Get a nifty RSS feed from this list" type="application/rss+xml" rel="alternate" />
     <meta name="t29.SVN" content="$Id$" />
     <meta name="t29.initialdate" content="04.10.2009" />
 </head>
@@ -29,8 +27,9 @@ computer equipment. All projects are selfmade, with partly enormous hardware and
 software efforts, like routed PCBs, kernel drivers and microcontrollers.
 <br/>Upcoming projects:</p>
 <ul>
-  <li>punch card I/O with AVR ATmega microcontrollers via RS232 to computers,
-      Qt platform independent processing, with various hardware</li>
+  <!-- Done: -->
+  <!--<li>punch card I/O with AVR ATmega microcontrollers via RS232 to computers,
+      Qt platform independent processing, with various hardware</li>-->
   <li>Analex printer interface to the Bull Gamma 10 computer (uC based)</li>
 </ul>
 <br/>
@@ -97,6 +96,81 @@ performed with ordinary PCs.</p>
 >The Paper Tape Project</a>. The source code was released as open source can be checked
 out from the <a
 href="http://dev.technikum29.de/svn/listing.php?repname=paper-tape-project">technikum29.de  subversion repository</a>.</p>
+
+<h3>Reading punch cards with contemprary computers</h3>
+<p>There is an historical storage media that is even more important than paper tapes:
+Punch cards. They were the one of the pillars of early mass electronic data processing
+and were used for saving data and program executables. Based on the <i>Paper Tape Project</i>,
+we started the <i>Punch Card Project</i> with the similar target of reading, editing and
+punching punch cards.</p>
+
+<p>When connecting these small paper tape devices (shown above) directly to modern
+personal computers via the parallel port ("LPT"), we noticed they were too slow for
+communication. Having modern GHz powered high end computers, how's that possible?
+<br/>The real cause for this performance is the software and hardware design of
+contemporary personal computers. They are conceptually designed for processing huge
+amounts of data and high speed calculations, but no more for short latencies with I/O
+handling. Actually, all time-ciritcal parts in modern high speed communication
+protocols (like USB, Ethernet, Firewire, etc.) are implemented in hardware. Software,
+on the other side, features more and more abstraction levels, so there's no more
+real-time operation even at kernel space.
+<br/>There are real-time operating systems, indeed, but by using such an operating
+system, the computer would be dedicated to communicating to the device. This is not
+neccessary. There is a (not even young) branch of computers which perfectly match
+all the criteria mentioned: Low latency, fast I/O, fully deterministic. Microcontroller
+are these low cost processors, a single chip featuring a lot of peripheral equipment.</p>
+
+<div class="desc-left">
+    <img src="/shared/photos/rechnertechnik/documation-m200.jpg" width="300" height="215" alt="Photography of the Documation M200 pneumatically Punch Card Reader" />
+    <p class="bildtext" style="width:300px;"><b>Documation M200</b> card reader (this one implemented by WANG)</p>
+</div>
+<p>We are using an ATmega microcontroller made by Atmel AVR. Most of the 40 digital I/O
+pins are directly wired to the electrical Input/Output of the punch card device
+<i>Documation M200</i> (featuring a pneumatic card feed). On the other side of the small
+development board there is the RS232 port ("serial port"), communicating to the computer.
+This small board is actually so small that it fits right into the device's cabinet.
+Running with 8&nbsp;MHz, the microcontroller is easily capable of hard real-time
+communication (300 cards/minute) and serving 4kB RAM, there is enough space for buffering
+a lot of punch cards until they can be sent to the virtually lazy computer via RS232.
+This is a quite old industry standard for serial data transportation, but since its very
+easy and robust, RS232 is quite perfect for such an interface. Using contemporary USB
+was no option since it's very complex and bulky (above all, there are cheap RS232-to-USB
+interfaces).</p>
+
+<p>We wrote a program for the microcontroller that implements the device driver to the
+punch card device. Now having an electrically specified interface to the computer (RS232),
+how should we communicate to the computer (automatically)? Furthermore, in which way
+should we represent a punch card with binary digits (zeros and ones)?
+<br/>While modeling 8 bit paper tapes into 8 bit bytes is trivial, a punch card, having
+80 columns with 12 rows each, is much more complex. Therefore we wrote the
+<a href="http://dev.technikum29.de/projects/paper-tape-project/punch-card/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
+way how computer and microcontroller shall communicate autonomously. It defines, that
+two punch card columns shall be packed into three octetts, each. This binary format has
+been proposed by the computer sciencist <a href="http://www.cs.uiowa.edu/~jones/">Douglas
+W. Jones</a>.
+<br/>For the computer side, we wrote the <i>Punch Card Editor</i>, a program that recieves
+the punch cards from the microcontroller (via the RS232 interface) and visualizes them in
+the graphical user interface. At this step, the text encodings (IBM H9 code, Bull Code)
+can be used to translate between binary punch card data and ASCII text. Thus card decks
+can be read in, modified and saved as files. Of course the comfortable program already
+has the interface for punching paper tapes, once we have selected a device and programmed
+some microcontroller for that job. At this point, there is also another benefit of this
+approach: The program runs on all modern platforms/operating systems (like Microsoft
+Windows, GNU/Linux, Apple OS X, etc. - there just needs to be some RS232 or USB connection).</p>
+
+<p>You can get further details with a lot of documentation material on the homepage of
+<a class="go" href="http://dev.technikum29.de/projects/paper-tape-project/documentation/index.php/punch-card/README.htm"
+>The Punch Card Project</a>. The source code was released as open source can be checked
+out from the <a
+href="http://dev.technikum29.de/svn/listing.php?repname=projects&path=/punch-card-project/trunk/">technikum9.de  subversion repository</a>.
+<br/>We've written a german paper <i>Lochkartenverarbeitung per Computer</i> (30 pages)
+with an analysis of the problem, modelling and implementation on both microcontroller
+and Computer. It will be published in the next days, but there won't be an english
+translation (you are referred to the verbose homepage and documentation materials that
+will also be published in some time).</p>
+
+
+
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

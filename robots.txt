@@ -9,4 +9,6 @@ Allow: /shared/
 
 # kurzfristig:
 Disallow: /klima-laerm/
-Disallow: /klasse10a/
+Disallow: /schule/
+Disallow: /klasse10a
+Disallow: /physik-gk

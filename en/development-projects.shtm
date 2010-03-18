@@ -34,7 +34,7 @@ software efforts, like routed PCBs, kernel drivers and microcontrollers.
 </ul>
 <br/>
 
-<h3>Paper tape processing with contemporary computers</h3>
+<h3><a name="papertape"></a>Paper tape processing with contemporary computers</h3>
 
 <p>We were often in a situation when some data stored on a punched paper needed
 to be sent over long distances. Having Internet access and e-mail, that's no matter
@@ -92,12 +92,13 @@ paper tapes graphically. That way every possible procedures with paper tapes can
 performed with ordinary PCs.</p>
 
 <p>You can get further details with a lot of documentation material on the homepage of
-<a class="go" href="http://dev.technikum29.de/projekte/paper-tape-project/documentation/"
+<a class="go" href="http://dev.technikum29.de/projects/wiki/PaperTapeProject"
 >The Paper Tape Project</a>. The source code was released as open source can be checked
 out from the <a
-href="http://dev.technikum29.de/svn/listing.php?repname=paper-tape-project">technikum29.de  subversion repository</a>.</p>
+href="http://dev.technikum29.de/projects/browser/paper-tape-project/trunk">technikum29.de 
+subversion repository</a>.</p>
 
-<h3>Reading punch cards with contemprary computers</h3>
+<h3><a name="punchcard"></a>Reading punch cards with contemprary computers</h3>
 <p>There is an historical storage media that is even more important than paper tapes:
 Punch cards. They were the one of the pillars of early mass electronic data processing
 and were used for saving data and program executables. Based on the <i>Paper Tape Project</i>,
@@ -143,7 +144,7 @@ how should we communicate to the computer (automatically)? Furthermore, in which
 should we represent a punch card with binary digits (zeros and ones)?
 <br/>While modeling 8 bit paper tapes into 8 bit bytes is trivial, a punch card, having
 80 columns with 12 rows each, is much more complex. Therefore we wrote the
-<a href="http://dev.technikum29.de/projects/paper-tape-project/punch-card/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
+<a href="http://dev.technikum29.de/projects/export/head/punch-card-project/trunk/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
 way how computer and microcontroller shall communicate autonomously. It defines, that
 two punch card columns shall be packed into three octetts, each. This binary format has
 been proposed by the computer sciencist <a href="http://www.cs.uiowa.edu/~jones/">Douglas
@@ -159,18 +160,18 @@ approach: The program runs on all modern platforms/operating systems (like Micro
 Windows, GNU/Linux, Apple OS X, etc. - there just needs to be some RS232 or USB connection).</p>
 
 <p>You can get further details with a lot of documentation material on the homepage of
-<a class="go" href="http://dev.technikum29.de/projects/paper-tape-project/documentation/index.php/punch-card/README.htm"
+<a class="go" href="http://dev.technikum29.de/projects/wiki/PunchCardProject"
 >The Punch Card Project</a>. The source code was released as open source can be checked
 out from the <a
-href="http://dev.technikum29.de/svn/listing.php?repname=projects&path=/punch-card-project/trunk/">technikum9.de  subversion repository</a>.
-<br/>We've written a german paper <i>Lochkartenverarbeitung per Computer</i> (30 pages)
+href="http://dev.technikum29.de/projects/browser/punch-card-project/trunk">technikum29.de 
+subversion repository</a>.</p>
+
+<!--  irgendwie schon sinnlos, auf ein deutsches PDF zu verlinken:
+<br/>We've published a german paper <a href="http://dev.technikum29.de/projects/wiki/Papers"
+>Lochkartenverarbeitung per Computer</a> (30 pages)
 with an analysis of the problem, modelling and implementation on both microcontroller
-and Computer. It will be published in the next days, but there won't be an english
-translation (you are referred to the verbose homepage and documentation materials that
-will also be published in some time).</p>
-
-
-
+and Computer (there won't be an english translation).</p>
+-->
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

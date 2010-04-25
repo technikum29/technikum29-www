@@ -33,7 +33,7 @@ var t29_counter_get_value = function() {
 	// Anfangswerte, von denen hochgerechnet wird
 	var seed = 142735; // geschaetzt am 11.07.09...
 	var seed_date = new Date(2009, 6, 8); // achtung, zaehlt ab 0=Januar, 8=9. tag
-	var hits_per_day = 200;
+	var hits_per_day = 211;
 
 	// Sehr simple Annahme: Linear verteilt hits_per_day Benutzer pro
 	// Tag dazu... also dann einfach:

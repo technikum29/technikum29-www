@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Univac 9200"
+<head><!--#set var="title"        value="Univac 9200, Univac 9300"
    --><!--#set var="location"     value="univac9200"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/univac9200.shtm"
@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 10"
    --><!--#set var="next"         value="lochkarten-edv.shtm"
    --><!--#set var="next_title"   value="Lochkarten-Peripherie"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - UNIVAC 9300<!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id: gamma10.shtm 130 2010-01-03 04:16:55Z incubator $" />
@@ -20,16 +20,16 @@
     <h2><!--#echo var="title" --></h2>
 	
 	
-	<p>Die UNIVAC 9200 ist eine lochkartenorientierte EDV-Anlage die 1966 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Der Wunsch, diese wieder zur vollen Funktion zu bringen schlummert seit 4 Jahren in unseren Köpfen und wird nun Realität. Das ist eine Herausforderung die viel Zeit beansprucht, sowie einiges an "elekronischer Denkarbeit".<br>Wir berichten hier über den Fortgang der Restaurationsarbeiten.<br>
+	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Der Wunsch, diese wieder zur vollen Funktion zu bringen schlummert seit 4 Jahren in unseren Köpfen und wird nun Realität. Das ist eine Herausforderung die viel Zeit beansprucht, sowie einiges an "elekronischer Denkarbeit".<br>Wir berichten hier über den Fortgang der Restaurationsarbeiten.<br>
 	Dazu wurde die Anlage zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen beginnt die Arbeit mit dem gründlichen Säubern der Geräte. Bereits hier begannen die Probleme: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives Glück) oder sie haben sich zu einer klebrigen, teerartigen Masse verändert (ausgesprochenes Pech). Wir mussten mit beidem kämpfen.<br>
 	Mittlerweile wurden die Lärmdämm-Matten (Schaumgummi) erneuert, wodurch die Geräte von innen wieder top aussehen.
 	<br>
 	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern erwarten wir hier viele Überraschungen.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!
-	<br>Der Lochkartenleser, der stolze 500 Karten pro Minute liest, arbeitet wieder und auch die Mechanik des Stanzers läuft mittlerweile einwandfrei was jedoch nicht bedeutet, dass die Lochkartenperipherie auch mit der Steuerung über den Prozessor funktionsfähig ist (Test kommt später).</p> 
+	<br>Der Lochkartenleser, der stolze 500 Karten pro Minute liest, arbeitet wieder und auch die Mechanik des Stanzers läuft mittlerweile einwandfrei was jedoch nicht bedeutet, dass die Lochkartenperipherie auch mit der Steuerung über den Prozessor funktionsfähig ist (Test kommt später).</p>
 	
 	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/univac_9200.jpg" alt="UNIVAC 9200 Anlage" width="700" height="462" />
-		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit den Komponenten (von links nach rechts): 
+		<img src="/shared/photos/rechnertechnik/univac9300.jpg" alt="UNIVAC 9300 Anlage" width="700" height="375" />
+		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit den Komponenten (von links nach rechts): 
 		Stabdrucker, Prozessor, Electronic-Cabinett (Netzteil u. Magnetdrahtspeicher), Lochkartenleser,
 		Lochkartenstanzer</p></div>
 	
@@ -37,14 +37,20 @@
 	
 	Danach ist der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen müssen. Hier warten mit Sicherheit noch viele Fehler auf uns.<br>
 	Die Mühe der aufwändigen Restauration wird sich lohnen, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
-	Wir werden über den weiteren Verlauf der Reparatur berichten und technische Details beschreiben, wenn die Anlage wieder funktioniert.<br><br>
+	Wir werden über den weiteren Verlauf der Reparatur berichten und technische Details beschreiben, wenn die Anlage wieder funktioniert.</p>
 	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200 Anlage" width="700" height="368" />
-		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
+		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
+		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
 	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.<br>
 	<b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.<br>
-	Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!<br>
-	<b>April 2010:</b> Noch immer läuft der Startzyklus der Maschine falsch. Eine Fehlermeldung des Druckers wird ohne offensichtlichen Grund angezeigt. Wir kreisen diesen Fehler sukzessive ein.</p>
+	Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!</p><br>
+	<div class="desc-right">
+		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Bedienungspannel" width="400" height="296" />
+		<p class="bildtext" style="width: 400px;"><b>Bedienungspannel der UNIVAC 9300:</b> Insgesamt können 160 (Fehler-)Zustände aus dem Prozessor und der Peripherie mit Lämpchen per Schalter ausgeleuchtet werden.</p></div>
+		
+	<p><b>April 2010:</b> Noch immer läuft der Startzyklus der Maschine falsch. Eine Fehlermeldung des Druckers wird ohne offensichtlichen Grund angezeigt. Wir kreisen diesen Fehler sukzessive ein.<br>
+	<b>Anfang Mai:</b> Ein defekter Thyristor in der Ansteuerung des Hämmerchens, welches das Zeichen in einer bestimmten Spalte auslöst, hat die Anzeige "Druckerstörung" verursacht. Auf Sicherheit wurde sehr stark geachtet: Fällt nur eine von ca. 140 Druckspalten aus, so muss sich der Drucker sofort abschalten, damit keine Fehldrucke entstehen können. Nun geht es auf die Suche der nächsten Fehler.<br>
+	<b>Mitte Mai:</b> Wir konnten den Drahtspeicher aktivieren. Es lassen sich sogar schon kleine Testprogramme per Switchregister eingeben. Bei der Ausführung der Testprogramme ergeben sich noch Fehler, denen wir nun nachgehen. Vermutlich ist unsere Anlage die einzige der Welt, bei welcher der empfindliche Drahtspeicher noch (teil-)funktionsfähig ist. Dennoch ist der Ersatzspeicher bereits in der Planung. </p>
 
 
 </div><!-- end of content -->

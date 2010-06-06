@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="UNIVAC 9200"
+<head><!--#set var="title"        value="UNIVAC 9200, UNIVAC 9300"
    --><!--#set var="location"     value="univac9200"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/univac9200.shtm"
@@ -19,7 +19,7 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 	
-	<p>The Univac 9200 is a punch card computing data center from 1966. It is not
+	<p>The Univac 9200 (Univac 9300) is a punch card computing data center from 1966. It is not
 	   common that such old devices are completely preserverd, furthermore all
 	   manuals are available. This system was stored over four years in the museum
 	   archives until we moved it with a freight company just into the museum, next
@@ -37,23 +37,60 @@
 	   The card reader (500 cards/minute) works again and the puncher mechanics is
 	   now executable, too. The processor link of these auxillary devices is another
 	   issue and will be checked in the near future.</p>
-	
-	<div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/univac_9200.jpg" alt="UNIVAC 9200" width="700" height="462" /></div>
-	<div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200" width="700" height="368" />
-		<p class="bildtext"><b>UNIVAC 9200</b> electronic data processing system, uncovered while being restored</p>
-	</div>
-	
-	<p>For optical reasons, we will also repaint the cases.</p>
+
+		<div class="box center auto-bildbreite">
+			<img src="/shared/photos/rechnertechnik/univac9300.jpg" alt="UNIVAC 9300" width="700" height="375" />
+			<p class="bildtext">
+				<b>UNIVAC 9300</b> electronic data processing system, with the entities (left
+				to right): bar printer, cpu, "electronic cabinett" (power supply and plated wire
+				memory), card reader, card puncher.
+			</p>
+		</div>
+		
+	<p>For optical reasons, we also repainted the cases.</p>
 	<p>Afterwards, we will address the bar printer. In contrast to the already
        mentioned devices, the printer cannot be controlled manually, so we will
 	   start up the processor, too. This will be a buggy job, too.
 	   But all the work is not for nothing, <!-- sic! gute uebersetzung -->
 	   since the system is really unique, featuring punch card assembler programming.</p>
-	   
-	<p><i>We will continuously update this page about the progress of the reparation.
-	   Please come again later to get the latest details.</i></p>
+
+	<p>We will continously update this page about the progress of the reparation
+	   untill the device is fully functional again.</p>
+
+	<div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300" width="700" height="368" />
+		<p class="bildtext"><b>UNIVAC 9300</b> electronic data processing system, uncovered while being restored</p>
+	</div>
+	
+	<p><b>17.01.2010:</b> There were some mice in the power supply and printer, they
+	   bit thorught some small cables.
+	<p><b>16.02.2010:</b> After locating two defect resistances the power supply is
+	   running again. Thus we can use punch card devices from the CPU by now. Actually
+	   we cannot read nor punch data.
+	<br>Now there is another malfunctioning device: The <a href="storage-media.shtm#plated-wire-storage">
+	   plated wire storage</a> does not work. We try to get it working at least a bit,
+	   replacing it with a new selfmade solid state memory. As you can read on our
+	   <a href="/en/devices/plated-wire-storage.shtm">detailed description of the
+	   plated wire storage</a>, this type of memory has always been very error-prone.
+   	<div class="desc-right">
+		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Front palen" width="400" height="296" />
+		<p class="bildtext" style="width:400px;"><b>UNIVAC 9300 front panel:</b> 160 (malfunction)
+		processor and peripherla states can be indicated with light bulbes and
+		selected via switches.</p>
+	</div>
+	<p><b>April 2010:</b> The boot process of the device is still crashing. There is
+	    an error message from the printer without any reason. We are trying to
+		locate this error.
+	<p><b>Beginning of May 2010:</b> A broken thyristor (hammer driver) raised the
+	    "printer error" message. Data integrity was the most important part at those
+		time: If only one of the 140 printer columns is not working correctly, the whole
+		printer goes offline to avoid wrong output.
+	<p><b>Middle of May 2010:</b> We could get the plated wire storage online. We
+	    can even start some small test programs via the input switches, but there are
+		bugs while running. This is perhaps the unique device that still uses the old
+		plated wire storage. Anyway we are planing a replacement.
+	</p>
+	
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

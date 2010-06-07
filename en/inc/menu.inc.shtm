@@ -48,7 +48,7 @@
                         <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>BULL Tabulating machine<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/en/computer/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/en/computer/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/en/computer/univac9200.shtm"<!--#endif -->>UNIVAC 9200<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/en/computer/univac9200.shtm"<!--#endif -->>UNIVAC 9200/9300<span>&nbsp;</span></a></li>
                         <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif --> title="Punch card devices">Peripheral card devices<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>

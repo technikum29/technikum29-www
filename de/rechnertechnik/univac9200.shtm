@@ -43,7 +43,8 @@
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
 		
-		<h3>Reparatur-Blog</h3>
+	<h3><a name="blog">Reparatur-Blog</a></h3>
+	
 	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.<br>
 	<b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.<br>
 	Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!</p><br>
@@ -57,7 +58,8 @@
 	<b>12.6.2010:</b> Wir machen Fortschritte: Nach einer eingehenden Justage der optischen Lesestation des Readers können wir auch über Lochkarten kleine Programme in den Drahtspeicher einlesen und ausführen lassen. Über den hohen Sicherheitsaufwand beim Lesen der Lochkarten berichten wir später. Erstaunlich ist, dass der problematische Drahtspeicher noch so gut arbeitet.<br>
 	<b>16.6.2010:</b> Bei der Erst-Reparatur von Computern, die seit mindestens 30 Jahren nicht mehr eingeschaltet wurden, muss man auch vorübergehende Rückschritte hinehmen. Viele elektronische und mechanische Teile zeigen erst nach und nach, dass diese lange Zeit nicht spurlos an ihnen vorüber ging. Die vor Wochen noch funktionsfähige Punch (Lochkartenstanzer) zeigt immer mehr Fehler; es lassen sich jetzt überhaupt keine Karten mehr bewegen.<br>
 	Dafür konnten wir bereits ein Programm: "Printer Loop" per Lochkarten eingeben. Der gewaltige Drucker läuft sogar an, druckt aber noch nicht. Nach jeweils ca. 2 min. löst eine Thermo-Sicherung aus und beendet den Druckversuch.</p>
-	>>>Eine laufende Ergänzung folgt in unregelmäßigen Abständen<<<
+
+	<p><i>Eine laufende Ergänzung folgt in unregelmäßigen Abständen</i>
 
 
 </div><!-- end of content -->

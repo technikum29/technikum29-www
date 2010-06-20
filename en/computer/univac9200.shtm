@@ -61,7 +61,9 @@
         <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9300</b> electronic data processing system, uncovered while being restored</p>
 	</div>
-	
+
+
+	<h3><a name="blog">Restoration Blog</a></h3>	
 	<p><b>17.01.2010:</b> There were some mice in the power supply and printer, they
 	   bit thorught some small cables.
 	<p><b>16.02.2010:</b> After locating two defect resistances the power supply is
@@ -74,8 +76,8 @@
 	   plated wire storage</a>, this type of memory has always been very error-prone.
    	<div class="desc-right">
 		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Front palen" width="400" height="296" />
-		<p class="bildtext" style="width:400px;"><b>UNIVAC 9300 front panel:</b> 160 (malfunction)
-		processor and peripherla states can be indicated with light bulbes and
+		<p class="bildtext" style="width:400px;"><b>UNIVAC 9300 front panel:</b> 160
+                states of processor and periphery can be indicated with light bulbes and
 		selected via switches.</p>
 	</div>
 	<p><b>April 2010:</b> The boot process of the device is still crashing. There is

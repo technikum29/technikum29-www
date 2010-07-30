@@ -30,11 +30,42 @@
     costed the price of a VW beetle and an holiday trip.</p>
 
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/anita.jpg" width="408" height="302" alt="Antia C/VIII" />
-        <p class="bildtext"><b>Anita  C/VIII</b> (Manufactor: BELL PUNCH Co, England), an historic calculator that revolutionised calculating on desktops.
+        <img src="/shared/photos/rechnertechnik/anita.jpg" width="650" height="487" alt="Antia C/VIII" />
+        <p class="bildtext"><b>Anita Mark C/VIII</b> (Manufactor: BELL PUNCH Co, England), an historic calculator that revolutionised calculating on desktops.
         For the first time, you could multiply and divide without mechanics and noise. Technically speaken, the device was actually obsolete in 1962. The calculator works in decimal system, just as every other mechanical sprocket wheel machine. It still took two years until transistorized desk calculators (IME 84) came onto the market.
-        <br />You can see more pictures and details at <a class="go" href="/en/devices/anita.shtm">Details of Anita</a>.</p>
+        </p>
     </div>
+
+<div class="box center">
+    <img src="/shared/photos/rechnertechnik/anita-innen.jpg" width="694" height="520" alt="Photography of Anita's 'inner life'" />
+    <p class="bildtext-bildbreite" style="width: 694px;">
+        The "nightly" Anita inner life: The thyratrons flow redly, flashing during calculating.
+    </p>
+</div>
+
+
+<div class="box center">
+    <img src="/shared/photos/rechnertechnik/anita-anzeige.jpg" width="396" height="268" alt="Anita's display" />
+    <p class="bildtext-bildbreite" style="width: 396px;">
+        This is a part from the numeric display. The gas-filled nixie tubes
+        (glow lamp's principe) came onto the marktet just in time.
+    </p>
+</div>
+
+
+<div class="box center">
+    <img src="/shared/photos/rechnertechnik/anita-teile.jpg" width="516" height="250" alt="Multiple parts of Anita" />
+    <div class="bildtext-bildbreite" style="width: 516px;">
+    <p>
+        The upper circuit board contains a ring counter. The gas-filled thyratrons are very small. This
+        was the only way to place approx. 177 pices into a manageable case. These relay tubes
+        have only two states like mechanical relays.
+        Additionally there are 11 vacuum tubes (ECC 81, left side) built into the calculator.
+    </p><p>
+        The complete counting decade with a nixie tube is shown below.
+     </p>
+    </div>
+</div>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

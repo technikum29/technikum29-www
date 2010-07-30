@@ -22,13 +22,17 @@
 <div id="content">
    
   
-   <h2>Was das Museum noch sucht</h2>
+   <h2>Was das Museum noch sucht</h2><br>
+   <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
+        <p class="bildtext">
+   Wir suchen zum Tischrechner IME 86 den <b>Digicorder DG 408 oder 308.</b><br>
+   Bei Bedarf stehen Tauschobjekte zur Verfügung.</p></div>
    
 	<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/anelex.jpg" alt="Anelex High Speed Printer" width="299" height="271" class="nomargin-bottom" />
         <p class="bildtext">
-		Für diesen <b>Anelex High Speed Printer Series 5</b> suchen wir technische Unterlagen (Kopien reichen). Der (Trommel-)Drucker war an eine Electrologica EL X8 Anlage angeschlossen (Baujahr 1965) und könnte auch dort dokumentiert sein. Ebenso wurde er von DEC bei der PDP 6 unter der Bezeichnung "Line Printer Type 646" verwendet und von Hitachi unter der Bezeichnung H-8245 bzw. H-8246 vertrieben.<br>
-		Für jegliche Hinweise sind wir dankbar!
+		Für diesen <b>Anelex High Speed Printer Series 5</b> suchen wir technische Unterlagen (Kopien reichen). Der (Trommel-)Drucker war an eine Electrologica EL X8 Anlage angeschlossen (Baujahr 1965) und könnte auch dort dokumentiert sein. Ebenso wurde er von DEC bei der PDP 6 unter der Bezeichnung "Line Printer Type 646" verwendet und von Hitachi unter der Bezeichnung H-8245 bzw. H-8246 vertrieben.
 		</p>
 	</div>
 
@@ -60,7 +64,7 @@
           <li>jegliche Telegraphietechnik</li>
           <li>sowie alles, was zu unseren Themen passt</li>
           <li>Bedienungsanleitung für den NCR 446 - Rechner (Kopie reicht)</li>
-       <li>Alle Unterlagen zum BULL GAMMA 3 und GAMMA 10</li>
+       <li>Ein Programmier-Handbuch zur BULL GAMMA 10 EDV Anlage</li>
       </ul>
 
     

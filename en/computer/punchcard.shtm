@@ -5,10 +5,10 @@
    --><!--#set var="location"     value="lochkarten"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/lochkarten-edv.shtm"
-   --><!--#set var="prev"         value="univac9200.shtm"
-   --><!--#set var="prev_title"   value="UNIVAC 9200"
-   --><!--#set var="next"         value="electron-tubes.shtm"
-   --><!--#set var="next_title"   value="Desk calculators with electron tubes"
+   --><!--#set var="prev"         value="ic-technology.shtm"
+   --><!--#set var="prev_title"   value="Programmable third-generation calculators with early IC-technology"
+   --><!--#set var="next"         value="tabulating-machine.shtm"
+   --><!--#set var="next_title"   value="BULL Tabulating machine"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->

@@ -5,10 +5,10 @@
    --><!--#set var="location"     value="univac"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/univac9400.shtm"
-   --><!--#set var="prev"         value="early-computers.shtm"
-   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
-   --><!--#set var="next"         value="analog.shtm"
-   --><!--#set var="next_title"   value="Analog and analog-digital computers"
+   --><!--#set var="prev"         value="univac9200.shtm"
+   --><!--#set var="prev_title"   value="UNIVAC 9200, UNIVAC 9300"
+   --><!--#set var="next"         value="commercial.shtm"
+   --><!--#set var="next_title"   value="Early commercial computers"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->

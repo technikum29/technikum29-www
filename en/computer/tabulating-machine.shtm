@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="tabelliermaschine"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/tabelliermaschine.shtm"
-   --><!--#set var="prev"         value="electro-mechanical.shtm"
-   --><!--#set var="prev_title"   value="(Electro-) mechanical calculators"
+   --><!--#set var="prev"         value="punchcard.shtm"
+   --><!--#set var="prev_title"   value="Punch card computing"
    --><!--#set var="next"         value="gamma3.shtm"
    --><!--#set var="next_title"   value="BULL GAMMA 3"
  --><title>Technikum29 - <!--#echo var="title" --></title>

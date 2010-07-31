@@ -43,26 +43,26 @@
         <li class="l2"><div<!--#if expr="($part) && ($part = computer)" --> class="on"<!--#endif -->><em class="l2">Computer Technology</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/en/computer/electro-mechanical.shtm"<!--#endif -->>(Elektro-) mechanical calculators<span>&nbsp;</span></a></li>
-                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location = univac9200) || ($location = gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
-                    <ul>
-                        <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>BULL Tabulating machine<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/en/computer/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/en/computer/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/en/computer/univac9200.shtm"<!--#endif -->>UNIVAC 9200/9300<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif --> title="Punch card devices">Peripheral card devices<span>&nbsp;</span></a></li>
-                    </ul>
-                </div></li>
                 <li class="l3"><div<!--#if expr="($location = elektronenroehren) || ($location = transistoren) || ($location = programmierbare) || ($location = ic-technik)"--> class="on"<!--#endif -->><em>Electronical desk calculators<span>&nbsp;</span></em>
                     <ul>
                         <li class="long"><a <!--#if expr="$location = elektronenroehren" -->class="on"<!--#else -->href="/en/computer/electron-tubes.shtm"<!--#endif -->>Desk calculators with electron tubes<span>&nbsp;</span></a></li>
                         <li class="long"><a <!--#if expr="$location = transistoren" -->class="on"<!--#else -->href="/en/computer/transistors.shtm"<!--#endif -->>First calcucaltors with transistors<span>&nbsp;</span></a></li>
-                        <li class="long3"><a <!--#if expr="$location = programmierbare" -->class="on"<!--#else -->href="/en/computer/programmable.shtm"<!--#endif -->>Programable second-generation calculators<span>&nbsp;</span></a></li>
+                        <li class="long"><a <!--#if expr="$location = programmierbare" -->class="on"<!--#else -->href="/en/computer/programmable.shtm"<!--#endif -->>Programable second-generation calculators<span>&nbsp;</span></a></li>
                         <li class="long"><a <!--#if expr="$location = ic-technik" -->class="on"<!--#else -->href="/en/computer/ic-technology.shtm"<!--#endif -->>Third-generation calculators with IC's<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location = univac9200) || ($location = gamma10) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Punch card computing<span>&nbsp;</span></em>
+                    <ul>
+                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/en/computer/punchcard.shtm"<!--#endif --> title="Punch card devices">Peripheral card devices<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/en/computer/tabulating-machine.shtm"<!--#endif -->>BULL Tabulating machine<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/en/computer/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/en/computer/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/en/computer/univac9200.shtm"<!--#endif -->>UNIVAC 9200/9300<span>&nbsp;</span></a></li>
+                    </ul>
+                </div></li>
+                <li class="long"><a <!--#if expr="$location = univac" -->class=" on"<!--#else -->href="/en/computer/univac9400.shtm"<!--#endif -->>Univac 9400 mainframe computer, data center<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = kommerzielle" -->class="on"<!--#else -->href="/en/computer/commercial.shtm"<!--#endif -->>Early commercial computers<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = fruehe-computer" -->class="on"<!--#else -->href="/en/computer/early-computers.shtm"<!--#endif -->>Scientifical calculators and mini computers<span>&nbsp;</span></a></li>
-                <li class="long"><a <!--#if expr="$location = univac" -->class=" on"<!--#else -->href="/en/computer/univac9400.shtm"<!--#endif -->>Univac 9400 mainframe computer, data center<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = analogrechner" -->class="on"<!--#else -->href="/en/computer/analog.shtm"<!--#endif -->>Analog and digital-analog computers<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = speichermedien" -->class="on"<!--#else -->href="/en/computer/storage-media.shtm"<!--#endif -->>Storage media<span>&nbsp;</span></a></li>
             </ul>

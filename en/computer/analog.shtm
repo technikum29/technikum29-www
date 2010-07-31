@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="analogrechner"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/analogrechner.shtm"
-   --><!--#set var="prev"         value="univac9400.shtm"
-   --><!--#set var="prev_title"   value="UNIVAC mainframe computer from the 60s"
+   --><!--#set var="prev"         value="early-computers.shtm"
+   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
    --><!--#set var="next"         value="storage-media.shtm"
    --><!--#set var="next_title"   value="Storage media"
  --><title>Technikum29 - <!--#echo var="title" --></title>

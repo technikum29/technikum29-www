@@ -39,15 +39,6 @@
         <li class="l2"><div<!--#if expr="($part) && ($part = rechnertechnik)" --> class="on"<!--#endif -->><em class="l2">Rechnertechnik und Computer</em>
             <ul class="l2">
                 <li class="long"><a <!--#if expr="$location = elektro-mechanik" -->class="on"<!--#else -->href="/de/rechnertechnik/elektro-mechanik.shtm"<!--#endif -->>(Elektro-) Mechanische Rechenmaschinen<span>&nbsp;</span></a></li>
-                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location == gamma10) || ($location == univac9200) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Lochkarten-EDV<span>&nbsp;</span></em>
-                    <ul>
-                        <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/de/rechnertechnik/tabelliermaschine.shtm"<!--#endif -->>BULL Tabelliermaschine<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
-						<li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/de/rechnertechnik/univac9200.shtm"<!--#endif -->>UNIVAC 9200/9300<span>&nbsp;</span></a></li>
-                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/de/rechnertechnik/lochkarten-edv.shtm"<!--#endif -->>Lochkartengeräte<span>&nbsp;</span></a></li>
-                    </ul>
-                </div></li>
                 <li class="l3"><div<!--#if expr="($location = elektronenroehren) || ($location = transistoren) || ($location = programmierbare) || ($location = ic-technik)"--> class="on"<!--#endif -->><em>Elektronische Tischrechner<span>&nbsp;</span></em>
                     <ul>
                         <li class="long"><a <!--#if expr="$location = elektronenroehren" -->class="on"<!--#else -->href="/de/rechnertechnik/elektronenroehren.shtm"<!--#endif -->>Tischrechner mit Elektronenr&ouml;hren<span>&nbsp;</span></a></li>
@@ -56,11 +47,18 @@
                         <li class="long"><a <!--#if expr="$location = ic-technik" -->class="on"<!--#else -->href="/de/rechnertechnik/ic-technik.shtm"<!--#endif -->>Programmierbare Rechner der 3. Generation mit ICs<span>&nbsp;</span></a></li>
                     </ul>
                 </div></li>
+                <li class="l3"><div<!--#if expr="($location = tabelliermaschine) || ($location = gamma3) || ($location == gamma10) || ($location == univac9200) || ($location = lochkarten)" --> class="on"<!--#endif -->><em>Lochkarten-EDV<span>&nbsp;</span></em>
+                    <ul>
+                        <li><a <!--#if expr="$location = lochkarten" -->class="on"<!--#else -->href="/de/rechnertechnik/lochkarten-edv.shtm"<!--#endif -->>Lochkartengeräte<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = tabelliermaschine" -->class="on"<!--#else -->href="/de/rechnertechnik/tabelliermaschine.shtm"<!--#endif -->>BULL Tabelliermaschine<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma3" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma3.shtm"<!--#endif -->>BULL GAMMA 3<span>&nbsp;</span></a></li>
+                        <li><a <!--#if expr="$location = gamma10" -->class="on"<!--#else -->href="/de/rechnertechnik/gamma10.shtm"<!--#endif -->>BULL GAMMA 10<span>&nbsp;</span></a></li>
+						<li><a <!--#if expr="$location = univac9200" -->class="on"<!--#else -->href="/de/rechnertechnik/univac9200.shtm"<!--#endif -->>UNIVAC 9200/9300<span>&nbsp;</span></a></li>
+                    </ul>
+                </div></li>
+                <li class="long"><a <!--#if expr="$location = univac" -->class=" on"<!--#else -->href="/de/rechnertechnik/univac9400.shtm"<!--#endif -->>UNIVAC-Gro&szlig;rechner, Rechenzentrum<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = kommerzielle" -->class="on"<!--#else -->href="/de/rechnertechnik/kommerzielle.shtm"<!--#endif -->>Fr&uuml;he kommerzielle Rechner<span>&nbsp;</span></a></li>
                 <li class="long"><a <!--#if expr="$location = fruehe-computer" -->class="on"<!--#else -->href="/de/rechnertechnik/fruehe-computer.shtm"<!--#endif -->>Wissenschaftliche Rechner und Minicomputer<span>&nbsp;</span></a></li>
-                <li class="long"><a <!--#if expr="$location = univac" -->class=" on"<!--#else -->href="/de/rechnertechnik/univac9400.shtm"<!--#endif -->>UNIVAC-Gro&szlig;rechner, Rechenzentrum<span>&nbsp;</span></a></li>
-                <!-- Personalcomputer in Entstehung... -->
-                <!--<li class="long"><a <!--#if expr="$location = personalcomputer" -->class="on"<!--#else -->href="/de/rechnertechnik/personalcomputer.shtm"<!--#endif -->>Personalcomputer bis 1979<span>&nbsp;</span></a></li>-->
                 <li><a <!--#if expr="$location = analogrechner" -->class="on"<!--#else -->href="/de/rechnertechnik/analogrechner.shtm"<!--#endif -->>Analog- und Hybridrechner<span>&nbsp;</span></a></li>
                 <li><a <!--#if expr="$location = speichermedien" -->class="on"<!--#else -->href="/de/rechnertechnik/speichermedien.shtm"<!--#endif -->>Speichermedien<span>&nbsp;</span></a></li>
             </ul>

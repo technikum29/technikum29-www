@@ -48,6 +48,13 @@
 				<li>Für Informatiker, Firmengruppen, Azubis und viele mehr</li>
             </ul>
         </div>
+		
+		        <div class="erwartung">
+            <h2>Was wird geboten ?</h2>
+            <ul>
+                <li>Ein Besuch ist immer mit einer Führung und eventuell einer Präsentation verbunden. Schülergruppen erhalten eine pädagogisch geleitete Führung in 3 Modulen (siehe "Didaktische Konzeption"). Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! </li>
+            </ul>
+        </div>
       </div><!--leftcol-->
 
       <div class="rightcol startseiten-design">
@@ -78,21 +85,8 @@
 					</li>
             </ul>
         </div>
+       
         
-        <div class="erwartung">
-            <h2>Was wird geboten ?</h2>
-            <ul>
-                <li>Ein Besuch ist immer mit einer Führung und eventuell einer Präsentation verbunden. Schülergruppen erhalten eine pädagogisch geleitete Führung in 3 Modulen (siehe "Didaktische Konzeption"). Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! </li>
-            </ul>
-        </div>
-        
-        <!-- wird nicht mehr gewollt:
-          <div class="homepage">
-            <h2>Zur Homepage</h2>
-            <ul>
-                <li>Wir haben natürlich in der Homepage nicht alles aufgeführt, was vorhanden ist, sondern nur einen Ausschnitt. Die Homepage wird fortwährend verbessert und erweitert. Alles was neu ist, erscheint im Kasten: "Was gibt es neues?"</li>
-            </ul>
-        </div>-->
       </div><!--rightcol-->
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>

@@ -517,6 +517,38 @@ ul.news-feed li {
 .lernprojekte #content td { color: #555; }
 
 
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Efzet-Bildergalerie                             |
+|                         /de/geraete/efzet.shtm                       |
+| In Benutzung seit:   30.07.2010                                      |
+| Besonderheiten:      Erste jQuery-Anwendung in der Homepage          |
+|                                                                      |
+\**********************************************************************/
+
+.efzet #content .thumbnails img {
+	width: 120px;
+	float: right;
+	margin: 15px;
+	clear: right;
+	cursor: pointer;
+}
+
+.efzet #content .thumbnails img:hover {
+	border: 3px solid #7090C0;
+	margin: 12px;
+}
+
+.efzet #content .thumbnails img.active,
+.efzet #content .thumbnails img.active:hover {
+	border: 5px solid #7090C0;
+	margin: 10px;
+}
+
+.efzet #content .full {
+	text-align: center;
+}
 
 
 /**********************************************************************\

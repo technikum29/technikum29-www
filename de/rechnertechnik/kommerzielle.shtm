@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="kommerzielle"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/commercial.shtm"
-   --><!--#set var="prev"         value="ic-technik.shtm"
-   --><!--#set var="prev_title"   value="Programmierbare Rechner mit ICs (3. Generation)"
+   --><!--#set var="prev"         value="univac9400.shtm"
+   --><!--#set var="prev_title"   value="UNIVAC 9400-Gro&szlig;rechner, Rechenzentrum"
    --><!--#set var="next"         value="fruehe-computer.shtm"
    --><!--#set var="next_title"   value="Wissenschaftliche Rechner und Minicomputer"
  --><title>Technikum29 - <!--#echo var="title" --></title>

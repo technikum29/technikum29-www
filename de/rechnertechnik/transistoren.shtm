@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Rechner mit Transistoren"
+<head><!--#set var="title"        value="Rechner der 2. Generation"
    --><!--#set var="location"     value="transistoren"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/transistors.shtm"
@@ -19,19 +19,41 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
-    <p>Aufgeschreckt durch den R&ouml;hrenrechner begann nun ein st&uuml;rmischer Wettlauf der Entwicklung von transistorisierten Rechnern der 2. Generation. Wir zeigen exemplarisch zwei Stück davon.</p>
+    <p>Aufgeschreckt durch den Röhrenrechner "ANITA" begann nun ein stürmischer Wettlauf der Entwicklung von transistorisierten Rechnern der 2. Generation. Die Zeit dafür war einfach reif und die vielen Anwender mechanischer Maschinen versprachen ein großes Potenzial von möglichen Käufern zu werden.<br>
+	Jede Firma, die sich mit hohen Entwicklungskosten an die Produktion wagte, entwarf eine andere Architektur der Rechner. So entstand eine große Vielfalt sehr unterschiedlicher Konzepte. Wir stellen einige davon aus unserem Bestand vor.</p><br>
 
+<h3>IME 84:  Erster Tischrechner mit Transistoren (1964)</h3>	
+
+	
     <div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="456" height="288" />
-        <p class="bildtext"><b>IME 84</b>, der erste Tischrechner der Welt mit Transistoren. U.a. zeichnet ihn ein gef&auml;lliges Design (1964!) aus. Dagegen wirkt das deutsche Modell von Olympia recht plump. Als Speicher wird ein <a href="speichermedien.shtm#kernspeicher">Kernspeicher</a> verwendet. Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden.</p>
-    </div>
+        <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="694" height="415" />
+        <p class="bildtext"><b>IME 84</b></p></div>
+<p>IME 84 der italienischen Firma "Industria Macchine Elettroniche" ist der erste Tischrechner der Welt mit Transistoren. Gegenüber der "ANITA" war dies ein enormer Fortschritt. Durch einen frei verfügbaren Speicher war die Anwendungsmöglichkeit wesentlich größer. Als Speichermedium dient ein <a href="speichermedien.shtm#kernspeicher">Kernspeicher</a>.<br>
+ Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden, es fehlte jedoch die Möglichkeit des Radizierens (Wurzelberechnung).<br>
+ Ganz nebenbei ist das Design des Rechners sehr ansprechend. Der Wert des Gerätes wird durch das Metall-Gehäuse unterstrichen. Verglichen damit wirkt der Olymia-Rechner im Kunststoff-Gehäuse eher billig (siehe unten).</p>
+    
+<div class="box left">
+        <img src="/shared/photos/rechnertechnik/robox103.jpg" alt="Robox 103" width="214" height="211" />
+        <p class="bildtext">Dieser frühe elektronische Rechner hatte links eine merkwürdige Schnittstelle. Daran war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div><br>
+		
+		<h3>Olympia RAE 4/30-3 und Wanderer Conti</h3>
+		
+		<div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/olympia-wanderer.jpg" alt="Olympia RAE 30 und Wanderer Conti" width="694" height="278" />
+        <p class="bildtext"><b>Olympia RAE 4/30-3 und Wanderer Conti</b></p></div>
+    <p>Die Olympia-Werke AG brachte ab 1965 den "Elektronischen Vierspezies-Rechenautomat" auf den Markt. Die Besonderheit waren die Fließkomma-Automatik, 3 Rechenwerke, 1 Speicherwerk und im abgebildeten Gerät 3 "Memoriawerke" (d.h. 3 frei zur Verfügung stehende Register). Ein durchaus solider Rechner mit Kernspeicher und noch mit Germanium-Transistoren aber leider ohne Schnittstelle. Damit waren weder eine Programmabspeicherung noch eine externe Programmeingabe möglich. Diesen Schritt hat Olympia verpasst, so dass der Rechner schnell veraltet war. Das Design ist mit dem schmucklosen Kunststoff-Gehäuse auch sehr dürftig. In der Sonne vergilbte das Gehäuse schnell und machte keinen guten Eindruck.<br>
+	Auch die legendäre WANDERER-WERKE AG, wie Olympia eine typische Büromaschinenfabrik, sah den Zug der Zeit abfahren und brachte daher ebenfalls 1965 einen Rechner auf den Markt. Werbewirksam formulierte WANDERER: "Der Welt erster druckender elektronischer universal Tischrechenautomat". Dieser Marktvorteil war Wanderer jedoch nur für einige Wochen gegönnt; die Zeit begann hektisch zu werden, Olivetti und Diehl zogen nach.<br>
+	Lesen Sie dazu den <a class="go" name="backlink-wanderer" href="/de/geraete/wanderer.shtm">Originalprospekt</a>.</p><br>
+	
+	<h3>FRIDEN 130 (132)</h3>
+	
+	
 
-    <p>Der erste digitale Transistor-Rechner kam aus Italien (IME 84, 1964). OLYMPIA baute 1965 einen Rechner mit Gleitkomma und die Firma WANDERER brachte zeitgleich den "ersten druckenden elektronischen Universalautomaten der Welt" heraus, so der <a class="go" name="backlink-wanderer" href="/de/geraete/wanderer.shtm">Originalprospekt</a>.</p>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/friden.130.jpg" alt="Friden 130" width="500" height="305" />
         <p class="bildtext"><b>FRIDEN 130</b></p></div>
-		<p>Im Jahre 1966 kam der FRIDEN 130 auf den Markt. Es war der erste "Bildschirmrechner" der auf einer Oszilloskopröhre den Inhalt von 4 Registern anzeigt. Als Speichermedium dient ein <a href="speichermedien.shtm#laufzeitspeicher">Laufzeitspeicher</a>. <br/>Das Aussehen erinnert an die Zeit der damaligen Fernsehsendung "Raumschiff Enterprise"... Er hat etwas Futuristisches.<br/> Unter der Bezeichnung FRIDEN 132 wurde er als Rechner mit Wurzelprogramm verkauft. Mit den 4 Grundrechenarten kostete er ca. 5000,- DM, mit der Wurzeloption war er ca. 1700 DM teurer.</p>
+		<p>Im Jahre 1966 kam der FRIDEN 130 auf den Markt. Es war der erste "Bildschirmrechner" der auf einer Oszilloskopröhre den Inhalt von 4 Registern anzeigt. Als Speichermedium dient ein <a href="speichermedien.shtm#laufzeitspeicher">Laufzeitspeicher</a>. <br/>Das Aussehen erinnert an die Zeit der damaligen Fernsehsendung "Raumschiff Enterprise"... Er hat etwas Futuristisches.<br/> Unter der Bezeichnung FRIDEN 132 wurde er als Rechner mit Wurzelprogramm verkauft. Mit den 4 Grundrechenarten kostete er ca. 5000,- DM (ca. 2500 Euro), mit der Wurzeloption war er ca. 1700 DM teurer.</p>
     
 
     <p>Weitere Details erhalten Sie auf der <a class="go" href="/de/details1.shtm" title="Details 1">tabellarischen Darstellung der Tischrechner</a>.</p>

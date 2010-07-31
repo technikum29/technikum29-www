@@ -5,10 +5,10 @@
    --><!--#set var="location"     value="lochkarten"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/punchcard.shtm"
-   --><!--#set var="prev"         value="univac9200.shtm"
-   --><!--#set var="prev_title"   value="Univac 9200"
-   --><!--#set var="next"         value="elektronenroehren.shtm"
-   --><!--#set var="next_title"   value="Tischrechner mit Elektronenr&ouml;hen"
+   --><!--#set var="prev"         value="ic-technik.shtm"
+   --><!--#set var="prev_title"   value="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik"
+   --><!--#set var="next"         value="tabelliermaschine.shtm"
+   --><!--#set var="next_title"   value="BULL Tabelliermaschine"
  --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->

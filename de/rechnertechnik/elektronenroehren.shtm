@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="elektronenroehren"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/electron-tubes.shtm"
-   --><!--#set var="prev"         value="lochkarten-edv.shtm"
-   --><!--#set var="prev_title"   value="Lochkartengeräte"
+   --><!--#set var="prev"         value="elektro-mechanik.shtm"
+   --><!--#set var="prev_title"   value="(Elektro-) Mechanische Rechenmaschinen"
    --><!--#set var="next"         value="transistoren.shtm"
    --><!--#set var="next_title"   value="Rechner mit Transistoren"
  --><title>Technikum29 - <!--#echo var="title" --></title>

@@ -5,8 +5,8 @@
    --><!--#set var="location"     value="tabelliermaschine"
    --><!--#set var="part"         value="rechnertechnik"
    --><!--#set var="url_en"       value="computer/tabulating-machine.shtm"
-   --><!--#set var="prev"         value="elektro-mechanik.shtm"
-   --><!--#set var="prev_title"   value="(Elektro-) Mechanische Rechenmaschinen"
+   --><!--#set var="prev"         value="lochkarten-edv.shtm"
+   --><!--#set var="prev_title"   value="Lochkartengeräte"
    --><!--#set var="next"         value="gamma3.shtm"
    --><!--#set var="next_title"   value="BULL GAMMA 3"
  --><title>Technikum29 - <!--#echo var="title" --></title>

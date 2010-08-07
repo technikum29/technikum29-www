@@ -561,6 +561,37 @@ ul.news-feed li {
 	padding-top: 13px;
 }
 
+/**********************************************************************\
+| CENTRAL COMMON STYLES: Copyright boxes for pictures                  |
++----------------------------------------------------------------------+
+| Diese CSS-Anweidungen formatieren dynamisch erzeugten HTML-Code      |
+| durch das neue copyright-boxes-system (licensing.js)                 |
+| Eingefuehrt August 2010.                                             |
+\**********************************************************************/
+
+.image-copyright-box {
+	position: absolute;
+	background-color: #c8d6e9;
+	width: 190px;
+	padding: 20px;
+	font-size: 77%;
+	-moz-box-shadow: 0 0 16px 5px white;
+	box-shadow: 0 0 16px 5px white;
+	display: none; /* durch JS aktiviert */
+}
+
+.image-copyright-box h4 {
+	margin: 0; padding: 0;
+	font-size: 130%; font-weight: bold;
+}
+
+.image-copyright-box .arrow {
+	position: absolute;
+	top: 50%; left: -45px;
+	width: 45px; height: 116px;
+	margin-top: -58px;
+	background: url(/shared/img/fresh.design/arrow.copyright-box.png);
+}
 
 /**********************************************************************\
 | CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |

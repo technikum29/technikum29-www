@@ -12,16 +12,16 @@
  * Man beachte den Verlauf der Statistiken:
  *
  *                             April/Mai/Juni 07   02.08   05.08  08.08  07.09  01.10
- * Firefox (Gecko)          |            40.60%   |  38% |   39% |  47% |  42% |  48% 
- * Internet Explorer 5      |             1.01%   | 0.3% |    0% |   0% |   0% |   0%
- * Internet Explorer 6      |            31.90%   |  26% |   26% |  22% |  17% |   9%
- * Internet Explorer 7 & 8  |            16.50%   |  23% |   23% |  22% |  29% |  27%
- * Opera, Safari, KHTML     |             3.90%   |   9% |    7% |   9% |  11% |  16%
- * Bots (Suchmaschinen)     |             1.85%   |      |       |      |      |
+ * Firefox (Gecko)          |            40.60%   |  38% |   39% |  47% |  42% |  48% | 45%
+ * Internet Explorer 5      |             1.01%   | 0.3% |    0% |   0% |   0% |   0% |  0%
+ * Internet Explorer 6      |            31.90%   |  26% |   26% |  22% |  17% |   9% |  5%
+ * Internet Explorer 7 & 8  |            16.50%   |  23% |   23% |  22% |  29% |  27% | 20%
+ * Opera, Safari, KHTML     |             3.90%   |   9% |    7% |   9% |  11% |  16% | 20%
+ * Bots (Suchmaschinen)     |             1.85%   |      |       |      |      |      | 
  *
- * Die Tendenz geht bei IE-Benutzern eindeutig Richtung IE7, (wenn auch,
+ * Die Tendenz geht bei IE-Benutzern eindeutig Richtung IE8, (wenn auch,
  * widererwarten langsam), insgesamt aber noch mehr richtung Alternativbrowser.
- * So wurde letztes Jahr in diesem CSS an dieser Stelle gesagt:
+ * So wurde vorletztes Jahr in diesem CSS an dieser Stelle gesagt:
  *
  ** Für gerade mal 30% der Homepagepagebesucher wurden die folgenden Zeilen
  ** ganz exklusiv geschrieben und unglaubliche Verrenkungen im HTML-Sourcecode
@@ -35,6 +35,11 @@
  * (2009) Mittlerweile gibt es den Internet Explorer 8 (ich hab ihn selbst noch
  *   nie getestet), der zur Zeit etwa 8% der Besucher ausmacht. Die IE6-Benutzer
  *   sind aber doch zaeh und wechseln nur sehr, sehr langsam (etwa 1% pro Monat).
+ *
+ * (2010) IE8 stagniert bei 20%, IE7 mit 10% fast schon wie IE6 unter ferner Liefen.
+ *   Selbst Safari ist mit 12% deutlich besser dabei. IE6 ist tot und wird bei
+ *   diesjaehrigen Designentscheidungen nicht mehr beachtet. CSS3-Features werden
+ *   auf der Homepage schon in zunehmendem Masse genutzt.
  *
  * $Id$
  *

@@ -270,6 +270,9 @@ ul.univac-thumbs li img {
     margin-top: 520px; /* circa... */
 }
 
+/* Seit 08.08.2010: Per Javascript-Anpassung */
+body.greater1280 .univac #wrapper #menu { margin-top: 0; }
+
 /* Univac-Kosten-Seite seit v5.8.0: Ein absolut positioniertes Bild
    (Illustration, soll an Seitennavigation klatschen) am Ende der
    #content-Box, daher dieser künstliche Rand: */

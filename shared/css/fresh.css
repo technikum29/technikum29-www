@@ -16,7 +16,7 @@
 **                                          Workarounds fuer den IE6 sind haupt-   **
 **                                          saechlich in fresh-iefixing.css        **
 ** This is $Revision::    $ from            festgehalten, fuer den IE7 hier.       **
-** $Author::          $, latest change at                                           **
+** $Author::          $, latest change at                                          **
 ** $Date:: 2006-07-22 21:42:37 -0700 (Sat, Jul 2006)$                              **
 **                                                                                 **
 **    Alle technikum29-CSS sind valide CSS3: http://tinyurl.com/t29-css-valid      **
@@ -499,6 +499,20 @@ html>body #content, html>body .extra #wrapper #content {
     padding: 4px 1em;
     margin: 0;
     text-align: center;
+}
+
+/* Hostinfos in der Sidebar */
+
+#sidebar-hostinfo {
+	background: url("../img/fresh.design/catl2-bg.menu.png");
+	border: 1px solid red;
+	font-weight:normal;
+	margin-top:15px;
+	padding: 10px 3px 10px 20px;
+}
+
+.de #wrapper #sidebar-hostinfo .en, .en #wrapper #sidebar-hostinfo .de {
+	display: none; /* simple internationalisation */
 }
 
 /***********************************************************************************\

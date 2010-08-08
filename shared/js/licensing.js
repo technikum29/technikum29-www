@@ -58,3 +58,26 @@ t29_img_license.init = function() {
 };
 
 $(t29_img_license.init);
+
+// kleine zweckentfremdung: Auch andere tolle JS-Teile mal hierreinschreiben
+function t29_inform_window_size() {
+	var width = window.innerWidth;
+	$("body").toggleClass("lesser1024", width <= 1024);
+	$("body").toggleClass("greater1024", width >= 1024);
+	$("body").toggleClass("greater1280", width >= 1280); 
+}
+
+$(function(){
+	t29_inform_window_size();
+	$(window).resize(t29_inform_window_size);
+});
+
+// und noch eine kleine zweckentfremdung: Domain-Infos.
+$(function(){
+	if(location.hostname != "www.technikum29.de") {
+		$.get("/hostinfo.shtm", function(data) {
+			$("#sidebar").append("<div id='sidebar-hostinfo'/>");
+			$("#sidebar-hostinfo").html(data);
+		});
+	}
+});

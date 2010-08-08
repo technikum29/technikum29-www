@@ -38,6 +38,12 @@
     <!-- h1 class="de-v3": experimentell geschalteter "neuer" Banner, nur auf deutsch, siehe fresh.css -->
 
     <!--#config timefmt="%d.%m.%Y %T" --><!-- header last modified: <!--#echo var="LAST_MODIFIED" --> (new header v5.7) -->
-<!--#set var="heading" value='<div class="${location} ${part}"><div id="wrapper">
+<!--#set var="heading" value='<div class="${location} ${part} de"><div id="wrapper">
 <h1 class="de de-v3"><a href="/de/" title="Zur technikum29-Startseite (deutsch)" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
 <p id="h1-subtitle">Museum f&uuml;r Computer- , EDV- und Kommunikationstechnik<span class="hidden">; Computermuseum</span></p>' -->
+
+   <!--
+   <style type="text/css">
+        #content img { -moz-box-shadow: 0 5px 45px rgba(0, 0, 0, 0.3); }
+   </style>
+   -->

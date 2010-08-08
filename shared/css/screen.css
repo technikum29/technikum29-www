@@ -293,7 +293,7 @@ html>body #content { height: auto; }
     margin-left: 10px;
 }
 
-#sidebar-footnote {
+#sidebar-footnote , #sidebar-hostinfo {
     /* Fuﬂnoten, die eigentlich nur das freshdesign betreffen sollten */
     display: none;
 }

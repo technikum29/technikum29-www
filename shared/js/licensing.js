@@ -146,4 +146,20 @@ function t29_copyright_box_init() {
 	});
 }
 
-$(t29_copyright_box_init);
+//$(t29_copyright_box_init);
+
+
+$(function(){
+	$("body").append('<div id="img-license-tag"><p>&copy; technikum29. <a href="/de/impressum.shtm">Lizenzbestimmungen</a></p></div>');
+	var tag = $("#img-license-tag");
+	$("img").not(".no-copyright").hover(function(){
+		tag.css({
+			left: $(this).offset().left,
+			top: $(this).offset().top + $(this).height(),
+			width: $(this).width(),
+			display: "block"
+		});
+		tag.css("margin-top", -tag.height()); // erst in zweitem schritt
+	}, function(){ tag.hide(); });
+	tag.hover(function(){ $(this).show(); }, function(){ $(this).hide(); });
+});

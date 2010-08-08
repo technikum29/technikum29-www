@@ -569,6 +569,31 @@ ul.news-feed li {
 | Eingefuehrt August 2010.                                             |
 \**********************************************************************/
 
+#img-license-tag  {
+	position: absolute;
+	background-color: rgba(0,0,0, 0.5);
+	color: white;
+}
+
+#img-license-tag p {
+	margin: 0;
+	padding: 1em;
+	text-align: center;
+}
+
+#img-license-tag:hover {
+	display: block;
+	background-color: black;
+}
+
+#img-license-tag a:link, #img-license-tag a:visited {
+	color: #eee;
+}
+
+#img-license-tag a:hover, #img-license-tag a:active {
+	color: white;
+}
+
 .image-copyright-box {
 	position: absolute;
 	background-color: #c8d6e9;

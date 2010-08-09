@@ -61,7 +61,8 @@
 	<b>25.6.2010:</b> Die Thermosicherung wurde ausgelöst, da der Fliehkraftschalter der Anlaufwicklung des Druckermotors defekt war. Diese Wicklung war damit dauernd aktiv, was zu einer erhöhten Stromaufnahme führte. Der Motor läuft aber Druckbefehle werden noch nicht ausgeführt.<br>
 Zusätzlich haben wir einen Kontaktfehler im Memory ausfindig gemacht. Nach der Beseitigung desselben läuft der Drahtspeicher offensichtlich über den kompletten Bereich von 8KB störungsfrei.<br>
 <b>30.6.2010:</b> Einen weiteren Fehler in der Drucker-Logik konnten wir ausfindig machen und beseitigen (defekter Transistor). Der Drucker arbeitet nun zum ersten Mal nach ca. 30 Jahren und kann bereits Files aus Lochkarten in verschiedenen Formaten ausdrucken (List-Programm). Das Schriftbild des Stabdruckers ist recht gut. <br>
-Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für Stück von ihrer Funktion verabschiedet hat (siehe 16.6.).</p>
+Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für Stück von ihrer Funktion verabschiedet hat (siehe 16.6.).<br>
+<b>5.8.2010:</b> Der Lochkartenstanzer läuft wieder! Das Austauschen eines defekten Transistors und ein Tropfen Öl an der richtigen Stelle haben zur vollen Funtkion geführt. Nun können wir per Programm Lochkarten duplizieren. Wir mussten jedoch die Fehlerprüfung deaktivieren, da ein Stanzfehler erkannt wird, der überhaupt nicht vorhanden ist. Diesen Defekt zu finden ist die nächste Aufgabe.</p>
 
 	<p><i>Eine laufende Ergänzung folgt in unregelmäßigen Abständen</i>
 

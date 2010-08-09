@@ -14,29 +14,6 @@
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />
 	<meta name="t29.SVN" content="$Id$" />
-    <script type="text/javascript">
-    <!--
-        // Quick & Dirty Schachteloeffnung
-		// inklusive Hellfax
-		
-		function initGeraeteoeffner() {
-            /*document.getElementById("telegraf-offen").style.display = "none";
-            document.getElementById("telegraf-zu").getElementsByTagName("img")[0].style.cursor = "pointer";*/
-		
-            document.getElementById("hellfax-offen").style.display = "none";
-            document.getElementById("hellfax-zu").style.cursor = "pointer";
-
-		}
-        
-        function switchGeraet(name) {
-            document.getElementById(name+"-zu").style.display = "none";
-            document.getElementById(name+"-offen").style.display = name=="telegraf"?"block":"inline";
-        }
-		
-		var backup = window.onload;
-		window.onload = function() { backup(); initGeraeteoeffner(); }
-    // -->
-    </script>
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -128,7 +105,7 @@
 	</p>
 
     <div class="box center auto-bildbreite">
-        <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geschlossen)" width="550" height="334" onClick="switchGeraet('hellfax');" id="hellfax-zu" />
+        <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geschlossen)" width="550" height="334" id="hellfax-zu" />
 		<img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geoeffnet.jpg" alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geöffnet)" id="hellfax-offen" />
         <p class="bildtext">
              <b>Hellfax-Blattschreiber BS 110</b>. 

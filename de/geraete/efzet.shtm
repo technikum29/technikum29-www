@@ -15,21 +15,6 @@
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-	<script type="text/javascript" src="/shared/js/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript">
-
-	function gallerie() {
-		$(".thumbnails a").click(function(){
-			$("#gross")[0].src = $("img", this)[0].src;
-			$(".thumbnails a").removeClass("active");
-			$(this).addClass("active");
-			return false;
-		});
-	}
-	
-	$(gallerie);
-	
-	</script>
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->

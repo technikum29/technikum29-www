@@ -3,10 +3,9 @@
      auf technikum29.de. Aenderungen an dieser Datei werden vorraussichtlich
      keinen Effekt haben. Bitte die Original-Dateien (SSI, Endung .shtm oder
     .shtml) bearbeiten.
-		
-    Fuer weitere Informationen siehe Entwicklungsportal:
-    http://dev.technikum29.de
-    $Id$
+
+     Fuer weitere Informationen siehe Entwicklungsportal: http://dev.technikum29.de
+     $Id$
     -->
 
     <link rel="alternate stylesheet" type="text/css" href="/shared/css/screen.css" media="screen,projection" title="technikum29 old" />
@@ -24,9 +23,9 @@
     <link rel="copyright" href="/de/impressum.shtm" title="Impressum" />
     <link rel="alternate" href="/en/<!--#echo var="url_en" -->" hreflang="en" title="English Version of this page" />
 
-	<script type="text/javascript" src="/shared/js/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="/shared/js/tools.js"></script>
-	<script type="text/javascript" src="/shared/js/common.js"></script>
+    <script type="text/javascript" src="/shared/js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/shared/js/tools.js"></script>
+    <script type="text/javascript" src="/shared/js/common.js"></script>
 
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
     <meta name="ICBM" content="50.14, 8.456" /> <!-- Geolocation: somewhere in Kelkheim -->
@@ -35,15 +34,6 @@
     <meta name="DC.Language" content="de" />
     <meta name="robots" content="index,follow" />
 
-    <!-- h1 class="de-v3": experimentell geschalteter "neuer" Banner, nur auf deutsch, siehe fresh.css -->
-
-    <!--#config timefmt="%d.%m.%Y %T" --><!-- header last modified: <!--#echo var="LAST_MODIFIED" --> (new header v5.7) -->
 <!--#set var="heading" value='<div class="${location} ${part} de"><div id="wrapper">
 <h1 class="de de-v3"><a href="/de/" title="Zur technikum29-Startseite (deutsch)" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
 <p id="h1-subtitle">Museum f&uuml;r Computer- , EDV- und Kommunikationstechnik<span class="hidden">; Computermuseum</span></p>' -->
-
-   <!--
-   <style type="text/css">
-        #content img { -moz-box-shadow: 0 3px 12px rgba(0, 0, 0, 0.5); }
-   </style>
-   -->

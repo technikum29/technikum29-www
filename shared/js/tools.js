@@ -15,8 +15,21 @@
  
 var t29 = {}; // the t29 namespace
 
-// allgemeine funktionen:
+/**
+ * Common helper functions
+ **/
+ 
+// get the language of the current document
 t29.language = function(){ return $("h1").hasClass("de") ? "de" : "en"; }
+
+// T29 Gettext. Usage:
+//   t29.gettext("deutscher text", "englsischer text");
+//   t29.gettext({ de: "deutscher Text", en: "englischer Text" });
+//   t29.gettext(anything, null) wont work, use t29.gettext({ de: anything, en: null});
+t29.gettext  = function(de, en) {
+	if(!en){ en=de.en; de = de.de; }
+	return t29.language()=="de" ? de : en;
+}
 
 /**
  * technikum29.de | javascript: Unobstructive copyright information
@@ -165,7 +178,7 @@ t29.heading_links = function() {
 		$("<a class='anchor'> \u00B6</a>").attr({
 			href: "#"+anchor,
 			name: anchor,
-			title: t29.language()=="de" ? "Direktlink zu diesem Abschnitt" : "Link to this section"
+			title: t29.gettext("Direktlink zu diesem Abschnitt", "Link to this section")
 		}).appendTo(this);
 	});
 	

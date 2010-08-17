@@ -20,7 +20,7 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
     <p>Aufgeschreckt durch den Röhrenrechner "ANITA" begann nun ein stürmischer Wettlauf der Entwicklung von transistorisierten Rechnern der 2. Generation. Die Zeit dafür war einfach reif und die vielen Anwender mechanischer Maschinen versprachen ein großes Potenzial von möglichen Käufern zu werden.<br>
-	Jede Firma, die sich mit hohen Entwicklungskosten an die Produktion wagte, entwarf eine andere Architektur der Rechner. So entstand eine große Vielfalt sehr unterschiedlicher Konzepte. Wir stellen einige davon aus unserem Bestand vor.</p><br>
+	Jede Firma, die sich mit hohen Entwicklungskosten an die Produktion wagte, entwarf eine andere Architektur der Rechner. So entstand eine große Vielfalt sehr unterschiedlicher Konzepte. Wir stellen einige der sehr frühen Geräte aus unserem Bestand vor.</p><br>
 
 <h3>IME 84:  Erster Tischrechner mit Transistoren (1964)</h3>	
 
@@ -35,13 +35,25 @@
 <div class="box left">
         <img src="/shared/photos/rechnertechnik/robox103.jpg" alt="Robox 103" width="214" height="211" />
         <p class="bildtext">Dieser frühe elektronische Rechner hatte links eine merkwürdige Schnittstelle. Daran war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div><br>
+	
+<h3>Canon Canola 130</h3>
+<div class="box left">
+        <img src="/shared/photos/rechnertechnik/canola130.jpg" alt="Canola 130" width="380" height="299" />
 		
+		
+		<div class="left">
+        <img src="/shared/photos/rechnertechnik/canola-anzeige.jpg" alt="Anzeige der Canola 130" width="148" height="138" /></div>
+		<p>Auch in Japan entstand 1964 ein elektronischer Tischrechner mit Germanium-Transistoren und Flip-Flop Elemente als Speicher.
+		Das Gerät zeichnet sich im Innern durch große Platinen und damit verbundene geringe Servicefreundlichkeit aus. Bemerkenswert ist die Anzeige. 143 Glühlampen sind notwendig, um mittels Lichtleitung und Streulicht die Ziffern und den Dezimalpunkt zu erzeugen.</p>
+		
+		</div><br><br>
+	
 		<h3>Olympia RAE 4/30-3 und Wanderer Conti</h3>
 		
 		<div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/olympia-wanderer.jpg" alt="Olympia RAE 30 und Wanderer Conti" width="694" height="278" />
         <p class="bildtext"><b>Olympia RAE 4/30-3 und Wanderer Conti</b></p></div>
-    <p>Die <b>Olympia-Werke AG</b> (Deutschland) brachte ab 1965 den "Elektronischen Vierspezies-Rechenautomat" auf den Markt. Die Besonderheit waren die Fließkomma-Automatik, 3 Rechenwerke, 1 Speicherwerk und im abgebildeten Gerät 3 "Memoriawerke" (d.h. 3 frei zur Verfügung stehende Register). Dennoch ein durchaus solider Rechner mit handgefädeltem Kernspeicher (384 Bit !!) und noch mit Germanium-Transistoren aber leider ohne Schnittstelle. Damit waren weder eine Programmabspeicherung noch eine externe Programmeingabe möglich. Diesen Schritt hat Olympia verpasst, so dass der Rechner schnell veraltet war. Das Design ist mit dem schmucklosen Kunststoff-Gehäuse auch sehr dürftig. In der Sonne vergilbte das Gehäuse schnell und machte keinen guten Eindruck.<br>
+    <p>Die <b>Olympia-Werke AG</b> (Deutschland) brachte ab 1965 den "Elektronischen Vierspezies-Rechenautomat" auf den Markt. Die Besonderheit waren die Fließkomma-Automatik, 3 Rechenwerke, 1 Speicherwerk und im abgebildeten Gerät 3 "Memoriawerke" (d.h. 3 frei zur Verfügung stehende Register). Dennoch ein durchaus solider Rechner mit handgefädeltem Kernspeicher (384 Bit !!), Germanium-Transistoren und Nixieröhren aber leider ohne Schnittstelle. Damit waren weder eine Programmabspeicherung noch eine externe Programmeingabe möglich. Diesen Schritt hat Olympia verpasst, so dass der Rechner schnell veraltet war. Das Design ist mit dem schmucklosen Kunststoff-Gehäuse auch sehr dürftig. In der Sonne vergilbte das Gehäuse schnell und machte keinen guten Eindruck.<br>
 	Das Gerät wurde auch in den USA von der Rechenmaschinen-Fabrik <b>Monroe</b> unter dem Typ 770 vertrieben. Es war schon beachtlich, dass eine amerikanische Firma elektronische Rechner aus Deutschland bezog.<br>
 	Auch die legendäre <b>WANDERER-WERKE AG</b>, wie Olympia eine typische Büromaschinenfabrik, sah den Zug der Zeit abfahren und brachte daher ebenfalls 1965 einen Rechner auf den Markt. Werbewirksam formulierte WANDERER: "Der Welt erster druckender elektronischer universal Tischrechenautomat". Dieser Marktvorteil war Wanderer jedoch nur für einige Wochen gegönnt; die Zeit begann hektisch zu werden, Olivetti und Diehl zogen nach.<br>
 	Lesen Sie dazu den <a class="go" name="backlink-wanderer" href="/de/geraete/wanderer.shtm">Originalprospekt</a>.</p><br>

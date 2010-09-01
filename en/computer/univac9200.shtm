@@ -118,7 +118,7 @@
 	<p><b>26.08.2010:</b> Locating this bug in the device's internal error checking
 	   of punched data was hard work. The computer compares the data which should be
 	   punched with the position of the hammers in the punch station in a very
-	   complex way. Only one of the 24 inductive sensing elements was broken,
+	   complex way. One of the 24 inductive sensing elements was broken,
 	   furthermore a transistor which amplifies the particular induced voltage was
 	   out of order and there was a cold solder joint. Finally the complete sensing
 	   station had to be recallibrated to deliver all information simultaneously to

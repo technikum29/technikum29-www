@@ -99,9 +99,11 @@
 		did only last for some weeks, since Olivetty and Diehl continuously followed.
 	</p>
 
+	<!--
     <p>The first digital transistorised calculator was produced in Italy (IME 84, 1964). In 1965,
 	OLYMPIA built a calculator which was capable of handling floating-point numbers and at the
 	same time, the company WANDERER released the .</p>
+	-->
     <!--Gibts ja jetzt mit Bild: FRIDEN from the USA surprised with a calculator that displayed the contents of four registers on one cathod ray tube at the same time. But all these calculators could only compute with the four fundamental arithmetic operations, like many others. At least some of them could already extract a root. A core memory mostly served as storagemedia. The memory shown below is especially illustrative.</p>-->
 
 	<h3>FRIDEN 130 (132)</h3>
@@ -117,7 +119,7 @@
 	<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/friden-display.jpg" alt="Display des Friden 130" width="274" height="134" />
 		<p class="bildtext">
-		    In 1966 the <b>FRIDEN 130</b> was announced. It was the first desktop calculator featuring a
+		    The <b>FRIDEN 130</b> was announced in 1964. It was the first desktop calculator featuring a
 		    CRT display using an oscillocope tube to display the contents of four internal registers of the machine.
 	        The memory is based on a <a class="go" href="storage-media.shtm#Magnetostrictive_memory">magnetostrictive line</a>.
             <br />The overall design of the calculator is quite futuristic - the machine might well be found in

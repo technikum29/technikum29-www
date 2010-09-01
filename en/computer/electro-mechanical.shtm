@@ -20,8 +20,7 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
 
-
-<h2>Mechanische Rechenhilfen</h2>
+    <h2>Mechanical Adding Machines</h2>
 
 	<div class="box left clear-after">
     	<img src="/shared/photos/rechnertechnik/efzet.jpg" width="447" height="433" alt="EFZET Slide Rod Calculator" />

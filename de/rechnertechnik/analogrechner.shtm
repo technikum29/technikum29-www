@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Wissenschaftliche Rechner und Minicomputer"
    --><!--#set var="next"         value="speichermedien.shtm"
    --><!--#set var="next_title"   value="Speichermedien"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Analogrechner, Hybridrechner, Telefunken, RAT 700" />

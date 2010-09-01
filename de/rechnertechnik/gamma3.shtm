@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Tabelliermaschine"
    --><!--#set var="next"         value="gamma10.shtm"
    --><!--#set var="next_title"   value="BULL GAMMA 10"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Tabelliermaschine, Lochkarten-EDV, ..." />

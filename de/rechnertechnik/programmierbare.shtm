@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Rechner mit Transistoren"
    --><!--#set var="next"         value="ic-technik.shtm"
    --><!--#set var="next_title"   value="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="technikum, Diel Combitron, Programma 101, Olivetti, Laufzeitspeicher, Programmierbare Rechner der 2. Generation" />

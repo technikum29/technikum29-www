@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Tonaufnahme- und Wiedergabetechnik"
    --><!--#set var="next"         value="messtechnik.shtm"
    --><!--#set var="next_title"   value="Mess- und Experimentaltechnik"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />

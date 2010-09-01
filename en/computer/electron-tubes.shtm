@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="(Electro-) mechanical calculators"
    --><!--#set var="next"         value="transistors.shtm"
    --><!--#set var="next_title"   value="First calculators with transistors"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />

@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Univac 9200, Univac 9300"
    --><!--#set var="next"         value="kommerzielle.shtm"
    --><!--#set var="next_title"   value="Fr&uuml;he kommerzielle Rechner"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Univac 9400, Unisys, Großrechner, Rechenzentrum, 60er" />

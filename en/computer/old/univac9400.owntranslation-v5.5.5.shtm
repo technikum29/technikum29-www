@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Early computers"
    --><!--#set var="next"         value="analog.shtm"
    --><!--#set var="next_title"   value="Analog and analog-digital computers"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <link rel="stylesheet" type="text/css" href="/shared/css/additional.css" title="technikum29" /> <!-- css extension -->
     <!--#include virtual="/en/inc/head.inc.shtm" -->

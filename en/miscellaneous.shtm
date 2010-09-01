@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="development-projects.shtm"
    --><!--#set var="next_title"   value="Development Projects"
    -->
-     <title>Technikum29 - <!--#echo var="title" --></title>
+     <title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id: search.shtm 108 2009-08-19 17:20:00Z heribert $" />

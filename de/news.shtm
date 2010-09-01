@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="suche.shtm"
    --><!--#set var="next_title"   value="Wir suchen"
    -->
-    <title>Technikum29 - <!--#echo var="title" --></title>
+    <title>technikum29 - <!--#echo var="title" --></title>
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.thisversion" content="10.07.2009" />
     <meta name="t29.comment" content="Neu eingefuehrt am 10.07.09" />

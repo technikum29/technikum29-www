@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Mess- und Experimentaltechnik"
    --><!--#set var="next"         value="elektronenroehren.shtm"
    --><!--#set var="next_title"   value="Tischrechner mit Elektronenr&ouml;hren"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />

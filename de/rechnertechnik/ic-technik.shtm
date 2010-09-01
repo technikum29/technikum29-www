@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Programmierbare Rechner der 2. Generation"
    --><!--#set var="next"         value="lochkarten-edv.shtm"
    --><!--#set var="next_title"   value="Lochkartengeräte"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Wang 700, Erste Rechner der 3. Generation mit einfacher IC-Technik" />

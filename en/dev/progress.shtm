@@ -9,7 +9,7 @@
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    -->
-     <title>Technikum29 - <!--#echo var="title" --></title>
+     <title>technikum29 - <!--#echo var="title" --></title>
     <link rel="stylesheet" type="text/css" href="/shared/css/start.css" media="all" title="technikum29" />
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <link rel="stylesheet" type="text/css" href="/en/dev/special/tables.css" title="technikum29" /> <!-- specialcss erweiterung -->

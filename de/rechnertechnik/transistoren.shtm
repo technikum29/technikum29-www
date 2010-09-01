@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Tischrechner mit Elektronenr&ouml;hren"
    --><!--#set var="next"         value="programmierbare.shtm"
    --><!--#set var="next_title"   value="Programmierbare Rechner der 2. Generation"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum, transistorisierte Rechner, 2. Generation, IME 84, Wanderer Conti, Olympia, Friden" />

@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Telegraphie-, Fax- und Schreibtechnik"
    --><!--#set var="next"         value="/de/rechnertechnik/elektro-mechanik.shtm"
    --><!--#set var="next_title"   value="(Elektro-) Mechanische Rechenmaschienen"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum, Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />

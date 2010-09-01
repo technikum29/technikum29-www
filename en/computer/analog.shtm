@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
    --><!--#set var="next"         value="storage-media.shtm"
    --><!--#set var="next_title"   value="Storage media"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />

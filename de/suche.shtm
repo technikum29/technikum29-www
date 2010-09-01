@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="impressum.shtm"
    --><!--#set var="next_title"   value="Kontakt/Impressum"
    -->
-     <title>Technikum29 - <!--#echo var="title" --></title>
+     <title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Technikum29, Suche, Geräte" />

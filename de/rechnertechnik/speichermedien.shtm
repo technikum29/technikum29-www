@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Analog- und Hybridrechner"
    --><!--#set var="next"         value="/de/sonstiges.shtm"
    --><!--#set var="next_title"   value="Pianola und Anderes"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Laufzeitspeicher, Kernspeicher, Festwertspeicher, Stäbchenspeicher, Magnetdrahtspeicher, Lochband" />

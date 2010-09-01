@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Measurement technology"
    --><!--#set var="next"         value="electron-tubes.shtm"
    --><!--#set var="next_title"   value="Desk calculators with electron tubes"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />

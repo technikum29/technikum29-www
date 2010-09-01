@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Rundfunk"
    --><!--#set var="next"         value="fernsehen.shtm"
    --><!--#set var="next_title"   value="Fernsehen"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Kosmograph Diktierger&auml;t, Loewe Ferrophon III, Loewe, Diktierger&auml;t" />

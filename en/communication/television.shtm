@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Sound recording and reproducing technology"
    --><!--#set var="next"         value="fax.shtm"
    --><!--#set var="next_title"   value="Fax engineering"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Fernsehen, Videorekorder, Saba, Ampex, Saba Schauinsland W II, Ampex VR 650" />

@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 3"
    --><!--#set var="next"         value="univac9200.shtm"
    --><!--#set var="next_title"   value="Univac 9200"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />

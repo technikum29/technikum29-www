@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="(Elektro-) Mechanische Rechenmaschinen"
    --><!--#set var="next"         value="transistoren.shtm"
    --><!--#set var="next_title"   value="Rechner mit Transistoren"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum, Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />

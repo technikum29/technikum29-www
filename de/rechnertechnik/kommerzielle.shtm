@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="UNIVAC 9400-Gro&szlig;rechner, Rechenzentrum"
    --><!--#set var="next"         value="fruehe-computer.shtm"
    --><!--#set var="next_title"   value="Wissenschaftliche Rechner und Minicomputer"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" content="Frühe Computer, Frühe kommerzielle Rechner, NCR, Olivetti Programma 203, Nixdorf 820, ..." />

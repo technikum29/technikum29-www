@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/diehl-combitronic.shtm"
    --><!--#set var="title_en"     value="Details of Diehl Combitronic and Algotronic"
-   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#backlink-diehl-combitronic"
+   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#Diehl_Combitronic"
    --><!--#set var="prev_title"   value="Erste Rechner der 2. Generation mit einfacher IC-Technik"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
@@ -15,9 +15,6 @@
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="DC.Subject" content="Fotos der Combitron" />
-    <meta name="t29.this.version" content="v5.7" />
-	<meta name="t29.comment" content="Neu" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->

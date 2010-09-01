@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 10"
    --><!--#set var="next"         value="univac9400.shtm"
    --><!--#set var="next_title"   value="UNIVAC 9400-Gro&szlig;rechner, Rechenzentrum"
- --><title>Technikum29 - UNIVAC 9300<!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id: gamma10.shtm 130 2010-01-03 04:16:55Z incubator $" />
@@ -37,13 +37,13 @@
 	
 	Danach ist der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen müssen. Hier warten mit Sicherheit noch viele Fehler auf uns.<br>
 	Die Mühe der aufwändigen Restauration wird sich lohnen, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
-	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Bolg" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. <br>
+	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. <br>
 	Eine Extraseite über technische Besonderheiten der EDV-Maschine folgt später.</p>
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
 		
-	<h3><a name="blog">Reparatur-Blog</a></h3>
+	<h3 id="blog">Reparatur-Blog</h3>
 	
 	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.<br>
 	<b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.<br>

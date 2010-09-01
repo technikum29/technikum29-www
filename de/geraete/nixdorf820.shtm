@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/nixdorf820.shtm"
    --><!--#set var="title_en"     value="Nixdorf 820 Console"
-   --><!--#set var="prev"         value="/de/rechnertechnik/lochkarten-edv.shtm#backlink-nixdorf"
+   --><!--#set var="prev"         value="/de/rechnertechnik/kommerzielle.shtm#NIXDORF_820"
    --><!--#set var="prev_title"   value="Lochkarten-EDV: Die Nixdorf 820"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

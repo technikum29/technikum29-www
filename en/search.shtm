@@ -16,60 +16,41 @@
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="technikum29 what we are seeking/looking for..." />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.thistranslation" content="19.07.2009" />
-    <meta name="t29.comment" content="+Analex High Speed Printer -Type wheel" />	
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-
-    <div class="box left">
-       <img src="/shared/photos/rechnertechnik/anelex.jpg" alt="Anelex High Speed Printer" width="299" height="271" class="nomargin-bottom" />
-       <div class="bildtext">
-            <h3>Anelex High Speed Printer manuals</h3>
-            <p>We are looking for technical documentation for this <b>Anelex High Speed Printer
-            Series 5</b>. The (drum) printer was attached to
-            an Electrologica EL X8 (year of manufacture 1965) or DEC PDP6 (Line Printer Type 646) or Hitachi H-8245 and H-8246. Perhaps it's mentioned in
-            the manuals of that computer.</p>
-            <p>Any hints would be appreciated!</p>
-        </div>
-        <div class="clear"></div>
-    </div>
-
-    <div class="box left">
-        <img src="/shared/photos/rechnertechnik/gamma-10-drucker.jpg" alt="Printer from the BULL GAMMA 10 EDP" width="237" height="256" class="nomargin-bottom" />
-        <div class="bildtext">
-            <h3>BULL GAMMA 10 Printer</h3>
-            <p>This is the printer from our <a href="/en/computer/tabulating-machine.shtm#bull10">BULL GAMMA 10</a>, but
-            unfortunately it is incomplete: The small case with the auxillary electronics is missing. Therefore we are looking for a complete printer or a part from another GAMMA 10 setup.</p>
-         </div>
-         <div class="clear"></div>
-    </div>
+	<div class="box left clear-after">
+		<img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
+		<p class="bildtext">
+			We are looking for an <b>Digicorder DG 408</b> or <b>DG 308</b> for the
+			IME 86 <a href="/en/computer/transistors.shtm">desk calculator</a>.
+			<br>Exchange objects are available on demand.
+		</p>
+	</div>
 	
-    <div class="box left">
+    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/plattenstapel.jpg" alt="disk pack" width="237" height="189" class="nomargin-bottom" />
-        <div class="bildtext">
-           <h3>UNIVAC callibration disc</h3>
-           <p>We currently have problems with the adjustment of the disc head
-           from our UNIVAC 8425. There was special "callibration disc" (looking
+        <p class="bildtext">
+           We currently have problems with the adjustment of the disc head
+           from our UNIVAC 8425. There was special <b>UNIVAC callibration disc</b> (looking
            like the disc in the picture on the left) for the adjustment. It's
-           actually impossible to adjust the heads without that disc. Therefore
-           we're looking urgently for such a disc, on a loan basis, too.
-           </p>
-        </div>
-        <div class="clear"></div>
-</div>
+           actually impossible to adjust the heads without that disc.
+        </p>
+	</div>
+
+	<p>We are also looking for germanium transistors that are required for reperation of old computers.</p>
 
 	<h3>Devices and Manuals</h3>
-	
     <p>We are always looking for:</p>
     <ul>
-        <li>A manual for the <a href="/en/computer/commercial.shtm#ncr-backlink">NCR 446</a> (or at least a copy)</li>
+        <li><b>Tektronix Oscilloscope 555 (Dual Beam)</b></li>
         <li>Any kind of tube calculators</li>
         <li>Very old plotter</li>
         <li>Any kind of telegraph technology</li>
+        <li>A manual for the <a href="/en/computer/commercial.shtm#ncr-backlink">NCR 446</a> (or at least a copy)</li>
         <li>All manuals for the <a href="/en/computer/tabulating-machine.shtm#bull3">BULL GAMMA 3</a> and <a href="/en/computer/tabulating-machine.shtm#bull10">GAMMA 10</a></li>
         <li>... and everything that is suitable for our collection</li>
       </ul>

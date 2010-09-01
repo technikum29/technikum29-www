@@ -45,7 +45,7 @@
       
 	  <h3>WANG 700</h3>
       <div class="box center auto-bildbreite">
-          <a href="/en/devices/wang700.shtm" name="backlink-wang700" title="Detailed Photo of WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
+          <a href="/en/devices/wang700.shtm" title="Detailed Photo of WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
           <p class="bildtext">Unique system <b>WANG 700</b></p>
 	  </div>
 	  
@@ -55,10 +55,35 @@
       <a class="go" href="/en/devices/wang700.shtm">See a larger and more detailed version of the photography</a>
 
 	  
+	<h3>WANG 500</h3>
+	<div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/wang500.jpg" alt="WANG 500 with card reader" width="650" height="388"/>
+	    <p class="bildtext"><b>WANG 500</b> with card reader</p>
+    </div>
+	<p>
+	    WANGs versioning scheme is a bit unusual: The computers were released in this order: 700, 500, 600, 400.
+	    <br>The Wang 400 (year of manufacture 1971 is a pared-down version of the 700.
+		The most important scientific functions were programmed directly in the
+		threaded ROM, they did not have to be loaded via cassette any more. In the
+		upper left they embedded a small drum printer (The Olivetti P 101 already
+		featured such a printer in 1966). The cassette drive for recording programs
+		is the same like in the 700. The "marker card" reader (instead of regular punch
+		cards, the fields are only blackend) was perfect for schools and
+		universities. Many users could mark cards manually with a simple pencil and afterwards
+		test them on a single computer.
+		<br>Wang promoted the computer as "The World's Second Most Powerful Calculator"
+		(Wang 700 was the first one). This slogan could only refer to the computing speed,
+		since the HP 9100 was much more universal. The 500 series is very rare, since
+		it was superseded by the Wang 500 shortly after being released.
+		The computer in the picture is new and unused. It has been found in the basement
+		of an old stock from Wang and was passed to the museum, still unused. Therefore
+		it looks great, even being more than 40 years old.
+	</p>
+	  
 	<h3>Diehl Combitronic</h3>
 	
     <div class="box center auto-bildbreite">
-        <a href="/en/devices/diehl-combitronic.shtm" name="backlink-diehl-combitronic" title="Diehl Combitronic details"><img
+        <a href="/en/devices/diehl-combitronic.shtm" title="Diehl Combitronic details"><img
               src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="The Diehl Combitronic computer" width="526" height="420"/></a>
 		<p class="bildtext"><b>Diehl Combitronic</b> with paper tape reader and puncher</p>
 	</div>
@@ -88,7 +113,7 @@
             <p class="left">The history of development from the HP-desk calculators in one rack:</p>
             <ul>
               <li>In the center there is the HP 9100 (see
-                  <a href="/en/computer/programmable.shtm">Programmable
+                  <a href="/en/computer/programmable.shtm#Hewlett_Packard_HP_9100">Programmable
                   second-generation calculators</a> for description)</li>
               <li>Above the successor model HP 9810 (same logic like the HP 9100
                   but uses TTL-ICs), uses the very first LED displays that are

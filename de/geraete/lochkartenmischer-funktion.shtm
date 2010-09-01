@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/punchcard-collator.shtm"
    --><!--#set var="title_en"     value="The function of the punch card collator"
-   --><!--#set var="prev"         value="/de/rechnertechnik/lochkarten-edv.shtm#backlink-mischer"
+   --><!--#set var="prev"         value="/de/rechnertechnik/lochkarten-edv.shtm#Lochkartenmischer"
    --><!--#set var="prev_title"   value="Lochkartengeräte: IBM 77"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

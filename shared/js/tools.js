@@ -54,8 +54,8 @@ t29.gettext  = function(de, en) {
 t29.img_license_settings = {
 	// content for the license tags (depending on language)
 	text : {
-		de: '&copy; technikum29. <a href="/de/impressum.shtm#Hinweise_für_die_Nutzung_von_Bildern_aus_der_Website_des__technikum29">Lizenzbestimmungen</a>',
-		en: '&copy; technikum29. <a href="/en/contact.shtm#Image_use_policy_and_information_about_reusing_technikum29_website_contentst">Licensing terms</a>',
+		de: '&copy; technikum29. <a href="/de/impressum.shtm#image-copyright">Lizenzbestimmungen</a>',
+		en: '&copy; technikum29. <a href="/en/contact.shtm#image-copyright">Licensing terms</a>',
 	},
 
 	// min size of pictures to display the license tag
@@ -109,11 +109,12 @@ t29.img_license = function() {
  * 
  **/
 t29.window_size = function() {
+	var body = $("body"); // Reichenzeit sparen
 	$(window).resize(function(){
 		var width = window.innerWidth;
-		$("body").toggleClass("lesser1024", width < 1024);
-		$("body").toggleClass("greater1024", width >= 1024);
-		$("body").toggleClass("greater1280", width >= 1280); 
+		body.toggleClass("lesser1024", width < 1024)
+		    .toggleClass("greater1024", width >= 1024)
+		    .toggleClass("greater1280", width >= 1280); 
 	}).resize();
 }
 
@@ -185,7 +186,7 @@ t29.heading_links = function() {
 	// Opera und Internet Explorer machen mit, Firefox nicht, also:
 	if((hash=location.hash.substr(1)).length && (link=$("a[name="+hash+"]")).length)
 		//$('html, body').animate({scrollTop: link.offset().top}, 1000);  // smooth scrolling
-		$('html, body').scrollTop(link.offset().top); // springen
+		$('html, body').scrollTop(link.parent().offset().top); // springen
 }
 
 $(t29.auto_bildbreite);

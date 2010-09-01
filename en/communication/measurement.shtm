@@ -83,12 +83,12 @@
 
 
     <!-- paragraph: AEG Oszi. Translated/Started at 28.07.08-->
-    <div class="box right clear-after">
+    <div class="box left clear-after">
           <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Photography of an AEG oscilloscope" width="425" height="419" />
 		  <p class="bildtext">
               After the currency reform in West Germany, the production
-              of mesurement devices got going again. This AEG
-              oscilloscope was built in 1949. It seems to be an exact
+              of mesurement devices got going again. This <b>AEG
+              oscilloscope</b> was built in 1949. It seems to be an exact
               replica from an AEG device of the late thirties. It is
               equipped with steel tubes that were put on the German
               market at 1938. Neither the time base of the horizontal

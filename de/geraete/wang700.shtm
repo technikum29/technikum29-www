@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/wang700.shtm"
    --><!--#set var="title_en"     value="Wang 700"
-   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#backlink-wang700"
+   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#WANG_700"
    --><!--#set var="prev_title"   value="Erste Rechner der 3. Generation mit einfacher IC-Technik"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

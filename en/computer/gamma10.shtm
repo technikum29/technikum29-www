@@ -17,7 +17,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+    <h2>A second generation calculator: The BULL GAMMA&nbsp;10</h2>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"
@@ -60,6 +60,7 @@
 	<p>
           The chassis is metallic bright and glossy. It is clearly arranged
           and therefore the machine is quite easy to maintain.
+		  <!--
           <br/>We want to repair this computer, too (see our page
           <a href="/en/search.shtm">We are looking for...</a>). By now the
           complete mechanics works again. After tuning the temperature
@@ -67,6 +68,12 @@
           transistors, we can already execte a program for duplicating
           punch cards, as well as the first mathematical programs.
           That's really sensational for such an old computer.
+		  -->
+		  <br>By now the whole mechanics are working again, which is the core
+		  part of the computer. After adjusting the temperature of the
+		  heated core memory and replacing some broken transistors, the
+		  program for doubling punch cards runs again, as well as some
+		  mathematics programs. 
     </p>
 
 	<!-- Idiotisch - den selben Absatz unten nochmal uebersetzt, sogar mit Bild -->
@@ -138,10 +145,21 @@
      <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/anelex-drucker.jpg"
           alt="ANELEX high speed printer" width="485" height="423" />
-        <p class="bildtext">
-          <b>ANELEX high speed printer, series 5</b>,
-          with lifted cover.
-        </p>
+        <div class="bildtext">
+          <p><b>ANELEX high speed printer, series 5</b>,
+             with lifted cover.</p>
+		  <p>This printer could be a good auxillary device to the GAMMA 10
+		     computer: It is a drum printer, like the original printer,
+			 and the cirtcuitry operates also on a negative logic level
+			 (germanium transistors). Anelex uses a core memory for the
+			 buffer, too. Anyway the printer cannot simply plugged into
+			 the computer, because the original BULL printer works with
+			 the buffer memory which is placed directly in the CPU of the
+			 GAMMA 10. Since we don't want to modify the GAMMA 10 internal
+			 architecture, we currently implement a microcontroller driven
+			 interface between those two systems.
+		  </p>
+        </div>
      </div>
 
 </div><!-- end of content -->

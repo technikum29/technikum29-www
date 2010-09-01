@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_en"       value="devices/ncr446.shtm"
    --><!--#set var="title_en"     value="NCR 446 program reader"
-   --><!--#set var="prev"         value="/de/rechnertechnik/kommerzielle.shtm#ncr-backlink"
+   --><!--#set var="prev"         value="/de/rechnertechnik/kommerzielle.shtm#NCR_446"
    --><!--#set var="prev_title"   value="Frühe kommerzielle Rechner: NCR 446 Rechner"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

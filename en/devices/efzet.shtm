@@ -1,25 +1,25 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head><!--#set var="title"        value="Efzet"
    --><!--#set var="location"     value="efzet"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/efzet.shtm"
-   --><!--#set var="title_en"     value="Efzet"
-   --><!--#set var="prev"         value="/de/rechnertechnik/elektro-mechanik.shtm"
-   --><!--#set var="prev_title"   value="(Elektro-) Mechanische Rechenmaschinen"
+   --><!--#set var="url_de"       value="geraete/efzet.shtm"
+   --><!--#set var="title_de"     value="Efzet"
+   --><!--#set var="prev"         value="/en/computer/electro-mechanical.shtm"
+   --><!--#set var="prev_title"   value="(Electro-) mechanical calculators"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+	<meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
+	<p>The EFZET advertisting brochure is only available in German language:</p>
 
 	<div class="gallery no-copyright">
 		<div class="thumbnails">
@@ -35,6 +35,6 @@
 	</div>
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
 </body>
 </html>

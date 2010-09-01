@@ -26,6 +26,12 @@
 <div id="content">
     <h2 class="center"><!--#echo var="title" --></h2>
 
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/en/computer/electron-tubes.shtm" -->
+    <!--#set var="forwarding_title" value="Desk calculators with electron tubes: The ANITA Mark C/VIII" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+	
 <div class="box center">
     <img src="/shared/photos/rechnertechnik/anita-innen.jpg" width="694" height="520" alt="Photography of Anita's 'inner life'" />
     <p class="bildtext-bildbreite" style="width: 694px;">

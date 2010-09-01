@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/lochkartensortierer-funktion.shtm"
    --><!--#set var="title_de"     value="Die Funktion der Sortiermaschine"
-   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#backlink-sorter"
+   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#Sorters"
    --><!--#set var="prev_title"   value="Punch card computing: IBM 082, IBM 083"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

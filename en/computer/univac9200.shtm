@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 10"
    --><!--#set var="next"         value="univac9400.shtm"
    --><!--#set var="next_title"   value="UNIVAC 9400 mainframe computer, data center"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />
@@ -20,12 +20,13 @@
     <h2><!--#echo var="title" --></h2>
 	
 	<p>The Univac 9200 (Univac 9300) is a punch card computing data center from 1966. It is not
-	   common that such old devices are completely preserverd, furthermore all
+	   common that such old devices are completely preserverd, even all
 	   manuals are available. This system was stored over four years in the museum
 	   archives until we moved it with a freight company just into the museum, next
 	   to the <a href="univac9400.shtm">UNIVAC 9400</a>.</p>
 	   
-	<p>The restauration started with cleaning all the devices, removing the typical
+	<p>After moving the devices with a trucking company to the museum buidling,
+	   the restauration started with cleaning all the devices, removing the typical
 	   old rotten noise-absorbing mats at the very first. They have been replaced by
 	   brand new cellular rubber.</p>
 
@@ -63,7 +64,7 @@
 	</div>
 
 
-	<h3><a name="blog">Restoration Blog</a></h3>	
+	<h3 id="blog">Restoration Blog</h3>	
 	<p><b>17.01.2010:</b> There were some mice in the power supply and printer, they
 	   bit thorught some small cables.
 	<p><b>16.02.2010:</b> After locating two defect resistances the power supply is
@@ -80,19 +81,42 @@
                 states of processor and periphery can be indicated with light bulbes and
 		selected via switches.</p>
 	</div>
-	<p><b>April 2010:</b> The boot process of the device is still crashing. There is
+	<p><b>15.04.2010:</b> The boot process of the device is still crashing. There is
 	    an error message from the printer without any reason. We are trying to
 		locate this error.
-	<p><b>Beginning of May 2010:</b> A broken thyristor (hammer driver) raised the
+	<p><b>02.05.2010:</b> A broken thyristor (hammer driver) raised the
 	    "printer error" message. Data integrity was the most important part at those
 		time: If only one of the 140 printer columns is not working correctly, the whole
 		printer goes offline to avoid wrong output.
-	<p><b>Middle of May 2010:</b> We could get the plated wire storage online. We
+	<p><b>10.05.2010:</b> We could get the plated wire storage online. We
 	    can even start some small test programs via the input switches, but there are
 		bugs while running. This is perhaps the unique device that still uses the old
 		plated wire storage. Anyway we are planing a replacement.
-	</p>
+	<p><b>12.06.2010:</b> After callibrating the optical card reader, we could read in
+	   and execute small programs in the data memory. We will report about the high
+	   security level at the card reading process later. Surprisingly the plated wire
+	   storage still works.</p>
+	<p><b>16.06.2010:</b> The card puncher doesn't work any more. 30 years inactivity
+	   are a long time for computers, too.
+	   <br>On the other side, we could execute a printer loop program. The huge printer
+	   starts up, but doesn't print yet. After two minutes, a thermal fuse triggers.</p>
+	<p><b>25.06.2010:</b> The fuse is triggerd by a broken centrifugal switch from the
+	   printer engine start-up windings. Therefore the winding was always on and
+	   dissipated constantly current. Now the engine is running, but print commands
+	   are not yet executed.
+	   <br>We also could find a bug in the memory. Now all 8kB seem to run completely
+	   error-free.</p>
+	<p><b>30.06.2010:</b> We could locate another bug in the printer logic (faulty
+	   transistor). The first time after 30 years, the bar printer works and is capable of
+	   printing files from various punch cards. The type face looks good.
+	   <br>Now we turn towards the damaged printer.</p>
+	<p><b>05.08.2010:</b> After replacing a broken transistor and injecting some oil,
+	   the puncher is up and running! Now we are able of duplicating punch cards.
+	   Unfortunately we had to disable the error checking functions since the device
+	   detected a non-existing error at punching. Locating this error is the next
+	   problem.</p>
 	
+	<i>This blog will be irregulary continued.</i>
 
 </div><!-- end of content -->
 <!--#include virtual="/en/inc/menu.inc.shtm" -->

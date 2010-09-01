@@ -6,7 +6,7 @@
    --><!--#set var="part"         value="extra"
    --><!--#set var="url_de"       value="geraete/lochkartenmischer-funktion.shtm"
    --><!--#set var="title_de"     value="Die Funktion des Lochkartenmischers"
-   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#backlink-ibm077"
+   --><!--#set var="prev"         value="/en/computer/punchcard.shtm#Collators"
    --><!--#set var="prev_title"   value="Punch card computing: IBM 77"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""

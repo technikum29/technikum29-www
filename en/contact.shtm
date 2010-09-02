@@ -29,13 +29,19 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <address>
-       Dipl. Phys. H. M&uuml;ller
-       <br />D-65779 Kelkheim/Taunus
-       <br />Germany
-       <br />e-mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a>
-       <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
-    </address>
+    <div class="vcard" id="address">
+		<div class="org hidden">technikum29 Computer Museum</div>
+		<div class="fn">Dipl. Phys. H. M&uuml;ller</div>
+		<div class="adr">
+			<div class="street-address hidden">Am Flachsland 29</div>
+			<span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
+			<span class="country-name">Germany</span>
+		</div>
+		<div>e-mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></div>
+		<div>internet: <a class="url" href="http://www.technikum29.de/">www.technikum29.de</a></div>
+		<div class="hidden">Photo: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Photography of the museum building" /></div>
+		<div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29 Logo (black on white)" /></div>
+    </div>
 
 	<h3>Location</h3>
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">

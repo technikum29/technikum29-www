@@ -293,8 +293,10 @@ html>body #content { height: auto; }
     margin-left: 10px;
 }
 
-#sidebar-footnote , #sidebar-hostinfo {
+#sidebar-footnote , #menu .box {
     /* Fuﬂnoten, die eigentlich nur das freshdesign betreffen sollten */
+	/* Und ueberhaupt sollen solche neuen Elemente nicht in nostalgischen Designs */
+	/* verwendet werden */
     display: none;
 }
 

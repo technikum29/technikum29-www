@@ -52,6 +52,9 @@ t29.gettext  = function(de, en) {
  * 2010 Sven Koeppel
  **/
 t29.img_license_settings = {
+	// enable or disable system (e.g. used as API in Translation subsystem)
+	enabled : true,
+
 	// content for the license tags (depending on language)
 	text : {
 		de: '&copy; technikum29. <a href="/de/impressum.shtm#image-copyright">Lizenzbestimmungen</a>',
@@ -78,8 +81,9 @@ t29.img_license = function() {
 			$(window).scrollTop()+$(window).height()));
 	};
 	$("img").not(t29.img_license_settings.exclude).hover(function(){
-		if(this.width < t29.img_license_settings.treshold_size[0]
-		       || this.height < t29.img_license_settings.treshold_size[1])
+		if(!t29.img_license_settings.enabled
+		      || this.width < t29.img_license_settings.treshold_size[0]
+		      || this.height < t29.img_license_settings.treshold_size[1])
 			return;
 		t29.img_license_settings.img = $(this);
 		tag.css({
@@ -136,7 +140,7 @@ t29.window_size = function() {
 t29.hostinfo = function() {
 	if(location.hostname != "www.technikum29.de") {
 		$.get("/hostinfo.shtm", function(data) {
-			$("#sidebar").append("<div id='sidebar-hostinfo'/>");
+			$("#sidebar").append("<div class='box' id='sidebar-hostinfo'/>");
 			$("#sidebar-hostinfo").html(data);
 		});
 	}

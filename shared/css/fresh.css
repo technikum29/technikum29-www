@@ -501,19 +501,41 @@ html>body #content, html>body .extra #wrapper #content {
     text-align: center;
 }
 
-/* Hostinfos in der Sidebar */
-
-#sidebar-hostinfo {
+/* Infoboxen in der Sidebar, unter dem Menue
+ * Eingefuehrt mit den Hostinfos, Erweitert mit dem Uebersetzungssystem
+ * September 2010
+ */
+#sidebar .box {
 	background: url("../img/fresh.design/catl2-bg.menu.png");
-	border: 1px solid red;
 	font-weight:normal;
 	margin-top:15px;
-	padding: 10px 3px 10px 20px;
+	padding: 10px 20px 10px 20px;	
 }
 
-.de #wrapper #sidebar-hostinfo .en, .en #wrapper #sidebar-hostinfo .de {
-	display: none; /* simple internationalisation */
+.de #wrapper #sidebar .box .en, .en #wrapper #sidebar .box .de {
+	display: none; /* simple internationalisation for sidebar boxes */
 }
+
+/* Hostinfo-System: */
+#sidebar-hostinfo { border: 1px solid red; }
+
+/* Translation-System */
+#sidebar-translation-info {
+	color: #555;
+}
+#sidebar-translation-info h3 {
+	font-size: 100%; font-weight: bold;
+	margin: 0;
+}
+#sidebar-translation-info  p {
+	font-size: 90%;
+	margin: 5px 0;
+}
+#sidebar-translation-info a  {
+	text-decoration: none;
+	font-weight: bold;
+}
+
 
 /***********************************************************************************\
 **  _  _                                                                           **

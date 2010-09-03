@@ -75,6 +75,20 @@
         <li class="l1"><a <!--#if expr="$location = impressum" -->class="on"<!--#else --> href="/en/contact.shtm"<!--#endif --> title="Imprint, Legal notices">Contact/credits</a></li>
     </ul>
   </div><!-- id=menu -->
+  <div class="box" id="sidebar-tr"> <span class="arrow tr-enabled"></span><!--design-->
+	<div class="tr-disabled">
+		<h3>Found a mistake?</h3>
+		<p>This site was voluntarily trans&shy;lated by project collab&shy;orators.
+		   We'ld love to get your help!</p>
+		<a class="button white medium" href="/en/dev/translation/traditional.php?page=<!--#echo var="DOCUMENT_URI" -->"
+			title="Edit sentences directly inline!">Improve this page</a>
+	</div>
+	<div class="tr-enabled">
+		<h3>Improve this page</h3>
+		<p>Now simply click on any paragraph to correct it. Thank you!</p>
+		<span class="button gray" href="#back_to_normal_mode">Finished!</span>
+	</div>
+  </div>
   <!--#endif -->
 </div><!-- id=sidebar -->
 

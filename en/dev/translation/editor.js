@@ -262,6 +262,7 @@ t29.tr.submit_editing = function() {
 		error: function(req, textStatus) {
 			alert("I'm sorry, submitting the text failed due to "+textStatus
 				+"\nPlease mail your text to "+"ed.92mukinhcet@ved".split("").reverse().join(""));
+			t29.tr.editorbox.removeClass('loading');
 		},
 		data: {
 			source: 'ajax',
@@ -271,6 +272,9 @@ t29.tr.submit_editing = function() {
 			new_text: t29.tr.editor.html()
 		}
 	});
+	
+	// wg. langen Ladezeiten: Buttons ausblenden!
+	t29.tr.editorbox.addClass('loading');
 };
 
 /**
@@ -280,7 +284,7 @@ t29.tr.submit_editing = function() {
  **/
 t29.tr.submit_successful = function(server_data) {
 	// Editorbox
-	t29.tr.editorbox.addClass('success').prepend("<div class='response'>Thank you! :-)</div>");
+	t29.tr.editorbox.removeClass('loading').addClass('success').prepend("<div class='response'>Thank you! :-)</div>");
 	t29.tr.editorbox.delay(1100).fadeOut(1000, function(){
 		t29.tr.set_editing(false); // sic - hard finishing.
 		// + TODO REMARK "USER already edited"!
@@ -303,7 +307,8 @@ t29.tr.submit_successful = function(server_data) {
  **/
 t29.tr.create_editorui = function() {
 	t29.tr.editorbox.html(
-		"<div class='buttons'>"
+		"<div class='spinner'><img src='/en/dev/translation/loading.gif' title='Ongoing Data transmission'> saving...</div>"
+		+"<div class='buttons'>"
 			+"<div class='smaller'>"
 				+"<div class='button white small help'>Help</div>"
 				+"<div class='button white small cancel'>Cancel</div>"

@@ -76,6 +76,9 @@ body.tr-editing #content img { position: relative; }
 	display: block;
 	margin-bottom: 3px;
 }
+#tr-editor  .spinner { display: none; float: right; }
+#tr-editor.loading .spinner { display: block; }
+#tr-editor.loading .buttons { visibility: hidden; }
 #tr-editor.success { background-color: #ACDCA1; }
 #tr-editor.success .buttons { visibility:hidden; }
 #tr-editor .response {

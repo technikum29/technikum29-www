@@ -13,10 +13,11 @@ t29.tr = {};       // this namespace
 
 t29.tr.settings = {
     disable_img_license_system: true, // when tr system enabled, disable img licenses for more cleareness
-	editable_elements: function(){ return $("#content").find("p, ul, blockquote, h2, h3"); },
+	editable_elements: function(){ return $("#content").find("p, ul, ol, blockquote, h2, h3"); },
 	infobox_default: "<b>Click</b> to contribute a better translation",
 	infobox_corrected: "<span class='thanks'>Thank you for your correction.</span> Click to improve your text again.",
-	editorbox_heading: "Contribute a better translation"
+	editorbox_heading: "Contribute a better translation",
+	top_notice_text: "<h3>Thank you for improving this page</h3><p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>"
 };
 
 /* SYSTEM STATE:       PAGE STATE:     USER STATE:
@@ -33,11 +34,6 @@ t29.tr.settings = {
 t29.tr.onload = function(){
 	if(!t29.tr.is_enabled()) $("body").addClass("tr-disabled"); // prepare
 	t29.tr.sidebar = $("#sidebar-tr");
-	t29.tr.sidebar.find(".tr-disabled a").click(function() {
-		t29.tr.set_enabled(true);
-		return false;
-	}).attr('href', '#help_with_mistakes'); // href for nicer look
-	
 	t29.tr.sidebar.find(".tr-enabled .button").click(t29.tr.call("set_enabled",false));
 	
 	// initial value
@@ -95,9 +91,11 @@ t29.tr.set_enabled = function(value) {
 			.click(t29.tr.click_editables);
 	} else {
 		// system powered off
-		// t29.tr.set_editing(false) already called.
-		// so we can safely remove any handlers
-		t29.tr.editables.unbind();
+		t29.tr.set_editing(false); // for safety, just another time
+		t29.tr.editables.unbind(); // safely remove *all* hovering handlers
+		// remove any old trash:
+		$(".tr-inspecting").removeClass("tr-inspecting");
+		t29.tr.mouseout_editables(); // falls noch was uebrig ist
 	}
 	return true; // success
 } // set_enabled
@@ -107,7 +105,11 @@ t29.tr.set_enabled = function(value) {
  * styling and content and setup other handlers.
  **/
 t29.tr.mouseover_editables = function() {
-	if(t29.tr.is_editing())	return; // disable while editing
+	if(!t29.tr.is_enabled() || t29.tr.is_editing())	return; // disable while editing
+	if(t29.tr.current_editable) {
+		// this is weird and should not be - cleanup missed!
+		t29.tr.current_editable.removeClass("tr-inspecting");
+	}
 	t29.tr.current_editable = $(this).addClass('tr-inspecting');
 
 	// show infobox for current editable
@@ -223,7 +225,8 @@ t29.tr.set_editing = function(editing_target_or_false) {
 	} else {
 		// stop editing
 		t29.tr.initial_editor = null;
-		old_editor.attr("contenteditable", "false").removeClass("tr-editing");
+		//              v- falls es noch irgendeinen anderen Muell geben sollte
+		old_editor.add(".tr-editing").attr("contenteditable", "false").removeClass("tr-editing");
 		t29.tr.editorbox.hide();
 	}
 }; // set_editing
@@ -251,8 +254,9 @@ t29.tr.stop_editing = function() {
 t29.tr.submit_editing = function() {
 	// button submitting
 	if(!t29.tr.is_really_editing()) {
-		alert("You didn't make any changes to the text. Where's the improvement? :-)");
-		return false;
+		// funktioniert nicht zuverlaessig.
+		//alert("You didn't make any changes to the text. Where's the improvement? :-)");
+		//return false;
 	}
 	
 	$.ajax({
@@ -260,16 +264,22 @@ t29.tr.submit_editing = function() {
 		url: '/en/dev/translation/submit.php',
 		success: t29.tr.submit_successful,
 		error: function(req, textStatus) {
-			alert("I'm sorry, submitting the text failed due to "+textStatus
-				+"\nPlease mail your text to "+"ed.92mukinhcet@ved".split("").reverse().join(""));
-			t29.tr.editorbox.removeClass('loading');
+			t29.tr.editorbox.removeClass('loading').addClass('error');
+			t29.tr.editorbox.find('h3').html("Sending your improved text failed!");
+			t29.tr.editorbox.find('p').html("Please consult the <span class='button small red'>Help</span>")
+				.find('.button').click(t29.tr.help);
+			if(req.responseText)
+				t29.tr.editorbox.find('p').prepend("<b>"+req.responseText+"</b> ");
+			alert("Submitting your text failed!");
 		},
 		data: {
 			source: 'ajax',
 			page: location.href,
 			node: "foobar", // t29.tr.editor XQUERY PATH
-			initial_text: t29.tr.initial_editor.html(),
-			new_text: t29.tr.editor.html()
+			initial_text: t29.tr.initial_editor.text().replace(/\s+/g,' '),
+			initial_html: t29.tr.initial_editor.html(),
+			new_text: t29.tr.editor.text().replace(/\s+/g,' '),
+			new_html: t29.tr.editor.html()
 		}
 	});
 	
@@ -322,12 +332,21 @@ t29.tr.create_editorui = function() {
 	).removeClass(); // remove all possible old classes
 	t29.tr.editorbox.find(".cancel").click(t29.tr.stop_editing);
 	t29.tr.editorbox.find(".submit").click(t29.tr.submit_editing);
+	t29.tr.editorbox.find(".help").click(t29.tr.help);
 	
 	t29.tr.editorbox.css({
 		top: t29.tr.editor.offset().top - t29.tr.editorbox.outerHeight(),
 		left: t29.tr.editor.offset().left,
 		width: t29.tr.editor.width()
 	}).show();
+};
+
+/**
+ * Open a nice help window
+ **/
+ t29.tr.help = function() {
+	window.open("http://dev.technikum29.de/wiki/%dcbersetzung/Help");
+
 };
 
 /**
@@ -351,6 +370,10 @@ t29.tr.create_ui = function() {
 		t29.tr.editables = $(".tr-editable");
 	} // ui created
 }
+
+t29.tr.display_top_notice = function() {
+	$("<div id='tr-topnotice'/>").html(t29.tr.settings.top_notice_text).prependTo("#content");
+};
 
 // Master entry point: Load onload handler at startup.
 $(t29.tr.onload);

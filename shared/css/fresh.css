@@ -519,24 +519,6 @@ html>body #content, html>body .extra #wrapper #content {
 /* Hostinfo-System: */
 #sidebar-hostinfo { border: 1px solid red; }
 
-/* Translation-System */
-#sidebar-translation-info {
-	color: #555;
-}
-#sidebar-translation-info h3 {
-	font-size: 100%; font-weight: bold;
-	margin: 0;
-}
-#sidebar-translation-info  p {
-	font-size: 90%;
-	margin: 5px 0;
-}
-#sidebar-translation-info a  {
-	text-decoration: none;
-	font-weight: bold;
-}
-
-
 /***********************************************************************************\
 **  _  _                                                                           **
 ** | || |     _ __ ___   ___ _ __  _   _    Das Menue mit allen Submenues, den     **

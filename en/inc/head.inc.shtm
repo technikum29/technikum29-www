@@ -21,7 +21,7 @@
     <script type="text/javascript" src="/shared/js/tools.js"></script>
     <script type="text/javascript" src="/shared/js/common.js"></script>
 	<!-- translation system -->
-	<script type="text/javascript" src="/en/dev/translation/editor.js"></script>
+	<!--<script type="text/javascript" src="/en/dev/translation/editor.js"></script>-->
 	<link rel="stylesheet" type="text/css" href="/en/dev/translation/editor.css" />
 	<!-- translation end -->
 

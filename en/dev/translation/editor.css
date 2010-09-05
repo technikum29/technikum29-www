@@ -81,6 +81,8 @@ body.tr-editing #content img { position: relative; }
 #tr-editor.loading .buttons { visibility: hidden; }
 #tr-editor.success { background-color: #ACDCA1; }
 #tr-editor.success .buttons { visibility:hidden; }
+#tr-editor.error { background-color: #dca1a1; }
+#tr-editor.error p { color: black; background-color: red; display: inline; }
 #tr-editor .response {
 	font-size: 154%;
 	color: white;
@@ -113,8 +115,12 @@ body.tr-enabled  #sidebar-tr {
 	-moz-box-shadow: 1px 0 8px #999;
 }
 
+/* body.tr-enabled shows only .tr-enabled elements, and vice versa */
 body.tr-enabled  .tr-disabled, body.tr-disabled .tr-enabled { display: none; }
 body.tr-enabled  .tr-enabled, body.tr-disabled .tr-disabled { display: block; }
+/* default value, if no body.tr-* present: same state as .tr-disabled! */
+body .tr-enabled { display: none; }
+body .tr-disabled { display: block; }
 
 #sidebar-tr .tr-disabled h3 { margin: 0; font-size: 100%; }
 #sidebar-tr .tr-disabled p {	margin: 5px 0; font-size: 90%; }
@@ -147,6 +153,15 @@ body.tr-enabled  .tr-enabled, body.tr-disabled .tr-disabled { display: block; }
 	color: inherit;
 	text-decoration: none;
 }
+
+/* For an optional message at the top */
+#tr-topnotice {
+	background-color: #ACDCA1;
+	padding: 0.1em 1em; margin-bottom: 1em;
+	-moz-box-shadow: 1px 0 8px #999999;
+}
+
+body.tr-disabled #tr-topnotice { display: none; }
 
 /*
   CSS3 Buttons

@@ -193,8 +193,44 @@ t29.heading_links = function() {
 		$('html, body').scrollTop(link.parent().offset().top); // springen
 }
 
+
+/**
+ * technikum29.de | javascripts: english translation system loader
+ *
+ * Um die Ladezeiten des translation systems geringer zu halten, werden
+ * JavaScript und CSS dynamisch nachgeladen.
+ * @param success_function Function to execute after set_enabled(true) has been called.
+ * @returns immediately returns, asynchronous content loading
+ **/
+t29.start_tr = function(success_function) {
+	// kruder Hack, um die Ladezeit zu ueberstehen: schon mal Designaenderung
+	$("body").toggleClass("tr-enabled tr-disabled");
+	$.getScript('/en/dev/translation/editor.js', function(){
+		t29.tr.set_enabled(true); if(success_function) success_function(); });
+	// unfortunately the CSS is already needed for #sidebar-tr styles (button)
+	/*$.get('/en/dev/translation/editor.css', function(css) {
+		$("<style type='text/css'/>").html(css).appendTo("head");
+	});*/
+};
+
+t29.prepare_tr = function() {
+	$("#sidebar-tr .tr-disabled a").click(function() {
+		t29.start_tr();
+		return false;
+	}).attr('href', '#help_with_mistakes');
+
+	// startup tr system with query string like ?tr or ...tr-...
+	// or for people who opened link in another tab
+	if(location.search.match(/tr-|^tr/i) || location.hash.match(/help_with_mistakes/)) {
+		t29.start_tr(function(){ t29.tr.display_top_notice(); });
+	}
+}
+
+ 
+
 $(t29.auto_bildbreite);
 $(t29.hostinfo);
 $(t29.window_size);
 $(t29.img_license);
 $(t29.heading_links);
+$(t29.prepare_tr);

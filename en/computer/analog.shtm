@@ -65,13 +65,13 @@
 
     <div class="box left clear-after" style="margin-top: 0;">
        <img src="/shared/photos/rechnertechnik/heathkit-ausschnitt.jpg" alt=" Heathkit Analog Computers H1" width="247" height="179" class="nomargin-bottom"/>
-       <div class="bildtext">
+       <p class="bildtext">
           It demonstrates archaic early technology from the first generation.
           We have connected a compatible xy plotter equipped with tubes, too.
           <br/>This device is a loan from the <a
           href="http://www.fitg.de/fitg_english/">FITG (Association for the
           promition of industrial and technological history)</a>.
-       </div>
+       </p>
     </div>
 
     <div class="box left clear-after">	 
@@ -89,7 +89,7 @@
     <div class="box right">
         <h3>Telefunken RAT 700</h3>
         <img src="/shared/photos/rechnertechnik/telefunken_rat700.jpg" width="291" height="917" alt="Telefunken RAT 700" class="nomargin-bottom" />
-        <div class="bildtext">
+        <p class="bildtext">
             The image shows the <b>Telefunkten RAT 700</b> in the bottom (first
             model from 1961), above a part from the successor. On the new model
             you can change the whole patch board and thus change prgorams quickly.
@@ -99,7 +99,7 @@
             drift (Changing of the germanium transistor parameters). Principally,
             direct voltage is amlified by using choppers still today, but of course
             they are made with electronic components.
-        </div>
+        </p>
     </div>
 
     <div class="box center" style="margin-right: 291px">

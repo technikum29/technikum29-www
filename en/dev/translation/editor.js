@@ -8,16 +8,17 @@
  * (c) GPL, Sven Koeppel, 01.09.2010
  **/
  
-if(!t29) t29 = {}; // defined in tools.js
-t29.tr = {};       // this namespace
+if(!t29) t29 = {};       // defined in tools.js
+if(!t29.tr) t29.tr = {}; // this namespace, also defined in tools.js
 
 t29.tr.settings = {
     disable_img_license_system: true, // when tr system enabled, disable img licenses for more cleareness
-	editable_elements: function(){ return $("#content").find("p, ul, ol, blockquote, h2, h3"); },
+	editable_elements: function(){ return $("#content").find("p, ul, ol, blockquote, dl, table, h2, h3"); },
 	infobox_default: "<b>Click</b> to contribute a better translation",
 	infobox_corrected: "<span class='thanks'>Thank you for your correction.</span> Click to improve your text again.",
 	editorbox_heading: "Contribute a better translation",
-	top_notice_text: "<h3>Thank you for improving this page</h3><p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>"
+	top_notice_text: "<h3>Thank you for improving this page</h3><p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>",
+	
 };
 
 /* SYSTEM STATE:       PAGE STATE:     USER STATE:
@@ -34,8 +35,8 @@ t29.tr.settings = {
 t29.tr.onload = function(){
 	if(!t29.tr.is_enabled()) $("body").addClass("tr-disabled"); // prepare
 	t29.tr.sidebar = $("#sidebar-tr");
-	t29.tr.sidebar.find(".tr-enabled .button").click(t29.tr.call("set_enabled",false));
-	
+	t29.tr.sidebar.append('<span class="arrow tr-enabled"></span>');
+	t29.tr.sidebar.find(".tr-enabled .button").attr("href","#back_to_normal_mode").click(t29.tr.call("set_enabled",false));	
 	// initial value
 	//t29.tr.set_enabled(true);
 };
@@ -197,6 +198,9 @@ t29.tr.set_editing = function(editing_target_or_false) {
 	if(editing_target_or_false && t29.tr.is_editing()) {
 		alert("Bad state: Starting editing while editing?");
 		return; // bad
+	} else if(!editing_target_or_false && !t29.tr.is_editing()) {
+		// hab gar nicht bearbeitet.
+		return;
 	}
 	
 	var old_editor = t29.tr.editor; // backup old editor for cleanup
@@ -225,8 +229,9 @@ t29.tr.set_editing = function(editing_target_or_false) {
 	} else {
 		// stop editing
 		t29.tr.initial_editor = null;
-		//              v- falls es noch irgendeinen anderen Muell geben sollte
-		old_editor.add(".tr-editing").attr("contenteditable", "false").removeClass("tr-editing");
+		if(old_editor) { // falls es noch irgendeinen anderen Muell geben sollte
+			old_editor.add(".tr-editing").attr("contenteditable", "false").removeClass("tr-editing");
+		}
 		t29.tr.editorbox.hide();
 	}
 }; // set_editing

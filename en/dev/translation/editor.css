@@ -26,6 +26,7 @@ span.tr-editing {
 body.tr-editing { background-color: #eee; }
 body.tr-editing #content { color: #555; }
 body.tr-editing #content img { position: relative; }
+body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { display: none; }
 
 
 #tr-info {

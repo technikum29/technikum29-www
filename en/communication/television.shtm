@@ -23,7 +23,7 @@
 
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/ausschnitt-fernsehraum.jpg" alt="Extract from the television area" width="396" height="297" class="nomargin-bottom" />
-        <div class="bildtext" style="padding-top: 147px;">Extract from the television room</div>
+        <p class="bildtext" style="padding-top: 147px;">Extract from the television room</p>
     </div>
 
     <p>In 1952, television was a sensation and only affordable by paying several
@@ -48,7 +48,7 @@
     <div class="box left clear-after">
         <a href="/en/devices/saba-telerama.shtm" name="backlink-telerama" title="Erläuterung und Bild der Telerama-Projektion anschauen"><img src="/shared/photos/kommunikationstechnik/saba_telerama.jpg" alt="Saba Telerama" width="360" height="466" /></a>
         <div class="bildtext">
-            <b>Saba Telerama</b>
+            <p><b>Saba Telerama</b></p>
             <p>Since 1956, the German company SABA produced projection TV-sets. The advertisements said you could even watch television in light rooms which are not shaded. This promise was exaggerated: Only with a special projection screen (made by Saba) which reflects the light primarily in one direction, you can see a sufferable image. Clicking on the picture will show you an <a href="/en/devices/saba-telereama.shtm" class="go">explanation of the Telerama projection technology.</a></p>
             <p>On the right hand in the background you can see a multifunctional device made by Nordmende to see television, hear to broadcasting and gramophone records. On the left the concurrency device with the same features made by Telefunken. They are both made in 1954.</p>
 	    </div>
@@ -57,7 +57,7 @@
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/sony_kp5010.jpg" alt="Fotografie vom Sony KP 5010" width="360" height="466" />
         <div class="bildtext">
-		    <b>Sony KP 5010</b>
+            <p><b>Sony KP 5010</b></p>
             <p>This is the world's first rear projection colour television set. It was built in the early 1970s and does not yet use ICs but transistors (second generation).</p>
             <!-- 2 Grundfarben kommt nicht, weil die englischen Besucher nicht das technikum29 besuchen werden -->
         </div>

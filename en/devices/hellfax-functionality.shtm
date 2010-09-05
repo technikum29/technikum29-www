@@ -4,7 +4,7 @@
 <head><!--#set var="title"        value="Hellfax functional diagram"
    --><!--#set var="location"     value="hellfax"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/hellfax-funktionsschema.shtm.shtm"
+   --><!--#set var="url_de"       value="geraete/hellfax-funktionsschema.shtm"
    --><!--#set var="title_de"     value="Hellfax Funktionsschema"
    --><!--#set var="prev"         value="/en/communication/fax.shtm#backlink-hellfax"
    --><!--#set var="prev_title"   value="Fax engineering: Hellschreiber GL 72"
@@ -23,7 +23,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
 <div class="box center">
   <img src="/shared/photos/kommunikationstechnik/hellfax_funktionsschema.gif" width="670" height="432" alt="Funktionsschema des Hell-Fax" />

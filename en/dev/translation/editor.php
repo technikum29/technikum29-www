@@ -22,7 +22,7 @@ if(!isset($_GET['page'])) {
 
 $input = $_GET['page'];
 
-if(!preg_match("#^/(de|en)/[/a-z]+\.s?html?$#", $input)) {
+if(!preg_match("#^/(de|en)/[/a-z\-_]+\.s?html?$#", $input)) {
 	print "Bad input filename.";
 	exit;
 }

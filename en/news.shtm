@@ -16,7 +16,6 @@
     <!-- Well... quite simple ;-) -->
     <link href="http://page2rss.com/rss/15c37d8c11d3729e650502a0881277e4" title="Get a nifty RSS feed from this list" type="application/rss+xml" rel="alternate" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.comment" content="13.07.09: Neu" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -27,10 +26,19 @@
        posts are on top.</p>
 
 
-<ul class="news-feed">
-	<li><h3>June 2010</h3>
-		We are writing an ongoing <a href="/en/computer/univac9200.shtm#blog">Blog about the UNIVAC 9300 reparation</a>.
-	</li>
+    <ul class="news-feed">
+	   <li><h3>September 2010</h3>
+	
+       <div class="box left clear-after">
+	       <a href="/en/miscellaneous.shtm#demo"><img src="/shared/photos/rechnertechnik/siemens-demo.jpg" width="350" height="293" alt="Siemens educational Computer demonstration CPU model"/></a>
+	       <p class="bildtext">
+		      We got a big <a href="/en/miscellaneous.shtm#demo" class="go">educational computer model</a> made by Siemens from 1973.</p>
+           </p>
+      </div></li>
+	
+       <li><h3>June 2010</h3>
+		   We are writing an ongoing <a href="/en/computer/univac9200.shtm#blog">Blog about the UNIVAC 9300 reparation</a>.
+	   </li>
 
 
         <li><h3>March 2010</h3>

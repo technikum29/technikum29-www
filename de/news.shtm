@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="suche.shtm"
    --><!--#set var="next_title"   value="Wir suchen"
    -->
-    <title>technikum29 - <!--#echo var="title" --></title>
+    <title>Technikum29 - <!--#echo var="title" --></title>
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.thisversion" content="10.07.2009" />
     <meta name="t29.comment" content="Neu eingefuehrt am 10.07.09" />
@@ -25,6 +25,12 @@
 
 
 <ul class="news-feed">
+
+<li><h3>September 2010</h3>
+<div class="box left">
+<img src="/shared/photos/rechnertechnik/siemens-demo.jpg" width="350" height="293"/>
+	  <p class="bildtext"> Wir verfügen nunmehr über einen großen <a href="/de/sonstiges.shtm#demo"> <i>Demonstrations-Computer</i></a> von Siemens aus dem Jahre 1973 (Bild links). Genaueres hierüber erfahren Sie unter der Rubrik "Pianola und Anderes". <div class="clear"></div>
+</li>
 
 <li><h3>Juni 2010</h3>Für besonders interessierte Leser schreiben wird fortlaufend einen <a href="/de/rechnertechnik/univac9200.shtm#blog"><i>Reparatur-Blog</i> über die Restauration der UNIVAC 9300 Anlage</a>. Hier kann man die Höhen und Tiefen einer solchen Herausforderung miterleben.</li>
 
@@ -53,7 +59,7 @@
 <div class="box left">
           <img src="/shared/photos/rechnertechnik/1710.jpg" alt="Foto des UNIVAC Lochkartenstanzers" width="166" height="136" class="nomargin-bottom" /> 
 		  <p class="bildtext"> Neuzugang: <a href=          "/de/rechnertechnik/lochkarten-edv.shtm" class="go"> "UNIVAC 1710 Lochkartenstanzer"</a>
-		  <br>Passend zur UNIVAC 9400 Anlage<div class="clear">
+		  <br>Passend zur UNIVAC 9300 bzw. 9400 Anlage<div class="clear">
 </p> </div>
 </li>
 

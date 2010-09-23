@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Univac 9200, Univac 9300"
    --><!--#set var="next"         value="kommerzielle.shtm"
    --><!--#set var="next_title"   value="Fr&uuml;he kommerzielle Rechner"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Univac 9400, Unisys, Groﬂrechner, Rechenzentrum, 60er" />
@@ -18,7 +18,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2>UINVAC 9400 Groﬂrechner, Rechenzentrum</h2>
+    <h2>UNIVAC 9400 Groﬂrechner, Rechenzentrum</h2>
 
     <div class="box center" style="position:relative;">
         <!-- Umst‰ndliche Lˆsung f¸r die 30% IE6-Benutzer: Absolut positioniertes

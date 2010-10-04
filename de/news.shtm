@@ -25,7 +25,13 @@
 
 
 <ul class="news-feed">
-
+<li><h3>Oktober 2010</h3>
+<div class="box left">
+<img src="/shared/photos/rechnertechnik/pdp12.jpg" width="350" height="426"/>
+<p class="bildtext">Ein wichtiger Neuzugang bereichert die Abteilung "Wissenschaftliche Rechner":<br>
+Ein PDP12 Rechner (genauer: LAB12) der Firma Digital aus dem Jahre 1968/69.<br>
+Mit diesem gut ausgebautem Laborrechner wird die Lücke aller 12-Bit-Systeme, die von Digital in den Jahren von 1965 bis 1971 gebaut wurden geschlossen. Spätestens wenn der Computer wieder voll funktionsfähig ist, werden wir in der Rubrik "Wissenschaftliche Rechner und Minicomputer" darüber berichten.<div class="clear"></div>
+</li>
 <li><h3>September 2010</h3>
 <div class="box left">
 <img src="/shared/photos/rechnertechnik/siemens-demo.jpg" width="350" height="293"/>
@@ -53,21 +59,7 @@
 
 <li><h3>November 2009</h3>Die Seite "Rundfunk" wurde neu gestaltet; insbesondere durch größere, ästhetische Bilder und Erweiterung des Textes. Wir werden sukzessive alle weniger guten Bilder der Homepage durch solche mit höherer Auflösung ersetzen. Bitte bedenken Sie jedoch, dass unsere Bilder kopierrechtlich geschützt sind.</li>
 
-
-
-<li><h3>Oktober 2009</h3>
-<div class="box left">
-          <img src="/shared/photos/rechnertechnik/1710.jpg" alt="Foto des UNIVAC Lochkartenstanzers" width="166" height="136" class="nomargin-bottom" /> 
-		  <p class="bildtext"> Neuzugang: <a href=          "/de/rechnertechnik/lochkarten-edv.shtm" class="go"> "UNIVAC 1710 Lochkartenstanzer"</a>
-		  <br>Passend zur UNIVAC 9300 bzw. 9400 Anlage<div class="clear">
-</p> </div>
-</li>
-
-
-
-
-     
-    </p>  </div>
+   
        </li>		  
 	
 	

@@ -27,14 +27,24 @@
 
 
     <ul class="news-feed">
-	   <li><h3>September 2010</h3>
+       <li><h3>October 2010</h3>
+        <div class="left clear-after">
+         <img src="/shared/photos/rechnertechnik/pdp12.jpg" width="350" height="426" alt="DEC Clinical LAB12" />
+         <p class="bildtext">An important new <a href="/en/computer/early-computers.shtm">scientifical computer</a>:
+            A PDP-12 (actually Clinical LAB 12) from DEC, year of manufacture 1968/69.
+            <br>This well equipped laboratory computer fills the gap of 12 bit computers made by DEC from 1965 to 1971.
+            <br>More information will follow soon.
+         </p>
+        </div>
+
+       <li><h3>September 2010</h3>
 	
-       <div class="box left clear-after">
+        <div class="left clear-after">
 	       <a href="/en/miscellaneous.shtm#demo"><img src="/shared/photos/rechnertechnik/siemens-demo.jpg" width="350" height="293" alt="Siemens educational Computer demonstration CPU model"/></a>
 	       <p class="bildtext">
 		      We got a big <a href="/en/miscellaneous.shtm#demo" class="go">educational computer model</a> made by Siemens from 1973.</p>
            </p>
-      </div></li>
+        </div></li>
 	
        <li><h3>June 2010</h3>
 		   We are writing an ongoing <a href="/en/computer/univac9200.shtm#blog">Blog about the UNIVAC 9300 reparation</a>.

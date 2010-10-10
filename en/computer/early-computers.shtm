@@ -21,7 +21,7 @@
     <h2><!--#echo var="title" --></h2>
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers". In contrast, in the 1960s and the early 70s, a computer was always huge (like our <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini". Early computers are well worth seeing due to their enormous size and the nice transparent auxillary devices.
-       <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP&nbsp;8. The museum owns a complete production run from that devices: From the PDP&nbsp;8 (also called Classic&nbsp;8), year of manufacture 1965 to the PDP&nbsp;8a (1975, this one is less important so it is located in the archive).
+       <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP-8. The museum owns a complete production run from that devices: From the PDP-8 (also called Classic-8), year of manufacture 1965 to the PDP-8a (1975, this one is less important so it is located in the archive).
 	   <br/>For further reading see the story about <a class="go" name="backlink-dec" href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.
 	</p>
     
@@ -29,17 +29,17 @@
     Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
-	<h3>Classic PDP 8</h3>
+	<h3>Classic PDP-8</h3>
     <div class="box center auto-bildbreite">
        <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
-       <p class="bildtext"><b>PDP 8</b> with tape deck TU 580, paper tape reader and hard disc</p>
+       <p class="bildtext"><b>PDP-8</b> with tape deck TU 580, paper tape reader and hard disc</p>
 	</div>
 	
 	<p>
-         One of the museal highlights: The complete PDP 8 system with processor,
-         big tape deck TU 580 (originally belongs to the PDP 5, year of manufacture
+         One of the museal highlights: The complete PDP-8 system with processor,
+         big tape deck TU 580 (originally belongs to the PDP-5, year of manufacture
          1963), punch card reader/puncher PC 01, hard disc DF 32 with immovable heads
-         and a teletype as printer. The Classic-8 is called the world's first mass-produced
+         and a teletype as printer. The Classic PDP-8 is called the world's first mass-produced
          "minicomputer". Without ICs or their ancestor it is a seccond-generation apparature.
          <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
@@ -52,7 +52,7 @@
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
         <div class="bildtext">
-            <h3>PDP 8I</h3>
+            <h3>PDP-8I</h3>
             <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
              its own (in the middle of the picture) without periphery costed 27000$ at that time.<br/>
              The main memory had a capacity of 8kB. While calculating a "bigger" problem, possibly some files
@@ -70,8 +70,8 @@
         <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
         <!-- other picture -->
         <div  class="bildtext">
-            <h3>Lab 8e, PDP 8e</h3>
-            <p>Successor of the PDP8i was the PDP8e (1970). This computer had already an
+            <h3>Lab-8e, PDP-8e</h3>
+            <p>Successor of the PDP-8i was the PDP-8e (1970). This computer had already an
              internal bus system. So you could easily attach any periphery with interface cards. This
              feature made the "Mini"computer all-purpose. This Computer type was offered with diverse
              A/D- and D/A-converters and connection facilities as laboratory computer for analogue

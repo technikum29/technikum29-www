@@ -66,6 +66,27 @@
         </div>
     </div>
 
+	<div class="box left clear-after">
+		<img src="/shared/photos/rechnertechnik/lab-12.jpg" width="400" height="485" alt="DEC LAB-12" />
+        <div class="bildtext">
+			<h3 id="pdp12">PDP-12, LAB-12</h3>
+			<p>The PDP-12 was released in 1969. It was the last series that
+			could operate in Link modus (it could be switched to either Link-8
+			or PDP-8). This is a laboratory computer, equipped with AD and DA
+			converter as standard. Such computers were usually kept up to date
+			with hardware updates. The memory of this device was gradually
+			increased from 8kB up to 32kB (DW 08E storage extension).
+			<br>Beside the tape drives, the computer was also equipped with
+			an 8-inch floppy drive. Afterwards they were removed again in
+			favor of two removable disk drives. Finally they even tied the
+			device to 10BASE-T ethernet, using a selfmade controller with an
+			handwritten TCP/IP stack on a selfmade operating system.
+			Thus this device can demonstrate the era of paper tapes until
+			today's storage standard.
+			<br>We will repair it and report further details at this point.</p>
+		</div>
+	</div>
+	
     <div class="box left clear-after">
         <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
         <!-- other picture -->

@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Fr&uuml;he kommerzielle Rechner"
    --><!--#set var="next"         value="analogrechner.shtm"
    --><!--#set var="next_title"   value="Analog- und Hybridrechner"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="PDP-8, PDP-8L, PDP-8I, Classic-8, PDP-12, LAB-12, LAB-8, Lochstreifentechnik, Lochkartentechnik, Fr&uuml;he Computer" />

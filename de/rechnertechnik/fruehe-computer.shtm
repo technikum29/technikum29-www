@@ -21,7 +21,7 @@
     <h2><!--#echo var="title" --></h2>
     <p>
 	    Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Fr&uuml;he Computer sind wegen ihrer stattlichen Gr&ouml;&szlig;e und der sehr sch&ouml;nen transparenten Zusatzger&auml;ten vor allem in ihrer Funktion sehenswert.
-        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP-8. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv.
+        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP-8. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital <b>C</b>omputer".<br>
         <br/>Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a> aufgelistet.
     </p>
 	
@@ -44,7 +44,7 @@
         </div>
     </div>
  <div class="box left clear-after">
-        <a href="/de/geraete/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/lab-12.jpg" width="400" height="485" alt="DEC LAB-12" class="nomargin-bottom" /></a>
+      <img src="/shared/photos/rechnertechnik/lab-12.jpg" width="400" height="485" alt="DEC LAB-12" class="nomargin-bottom" />
         <div class="bildtext">
 		<h3 id="pdp12">PDP-12, LAB-12</h3>
 		<p class="justify">Im Jahre 1969 brachte DEC den PDP-12 Rechner auf den Markt. Er war der letzte Rechner, der auch im Link-Modus arbeiten kann und ist von Link-8 auf PDP-8 umschaltbar. Es handelt sich hier um einen "Laborrechner" mit standardmäßig eingebauten AD- und DA-Wandlern. Solche Rechner wurden während ihrer aktiven Phase meistens dem jeweiligen Stand der Technik angepasst. So wurde in diesem Gerät der Speicher schrittweise von zunächst 8kB bis auf zuletzt 32 kB ausgebaut (Speichererweiterung DW 08E).<br>

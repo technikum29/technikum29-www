@@ -87,7 +87,7 @@
 body {
     margin: 0; padding: 0;
     color: #000; background-color: #fff;
-    font-family: Verdana,Tahoma,Helvetica,Arial,sans-serif;
+    font-family: Verdana,Dejavu Sans,Helvetica,Arial,sans-serif;
     /* exiplit keine font-size */
 }
 
@@ -515,6 +515,40 @@ html>body #content, html>body .extra #wrapper #content {
 .de #wrapper #sidebar .box .en, .en #wrapper #sidebar .box .de {
 	display: none; /* simple internationalisation for sidebar boxes */
 }
+#sidebar-tr .tr-disabled h3 { margin: 0; font-size: 100%; }
+#sidebar-tr .tr-disabled p {	margin: 5px 0; font-size: 90%; }
+#sidebar-tr .tr-disabled { color: #444; }
+
+#sidebar-tr .tr-disabled a {
+	/* simple button like link for translation system */
+	display: inline-block;
+	zoom: 1; /* IE7 inline-block hack */ *display: inline;
+	text-decoration: none;
+	margin: 0 2px;
+	padding: 0.4em 1.5em 0.42em;
+	text-align: center;
+	text-shadow: 0 1px 1px #ccc;
+	vertical-align: baseline;
+	outline: none;
+	font-size: 12px;
+	background-color: #eee;
+	border: 1px solid #b7b7b7;
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+	-moz-border-radius: 0.5em 0.5em 0.5em 0.5em;
+	-webkit-border-radius: 0.5em 0.5em 0.5em 0.5em;
+	border-radius: 0.5em 0.5em 0.5em 0.5em;
+	color: #404040;
+}
+
+#sidebar-tr .tr-disabled a:hover {
+	background-color: white;
+	color: black;
+	-moz-box-shadow: 0 1px 2px #333;
+	text-shadow: 0 1px 1px #efefef;
+	background: url("../img/fresh.design/orangebg.menu.png");
+}
 
 /* Hostinfo-System: */
 #sidebar-hostinfo { border: 1px solid red; }
@@ -781,21 +815,18 @@ h2, html>body #page h2 {
     padding: 0;
 }
 
-#content h2 {
+#content h2, #content h3 {
     /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
        auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
     font-weight: normal;
-    font-family: Trebuchet Ms;
+    font-family: Trebuchet Ms,Verdana,Dejavu Sans,Helvetica,Arial,sans-serif;
     font-size: 180%;
     border-bottom: 3px double #aaa;
 }
 
 #content h3 {
     /* Und das gleiche auch fuer Unter-Ueberschriften */
-    font-weight: normal;
-    font-family: Trebuchet Ms;
     font-size: 140%;
-    border-bottom: 3px double #aaa;
 }
 
 p { text-align: justify; }

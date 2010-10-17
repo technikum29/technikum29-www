@@ -42,12 +42,14 @@ t29.tr.onload = function(){
 };
 
 // helper: foobar.click(t29.tr.call(anything, value)); is shorthand for
-//             """.call(function(){ t29.tr.anything(value); });
+//         foobar.call(function(){ t29.tr.anything(value); });
 t29.tr.call = function(f, v){ return function(){ t29.tr[f](v);} };
 t29.tr.arrow = function() {
-	// update the nice arrow in the sidebar =)
-	t29.tr.sidebar.find(".arrow").css({ "border-bottom-width": (a=Math.floor(t29.tr.sidebar.outerHeight()/2-1)),
-		"border-top-width": a });
+	// update the nice arrow in the sidebar =) (some timeout for slow startups)
+	setTimeout(function(){
+		t29.tr.sidebar.find(".arrow").css({ "border-bottom-width":
+			(a=Math.floor(t29.tr.sidebar.outerHeight()/2-1)),"border-top-width": a }).show();
+	}, 1000);
 };
 
 /**

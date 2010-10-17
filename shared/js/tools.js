@@ -213,14 +213,12 @@ t29.tr.preloader.start = function(success_function) {
 	$("body").toggleClass("tr-enabled tr-disabled");
 	$.getScript('/en/dev/translation/editor.js', function(){
 		t29.tr.set_enabled(true); if(success_function) success_function(); });
-	// unfortunately the CSS is already needed for #sidebar-tr styles (button)
-	/*$.get('/en/dev/translation/editor.css', function(css) {
+	$.get('/en/dev/translation/editor.css', function(css) {
 		$("<style type='text/css'/>").html(css).appendTo("head");
-	});*/
+	});
 	
-	// text, nur einaml und so. bessere bedingung - schauen ob schon mal gestartet wurde.
+	// text, nur einmal und so. bessere bedingung - schauen ob schon mal gestartet wurde.
 	if(!$("#sidebar-tr .tr-enabled").length) {
-		//$('#sidebar-tr').wrapInner("<div class='tr-disabled'/>")
 		$("<div class='tr-enabled'/>").html(t29.tr.preloader.enabled_string).appendTo('#sidebar-tr');
 	}
 };

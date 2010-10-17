@@ -108,6 +108,7 @@ body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { dis
 	position: absolute;
 	top: 0;
 	width: 0;
+	display: none;
 }
 
 body.tr-enabled  #sidebar-tr {
@@ -123,10 +124,12 @@ body.tr-enabled  .tr-enabled, body.tr-disabled .tr-disabled { display: block; }
 body .tr-enabled { display: none; }
 body .tr-disabled { display: block; }
 
+/*
 #sidebar-tr .tr-disabled h3 { margin: 0; font-size: 100%; }
 #sidebar-tr .tr-disabled p {	margin: 5px 0; font-size: 90%; }
 #sidebar-tr .tr-disabled { color: #444;}
 #sidebar-tr .tr-disabled a { opacity: .8; }
+*/
 
 #sidebar-tr .tr-enabled  h3 {
 	margin: 0;

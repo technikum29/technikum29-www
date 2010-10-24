@@ -1,5 +1,6 @@
 /**
  * t29.de translation system inline editor styles.
+ * $Id$
  * (c) Sven Koeppel September 2010
  **/
 
@@ -29,7 +30,7 @@ body.tr-editing #content img { position: relative; }
 body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { display: none; }
 
 
-#tr-info {
+#tr-infobox {
 	position: absolute;
 	background-color: #fffdbc;
 	border: 1px dashed #aaa;
@@ -39,17 +40,17 @@ body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { dis
 	font-size: 120%;
 }
 
-#tr-info.tr-corrected {
+#tr-infobox.tr-corrected {
 	background-color: #acdca1;
 }
 
-#tr-info .thanks {
+#tr-infobox .thanks {
 	color: #2e8027;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px white;
 }
 
- #tr-editor {
+ #tr-editorbox {
 	width: 50%; /* body width - will be fixed with javascript */
 	position: absolute;
 	background-color: white;
@@ -60,31 +61,31 @@ body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { dis
 	padding: 8px; /* Gleicher Padding wie .tr-editing! */
 }
 
-#tr-editor h3 {
+#tr-editorbox h3 {
 	margin: 0; margin-top: 2px;
 	font-size: 110%;
 }
 
-#tr-editor p {
+#tr-editorbox p {
 	margin: 0;
 	text-align: left; font-size: 90%;
 	color: #666;
 }
 
-#tr-editor .buttons, #tr-editor .smaller { float: right; margin-left: 5px; }
-#tr-editor .submit { font-size: 108%; font-weight: bold; }
-#tr-editor .help, #tr-editor .cancel {
+#tr-editorbox .buttons, #tr-editorbox .smaller { float: right; margin-left: 5px; }
+#tr-editorbox .submit { font-size: 108%; font-weight: bold; }
+#tr-editorbox .help, #tr-editorbox .cancel {
 	display: block;
 	margin-bottom: 3px;
 }
-#tr-editor  .spinner { display: none; float: right; }
-#tr-editor.loading .spinner { display: block; }
-#tr-editor.loading .buttons { visibility: hidden; }
-#tr-editor.success { background-color: #ACDCA1; }
-#tr-editor.success .buttons { visibility:hidden; }
-#tr-editor.error { background-color: #dca1a1; }
-#tr-editor.error p { color: black; background-color: red; display: inline; }
-#tr-editor .response {
+#tr-editorbox  .spinner { display: none; float: right; }
+#tr-editorbox.loading .spinner { display: block; }
+#tr-editorbox.loading .buttons { visibility: hidden; }
+#tr-editorbox.success { background-color: #ACDCA1; }
+#tr-editorbox.success .buttons { visibility:hidden; }
+#tr-editorbox.error { background-color: #dca1a1; }
+#tr-editorbox.error p { color: black; background-color: red; display: inline; }
+#tr-editorbox .response {
 	font-size: 154%;
 	color: white;
 	font-weight: bold;
@@ -108,7 +109,6 @@ body.tr-enabled #content h2 a.anchor, body.tr-enabled #content h3 a.anchor { dis
 	position: absolute;
 	top: 0;
 	width: 0;
-	display: none;
 }
 
 body.tr-enabled  #sidebar-tr {
@@ -158,14 +158,25 @@ body .tr-disabled { display: block; }
 	text-decoration: none;
 }
 
-/* For an optional message at the top */
-#tr-topnotice {
+/* The most important *always-there* top notice */
+#tr-topbox {
 	background-color: #ACDCA1;
 	padding: 0.1em 1em; margin-bottom: 1em;
 	-moz-box-shadow: 1px 0 8px #999999;
+	
+	position: fixed;
+	top: 0; left: 0;
+	width: 100%;
+	z-index: 1000;
 }
 
-body.tr-disabled #tr-topnotice { display: none; }
+body.tr-disabled #tr-topbox { display: none; }
+
+.tr-body-borders {
+	position: fixed;
+	background-color: #ACDCA1;
+	z-index: 1001;
+}
 
 /*
   CSS3 Buttons

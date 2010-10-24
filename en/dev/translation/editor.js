@@ -5,21 +5,37 @@
  * improvements directly on the page. There is almost no way to make it more easier
  * for users to improve the translation.
  *
+ * $Id$
  * (c) GPL, Sven Koeppel, 01.09.2010
  **/
  
 if(!t29) t29 = {};       // defined in tools.js
 if(!t29.tr) t29.tr = {}; // this namespace, also defined in tools.js
 
+// Basic Settings
 t29.tr.settings = {
     disable_img_license_system: true, // when tr system enabled, disable img licenses for more cleareness
 	editable_elements: function(){ return $("#content").find("p, ul, ol, blockquote, dl, table, h2, h3"); },
-	infobox_default: "<b>Click</b> to contribute a better translation",
-	infobox_corrected: "<span class='thanks'>Thank you for your correction.</span> Click to improve your text again.",
-	editorbox_heading: "Contribute a better translation",
-	top_notice_text: "<h3>Thank you for improving this page</h3><p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>",
-	
+	messages_url: "/en/dev/translation/messages.xml"
 };
+
+// Message system
+t29.tr.msg = {};
+t29.tr.load_messages = function() {
+	$.ajax({
+		dataType: "xml",
+		url: t29.tr.settings.messages_url,
+		async: false, timeout: 2000, // ms
+		success: function(xml) {
+			$("body > span, body > section", xml).each(function(){
+				t29.tr.msg[this.id] = (this.tagName == "span") ? $(this).text() : $(this).contents()
+			});
+		},
+		error: function(xhr, status) {
+			alert("Error while fetching translation messages: "+status);
+		}
+	});
+}
 
 /* SYSTEM STATE:       PAGE STATE:     USER STATE:
    enabled = true      inspecting      already_edited = true => cookie
@@ -35,8 +51,8 @@ t29.tr.settings = {
 t29.tr.onload = function(){
 	if(!t29.tr.is_enabled()) $("body").addClass("tr-disabled"); // prepare
 	t29.tr.sidebar = $("#sidebar-tr");
-	t29.tr.sidebar.append('<span class="arrow tr-enabled"></span>');
 	t29.tr.sidebar.find(".tr-enabled .button").attr("href","#back_to_normal_mode").click(t29.tr.call("set_enabled",false));	
+	t29.tr.load_messages();
 	// initial value
 	//t29.tr.set_enabled(true);
 };
@@ -44,13 +60,6 @@ t29.tr.onload = function(){
 // helper: foobar.click(t29.tr.call(anything, value)); is shorthand for
 //         foobar.call(function(){ t29.tr.anything(value); });
 t29.tr.call = function(f, v){ return function(){ t29.tr[f](v);} };
-t29.tr.arrow = function() {
-	// update the nice arrow in the sidebar =) (some timeout for slow startups)
-	setTimeout(function(){
-		t29.tr.sidebar.find(".arrow").css({ "border-bottom-width":
-			(a=Math.floor(t29.tr.sidebar.outerHeight()/2-1)),"border-top-width": a }).show();
-	}, 1000);
-};
 
 /**
  * Tells if the translation system is started up (e.g. the user started it) or not
@@ -88,10 +97,16 @@ t29.tr.set_enabled = function(value) {
 	if(t29.tr.enabled) {
 		// system powered on.
 		t29.tr.create_ui();
-		t29.tr.arrow(); // ;-)
 		t29.tr.editables
 			.hover(t29.tr.mouseover_editables, t29.tr.mouseout_editables)
 			.click(t29.tr.click_editables);
+			
+		// doesn't work yet (nachschauen)
+		/*$(document).keyup(function(e) {
+			var code = e.keyCode || e.which;
+			if (code == 27)  // escape key -> quit system
+				t29.tr.set_enabled(false);
+		}); */
 	} else {
 		// system powered off
 		t29.tr.set_editing(false); // for safety, just another time
@@ -102,6 +117,37 @@ t29.tr.set_enabled = function(value) {
 	}
 	return true; // success
 } // set_enabled
+
+/**
+ * Helper function for set_enabled(): Set up the general User Interface for
+ * the translation system, that is the inspection widgets. The function
+ * remembers if it has created them already, so it's safe to call this multiple
+ * times on each set_enabeld(true) call.
+ **/
+t29.tr.create_ui = function() {
+	// Create #tr-info, #tr-editor, all ".tr-editable"s, etc.
+	if(!t29.tr.ui_created) {
+		t29.tr.ui_created = true; // Now create all those nice elements
+
+		// Sidebar arrow
+		t29.tr.sidebar.append(t29.tr.msg.sidebar_arrow);
+		
+		// create Infobox, editorbox, topnoticebox, design elements
+		$("body").append(t29.tr.msg.create_ui_body_append);
+		$.each(["infobox", "editorbox", "topbox"], function(){ t29.tr[this] = $("#tr-"+this); });
+			
+		// create all wrapper elements (most important step)
+		t29.tr.settings.editable_elements().wrapInner("<span class='tr-editable'/>");
+		t29.tr.editables = $(".tr-editable");
+	} // INITIAL ui created
+	
+	// regular ui creations:
+	// update the nice arrow in the sidebar =) (some timeout for slow startups)
+	setTimeout(function(){
+		t29.tr.sidebar.find(".arrow").css({ "border-bottom-width":
+		(a=Math.floor(t29.tr.sidebar.outerHeight()/2-1)),"border-top-width": a });
+	}, 1000);
+}
 
 /**
  * Mouseover (mouseenter) handler for all editables. This will handle infobox
@@ -116,8 +162,8 @@ t29.tr.mouseover_editables = function() {
 	t29.tr.current_editable = $(this).addClass('tr-inspecting');
 
 	// show infobox for current editable
-	t29.tr.infobox.html( (h=t29.tr.current_editable.hasClass("tr-corrected"))
-		? t29.tr.settings.infobox_corrected : t29.tr.settings.infobox_default);
+	t29.tr.infobox.empty().append( (h=t29.tr.current_editable.hasClass("tr-corrected"))
+		? t29.tr.msg.infobox_corrected : t29.tr.msg.infobox_default);
 	if(h) t29.tr.infobox.addClass("tr-corrected"); // tell infobox that current editable is corrected (for css)
 	
 	// position infobox for current editable
@@ -323,20 +369,7 @@ t29.tr.submit_successful = function(server_data) {
  * set_editing(true) call, since it also cleans up :)
  **/
 t29.tr.create_editorui = function() {
-	t29.tr.editorbox.html(
-		"<div class='spinner'><img src='/en/dev/translation/loading.gif' title='Ongoing Data transmission'> saving...</div>"
-		+"<div class='buttons'>"
-			+"<div class='smaller'>"
-				+"<div class='button white small help'>Help</div>"
-				+"<div class='button white small cancel'>Cancel</div>"
-			+"</div>"
-			+"<button class='button green submit'>Submit</button>"
-		+"</div>"
-		+"<div class='left'>"
-			+"<h3>"+t29.tr.settings.editorbox_heading+"</h3>"
-			+"<p>Just start to type in the text field</p>"
-		+"</div>"
-	).removeClass(); // remove all possible old classes
+	t29.tr.editorbox.append(t29.tr.msg.create_editorui_editorbox).removeClass(); // remove all possible old classes
 	t29.tr.editorbox.find(".cancel").click(t29.tr.stop_editing);
 	t29.tr.editorbox.find(".submit").click(t29.tr.submit_editing);
 	t29.tr.editorbox.find(".help").click(t29.tr.help);
@@ -356,31 +389,13 @@ t29.tr.create_editorui = function() {
 
 };
 
-/**
- * Helper function for set_enabled(): Set up the general User Interface for
- * the translation system, that is the inspection widgets. The function
- * remembers if it has created them already, so it's safe to call this multiple
- * times on each set_enabeld(true) call.
- **/
-t29.tr.create_ui = function() {
-	// Create #tr-info, #tr-editor, all ".tr-editable"s
-	if(!t29.tr.ui_created) {
-		t29.tr.ui_created = true; // Now create all those nice elements
-		
-		// create Info Bubble
-		t29.tr.infobox = $("<div/>").appendTo("body").attr("id", "tr-info");
-		// create editor window
-		t29.tr.editorbox = $("<div/>").appendTo("body").attr("id", "tr-editor");
-			
-		// create all wrapper elements
-		t29.tr.settings.editable_elements().wrapInner("<span class='tr-editable'/>");
-		t29.tr.editables = $(".tr-editable");
-	} // ui created
-}
+
 
 t29.tr.display_top_notice = function() {
-	$("<div id='tr-topnotice'/>").html(t29.tr.settings.top_notice_text).prependTo("#content");
+	//$("<div id='tr-topnotice'/>").html(t29.tr.settings.top_notice_text).prependTo("#content");
+	alert("No one needs this method any more!");
 };
+
 
 // Master entry point: Load onload handler at startup.
 $(t29.tr.onload);

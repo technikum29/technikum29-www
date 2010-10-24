@@ -1,0 +1,71 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <title>technikum29 translation system messages</title>
+	<meta name="t29.SVN" content="$Id$" />
+	<style type="text/css"><![CDATA[
+		/* Just some styles for browser viewing */
+		body>p, body>span,body>section {
+			display: block; position: relative;
+			border: 1px solid #cc5; background-color: #ffc;
+			margin: 2em; padding: 1em; }
+		body>p { background-color: #ffcccc}
+		body>span:before,body>section:before {
+			display: block; content:attr(id);
+			position: absolute; left: -1em; top: -1em;
+			padding: .3em;
+			background-color: #ff8;
+		}
+	]]></style>
+</head>
+<body>
+	<p>
+	   This page contains <b>messages used by the technikum29 translation system</b>. They are
+	   loaded via AJAX, so make sure this is valid XML and is served with right
+	   application/xml MIME type (.xml file ending). Entries are identified via
+	   ids which are displayed yellow in the basic CSS.
+	</p>
+
+	<span id="example1">Use Spans for text only entries</span>
+	<section id="example">Use (HTML5) sections for <b>HTML</b> entries</section>
+
+	<!-- The funny CSS arrow for the sidebar box -->
+	<section id="sidebar_arrow"> <span class="arrow tr-enabled" title="Go on, editing! :-)"></span> </section>
+	
+	<!-- elements to append to body while initial user interface creation (t29.tr.create_ui) -->
+	<section id="create_ui_body_append">
+		<div id="tr-infobox"></div>
+		<div id="tr-editorbox"></div>
+		<div id="tr-topbox">
+			<h3>Thank you for improving this page</h3>
+			<p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>
+		</div>
+		
+		<!--
+		<div class="tr-body-borders tr-enabled" style="left:0;top:0;bottom:0;width:10px"></div>
+		<div class="tr-body-borders tr-enabled" style="right:0;top:0;bottom:0;width:10px;"></div>
+		<div class="tr-body-borders tr-enabled" style="left:0;right:0;bottom:0;width:10px"></div>
+		-->
+	</section>
+	
+	<!-- infoboxes -->
+	<section id="infobox_default"><b>Click</b> to contribute a better translation</section>
+	<section id="infobox_corrected"><span class="thanks">Thank you for your correction.</span> Click to improve your text again.</section>
+	
+	<!-- editorbox -->
+	<section id="create_editorui_editorbox">
+		<div class="spinner"><img src="/en/dev/translation/loading.gif" title="Ongoing Data transmission" /> saving...</div>
+		<div class="buttons">
+			<div class="smaller">
+				<div class="button white small help">Help</div>
+				<div class="button white small cancel">Cancel</div>
+			</div>
+			<button class="button green submit">Submit</button>
+		</div>
+		<div class="left">
+			<h3>Contribute a better translation</h3>
+			<p>Just start to type in the text field</p>
+		</div>
+	</section>
+	
+</body>
+</html>

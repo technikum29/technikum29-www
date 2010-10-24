@@ -85,6 +85,17 @@
 		<a href="/en/dev/translation/editor.php?page=<!--#echo var="DOCUMENT_URI" -->"
 			title="Edit sentences directly inline!">Improve this page</a>
 	</div>
+	<!--#if expr="($credits)" -->
+	<div class="credits tr-disabled">
+		<h3>Contributors</h3>
+		<p>These people already gave something back to the museum. Join them
+		   and point out mistakes!</p>
+
+		<ul>
+		   <li><!--#echo encoding="none" var="credits" -->
+		</ul>
+	</div>
+	<!--#endif -->
   </div><!--sidebar-tr-->
 </div><!-- id=sidebar -->
 

@@ -180,13 +180,17 @@ body.tr-disabled #tr-topbox { display: none; }
 #tr-topbox .buttons { display: table; width: 100%; }
 #tr-topbox .buttons .row  { display: table-row; }
 
-#tr-topbox .left {
+#tr-topbox .startup {
 	padding: 15px;
-	float: left;
-	display: none;
+	display: none; /* activated via t29.tr.display_startup_notice */
 }
 
-#tr-topbox .left  h3 {
+#tr-topbox.fixed .startup {
+	/* Hide when user is scrolling */
+	display: none !important;
+}
+
+#tr-topbox .startup h3 {
 	margin: 0;
 	color:white;
 	font-size:146%;
@@ -195,7 +199,7 @@ body.tr-disabled #tr-topbox { display: none; }
 	text-shadow:1px 1px 2px #555555;
 }
 
-#tr-topbox .left p {
+#tr-topbox .startup p {
 	color: #666;
 	margin: .3em 0;
 	font-weight: bold;

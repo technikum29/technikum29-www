@@ -65,10 +65,10 @@ t29.tr.call = function(f, v){ return function(){ t29.tr[f](v);} };
 // helper: default value input elements. highly compressed selfwritten :)
 // usage: <input value="my default value bla" class="defaultvalue"/>
 t29.tr.defaultvalue = function(){
-	$("input.defaultvalue").live('focus', function(){
+	$("input.defaultvalue").live('focus.t29tr', function(){
 		if(!(dv=(t=$(this)).data('dv'))) t.data('dv', t.val());
 		if(t.val()==dv) t.val('');
-	}).live('blur', function(){
+	}).live('blur.t29tr', function(){
 		if((dv=((t=$(this)).data('dv'))) && /^\s*$/.test(t.val())) t.val(dv);
 	});
 };
@@ -126,6 +126,9 @@ t29.tr.set_enabled = function(value) {
 		// remove any old trash:
 		$(".tr-inspecting").removeClass("tr-inspecting");
 		t29.tr.mouseout_editables(); // falls noch was uebrig ist
+		
+		// remove *ALL* handlers anywhere (new namespace .t29tr)
+		$("*").unbind(".t29tr");
 	}
 	return true; // success
 } // set_enabled
@@ -148,10 +151,12 @@ t29.tr.create_ui = function() {
 		$("body").append(t29.tr.msg.create_ui_body_append);
 		$("#content").before(t29.tr.msg.create_ui_topbox);
 		$.each(["infobox", "editorbox", "topbox"], function(){ t29.tr[this] = $("#tr-"+this); });
+		t29.tr.infobox.hide();
+		t29.tr.editorbox.hide(); // default state
 		
 		// make topbox being fixed at top scrolling
 		var top = t29.tr.topbox.offset().top; // - parseFloat($('#comment').css('marginTop').replace(/auto/, 0))
-		$(window).scroll(function(e) {
+		$(window).bind("scroll.t29tr", function(e) {
 			var now_fixed = $(this).scrollTop() >= top;
 			// since topbox was embedded in content (not sidebar), place is
 			// removed there when switching from static to fixed. Setting the
@@ -230,7 +235,7 @@ t29.tr.mouseover_editables = function() {
 		left: t29.tr.current_editable.offset().left
 	}).show();
 	
-	$(document).bind("mousemove", t29.tr.mouseover_editables_positioner);
+	$(document).bind("mousemove.t29tr", t29.tr.mouseover_editables_positioner);
 };
 
 /**
@@ -257,7 +262,7 @@ t29.tr.mouseout_editables = function() {
 		t29.tr.current_editable.removeClass('tr-inspecting');
 		t29.tr.current_editable = null;
 		t29.tr.infobox.hide().removeClass(); // remove all classes
-		$(document).unbind("mousemove", t29.tr.mouseover_editables_positioner);
+		$(document).unbind("mousemove.t29tr", t29.tr.mouseover_editables_positioner);
 	}
 };
 
@@ -458,9 +463,9 @@ t29.tr.create_editorui = function() {
 
 
 
-t29.tr.display_top_notice = function() {
-	//$("<div id='tr-topnotice'/>").html(t29.tr.settings.top_notice_text).prependTo("#content");
-	alert("No one needs this method any more!");
+t29.tr.display_startup_notice = function(msg) {
+	// display a short text in the startup-thingy
+	t29.tr.topbox.find('.startup').html( t29.tr.msg["startup_topbox_"+msg] ).show();
 };
 
 

@@ -526,7 +526,12 @@ html>body #content, html>body .extra #wrapper #content {
 }
 #sidebar-tr .tr-disabled h3 { margin: 0; font-size: 100%; }
 #sidebar-tr .tr-disabled p {	margin: 5px 0; font-size: 90%; }
+#sidebar-tr .tr-disabled ul {
+	margin: 5px 0; font-size: 90%;
+	list-style: square; padding-left: 12px;
+}
 #sidebar-tr .tr-disabled { color: #444; }
+#sidebar-tr .credits { margin-top: 15px; }
 
 #sidebar-tr .tr-disabled a {
 	/* simple button like link for translation system */

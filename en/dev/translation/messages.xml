@@ -43,12 +43,23 @@
 		-->
 	</section>
 	
+	<section id="startup_topbox_querystring">
+		<!-- bnla -->
+		<h3>Thank you for improving this page</h3>
+		<p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>
+	</section>
+	
+	<section id="startup_topbox_editdomain">
+		<!-- started via domain -->
+		<h3>Welcome to the technikum29 translation website</h3>
+		<p>You can fully edit this page and visit it afterwards, with all changes made.</p>
+	</section>
+	
 	<section id="create_ui_topbox">
 	<div class="external-content tr-enabled"><!-- to be placed before #content -->
 		<div id="tr-topbox">
-			<div class="left">
-				<h3>Thank you for improving this page</h3>
-				<p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>
+			<div class="startup">
+				<!-- usually hidden startup message, to be activated via -->
 			</div>
 			<div class="buttons"><div class="row">
 				<div class="field name extends" title="You can enter your name and location to be honoured in the sidebar of this page">

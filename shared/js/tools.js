@@ -232,7 +232,9 @@ t29.tr.preloader.onload = function() {
 	// startup tr system with query string like ?tr or ...tr-...
 	// or for people who opened link in another tab
 	if(location.search.match(/tr-|^tr/i) || location.hash.match(/help_with_mistakes/)) {
-		t29.tr.preloader.start(function(){ t29.tr.display_top_notice(); });
+		t29.tr.preloader.start(function(){ t29.tr.display_startup_notice('querystring'); });
+	} else if(location.hostname.match(/^edit/i)) {
+		t29.tr.preloader.start(function(){ t29.tr.display_startup_notice('editdomain'); }); 
 	}
 }
 

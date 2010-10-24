@@ -116,6 +116,7 @@ body.tr-enabled  #sidebar-tr {
 	color: black;
 	background-color: #acdca1;
 	-moz-box-shadow: 1px 0 8px #999;
+	box-shadow: 1px 0 8px #999;
 }
 
 /* body.tr-enabled shows only .tr-enabled elements, and vice versa */
@@ -164,6 +165,7 @@ body .tr-disabled { display: block; }
 	background-color: rgba(172, 220, 161, .95);
 	margin-bottom: 1em;
 	-moz-box-shadow: 1px 0 8px #999999;
+	box-shadow: 1px 0 8px #999999;
 	
 	width: 100%; 
 	display: relative;

@@ -87,7 +87,7 @@
 	</div>
 	<!--#if expr="($credits)" -->
 	<div class="credits tr-disabled">
-		<h3>Contributors</h3>
+		<h3>Credits</h3>
 		<p>These people already gave something back to the museum. Join them
 		   and point out mistakes!</p>
 

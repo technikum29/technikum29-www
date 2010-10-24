@@ -352,6 +352,15 @@ html>body #content, html>body .extra #wrapper #content {
     margin: 2em;
 }
 
+.external-content {
+	/* Fuer Inhalte, die wie #content in der Breite formatiert */
+	/* werden sollen (mit #menu also), aber nicht in #content */
+	/* stehen duerfen. */
+	padding: 5%;
+	padding-bottom: 0;
+	margin-right: 230px; /* siehe #content fuer alle Werte */
+}
+
 /************************************************************************************\
 **  _____        _     _      _                 In diesem Abschnitt werden Elemente **
 ** |___ /    ___(_) __| | ___| |__   __ _ _ __  der Sidebar ausgezeichnet, u.a. das **

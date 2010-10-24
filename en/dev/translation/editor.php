@@ -48,7 +48,7 @@ $text = html2text($content);
 <input type="hidden" name="out_heading" value="Thank you for your corrections">
 <input type="hidden" name="out_text" value="Your edit was mailed to the translation team and will be published on the website in the next days. <a href=http://www.technikum29.de<?php print $input; ?>>Return to website</a>">
 
-<textarea cols="100" rows="30">
+<textarea name="text" cols="100" rows="30">
 <?php print html2text($content); ?>
 </textarea>
 

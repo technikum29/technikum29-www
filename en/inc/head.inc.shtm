@@ -20,6 +20,12 @@
     <script type="text/javascript" src="/shared/js/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="/shared/js/tools.js"></script>
     <script type="text/javascript" src="/shared/js/common.js"></script>
+	
+	<!-- for testing -->
+	<!--
+	<script type="text/javascript" src="/en/dev/translation/editor.js"></script>
+	<script type="text/javascript"> $(t29.tr.preloader.start) </script>
+	-->
 
     <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
     <meta name="author" content="h. m&uuml;ller" />

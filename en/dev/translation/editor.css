@@ -16,6 +16,7 @@ span.tr-corrected.tr-inspecting {
 	background-color: #e6f9ec;
 }
 
+div.tr-editing, /* spricht irgendwas gegen div.tr-editing? Die sind doch viel cooler*/
 span.tr-editing {
 	margin: -8px;
 	padding: 8px;
@@ -160,17 +161,97 @@ body .tr-disabled { display: block; }
 
 /* The most important *always-there* top notice */
 #tr-topbox {
-	background-color: #ACDCA1;
-	padding: 0.1em 1em; margin-bottom: 1em;
+	background-color: rgba(172, 220, 161, .95);
+	margin-bottom: 1em;
 	-moz-box-shadow: 1px 0 8px #999999;
 	
+	width: 100%; 
+	display: relative;
+}
+
+#tr-topbox.fixed {
 	position: fixed;
 	top: 0; left: 0;
-	width: 100%;
 	z-index: 1000;
 }
 
 body.tr-disabled #tr-topbox { display: none; }
+
+#tr-topbox .buttons { display: table; width: 100%; }
+#tr-topbox .buttons .row  { display: table-row; }
+
+#tr-topbox .left {
+	padding: 15px;
+	float: left;
+	display: none;
+}
+
+#tr-topbox .left  h3 {
+	margin: 0;
+	color:white;
+	font-size:146%;
+	font-weight:bold;
+	text-decoration:none;
+	text-shadow:1px 1px 2px #555555;
+}
+
+#tr-topbox .left p {
+	color: #666;
+	margin: .3em 0;
+	font-weight: bold;
+	text-align: left;
+	font-size: 90%;
+}
+
+#tr-topbox .field {
+	/*float: right;*/
+	background-color: rgba(255,255,255,0.2);
+	padding: 12px;
+	/*max-width: 123px;*/
+	display: table-cell;
+	cursor: pointer;
+}
+
+#tr-topbox .field ~ .field { /* avoid the rightmost border */
+	border-left: 1px solid rgba(255,255,255,0.5);
+}
+
+#tr-topbox .field h4 {
+	margin: 0; padding: 0;
+	font: normal 100%;
+	color: white;
+	text-shadow: 1px 1px 2px #555555;
+}
+
+#tr-topbox .field p {
+	color: #666666;
+	font-size: 90%;
+	margin: 3px 0;
+	text-align: left;
+}
+
+#tr-topbox  input {
+	background-color:rgba(255, 255, 255, 0.9);
+	border:1px solid #ACDCA1;
+	font: 90% Verdana;
+}
+
+#tr-topbox input:focus { border-color: black; }
+
+#tr-topbox .field:hover { background-color: rgba(255,255,255,0.5); }
+#tr-topbox .field.active { background-color: rgba(255,255,255,0.8); }
+#tr-topbox .field.active h4 { color: black; text-shadow: none; }
+
+#tr-topbox .extender {
+	background-color: rgba(255,255,255,0.8);
+	color: #666666;
+	font-size: 90%;
+}
+
+#tr-topbox .extender > div {
+	display: none; /* default value */
+	padding: 14px;
+}
 
 .tr-body-borders {
 	position: fixed;

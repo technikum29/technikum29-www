@@ -53,13 +53,25 @@ t29.tr.onload = function(){
 	t29.tr.sidebar = $("#sidebar-tr");
 	t29.tr.sidebar.find(".tr-enabled .button").attr("href","#back_to_normal_mode").click(t29.tr.call("set_enabled",false));	
 	t29.tr.load_messages();
+	t29.tr.defaultvalue(); // as general system
 	// initial value
-	//t29.tr.set_enabled(true);
+	//t29.tr.set_enabled(true); // won't work any more (call t29.tr.preloader.start)
 };
 
 // helper: foobar.click(t29.tr.call(anything, value)); is shorthand for
 //         foobar.call(function(){ t29.tr.anything(value); });
 t29.tr.call = function(f, v){ return function(){ t29.tr[f](v);} };
+
+// helper: default value input elements. highly compressed selfwritten :)
+// usage: <input value="my default value bla" class="defaultvalue"/>
+t29.tr.defaultvalue = function(){
+	$("input.defaultvalue").live('focus', function(){
+		if(!(dv=(t=$(this)).data('dv'))) t.data('dv', t.val());
+		if(t.val()==dv) t.val('');
+	}).live('blur', function(){
+		if((dv=((t=$(this)).data('dv'))) && /^\s*$/.test(t.val())) t.val(dv);
+	});
+};
 
 /**
  * Tells if the translation system is started up (e.g. the user started it) or not
@@ -134,7 +146,53 @@ t29.tr.create_ui = function() {
 		
 		// create Infobox, editorbox, topnoticebox, design elements
 		$("body").append(t29.tr.msg.create_ui_body_append);
+		$("#content").before(t29.tr.msg.create_ui_topbox);
 		$.each(["infobox", "editorbox", "topbox"], function(){ t29.tr[this] = $("#tr-"+this); });
+		
+		// make topbox being fixed at top scrolling
+		var top = t29.tr.topbox.offset().top; // - parseFloat($('#comment').css('marginTop').replace(/auto/, 0))
+		$(window).scroll(function(e) {
+			var now_fixed = $(this).scrollTop() >= top;
+			// since topbox was embedded in content (not sidebar), place is
+			// removed there when switching from static to fixed. Setting the
+			// height is a workaround.
+			(p=t29.tr.topbox.parent()).css('height', now_fixed ? p.height() : '');
+			t29.tr.topbox.toggleClass('fixed', now_fixed);
+		});
+		
+		// create all event handlers in the topbox
+		
+		// Fields where clicking yields extender bar (poor man tab bar)
+		var hideall_tabs = function() {
+			t29.tr.topbox.find(".field.extends").removeClass('active');
+			t29.tr.topbox.find(".extender > div").slideUp();
+		}
+		t29.tr.topbox.find(".field.extends").toggle(function(){
+			hideall_tabs(); // make sure no other is shown
+			var extender = $(this).hasClass('name') ? 'name' : 'feedback';
+			t29.tr.topbox.find('.extender .'+extender).slideDown()
+			$(this).addClass('active');
+		}, hideall_tabs);
+
+		// User name box form
+		t29.tr.topbox.find(".name :text").keyup(function(){
+			t29.tr.settings[$(this).attr('name')] = $(this).val();
+			t29.tr.topbox.find('.name .feedback').html("<b>"+t29.tr.settings.name+"</b> from <b>"+t29.tr.settings.location+"</b>");
+			t29.tr.topbox.find('.name .stored').text(' - Thank you');
+		});
+		
+		// Edit whole page button
+		t29.tr.topbox.find('.field.editwhole').click(t29.tr.edit_whole_page);
+		t29.tr.topbox.find('.field.help').click(t29.tr.help);
+		t29.tr.topbox.find('.field.exit').click(t29.tr.call('set_enabled', false));
+		
+
+		// Create Editor UI (only once)
+		t29.tr.editorbox.html(t29.tr.msg.create_editorui_editorbox); // remove all possible old classes
+		t29.tr.editorbox.find(".cancel").click(t29.tr.stop_editing);
+		t29.tr.editorbox.find(".submit").click(t29.tr.submit_editing);
+		t29.tr.editorbox.find(".help").click(t29.tr.help);
+
 			
 		// create all wrapper elements (most important step)
 		t29.tr.settings.editable_elements().wrapInner("<span class='tr-editable'/>");
@@ -301,6 +359,16 @@ t29.tr.stop_editing = function() {
 };
 
 /**
+ * Shorthand method to start editing the whole #content area. May be called with
+ * callbacks, directly, etc. Will make sure that there is no other editor.
+ **/
+t29.tr.edit_whole_page = function() {
+	t29.tr.set_editing(false); // make sure there is no other editor
+	$("#content").wrapInner("<div class='tr-editable'/>");
+	t29.tr.set_editing( $("#content > .tr-editable") );
+};
+
+/**
  * Button callback for Submitting in the Editor engine. This will compose the
  * HTTP POST call and send it via AJAX. Especially it immediately returns.
  **/
@@ -369,15 +437,14 @@ t29.tr.submit_successful = function(server_data) {
  * set_editing(true) call, since it also cleans up :)
  **/
 t29.tr.create_editorui = function() {
-	t29.tr.editorbox.append(t29.tr.msg.create_editorui_editorbox).removeClass(); // remove all possible old classes
-	t29.tr.editorbox.find(".cancel").click(t29.tr.stop_editing);
-	t29.tr.editorbox.find(".submit").click(t29.tr.submit_editing);
-	t29.tr.editorbox.find(".help").click(t29.tr.help);
+	// Basic initial setup of the editorbox (HTML, callbacks) is already done in general UI)
+
 	
-	t29.tr.editorbox.css({
-		top: t29.tr.editor.offset().top - t29.tr.editorbox.outerHeight(),
-		left: t29.tr.editor.offset().left,
-		width: t29.tr.editor.width()
+	t29.tr.editorbox.removeClass()
+		.css('width', t29.tr.editor.width()) // IMPORTANT - to be done before outerHeight() call
+		.css({
+			top: t29.tr.editor.offset().top - t29.tr.editorbox.outerHeight(),
+			left: t29.tr.editor.offset().left
 	}).show();
 };
 

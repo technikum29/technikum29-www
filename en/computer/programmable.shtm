@@ -51,7 +51,7 @@
 
     <div class="box left clear-after">
        <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
-       <div class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. The <a class="go" href="storage-media.shtm#delay-line-memory">delay line memory</a> was used as storage media.</div>
+       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. The <a class="go" href="storage-media.shtm#delay-line-memory">delay line memory</a> was used as storage media.</p>
     </div>
 
 	<h3>WANG 320</h3>

@@ -825,7 +825,7 @@ h2, html>body #page h2 {
     padding: 0;
 }
 
-#content h2, #content h3 {
+#content h2, #content h3, #content h4 {
     /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
        auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
     font-weight: normal;
@@ -837,6 +837,14 @@ h2, html>body #page h2 {
 #content h3 {
     /* Und das gleiche auch fuer Unter-Ueberschriften */
     font-size: 140%;
+	margin: 2em 0 0.3em;
+}
+
+#content h4 {
+	font-weight: bold;
+	font-size: 100%;
+	border-bottom: 1px solid #aaa;
+	margin: 2.3em 0 1em;
 }
 
 p { text-align: justify; }

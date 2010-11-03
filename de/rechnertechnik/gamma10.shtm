@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 3"
    --><!--#set var="next"         value="univac9200.shtm"
    --><!--#set var="next_title"   value="Univac 9200"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />
@@ -23,7 +23,8 @@
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
 		<p class="bildtext"><b>BULL Gamma 10 &nbsp;  EDV-Anlage</b></p></div>
 		
-			<p>1963 brachte BULL (General Electric) den GAMMA 10 (G10) auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3). Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.
+			<p>1963 brachte BULL (General Electric) den GAMMA 10 (G10) auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3) und der erste von Bull selbst entwickelte Computer der 2. Generation.<br>
+			Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.
 		    <br/>Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher ist ein Kernspeicher der wahlweise 1kB bis maximal 4 kB Kapazität hatte. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.
 		    <br/>Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).
 		</p>

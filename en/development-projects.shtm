@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="news.shtm"
    --><!--#set var="next_title"   value="What's new?"
    -->
-     <title>technikum29 - <!--#echo var="title" --></title>
+     <title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
 
@@ -30,7 +30,7 @@ software efforts, like routed PCBs, kernel drivers and microcontrollers.
   <!-- Done: -->
   <!--<li>punch card I/O with AVR ATmega microcontrollers via RS232 to computers,
       Qt platform independent processing, with various hardware</li>-->
-  <li>Analex printer interface to the Bull Gamma 10 computer (uC based)</li>
+  <li>Anelex printer interface to the Bull Gamma 10 computer (uC based)</li>
 </ul>
 <br/>
 
@@ -64,21 +64,19 @@ driver to emulate the right communication behaviour for the punch card devices.<
 <p>Development started on the free GNU/Linux Operating System where we used the ppdev
 framework of the Linux 2.6 kernel series to program a user space driver in the programming
 language C with a little effort compared to a real kernel space driver.</p>
-
+<div class="desc-right">
+   <img src="/shared/photos/rechnertechnik/facit4070.jpg" width="192" height="313" alt="Photography of the paper tape puncher FACIT 4070" />
+   <p class="bildtext" style="width:192px;">The legendary puncher <b>FACIT 4070</b></p>
+</div>
 <p>The parallel port consists of three 8-bit hardware registers: a bidirectional data
 register, a control register and a signal register. Since paper tapes are made of
 8-bit words (octetts), we just connected these eight bits on the data register to save
 them directly to one byte in the computer. Using the control and signal pins, we could
 implement a interrupt (device cycle) driven communication, since the status register
 features one interrupt enabled bit (strobe). Our devices punch at 80 chars/sec and read in
-250 chars/sec, so even older PCs can easily run the driver programs.</p>
+250 chars/sec, so even older PCs can easily run the driver programs.<br>
 
-<div class="desc-right">
-   <img src="/shared/photos/rechnertechnik/facit4070.jpg" width="144" height="196" alt="Photography of the paper tape puncher FACIT 4070" />
-   <p class="bildtext" style="width:145px;">The legendary puncher <b>FACIT 4070</b></p>
-</div>
-
-<p>As already told, there's not really the question how to model punched papers on
+As already told, there's not really the question how to model punched papers on
 computers, since they use the same word length (8 bit) and computer files are
 conceptually the same as paper tapes: byte arrays. A 250 byte binary file therefore
 represents a 250 chars long punched paper. Thus processing punch card files

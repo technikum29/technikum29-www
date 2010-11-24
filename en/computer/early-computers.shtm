@@ -54,14 +54,14 @@
         <div class="bildtext">
             <h3>PDP-8I</h3>
             <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
-             its own (in the middle of the picture) without periphery costed 27000$ at that time.<br/>
+             its own (in the middle of the picture) without peripherals cost $27000 at that time.<br/>
              The main memory had a capacity of 8kB. While calculating a "bigger" problem, possibly some files
              (programs, data) had to be swapped on a (magnetic) tape and read in afterwards. DEC developed
              a very intelligent operating system (OS/8) which could work very efficiently with such few memory.
              It is very interesting to watch this computer working.</p>
             <p>If you have not yet seen such a computer, you should know that it is more than 2m high (with
              plotter) and has a weight of more than 300 kg.</p>
-            <p>The periphery constists of 2 x TU 55 (tape drives), PC 04 (high speed paper tape reader),
+            <p>The peripherals consist of two TU 55 (tape drives), PC 04 (high speed paper tape reader),
              Calcomp 563 plotter (at the top) and of course a teletype (not in the picture).</p>
         </div>
     </div>
@@ -71,19 +71,19 @@
         <div class="bildtext">
 			<h3 id="pdp12">PDP-12, LAB-12</h3>
 			<p>The PDP-12 was released in 1969. It was the last series that
-			could operate in Link modus (it could be switched to either Link-8
+			could operate in Link mode (it could be switched to either Link-8
 			or PDP-8). This is a laboratory computer, equipped with AD and DA
 			converter as standard. Such computers were usually kept up to date
 			with hardware updates. The memory of this device was gradually
 			increased from 8kB up to 32kB (DW 08E storage extension).
-			<br>Beside the tape drives, the computer was also equipped with
+			<br>Besides the tape drives, the computer was also equipped with
 			an 8-inch floppy drive. Afterwards they were removed again in
 			favor of two removable disk drives. Finally they even tied the
 			device to 10BASE-T ethernet, using a selfmade controller with an
 			handwritten TCP/IP stack on a selfmade operating system.
-			Thus this device can demonstrate the era of paper tapes until
+			Thus this device can demonstrate the era from paper tapes up to
 			today's storage standard.
-			<br>We will repair it and report further details at this point.</p>
+			<br>We will repair it and report further details at that point.</p>
 		</div>
 	</div>
 	
@@ -92,11 +92,11 @@
         <!-- other picture -->
         <div  class="bildtext">
             <h3>Lab-8e, PDP-8e</h3>
-            <p>Successor of the PDP-8i was the PDP-8e (1970). This computer had already an
-             internal bus system. So you could easily attach any periphery with interface cards. This
-             feature made the "Mini"computer all-purpose. This Computer type was offered with diverse
-             A/D- and D/A-converters and connection facilities as laboratory computer for analogue
-             devices (shown in the picture). The periphery is:</p>
+            <p>The successor of the PDP-8i was the PDP-8e (1970). This computer came with an
+             internal bus system, so you could easily attach any peripherals using interface cards. This
+             feature made the "mini"-computer all-purpose. This computer type was offered with diverse
+             A/D- and D/A-converters and connection facilities as a laboratory computer for analogue
+             devices (shown in the picture). The peripherals are:</p>
             <ul>
                 <li>VR 12 (oscilloscope display)</li>
                 <li>PC 04 (High speed paper tape reader/puncher)</li>
@@ -107,15 +107,15 @@
     </div>
 
     <h3>WANG 2200 with bulky peripheral hardware</h3>
-    <p>Furthermore the first system that looks like a today's computer is connected: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. The computer with so much peripheral devices is propably unique in Germany. The periphery: paper tape reader, reader for stacked cards, 8-inch triple disc drive, disc system with 38cm big disks (the device has a weight of 100kg and costed 24.000,- DM whereas it only saved 5MB), special basic-keyboard, etc.</p>
-    <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP built his
-    computers only with a single LED display until 1975.</p>
+    <p>Next, the first system that looks like today's computer is presented: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. This computer, with so many peripheral devices, is probably unique in Germany. The peripherals: paper tape reader, punch card reader,  triple 8-inch disc drive, hard disc system with 38cm diameter disks (the device weights 100kg and cost 24000 DM, but only holdy 5MB), special BASIC-language keyboard, etc.</p>
+    <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP
+    computers had only a single-line LED display until 1975.</p>
 
     <div class="box center">
        <a href="/en/devices/wang2200.shtm" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200_komplettanlage.jpg" width="474" height="325" alt="Wang 2200" /></a>
     </div>
 
-    <p>The first personal computer was also build by WANG: PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as a today's PC but saved 8kB and had decent applications. Many more Homepcomputer followed, the market got out of hand and therewith the collection of computers ends.</p>
+    <p>The first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>
      
      <p>See further details at <a class="go" href="/en/details2.shtm" title="Details 2">the tabular overview of
      mid range data processing equipment and proffessional early computers</a>.</p>

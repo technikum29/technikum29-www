@@ -26,10 +26,10 @@
     <p>
 	   After the <a href="/en/computer/electron-tubes.shtm">ANITA tube calculator</a>,
 	   the development of transistorised second-generation calculators began. Due to the
-	   increasing number of users, the development was very lucrative, even facing the
+	   increasing number of users, the development was very lucrative, even considering the
 	   enormous costs.
-	   <br>Every company that released a device designed completely another architecture.
-	   Soon afterwards, many different concepts emerged. The following devices are a
+	   <br>Every company that released a device designed a completely new architecture.
+	   Many different concepts emerged. The following devices are a
 	   selection of very early devices (year of manufacture 1964-1965).
 	</p>
 
@@ -38,13 +38,13 @@
         <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="694" height="415" />
         <p class="bildtext">
 		   <b>IME 84</b> (<i>Industria Macchine Elettroniche</i>) was the world's first
-		   desk calculator using transistors. This was an enormous progress, compared to the ANITA.
-           Using a <a href="/en/computer/storage-media.shtm#Core_memory">core memory</a>, there was
+		   desk calculator using transistors. This represented enormous progress, compared to the ANITA.
+           Using <a href="/en/computer/storage-media.shtm#Core_memory">core memory</a>, there was
 		   much more memory, allowing many more application fields.
            <br>This calculator is at least able to exponentiate a number, but it cannot yet extract
 		   a root.
-		   <br>The design of this device is quite appealing. In comparisation, the german device made
-		   by Olympia looks ungracefully.
+		   <br>The design of this device is quite appealing. In comparison, the German device made
+		   by Olympia looks ungraceful.
 		</p>
     </div>
 	<div class="box left clear-after">
@@ -52,9 +52,9 @@
 		<p class="bildtext">
 		   The device has a strange interface on the left side to connect the <b>ROBOX 103</b>
 		   (see picture on the left). Using this small device, one could enter numbers much faster.
-		   Turing the switch to "Addition" enables auto-addding the number just entered after a short
-		   timeout. This yields the great disadvantage: If the operator was too slow (or made some
-		   short break), only parts are taken over in the memory, without any response. Thus the complete
+		   Turning the switch to "Addition" enables auto-adding the number just entered after a short
+		   timeout. This yields a great disadvantage: If the operator was too slow (or made some
+		   short break), only parts were taken in the memory, without any feedback. Thus the complete
 		   calculation was error-prone. The successor "IME 86" therefore didn't feature an ROBOX
 		   interface any more.
 		</p>
@@ -65,11 +65,11 @@
 		<img src="/shared/photos/rechnertechnik/canola-130.jpg" alt="The Canola 130 (above in closed state, below opened, from the back)" width="380" height="575" />
 		<img src="/shared/photos/rechnertechnik/canola-display.jpg" alt="Canola 130 display macro photography" width="148" height="138" />
 		<p class="bildtext">
-			In 1964, Canon built the first electronical desk calculator of Japan, using germanium transistors
-			and flip flop memories. Optically it looks like a prototype.
-			The whole back of the device consists of very big boards. They are not stucked, but soldered, at the
+			In 1964, Canon built the first Japanese electronic desk calculator, using germanium transistors
+			and flip-flop memories. Visually it looks like a prototype.
+			The whole back of the device consists of very big boards. They are not plugged in, but soldered, at the
 			cost of ease of service. This was typical for the year 1964, when companies tried to get their device
-			as fast as possible on the global market.
+			onto the global market.
 			<br>The display is remarkable. Instead of using Nixie tubes, the device features 143 lamps and a lot of
 			light conductors to create digits and the decimal point. The only advantage of this technology over
 			Nixie tubes is the appealing luminescent paint.
@@ -83,20 +83,20 @@
 	</div>
 
 	<p>
-	    The <b>Olympia-Werke AG</b> (Germany) invented the "Elektronischen Vierspezies-Rechenautomat" (electronical
+	    The <b>Olympia-Werke AG</b> (Germany) invented the "Elektronischen Vierspezies-Rechenautomat" (electronic
 		calculator for adding, substracting, multiplying and dividing). The distinctive feature was floating point
 		arithmetic, 3 ALUs, 1 storage unit and 3 "memory units" (3 random use registers).
-		The device contains a 384 bit manually threaded core memory, Germanium transistors and Nixie tubes, but no
+		The device contains a 384 bit manually threaded core memory, germanium transistors and Nixie tubes, but no
 		external interface. Therefore users could not store or load programs. Olympia missed this important step,
-		thus the calculator became obsolete soon. The design was also quite outdated - the device turns yellow
+		so the calculator became obsolete soon. The design was also quite outdated, and the device turns yellow
 		quickly in the sun.
-    	<br>The same device was reselled in the USA by <b>Monroe</b> with the type number 770.
+    	<br>The same device was resold in the USA by <b>Monroe</b> with the model number 770.
 	</p>
 	<p>
 	    The legendary <b>WANDERER-WERKE AG</b> were a typical company specialized on office machines and launched
-		the WANDERER CONTI in 1965. You can read the original prospect of the <a class="go" href="/en/devices/wanderer_conti.shtm"
-		title="Wanderer Conti original brochure">"first printing electonic universal automate"</a>. This leading role
-		did only last for some weeks, since Olivetty and Diehl continuously followed.
+		the WANDERER CONTI in 1965. You can read the original prospectus <!--sic--> of the <a class="go" href="/en/devices/wanderer_conti.shtm"
+		title="Wanderer Conti original brochure">"first printing electonic universal automaton"</a>. This leading role
+		did only lasted for a few weeks, since Olivetti and Diehl followed close behind.
 	</p>
 
 	<!--
@@ -112,20 +112,20 @@
         <p class="bildtext center"><b>FRIEDEN 130</b></p>
 	</div>
 	<p>
-	    The american <b>Friden Calculating Machine Company</b> was already pioneer in desk
-		calculation technology: In the mid-50s they built the first mechanical calculator
-		in series that was able to extract a root.
+	    The American <b>Friden Calculating Machine Company</b> was already a pioneer in desk
+		calculator technology: in the mid-50s they built the first mechanical calculator in series
+		that was able to extract a root.
 	</p>
 	<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/friden-display.jpg" alt="Display des Friden 130" width="274" height="134" />
 		<p class="bildtext">
 		    The <b>FRIDEN 130</b> was announced in 1964. It was the first desktop calculator featuring a
-		    CRT display using an oscillocope tube to display the contents of four internal registers of the machine.
+		    CRT display, using an oscillocope tube to display the contents of four internal registers of the machine.
 	        The memory is based on a <a class="go" href="storage-media.shtm#Magnetostrictive_memory">magnetostrictive line</a>.
             <br />The overall design of the calculator is quite futuristic - the machine might well be found in
 		    a space travel movie of that time. The smallest model featuring only the four basic arithmetic
 		    operations was sold for about 5000 DM while the larger model, the FRIDEN 132, which included a
-		    square root function was priced at 6700 DM.
+		    square root function, was priced at 6700 DM.
 		</p>
     </div>
 

@@ -20,15 +20,16 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-      <p>The development of IC-technology 1967/68 came along with the development of
-      high-perfomance calculators. We have also arrayed the world's most expensive desk calculator:
-      WANG 700. This device outshined everything other on the market (costed with very extensive
-      periphery much more than 70.000,-&nbsp;DM or 35.000,-&nbsp;Euro).
-      Furthermore the first alphanumerically displaying calculator (HP 9820, 1971) and the
+      <p>With the development of IC-technology 1967/68 brought along with the development of
+      high-performance calculators. We have also arrayed what was among other things the
+	  world's most expensive desk calculator: the WANG 700. This device outshined everything
+	  else on the market (costing with very extensive
+      peripherals well over 70000&nbsp;DM or 35000&nbsp;Euro).
+      Furthermore the first calculator with an alphanumeric display (HP 9820, 1971) and the
       world's first BASIC-programmable desk calculator (HP 9830, 1972) are installed.
-      With these systems you can marvellously plot function graphes together with its label.
-      Three years before something like this was unimaginable!
-      1971 the first scientifically programmable "pocket calculators" with the size of
+      With these systems you can marvellously plot function graphs together with labels.
+      Three years before something like that was unimaginable!
+      In 1971 the first scientifically programmable "pocket calculators" with the size of
       a matchbox came on the market, too.
       See also: <a class="go" href="/en/details1.shtm" title="Details 1">Tabular list of desk calculators</a></p>
 

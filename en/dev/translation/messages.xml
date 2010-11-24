@@ -88,8 +88,8 @@
 			<div class="extender">
 				<div class="name">
 					If you want, you can publish your name at the end of this page.
-					<br/>Your Name: <input type="text" name="name" class="defaultvalue" value="e.g. H. Omaba" />,
-					your Location: <input type="text" name="location" class="defaultvalue" value="e.g. Chicago, IL" />
+					<br/>Your Name: <input id="tr-username" type="text" name="name" class="defaultvalue" value="e.g. H. Omaba" />,
+					your Location: <input id="tr-userlocation" type="text" name="location" class="defaultvalue" value="e.g. Chicago, IL" />
 					<span class="stored"></span>
 				</div>
 				<div class="feedback">
@@ -98,7 +98,7 @@
 					<a href="http://dev.technikum29.de" target="_blank">Development Portal</a> for
 					the backyard of technikum29 homepage engineering and translation.
 					
-					<form method="post" action="http://dev.technikum29.de/cgi-bin/mail.php">
+					<form method="post" action="http://dev.technikum29.de/cgi-bin/mail.php" target="_blank">
 						<input type="hidden" name="to" value="dev" />
 						<input type="hidden" name="subject" value="t29 translation system feedback" />
 						<input type="hidden" name="out_heading" value="Thank you for your corrections" />

@@ -405,7 +405,9 @@ t29.tr.submit_editing = function() {
 			initial_text: t29.tr.initial_editor.text().replace(/\s+/g,' '),
 			initial_html: t29.tr.initial_editor.html(),
 			new_text: t29.tr.editor.text().replace(/\s+/g,' '),
-			new_html: t29.tr.editor.html()
+			new_html: t29.tr.editor.html(),
+			user_name: $("#tr-username").val(),
+			user_loc: $("#tr-userlocation").val()
 		}
 	});
 	

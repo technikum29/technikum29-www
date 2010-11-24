@@ -23,6 +23,8 @@ $initial_text = get("initial_text");
 $initial_html = get("initial_html");
 $new_text = get("new_text");
 $new_html = get("new_html");
+$user_name = get("user_name", "not given");
+$user_loc = get("user_loc", "not given");
 
 // spamschutz
 if(!$source) {
@@ -74,6 +76,11 @@ Something about the user:
 	Referer: $_SERVER[HTTP_REFERER]
 	Agent:   $_SERVER[HTTP_USER_AGENT]
 	IP:      $_SERVER[REMOTE_ADDR]
+
+User given credentials:
+
+	Name: 	$user_name
+	Loc:	$user_loc
 HERE;
 
 // Send mail right now

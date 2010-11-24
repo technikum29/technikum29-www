@@ -5,11 +5,11 @@
    --><!--#set var="location"     value="lochkarten"
    --><!--#set var="part"         value="computer"
    --><!--#set var="url_de"       value="rechnertechnik/lochkarten-edv.shtm"
-   --><!--#set var="prev"         value="univac9200.shtm"
-   --><!--#set var="prev_title"   value="UNIVAC 9200"
-   --><!--#set var="next"         value="electron-tubes.shtm"
-   --><!--#set var="next_title"   value="Desk calculators with electron tubes"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+   --><!--#set var="prev"         value="ic-technology.shtm"
+   --><!--#set var="prev_title"   value="Programmable third-generation calculators with early IC-technology"
+   --><!--#set var="next"         value="tabulating-machine.shtm"
+   --><!--#set var="next_title"   value="BULL Tabulating machine"
+ --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />
@@ -77,7 +77,7 @@
            electronically. Most likely, Univac wanted to trump IBM with this
            trendsetting device. The device's internals are very elaborate, but offer
            many advantages, compared to usual apperatures at that time:
-           <br/>It featured CORE memory of 12x80x2 cells for both data and programs. It could
+           <br/>It featured a core memory with 12 x 80 x 2 cells for both data and programs. It could
            handle two programs and one data storage. Programming
            was performed automatically once program cards have been inserted, and
            programs could be changed at the touch of a key. The device furthermore
@@ -86,9 +86,12 @@
            only after all entries were in storage. Verifying and correction comprised
            a one-pass operation. Verified cards were uniquely notched while error
            cards were automatically ejected to a separate stacker.
-           <br/>The device also features a large illuminated digital display witch curent the position
-		   column, furthermore the device could be used for subsequent card labeling. However, the 	      device had always mechanical problems: The type wheel print was not of a good quality and the
-           card feeding could easily stop working when the adjustment wasn't perfectly fitting.
+           <br/>The device also features a large illuminated digital display that
+           indicates which program is in control, furthermore the device could be
+           used for subsequent card labeling. However, the device had always
+           mechanical problems: The type wheel print was of bad quality and the
+           card feeding could easily stop working when the adjustment wasn't
+           perfectly fitting.
     </p>
 
 	

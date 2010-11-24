@@ -90,7 +90,7 @@
 					If you want, you can publish your name at the end of this page.
 					<br/>Your Name: <input id="tr-username" type="text" name="name" class="defaultvalue" value="e.g. H. Omaba" />,
 					your Location: <input id="tr-userlocation" type="text" name="location" class="defaultvalue" value="e.g. Chicago, IL" />
-					<span class="stored"></span>
+					<span class="button red cancel">Cancel</span>
 				</div>
 				<div class="feedback">
 					Use this text field to report bugs, make suggestions or comment this language

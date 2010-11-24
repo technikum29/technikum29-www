@@ -156,14 +156,14 @@ t29.tr.create_ui = function() {
 		
 		// make topbox being fixed at top scrolling
 		var top = t29.tr.topbox.offset().top; // - parseFloat($('#comment').css('marginTop').replace(/auto/, 0))
-		$(window).bind("scroll.t29tr", function(e) {
+		$(window).bind("scroll.t29tr", topboxscrollf=function() {
 			var now_fixed = $(this).scrollTop() >= top;
 			// since topbox was embedded in content (not sidebar), place is
 			// removed there when switching from static to fixed. Setting the
 			// height is a workaround.
 			(p=t29.tr.topbox.parent()).css('height', now_fixed ? p.height() : '');
 			t29.tr.topbox.toggleClass('fixed', now_fixed);
-		});
+		}).scroll(); // fire it
 		
 		// create all event handlers in the topbox
 		
@@ -183,8 +183,9 @@ t29.tr.create_ui = function() {
 		t29.tr.topbox.find(".name :text").keyup(function(){
 			t29.tr.settings[$(this).attr('name')] = $(this).val();
 			t29.tr.topbox.find('.name .feedback').html("<b>"+t29.tr.settings.name+"</b> from <b>"+t29.tr.settings.location+"</b>");
-			t29.tr.topbox.find('.name .stored').text(' - Thank you');
+			t29.tr.topbox.find('.name .stored').text('Thank you');
 		});
+		t29.tr.topbox.find(".name .stored").click(hideall_tabs);
 		
 		// Edit whole page button
 		t29.tr.topbox.find('.field.editwhole').click(t29.tr.edit_whole_page);

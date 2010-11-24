@@ -9,8 +9,9 @@
    --><!--#set var="prev_title"   value="BULL GAMMA 10"
    --><!--#set var="next"         value="univac9400.shtm"
    --><!--#set var="next_title"   value="UNIVAC 9400 mainframe computer, data center"
-   --><!--#set var="credits"      value="B. Obama / Washington&nbsp;D.C.<li>M. Moore / Great Britain<li>N. Furthermore / Nevada" 
- --><title>technikum29 - <!--#echo var="title" --></title>
+   --><!--#set var="credits"      value="" -->
+   <!-- Credits like this: B. Obama / Washington&nbsp;D.C.<li>M. Moore / Great Britain<li>N. Furthermore / Nevada-->
+   <title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="t29.SVN" content="$Id$" />

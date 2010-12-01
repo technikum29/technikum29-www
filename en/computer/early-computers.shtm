@@ -48,11 +48,11 @@
          <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a>
          (<u>flank</u>). The core memory is set above (storage capacity 4kB).-->
     </p>
-
+  <h3>PDP-8I</h3>
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
         <div class="bildtext">
-            <h3>PDP-8I</h3>
+            
             <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
              its own (in the middle of the picture) without peripherals cost $27000 at that time.<br/>
              The main memory had a capacity of 8kB. While calculating a "bigger" problem, possibly some files
@@ -66,10 +66,13 @@
         </div>
     </div>
 
-	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
-        <div class="bildtext">
-			<h3 id="pdp12">PDP-12, LAB-12</h3>
+	<h3 id="pdp12">PDP-12, LAB-12</h3>
+ <div class="box left">
+      <img src="/shared/photos/rechnertechnik/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
+ </div>
+ <div class="box center" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Keyboard" />
+ </div>
 			<p>The PDP-12 was released in 1969. It was the last series that
 			could operate in Link mode (it could be switched to either Link-8
 			or PDP-8). This is a laboratory computer, equipped with AD and DA
@@ -84,14 +87,14 @@
 			Thus this device can demonstrate the era from paper tapes up to
 			today's storage standard.
 			<br>We will repair it and report further details at that point.</p>
-		</div>
-	</div>
+		
 	
+	 <h3>Lab-8e, PDP-8e</h3>
     <div class="box left clear-after">
         <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
         <!-- other picture -->
         <div  class="bildtext">
-            <h3>Lab-8e, PDP-8e</h3>
+            
             <p>The successor of the PDP-8i was the PDP-8e (1970). This computer came with an
              internal bus system, so you could easily attach any peripherals using interface cards. This
              feature made the "mini"-computer all-purpose. This computer type was offered with diverse
@@ -112,7 +115,7 @@
     computers had only a single-line LED display until 1975.</p>
 
     <div class="box center">
-       <a href="/en/devices/wang2200.shtm" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200_komplettanlage.jpg" width="474" height="325" alt="Wang 2200" /></a>
+       <a href="/en/devices/wang2200.shtm" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200.jpg" width="592" height="402" alt="Wang 2200" /></a>
     </div>
 
     <p>The first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>

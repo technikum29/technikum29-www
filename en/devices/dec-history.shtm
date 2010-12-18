@@ -10,15 +10,11 @@
    --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
+   --><!--#set var="credits"      value="M. Kaye / Ann Arbor, MI, USA" 
    --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="22.08.2008/v5.8FINAL" />
-    <meta name="t29.thistranslation" content="22.08.2008/v5.8.0FINAL" />
-    <meta name="t29.comment" content="Initial translation" />
-    <!--changelog: 23.08.2007/v5.7.5 based on 08.2007/v5.7FINAL": Extraseite neustrukturiert -->
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -27,16 +23,16 @@
 
 <div class="cols">
  <div class="leftcol">
-   <p>Everything started with just an idea: A young engineer from the famous <i>Massachusetts Institute of Technology</i> had seen the novel computer <em>Whirlwind</em> which worked fundamentally different to the common <em>Eniac</em> computer generation at the Lincoln Lab.
-     <br/>While <em>Eniac</em> computers used batch processing, the new computer implemented the idea of <em>interactive computing</em>.</p>
+   <p>It all began with an idea: A young engineer from the famous <i>Massachusetts Institute of Technology</i> had seen the novel computer <em>Whirlwind</em>, that worked in a way which was fundamentally different to the common <em>Eniac</em> computer generation at the Lincoln Laboratory.
+     <br/>While <em>ENIAC</em> computers used batch processing, the new computer implemented the idea of <em>interactive computing</em>.</p>
  
-    <p>At first sight he recognized the advantages of the new form of computer interaction and the possibilities for even inexperienced computer users. The name of this man was Ken Olsen. His aim was to build an interactive computer for all purposes.
-	    <br/>In August 1957, he founded a small company with three collaborators. He named the new company <em>Digital Equipment Corporation</em>. This name was chosen to obscure his real targets. The big and well-established enterprises like IBM should think that DEC just builds auxillary devices.</p>
+    <p>At first sight he recognized the advantages of the new form of computer interaction and the possibilities that existed for even inexperienced computer users. The name of this man was Ken Olsen. His aim was to build an all-purpose interactive computer for all purposes.
+	    <br/>In August 1957, he founded a small company with three collaborators. He named the new company <em>Digital Equipment Corporation</em>. This name was chosen to obscure his real intention. The big and well-established enterprises like IBM should think that DEC just builds auxillary devices.</p>
 
-    <p>Three years later, in 1960, Digital presented the first commercial interactive "mini" computer. This was the first PDP system (Programmable Data Processor). It used a word length of 18 bit and costed approx. US$ 120,000. Digital selled only 53 units.</p>
+    <p>Three years later, in 1960, Digital presented the first commercial, interactive, <em>mini</em>-omputer. This was the first PDP system (Programmable Data Processor). It used a word length of 18 bits, at a cost of approx. US$ 120,000. Only 53 units were sold.</p>
 
-	<p>The begin of mass producing mini computers represents the next milestone. In 1965 Digital presented this first mass produced PDP, called PDP-8. It was sensationally cheap and costed only US$ 18,000.
-	   <br/>Successors of this hit series were the PDP 8I (1967, first computer featuring TTL ICs), PDP 8L (1968, low cost version), PDP 8e (1970, first computer with bus system), later on the PDP 8a and DEC Mate Systems were produced.</p>
+	<p>The start of mass-produced mini computers represened the next milestone. In 1965, Digital presented this first mass produced PDP, the PDP-8. It was sensationally cheap and costed only US$ 18,000.
+	   <br/>Successors of this hit series were the PDP 8I (1967, the first computer featuring TTL ICs), PDP 8L (1968, low cost version), PDP 8e (1970, the first computer with a bus system), later, the PDP 8a and DEC Mate Systems were produced.</p>
 
 </div><!-- leftcol -->
 <div class="rightcol">
@@ -45,9 +41,9 @@
 
 <dl>
 <dt>1963</dt>
-  <dd>In the German city Munich the first european Digital branch office opened. The first mini computer of the world, the 12 bit computer PDP-5 was announced.</dd>
+  <dd>In the German city of Munich the first European Digital branch office opened. The first minicomputer of the world, the 12-bit computer, PDP-5 was announced.</dd>
 <dt>1966</dt>
-  <dd>The first Digital shares are selled.</dd>
+  <dd>The first Digital shares are sold.</dd>
 <dt>1967</dt>
   <dd>Digital has 50 branches in 11 countries worldwide. The number of employees increases up to 2,600.</dd>
 <dt>1969</dt>

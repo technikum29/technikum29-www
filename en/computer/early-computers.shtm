@@ -9,6 +9,7 @@
    --><!--#set var="prev_title"   value="Early commercial computers"
    --><!--#set var="next"         value="analog.shtm"
    --><!--#set var="next_title"   value="Analog and hybrid computers"
+   --><!--#set var="credits"      value="M. Kaye / Ann Arbor, MI, USA" 
  --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
@@ -36,11 +37,12 @@
 	</div>
 	
 	<p>
-         One of the museal highlights: The complete PDP-8 system with processor,
-         big tape deck TU 580 (originally belongs to the PDP-5, year of manufacture
-         1963), punch card reader/puncher PC 01, hard disc DF 32 with immovable heads
-         and a teletype as printer. The Classic PDP-8 is called the world's first mass-produced
-         "minicomputer". Without ICs or their ancestor it is a seccond-generation apparature.
+         One of the museum highlights: The complete PDP-8 system with processor,
+         a big tape deck TU-580 (originally belonged to the PDP-5, manufactured in 1963),
+         punch card reader/puncher PC-01, hard-disc DF-32 with immovable heads
+         and a teletype as printer. The Classic PDP-8 is considered the world's first mass-produced
+         "minicomputer". Due it's use of ICs, unlike its predecessors, it is considered
+		 a second-generation computer.
          <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
          strong men can lift the computer. It is better to have four people to carry it!.
@@ -54,15 +56,15 @@
         <div class="bildtext">
             
             <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
-             its own (in the middle of the picture) without peripherals cost $27000 at that time.<br/>
-             The main memory had a capacity of 8kB. While calculating a "bigger" problem, possibly some files
-             (programs, data) had to be swapped on a (magnetic) tape and read in afterwards. DEC developed
-             a very intelligent operating system (OS/8) which could work very efficiently with such few memory.
+             alone (pictured in the center) without peripherals cost $27000 at that time.<br/>
+             The main memory had a capacity of 8kB. While computing a "larg" problem, it was possible to swap
+             programs or data to files on magnetic tape and read in afterward be reread. DEC developed
+             an intelligent operating system (OS/8) which worked very efficiently with such little memory.
              It is very interesting to watch this computer working.</p>
-            <p>If you have not yet seen such a computer, you should know that it is more than 2m high (with
-             plotter) and has a weight of more than 300 kg.</p>
-            <p>The peripherals consist of two TU 55 (tape drives), PC 04 (high speed paper tape reader),
-             Calcomp 563 plotter (at the top) and of course a teletype (not in the picture).</p>
+            <p>If you have not been in the presence of this computer, you should know that it is quite large.
+             With the plotter, it stands at a height of almost 7' (2m) and weighting at more than 600 lbs (300kg).</p>
+            <p>The peripherals consist of two TU-55 (tape drives), a PC-04 (high speed paper tape reader),
+             Calcomp 563 plotter (at the top) and of course a teletype (not pictured).</p>
         </div>
     </div>
 

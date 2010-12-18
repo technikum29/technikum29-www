@@ -37,8 +37,8 @@ if(!$source) {
 $pagename = preg_match("#/([^/]+?)(\.[a-z]+)?$#i", $page, $pageparts) ? $pageparts[1] : false;
 
 // setup mail
-$to = "sven";
-$to .= "@technikum29.de"; // spamschutz (svn!)
+$to = "sven@, heribert@";
+$to = str_replace('@', "@technikum29.de", $to); // spamschutz (svn!)
 $subject = "t29 translation submission";
 if($pagename) $subject .= " for $pagename";
 $message = <<<HERE

@@ -11,9 +11,6 @@
    -->
     <title>technikum29 - <!--#echo var="title" --></title>
 
-    <!-- komischer Counterkram (seit 2009) -->
-    <script type="text/javascript" src="/shared/js/counter.js"></script>
-
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum29, Technikmuseum, Computermuseum, Museum, Main-Taunus" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />

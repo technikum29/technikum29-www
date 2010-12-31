@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Didaktische Konzeption, Lehrerinfo"
    --><!--#set var="next"         value="tontechnik.shtm"
    --><!--#set var="next_title"   value="Tonaufnahme- und Wiedergabetechnik"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
@@ -93,8 +93,29 @@ Das folgende Gerät konnte man schon an den Haushaltsstrom anschließen. Damit ent
         <img src="/shared/photos/kommunikationstechnik/metz,koffer.jpg" width="400" height="333" alt="Fotografie des Kofferradios von Metz" />
         <p class="bildtext">Schnell noch ein riesiger Zeitsprung zum j&uuml;ngsten Modell des Museumsbestandes: Der Kofferempf&auml;nger von Metz mit eingebautem Plattenspieler. Das 1956 gebaute Ger&auml;t ist nat&uuml;rlich noch mit R&ouml;hren best&uuml;ckt. Damit konnte man seine "Elvis Presley"-Platten im Schwimmbad abspielen. Jedoch war das Vergn&uuml;gen f&uuml;r Jugendliche wegen der hohen Anschaffungs- und Batteriekosten kaum erschwinglich.</p>
     </div>
-</div>
 
+	<h3 id="rad">Der Radiomann   -  tüfteln in der Nachkriegszeit</h3>
+<div class="box center clear-after">
+        <img src="/shared/photos/kommunikationstechnik/radiomann.jpg" width="600" height="377" alt="Bild des Radiomann" /></div>
+		<p>In der Zeit nach 1945 gab es kaum Technik-Spielzeug. Die Hoch-Zeit der Dampfmaschine war schon vorbei, Metallbaukästen gab es vereinzelt, doch hier konnte man nicht viel Neues lernen.<br>
+		"Kosmos" erkannte die Lücke und bot die seit den 30er Jahren vertriebenen Lehrbaukästen fast unverändert wieder an.<br>
+		So steht in der Anleitung: "Der Radiomann ist der gelehrteste unter seinen Brüdern Elektromann, All-Chemist, Optikus und Technikus". Das war durchaus richtig, es gab wenig komplexe Technik, die Alltagsbezug hatte, bezahlbar und irgendwie faszinierend war. So fanden die Sprüche <b>"Vom Gebirg zum Ozean, alles hört der Radiomann"</b> oder "Aus fernen Ländern hören wir Sprachen so schön und rein, wie vielleicht kaum an einem viel teueren Empfänger" begeisterndes Interesse. 
+		<div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/radiomann2.jpg" width="400" height="361" alt="Bild des Radiomann Baukastens" />
+		<p class="Bildtext"><small>Nebenstehendes Bild: Radiomann Baukasten ca. 1950</small></p></div>
+		
+		<p>Radiobasteln, ein Hobby aus der Anfangszeit des Rundfunks fand auch jetzt wieder Liebhaber. Bis Anfang der 60er Jahre konnten sich die bastelnden Jungen (Mädchen wurden gar nicht erst angesprochen!) ein Radiogerät selbst bauen, das auch wirklich (bescheiden mit Kopfhörer) funktionierte. Man muss bedenken, dass in einem durchschnittlichen Haushalt selten ein Fernsehempfänger und in der Regel auch nur ein einziges vom Familienoberhaupt gehütetes Rundfunkgerät stand. Mit dem Kosmos-Gerät konnte ein junjor-Bastler unabhängig von der Familie z.B. AFN hören.
+	
+		
+		Der Höhepunkt war der Einsatz einer Elektronenröhre. Schon der Anblick des silbernfarbig spiegelnden Glaskolbens verriet: Das ist etwas ganz Besonderes. Ansonsten hatten die Teile den Charme der Zeit: Pappe, Holz, stoffummantelte Drähte usw. Einen elektrischen Widerstand hoher Ohmzahl musste man selbst bauen: Ein Stück Papier, darauf einen dicken Strich mit einem weichen Bleistift zeichnen und schon war er fertig.</p>
+		<div class="box right">
+        <img src="/shared/photos/kommunikationstechnik/radiomann10.jpg" width="297" height="142" alt="Staubsauger und Röhre" /></div>
+		
+		
+		<p>Die Erklärungen (für 10 bis 14 jährige) waren abenteuerlich: Der Strom in einer Vakuumröhre wurde mit dem Staubstrom eines Staubsaugers verglichen der permanent seinen eigenen Schmutz wieder einzog. Der Motor, der den Dreck drückt und zieht entspricht der Batterie, die Elektronen in die Kathode drückt und aus der Anode wieder absaugt. Für heutige Kids ist es verwunderlich, dass man damit begeistern konnte. Die Ansprüche und die Komplexität sind enorm gestiegen, ob damit auch die echte Begeisterung gestiegen ist muss jedoch stark bezweifelt werden.<br>
+		Kosmos vertrieb diese Lehrbaukästen bis in die siebziger Jahre, allerdings grundlegend verändert mit viel Kunststoff und leider ohne die Aufbauanleitung des faszinierenden eigenen "Rundfunksenders". Offensichtlich scheute man den Ärger mit der Bundespost. Danach kamen die Elektronik- und schließlich die Computerbaukästen. Aus vielen Radiobastlern wurden Computerfreaks. Kein anderer Berufszweig war der gerade entstehenden Computerindustrie näher.</p></div>
+		
+		
 <!-- end of content -->
 <!--#include virtual="/de/inc/menu.inc.shtm" -->
 </body>

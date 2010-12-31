@@ -21,55 +21,135 @@
     <h2><!--#echo var="title" --></h2>
     <p>
 	    Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Fr&uuml;he Computer sind wegen ihrer stattlichen Gr&ouml;&szlig;e und der sehr sch&ouml;nen transparenten Zusatzger&auml;ten vor allem in ihrer Funktion sehenswert.
-        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der Serie PDP-8. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital <b>C</b>omputer".<br>
+        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der 12-Bit-Serie PDP-8 bzw. PDP-12. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital <b>C</b>omputer".</p>
+		<div class="box left">
+      <img src="/shared/photos/rechnertechnik/dec/flip-chip-module.jpg" width="400" height="173" alt="Flip-Chip-Module" />
+ </div>
+	<p>	Diese Rechner wurden durch zahlreiche sehr detallierte Funktions- und Schaltungsbeschreibungen dokumentiert, wie kein anderer je gebauter Computer. Das ist aus heutiger Sicht ein Glücksfall. Nur durch das Vorhandensein dieser Dokumente ist eine Reparatur problemlos möglich. Dagegen hielten andere Hersteller oft ihre Schaltungen aus Angst vor unbefugter Weiterverwendung zurück (z.B. HP).<br>
+	PDP-Rechner wurden vorwiegend von Wissenschaftlern eingesetzt, z.B. bei fast allen Max-Planck-Forschungsinstituten. Mit Hilfe selbstgebauter Interface-Karten bestand die Möglichkeit, bereits vorhandene Geräte und experimentelle Anordnungen einzubinden. Selbst dazu lieferte DEC vorgefertigte Boards, die einen Selbstbau von Anpassungen sehr erleichterten. Die Abbildung zeigt links ein typisches Modul der 2. Generation (1965) ohne ICs aus der Classic PDP-8. In der Mitte befindet sich ein kleines Modul der 3. Generation (ab 1967) mit ICs, welches in den Geräten PDP-8i, -8L und PDP-12 verwendet wurde. Rechts schließlich ist ein leeres Modul; es kann vom Anwender für spezifische Erweiterungen der Peripherie bestückt werden. <br>
+	
+		
         <br/>Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a> aufgelistet.
     </p>
 	
+	
+
 <h3>Classic PDP-8</h3>
-
-    <div class="box center auto-bildbreite">
-       <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
-       <p class="bildtext"><b>PDP-8</b> mit Bandlaufwerk TU 580, Lochstreifenleser und Festplatte</p></div>
-          <p>Eines der musealen Highlights ist eine PDP-8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP-5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 gilt als der erste in Serie gebauter "Minicomputer" der Welt (Bj. 1965, Serien Nr. 100). Ohne ICs bzw. deren Vorl&auml;ufer z&auml;hlt die Anlage zur 2. Computergeneration. <br />Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a>
+<div class="box left">
+       <img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" /></div>
+	    <div class="box center" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" /></div>
+       <p class="bildtext">Links: <b>PDP-8</b> mit Magnetband-Einheit TU 580, Lochstreifenleser und Festplatte, rechts: Bedienungspannel.</p>
+	   
+          <p>Eines der musealen Highlights ist die PDP-8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP-5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 ist der erste in Serie gebauter "Minicomputer" der Welt (Bj. 1965, Serien Nr. 100). Die Halbleiter waren noch einfache Transistoren (keine ICs), daher ist dies eine Anlage der 2. Computergeneration. <br>
+		  <div class="box left" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" /></div>
+		 <p> Aufgebaut ist dieser Computer durch eine Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen aufgebaut. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a href="http://de.wikipedia.org/wiki/Wickelverbindung">Wikipedia</a> nachzulesen ist. Diese Wire-Wrap-Verbindungen wurden bis in die 80er Jahre bei allen größeren Rechnern angewendet. Es ist eine einfache Möglichkeit, räumlich beliebig liegende Modulanschlüsse miteinander zu verbinden. Anfangs erfolgte das "Wrappen" noch per Hand und wurde später durch Automaten ausgeführt. Auch heute gibt es bei Versuchsschaltungen noch solche Verbindungen.<br>
+		 Das Bild links zeigt den geöffneten Computer, wobei der rechte Flügel ausgeklappt ist. Hier erkennt man die Wire-Wrap-Verbindungen.</p>
+		  <small>Der Prozessor und der Lochstreifenleser sind Leihgaben des <a href="http://www.fitg.de">"FITG",  Frankfurt </a></small>
        </p>
-    
-
-    <div class="box left clear-after">
+         
 	    <h3>PDP-8I</h3>
-        <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" />
-        <div class="bildtext">
-            <p>Der erste Rechner mit integrierten Schaltungen von DEC war nicht gerade billig. Alleine die CPU (im Bild links, Mitte) ohne Peripherie kostete damals 27000 $. Bei dem Umrechnungskurs der 60iger Jahre entspricht das ca. 55000 Euro. Er wurde 1967 mit den gerade entwickelten TTL-ICs bestückt. <br/>Der Arbeitsspeicher hatte eine Kapazit&auml;t von 8 kB. W&auml;hrend der Bearbeitung eines "gr&ouml;&szlig;eren" Problems m&uuml;ssen eventuell fortw&auml;hrend Files (Programme, Daten) auf ein Tape (Magnetband) ausgelagert und sp&auml;ter wieder eingelesen werden. Um mit sowenig Arbeitsspeicher dennoch erstaunlich effektiv arbeiten zu k&ouml;nnen, wurde schon in diesen fr&uuml;hen Jahren ein ausgesprochen intelligentes Betriebssystem (OS/8) entwickelt!  Es ist sehr interessant, dem Rechner bei seiner Arbeit zuzuschauen.</p>
-            <p>F&uuml;r alle, die einen solchen Computer noch nie gesehen haben, sei angemerkt, dass dieser mit Plotter &uuml;ber 2m hoch ist und ein Gewicht von ca. 300 kg hat.</p>
-            <p>Die Peripherie besteht aus 2 x TU 55 (Bandlaufwerke), PC 04 (High speed Lochstreifenleser), Calcomp 563 Plotter (oben) und nat&uuml;rlich einer Teletype (hier nicht abgebildet).</p>
-        </div>
-    </div>
+		 <div class="box left">
+        <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" /> </div>
+		<div class="box center" style="min-width: 840px;">
+		<img src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i Bedienungspannel" /> 
+		</div>
+      
+            <p>Im Jahre 1967 waren die ersten TTL-ICs (Transistor-Transistor-Logik) der Serie 74xx lieferbar. DEC war mit dem Rechner 8i damit ganz vorne in der Entwicklung. Man hatte mit dem Langzeitverhalten (spätere Defekte) solcher Integrierten Schaltungen noch keine Erfahrung. UNIVAC hat daher selbst 1969 lieber noch auf die immerhin 2 Jahre bewährte DTL-Technik gesetzt. Zum Glück erwiesen sich die TTL-ICs als genauso stabil wie die DTL-Serie. Doch der Integrationsgrad war viel höher, so dass der Platzbedarf schrumfte. <br>
+			Dieser erste Rechner mit integrierten Schaltungen von DEC war nicht gerade billig. Alleine die CPU (im Bild links, Mitte) ohne Peripherie kostete damals 27000 $. Bei dem Umrechnungskurs der 60iger Jahre entspricht das ca. 55000 Euro. <br/>Der Arbeitsspeicher (Ringkerne) hatte eine Kapazität von 8 kB. Während der Bearbeitung eines "größeren" Problems müssen eventuell fortwährend Files (Programme, Daten) auf ein Tape (Magnetband) ausgelagert und später wieder eingelesen werden. Um mit sowenig Arbeitsspeicher dennoch erstaunlich effektiv arbeiten zu können, wurde schon in diesen frühen Jahren ein ausgesprochen intelligentes Betriebssystem (OS/8) entwickelt!  Es ist sehr interessant, dem Rechner bei seiner Arbeit zuzuschauen.</p>
+            <p>Für alle, die einen solchen Computer noch nie gesehen haben, sei angemerkt, dass dieser mit Plotter über 2m hoch ist und ein Gewicht von ca. 300 kg hat.</p>
+            <p>Die Peripherie besteht aus 2 x TU 55 (Bandlaufwerke), PC 04 (High speed Lochstreifenleser), Calcomp 563 Plotter (oben) und natürlich einer Teletype (hier nicht abgebildet).</p>
+        
+
+   <h3 id="pdp8L">PDP-8L</h3>
+   
+	   <div class="box left clear-after">
+      <img src="/shared/photos/rechnertechnik/dec/pdp-8L.jpg" width="400" height="360" alt="DEC PDP-8L" />
+ 
+ <p><small>Das Bild zeigt den Rechner (Bj.1968) mit einem Hochgeschwindigkeits-Lochstreifenleser</small></p>
+ 
+ <p>Viele Anwender von DEC-Rechnern benötigten die hohe Kapazität an Speicher und einbaubaren Optionen nicht. Daher entwickelte DEC einen abgespeckten Rechner der nur wenige vorverdrahtete Einbauoptionen ermöglichte. Der Kernspeicher hatte nur 4kB Speicherkapazität, durch ein zusätzliches externes Kabinett war dieser auf 8kB erweiterbar. <br>
+ Unsere PDP-8L war "hoch" ausgebaut: HSR (Hight-Speed) Lochstreifenleser und ein TC01 DEC-Tape-Control mit zwei TU55 Laufwerken und Zusatzspeicher. Damit konnte man schon eine Menge anfangen. FOCAL, eine von DEC entwickelte Programmiersprache (ähnlich wie BASIC) lief problemlos und machte den Computer zu einem kleinen relativ leistungsfähigen Rechner der unteren Preisklasse (<b>L</b>ow-Cost, daher 8<b>L</b>).</p></div>
+   
+    
 	<h3 id="pdp12">PDP-12, LAB-12</h3>
  <div class="box left">
-      <img src="/shared/photos/rechnertechnik/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
+      <img src="/shared/photos/rechnertechnik/dec/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
  </div>
  <div class="box center" style="min-width: 840px;">
-	  <img src="/shared/photos/rechnertechnik/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Bedienungspanel" />
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Bedienungspannel" />
  </div>
 		<p>Im Jahre 1969 brachte DEC den PDP-12 Rechner auf den Markt. Er war der letzte Rechner, der auch im Link-Modus arbeiten kann und ist von Link-8 auf PDP-8 umschaltbar. Es handelt sich hier um einen "Laborrechner" mit standardmäßig eingebauten AD- und DA-Wandlern. Solche Rechner wurden während ihrer aktiven Phase meistens dem jeweiligen Stand der Technik angepasst. So wurde in diesem Gerät der Speicher schrittweise von zunächst 8kB bis auf zuletzt 32 kB ausgebaut (Speichererweiterung DW 08E).<br>
-Neben den Bandlaufwerken wurde dann ein Floppy-Laufwerk mit 8-Zoll Disketten hinzugefügt. Schließlich wurde dieses wieder entfernt und dafür zwei Wechselplattenlaufwerke installiert. Zu allerletzt wurde das Gerät sogar mit einem 10BASE-T Ethernet und selbstgeschriebenem TCP/IP Protokoll an das hausinterne Netz angeschlossen. So hat dieser Rechner vom Lochstreifen über Disketten und Platten die Entwicklung bis zu Ethernet durchlebt.<br>
-Wir werden ihn wieder instand setzen und bereichten dann weiter.</p>
+Neben den Bandlaufwerken wurde dann ein Floppy-Laufwerk mit 8-Zoll Disketten hinzugefügt. Schließlich wurde dieses wieder entfernt und dafür zwei Wechselplattenlaufwerke installiert. Zu allerletzt wurde das Gerät sogar mit einem 10BASE-T Ethernet und selbstgeschriebenem TCP/IP Protokoll an das hausinterne Netz angeschlossen. So hat dieser Rechner vom Lochstreifen über Disketten und Platten die Entwicklung bis zum Ethernet durchlebt.<br>
+
+<div class="box left">
+      <img src="/shared/photos/rechnertechnik/dec/pdp-12-innen.jpg" width="297" height="676" alt="DEC LAB-12-Flip-Chips" />
+	  <div class="bildtext">Das nebenstehende Bild zeigt einen Teil des Innenlebens der PDP-12 mit 462 hier sichtbaren Flip-Chip Modulen.</div>
+	 <p> Unser Rechner war durch den Einbau folgender Optionen sehr komfortabel nutzbar:<br>
+	  
+	<small><b>AD12 [A-D-Control]:</b><br>
+	16-Kanal AD-Wandler mit 10bit Auflösung im Bereich bis 60kHz mit 30dB Dämpfung.<br>
+	  <b>DM12 [Data Break Multiplexer for KF12-B]:</b><br>
+	 Erweitert den KF12-B (Interrupt-Controller) um den Anschluss von drei Speicherdirektzugriff-Geräten. Dadurch konnte Hochgeschwindigkeits-Peripherie in den CPU-Taktpausen direkt in den Kernspeicher lesen/schreiben und so bis zu 6,5Mbit/sec transportieren. DMA (Direct Memory Access) ist spätestens seit den 90ern Standard für schnelle Datenübertragung. Dennoch hatte USB im Jahr 2000 nur 1Mbit/sec transportiert!<br>
+	  <b>DP12A [TTY-Dataphone]:</b><br>
+	  Mit den DP12-Modulen konnte man weitere Teletypes und Modems anschließen, in der besten Ausbaustufe sogar asynchron bis 100kBaud (zum Vergleich: Modems in den 90ern haben nur mit 57kBaud gearbeitet). Die Geräte arbeiteten bereits per standardkonformem EIA-232 (RS232) und ASCII. Das DP12-E arbeitete vermutlich nach einem Standard der Electronic Engineering Association.<br>
+	  <b>DR12 [Relays and Control]</b><br>
+	  Stellt ein Register mit sechs Bits für sechs Relais zur Verfügung, die für beliebige externe Aufbauten genutzt werden können. Mit zwei zusätzlichen Microinstruktionen können die Relais per Programm aktiviert sowie deren Zustand, der durch Lämpchen auf dem Frontpanel angezeigt wird, ausgelesen werden.<br>
+	  
+	  <b>KE12 [Extended Arithmetik Element]:</b><br>
+	  Erweitert die ALU um asynchrone Hochgeschwindigkeitsrechenwerke für 12-bit-Multiplikation und 5-bit Schrittzähler. Die zusätzlichen Bauteile werden über neue Mikroinstruktionen (Opcodes/Assembler-Befehle) angesprochen.<br>
+	  <b>KF12 [Multi Level]:</b><br>
+	  Stellt 15 verschieden priorisierte Interrupt-Leitungen zu Verfügung, die sich je bis zu 6 Geräte teilen konnten. Die Prioritäts-Level wurden durch einen Stack organisiert, die Interruptroutinen über Interruptvektoren gekoppelt. Spätestens den 80ern wurden solche Funktionen im PIC (Programmable Interrupt Controller) in jedem CPU implementiert.<br>
+	  <b>KT12 [Time-Sharing Option]:</b><br>
+	  Ausreichend Speicher und Peripherie (genügend TTYs und I/O-Geräte) vorausgesetzt, können mit diesem Modul bis zu 16 Benutzer ihre Programme (scheinbar) simultan ausführen (Multitasking). Das Scheduling wurde durch ein zentrales „Time Sharing Monitor“-Programm realisiert. Bereits in den 80ern waren 3 Ringe (Privilegierungsebenen) Standard, die Mehrbenutzerfunktionen wurden softwaremäßig implementiert.<br>
+	  <b>KW12-A [Real Time Clock]:</b><br>
+	  Eine Echtzeituhr mit Auflösung bis zu 2,5us per internem Quarz. Die Timer konnten damit extrem genau auflösen, etwa zur exakten zeitgetriggerten Ansteuerung von Peripherie. Zusätzlich konnte auch eine externe Zeitquelle angeschlossen werden. Darüber wurde der Anschluss des Zeitsignalgebers DFC77 für die Atomzeit aus der Physikalisch-Technischen Bundestanstalt realisiert.</p></small>
+	  
+	  <p>Weitere Kabinetts sind in diesem Rechner eingebaut, die den Anschluss von zusätzlicher Peripherie ermöglicht hat:</p>
+	  
+	  <p><small><b>AA50P:</b> Kabinett zum Einbau zusätzlicher Analog-Digital Wandler.<br>
+	  <b>BA12:</b> Ist ein Kabinett zur Erweiterung der Peripherie, z.B. Lochstreifenleser/Stanzer PC05, Lochkartenleser usw.<br>
+	  <b>DW08A:</b> Mit Hilfe dieser Kabinett-Option lassen sich auch Geräte mit "negativem Bussystem" anschließen. Negative Logik wurde zu Zeiten der Germanium-Technik (pnp-Transistoren) verwendet (z.B. Plattenlaufwerk mit feststehenden Köpfen "DF32").<br>
+	  <b>DW08E:</b> Dieser Einschub im Gehäuse einer kleinen PDP8e ermöglicht den Anschluss von Speichermodulen aus der PDP8e-Serie.<br>
+	  <b>BM812:</b> Ebenfalls ein Einschub im Gehäuse einer kleinen PDP8e. Hier lassen sich Interfac-Module der 8e-Serie installieren. In unserem Rechner sind dies die Module zur Kommunikation mit den Plattenlaufwerken "Digital RK05" und "Plessey PM DD/8".</small></p>
+	  <p>Zweifelsfrei steht fest: Der Rechner ist sehr umfangreich ausgebaut. Diese Methode war damals auch üblich. Man beantragte erst einmal einen Rechner in der Grundversion, die noch eben bezahlbar war. Später kamen sukzzesive die oben angeführten Optionen hinzu. So verteilten sich die hohen Anschaffungskosten auf mehrere Jahre und der Computer war immer "up to date".
+	  
+ </div>
+</p>
 		
-    <div class="box left clear-after">
+  
 	    <h3>Lab-8e, PDP-8e</h3>
-        <a href="/de/geraete/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB 8e" class="nomargin-bottom" /></a>
-        <div class="bildtext">
-            <p class="justify">Nachfolger der PDP-8i war 1970 der PDP-8e. Zum ersten Mal verwendete DEC ein internes Bussystem. Daher war es problemlos möglich, jegliche Peripherie über Interface-Karten anzuschließen. Das machte den "Klein"rechner quasi universell einsetzbar. Dieser Rechnertyp wurde mit diversen AD- und DA-Wandlern unter der Bezeichnung LAB-8e als Laborrechner mit vielseitigen Anschlussm&ouml;glichkeiten f&uuml;r analoge Ger&auml;te angeboten (hier abgebildet) der wiederum den PDP-12 abgelöst hat. Die Peripherie besteht aus:</p>
+		
+		<div class="box left">
+      <img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB-8e" />
+ </div>
+ <div class="box center" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-8e,pannel.jpg" width="400" height="300" alt="PDP-8e Bedienungspannel" />
+	  </div>
+        
+		
+        
+            <p>DEC erkannte, dass ein Computer zur Steigerung der Verkaufszahlen billiger werden muss. Die Verwendung der kleinen Flip-Chip-Module führte zu mächtigem Volumen und aufwändigen Wire-Wrap Verbindungen der Module untereinander. Später einzubauende Optionen mussten vorbereitet sein, wie bei dem PDP-8i und PDP-12. Daher entwickelte DEC ein internes Bussystem, welches es erlaubte, die Module an einen im Prinzip beliebigen Platz im Kabinett zu placieren. Das war ein gewaltiger Fortschritt. Erweiterungen waren jederzeit möglich. Der Einbau von Optionen musste nicht vorbereitet sein und man benötigte keine Wire-Wrap-Verdrahtung mehr. Die kleinen überschaubaren Flip-Chip-Module mutierten zu Großmodulen mit der siebenfachen Fläche. Solche Module wurden mit bis zu 70 ICs bestückt. Die Herstellungskosten schrumpften deutlich, doch nachteilig war und ist das zeitaufwändige Aufsuchen von Hardware-Fehlern bei diesen großen Platinen. Bei kleinen Modulen läßt sich der Fehler besser eingrenzen.<br>
+			Das Bedienungspannel wurde ebenfalls vereinfacht: Nur noch ein zweizeiliges Lämpchen-Display. Die untere Zeile ist immerhin zur Anzeige verschiedener Zustände umschaltbar. <br>
+			So entstand 1970 der sehr erfolgreiche PDP-8e Computer, der insgesamt ca. xxx mal verkauft wurde. Das interne Bussystem machte den "Klein"rechner quasi universell einsetzbar. Dieser Rechnertyp wurde mit diversen AD- und DA-Wandlern unter der Bezeichnung LAB-8e als Laborrechner mit vielseitigen Anschlussmöglichkeiten für analoge Geräte angeboten (hier abgebildet) der wiederum den PDP-12 abgelöst hat. Auch für diesen Rechner gab es viele teils vorbereitete "Selbstbaumodule", so dass man praktisch jegliche Peripherie mit TTL-Level (+5Volt) ansprechen konnte.</p>
+			
+			Die Peripherie unseres Rechners besteht aus:
             <ul>
                 <li>VR 12 (Oszilloskopbildschrim)</li>
                 <li>PC 04 (High speed Lochstreifenleser/stanzer)</li>
                 <li>3 x TU 56 (Doppel-Bandlaufwerk)</li>
                 <li>AD- und DA- Wandler</li>
             </ul>
-        </div>
-    </div>
+			
+			<div class="box left clear-after">
+			<img src="/shared/photos/rechnertechnik/dec/8e-module.jpg" alt="8e-Module" width=400" height="175"/>
+      
+	  <p>Nebenstehendes Bild zeigt links ein Modul zum Selbstbau von peripheren Anpassungen, hier sind Bus-Verstärker usw. bereits eingebaut. Darüber konnte man beliebige ICs einsetzen und mit Wire-Wrap oder gelöteten Drähten verbinden. Rechts ein typisches Modul mit vielen TTL-ICs. Von beiden Modulen ist jeweils nur ein Teil sichtbar.</p></div>
+   
 <h3><b>WANG 2200</b> mit umfangreicher Peripherie</h3>
 
-    <p>Weiterhin ist das erste System angeschlossen, was schon so &auml;hnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.shtm">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
+    <p>Weiterhin ist das erste System angeschlossen, was schon so ähnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.shtm">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
     <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen LED-Anzeige.</p>
 
     <div class="box center">

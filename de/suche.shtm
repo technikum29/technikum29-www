@@ -9,7 +9,7 @@
    --><!--#set var="next"         value="impressum.shtm"
    --><!--#set var="next_title"   value="Kontakt/Impressum"
    -->
-     <title>technikum29 - <!--#echo var="title" --></title>
+     <title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Technikum29, Suche, Geräte" />
@@ -38,23 +38,21 @@
 		Zur Justage von Köpfen der Disk-Laufwerke (hier: UNIVAC 8425) suchen wir eine <b>"Calibration-Disk"</b> (siehe Bild), gerne auch leihweise. Ohne einen solchen speziellen Plattenstapel ist eine Justage kaum ausführbar.
 		</p>
 	</div>
-	<p>Weiterhin suchen wir Germaniumtransistoren zur Reparatur alter Computer</p>
 	
 		
-	<h3>Ger&auml;te und Manuals</h3>
+	<h3>Geräte, Manuals und Bauteile</h3>
 	
-      <p>Folgende Geräte bzw. Manuals suchen wir jederzeit:</p>
+      <b><p>Folgendes suchen wir jederzeit:</p>
       <ul>
-	  <li><b>Tektronix Oszilloskop 555 (Dual-Beam)</b></li> 
-          <li>Jegliche Röhrenrechner</li>
-      
-          <li>sehr alte xy-Schreiber und Plotter</li>
-        
+	  <li>Teletype Fernschreiber Modell ASR 35 und Modell 28</li>
+	  <li>Tektronix Oszilloskop 555 (Dual-Beam)</li> 
+	  <li>Germaniumtransistoren (auch Platinen mit solchen Transistoren)</li>
+          <li>Jegliche Röhrenrechner, Rechner und Anlagen mit Transistoren</li>     
+          <li>sehr alte xy-Schreiber und Plotter</li>        
           <li>jegliche Telegraphietechnik</li>
-          <li>sowie alles, was zu unseren Themen passt</li>
-          <li>Bedienungsanleitung für den NCR 446 - Rechner (Kopie reicht)</li>
-       <li>Ein Programmier-Handbuch zur BULL GAMMA 10 EDV Anlage</li>
-      </ul>
+       <li>Ein Programmier-Handbuch zur BULL GAMMA 10 EDV Anlage</li><br>
+	   <li>sowie alles, was zu unseren Themen passt</li>
+      </ul></b>
 
     
 

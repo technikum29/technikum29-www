@@ -14,11 +14,11 @@
 </head>
 <body>
 <!--#set var="lang" value="none" -->
-<!--#include virtual="/etc/src/heading.shtm" -->
+<!--#include virtual="/src/inc/header.shtm" -->
 
 <div id="page">
 <!--#set var="TEMPLATE:lastmod" value="19.07.2009" -->
-<!--#include virtual="/etc/src/templates/lastmod.shtm" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2><a href="/">technikum29.de</a> Banner &amp; Logos</h2>
 
@@ -27,10 +27,10 @@
 <p><b>Hinweis zur Verwendung außerhalb der technikum29-Präsenz:</b> Diese Banner sind Eigentum von technikum29 und dürfen nur im Zusammenhang damit (Namensnennung, etc.) verwendet werden. Nehmen sie im Zweifelsfall <a href="/de/impressum">Kontakt auf</a>.</p>
 
 <h3>Banner der dritten Generation (Juli 2009)</h3>
-<p>Im Juli 2009 kam Heribert plötzlich auf die Idee, die wohldefinierte Farbtabelle, die
+<p>Im Juli 2009 kam der Museumsdirektor auf die Idee, die wohldefinierte Farbtabelle, die
 seit über 6 Jahren Markenzeichen (Corporate Design) der technikum29.de-Webpräsenz war,
-über Bord zuwerfen zugunsten eines Grün-Blauen-Designs. Da das grausam aussah, wählte er
-die etwas abgeschwächte Form, in dem er das zweite frische Kernblau durch ein tristes
+über Bord zuwerfen zugunsten eines Grün-Blauen-Designs. Da das selbst in seinen Augen unschön
+aussah, wählte er die etwas abgeschwächte Form, in dem er das zweite frische Kernblau durch ein tristes
 Grau ersetzte. Das Ergebnis ist ein Banner, der flau und kraftlos wirkt, unterstützt
 durch die wesentlich zurückhaltendere Erscheinungsform der Schrift.</p>
 <ul class="dir">
@@ -112,6 +112,6 @@ weißer Schatten). Sie waren ein wesentliches Element, welches dem Design damals 
 </ul>
 
 </div><!--page-->
-<!--#include virtual="/etc/src/templates/autoindex-footer.shtm" -->
+<!--#include virtual="/src/templates/autoindex.shtm" -->
 
 

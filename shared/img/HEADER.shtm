@@ -7,7 +7,7 @@
 </head>
 <body>
 <!--#set var="lang" value="none" -->
-<!--#include virtual="/src/inc/heading.shtm" -->
+<!--#include virtual="/src/inc/header.shtm" -->
 
 <div id="page">
 <!--#set var="TEMPLATE:lastmod" value="29.08.2008 19:00" -->

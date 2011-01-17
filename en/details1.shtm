@@ -72,12 +72,13 @@
         It uses threaded ROM for very simple and solid programs.</td>
   </tr>
   <tr>
-    <td><b>FRIDEN 130</b>[1965]</td>
+    <td><b>FRIDEN 130, FRIDEN 132</b>[1965]</td>
     <td>delay line memory</td>
     <td>-</td>
     <td>The world's first desk calculator with display on
         cathode ray tube; 4 registers are displayed
-	(with germanium transistors)</td>
+	(with germanium transistors). Type 132 is featured with
+	automatic square root calculation.</td>
   </tr>
   <tr>
     <td><b>Olivetti Programma 101</b>[1965]</td>

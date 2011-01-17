@@ -23,18 +23,28 @@
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers". In contrast, in the 1960s and the early 70s, a computer was always huge (like our <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini". Early computers are well worth seeing due to their enormous size and the nice transparent auxillary devices.
        <br />There is a very important computer family that finally lead to today's (personal) computers: The development of the "Mini" computers from Digital Equipment Corporation (DEC), series PDP-8. The museum owns a complete production run from that devices: From the PDP-8 (also called Classic-8), year of manufacture 1965 to the PDP-8a (1975, this one is less important so it is located in the archive).
+	   <div class="box left clear-after">
+      <img src="/shared/photos/rechnertechnik/dec/flip-chip-module.jpg" width="400" height="173" alt="Flip-Chip-Module" />
+ 
+ <p> These computers have been documented by several very detailed functional and circuit descriptions like no other computer ever built. This is from today's perspective, a fluke. Only by the presence of these documents a repair is possible. While other manufacturers often stood back for fear of their circuits from unauthorized re-use (eg HP).<br>
+PDP computers were mainly used by scientists. With using of self-made interface cards it was possible to integrate existing equipment and experimental arrangements. DEC has prefabricated modules offered, which facilitated a yourself customizations.<br>
+ The figure shows a typical module of the second Generation (1965) without ICs from the classic PDP-8 (left). In the middle is a small module of the 3rd Generation (from 1967) with ICs, which was used in the devices PDP-8i, PDP-8L and PDP-12. Right after all, an empty module, it can be fitted by the user for specific extensions to the periphery. 
+ </p></div>
 	   <br/>For further reading see the story about <a class="go" name="backlink-dec" href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.
-	</p>
+	
     
     <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
     Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
-	<h3>Classic PDP-8</h3>
-    <div class="box center auto-bildbreite">
-       <img src="/shared/photos/rechnertechnik/dec/classic8,594px.jpg" width="594" height="704" alt="PDP 8 Classic" />
-       <p class="bildtext"><b>PDP-8</b> with tape deck TU 580, paper tape reader and hard disc</p>
-	</div>
+	
+    <h3>Classic PDP-8</h3>
+<div class="box left">
+       <img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" /></div>
+	    <div class="box center" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" /></div>
+       <p class="bildtext"><small>Left: <b>PDP-8</b>Left picture with tape unit TU 580, paper tape reader and punch and hard disc DF32, picture above shows the console</small></p> 
+	
 	
 	<p>
          One of the museum highlights: The complete PDP-8 system with processor,
@@ -42,20 +52,37 @@
          punch card reader/puncher PC-01, hard-disc DF-32 with immovable heads
          and a teletype as printer. The Classic PDP-8 is considered the world's first mass-produced
          "minicomputer". Due it's use of ICs, unlike its predecessors, it is considered
-		 a second-generation computer.
+		 a second-generation computer.</p>
+		 
+		   <div class="box left clear-after">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />
+		<p> This computer is built by a variety of different logic and register modules. The logical decisions are implemented in principle by a intelligent combination of NAND and NORs. Register, so fast latch, will be constructed with flip-flop circuits. The extensive wiring of the modules is done by the so-called "wire-wrap" technique, read the function in <a href="http://en.wikipedia.org/wiki/Wire_wrap">Wikipedia</a>. <br>
+ This wire-wrap connections were applied to the 1980th in all greater computers. It is an easy way to connect in any direction lying modules to each other. At first the "wrapping" were made by hand and was later executed by machines. Even today there are still some wire-wrap-connections in test circuits.<br>
+The left picture shows the opened computer, with extended right wing. Here you can see the wire-wrap connections.</p></div>
+		 
+		  
+		  
+	  
          <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
          strong men can lift the computer. It is better to have four people to carry it!.
          Without ICs or their ancestors the device is counted among the seccond-generation calculators.
          <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a>
          (<u>flank</u>). The core memory is set above (storage capacity 4kB).-->
-    </p>
+   
+   
+ 
   <h3>PDP-8I</h3>
-    <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP 8I" width="400" height="666" />
-        <div class="bildtext">
+    <div class="box left">
+        <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" /> </div>
+		<div class="box center" style="min-width: 840px;">
+		<img src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i Bedienungspannel" /> 
+		
+      <p class="bildtext"><small>Left the PDP-8i system with two-DECtapes TU 55, hight-speed paper tape reader/punch PC 04, 563 CALCOM plotter (top) and a TELETYPE (not shown).
+Above: the computer console.</small></p></div>	   
             
-            <p>DEC's first calculator with integrated circuits was not cheap. The CPU on
+				<p>In 1967 were the first TTL ICs (transistor-transistor logic) of the 74xx series are available. DEC was with the computer 8i to the forefront in the development of [the term "8i" means "With <b>i</b>ntegrated circuits"]. One had the Long-term behavior (later defects) of these integrated circuits no experience. UNIVAC therefore set itself in 1969 rather more the 2 years later the proven DTL-technology in computers. Fortunately, the TTL ICs proved to be as stable as the DTL series. But the degree of integration was much higher, so that less space has been claimed.<br>
+            DEC's first calculator with integrated circuits was not cheap. The CPU on
              alone (pictured in the center) without peripherals cost $27000 at that time.<br/>
              The main memory had a capacity of 8kB. While computing a "larg" problem, it was possible to swap
              programs or data to files on magnetic tape and read in afterward be reread. DEC developed
@@ -65,16 +92,29 @@
              With the plotter, it stands at a height of almost 7' (2m) and weighting at more than 600 lbs (300kg).</p>
             <p>The peripherals consist of two TU-55 (tape drives), a PC-04 (high speed paper tape reader),
              Calcomp 563 plotter (at the top) and of course a teletype (not pictured).</p>
-        </div>
-    </div>
+        
+		<h3 id="pdp8L">PDP-8L</h3>
+   
+	   <div class="box left clear-after">
+      <img src="/shared/photos/rechnertechnik/dec/pdp-8L.jpg" width="400" height="360" alt="DEC PDP-8L" />
+ 
+ <p><small>PDP-8L (build in 1968) with HSR Paper Tape Reader</small></p>
+ <p>Many users of DEC computers did not need the high capacity of memory and installable options. Therefore, DEC developed a stripped-down computer with only a few pre-wired installation options. The core memory had only 4kB capacity, but it was an additional external cabinet possible to get 8kB.
+<br>
+Our PDP-8L was "high" expanded: HSR (High Speed) paper tape reader, TC01 Tape Control with two drives TU55 and a additional memory. 
+DEC developed its own dialogue programming-language "<b>FOCAL</b>" [Formulating Online Calculations in Algebraic Language], which allowed the user to stand in direct conversation with the computer. There is a direct compiler, each command is immediately translated into machine language. This language is similar to BASIC, but slightly simpler. FOCAL ran smoothly with 4kB core memory and the 8L was a small relatively powerful computer in the lower price range. (<b>L</b>ow-Cost, therefore, 8L).</p>
+ 
+</div>
+ 
 
 	<h3 id="pdp12">PDP-12, LAB-12</h3>
  <div class="box left">
-      <img src="/shared/photos/rechnertechnik/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
+      <img src="/shared/photos/rechnertechnik/dec/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
  </div>
  <div class="box center" style="min-width: 840px;">
-	  <img src="/shared/photos/rechnertechnik/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Keyboard" />
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Bedienungspannel" />
  </div>
+ 
 			<p>The PDP-12 was released in 1969. It was the last series that
 			could operate in Link mode (it could be switched to either Link-8
 			or PDP-8). This is a laboratory computer, equipped with AD and DA
@@ -88,12 +128,57 @@
 			handwritten TCP/IP stack on a selfmade operating system.
 			Thus this device can demonstrate the era from paper tapes up to
 			today's storage standard.
-			<br>We will repair it and report further details at that point.</p>
+			</p>
 		
-	
+	<div class="box left">
+      <img src="/shared/photos/rechnertechnik/dec/pdp-12-innen.jpg" width="297" height="676" alt="DEC LAB-12-Flip-Chips" /></div>
+	  <div class="bildtext">In the picture (left) you can see the 462 Flip-Chip-Boards in the frame.
+	  </div>
+	 <p> Our computer was very comfortable usable because many options are installed (in the parentheses stands the number of the required modules):<br>
+	  
+	<small><b>AD12 [A-D-Control](12):</b><br>
+	The AD12 includes 16 channels of input, 10bit output resolution and features up to 60kHz signals at 30dB down.<br>
+	  <b>DM12 [Data Break Multiplexer for KF12-B](6):</b><br>
+	The DM12 provides the capability of operating up to three data break devices. The Data Break facility allows an I/O device to transfer information directly with the PDP-12 core memory on a cycle-stealing basis. This is particulary well suited for high-speed devices which transfer large amounts of information in block form. Peripheral I/O equipment  could reach a maximum transfer rate of 6,5 Mbit/sec.<br>
+	  <b>DP12A [TTY-Dataphone](4):</b><br>
+	 The DP12 options permit interfacing additional Teletypes and Modems. They are capable of accepting data asynchronously up to 100,000 baud. The units are designed for US-ASCII and meet the EIA-standard (RS232) requirements.<br>
+	  <b>DR12 [Relays and Control](1)</b><br>
+	  The relay buffer is a six-bit register connected to six relays that are mounted on the data terminal panel. They can be used for controlling experiments or external equipment not otherwise directly interfaced with the PDP-12 Computer. The states of the relays can be examinede at any time via the register.<br>
+	  
+	  <b>KE12 [Extended Arithmetik Element](14):</b><br>
+	  The EAE enables the CP (the DEC operating system) to perform arithmetic operations at higher speed. The ALU is extended by asynchronous logic such as a 12-bit Multiplier Quotient Register and a 5-bit Step Counter.  These components are used by auxillary CPU instructions (opcodes).<br>
+	  <b>KF12 [Multi Level](54):</b><br>
+	  The Multi-Level Automatic Priority Interrupt is designed to reduce the CPU overhead during the servicing of program interrupts. Up to 15 levels of interrupts can be accomodated with each level having an unique vector address. The interrupts can be accepted from other options (CPU extensions) or from up to six external devices. Storing of priority and vectoring of interrupt service routines is performed with a Stack.<br>
+	  <b>KT12 [Time-Sharing Option](2):</b><br>
+	  This module provides the additional logic circuits required for the PDP12 Time Sharing System. Having satisfied the minimum equipment, it perimts up to 16 users to operate their individual programs in an apperantly simultaneous manner. The system is controlled by a group of subprograms called „TSS/12 Monitor“.<br>
+	  <b>KW12-A [Real Time Clock](19):</b><br>
+	  The RTC can be used to generate Program Interrupts over a range of intervals of 2.5us to 40.96s; detect external and internal events in order to count them, measure them against a time base, measure the interval between them, use them as time base standard or control sample times of A/D conversions. In our system this module was used to connect the german longwave time signal radio station DCF77 in order to recieve the atomic clock time from the German master clocks in Frankfurt.</p></small>
+	  <div class="box left no-copyright">
+      <img src="/shared/photos/rechnertechnik/dec/pdp-12anwendung.jpg" width="400" height="366" alt="Typischer Einsatz einer PDP-12 in der Wissenschaft" />
+	  
+ <p class="bildtext"><small>Left: A typical use of a PDP-12 in the science about 1970th [BookResource:"digital products and applications, 1971"]</small></p></div>
+ 
+	  <p>Other cabinets are in the calculator, which allows the connection of additional peripherals:</p>
+	  
+	  <p><small><b>AA50P [12 Bit DAC Controller]:</b> Cabinet for placement of additional digital-analog converters. 3 of 6 possible are built in.<br>
+	  <b>BA12 [Peripharal Expander]:</b> Is a Cabinet to extend the periphery, for example Paper Tape Reader/Punch PC05, punch card Readers, etc.<br>
+	  <b>DW08A [I/O Bus Converter]:</b> This box allowed the connection of units with "negative bus system". Negative logic was used at times of germanium technology (PNP transistors), (for example disk drive with fixed heads "DF32").<br>
+	  <b>DW08E [I/O Bus Converter]:</b> Is a Bus-Converter witch converts the Signals from PDP-12 (or LINC8, PDP8i) to PDP-8e OMNIBUS Format. Primatily it provides an interface between a Family of -8 Bus and a RK8 Disk-System (RK05 or Plessey PM DD/8).<br>
+	  <b>BM812 [Memory Expansion Box]:</b> Memory expansion box that is capable of expending either a PDP8i or PDP12 from 8kB to 32kB with MM8e-stacks (like in PDP-8e).</small></p>
+	  
+	  <p>The system is expanded very extensive. This method was common at that time. One first applied a computer in the basic version, which was still very affordable. Later sukzzesive the above listed options are added. Be distributed to the high acquisition costs over several years and the computer was always up to date.
+
+</p>
+
+
+
 	 <h3>Lab-8e, PDP-8e</h3>
-    <div class="box left clear-after">
-        <a href="/en/devices/lab_8e.shtm" name="lab8e"><img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="LAB 8e" class="nomargin-bottom" /></a>
+   <div class="box left">
+      <img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB-8e" />
+ </div>
+ <div class="box center" style="min-width: 840px;">
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-8e,pannel.jpg" width="400" height="300" alt="PDP-8e Bedienungspannel" />
+	  </div>
         <!-- other picture -->
         <div  class="bildtext">
             
@@ -107,8 +192,13 @@
                 <li>PC 04 (High speed paper tape reader/puncher)</li>
                 <li>3 x TU 56 (double tape drive)</li>
                 <li>A/D- and D/A-converter</li>
-            </ul>
-        </div>
+            </ul></div>
+        <div class="box left clear-after">
+			<img src="/shared/photos/rechnertechnik/dec/8e-module.jpg" alt="8e-Module" width=400" height="175"/>
+      
+	  <p>
+	  In the picture you see on the left a module for self-construction of peripheral adaptations, here are bus amplifier, etc. already installed. Additionally you could use any ICs, and connect with wire-wrap or soldered wire.<br>
+	  Right is a typical module with many TTL ICs. From both modules is only part visible.</p>
     </div>
 
     <h3>WANG 2200 with bulky peripheral hardware</h3>

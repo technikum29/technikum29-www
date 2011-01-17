@@ -21,7 +21,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
   <colgroup>
@@ -57,6 +57,14 @@
     <td>Teletype-Drucker, zwei Speichererweiterungen (jetzt 12K).</td>
     <td>"L" stand wohl für "Low Cost", ein abgespeckter PDP 8I. </td>
   </tr>
+  <tr>
+  <td class="b">DEC PDP 12</td>
+  <td>1969-73</td>
+  <td>Teletype....siehe<a href="/de/rechnertechnik/fruehe-computer.shtm#pdp12"> <i>PDP-12 Rechner</i></a></td>
+  <td>Wissenschaftlicher Laborrechner mit LINK-8 und PDP-8 Modus.<br>
+  Hoch ausgebauter Rechner mit über 450 Einzelmodulen.</td>
+  </tr>
+  
   <tr>
     <td class="b">DEC LAB 8e</td>
     <td>1971/72</td>

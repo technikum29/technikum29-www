@@ -25,7 +25,7 @@
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+    <h2><!--#echo var="title" --></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
   <colgroup>
@@ -68,10 +68,10 @@
     <td>Erster druckender elektronischer Tischrechner der Welt. Mit gef&auml;deltem ROM f&uuml;r sehr einfache feste Programme</td>
   </tr>
   <tr>
-    <td><b>FRIDEN 130</b>[1965]</td>
+    <td><b>FRIDEN 130, FRIDEN 132</b>[1965]</td>
     <td>Laufzeit-<br/>speicher</td>
     <td>-</td>
-    <td>Erster Tischrechner der Welt mit Anzeige auf Kathodenstrahlr&ouml;hre, angezeigt werden 4 Register (mit Germaniumtransistoren)</td>
+    <td>Erster Tischrechner der Welt mit Anzeige auf Kathodenstrahlr&ouml;hre, angezeigt werden 4 Register (mit Germaniumtransistoren). Der Typ 132 hat eine Wurzelautomatik.</td>
   </tr>
   <tr>
     <td><b>Olivetti Programma 101</b>[1965]</td>

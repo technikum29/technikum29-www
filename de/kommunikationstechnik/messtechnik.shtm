@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Telegraphie-, Fax- und Schreibtechnik"
    --><!--#set var="next"         value="/de/rechnertechnik/elektro-mechanik.shtm"
    --><!--#set var="next_title"   value="(Elektro-) Mechanische Rechenmaschienen"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum, Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
@@ -37,16 +37,17 @@
         </p>
 	</div>
 
-    <div class="box right clear-after">
-        <img src="/shared/photos/kommunikationstechnik/galvanometer.jpg" alt="Foto eines Galvometers" width="321" height="275" />
-        <p class="bildtext">Selbst ein x-beliebiges Galvanometer der 20iger Jahre ist unverkennbar liebevoll, aufwändig und sch&ouml;n gestaltet, obgleich es nur ein einfaches Gebrauchsger&auml;t ist.</p>
+    <div class="box left clear-after">
+        <img src="/shared/photos/kommunikationstechnik/h+b.galvanometer.jpg" alt="Foto eines Galvometers von Hartmann  Braun" width="400" height="351" />
+        <p class="bildtext">Im Jahre 1891 wurde dieses schöne Galvanometer von der Firma Hartmann & Braun (Frankfurt/Main) in Katalogen angeboten. Das Prinzip ist einfach: Durch die unten liegende Spule (grün) fließt der zu messende Strom, der ein Magnetfeld aufbaut. In diesem Feld sitzt eine sehr empfindliche Kompassnadel, die an einem dünnen Draht aufgehängt ist. Je länger und dünner dieser Torsionsdraht ist, desto empfindlicher wird das Gerät.<br>
+		Messen war damals eine Kunst, die man beherrschen musste. Insbesondere stört das Erdmagnetfeld, so dass die richtige Positionierung des Gerätes nur mit Erfahrung gelang.</p>
     </div>
 	  
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/h&b-galvanometer.jpg" alt="Foto eines Spiegelgalvanometers" width="396" height="436" />
 	    <p class="bildtext">
 		    Zu Zeiten, als es noch keine Messverstärker gab war es ein großes Problem, sehr kleine Ströme (oder Spannungen) zu messen. Daher musste man die Drehspulgeräte sehr empfindlich machen. Dies gelang durch eine "empfindlich" gelagerte Drehspule, die an einem Torsionsdraht hängt. Der reflektierende Spiegel am unteren Ende des Torsionsdrahtes wird durch einen Lichtstrahl angeleuchtet und wirkt damit wie ein sehr langer (Licht-)Zeiger. Damit konnte man "Zeigerlängen" von mehreren Metern simulieren. Ein solches Galvanometer muss absolut waagrecht und erschütterungsfrei stehen.
-		    <br>Das abgebildete <b>Spiegel-Galvanometer</b> von Hartmann&Braun aus den 20er Jahren ist ein durchschaubares funktionsfähiges Demomodell.
+		    <br>Das abgebildete <b>Spiegel-Galvanometer</b> von Hartmann & Braun aus den 20er Jahren ist ein durchschaubares funktionsfähiges Demomodell das vorwiegend in Schulen und Universitäten eingesetzt wurde.
 		</p>
 	</div>
 <h3>Kathodenstrahlröhren</h3>

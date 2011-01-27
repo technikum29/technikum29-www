@@ -9,10 +9,9 @@
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    -->
-     <title>technikum29 - <!--#echo var="title" --></title>
+     <title>Technikum29 - <!--#echo var="title" --></title>
 
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>
-    <script type="text/javascript" src="/shared/js/gmaps-impressum.js"></script>
+    <link rel="stylesheet" type="text/css" href="/etc/contact/kontakt.css" />
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="technikum29, Impressum, Kontakt, E-Mail" />
     <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />
@@ -29,32 +28,20 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <div class="vcard" id="address">
-		<div class="org hidden">technikum29 Computer Museum</div>
-		<div class="fn">Dipl. Phys. H. M&uuml;ller</div>
-		<div class="adr">
-			<div class="street-address hidden">Am Flachsland 29</div>
-			<span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
-			<span class="country-name">Germany</span>
-		</div>
-		<div>e-mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></div>
-		<div>internet: <a class="url" href="http://www.technikum29.de/">www.technikum29.de</a></div>
-		<div class="hidden">Photo: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Photography of the museum building" /></div>
-		<div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29 Logo (black on white)" /></div>
-    </div>
+    <address>
+       Dipl. Phys. H. M&uuml;ller
+       <br />D-65779 Kelkheim/Taunus
+       <br />Germany
+       <br />e-mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a>
+       <br />internet: <a href="http://www.technikum29.de/">www.technikum29.de</a>
+    </address>
 
-	<h3>Location</h3>
-	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
-        <div style="padding: 1em; color: gray">Please stand by while maps is loading ...</div>
-		<noscript>
-			<p>Sorry, your browser doesn't understand javascript. See the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Am+Flachsland+29,+65779+Kelkheim,+Deutschland&sll=50.275299,8.745117&sspn=7.598462,15.930176&ie=UTF8&hq=&hnear=Am+Flachsland+29,+65779+Kelkheim+(Taunus),+Main-Taunus-Kreis,+Hessen,+Deutschland&ll=50.373496,6.855469&spn=15.17797,31.860352&z=5" class="go">Our location at Google Maps</a>
-		</noscript>
-    </div>
+    <br/>
 
-    <h3 id="image-copyright">Image use policy and information about reusing technikum29 website contents</h3>
-    <p>Since we recieved a great number of image usage requests, the following information
+    <h3>Image use policy and information about reusing technikum29 website contents</h3>
+    <p>Since we received a great number of image usage requests, the following information
        may give you an overview how you can resue the contents, especially the pictures,
-       of the museal website.</p>
+       of the museum website.</p>
     <p>Basically, everything on this website is protected by international copyright
        law. On the other hand, there are useful limitations and exceptions to copyright
        law. To create clarification, please distinguish:</p>

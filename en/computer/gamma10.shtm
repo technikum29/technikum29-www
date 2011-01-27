@@ -72,8 +72,8 @@
 		  <br>By now the whole mechanics are working again, which is the core
 		  part of the computer. After adjusting the temperature of the
 		  heated core memory and replacing some broken transistors, the
-		  program for doubling punch cards runs again, as well as some
-		  mathematics programs. 
+		  program for duplication punch cards runs again, as well as some
+		  mathematical programs. 
     </p>
 
 	<!-- Idiotisch - den selben Absatz unten nochmal uebersetzt, sogar mit Bild -->
@@ -119,12 +119,12 @@
 	   plug-in boards (flip-flops, amplifiers, etc.) they are mostly
 	   vertically oriented. Almost all transistors are made of germanium.
 	   <br/>The slow non-time-critical logic (like card controlling)
-	   is performed by 573 relais. Building up such an amount of
+	   is performed by 573 relays. Building up such an amount of
 	   wear parts is quiete brave. <!-- stupid mode... -->
            <br/>Summing up, there were about 570 boards like this one in
            the GAMMA 10 (without counting the printer interface). The
            GAMMA 10 was sold as a quite cheap electronic data processing
-           system. We have got a original list of prices for this device
+           system. We have gotten an original list of prices for this device
            from 1968/69, when this model was already out-of-date and
            hence very cheap:
            <br/>CPU with 4kB core memory: 267.000,- DM (about 133.000,- Euro or Dollar)
@@ -133,9 +133,9 @@
      </div>
 
      <p>While our GAMMA 10 is in a very good shape, we cannot use the
-        printer any more, since all the electronics is missing.
+        printer any more, since all electronics are missing.
         Therefore we have set up an ANALEX printer (series 5) from 1965.
-        At that time, this printer was the fastes printer on earth, printing
+        At that time, this printer was the fastest printer on earth, printing
         1250 lines per minute. Of course he may slow down a bit for our GAMMA 10.
         Connecting this device to the BULL computer is supposed to be a
         quite complex problem. We will report about the progress on the
@@ -152,7 +152,7 @@
 		     computer: It is a drum printer, like the original printer,
 			 and the cirtcuitry operates also on a negative logic level
 			 (germanium transistors). Anelex uses a core memory for the
-			 buffer, too. Anyway the printer cannot simply plugged into
+			 buffer, too. Anyway the printer cannot simply be plugged into
 			 the computer, because the original BULL printer works with
 			 the buffer memory which is placed directly in the CPU of the
 			 GAMMA 10. Since we don't want to modify the GAMMA 10 internal

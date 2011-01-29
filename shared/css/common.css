@@ -567,6 +567,26 @@ ul.news-feed li {
 /**********************************************************************\
 | SPEZIAL STYLE                                                        |
 +----------------------------------------------------------------------+
+| Für:                 Wissenschaftliche Rechner                       |
+|                         /de/rechnertechnik/fruehe-computer.shtm      |
+| In Benutzung seit:   29.01.2011                                      |
+| Besonderheiten:      Sieht beschissen aus                            |
+|                                                                      |
+\**********************************************************************/
+
+.fruehe-computer #content .small,
+.fruehe-computer #content dl {
+	font-size: 80%;
+	line-height: 130%;
+}
+
+.fruehe-computer #content dd {
+	margin-left: 2em;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
 | Für:                 Impressum                                       |
 | In Benutzung seit:   September 2010                                  |
 | Besonderheiten:      Frueher einfach address{font-style:italic;},    |

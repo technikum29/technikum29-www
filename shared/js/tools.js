@@ -161,7 +161,7 @@ t29.hostinfo = function() {
  * jQuery-oneliner (!) migriert wurde
  **/
 t29.auto_bildbreite = function() {
-	$("div.auto-bildbreite").each(function(){ $(this).css("width", $("img", this).width()); });
+	$("div.auto-bildbreite, div.desc-right").each(function(){ $(this).css("width", $("img", this).width()); });
 }
 
 /**

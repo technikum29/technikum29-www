@@ -60,16 +60,17 @@
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
     <h3>Classic PDP-8</h3>
-	<div class="box left" style="min-width:900px">
+	<div class="box left">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" />
-		<div style="margin-left: 400px;">
-			<div class="box center auto-bildbreite">
-				<img style="float:none;" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
-				<p class="small">Left: <b>PDP-8</b> with tape unit TU 580, paper tape reader
-				and hard disc DF32. Right: Operator panel</p>
-			</div>
+	</div>
+	<div style="margin-left: 400px; min-width: 490px">
+		<div class="box center auto-bildbreite">
+			<img src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 operator panel" />
+			<p class="small">Left: <b>PDP-8</b> with tape unit TU 580, paper tape reader
+			and hard disc DF32. Right: Operator panel</p>
 		</div>
 	</div>
+
 
 	<p>
          One of the museum highlights: The complete PDP-8 system with processor,
@@ -106,14 +107,14 @@
    
  
   <h3>PDP-8I</h3>
-    <div class="box left" style="min-width: 870px;">
+    <div class="box left">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" />
-		<div style="margin-left:400px;">
-			<div class="box center auto-bildbreite">
-				<img style="float:none" src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i Bedienungspannel" /> 
-				<p class="bildtext small">Left: The PDP-8i system with two-DECtapes TU 55, hight-speed paper tape reader/punch
-					PC 04, 563 CALCOM plotter (top) and a TELETYPE (not shown). Above: the computer console</p>
-			</div>
+	</div>
+	<div style="margin-left:400px; min-width: 450px;">
+		<div class="box center auto-bildbreite">
+			<img style="float:none" src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i operator panel" /> 
+			<p class="bildtext small">Left: The PDP-8i system with two-DECtapes TU 55, hight-speed paper tape reader/punch
+				PC 04, 563 CALCOM plotter (top) and a TELETYPE (not shown). Above: the computer console</p>
 		</div>
 	</div>
       
@@ -136,7 +137,7 @@
 
 		 
 	<h3 id="pdp8L">PDP-8L</h3>
-	<div class="box desc-left">
+	<div class="box desc-left borderless">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8L.jpg" width="400" height="360" alt="DEC PDP-8L" />
 		<p class="small">PDP-8L (build in 1968) with HSR Paper Tape Reader</p>
 	</div>
@@ -178,7 +179,7 @@
 			today's storage standard.
 			</p>
 		
-	<div class="desc-right">
+	<div class="desc-right borderless">
       <img src="/shared/photos/rechnertechnik/dec/pdp-12-innen.jpg" width="297" height="676" alt="DEC LAB-12-Flip-Chips" />
 	  <p class="small">The picture on the left shows the PDP-12 inner life with all 462 Flip-Chip-Boards.</p>
 	</div>
@@ -242,7 +243,7 @@
 	
 	<p>The computer is equipped with further cabinets which allow much more peripherals:</p>
 	
-	<div class="desc-right no-copyright">
+	<div class="desc-right no-copyright borderless">
        <img src="/shared/photos/rechnertechnik/dec/pdp-12anwendung.jpg" width="400" height="366" alt="Typical PDP-12 in scientific environment" />
 	   <p class="bildtext small">Typical picture in the 1970s: PDP-12 in the scientific domain</p>
 	</div>
@@ -283,7 +284,7 @@
 		<img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB-8e" />
 	</div>
 	<div class="box center" style="min-width: 840px;">
-		<img src="/shared/photos/rechnertechnik/dec/pdp-8e,pannel.jpg" width="400" height="300" alt="PDP-8e Bedienungspannel" />
+		<img src="/shared/photos/rechnertechnik/dec/pdp-8e,pannel.jpg" width="400" height="300" alt="PDP-8e operator panel" />
 	</div>
     <div class="bildtext">
             <p>The successor of the PDP-8i was the PDP-8e (1970). This computer came with an

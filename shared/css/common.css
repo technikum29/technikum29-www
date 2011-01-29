@@ -580,6 +580,12 @@ ul.news-feed li {
 	line-height: 130%;
 }
 
+.fruehe-computer #content dt {
+	/* folgende Zeile nicht auskommentieren, wenn die Definitionsterme (dt)
+		nicht dick erscheinen sollen */
+	/* font-weight: normal; */
+}
+
 .fruehe-computer #content dd {
 	margin-left: 2em;
 }
@@ -829,6 +835,10 @@ div.desc-right p, div.desc-left p {
     margin: 1em 0 0 0; padding: 0;
     font-size: 90%;
     text-align: left;
+}
+
+div.desc-right.borderless, div.desc-left.borderless {
+	border: none; /* ja, ziemlich bescheuert sorum */
 }
 
 

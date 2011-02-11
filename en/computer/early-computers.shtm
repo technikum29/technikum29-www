@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Early commercial computers"
    --><!--#set var="next"         value="analog.shtm"
    --><!--#set var="next_title"   value="Analog and hybrid computers"
-   --><!--#set var="credits"      value="M. Kaye / Ann Arbor, MI, USA" 
+  
  --><title>technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
@@ -40,15 +40,7 @@
 		   elaborate documentation. For restoration purposes these manuals are
 		   indispensable. Even in those days, other manufacturers kept their
 		   blueprints in secret for fear of unauthorized re-use (e.g. HP).
-		   <br/>PDP computers were especially used by scientists. By using self-made
-		   (CPU) interface boards, already existing (experimental) equipment could easily
-		   migrated to the new hardware. DEC even offered prefabricated boards to
-		   encourage own extension development.
-		   The figure above shows a typical second generation module (1965) without ICs
-		   from the classic PDP-8 on the left. In the middle is a smaller third generation
-		   module with ICs (from 1967) which was used in the PDP-8i, PDP-8L and PDP-12.
-		   On the right is an empty module just suitable for being equipped by the
-		   user for interfaces to own periphery.
+		  
 		</p>
 	</div>
 	
@@ -60,19 +52,23 @@
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
     <h3>Classic PDP-8</h3>
-	<div class="box left">
+	<div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" />
-	</div>
-	<div style="margin-left: 400px; min-width: 490px">
-		<div class="box center auto-bildbreite">
-			<img src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 operator panel" />
-			<p class="small">Left: <b>PDP-8</b> with tape unit TU 580, paper tape reader
-			and hard disc DF32. Right: Operator panel</p>
-		</div>
-	</div>
+		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
+		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />
+	
+	
+		<p>PDP computers were especially used by scientists. By using self-made
+		   (CPU) interface boards, already existing (experimental) equipment could easily
+		   migrated to the new hardware. DEC even offered prefabricated boards to
+		   encourage own extension development.
+		   The figure above shows a typical second generation module (1965) without ICs
+		   from the classic PDP-8 on the left. In the middle is a smaller third generation
+		   module with ICs (from 1967) which was used in the PDP-8i, PDP-8L and PDP-12.
+		   On the right is an empty module just suitable for being equipped by the
+		   user for interfaces to own periphery.<br>
 
-
-	<p>
+	
          One of the museum highlights: The complete PDP-8 system with processor,
          a big tape deck TU-580 (originally belonged to the PDP-5, manufactured in 1963),
          punch card reader/puncher PC-01, hard-disc DF-32 with immovable heads
@@ -81,8 +77,6 @@
 		 a second-generation computer.
 	</p>
 		 
-	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />
 		<p>This computer features various different logic and register modules. All logic
 		is only built with NAND and NOR gatters. Registers are constructed with flip-flop
 		circuits. The extensive wiring of the modules (see picture) is called
@@ -95,8 +89,11 @@
 		<br>
 		The picture shows the uncovered computer with opened right wing where you can easily
 		see the wire-wrap connections.</p>
-	</div>
-
+	
+		<p class="small">Top: Complete PDP-8 system, <br/> center: console of the computer <br/> below: open computer, the right wing is extended. Here you can see the wire-wrap connections.<br><br>
+		The processor and the tape reader are on loan from the <a href="http://www.fitg.de"> "FITG"</a>, Frankfurt (Germany)</small>
+		
+		</div>
          <!-- The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
          strong men can lift the computer. It is better to have four people to carry it!.
@@ -161,11 +158,11 @@
       <img src="/shared/photos/rechnertechnik/dec/pdp-12.jpg" width="400" height="485" alt="DEC LAB-12" />
  </div>
  <div class="box center" style="min-width: 840px;">
-	  <img src="/shared/photos/rechnertechnik/dec/pdp-12-keyboard.jpg" width="400" height="282" alt="LAB-12 Bedienungspannel" />
+	  <img src="/shared/photos/rechnertechnik/dec/pdp-12-konsole.jpg" width="400" height="256" alt="LAB-12 Bedienungspannel" />
  </div>
  
-			<p>The PDP-12 was released in 1969. It was the last series that
-			could operate in Link mode (it could be switched to either Link-8
+			<p>The PDP-12 was released in 1969. Just 755 units were sold worldwide. It was the last series that
+			could operate in LINC-Mode (it could be switched to either LINC-8
 			or PDP-8). This is a laboratory computer, equipped with AD and DA
 			converter as standard. Such computers were usually kept up to date
 			with hardware updates. The memory of this device was gradually
@@ -271,13 +268,34 @@
 		    from 8kB to 32kB with MM8e-stacks (like in the PDP-8e).
 	</dl>
 	
+	<div class="desc-left auto-bildbreite borderless" style="margin-bottom: 0;">
+      <img src="/shared/photos/rechnertechnik/dec/talk-to-me.jpg" width="163" height="209" alt="Demo-12 Demoprogramm" />
+	  <p class="bildtext small">So logs the PDP-12-demo program</p>
+	</div>
+	
 	<p>This system is fully developed. This was a common approach at that time: At first the
 	   computer was purchased in the basic version which was barely affordable. Afterwards
 	   more options were installed step-by-step. That way the enormous acquisition costs
-	   were distributed over several years and the computer was always up to date.
+	   were distributed over several years and the computer was always up to date.<br>
+	   We have very good programs [Demo-12 running on DIAL], which shows with extreme illustrative the performance of the computer. This includes an on-screen analog clock with real-time display and the game
+"SPACE WAR". Some of will be soon available on our special page [in working].
     </p>
+	<div class="cols" style="clear:left;">
+	<div class="leftcol">
+	<p class="small">(Google-translation!):We have a PDP-12 price list from the year 1973, a period in which the PDP-12 was already an outdated model. Our fully-equipped computer was a PDP-12 LDP (Laboratory Data Processor), here specifically a "clinical lab12", sold at a price of DM 206.700. Most of the options listed above were built in. (In 1973 3,50DM corresponds to 1$).<br>
+	This computer was equipped with 4kB Memory Core. So one needs in adition a "Memory Extension Control" for 16.600 DM and a 4kB Memory Module for 25.100 DM. The price for the unimposing Peripheral Expander BA12 was 5.400 DM (equivalent to a midsize car) and "High-Speed Paper Tape Reader/Punch" incredible 16.200 DM.</div>
+	<div class="rightcol">
+	<p class="small">
 
+	A Disk Cartridge Drive RK05 where sold for DM 21.200, where one needs in addition the "Positive I/O Bus to Omnibus Converter" DW8E (6750 DM). Similarly is the Converter DW08A and the Cabinet AA50 for additional D/A Controller. The 3 plugged D/A modules were calculated with 1.680 DM per unit.
+	The memory expansion to 32K does not appear on the list, but the price for this option was about 50.000 DM including the controller.<br>
 
+	In the sum it is a staggering number of 387.690 DM, which is today corresponding about 500,000 € or 600.000 $!</p>
+</small>
+</div>
+</div>
+<div class="clear">
+</div>
 
 	 <h3 id="8e">Lab-8e, PDP-8e</h3>
 	<div class="box left">

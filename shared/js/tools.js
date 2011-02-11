@@ -147,6 +147,24 @@ t29.hostinfo = function() {
 }
 
 /**
+ * technikum29.de | Lightbox-Implementierung
+ *
+ * Nutze Fancybox (http://www.fancybox.net) als Lightbox-Variante seit
+ * Februar 2011, an verschiedenen Stellen.
+ *
+ **/
+t29.lightbox = function() {
+	var elements = $("#content .popup");
+	if(elements.length) {
+		// we have fancybox elements on this page. Load Javascript and CSS
+		$("<style type='text/css'/>").html('@import url("/shared/js/fancybox/jquery.fancybox-1.3.4.css")').appendTo("head");
+		$.getScript('/shared/js/fancybox/jquery.fancybox-1.3.4.pack.js', function(){
+			elements.fancybox();
+		});
+	} // if lightbox elements
+}
+
+/**
  * technikum29.de | javscripts: auto-bildbreite
  *
  * Zur Ergaenzung des Bildbox-Konzepts wurde Januar 2010 die automatische
@@ -247,3 +265,4 @@ $(t29.window_size);
 $(t29.img_license);
 $(t29.heading_links);
 $(t29.tr.preloader.onload);
+$(t29.lightbox);

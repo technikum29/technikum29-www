@@ -574,8 +574,8 @@ ul.news-feed li {
 |                                                                      |
 \**********************************************************************/
 
-.fruehe-computer #content .small,
-.fruehe-computer #content dl {
+#content .small,
+#content dl {
 	font-size: 80%;
 	line-height: 130%;
 }

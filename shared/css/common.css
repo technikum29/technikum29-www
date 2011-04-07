@@ -40,18 +40,23 @@
 | In Benutzung seit:   v5.7 (Redesign)                                 |
 | Besonderheiten:      Zweispaltiges Design mit Boxen                  |
 | Zuletzt geändert:    v5.7                                            |
+|     08.04.2011: Startseitendesign noch mal geändert in so einen      |
+|                 grauen Hintergrund und so                            |
 |                                                                      |
 \**********************************************************************/
 
 
 /* Spezialstyle der neuen Startseite: */
-.startseiten-design div {
-    padding: 2em;
-    margin: 2em 0;
-    /*border: 1px solid blue;*/
-    background-color: #F5F5F5; /*#fafafa;*/
-    border: 1px solid #aaa;
+.body-wrapper.start {
     background-image: url(../img/fresh.design/sidebar-stripe.gif);
+}
+
+.start #wrapper { background-image: url("../img/fresh.design/menu-bg/binary-transparent.png"); }
+
+.startseiten-design div {
+    padding: 1em;
+    margin: 0;
+    /*border: 1px solid blue;*/
 }
 
 #content .startseiten-design div h2, /* id zur Bedeutungssteigerung */
@@ -74,8 +79,7 @@
     /* #startseitenfoto-en für /en, da gibts kein .startseiten-design */
     border: none;
     padding: 0;
-    margin-left: auto;
-    margin-right: auto;
+	margin: 2em auto;
     background: none;
     width: 338px; height: 228px; /* Bildgrößen */
     position: relative;

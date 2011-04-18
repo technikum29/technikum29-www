@@ -20,8 +20,8 @@
 <div id="content">
     <h2 id="pdp8L"><!--#echo var="title" --></h2>
     <p>
-	    Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Computer eben "mini" war. Frühe Computer sind wegen ihrer stattlichen Größe und der sehr schönen transparenten Zusatzgeräten vor allem in ihrer Funktion sehenswert.
-        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz DEC) der 12-Bit-Serie PDP-8 bzw. PDP-12. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital <b>C</b>omputer".
+	    Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Rechner zu den "Minis" gehörte, insbesondere war die CPU sehr klein. Frühe Computer sind wegen ihrer stattlichen Größe und der sehr schönen transparenten Peripheriegeräten vor allem in ihrer Funktion sehenswert.
+        <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz <b>DEC</b>) der 12-Bit-Serie PDP-8 bzw. PDP-12. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital <b>C</b>omputer".
 	</p>
 		
 	<div class="box left clear-after">
@@ -45,8 +45,7 @@
 					Lochstreifenleser und Festplatte, rechts: Bedienungspannel.
 				</p>
 		</div>-->
-<p>PDP-Rechner wurden vorwiegend von Wissenschaftlern eingesetzt, z.B. bei fast allen Max-Planck-Forschungsinstituten. Mit Hilfe selbstgebauter Interface-Karten bestand die Möglichkeit, bereits vorhandene Geräte und experimentelle Anordnungen einzubinden. Selbst dazu lieferte DEC vorgefertigte Boards, die einen Selbstbau von Anpassungen sehr erleichterten. Die Abbildung oben zeigt links ein typisches Modul der 2. Generation (1965) ohne ICs aus der Classic PDP-8. In der Mitte befindet sich ein kleines Modul der 3. Generation (ab 1967) mit ICs, welches in den Geräten PDP-8/I, PDP-8/L und PDP-12 verwendet wurde. Rechts schließlich ist ein leeres Modul; es kann vom Anwender für spezifische Erweiterungen der Peripherie bestückt werden. <br>
-Diese Rechner der 2. Generation haben einen entscheidenden Vorteil: Fehler lassen sich einfacher auffinden, da jeder einzelne Transistor frei zugänglich ist.</p>
+<p>PDP-Rechner wurden vorwiegend von Wissenschaftlern eingesetzt, z.B. bei fast allen Max-Planck-Forschungsinstituten. Mit Hilfe selbstgebauter Interface-Karten bestand die Möglichkeit, bereits vorhandene Geräte und experimentelle Anordnungen einzubinden. Selbst dazu lieferte DEC vorgefertigte Boards, die einen Selbstbau von Anpassungen sehr erleichterten. Die Abbildung oben zeigt links ein typisches Modul der 2. Generation (1965) ohne ICs aus der Classic PDP-8. In der Mitte befindet sich ein kleines Modul der 3. Generation (ab 1967) mit ICs, welches in den Geräten PDP-8/I, PDP-8/L und PDP-12 verwendet wurde. Rechts schließlich ist ein leeres Modul; es kann vom Anwender für spezifische Erweiterungen der Peripherie bestückt werden. </p>
 
 	<p>Eines der musealen Highlights ist die PDP-8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP-5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber als Drucker. Diese Classic-8 ist der erste in Serie gebauter "Minicomputer" der Welt (Bj. 1965, Serien Nr. 100). <br/>
 	</p> 
@@ -54,6 +53,7 @@ Diese Rechner der 2. Generation haben einen entscheidenden Vorteil: Fehler lasse
 
 		<p>Aufgebaut ist dieser Computer durch eine Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen aufgebaut. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a href="http://de.wikipedia.org/wiki/Wickelverbindung">Wikipedia</a> nachzulesen ist. <br/>
 		Diese Wire-Wrap-Verbindungen wurden bis in die 80er Jahre bei allen größeren Rechnern angewendet. Es ist eine einfache Möglichkeit, räumlich beliebig liegende Modulanschlüsse miteinander zu verbinden. Anfangs erfolgte das "Wrappen" noch per Hand und wurde später von Automaten ausgeführt. Auch heute gibt es bei Versuchsschaltungen noch solche Verbindungen.<br>
+		Rechner der 2. Computer-Generation haben einen entscheidenden Vorteil: Fehler lassen sich einfacher auffinden, da jeder einzelne Transistor frei zugänglich ist.
 		 </p>
 		 
 		<p class="small">Bild oben: Komplette PDP-8 Anlage,<br/> mitte: Konsole des Rechners,<br/> unten: geöffneter Computer, wobei der rechte Flügel ausgeklappt ist. Hier erkennt man die Wire-Wrap-Verbindungen.<br><br>

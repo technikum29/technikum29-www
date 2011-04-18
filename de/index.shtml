@@ -21,11 +21,42 @@
     <meta name="t29.this.date" content="07.01.08" />
     <meta name="t29.this.comment" content="Was gibt es neues" />
     <!--t29.changelog: 16.08.07/v5.7.1: Was gibt es neues: Telegrafenstation hinzugefügt -->
+	
+	
+	<style type="text/css">
+	
+body {
+	background-image: url("http://heribert/shared/photos/start/neu/Sven%20Hintergrund4.JPG");
+	background-repeat: no-repeat;
+	-moz-background-size: 100% auto;
+	background-color: #bac1c7;
+	background-position: 0 100px;
+}
+
+#content {
+	margin-top: -15px;
+}
+
+.startseiten-design div {
+	background: transparent;
+	border: none;
+	padding: 0;
+}
+
+#wrapper {
+	background-image: url("http://heribert/shared/photos/start/neu/binary-background.png");
+}
+
+#content > h2 { text-align: center; border-bottom: none; }
+
+.foto img { border: 1px solid #555; -moz-box-shadow: 2px 2px 2px #999; }
+.foto p { text-shadow: 1px 1px 1px black; }
+		</style>
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
-    <h2><!--#echo var="title" --></h2>
+   
 
     <div class="cols">
        <div class="leftcol startseiten-design">
@@ -38,7 +69,7 @@
            </ul>
           </div>
 
-        <div class="wen">
+        <div class="wen"><br>
             <h2>Für wen&nbsp;?</h2>
             <ul>
                
@@ -48,28 +79,33 @@
             </ul>
         </div>
 		
-		        <div class="erwartung">
-            <h2>Was wird geboten ?</h2>
-            <ul>
-                <li>Ein Besuch ist immer mit einer Führung und eventuell einer Präsentation verbunden. Schülergruppen erhalten eine altersgemäße Führung (siehe "Didaktische Konzeption"). Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! </li>
-            </ul>
-        </div>
-      </div><!--leftcol-->
-
-      <div class="rightcol startseiten-design">
-        <div class="wo">
+		        <div class="wo"><br>
             <h2>Wo&nbsp;?</h2>
             <ul>
                 <li>Westlich von Frankfurt/Main (ca. 15 Minuten.), <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
             </ul>
         </div>
+            
         
-        <div class="foto">
+      </div><!--leftcol-->
+
+      <div class="rightcol startseiten-design">
+	  <div class="foto">
                 <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
                 <p>Das Museumsgeb&auml;ude</p>
         </div>
+	  
+	  <div class="erwartung">
+            <h2>Was wird geboten ?</h2>
+            <ul>
+                <li>Ein Besuch ist immer mit einer Führung und eventuell einer Präsentation verbunden. Schülergruppen erhalten eine altersgemäße Führung (siehe "Didaktische Konzeption"). Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! Eine Führung dauert in der Regel ca. 90 Minuten.</li>
+            </ul>
+	  </div>
+	  
+	  
         
-        <div class="wann">
+        
+        <div class="wann"><br>
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
@@ -77,19 +113,17 @@
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.</br>
 				
 					</li>
-					
-	
-	
-					
             </ul>
         </div>
-       
-        
       </div><!--rightcol-->
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>
     
-    
+	<br><br>
+    <div class="box center auto-bildbreite">
+                <img src="/shared/photos/start/zeitreise.jpg" alt="Zeitreise" width="676" height="372" />
+                
+        </div>
     
 
 

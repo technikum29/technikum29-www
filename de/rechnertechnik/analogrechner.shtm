@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Wissenschaftliche Rechner und Minicomputer"
    --><!--#set var="next"         value="speichermedien.shtm"
    --><!--#set var="next_title"   value="Speichermedien"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Analogrechner, Hybridrechner, Telefunken, RAT 700" />
@@ -30,23 +30,26 @@
 		
     <h3>Heathkit Analog Computer H1 (ES-400)</h3>
     <div class="box center" style="margin-bottom: 0;">
-        <img src="/shared/photos/rechnertechnik/heathkit-analogrechner.jpg" width="493" height="337" alt="Heathkit Analog Computer H1 (ES-400)" />
+        <img src="/shared/photos/rechnertechnik/heathkit-analog-computer.jpg" width="694" height="443" alt="Heathkit Analog Computer H1 (ES-400)" />
 
         <p>Heathkit, bekannt durch seine Bausätze, entwickelte 1956 einen Analogrechner, der vorwiegend für die Ausbildung gedacht war. So entstand ein Ungetüm mit 70 Röhren, wobei 45 wegen der besseren Kühlung außen platziert waren. Dieser Lehrcomputer für Übungszwecke ist mit 15 Rechenverstärkern ausgestattet.</p>
     </div>
 
     <div class="box left clear-after" style="margin-top: 0;">
-       <img src="/shared/photos/rechnertechnik/heathkit-ausschnitt.jpg" alt="Ausschnitt des Heathkit Analog Computers H1" width="247" height="179" class="nomargin-bottom" />
+       <img src="/shared/photos/rechnertechnik/heathkit-detail.jpg" alt="Ausschnitt des Heathkit Analog Computers H1" width="400" height="277" class="nomargin-bottom" />
        <div class="bildtext">
           Er demonstriert archaisch frühe Technik der 1. Generation. Dazu passend ist ein röhrenbestückter xy-Schreiber angeschlossen.
-		   <br />Dieses Gerät ist eine Leihgabe des <a href="http://www.fitg.de">"FITG" (Frankfurt) </a>
-       </div>
-    </div>
+		   <br />Dieses Gerät ist eine Leihgabe des <a href="http://www.fitg.de">"FITG" (Frankfurt) </a></div>
+	<p class="small">Ausschnittsweise Übersetzung aus dem Originalprospekt:<br>	   "Dies ist ein sehr flexibler und genauer analoger Computer der entworfen wurde um Anforderungen zu genügen, die derzeit nicht durch kommerzielle Computer erfüllt werden können. Es ist ein Instrument für den Einsatz in der Industrie und an Universitäten. Ein fortschrittlicher "Rechenschieber", der Ingenieuren oder Mitarbeiter in der Forschung erlaubt, elektronisch Gleichungen oder physikalische Probleme zu simulieren. Er erspart viele Stunden Zeit die sonst für Berechnungen oder für Experimente investiert werden müsste .....<br>
+Da es sich um einen Bausatz handelt, wird ein Teil der Anschaffungskosten eingespart. Daher eignen sich Heath Computer für den Einsatz in Situationen, in denen ein Computer in der Vergangenheit wegen der hohen Kosten nicht eingesetzt werden konnte......."</small></p>
+
+     </div> 
+    
 
 
     <div class="box left clear-after">	 
         <h3>Heathkit Analog Computer EC-1</h3>
-        <img src="/shared/photos/rechnertechnik/heathkit EC-1.jpg" width="365" height="256" alt="Heathkit EC-1" />
+        <img src="/shared/photos/rechnertechnik/heathkit-ec1.jpg" width="400" height="252" alt="Heathkit EC-1" />
         <p>Dies ist ein sehr kleiner ab 1960 gebauter Analogrechner für Schulen und Ausbildung. Aufgebaut mit nur 17 Röhren (davon 5 für die Spannungsstabilisierung) war er gerade gut, um das Prinzip des Analogrechners zu verdeutlichen. Für ernsthafte Berechnungen war er zu klein und zu ungenau. Ein abgespeckter ES-400 der 1960 als Bausatz stolze 1.494,- DM kostete, betriebsfertig jedoch 1.894,- DM (ca. 900 Euro).</p>
     </div>
 

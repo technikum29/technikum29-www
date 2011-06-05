@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik"
    --><!--#set var="next"         value="tabelliermaschine.shtm"
    --><!--#set var="next_title"   value="BULL Tabelliermaschine"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
 	<meta name="t29.SVN" content="$Id$" />
@@ -19,7 +19,8 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher konnten sie sich bis in die 80er Jahre halten. Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
+    <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Die hier aufgeführeten Lochkarten-Peripheriegeräte waren notwendig um effektiv mit EDV-Anlagen arbeiten zu können. Wir stellen daher zunächst die Peripherigeräte und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
+	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
 <h3>Lochkartenstanzer</h3>
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg" alt="Lochkartenstanzer" width="330" height="368" class="nomargin-bottom" />
@@ -43,7 +44,8 @@
         <p class="bildtext"><b>UNIVAC Lochkartenstanzer 1710</b></p> 
     </div>
 	<p>Der Univac 1710 kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
-		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man Stanzprogramme (z.B. Feldsprünge) und auch Daten speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
+		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man zwei Stanzprogramme (z.B. Feldsprünge) und auch den Inhalt einer Datenkarte speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
+		Als Speicher dient ein Kernspeicher mit 12x80x2 Ringkernen.
 		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
 		
 		<h3>Sortiermaschinen</h3>
@@ -59,10 +61,10 @@
     </div>
 
     <div class="box center auto-bildbreite">
-        <a href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm_083.jpg" alt="IBM 083 Sortiermaschine" width="569" height="487" /></a>
+        <a href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
-            Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut.
+            Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
@@ -93,7 +95,8 @@
         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
         <p class="bildtext">
             <b>IBM 548</b></p></div>
-			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf zwei Zeilen beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und leider keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.
+			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>
+			Nach dem Duplizieren von Lochkarten ist eine Beschriftung mittels IBM 548 sehr hilfreich.
         </p>
   
 	 

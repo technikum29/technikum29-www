@@ -25,6 +25,12 @@
 
 
 <ul class="news-feed">
+<li><h3>Juni 2011</h3>
+<div class="box left">
+<img src="/shared/photos/kommunikationstechnik/tek555kl.jpg" width="250" height="300"/>
+</div>
+Neu in der Rubrik "Experimentier- und Messtechnik" ist eine kurze Beschreibung von legendären Tektronix-Oszilloskopen, hier insbesondere die <a href="/de/kommunikationstechnik/messtechnik.shtm#555"><b>Type 555.</b></a>
+<div class="clear"></div></li>
 <li><h3>Januar 2011</h3>
 Wir haben die Seite mit den PDP-8 und PDP-12 Rechnern stark erweitert und die PDP-8L mit einbezogen.<br>
 Schauen Sie ganz einfach <a href="/de/rechnertechnik/fruehe-computer.shtm#pdp8l">hier.</a></li>
@@ -40,16 +46,7 @@ Eine Beschreibung des legendären Kosmos Lehrbaukastens gibt es <a href="/de/komm
 Ein <a href="/de/rechnertechnik/fruehe-computer.shtm#pdp12"> <i>PDP-12 Rechner</i></a> der Firma Digital aus dem Jahre 1969.<br>
 Mit diesem gut ausgebautem Laborrechner wird die Lücke aller 12-Bit-Systeme, die von Digital in den Jahren von 1965 bis 1971 gebaut wurden geschlossen. <div class="clear"></div>
 </li>
-<li><h3>September 2010</h3>
-<div class="box left">
-<img src="/shared/photos/rechnertechnik/siemens-demo.jpg" width="350" height="293"/>
-	  <p class="bildtext"> Wir verfügen nunmehr über einen großen <a href="/de/sonstiges.shtm#demo"> <i>Demonstrations-Computer</i></a> von Siemens aus dem Jahre 1973 (Bild links). Genaueres hierüber erfahren Sie unter der Rubrik "Pianola und Anderes". <div class="clear"></div>
-</li>
 
-<li><h3>Juni 2010</h3>Für besonders interessierte Leser schreiben wird fortlaufend einen <a href="/de/rechnertechnik/univac9200.shtm#blog"><i>Reparatur-Blog</i> über die Restauration der UNIVAC 9300 Anlage</a>. Hier kann man die Höhen und Tiefen einer solchen Herausforderung miterleben.</li>
-
-<li><h3>März 2010</h3>Für Informatiker und Spezialisten wurde unser neues "Lochkartenprojekt" in der Rubrik 
-<a href="/de/entwicklungsprojekte.shtm" class="go"> "Entwicklungsprojekte"</a> eingefügt. Hier wird die Verbindung von aktueller Computertechnik mit historischer EDV Technik gezeigt.</li>
 
 
 	

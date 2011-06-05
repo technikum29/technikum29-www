@@ -51,7 +51,8 @@ t29.gettext  = function(de, en) {
  *
  * 2010 Sven Koeppel
  **/
-t29.img_license_settings = {
+t29.img_license = {}; // img license namespace
+t29.img_license.settings = {
 	// enable or disable system (e.g. used as API in Translation subsystem)
 	enabled : true,
 
@@ -70,33 +71,54 @@ t29.img_license_settings = {
 
 // configuration end
 
-t29.img_license = function() {
+// helper elements in t29.img_license namespace:
+// * hover_in, hover_out: functions called by apply()
+// * img: The current image element where the license tag is shown
+// * tag: The jquery element of the image license tag
+// * tag_top: helper function for css top setting for tag.
+t29.img_license.hover_in = function(){
+	if(!t29.img_license.settings.enabled
+	      || this.width < t29.img_license.settings.treshold_size[0]
+	      || this.height < t29.img_license.settings.treshold_size[1])
+		return;
+	t29.img_license.img = $(this);
+	t29.img_license.tag.css({
+		left: $(this).offset().left,
+		// top: tag_top();
+		width: $(this).width(),
+		display: "block"
+	});
+	t29.img_license.tag_top();
+	t29.img_license.tag.css("margin-top", -t29.img_license.tag.height()); // erst in zweitem schritt
+};
+t29.img_license.hover_out = function(){
+	t29.img_license.tag.hide();
+	t29.img_license.img = null;
+};
+t29.img_license.tag_top = function() {
+	if(t29.img_license.img)
+		t29.img_license.tag.css("top", Math.min(
+			t29.img_license.img.offset().top + t29.img_license.img.height(),
+			$(window).scrollTop()+$(window).height()));
+};
+
+// use this function from outer, see onload for help.
+// improvement possibility: converse to $.fn so can call $("img#my").img_license();
+t29.img_license.apply = function($elem) {
+	$elem.hover(t29.img_license.hover_in, t29.img_license.hover_out);
+};
+
+t29.img_license.onload = function() {
 	$("body").append('<div id="img-license-tag"><p>'+
 		// detect language by heading language (ripped from t29_gmaps...)
-		t29.img_license_settings.text[t29.language()]+'</p></div>');
-	var tag = $("#img-license-tag");
-	var tag_top = function() { if(t29.img_license_settings.img)
-		tag.css("top", Math.min(
-			t29.img_license_settings.img.offset().top + t29.img_license_settings.img.height(),
-			$(window).scrollTop()+$(window).height()));
-	};
-	$("img").not(t29.img_license_settings.exclude).hover(function(){
-		if(!t29.img_license_settings.enabled
-		      || this.width < t29.img_license_settings.treshold_size[0]
-		      || this.height < t29.img_license_settings.treshold_size[1])
-			return;
-		t29.img_license_settings.img = $(this);
-		tag.css({
-			left: $(this).offset().left,
-			// top: tag_top();
-			width: $(this).width(),
-			display: "block"
-		});
-		tag_top();
-		tag.css("margin-top", -tag.height()); // erst in zweitem schritt
-	}, function(){ tag.hide(); t29.img_license_settings.img = null; });
-	$(window).scroll(tag_top);
-	tag.hover(function(){ $(this).show(); }, function(){ $(this).hide(); });
+		t29.img_license.settings.text[t29.language()]+'</p></div>');
+	t29.img_license.tag = $("#img-license-tag");
+
+	$(window).scroll(t29.img_license.tag_top);
+	t29.img_license.tag.hover(function(){ $(this).show(); }, function(){ $(this).hide(); });
+
+	// enable on all images
+	t29.img_license.apply( $("img").not(t29.img_license.settings.exclude) );
 };
 
 /**
@@ -159,7 +181,23 @@ t29.lightbox = function() {
 		// we have fancybox elements on this page. Load Javascript and CSS
 		$("<style type='text/css'/>").html('@import url("/shared/js/fancybox/jquery.fancybox-1.3.4.css")').appendTo("head");
 		$.getScript('/shared/js/fancybox/jquery.fancybox-1.3.4.pack.js', function(){
-			elements.fancybox();
+			elements.fancybox({
+				onComplete: function() {
+					// etwas quick and dirty:
+					if(! this.orig.is(".no-copyright")) {
+						t29.img_license.apply( $("#fancybox-img") );
+						// little hacky:
+						$("#img-license-tag").css("z-index", "10000"); // make sure much bigger than fancybox
+						// fire "hover in" because images are typically big
+						// and mouse cursor may not move on picture
+						t29.img_license.hover_in.call($("#fancybox-img")[0]);
+					}
+				},
+				onClosed: function() {
+					// wieder de-applying
+					$("#fancybox-img").unbind('mouseenter mouseleave');
+				}
+			});
 		});
 	} // if lightbox elements
 }
@@ -262,7 +300,7 @@ t29.tr.preloader.onload = function() {
 $(t29.auto_bildbreite);
 $(t29.hostinfo);
 $(t29.window_size);
-$(t29.img_license);
+$(t29.img_license.onload);
 $(t29.heading_links);
 $(t29.tr.preloader.onload);
 $(t29.lightbox);

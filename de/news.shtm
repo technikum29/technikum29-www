@@ -25,12 +25,23 @@
 
 
 <ul class="news-feed">
+
+<li><h3>Juli 2011</h3>
+<div class="box left">
+<img src="/shared/photos/rechnertechnik/nova-klein.jpg" width="250" height="356"/>
+</div>
+Wir haben eine schöne NOVA Komplettanlage (Farbe: Enzian-blau) erhalten. Dies ist ein wissenschaftlicher Rechner der ab 1969 zur Konkurrenz von DEC (digital) wurde.<br>
+Einer der ersten Computer, dessen Wortlänge ein Mehrfaches von einem Byte ist.<br>
+Mehr erfahren Sie hier: <a href="/de/rechnertechnik/fruehe-computer.shtm#nova"><b>Nova 2 Anlage.</b></a>
+<div class="clear"></div></li>
+
 <li><h3>Juni 2011</h3>
 <div class="box left">
 <img src="/shared/photos/kommunikationstechnik/tek555kl.jpg" width="250" height="300"/>
 </div>
 Neu in der Rubrik "Experimentier- und Messtechnik" ist eine kurze Beschreibung von legendären Tektronix-Oszilloskopen, hier insbesondere die <a href="/de/kommunikationstechnik/messtechnik.shtm#555"><b>Type 555.</b></a>
 <div class="clear"></div></li>
+
 <li><h3>Januar 2011</h3>
 Wir haben die Seite mit den PDP-8 und PDP-12 Rechnern stark erweitert und die PDP-8L mit einbezogen.<br>
 Schauen Sie ganz einfach <a href="/de/rechnertechnik/fruehe-computer.shtm#pdp8l">hier.</a></li>

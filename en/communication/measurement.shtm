@@ -8,7 +8,7 @@
    --><!--#set var="prev_title"   value="Fax engineering"
    --><!--#set var="next"         value="/en/computer/electro-mechanical.shtm"
    --><!--#set var="next_title"   value="(Elektro-) mechamical calculators"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/en/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
@@ -33,7 +33,7 @@
            will probably note the use of "natural" materials (wood, glass, metal) and the
            well-designed very simplified interface that makes comprehension simple.
            <br/>We will go into detail for some of the devices shown on the left.
-         </p>
+        
     </div>
 
 	<h3>Galvanometer</h3> <!-- sic -->
@@ -45,10 +45,11 @@
             </p>
       </div>
       
-      <div class="box right clear-after">
-          <img src="/shared/photos/kommunikationstechnik/galvanometer.jpg" alt="Galvometers" width="321" height="275" />
-          <p class="bildtext">This is only an example from the early measurement technique: any galvanometer from the 20s. The lovely, sumptuous and nice design of the appearance is unmistakable, althought it is only a simple customer equipment.</p>
-      </div>
+      <div class="box left clear-after">
+        <img src="/shared/photos/kommunikationstechnik/h+b.galvanometer.jpg" alt="Foto eines Galvometers von Hartmann  Braun" width="400" height="351" />
+        <p class="bildtext">In 1891, this beautiful galvanometer was purchased from Hartmann & Braun (Frankfurt/Main, Germany) and offered in catalogs. The principle is simple: in the underlying coil (green) flows the current to be measured, which builds a magnetic field. In this field sits a very sensitive compass needle which is hung up on a thin wire. The longer and thinner the torsion wire, the more sensitive the device.<br>
+Measuring was then an art that had to be mastered. Particularly disturbs the Earth's magnetic field, so that a correct positioning were only able by experts.</p>
+    </div>
 
       <div class="box left clear-after">
            <img src="/shared/photos/kommunikationstechnik/h&amp;b-galvanometer.jpg" alt="Photography of a mirror galvanometer" width="396" height="436" />
@@ -63,6 +64,17 @@
              <br/>The <b>Mirror Galvanometer</b> by Hartmann&nbsp;&amp;&nbsp;Braun is
              a simple and functional demonstration model from the 1920s.</p>
            </div>
+    </div>
+	
+	
+	<h3>Radio engineering</h3>
+
+    <div class="box left clear-after">
+          <img src="/shared/photos/kommunikationstechnik/neva-funktechnik.jpg" alt="Photography of the Neva Experimental system" width="396" height="280" />
+          <p class="bildtext">With the <b>NEVA radio technology system</b>, students could
+            do challenging experiments like measuring the wave lengths in the VHF area
+            with the Lecher lines. 
+          </p>
     </div>
 	
 	<h3>Cathode Ray Tubes</h3>
@@ -87,8 +99,8 @@
           <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Photography of an AEG oscilloscope" width="425" height="419" />
 		  <p class="bildtext">
               After the currency reform in West Germany, the production
-              of mesurement devices got going again. This <b>AEG
-              oscilloscope</b> was built in 1949. It seems to be an exact
+              of mesurement devices got going again. This AEG
+              oscilloscope was built in 1949. It seems to be an exact
               replica from an AEG device of the late thirties. It is
               equipped with steel tubes that were put on the German
               market at 1938. Neither the time base of the horizontal
@@ -109,16 +121,24 @@
           </p>
        </div>
 	   
-	<h3>Radio engineering</h3>
 
-    <div class="box left clear-after">
-          <img src="/shared/photos/kommunikationstechnik/neva-funktechnik.jpg" alt="Photography of the Neva Experimental system" width="396" height="280" />
-          <p class="bildtext">With the <b>NEVA radio technology system</b>, students could
-            do challenging experiments like measuring the wave lengths in the VHF area
-            with the Lecher lines. <!-- Das mit den 300V ist Bloedsinn, weil die Stroeme
-            niedrig sind => ungefaehrlich. -->
-          </p>
-    </div>
+
+   <h3 id="t555">TEKTRONIX Oszilloscopes</h3>
+	<div class="box left clear-after">
+        <img src="/shared/photos/kommunikationstechnik/tektronix555.jpg" alt="Tektronix 555" width="396" height="448" />
+		<p class="bildtext">
+		In the heyday of pulse technology as used in radar and computing the development of high performance oscilloscopes was necessary. This is where an Oregan based company named Tektronix Inc. made a name for themselves. Their products are examples of high precision measurement equipment showing great workmanship and extraordinary performance. In addition to that Tektronix oscilloscopes
+came with service manuals that are a joy to read and a source of knowledge in electronic circuit design. Over the years Tektronix oscilloscopes became the epitome of high quality commercial oscilloscopes nearly unrivaled by other companies.<br>
+On the left hand side the truly gigantic Tektronix Type 555 oscilloscope is shown. The oscilloscope sitting next to it is a Type 564 which is also quite big but does not compare with the 555. 
+The Type 555 was first sold in 1963 and is a true dual-beam oscilloscope with two individual time bases. This makes it superior compared with traditional dual-channel oscilloscopes with only a single time base and an electronic chopper for the dual-channel display. <br>
+The 555 features a separate power supply which is sitting on the bottom of the oscilloscope cart (a scope mobile). All in all the 555 contains about 100 tubes - an extraordinary amount for such a device. As a result the power requirement of the 555 is quite high with about 1 kW.<br>
+The maximum signal frequency that can be displayed with the 555 is 33 MHz - an outstanding value for the time. Oscilloscopes like the 555 were normally carried from one place to another by a cart (it is next to impossible to lift such a device as a single person). Therefore the scope mobile often had storage space for additional modules that were not regularly used.<br>
+The 555 on display is in mint condition - a rare circumstance since most  oscilloscopes from this time show signs of their heavy duty use.<a  class="popup" href="/shared/photos/kommunikationstechnik/555.jpg"><b> A high resolution picture of the 555</b></a> can be seen here.</a><br>
+The Type 564 oscilloscope on the scope mobile on the right uses a bistable storage tube - a technology that was not mature at this time. These tubes were characterized by a short life time. Most notably the brightness of the display decreased rapidly with time and the maximum beam velocity for
+storing images was about 500 cm/ms.<br>
+Below the 564 is a Tektronix Type 453 - a small oscilloscope which is quite difficult to service and repair due to its small physical size. By the way: Modern Tektronix oscilloscopes offer bandwidths up to 80GHz!
+		</p>
+		</div>
 
 	<h3>Digital experience system</h3>
 	

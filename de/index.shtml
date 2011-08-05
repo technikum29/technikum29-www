@@ -17,41 +17,7 @@
     <meta name="keywords" lang="de" content="technikum29, Technikmuseum, Computermuseum, Museum, Main-Taunus" />
     <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Technikum29 Startseite Deutsch" />
-    <meta name="t29.this.version" content="v5.7.14" />
-    <meta name="t29.this.date" content="07.01.08" />
-    <meta name="t29.this.comment" content="Was gibt es neues" />
-    <!--t29.changelog: 16.08.07/v5.7.1: Was gibt es neues: Telegrafenstation hinzugefügt -->
-	
-	
-	<style type="text/css">
-	
-body {
-	background-image: url("http://heribert/shared/photos/start/neu/Sven%20Hintergrund4.JPG");
-	background-repeat: no-repeat;
-	-moz-background-size: 100% auto;
-	background-color: #bac1c7;
-	background-position: 0 100px;
-}
-
-#content {
-	margin-top: -15px;
-}
-
-.startseiten-design div {
-	background: transparent;
-	border: none;
-	padding: 0;
-}
-
-#wrapper {
-	background-image: url("http://heribert/shared/photos/start/neu/binary-background.png");
-}
-
-#content > h2 { text-align: center; border-bottom: none; }
-
-.foto img { border: 1px solid #555; -moz-box-shadow: 2px 2px 2px #999; }
-.foto p { text-shadow: 1px 1px 1px black; }
-		</style>
+    <meta name="t29.SVN" content="$Id$" />
 </head>
 <body>
 <!--#echo encoding="none" var="heading" -->
@@ -82,7 +48,7 @@ body {
 		        <div class="wo"><br>
             <h2>Wo&nbsp;?</h2>
             <ul>
-                <li>Westlich von Frankfurt/Main (ca. 15 Minuten.), <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
+                <li>Westlich von Frankfurt/Main (ca. 15 Minuten), <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
             </ul>
         </div>
             
@@ -115,15 +81,43 @@ body {
 					</li>
             </ul>
         </div>
+		
+		
+		
+		<div class="flyer">
+			<h2>Flyer-Download</h2>
+			<div class="foto">
+                <img src="/shared/photos/start/flyer.jpg" width="120" height="210" />
+              Hier können Sie unseren aktuellen Flyer herunterladen (PDF: 2,14 MB).<br>
+			  <a class="go" name="backlink-flyer" href="/de/flyer-technikum29.pdf"> Quelle öffnen</a>
+        </div>
+			
+		</div>
+			
+			
+			
       </div><!--rightcol-->
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>
+	
+
     
-	<br><br>
-    <div class="box center auto-bildbreite">
-                <img src="/shared/photos/start/zeitreise.jpg" alt="Zeitreise" width="676" height="372" />
+	
+    <div class="box left bordered">
+                <img src="/shared/photos/start/industriekultur.jpg" alt="Industiekultur" width="309" height="279" />
+				<p>Tage der Industriekultur Rhein-Main: Wir sind dabei:<br><br>
+				<b>Sonderführung am Sonntag, den 7.8.2011 um 14 Uhr pünktlich.<br><br></b>
+				Der Termin am 7.8. ist bereits ausgebucht. Wir wiederholen die Führung am 14.8. und am 21.8 ebenfalls um 14 Uhr.<br><br>
+				<b>Aktuell: Die Termine am 14.8. und am 21.8. sind leider ebenfalls bereits ausgebucht.</b> <br><br>
+				Wegen der großen Nachfrage bieten wir eventuell im Spätherbst eine weitere Führung im Rahmen der "Tage der Industriekultur" an. Sie sollten Ihr Interesse daran bereits jetzt per E-Mail mitteilen.<br>
+				Eintritt frei, auch für interessierte Kids (ab ca. 12 Jahre) gut geeignet.<br><br>
+				<b>Thema: Computer-History</b><br><br>
+				
+				Tauchen Sie ca. 90 Minuten in die interessante Welt der ersten Computer ab.<br>
+				Eine Anmeldung ist ab sofort möglich (Mail-Adresse:  post@technikum29.de).<br><br>
+				Mit folgendem Link <a class="go" href="http://www.krfrm.de/c/rdik/tdr2011/"> Quelle öffnen</a>, erhalten Sie das Gesamtprogramm von "Tage der Industriekultur". </p>
                 
-        </div>
+    </div>
     
 
 

@@ -20,7 +20,43 @@
 <!--#echo encoding="none" var="heading" -->
 <div id="content">
     <h2><!--#echo var="title" --></h2>
+	
+<h3 id="lpg21-en">Schoppe & Faeser:  LGP-21 (General Precision) </h3>
+	
+	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
+	<!-- Implementierung dafür steht im common.css, Zeile 300ff. -->
+    <div class="box center" style="position:relative;">
+       <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg" width="967" height="443" alt="LGP 21 Computeranlage" />
+</div>
+        <div style="height: 443px;">&nbsp;</div>
+		<p class="bildtext small">From left to right: magnetic tape drive, 1. LGP-21, Tally paper-tape-reader and punch, 2. Tally reader, two additional hard drives, 2. LGP-21, Flexowriter</p>
+		
+    </div>
+		
+		<p>The <b>LPG21</b> computer by General Precision was released and licensed in the 
+USA in 1962. Paying royalities, the german company "Schoppe & Faser" 
+copied this computer with a new frontend design, calling it <b>"EUROCOMP"</b>
+(1964).<br>
+ It's a very small mainframe, advertised as the "first 
+full-capability computer priced from $ 16,250". Of course this price was 
+only offered for the bare CPU. Including the minimal equipment 
+(flexowriter, tape reader and puncher) the overall price was about $ 30,000.<br>
 
+<div class="box left clear-after">
+		<img src="/shared/photos/rechnertechnik/tally-lochstreifenleser.jpg" width="603" height="241" alt="Tally Lochstreifenleser" />
+		<p class="bildtext small">The external memory of the LGP-21 are perforated papertapes, which are scanned mechanically of the Tally-tape reader. The magnetic tape drive and other external drives were added in the late 60s.</p></div>
+		
+The (rotating) disc (with fixed heads) is used as storage and clock 
+generator. Our installation, as shown above, features a lot of 
+periphery: A magnetic tape station (1/4" tapes), paper tape 
+reader/puncher, an additional hard disc and a flexowriter (printer and 
+manual tape puncher for data/programs).<br>
+Once again, the reperation will be a challenge. More information will be 
+disclosed later.</p>
+
+	
+	<h3>Mini-Computers</h3>
+	
     <p>Today's kids think of the latest mobile devices when talking about "mini computers".
 	   In contrast, in the 1960s and the early 70s, a computer was always huge (like our
 	   <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini".
@@ -329,7 +365,65 @@ or: <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,hell.jpg">
 		   visible.
 		</p>
     </div>
+	
+	
+ <h3 id="nova-en">Data General: NOVA 2</h3>
+   
+   <div class="box left">
+      <img src="/shared/photos/rechnertechnik/nova2.jpg" width="400" height="561" alt="Data General: NOVA 2" />
+<p>	Edson de Castro was responsible for product management at DEC and was intent
+on developing a 16-bit computer with a processor that would fit on a single
+printed circuit board. But Ken Olson, the founder of DEC, wasn't
+supportive. So de Castro left DEC in 1968 together with three other
+hardware engineers to found his own company in a vacant barber's shop:
+<b>Data General Corporation </b>(Massachusetts, USA).<br>
 
+Already in 1969 the first 16-bit computer in the <b>"NOVA" </b>series was ready
+for the market. Thanks to the simpler production method (no wire wrapping,
+only two boards + memory boards etc.) the basic version was quite inexpensive
+at $4000. However, this basic model alone wasn't really that useful, and
+after extending the computer the total price was substantially higher.
+The Nova computer was advertised as "the best small computer in the world".
+At this time, DEC was still building the PDP-8/I and the PDP-12, which 
+required lots of very small flip-chip-modules. <br>
+
+The successor model (available in 1973), the<b> NOVA 2</b>, was simplified even
+further, and the increased chip density made it possible to have the whole
+processor together with the control logic for slow peripheral devices
+(teletype, paper tape puncher and reader) one single board. Our Nova is a
+NOVA 2/10 model with slots for 10 boards, and therefore enough space for
+quite a few device controllers and memory extensions.<br>
+
+
+From today's perspective, the rather huge boards (15x15 inch,
+nicknamed "circuit graveyards in baking tray size") do have disadvantages:
+any kind of repair is very difficult, because it is not possible to pin down
+a malfunction by exchanging small boards.<br>
+
+The NOVA shown in the picture is from a university. It is equipped with
+two harddisk drives, one twin floppy drive (8" disks!), one teletype,
+one high-speed paper tape punch reader and one punch card reader (not in 
+the picture). Later on a terminal was added, which extended the computer
+to a comfortably usable system.</p>
+
+The details are better visible in a larger photo: <a  class="popup" href="/shared/photos/rechnertechnik/nova-detail.jpg">NOVA 2 with terminal</a><br>
+
+	  <p class="bildtext small">
+Hardware configuration, from top to bottom:<br>
+<dl>
+
+<dd>Paper tape punch reader (mostly used for testing programs included with
+  every delivered system)
+<dd>Twin disk drive for 8-inch floppy disks, Model 6032
+<dd>CPU with core memory, 32 KB, access time 0.8 us
+<dd>Two hard-disk drives with removable cartridges, Series 30. Capacity 
+  1.200.000 16-bit words, or 2.4 MB.
+<dd>Disk Cartridge System 4047, necessary to connect the second disk
+<dd>Terminal "DASHER 1", Model 6052 by Data General, on the right hand side
+</dl></small>	  
+ </div>
+ 
+ 
     <h3>WANG 2200 with bulky peripheral hardware</h3>
     <p>Next, the first system that looks like today's computer is presented: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. This computer, with so many peripheral devices, is probably unique in Germany. The peripherals: paper tape reader, punch card reader,  triple 8-inch disc drive, hard disc system with 38cm diameter disks (the device weights 100kg and cost 24000 DM, but only holdy 5MB), special BASIC-language keyboard, etc.</p>
     <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP

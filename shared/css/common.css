@@ -295,6 +295,20 @@ body.greater1280 .univac #wrapper #menu { margin-top: 0; }
 /**********************************************************************\
 | SPEZIAL STYLE                                                        |
 +----------------------------------------------------------------------+
+| Für:                 Frühe Computer                                  |
+\**********************************************************************/
+
+.fruehe-computer #wrapper #menu {
+    margin-top: 670px; /* circa... */
+}
+
+/* Seit 08.08.2010: Per Javascript-Anpassung */
+body.greater1280 .fruehe-computer #wrapper #menu { margin-top: 0; }
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
 | Für:                 Fax- und Schreibtechnik, Startseite,            |
 |                      DEC-Geschichte                                  |
 |                         /de/kommunikationstechnik/faxtechnik.shtm    |

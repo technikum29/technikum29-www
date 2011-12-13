@@ -23,12 +23,7 @@
 
   <p>
 Auf dieser Seite zeigen wir anhand ausgewählter eigener Entwicklungen, dass unser Museumsteam sich aktiv mit der Vernetzung historischer Computerkomponenten und deren Anbindung an PCs der Jetztzeit auseinandersetzt. Dazu sind teils sehr aufwändige Hard- und Software-Konstrukte notwendig.<br>
-Diese Seite ist daher weniger für Laien gedacht, sondern richtet sich mehr an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. Die Seite wird permanent erweitert.
-Die nächsten Projekte:</p>
-<ul>
-  <li>Lochkarten vom PC ausstanzen</li>
-  <li>Einen Lochkartenleser/stanzer "IBM 1442" an einen PC anschließen.</li>
-</ul>
+Diese Seite ist daher weniger für Laien gedacht, sondern richtet sich mehr an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. </p>
 
 
 <h3>Kommunikation zwischen Lochstreifengeräten und PC</h3>
@@ -46,7 +41,7 @@ Der Parallelport besteht aus drei 8-bit-Hardwareregistern: Ein bidirektionales D
 
 <div class="desc-right">
         <img src="/shared/photos/rechnertechnik/facit4070.jpg" width="192" height="313" alt="Foto des Lochstreifenstanzers" />
-        <p class="bildtext" style="width:145px;">Der legendäre Lochstreifenstanzer <b>FACIT 4070</b></p>
+        <p class="bildtext" style="width:192px;">Der legendäre Lochstreifenstanzer <b>FACIT 4070</b></p>
     </div>
 	
         <p>Wie oben erwähnt, stellt sich bei Lochstreifen nicht die Frage der Modellierung, da Oktetts als Bytes auf PC-Architekturen gerade die kleinste adressierbare Speichereinheit darstellen und somit als nativer Datentyp verarbeitet werden. Eine 250 Byte lange Binärdatei stellt somit genau einen 250 Zeichen langen Lochstreifen dar. Dadurch ist die computerinterne Verarbeitung von Lochstreifen durch Unix-Kommandozeilenwerkzeuge oder grafische Werkzeuge wie Hex-Editoren sehr leicht möglich. Zur Vereinfachung des Arbeitsflusses wurden zunächst einfache Werkzeuge in der Scriptsprache Perl geschrieben, mit denen etwa auch Beschriftungen von Lochstreifen vorgenommen werden konnten. Später entstand ein grafischer Editor, mit dem Binärdateien direkt als Lochstreifen visualisiert bearbeitet werden können. Dieser in der Programmiersprache C mit Gtk+ programmierter "Paper Tape Editor" wurde ausgebaut zu der "Paper Tape Suite", mit der nun auch unter Windows Lochstreifen eingelesen, bearbeitet, abgespeichert und ausgestanzt werden können. Auf diese Weise sind alle nur denkbaren Aufgaben mit Lochstreifen dank der Vielseitigkeit von Computern möglich.<br><br>
@@ -77,7 +72,7 @@ Weitere Details zu diesem Projekt mit umfassenden Hintergrundinformationen gibt 
 
 <p>Dieses Projekt besteht aus dem anspruchsvollen Vorhaben, einen Rechner (Mitte der 1960er Jahre), zu dem der eigentliche Drucker defekt und unvollständig ist, mit einem völlig anderem Drucker aus der gleichen Zeit auszustatten. Was auf den ersten Blick recht einfach erscheint, ist in der Realität ein außerordentlich kompliziertes Unterfangen. Im Gegensatz zu den Geräten ab den 90er-Jahren war man noch meilenweit von standardisierten Schnittstellen entfernt.<br>
 Ein Interface muss also her, eine transparent agierende unidirektionale Übersetzung von Computer zu Drucker. Dabei ist einiges zu tun: Der GAMMA 10 (G10) arbeitet nicht nur mit völlig anderen 
-„negativen“) logischen Pegeln, sondern hat auch eine gänzlich andere Vorstellung davon, wie man eine 120 Zeichen lange Zeile in einen Drucker überträgt, als der anzuschließende Anelex-Zeilendrucker. Die Druckdaten werden bei der G10 im Rechner selbst abgespeichert, während sie beim Anelex Drucker eben dort gespeichert werden. Dass beide Geräte unterschiedliche Zeichensätze verwenden, ist daneben ein verschwindend einfaches Problem.</p>
+„negativen“ logischen Pegeln, sondern hat auch eine gänzlich andere Vorstellung davon, wie man eine 120 Zeichen lange Zeile in einen Drucker überträgt, als der anzuschließende Anelex-Zeilendrucker. Die Druckdaten werden bei der G10 im Rechner selbst abgespeichert, während sie beim Anelex Drucker eben dort gespeichert werden. Dass beide Geräte unterschiedliche Zeichensätze verwenden, ist daneben ein verschwindend einfaches Problem.</p>
 
 <div class="desc-right">
     <img src="/shared/photos/rechnertechnik/bull-gamma10.jpg" width="320" height="195" alt="Bull Gamma 10 Computer" />
@@ -109,7 +104,7 @@ Es sei zum Abschluss angemerkt, dass wir dank der „Zwischenübersetzung“ zu heute
 
 <p>Der Mikrocontroller simuliert bei dieser bidirektionalen Kommunikation den Originaldrucker. Bei einer Druckgeschwindigkeit von 300 Zeilen pro Minute bleiben dem Controller nur einige Mikrosekunden pro 6-Bit-Zeichen als Übertragungszeit. Dieser Hochgeschwindigkeitstransport des Bitstreams muss synchron verarbeitet werden und kann dann, übersetzt nach ASCII, per RS232-Schnittstelle an den PC (später den Anelex-Mikrocontroller) übertragen werden. Das weitgehend unbekannte Timing bringt dabei einen hohen experimentellen Arbeitsaufwand.
 Das Wissen über diese komplizierte Datenübertragung konnten wir zu allem Überfluss keinen Manuals entnehmen, sondern mussten es anhand von Reverse Engineering, also Nachkonstruktion der Übertragungslogik, aus den französischsprachigen Schaltplänen rekonstruieren. Hier gebührt der Dank den ehemaligen BULL-Fachkräften und engagierten Mitarbeitern im Museum Herr Naumann und Herr Balz.<br>
-Die Pegelübersetzung zwischen Standard-TTL (falsch = 0V, wahr = +5V) und invertiertem geshiftetem Gamma 10-Pegel (falsch = 0V, wahr = -5V) haben wir in einer selbst entworfenen Mosfet-Schaltung für alle 30 Datenleitungen realisiert.</p>
+Die Pegelübersetzung zwischen Standard-TTL (logisch 0 = 0V, logisch 1 = +5V) und invertiertem geshiftetem Gamma 10-Pegel (logisch 0 = 0V, logisch 1 = -5V) haben wir in einer selbst entworfenen Mosfet-Schaltung für alle 30 Datenleitungen realisiert.</p>
 
 <p><i>Das Anelex-Gamma10-Projekt ist in aktiver Entwicklung; die Beschreibung wird fortgesetzt</i></p>
 

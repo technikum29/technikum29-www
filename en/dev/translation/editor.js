@@ -14,7 +14,7 @@ if(!t29.tr) t29.tr = {}; // this namespace, also defined in tools.js
 
 // Basic Settings
 t29.tr.settings = {
-    disable_img_license_system: true, // when tr system enabled, disable img licenses for more cleareness
+	disable_img_license_system: true, // when tr system enabled, disable img licenses for more cleareness
 	editable_elements: function(){ return $("#content").find("p, ul, ol, blockquote, dl, table, h2, h3"); },
 	messages_url: "/en/dev/translation/messages.xml"
 };
@@ -100,7 +100,7 @@ t29.tr.set_enabled = function(value) {
 	t29.tr.enabled = value;
 	// toggle image license system
 	if(t29.tr.settings.disable_img_license_system)
-		t29.img_license_settings.enabled = ! t29.tr.enabled;
+		t29.img_license.settings.enabled = ! t29.tr.enabled;
 	// set infos on body
 	$("body").toggleClass("tr-enabled", t29.tr.enabled)
 		.toggleClass("tr-inspecting", t29.tr.enabled && !t29.tr.is_editing())

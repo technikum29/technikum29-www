@@ -1,0 +1,52 @@
+﻿import processing.serial.*;
+Serial serialPort;
+
+boolean finished=false;
+int scal=1;
+int kx=630/scal;
+int ky=0;
+float yScal=2;
+
+int verzoeger=0;
+
+
+
+void setup(){
+size(kx,900);
+noStroke();
+println(Serial.list());
+//serialPort = new Serial(this, Serial.list()[0], 9600); // Fuer Mac-User
+serialPort = new Serial(this, Serial.list()[Serial.list().length-1], 115200); // Fuer PC-User
+}
+
+void draw(){
+
+}
+
+void serialEvent(Serial serialPort) {
+  if (kx>0) {
+    String dataString = serialPort.readString();
+    println(dataString);
+    if (dataString != null) {
+      for(int i=0; i<dataString.length(); i++){
+        if(dataString.charAt(i)==48){
+          fill(255);
+          rect(kx*scal,ky*scal*yScal,scal,scal*yScal);
+          ky++;
+        }else if(dataString.charAt(i)==49){
+          fill(0);
+          rect(kx*scal,ky*scal*yScal,scal,scal*yScal);
+          ky++;
+        }else if(dataString.charAt(i)==50){
+          if(ky>300){
+            ky=0;
+            kx--;
+          }
+        }
+      }
+    }
+  }else if(!finished){
+    finished=true;
+    saveFrame("Scan#000003.jpg");
+  }
+}

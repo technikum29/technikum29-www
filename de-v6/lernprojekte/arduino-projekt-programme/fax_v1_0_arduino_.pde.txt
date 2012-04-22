@@ -1,0 +1,25 @@
+﻿int dataPin = 3;                          // Pin zum Einlesen der Pixel
+int interruptPin = 2;                     // Pin fuer Zeilenumbruch
+
+void setup(){
+  Serial.begin(115200);                   // Datenübertragungsrate (Baud-Rate)
+  
+  pinMode(dataPin,INPUT);                 // Pins werden als Dateneingaenge konfiguriert
+  pinMode(interruptPin,INPUT);
+  digitalWrite(interruptPin,HIGH);
+  
+  attachInterrupt(0,newLine,RISING);      // Interrupt (Unterbrechung) fuer Zeilenumbruch wird festgelegt
+}
+
+void loop(){
+  if(digitalRead(dataPin)==HIGH){         // Bei Spannung, also schwarz, wird eine "1" gesendet, sonst eine "0"
+    Serial.print("1");
+  }else{
+    Serial.print("0");
+  } 
+  delay(0.1);                             // Zeitverzoegerung zwischen den Pixeln
+}
+
+void newLine(){
+  Serial.print("2");                      // Bei Interrupt zum Zeilenumbruch wird eine "2" gesendet  
+}

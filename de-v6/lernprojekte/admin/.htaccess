@@ -1,0 +1,4 @@
+# diese .htaccess zum Administrationsverzeichnis soll
+# nicht ueber die GUI bearbeitet werden -- nur der
+# admin darf hier Zugriff haben.
+Require user admin

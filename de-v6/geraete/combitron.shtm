@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head><!--#set var="title"        value="DIEHL Combitron"
+   --><!--#set var="location"     value=""
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_en"       value="devices/"
+   --><!--#set var="title_en"     value=""
+   --><!--#set var="prev"         value=""
+   --><!--#set var="prev_title"   value=""
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <meta name="keywords" lang="de" content="" />
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.this.version" content="v5.7" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2 class="center"><!--#echo var="title" --></h2>
+<!-- Begin of Forwarding Template (v5.7) -->
+    <!--#set var="forwarding_page" value="/de/rechnertechnik/programmierbare.shtm" -->
+    <!--#set var="forwarding_title" value="Programmierbare Rechner der 2. Generation" -->
+    <!--#include virtual="/de/inc/extra-forwarding.template.shtm" -->
+<!-- End of Forwarding Template (v5.7) -->
+
+<div class="center">
+   <img src="/shared/photos/rechnertechnik/diehl_combitron.jpg" alt="Diehl Combitron" width="616" height="195" />
+   <div class="bildtext-bildbreite" style="width: 616px;">
+   <hr noshade="noshade" />
+   <p><b>DIEHL Combitron</b>. Dies ist der erste funktionsf&auml;hige programmierbare Tischrechner, der in Deutschland gebaut und vertrieben wurde. Rechts vorne steht der DIEHL Dilector (Lochstreifenleser) und rechts der DIEHL ELS 830 (Lochstreifenstanzer). Das System ist voll funktionsf&auml;hig. Als Speichermedium dient auch ein <a href="laufzeitspeicher.shtm" title="Laufzeitspeicher" class="go">Laufzeitspeicher</a> (Kapazit&auml;t ca. 1000 Bit)</p>
+   <ul id="nav" style="text-align: left;">
+       <li><a href="/de/rechnertechnik/programmierbare.shtm">Programmierbare Rechner der 2. Generation</a></li>
+       <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
+   </ul>
+   </div>
+</div>
+
+</div>
+<!--#include virtual="/de/inc/menu.inc.shtm" -->
+</body>
+</html>

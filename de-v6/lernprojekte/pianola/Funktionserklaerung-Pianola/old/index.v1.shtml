@@ -1,0 +1,150 @@
+<html>
+<head>
+    <title>Pianola: Querschnitt durch die Pneumatik</title>
+
+    <link rel="stylesheet" href="/shared/css/screen.css" type="text/css" title="technikum29">
+    <link rel="stylesheet" href="/etc/src/improved.css" type="text/css" title="technikum29">
+    <!-- additional extra syles -->
+    <style type="text/css">
+    <!--
+      a.thumb {
+          display: block;
+          /* width/height = 4/3 */
+          height: 150px;
+          width: 200px;
+          border: 1px solid #aaa;
+          text-align: center;
+          padding: 10px;
+          float: left;
+          margin: 10px;
+      }
+      
+      a.thumb:hover, a.thumb:active {
+          border-color: red;
+      }
+      
+      .clear { clear: both; padding: 10px; }
+      
+      ul.float {
+          list-style: none;
+          margin: 0; padding: 0;
+      }
+      
+      ul.float li {
+          display: inline;
+      }
+      
+      ul.float li a {
+          float: left;
+          margin: 10px;
+      }
+    -->
+    </style>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/etc/src/heading.shtm" -->
+
+<div id="page">
+<h2>Pianola: Querschnitt durch die Pneumatik</h2>
+<p>Die Pianola, das erste selbstspielende Klavier aus den 20ern, funktioniert
+komplett pneumatisch. Das heißt, nur durch die Luftzirkulation, erzeugt durch
+einen großem
+Blasebalg werden 88 kleine Systeme, die die Noten anschlagen, sowie ein
+"pneumatischer Motor" angetrieben. Der Motor wiederum dreht zwei Rollen, auf
+denen die Spielvorschriften in Form von Löchern stehen. Die Oberfläche des
+Papieres wird nämlich von einer langen Leiste "gescannt". Sobald ein Loch
+kommt, wird der entsprechende ein Ton gespielt.</p>
+<p>Wie die Technik von diesem Loch bis hin zur Saite des Klaviers verläuft,
+das erklären einige Schemata:</p>
+<p class="center"><img src="vorschau.png" alt="Das pneumatische System"></p>
+<p>Die kleinen Vorschaugrafiken auf der linken Seite verweisen zu hochauflösenden
+(selbstgemachten) Grafiken, die den jeweiligen Zustand visualisieren.</p>
+<!--#set var="thumb" value="einzelbilder/thumb." -->
+
+<!--
+    Befehle zum Generieren der Thumbnails:
+
+    $ for bild in *.png; do convert -verbose $bild -resize 200x150\> -size 200x150 xc:white +swap -gravity center -composite thumb.$bild; done;
+
+
+-->
+
+<div class="clear">
+    <a class="thumb" href="einzelbilder/Bild1.png"><img src="einzelbilder/thumb.Bild1.png"></a>
+    <h3><a href="einzelbilder/Bild1.png">Bild 1</a>: Ruhezustand</h3>
+<p>Die Grafik zeigt den Querschnitt durch das pneumatische System, welches für
+den Anschlag eines einzelnen Tones verantwortlich ist. Da das Klavier 88 Töne
+hat, gibt es 88 von diesen kleinen Kästchen, die in drei Reihen nebeneinander
+liegen. Durch alle Systeme hindurch ziehen sich zwei Kammern, die andauernd
+Luft raussaugen und so einen in jedem System einen Unterdruck (Unterdruck wird
+gelb dargestellt, atmosphärischer Druck blau) erzeugen. Durch die Position der
+Kolben werden die unterschiedlichen Luftleitungen mit den Unterdruckkammern
+verbunden, sodass auch in ihnen ein Unterdruck entsteht.</p>
+</div>
+
+<div class="clear">
+    <a class="thumb" href="einzelbilder/Bild2.png"><img src="einzelbilder/thumb.Bild2.png"></a>
+    <h3><a href="einzelbilder/Bild2.png">Bild 2</a>: Loch in der Rolle, Luft strömt ein</h3>
+    <p>Dort, wo die Rolle quasi "abgetastet" wird, wird andauernd Luft angesaugt. Sobald
+    dort also eine Öffnung (durch das Loch) entsteht, kann Luft in das System gelangen
+    (der atmosphärische Druck gelangt in das System). Die Luft gelangt nun in ein winzig
+    kleines Kissen, welches infolge des atmosphärischen Druckes, der in ihm herrscht,
+    und dem Unterdruck, der um ihn rum (in der Kammer) herrscht, aufgeblasen wird.<br>
+    Dadurch, dass es sich aufbläst, wird ein Kolben, der auf ihm steht, hochgedrückt.</p>
+</div>
+
+<div class="clear">
+    <a class="thumb" href="einzelbilder/Bild3.png"><img src="einzelbilder/thumb.Bild3.png"></a>
+    <h3><a href="einzelbilder/Bild3.png">Bild 3</a>: Basiszustand</h3>
+    <p>Der hochgedrückte Kolben schottet die rechte Unterdruckkammer von dem übrigen
+    linken System ab und öffnet gleichzeitig eine weitere Öffnung, durch die Luft
+    einströmen kann. Diese gelangt nun in ein weiteres Kissen, welches in der zweiten
+    Unterdruckkammer ist, und auf welchem auch ein Kolben steht. Auch hier wird
+    das Kissen aufgebläht, der Kolben hebt sich.</p>
+</div>
+
+<div class="clear">
+    <a class="thumb" href="einzelbilder/Bild4.png"><img src="einzelbilder/thumb.Bild4.png"></a>
+    <h3><a href="einzelbilder/Bild4.png">Bild 4</a>: Basiszustand</h3>
+    <p>Der hochgedrückte Kolben schließt die Luftzufuhr für das System ganz links und
+    verbindet es stattdessen mit der Unterdruckkammer, in der er sich befindet. Dieses
+    zieht nun auch aus dem letzten System die Luft ab.</p>
+</div>
+
+<div class="clear">
+    <a class="thumb" href="einzelbilder/Bild5.png"><img src="einzelbilder/thumb.Bild5.png"></a>
+    <h3><a href="einzelbilder/Bild5.png">Bild 5</a>: Basiszustand</h3>
+    <p>Durch den Druckabfall zieht sich der Blasebalg blitzschnell zusammen. An ihm
+    ist letztlich eine Stange befestigt, die mit dem "alten" Klaviersystem zusammenhängt
+    und dafür sorgt, dass das Hämmerchen sich in Bewegung setzt, welches die Saite
+    anschlägt.</p>
+</div>
+
+<p>Zeitgleich mit dem letzten Schritt also wird der Ton angeschlagen. Doch wie
+geht es weiter? Ohne eine zusätzliche Einrichtung würde das Gesamtsystem in
+seinem Zustand verbleiben und könnte kein weiteres Mal einen Ton spielen.</p>
+<img src="entlueftung.png" style="float:right; margin: 10px; margin-left: 30px;" alt="Die Entlüftungskammer">
+<p>Deswegen gibt es noch eine dritte durchgehende Kammer, in der ständig
+Unterdruck aufgebaut wird. Sie hat jedoch nur eine ganz kleine Öffnung, mit
+der sie mit dem System ganz rechts verbunden ist. Auf diese Weise ist ihre
+Wirkung auf das System nur minimal, jedoch stark genug, um nach dem Verschluss
+des Loches in der Notenrolle den Unterdruck in dem ersten System wieder schnell
+herzustellen. Dadurch sinkt auch wieder der erste Kolben, im mittleren
+System entsteht wieder Unterdruck, daraufhin sinkt der zweite Kolben und der
+Blasebalg zieht sich aufgrund seines eigenen Gewichtes wieder auseinander.</p>
+<p>Das ganze funktioniert so schnell, dass die Pianola einen einzelnen Ton 
+so schnell wie ein normaler Pianist spielen kann. Ohne perfekte Anpassung
+jedes einzelnen Vakuumsystems wäre dies nicht möglich: Bereits ohne die dritte
+Kammer funktioniert es nicht mehr.</p>
+
+
+
+</body>
+</html>
+
+

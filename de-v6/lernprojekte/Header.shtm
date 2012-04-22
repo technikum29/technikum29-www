@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>technikum29 Projekt</title>
+  <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/private.design/style.css">
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15" />
+</head>
+<body>
+<h1><a href="/projekte"><span>technikum29: </span></a><strong>Projekte</strong></h1>
+
+<h2>Dateien im Ordner <tt><!--#echo var="REQUEST_URI" -->
+
+<!--<?=dirname($_SERVER["REQUEST_URI"]); ?>--></tt></h2>
+<p>Es folgt eine Liste der Dateien, die zur Verfügung
+stehen. Mit einem Klick kann man sie runterladen oder
+mit einem Programm öffnen (z.B. Powerpoint).</p>
+
+<p>Alternativ kommen sie <a href="..">hier zurück zur
+Übersicht der Projekte</a></p>
+

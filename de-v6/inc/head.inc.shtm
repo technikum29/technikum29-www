@@ -1,0 +1,39 @@
+<!--
+     Dies ist der dynamisch generierte Quelltext einer deutschsprachigen Seite
+     auf technikum29.de. Aenderungen an dieser Datei werden vorraussichtlich
+     keinen Effekt haben. Bitte die Original-Dateien (SSI, Endung .shtm oder
+    .shtml) bearbeiten.
+
+     Fuer weitere Informationen siehe Entwicklungsportal: http://dev.technikum29.de
+     $Id$
+    -->
+
+    <link rel="alternate stylesheet" type="text/css" href="/shared/css/screen.css" media="screen,projection" title="technikum29 old" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/fresh.css" media="screen,projection" title="technikum29 fresh" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/common.css" />
+    <!--[if lt IE 7]><link rel="stylesheet" href="/shared/css/fresh-iefixing.css" title="technikum29 fresh" /><![endif]-->
+    <!--[if lte IE 5.5999]><script language="JavaScript" src="/shared/js/ie5.js"></script><![endif]-->
+    <link rel="top" href="/de/" title="Startseite" />
+    <link rel="bookmark" href="/" title="technikum29 Homepage" />
+    <!--#if expr="($part)" --><link rel="section" href="/de/<!--#echo var="part" -->/" />
+    <link rel="up" href="/de/<!--#echo var="part" -->/" title="Erste Seite der <!--#echo var="part" -->" /><!--#endif -->
+    <link rel="first" href="/de/" title="Deutscher Start" />
+    <!--#if expr="($prev)" --><link rel="prev" href="<!--#echo var="prev" -->" title="Zur vorherigen Seite (<!--#echo var="prev_title" -->)" /><!--#endif -->
+    <!--#if expr="($next)" --><link rel="next" href="<!--#echo var="next" -->" title="Zur folgenden Seite (<!--#echo var="next_title" -->)" /><!--#endif -->
+    <link rel="copyright" href="/de/impressum.shtm" title="Impressum" />
+    <link rel="alternate" href="/en/<!--#echo var="url_en" -->" hreflang="en" title="English Version of this page" />
+
+    <script type="text/javascript" src="/shared/js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="/shared/js/tools.js"></script>
+    <script type="text/javascript" src="/shared/js/common.js"></script>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+    <meta name="ICBM" content="50.14, 8.456" /> <!-- Geolocation: somewhere in Kelkheim -->
+    <meta name="author" content="h. m&uuml;ller" />
+    <meta name="DC.Identifier" content="http://www.technikum29.de/" />
+    <meta name="DC.Language" content="de" />
+    <meta name="robots" content="index,follow" />
+
+<!--#set var="heading" value='<div class="body-wrapper ${location} ${part} de"><div id="wrapper">
+<h1 class="de de-v3"><a href="/de/" title="Zur technikum29-Startseite (deutsch)" name="top"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
+<p id="h1-subtitle">Museum f&uuml;r Computer- , EDV- und Kommunikationstechnik<span class="hidden">; Computermuseum</span></p>' -->

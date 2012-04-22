@@ -1,0 +1,24 @@
+<link rel="alternate stylesheet" type="text/css" href="/shared/css/screen.css" media="screen,projection" title="technikum29 old" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/fresh.css" media="screen,projection" title="technikum29 fresh" />
+    <link rel="stylesheet" type="text/css" href="/shared/css/common.css" />
+    <link rel="top" href="/de/" title="Startseite" />
+    <link rel="bookmark" href="/" title="technikum29 Homepage" />
+    <!--#if expr="($part)" --><link rel="section" href="/de/<!--#echo var="part" -->/" />
+    <link rel="up" href="/de/<!--#echo var="part" -->/" title="Erste Seite der <!--#echo var="part" -->" /><!--#endif -->
+    <link rel="first" href="/de/" title="Deutscher Start" />
+    <link rel="copyright" href="/de/impressum.shtm" title="Impressum" />
+    <link rel="alternate" href="/en/<!--#echo var="url_en" -->" hreflang="en" title="English Version of this page" />
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /> 
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="author" content="h. m&uuml;ller" />
+    <meta name="DC.Format" content="text/html" />
+    <meta name="DC.Identifier" content="http://www.technikum29.de/" />
+    <meta name="DC.Language" content="de" />
+    <meta name="robots" content="index,follow" />
+
+    <!-- This is the header for extra files, introduced in v5.7 -->
+    <!--#config timefmt="%d.%m.%Y %T" --><!-- header last modified: <!--#echo var="LAST_MODIFIED" --> (new header v5.7) -->
+<!--#set var="heading" value='<h1 class="de"><a href="/de/" title="Zur technikum29-Startseite (deutsch)"><span>technikum29</span></a><span class="old">&nbsp;</span></h1>
+<div id="h1border">&nbsp;</div>' -->

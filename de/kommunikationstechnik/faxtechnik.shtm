@@ -9,7 +9,7 @@
    --><!--#set var="prev_title"   value="Tonaufnahme- und Wiedergabetechnik"
    --><!--#set var="next"         value="messtechnik.shtm"
    --><!--#set var="next_title"   value="Mess- und Experimentaltechnik"
- --><title>technikum29 - <!--#echo var="title" --></title>
+ --><title>Technikum29 - <!--#echo var="title" --></title>
 
     <!--#include virtual="/de/inc/head.inc.shtm" -->
     <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />
@@ -97,7 +97,8 @@
           <b>SIEMENS Faxgerät KF 108</b> (Bj. 1956).</p></div>
 		  
             <p>Das Faximlie-Gerät KF 108 arbeitet nach dem ähnlichen Prinzip wie der Fultograph. Anstelle der elektrochemischen Aufzeichnung wird hier über eine aufwendige Mechanik mit Hilfe eines rotierenden Saphirröllchens Tinte auf das gewöhnliche Schreibpapier gebracht.
-            <br/>Ein KF 108 wird selbst dann noch Faxe übertragen können, wenn die Geräte der Neuzeit längst funktionslos im Sondermüll entsorgt werden. Es ist aber nicht kompatibel zu heutigen Faxgeräten. Siemens baute das Gerät in einer typisch deutschen Solidität: Alles kugelgelagert verwindungssteif und reichlich überdimensioniert. Die Wegwerfmentalität hatte sich noch nicht etabliert.
+            <br/>Ein KF 108 wird selbst dann noch Faxe übertragen können, wenn die Geräte der Neuzeit längst funktionslos im Sondermüll entsorgt werden. Es ist aber nicht kompatibel zu heutigen Faxgeräten. Siemens baute das Gerät in einer typisch deutschen Solidität: Alles kugelgelagert verwindungssteif und reichlich überdimensioniert. Die Wegwerfmentalität hatte sich noch nicht etabliert.<br>
+			Wie man die Information auf der Walze mit einem PC abbilden kann, erfahren Sie <a href="/de/lernprojekte/#aes"><b>hier</b></a>. 
         </p>
 
 

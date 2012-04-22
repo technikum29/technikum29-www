@@ -20,10 +20,8 @@
     <h2><!--#echo var="title" --></h2>
 	
 	
-	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Der Wunsch, diese wieder zur vollen Funktion zu bringen schlummert seit 4 Jahren in unseren Köpfen und ist nun Realität. Das war eine große Herausforderung die viel Zeit beanspruchte, sowie einiges an "elekronischer Denkarbeit".<br>
+	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. <br>
 	Die Anlage wurde zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen begann die Arbeit mit dem gründlichen Säubern der Geräte. Bereits hier zeigten sich die Probleme: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives Glück) oder sie haben sich zu einer klebrigen, teerartigen Masse verändert (ausgesprochenes Pech). Wir mussten mit beidem kämpfen.<br>
-	Mittlerweile wurden die Lärmdämm-Matten (Schaumgummi) erneuert, wodurch die Geräte auch von innen wieder top aussehen.
-	<br>
 	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Überraschungen erwartet.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
 	
 	<div class="box center auto-bildbreite">
@@ -32,15 +30,23 @@
 		Stabdrucker, Prozessor, Electronic-Cabinett (Netzteil u. Magnetdrahtspeicher), Lochkartenleser,
 		Lochkartenstanzer</p></div>
 	
-	<p>Später müssen noch viele der Verkleidungsbleche neu lackiert werden damit die Anlage auch äußerlich unseren Anforderungen entspricht.<br>
+	<p>
 	
 	Danach war der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen mussten.<br>
 	Die Mühe der aufwändigen Restauration hat sich gelohnt, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
-	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. <br>
-	Eine Extraseite über technische Besonderheiten der EDV-Maschine folgt später.</p>
+	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. 
+	</p>
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
+		
+		<b id="lochkarten">UNIVAC 9200 Software</b><br>
+		<p>Manchmal sind es die Zufälle im Leben, die zu unglaublichen Funden führen. So hat ein (neugieriger) Student der Goethe-Universität in Frankfurt eben dort in einem Gebäudeteil merkwürdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte Gebäude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.shtm#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen für unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut für Mathematik und angewandte Informatik verwendet. Einige Programme werden wir sicher zum Laufen bringen.<br>
+		Die Uni-Frankfurt sowie der <a href="http://www.fitg.de">"FITG" (Frankfurt)</a>  unterstützten uns bei der Bergung der historischen Funde.
+		<div class="box center auto-bildbreite">
+		<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" alt="65.000 Lochkarten" width="700" height="174" />
+		<p class="bildtext">24 Boxen mit insgesamt mehr als 65.000 Lochkarten erweitern unser UNIVAC-Softwarearchiv</p></div>
+		<p>Ganz nebenbei: In jeder Lochkarte lassen sich bis zu 80 Zeichen abspeichern. Das wären ca. 80 Byte pro Karte. 65.000 Lochkarten könnten damit in etwa die Datenmenge von 5 MB speichern. Das entspricht dem Umfang eines durchschnittlichen Bildes einer Digitalkamera. Diese Daten hätten ein Netto-Gewicht von 130 kg wobei der Lochkartenschrank zur Aufbewahrung mehr als 0,5m³ also über 500 Liter umfasst!</p>
 		
 	<h3 id="blog">Reparatur-Blog</h3>
 	
@@ -63,8 +69,15 @@ Zusätzlich haben wir einen Kontaktfehler im Memory ausfindig gemacht. Nach der B
 Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für Stück von ihrer Funktion verabschiedet hat (siehe 16.6.).<br>
 <b>5.8.2010:</b> Der Lochkartenstanzer läuft wieder! Das Austauschen eines defekten Transistors und ein Tropfen Öl an der richtigen Stelle haben zur vollen Funtkion geführt. Nun können wir per Programm Lochkarten duplizieren. Wir mussten jedoch die Fehlerprüfung deaktivieren, da ein Stanzfehler erkannt wird, der überhaupt nicht vorhanden ist. Diesen Defekt zu finden ist die nächste Aufgabe.<br>
 <b>26.8.2010:</b> Die Fehler in der "Fehlerprüfung" der gestanzten Daten (Lochkartenstanzer) alle aufzufinden war eine harte Nuß. Der Computer vergleicht die Daten, die zu stanzen sind mit der Auslösung der Stanzhebel in der Stanzstation. Dazu greift er per Indunktion das Auslösen des jeweiligen Stanzhebels nach einem sehr aufwändigen Verfahren ab. Defekt waren schließlich ein (von 24) induktives Abfühlelement (siehe später), ein Transistor der die jeweiligen Induktionsspannungen verstärkt sowie eine "kalte" Lötstelle. Ferner musste die gesamte Abfühlstation (24 Stück) neu justiert werden damit die Informationen zeitgleich mit den zu stanzenden Daten am Vergleicher zur Verfügung stehen. Die mechanisch einzustellenden Elemente müssen auf 5 Mikrosekunden genau justiert werden. Nach dieser Reparatur werden alle duplizierten Lochkarten auch überprüft. Bei einer falschen Lochung stoppt der Rechner augenblicklich (was extrem selten vorkommen sollte).<br>
-<b>19.10.2010:</b> Nachdem alle verfügbaren Testprogramme (im Lochkartenformat) problemlos laufen und keine Fehlermeldungen erfolgen, stellen wir fest: <b>Der Rechner ist o.k.</b><br>
-Nun sind wir mit der Neukonstruktion des Speichers beschäftigt. Dies ist wichtig, da nicht davon auszugehen ist, dass der Drahtspeicher noch Jahrzehnte fehlerfrei arbeitet.</p>
+<div class="desc-right">
+		<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
+		<p class="bildtext" style="width: 400px;"><b>Rückseite der UNIVAC 9300:</b> Mit Speicheroszilloskop und Logik-Analysator werden logische Zustände gemessen</p></div>
+
+<p><b>19.10.2010:</b> Nachdem alle verfügbaren Testprogramme (im Lochkartenformat) problemlos laufen und keine Fehlermeldungen erfolgen, stellen wir fest: <b>Der Rechner ist o.k.</b><br>
+Nun sind wir mit der Neukonstruktion des Speichers beschäftigt. Dies ist wichtig, da nicht davon auszugehen ist, dass der Drahtspeicher noch Jahrzehnte fehlerfrei arbeitet.<br>
+
+		
+<b>Febr. 2012:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwändigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM läuft die neue Speicherkarte noch nicht. Weitere Tests und Änderungen sind notwendig. Zum Glück funktioniert der Drahtspeicher immer noch einwandfrei.</p>
 
 	<p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Ausleihe von vielen Ersatzteilen für diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer möglich.</small>
 

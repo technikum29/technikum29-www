@@ -57,7 +57,7 @@
 
     <p style="clear:both;">
       In principle this was an ingenius idea: No need to thread the cores, fast cycle time, very cheap to produce...
-      <br/>But there is a rub in it. The construction is very sensitive and error-prone. While the wires could be replaced in the former storage systems, typical plated wire storages were completely stuck together so they could not be repared later on. This was a disaster for the companies which made use of this storage.
+      <br/>But there is a rub; the construction was very sensitive and error-prone. While the wires could be replaced in the former storage systems, typical plated wire storages were completely stuck together so they could not be repared later on. This was a disaster for the companies which made use of this storage.
       <br/>Fortunately, the first semiconductor memories were mass-produced in the early 1970s, so most of the computers featuring plated wire storage could be upgraded to semiconductor memories made by INTEL.</p>
 
     <!--

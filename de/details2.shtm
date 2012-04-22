@@ -39,6 +39,12 @@
     <th width="25%">Peripherie</th>
     <th width="50%">Bemerkungen</th>
   </tr>
+   <tr>
+    <td class="b">LGP-21</td>
+    <td>1964</td>
+    <td>Flexowriter, Lochstreifenleser, Magnetbandlaufwerk, zusätzliche Festplatten</td>
+    <td>In Deutschland gebauter, sehr früher wissenschaftlicher Rechner mit Germaniumtransistoren</td>
+  </tr>
   <tr>
     <td class="b">DEC Classic 8</td>
     <td>1965</td>
@@ -61,7 +67,7 @@
   <td class="b">DEC PDP 12</td>
   <td>1969-73</td>
   <td>Teletype....siehe<a href="/de/rechnertechnik/fruehe-computer.shtm#pdp12"> <i>PDP-12 Rechner</i></a></td>
-  <td>Wissenschaftlicher Laborrechner mit LINK-8 und PDP-8 Modus.<br>
+  <td>Wissenschaftlicher Laborrechner der im LINC-8 und PDP-8 Modus arbeiten kann.<br>
   Hoch ausgebauter Rechner mit über 450 Einzelmodulen.</td>
   </tr>
   
@@ -83,7 +89,14 @@
     <td>8-Zoll-3fach Diskettenlaufwerk, 36-cm Fest-Wechselplattenlaufwerk, Lochstreifenleser, Stapelkartenleser, Spezial-BASIC-Tastatur, Mehrere Drucker, Teletype</td>
     <td>Vermutl. das erste Gerät, welches mit heutigen Computern ähnlichkeit hat. Reiner BASIC-Rechner, CPU ohne Mikroprozessor. Zentraleinheit, Netzteil, Tastatur und Sichtgerät ist jeweils getrennt. Eingeb. Bandlaufwerk: 1,7KB pro m. Arbeitsspeicher: 8KB. Plattenlaufwerk: 5 MB.<br/>Dieser sehr frühe Computer dürfte in der vorhandenen Ausbaustufe einmalig in Deutschland sein. Damaliger Gesamtwert: Weit über 100.000,- DM</td>
   </tr>
+  
   <tr>
+  <td class="b">Data General: NOVA 2</td>
+  <td>1973</td>
+  <td>Lochstreifenleser, 8"-Floppy, Wechselplatten, Terminal, Teletype</td>
+  <td>Konkurrenzmodell zu den PDP-8-Rechnern von DEC.</td>
+  <tr>
+  
     <td class="b">WANG PCS II</td>
     <td>1976</td>
     <td>Integriertes, aufgesetztes Doppelfloppy (5 &frac14;-Zoll)</td> <!--  HIER IST DAS 1/4-ZEICHEN ODER SO WAS MAL SCHAUEN !!!!!!!!! -->

@@ -552,8 +552,20 @@ footer .right {
 	right: 0;
 	width: 230px;
 	padding: 15px;
+	text-align: right;
 }
 
-footer .right img {
-	float: left;
+footer .right img.logo {
+	float: right;
+	width:30px;
+	padding-left: 10px;
+	padding-right: 11px;
 }
+
+footer .right div.icons {
+	clear: left;
+	padding-top: 8px;
+}
+
+footer .right .icons a { opacity: .5; }
+footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }

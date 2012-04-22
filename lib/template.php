@@ -84,18 +84,20 @@ function print_footer() {
 		</nav>
 		<nav class="rel clearfix">
 		<ul>
+			<?php print_relations(); ?>
+			<!--
 			<li class="prev"><a href="#">vorherige Seite <strong>Univac 9200</strong></a>
 			<li class="next"><a href="#">nächste Seite <strong>Analog und Hybridrechner</strong></a>
+			-->
 		</ul>
 		</nav>
 		<div class="right">
-			<img src="/shared/img-v6/logo.footer.png" title="technikum29 Logo" alt="Logo" style="width:30px; padding-right: 10px">
+			<img src="/shared/img-v6/logo.footer.png" title="technikum29 Logo" alt="Logo" class="logo">
 			&copy; 2003-2012 technikum29.
-			<br/><a href="/de/impressum.php">Impressum und Kontakt</a>
-			<div class="clear"></div>
-			<div style="padding-top: 8px;">
-				<img src="http://svenk.homeip.net/dropbox/Ufopixel/Ufopixel-Design/logo_90x30/ufopixel_logo_90x30.png">
-				<img src="http://mirrors.creativecommons.org/presskit/cc.primary.srr.gif" style="padding-left: 5px;">
+			<br/><a href="/de-v6/impressum.php">Impressum und Kontakt</a>
+			<div class="icons">
+				<a href="/de-v6/impressum.php#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
+				<a href="http://ufopixel.de" title="Designed by Ufopixel"><img src="http://svenk.homeip.net/dropbox/Ufopixel/Ufopixel-Design/logo_90x30/ufopixel_logo_90x30_version2.png"></a>
 			</div>
 			<!--CC<br>Viele Bilder können unter einer CreativeCommons-Lizenz
 			verwendet werden. Erkundigen Sie sich.-->

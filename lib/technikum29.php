@@ -34,9 +34,7 @@ function print_menu($file) {
 		$current_li = $current_a[0]->xpath("parent::li");
 		t29dom_add_class($current_li[0], "current");
 		$ancestors = $current_li[0]->xpath("ancestor-or-self::li");
-		array_walk($ancestors, function($i){
-			t29dom_add_class($i, "active");
-		});
+		array_walk($ancestors, create_function('$i', 't29dom_add_class($i, "active");'));
 	}
 
 	// Seiten-IDs (ungueltiges HTML) ummoddeln
@@ -49,4 +47,25 @@ function print_menu($file) {
 	}
 	
 	print $xml->ul->asXML();
+}
+
+function print_relations() {
+	global $lib, $seiten_id;
+	
+	$sidebar = simplexml_load_file("$lib/../de-v6/sidebar.xml");
+	$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
+	if(count($current_a)) {
+		$prev = $current_a[0]->xpath("preceding::a[@seiten_id][1]");
+		if(count($prev)) {
+			$a = $prev[0];
+			print "<li class='prev'><a href='$a[href]'>vorherige Seite <strong>$a</strong></a></li>";
+		}
+		$next = $current_a[0]->xpath("following::a[@seiten_id][1]");
+		if(count($next)) {
+			$a = $next[0];
+			print "<li class='next'><a href='$a[href]'>nächste Seite <strong>$a</strong></a></li>";
+		}
+	} else {
+		print '<li class="start"><a href="#">Starte Führung <strong>Blabla</strong></a>';
+	}
 }

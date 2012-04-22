@@ -223,10 +223,13 @@ t29.menu.guide.setup = function() {
 	
 	// Split position for relative navigation
 	// 20px von nav.side margin left; 40px = 4*10px padding left von nav.rel a
+	///// 22.04.2012: Deaktiviert, weil anderes Design vor Augen.
+	/*
 	split = $(".current a",g).offset().left - g.offset().left + bwidth/2;
 	rest = $("#content").outerWidth() - split - 40;
 	t29.menu.rel.find(".prev a").width(split);
 	t29.menu.rel.find(".next a").width(rest);
+	*/
 };
 
 // alles fertiggeschnackelt.

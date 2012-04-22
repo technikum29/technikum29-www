@@ -1,49 +1,36 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="(Elektro-) Mechanische Rechenmaschinen"
-   --><!--#set var="location"     value="elektro-mechanik"
-   --><!--#set var="part"         value="rechnertechnik"
-   --><!--#set var="url_en"       value="computer/electro-mechanical.shtm"
-   --><!--#set var="prev"         value="/de/kommunikationstechnik/messtechnik.shtm"
-   --><!--#set var="prev_title"   value="Mess- und Experimentaltechnik"
-   --><!--#set var="next"         value="elektronenroehren.shtm"
-   --><!--#set var="next_title"   value="Tischrechner mit Elektronenr&ouml;hren"
- --><title>Technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
+<?php
+	$seiten_id = 'elektro-mechanik';
+	$version = '$Id$';
+	$titel = '(Elektro-) Mechanische Rechenmaschinen';
+	
+	require "../../lib/technikum29.php";
+?>
 
 <h2>Mechanische Rechenhilfen</h2>
 
 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/efzet.jpg" width="447" height="433" alt="EFZET Schiebestangenrechner" />
 		<p>
-Der Vollständigkeit halber informieren wir auch über "Taschenrechner" der Frühzeit nach dem System "Produx". Wir beschränken uns auf einen kleinen Schiebestangenrechner</p> <blockquote>"für den Kaufmann, Gewerbetreibenden, Handwerker, Ingenieur, Schüler und sogar für die Hausfrau" (!)</blockquote> <p> laut Prospekt.
-Die Werbesprüche sind ganz ansprechend: </p><blockquote>"Kopfrechnen ist nicht immer nett, viel schöner geht´s mit der EFZET".</blockquote><p> Vermutlich geht´s mit einem hellen Kopf doch schneller. Maßlose Übertreibungen gab es damals (um 1940) wie heute:</p> <blockquote>"EFZET rechnet für Dich, darum entbehre Sie nicht".</blockquote>
-<p>Hier können Sie die original
+Der VollstÃ¤ndigkeit halber informieren wir auch Ã¼ber "Taschenrechner" der FrÃ¼hzeit nach dem System "Produx". Wir beschrÃ¤nken uns auf einen kleinen Schiebestangenrechner</p> <blockquote>"fÃ¼r den Kaufmann, Gewerbetreibenden, Handwerker, Ingenieur, SchÃ¼ler und sogar fÃ¼r die Hausfrau" (!)</blockquote> <p> laut Prospekt.
+Die WerbesprÃ¼che sind ganz ansprechend: </p><blockquote>"Kopfrechnen ist nicht immer nett, viel schÃ¶ner gehtÂ´s mit der EFZET".</blockquote><p> Vermutlich gehtÂ´s mit einem hellen Kopf doch schneller. MaÃŸlose Ãœbertreibungen gab es damals (um 1940) wie heute:</p> <blockquote>"EFZET rechnet fÃ¼r Dich, darum entbehre Sie nicht".</blockquote>
+<p>Hier kÃ¶nnen Sie die original
 <a class="go" href="/de/geraete/efzet.shtm" name="efzet" title="Original-Bedienungsanleitungen anschauen">EFZET Bedienungsanleitung</a> anschauen.
 Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedingt hilfreich war.</p></div>
 
 
 
-    <h2><!--#echo var="title" --></h2>
+    <h2>(Elektro-) Mechanische Rechenmaschinen</h2>
 	
 	<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
        
-    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel schließlich durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten.<br>
+    <p>Bevor man elektronisch rechnen konnte, das war in den 40/50er Jahren nur mit gigantischen Gro&szlig;rechnern m&ouml;glich, arbeiteten die Rechenmaschinen nur mechanisch. Als die Handkurbel schlieÃŸlich durch einen Elektromotor ersetzt wurde begann die Zeit der Rechenautomaten.<br>
 	Die ersten Vollautomaten (1927) bis zu denen mit saldierendem Speicher (60er J.) rechnen nach Eingabe der Zahlen selbstt&auml;tig. Die erste "Taschenrechenmaschine" der Welt, Curta I, hat 1/3 des Volumens einer Cola-Dose und ist die kleinste je gebaute 4-spezies Maschine. Bei allen mechanischen Rechnern erkennt man die gro&szlig;e Bedeutung des Stellenwertsystems.</p>
 	
 
     
            
-         <p>  Die erste druckende Rechenmaschine (<b>Burroughs Mod. 2 </b>ca. 1905) stammt aus Amerika. Mit 17-stelliger Volltastatur, Druckwerk und Breitwagen für Bogenpapier-Einrichtung war sie damit die erste erfolgreich verkaufte druckende Rechenmaschine der Welt. Sie konnte auch als einfache Buchungsmaschine verwendet werden. Damals waren die Motoren schon so "klein", dass man eine solche Maschine gerade eben bauen konnte. Dennoch musste der für heutige Verhältnisse riesige Motor außerhalb der Maschine (unten) placiert werden. Die im unteren Teil des Bildes zu sehende Schürze dient zum Auffangen des überflüssigen Öls.
+         <p>  Die erste druckende Rechenmaschine (<b>Burroughs Mod. 2 </b>ca. 1905) stammt aus Amerika. Mit 17-stelliger Volltastatur, Druckwerk und Breitwagen fÃ¼r Bogenpapier-Einrichtung war sie damit die erste erfolgreich verkaufte druckende Rechenmaschine der Welt. Sie konnte auch als einfache Buchungsmaschine verwendet werden. Damals waren die Motoren schon so "klein", dass man eine solche Maschine gerade eben bauen konnte. Dennoch musste der fÃ¼r heutige VerhÃ¤ltnisse riesige Motor auÃŸerhalb der Maschine (unten) placiert werden. Die im unteren Teil des Bildes zu sehende SchÃ¼rze dient zum Auffangen des Ã¼berflÃ¼ssigen Ã–ls.
         </p>
     </div>
 
@@ -51,22 +38,22 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
     <div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/madas1.jpg" width="600" height="373" alt="Madas Rechenmaschiene" />
         <p class="bildtext"><b>MADAS</b>, ein elektromechanischer Rechenautomat aus dem Jahre 1927 von der Rechenmaschinenfabrik "Egli AG" aus Z&uuml;rich. <br>
-		Für die Multiplikation und Division benötigt sie schon etwas Zeit, daher haben die Konstrukteure ein Glöckchen eingebaut (oben links im Bild), welches nach der Vollendung der Rechnung läutet!</p>
+		FÃ¼r die Multiplikation und Division benÃ¶tigt sie schon etwas Zeit, daher haben die Konstrukteure ein GlÃ¶ckchen eingebaut (oben links im Bild), welches nach der Vollendung der Rechnung lÃ¤utet!</p>
     </div>
 
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/rheinmetall.jpg" width="600" height="499" alt="Rheinmetall Superautomat" />
-        <p class="bildtext"><b>Rheinmetall</b> erweiterte 1932 eine Addiermaschine durch einen "Anbau", so dass ein 4-Spezies Rechenautomat entstand. Die komfortable Anwendung beflügelte wohl zu dem Namen "Superautomat".<br>
+        <p class="bildtext"><b>Rheinmetall</b> erweiterte 1932 eine Addiermaschine durch einen "Anbau", so dass ein 4-Spezies Rechenautomat entstand. Die komfortable Anwendung beflÃ¼gelte wohl zu dem Namen "Superautomat".<br>
 		Wenn ein solcher Koloss rechnet, ist das schon ein Erlebnis.</p>
     </div>
 <div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/curta.jpg" width="500" height="489" alt="Curta I und Curta II" />
     <div class="box right clear-after">
 	
-	<p class="bildtext"><b>Curta I und Curta II</b><br> Diese für damalige Zeiten sensationell kleine  "Taschenrechner" für die vier Grundrechenarten wurden von 1948 bis ca. 1971 hergestellt, d.h. über 20 Jahre lang praktisch unverändert. Das ist bei heutigen Rechnern undenkbar.<br>
+	<p class="bildtext"><b>Curta I und Curta II</b><br> Diese fÃ¼r damalige Zeiten sensationell kleine  "Taschenrechner" fÃ¼r die vier Grundrechenarten wurden von 1948 bis ca. 1971 hergestellt, d.h. Ã¼ber 20 Jahre lang praktisch unverÃ¤ndert. Das ist bei heutigen Rechnern undenkbar.<br>
 	Es war eine Herausforderung die gesamte Mechanik in ein Volumen zu packen, das viel kleiner als das einer Cola-Dose ist. Zum Vergleich ist eine Streichholzschachtel aus der gleichen Zeit mit abgebildet.<br> 
-	Im Internet gibt es unendlich viel schöne Literatur hierüber, z.B. auch über die  
-	<a class="go" href="http://www.curta.de/kr21/index.htm">Geschichte des Erfinders</a> so dass wir es uns ersparen, hier noch viel hinzuzufügen.
+	Im Internet gibt es unendlich viel schÃ¶ne Literatur hierÃ¼ber, z.B. auch Ã¼ber die  
+	<a class="go" href="http://www.curta.de/kr21/index.htm">Geschichte des Erfinders</a> so dass wir es uns ersparen, hier noch viel hinzuzufÃ¼gen.
 	
 	
 	</p></div>
@@ -81,9 +68,5 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
     <!-- Der folgende Text erscheint unten rechts in der Seitenleiste: -->
     <div id="sidebar-footnote">
-        <a href="/de/geraete/sprossenradmaschine.shtm">Bild &uarr; der Sprossenradmaschine groß</a>
+        <a href="/de/geraete/sprossenradmaschine.shtm">Bild &uarr; der Sprossenradmaschine groÃŸ</a>
     </div>
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html>
+<!--
+  technikum29v6: /de-v6/sidebar.xml  $Id$
+  Deutsche Hauptnavigation (rechter Rand). Dieses XHTML wird von PHP/SimpleXML
+  dynamisch verarbeitet und angereichert.
+  Achtung, dies muss wohlgeformtes HTML/XML sein! D.h.:
+    - Alle Tags, die aufgehen, müssen auch wieder zugehen!
+-->
+<ul class="u1">
+	<li class="guide-only start"><a href="/de-v6/">Start</a></li>
+	<li><a href="#">Computer History</a>
+		<ul class="u2">
+			<li><a seiten_id="elektro-mechanik" href="/de-v6/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a></li>
+			<li><a>Lochkarten-EDV</a>
+				<ul class="u3">
+					<li><a seiten_id="lochkarten" href="/de-v6/rechnertechnik/lochkarten-edv.php">Lochkartenstanzer</a></li>
+					<li><a seiten_id="tabelliermaschine" href="/de-v6/rechnertechnik/tabelliermaschine.php">Tabelliermaschine</a></li>
+					<li><a seiten_id="gamma3" href="/de-v6/rechnertechnik/gamma3.php">BULL Gamma 3</a></li>
+					<li><a seiten_id="gamma10" href="/de-v6/rechnertechnik/gamma10.php">BULL Gamma 10</a></li>
+					<li><a seiten_id="univac9200" href="/de-v6/rechnertechnik/univac9200.php">Univac 9200</a></li>
+					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php">Univac 9400</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="kommerzielle" href="/de-v6/rechnertechnik/kommerzielle.php">Kommerzielle Rechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#olivetti-p203">Olivetti P203</a></li>
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#ncr446">NCR 446</a></li>
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#nixdorf820">Nixdorf 820</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="fruehe-computer" href="/de-v6/rechnertechnik/fruehe-computer.php">Wissenschaftliche Rechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#lpg21">LPG 21</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8">PDP 8</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8i">PDP 8i</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8l">PDP 8L</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp12">PDP 12</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#lab8e">LAB 8e</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#nova2">NOVA 2</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Elektronische Tischrechner</a>
+				<ul class="u3">
+					<li><a seiten_id="elektronenroehren" href="/de-v6/rechnertechnik/elektronenroehren.php">mit Röhren</a></li>
+					<li><a seiten_id="transistoren" href="/de-v6/rechnertechnik/transistoren.php">mit Transistoren</a></li>
+					<li><a seiten_id="programmierbare" href="/de-v6/rechnertechnik/programmierbare.php">programmierbare Rechner</a></li>
+					<li><a seiten_id="ic-technik" href="/de-v6/rechnertechnik/ic-technik.php">Rechner mit ICs</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="analogrechner" href="/de-v6/rechnertechnik/analogrechner.php">Analog u. Hybridrechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#heathkit-h1">Heathkit H1</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#heathkit-ec1">Heathkit EC1</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#rat700">Telefunken RAT 700</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#gte-ea22">GTE-EA 22</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#eai180">EAI 180, 185</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#do240">DO 240</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a href="#">Kommunikations-technik</a>
+		<ul class="u2">
+			<li><a seiten_id="rundfunk" href="/de-v6/kommunikationstechnik/rundfunk.php">Rundfunk</a></li>
+			<li><a seiten_id="tontechnik" href="/de-v6/kommunikationstechnik/tontechnik.php">Tontechnik</a></li>
+			<li><a seiten_id="fernsehen" href="/de-v6/kommunikationstechnik/fernsehen.php">Fernsehen</a></li>
+			<li><a seiten_id="faxtechnik" href="/de-v6/kommunikationstechnik/faxtechnik.pjp">Telegraphie und Faximile</a></li>
+		</ul>
+	</li>
+	<li><a href="#">Weitere Themen</a>
+		<ul class="u2">
+			<li><a seiten_id="messtechnik" href="/de-v6/kommunikaionstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
+			<li><a seiten_id="sonstiges" href="/de-v6/sonstiges.php">Pianola</a></li>
+			<li><a href="/de-v6/sonstiges.php#kinomaschine">Kinomaschine</a></li>
+		</ul>
+	</li>
+	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>
+</ul>
+</html>

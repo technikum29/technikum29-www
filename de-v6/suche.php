@@ -1,45 +1,29 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Was und wen das Museum noch sucht"
-   --><!--#set var="location"     value="suche"
-   --><!--#set var="url_en"       value="search.shtm"
-   --><!--#set var="prev"         value="rechnertechnik/speichermedien.shtm"
-   --><!--#set var="prev_title"   value="Speichermedien"
-   --><!--#set var="next"         value="impressum.shtm"
-   --><!--#set var="next_title"   value="Kontakt/Impressum"
-   -->
-     <title>Technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'suche';
+	$version = '$Id$';
+	$titel = 'Was und wen das Museum noch sucht';
+	
+	require "../lib/technikum29.php";
+?>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Technikum29, Suche, Geräte" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="Das Technikum29 sucht..." />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-   
-  
    <h2>Was das Museum noch sucht</h2><br>
    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
         <p class="bildtext">
    Wir suchen zum Tischrechner IME 86 den <b>Digicorder DG 408 oder 308.</b><br>
-   Bei Bedarf stehen Tauschobjekte zur Verfügung.</p></div>
+   Bei Bedarf stehen Tauschobjekte zur VerfÃ¼gung.</p></div>
 	
 		
-	<h3>Geräte, Manuals und Bauteile</h3><br>
+	<h3>GerÃ¤te, Manuals und Bauteile</h3><br>
 	
       <ul>
-	  <li>Für unsere PDP-12 suchen wir zwei möglichst alte <b>analoge Joysticks</b></li>
+	  <li>FÃ¼r unsere PDP-12 suchen wir zwei mÃ¶glichst alte <b>analoge Joysticks</b></li>
 	  <li><b>Passend zum LGP-21 suchen wir den Computer LGP-30</b></li>
-	  <li><b>Manuals für den Computer BULL GAMMA 55 </b></li>
+	  <li><b>Manuals fÃ¼r den Computer BULL GAMMA 55 </b></li>
 	  <li>Teletype Fernschreiber Modell ASR 35 und Modell 28</li>
 	  <li>Tektronix Oszilloskop Type 556 und Type 565 (Dual-Beam)</li> 
 	  <li>Germaniumtransistoren (auch Platinen mit solchen Transistoren)</li>
-          <li>Jegliche Röhrenrechner, Rechner und Anlagen mit Transistoren</li>     
+          <li>Jegliche RÃ¶hrenrechner, Rechner und Anlagen mit Transistoren</li>     
           <li>sehr alte xy-Schreiber und Plotter</li>        
           <li>jegliche Telegraphietechnik</li>
        <br>
@@ -47,8 +31,3 @@
       </ul>
 
     
-
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
- </body>
- </html>

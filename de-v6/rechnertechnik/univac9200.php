@@ -1,28 +1,16 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Univac 9200, Univac 9300"
-   --><!--#set var="location"     value="univac9200"
-   --><!--#set var="part"         value="rechnertechnik"
-   --><!--#set var="url_en"       value="computer/univac9200.shtm"
-   --><!--#set var="prev"         value="gamma10.shtm"
-   --><!--#set var="prev_title"   value="BULL GAMMA 10"
-   --><!--#set var="next"         value="univac9400.shtm"
-   --><!--#set var="next_title"   value="UNIVAC 9400-Gro&szlig;rechner, Rechenzentrum"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id: gamma10.shtm 130 2010-01-03 04:16:55Z incubator $" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac9200';
+	$version = '$Id: univac9200.php 130 2010-01-03 04:16:55Z incubator $';
+	$titel = 'Univac 9200, Univac 9300';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Univac 9200, Univac 9300</h2>
 	
 	
-	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. <br>
-	Die Anlage wurde zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen begann die Arbeit mit dem gründlichen Säubern der Geräte. Bereits hier zeigten sich die Probleme: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives Glück) oder sie haben sich zu einer klebrigen, teerartigen Masse verändert (ausgesprochenes Pech). Wir mussten mit beidem kämpfen.<br>
-	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Überraschungen erwartet.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
+	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollstÃ¤ndig erhalten geblieben, die dazu noch umfassend dokumentiert sind. <br>
+	Die Anlage wurde zunÃ¤chst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen begann die Arbeit mit dem grÃ¼ndlichen SÃ¤ubern der GerÃ¤te. Bereits hier zeigten sich die Probleme: Die Schaumgummi-Verkleidungen der GehÃ¤useinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives GlÃ¼ck) oder sie haben sich zu einer klebrigen, teerartigen Masse verÃ¤ndert (ausgesprochenes Pech). Wir mussten mit beidem kÃ¤mpfen.<br>
+	VolumenmÃ¤ÃŸig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Ãœberraschungen erwartet.	Daher bestand die nÃ¤chste Aufgabe darin, die teils festsitzende Mechanik fÃ¼r den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
 	
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9300.jpg" alt="UNIVAC 9300 Anlage" width="700" height="375" />
@@ -32,57 +20,51 @@
 	
 	<p>
 	
-	Danach war der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen mussten.<br>
-	Die Mühe der aufwändigen Restauration hat sich gelohnt, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
-	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. 
+	Danach war der Stabdrucker an der Reihe. Er lÃ¤sst sich jedoch nur Ã¼ber den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen mussten.<br>
+	Die MÃ¼he der aufwÃ¤ndigen Restauration hat sich gelohnt, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
+	FÃ¼r besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" Ã¼ber die laufenden Fort- und RÃ¼ckschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. 
 	</p>
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
-		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung während der Restauration</p></div>
+		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit abgenommener Verkleidung wÃ¤hrend der Restauration</p></div>
 		
 		<b id="lochkarten">UNIVAC 9200 Software</b><br>
-		<p>Manchmal sind es die Zufälle im Leben, die zu unglaublichen Funden führen. So hat ein (neugieriger) Student der Goethe-Universität in Frankfurt eben dort in einem Gebäudeteil merkwürdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte Gebäude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.shtm#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen für unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut für Mathematik und angewandte Informatik verwendet. Einige Programme werden wir sicher zum Laufen bringen.<br>
-		Die Uni-Frankfurt sowie der <a href="http://www.fitg.de">"FITG" (Frankfurt)</a>  unterstützten uns bei der Bergung der historischen Funde.
+		<p>Manchmal sind es die ZufÃ¤lle im Leben, die zu unglaublichen Funden fÃ¼hren. So hat ein (neugieriger) Student der Goethe-UniversitÃ¤t in Frankfurt eben dort in einem GebÃ¤udeteil merkwÃ¼rdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte GebÃ¤ude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.shtm#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen fÃ¼r unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut fÃ¼r Mathematik und angewandte Informatik verwendet. Einige Programme werden wir sicher zum Laufen bringen.<br>
+		Die Uni-Frankfurt sowie der <a href="http://www.fitg.de">"FITG" (Frankfurt)</a>  unterstÃ¼tzten uns bei der Bergung der historischen Funde.
 		<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" alt="65.000 Lochkarten" width="700" height="174" />
 		<p class="bildtext">24 Boxen mit insgesamt mehr als 65.000 Lochkarten erweitern unser UNIVAC-Softwarearchiv</p></div>
-		<p>Ganz nebenbei: In jeder Lochkarte lassen sich bis zu 80 Zeichen abspeichern. Das wären ca. 80 Byte pro Karte. 65.000 Lochkarten könnten damit in etwa die Datenmenge von 5 MB speichern. Das entspricht dem Umfang eines durchschnittlichen Bildes einer Digitalkamera. Diese Daten hätten ein Netto-Gewicht von 130 kg wobei der Lochkartenschrank zur Aufbewahrung mehr als 0,5m³ also über 500 Liter umfasst!</p>
+		<p>Ganz nebenbei: In jeder Lochkarte lassen sich bis zu 80 Zeichen abspeichern. Das wÃ¤ren ca. 80 Byte pro Karte. 65.000 Lochkarten kÃ¶nnten damit in etwa die Datenmenge von 5 MB speichern. Das entspricht dem Umfang eines durchschnittlichen Bildes einer Digitalkamera. Diese Daten hÃ¤tten ein Netto-Gewicht von 130 kg wobei der Lochkartenschrank zur Aufbewahrung mehr als 0,5mÂ³ also Ã¼ber 500 Liter umfasst!</p>
 		
 	<h3 id="blog">Reparatur-Blog</h3>
 	
-	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.<br>
-	<b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.<br>
-	Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!</p><br>
+	<p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar MÃ¤use zu schaffen gemacht und dabei 5 dÃ¼nne Kabel durchgefressen. GlÃ¼cklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwÃ¤ndigen Netzteil weitere Fehler.<br>
+	<b>16.2.2010:</b> Nach dem AufspÃ¼ren von zwei defekten WiderstÃ¤nden (Unterbrechnung) ist das Netzteil funktionsfÃ¤hig. Damit ist es jetzt auch mÃ¶glich, die LochkartengerÃ¤te vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden kÃ¶nnen.<br>
+	Nun Ã¶ffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden spÃ¤ter einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!</p><br>
 	<div class="desc-right">
 		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Bedienungspannel" width="400" height="296" />
-		<p class="bildtext" style="width: 400px;"><b>Bedienungspannel der UNIVAC 9300:</b> Insgesamt können 160 (Fehler-)Zustände aus dem Prozessor und der Peripherie mit Lämpchen per Schalter ausgeleuchtet werden.</p></div>
+		<p class="bildtext" style="width: 400px;"><b>Bedienungspannel der UNIVAC 9300:</b> Insgesamt kÃ¶nnen 160 (Fehler-)ZustÃ¤nde aus dem Prozessor und der Peripherie mit LÃ¤mpchen per Schalter ausgeleuchtet werden.</p></div>
 		
-	<p><b>15.4.2010:</b> Noch immer läuft der Startzyklus der Maschine falsch. Eine Fehlermeldung des Druckers wird ohne offensichtlichen Grund angezeigt. Wir kreisen diesen Fehler sukzessive ein.<br>
-	<b>2.5.2010:</b> Ein defekter Thyristor in der Ansteuerung des Hämmerchens, welches das Zeichen in einer bestimmten Spalte auslöst, hat die Anzeige "Druckerstörung" verursacht. Auf Sicherheit wurde sehr stark geachtet: Fällt nur eine der 144 Druckspalten aus, so muss sich der Drucker sofort abschalten, damit keine Fehldrucke entstehen können. Nun geht es auf die Suche der nächsten Fehler.<br>
-	<b>10.5.2010:</b> Wir konnten den Drahtspeicher aktivieren. Es lassen sich sogar schon kleine Testprogramme per Switchregister eingeben. Bei der Ausführung der Testprogramme ergeben sich noch Fehler, denen wir nun nachgehen.<br> Vermutlich ist unsere Anlage die einzige der Welt, bei welcher der empfindliche Drahtspeicher noch (teil-)funktionsfähig ist. Dennoch ist der Ersatzspeicher bereits in der Planung. <br>
-	<b>12.6.2010:</b> Wir machen Fortschritte: Nach einer eingehenden Justage der optischen Lesestation des Readers können wir auch über Lochkarten kleine Programme in den Drahtspeicher einlesen und ausführen lassen. Über den hohen Sicherheitsaufwand beim Lesen der Lochkarten berichten wir später. Erstaunlich ist, dass der problematische Drahtspeicher noch so gut arbeitet.<br>
-	<b>16.6.2010:</b> Bei der Erst-Reparatur von Computern, die seit mindestens 30 Jahren nicht mehr eingeschaltet wurden, muss man auch vorübergehende Rückschritte hinehmen. Viele elektronische und mechanische Teile zeigen erst nach und nach, dass diese lange Zeit nicht spurlos an ihnen vorüber ging. Die vor Wochen noch funktionsfähige Punch (Lochkartenstanzer) zeigt immer mehr Fehler; es lassen sich jetzt überhaupt keine Karten mehr bewegen.<br>
-	Dafür konnten wir bereits ein Programm: "Printer Loop" per Lochkarten eingeben. Der gewaltige Drucker läuft sogar an, druckt aber noch nicht. Nach jeweils ca. 2 min. löst eine Thermo-Sicherung aus und beendet den Druckversuch.<br>
-	<b>25.6.2010:</b> Die Thermosicherung wurde ausgelöst, da der Fliehkraftschalter der Anlaufwicklung des Druckermotors defekt war. Diese Wicklung war damit dauernd aktiv, was zu einer erhöhten Stromaufnahme führte. Der Motor läuft nun aber Druckbefehle werden immer noch nicht ausgeführt.<br>
-Zusätzlich haben wir einen Kontaktfehler im Memory ausfindig gemacht. Nach der Beseitigung desselben läuft der Drahtspeicher offensichtlich über den kompletten Bereich von 8KB störungsfrei.<br>
+	<p><b>15.4.2010:</b> Noch immer lÃ¤uft der Startzyklus der Maschine falsch. Eine Fehlermeldung des Druckers wird ohne offensichtlichen Grund angezeigt. Wir kreisen diesen Fehler sukzessive ein.<br>
+	<b>2.5.2010:</b> Ein defekter Thyristor in der Ansteuerung des HÃ¤mmerchens, welches das Zeichen in einer bestimmten Spalte auslÃ¶st, hat die Anzeige "DruckerstÃ¶rung" verursacht. Auf Sicherheit wurde sehr stark geachtet: FÃ¤llt nur eine der 144 Druckspalten aus, so muss sich der Drucker sofort abschalten, damit keine Fehldrucke entstehen kÃ¶nnen. Nun geht es auf die Suche der nÃ¤chsten Fehler.<br>
+	<b>10.5.2010:</b> Wir konnten den Drahtspeicher aktivieren. Es lassen sich sogar schon kleine Testprogramme per Switchregister eingeben. Bei der AusfÃ¼hrung der Testprogramme ergeben sich noch Fehler, denen wir nun nachgehen.<br> Vermutlich ist unsere Anlage die einzige der Welt, bei welcher der empfindliche Drahtspeicher noch (teil-)funktionsfÃ¤hig ist. Dennoch ist der Ersatzspeicher bereits in der Planung. <br>
+	<b>12.6.2010:</b> Wir machen Fortschritte: Nach einer eingehenden Justage der optischen Lesestation des Readers kÃ¶nnen wir auch Ã¼ber Lochkarten kleine Programme in den Drahtspeicher einlesen und ausfÃ¼hren lassen. Ãœber den hohen Sicherheitsaufwand beim Lesen der Lochkarten berichten wir spÃ¤ter. Erstaunlich ist, dass der problematische Drahtspeicher noch so gut arbeitet.<br>
+	<b>16.6.2010:</b> Bei der Erst-Reparatur von Computern, die seit mindestens 30 Jahren nicht mehr eingeschaltet wurden, muss man auch vorÃ¼bergehende RÃ¼ckschritte hinehmen. Viele elektronische und mechanische Teile zeigen erst nach und nach, dass diese lange Zeit nicht spurlos an ihnen vorÃ¼ber ging. Die vor Wochen noch funktionsfÃ¤hige Punch (Lochkartenstanzer) zeigt immer mehr Fehler; es lassen sich jetzt Ã¼berhaupt keine Karten mehr bewegen.<br>
+	DafÃ¼r konnten wir bereits ein Programm: "Printer Loop" per Lochkarten eingeben. Der gewaltige Drucker lÃ¤uft sogar an, druckt aber noch nicht. Nach jeweils ca. 2 min. lÃ¶st eine Thermo-Sicherung aus und beendet den Druckversuch.<br>
+	<b>25.6.2010:</b> Die Thermosicherung wurde ausgelÃ¶st, da der Fliehkraftschalter der Anlaufwicklung des Druckermotors defekt war. Diese Wicklung war damit dauernd aktiv, was zu einer erhÃ¶hten Stromaufnahme fÃ¼hrte. Der Motor lÃ¤uft nun aber Druckbefehle werden immer noch nicht ausgefÃ¼hrt.<br>
+ZusÃ¤tzlich haben wir einen Kontaktfehler im Memory ausfindig gemacht. Nach der Beseitigung desselben lÃ¤uft der Drahtspeicher offensichtlich Ã¼ber den kompletten Bereich von 8KB stÃ¶rungsfrei.<br>
 <b>30.6.2010:</b> Einen weiteren Fehler in der Drucker-Logik konnten wir ausfindig machen und beseitigen (defekter Transistor). Der Drucker arbeitet nun zum ersten Mal nach ca. 30 Jahren und kann bereits Files aus Lochkarten in verschiedenen Formaten ausdrucken (List-Programm). Das Schriftbild des Stabdruckers ist recht gut. <br>
-Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für Stück von ihrer Funktion verabschiedet hat (siehe 16.6.).<br>
-<b>5.8.2010:</b> Der Lochkartenstanzer läuft wieder! Das Austauschen eines defekten Transistors und ein Tropfen Öl an der richtigen Stelle haben zur vollen Funtkion geführt. Nun können wir per Programm Lochkarten duplizieren. Wir mussten jedoch die Fehlerprüfung deaktivieren, da ein Stanzfehler erkannt wird, der überhaupt nicht vorhanden ist. Diesen Defekt zu finden ist die nächste Aufgabe.<br>
-<b>26.8.2010:</b> Die Fehler in der "Fehlerprüfung" der gestanzten Daten (Lochkartenstanzer) alle aufzufinden war eine harte Nuß. Der Computer vergleicht die Daten, die zu stanzen sind mit der Auslösung der Stanzhebel in der Stanzstation. Dazu greift er per Indunktion das Auslösen des jeweiligen Stanzhebels nach einem sehr aufwändigen Verfahren ab. Defekt waren schließlich ein (von 24) induktives Abfühlelement (siehe später), ein Transistor der die jeweiligen Induktionsspannungen verstärkt sowie eine "kalte" Lötstelle. Ferner musste die gesamte Abfühlstation (24 Stück) neu justiert werden damit die Informationen zeitgleich mit den zu stanzenden Daten am Vergleicher zur Verfügung stehen. Die mechanisch einzustellenden Elemente müssen auf 5 Mikrosekunden genau justiert werden. Nach dieser Reparatur werden alle duplizierten Lochkarten auch überprüft. Bei einer falschen Lochung stoppt der Rechner augenblicklich (was extrem selten vorkommen sollte).<br>
+Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja StÃ¼ck fÃ¼r StÃ¼ck von ihrer Funktion verabschiedet hat (siehe 16.6.).<br>
+<b>5.8.2010:</b> Der Lochkartenstanzer lÃ¤uft wieder! Das Austauschen eines defekten Transistors und ein Tropfen Ã–l an der richtigen Stelle haben zur vollen Funtkion gefÃ¼hrt. Nun kÃ¶nnen wir per Programm Lochkarten duplizieren. Wir mussten jedoch die FehlerprÃ¼fung deaktivieren, da ein Stanzfehler erkannt wird, der Ã¼berhaupt nicht vorhanden ist. Diesen Defekt zu finden ist die nÃ¤chste Aufgabe.<br>
+<b>26.8.2010:</b> Die Fehler in der "FehlerprÃ¼fung" der gestanzten Daten (Lochkartenstanzer) alle aufzufinden war eine harte NuÃŸ. Der Computer vergleicht die Daten, die zu stanzen sind mit der AuslÃ¶sung der Stanzhebel in der Stanzstation. Dazu greift er per Indunktion das AuslÃ¶sen des jeweiligen Stanzhebels nach einem sehr aufwÃ¤ndigen Verfahren ab. Defekt waren schlieÃŸlich ein (von 24) induktives AbfÃ¼hlelement (siehe spÃ¤ter), ein Transistor der die jeweiligen Induktionsspannungen verstÃ¤rkt sowie eine "kalte" LÃ¶tstelle. Ferner musste die gesamte AbfÃ¼hlstation (24 StÃ¼ck) neu justiert werden damit die Informationen zeitgleich mit den zu stanzenden Daten am Vergleicher zur VerfÃ¼gung stehen. Die mechanisch einzustellenden Elemente mÃ¼ssen auf 5 Mikrosekunden genau justiert werden. Nach dieser Reparatur werden alle duplizierten Lochkarten auch Ã¼berprÃ¼ft. Bei einer falschen Lochung stoppt der Rechner augenblicklich (was extrem selten vorkommen sollte).<br>
 <div class="desc-right">
 		<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
-		<p class="bildtext" style="width: 400px;"><b>Rückseite der UNIVAC 9300:</b> Mit Speicheroszilloskop und Logik-Analysator werden logische Zustände gemessen</p></div>
+		<p class="bildtext" style="width: 400px;"><b>RÃ¼ckseite der UNIVAC 9300:</b> Mit Speicheroszilloskop und Logik-Analysator werden logische ZustÃ¤nde gemessen</p></div>
 
-<p><b>19.10.2010:</b> Nachdem alle verfügbaren Testprogramme (im Lochkartenformat) problemlos laufen und keine Fehlermeldungen erfolgen, stellen wir fest: <b>Der Rechner ist o.k.</b><br>
-Nun sind wir mit der Neukonstruktion des Speichers beschäftigt. Dies ist wichtig, da nicht davon auszugehen ist, dass der Drahtspeicher noch Jahrzehnte fehlerfrei arbeitet.<br>
+<p><b>19.10.2010:</b> Nachdem alle verfÃ¼gbaren Testprogramme (im Lochkartenformat) problemlos laufen und keine Fehlermeldungen erfolgen, stellen wir fest: <b>Der Rechner ist o.k.</b><br>
+Nun sind wir mit der Neukonstruktion des Speichers beschÃ¤ftigt. Dies ist wichtig, da nicht davon auszugehen ist, dass der Drahtspeicher noch Jahrzehnte fehlerfrei arbeitet.<br>
 
 		
-<b>Febr. 2012:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwändigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM läuft die neue Speicherkarte noch nicht. Weitere Tests und Änderungen sind notwendig. Zum Glück funktioniert der Drahtspeicher immer noch einwandfrei.</p>
+<b>Febr. 2012:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwÃ¤ndigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM lÃ¤uft die neue Speicherkarte noch nicht. Weitere Tests und Ã„nderungen sind notwendig. Zum GlÃ¼ck funktioniert der Drahtspeicher immer noch einwandfrei.</p>
 
-	<p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Ausleihe von vielen Ersatzteilen für diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer möglich.</small>
-
-
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>
+	<p class="small">Wir mÃ¶chten uns herzlich bei den Herrn Dr. Frank Berger und Dr. JÃ¼rgen Steen vom <b>Historischen Museum Frankfurt</b> fÃ¼r die Ausleihe von vielen Ersatzteilen fÃ¼r diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer mÃ¶glich.</small>

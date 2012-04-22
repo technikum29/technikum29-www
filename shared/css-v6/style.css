@@ -1,0 +1,559 @@
+/* t29v6 Grey Style, 08.01.2012 */
+
+body {
+	background: #cbc5bd url("../img-v6/bg-v2.body.png") repeat-x;
+}
+
+.clear { clear: both; }
+
+body, input { /* font */
+	font-family: "Trebuchet MS";
+}
+
+#content {
+	font-family: Verdana;
+	font-size: 15px;
+	line-height: 130%;
+	text-align: justify;
+}
+
+h2, html>body #page h2 {
+    font-weight: bold;
+    font-size: 160%;
+    line-height: 125%; /* wird sonst relativ zu falscher schriftgroesse vererbt */
+    margin: 0 0 0.7em 0;
+    padding: 0;
+}
+
+#content h2, #content h3, #content h4 {
+    /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
+       auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
+    font-weight: normal;
+    font-family: Trebuchet Ms,Verdana,Dejavu Sans,Helvetica,Arial,sans-serif;
+    font-size: 180%;
+    border-bottom: 3px double #aaa;
+}
+
+#content h3 {
+    /* Und das gleiche auch fuer Unter-Ueberschriften */
+    font-size: 140%;
+	margin: 2em 0 0.3em;
+}
+
+#content h4 {
+	font-weight: bold;
+	font-size: 100%;
+	border-bottom: 1px solid #aaa;
+	margin: 2.3em 0 1em;
+}
+
+
+
+
+
+nav.horizontal a, nav.side .u1 > li > a {
+	/*font-family: "Futura Std Book", "Trebuchet MS";*/
+	font-family: "Trebuchet MS";
+}
+
+#footer-background-container {
+	background: url("../img-v6/bg-v2.body-footer.png") bottom left repeat-x;
+	padding-bottom: 1px;
+}
+
+#container {
+	width: 1200px;
+	margin: 16px auto;
+	background-color: #f1f1f1;
+	position: relative;
+	padding-top: 104px;
+	overflow: hidden; /* #background-color-container */
+	box-shadow: 1px 1px 2px 1px rgba(0,0,0,.5);
+}
+
+/* Generelle Grundlagen */
+h1, h2 { margin: 0; padding: 0; }
+html.js .no-js, html.no-js .js, hr { display: none; }
+nav li { display: inline; }
+nav a { display: block; text-decoration: none; }
+nav a:focus { outline: none; }
+
+/* Header */
+header.banner {
+	position: absolute;
+	top: 0; left: 0; /*z-index: 1;*//* aus wegen nav.horizontal klappmenue*/
+	height: 107px; width: 100%;
+	text-align: right;
+	
+	/*border-bottom: 1px solid #5d5c58;*/
+	background: url("../img-v6/line.header-footer.png") bottom left repeat-x;
+}
+
+h1 { display: inline; }
+h1 a {
+	position: absolute;
+	top: 10px; left: 10px; z-index: 2;
+	text-indent: -9999px;
+	width: 310px; height: 84px;
+	background: url("../img-v6/banner.png");
+}
+
+/* Horizontal Navigation (Hauptnavigation) */
+nav.horizontal {
+	position: absolute;
+	right: 0; bottom: 0;
+	/*margin: 1em;*/ margin-right: 2em;
+}
+
+nav.horizontal .u1 > li {
+	display: inline-block;
+	/*margin-left: 1em;*/
+	position: relative;
+}
+
+nav.horizontal .u1 > li > a {
+	padding: 7px;
+	margin-bottom: 3px;
+}
+
+nav.horizontal .u1 > li.has-submenu > a {
+	padding-bottom: 10px;
+	margin-bottom: 0;
+}
+
+nav.horizontal .u1 > li:hover > a {
+	background-color: white;
+}
+
+nav.horizontal a {
+	/*font: 15px "Futura Std Book";*/
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	/*color: #124b6b;*/
+}
+
+/* Aufklappnavigation der Horizontalen Navi */
+nav.horizontal .u2 { display: none; }
+nav.horizontal .u1 > li:hover .u2, nav.horizontal .u1 li.dev-force-open .u2 {
+	display: block;
+}
+
+
+nav.horizontal .u2 {
+	position: absolute;
+	z-index: 100; /* Ueber allem */
+	left: 0; /* top: 0; */
+	text-align: left;
+	width: 23em;
+	background-color: white;
+	border-bottom: 3px solid #888;
+}
+
+nav.horizontal .u2 a {
+	padding: .2em .9em;
+}
+
+nav.horizontal .u2 a:hover {
+	background-color: #efefef;
+}
+
+nav.horizontal .u2 > li.has-submenu {
+	display: block;
+	margin: 1em 0;
+}
+
+nav.horizontal .u3 > li > a {
+	padding-left: 1.9em;
+	font-weight: normal;
+}
+
+nav.horizontal ul.rich-text a {
+	padding-top: .9em; padding-bottom: .9em;
+}
+
+nav.horizontal ul.rich-text a:after {
+	content: ".";
+	display: block;
+	clear: left;
+	height: 0; line-height: 0;
+	visibility: hidden;
+}
+
+nav.horizontal ul.rich-text img {
+	float: left;
+	margin-right: 10px;
+}
+
+nav.horizontal ul.rich-text a:hover img {
+	box-shadow: 0px 0px 4px #1a5160;
+	/*outline: 1px solid #1a5160;*/
+}
+
+nav.horizontal ul.rich-text a em {
+	display: block;
+	color: black;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 13px; /* like body */
+}
+
+/* Farben */
+nav.horizontal a, nav.top li.active a, nav.side a {
+	color: #1a5160;
+	font-weight: bold;
+	opacity: .8;
+}
+
+/* Topnavigation (Nebenheadernavigation) */
+nav.top {
+	position: absolute;
+	right: 0; top: 0;
+	margin: 1em; margin-right: 2em;
+}
+
+nav.top, nav.top input, nav.top a {
+	/*font: 15px "Futura Std Medium";*/
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #757575;
+	font-weight: bold;
+}
+
+nav.top form, nav.top ul {
+	display: inline-block;
+	position: relative;
+}
+nav.top input.text, nav.top input.text.defaultvalue {
+	border: 1px solid transparent; background: transparent;
+	/*width: 4em; text-align: right;
+	padding-right: 22px;*/
+	border: 2px solid #d8d8d8;
+	width: 10em; padding-left: .3em;
+}
+nav.top input.text:focus, nav.top input.text.no-defaultvalue {
+/*	text-align: left; width: 8em;
+	border: 1px solid #bababa;*/
+	background-color: white;
+	text-transform: none;
+	color: #000;
+}
+nav.top input.button {
+	display: block;
+	text-indent: -999px; border: none;
+	background: url("../img-v6/lupe.png") no-repeat;
+	width: 13px; height: 13px;
+	position: absolute; right: 0px; top: 4px;
+	
+	display: none;
+}
+
+nav.top a {
+	display: inline-block;
+	margin-right: 1em;
+}
+nav.top li.active a {
+	/*color: #124b6b;*/
+	border-bottom: 2px solid #6F2A41;
+}
+
+/* Content */
+#content {
+	padding: 30px 40px 60px;
+	width: 860px;
+	float: left;
+	color: black;
+}
+
+/* Hintergrund nach ganz unten durchschleifen */
+#background-color-container {
+	background-color: #dfeaf0;
+	float: left;
+	width: 100%;
+	position: relative;
+	left: 940px;
+}
+
+section.sidebar, #content {
+	position: relative;
+	left: -940px;
+}
+
+/* Rechtsnavi */
+section.sidebar {
+	width: 210px;
+	padding: 25px; padding-top: 35px;
+	/*background-color: #dfeaf0;*/  /* Die uebernimmt der Container*/
+	float: left;
+}
+
+/* Navigationsleiste */
+nav.side .guide-only { display: none; } /* Nur in nav.guide anzeigen */
+
+nav.side .u1 > li > a {
+	/*font: 18px "Futura Std Book";*/
+	font-size: 21px; font-weight: bold;
+	text-transform: uppercase;
+	/*color: #124b6b;*/
+	margin: 0 -25px;
+	padding: 5px 25px;
+}
+
+nav.side .u2 {
+	margin: 0 0 20px 0;
+}
+
+nav.side .u2 > li > a {
+	text-transform: uppercase;
+	font-size: 15px;
+	margin: 0 -25px;
+	padding: 5px 25px;
+}
+
+nav.side .u2 > li.active > a {
+	color: #E90015; /* hellblau:  #40a8e2; */
+	font-weight: bold;
+}
+
+nav.side .u3 {
+	margin-left: 12px;
+	margin-bottom: 12px;
+}
+
+nav.side .u3 { display: none; }
+nav.side .u2 > li.active .u3 { display: block; }
+
+nav.side .u3 > li > a {
+	font-size: 14px;
+	margin: 0 -25px 0 -40px;
+	padding: 1px 25px 1px 40px;
+	opacity: .9;
+	text-transform: uppercase;
+}
+
+nav.side .u3 > li.active a {
+	color: #e90015;
+	font-weight: bold;
+}
+
+nav a:hover, nav ul.rich-text li:hover a, nav a:focus, nav ul.rich-text li:focus a {
+	color: #A12A40;
+	background-color: white;
+}
+
+/* Nav-Hover-Transistions */
+nav a, nav a:link, nav a:visited, nav a:hover, nav a:focus {
+	/*-webkit-transition: color,background-color .18s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	*/
+}
+
+
+/* Scroll-Zustände der Navigationsleiste
+ * Siehe Script, es gibt:
+ *   html.no-js             - Ausgangslage ohne Javascript
+ *   html.static-menu       - Default mit Javascript
+ *   html.fixed-menu        - Umgeschaltet auf fix
+ *   html.stick-top-menu    - Zwischensituation wenn fix und ganz hochgescrollt (wie static-menu)
+ *   html.stick-bottom-menu - Zwischensituation wenn fix und ganz runtergescrollt (absolut positioniert)
+ */
+html.static-menu nav.side, html.stick-top-menu nav.side {
+	/* Ein/Ausblendeffekt fuer .get-menu-Button erzeugen  */
+	/* http://www.colorzilla.com/gradient-editor */
+	background: -moz-linear-gradient(top,  rgba(223,234,240,1) 0%, rgba(223,234,240,1) 82%, rgba(223,234,240,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(223,234,240,1)), color-stop(82%,rgba(223,234,240,1)), color-stop(100%,rgba(223,234,240,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* IE10+ */
+	background: linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dfeaf0', endColorstr='#00dfeaf0',GradientType=0 ); /* IE6-9 */
+
+	padding-bottom: 200%; /* sic! die 82% aus dem gradient muessen unterhalb der Navi anfangen*/
+	position: relative; z-index: 10;
+}
+
+html.fixed-menu nav.side {
+	position: fixed;
+	width: 210px;
+	top: 15px;
+}
+
+html.stick-bottom-menu nav.side {
+	position: absolute;
+	width: 210px;
+	/* Top-Wert durch JS gesetzt. */
+}
+
+/* Buttons in Navigationsleiste */
+section.sidebar .button {
+	display: block;
+	cursor: pointer;
+
+	/*font: 14px "Myriad Pro Light";*/
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #a07f60;
+	font-weight: bold;
+}
+
+section.sidebar .button:hover {
+	background-color: white;
+}
+
+section.sidebar .button.get-menu {
+	/* Menü-runterhol-Button */
+	position: fixed; z-index: 1;
+	bottom: 0; margin: 0 -25px;
+	padding: 15px 25px;
+	text-align: center; width: 210px;
+}
+
+section.sidebar .button.collapse-menu {
+	/* Ein/Ausklapp-Button */
+	margin: 3em -25px 0 -25px;
+	padding: 5px 25px;
+}
+
+/* Footer */
+footer {
+	clear: both;
+	height: 104px; width: 100%;
+	/* temp. um Navi-Kram zu uebermalen: */
+	position: relative; z-index: 20;
+	
+	/*border-top: 1px solid #5d5c58;*/
+	background: #f1f1f1 url("../img-v6/line.header-footer.png") top left repeat-x;
+}
+
+/* "Beam Navigation" nav.guide */
+nav.guide {
+	position: absolute;
+	z-index: 5; /* ueber nav.rel */
+	top: -5px; left: -5px;
+	width: 900px; margin: 0 25px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
+}
+nav.guide ul, nav.guide li { display: inline; }
+nav.guide a {
+	float: left;
+	position: relative;
+}
+
+nav.guide a:hover, nav.guide a:focus {
+	background-color: inherit; /* Overwrite nav a:hover bg white */
+}
+
+nav.guide .text {
+	display: block;
+	/*font: 12px "Futura Std Book";*/
+	font-size: 12px; font-weight: bold;
+	text-transform: uppercase;
+	color: #5d5c58;
+	position: absolute;
+	top: -19px; left: 0;
+	white-space: nowrap;
+}
+
+nav.guide a.higher-text .text {
+	/* Labeltexte, die die default dargestellten Texte (.visible)
+	   beim Hovern ueberpinseln und daher hoeher dargestellt werden */
+	top: -34px;
+}
+
+nav.guide .bullet {
+	width: 0; height: 0;
+	border: 2px solid #5d5c58;
+	padding: 4px;
+	margin: 1px;
+	display: inline-block;
+	border-radius: 6px;
+	position: relative;
+}
+
+nav.guide .visible > a > .bullet {
+	border-width: 6px;
+	padding: 0;
+}
+
+nav.guide .bullet, nav.guide .text { visibility: hidden; }
+nav.guide li.visible > a > .bullet, nav.guide .visible > a >  .text,
+nav.guide a:hover .bullet, nav.guide a:hover  .text,
+nav.guide a:focus .bullet, nav.guide a:focus .text { visibility:visible; }
+
+/*
+html.csstransitions nav.guide .bullet, html.csstransitions nav.guide .text {
+	visibility: visible; opacity: 0;
+	-webkit-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+html.csstransitions nav.guide li.visible > a > .bullet, html.csstransitions nav.guide .visible > a >  .text,
+html.csstransitions nav.guide a:hover .bullet, html.csstransitions nav.guide a:hover  .text,
+html.csstransitions nav.guide a:focus .bullet, html.csstransitions nav.guide a:focus .text {
+	opacity: 1;
+	-webkit-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+*/
+
+nav.guide a:hover .bullet, nav.guide a:focus .bullet {
+
+}
+
+/*nav.guide .current > a > .text { color: #40a8e2; }*/
+
+/* Relationale Navigation */
+nav.rel {
+	height: 20px;
+	position: absolute;
+	top: 20px; left: 40px;
+	z-index: 0;
+}
+
+nav.rel a {
+	/*font: 12px "Futura Std Medium";*/
+	font-size: 12px;
+	color: #40a8e2;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+nav.rel strong { display: block; }
+
+nav.rel li  a {
+	/*float: left;
+	width: 45%; *//* per JS automatisch angepasst */
+	padding: 10px; margin-top: 3px; /* footer bg */
+}
+
+nav.rel .prev  a {
+	text-align: right;
+}
+nav.rel .next a {
+	text-align: left;
+}
+
+nav.rel a:hover {
+	background-color: #dfeaf0;
+}
+
+/* Footer Icon-Sammlung und so */
+footer .right {
+	position: absolute;
+	top: 2px;
+	right: 0;
+	width: 230px;
+	padding: 15px;
+}
+
+footer .right img {
+	float: left;
+}

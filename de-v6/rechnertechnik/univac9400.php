@@ -1,55 +1,42 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="UNIVAC 9400-Gro&szlig;rechner, Rechenzentrum"
-   --><!--#set var="location"     value="univac"
-   --><!--#set var="part"         value="rechnertechnik"
-   --><!--#set var="url_en"       value="computer/univac9400.shtm"
-   --><!--#set var="prev"         value="univac9200.shtm"
-   --><!--#set var="prev_title"   value="Univac 9200, Univac 9300"
-   --><!--#set var="next"         value="kommerzielle.shtm"
-   --><!--#set var="next_title"   value="Fr&uuml;he kommerzielle Rechner"
- --><title>Technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Univac 9400, Unisys, Großrechner, Rechenzentrum, 60er" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2>UNIVAC 9400 Großrechner, Rechenzentrum</h2>
+<?php
+	$seiten_id = 'univac9400';
+	$version = '$Id$';
+	$titel = 'UNIVAC 9400-GroÃŸrechner, Rechenzentrum';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>UNIVAC 9400 GroÃŸrechner, Rechenzentrum</h2>
 
     <div class="box center" style="position:relative;">
-        <!-- Umständliche Lösung für die 30% IE6-Benutzer: Absolut positioniertes
+        <!-- UmstÃ¤ndliche LÃ¶sung fÃ¼r die 30% IE6-Benutzer: Absolut positioniertes
              Bild, Dummyelement als Platzhalter. Ansonsten zieht IE6 die #content-Spalte
              in die Breite. Funktioniert auch in ordentlichen Browsern, ansonsten die
-             richtige Lösung weiter unten. -->
+             richtige LÃ¶sung weiter unten. -->
        <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/univac/panorama-rechts.jpg" alt="Komplettfotografie der Univac 9400" /></div>
         <div style="height: 389px;">&nbsp;</div>
     </div>
     
-    <!-- Ordentliche Lösung für ordentliche Browser, ist aber zusätzlich nicht nötig: -->
+    <!-- Ordentliche LÃ¶sung fÃ¼r ordentliche Browser, ist aber zusÃ¤tzlich nicht nÃ¶tig: -->
     <!--<p class="box center">
        <img src="/shared/photos/start/univac9400.jpg" alt="Fotografie der Univac 9400" class="nomargin" width="595" height="446" />
        <img src="/shared/photos/rechnertechnik/univac/panorama-rechts.jpg" width="930" height="389" alt="Komplettfotografie der Univac 9400" />
     </p>-->
 
     <ul class="univac-thumbs">
-       <li><a href="/de/geraete/univac9400/panorama-links.shtm" name="backlink-links" title="Großes Bild von links"><img src="/shared/photos/rechnertechnik/univac/panorama-links.klein.jpg" alt="Foto 1: Univac 9400 von links" height="107" /></a></li>
-       <li><a href="/de/geraete/univac9400/frontpanel.shtm" name="backlink-frontpanel" title="Großes Bild des Frontpanel"><img src="/shared/photos/rechnertechnik/univac/frontpanel.klein.jpg" alt="Foto 2: Univac 9400 Frontpanel" height="379" /></a></li>
-       <li><a href="/de/geraete/univac9400/konsole+uniservo.shtm" name="backlink-konsole" title="Großes Bild der Konsole/Uniservo"><img src="/shared/photos/rechnertechnik/univac/uniservo-12-16.klein.jpg" alt="Foto 3: Konsole und Uniservo" height="165" /></a></li>
-       <li><a href="/de/geraete/univac9400/kartenleser.shtm" name="backlink-kartenleser" title="Großes Bild vom Kartenleser"><img src="/shared/photos/rechnertechnik/univac/kartenleser.klein.jpg" alt="Foto 4: Kartenleser" height="178" /></a></li>
-       <li><a href="/de/geraete/univac9400/kartenleser.shtm" name="backlink-kartenleser2" title="Großes Bild des Kartentransportes (Kartenleser)"><img src="/shared/photos/rechnertechnik/univac/kartentransport.klein.jpg" alt="Foto 5: Kartentransport im Kartenleser" height="318" /></a></li>
-       <li><a href="/de/geraete/univac9400/bandcontroller-laempchen.shtm" name="backlink-bandcontroller" title="Großes Bild des Bandcontrollers"><img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.klein.jpg" alt="Foto 6: Lämpchen des Bandcontrollers" height="220" /></a></li>
-       <li><a href="/de/geraete/univac9400/plattenlaufwerke.shtm" name="backlink-plattenlaufwerke" title="Großes Bild der Plattenlaufwerke"><img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.klein.jpg" alt="Foto 7: Plattenlaufwerke" height="178" /></a></li>
-       <li><a href="/de/geraete/univac9400/schnelldrucker.shtm" name="backlink-schnelldrucker" title="Großes Bild vom Univac 9400 Schnelldrucker"><img src="/shared/photos/rechnertechnik/univac/schnelldrucker.klein.jpg" alt="Foto 8: Schnelldrucker" height="232" /></a></li>
-       <li><a href="/de/geraete/univac9400/typisches-board.shtm" name="backlink-board" title="Großes Bild von einem typischen Modul"><img src="/shared/photos/rechnertechnik/univac/typisches-board.klein.jpg" alt="Foto 9: Typisches Board" height="161" /></a></li>
+       <li><a href="/de/geraete/univac9400/panorama-links.shtm" name="backlink-links" title="GroÃŸes Bild von links"><img src="/shared/photos/rechnertechnik/univac/panorama-links.klein.jpg" alt="Foto 1: Univac 9400 von links" height="107" /></a></li>
+       <li><a href="/de/geraete/univac9400/frontpanel.shtm" name="backlink-frontpanel" title="GroÃŸes Bild des Frontpanel"><img src="/shared/photos/rechnertechnik/univac/frontpanel.klein.jpg" alt="Foto 2: Univac 9400 Frontpanel" height="379" /></a></li>
+       <li><a href="/de/geraete/univac9400/konsole+uniservo.shtm" name="backlink-konsole" title="GroÃŸes Bild der Konsole/Uniservo"><img src="/shared/photos/rechnertechnik/univac/uniservo-12-16.klein.jpg" alt="Foto 3: Konsole und Uniservo" height="165" /></a></li>
+       <li><a href="/de/geraete/univac9400/kartenleser.shtm" name="backlink-kartenleser" title="GroÃŸes Bild vom Kartenleser"><img src="/shared/photos/rechnertechnik/univac/kartenleser.klein.jpg" alt="Foto 4: Kartenleser" height="178" /></a></li>
+       <li><a href="/de/geraete/univac9400/kartenleser.shtm" name="backlink-kartenleser2" title="GroÃŸes Bild des Kartentransportes (Kartenleser)"><img src="/shared/photos/rechnertechnik/univac/kartentransport.klein.jpg" alt="Foto 5: Kartentransport im Kartenleser" height="318" /></a></li>
+       <li><a href="/de/geraete/univac9400/bandcontroller-laempchen.shtm" name="backlink-bandcontroller" title="GroÃŸes Bild des Bandcontrollers"><img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.klein.jpg" alt="Foto 6: LÃ¤mpchen des Bandcontrollers" height="220" /></a></li>
+       <li><a href="/de/geraete/univac9400/plattenlaufwerke.shtm" name="backlink-plattenlaufwerke" title="GroÃŸes Bild der Plattenlaufwerke"><img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.klein.jpg" alt="Foto 7: Plattenlaufwerke" height="178" /></a></li>
+       <li><a href="/de/geraete/univac9400/schnelldrucker.shtm" name="backlink-schnelldrucker" title="GroÃŸes Bild vom Univac 9400 Schnelldrucker"><img src="/shared/photos/rechnertechnik/univac/schnelldrucker.klein.jpg" alt="Foto 8: Schnelldrucker" height="232" /></a></li>
+       <li><a href="/de/geraete/univac9400/typisches-board.shtm" name="backlink-board" title="GroÃŸes Bild von einem typischen Modul"><img src="/shared/photos/rechnertechnik/univac/typisches-board.klein.jpg" alt="Foto 9: Typisches Board" height="161" /></a></li>
        <li><a href="/de/rechnertechnik/univac9200.shtm"><img src="/shared/photos/rechnertechnik/univac/univac9300klein.jpg" alt="Foto 10: Univac 9200" height="127" /></a></li>
-       <li><a href="/de/geraete/univac9400/werbung.shtm" name="backlink-werbung" title="Die Anzeige für die Univac 9400 lesen"><img src="/shared/photos/rechnertechnik/univac/werbung.klein.jpg" alt="Foto 11: Univac 9400 Anzeige" height="344" /></a></li>
+       <li><a href="/de/geraete/univac9400/werbung.shtm" name="backlink-werbung" title="Die Anzeige fÃ¼r die Univac 9400 lesen"><img src="/shared/photos/rechnertechnik/univac/werbung.klein.jpg" alt="Foto 11: Univac 9400 Anzeige" height="344" /></a></li>
     </ul>
 	
-	<p>Vorbemerkung: Alle untenstehenden Bilder lassen sich durch Anklicken vergrößern. Zusätzlich werden die Bilder kommentiert.<br /> <br />
+	<p>Vorbemerkung: Alle untenstehenden Bilder lassen sich durch Anklicken vergrÃ¶ÃŸern. ZusÃ¤tzlich werden die Bilder kommentiert.<br /> <br />
 Der Reihenfolge nach (von rechts nach links im Bild oben) sind zu sehen:
 
 <ul>
@@ -66,43 +53,39 @@ Der Reihenfolge nach (von rechts nach links im Bild oben) sind zu sehen:
 </ul>
 
 <p>Im Archiv befinden sich noch ein Tape-Laufwerk Uniservo 12, drei Disk-Laufwerke und weitere Komponenten.</p>
-<p>Ein Großrechner ist ein Computer, der in der Regel einen eigenen Raum von über 30 m&sup2; beanspruchte. Dieser musste klimatisiert sein.</p>
+<p>Ein GroÃŸrechner ist ein Computer, der in der Regel einen eigenen Raum von Ã¼ber 30 m&sup2; beanspruchte. Dieser musste klimatisiert sein.</p>
 
-<p>Diese Anlage hat nur überlebt, da sie zuletzt (seit gut 25 Jahren) an einem Kölner Gymnasium glücklicherweise nicht im Wege stand. Ende der 70er Jahre konnte damit ein anspruchsvoller Informatikunterricht erteilt werden. Davor befand sich die Anlage in einem Kölner Industriebetrieb.<br />
-Seit September 2005 schmückt sie unser Museum. Das 3. Hessische Fernsehprogramm berichtete über den Transport der UNIVAC 9400 (und 9300), der wegen des hohen Gewichtes mit 2 LKW erfolgen musste. Die wenigen 9400-Anlagen, die in Europa standen, wurden in Frankfurt-Rödelheim hergestellt. Dieser Rechner ist damit fast an seinen Ursprungsort zurückgekehrt.</p>
+<p>Diese Anlage hat nur Ã¼berlebt, da sie zuletzt (seit gut 25 Jahren) an einem KÃ¶lner Gymnasium glÃ¼cklicherweise nicht im Wege stand. Ende der 70er Jahre konnte damit ein anspruchsvoller Informatikunterricht erteilt werden. Davor befand sich die Anlage in einem KÃ¶lner Industriebetrieb.<br />
+Seit September 2005 schmÃ¼ckt sie unser Museum. Das 3. Hessische Fernsehprogramm berichtete Ã¼ber den Transport der UNIVAC 9400 (und 9300), der wegen des hohen Gewichtes mit 2 LKW erfolgen musste. Die wenigen 9400-Anlagen, die in Europa standen, wurden in Frankfurt-RÃ¶delheim hergestellt. Dieser Rechner ist damit fast an seinen Ursprungsort zurÃ¼ckgekehrt.</p>
 
-<p>Es gibt heute nur noch ganz wenige Rechner dieser Größe, die auch funktionieren. Die Anlagen sind so komplex, dass eine Reparatur sehr schwierig und aufwändig ist. Möchte man alle Möglichkeiten dieser Anlage ausschöpfen, muss man ca. 6 komplette Bedienungs-Handbücher durcharbeiten.</p>
+<p>Es gibt heute nur noch ganz wenige Rechner dieser GrÃ¶ÃŸe, die auch funktionieren. Die Anlagen sind so komplex, dass eine Reparatur sehr schwierig und aufwÃ¤ndig ist. MÃ¶chte man alle MÃ¶glichkeiten dieser Anlage ausschÃ¶pfen, muss man ca. 6 komplette Bedienungs-HandbÃ¼cher durcharbeiten.</p>
 
-<p>Voraussetzung für die Chance einer erfolgreichen Reparatur sind: Absolute Vollständigkeit der Anlage, das Vorhandensein des Betriebssystems sowie der Testprogramme und möglichst alle Unterlagen (Schaltbilder, Service- und Betriebsanleitungen). Ferner sollten nicht zu viele Fehler gleichzeitig vorhanden sein, sonst schlittert man in ein Abenteuer ohne Ende.
-<br />Wir hatten in mehrfacher Hinsicht Glück. Die uns überlassene UNIVAC 9400 Anlage ist komplett und vollständig dokumentiert. Der zweite Glückstreffer: Zwei Herren im Ruhestand, welche nicht weit entfernt vom Museum wohnen und diese Anlage bestens kennen, brachten sie Teil für Teil mit viel Systematik, unendlich viel Hintergrundwissen und vielen noch vorhandenen Spezial-Ersatzteilen zur vollen Funktion. 
-<br />Vermutlich wird unsere UNIVAC 9400 weltweit der einzige funktionsfähige UNIVAC-Rechner dieser Art sein (wenn nicht, bitte melden!). 
+<p>Voraussetzung fÃ¼r die Chance einer erfolgreichen Reparatur sind: Absolute VollstÃ¤ndigkeit der Anlage, das Vorhandensein des Betriebssystems sowie der Testprogramme und mÃ¶glichst alle Unterlagen (Schaltbilder, Service- und Betriebsanleitungen). Ferner sollten nicht zu viele Fehler gleichzeitig vorhanden sein, sonst schlittert man in ein Abenteuer ohne Ende.
+<br />Wir hatten in mehrfacher Hinsicht GlÃ¼ck. Die uns Ã¼berlassene UNIVAC 9400 Anlage ist komplett und vollstÃ¤ndig dokumentiert. Der zweite GlÃ¼ckstreffer: Zwei Herren im Ruhestand, welche nicht weit entfernt vom Museum wohnen und diese Anlage bestens kennen, brachten sie Teil fÃ¼r Teil mit viel Systematik, unendlich viel Hintergrundwissen und vielen noch vorhandenen Spezial-Ersatzteilen zur vollen Funktion. 
+<br />Vermutlich wird unsere UNIVAC 9400 weltweit der einzige funktionsfÃ¤hige UNIVAC-Rechner dieser Art sein (wenn nicht, bitte melden!). 
 
 
 
-<p>Die UNIVAC Serie 9000 wurde Mitte der 60er Jahre konzipiert. Alle Rechner sind mittels "Monolith-Schaltkreisen" aufgebaut. Das sind ICs aus der DTL-Serie, die etwa 1966 auf den Markt kamen. DTL bedeutet "Dioden-Transistor-Logik"; die Transistoren waren in Form einfacher OR- und NOR-Gates integriert, während die eigentliche Logik außerhalb der ICs durch einfache Dioden realisiert wurde. Alle DTL-Rechner kamen daher mit nur 4 verschiedenen IC-Typen aus. Streng genommen sind dies noch Rechner der 2. Generation, der Integrationsgrad befindet sich auf der denkbar untersten Ebene. So mussten auch z.B. alle Flip-Flop-Elemente mit Hilfe der NOR-Gates realisiert werden.</p>
+<p>Die UNIVAC Serie 9000 wurde Mitte der 60er Jahre konzipiert. Alle Rechner sind mittels "Monolith-Schaltkreisen" aufgebaut. Das sind ICs aus der DTL-Serie, die etwa 1966 auf den Markt kamen. DTL bedeutet "Dioden-Transistor-Logik"; die Transistoren waren in Form einfacher OR- und NOR-Gates integriert, wÃ¤hrend die eigentliche Logik auÃŸerhalb der ICs durch einfache Dioden realisiert wurde. Alle DTL-Rechner kamen daher mit nur 4 verschiedenen IC-Typen aus. Streng genommen sind dies noch Rechner der 2. Generation, der Integrationsgrad befindet sich auf der denkbar untersten Ebene. So mussten auch z.B. alle Flip-Flop-Elemente mit Hilfe der NOR-Gates realisiert werden.</p>
 
-<p>Die UNIVAC 9200 wurde als "leistungsstarke, kartenorientierte elektronische Datenverarbeitungsanlage" mit einer Speicherkapazität bis 16 kB angeboten. Diese Anlage ist auch Bestand des Museums und wird unter der Rubrik <a href="/de/rechnertechnik/univac9200.shtm" title="UNIVAC 9200 Anlage" class="go">"Lochkarten-EDV, UNIVAC 9200, UNIVAC 9300"</a> beschrieben.<br>
-Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und plattenorentiert mit max. 32 kB Speicherkapazität.
-<br />1969 wurde dann schließlich die Krönung UNIVAC 9400 als "flexibles band- und plattenorientiertes Computersystem mit Multiprogramming, Real-Time-Eigenschaften und vielfältigen Möglichkeiten der Datenfernübertragung" angeboten. Das unterste Bild zeigt eine Anzeige von 1968, in welcher die Eigenschaften des Rechners offeriert werden.</p>
+<p>Die UNIVAC 9200 wurde als "leistungsstarke, kartenorientierte elektronische Datenverarbeitungsanlage" mit einer SpeicherkapazitÃ¤t bis 16 kB angeboten. Diese Anlage ist auch Bestand des Museums und wird unter der Rubrik <a href="/de/rechnertechnik/univac9200.shtm" title="UNIVAC 9200 Anlage" class="go">"Lochkarten-EDV, UNIVAC 9200, UNIVAC 9300"</a> beschrieben.<br>
+Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und plattenorentiert mit max. 32 kB SpeicherkapazitÃ¤t.
+<br />1969 wurde dann schlieÃŸlich die KrÃ¶nung UNIVAC 9400 als "flexibles band- und plattenorientiertes Computersystem mit Multiprogramming, Real-Time-Eigenschaften und vielfÃ¤ltigen MÃ¶glichkeiten der DatenfernÃ¼bertragung" angeboten. Das unterste Bild zeigt eine Anzeige von 1968, in welcher die Eigenschaften des Rechners offeriert werden.</p>
 
-<p>Alle Rechner dieser Serie verfügten über einen Magnetdrahtspeicher. Dieser Speicher, damals als revolutionäre Neuentwicklung angepriesen, sollte besonders zuverlässig sein und schaffte eine Zykluszeit von 600 ns pro 2 Bytes. Der geringe Zyklus war u.a. der Tatsache zu verdanken, dass der Speicherinhalt beim Lesen nicht verloren geht, wie es beim Kernspeicher der Fall ist. Zeit zum Regenerieren der Speicherinhalte nach dem Auslesen war daher nicht notwendig. 
-<br />Dennoch zeigten sich schon nach relativ kurzer Zeit, dass der Speicher nicht halten konnte, was man versprach: Häufige Defekte machten ihn zum Problemfall. Daher wurde der Speicher unserer 9400 Anlage ca. 1971/72 auf den ersten DRAM Halbleiterspeicher (P1103) von INTEL umgerüstet. Nicht weniger als 1200 Speicher-IC´s der ersten Generation waren notwendig, um die für damalige Zeiten gigantisch große Speicherkapazität von 256 kB zu realisieren. Ein Glück für uns, denn Magnetdrahtspeicher sind größtenteils nicht mehr reparabel.
-<br />Die langsame Peripherie (max. 85 kB/sec) wie Lochstreifen-, Lochkartenleser und Schnelldrucker wurde über einen Multiplexkanal angeschlossen. Für die Peripherie mit schnellem Datenaustausch (333 kB/sec) standen zwei Selektorkanäle zur Verfügung (Band- und Plattenlaufwerke).</p>
+<p>Alle Rechner dieser Serie verfÃ¼gten Ã¼ber einen Magnetdrahtspeicher. Dieser Speicher, damals als revolutionÃ¤re Neuentwicklung angepriesen, sollte besonders zuverlÃ¤ssig sein und schaffte eine Zykluszeit von 600 ns pro 2 Bytes. Der geringe Zyklus war u.a. der Tatsache zu verdanken, dass der Speicherinhalt beim Lesen nicht verloren geht, wie es beim Kernspeicher der Fall ist. Zeit zum Regenerieren der Speicherinhalte nach dem Auslesen war daher nicht notwendig. 
+<br />Dennoch zeigten sich schon nach relativ kurzer Zeit, dass der Speicher nicht halten konnte, was man versprach: HÃ¤ufige Defekte machten ihn zum Problemfall. Daher wurde der Speicher unserer 9400 Anlage ca. 1971/72 auf den ersten DRAM Halbleiterspeicher (P1103) von INTEL umgerÃ¼stet. Nicht weniger als 1200 Speicher-ICÂ´s der ersten Generation waren notwendig, um die fÃ¼r damalige Zeiten gigantisch groÃŸe SpeicherkapazitÃ¤t von 256 kB zu realisieren. Ein GlÃ¼ck fÃ¼r uns, denn Magnetdrahtspeicher sind grÃ¶ÃŸtenteils nicht mehr reparabel.
+<br />Die langsame Peripherie (max. 85 kB/sec) wie Lochstreifen-, Lochkartenleser und Schnelldrucker wurde Ã¼ber einen Multiplexkanal angeschlossen. FÃ¼r die Peripherie mit schnellem Datenaustausch (333 kB/sec) standen zwei SelektorkanÃ¤le zur VerfÃ¼gung (Band- und Plattenlaufwerke).</p>
 
-<p>Softwaremäßig wurde der UNIVAC 9400 Computer mit einer Vielzahl von Routinen und Compilern, wie z.B. Assembler und den höheren Programmiersprachen  COBOL  und  FORTRAN  angeboten. Ein zusätzlicher "Report-Programm-Generator" ermöglichte das einfache Erstellen einer "Tabellenkalkulation".<br> Unsere 9400-Anlage kann auf Lochkarten abgestanzte Programme und Daten in Form von "Job´s" abarbeiten. Dabei erfolgt die Systemsteuerung durch einen "Supervisor", der von der Systemplatte geladen wird. </p>
+<p>SoftwaremÃ¤ÃŸig wurde der UNIVAC 9400 Computer mit einer Vielzahl von Routinen und Compilern, wie z.B. Assembler und den hÃ¶heren Programmiersprachen  COBOL  und  FORTRAN  angeboten. Ein zusÃ¤tzlicher "Report-Programm-Generator" ermÃ¶glichte das einfache Erstellen einer "Tabellenkalkulation".<br> Unsere 9400-Anlage kann auf Lochkarten abgestanzte Programme und Daten in Form von "JobÂ´s" abarbeiten. Dabei erfolgt die Systemsteuerung durch einen "Supervisor", der von der Systemplatte geladen wird. </p>
 
-<p>Die Rechner aus dieser Zeit unterscheiden sich grundsätzlich von ihren Nachfolgern: Hier können etwa 600 einzelne Bit-Zustände aus dem Innern des Rechners durch (Glimm-) Lämpchen "ausgeleuchtet" werden. Praktisch alle Register sind einseh- und veränderbar, der Inhalt jeder einzelnen  Speicherzelle kann angezeigt und verändert werden. Die vielen Einstellmöglichkeiten machen diesen Computer quasi zu einem "Lehrcomputer". Die Absicht war 1969 jedoch eine andere: Fehler durch defekte Bauteile mussten für das technische Wartungspersonal schnell auffindbar sein und dies ist nur durch die hier ermöglichten "Einblicke" realisierbar. Die Servicefreundlichkeit dieser Anlage ist in jeder Hinsicht extrem gut.</p>
+<p>Die Rechner aus dieser Zeit unterscheiden sich grundsÃ¤tzlich von ihren Nachfolgern: Hier kÃ¶nnen etwa 600 einzelne Bit-ZustÃ¤nde aus dem Innern des Rechners durch (Glimm-) LÃ¤mpchen "ausgeleuchtet" werden. Praktisch alle Register sind einseh- und verÃ¤nderbar, der Inhalt jeder einzelnen  Speicherzelle kann angezeigt und verÃ¤ndert werden. Die vielen EinstellmÃ¶glichkeiten machen diesen Computer quasi zu einem "Lehrcomputer". Die Absicht war 1969 jedoch eine andere: Fehler durch defekte Bauteile mussten fÃ¼r das technische Wartungspersonal schnell auffindbar sein und dies ist nur durch die hier ermÃ¶glichten "Einblicke" realisierbar. Die Servicefreundlichkeit dieser Anlage ist in jeder Hinsicht extrem gut.</p>
 
-<p>Inzwischen laufen viele Programme. So können Sie sich von diesem "Groß"Rechner z.B. eine aktuelle Graphik für Ihren persönlichen Bio-Rhythmus der nächsten 4 Wochen anfertigen lassen. Ein COBOL-Programm übernimmt die aufwändige Analyse.</p>
+<p>Inzwischen laufen viele Programme. So kÃ¶nnen Sie sich von diesem "GroÃŸ"Rechner z.B. eine aktuelle Graphik fÃ¼r Ihren persÃ¶nlichen Bio-Rhythmus der nÃ¤chsten 4 Wochen anfertigen lassen. Ein COBOL-Programm Ã¼bernimmt die aufwÃ¤ndige Analyse.</p>
 
-<p>Die Kosten der UNIVAC Anlage im Jahre 1969 war enorm und entsprach einer Kette von neuen PKW mit einer Länge von ca. 2,3 km. Siehe <a href="/de/geraete/univac9400/kosten.shtm" class="go">Unfassbar: Univac 9400 = 470 Autos (VW-Käfer)</a></p>
+<p>Die Kosten der UNIVAC Anlage im Jahre 1969 war enorm und entsprach einer Kette von neuen PKW mit einer LÃ¤nge von ca. 2,3 km. Siehe <a href="/de/geraete/univac9400/kosten.shtm" class="go">Unfassbar: Univac 9400 = 470 Autos (VW-KÃ¤fer)</a></p>
 
  <div class="box right clear-after">
        <img src="/shared/photos/rechnertechnik/unisys_tag.gif"  width="142" height="75" class="nomargin-bottom" />
-       <p class="small">Wir möchten uns an dieser Stelle bei der Firma <b>UNISYS</b> für die Übernahme aller Großtransporte herzlich bedanken.</small>
+       <p class="small">Wir mÃ¶chten uns an dieser Stelle bei der Firma <b>UNISYS</b> fÃ¼r die Ãœbernahme aller GroÃŸtransporte herzlich bedanken.</small>
 </div>
 
-</div> <!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

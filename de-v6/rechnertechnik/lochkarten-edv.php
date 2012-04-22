@@ -1,41 +1,29 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Lochkartengeräte"
-   --><!--#set var="location"     value="lochkarten"
-   --><!--#set var="part"         value="rechnertechnik"
-   --><!--#set var="url_en"       value="computer/punchcard.shtm"
-   --><!--#set var="prev"         value="ic-technik.shtm"
-   --><!--#set var="prev_title"   value="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik"
-   --><!--#set var="next"         value="tabelliermaschine.shtm"
-   --><!--#set var="next_title"   value="BULL Tabelliermaschine"
- --><title>Technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'lochkarten';
+	$version = '$Id$';
+	$titel = 'LochkartengerÃ¤te';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>LochkartengerÃ¤te</h2>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
-
-    <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Die hier aufgeführeten Lochkarten-Peripheriegeräte waren notwendig um effektiv mit EDV-Anlagen arbeiten zu können. Wir stellen daher zunächst die Peripherigeräte und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
-	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
+    <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblÃ¼hte. Die hier aufgefÃ¼hreten Lochkarten-PeripheriegerÃ¤te waren notwendig um effektiv mit EDV-Anlagen arbeiten zu kÃ¶nnen. Wir stellen daher zunÃ¤chst die PeripherigerÃ¤te und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
+	Aus heutiger Sicht ist die GrÃ¶ÃŸe der GerÃ¤te, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
 <h3>Lochkartenstanzer</h3>
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg" alt="Lochkartenstanzer" width="330" height="368" class="nomargin-bottom" />
         <div class="bildtext">
            
-            <p>Für sehr kleine Betriebe, die nur gelegentlich eine Karte stanzen mussten, reichte der kleine Kartenstanzer unten. In der Mitte befindet sich ein Stanzer von BULL und oben schließlich ein sogenannter "Magnetstanzer", bei welchem die Löcher mit Hilfe eines Elektromagneten gestanzt wurden. Für größere Lochkartenmengen verwendete man die "Motorlocher" (siehe unten), die jedoch erheblich teurer waren. </p>
+            <p>FÃ¼r sehr kleine Betriebe, die nur gelegentlich eine Karte stanzen mussten, reichte der kleine Kartenstanzer unten. In der Mitte befindet sich ein Stanzer von BULL und oben schlieÃŸlich ein sogenannter "Magnetstanzer", bei welchem die LÃ¶cher mit Hilfe eines Elektromagneten gestanzt wurden. FÃ¼r grÃ¶ÃŸere Lochkartenmengen verwendete man die "Motorlocher" (siehe unten), die jedoch erheblich teurer waren. </p>
         </div>
     </div>
 
-    <p>Ein typischer Maschinenpark bestand aus den Lochkartenstanzern (hier entstand der Beruf der "Locherin"), mit dem die Informationen und Daten auf Karten gestanzt wurden, einem Kartenmischer, der die Karten aus verschiedenen Stapeln (z.B. Adressen, Rechnungen) in die jeweils richtige Reihenfolge brachte, einem Sortierer, der Lochkarten nach vorgegebenen Bedingungen sortieren konnte und eventuell einem Lochschriftübersetzer, der die gestanzte Information als Klartext an eine vorbestimmte Stelle der Lochkarte schrieb.</p>
+    <p>Ein typischer Maschinenpark bestand aus den Lochkartenstanzern (hier entstand der Beruf der "Locherin"), mit dem die Informationen und Daten auf Karten gestanzt wurden, einem Kartenmischer, der die Karten aus verschiedenen Stapeln (z.B. Adressen, Rechnungen) in die jeweils richtige Reihenfolge brachte, einem Sortierer, der Lochkarten nach vorgegebenen Bedingungen sortieren konnte und eventuell einem LochschriftÃ¼bersetzer, der die gestanzte Information als Klartext an eine vorbestimmte Stelle der Lochkarte schrieb.</p>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
         <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b></p></div>
-		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+		<p>Links im Bild ist der legendÃ¤re IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ã„hnlichkeit ist nicht zufÃ¤llig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunÃ¤chst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 â‚¬).</p>
 
     
 	
@@ -43,10 +31,10 @@
         <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />
         <p class="bildtext"><b>UNIVAC Lochkartenstanzer 1710</b></p> 
     </div>
-	<p>Der Univac 1710 kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
-		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man zwei Stanzprogramme (z.B. Feldsprünge) und auch den Inhalt einer Datenkarte speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
+	<p>Der Univac 1710 kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses GerÃ¤t weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwÃ¤ndig, brachte aber einige Vorteile: <br>
+		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man zwei Stanzprogramme (z.B. FeldsprÃ¼nge) und auch den Inhalt einer Datenkarte speichern (fÃ¼r das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte fÃ¼r Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen mÃ¶glich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollstÃ¤ndigen Dateneingabe in beachtlichem Tempo. AuÃŸerdem hat der Stanzer zwei KartenzufÃ¼hrungen sowie zwei Kartenablagen (jeweils fÃ¼r Programm- bzw. Datenkarten). <br>
 		Als Speicher dient ein Kernspeicher mit 12x80x2 Ringkernen.
-		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
+		Mit diesem GerÃ¤t konnte man damit auch gestanzte Karten nachtrÃ¤glich beschriften (LochschriftÃ¼bersetzer) und gelochte Karten auf richtige Lochung Ã¼berprÃ¼fen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
 		
 		<h3>Sortiermaschinen</h3>
 		
@@ -64,7 +52,7 @@
         <a href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
-            Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
+            GegenÃ¼ber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 StÃ¼ck pro Sekunde. Sehr viel mehr ist wegen der TrÃ¤gheit der Mechanik auch nicht mÃ¶glich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
@@ -75,8 +63,8 @@
         <p class="bildtext">
             <b>IBM Lochkartenmischer 77</b></p></div>
 			
-            <p>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
-            <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Messgerät.
+            <p>Hier ist die RÃ¼ckseite des 1959 gebauten GerÃ¤tes ohne GehÃ¤use zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verÃ¤ndern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im Ã¼bertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme kÃ¶nnen durch Austauschen einer mit Steckkabeln bestÃ¼ckten Schalttafel gewechselt werden.
+            <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. FÃ¼r die Techniker aus dieser FrÃ¼hzeit war das "Ã–lkÃ¤nnchen" zur Pflege der vielen Lager genauso wichtig wie ein MessgerÃ¤t.
 	        <br/><a class="go" href="/de/geraete/lochkartenmischer-funktion.shtm">Funktionsweise des Lochkartenmischers</a>
         </p>
 
@@ -86,21 +74,15 @@
         <p class="bildtext">
             <b>Bull Lochkartenmischer Typ 56.00.</b></p></div>
 			
-		   <p> Dieser Lochkartenmischer ist ein gigantisch großes Gerät mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch möglich. Je nach Anwendung können 250 bis 500 Lochkarten in der Minute verarbeitet werden.
+		   <p> Dieser Lochkartenmischer ist ein gigantisch groÃŸes GerÃ¤t mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch mÃ¶glich. Je nach Anwendung kÃ¶nnen 250 bis 500 Lochkarten in der Minute verarbeitet werden.
 		</p>
 	
-	<h3>Lochschriftübersetzer</h3>
+	<h3>LochschriftÃ¼bersetzer</h3>
 	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
         <p class="bildtext">
             <b>IBM 548</b></p></div>
-			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>
+			<p>Ein riesiger LochschriftÃ¼bersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Ãœbersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. DafÃ¼r ist die Schrift relativ groÃŸ und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>
 			Nach dem Duplizieren von Lochkarten ist eine Beschriftung mittels IBM 548 sehr hilfreich.
         </p>
-  
-	 
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

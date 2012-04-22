@@ -1,106 +1,88 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Mess- und Experimentaltechnik"
-   --><!--#set var="location"     value="messtechnik"
-   --><!--#set var="part"         value="kommunikationstechnik"
-   --><!--#set var="url_en"       value="communication/measurement.shtm"
-   --><!--#set var="prev"         value="faxtechnik.shtm"
-   --><!--#set var="prev_title"   value="Telegraphie-, Fax- und Schreibtechnik"
-   --><!--#set var="next"         value="/de/rechnertechnik/elektro-mechanik.shtm"
-   --><!--#set var="next_title"   value="(Elektro-) Mechanische Rechenmaschienen"
- --><title>Technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="technikum, Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'messtechnik';
+	$version = '$Id$';
+	$titel = 'Mess- und Experimentaltechnik';
 	
-    <p>Als Bindeglied zwischen der Kommunikations- und Computertechnik haben wir die Mess- und Experimentaltechnik eingefügt. Diese Technik reicht weit in die Vergangenheit zurück und brachte optisch und technisch schöne und interessante Exponate hervor.</p>
+	require "../../lib/technikum29.php";
+?>
+    <h2>Mess- und Experimentaltechnik</h2>
+	
+    <p>Als Bindeglied zwischen der Kommunikations- und Computertechnik haben wir die Mess- und Experimentaltechnik eingefÃ¼gt. Diese Technik reicht weit in die Vergangenheit zurÃ¼ck und brachte optisch und technisch schÃ¶ne und interessante Exponate hervor.</p>
 
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/experimente.jpg" alt="Ein Teil der Expenrimentalphysik " width="396" height="451" />
         <p class="bildtext">
-            Nebenstehendes Bild zeigt einen Teil aus dem Bereich "Experimentalphysik". Auffällig sind die natürlichen Materialen (Holz, Glas, Metall), die hohe Anschaulichkeit und die Tatsache, dass die Funktion der Geräte relativ einfach nachvollziehbar ist.
+            Nebenstehendes Bild zeigt einen Teil aus dem Bereich "Experimentalphysik". AuffÃ¤llig sind die natÃ¼rlichen Materialen (Holz, Glas, Metall), die hohe Anschaulichkeit und die Tatsache, dass die Funktion der GerÃ¤te relativ einfach nachvollziehbar ist.
             Wir zeigen untenstehend einige der vorhandenen Exponate.
 		</p>
 	</div>
 <h3>Galvanometer</h3>
     <div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/universalmessgeraet.jpg" alt="Fotografie des Universalmeßgerätes" width="396" height="325" />
+        <img src="/shared/photos/kommunikationstechnik/universalmessgeraet.jpg" alt="Fotografie des UniversalmeÃŸgerÃ¤tes" width="396" height="325" />
         <p class="bildtext">
-            Hier ist ein außergewöhnlich aufwändiges, großes und schönes Universalmessgerät von Siemens &amp; Halske aus der Kaiserzeit abgebildet. Es war seinerzeit üblich, dass selbst reine Gebrauchsgeräte mit geradezu liebevollen Details angefertigt wurden. Dieses Gerät wurde bei der Reichstelegraphenverwaltung ab ca. 1905 eingesetzt.
+            Hier ist ein auÃŸergewÃ¶hnlich aufwÃ¤ndiges, groÃŸes und schÃ¶nes UniversalmessgerÃ¤t von Siemens &amp; Halske aus der Kaiserzeit abgebildet. Es war seinerzeit Ã¼blich, dass selbst reine GebrauchsgerÃ¤te mit geradezu liebevollen Details angefertigt wurden. Dieses GerÃ¤t wurde bei der Reichstelegraphenverwaltung ab ca. 1905 eingesetzt.
         </p>
 	</div>
 
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/h+b.galvanometer.jpg" alt="Foto eines Galvometers von Hartmann  Braun" width="400" height="351" />
-        <p class="bildtext">Im Jahre 1891 wurde dieses schöne Galvanometer von der Firma Hartmann & Braun (Frankfurt/Main) in Katalogen angeboten. Das Prinzip ist einfach: Durch die unten liegende Spule (grün) fließt der zu messende Strom, der ein Magnetfeld aufbaut. In diesem Feld sitzt eine sehr empfindliche Kompassnadel, die an einem dünnen Draht aufgehängt ist. Je länger und dünner dieser Torsionsdraht ist, desto empfindlicher wird das Gerät.<br>
-		Messen war damals eine Kunst, die man beherrschen musste. Insbesondere stört das Erdmagnetfeld, so dass die richtige Positionierung des Gerätes nur mit Erfahrung gelang.</p>
+        <p class="bildtext">Im Jahre 1891 wurde dieses schÃ¶ne Galvanometer von der Firma Hartmann & Braun (Frankfurt/Main) in Katalogen angeboten. Das Prinzip ist einfach: Durch die unten liegende Spule (grÃ¼n) flieÃŸt der zu messende Strom, der ein Magnetfeld aufbaut. In diesem Feld sitzt eine sehr empfindliche Kompassnadel, die an einem dÃ¼nnen Draht aufgehÃ¤ngt ist. Je lÃ¤nger und dÃ¼nner dieser Torsionsdraht ist, desto empfindlicher wird das GerÃ¤t.<br>
+		Messen war damals eine Kunst, die man beherrschen musste. Insbesondere stÃ¶rt das Erdmagnetfeld, so dass die richtige Positionierung des GerÃ¤tes nur mit Erfahrung gelang.</p>
     </div>
 	  
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/h&b-galvanometer.jpg" alt="Foto eines Spiegelgalvanometers" width="396" height="436" />
 	    <p class="bildtext">
-		    Zu Zeiten, als es noch keine Messverstärker gab war es ein großes Problem, sehr kleine Ströme (oder Spannungen) zu messen. Daher musste man die Drehspulgeräte sehr empfindlich machen. Dies gelang durch eine "empfindlich" gelagerte Drehspule, die an einem Torsionsdraht hängt. Der reflektierende Spiegel am unteren Ende des Torsionsdrahtes wird durch einen Lichtstrahl angeleuchtet und wirkt damit wie ein sehr langer (Licht-)Zeiger. Damit konnte man "Zeigerlängen" von mehreren Metern simulieren. Ein solches Galvanometer muss absolut waagrecht und erschütterungsfrei stehen.
-		    <br>Das abgebildete <b>Spiegel-Galvanometer</b> von Hartmann & Braun aus den 20er Jahren ist ein durchschaubares funktionsfähiges Demomodell das vorwiegend in Schulen und Universitäten eingesetzt wurde.
+		    Zu Zeiten, als es noch keine MessverstÃ¤rker gab war es ein groÃŸes Problem, sehr kleine StrÃ¶me (oder Spannungen) zu messen. Daher musste man die DrehspulgerÃ¤te sehr empfindlich machen. Dies gelang durch eine "empfindlich" gelagerte Drehspule, die an einem Torsionsdraht hÃ¤ngt. Der reflektierende Spiegel am unteren Ende des Torsionsdrahtes wird durch einen Lichtstrahl angeleuchtet und wirkt damit wie ein sehr langer (Licht-)Zeiger. Damit konnte man "ZeigerlÃ¤ngen" von mehreren Metern simulieren. Ein solches Galvanometer muss absolut waagrecht und erschÃ¼tterungsfrei stehen.
+		    <br>Das abgebildete <b>Spiegel-Galvanometer</b> von Hartmann & Braun aus den 20er Jahren ist ein durchschaubares funktionsfÃ¤higes Demomodell das vorwiegend in Schulen und UniversitÃ¤ten eingesetzt wurde.
 		</p>
 	</div>
 	 <h3>Funktechnik</h3> 
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/neva-funktechnik.jpg" alt="Foto des Neva-Experimentalsystems" width="396" height="280" />
-		<p class="bildtext">Mit Hilfe des <b>NEVA Funktechnik</b> Systems konnte man in den Schulen ab den frühen 50ern Radiobasteln oder auch anspruchsvolle Experimente wie Messen der Wellenlängen im UKW-Bereich über die "Lecherleitung" realisieren. Beim Experimentieren mit einem "offenen Schwingkreis" (Sender) musste man mit recht hohen Spannungen, bis 300 Volt, arbeiten. Solche "Schülerübungen" wären heute aus Sicherheitsgründen absolut tabu.</p>
+		<p class="bildtext">Mit Hilfe des <b>NEVA Funktechnik</b> Systems konnte man in den Schulen ab den frÃ¼hen 50ern Radiobasteln oder auch anspruchsvolle Experimente wie Messen der WellenlÃ¤ngen im UKW-Bereich Ã¼ber die "Lecherleitung" realisieren. Beim Experimentieren mit einem "offenen Schwingkreis" (Sender) musste man mit recht hohen Spannungen, bis 300 Volt, arbeiten. Solche "SchÃ¼lerÃ¼bungen" wÃ¤ren heute aus SicherheitsgrÃ¼nden absolut tabu.</p>
 	</div>
 	
-<h3>Kathodenstrahlröhren</h3>
+<h3>KathodenstrahlrÃ¶hren</h3>
 	<div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/loewe-kathodenstrahl.jpg" alt="Foto einer Kathodenstrahlröhre" width="396" height="189" />
+        <img src="/shared/photos/kommunikationstechnik/loewe-kathodenstrahl.jpg" alt="Foto einer KathodenstrahlrÃ¶hre" width="396" height="189" />
 		<p class="bildtext">
-            Als es noch kein Fernsehen und kein Oszilloskop gab war die <b>Kathodenstrahlröhre</b> in der Schule eine Sensation. Hier konnten die Schüler zum ersten Mal sehen, dass Elektronen trägheitslos und einfach in ihrer Richtung ablenkbar sind.<br>
-		    Diese Röhre mit Netzteil der Firma <b>Loewe</b> (Berlin Steglitz) ist ein wirklich historisches Exponat aus den 30er Jahren. Sie ist ca. einen halben Meter lang!
+            Als es noch kein Fernsehen und kein Oszilloskop gab war die <b>KathodenstrahlrÃ¶hre</b> in der Schule eine Sensation. Hier konnten die SchÃ¼ler zum ersten Mal sehen, dass Elektronen trÃ¤gheitslos und einfach in ihrer Richtung ablenkbar sind.<br>
+		    Diese RÃ¶hre mit Netzteil der Firma <b>Loewe</b> (Berlin Steglitz) ist ein wirklich historisches Exponat aus den 30er Jahren. Sie ist ca. einen halben Meter lang!
 		</p>
 	</div>
 
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Foto eines AEG Oszilloskop" width="396" height="390" />
-		<p class="bildtext">Nach der Währungsreform blühte langsam auch wieder die Produktion der Messgeräte auf. Dieser <b>AEG Oszilloskop</b> wurde 1949 hergestellt. Es ist wohl ein unveränderter Nachbau von AEG aus dem Fundus der späten 30er Jahre. Verwendet wurden Stahlröhren, die 1938 auf den deutschen Markt kamen. Weder die Zeitbasis der Horizontalablenkung, noch die Amplitude der Vertikalablenkung sind geeicht. Das quantitative Messen musste mit Vergleichsgrößen praktiziert werden. Aller Anfang ist mühsam!!</p>
+		<p class="bildtext">Nach der WÃ¤hrungsreform blÃ¼hte langsam auch wieder die Produktion der MessgerÃ¤te auf. Dieser <b>AEG Oszilloskop</b> wurde 1949 hergestellt. Es ist wohl ein unverÃ¤nderter Nachbau von AEG aus dem Fundus der spÃ¤ten 30er Jahre. Verwendet wurden StahlrÃ¶hren, die 1938 auf den deutschen Markt kamen. Weder die Zeitbasis der Horizontalablenkung, noch die Amplitude der Vertikalablenkung sind geeicht. Das quantitative Messen musste mit VergleichsgrÃ¶ÃŸen praktiziert werden. Aller Anfang ist mÃ¼hsam!!</p>
     </div>
 
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/phywe-oszi.jpg" alt="Foto eines Phywe Demooszilloskops" width="396" height="269" />
-		<p class="bildtext">Die "Physikalischen Werkstätten", kurz <b>Phywe</b>, bauten Ende der 50er Jahre ein kleines Demo-Oszilloskop mit welchem man die Beeinflussung des Elektronenstrahls durch elektrische oder magnetische Felder gut zeigen kann. Durch das Vordringen des Mediums "Fernsehen" (damals mit Elektronenstrahl-Bildröhren) in den Alltag wurde diese Technik in den Lehrplänen der Schulen verankert.</p>
+		<p class="bildtext">Die "Physikalischen WerkstÃ¤tten", kurz <b>Phywe</b>, bauten Ende der 50er Jahre ein kleines Demo-Oszilloskop mit welchem man die Beeinflussung des Elektronenstrahls durch elektrische oder magnetische Felder gut zeigen kann. Durch das Vordringen des Mediums "Fernsehen" (damals mit Elektronenstrahl-BildrÃ¶hren) in den Alltag wurde diese Technik in den LehrplÃ¤nen der Schulen verankert.</p>
     </div>
 	
 	<h3 id="555">TEKTRONIX Oszilloskope</h3>
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/tektronix555.jpg" alt="Foto des Tektronix 555" width="396" height="448" />
-		<p class="bildtext">In der aufblühenden Zeit der Impulstechnik war auch die Entwicklung sehr leistungsfähiger Oszilloskope erforderlich. Hier hat sich die Tektronix Inc. aus Oregon (USA) einen Namen gemacht. Tektronix ist durch hohe Präzision, extrem gute Verarbeitung und nicht zuletzt durch vorbildliche Handbücher und Service-Manuals zum Inbegriff von kommerziellen Oszilloskopen geworden.<br>
-		Links ist der wahrlich gigantische <b>Tektronix Type 555</b> zu sehen. Im vergleich rechts daneben ein immerhin großes Oszilloskop Type 564. Der "555" kam 1963 auf den Markt. Es ist ein echter Zweistrahl-Oszilloskop (Dual-Beam) mit zwei getrennten Zeitbasen. Das ist unvergleichbar besser und universeller als ein Zweikanal-Gerät (Dual-Trace) mit einer Zeitbasis. Der 555 hat ein separates Netzteil (unten). Dort und im Scope wurden etwa 100 Elektronenröhren verbaut. Die Grenzfrequenz war mit 33MHz*) für damals beachtlich, ebenso die Leistungsaufnahme von ca. 1kW! <br>
+		<p class="bildtext">In der aufblÃ¼henden Zeit der Impulstechnik war auch die Entwicklung sehr leistungsfÃ¤higer Oszilloskope erforderlich. Hier hat sich die Tektronix Inc. aus Oregon (USA) einen Namen gemacht. Tektronix ist durch hohe PrÃ¤zision, extrem gute Verarbeitung und nicht zuletzt durch vorbildliche HandbÃ¼cher und Service-Manuals zum Inbegriff von kommerziellen Oszilloskopen geworden.<br>
+		Links ist der wahrlich gigantische <b>Tektronix Type 555</b> zu sehen. Im vergleich rechts daneben ein immerhin groÃŸes Oszilloskop Type 564. Der "555" kam 1963 auf den Markt. Es ist ein echter Zweistrahl-Oszilloskop (Dual-Beam) mit zwei getrennten Zeitbasen. Das ist unvergleichbar besser und universeller als ein Zweikanal-GerÃ¤t (Dual-Trace) mit einer Zeitbasis. Der 555 hat ein separates Netzteil (unten). Dort und im Scope wurden etwa 100 ElektronenrÃ¶hren verbaut. Die Grenzfrequenz war mit 33MHz*) fÃ¼r damals beachtlich, ebenso die Leistungsaufnahme von ca. 1kW! <br>
 	
-		Solche Geräte wurden auf so genannten "Scope-Mobile" Wagen zum entsprechenden Einsatzort gefahren. Oft waren dort weitere Einschübe (Plug-In) untergebracht, die den Anwendungsbereich erheblich erweiterten. Unser Gerät ist hervorragend erhalten und sieht neuwertig aus, auch das ist ungewöhnlich, da diese Messgeräte im täglichen Einsatz oft Blessuren erhalten. Ganz nahe läßt sich der 555 hier betrachten: 
-		<a  class="popup" href="/shared/photos/kommunikationstechnik/555.jpg">Großaufnahme des Tek.555</a><br>
-		Das auf dem rechten Wagen stehende Speicheroszilloskop Type 564 arbeitet mit einer bistabilen Speicherröhre. Diese Technik war noch nicht ausgereift. Die Speicherröhren hatten nur eine relativ geringe Lebensdauer, wobei die Helligkeit des gespeicherten Signals mit der Zahl der Betriebsstunden kontinuierlich abnahm. Die Speichergeschwindigkeit war auf max. 500 cm/ms begrenzt und damit eher bescheiden. <br>
-		Unten auf dem Wagen steht als Größenvergleich ein typischer Serviceoszilloskop Tektronix Type 453. Klein und handlich aber bei Defekten wegen der kompakten Bauweise schwer zu reparieren.</p>
+		Solche GerÃ¤te wurden auf so genannten "Scope-Mobile" Wagen zum entsprechenden Einsatzort gefahren. Oft waren dort weitere EinschÃ¼be (Plug-In) untergebracht, die den Anwendungsbereich erheblich erweiterten. Unser GerÃ¤t ist hervorragend erhalten und sieht neuwertig aus, auch das ist ungewÃ¶hnlich, da diese MessgerÃ¤te im tÃ¤glichen Einsatz oft Blessuren erhalten. Ganz nahe lÃ¤ÃŸt sich der 555 hier betrachten: 
+		<a  class="popup" href="/shared/photos/kommunikationstechnik/555.jpg">GroÃŸaufnahme des Tek.555</a><br>
+		Das auf dem rechten Wagen stehende Speicheroszilloskop Type 564 arbeitet mit einer bistabilen SpeicherrÃ¶hre. Diese Technik war noch nicht ausgereift. Die SpeicherrÃ¶hren hatten nur eine relativ geringe Lebensdauer, wobei die Helligkeit des gespeicherten Signals mit der Zahl der Betriebsstunden kontinuierlich abnahm. Die Speichergeschwindigkeit war auf max. 500 cm/ms begrenzt und damit eher bescheiden. <br>
+		Unten auf dem Wagen steht als GrÃ¶ÃŸenvergleich ein typischer Serviceoszilloskop Tektronix Type 453. Klein und handlich aber bei Defekten wegen der kompakten Bauweise schwer zu reparieren.</p>
 		<p class="bildtext small">*) Heute baut Tektronix Oszilloskope mit einer Bandbreite bis 80GHz!</p>
 		</div>
 		
     
 <h3>Digitales Experimentiersystem</h3>
     <div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/digitalexperimentiersystem.jpg" alt="Foto des Experimentiersystems für digitale Elektronik" width="396" height="509" />
-        <p class="bildtext">In den 70er Jahren wurde die Funktechnik in den Schulen durch die digitale Elektronik abgelöst. Nebenstehend ist ein noch mit diskreten Bauelementen bestücktes System der Firma <b>Leybold</b> abgebildet. Hiermit kann man binäre Zähler, Schieberegister, Addierer usw. aufbauen. Die Faszination für diese Technik war groß. Doch mittlerweile ist auch hierfür im Unterricht kaum noch Zeit vorhanden.</p>
+        <img src="/shared/photos/kommunikationstechnik/digitalexperimentiersystem.jpg" alt="Foto des Experimentiersystems fÃ¼r digitale Elektronik" width="396" height="509" />
+        <p class="bildtext">In den 70er Jahren wurde die Funktechnik in den Schulen durch die digitale Elektronik abgelÃ¶st. Nebenstehend ist ein noch mit diskreten Bauelementen bestÃ¼cktes System der Firma <b>Leybold</b> abgebildet. Hiermit kann man binÃ¤re ZÃ¤hler, Schieberegister, Addierer usw. aufbauen. Die Faszination fÃ¼r diese Technik war groÃŸ. Doch mittlerweile ist auch hierfÃ¼r im Unterricht kaum noch Zeit vorhanden.</p>
 	</div>
-	<h3>Die Welt des elektronischen Zählens</h3>
+	<h3>Die Welt des elektronischen ZÃ¤hlens</h3>
 	<div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/frequenzzaehler.jpg" alt="Foto der verschiedenen Frequenz- und Ereigniszähler" width="430" height="582" />
-        <p class="bildtext"><b>Zählen als Vorstufe des Rechnens</b><br>Zum Schluss zeigen wir noch eine Zusammenstellung von (Frequenz-) Zählern aus verschiedenen Epochen. Dabei befinden sich röhrenbestückte Geräte (mit 57 Elektronenröhren) und solche, die mit diskreten Transistoren (meist Germanium) aufgebaut sind. Sehr interessant sind die verschiedenen Zählröhren (z.B. E1T oder GC10B) und die sehr unterschiedliche Form der Anzeigetechniken. Doch das sollte man besser im technikum29 live in Funktion erleben.</p>
+        <img src="/shared/photos/kommunikationstechnik/frequenzzaehler.jpg" alt="Foto der verschiedenen Frequenz- und EreigniszÃ¤hler" width="430" height="582" />
+        <p class="bildtext"><b>ZÃ¤hlen als Vorstufe des Rechnens</b><br>Zum Schluss zeigen wir noch eine Zusammenstellung von (Frequenz-) ZÃ¤hlern aus verschiedenen Epochen. Dabei befinden sich rÃ¶hrenbestÃ¼ckte GerÃ¤te (mit 57 ElektronenrÃ¶hren) und solche, die mit diskreten Transistoren (meist Germanium) aufgebaut sind. Sehr interessant sind die verschiedenen ZÃ¤hlrÃ¶hren (z.B. E1T oder GC10B) und die sehr unterschiedliche Form der Anzeigetechniken. Doch das sollte man besser im technikum29 live in Funktion erleben.</p>
 	</div>
-		  
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

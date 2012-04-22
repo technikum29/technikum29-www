@@ -1,28 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Startseite"
-   --><!--#set var="location"     value="start"
-   --><!--#set var="url_en"       value=""
-   --><!--#set var="prev"         value=""
-   --><!--#set var="prev_title"   value=""
-   --><!--#set var="next"         value="lehrerinfo.shtm"
-   --><!--#set var="next_title"   value="Didaktische Konzeption, Lehrerinfo"
-   -->
-    <title>technikum29 - <!--#echo var="title" --></title>
-
-   
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="technikum29, Technikmuseum, Computermuseum, Museum, Main-Taunus" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="Technikum29 Startseite Deutsch" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-   
+<?php
+	$seiten_id = 'startseite';
+	$version = '$Id$';
+	
+	require "../lib/technikum29.php";
+?>
 
     <div class="cols">
        <div class="leftcol startseiten-design">
@@ -30,18 +11,18 @@
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
                 <li>Fast alles funktioniert !</li>
-                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Fast alle Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
-              <li>Computer und Kommunikation beherrschen unsere Zeit in einem zunehmenden Maße. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
+                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch groÃŸe (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnÃ¼gen sich jedoch mit der bloÃŸen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Fast alle Exponate sind funktionsfÃ¤hig und demonstrieren die Ã„ra ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen vÃ¶llig anderen Einblick in diese wichtige "Technikgeschichte".</li>
+              <li>Computer und Kommunikation beherrschen unsere Zeit in einem zunehmenden MaÃŸe. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? DarÃ¼ber gibt die lebendige PrÃ¤sentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
 
         <div class="wen"><br>
-            <h2>Für wen&nbsp;?</h2>
+            <h2>FÃ¼r wen&nbsp;?</h2>
             <ul>
                
-                <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
-                <li>Für Schüler- (ab ca. 15 Jahre, in Begleitung der Eltern ab ca. 11 Jahre) und Studentengruppen (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>)</li>
-				<li>Für Informatiker, Firmengruppen, Azubis und viele mehr</li>
+                <li>FÃ¼r Technikinteressierte, die verstehen mÃ¶chten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der fÃ¼r ihn interessant ist</li>
+                <li>FÃ¼r SchÃ¼ler- (ab ca. 15 Jahre, in Begleitung der Eltern ab ca. 11 Jahre) und Studentengruppen (<a class="go" href="lehrerinfo.shtm">Infos fÃ¼r Lehrer</a>)</li>
+				<li>FÃ¼r Informatiker, Firmengruppen, Azubis und viele mehr</li>
             </ul>
         </div>
 		
@@ -64,8 +45,8 @@
 	  <div class="erwartung">
             <h2>Was wird geboten ?</h2>
             <ul>
-                <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! Eine Führung dauert in der Regel ca. 90 Minuten.<br>
-				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.</li>
+                <li>Alle FÃ¼hrungen werden so gestaltet, dass sie auch fÃ¼r "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! Eine FÃ¼hrung dauert in der Regel ca. 90 Minuten.<br>
+				Der Besuch des technikum29 ohne FÃ¼hrung macht keinen Sinn, deshalb sind Einzelbesuche nur in AusnahmefÃ¤llen mÃ¶glich.</li>
             </ul>
 	  </div>
 	  
@@ -76,8 +57,8 @@
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
-                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
-				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br><br>
+                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) mÃ¶glich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen kÃ¶nnen ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch PlÃ¤tze frei sind.<br>
+				Der Eintritt betrÃ¤gt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" fÃ¼r Gruppen Ã¼ber 10 Pers.). FÃ¼r SchÃ¼ler und Studenten ist der Eintritt frei.<br><br>
 				
 				
 					</li>
@@ -97,16 +78,3 @@
       </div><!--rightcol-->
     </div><!-- cols -->
     <div class="clear">&nbsp;</div>
-	
-
-    
-	
-   
-    
-
-
-
-</div><!-- id=content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

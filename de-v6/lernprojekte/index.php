@@ -1,60 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Lernprojekte"
-   --><!--#set var="location"     value="lernprojekte"
-   --><!--#set var="url_en"       value="no-translation.shtm"
-   --><!--#set var="part"         value="projekte"
-   --><!--#set var="prev"         value="../entwicklungsprojekte.shtm"
-   --><!--#set var="prev_title"   value="Entwicklungsprojekte"
-   --><!--#set var="next"         value="../news.shtm"
-   --><!--#set var="next_title"   value="Was gibt es Neues?"
-   -->
-
-    <title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.date" content="04.10.2009" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<!--<div id="extra" class="content">-->
-<div id="content">
+<?php
+	$seiten_id = 'lernprojekte';
+	$version = '$Id$';
+	$titel = 'Lernprojekte';
+	
+	require "../../lib/technikum29.php";
+?>
  <h2>Lernprojekte</h2>
 
-<p>Die <i>technikum29-Lernprojekte</i> sind eine Sammlung von Präsentationsdateien,
-etc., die zum Teil nur gegen Passworteingabe zugänglich sind. <!--Für jedes einzelne
-"Projekt" gibt es dabei nur ein Passwort, welches nur für einen begrenzten
-Zeitraum gültig ist.-->
+<p>Die <i>technikum29-Lernprojekte</i> sind eine Sammlung von PrÃ¤sentationsdateien,
+etc., die zum Teil nur gegen Passworteingabe zugÃ¤nglich sind. <!--FÃ¼r jedes einzelne
+"Projekt" gibt es dabei nur ein Passwort, welches nur fÃ¼r einen begrenzten
+Zeitraum gÃ¼ltig ist.-->
 
 Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das Projektmanagament</a>.</p>
 Ein Beispiel:
-<h3 id="aes"> Das technikum29-Team unterstützt Projekte an der Schule</h3>
+<h3 id="aes"> Das technikum29-Team unterstÃ¼tzt Projekte an der Schule</h3>
 
-<p>Microcontroller revolutionieren die Welt, wie an Schulen zukunftsweisende Projekte geplant und ausgeführt werden können.<br>
+<p>Microcontroller revolutionieren die Welt, wie an Schulen zukunftsweisende Projekte geplant und ausgefÃ¼hrt werden kÃ¶nnen.<br>
 Worum geht es? <br>
-6 Schüler der Q1 (früher 12. Klasse) des Albert-Einstein-Gymnasiums in Schwalbach suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29  an.  
+6 SchÃ¼ler der Q1 (frÃ¼her 12. Klasse) des Albert-Einstein-Gymnasiums in Schwalbach suchten fÃ¼r ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29  an.  
 Ziel war es, die Technik der 50er Jahre an die des Jahres 2012 anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!<br>
 <div class="box left">
         <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="606" height="335" />
        </div>
-<p>Um eine solche Kommunikation herzustellen bedurfte es bisher eines „Herrschaftswissens“ welches sich auf wenige spezialisierte Informatiker und Ingenieure beschränkte. Dafür musste man wochenlang Datenblätter lesen und dann kryptische Codes in Assembler schreiben.
-Seit 2009 gibt es ein preiswertes unscheinbares Modul, den „Arduino* -Controller“, ein kleiner Microcontroller (ATmega 328, mit 32 kB Speicher), der auch relativen Laien  mit überschaubaren Programmierkenntnissen zugänglich ist.  Hiermit können Erfinder, Visionäre, Künstler und Designer ihre kreativen Möglichkeiten drastisch erhöhen. Es geht ganz allgemein um die Anbindung der realen, physikalischen Welt an einen Computer. <br>
+<p>Um eine solche Kommunikation herzustellen bedurfte es bisher eines â€Herrschaftswissensâ€œ welches sich auf wenige spezialisierte Informatiker und Ingenieure beschrÃ¤nkte. DafÃ¼r musste man wochenlang DatenblÃ¤tter lesen und dann kryptische Codes in Assembler schreiben.
+Seit 2009 gibt es ein preiswertes unscheinbares Modul, den â€Arduino* -Controllerâ€œ, ein kleiner Microcontroller (ATmega 328, mit 32 kB Speicher), der auch relativen Laien  mit Ã¼berschaubaren Programmierkenntnissen zugÃ¤nglich ist.  Hiermit kÃ¶nnen Erfinder, VisionÃ¤re, KÃ¼nstler und Designer ihre kreativen MÃ¶glichkeiten drastisch erhÃ¶hen. Es geht ganz allgemein um die Anbindung der realen, physikalischen Welt an einen Computer. <br>
 	 
-<p>Dieses kleine Modul lässt sich als Interface für alle nur denkbare Zwecke programmieren. Die Schüler beabsichtigten, ein Faxgerät der Frühzeit (Siemens KF108, Baujahr 1956) mit einem PC kommunizieren zu lassen. Bei diesem Fax, damals noch „Fernkopierer“ genannt, wird das Blatt mit der zu übertragenden Information (z.B. ein Bild) auf eine Walze gespannt und schraubenförmig durch Rotation ab gescannt. Ein solches Gerät kann natürlich mit den Heutigen nicht kommunizieren. Hier hilft der Microcontroller als Bindeglied. Die Schüler mussten sich in die Programmierung eines solchen Controllers einarbeiten. Dabei sind jedoch einige Hürden zu überwinden, schließlich waren die Schüler (noch) keine Star-Programmierer. Während falsch aufgebaute Hardware umständlich zerpflückt werden müsste, sind falsch laufende Programme schnell korrigiert. Und so entstand nach einer Woche Projektarbeit die perfekte Anbindung dieser zwei so verschiedenen Technikwelten.<br>
+<p>Dieses kleine Modul lÃ¤sst sich als Interface fÃ¼r alle nur denkbare Zwecke programmieren. Die SchÃ¼ler beabsichtigten, ein FaxgerÃ¤t der FrÃ¼hzeit (Siemens KF108, Baujahr 1956) mit einem PC kommunizieren zu lassen. Bei diesem Fax, damals noch â€Fernkopiererâ€œ genannt, wird das Blatt mit der zu Ã¼bertragenden Information (z.B. ein Bild) auf eine Walze gespannt und schraubenfÃ¶rmig durch Rotation ab gescannt. Ein solches GerÃ¤t kann natÃ¼rlich mit den Heutigen nicht kommunizieren. Hier hilft der Microcontroller als Bindeglied. Die SchÃ¼ler mussten sich in die Programmierung eines solchen Controllers einarbeiten. Dabei sind jedoch einige HÃ¼rden zu Ã¼berwinden, schlieÃŸlich waren die SchÃ¼ler (noch) keine Star-Programmierer. WÃ¤hrend falsch aufgebaute Hardware umstÃ¤ndlich zerpflÃ¼ckt werden mÃ¼sste, sind falsch laufende Programme schnell korrigiert. Und so entstand nach einer Woche Projektarbeit die perfekte Anbindung dieser zwei so verschiedenen Technikwelten.<br>
 
 <div class="box left">
         <img src="/shared/photos/kommunikationstechnik/arduino2.jpg" width="606" height="354" />
        </div>
- <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weißen Pixel. Dies muss in ein binäres Signal mit 5V-Level gewandelt werden.  Eine Verstärkerschaltung mit nachgeschaltetem RC-Glied übernimmt diesen Part.
-Zum Aufbau des Bildes wird noch eine Information für den jeweiligen Beginn einer neuen Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
-Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme"> >>Source-Code-Ordner öffnen</a> <br>
+ <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weiÃŸen Pixel. Dies muss in ein binÃ¤res Signal mit 5V-Level gewandelt werden.  Eine VerstÃ¤rkerschaltung mit nachgeschaltetem RC-Glied Ã¼bernimmt diesen Part.
+Zum Aufbau des Bildes wird noch eine Information fÃ¼r den jeweiligen Beginn einer neuen Zeile benÃ¶tigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung fÃ¼r kurze Zeit aktiviert.<br>
+Die eigentliche Programmierarbeit wurde von den SchÃ¼lern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme"> >>Source-Code-Ordner Ã¶ffnen</a> <br>
 
-Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC übertragen. Mit guter Auflösung zeichnet sich Zeile für Zeile eine historische Micky-Mouse auf dem Monitor des Laptops ab. Das Experiment ist geglückt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.</p>
+GemÃ¤chlich wird das schraubenfÃ¶rmig abgetastete Bild in Realtime auf den PC Ã¼bertragen. Mit guter AuflÃ¶sung zeichnet sich Zeile fÃ¼r Zeile eine historische Micky-Mouse auf dem Monitor des Laptops ab. Das Experiment ist geglÃ¼ckt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.</p>
 <p class="small">
-*)  Arduino: …ist nach dem König „Arduino von Ivrea“, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst üblich in Fernost oder Silicon Valley.
+*)  Arduino: â€¦ist nach dem KÃ¶nig â€Arduino von Ivreaâ€œ, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst Ã¼blich in Fernost oder Silicon Valley.
 </small>
 
 <h3><a name="demo">Siemens Demo-Computer</a></h3>
@@ -63,27 +46,27 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC über
         <img src="/shared/photos/rechnertechnik/siemens-democomputer.jpg" alt="Siemens-Democomputer" width="700" height="587" class="nomargin-bottom" />
 		<p class="center"><b>Siemens Lern-Computer</b></p>
 	</div>
-	<p>Im Jahre 1973, als Computer noch nicht in der Privatsphäre existent waren und Techniker sowie Ingenieure erst auf diese neuen Errungenschaften geschult wurden, entstand das obige Demonstrationsmodell.<br>
-	Das recht große Gerät wurde in kleiner Stückzahl für die Ausbildung in der gerade aufblühenden Informatik gebaut. Mit ihm lassen sich noch heute die Vorgänge beim Ablauf von Zyklen und Befehlen sehr anschaulich beobachten. Die Wortbreite mit 4 Bit ist zwar spärlich, dafür bleibt aber die Übersicht gewahrt.<br>
-	Links lässt sich das Programm mit Hilfe von Steckmodulen generieren. Anhand der Stecker ist sofort die entsprechende Binärkombination ablesbar (quasi eine Übersetzung vom mnemotechnischen Assemblercode auf den Binärcode der Maschine). Der "Rechner" kann im Befehlsmodus oder im Zyklenmodus arbeiten. Dabei sind verschiedene Taktfrequenzen oder eine Einzelauslösung einstellbar. 126 Lämpchen zeigen die Datenflüsse sowie den Status von Registern, Steuerung, Rechenwerk und Arbeitsspeicher an. Das Demomodell entspricht in seiner Gesamtheit einem programmgesteuerten Digitalrechner mit Parallelverarbeitung.<br>
-	Hier ist ein Programm für die "binäre Addition mit gekoppelten Arbeitsspeicherzellen" gesteckt. Es zeigt, dass die Binärstellenzahl eines Datenwortes nicht unbedingt eine Beschränkung der Zahlenmenge zur Folge hat.<br>
-	Ein wunderbares Gerät, mit welchem man die Vorgänge elementar verstehen kann, die sich auch heute noch in jedem Computer abspielen.<br>
+	<p>Im Jahre 1973, als Computer noch nicht in der PrivatsphÃ¤re existent waren und Techniker sowie Ingenieure erst auf diese neuen Errungenschaften geschult wurden, entstand das obige Demonstrationsmodell.<br>
+	Das recht groÃŸe GerÃ¤t wurde in kleiner StÃ¼ckzahl fÃ¼r die Ausbildung in der gerade aufblÃ¼henden Informatik gebaut. Mit ihm lassen sich noch heute die VorgÃ¤nge beim Ablauf von Zyklen und Befehlen sehr anschaulich beobachten. Die Wortbreite mit 4 Bit ist zwar spÃ¤rlich, dafÃ¼r bleibt aber die Ãœbersicht gewahrt.<br>
+	Links lÃ¤sst sich das Programm mit Hilfe von Steckmodulen generieren. Anhand der Stecker ist sofort die entsprechende BinÃ¤rkombination ablesbar (quasi eine Ãœbersetzung vom mnemotechnischen Assemblercode auf den BinÃ¤rcode der Maschine). Der "Rechner" kann im Befehlsmodus oder im Zyklenmodus arbeiten. Dabei sind verschiedene Taktfrequenzen oder eine EinzelauslÃ¶sung einstellbar. 126 LÃ¤mpchen zeigen die DatenflÃ¼sse sowie den Status von Registern, Steuerung, Rechenwerk und Arbeitsspeicher an. Das Demomodell entspricht in seiner Gesamtheit einem programmgesteuerten Digitalrechner mit Parallelverarbeitung.<br>
+	Hier ist ein Programm fÃ¼r die "binÃ¤re Addition mit gekoppelten Arbeitsspeicherzellen" gesteckt. Es zeigt, dass die BinÃ¤rstellenzahl eines Datenwortes nicht unbedingt eine BeschrÃ¤nkung der Zahlenmenge zur Folge hat.<br>
+	Ein wunderbares GerÃ¤t, mit welchem man die VorgÃ¤nge elementar verstehen kann, die sich auch heute noch in jedem Computer abspielen.<br>
 	Die Dokumentation hierzu finden Sie in der untenstehenden Tabelle.</p>
 
 <div class="box center">
 <h3>Liste anderer Projekte</h3>
-<p>Jedes Projekt ist möglicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
+<p>Jedes Projekt ist mÃ¶glicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
 <br><b>Als Benutzer ist stets der Name des Projekts </b>(kleingeschrieben)<b> einzugeben!</b></p>
 
 <table>
-<tr><th><a href="pianola">Pianola</a>          <td>Funktionsbeschreibung der Pianola und Entwurf einer Präsentation
-<tr><th><a href="schach">Schach</a>            <td>Anleitung für ein Schachspiel gegen den PDP 8 Computer mit 8KB Arbeitsspeicher (freier Zugriff, kein Passwort erforderlich)
-<tr><th><a href="computer">Computer</a>        <td>Entwurf einer Präsentation über historische Computer der Frühzeit (ab ca. 1944)
-<tr><th><a href="speichermedien">Speichermedien</a>   <td>Entwurf einer Präsentation über historische Speichermedien
-<tr><th><a href="rundfunk">Rundfunk</a>        <td>Präsentationsentwurf für die Gebiete Rundfunk, Fernsehen und Tonfilm
-<tr><th><a href="telegrafie">Telegrafie</a>   <td>Präsentationsentwurf für Telegrafie, Bildtelegrafie und Faximiletechnik
+<tr><th><a href="pianola">Pianola</a>          <td>Funktionsbeschreibung der Pianola und Entwurf einer PrÃ¤sentation
+<tr><th><a href="schach">Schach</a>            <td>Anleitung fÃ¼r ein Schachspiel gegen den PDP 8 Computer mit 8KB Arbeitsspeicher (freier Zugriff, kein Passwort erforderlich)
+<tr><th><a href="computer">Computer</a>        <td>Entwurf einer PrÃ¤sentation Ã¼ber historische Computer der FrÃ¼hzeit (ab ca. 1944)
+<tr><th><a href="speichermedien">Speichermedien</a>   <td>Entwurf einer PrÃ¤sentation Ã¼ber historische Speichermedien
+<tr><th><a href="rundfunk">Rundfunk</a>        <td>PrÃ¤sentationsentwurf fÃ¼r die Gebiete Rundfunk, Fernsehen und Tonfilm
+<tr><th><a href="telegrafie">Telegrafie</a>   <td>PrÃ¤sentationsentwurf fÃ¼r Telegrafie, Bildtelegrafie und Faximiletechnik
 
-<tr><th><a href="nipkow">Nipkow</a>            <td>Präsentation, welche die physikalischen Grundlagen und Techniken des Fernsehens nach Paul Nipkow zeigt
+<tr><th><a href="nipkow">Nipkow</a>            <td>PrÃ¤sentation, welche die physikalischen Grundlagen und Techniken des Fernsehens nach Paul Nipkow zeigt
 <tr><th><a href="lerncomputer">Demo-Computer</a><td>Dokumentation des Siemens Lern-Computers (kein Passwort erforderlich)
 </table>
 
@@ -91,8 +74,3 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC über
 
 <!-- Fussbereich -->
 <div style="text-align:right;"><a href="http://www.technikum29.de/projekte/admin/">Administration der Projekte (online)</a></div>
-
-</div><!-- content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

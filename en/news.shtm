@@ -27,35 +27,35 @@
 
 
     <ul class="news-feed">
-	<li><h3>August 2011</h3>
+	
+	<li><h3>April 2012</h3>
+	<div class="box left">
+<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" width="350" height="87"/>
+</div> 
+	Unbelievable software-discovery for our UNIVAC 9200 <a href="/en/computer/univac9200.shtm#cards"><b>Read more here:</b></a>
+<div class="clear"></div></li>
+	
+	<li><h3>March 2012</h3><div class="box left">
+	
+	<img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231" </div>
+	Artists are working in technikum29. Leander Schwarzer punching cards.
+	<a href="/en/miscellaneous.shtm#leander"><b>View article</b></a>
+	<div class="clear"></div></li>
+	
+
+
+<li><h3>Februar 2012</h3>
 <div class="box left">
-<img src="/shared/photos/rechnertechnik/lgp21-0.jpg" width="300" height="151"/>
+<img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="303" height="172"/>
 </div> 
 
-
-We got a very rare computer from the early 1960s: <a href="/en/computer/early-computers.shtm#lpg21-en"><b> The Schoppe & Faeser LPG 21,</b></a> made in Germany.<div class="clear"></div>  </li>
-
-<li><h3>July 2011:</h3>
-<div class="box left">
-<img src="/shared/photos/rechnertechnik/nova-klein.jpg" width="250" height="356"/>
-</div>
-We moved a new complete <a href="/en/computer/early-computers.shtm#nova-en"><b>Nova 2 system</b></a>  (color: blue gentian). This scientific computer was built concurrently to the DEC computers in 1969.
-One of the first computers which Word length is a multiple of a byte (octett).
+technikum29 supports school projects: 
+<a href="/en/miscellaneous.shtm#Q1"><b>Look here</b></a>
 <div class="clear"></div></li>
+</li>
 
 
 
-	<li><h3>June 2011</h3>
-<div class="box left">
-<img src="/shared/photos/kommunikationstechnik/tek555kl.jpg" width="250" height="300"/>
-</div>
-New in the "Experiment and Measurement" is a short description of the legendary Tektronix oscilloscopes, especially the <a href="/en/communication/measurement.shtm#t555"><b>Type 555.</b></a>
-<div class="clear"></div></li>
-
-       
-	
-      
-	  
 
     </ul>
 </div><!-- end of content -->

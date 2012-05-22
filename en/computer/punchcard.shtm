@@ -65,7 +65,7 @@
 	    1971, the IBM 029 costed about 15.500 DM.
 	</p>
 	
-	<div class="box center auto-bildbreite">
+	<div class="box center auto-bildbreite" id="u1710">
         <a name="univac1710"><img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC 1710 Verifying Interpreting Punch" width="580" height="435" /></a>
         <p class="bildtext"><b>UNIVAC 1710 Verifying Interpreting Punch</b> (VIP)</p>
 	</div>

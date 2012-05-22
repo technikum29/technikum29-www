@@ -62,6 +62,30 @@
         <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300" width="700" height="368" />
 		<p class="bildtext"><b>UNIVAC 9300</b> electronic data processing system, uncovered while being restored</p>
 	</div>
+		
+		
+	<b id="cards">UNIVAC 9200 Software</b><br>
+<p>Often it is sheer luck that helps saving unique artifacts from scrap. In this
+case a curious student at the Goethe University discovered strange objects in a
+building and informed us. It turned out that these devices were a <a href="/en/computer/punchcard.shtm#u1710">UNIVAC 1710</a> 
+
+card puncher and a cabinet full of punched cards containings programs for our 
+UNIVAC 9200. The punch cards, about 65000 pieces, contain programs which were
+developed between 1967 and 1975 at the institute of mathematics and applied
+computer science. We will surely revive some of these old programs on our
+UNIVAC system. <br>
+ The rescue action was actively supported by the University of Frankfurt and
+the "FITG" (Frankfurt) whon we would like to thank for their efforts.</p>
+	<div class="box center auto-bildbreite">
+<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" alt="65.000 punch cards" width="700" height="174" />
+		<p class="bildtext">24 boxes containing more than 65000 punch cards extend our software library</div>
+		
+<p>NB: One punch card can hold up to 80 characters - that makes about 80 bytes
+per card. Thus 65000 cards correspond to about 5 MB which is roughly the same
+amount of data that a modern digital camera produces for a single picture.
+Stored on punch cards 5 MB weigh about 160 kg while the cabinet housing the
+cards has a volume of about 0.5 m³ (about 500 liters of volume).</p>
+
 
 
 	<h3 id="blog">Restoration Blog</h3>	

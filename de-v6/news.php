@@ -3,7 +3,27 @@
 	$version = '$Id$';
 	$titel = 'Was gibt es Neues?';
 	
-	require "../lib/technikum29.php";
+	$neues_menu = <<< MENU
+
+- titel: "Unterstützung von Schulen"
+  text: "Das technikum29-Team unterstützt Schulprojekte"
+  link: "#Februar_2012"
+  bild: "/shared/img-v6/topnav-neues1.jpg"
+  
+- titel: "Neue Anlage: LPG-21"
+  text: "Ein neuer seltener Rechner im Museum"
+  link: "#August_2011"
+  bild: "/shared/img-v6/topnav-neues2.jpg"
+
+- titel: "Neue Anlage: Nova 2"
+  text: "Wissenschaftlicher Rechner ab 1969"
+  link: "#Juli_2011"
+  bild: "/shared/img-v6/topnav-neues3.jpg"
+
+MENU;
+// ende der menue-Eintraege
+
+	if(!require("../lib/technikum29.php")) return;
 ?>
     <h2>Was gibt es Neues?</h2>
 	

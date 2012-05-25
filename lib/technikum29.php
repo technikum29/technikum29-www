@@ -5,67 +5,53 @@
  * ohne weiteren Funktionsaufruf alles macht.
  *
  **/
- 
+
+if(defined('T29')) return false; // no nesting
+define('T29', true);
+
 $lib = dirname(__FILE__);
-$lang = "de";
+$lang = "de-v6";
 $root = "/"; # webroot
+$file = substr($_SERVER['SCRIPT_FILENAME'], strlen($_SERVER['DOCUMENT_ROOT']));
 
-require "$lib/template.php";
+$skip_cache = isset($_GET['skip_cache']);
+$purge_cache = isset($_GET['purge_cache']);
 
-register_shutdown_function('print_footer');
-print_header();
+$cache_dir = "$lib/../shared/cache";
 
-#include("$lib/menu.php");
+# lightweight caching system
+$test_programs = array(
+	__FILE__,
+	$_SERVER['SCRIPT_FILENAME'],
+	"$lib/template.php",
+	"$lib/menu.php",
+	"$lib/../de-v6/hauptnavigation.xml",
+	"$lib/../de-v6/sidebar.xml",
+	"$lib/../de-v6/news.php",
+);
 
-function t29dom_add_class($simplexml_element, $value) {
-	$dom = dom_import_simplexml($simplexml_element);
-	$simplexml_element['class'] = 
-		($dom->hasAttribute("class") ? ($simplexml_element['class'].' '):'').$value;
-}
+$cache_file = $cache_dir . $file;
+$last_cache = @filemtime($cache_dir.$file);
+$last_program = array_reduce(array_map(function($x){return @filemtime($x);}, $test_programs), 'max');
+$cache_valid = $last_cache && $last_program < $last_cache;
 
-function print_menu($file) {
-	global $lib,$seiten_id;
-	$xml = simplexml_load_file("$lib/../de-v6/$file.xml");
-	
-	// aktuelle Seite anmarkern und Hierarchie hochgehen
-	// (<ul><li>bla<ul><li>bla<ul><li>hierbin ich <- hochgehen.)
-	$current_a = $xml->xpath("//a[@seiten_id='$seiten_id']");
-	if(count($current_a)) {
-		$current_li = $current_a[0]->xpath("parent::li");
-		t29dom_add_class($current_li[0], "current");
-		$ancestors = $current_li[0]->xpath("ancestor-or-self::li");
-		array_walk($ancestors, create_function('$i', 't29dom_add_class($i, "active");'));
-	}
+if(!$cache_valid || $skip_cache || $purge_cache) {
+	// rebuild cache
+	require "$lib/template.php";
+	$tmpl = new t29Template($GLOBALS);
+	$tmpl->create_cache();
+} else {
+	// use cache
+	header("Last-Modified: ".gmdate("D, d M Y H:i:s", $last_cache)." GMT");
+	//header("Etag: $etag");
 
-	// Seiten-IDs (ungueltiges HTML) ummoddeln
-	$all_ids = $xml->xpath("//a[@seiten_id]");
-	foreach($all_ids as $a) {
-		$a['id'] = "sidebar_link_".$a['seiten_id'];
-		// umweg ueber DOM um Node zu loeschen
-		$adom = dom_import_simplexml($a);
-		$adom->removeAttribute('seiten_id');
-	}
-	
-	print $xml->ul->asXML();
-}
-
-function print_relations() {
-	global $lib, $seiten_id;
-	
-	$sidebar = simplexml_load_file("$lib/../de-v6/sidebar.xml");
-	$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
-	if(count($current_a)) {
-		$prev = $current_a[0]->xpath("preceding::a[@seiten_id][1]");
-		if(count($prev)) {
-			$a = $prev[0];
-			print "<li class='prev'><a href='$a[href]'>vorherige Seite <strong>$a</strong></a></li>";
-		}
-		$next = $current_a[0]->xpath("following::a[@seiten_id][1]");
-		if(count($next)) {
-			$a = $next[0];
-			print "<li class='next'><a href='$a[href]'>nächste Seite <strong>$a</strong></a></li>";
-		}
+	if(@strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $last_cache) {
+		// client already has page cached locally
+		header("HTTP/1.1 304 Not Modified");
 	} else {
-		print '<li class="start"><a href="#">Starte Führung <strong>Blabla</strong></a>';
+		readfile($cache_file);
 	}
+	exit;
 }
+
+// end of technikum29.php

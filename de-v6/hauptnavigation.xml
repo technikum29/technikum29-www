@@ -8,15 +8,13 @@
 	<li><a seiten_id="startseite" href="/de-v6/">Start</a></li>
 	<li class="has-submenu"><a seiten_id="news" href="/de-v6/news.php">Neues</a>
 		<ul class="u2 rich-text">
+			<!-- magic comment (do not replace): -->
+			<!--# INSERT_NEWS #-->
+			<!-- format:
 			<li><a href="/de-v6/news.php#Februar_2012"><img src="/shared/img-v6/topnav-neues1.jpg" />
 				Unterstützung von Schulen<span class="hidden">: </span>
 				<em>Das technikum29-Team unterstützt Schulprojekte</em></a></li>
-			<li><a href="/de-v6/news.php#August_2011"><img src="/shared/img-v6/topnav-neues2.jpg" />
-				Neue Anlage: LPG-21<span class="hidden">: </span>
-				<em>Ein neuer seltener Rechner im Museum</em></a></li>
-			<li><a href="/de-v6/news.php#Juli_2011"><img src="/shared/img-v6/topnav-neues3.jpg" />
-				Neue Anlage: Nova 2<span class="hidden">: </span>
-				<em>Wissenschaftlicher Rechner ab 1969</em></a></li>
+			-->
 		</ul>
 	</li>
 	<li class="has-submenu"><a href="#">Projekte</a>

@@ -1,0 +1,25 @@
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 "Was gibt es neues?"-Seite, komisches Listen-   |
+|                      Aussehen.                                       |
+|                         /de/news.shtm                                |
+|                         /en/news.shtm                                |
+| In Benutzung seit:   Juli 2009                                       |
+| Besonderheiten:      Nicht sonderlich originell, nur eben etwas      |
+|                      spezifisch.                                     |
+|                                                                      |
+\**********************************************************************/
+
+ul.news-feed li {
+    margin-bottom: 1.2em;
+}
+
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
+   margin: 0; padding: 0; border: none;
+   font-family: inherit;
+   font-weight: normal;
+   font-size: 100%;
+   font-style: italic;
+}

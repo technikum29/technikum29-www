@@ -1,0 +1,31 @@
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Lernprojekte-Uebersichtsseite                   |
+|                         /de/lernprojekte/index.shtml                 |
+| In Benutzung seit:   04.10.2009 (Einbindung der Seite in die         |
+|                      Homepage)
+| Besonderheiten:      Spezialisierung des allgemeinen Tabellen-       |
+|                      designs mit sehr grosser Schrift.               |
+|                                                                      |
+\**********************************************************************/
+
+
+#content table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 1.5em;
+}
+
+#content td,
+#content th {
+	font-size: 130%;
+	border: 1px solid #888;
+	line-height: 150%;
+	padding: 11px;
+	text-align: left !important;
+}
+
+#content th { width: 20%; }
+#content td { color: #555; }

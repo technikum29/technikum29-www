@@ -1,0 +1,13 @@
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Impressum                                       |
+| In Benutzung seit:   September 2010                                  |
+| Besonderheiten:      Frueher einfach address{font-style:italic;},    |
+|                      jetzt Formatierung mit vcard                    |
+|                                                                      |
+\**********************************************************************/
+
+#content .vcard {
+	font-style: italic;
+}

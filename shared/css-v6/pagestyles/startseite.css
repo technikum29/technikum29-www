@@ -1,0 +1,53 @@
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Neue Startseiten, (de|en)/index.shtml           |
+| In Benutzung seit:   v5.7 (Redesign)                                 |
+| Besonderheiten:      Zweispaltiges Design mit Boxen                  |
+| Zuletzt geändert:    v5.7                                            |
+|     08.04.2011: Startseitendesign noch mal geändert in so einen      |
+|                 grauen Hintergrund und so                            |
+|                                                                      |
+\**********************************************************************/
+
+
+#content div {
+    padding: 1em;
+    margin: 0;
+    /*border: 1px solid blue;*/
+}
+
+#content div h2 /* id zur Bedeutungssteigerung */ {
+    font-weight: bold;
+    font-size: 113%;
+    font-family: inherit; /* 04.01.10: Neue Header-Styles */
+    border: none;         /*           neutralisieren     */
+    color: #224B88; /* gleiche Farbe wie Navilinks rechts */
+}
+
+#content div ul {
+    text-align: justify;
+    margin: 0;
+    padding-left: 1em;
+}
+
+#content div.foto,
+#startseitenfoto-en {
+    /* #startseitenfoto-en für /en, da gibts kein #content */
+    border: none;
+    padding: 0;
+	margin: 2em auto;
+    background: none;
+    width: 338px; height: 228px; /* Bildgrößen */
+    position: relative;
+}
+
+#content .foto p {
+    position: absolute;
+    bottom: 0; right: 0;
+    margin: 0 3px 2px 0; 
+    text-align: right;
+    color: #fff;
+    font-size: 90%;
+    font-weight: bold;
+}

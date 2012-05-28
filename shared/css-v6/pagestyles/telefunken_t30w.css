@@ -1,0 +1,38 @@
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Telefunken T40W-Extraseite, die Javascript-     |
+|                      Einblendeffekt bietet - Absolute Positionierung |
+|                      von Bildern uebereinander mit dynamischer       |
+|                      opacity.                                        |
+|                         /de/geraete/telefunken_t40w.shtm             |
+|                         /en/devices/telefunken_t40w.shtm             |
+| In Benutzung seit:   Maerz 2009                                      |
+| Besonderheiten:      Absolut spezifisch fuer die aktuellen           |
+|                      Gegebenheiten.                                  |
+|                                                                      |
+\**********************************************************************/
+
+.telefunkent40w #rel,
+.telefunkent40w #zu,
+.telefunkent40w #offen {
+    position: absolute;
+    width: 930px;
+    height: 569px;
+    top: 0; left: 0;
+}
+
+.telefunkent40w #beschriftung {
+    position: absolute;
+    top: -53px;
+    left: -36px;
+}
+
+.telefunkent40w #zu           { z-index: 3 }
+.telefunkent40w #beschriftung { z-index: 2; }
+.telefunkent40w #offen        { z-index: 1; }
+.telefunkent40w #rel          {
+     position: relative;
+     margin-bottom: 80px;
+     margin-top: 60px;
+}

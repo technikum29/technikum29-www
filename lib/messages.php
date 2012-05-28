@@ -1,5 +1,11 @@
 <?php
+/**
+ * t29v6 Message subsystem.
+ *
+ **/
 
+// You can run this script to get all messages as JSON.
+// See also /shared/js/modules/msg.js and js.php.
 if(realpath($_SERVER['SCRIPT_FILENAME']) == __FILE__) {
 	header('Content-Type: application/json');
 	if(isset($_GET['pre'])) echo $_GET['pre'];
@@ -8,13 +14,23 @@ if(realpath($_SERVER['SCRIPT_FILENAME']) == __FILE__) {
 }
 
 class t29Messages {
+	/// when instanciated, stores the language to lookup for _()
 	public $lang;
+
+	/// The order of array elements in $msg. This array maps
+	/// $lang shortstring to array index position.
 	public static $order = array('de' => 0, 'en' => 1);
 	
 	function __construct($lang) {
 		$this->lang = $lang;
 	}
 
+	/**
+	 * The translate function, shorthand like the gettext shorthand.
+	 * There's actually no long method name version :D
+	 * @param str_id  Some key from the $msg array
+	 * @returns Found string in current locale ($lang)
+	 **/
 	function _($str_id) {
 		if(!isset(self::$msg[$str_id])) {
 			return "&lt;$str_id&gt;"; // error; mediawiki style
@@ -27,6 +43,8 @@ class t29Messages {
 	}
 	
 	/**
+	 * Returns a function which prints the output of _. Usage:
+	 *
 	 * $msg = new t29Messages("foo");
 	 * print $msg->_("foobar");              // ordinary long version
 	 * $_ = $msg->get_shorthand_printer();
@@ -37,12 +55,19 @@ class t29Messages {
 		return function($str)use($t) { print $t->_($str); };
 	}
 
-	/// same but return instead of print
+	/// same like get_shorthand_printer but return instead of print
 	function get_shorthand_returner() {
 		$t = $this;
 		return function($str)use($t) { return $t->_($str); };
 	}
 
+	/**
+	 * Returns the $msg array as well as the order array encoded as JSON.
+	 * The output will look like '{order:{de:0,en:1},msg:{'foo':['bar,'baz']}}'.
+	 * A given $filter_regexp will be run on the msg keys and hence give
+	 * out only matching entries. Example: $filter_regexp = "/^js-/"
+	 * would filter out all JavaScript related entries.
+	 **/
 	static function create_json($filter_regexp=false) {
 		$msg = $filter_regexp ? array_intersect_key(self::$msg,
 				array_flip(preg_grep($filter_regexp, array_keys(self::$msg)))
@@ -53,6 +78,12 @@ class t29Messages {
 		));
 	}
 
+	/**
+	 * The Messages array maps a message id (string) to the message text
+	 * (string or numeric array). If the message value is an array, it will be
+	 * interpreted as multi language string, whereas the mapping from language
+	 * to index is supposed to be done via the $order array (see above).
+	 **/
 	public static $msg = array(
 		'html-title'             => 'technikum29',
 		'head-h1-title'          => array('Zur technikum29 Startseite', 'Go to technikum29 homepage'),
@@ -87,8 +118,8 @@ class t29Messages {
 		'js-heading-links'       => array("Direktlink zu diesem Abschnitt", "Link to this section"),
 		// used in /shared/js/modules/img_license.js
 		'js-img-license'         => array(
-										'&copy; technikum29. <a href="/de-v6/impressum.shtm#image-copyright">Lizenzbestimmungen</a>',
-										'&copy; technikum29. <a href="/en/contact.shtm#image-copyright">Licensing terms</a>',
+										'&copy; technikum29. <a href="/de-v6/impressum.php#image-copyright">Lizenzbestimmungen</a>',
+										'&copy; technikum29. <a href="/en-v6/contact.php#image-copyright">Licensing terms</a>',
 									),
 	);
 }

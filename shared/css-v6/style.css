@@ -7,8 +7,8 @@ body {
 .clear { clear: both; }
 
 /* Anpassungsstyles, die benoetigt werden damit der Text aussieht wie frueher */
-.center { text-align: center; }
 #content p { text-align: justify } /* !! */
+#content .center { text-align: center; }
 
 body, input { /* font */
 	font-family: "Trebuchet MS";

@@ -41,6 +41,12 @@ class t29Template {
 		// get all kind of relations
 		$this->page_relations = $this->menu->get_page_relations();
 		$this->interlang_links = $this->menu->get_interlanguage_link();
+		
+		// check and load additional css
+		$this->conf['pagecss'] = '/shared/css-v6/pagestyles/'.$this->conf['seiten_id'].'.css';
+		$this->conf['has_pagecss'] = file_exists($this->conf['webroot'].$this->conf['pagecss']);
+		// FIXME: There is no caching check yet for this setting
+		//        (new pagecss file won't be detected and wont purge the tmpl cache)
 	}
 	
 	/**
@@ -65,11 +71,15 @@ class t29Template {
 		}
 		
 		if(!file_exists($this->conf['cache_file'])) {
-			self::mkdir_recursive(dirname($this->conf['cache_file']));
+			if(!self::mkdir_recursive(dirname($this->conf['cache_file']))) {
+				print "<div class='error'>Could not create recursive caching directories</div>";
+			}
 		}
-
-		if(file_put_contents($this->conf['cache_file'], $whole_page))
+		
+		if(@file_put_contents($this->conf['cache_file'], $whole_page))
 			print "<!-- Wrote output cache successfully -->\n";
+		else
+			print "<div class='error'>Could not write page output cache to ".$this->conf['cache_file']."</div>";
 	}
 
 	public static function mkdir_recursive($pathname) {
@@ -85,7 +95,7 @@ class t29Template {
 <html class="no-js" lang="<?php echo $this->conf['lang']; ?>">
 <head>
   <meta charset="utf-8">
-  <title><?php isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $p('html-title'); ?></title>
+  <title><?php echo isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $p('html-title'); ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="Sven">
   <meta name="generator" content="t29v6 $Id$">
@@ -117,6 +127,10 @@ class t29Template {
   <link rel="stylesheet" href="/shared/css-v6/boiler.css">
   <link rel="stylesheet" href="/shared/css-v6/style.css">
   <link rel="stylesheet" href="/shared/css/common.css">
+  <?php
+	if($this->conf['has_pagecss'])
+		printf('<link rel="stylesheet" href="%s">', $this->conf['pagecss']);
+  ?>
 
   <script src="/shared/js-v6/libs/modernizr-2.0.6.min.js"></script>
 </head>
@@ -204,11 +218,6 @@ class t29Template {
 			<!--CC<br>Viele Bilder können unter einer CreativeCommons-Lizenz
 			verwendet werden. Erkundigen Sie sich.-->
 		</div>
-				
-		<!--Copyright-Hinweis<br>
-		technikum29-Logo, Link aufs Impressum, Kontakt<br>
-		Creative-Commons-Tag<br>
-		Designed by Ufopixel<br>-->
     </footer>
   </div> <!--! end of #container -->
 
@@ -219,7 +228,6 @@ class t29Template {
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"><\/script>')</script>
 
-  <!--<script src="/lib/messages.php?pre=t29MSGDATA%3D&post=<?php echo urlencode('$(function(){t29.msg.setup();});'); ?>"></script>-->
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
   <script src="/lib/js.php"></script>
 </div><!-- end of div id="footer-background-container" helper -->

@@ -238,7 +238,7 @@ t29.menu.guide.setup = function() {
 };
 
 //////////////////////////// I18N / L10N system (messages)
-t29.msg = { lang: "de" };
+t29.msg = {};
 t29.msg.setup = function() {
 	// haesslicher hack... wird jetzt im template ganz am ende durch
 	// script aufgerufen.
@@ -250,7 +250,7 @@ t29.msg.setup = function() {
 t29.msg.get = t29._ = function(str) { // t29._ is shorthand!
 	if(t29.msg.data.msg[str]) {
 		if($.isArray(t29.msg.data.msg[str]))
-			return t29.msg.data.msg[str][ t29.msg.data.order[ t29.msg.lang ]];
+			return t29.msg.data.msg[str][ t29.msg.data.order[ t29.config.lang ]];
 		else
 			return t29.msg.data.msg[str];
 	} else {

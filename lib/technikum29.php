@@ -20,7 +20,9 @@ $languages = array(
 	"en" => array("English", "/en-v6"),
 );
 
-$lang = "de"; # must be index in $languages
+// try to determine the language from the file path
+$lang = substr($file, 1, 2);
+if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists
 $lang_path = $languages[$lang][1]; # shorthand, relative to webroot. use "$webroot$lang_path" for local.
 
 # Calling parameters
@@ -34,9 +36,8 @@ $test_programs = array(
 	"$lib/template.php",
 	"$lib/menu.php",
 	"$lib/messages.php",
-	"$lib/../de-v6/hauptnavigation.xml",
-	"$lib/../de-v6/sidebar.xml",
-	"$lib/../de-v6/news.php",
+	"$lib$lang_path/navigation.xml",
+	"$lib$lang_path/news.php",
 );
 
 $cache_file = $cache_dir . $file;

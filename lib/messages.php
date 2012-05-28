@@ -61,7 +61,9 @@ class t29Messages {
 		'sidebar-h2-tour'        => array('Museumstour', 'Museum Tour'),
 		'sidebar-h2-mainnav'     => array('Hauptnavigation', 'Main Navigation'),
 		'sidebar-h2-lang'        => array('Sprachauswahl', 'Language'),
-		'sidebar-search-label'   => array('Suchen', 'Search'),
+
+		'topnav-interlang-title' => array('Read this page (%s) in English', 'Diese Seite (%s) auf Deutsch lesen'),
+		'topnav-search-label'    => array('Suchen', 'Search'),
 
 		'js-menu-collapse-out'   => array('Menü ausklappen', 'Expand menu'),
 		'js-menu-collapse-in'    => array('Menü einklappen', 'Fold menu'),
@@ -70,5 +72,15 @@ class t29Messages {
 
 		'footer-copyright-tag'   => '&copy; 2003-2012 technikum29.',
 		'footer-legal-link'      => array('Impressum und Kontakt', 'Legal notices'),
+		'footer-legal-file'      => array('/impressum.php', '/contact.php'),
+		
+		'nav-rel-prev'           => array('vorherige Seite', 'previous page'),
+		'nav-rel-next'           => array('nächste Seite', 'next page'),
+		'nav-rel-start'          => array('Starte Führrung', 'Start guided tour'),
+		
+		'head-rel-first'         => array('Deutscher Start', 'English start'),
+		'head-rel-prev'          => array('Zur vorherigen Seite (%s)', 'Previous Page (%s)'),
+		'head-rel-next'          => array('Zur folgenden Seite (%s)', 'Next Page (%s)'),
+		'head-rel-interlang'     => array('Englische Version dieser Seite (%s)', 'Deutsche Version dieser Seite (%s)'),
 	);
 }

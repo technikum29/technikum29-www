@@ -1,12 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <html>
 <!--
-  technikum29v6: /de-v6/sidebar.xml  $Id$
-  Deutsche Hauptnavigation (rechter Rand). Dieses XHTML wird von PHP/SimpleXML
-  dynamisch verarbeitet und angereichert.
-  Achtung, dies muss wohlgeformtes HTML/XML sein! D.h.:
-    - Alle Tags, die aufgehen, müssen auch wieder zugehen!
+  technikum29v6: /de-v6/navigation.xml  $Id$
+  Deutsche Navigation. Diese XHTML-Datei wird von PHP/SimpeXML dynamisch erarbeitet
+  und angereichert.
+  
+  ACHTUNG! Diese Datei muss wohlgeformtes HTML/XML sein! Das heißt:
+    ==> Alle Tags, die aufgehen, müssen auch wieder zugehen! <==
+  
+  In dieser Datei findet sich
+  
+    1. die horizontale Hauptnavigation am oberen Rand
+    2. die vertikale Inhaltsnavigation (Führung) am rechten Rand
+
 -->
+<nav class="horizontal">
+<ul class="u1">
+	<li><a seiten_id="startseite" href="/de-v6/">Start</a></li>
+	<li class="has-submenu"><a seiten_id="news" href="/de-v6/news.php">Neues</a>
+		<ul class="u2 rich-text">
+			<!-- Letzte Neuigkeiten werden hier automatisch eingesetzt -->
+			<!--# INSERT_NEWS #-->
+		</ul>
+	</li>
+	<li class="has-submenu"><a href="#">Projekte</a>
+		<ul class="u2">
+			<li class="has-submenu"><a seiten_id="lernprojekte" href="/de-v6/lernprojekte/">Lernprojekte</a>
+				<!-- Pfeil-Symbol: ↔ -->
+				<ul class="u3">
+					<li><a href="/de-v6/lernprojekte/#aes">Fax ↔ Computer</a></li>
+					<li><a href="/de-v6/lernprojekte/#democomputer">Lerncomputer</a></li>
+					<li><a href="/de-v6/lernprojekte/pianola">Pianola</a></li>
+					<li><a href="/de-v6/lernprojekte/schach">Schach</a></li>
+				</ul>
+			</li>
+			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/de-v6/entwicklungsprojekte.php">Entwicklungsprojekte</a>
+				<ul class="u3">
+					<li><a href="/de-v6/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#anelex">Anelex-Drucker</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#gamma10">Gamma10-Drucker</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a seiten_id="lehrerinfo" href="/de-v6/lehrerinfo.php">Didaktik</a></li>
+	<li><a seiten_id="suche" href="/de-v6/suche.php">Gesucht</a></li>
+	<li><a seiten_id="impressum" href="/de-v6/impressum.php">Kontakt</a></li>
+</ul>
+</nav><!-- class=horizontal -->
+<nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/de-v6/">Start</a></li>
 	<li><a href="#">Computer History</a>
@@ -78,4 +121,5 @@
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>
 </ul>
+</nav><!-- class=side -->
 </html>

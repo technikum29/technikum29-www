@@ -11,21 +11,13 @@
  **/
  
 class t29Template {
-	private static $legal_pagenames = array( // should be const
-	# lang => file relative to $lang_path, with starting "/".
-		"de" => "/impressum.php",
-		"en" => "/contact.php",
-	);
-
 	public $conf, $menu, $msg;
 	public $body_classes = array();
 	public $javascript_config = array();
+	public $page_relations, $interlang_links;
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
-
-		// fill up configuration
-		$this->conf['legal_pagename'] = $this->conf['lang_path'] . self::$legal_pagenames[$this->conf['lang']];
 
 		// create a menu:
 		require_once $this->conf['lib'].'/menu.php';
@@ -35,6 +27,9 @@ class t29Template {
 		require_once $this->conf['lib'].'/messages.php';
 		$this->msg = new t29Messages($this->conf['lang']);
 
+		// fill up configuration
+		$this->conf['legal_pagename'] = $this->conf['lang_path'] . $this->msg->_('footer-legal-file');
+
 		// setup body classes:
 		$this->body_classes[] = "lang-" . $this->conf['lang'];
 		$this->body_classes[] = "page-" . $this->conf['seiten_id'];
@@ -42,6 +37,10 @@ class t29Template {
 		// setup javascript configuration
 		$this->javascript_config['lang'] = $this->conf['lang'];
 		$this->javascript_config['seiten_id'] = $this->conf['seiten_id'];
+		
+		// get all kind of relations
+		$this->page_relations = $this->menu->get_page_relations();
+		$this->interlang_links = $this->menu->get_interlanguage_link();
 	}
 	
 	/**
@@ -78,17 +77,41 @@ class t29Template {
 	}
 
 	function print_header() {
-		$_ = $this->msg->get_shorthand_printer();
+		$p = $this->msg->get_shorthand_printer();
+		$_ = $this->msg->get_shorthand_returner();
 ?>
 <!doctype html>
 <html class="no-js" lang="<?php echo $this->conf['lang']; ?>">
 <head>
   <meta charset="utf-8">
-  <title><?php isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $_('html-title'); ?></title>
+  <title><?php isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $p('html-title'); ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="Sven">
   <meta name="generator" content="t29v6 $Id$">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
+  
+  <?php
+	foreach(array_merge(array("first" => t29Menu::dom_new_link($this->conf['lang_path'], $_('head-rel-first'))),
+	  $this->page_relations) as $rel => $a) {
+		if($rel == 'start') continue; // not in standard
+		printf("\n  <link rel='%s' href='%s' title='%s' />",
+			$rel, $a['href'], sprintf($_('head-rel-'.$rel), $a)
+		);
+	}
+  ?>
+  
+  <link rel="copyright" href="<?php echo $this->conf['legal_pagename']; ?>" title="<?php $p('footer-legal-link'); ?>">
+  <?php
+	// print interlanguage links for all languages except the active one
+	foreach($this->interlang_links as $lang => $a) {
+		if($lang != $this->conf['lang']) {
+			printf('<link rel="alternate" href="%s" hreflang="%s" title="%s">',
+				$a['href'], $lang, sprintf($_('head-rel-interlang'), $a)
+			);
+		}
+	}
+  ?>
+  
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="/shared/css-v6/boiler.css">
   <link rel="stylesheet" href="/shared/css-v6/style.css">
@@ -100,7 +123,7 @@ class t29Template {
 <body class="<?php echo implode(' ', $this->body_classes) ?>">
 <div id="footer-background-container"><!-- helper -->
   <div id="container">
-	<h1 role="banner"><a href="/" title="<?php $_('head-h1-title'); ?>"><?php $_('head-h1'); ?></a></h1>
+	<h1 role="banner"><a href="/" title="<?php $p('head-h1-title'); ?>"><?php $p('head-h1'); ?></a></h1>
 	<div id="background-color-container"><!-- helper -->
 	<section class="main content" role="main" id="content">
 		<!--<header class="teaser">
@@ -111,10 +134,10 @@ class t29Template {
 <?php 
 } // function print_header().
 
-function print_footer() {
-	$p = $this->msg->get_shorthand_printer();
-	$_ = $this->msg->get_shorthand_returner();
-?>
+	function print_footer() {
+		$p = $this->msg->get_shorthand_printer();
+		$_ = $this->msg->get_shorthand_returner();
+	?>
 	<!-- end content -->
 	</section>
 	<hr>
@@ -136,14 +159,12 @@ function print_footer() {
 			<h3 class="visuallyhidden"><?php $p("sidebar-h2-lang"); ?></h3>
 			<ul>
 				<?php
-					foreach($this->conf['languages'] as $l => $sets) {
+					foreach($this->interlang_links as $lang => $a) {
 						printf("\t\t\t\t<li%s><a href='%s' title='%s'>%s</a></li>\n",
-							($l == $this->conf['lang'] ? ' class="active"' : ''),
-							$sets[1].'#',
-							"View in $sets[0]",
-							$sets[0]
+							($lang == $this->conf['lang'] ? ' class="active"' : ''),
+							$a['href'], sprintf($_('topnav-interlang-title'), $a),
+							$this->conf['languages'][$lang][0] // verbose language name
 						);
-					
 					}
 				?>
 			</ul>
@@ -151,7 +172,7 @@ function print_footer() {
 				<span class="no-js">%s:</span>
 				<input type="text" value="" data-defaultvalue="%s" name="q" class="text">
 				<input type="submit" value="%s" class="button">
-				', $_('sidebar-search-label'), $_('sidebar-search-label'), $_('sidebar-search-label')); ?>
+				', $_('topnav-search-label'), $_('topnav-search-label'), $_('topnav-search-label')); ?>
 			</form>
 		</nav>
     </header>
@@ -162,11 +183,13 @@ function print_footer() {
 		</nav>
 		<nav class="rel clearfix">
 		<ul>
-			<?php $this->menu->print_relations(); ?>
-			<!--
-			<li class="prev"><a href="#">vorherige Seite <strong>Univac 9200</strong></a>
-			<li class="next"><a href="#">nächste Seite <strong>Analog und Hybridrechner</strong></a>
-			-->
+			<?php
+				foreach($this->page_relations as $rel => $a) {
+					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
+						$rel, $a['href'], 'TITLE', $_('nav-rel-'.$rel), $a
+					);
+				}
+			?>
 		</ul>
 		</nav>
 		<div class="right">

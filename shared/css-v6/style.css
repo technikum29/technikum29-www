@@ -47,8 +47,8 @@ h2, html>body #page h2 {
 	margin: 2.3em 0 1em;
 }
 
-
-
+::-moz-selection{background:#07a;color:#fff;text-shadow:none}
+::selection{background:#07a;color:#fff;text-shadow:none}
 
 
 nav.horizontal a, nav.side .u1 > li > a {

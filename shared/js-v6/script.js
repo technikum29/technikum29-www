@@ -1,5 +1,10 @@
 ﻿// Kleinigkeiten für t29v6
-var t29 = {};
+window.t29 = {};
+
+t29.config = {};
+t29.config.set = function(new_settings) {
+	$.merge(t29.config, new_settings);
+}
 
 t29.defaultvalue = {};
 t29.defaultvalue.setup = function() {
@@ -36,13 +41,13 @@ t29.menu.collapsed.set = function(collapse, quick) {
 	console.log("Collapse zu "+(collapse?"KLEIN":"GROß")+" quick="+quick);
 	if(quick) collapse ? t29.menu.collapsed.lists.hide() : t29.menu.collapsed.lists.show();
 	else      collapse ? t29.menu.collapsed.lists.slideUp() : t29.menu.collapsed.lists.slideDown();
-	t29.menu.collapsed.but.text(collapse ? "Menü ausklappen" : "Menü einklappen");
+	t29.menu.collapsed.but.text(t29._(collapse ? "js-menu-collapse-out" : "js-menu-collapse-in"));
 	collapse ? $("html").addClass("collapsed-menu") : $("html").removeClass("collapsed-menu");
 }
 // returns whether menu is collapsed (boolean).
 t29.menu.collapsed.is = function() { return $("html").hasClass("collapsed-menu"); };
 t29.menu.collapsed.setup = function() {
-	t29.menu.collapsed.but = $("section.sidebar .button.collapse-menu");
+	t29.menu.collapsed.but = $('<span class="button collapse-menu"></span>').appendTo("nav.side");
 	t29.menu.collapsed.lists = $("nav.side .u3").not("nav.side li.active > .u3"); // ein/auszuklappende Listen
 	t29.menu.collapsed.set(true, true); // initial state
 	t29.menu.collapsed.but.click(function(){ t29.menu.collapsed.set(); });
@@ -77,7 +82,7 @@ t29.menu.scroll.set = function(target_state) {
 		case t29.menu.scroll.States.STATIC:
 			// die CSS-Klassen regeln eigentlich alles.
 			t29.menu.collapsed.but.show();
-			t29.menu.scroll.but.text("Menü einblenden");
+			t29.menu.scroll.but.text(t29._("js-menu-scroll-show"));
 			t29.menu.side.show();
 			break;
 		case t29.menu.scroll.States.FIX:
@@ -101,7 +106,7 @@ t29.menu.scroll.set = function(target_state) {
 
 			t29.menu.collapsed.set(true, true); // Sicherstellen, dass Navi eingeklappt.
 			t29.menu.collapsed.but.hide(); // Ausgeklappte Navi passt auf keinen Bildschirm.
-			t29.menu.scroll.but.text("Menü ausblenden");
+			t29.menu.scroll.but.text(t29._("js-menu-scroll-hide"));
 			break;
 		case t29.menu.scroll.States.STICK_BOTTOM:
 			// Position absolute; Top-Position manuell setzen.
@@ -113,7 +118,7 @@ t29.menu.scroll.set = function(target_state) {
 }
 
 t29.menu.scroll.setup = function() {
-	t29.menu.scroll.but = $("section.sidebar .button.get-menu");
+	t29.menu.scroll.but = $('<span class="button get-menu"></span>').appendTo("section.sidebar");
 	t29.menu.scroll.set(t29.menu.scroll.States.STATIC); // initial state
 	
 	t29.menu.scroll.but.click(function(){
@@ -232,10 +237,32 @@ t29.menu.guide.setup = function() {
 	*/
 };
 
+//////////////////////////// I18N / L10N system (messages)
+t29.msg = { lang: "de" };
+t29.msg.setup = function() {
+	// haesslicher hack... wird jetzt im template ganz am ende durch
+	// script aufgerufen.
+	t29.msg.data = t29MSGDATA;
+	/*$.getJSON('/lib/messages.php', function(data) {
+		t29.msg.data = data;
+	});*/
+};
+t29.msg.get = t29._ = function(str) { // t29._ is shorthand!
+	if(t29.msg.data.msg[str]) {
+		if($.isArray(t29.msg.data.msg[str]))
+			return t29.msg.data.msg[str][ t29.msg.data.order[ t29.msg.lang ]];
+		else
+			return t29.msg.data.msg[str];
+	} else {
+		return "&lt;"+str+"&gt;";
+	}
+};
+
 // alles fertiggeschnackelt.
 t29.setup = function() {
 	t29.defaultvalue.setup();
 	t29.menu.setup();
+	//t29.msg.setup();
 }
 
 $(t29.setup);

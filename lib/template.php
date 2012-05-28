@@ -11,15 +11,37 @@
  **/
  
 class t29Template {
-	public $conf;
-	public $menu;
+	private static $legal_pagenames = array( // should be const
+	# lang => file relative to $lang_path, with starting "/".
+		"de" => "/impressum.php",
+		"en" => "/contact.php",
+	);
+
+	public $conf, $menu, $msg;
+	public $body_classes = array();
+	public $javascript_config = array();
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
-		
+
+		// fill up configuration
+		$this->conf['legal_pagename'] = $this->conf['lang_path'] . self::$legal_pagenames[$this->conf['lang']];
+
 		// create a menu:
 		require_once $this->conf['lib'].'/menu.php';
 		$this->menu = new t29Menu($this->conf);
+
+		// create localisation class:
+		require_once $this->conf['lib'].'/messages.php';
+		$this->msg = new t29Messages($this->conf['lang']);
+
+		// setup body classes:
+		$this->body_classes[] = "lang-" . $this->conf['lang'];
+		$this->body_classes[] = "page-" . $this->conf['seiten_id'];
+		
+		// setup javascript configuration
+		$this->javascript_config['lang'] = $this->conf['lang'];
+		$this->javascript_config['seiten_id'] = $this->conf['seiten_id'];
 	}
 	
 	/**
@@ -56,12 +78,13 @@ class t29Template {
 	}
 
 	function print_header() {
+		$_ = $this->msg->get_shorthand_printer();
 ?>
 <!doctype html>
-<html class="no-js" lang="de">
+<html class="no-js" lang="<?php echo $this->conf['lang']; ?>">
 <head>
   <meta charset="utf-8">
-  <title><?php isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; ?> technikum29</title>
+  <title><?php isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $_('html-title'); ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="Sven">
   <meta name="generator" content="t29v6 $Id$">
@@ -74,10 +97,10 @@ class t29Template {
   <script src="/shared/js-v6/libs/modernizr-2.0.6.min.js"></script>
 </head>
 
-<body>
+<body class="<?php echo implode(' ', $this->body_classes) ?>">
 <div id="footer-background-container"><!-- helper -->
   <div id="container">
-	<h1 role="banner"><a href="#/" title="Zur technikum29 Startseite">technikum29</a></h1>
+	<h1 role="banner"><a href="/" title="<?php $_('head-h1-title'); ?>"><?php $_('head-h1'); ?></a></h1>
 	<div id="background-color-container"><!-- helper -->
 	<section class="main content" role="main" id="content">
 		<!--<header class="teaser">
@@ -89,37 +112,46 @@ class t29Template {
 } // function print_header().
 
 function print_footer() {
+	$p = $this->msg->get_shorthand_printer();
+	$_ = $this->msg->get_shorthand_returner();
 ?>
 	<!-- end content -->
 	</section>
 	<hr>
 	<section class="sidebar">
-			<h2 class="visuallyhidden">Museumstour</h2>
+			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
 			<nav class="side">
-				<?php $this->menu->print_menu($this->menu->sidebar_menu); ?>
-				<span class="button collapse-menu">Menü ausklappen</span>
+				<?php $this->menu->print_menu(t29Menu::sidebar_menu); ?>
 			</nav>
-			<!-- hier dann die Buttons, die dynamisch erzeugt werden, zum Aufklappen, etc. -->
-			<!-- die werden dann mit Javascript gemacht -->
-			<span class="button get-menu">Menü anzeigen</span>
+			<!-- menu changing buttons are made with javascript -->
 	</section>
 	</div><!-- div id="background-color-container" helper end -->
 	<hr>
 	<header class="banner">
-		<h2 class="visuallyhidden">Hauptnavigation</h2>
+		<h2 class="visuallyhidden"><?php $p("sidebar-h2-mainnav"); ?></h2>
 		<nav class="horizontal">
-			<?php $this->menu->print_menu($this->menu->horizontal_menu); ?>
+			<?php $this->menu->print_menu(t29Menu::horizontal_menu); ?>
 		</nav>
 		<nav class="top">
-			<h3 class="visuallyhidden">Sprachauswahl</h3>
+			<h3 class="visuallyhidden"><?php $p("sidebar-h2-lang"); ?></h3>
 			<ul>
-				<li class="active"><a href="#">Deutsch</a>
-				<li><a href="#">Englisch</a>
+				<?php
+					foreach($this->conf['languages'] as $l => $sets) {
+						printf("\t\t\t\t<li%s><a href='%s' title='%s'>%s</a></li>\n",
+							($l == $this->conf['lang'] ? ' class="active"' : ''),
+							$sets[1].'#',
+							"View in $sets[0]",
+							$sets[0]
+						);
+					
+					}
+				?>
 			</ul>
-			<form method="get" action="#">
-				<span class="no-js">Suchen:</span>
-				<input type="text" value="" data-defaultvalue="Suchen" name="q" class="text">
-				<input type="submit" value="Suchen" class="button">
+			<form method="get" action="#"><?php printf('
+				<span class="no-js">%s:</span>
+				<input type="text" value="" data-defaultvalue="%s" name="q" class="text">
+				<input type="submit" value="%s" class="button">
+				', $_('sidebar-search-label'), $_('sidebar-search-label'), $_('sidebar-search-label')); ?>
 			</form>
 		</nav>
     </header>
@@ -139,10 +171,10 @@ function print_footer() {
 		</nav>
 		<div class="right">
 			<img src="/shared/img-v6/logo.footer.png" title="technikum29 Logo" alt="Logo" class="logo">
-			&copy; 2003-2012 technikum29.
-			<br/><a href="/de-v6/impressum.php">Impressum und Kontakt</a>
+			<?php $p('footer-copyright-tag'); ?>
+			<br/><?php printf('<a href="%s">%s</a>', $this->conf['legal_pagename'], $_('footer-legal-link')); ?>
 			<div class="icons">
-				<a href="/de-v6/impressum.php#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
+				<a href="<?php echo $this->conf['legal_pagename']; ?>#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
 				<!--<a href="http://ufopixel.de" title="Designed by Ufopixel"><img src="http://svenk.homeip.net/dropbox/Ufopixel/Ufopixel-Design/logo_90x30/ufopixel_logo_90x30_version2.png"></a>-->
 			</div>
 			<!--CC<br>Viele Bilder können unter einer CreativeCommons-Lizenz
@@ -163,9 +195,10 @@ function print_footer() {
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.6.2.min.js"><\/script>')</script>
 
-
-  <script defer src="/shared/js-v6/plugins.js"></script>
-  <script defer src="/shared/js-v6/script.js"></script>
+  <script src="/lib/messages.php?pre=t29MSGDATA%3D&post=<?php echo urlencode('$(function(){t29.msg.setup();});'); ?>"></script>
+  <script>$(function(){t29.config = <?php print json_encode($this->javascript_config); ?>; });</script>
+  <script src="/shared/js-v6/plugins.js"></script>
+  <script src="/shared/js-v6/script.js"></script>
 </div><!-- end of div id="footer-background-container" helper -->
 </body>
 </html>

@@ -3,23 +3,22 @@
 class t29Menu {
 	public $conf;
 
-	public $horizontal_menu = 'hauptnavigation.xml';
-	public $sidebar_menu = 'sidebar.xml';
-	public $news_file = 'news.php';
+	const horizontal_menu = 'hauptnavigation.xml';
+	const sidebar_menu = 'sidebar.xml';
+	const news_file = 'news.php';
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
-		$this->conf['lang_path'] = $this->conf['lib'].'/../'.$this->conf['lang'];
 	}
 	
 	function load_news_data() {
-		$newsfile = $this->conf['lang_path']."/".$this->news_file;
+		$newsfile = $this->conf['webroot'].$this->conf['lang_path']."/".self::news_file;
 		$newsdir = dirname(realpath($newsfile));
 		// include path wird ignoriert wenn include relativ ist, was in der
 		// eingebundenen Datei der Fall ist 
 		// set_include_path( get_include_path(). PATH_SEPARATOR . dirname($newsfile));
 		$pwd = getcwd(); chdir($newsdir);
-		include($this->news_file);
+		include(self::news_file);
 		chdir($pwd);
 		return $neues_menu;
 	}
@@ -35,7 +34,7 @@ class t29Menu {
 					function($a,$b){ return $a && $b;}, true)) {
 				$li = "<li>Fehler in Formatierung!";
 			} else {
-				$url = ($e['link']{0} == '#' ? '/'.$this->conf['lang'].'/'.$this->news_file : '').$e['link'];
+				$url = ($e['link']{0} == '#' ? '/'.$this->conf['lang'].'/'.self::news_file : '').$e['link'];
 				$li = "<li><a href='$url'><img src='$e[bild]' /> $e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
 			}
 			$news_ul_content .= "\t".$li."\n";
@@ -53,7 +52,7 @@ class t29Menu {
 
 	function print_menu($file) {
 		$seiten_id = $this->conf['seiten_id'];
-		$xml = simplexml_load_file($this->conf['lang_path'] . '/' . $file);
+		$xml = simplexml_load_file($this->conf['webroot'].$this->conf['lang_path'] . '/' . $file);
 	
 		// aktuelle Seite anmarkern und Hierarchie hochgehen
 		// (<ul><li>bla<ul><li>bla<ul><li>hierbin ich <- hochgehen.)
@@ -74,7 +73,7 @@ class t29Menu {
 			$adom->removeAttribute('seiten_id');
 		}
 	
-		if($file == $this->horizontal_menu) {
+		if($file == self::horizontal_menu) {
 			# inject news
 			$news_ul_content = $this->convert_news_data();
 			$magic_comment = '<!--# INSERT_NEWS #-->';
@@ -88,7 +87,7 @@ class t29Menu {
 	function print_relations() {
 		$seiten_id = $this->conf['seiten_id'];
 	
-		$sidebar = simplexml_load_file($this->conf['lang_path'] . '/' . $this->sidebar_menu);
+		$sidebar = simplexml_load_file($this->conf['webroot'] . $this->conf['lang_path'] . '/' . self::sidebar_menu);
 		$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
 		if(count($current_a)) {
 			$prev = $current_a[0]->xpath("preceding::a[@seiten_id][1]");

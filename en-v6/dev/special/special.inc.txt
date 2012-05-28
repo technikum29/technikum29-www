@@ -1,0 +1,65 @@
+    <div id="specialBox" class="special-box">
+    <div class="toggle"><a href="javascript:specialbox_toogle();" id="specialToggle">verbergen</a></div>
+    <div id="specialAlternate">
+        <p>Infos zur Englischen Übersetzung (<span class="en">informations about the english translation</span>)</p>
+        <div class="block">&nbsp;</div>
+    </div>
+    <div id="specialContent">
+        <div id="specialBanner">
+            <span class="leftborder">&nbsp;</span> <span class="rightborder">&nbsp;</span>
+            <div class="technikum">technikum29.de</div>
+            <div class="heading"><span class="v">version</span> <span class="v5">5.<span class="five">5</span></span> <span class="state">ALPHA</span></div>
+            <h2><span class="no1">Englische Übersetzung</span> <span class="no2">Englische Übersetzung</span></h2>
+        </div>
+        <div id="specialRealContent">
+        <div class="shortinfo">
+            <h2>Auf einen Blick</h2>
+            <ul>
+                <li>Fehler, Anmerkungen, etc an <strong><a class="go" href="mailto:en@technikum29.de">en@technikum29.de</a></strong>
+                    <span class="bg">&alpha;</span></li>
+                <li><strong><a href="/en/dev/progress.shtm">Fortschritt der Übersetzung</a></strong>
+                    <span class="bg">&beta;</span></li>
+                <li><a href="/en/dev/newwords.txt">aktuelle Liste problematischer Wörter</a><br><a href="/en/dev/words.txt">problematische Wörter (veraltet)</a>
+                    <span class="bg">&gamma;</span></li>
+            </ul>
+        </div>
+        <div class="longinfo">
+            <h2>Englische Übersetzung - <span class="en">English Translation</span></h2>
+            <p>Willkommen bei den Entwicklungsdateien der Englischübersetzung der <a href="/">technikum29.de</a>-Homepage.
+            In dieser Infobox finden sich alle relevanten Links und Infos.</p>
+            <p class="en">Welcome to the <a href="/">technikum29.de</a> development pages.
+            In this box you'll find all relevant links and infos.</p>
+
+            <h3>Diese Version - <span class="en">this version</span></h3>
+            <p>Dies ist die <strong>Entwicklungsversion</strong> auf Svens Computer.</p>
+            <ul>
+               <li>Letzte Änderung (<span class="en">latest update</span>): <strong>04.2006</strong></li>
+               <!--<li><del>Verwendete Version der Homepage (<span class="en">used version from the homepage</span>): <strong>1.1.1</strong> (<a href="/CHANGELOG.txt">ChangeLog</a>)<br><i>Wird im Übrigen bereits gemixt</i><del></li>-->
+               <li>Die jeweiligen Stadien einzelner Seiten werden jetzt in den Meta-Tags festgehalten.
+                   <a class="go" href="/en/dev/metaangaben.shtm">Informationen zu den Angaben</a></li>
+            </ul>
+
+            <h3>Übersetzungsfortschritt - <span class="en">Translation progress</span></h3>
+            <p>Auf der <a href="/en/dev/progress.shtm">Übersetzungsinfos</a>-Seite sind alle Fortschritte über inhaltliche
+            sowie Spezialseiten tabellarisch aufgelistet.</p>
+            <ul>
+              <li><strong><a href="/en/dev/progress.shtm#inhaltsseiten">Übersetzungsinfos Inhaltsseiten</a></strong></li>
+              <li><a href="/en/progress.shtm#extraseiten">Übersetzungsinfos Extraseiten</a></li>
+            </ul>
+
+            <h3>Siehe auch (<span class="en">see also</span>)</h3>
+            <ul>
+                <!--<li><strong><a href="/en/words.txt">/en/words.txt</a> - Wörter, für die keine englische Entsprechung gefunden wurde</strong> (<span class="en">I was not able to find out english equivalents for these words</span>)</li>-->
+                <!--<li><a href="/en/translation.old.txt">/en/translation.old.txt</a> - <u>Veraltete</u> Informationen über die Übersetzung (<span class="en"><u>out-of-date</u> information about the translation</span>)</li>-->
+                <li><a href="/dev/">/dev</a> - Entwicklungsbereich (<span class="en">Development Zone</span>)</li>
+                <li><a href="/CHANGELOG.txt">/CHANGELOG.txt</a> - Changelog</li>
+                <li><em>Temporär:</em> Englische <a href="http://radiomuseum-bocket.de/engl/E_das_ferrophon.htm">Ferrophon-Seite</a> mit illegalem kopierten Text der Homepage...</li>
+                <li><strong><a href="http://technikum29.sveni.lan/en/dev/">Netzwerkinterne Entwicklung</a></strong> - der neuste Stand</li>
+                <li><strong><a href="/en/dev/">Englisches Entwicklungsportal</a></strong> - auch wieder eine umfangreiche Linkliste</li>
+            </ul>
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+    </div>
+    </div>
+

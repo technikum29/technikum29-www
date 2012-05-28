@@ -1,0 +1,60 @@
+/**
+ technikum29.de Stylesheet for
+ translation-table
+**/
+
+/* <table> => Progress Table */
+
+table {
+    border-collapse: collapse;
+    /* IE: */ font-size: 90%;
+    margin: 2px 2px 10px 2px;
+    background-color: #FFF3F3;
+}
+
+html>body table {
+    /* intelligente browser */
+    font-size: 100%;
+}
+
+table strong {
+    font-weight: normal;
+    color: #7B7B7B;
+}
+
+table td, 
+table th {
+    border: 1px solid #B8B0B0;
+    background-color: #FFFAFA;
+    padding: 2px;
+    vertical-align: middle;
+}
+
+table th {
+    text-align: center;
+    font-weight: bold;
+    background-color: #DEDEDE;
+    border-bottom-color: #000;
+}
+
+table td.ok,
+table td.almost-ok,
+table td.not-ok,
+table td.done,
+table td.progress,
+table td.no {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Reihe switch-english-name-ok */
+table td.ok        { background-color: #8DD488; color: #298223; border-color: #298223; }
+table td.almost-ok { background-color: #CACC9A; color: #8F930D; border-color: #8F930D; }
+table td.not-ok    { background-color: #F46969; color: #CFF;    border-color: #C90000; }
+
+/* Reihe progress */
+table td.done       { background-color: #58B653; color: #254A22; border-color: #0a0a0a; }
+table td.progress   { background-color: #66D661; color: #295226; border-color: #298223; }
+table td.no         { background-color: #DED9D9; color: #ADADAD; }
+
+table td.yellow    { background-color: #f7ff9e; }

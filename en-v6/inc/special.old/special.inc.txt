@@ -1,0 +1,97 @@
+    <div id="specialBox" class="special-box">
+    <div class="toggle"><a href="javascript:specialbox_toogle();" id="specialToggle">verbergen</a></div>
+    <div id="specialAlternate">
+        <p>Infos zur Englischen Übersetzung (<span class="en">informations about the english translation</span>)</p>
+    </div>
+    <div id="specialContent">
+        <h2>Englische Übersetzung - <span class="en">English Translation</span></h2>
+        <p>Willkommen bei den Entwicklungsdateien der Englischübersetzung der <a href="/">technikum29.de</a>-Homepage. In dieser Box lässt sich der Fortschritt
+           der Übersetzung anschauen.</p>
+        <p class="en">Welcome to the developmentpages of the english translation of the <a href="/">technikum29.de</a>-Homepage. In this box
+           you can see the progress of the translation.</p>
+        
+        <div style="background-color: #e8ffe2; padding: 10px;">
+            <h3>Weiterentwicklung der Übersetzung</h3>
+            <p>Die Übersetzungen sind seit Monaten aus Zeitgründen gänzlich eingestellt. Die verwendete Version der Homepage ist schon lange veraltet.</p>
+            <p>Eine Wiederaufnahme und Kompletierung ist daher - wie sollte es auch anders sein - geplant, möglichst in näherer Zukunft. Deswegen wurden heute auch alle
+            Namen der Seiten als OK eingestuft.</p>
+            <p>15.10.2005 20:00 Uhr</p>
+        </div>
+
+        <h3>Diese Version - <span class="en">this version</span></h3>
+        <p>Dies ist die <strong>Entwicklungsversion</strong> auf Svens Computer.</p>
+        <ul>
+           <li>Letzte Änderung (<span class="en">latest update</span>): <strong>15.12.2005 20:00</strong></li>
+           <li>Verwendete Version der Homepage (<span class="en">used version of homepage</span>): <strong>1.1.1</strong> (<a href="/CHANGELOG.txt">ChangeLog</a>)</li>
+        </ul>
+        <p>Hinweis zu den verwendeten deutschen Versionen: Es wird möglichst stets die aktuelle Version
+        verwendet, trotzdem wird der Inhalt der englischen Version relativ schnell veralten. Vor der
+        Veröffentlichung muss daher die Version angepasst werden!</p>
+
+        <h3>Übersetzungsfortschritt - <span class="en">Translation progress</span></h3>
+        <p>Auf der <a href="/en/progress.shtm">Übersetzungsinfos</a>-Seite sind alle Fortschritte über inhaltliche
+        sowie Spezialseiten tabellarisch aufgelistet.</p>
+        <ul>
+          <li><strong><a href="/en/progress.shtm#inhaltsseiten">Übersetzungsinfos Inhaltsseiten</a></strong></li>
+          <li><a href="/en/progress.shtm#extraseiten">Übersetzungsinfos Extraseiten</a></li>
+        </ul>
+        
+        
+        <!--<table>
+        <tr>
+            <th>Deutscher Name</th>
+            <th>Englischer Name</th>
+            <th>Engl. Name OK?</th>
+            <th>Fortschritt</th>
+        </tr>
+        <tr>
+            <td>Start</td><td>Start</td><td class="ok">OK</td><td class="progress">Überarbeitet</td>
+        </tr><tr>
+            <td><strong>Kategorie:</strong> Kommunikationstechnik</td><td>Communication Technology</td><td class="ok">OK</td>
+        </tr><tr>
+            <td>Rundfunk</td><td>Broadcasting</td><td class="ok">OK</td><td class="progress">Überarbeitung</td>
+        </tr><tr>
+            <td>Fernsehen</td><td>Television</td><td class="ok">OK</td><td class="progress">Erstübersetzung fertig</td>
+        </tr><tr>
+            <td>Tonaufnahme- und Wiedergabetechnik</td><td>Sound recording and reproducing technology</td><td class="ok">OK</td><td class="progress">In Arbeit</td>
+        </tr><tr>
+            <td>Fax- und Schreibtechnik</td><td>Fax engineering</td><td class="ok">OK</td><td class="progress">Erstübersetzung fertig</td>
+        </tr><tr>
+            <td>Messtechnik</td><td>Measurement technology</td><td class="ok">OK</td><td class="progress">In Arbeit</td>
+        </tr><tr>
+            <td><strong>Kategorie:</strong> Rechner- und Computertechnik</td><td>Computer Technology</td><td class="ok">OK</td>
+        </tr><tr>
+            <td>(Elektro-) mechanische Rechenmaschinen</td><td>(Electro-) mechanical calculators</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Rechner mit Elektronenröhren</td><td>Calculators with electron tubes</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Erste Rechner mit Transistoren</td><td>First calculators with transistors</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Programmierbare Rechner der zweiten Generation</td><td>Programable seccond-generation calculators</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Erste Rechner der dritten Generation mit einfacher IC-Technik</td><td>First third-generation calculators with early IC-technology</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Frühe Computer</td><td>Early computers</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td>Analog- und Hybridrechner</td><td>Analoge and digital-analoge computers</td><td class="ok">OK</td><td class="no">-</td>
+        </tr><tr>
+            <td rowspan="2">Wir Suchen</td><td>Things we look for</td><td class="not-ok">Schlecht</td><td class="no">-</td>
+        </tr><tr>
+            <td colspan="3" class="yellow">ggf. <b>weglassen</b> - warum sollte das jemanden aus sonstwo interessieren?</td>
+        </tr><tr>
+            <td>Impressum</td><td>Contact</td><td class="ok">OK</td><td class="progress">Fertig...</td>
+        </tr>
+        </table>-->
+
+        <h3>Siehe auch (<span class="en">see also</span>)</h3>
+        <ul>
+            <li><strong><a href="/en/words.txt">/en/words.txt</a> - Wörter, für die keine englische Entsprechung gefunden wurde</strong> (<span class="en">I was not able to find out english equivalents for these words</span>)
+            <li><a href="/en/translation.old.txt">/en/translation.old.txt</a> - <u>Veraltete</u> Informationen über die Übersetzung (<span class="en"><u>out-of-date</u> information about the translation</span>)
+            <li><a href="/dev/">/dev</a> - Entwicklungsbereich (<span class="en">Development Zone</span>)</li>
+            <li><a href="/CHANGELOG.txt">/CHANGELOG.txt</a> - Changelog</li>
+            <li><em>Temporär:</em> Englische <a href="http://radiomuseum-bocket.de/engl/E_das_ferrophon.htm">Ferrophon-Seite</a> mit illegalem Text der Homepage...</li>
+            <li><strong><a href="http://technikum29.sveni.lan/en/go">Netzwerkinterne Entwicklung</a></strong> - der neuste Stand
+        </ul>
+    </div>
+    </div>
+

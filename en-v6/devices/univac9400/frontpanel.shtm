@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Univac 9400 frontpanel"
+   --><!--#set var="location"     value="univac-frontpanel"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/univac9400/frontpanel.shtm"
+   --><!--#set var="title_de"     value="Univac 9400 Frontpanel"
+   --><!--#set var="prev"         value="/en/computer/univac9400.shtm#backlink-frontpanel"
+   --><!--#set var="prev_title"   value="Univac 9400 overview"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="t29.SVN" content="$Id$" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+<div class="box left">
+    <img src="/shared/photos/rechnertechnik/univac/frontpanel.jpg" alt="Univac 9400 Frontpannel" width="361" height="575" />
+    <div class="bildtext">
+        <h2><!--#echo var="title" --></h2>
+        <p>Light ermitting diodes (LEDs) has not been invented yet. Little
+	glow lamps were used to display the binary states because
+	filament bulbs would have been too slow to perform the fast
+	changings. The display features four rotary switches so it can
+	be switched between eight different state arrays with 18 bits.</p>
+    </div>
+ </div>
+
+</div><!--content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Early Computers"
+   --><!--#set var="location"     value="fruehe_computer"
+   --><!--#set var="part"         value="computer"
+   --><!--#set var="url_de"       value="rechnertechnik/fruehe-computer.shtm"
+   --><!--#set var="prev"         value="ic-technology.shtm"
+   --><!--#set var="prev_title"   value="First third-generation calculators with early IC-technology"
+   --><!--#set var="next"         value="univac9400.shtm"
+   --><!--#set var="next_title"   value="UNIVAC mainframe computer from the 60s"
+ --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
+    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="2005/v4.1.1" />
+    <meta name="t29.thistranslation" content="01.04.2006/v4.5ALPHA" />
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+      <!--#include virtual="/en/dev/special/special.inc.txt" -->
+
+    <p>Early computers are really worth seeing because of their enormousness and the very nice transparent accessory devices.
+    <br />There is a very important computer family that lead to the todays (home) computers: The development of the "Mini"-computers (mini compared to the common big mainframe computers at that time) from Digital Equipment Coroperation (DEC), series PDP 8. The museum has a complete production run from that devices: From the PDP 8 (also called Classic-8), year of manufacture 1965 to the PDP 8a (1975). The PDP 8a is less important so it is located in the archive.</p>
+    <!--The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
+    Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
+    <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
+
+    <div class="center">
+       <img src="/shared/photos-v5.5/rechnertechnik/dec/pdp_8.jpg" alt="PDP 8" />
+       <p class="bildtext">
+         The PDP 8 complete apparature One of the museal highlights
+
+  <!-- TRANSLATION HIER WEITERMACHEN -->
+
+
+: The <b>Classic PDP 8</b> from DEC (Digital Equipment Corporation, Massachusetts):
+         He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
+         strong men can lift the computer. It is better to have four people to carry it!.
+         Without ICs or their ancestors the device is counted among the seccond-generation calculators.
+         <br>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a> (<u>flank</u>). The core memory is set above (storage capacity 4kB).
+       </div>
+       <div class="clear">&nbsp;</div>
+    </div>
+
+    <div class="left">
+        <img src="/shared/photos/pdp_8_l.jpg" style="width: 322px; height: 430px;" alt="PDP 8L" />
+        <div class="bildtext"><b>PDP 8L</b>-installation with a lot of periphery. Year of manufacture 1968, partly with ICs of the TTL-series, partly plain transistor technology (<u>Transistortechnik</u>).
+        <br>The computer is 2 meter high and constists of a DIN A2 <u>drum plotter</u> (Calcomp 563, on the top), two TU 55 drives for magnetic tapes, a fast optical paper tape reader, the CPU and two expanded memories.
+        On the left you see the famous TELETYPE ASR 33 as a printer (with mechanical paper tape reader/-puncher)</div>
+        <div class="clear">&nbsp;</div>
+    </div>
+
+    <p>Furthermore the first system that looks like a today's computer is connected: <a class="go" href="/de/geraete/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. The computer with so much peripheral devices is propably unique in Germany. For example paper tape reader, <u>Staplekartenleser</u>, 8-zoll triple disc drive, disc system (<u>Plattensystem</u>) with 38cm big disks (the device has a weight of 100kg and costed 24.000,- DM whereas it only saved 5MB), special Basic-keybard, etc.
+    <br>The first personal computer was also build by WANG: PCS II (1975). The first PC that was affordable for everyman came on the market in 1977: PET 2001 from Commodore. It was as cheap as a today's PC but saved 8kB and had decent applications. More Homepcomputer followed, the market got out of hand and therewith the collection of computers ends. <a class="go" href="/en/details2.shtm" title="Details 2">See also details 2</a></p>
+</div>
+
+</div>
+
+<!-- end of content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

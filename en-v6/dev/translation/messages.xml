@@ -1,0 +1,138 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    <title>technikum29 translation system messages</title>
+	<meta name="t29.SVN" content="$Id$" />
+	<style type="text/css"><![CDATA[
+		/* Just some styles for browser viewing */
+		body>p, body>span,body>section {
+			display: block; position: relative;
+			border: 1px solid #cc5; background-color: #ffc;
+			margin: 2em; padding: 1em; }
+		body>p { background-color: #ffcccc}
+		body>span:before,body>section:before {
+			display: block; content:attr(id);
+			position: absolute; left: -1em; top: -1em;
+			padding: .3em;
+			background-color: #ff8;
+		}
+	]]></style>
+</head>
+<body>
+	<p>
+	   This page contains <b>messages used by the technikum29 translation system</b>. They are
+	   loaded via AJAX, so make sure this is valid XML and is served with right
+	   application/xml MIME type (.xml file ending). Entries are identified via
+	   ids which are displayed yellow in the basic CSS.
+	</p>
+
+	<span id="example1">Use Spans for text only entries</span>
+	<section id="example">Use (HTML5) sections for <b>HTML</b> entries</section>
+
+	<!-- The funny CSS arrow for the sidebar box -->
+	<section id="sidebar_arrow"> <span class="arrow tr-enabled" title="Go on, editing! :-)"></span> </section>
+	
+	<!-- elements to append to body while initial user interface creation (t29.tr.create_ui) -->
+	<section id="create_ui_body_append">
+		<div id="tr-infobox"></div>
+		<div id="tr-editorbox"></div>
+		
+		<!--
+		<div class="tr-body-borders tr-enabled" style="left:0;top:0;bottom:0;width:10px"></div>
+		<div class="tr-body-borders tr-enabled" style="right:0;top:0;bottom:0;width:10px;"></div>
+		<div class="tr-body-borders tr-enabled" style="left:0;right:0;bottom:0;width:10px"></div>
+		-->
+	</section>
+	
+	<section id="startup_topbox_querystring">
+		<!-- bnla -->
+		<h3>Thank you for improving this page</h3>
+		<p>Simply hover the text with your mouse and edit a paragraph by clicking on it.</p>
+	</section>
+	
+	<section id="startup_topbox_editdomain">
+		<!-- started via domain -->
+		<h3>Welcome to the technikum29 translation website</h3>
+		<p>You can fully edit this page and visit it afterwards, with all changes made.</p>
+	</section>
+	
+	<section id="create_ui_topbox">
+	<div class="external-content tr-enabled"><!-- to be placed before #content -->
+		<div id="tr-topbox">
+			<div class="startup">
+				<!-- usually hidden startup message, to be activated via -->
+			</div>
+			<div class="buttons"><div class="row">
+				<div class="field name extends" title="You can enter your name and location to be honoured in the sidebar of this page">
+					<h4>Insert your name</h4>
+				    <p class="feedback">Optional: Be mentioned in the credits!</p>
+					<!--<p>You are <input type="text" value="your name" />
+					from <input type="text" value="your location" />. Get
+					credits the way you submit!</p>--></div>
+				<div class="field editwhole" title="Edit the whole page at once">
+					<h4>Edit whole Page</h4>
+					<p>You have major plans?</p>
+				</div>
+				<div class="field feedback extends" title="Give us any feedback about this system or the website">
+					<h4>Feedback</h4>
+					<p>Tell us anything</p>
+				</div>
+				<div class="field help" title="This is where we can help you">
+					<h4>Help</h4>
+					<p>How to edit</p>
+				</div>
+				<div class="field exit" title="Return to normal static website">
+					<h4>Exit</h4>
+					<p>Get me out of this</p>
+				</div>
+			</div></div><!-- buttons -->
+			<div class="extender">
+				<div class="name">
+					If you want, you can publish your name at the end of this page.
+					<br/>Your Name: <input id="tr-username" type="text" name="name" class="defaultvalue" value="e.g. H. Omaba" />,
+					your Location: <input id="tr-userlocation" type="text" name="location" class="defaultvalue" value="e.g. Chicago, IL" />
+					<span class="button red cancel">Cancel</span>
+				</div>
+				<div class="feedback">
+					Use this text field to report bugs, make suggestions or comment this language
+					improvement system. You can also look at the
+					<a href="http://dev.technikum29.de" target="_blank">Development Portal</a> for
+					the backyard of technikum29 homepage engineering and translation.
+					
+					<form method="post" action="http://dev.technikum29.de/cgi-bin/mail.php" target="_blank">
+						<input type="hidden" name="to" value="dev" />
+						<input type="hidden" name="subject" value="t29 translation system feedback" />
+						<input type="hidden" name="out_heading" value="Thank you for your corrections" />
+						<input type="hidden" name="out_text" value="ARGHL this is not yet AJAXIFIED!!!" />
+
+						<textarea name="text">Your text here</textarea>
+
+						<p><input type="Submit" value="Submit" style="font-weight: bold;" /></p>
+					</form>
+				</div>
+			</div><!-- extender -->
+		</div><!-- tr-topbox -->
+	</div><!-- external-content (wrapper for topbox) -->
+	</section>
+	
+	<!-- infoboxes -->
+	<section id="infobox_default"><b>Click</b> to contribute a better translation</section>
+	<section id="infobox_corrected"><span class="thanks">Thank you for your correction.</span> Click to improve your text again.</section>
+	
+	<!-- editorbox -->
+	<section id="create_editorui_editorbox">
+		<div class="spinner"><img src="/en/dev/translation/loading.gif" title="Ongoing Data transmission" /> saving...</div>
+		<div class="buttons">
+			<div class="smaller">
+				<div class="button white small help">Help</div>
+				<div class="button white small cancel">Cancel</div>
+			</div>
+			<button class="button green submit">Submit</button>
+		</div>
+		<div class="left">
+			<h3>Contribute a better translation</h3>
+			<p>Just start to type in the text field</p>
+		</div>
+	</section>
+	
+</body>
+</html>

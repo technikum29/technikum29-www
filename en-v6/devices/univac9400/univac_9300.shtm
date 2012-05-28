@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head><!--#set var="title"        value="Univac 9300"
+   --><!--#set var="location"     value="univac-9300"
+   --><!--#set var="part"         value="extra"
+   --><!--#set var="url_de"       value="geraete/univac9400/univac_9300.shtm"
+   --><!--#set var="title_de"     value="Die Univac 9300"
+   --><!--#set var="prev"         value="/en/computer/univac9400.shtm#"
+   --><!--#set var="prev_title"   value="Univac 9400 overview"
+   --><!--#set var="next"         value=""
+   --><!--#set var="next_title"   value=""
+   --><title>technikum29 - <!--#echo var="title" --></title>
+
+    <!--#include virtual="/en/inc/head.inc.shtm" -->
+    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
+    <meta name="t29.germanoriginal" content="v5.7FINAL" />
+    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
+    <!-- meta: t29.germanoriginal="<27.07.2006/v5.5.4" -->
+    <!-- meta: t29.thistranslation="27.07.2006/v5.5.5" -->
+</head>
+<body>
+<!--#echo encoding="none" var="heading" -->
+<div id="content">
+    <h2><!--#echo var="title" --></h2>
+
+<!-- Beginn der Weiterleitungs-Befehle -->
+    <!--#set var="forwarding_page" value="/en/computer/univac9200.shtm" -->
+    <!--#set var="forwarding_title" value="UNIVAC 9200 punch card EDP" -->
+    <!--#include virtual="/en/inc/extra-forwarding.template.shtm" -->
+<!-- Ende der Weiterleitungsbefehle -->
+	
+<div class="box center">
+    <img src="/shared/photos/rechnertechnik/univac/univac_9300.jpg" alt="Univac 9300" width="563" height="432" />
+    <div class="bildtext-bildbreite" style="width: 563px;">
+        <p>The "UNIVAC 9300" computer is still stored in the museum's archive.
+	It can be used as a subsystem from the UNIVAC 9400. All
+	programs and data from the computers from the seria 9400 are
+	compatible. The 9300's main storage can be extended
+        to at most 32 KB. Unfortunately the accident-sensitive
+	magnetic wire was still used.</p>
+	<!--
+      <ul id="nav">
+        <li><a href="/en/computer/univac9400.shtm#backlink-univac9300">Univac 9400 overview</a></li>
+        <li><a href="/en/">technikum29 homepage</a></li>
+      </ul>
+      -->
+    </div>
+</div>
+
+</div><!--content -->
+<!--#include virtual="/en/inc/menu.inc.shtm" -->
+</body>
+</html>

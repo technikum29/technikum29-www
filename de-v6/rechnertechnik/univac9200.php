@@ -1,6 +1,6 @@
 <?php
 	$seiten_id = 'univac9200';
-	$version = '$Id: univac9200.php 130 2010-01-03 04:16:55Z incubator $';
+	$version = '$Id$';
 	$titel = 'Univac 9200, Univac 9300';
 	
 	require "../../lib/technikum29.php";

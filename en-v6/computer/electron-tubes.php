@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Desk calculators with electron tubes"
-   --><!--#set var="location"     value="elektronenroehren"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/elektronenroehren.shtm"
-   --><!--#set var="prev"         value="electro-mechanical.shtm"
-   --><!--#set var="prev_title"   value="(Electro-) mechanical calculators"
-   --><!--#set var="next"         value="transistors.shtm"
-   --><!--#set var="next_title"   value="First calculators with transistors"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Elektronenr&ouml;hren, Rechner, Tischrechner, Anita Tischrechner, R&ouml;hrenrechner, Elektronenr&ouml;hren, Bell Punch Co" />
-    <meta name="keywords" lang="en" content="technikum29, electron tubes, Anita, Bell Punch Co" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'elektronenroehren';
+	$version = '$Id$';
+	$title = 'Desk calculators with electron tubes';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Desk calculators with electron tubes</h2>
 
     <p>The development of electronic calculators since the 1950s is at least as interesting as the
     development of broadcast engineering in the 1920/30s.
@@ -76,8 +62,3 @@
      </p>
     </div>
 </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

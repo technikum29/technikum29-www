@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Transistorized calculators"
-   --><!--#set var="location"     value="transistoren"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/transistoren.shtm"
-   --><!--#set var="prev"         value="electron-tubes.shtm"
-   --><!--#set var="prev_title"   value="Desk calculators with electron tubes"
-   --><!--#set var="next"         value="programmable.shtm"
-   --><!--#set var="next_title"   value="Programable second-generation calculators"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Kernspeicher, Wanderer Conti, Erste Rechner mit Transistoren, IME 84" />
-    <meta name="keywords" lang="en" content="technikum, transistorised calculators, seccond-generation, calculators, IME 84, OLYMPIA, WANDERER, FRIDEN" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'transistoren';
+	$version = '$Id$';
+	$title = 'Transistorized calculators';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Transistorized calculators</h2>
     
     <!-- klingt scheiße: <p class="progress10">Jolt by the calculators featuring all tube technology, now a vehement race of the development of transistorised second-generation calculators began.</p>-->
 
@@ -135,7 +121,3 @@
 	cases a small <a href="storage-media.shtm#core-memory">core memory</a> was employed for internal storage.</p>
 	<p>You can read further details at the <a class="go" href="/en/details1.shtm" title="Details 1">tabular list of desk calculators</a></p>
 	-->
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

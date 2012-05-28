@@ -1,24 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Fax engineering"
-   --><!--#set var="location"     value="faxtechnik"
-   --><!--#set var="part"         value="communication"
-   --><!--#set var="url_de"       value="kommunikationstechnik/faxtechnik.shtm"
-   --><!--#set var="prev"         value="television.shtm"
-   --><!--#set var="prev_title"   value="Television"
-   --><!--#set var="next"         value="measurement.shtm"
-   --><!--#set var="next_title"   value="Measurement technology"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Faxtechnik, Schreibtechnik, Fernschreiber, Siemens KF108, Hellfax BS 110, Fax&uml;bertragung, Bildfunkempf&auml;nger, Blattschreiber" />
-    <meta name="keywords" lang="en" content="technikum, fax engineering, writing engineering, telegraphy, hellfax, hellschreiber, olympia, flexowriter" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
+<?php
+	$seiten_id = 'faxtechnik';
+	$version = '$Id$';
+	$title = 'Fax engineering';
+	
+	require "../../lib/technikum29.php";
+?>
     <!-- Etwas unkonventionell - mehrere h2 auf der Seite verteilt -->
     <h2>Telegraphy</h2>
 
@@ -296,8 +282,3 @@
                year of manufacture 1962.</p>
         </div>
     </div><!-- end of image box -->
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

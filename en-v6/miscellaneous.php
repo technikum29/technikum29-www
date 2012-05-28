@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Miscellaneous"
-   --><!--#set var="location"     value="sonstiges"
-   --><!--#set var="url_de"       value="sonstiges.shtm"
-   --><!--#set var="prev"         value="computer/sotrage-media.shtm"
-   --><!--#set var="prev_title"   value="Storage media"
-   --><!--#set var="next"         value="development-projects.shtm"
-   --><!--#set var="next_title"   value="Development Projects"
-   -->
-     <title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id: search.shtm 108 2009-08-19 17:20:00Z heribert $" />
-    <meta name="t29.thistranslation" content="12.11.2009" />
-    <meta name="t29.comment" content="Initial announcement" />	
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'sonstiges';
+	$version = '$Id$';
+	$title = 'Miscellaneous';
+	
+	require "../lib/technikum29.php";
+?>
+    <h2>Miscellaneous</h2>
 
     <h3>Pianola</h3>
     <p>The technikum29 is quite versatile &ndash; beside all the communication
@@ -206,8 +192,3 @@ the cards. So, finally, the "Capital" is transformed into atmospheric sounds.</p
 	<br>It is a wonderful device that can even be used today to understand the elementary
 	   workflow of modern high end desktop CPUs.
     </p>	
-	
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

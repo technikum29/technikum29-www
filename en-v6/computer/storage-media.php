@@ -1,23 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Historic internal storage media"
-   --><!--#set var="location"     value="speichermedien"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/speichermedien.shtm"
-   --><!--#set var="prev"         value="analog.shtm"
-   --><!--#set var="prev_title"   value="Analog and digital-analog computers"
-   --><!--#set var="next"         value="../miscellaneous.shtm"
-   --><!--#set var="next_title"   value="Miscellaneous"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'speichermedien';
+	$version = '$Id$';
+	$title = 'Historic internal storage media';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Historic internal storage media</h2>
 
     <p>
       In the following some types of memory are described which are found in the computers on display at the technikum29. These devices may be classified as either RAM (random access memory) or ROM (read only memory). Due to their respective size these are very demonstrative examples.

@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="UNIVAC 9200, UNIVAC 9300"
-   --><!--#set var="location"     value="univac9200"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/univac9200.shtm"
-   --><!--#set var="prev"         value="gamma10.shtm"
-   --><!--#set var="prev_title"   value="BULL GAMMA 10"
-   --><!--#set var="next"         value="univac9400.shtm"
-   --><!--#set var="next_title"   value="UNIVAC 9400 mainframe computer, data center"
-   --><!--#set var="credits"      value="" -->
-   <!-- Credits like this: B. Obama / Washington&nbsp;D.C.<li>M. Moore / Great Britain<li>N. Furthermore / Nevada-->
-   <title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac9200';
+	$version = '$Id$';
+	$title = 'UNIVAC 9200, UNIVAC 9300';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>UNIVAC 9200, UNIVAC 9300</h2>
 	
 	<p>The Univac 9200 (Univac 9300) is a punch card computing data center from 1966. It is
 	   uncommon that such old devices are completely preserved, even all the
@@ -175,9 +161,3 @@ wire memory is still working perfectly.</p>
 donated for this machine. Repairing such complex circuitry would be next to
 impossible without known good boards for swapping etc.</small>
 
-	
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

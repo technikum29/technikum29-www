@@ -1,25 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="(Electro-) mechanical calculators"
-   --><!--#set var="location"     value="elektro-mechanik"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/elektro-mechanik.shtm"
-   --><!--#set var="prev"         value="/en/communication/measurement.shtm"
-   --><!--#set var="prev_title"   value="Measurement technology"
-   --><!--#set var="next"         value="electron-tubes.shtm"
-   --><!--#set var="next_title"   value="Desk calculators with electron tubes"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Elektromechanische Rechenmaschienen, Mechanische Rechenmaschienen, Madas, Curta I, Diehl VSR-18" />
-    <meta name="keywords" lang="en" content="technikum, calculator, electromechanical, mechanical calculator, madas, curta I, diehl VSR-18" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-
+<?php
+	$seiten_id = 'elektro-mechanik';
+	$version = '$Id$';
+	$title = '(Electro-) mechanical calculators';
+	
+	require "../../lib/technikum29.php";
+?>
     <h2>Mechanical Adding Machines</h2>
 
 	<div class="box left clear-after">
@@ -119,8 +104,3 @@
     <div id="sidebar-footnote">
         <a href="/en/devices/sprocket-wheel-machine.shtm">Big photography &uarr; of the sprocket wheel machine</a>
     </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

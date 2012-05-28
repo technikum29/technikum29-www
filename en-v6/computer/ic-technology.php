@@ -1,24 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Programmable third-generation calculators with early IC-technology"
-   --><!--#set var="location"     value="ic-technik"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/ic-technik.shtm"
-   --><!--#set var="prev"         value="programmable.shtm"
-   --><!--#set var="prev_title"   value="Programable second-generation calculators"
-   --><!--#set var="next"         value="punchcard.shtm"
-   --><!--#set var="next_title"   value="Punch card computing"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="technikum29, third-generation calculators, HP, HP 9100, HP 9830, Wang 700, BASIC" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'ic-technik';
+	$version = '$Id$';
+	$title = 'Programmable third-generation calculators with early IC-technology';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Programmable third-generation calculators with early IC-technology</h2>
 
       <p>With the development of IC-technology 1967/68 brought along with the development of
       high-performance calculators. We have also arrayed what was among other things the
@@ -128,8 +115,3 @@
             </ul>
           </div>
       </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

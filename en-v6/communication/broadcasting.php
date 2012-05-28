@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Broadcasting"
-   --><!--#set var="location"     value="rundfunk"
-   --><!--#set var="part"         value="communication"
-   --><!--#set var="url_de"       value="kommunikationstechnik/rundfunk.shtm"
-   --><!--#set var="prev"         value="../"
-   --><!--#set var="prev_title"   value="Start"
-   --><!--#set var="next"         value="sound_technology.shtm"
-   --><!--#set var="next_title"   value="Sound recording and reproducing technology"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Rundfunk, Signalbau Huth, E 72, Telefunken W9, K&ouml;rting Ultramar, Telefunken 650, Kofferempf&auml;nger, Metz" />
-    <meta name="keywords" lang="en" content="Broadcasting, broadcast devices, museum, Signalbau Huth, Telefunken W9, K&ouml;rtng Ultramar, Telefunken 650, Metz" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'rundfunk';
+	$version = '$Id$';
+	$title = 'Broadcasting';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Broadcasting</h2>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/neuer-ausschnitt-rundfunkecke.jpg" alt="Photography from the museum: A partial view of the broadcasting corner" width="594" height="418" />
@@ -246,8 +232,3 @@
 			Of course it still used tubes. Youth would have been able to listen to
 			Elvis Presley at the swiming pool if the device were not as expensive.</p>
       </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="BULL Tabulating machine"
-   --><!--#set var="location"     value="tabelliermaschine"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/tabelliermaschine.shtm"
-   --><!--#set var="prev"         value="punchcard.shtm"
-   --><!--#set var="prev_title"   value="Punch card computing"
-   --><!--#set var="next"         value="gamma3.shtm"
-   --><!--#set var="next_title"   value="BULL GAMMA 3"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'tabelliermaschine';
+	$version = '$Id$';
+	$title = 'BULL Tabulating machine';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>BULL Tabulating machine</h2>
 
     <p>Tabulating machines were widely used when electronic data processing
        began in the 1950s. These big machines were called "technical marvels":
@@ -151,9 +137,3 @@
 		Additionally, the machine is capable of comparing the content of two
         consecutive cards.
     </p>
-
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

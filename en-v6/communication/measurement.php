@@ -1,23 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Measurement and Experimental technology"
-   --><!--#set var="location"     value="messtechnik"
-   --><!--#set var="url_de"       value="kommunikationstechnik/messtechnik.shtm"
-   --><!--#set var="prev"         value="fax.shtm"
-   --><!--#set var="prev_title"   value="Fax engineering"
-   --><!--#set var="next"         value="/en/computer/electro-mechanical.shtm"
-   --><!--#set var="next_title"   value="(Elektro-) mechamical calculators"
- --><title>Technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Messtechnik, Spiegelgalvanometer, Szintillationsme&szlig;platz" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'messtechnik';
+	$version = '$Id$';
+	$title = 'Measurement and Experimental technology';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Measurement and Experimental technology</h2>
 
     <p>Measurement- and Experimental technology can link Communication and Computer
        Technology. Measurement technology has a long history and there have been nice and
@@ -163,8 +151,3 @@ Below the 564 is a Tektronix Type 453 - a small oscilloscope which is quite diff
          The different counting tubes (e.g. E1T or GC10B) and the very different
          display types are quite impressive.</p>
     </div>
-	
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

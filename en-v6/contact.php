@@ -1,33 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Contact"
-   --><!--#set var="location"     value="impressum"
-   --><!--#set var="url_de"       value="impressum.shtm"
-   --><!--#set var="prev"         value="search.shtm"
-   --><!--#set var="prev_title"   value="We are looking for..."
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   -->
-     <title>technikum29 - <!--#echo var="title" --></title>
-
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>
-    <script type="text/javascript" src="/shared/js/gmaps-impressum.js"></script>
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="technikum29, Impressum, Kontakt, E-Mail" />
-    <meta name="keywords" lang="en" content="technikum29, kelkheim, masthead, contact, e-mail" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="technikum29 impressum, contact, copyright" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="26.05.2007/v5.6.13" />
-    <meta name="t29.thistranslation" content="27.05.2007/v5.6.13" />
-    <!-- changelog: 19.04.06/v5.5BETA von de: 2005/v5.5.1 -->
-    <!-- changelog: 27.05.07/v5.6.13: aktualisierung (völlig falsche infos) -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'impressum';
+	$version = '$Id$';
+	$title = 'Contact';
+	
+	require "../lib/technikum29.php";
+?>
+    <h2>Contact</h2>
 
     <div class="vcard" id="address">
 		<div class="org hidden">technikum29 Computer Museum</div>
@@ -79,10 +57,3 @@
     <p>We can send you partially high resolution pictures. If the situations #2 or #3
        apply in your case, please get in touch with us.</p>
 
-
-</div>
-
-<!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

@@ -1,23 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Early commercial computers"
-   --><!--#set var="location"     value="kommerzielle"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/kommerzielle.shtm"
-   --><!--#set var="prev"         value="ic-technology.shtm"
-   --><!--#set var="prev_title"   value="Third-generation calculators with IC's"
-   --><!--#set var="next"         value="early-computers.shtm"
-   --><!--#set var="next_title"   value="Scientifical calculators and mini computers"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'kommerzielle';
+	$version = '$Id$';
+	$title = 'Early commercial computers';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Early commercial computers</h2>
 
     <p>In contrast to computers used for scientific applications, commercial data processing systems have a different structure, since they are optimized to support large storage systems and to process lots of data, as in payroll applications and the like. Sometimes the distinction between scientific and commercial systems is not a clear one. The examples below are typical small to medium systems for commercial applications.</p>
 
@@ -53,8 +41,3 @@
 	</div>
 	
 	<p>A typical small to medium data processing system is the <b>NIXDORF 820</b> built in 1969/1970. This system is built entirely from modules, has a magnetic account reader and a <a href="storage-media.shtm#Threaded_ROM">threaded ROM</a> which was user modifiable. The console consists of a typewriter, the magnetic account reader and two punch card readers. In addition to this the system supports a card punching unit, a high speed matrix printer (visible on the right), two cassette tape drives and a stand alone card puncher (IBM or YUKI, see above). Clicking on the picture will yield <a class="go" href="/en/devices/nixdorf820.shtm">a more detailed version</a> of it.</p>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

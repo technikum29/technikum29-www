@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Television"
-   --><!--#set var="location"     value="fernsehen"
-   --><!--#set var="part"         value="communication"
-   --><!--#set var="url_de"       value="kommunikationstechnik/fernsehen.shtm"
-   --><!--#set var="prev"         value="sound_technology.shtm"
-   --><!--#set var="prev_title"   value="Sound recording and reproducing technology"
-   --><!--#set var="next"         value="fax.shtm"
-   --><!--#set var="next_title"   value="Fax engineering"
- --><title>Technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Fernsehen, Videorekorder, Saba, Ampex, Saba Schauinsland W II, Ampex VR 650" />
-    <meta name="keywords" lang="en" content="technikum, communication, television, video recorder, saba, ampex, vr 650" />
-	<meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'fernsehen';
+	$version = '$Id$';
+	$title = 'Television';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Television</h2>
 
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/ausschnitt-fernsehraum.jpg" alt="Extract from the television area" width="396" height="297" class="nomargin-bottom" />
@@ -72,8 +58,3 @@
         <img src="/shared/photos/kommunikationstechnik/ampex.vr650.jpg" alt="AMPEX VR 650" width="600" height="369" />
         <p class="bildtext"><b>AMPEX VR 650</b>, an early bulky transportable video unit from Ampex, equipped with 2-inch tapes from 1964. It was the first transistorized apparature made by Ampex, featuring germanium transistors. Of course the device was not intended for privat use. Although it was versatile, hospitals often recorded radiographies with this apparature.</p>
     </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

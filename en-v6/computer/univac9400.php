@@ -1,32 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="UNIVAC mainframe computer, data center"
-   --><!--#set var="location"     value="univac"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/univac9400.shtm"
-   --><!--#set var="prev"         value="univac9200.shtm"
-   --><!--#set var="prev_title"   value="UNIVAC 9200, UNIVAC 9300"
-   --><!--#set var="next"         value="commercial.shtm"
-   --><!--#set var="next_title"   value="Early commercial computers"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="Univac 9400, Unisys, mainframe, data center" />
-    <meta name="DC.Title" content="Technikum29 - <!--#echo var="title" -->" />
-    <meta name="DC.Subject" content="<!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="12.11.2008/v5.8" />
-    <meta name="t29.thistranslation" content="29.11.2008/v5.8.5" />
-    <meta name="t29.this.summary" content="referencing to Histrorisches Museum Frankfurt" />
-    <!--changelog: 02.08.2006/v5.5.5 auf Basis 2006/v5.5.1 -->
-    <!--changelog: 21.08.2007/v5.7.5 auf Basis 18.07.2007/v5.7FINAL -->
-    <!--changelog: 27.11.2007/v5.7.12 auf Basis 04.11.2007/v5.7.11: Panoramabild -->
-    <!--changelog: 14.08.2008/v5.8BETA auf Basis 09.08.2008/v5.8BETA: VW beatle link -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac';
+	$version = '$Id$';
+	$title = 'UNIVAC mainframe computer, data center';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>UNIVAC mainframe computer, data center</h2>
 
     <div class="box center" style="position:relative;">
         <!-- Direkt kopiert von deutscher Datei, siehe dort -->
@@ -207,9 +186,3 @@
             Museum Frankfurt</a> for lending several UNIVAC boards. Reparations
             are quite difficult without comparative boards.</small></p>
       </div>
-
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

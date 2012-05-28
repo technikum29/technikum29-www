@@ -1,26 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Scientifical calculators and mini computers"
-   --><!--#set var="location"     value="fruehe-computer"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/fruehe-computer.shtm"
-   --><!--#set var="prev"         value="commercial.shtm"
-   --><!--#set var="prev_title"   value="Early commercial computers"
-   --><!--#set var="next"         value="analog.shtm"
-   --><!--#set var="next_title"   value="Analog and hybrid computers"
-  
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="technikum29, early computers, DEC PDP, WANG 2200" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'fruehe-computer';
+	$version = '$Id$';
+	$titel = 'Scientifical calculators and mini computers';
 	
+	require "../../lib/technikum29.php";
+?>
+
+<h2>Scientifical calculators and mini computers</h2>
+
 <h3 id="lpg21-en">Schoppe & Faeser:  LGP-21 (General Precision) </h3>
 	
 	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
@@ -465,10 +452,4 @@ Hardware configuration, from top to bottom:<br>
      
      <p>See further details at <a class="go" href="/en/details2.shtm" title="Details 2">the tabular overview of
      mid range data processing equipment and proffessional early computers</a>.</p>
-</div>
 
-
-<!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

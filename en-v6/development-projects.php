@@ -1,26 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Development Projects"
-   --><!--#set var="location"     value="entwicklungsprojekte"
-   --><!--#set var="url_de"       value="entwicklungsprojekte.shtm"
-   --><!--#set var="prev"         value="miscellaneous.shtm"
-   --><!--#set var="prev_title"   value="Miscellaneous"
-   --><!--#set var="next"         value="news.shtm"
-   --><!--#set var="next_title"   value="What's new?"
-   -->
-     <title>Technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'entwicklungsprojekte';
+	$version = '$Id$';
+	$title = 'Development Projects';
+	
+	require "../lib/technikum29.php";
+?>
 
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.initialdate" content="04.10.2009" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-
-<h2><!--#echo var="title" --></h2>
+<h2>Development Projects</h2>
 
 <p>This page lists some of our development projects where old hardware meets modern
 computer equipment. All projects are selfmade, with partly enormous hardware and
@@ -171,7 +157,3 @@ with an analysis of the problem, modelling and implementation on both microcontr
 and Computer (there won't be an english translation).</p>
 -->
 
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

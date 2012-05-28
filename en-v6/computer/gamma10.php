@@ -1,22 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="A second generation calculator: The BULL GAMMA 10"
-   --><!--#set var="location"     value="gamma10"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/gamma10.shtm"
-   --><!--#set var="prev"         value="gamma3.shtm"
-   --><!--#set var="prev_title"   value="BULL GAMMA 3"
-   --><!--#set var="next"         value="univac9200.shtm"
-   --><!--#set var="next_title"   value="UNIVAC 9200"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
+<?php
+	$seiten_id = 'gamma10';
+	$version = '$Id$';
+	$title = 'A second generation calculator: The BULL GAMMA 10';
+	
+	require "../../lib/technikum29.php";
+?>
     <h2>A second generation calculator: The BULL GAMMA&nbsp;10</h2>
 
     <div class="box center auto-bildbreite">
@@ -161,8 +149,3 @@
 		  </p>
         </div>
      </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

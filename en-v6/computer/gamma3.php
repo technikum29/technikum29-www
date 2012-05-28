@@ -1,23 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="A first generation tube calculator: BULL GAMMA 3"
-   --><!--#set var="location"     value="gamma3"
-   --><!--#set var="part"         value="computer"
-   --><!--#set var="url_de"       value="rechnertechnik/gamma3.shtm"
-   --><!--#set var="prev"         value="tabulating-machine.shtm"
-   --><!--#set var="prev_title"   value="BULL Tabulating machine"
-   --><!--#set var="next"         value="gamma10.shtm"
-   --><!--#set var="next_title"   value="BULL GAMMA 10"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'gamma3';
+	$version = '$Id$';
+	$title = 'A first generation tube calculator: BULL GAMMA 3';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>A first generation tube calculator: BULL GAMMA 3</h2>
 
     <div class="box left clear-after">
       <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"
@@ -92,8 +80,3 @@
         At the left side you see dozens of electrolytic capacitors.
       </p>
     </div>
-
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

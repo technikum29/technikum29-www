@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Sound recording and reproducing technology"
-   --><!--#set var="location"     value="tontechnik"
-   --><!--#set var="part"         value="communication"
-   --><!--#set var="url_de"       value="kommunikationstechnik/tontechnik.shtm"
-   --><!--#set var="prev"         value="broadcasting.shtm"
-   --><!--#set var="prev_title"   value="Broadcasting"
-   --><!--#set var="next"         value="television.shtm"
-   --><!--#set var="next_title"   value="Television"
- --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="Kosmograph Diktierger&auml;t, Loewe Ferrophon III, Loewe, Diktierger&auml;t" />
-    <meta name="keywords" lang="en" content="technikum, museum, communication, gramophone, Loewe, dictating machine" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'tontechnik';
+	$version = '$Id$';
+	$title = 'Sound recording and reproducing technology';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>Sound recording and reproducing technology</h2>
 
     <p>It was a long way with many strange and interesting variants until the today's CD.
 	   Trumpet gramophone, tape recorders in its history of development, (among others
@@ -134,7 +120,3 @@
 		is still very good.
 	</p>
 
-</div><!-- end of content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

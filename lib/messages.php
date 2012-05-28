@@ -82,5 +82,13 @@ class t29Messages {
 		'head-rel-prev'          => array('Zur vorherigen Seite (%s)', 'Previous Page (%s)'),
 		'head-rel-next'          => array('Zur folgenden Seite (%s)', 'Next Page (%s)'),
 		'head-rel-interlang'     => array('Englische Version dieser Seite (%s)', 'Deutsche Version dieser Seite (%s)'),
+		
+		// used in /shared/js/modules/heading_links.js
+		'js-heading-links'       => array("Direktlink zu diesem Abschnitt", "Link to this section"),
+		// used in /shared/js/modules/img_license.js
+		'js-img-license'         => array(
+										'&copy; technikum29. <a href="/de-v6/impressum.shtm#image-copyright">Lizenzbestimmungen</a>',
+										'&copy; technikum29. <a href="/en/contact.shtm#image-copyright">Licensing terms</a>',
+									),
 	);
 }

@@ -50,9 +50,9 @@ Mit dem angeschlossenen Markierungskartenleser (anstelle ausgestanzter Löcher w
 		
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
-        <div class="bildtext">
-            <p class="h-ul">Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
-            <ul class="h-ul">
+        <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
+            <p>Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
+            <ul>
               <li>Im Zentrum (Mitte) befindet sich der unter "Rechner der 2. Generation" beschriebene HP 9100.</li>
               <li>Darunter ist das Nachfolgermodell HP 9810 (gleiche Logik wie HP 9100 aber mit TTL-IC´s und den allerersten sehr kleinen 3 spaltigen LED-Anzeigen.</li>
               <li>Ganz unten das nächste Modell, der HP 9820 (Bj. 1971) mit alphanumerischer Anzeige auf 7x5 Punktmatrix-LED.</li>

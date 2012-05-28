@@ -20,7 +20,7 @@
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li class="has-submenu"><a href="/en-v6/development-projects.php">Projects</a>
+	<li class="has-submenu"><a href="/en-v6/development-projects.php#DUMME-VERLINKUNG">Projects</a>
 		<ul class="u2">
 <!--		<li class="has-submenu"><a seiten_id="lernprojekte" href="/en-v6/lernprojekte/">Lernprojekte</a>
 				<ul class="u3">
@@ -51,7 +51,7 @@
 	<li><a href="#">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/en-v6/computer/electro-mechanical.php">Mechanical calculators</a></li>
-			<li><a>Punch card computing</a>
+			<li><a href="/en-v6/computer/punchcard.php#DUMME-VERLINKUNG">Punch card computing</a>
 				<ul class="u3">
 					<li><a seiten_id="lochkarten" href="/en-v6/computer/punchcard.php">Punchers</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/en-v6/computer/tabulating-machine.php">Tabulating machine</a></li>
@@ -80,7 +80,7 @@
 					<li><a href="/en-v6/computer/early-computers.php#wang2200">WANG 2200</a></li>
 				</ul>
 			</li>
-			<li><a href="#">Electronical desk calculators</a>
+			<li><a href="/en-v6/computer/electron-tubes.php#DUMME-VERLINKUNG">Electronical desk calculators</a>
 				<ul class="u3">
 					<li><a seiten_id="elektronenroehren" href="/en-v6/computer/electron-tubes.php">with electron tubes</a></li>
 					<li><a seiten_id="transistoren" href="/en-v6/computer/transistors.php">with transistors</a></li>
@@ -100,7 +100,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="#">Communication Technology</a>
+	<li><a href="/en-v6/communication/broadcasting.php#DUMME-VERLINKUNG">Communication Technology</a>
 		<ul class="u2">
 			<li><a seiten_id="rundfunk" href="/en-v6/communication/broadcasting.php">Broadcasting</a></li>
 			<li><a seiten_id="tontechnik" href="/en-v6/communication/sound_technology.php">Sound recording and reproducing technology</a></li>
@@ -108,7 +108,7 @@
 			<li><a seiten_id="faxtechnik" href="/en-v6/communication/fax.pjp">Telegraphy and Fax engineering</a></li>
 		</ul>
 	</li>
-	<li><a href="#">Weitere Themen</a>
+	<li><a href="/en-v6/kommunikaionstechnik/measurement.php#DUMME-VERLINKUNG">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/en-v6/kommunikaionstechnik/measurement.php">Measurement and Experimental technology</a></li>
 			<li><a seiten_id="sonstiges" href="/en-v6/miscellaneous.php">Pianola</a></li>

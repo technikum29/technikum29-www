@@ -23,7 +23,7 @@
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li class="has-submenu"><a href="#">Projekte</a>
+	<li class="has-submenu"><a href="/de-v6/lernprojekte/#DUMME-VERLINKUNG">Projekte</a>
 		<ul class="u2">
 			<li class="has-submenu"><a seiten_id="lernprojekte" href="/de-v6/lernprojekte/">Lernprojekte</a>
 				<!-- Pfeil-Symbol: ↔ -->
@@ -52,10 +52,10 @@
 <nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/de-v6/">Start</a></li>
-	<li><a href="#">Computer History</a>
+	<li><a href="/de-v6/rechnertechnik/elektro-mechanik.php#DUMME-VERLINKUNG">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/de-v6/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a></li>
-			<li><a>Lochkarten-EDV</a>
+			<li><a href="/de-v6/rechnertechnik/lochkarten-edv.php#DUMME-VERLINKUNG">Lochkarten-EDV</a>
 				<ul class="u3">
 					<li><a seiten_id="lochkarten" href="/de-v6/rechnertechnik/lochkarten-edv.php">Lochkartenstanzer</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/de-v6/rechnertechnik/tabelliermaschine.php">Tabelliermaschine</a></li>
@@ -84,7 +84,7 @@
 					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
 				</ul>
 			</li>
-			<li><a href="#">Elektronische Tischrechner</a>
+			<li><a href="/de-v6/rechnertechnik/elektronenroehren.php#DUMME-VERLINKUNG">Elektronische Tischrechner</a>
 				<ul class="u3">
 					<li><a seiten_id="elektronenroehren" href="/de-v6/rechnertechnik/elektronenroehren.php">mit Röhren</a></li>
 					<li><a seiten_id="transistoren" href="/de-v6/rechnertechnik/transistoren.php">mit Transistoren</a></li>
@@ -104,7 +104,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="#">Kommunikations-technik</a>
+	<li><a href="/de-v6/kommunikationstechnik/rundfunk.php#DUMME-VERLINKUNG">Kommunikations-technik</a>
 		<ul class="u2">
 			<li><a seiten_id="rundfunk" href="/de-v6/kommunikationstechnik/rundfunk.php">Rundfunk</a></li>
 			<li><a seiten_id="tontechnik" href="/de-v6/kommunikationstechnik/tontechnik.php">Tontechnik</a></li>
@@ -112,7 +112,7 @@
 			<li><a seiten_id="faxtechnik" href="/de-v6/kommunikationstechnik/faxtechnik.pjp">Telegraphie und Faximile</a></li>
 		</ul>
 	</li>
-	<li><a href="#">Weitere Themen</a>
+	<li><a href="/de-v6/kommunikaionstechnik/messtechnik.php#DUMME-VERLINKUNG">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/de-v6/kommunikaionstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
 			<li><a seiten_id="sonstiges" href="/de-v6/sonstiges.php">Pianola</a></li>

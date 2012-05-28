@@ -47,7 +47,7 @@ class t29Menu {
 					function($a,$b){ return $a && $b;}, true)) {
 				$li = "<li>Fehler in Formatierung!";
 			} else {
-				$url = ($e['link']{0} == '#' ? '/'.$this->conf['lang'].'/'.self::news_file : '').$e['link'];
+				$url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
 				$li = "<li><a href='$url'><img src='$e[bild]' /> $e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
 			}
 			$news_ul_content .= "\t".$li."\n";

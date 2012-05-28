@@ -36,8 +36,8 @@ $test_programs = array(
 	"$lib/template.php",
 	"$lib/menu.php",
 	"$lib/messages.php",
-	"$lib$lang_path/navigation.xml",
-	"$lib$lang_path/news.php",
+	"$webroot$lang_path/navigation.xml",
+	"$webroot$lang_path/news.php",
 );
 
 $cache_file = $cache_dir . $file;

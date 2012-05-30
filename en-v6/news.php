@@ -7,17 +7,17 @@
 
 - titel: "UNIVAC Software discovery"
   text: "Foobar"
-  link: "#Februar_2012"
+  link: "#April_2012"
   bild: "/shared/img-v6/topnav-neues1.jpg"
   
 - titel: "Artists at the museum"
   text: "Leander Schwarzer punching cards"
-  link: "#August_2011"
+  link: "#March_2012"
   bild: "/shared/img-v6/topnav-neues2.jpg"
 
-- titel: "School projeccts"
+- titel: "School projects"
   text: "We support schools"
-  link: "#Juli_2011"
+  link: "#February_2012"
   bild: "/shared/img-v6/topnav-neues3.jpg"
 
 MENU;

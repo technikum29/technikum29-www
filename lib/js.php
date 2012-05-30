@@ -3,32 +3,21 @@ header("Content-Type: application/javascript");
 
 $lib = dirname(__FILE__);
 $webroot = realpath("$lib/../");  # file path to root of t29 web installation
-$cache_file = "$webroot/shared/cache/compressed.js";
+$cache_file = 'compressed.js';
 $module_dir = "$webroot/shared/js-v6/modules";
 $modules = glob("$module_dir/*.js");
 
 $debug = isset($_GET['debug']); // skip cache and just concat everything
-$purge_cache = isset($_GET['purge_cache']); // rebuild cache file (compressed)
 
-if(!$debug && !$purge_cache) {
-	// check cache and all input files
-	$filem_cache = @filemtime($cache_file);
-	$filem_moddir = @filemtime($module_dir); // if new modules were added
-	$filem_modules = array_reduce(array_map(function($x){return @filemtime($x);}, $modules), 'max');
-	$cache_valid = $filem_cache && $filem_modules < $filem_cache && $filem_moddir < $filem_cache;
-
-	if($cache_valid) {
-		header("Last-Modified: ".gmdate("D, d M Y H:i:s", $filem_cache)." GMT");
-		if(@strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $filem_cache)
-			// client already has page cached locally
-			header("HTTP/1.1 304 Not Modified");
-		else
-			readfile($cache_file);
-		exit;
-	}
+if(!$debug) {
+	require "$lib/cache.php";
+	$js_cache = new t29Cache();
+	$js_cache->test_files = $modules;
+	$js_cache->set_cache_file($webroot, $cache_file);
+	$js_cache->try_cache_and_exit();
+	$js_cache->start_cache('minify_javascript', true);
 }
 
-if(!$debug) ob_start();
 $filenames = array_map('basename', $modules); // filenames like foo.js
 ?>
 /*!
@@ -46,6 +35,8 @@ $filenames = array_map('basename', $modules); // filenames like foo.js
  * Date: <?php echo date('r'); ?>
  */
 <?php
+
+$header = ob_get_contents(); // for prepending it to minified code
 
 foreach($modules as $i => $mod) {
 	$modfile = $filenames[$i];
@@ -65,15 +56,11 @@ foreach($modules as $i => $mod) {
 	if($debug) echo "\n\n/*** t29-v6-RessourceLoader: End of $modfile ***/\n\n";
 }
 
-if($debug) exit; // just here without compressing etc.
 
-$code = ob_get_flush();
-
-// reduces code size about 1/2 - before: 23kB, after: 12kB
-require "$lib/JavaScriptMinifier.php";
-$code = JavaScriptMinifier::minify($code);
-
-// write out file.
-file_put_contents($cache_file, $code);
-
-print $code;
+function minify_javascript($code) {
+	global $lib, $header;
+	// reduces code size about 1/2 - before: 23kB, after: 12kB
+	require "$lib/JavaScriptMinifier.php";
+	$minified = JavaScriptMinifier::minify($code);
+	return $header . $minified;
+}

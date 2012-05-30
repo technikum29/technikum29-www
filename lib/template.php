@@ -56,35 +56,9 @@ class t29Template {
 	 *    purge_cache -  if true, forces creation of new cache file
 	 *                   (does not change behaviour of this file's code)
 	 **/
-	function create_cache() {
-		ob_start();
+	function create_cache($cache_object) {
+		$cache_object->start_cache(array($this, 'print_footer'));
 		$this->print_header();
-		register_shutdown_function(array($this, 'create_cache_shutdown'));
-	}
-	
-	function create_cache_shutdown() {
-		$this->print_footer();
-		$whole_page = ob_get_flush();
-		if($this->conf['skip_cache']) {
-			echo "<!-- debug mode, skipped cache and cache saving. -->";
-			return; // do not save anything
-		}
-		
-		if(!file_exists($this->conf['cache_file'])) {
-			if(!self::mkdir_recursive(dirname($this->conf['cache_file']))) {
-				print "<div class='error'>Could not create recursive caching directories</div>";
-			}
-		}
-		
-		if(@file_put_contents($this->conf['cache_file'], $whole_page))
-			print "<!-- Wrote output cache successfully -->\n";
-		else
-			print "<div class='error'>Could not write page output cache to ".$this->conf['cache_file']."</div>";
-	}
-
-	public static function mkdir_recursive($pathname) {
-		is_dir(dirname($pathname)) || self::mkdir_recursive(dirname($pathname));
-		return is_dir($pathname) || @mkdir($pathname);
 	}
 
 	function print_header() {
@@ -98,8 +72,11 @@ class t29Template {
   <title><?php echo isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $p('html-title'); ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="Sven">
-  <meta name="generator" content="t29v6 $Id$">
+  <meta name="generator" content="t29v6">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
+  <?php
+	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
+  ?>
   
   <?php
 	foreach(array_merge(array("first" => t29Menu::dom_new_link($this->conf['lang_path'], $_('head-rel-first'))),

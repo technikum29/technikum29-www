@@ -25,12 +25,11 @@ $lang = substr($file, 1, 2);
 if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists
 $lang_path = $languages[$lang][1]; # shorthand, relative to webroot. use "$webroot$lang_path" for local.
 
-# Calling parameters
-$skip_cache = isset($_GET['skip_cache']);
-$purge_cache = isset($_GET['purge_cache']);
+require "$lib/cache.php";
 
-# lightweight caching system
-$test_programs = array(
+$page_cache = new t29Cache(false, true); // debug, verbose
+$page_cache->set_cache_file($webroot, $file);
+$page_cache->test_files = array(
 	__FILE__,
 	$_SERVER['SCRIPT_FILENAME'],
 	"$lib/template.php",
@@ -40,28 +39,11 @@ $test_programs = array(
 	"$webroot$lang_path/news.php",
 );
 
-$cache_file = $cache_dir . $file;
-$last_cache = @filemtime($cache_dir.$file);
-$last_program = array_reduce(array_map(function($x){return @filemtime($x);}, $test_programs), 'max');
-$cache_valid = $last_cache && $last_program < $last_cache;
+$page_cache->try_cache_and_exit();
 
-if(!$cache_valid || $skip_cache || $purge_cache) {
-	// rebuild cache
-	require "$lib/template.php";
-	$tmpl = new t29Template($GLOBALS);
-	$tmpl->create_cache();
-} else {
-	// use cache
-	header("Last-Modified: ".gmdate("D, d M Y H:i:s", $last_cache)." GMT");
-	//header("Etag: $etag");
-
-	if(@strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $last_cache) {
-		// client already has page cached locally
-		header("HTTP/1.1 304 Not Modified");
-	} else {
-		readfile($cache_file);
-	}
-	exit;
-}
+// cache missed, rebuild cache
+require "$lib/template.php";
+$tmpl = new t29Template($GLOBALS);
+$tmpl->create_cache($page_cache);
 
 // end of technikum29.php

@@ -61,7 +61,7 @@
 					<li><a seiten_id="univac9400" href="/en-v6/computer/univac9400.php">UNIVAC 9400</a></li>
 				</ul>
 			</li>
-			<li><a seiten_id="commercial" href="/en-v6/computer/commercial.php">Commercial Computers</a>
+			<li><a seiten_id="kommerzielle" href="/en-v6/computer/commercial.php">Commercial Computers</a>
 				<ul class="u3">
 					<li><a href="/en-v6/computer/commercial.php#olivetti-p203">Olivetti P203</a></li>
 					<li><a href="/en-v6/computer/commercial.php#ncr446">NCR 446</a></li>

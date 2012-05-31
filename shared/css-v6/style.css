@@ -422,6 +422,20 @@ section.sidebar .button.collapse-menu {
 	padding: 5px 25px;
 }
 
+section.sidebar.bottom {
+	position: absolute;
+	bottom: 0; left: 0;
+}
+
+section.sidebar.bottom .button.get-menu {
+	position: static;
+	margin-bottom: -25px;
+}
+
+html.button-stick-bottom section.sidebar.top .button.get-menu {
+	display: none;
+}
+
 /* Footer */
 footer {
 	clear: both;

@@ -109,7 +109,7 @@
 			<li><a seiten_id="rundfunk" href="/de-v6/kommunikationstechnik/rundfunk.php">Rundfunk</a></li>
 			<li><a seiten_id="tontechnik" href="/de-v6/kommunikationstechnik/tontechnik.php">Tontechnik</a></li>
 			<li><a seiten_id="fernsehen" href="/de-v6/kommunikationstechnik/fernsehen.php">Fernsehen</a></li>
-			<li><a seiten_id="faxtechnik" href="/de-v6/kommunikationstechnik/faxtechnik.pjp">Telegraphie und Faximile</a></li>
+			<li><a seiten_id="faxtechnik" href="/de-v6/kommunikationstechnik/faxtechnik.php">Telegraphie und Faximile</a></li>
 		</ul>
 	</li>
 	<li><a href="/de-v6/kommunikaionstechnik/messtechnik.php#DUMME-VERLINKUNG">Weitere Themen</a>

@@ -30,8 +30,9 @@ class t29Cache {
 	public $debug = false;// debug calculation
 	public $verbose = false; // print html comments and errors
 
-	public $cache_file;
-	public $test_files = array();
+	// these must be set after constructing!
+	public $cache_file; // must be set!
+	public $test_files = array(); // must be set!
 
 	private $mtime_cache_file = null; // needed for cache header output
 	private $is_valid = null; // cache output value
@@ -60,6 +61,13 @@ class t29Cache {
 		return is_dir($pathname) || @mkdir($pathname);
 	}
 
+	/**
+	 * Calculates and compares the mtimes of the cache file and testing files.
+	 * Doesn't obey any debug/skip/purge rules, just gives out if the cache file
+	 * is valid or not.
+	 * The result is cached in $is_valid, so you can call this (heavy to calc)
+	 * method frequently.
+	 **/
 	function is_valid() {
 		// no double calculation
 		if($this->is_valid) return $this->is_valid;
@@ -88,6 +96,11 @@ class t29Cache {
 		return $this->is_valid;
 	}
 
+	/**
+	 * The "front end" to is_valid: Takes skipping and purging rules into
+	 * account to decide whether you shall use the cache or not.
+	 * @returns boolean value if cache is supposed to be valid or not.
+	 **/
 	function shall_use() {
 		$test = $this->is_valid() && !$this->skip && !$this->purge;
 		if($this->debug) {
@@ -96,6 +109,12 @@ class t29Cache {
 		return $test;
 	}
 	
+	/**
+	 * Prints out cache file with according HTTP headers and HTTP caching
+	 * (HTTP_IF_MODIFIED_SINCE). You must not print out anything after such a http
+	 * header! Therefore consider using the convenience method print_cache_and_exit()
+	 * instead of this one or exit on yourself.
+	 **/
 	function print_cache() {
 		// make sure we already have called is_valid
 		if($this->mtime_cache_file === null)
@@ -123,11 +142,29 @@ class t29Cache {
 		}
 	}
 	
+	/**
+	 * Convenience method which will exit the program after calling print_cache().
+	 **/
 	function print_cache_and_exit() {
 		$this->print_cache();
 		exit;
 	}
 
+	/**
+	 * Convenience method for calling the typical workflow: Test if the cache file
+	 * shall be used, and if yes, print it out and exit the program. If this method
+	 * returns, you can be sure that you have to create a (new) cache file. So your
+	 * typical code will look like:
+	 *
+	 *  $cache = new t29Cache();
+	 *  // initialization stuff $cache->... = ...
+	 *  $cache->try_cache_and_exit();
+	 *  // so we are still alive - go making content!
+	 *  $cache->start_cache(...);
+	 *  echo "be happy";
+	 *  $cache->write_cache(); // at least if you didn't use any registered shutdown function.
+	 *
+	 **/
 	function try_cache_and_exit() {
 		if($this->shall_use())
 			$this->print_cache_and_exit();
@@ -215,12 +252,13 @@ class t29Cache {
 			$this->print_error('Could not write page output cache to '.$this->cache_file);
 	}
 	
-	function print_info($string, $even_if_nonverbose=false) {
+	
+	private function print_info($string, $even_if_nonverbose=false) {
 		if($this->verbose || $even_if_nonverbose)
 			echo "<!-- t29Cache: $string -->\n";
 	}
 	
-	function print_error($string, $even_if_nonverbose=false) {
+	private function print_error($string, $even_if_nonverbose=false) {
 		if($this->verbose || $even_if_nonverbose)
 			echo "<div class='error t29cache'>t29Cache: $string</div>\n";
 	}

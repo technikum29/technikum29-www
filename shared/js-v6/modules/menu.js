@@ -124,12 +124,12 @@ t29.menu.scroll.setup = function() {
 				t29.menu.side.fadeIn();
 				break;
 			case t29.menu.scroll.States.FIX:
+			case t29.menu.scroll.States.STICK_BOTTOM:
 				// zu Static uebergehen, mit Animation.
 				t29.menu.side.fadeOut(function(){
 					t29.menu.scroll.set(t29.menu.scroll.States.STATIC); });
 				break;
 			case t29.menu.scroll.States.STICK_TOP:
-			case t29.menu.scroll.States.STICK_BOTTOM:
 			default:
 				// diese Faelle sollten nicht vorkommen.
 				log("Get-Menu Scroll-Button gedrückt obwohl unmöglich; state="+t29.menu.scroll.state);
@@ -140,12 +140,14 @@ t29.menu.scroll.setup = function() {
 	t29.menu.scroll.origin_top = t29.menu.side.offset().top;
 	t29.menu.scroll.max_bottom = $("footer").offset().top - t29.menu.side.height();
 	t29.menu.scroll.stick_bottom = $("footer").offset().top - t29.menu.side.height() - $("#background-color-container").offset().top;
+	t29.menu.scroll.button_max_bottom = $("footer").offset().top;
 	//t29.menu.scroll.max_bottom - $("#background-color-container").offset().top;
 
 	$(window).scroll(function(){
 		var y = $(this).scrollTop();
+
 		switch(t29.menu.scroll.state) {
-			case t29.menu.scroll.States.STATIC: return; // System inaktiv.
+			case t29.menu.scroll.States.STATIC: break; // System inaktiv.
 			case t29.menu.scroll.States.FIX: 
 				if(y < t29.menu.scroll.origin_top)
 					t29.menu.scroll.set(t29.menu.scroll.States.STICK_TOP);
@@ -170,6 +172,14 @@ t29.menu.scroll.setup = function() {
 					t29.menu.scroll.set(t29.menu.scroll.States.FIX);
 				}
 				break;
+		}
+
+		// Sichtbarkeit des Fixed-Buttons am unteren Seitenrand
+		// festlegen:
+		if(y + $(window).height() > t29.menu.scroll.button_max_bottom) {
+			$("html").addClass('button-stick-bottom');
+		} else if($("html").hasClass('button-stick-bottom')) {
+			$("html").removeClass('button-stick-bottom');
 		}
 	}); // end event window.scroll.
 }; // end t29.menu.scroll.setup.

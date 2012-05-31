@@ -133,12 +133,15 @@ class t29Template {
 	<!-- end content -->
 	</section>
 	<hr>
-	<section class="sidebar">
+	<section class="sidebar top">
 			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
 			<nav class="side">
 				<?php $this->menu->print_menu(t29Menu::sidebar_menu); ?>
 			</nav>
 			<!-- menu changing buttons are made with javascript -->
+	</section>
+	<section class="sidebar bottom">
+		<!-- inhalte die unten ueber dem header sind -->
 	</section>
 	</div><!-- div id="background-color-container" helper end -->
 	<hr>

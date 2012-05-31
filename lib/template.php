@@ -83,7 +83,7 @@ class t29Template {
 	  $this->page_relations) as $rel => $a) {
 		if($rel == 'start') continue; // not in standard
 		printf("\n  <link rel='%s' href='%s' title='%s' />",
-			$rel, $a['href'], sprintf($_('head-rel-'.$rel), $a)
+			$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a))
 		);
 	}
   ?>
@@ -181,7 +181,8 @@ class t29Template {
 			<?php
 				foreach($this->page_relations as $rel => $a) {
 					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
-						$rel, $a['href'], 'TITLE', $_('nav-rel-'.$rel), $a
+						$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
+						$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
 					);
 				}
 			?>
@@ -215,5 +216,12 @@ class t29Template {
 </html>
 <?php
 	} // function print_footer()
+	
+	// Hilfsfunktionen
+	private function relational_link_to_string($a) {
+		// wenn es bei einem relationalen Link einen Titel gibt, diesen ausgeben, ansonsten die
+		// Linkbeschreibung. Die Links sind XML-Elemente in der Navigation.
+		return isset($a['title']) ? $a['title'] : $a;
+	}
 	
 } // class t29Template

@@ -192,6 +192,13 @@ t29.menu.guide.setup = function() {
 	g = t29.menu.beam;
 	t29.menu.side.find(".u1").clone().appendTo(g);
 	$("ul",g).show(); // durch t29.menu.collapse.setup wurden die .u3er auf hide gesetzt. Revert!
+
+	// Texte ersetzen durch laengere verstaendlichere Beschreibungen im title
+	g.find("a[title]").each(function(){
+		$(this).text( $(this).attr('title') );
+	});
+
+	// Abkuerzungen und Wrappings
 	a = g.find("a"); li = g.find("li");
 	a.wrapInner("<span class='text'/>").append("<span class='bullet'/>");
 

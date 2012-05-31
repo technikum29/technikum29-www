@@ -57,22 +57,22 @@
 			<li><a seiten_id="elektro-mechanik" href="/de-v6/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a></li>
 			<li><a href="/de-v6/rechnertechnik/lochkarten-edv.php#DUMME-VERLINKUNG">Lochkarten-EDV</a>
 				<ul class="u3">
-					<li><a seiten_id="lochkarten" href="/de-v6/rechnertechnik/lochkarten-edv.php">Lochkartenstanzer</a></li>
-					<li><a seiten_id="tabelliermaschine" href="/de-v6/rechnertechnik/tabelliermaschine.php">Tabelliermaschine</a></li>
-					<li><a seiten_id="gamma3" href="/de-v6/rechnertechnik/gamma3.php">BULL Gamma 3</a></li>
-					<li><a seiten_id="gamma10" href="/de-v6/rechnertechnik/gamma10.php">BULL Gamma 10</a></li>
-					<li><a seiten_id="univac9200" href="/de-v6/rechnertechnik/univac9200.php">Univac 9200</a></li>
-					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php">Univac 9400</a></li>
+					<li><a seiten_id="lochkarten" href="/de-v6/rechnertechnik/lochkarten-edv.php" title="Lochkartengeräte">Lochkartenstanzer</a></li>
+					<li><a seiten_id="tabelliermaschine" href="/de-v6/rechnertechnik/tabelliermaschine.php" title="BULL Tabelliermaschine">Tabelliermaschine</a></li>
+					<li><a seiten_id="gamma3" href="/de-v6/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL GAMMA 3">BULL Gamma 3</a></li>
+					<li><a seiten_id="gamma10" href="/de-v6/rechnertechnik/gamma10.php" title="EDV-Anlage der 2. Generation: BULL GAMMA 10">BULL Gamma 10</a></li>
+					<li><a seiten_id="univac9200" href="/de-v6/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200</a></li>
+					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a></li>
 				</ul>
 			</li>
-			<li><a seiten_id="kommerzielle" href="/de-v6/rechnertechnik/kommerzielle.php">Kommerzielle Rechner</a>
+			<li><a seiten_id="kommerzielle" href="/de-v6/rechnertechnik/kommerzielle.php" title="Frühe kommerzielle Rechner">Kommerzielle Rechner</a>
 				<ul class="u3">
 					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#olivetti-p203">Olivetti P203</a></li>
 					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#ncr446">NCR 446</a></li>
 					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#nixdorf820">Nixdorf 820</a></li>
 				</ul>
 			</li>
-			<li><a seiten_id="fruehe-computer" href="/de-v6/rechnertechnik/fruehe-computer.php">Wissenschaftliche Rechner</a>
+			<li><a seiten_id="fruehe-computer" href="/de-v6/rechnertechnik/fruehe-computer.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
 				<ul class="u3">
 					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#lpg21">LPG 21</a></li>
 					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8">PDP 8</a></li>
@@ -84,12 +84,12 @@
 					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
 				</ul>
 			</li>
-			<li><a href="/de-v6/rechnertechnik/elektronenroehren.php#DUMME-VERLINKUNG">Elektronische Tischrechner</a>
+			<li><a href="/de-v6/rechnertechnik/elektronenroehren.php#DUMME-VERLINKUNG" title="Tischrechner mit Elektronenröhren">Elektronische Tischrechner</a>
 				<ul class="u3">
-					<li><a seiten_id="elektronenroehren" href="/de-v6/rechnertechnik/elektronenroehren.php">mit Röhren</a></li>
-					<li><a seiten_id="transistoren" href="/de-v6/rechnertechnik/transistoren.php">mit Transistoren</a></li>
-					<li><a seiten_id="programmierbare" href="/de-v6/rechnertechnik/programmierbare.php">programmierbare Rechner</a></li>
-					<li><a seiten_id="ic-technik" href="/de-v6/rechnertechnik/ic-technik.php">Rechner mit ICs</a></li>
+					<li><a seiten_id="elektronenroehren" href="/de-v6/rechnertechnik/elektronenroehren.php" title="Tischrechner mit Röhren">mit Röhren</a></li>
+					<li><a seiten_id="transistoren" href="/de-v6/rechnertechnik/transistoren.php" title="Rechner der 2. Generation mit Transistoren">mit Transistoren</a></li>
+					<li><a seiten_id="programmierbare" href="/de-v6/rechnertechnik/programmierbare.php" title="Programmierbare Rechner der 2. Generation">programmierbare Rechner</a></li>
+					<li><a seiten_id="ic-technik" href="/de-v6/rechnertechnik/ic-technik.php" title="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik">Rechner mit ICs</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="analogrechner" href="/de-v6/rechnertechnik/analogrechner.php">Analog u. Hybridrechner</a>

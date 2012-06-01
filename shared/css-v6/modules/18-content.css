@@ -1,3 +1,14 @@
+/**
+ * t29v6 Design content.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content = Inhaltsbereich
+ *              h2, h3, h4 Ueberschriften
+ *              Blockdesign, etc.
+ *
+ **/
+
 #content {
 	font-family: Verdana;
 	font-size: 15px;

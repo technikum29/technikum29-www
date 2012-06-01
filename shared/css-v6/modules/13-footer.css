@@ -1,3 +1,15 @@
+/**
+ * t29v6 Design footer.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   footer = Container fuer alles im unteren Bereich (nav.guide, nav.rel, div.right)
+ *   nav.guide = Beam-Navigation
+ *   nav.rel = Relationale Navigation
+ *   footer .right = Copyright-Bereich
+ *
+ **/
+
 /* Footer */
 footer {
 	clear: both;

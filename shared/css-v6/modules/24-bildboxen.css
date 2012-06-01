@@ -1,4 +1,14 @@
-
+/**
+ * t29v6 Design bildboxen.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content .box, #content .left, .right, .center, .auto-bildbreite,
+ *   .clear-after, .bordered, .desc-left, .desc-right =
+ *       Vielleicht der wichtigste Teil aller Styles: Das Bildboxen-
+ *       Konzept von v5.
+ *
+ **/
 
 /**********************************************************************\
 | CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |

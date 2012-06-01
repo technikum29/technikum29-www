@@ -1,3 +1,15 @@
+/**
+ * t29v6 Design sidebar.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   section.sidebar = Sidebar-Bereiche (.top, .botom)
+ *   nav.side = Inhaltsnavigation (Tour),
+ *              JavaScript-Menue (static, fixed, stick-*, ...),
+ *              Sidebar-Buttons
+ *
+ **/
+
 /* Rechtsnavi */
 section.sidebar {
 	width: 210px;

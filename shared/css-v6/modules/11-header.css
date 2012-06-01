@@ -1,3 +1,15 @@
+/**
+ * t29v6 Design header.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   header.banner = Hauptnavigation (beinhaltet nav.horizontal, nav.top)
+ *   h1 = Banner (Bild, ganz oben)
+ *   nav.horizontal = Horizontal-Hauptnavigation (mit Aufklapp)
+ *   nav.top = Metanavigation (Sprachwahl, Suche)
+ *
+ **/
+
 /* Header */
 header.banner {
 	position: absolute;

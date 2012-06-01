@@ -1,4 +1,20 @@
-
+/**
+ * t29v6 Design javascript.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #img-license-tag, h2 a.anchor = 
+ *        Elemente, die dynamisch per JavaScript eingebunden werden.
+ *
+ * Natuerlich gibt es noch vielen anderen dynamischen Inhalt. Z.B. das 
+ * v6-Menue (sidebar.css) oder das t29.tr-Translation System. Oder
+ * seitenspezifische Sachen, siehe unter pagestyles/.
+ *
+ * Diese Datei dient als Sammelplatz fuer dynamische Elemente, die auf
+ * der ganzen Seite Verwendung finden.
+ *
+ **/
+ 
 /**********************************************************************\
 | CENTRAL COMMON STYLES: Copyright boxes for pictures                  |
 +----------------------------------------------------------------------+

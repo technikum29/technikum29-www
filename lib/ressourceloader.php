@@ -1,6 +1,6 @@
 <?php
 /**
- * t29REssourceLoader classes.
+ * t29RessourceLoader classes.
  * This file behaves to loader.php like template.php behaves to technikum29.php.
  *
  * classes t29JavaScriptRessourceLoader and t29StyleSheetRessourceLoader are also defined in
@@ -103,7 +103,8 @@ class t29StyleSheetRessourceLoader extends t29RessourceLoader {
 	function compression_filter($code) {
 		global $lib;
 		require "$lib/CSSMin.php";
-		return "foo";
+		
+		# compression: 40kb to 16kb
 		$minified = CSSMin::minify($code);
 		return $this->conf['header'] . $minified;
 		

@@ -206,11 +206,13 @@ class t29Cache {
 			register_shutdown_function(function()
 			  use($register_shutdown_func, $shutdown_func_is_filter, $t) {
 				if($shutdown_func_is_filter) {
-					$content = ob_get_flush();
+					$content = ob_get_clean();
 					if($t->debug)
 						// can print output since OutputBuffering is finished
 						print 't29Cache: Applying user filter to output' . PHP_EOL;
-					$t->write_cache(call_user_func($register_shutdown_func, $content));
+					$content = call_user_func($register_shutdown_func, $content);
+					print $content;
+					$t->write_cache($content);
 				} else {
 					call_user_func($register_shutdown_func);
 					$t->write_cache();

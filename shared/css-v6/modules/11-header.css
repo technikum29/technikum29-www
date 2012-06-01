@@ -1,0 +1,180 @@
+/* Header */
+header.banner {
+	position: absolute;
+	top: 0; left: 0; /*z-index: 1;*//* aus wegen nav.horizontal klappmenue*/
+	height: 107px; width: 100%;
+	text-align: right;
+	
+	/*border-bottom: 1px solid #5d5c58;*/
+	background: url("../img-v6/line.header-footer.png") bottom left repeat-x;
+}
+
+h1 { display: inline; }
+h1 a {
+	position: absolute;
+	top: 10px; left: 10px; z-index: 2;
+	text-indent: -9999px;
+	width: 310px; height: 84px;
+	background: url("../img-v6/banner.png");
+}
+
+/* Horizontal Navigation (Hauptnavigation) */
+nav.horizontal {
+	position: absolute;
+	right: 0; bottom: 0;
+	/*margin: 1em;*/ margin-right: 2em;
+}
+
+nav.horizontal .u1 > li {
+	display: inline-block;
+	/*margin-left: 1em;*/
+	position: relative;
+}
+
+nav.horizontal .u1 > li > a {
+	padding: 7px;
+	margin-bottom: 3px;
+}
+
+nav.horizontal .u1 > li.has-submenu > a {
+	padding-bottom: 10px;
+	margin-bottom: 0;
+}
+
+nav.horizontal .u1 > li:hover > a {
+	background-color: white;
+}
+
+nav.horizontal a {
+	/*font: 15px "Futura Std Book";*/
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	/*color: #124b6b;*/
+}
+
+/* Aufklappnavigation der Horizontalen Navi */
+nav.horizontal .u2 { display: none; }
+nav.horizontal .u1 > li:hover .u2, nav.horizontal .u1 li.dev-force-open .u2 {
+	display: block;
+}
+
+
+nav.horizontal .u2 {
+	position: absolute;
+	z-index: 100; /* Ueber allem */
+	left: 0; /* top: 0; */
+	text-align: left;
+	width: 23em;
+	background-color: white;
+	border-bottom: 3px solid #888;
+}
+
+nav.horizontal .u2 a {
+	padding: .2em .9em;
+}
+
+nav.horizontal .u2 a:hover {
+	background-color: #efefef;
+}
+
+nav.horizontal .u2 > li.has-submenu {
+	display: block;
+	margin: 1em 0;
+}
+
+nav.horizontal .u3 > li > a {
+	padding-left: 1.9em;
+	font-weight: normal;
+}
+
+nav.horizontal ul.rich-text a {
+	padding-top: .9em; padding-bottom: .9em;
+}
+
+nav.horizontal ul.rich-text a:after {
+	content: ".";
+	display: block;
+	clear: left;
+	height: 0; line-height: 0;
+	visibility: hidden;
+}
+
+nav.horizontal ul.rich-text img {
+	float: left;
+	margin-right: 10px;
+}
+
+nav.horizontal ul.rich-text a:hover img {
+	box-shadow: 0px 0px 4px #1a5160;
+	/*outline: 1px solid #1a5160;*/
+}
+
+nav.horizontal ul.rich-text a em {
+	display: block;
+	color: black;
+	text-transform: none;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 13px; /* like body */
+}
+
+/* Farben */
+nav.horizontal a, nav.top li.active a, nav.side a {
+	color: #1a5160;
+	font-weight: bold;
+	opacity: .8;
+}
+
+/* Topnavigation (Nebenheadernavigation) */
+nav.top {
+	position: absolute;
+	right: 0; top: 0;
+	margin: 1em; margin-right: 2em;
+}
+
+nav.top, nav.top input, nav.top a {
+	/*font: 15px "Futura Std Medium";*/
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #757575;
+	font-weight: bold;
+}
+
+nav.top form, nav.top ul {
+	display: inline-block;
+	position: relative;
+}
+nav.top input.text, nav.top input.text.defaultvalue {
+	border: 1px solid transparent; background: transparent;
+	/*width: 4em; text-align: right;
+	padding-right: 22px;*/
+	border: 2px solid #d8d8d8;
+	width: 10em; padding-left: .3em;
+}
+nav.top input.text:focus, nav.top input.text.no-defaultvalue {
+/*	text-align: left; width: 8em;
+	border: 1px solid #bababa;*/
+	background-color: white;
+	text-transform: none;
+	color: #000;
+}
+nav.top input.button {
+	display: block;
+	text-indent: -999px; border: none;
+	background: url("../img-v6/lupe.png") no-repeat;
+	width: 13px; height: 13px;
+	position: absolute; right: 0px; top: 4px;
+	
+	display: none;
+}
+
+nav.top a {
+	display: inline-block;
+	margin-right: 1em;
+}
+nav.top li.active a {
+	/*color: #124b6b;*/
+	border-bottom: 2px solid #6F2A41;
+}
+

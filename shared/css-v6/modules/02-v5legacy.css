@@ -1,0 +1,3 @@
+/* Anpassungsstyles, die benoetigt werden damit der Text aussieht wie frueher */
+#content p { text-align: justify } /* !! */
+#content .center { text-align: center; }

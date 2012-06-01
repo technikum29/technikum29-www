@@ -1,0 +1,36 @@
+#content {
+	font-family: Verdana;
+	font-size: 15px;
+	line-height: 130%;
+	text-align: justify;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 160%;
+    line-height: 125%; /* wird sonst relativ zu falscher schriftgroesse vererbt */
+    margin: 0 0 0.7em 0;
+    padding: 0;
+}
+
+#content h2, #content h3, #content h4 {
+    /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
+       auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
+    font-weight: normal;
+    font-family: Trebuchet Ms,Verdana,Dejavu Sans,Helvetica,Arial,sans-serif;
+    font-size: 180%;
+    border-bottom: 3px double #aaa;
+}
+
+#content h3 {
+    /* Und das gleiche auch fuer Unter-Ueberschriften */
+    font-size: 140%;
+	margin: 2em 0 0.3em;
+}
+
+#content h4 {
+	font-weight: bold;
+	font-size: 100%;
+	border-bottom: 1px solid #aaa;
+	margin: 2.3em 0 1em;
+}

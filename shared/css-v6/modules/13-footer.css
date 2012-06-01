@@ -1,0 +1,151 @@
+/* Footer */
+footer {
+	clear: both;
+	height: 104px; width: 100%;
+	/* temp. um Navi-Kram zu uebermalen: */
+	position: relative; z-index: 20;
+	
+	/*border-top: 1px solid #5d5c58;*/
+	background: #f1f1f1 url("../img-v6/line.header-footer.png") top left repeat-x;
+}
+
+/* "Beam Navigation" nav.guide */
+nav.guide {
+	position: absolute;
+	z-index: 5; /* ueber nav.rel */
+	top: -5px; left: -5px;
+	width: 900px; margin: 0 25px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
+}
+nav.guide ul, nav.guide li { display: inline; }
+nav.guide a {
+	float: left;
+	position: relative;
+}
+
+nav.guide a:hover, nav.guide a:focus {
+	background-color: inherit; /* Overwrite nav a:hover bg white */
+}
+
+nav.guide .text {
+	display: block;
+	/*font: 12px "Futura Std Book";*/
+	font-size: 12px; font-weight: bold;
+	text-transform: uppercase;
+	color: #5d5c58;
+	position: absolute;
+	top: -19px; left: 0;
+	white-space: nowrap;
+}
+
+nav.guide a.higher-text .text {
+	/* Labeltexte, die die default dargestellten Texte (.visible)
+	   beim Hovern ueberpinseln und daher hoeher dargestellt werden */
+	top: -34px;
+}
+
+nav.guide .bullet {
+	width: 0; height: 0;
+	border: 2px solid #5d5c58;
+	padding: 4px;
+	margin: 1px;
+	display: inline-block;
+	border-radius: 6px;
+	position: relative;
+}
+
+nav.guide .visible > a > .bullet {
+	border-width: 6px;
+	padding: 0;
+}
+
+nav.guide .bullet, nav.guide .text { visibility: hidden; }
+nav.guide li.visible > a > .bullet, nav.guide .visible > a >  .text,
+nav.guide a:hover .bullet, nav.guide a:hover  .text,
+nav.guide a:focus .bullet, nav.guide a:focus .text { visibility:visible; }
+
+/*
+html.csstransitions nav.guide .bullet, html.csstransitions nav.guide .text {
+	visibility: visible; opacity: 0;
+	-webkit-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+html.csstransitions nav.guide li.visible > a > .bullet, html.csstransitions nav.guide .visible > a >  .text,
+html.csstransitions nav.guide a:hover .bullet, html.csstransitions nav.guide a:hover  .text,
+html.csstransitions nav.guide a:focus .bullet, html.csstransitions nav.guide a:focus .text {
+	opacity: 1;
+	-webkit-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: opacity .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+}
+*/
+
+nav.guide a:hover .bullet, nav.guide a:focus .bullet {
+
+}
+
+/*nav.guide .current > a > .text { color: #40a8e2; }*/
+
+/* Relationale Navigation */
+nav.rel {
+	height: 20px;
+	position: absolute;
+	top: 20px; left: 40px;
+	z-index: 0;
+}
+
+nav.rel a {
+	/*font: 12px "Futura Std Medium";*/
+	font-size: 12px;
+	color: #40a8e2;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+nav.rel strong { display: block; }
+
+nav.rel li  a {
+	/*float: left;
+	width: 45%; *//* per JS automatisch angepasst */
+	padding: 10px; margin-top: 3px; /* footer bg */
+}
+
+nav.rel .prev  a {
+	text-align: right;
+}
+nav.rel .next a {
+	text-align: left;
+}
+
+nav.rel a:hover {
+	background-color: #dfeaf0;
+}
+
+/* Footer Icon-Sammlung und so */
+footer .right {
+	position: absolute;
+	top: 2px;
+	right: 0;
+	width: 230px;
+	padding: 15px;
+	text-align: right;
+}
+
+footer .right img.logo {
+	float: right;
+	width:30px;
+	padding-left: 10px;
+	padding-right: 11px;
+}
+
+footer .right div.icons {
+	clear: left;
+	padding-top: 8px;
+}
+
+footer .right .icons a { opacity: .5; }
+footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }

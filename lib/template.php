@@ -209,7 +209,7 @@ class t29Template {
   <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"><\/script>')</script>
 
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
-  <script src="/lib/js.php"></script>
+  <script src="/lib/ressourceloader.php?type=js"></script>
 </div><!-- end of div id="footer-background-container" helper -->
 </body>
 </html>

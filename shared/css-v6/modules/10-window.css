@@ -1,0 +1,66 @@
+/* t29v6 Grey Style, 08.01.2012 */
+
+body {
+	background: #cbc5bd url("../img-v6/bg-v2.body.png") repeat-x;
+}
+
+.clear { clear: both; }
+
+
+
+body, input { /* font */
+	font-family: "Trebuchet MS";
+}
+
+::-moz-selection{background:#07a;color:#fff;text-shadow:none}
+::selection{background:#07a;color:#fff;text-shadow:none}
+
+
+nav.horizontal a, nav.side .u1 > li > a {
+	/*font-family: "Futura Std Book", "Trebuchet MS";*/
+	font-family: "Trebuchet MS";
+}
+
+#footer-background-container {
+	background: url("../img-v6/bg-v2.body-footer.png") bottom left repeat-x;
+	padding-bottom: 1px;
+}
+
+#container {
+	width: 1200px;
+	margin: 16px auto;
+	background-color: #f1f1f1;
+	position: relative;
+	padding-top: 104px;
+	overflow: hidden; /* #background-color-container */
+	box-shadow: 1px 1px 2px 1px rgba(0,0,0,.5);
+}
+
+/* Generelle Grundlagen */
+h1, h2 { margin: 0; padding: 0; }
+html.js .no-js, html.no-js .js, hr { display: none; }
+nav li { display: inline; }
+nav a { display: block; text-decoration: none; }
+nav a:focus { outline: none; }
+
+/* Content */
+#content {
+	padding: 30px 40px 60px;
+	width: 860px;
+	float: left;
+	color: black;
+}
+
+/* Hintergrund nach ganz unten durchschleifen */
+#background-color-container {
+	background-color: #dfeaf0;
+	float: left;
+	width: 100%;
+	position: relative;
+	left: 940px;
+}
+
+section.sidebar, #content {
+	position: relative;
+	left: -940px;
+}

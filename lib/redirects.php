@@ -2,8 +2,8 @@
 
 array(
 	# Inhaltsseiten
-	'/de/suche' => '/de/wir-suchen',
-	'/en/search' => '/en/wanted',
+	#'/de/suche' => '/de/wir-suchen', # ups, das geht natuerlich
+	#'/en/search' => '/en/wanted',    # so nicht. da es die neuen seiten ja jetzt gibt.
 
 	# Geraete/Extraseiten
 	'/de/geraete/anita' => '/de/rechnertechnik/elektronenroehren',

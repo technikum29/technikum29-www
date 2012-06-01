@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'suche';
+	$seiten_id = 'wir-suchen';
 	$version = '$Id$';
 	$titel = 'Was und wen das Museum noch sucht';
 	

@@ -163,11 +163,10 @@ class t29Template {
 					}
 				?>
 			</ul>
-			<form method="get" action="#"><?php printf('
-				<span class="no-js">%s:</span>
-				<input type="text" value="" data-defaultvalue="%s" name="q" class="text">
-				<input type="submit" value="%s" class="button">
-				', $_('topnav-search-label'), $_('topnav-search-label'), $_('topnav-search-label')); ?>
+			<form method="get" action="<?php $p('topnav-search-page'); ?>">
+				<span class="no-js"><?php $p('topnav-search-label'); ?>:</span>
+				<input type="text" value="" data-defaultvalue="<?php $p('topnav-search-label'); ?>" name="q" class="text">
+				<input type="submit" value="<? $p('topnav-search-label'); ?>" class="button">
 			</form>
 		</nav>
     </header>

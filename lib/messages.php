@@ -95,6 +95,7 @@ class t29Messages {
 
 		'topnav-interlang-title' => array('Read this page (%s) in English', 'Diese Seite (%s) auf Deutsch lesen'),
 		'topnav-search-label'    => array('Suchen', 'Search'),
+		'topnav-search-page'     => array('/de-v6/suche.php', '/en-v6/search.php'),
 
 		'js-menu-collapse-out'   => array('Menü ausklappen', 'Expand menu'),
 		'js-menu-collapse-in'    => array('Menü einklappen', 'Fold menu'),

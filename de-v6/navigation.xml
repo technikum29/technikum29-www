@@ -45,7 +45,7 @@
 		</ul>
 	</li>
 	<li><a seiten_id="lehrerinfo" href="/de-v6/lehrerinfo.php">Didaktik</a></li>
-	<li><a seiten_id="suche" href="/de-v6/suche.php">Gesucht</a></li>
+	<li><a seiten_id="wir-suchen" href="/de-v6/wir-suchen.php">Gesucht</a></li>
 	<li><a seiten_id="impressum" href="/de-v6/impressum.php">Kontakt</a></li>
 </ul>
 </nav><!-- class=horizontal -->

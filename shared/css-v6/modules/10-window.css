@@ -1,7 +1,7 @@
 /* t29v6 Grey Style, 08.01.2012 */
 
 body {
-	background: #cbc5bd url("../img-v6/bg-v2.body.png") repeat-x;
+	background: #cbc5bd url("/shared/img-v6/bg-v2.body.png") repeat-x;
 }
 
 .clear { clear: both; }
@@ -22,7 +22,7 @@ nav.horizontal a, nav.side .u1 > li > a {
 }
 
 #footer-background-container {
-	background: url("../img-v6/bg-v2.body-footer.png") bottom left repeat-x;
+	background: url("/shared/img-v6/bg-v2.body-footer.png") bottom left repeat-x;
 	padding-bottom: 1px;
 }
 

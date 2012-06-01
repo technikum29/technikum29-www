@@ -1,37 +1,97 @@
 <?php
 /**
  * t29RessourceLoader classes.
- * This file behaves to loader.php like template.php behaves to technikum29.php.
  *
- * classes t29JavaScriptRessourceLoader and t29StyleSheetRessourceLoader are also defined in
- * this class.
+ * The t29 ressource loading system features full caching, directory file input,
+ * OOP style file type specific functions, pre/post per file injection hooks
+ * (AOP style) and post output content filtering where compression tools for
+ * JavaScript and CSS are used.
  *
- * For minification the files JavaScriptMinifier.php and CSSMin.php are included on need.
+ * The architecture and compression technique is highly inspired by the
+ * RessourceLoader framework of MediaWiki 1.20.
+ *
+ * These classes make usage of class inheritance, heavy PHP output buffering, the
+ * t29v6 caching subsystem and the general t29v6 variable convencience.
+ *
+ * This file defines classes t29{,JavaScript,StyleSheet}RessourceLoader.
+ * Libs JavaScriptMinifier.php and CSSMin.php are included on per-method
+ * level for minification.
+ *
+ * 2012 Sven Koeppel
+ *
  **/
 
 class t29RessourceLoader {
+	/**
+	 * expects: cache_file, module_dir, glob_pattern, content_types, class, modules, debug
+	 **/
 	public $conf;
 	
+	/**
+	 * Construct with configuration array. See loader.php for contents of
+	 * that array. See above for minimum elements which must be present.
+	 **/
 	/// @param $conf configuration array.
 	function __construct($conf) {
 		$this->conf = $conf;
 		$this->conf['filenames'] = array_map('basename', $this->conf['modules']); // filenames like foo.js
 	}
 	
-	function print_debug($string) {
+	/**
+	 * Print out debug messages, only if debug switch is given.
+	 **/
+	protected function print_debug($string) {
 		if($this->conf['debug'])
 			echo $string;
 	}
-	
+
+	/**
+	 * Module hooking: By overwriting this method and looking at $mod_filename,
+	 * you can inject any output before that given file.
+	 *
+	 * Example:
+	 *  class YourRessourceLoader extends t29RessourceLoader {[
+	 *     function print_before_file($file, $i) {
+	 *         parent::print_before_file($file, $i);
+	 *         print "Make a boo boo loading the ${i}. file named ${file}!";
+	 *     }
+	 *  }
+	 * This will prepend that string before the output of the file.
+	 * 
+	 * Always call the parent function when overwriting so that output is printed,
+	 * too! (See example)
+	 *
+	 * @param $mod_filename Filename of module, like "foo.js".
+	 * @param $dir_index Iteration index while traversing the directory (see run()). Not so important.
+	 * @returns String that 
+	 **/
 	function print_before_file($mod_filename, $dir_index) {
 		$this->print_debug("\n\n/*** t29v6-RessourceLoader[$dir_index]: Start of $mod_filename ***/\n\n");
 	}
-	
+
+	/**
+	 * Same as print_before_file but will append your content to the file.
+	 * Obey calling parent::print_after_file at first so that corrections in
+	 * the super class can be done!
+	 *
+	 * The implementation in t29RessourceLoader prints some newlines to make sure
+	 * JavaScript oneliner comments at the end of a file won't comment out another
+	 * file's first line.
+	 *
+	 **/
 	function print_after_file($mod_filename, $dir_index) {
 		echo "\n\n"; // JS: for being sure no former "//" comment in last line wipes out code
 		$this->print_debug("\n\n/*** t29v6-RessourceLoader[$dir_index]: End of $mod_filename ***/\n\n");
 	}
-	
+
+	/**
+	 * A generic print_header function which will be called at first. Give out some
+	 * stuff you want to prepend to your overall output. This method provides you a
+	 * generic JS/CSS compilant message where you can give your own $title string
+	 * or use no title (it will use your class name instead). If called with $title != null,
+	 * the C++ style multi line comment won't be closed so you can append your own
+	 * stuff.
+	 **/
 	function print_header($title=null) {
 		if(!$title) $title = __CLASS__;
 		?>
@@ -49,6 +109,10 @@ class t29RessourceLoader {
 		if($title == __CLASS__) print " **/\n";
 	}
 	
+	/**
+	 * The main run() function will print out the header and concatenate all
+	 * modules contents. Expects OutputBuffering running!
+	 **/
 	function run() {
 		$this->print_header();
 		$this->conf['header'] = ob_get_contents(); // for prepending it to minified code
@@ -61,17 +125,25 @@ class t29RessourceLoader {
 		}
 	} // run
 
+	/**
+	 * Overwrite compression_filter for filtering the whole output made by this
+	 * class. It is used as a shutdown filter in t29Cache, see usage in loader.php.
+	 * @param $output The output string fetched by OutputBuffering
+	 * @returns The filtered String. The default implementation just returns $output.
+	 **/
 	function compression_filter($output) {
 		return $output;
 	}
 } // class t29RessourceLoader
+
 
 class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 	function print_after_file($mod_filename, $dir_index) {
 		global $lib;
 		parent::print_after_file($mod_filename, $dir_index);
 		if($mod_filename == "msg.js") {
-			// special treatment of this file
+			// append system messages to the special msg.js file
+			// to inject PHP code to JS userspace.
 			$this->print_debug("\n/*** Auto appended ***/\n");
 			require "$lib/messages.php";
 			echo "t29.msg.data=";
@@ -96,14 +168,13 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 
 class t29StyleSheetRessourceLoader extends t29RessourceLoader {
 	function print_header() {
-		parent::print_header('StyleSheet Code');
+		parent::print_header('StyleSheet');
 		echo " **/\n";
 	}
 
 	function compression_filter($code) {
 		global $lib;
 		require "$lib/CSSMin.php";
-		
 		# compression: 40kb to 16kb
 		$minified = CSSMin::minify($code);
 		return $this->conf['header'] . $minified;

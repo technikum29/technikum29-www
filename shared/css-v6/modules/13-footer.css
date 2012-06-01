@@ -6,7 +6,7 @@ footer {
 	position: relative; z-index: 20;
 	
 	/*border-top: 1px solid #5d5c58;*/
-	background: #f1f1f1 url("../img-v6/line.header-footer.png") top left repeat-x;
+	background: #f1f1f1 url("/shared/img-v6/line.header-footer.png") top left repeat-x;
 }
 
 /* "Beam Navigation" nav.guide */

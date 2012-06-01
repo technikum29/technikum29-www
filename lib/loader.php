@@ -1,8 +1,11 @@
 <?php
 /**
  * t29 ressource loading system.
+ *
  * Entry point for loading javascript and css style sheet files in a bundled and
- * compressed manner, including caching.
+ * compressed manner, including caching. This file only checks up the caches and
+ * contains the main configuration. See ressourceloader.php for all constructing
+ * code.
  *
  **/
 
@@ -35,12 +38,13 @@ extract($conf); // for saving long human reading times :D
 // alternative approach for direct extract in global namespace
 // (no more applicable because configuration is given as array to constructor):
 // foreach($conf as $var => $val) { $GLOBALS[$var] = $val[$typepos]; }
-header("Content-Type: $content_types");
 
 require "$lib/cache.php";
 $js_cache = new t29Cache();
 $js_cache->test_files = $modules;
 $js_cache->set_cache_file($webroot, $cache_file);
+
+header("Content-Type: $content_types");
 if(!$debug) $js_cache->try_cache_and_exit();
 
 # so we are still in the game

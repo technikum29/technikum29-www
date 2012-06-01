@@ -6,7 +6,7 @@ header.banner {
 	text-align: right;
 	
 	/*border-bottom: 1px solid #5d5c58;*/
-	background: url("../img-v6/line.header-footer.png") bottom left repeat-x;
+	background: url("/shared/img-v6/line.header-footer.png") bottom left repeat-x;
 }
 
 h1 { display: inline; }
@@ -15,7 +15,7 @@ h1 a {
 	top: 10px; left: 10px; z-index: 2;
 	text-indent: -9999px;
 	width: 310px; height: 84px;
-	background: url("../img-v6/banner.png");
+	background: url("/shared/img-v6/banner.png");
 }
 
 /* Horizontal Navigation (Hauptnavigation) */
@@ -162,7 +162,7 @@ nav.top input.text:focus, nav.top input.text.no-defaultvalue {
 nav.top input.button {
 	display: block;
 	text-indent: -999px; border: none;
-	background: url("../img-v6/lupe.png") no-repeat;
+	background: url("/shared/img-v6/lupe.png") no-repeat;
 	width: 13px; height: 13px;
 	position: absolute; right: 0px; top: 4px;
 	

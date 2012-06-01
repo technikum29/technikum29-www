@@ -101,9 +101,7 @@ class t29Template {
   ?>
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/shared/css-v6/boiler.css">
-  <link rel="stylesheet" href="/shared/css-v6/style.css">
-  <link rel="stylesheet" href="/shared/css/common.css">
+  <link rel="stylesheet" href="/lib/loader.php?type=css">
   <?php
 	if($this->conf['has_pagecss'])
 		printf('<link rel="stylesheet" href="%s">', $this->conf['pagecss']);
@@ -209,7 +207,7 @@ class t29Template {
   <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"><\/script>')</script>
 
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
-  <script src="/lib/ressourceloader.php?type=js"></script>
+  <script src="/lib/loader.php?type=js"></script>
 </div><!-- end of div id="footer-background-container" helper -->
 </body>
 </html>

@@ -9,6 +9,8 @@
  *  $titel = Seitentitel
  *  $header_cache_file, $footer_cache_file.
  **/
+
+require dirname(__FILE__) . "/ressourceloader.php";
  
 class t29Template {
 	public $conf, $menu, $msg;
@@ -28,7 +30,9 @@ class t29Template {
 		$this->msg = new t29Messages($this->conf['lang']);
 
 		// fill up configuration
-		$this->conf['legal_pagename'] = $this->conf['lang_path'] . $this->msg->_('footer-legal-file');
+		// Path names in messages
+		foreach(array('footer-legal-file', 'topnav-search-page') as $msg)
+			$this->conf[$msg] = $this->conf['lang_path'] . $this->msg->_($msg);
 
 		// setup body classes:
 		$this->body_classes[] = "lang-" . $this->conf['lang'];
@@ -60,6 +64,24 @@ class t29Template {
 		$cache_object->start_cache(array($this, 'print_footer'));
 		$this->print_header();
 	}
+	
+	/**
+	 * Write header and footer in separate cache files.
+	 **/
+	function create_separate_caches($header_cache, $footer_cache) {
+		$header_cache->start_cache();
+		$this->print_header();
+		$header_cache->write_cache(); // will also print out header immediately.
+		
+		$footer_cache->start_cache();
+		$this->print_footer();
+		$footer_content = $footer_cache->write_cache(null, true); // don't print footer immediately.
+		
+		// print footer on exit.
+		register_shutdown_function(function() use ($footer_content) {
+			print $footer_content;
+		});
+	}
 
 	function print_header() {
 		$p = $this->msg->get_shorthand_printer();
@@ -88,7 +110,8 @@ class t29Template {
 	}
   ?>
   
-  <link rel="copyright" href="<?php echo $this->conf['legal_pagename']; ?>" title="<?php $p('footer-legal-link'); ?>">
+  <link rel="copyright" href="<?php echo $this->conf['footer-legal-file']; ?>" title="<?php $p('footer-legal-link'); ?>">
+  <link rel="search" type="application/opensearchdescription+xml" href="<?php print $this->conf['topnav-search-page'] . '?action=opensearch-desc'; ?>" title="<?php $p('opensearch-desc'); ?>">
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {
@@ -101,10 +124,13 @@ class t29Template {
   ?>
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet" href="/lib/loader.php?type=css">
   <?php
+	$csslinktmpl = '  <link rel="stylesheet" href="%s">'.PHP_EOL;
+	foreach($this->get_ressourceloader_links('css') as $css)
+		printf($csslinktmpl, $css);
+  
 	if($this->conf['has_pagecss'])
-		printf('<link rel="stylesheet" href="%s">', $this->conf['pagecss']);
+		printf($csslinktmpl, $this->conf['pagecss']);
   ?>
 
   <script src="/shared/js-v6/libs/modernizr-2.0.6.min.js"></script>
@@ -161,7 +187,7 @@ class t29Template {
 					}
 				?>
 			</ul>
-			<form method="get" action="<?php $p('topnav-search-page'); ?>">
+			<form method="get" action="<?php print $this->conf['topnav-search-page']; ?>">
 				<span class="no-js"><?php $p('topnav-search-label'); ?>:</span>
 				<input type="text" value="" data-defaultvalue="<?php $p('topnav-search-label'); ?>" name="q" class="text">
 				<input type="submit" value="<? $p('topnav-search-label'); ?>" class="button">
@@ -188,9 +214,9 @@ class t29Template {
 		<div class="right">
 			<img src="/shared/img-v6/logo.footer.png" title="technikum29 Logo" alt="Logo" class="logo">
 			<?php $p('footer-copyright-tag'); ?>
-			<br/><?php printf('<a href="%s">%s</a>', $this->conf['legal_pagename'], $_('footer-legal-link')); ?>
+			<br/><?php printf('<a href="%s">%s</a>', $this->conf['footer-legal-file'], $_('footer-legal-link')); ?>
 			<div class="icons">
-				<a href="<?php echo $this->conf['legal_pagename']; ?>#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
+				<a href="<?php echo $this->conf['footer-legal-file']; ?>#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
 				<!--<a href="http://ufopixel.de" title="Designed by Ufopixel"><img src="http://svenk.homeip.net/dropbox/Ufopixel/Ufopixel-Design/logo_90x30/ufopixel_logo_90x30_version2.png"></a>-->
 			</div>
 			<!--CC<br>Viele Bilder können unter einer CreativeCommons-Lizenz
@@ -207,7 +233,10 @@ class t29Template {
   <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"><\/script>')</script>
 
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
-  <script src="/lib/loader.php?type=js"></script>
+  <?php
+	foreach($this->get_ressourceloader_links('js') as $js)
+		printf('  <script src="%s"></script>'.PHP_EOL, $js);
+  ?>
 </div><!-- end of div id="footer-background-container" helper -->
 </body>
 </html>
@@ -220,5 +249,10 @@ class t29Template {
 		// Linkbeschreibung. Die Links sind XML-Elemente in der Navigation.
 		return isset($a['title']) ? $a['title'] : $a;
 	}
-	
+
+	function get_ressourceloader_links($type) {
+		$rl = t29RessourceLoader::create_from_type($type, $this->conf);
+		return $rl->get_urls();
+	}
+
 } // class t29Template

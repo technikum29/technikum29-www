@@ -29,7 +29,7 @@ require "$lib/cache.php";
 
 $page_cache = new t29Cache(false, true); // debug, verbose
 $page_cache->set_cache_file($webroot, $file);
-$page_cache->test_files = array(
+$page_cache->test_files =  array(
 	__FILE__,
 	$_SERVER['SCRIPT_FILENAME'],
 	"$lib/template.php",
@@ -39,11 +39,41 @@ $page_cache->test_files = array(
 	"$webroot$lang_path/news.php",
 );
 
-$page_cache->try_cache_and_exit();
+// dynamical content:
+$static_page = !isset($dynamischer_inhalt);
 
-// cache missed, rebuild cache
-require "$lib/template.php";
-$tmpl = new t29Template($GLOBALS);
-$tmpl->create_cache($page_cache);
+if(!$static_page) {
+	// Pages with dynamical content: only cache header and footer, seperately.
+	// they depend on same test files, so there is only one is_valid check.
+	$header_cache = $page_cache;
+	$footer_cache = clone $page_cache;
+
+	$header_cache->set_cache_file($webroot, $file.'-header');
+	$footer_cache->set_cache_file($webroot, $file.'-footer');
+}
+
+if($page_cache->shall_use()) {
+	if($static_page)
+		$page_cache->print_cache_and_exit();
+	else {
+		$header_cache->print_cache(true);
+		register_shutdown_function(function() use ($footer_cache) {
+			$footer_cache->print_cache(true);
+		});
+		// now print your dynamical stuff in your page, the
+		// footer content will be automatically added afterwards.
+	}
+} else {
+	// cache missed, rebuild cache
+	require "$lib/template.php";
+	$tmpl = new t29Template($GLOBALS);
+	if($static_page)
+		// rebuild complete site cache
+		$tmpl->create_cache($page_cache);
+	else
+		// rebuild each header and footer cache
+		$tmpl->create_separate_caches($header_cache, $footer_cache);
+}
+
 
 // end of technikum29.php

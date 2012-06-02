@@ -8,12 +8,14 @@
  * code.
  *
  **/
+ 
+if(!defined('T29_GRAB_LOADER_DEFS')) {
+	$lib = dirname(__FILE__);
+	$webroot = realpath("$lib/../");  # file path to root of t29 web installation
 
-$lib = dirname(__FILE__);
-$webroot = realpath("$lib/../");  # file path to root of t29 web installation
-
-if(!isset($_GET['type'])) {
-	die("Read manual.");
+	if(!isset($_GET['type'])) {
+		die("Provide ?type=js or ?type=css.");
+	}
 }
 
 $types = array('js', 'css'); // mapping position (numeric key) => $conf array position
@@ -23,21 +25,28 @@ $conf = array(
 	'glob_pattern' => array('*.js', '*.css'),
 	'content_types' => array('application/javascript', 'text/css'),
 	'class' => array('t29JavaScriptRessourceLoader', 't29StyleSheetRessourceLoader'),
+	'modules' => function($conf){ return glob($conf['module_dir'] . '/' . $conf['glob_pattern']); },
 );
+$conf_for_type = function($type, $debug_flag=false) use ($conf, $types) {
+	$typepos = array_search($type, $types);
+	if($typepos === FALSE) return null;
+	array_walk($conf, function(&$val, $key) use($typepos) { if(is_array($val)) $val = $val[$typepos]; });
+	$conf['type'] = $type;
+	$conf['modules'] = call_user_func($conf['modules'], $conf);
+	$conf['debug'] = $debug_flag; // skip cache and just concat everything
+	return $conf;
+};
 
-$type = $_GET['type'];
-$typepos = array_search($type, $types);
-if($typepos === FALSE) {
-	die("Illegal type. Valid types are: ". implode($types));
+if(defined('T29_GRAB_LOADER_DEFS')) {
+	return; // just grab the vars in the local scope
 }
 
-array_walk($conf, function(&$val, $key) use($typepos) { $val = $val[$typepos]; });
-$conf['modules'] = glob($conf['module_dir'] . '/' . $conf['glob_pattern']);
-$conf['debug'] = isset($_GET['debug']); // skip cache and just concat everything
+$type = $_GET['type'];
+$conf = $conf_for_type($type, isset($_GET['debug']));
+if($conf == null)
+	die("Illegal type. Valid types are: ". implode($types));
 extract($conf); // for saving long human reading times :D
-// alternative approach for direct extract in global namespace
-// (no more applicable because configuration is given as array to constructor):
-// foreach($conf as $var => $val) { $GLOBALS[$var] = $val[$typepos]; }
+
 
 require "$lib/cache.php";
 $js_cache = new t29Cache();

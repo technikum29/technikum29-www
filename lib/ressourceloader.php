@@ -20,21 +20,56 @@
  * 2012 Sven Koeppel
  *
  **/
+ 
+/*
+// test it:
+$lib = dirname(__FILE__);
+$webroot = realpath("$lib/../");
+$js = t29RessourceLoader::create_from_type('css');
+$js->run();
+*/
 
 class t29RessourceLoader {
 	/**
-	 * expects: cache_file, module_dir, glob_pattern, content_types, class, modules, debug
+	 * expects: type, cache_file, module_dir, glob_pattern, content_types, class, modules, debug
 	 **/
 	public $conf;
+	
+	const default_include_url = '/lib/loader.php'; // rel to webroot
 	
 	/**
 	 * Construct with configuration array. See loader.php for contents of
 	 * that array. See above for minimum elements which must be present.
+	 * @param $conf Configuration array
 	 **/
-	/// @param $conf configuration array.
 	function __construct($conf) {
 		$this->conf = $conf;
 		$this->conf['filenames'] = array_map('basename', $this->conf['modules']); // filenames like foo.js
+	}
+	
+	private static $conf_for_type;
+	static function create_from_type($type, $baseconf=null) {
+		global $lib, $webroot;
+		if(!self::$conf_for_type) {
+			define('T29_GRAB_LOADER_DEFS', true);
+			include "$lib/loader.php";
+			self::$conf_for_type = $conf_for_type;
+		}
+
+		$conf = call_user_func(self::$conf_for_type, $type, isset($baseconf['debug']) && $baseconf['debug']);
+		if($conf === null) return null;
+		
+		return new $conf['class']($conf);
+	}
+	
+	function get_urls($debug=null) {
+		global $webroot;
+		if(($debug !== null && $debug) || !$this->conf['debug']) {
+			return array(self::default_include_url . '?type=' . $this->conf['type']);
+		} else {
+			$module_dir_rel2webroot = str_replace($webroot, '', $this->conf['module_dir']);
+			return array_map(function($i)use($module_dir_rel2webroot){ return $module_dir_rel2webroot.$i; }, $this->conf['filenames']);
+		}
 	}
 	
 	/**

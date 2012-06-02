@@ -2,7 +2,12 @@
 	$seiten_id = 'suche';
 	$version = '$Id$';
 	$titel = 'Suche';
-	
+	$dynamischer_inhalt = true;
+
+	require "../lib/search.php";
+	$search = new t29Search();
+	$search->page_handler();
+
 	require "../lib/technikum29.php";
 ?>
 	<h2>Suchen</h2>

@@ -114,8 +114,10 @@ class t29Cache {
 	 * (HTTP_IF_MODIFIED_SINCE). You must not print out anything after such a http
 	 * header! Therefore consider using the convenience method print_cache_and_exit()
 	 * instead of this one or exit on yourself.
+	 *
+	 * @param $ignore_http_caching Don't check the clients HTTP cache
 	 **/
-	function print_cache() {
+	function print_cache($ignore_http_caching=false) {
 		// make sure we already have called is_valid
 		if($this->mtime_cache_file === null)
 			$this->is_valid(); // calculate mtime
@@ -125,7 +127,7 @@ class t29Cache {
 			//header("Etag: $etag");
 		}
 
-		if(@strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $this->mtime_cache_file) {
+		if(!$ignore_http_caching && @strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $this->mtime_cache_file) {
 			// client already has page cached locally
 			if($this->debug) {
 				print 'Would send Client a NOT MODIFIED answer.' . PHP_EOL;
@@ -233,10 +235,13 @@ class t29Cache {
 	 * be used as the cache content. Otherwise, a running output buffering
 	 * will be assumed (as start_cache fires it) and content will be
 	 * extracted with ob_get_flush.
+	 * @param $content Content to be used as cache content or OB content
+	 * @param $clear_ob_cache Use ob_get_clean instead of flushing it. If given, 
+	 *                        will return $content instead of printing/keeping it.
 	 **/
-	function write_cache($content=null) {
+	function write_cache($content=null, $clear_ob_cache=false) {
 		if(!$content)
-			$content = ob_get_flush();
+			$content = ($clear_ob_cache ? ob_get_clean() : ob_get_flush());
 
 		if($this->skip) {
 			$this->print_info('skipped cache and cache saving.');
@@ -252,6 +257,9 @@ class t29Cache {
 			$this->print_info('Wrote output cache successfully');
 		else
 			$this->print_error('Could not write page output cache to '.$this->cache_file);
+
+		if($clear_ob_cache)
+			return $content;
 	}
 	
 	

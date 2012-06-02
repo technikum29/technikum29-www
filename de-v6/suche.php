@@ -9,6 +9,9 @@
 	$search->page_handler();
 
 	require "../lib/technikum29.php";
+	
+	// Todo: add interlang link from page. needs some kind of
+	//       callback
 ?>
 	<h2>Suchen</h2>
 	<p>Hilfe zur Suchfunktion

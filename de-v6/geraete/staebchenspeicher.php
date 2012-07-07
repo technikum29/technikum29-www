@@ -1,42 +1,21 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Detailerklärung der Stäbchenspeicher"
-   --><!--#set var="location"     value="magnetic-stick-memory"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/magnetic-stick-memory.shtm"
-   --><!--#set var="title_en"     value="The magnetic stick memory"
-   --><!--#set var="prev"         value="/de/rechnertechnik/speichermedien.shtm#backlink-staebchenspeicher"
-   --><!--#set var="prev_title"   value="Speichermedien: Stäbchenspeicher"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'magnetic-stick-memory';
+	$version = '$Id';
+	$titel = 'DetailerklÃ¤rung der StÃ¤bchenspeicher';
+	
+	require '../../lib/technikum29.php';
+?>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.7.1" />
-    <meta name="t29.this.date" content="17.08.2007" />
-    <meta name="t29.this.comment" content="Backlink korrigiert (interner Anker)" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<h2><?php print $titel; ?></h2>
 
 <div class="center">
-   <img src="/shared/photos/rechnertechnik/speichermedien/staebchenspeicher.jpg" alt="Stäbchenspeicher" width="600" height="404" />
+   <img src="/shared/photos/rechnertechnik/speichermedien/staebchenspeicher.jpg" alt="StÃ¤bchenspeicher" width="600" height="404" />
    <div class="bildtext-bildbreite" style="width: 600px;"></div>
-     <p>Der Festwertspeicher (ROM=Read-only-Memory) besteht aus 8 x 18 = 144 Ferritkernen (Stäbchen) mit je einer Sekundärwicklung (200 Windungen), die fest mit dem Rahmen verbunden sind.
-Als Primärwicklung dienen die bis zu 256 Fädeldrähte pro Einschub (2 Einschübe sind möglich). Der Fädeldraht benötigt nur knapp eine Windung um eine Eins zu erzeugen, siehe Bild. Der Einschub, hier neben den Stäbchen abgebildet, wird so positioniert, dass die Fädelungen den Stab umschlingen. Diese Klein-Transformatoren sind  matrixförmig zu 8 Zeilen x 18 Spalten angeordnet. Damit können 8 x 256 x 2 = 4096 Wörter (je 18 Bit) generiert werden.<br/>
-In der Abbildung (aus dem NIXDORF Manual) ist einer von 256 Fädeldrähten gezeichnet. Werden nun nacheinander 8 Taktimpulse durch diesen Draht gejagt, so können die 8 mal 18-Bit Wörter seriell ausgelesen werden. 18 Leseverstärker bewirken, dass jedes Wort parallel zur Verfügung steht. Durch Induktion werden in den Sekundärwicklungen Einsen erzeugt, wenn eine Umschlingung vorhanden ist (daher heißt ein solcher Speicher u.a. auch "Indunktionsspeicher").<br/>
-Die unteren beiden Wörter hätten dann den Wert   111000000000001001 bzw. 000111100000011100.<br/>
-Es war sehr zeitaufwändig, bis zu 256 Drähte um je bis zu 144 Stäbchen zu führen. Aber Halbleiter-ROM´s gab es 1967 noch nicht. Dafür konnte man ein solches ROM jederzeit reparieren bzw. "umstricken": Den alten Draht abklemmen (er muss nicht entfernt werden) und dafür einen neuen Draht legen. Jedes Bit so groß wie eine Erbse, ein solches ROM hat einen historischen Lerneffekt.
+     <p>Der Festwertspeicher (ROM=Read-only-Memory) besteht aus 8 x 18 = 144 Ferritkernen (StÃ¤bchen) mit je einer SekundÃ¤rwicklung (200 Windungen), die fest mit dem Rahmen verbunden sind.
+Als PrimÃ¤rwicklung dienen die bis zu 256 FÃ¤deldrÃ¤hte pro Einschub (2 EinschÃ¼be sind mÃ¶glich). Der FÃ¤deldraht benÃ¶tigt nur knapp eine Windung um eine Eins zu erzeugen, siehe Bild. Der Einschub, hier neben den StÃ¤bchen abgebildet, wird so positioniert, dass die FÃ¤delungen den Stab umschlingen. Diese Klein-Transformatoren sind  matrixfÃ¶rmig zu 8 Zeilen x 18 Spalten angeordnet. Damit kÃ¶nnen 8 x 256 x 2 = 4096 WÃ¶rter (je 18 Bit) generiert werden.<br/>
+In der Abbildung (aus dem NIXDORF Manual) ist einer von 256 FÃ¤deldrÃ¤hten gezeichnet. Werden nun nacheinander 8 Taktimpulse durch diesen Draht gejagt, so kÃ¶nnen die 8 mal 18-Bit WÃ¶rter seriell ausgelesen werden. 18 LeseverstÃ¤rker bewirken, dass jedes Wort parallel zur VerfÃ¼gung steht. Durch Induktion werden in den SekundÃ¤rwicklungen Einsen erzeugt, wenn eine Umschlingung vorhanden ist (daher heiÃŸt ein solcher Speicher u.a. auch "Indunktionsspeicher").<br/>
+Die unteren beiden WÃ¶rter hÃ¤tten dann den Wert   111000000000001001 bzw. 000111100000011100.<br/>
+Es war sehr zeitaufwÃ¤ndig, bis zu 256 DrÃ¤hte um je bis zu 144 StÃ¤bchen zu fÃ¼hren. Aber Halbleiter-ROMÂ´s gab es 1967 noch nicht. DafÃ¼r konnte man ein solches ROM jederzeit reparieren bzw. "umstricken": Den alten Draht abklemmen (er muss nicht entfernt werden) und dafÃ¼r einen neuen Draht legen. Jedes Bit so groÃŸ wie eine Erbse, ein solches ROM hat einen historischen Lerneffekt.
 </p>
 
 </div>
-
-</div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

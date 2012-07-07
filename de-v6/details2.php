@@ -1,27 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand"
-   --><!--#set var="location"     value="details1"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="details2.shtm"
-   --><!--#set var="title_en"     value="Mid range data processing equipment and proffessional early computers"
-   --><!--#set var="prev"         value="/de/rechnertechnik/fruehe-computer.shtm"
-   --><!--#set var="prev_title"   value="Frühe Computer und EDV-Technik"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.this.version" content="v5.7" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'details2';
+	$version = '$Id$';
+	$titel = 'Mittlere Datentechnik und professionelle FrÃ¼h-Computer aus dem Museumsbestand';
+	
+	require "../lib/technikum29.php";
+?>
+<h2><?php print $titel; ?></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
   <colgroup>
@@ -31,7 +15,7 @@
     <col class="bemerkungen" />
   </colgroup>
 <!-- <tr>
-    <th colspan="4">Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand</th>
+    <th colspan="4">Mittlere Datentechnik und professionelle FrÃ¼h-Computer aus dem Museumsbestand</th>
   </tr> -->
   <tr>
     <th width="20%">Hersteller, Typ</th>
@@ -42,33 +26,33 @@
    <tr>
     <td class="b">LGP-21</td>
     <td>1964</td>
-    <td>Flexowriter, Lochstreifenleser, Magnetbandlaufwerk, zusätzliche Festplatten</td>
-    <td>In Deutschland gebauter, sehr früher wissenschaftlicher Rechner mit Germaniumtransistoren</td>
+    <td>Flexowriter, Lochstreifenleser, Magnetbandlaufwerk, zusÃ¤tzliche Festplatten</td>
+    <td>In Deutschland gebauter, sehr frÃ¼her wissenschaftlicher Rechner mit Germaniumtransistoren</td>
   </tr>
   <tr>
     <td class="b">DEC Classic 8</td>
     <td>1965</td>
-    <td>Großes Bandlaufwerk "580", Festplatte DF 32, 12 KB Zusatzspeicher**, Teletype</td>
-    <td>Erster in Serie gebauter "Mini"computer der Welt mit sehr niedriger Seriennummer. Die 	Classic 8 und die Peripheriegeräte enthalten keine ICs. Es handelt sich daher um einen 	Computer der 2. Generation</td>
+    <td>GroÃŸes Bandlaufwerk "580", Festplatte DF 32, 12 KB Zusatzspeicher**, Teletype</td>
+    <td>Erster in Serie gebauter "Mini"computer der Welt mit sehr niedriger Seriennummer. Die 	Classic 8 und die PeripheriegerÃ¤te enthalten keine ICs. Es handelt sich daher um einen 	Computer der 2. Generation</td>
   </tr>
   <tr>
     <td class="b">DEC PDP 8 I</td>
     <td>1967-69</td>
     <td>Teletype, zwei DECTAPEs inkl. Kontroller (Transistortechnik), Lochstreifenleser, 		Analog-Digital-Wandler, Plotter u. vieles mehr</td>
-    <td>Nach der "Classic-8" ist die 8I der erste Rechner von DEC mit integrierten Schaltkreisen. 	8 KB Kernspeicher. Früher "Mini"-Computer in der Größe eines kleinen Schrankes (ca. 		300kg). Typischer Industrie-Urcomputer der vielseitig anwendbar ist. 		Kernspeichertechnik.<br/>Das Gesamtsystem ist voll funktionsfähig angeschlossen</td>
+    <td>Nach der "Classic-8" ist die 8I der erste Rechner von DEC mit integrierten Schaltkreisen. 	8 KB Kernspeicher. FrÃ¼her "Mini"-Computer in der GrÃ¶ÃŸe eines kleinen Schrankes (ca. 		300kg). Typischer Industrie-Urcomputer der vielseitig anwendbar ist. 		Kernspeichertechnik.<br/>Das Gesamtsystem ist voll funktionsfÃ¤hig angeschlossen</td>
   </tr>
   <tr>
     <td class="b">DEC PDP 8L</td>
     <td>1968-70</td>
     <td>Teletype-Drucker, zwei Speichererweiterungen (jetzt 12K).</td>
-    <td>"L" stand wohl für "Low Cost", ein abgespeckter PDP 8I. </td>
+    <td>"L" stand wohl fÃ¼r "Low Cost", ein abgespeckter PDP 8I. </td>
   </tr>
   <tr>
   <td class="b">DEC PDP 12</td>
   <td>1969-73</td>
-  <td>Teletype....siehe<a href="/de/rechnertechnik/fruehe-computer.shtm#pdp12"> <i>PDP-12 Rechner</i></a></td>
+  <td>Teletype....siehe<a href="/de/rechnertechnik/fruehe-computer.php#pdp12"> <i>PDP-12 Rechner</i></a></td>
   <td>Wissenschaftlicher Laborrechner der im LINC-8 und PDP-8 Modus arbeiten kann.<br>
-  Hoch ausgebauter Rechner mit über 450 Einzelmodulen.</td>
+  Hoch ausgebauter Rechner mit Ã¼ber 450 Einzelmodulen.</td>
   </tr>
   
   <tr>
@@ -87,7 +71,7 @@
     <td class="b">WANG 2200 A/B</td>
     <td>1973</td>
     <td>8-Zoll-3fach Diskettenlaufwerk, 36-cm Fest-Wechselplattenlaufwerk, Lochstreifenleser, Stapelkartenleser, Spezial-BASIC-Tastatur, Mehrere Drucker, Teletype</td>
-    <td>Vermutl. das erste Gerät, welches mit heutigen Computern ähnlichkeit hat. Reiner BASIC-Rechner, CPU ohne Mikroprozessor. Zentraleinheit, Netzteil, Tastatur und Sichtgerät ist jeweils getrennt. Eingeb. Bandlaufwerk: 1,7KB pro m. Arbeitsspeicher: 8KB. Plattenlaufwerk: 5 MB.<br/>Dieser sehr frühe Computer dürfte in der vorhandenen Ausbaustufe einmalig in Deutschland sein. Damaliger Gesamtwert: Weit über 100.000,- DM</td>
+    <td>Vermutl. das erste GerÃ¤t, welches mit heutigen Computern Ã¤hnlichkeit hat. Reiner BASIC-Rechner, CPU ohne Mikroprozessor. Zentraleinheit, Netzteil, Tastatur und SichtgerÃ¤t ist jeweils getrennt. Eingeb. Bandlaufwerk: 1,7KB pro m. Arbeitsspeicher: 8KB. Plattenlaufwerk: 5 MB.<br/>Dieser sehr frÃ¼he Computer dÃ¼rfte in der vorhandenen Ausbaustufe einmalig in Deutschland sein. Damaliger Gesamtwert: Weit Ã¼ber 100.000,- DM</td>
   </tr>
   
   <tr>
@@ -106,20 +90,15 @@
     <td class="b">WANG 2200 VP**</td>
     <td>1977</td>
     <td>Peripherie kompatibel zu 2200 A/B</td>
-    <td>VP: Very Powerful. Sehr leistungsfähiges Gerät mit erweitertem Basic-2 von Wang</td>
+    <td>VP: Very Powerful. Sehr leistungsfÃ¤higes GerÃ¤t mit erweitertem Basic-2 von Wang</td>
   </tr>
   <tr>
     <td class="b">WANG 2200 MVP**</td>
     <td>1979</td>
     <td>Typenraddrucker, Weitere Peripherie ist mit 2200 A/B kompatibel</td>
-    <td>Rechner für bis zu 4 Arbeitsplätze. 32K (64K) Arbeitsspeicher. 80 MB Festplattensystem kostete alleine 80.000,- DM (also pro MB 1000,-DM) und mußte in klimatisiertem Raum laufen.</td>
+    <td>Rechner fÃ¼r bis zu 4 ArbeitsplÃ¤tze. 32K (64K) Arbeitsspeicher. 80 MB Festplattensystem kostete alleine 80.000,- DM (also pro MB 1000,-DM) und muÃŸte in klimatisiertem Raum laufen.</td>
   </tr>
   <tr>
-    <td colspan="4"><i>**) Diese Geräte befinden sich aus Platzgründen zur Zeit im Archiv.</i></td>
+    <td colspan="4"><i>**) Diese GerÃ¤te befinden sich aus PlatzgrÃ¼nden zur Zeit im Archiv.</i></td>
   </tr>
 </table>
-
-</div><!-- content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

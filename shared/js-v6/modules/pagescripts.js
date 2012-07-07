@@ -52,6 +52,12 @@ t29.page.impressum = function() {
 	$('head').append('<script type="text/javascript" src="/shared/js-v6/gmaps-impressum.js"></script>');
 }
 
+t29.page.telefunkent40w = function() {
+	$('head').append('<script type="text/javascript" src="/shared/js/slider/slider.js"></script>');
+	$('head').append('<link rel="stylesheet" type="text/css" href="/shared/js/slider/slider.css" />');
+	$('head').append('<script type="text/javascript" src="/shared/js-v6/telefunken-t40w.js"></script>');
+}
+
 t29.common = function(){
 	pagename = t29.conf.seiten_id;
 	if(t29.page[pagename])

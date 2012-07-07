@@ -1,37 +1,19 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Details der Combitronic und Algotronic"
-   --><!--#set var="location"     value="diehl"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/diehl-combitronic.shtm"
-   --><!--#set var="title_en"     value="Details of Diehl Combitronic and Algotronic"
-   --><!--#set var="prev"         value="/de/rechnertechnik/ic-technik.shtm#Diehl_Combitronic"
-   --><!--#set var="prev_title"   value="Erste Rechner der 2. Generation mit einfacher IC-Technik"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'diehl';
+	$version = '$Id';
+	$titel = 'Details der Combitronic und Algotronic';
+	
+	require '../../lib/technikum29.php';
+?>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<h2><?php print $title; ?></h2>
 
 <div class="box center">
 	<div style="white-space:nowrap">
         <img src="/shared/photos/rechnertechnik/combitronic-lochstreifen.jpg" width="330" height="247" alt="Bootlochstreifen" />
         <img src="/shared/photos/rechnertechnik/combitronic-logik.jpg" width="322" height="247" alt="Combitronic Logikplatinen" style="margin-left:14px" />
 	</div>
-    <p>Hier ein paar Details der Combitronic. Rechts ist der Bootlochstreifen (dünnes Stahlband) zu sehen. Er wird vom Motor des Druckers angetrieben. Links oben die Platine zur Druckeransteuerung, Mitte die Logik-Platine mit keramischen LSI-ICs (Combitronic) und unten die Speicherplatine der Algotronic. </p>
+    <p>Hier ein paar Details der Combitronic. Rechts ist der Bootlochstreifen (dÃ¼nnes Stahlband) zu sehen. Er wird vom Motor des Druckers angetrieben. Links oben die Platine zur Druckeransteuerung, Mitte die Logik-Platine mit keramischen LSI-ICs (Combitronic) und unten die Speicherplatine der Algotronic. </p>
 	
-	<p>Historisch interessant ist, wie DIEHL das Prinzip der kleinen Schritte weiter verfolgte: Im Nachfolgemodell z.B. <b>DIEHL Algotronic</b> (ca. 1973/74) wurde der Laufzeitspeicher durch zwei mal 21 Stück Schieberegister mit je 512 Bit Kapazität ersetzt. Das ergab insgesamt ca. 20 KBit Speicherkapazität und erlaubte, den immer noch verwendeten Metall-Bootlochstreifen erheblich zu erweitern. Dieser Lochstreifen hatte nun 3 Spuren (davon eine Taktspur), wobei die eine Spur beim Abspulen und die andere beim sofort danach einsetzenden Rückspulen in die Schieberegister eingelesen wurde. Dieses "Boottape" enthielt auch Mikroprogramme für wissenschaftliche Funktionen (sin, cos, tan, ln, exp u.a.). Sollte der Rechner für statistische Funktionen ausgelegt werden, brauchte er nur einen anderen Bootlochstreifen und ein paar andere Tasten. Der Algotronic Rechner sieht wie die Combitronic aus, hat jedoch 12 Tasten mehr. Insgesamt war die Architektur des Tischrechners für die damalige Zeit längst überholt.<br/> Danach hat Diehl die Rechnerentwicklung mit den Typen "Alphatronic, DS 300, DS 400" vollkommen erneuert. Diese sind jedoch aus historischer Sicht für das technikum29 weniger interessant.  </p>
+	<p>Historisch interessant ist, wie DIEHL das Prinzip der kleinen Schritte weiter verfolgte: Im Nachfolgemodell z.B. <b>DIEHL Algotronic</b> (ca. 1973/74) wurde der Laufzeitspeicher durch zwei mal 21 StÃ¼ck Schieberegister mit je 512 Bit KapazitÃ¤t ersetzt. Das ergab insgesamt ca. 20 KBit SpeicherkapazitÃ¤t und erlaubte, den immer noch verwendeten Metall-Bootlochstreifen erheblich zu erweitern. Dieser Lochstreifen hatte nun 3 Spuren (davon eine Taktspur), wobei die eine Spur beim Abspulen und die andere beim sofort danach einsetzenden RÃ¼ckspulen in die Schieberegister eingelesen wurde. Dieses "Boottape" enthielt auch Mikroprogramme fÃ¼r wissenschaftliche Funktionen (sin, cos, tan, ln, exp u.a.). Sollte der Rechner fÃ¼r statistische Funktionen ausgelegt werden, brauchte er nur einen anderen Bootlochstreifen und ein paar andere Tasten. Der Algotronic Rechner sieht wie die Combitronic aus, hat jedoch 12 Tasten mehr. Insgesamt war die Architektur des Tischrechners fÃ¼r die damalige Zeit lÃ¤ngst Ã¼berholt.<br/> Danach hat Diehl die Rechnerentwicklung mit den Typen "Alphatronic, DS 300, DS 400" vollkommen erneuert. Diese sind jedoch aus historischer Sicht fÃ¼r das technikum29 weniger interessant.  </p>
 </div>
-
-</div><!--content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

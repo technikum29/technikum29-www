@@ -8,7 +8,7 @@
 </head>
 <body>
 <!--#set var="lang" value="de" -->
-<!--#include virtual="/src/inc/header.shtm" -->
+<!--#include virtual="/src/inc/header.php" -->
 
 <div id="page">
 <h2>Detailseiten zu Geräten</h2>
@@ -16,4 +16,4 @@
 <p>Im Folgenden eine Auflistung aller Detailseiten zu Geräten. Weitere Inhalte erreichen Sie über die
 <a href="/">Startseite des technikum29-Computermuseums</a>.</p>
 
-<!--#include virtual="/src/templates/autoindex.shtm" -->
+<!--#include virtual="/src/templates/autoindex.php" -->

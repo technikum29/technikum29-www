@@ -12,7 +12,7 @@ etc., die zum Teil nur gegen Passworteingabe zugänglich sind. <!--Für jedes ei
 "Projekt" gibt es dabei nur ein Passwort, welches nur für einen begrenzten
 Zeitraum gültig ist.-->
 
-Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das Projektmanagament</a>.</p>
+Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.php">das Projektmanagament</a>.</p>
 Ein Beispiel:
 <h3 id="aes"> Das technikum29-Team unterstützt Projekte an der Schule</h3>
 

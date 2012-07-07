@@ -62,9 +62,28 @@ nav.side .u3 > li > a {
 	text-transform: uppercase;
 }
 
-nav.side .u3 > li.active a {
+nav.side .u3 > li.active > a,
+nav.side .u4 > li.active > a {
 	color: #e90015;
 	font-weight: bold;
+}
+
+/* 4. Ebene, wird derzeit nicht aktiv verwendet (nur fuer .u4.geraete) */
+nav.side .u4 {
+	margin-left: 8px;
+	margin-bottom: 8px;
+}
+
+nav.side .u4 > li > a {
+	font-size: 12px;
+	margin: 0 -32px 0 -48px;
+	padding: 1px 32px 1px 48px;
+}
+
+/* nav.side .geraete-Listen */
+nav.side .geraete a {
+	text-transform: none !important;
+	opacity: .5 !important;
 }
 
 nav a:hover, nav ul.rich-text li:hover a, nav a:focus, nav ul.rich-text li:focus a {

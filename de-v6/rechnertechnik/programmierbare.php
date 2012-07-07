@@ -11,7 +11,7 @@
 <h3>Diehl Combitron</h3>
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="690" height="232" /></div>
-		<p>Die Combitron war der erste funktionsf&auml;hige programmierbare Tischrechner, der in Deutschland gebaut und vertrieben wurde (1966-68). Hier ist die <b>Combitron-S</b> (1968-71) abgebildet, die zusätzlich 10 Programmspeicher, 10 Konstantenspeicher und 2 Sprungbefehle gegenüber der Combitron hatte. Rechts steht der DIEHL Dilector (Lochstreifenleser) und links der DIEHL ELS 830 (Lochstreifenstanzer), der quasi "online" die Programmeingabe auf der Tastatur in den Lochstreifen stanzt. Das System ist voll funktionsf&auml;hig. Als Speichermedium dient ein <a href="speichermedien.shtm#laufzeitspeicher" name="backlink-diehl" title="Laufzeitspeicher" class="go">Laufzeitspeicher</a> (Kapazit&auml;t ca. 1000 Bit).<br>
+		<p>Die Combitron war der erste funktionsf&auml;hige programmierbare Tischrechner, der in Deutschland gebaut und vertrieben wurde (1966-68). Hier ist die <b>Combitron-S</b> (1968-71) abgebildet, die zusätzlich 10 Programmspeicher, 10 Konstantenspeicher und 2 Sprungbefehle gegenüber der Combitron hatte. Rechts steht der DIEHL Dilector (Lochstreifenleser) und links der DIEHL ELS 830 (Lochstreifenstanzer), der quasi "online" die Programmeingabe auf der Tastatur in den Lochstreifen stanzt. Das System ist voll funktionsf&auml;hig. Als Speichermedium dient ein <a href="speichermedien.php#laufzeitspeicher" name="backlink-diehl" title="Laufzeitspeicher" class="go">Laufzeitspeicher</a> (Kapazit&auml;t ca. 1000 Bit).<br>
 		Die ersten Combitron-Maschinen waren noch ohne Schnittstelle. Man hatte damit keine Möglichkeit, selbst geschriebene Programme abzuspeichern. Ein Programm konnte jedoch mit einem Zahlencode ausgedruckt werden, den man bei jedem "Neustart" über die Tastatur wieder eingeben musste. Wir haben einen solchen Rechner, der recht selten ist. Schon 1967 wurde über eine eingebaute Schnittstelle ein Lochstreifenleser anschließbar. Nun konnte man selbstgeschriebene Programme an Diehl einsenden. Dort wurden davon Lochstreifen erstellt, die man gegen Bezahlung erwerben zugeschickt bekam. Die Prozedur war sehr umständlich. Erst später wurde schließlich ein Lochstreifenstanzer angeboten, der das eignene Abstanzen von Programmen erlaubte. Der Konkurrent "Olivetti" war hier viel fortschrittlicher:</p>
     
 <h3>Olivetti Programma 101</h3>
@@ -22,7 +22,7 @@
        <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
        <p class="bildtext">Die legend&auml;re <b>PROGRAMMA 101</b> von Olivetti. <br/>
            Man k&ouml;nnte die P 101 auch als ersten Personal-Computer der Welt bezeichnen. <br/>
-           In der Mitte ist die Magnet-Programmkarte zu sehen. Der folgende Link f&uuml;hrt auf eine kurze Erl&auml;uterung des hier verwendeten Speichermediums, dem <a class="go" name="backlink-olivetti" href="speichermedien.shtm#laufzeitspeicher">Laufzeitspeicher</a>.
+           In der Mitte ist die Magnet-Programmkarte zu sehen. Der folgende Link f&uuml;hrt auf eine kurze Erl&auml;uterung des hier verwendeten Speichermediums, dem <a class="go" name="backlink-olivetti" href="speichermedien.php#laufzeitspeicher">Laufzeitspeicher</a>.
            Der eingebaute magnetostriktive Laufzeitspeicher ist in 10 Register aufgeteilt, wobei jedes Register aus 24 Speicherzellen zu je 8 Bit besteht. Das entspricht ca. 240 Byte Speicherkapazität.
        </p>
 	</div>
@@ -30,7 +30,7 @@
     <p>Hochinteressant ist auch der 1967 gebaute wissenschaftliche Rechner "WANG 320". Ein extrem seltenes Ger&auml;t mit Lochkartenprogrammierung und mehreren Keyboards, f&uuml;r die damalige Zeit eine Weltsensation.</p>
 
     <div class="box center auto-bildbreite">
-        <a href="/de/geraete/wang320.shtm" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
+        <a href="/de-v6/geraete/wang320.php" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
         <p><b>WANG 320 SE</b></p></div>
 		
              <p>Für 1966/67 war dies ein Tischrechner der Superlative. Zwei Eigenheiten waren damals sensationell: Die sehr schnelle Ermittlung von Werten zur Exponential- und Logarithmenfunktion (schneller als die Berechnung der Wurzel einer Zahl) sowie die Tatsache, dass bis zu 4 Keyboards angeschlossen werden konnten. Alle Anwender können gleichzeitig auf den Rechner zugreifen. Längere Programme die man per Lochkarte eingibt, werden unterbrochen um kurze Berechnungen von einem anderen Keyboard zu übernehmen. Danach wird das Programm weiter ausgeführt. Ein ideales Gerät für Schulen und Universitäten. Die präparierten 80-spaltigen Lochkarten können offline mit einem Stift auf einer Schablone "gestanzt" werden. Während an den meisten Hochschulen noch mit dem Rechenschieber gerechnet wurde, begann bei den wenigen, die im Besitz dieser Rechner waren bereits die Zeit der Informatik. Durch Anklicken des Bildes erhalten Sie eine Detailaufnahme.
@@ -52,4 +52,4 @@
         <p class="center"> Großaufnahme des Bildröhren-Displays vom HP 9100.</p>
 	</div>
 
-    <p>Weitere Details erhalten sie auf der <a class="go" href="/de/details1.shtm" title="Details 1">tabellarischen Zusammenstellung der Tischrechner</a></p>
+    <p>Weitere Details erhalten sie auf der <a class="go" href="/de/details1.php" title="Details 1">tabellarischen Zusammenstellung der Tischrechner</a></p>

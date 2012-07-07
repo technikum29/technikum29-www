@@ -5,7 +5,7 @@
    --><!--#set var="url_en"       value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
@@ -24,13 +24,13 @@
       </p>
       <hr noshade="noshade" />
       <ul id="nav">
-          <li><a href="/de/kommunikationstechnik/faxtechnik.shtm#backlink-olympia">Fax- und Schreibtechnik</a></li>
+          <li><a href="/de/kommunikationstechnik/faxtechnik.php#backlink-olympia">Fax- und Schreibtechnik</a></li>
           <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
       </ul>
   </div>
 </div>
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

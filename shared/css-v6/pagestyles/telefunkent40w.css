@@ -13,25 +13,25 @@
 |                                                                      |
 \**********************************************************************/
 
-.telefunkent40w #rel,
-.telefunkent40w #zu,
-.telefunkent40w #offen {
+#rel,
+#zu,
+#offen {
     position: absolute;
     width: 930px;
     height: 569px;
     top: 0; left: 0;
 }
 
-.telefunkent40w #beschriftung {
+#beschriftung {
     position: absolute;
     top: -53px;
     left: -36px;
 }
 
-.telefunkent40w #zu           { z-index: 3 }
-.telefunkent40w #beschriftung { z-index: 2; }
-.telefunkent40w #offen        { z-index: 1; }
-.telefunkent40w #rel          {
+#zu           { z-index: 3 }
+#beschriftung { z-index: 2; }
+#offen        { z-index: 1; }
+#rel          {
      position: relative;
      margin-bottom: 80px;
      margin-top: 60px;

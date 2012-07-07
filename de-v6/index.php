@@ -21,7 +21,7 @@
             <ul>
                
                 <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
-                <li>Für Schüler- (ab ca. 15 Jahre, in Begleitung der Eltern ab ca. 11 Jahre) und Studentengruppen (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>)</li>
+                <li>Für Schüler- (ab ca. 15 Jahre, in Begleitung der Eltern ab ca. 11 Jahre) und Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>)</li>
 				<li>Für Informatiker, Firmengruppen, Azubis und viele mehr</li>
             </ul>
         </div>
@@ -29,7 +29,7 @@
 		        <div class="wo"><br>
             <h2>Wo&nbsp;?</h2>
             <ul>
-                <li>Westlich von Frankfurt/Main (ca. 15 Minuten), <a class="go" href="impressum.shtm">siehe Impressum</a>.</li>
+                <li>Westlich von Frankfurt/Main (ca. 15 Minuten), <a class="go" href="impressum.php">siehe Impressum</a>.</li>
             </ul>
         </div>
             

@@ -5,7 +5,7 @@
    --><!--#set var="url_en"       value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
@@ -19,17 +19,17 @@
 <div class="center">
     <img src="/shared/photos/rechnertechnik/dec/pdp_8_linker.jpg" width="430" height="322" alt="PDP 8 linker Fl&uuml;gel" />
     <div class="bildtext-bildbreite" style="width: 430px;">
-         <p><strong>linker Flügel des PDP8</strong></p>
+         <p><strong>linker FlÃ¼gel des PDP8</strong></p>
          <hr/>
          <ul id="nav">
              <li><strong>v5.7: Keine Links zeigen auf diese Seite</strong></li>
-             <li><a href="/de/rechnertechnik/fruehe-computer.shtm">Wissenschaftliche Rechner und Minicomputer</a></li>
+             <li><a href="/de/rechnertechnik/fruehe-computer.php">Wissenschaftliche Rechner und Minicomputer</a></li>
              <li><a href="/de/">Startseite der technikum29-Homepage</a></li>
          </ul>
     </div>
 </div>
 
 </div><!--content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

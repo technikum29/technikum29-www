@@ -14,7 +14,7 @@
 Der Vollständigkeit halber informieren wir auch über "Taschenrechner" der Frühzeit nach dem System "Produx". Wir beschränken uns auf einen kleinen Schiebestangenrechner</p> <blockquote>"für den Kaufmann, Gewerbetreibenden, Handwerker, Ingenieur, Schüler und sogar für die Hausfrau" (!)</blockquote> <p> laut Prospekt.
 Die Werbesprüche sind ganz ansprechend: </p><blockquote>"Kopfrechnen ist nicht immer nett, viel schöner geht´s mit der EFZET".</blockquote><p> Vermutlich geht´s mit einem hellen Kopf doch schneller. Maßlose Übertreibungen gab es damals (um 1940) wie heute:</p> <blockquote>"EFZET rechnet für Dich, darum entbehre Sie nicht".</blockquote>
 <p>Hier können Sie die original
-<a class="go" href="/de/geraete/efzet.shtm" name="efzet" title="Original-Bedienungsanleitungen anschauen">EFZET Bedienungsanleitung</a> anschauen.
+<a class="go" href="/de-v6/geraete/efzet.php" name="efzet" title="Original-Bedienungsanleitungen anschauen">EFZET Bedienungsanleitung</a> anschauen.
 Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedingt hilfreich war.</p></div>
 
 
@@ -68,5 +68,5 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
     <!-- Der folgende Text erscheint unten rechts in der Seitenleiste: -->
     <div id="sidebar-footnote">
-        <a href="/de/geraete/sprossenradmaschine.shtm">Bild &uarr; der Sprossenradmaschine groß</a>
+        <a href="/de-v6/geraete/sprossenradmaschine.php">Bild &uarr; der Sprossenradmaschine groß</a>
     </div>

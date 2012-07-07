@@ -4,15 +4,15 @@
 <head><!--#set var="title"        value="Univac 9400 Rechner"
    --><!--#set var="location"     value="univac"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/panorama.shtm"
+   --><!--#set var="url_en"       value="devices/univac9400/panorama.php"
    --><!--#set var="title_en"     value="Univac 9400 Mainfraime from the left hand side"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm#backlink-links"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php#backlink-links"
    --><!--#set var="prev_title"   value="Übersicht Univac 9400"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="Panorama von links" />
     <meta name="t29.version" content="v5.7.11" />
     <meta name="t29.date" content="04.11.2007" />
@@ -28,6 +28,6 @@
 </div>
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

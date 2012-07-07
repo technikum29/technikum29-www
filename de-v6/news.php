@@ -38,13 +38,13 @@ MENU;
 <img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" width="350" height="87"/>
 </div> 
 Unglaublicher Software-Fund für unsere UNIVAC 9200.
-<a href="/de/rechnertechnik/univac9200.shtm#lochkarten"><b>Lesen Sie hier:</b></a>
+<a href="/de/rechnertechnik/univac9200.php#lochkarten"><b>Lesen Sie hier:</b></a>
 <div class="clear"></div></li>
 
 <li><h3>März 2012</h3><div class="box left">
  <img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231" </div>
  Künstler arbeiten im technikum29. Leander Schwarzer beim Stanzen von Lochkarten.
-<a href="/de/sonstiges.shtm#leander"><b>Zum Artikel</b></a>
+<a href="/de/sonstiges.php#leander"><b>Zum Artikel</b></a>
  <div class="clear"></div></li>
 
  

@@ -5,7 +5,7 @@
    --><!--#set var="url_en"       value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.7" />
@@ -32,6 +32,6 @@
 </div>
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

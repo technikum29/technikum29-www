@@ -4,15 +4,15 @@
 <head><!--#set var="title"        value="Wie viel kostete die UNIVAC 9400-Anlage?"
    --><!--#set var="location"     value="univac-kosten"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/costs.shtm"
+   --><!--#set var="url_en"       value="devices/univac9400/costs.php"
    --><!--#set var="title_en"     value="What was the price one had to pay for an UNIVAC 9400?"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php"
    --><!--#set var="prev_title"   value="Übersicht Univac 9400"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="t29.this.version" content="v5.8.0" />
@@ -162,7 +162,7 @@
 
     <!--
     <ul id="nav">
-       <li><a href="/de/rechnertechnik/univac9400.shtm#backlink-univac9300">Übersicht Univac 9400</a></li>
+       <li><a href="/de/rechnertechnik/univac9400.php#backlink-univac9300">Übersicht Univac 9400</a></li>
        <li><a href="/de/">technikum29 Startseite</a></li>
     </ul>
    -->
@@ -171,6 +171,6 @@
 
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

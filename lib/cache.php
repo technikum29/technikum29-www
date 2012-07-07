@@ -42,7 +42,7 @@ class t29Cache {
 		$this->skip = isset($_GET['skip_cache']);
 		$this->purge = isset($_GET['purge_cache']);
 		$this->debug = isset($_GET['debug_cache']) || $debug;
-		$this->verbose = $verbose || $this->debug;
+		$this->verbose = isset($_GET['verbose_cache']) || $verbose || $this->debug;
 	}
 	
 	/**

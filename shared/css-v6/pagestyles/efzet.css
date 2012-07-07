@@ -9,12 +9,12 @@
 |                                                                      |
 \**********************************************************************/
 
-.efzet #content .gallery {
+#content .gallery {
 	width: 830px;
 	margin: 0px auto;
 }
 
-.efzet #content .thumbnails a {
+#content .thumbnails a {
 	display: block;
 	float: right;
 	margin: 15px; padding: 0;
@@ -22,23 +22,23 @@
 	outline: none;
 }
 
-.efzet #content .thumbnails img {
+#content .thumbnails img {
 	width: 120px;
 	display: block; /* um keinen komischen weissen rand drunter zu kriegen */
 }
 
-.efzet #content .thumbnails a:hover {
+#content .thumbnails a:hover {
 	border: 3px solid #7090C0;
 	margin: 12px;
 }
 
-.efzet #content .thumbnails a.active,
-.efzet #content .thumbnails a.active:hover {
+#content .thumbnails a.active,
+#content .thumbnails a.active:hover {
 	border: 5px solid #7090C0;
 	margin: 10px;
 }
 
-.efzet #content .full {
+#content .full {
 	text-align: center;
 	padding-top: 13px;
 }

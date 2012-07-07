@@ -1,55 +1,37 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Aufstieg und Ende von DIGITAL (Equipment Corporation)"
-   --><!--#set var="location"     value="dec-history"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/dec-history.shtm"
-   --><!--#set var="title_en"     value="Rise and Fall of DIGITAL (Equipment Corporation)"
-   --><!--#set var="prev"         value="/de/rechnertechnik/fruehe-computer.shtm"
-   --><!--#set var="prev_title"   value="Wissenschaftliche Rechner und Minicomputer"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.version" content="v5.8.0" />
-    <meta name="t29.comment" content="Stile hier entfernt und zentral gespeichert." />
-    <!--changelog: Zuletzt geaendert v5.7 oder so -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-
-<h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'dec-history';
+	$version = '$Id';
+	$titel = 'Aufstieg und Ende von DIGITAL (Equipment Corporation)';
+	
+	require '../../lib/technikum29.php';
+?>
+<h2><? print $title; ?></h2>
 
 <div class="cols">
 
 <div class="leftcol">
 <p>Es begann mit einer Idee. Ein junger Ingenieur vom renommierten Massachusetts Institute of Technololgy hatte am Lincoln Lab einen neuartigen Rechner kennengelernt, der grundlegend andere Arbeitsweise hatte als die bis dahin bekannten Rechner der <em>&bdquo;Eniac&ldquo;</em>-Generation.
-<br />Während <em>Eniac</em> das Verfahren der Batch- oder Stapelverarbeitung verwendete, nutzte der neue Rechner namens Whirlwind das Prinzip des <em>&bdquo;interaktiven Computings&ldquo;</em>.</p>
+<br />WÃ¤hrend <em>Eniac</em> das Verfahren der Batch- oder Stapelverarbeitung verwendete, nutzte der neue Rechner namens Whirlwind das Prinzip des <em>&bdquo;interaktiven Computings&ldquo;</em>.</p>
 
-<p>Der junge Ingenieur erkannte sofort die Vorteile des Prinzips und die praktischen Möglichkeiten für einen größeren Kreis von Anwendern. Der Mann hieß:  Ken Olsen. Sein Ziel war, einen interaktiven Allzweckcomputer zu bauen.
-<br />So gründete er im August 1957 eine kleine Firma mit 3 Mitarbeitern. Der Name des Unternehmens: Digital Equipment Corporation. Eine Firmenbezeichnung, mit der Olsen seine wahren Absichten gegenüber den etablierten Computerherstellern verschleiern wollte.</p>
+<p>Der junge Ingenieur erkannte sofort die Vorteile des Prinzips und die praktischen MÃ¶glichkeiten fÃ¼r einen grÃ¶ÃŸeren Kreis von Anwendern. Der Mann hieÃŸ:  Ken Olsen. Sein Ziel war, einen interaktiven Allzweckcomputer zu bauen.
+<br />So grÃ¼ndete er im August 1957 eine kleine Firma mit 3 Mitarbeitern. Der Name des Unternehmens: Digital Equipment Corporation. Eine Firmenbezeichnung, mit der Olsen seine wahren Absichten gegenÃ¼ber den etablierten Computerherstellern verschleiern wollte.</p>
 
-<p>Drei Jahre später war es so weit. 1960 stellte Digital den ersten kommerziellen interaktiven &bdquo;Klein&ldquo;computer vor. Das erste PDP-System (Programmable Data Processor) war am Markt. Ein 18-Bit-Rechner, Preis ca. 120.000 Dollar. Davon wurden 53 Stück verkauft.</p>
+<p>Drei Jahre spÃ¤ter war es so weit. 1960 stellte Digital den ersten kommerziellen interaktiven &bdquo;Klein&ldquo;computer vor. Das erste PDP-System (Programmable Data Processor) war am Markt. Ein 18-Bit-Rechner, Preis ca. 120.000 Dollar. Davon wurden 53 StÃ¼ck verkauft.</p>
 
-<p>Der nächste Meilenstein in der Digital-Geschichte war der erste in Serie gefertigte Minicomputer. Er wurde 1965 unter der Bezeichnung PDP-8 präsentiert und hatte einen sensationell günstigen Preis von 18.000 Dollar.
-<br />Nachfolger dieser Erfolgsserie waren PDP 8I  (1967, erster Rechner mit TTL-IC s), PDP 8L (Low Cost- Ausführung, 1968), PDP 8e (erster Rechner mit Bussystem, 1970), schließlich folgten die PDP 8a und DEC-Mate-Systeme.</p>
+<p>Der nÃ¤chste Meilenstein in der Digital-Geschichte war der erste in Serie gefertigte Minicomputer. Er wurde 1965 unter der Bezeichnung PDP-8 prÃ¤sentiert und hatte einen sensationell gÃ¼nstigen Preis von 18.000 Dollar.
+<br />Nachfolger dieser Erfolgsserie waren PDP 8I  (1967, erster Rechner mit TTL-IC s), PDP 8L (Low Cost- AusfÃ¼hrung, 1968), PDP 8e (erster Rechner mit Bussystem, 1970), schlieÃŸlich folgten die PDP 8a und DEC-Mate-Systeme.</p>
 
 </div>
 <div class="rightcol">
 
-<p>Hier noch ein jahreschronologischer Überblick:</p>
+<p>Hier noch ein jahreschronologischer Ãœberblick:</p>
 <dl>
 <dt>1963</dt>
-  <dd>Im März wird in München die erste europäische Digital-Niederlassung mit 3 Mitarbeitern eröffnet. Der erste Minicomputer der Welt, der 12-Bit-Rechner PDP-5 wird angekündigt</dd>
+  <dd>Im MÃ¤rz wird in MÃ¼nchen die erste europÃ¤ische Digital-Niederlassung mit 3 Mitarbeitern erÃ¶ffnet. Der erste Minicomputer der Welt, der 12-Bit-Rechner PDP-5 wird angekÃ¼ndigt</dd>
 <dt>1966</dt>
   <dd>Es gibt die erste Digital-Aktien zu kaufen</dd>
 <dt>1967</dt>
-  <dd>In 11 Ländern gibt es 50 Niederlassungen. Die Zahl der Mitarbeiter steigt auf 2.600</dd>
+  <dd>In 11 LÃ¤ndern gibt es 50 Niederlassungen. Die Zahl der Mitarbeiter steigt auf 2.600</dd>
 <dt>1969</dt>
   <dd>Bell Laboratories entwickelt das offene Betriebssystem UNIX auf einem PDP-7-Rechner von Digital</dd>
 <dt>1970</dt>
@@ -63,7 +45,7 @@
 <dt>1975</dt>
   <dd>PDP-11/70, ein neues Mitglied der PDP-11-Familie. DNA, die Digital Netzwerk Architektur</dd>
 <dt>1977</dt>
-  <dd>Der Umsatz übersteigt erstmals die Milliarden-Dollar-Grenze. Die Zahl der Mitarbeiter steigt auf 36.000.  VAX-11/780, das erste Mitglied der VAX-Familie</dd>
+  <dd>Der Umsatz Ã¼bersteigt erstmals die Milliarden-Dollar-Grenze. Die Zahl der Mitarbeiter steigt auf 36.000.  VAX-11/780, das erste Mitglied der VAX-Familie</dd>
 <dt>1978</dt>
   <dd>Der 100.000ste Digital-Computer wird ausgeliefert</dd>
 </dl>
@@ -72,8 +54,3 @@
 </div>
 
 </div><!-- cols -->
-
-</div><!-- content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

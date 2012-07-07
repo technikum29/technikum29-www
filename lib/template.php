@@ -11,15 +11,20 @@
  **/
 
 require dirname(__FILE__) . "/ressourceloader.php";
- 
+
 class t29Template {
 	public $conf, $menu, $msg;
 	public $body_classes = array();
 	public $javascript_config = array();
 	public $page_relations, $interlang_links;
+	public $log; // lightweight logging system
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
+		
+		// create a lightweight logging object:
+		require_once $this->conf['lib'].'/logging.php';
+		$this->log = new t29Log();
 
 		// create a menu:
 		require_once $this->conf['lib'].'/menu.php';
@@ -125,7 +130,7 @@ class t29Template {
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <?php
-	$csslinktmpl = '  <link rel="stylesheet" href="%s">'.PHP_EOL;
+	$csslinktmpl = PHP_EOL.'  <link rel="stylesheet" href="%s">';
 	foreach($this->get_ressourceloader_links('css') as $css)
 		printf($csslinktmpl, $css);
   
@@ -142,6 +147,13 @@ class t29Template {
 	<h1 role="banner"><a href="/" title="<?php $p('head-h1-title'); ?>"><?php $p('head-h1'); ?></a></h1>
 	<div id="background-color-container"><!-- helper -->
 	<section class="main content" role="main" id="content">
+		<?php 
+			if(!$this->log->is_empty()) {
+				print '<div class="errorpane">';
+				$this->log->print_all();
+				print '</div>';
+			}
+		?>
 		<!--<header class="teaser">
 			<h2 id="pdp8L">Wissenschaftliche Rechner und Minicomputer</h2>
 			<img width=880 src="http://www.technikum29.de/shared/photos/rechnertechnik/univac/panorama-rechts.jpg">
@@ -252,7 +264,7 @@ class t29Template {
 
 	function get_ressourceloader_links($type) {
 		$rl = t29RessourceLoader::create_from_type($type, $this->conf);
-		return $rl->get_urls();
+		return $rl->get_urls( isset($_GET['rl_debug']) );
 	}
 
 } // class t29Template

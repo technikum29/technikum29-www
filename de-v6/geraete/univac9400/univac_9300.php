@@ -4,15 +4,15 @@
 <head><!--#set var="title"        value="Univac 9200"
    --><!--#set var="location"     value="univac-9300"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/univac_9300.shtm"
+   --><!--#set var="url_en"       value="devices/univac9400/univac_9300.php"
    --><!--#set var="title_en"     value="The Univac 9300"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm#backlink-univac9300"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php#backlink-univac9300"
    --><!--#set var="prev_title"   value="Übersicht Univac 9400"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Fotos der Anita" />
@@ -26,9 +26,9 @@
 	
 <!-- Zum Löschen der Weiterleitung einfach die folgenden 5 Zeilen entfernen -->
 <!-- Beginn der Weiterleitungs-Befehle -->
-    <!--#set var="forwarding_page" value="/de/rechnertechnik/univac9200.shtm" -->
+    <!--#set var="forwarding_page" value="/de/rechnertechnik/univac9200.php" -->
     <!--#set var="forwarding_title" value="UNIVAC 9200 Lochkarten-EDV" -->
-    <!--#include virtual="/de/inc/extra-forwarding.template.shtm" -->
+    <!--#include virtual="/de/inc/extra-forwarding.template.php" -->
 <!-- Ende der Weiterleitungsbefehle -->
 
 <div class="box center">
@@ -39,6 +39,6 @@
 </div>
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

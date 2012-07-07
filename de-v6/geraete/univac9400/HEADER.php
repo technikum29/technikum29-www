@@ -8,11 +8,11 @@
 </head>
 <body>
 <!--#set var="lang" value="de" -->
-<!--#include virtual="/src/inc/header.shtm" -->
+<!--#include virtual="/src/inc/header.php" -->
 
 <div id="page">
 <h2>Details zur UNIVAC 9400</h2>
 
-<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.shtm">UNIVAC 9400-Groﬂrechner</a> existieren:</p>
+<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.php">UNIVAC 9400-Groﬂrechner</a> existieren:</p>
 
-<!--#include virtual="/src/templates/autoindex.shtm" -->
+<!--#include virtual="/src/templates/autoindex.php" -->

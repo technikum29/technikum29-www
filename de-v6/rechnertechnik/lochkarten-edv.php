@@ -39,38 +39,38 @@
 		<h3>Sortiermaschinen</h3>
 		
     <div class="box center manuelle-bildbreite" style="width: 580px;">
-        <a name="backlink-sortierer" href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
+        <a name="backlink-sortierer" href="/de-v6/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
 
         <p class="center">
             <b>IBM 082 Sortiermaschine</b>
 	        <br/>Diese Sortiermaschine wurde ab 1949 gebaut.
-	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>
+	        <br/><a class="go" href="/de-v6/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
 
     <div class="box center auto-bildbreite">
-        <a href="/de/geraete/lochkartensortierer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
+        <a href="/de-v6/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
             Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
-	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.shtm">Funktionsweise des Lochkartensortierers</a>
+	        <br/><a class="go" href="/de-v6/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
 <h3>Lochkartenmischer</h3>
 
     <div class="box center auto-bildbreite">
-        <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
+        <a name="backlink-mischer" href="/de-v6/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
         <p class="bildtext">
             <b>IBM Lochkartenmischer 77</b></p></div>
 			
             <p>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
             <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Messgerät.
-	        <br/><a class="go" href="/de/geraete/lochkartenmischer-funktion.shtm">Funktionsweise des Lochkartenmischers</a>
+	        <br/><a class="go" href="/de-v6/geraete/lochkartenmischer-funktion.php">Funktionsweise des Lochkartenmischers</a>
         </p>
 
 	
     <div class="box center auto-bildbreite">
-        <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
+        <a name="backlink-mischer" href="/de-v6/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
         <p class="bildtext">
             <b>Bull Lochkartenmischer Typ 56.00.</b></p></div>
 			

@@ -20,6 +20,11 @@ $languages = array(
 	"en" => array("English", "/en-v6"),
 );
 
+// make sure we have a page title
+if(isset($title)) $titel = $title;
+elseif(isset($titel)) $title = $titel;
+else $titel = $title = false; // to be determined by navigation seiten_id.
+
 // try to determine the language from the file path
 $lang = substr($file, 1, 2);
 if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists

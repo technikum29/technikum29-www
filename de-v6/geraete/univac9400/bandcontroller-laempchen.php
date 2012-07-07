@@ -4,15 +4,15 @@
 <head><!--#set var="title"        value="Univac 9400: Bedienungselemente und Anzeigen des Tape- und Disk-Controllers"
    --><!--#set var="location"     value="univac-bandcontroller"
    --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/bandcontroller-lamps.shtm"
+   --><!--#set var="url_en"       value="devices/univac9400/bandcontroller-lamps.php"
    --><!--#set var="title_en"     value="Univac 9400 band controller"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.shtm#backlink-bandcontroller"
+   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php#backlink-bandcontroller"
    --><!--#set var="prev_title"   value="Übersicht Univac 9400"
    --><!--#set var="next"         value=""
    --><!--#set var="next_title"   value=""
    --><title>technikum29 - <!--#echo var="title" --></title>
 
-    <!--#include virtual="/de/inc/head.inc.shtm" -->
+    <!--#include virtual="/de/inc/head.inc.php" -->
     <meta name="keywords" lang="de" content="" />
     <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
     <meta name="DC.Subject" content="Fotos der Anita" />
@@ -37,6 +37,6 @@
 
 
 </div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
+<!--#include virtual="/de/inc/menu.inc.php" -->
 </body>
 </html>

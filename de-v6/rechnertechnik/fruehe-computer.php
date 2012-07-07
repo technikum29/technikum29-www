@@ -47,7 +47,7 @@
 		<p>	Diese Rechner wurden durch zahlreiche sehr detallierte Funktions- und Schaltungsbeschreibungen dokumentiert, wie kein anderer je gebauter Computer. Das ist aus heutiger Sicht ein Glücksfall. Nur durch das Vorhandensein dieser Dokumente ist eine Reparatur problemlos möglich. Dagegen hielten andere Hersteller oft ihre Schaltungen aus Angst vor unbefugter Weiterverwendung zurück (z.B. HP).<br>
 	</div>
 
-	Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.shtm">Geschichte von Digital (DEC)</a> aufgelistet.
+	Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de-v6/geraete/dec-geschichte.php">Geschichte von Digital (DEC)</a> aufgelistet.
 
 	<h3 id="pdp8">Classic PDP-8</h3>
 			
@@ -262,12 +262,12 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 
  
 	<h3 id="wang2200"><b>WANG 2200</b> mit umfangreicher Peripherie</h3>
-    <p>Weiterhin ist das erste System angeschlossen, was schon so ähnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.shtm">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
+    <p>Weiterhin ist das erste System angeschlossen, was schon so ähnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de-v6/geraete/wang2200.php">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
     <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen LED-Anzeige.</p>
 
     <div class="box center">
-       <a href="/de/geraete/wang2200.shtm"><img src="/shared/photos/rechnertechnik/wang2200.jpg" alt="Wang 2200" width="592" height="402" /></a>
+       <a href="/de-v6/geraete/wang2200.php"><img src="/shared/photos/rechnertechnik/wang2200.jpg" alt="Wang 2200" width="592" height="402" /></a>
     </div>
 
      <p>Auch der erste Personalcomputer wurde von WANG gebaut: PCS II (1975). Der erste f&uuml;r den Durchschnittsb&uuml;rger bezahlbare PC kam 1977 auf den Markt: PET 2001 von Commodore. Er war so billig wie ein heutiger PC, speicherte aber ganze 8 KB und hatte bescheidene Anwendungsvarianten. Weitere Homecomputer folgten, der Markt uferte aus, und damit endet die Sammlung der Computer.
-     <br/><a class="go" href="/de/details2.shtm" name="backlink-details2" title="Details 2">Siehe tabellarische Darstellung wissenschaftliche- und Mini- Computer aus dem Museumsbestand</a></p>
+     <br/><a class="go" href="/de/details2.php" name="backlink-details2" title="Details 2">Siehe tabellarische Darstellung wissenschaftliche- und Mini- Computer aus dem Museumsbestand</a></p>

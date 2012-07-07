@@ -8,15 +8,15 @@
     <h2>Programmierbare Rechner der 3. Generation mit einfacher IC-Technik</h2>
       <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: <b>WANG 700</b> , dessen Verkaufspreis 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM bzw. 35.000 Euro betrug.
       <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
-      <a class="go" href="/de/details1.shtm" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
+      <a class="go" href="/de/details1.php" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
 <h3>WANG 700</h3>
       <div class="box center auto-bildbreite">
-          <a href="/de/geraete/wang700.shtm" name="backlink-wang700" title="Zur Großaufnahme des WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
+          <a href="/de-v6/geraete/wang700.php" name="backlink-wang700" title="Zur Großaufnahme des WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
           <p class="bildtext">Komplettanlage<b> WANG 700</b></p></div>
 			
 			<p>Diese Anlage mit umfangreicher Peripherie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.<br>
             Links befindet sich der Rechner mit einem zweizeiligen gro&szlig;en Nixier&ouml;hren-Display, 2 kB Kernspeicher und eingebautem Kassettentape zur Programmaufzeichnung. Dieser Rechner war für Jahre der schnellste Tischrechner der Welt.
-               <a class="go" href="/de/geraete/wang700.shtm">Großaufnahme des Rechners betrachten</a>
+               <a class="go" href="/de-v6/geraete/wang700.php">Großaufnahme des Rechners betrachten</a>
                <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umst&auml;ndlich. Das Plotterprogramm z.B. beinhaltet 794 (!) Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre sp&auml;ter ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 36 Schritten bew&auml;ltigen.
             </p>
          
@@ -34,12 +34,12 @@ Mit dem angeschlossenen Markierungskartenleser (anstelle ausgestanzter Löcher w
 		</p>
 		
          
-    <h3>Diehl Combitronic</h3>
+    <h3 id="diehl">Diehl Combitronic</h3>
 	  
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/diehl-combitronic.jpg" alt="Diehl Combitronic Anlage" width="526" height="420"/>
         <p class="bildtext"><b>Diehl Combitronic</b> mit Lochstreifenleser- und stanzer</p></div>
-		    <p>Die von DIEHL 1970-72 verkaufte Combitronic ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; die gesamte Rechnerlogik ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Lochstreifenleser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de/geraete/diehl-combitronic.shtm">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
+		    <p>Die von DIEHL 1970-72 verkaufte Combitronic ist ein Rechner, der zeigt, in welcher stürmischen Entwicklungsphase geradezu kuriose Technik angeboten wurde. In diesem Gerät sind Germaniumtransistoren der frühen 60er Jahre (zur Ansteuerung des Druckers), immer noch ein Bootprogramm auf Lochstreifen, der langsame Laufzeitspeicher und die modernste Entwicklung von LSI-Technik in keramischen ICs vereint. Man hat einfach die Transistor-Logik der Combitron mit 4 LSI-ICs realisiert. Somit ist der Rechner mit der damals bereits technisch überholten Combitron weitgehend identisch. Das Gehäuse wurde kleiner; die gesamte Rechnerlogik ist auf zwei kleine Platinen geschrumpft. Im Hintergrund ist der dazugehörige Lochstreifenstanzer ELS 850 zu sehen und links der Lochstreifenleser "Dilector". Hier erhalten Sie <a class="go" name="backlink" href="/de-v6/geraete/diehl-combitronic.php">weitere Bilder und Details zur Combitronic und Alogotronic."</a>
 		</p>
 	
 <h3>Hewlett Packard HP 9810, 9820, 9830</h3>

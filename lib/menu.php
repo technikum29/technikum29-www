@@ -18,11 +18,24 @@ class t29Menu {
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
+		
+		// libxml: don't raise errors while parsing.
+		// will fetch them with libxml_get_errors later.
+		//libxml_use_internal_errors(true);
 
 		// load xml file
 		$this->xml = simplexml_load_file($this->conf['webroot'].$this->conf['lang_path'] . '/' . self::navigation_file);
+		if($this->xml_is_defective()) {
+			trigger_error("Kann Navigationsdatei nicht verwenden, da das XML nicht sauber ist. Bitte reparieren!");
+		}
 	}
 
+	function xml_is_defective() {
+		// check if return value of simplexml_load_file was false,
+		// which means parse error.
+		return $this->xml === FALSE;
+	}
+	
 	///////////////////// NEWS EXTRACTION
 	function load_news_data() {
 		$newsfile = $this->conf['webroot'].$this->conf['lang_path']."/".self::news_file;
@@ -58,6 +71,9 @@ class t29Menu {
 	
 	///////////////////// RETURN INFOS ABOUT SEITEN_ID LINK
 	function get_link_infos($seiten_id=false) {
+		if($this->xml_is_defective()) {
+			return null;
+		}
 		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
 
 		$matches = $this->xml->xpath("//a[@seiten_id='$seiten_id']");
@@ -107,6 +123,10 @@ class t29Menu {
 	 * @arg $xpath_menu_selection  one of the horizontal_menu / sidebar_menu consts.
 	 **/
 	function print_menu($xpath_menu_selection) {
+		if($this->xml_is_defective()) {
+			print "The Menu file is broken.";
+			return false;
+		}
 		$seiten_id = $this->conf['seiten_id'];
 
 		// find wanted menu
@@ -157,6 +177,8 @@ class t29Menu {
 	 * @returns an array(prev=>..., next=>...) or empty array, elements are SimpleXML a links
 	 **/
 	function get_page_relations($seiten_id=false) {
+		if($this->xml_is_defective())
+			return array(); // cannot construct relations due to bad XML file
 		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
 		
 		$xml = $this->xml->xpath(self::sidebar_menu);

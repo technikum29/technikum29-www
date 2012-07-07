@@ -38,7 +38,7 @@
 	  
 <h3>Tondrahtgeräte</h3>
     <div class="box center auto-bildbreite">	
-	    <a href="/de/geraete/schaub-lorenz-supraphon.shtm" name="backlink-supraphon" title="Detailaufnahme des Supraphons"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Foto des Lorenz Supraphons" width="546" height="561" /></a>
+	    <a href="/de-v6/geraete/schaub-lorenz-supraphon.php" name="backlink-supraphon" title="Detailaufnahme des Supraphons"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Foto des Lorenz Supraphons" width="546" height="561" /></a>
         <p class="bildtext">
 		    <b>(Schaub-) Lorenz Supraphon</b>
 		</p>

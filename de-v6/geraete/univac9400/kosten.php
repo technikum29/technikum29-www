@@ -1,41 +1,24 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Wie viel kostete die UNIVAC 9400-Anlage?"
-   --><!--#set var="location"     value="univac-kosten"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/costs.php"
-   --><!--#set var="title_en"     value="What was the price one had to pay for an UNIVAC 9400?"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php"
-   --><!--#set var="prev_title"   value="Übersicht Univac 9400"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.php" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.this.version" content="v5.8.0" />
-    <meta name="t29.this.summary" content="Neu mit v5.8.0" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac-kosten';
+	$version = '$Id';
+	$titel = 'Wie viel kostete die UNIVAC 9400-Anlage?';
+	
+	require '../../../lib/technikum29.php';
+?>
+<h2><?php print $titel; ?></h2>
 
   <!--<div class="center">
     <div class="bildtext-bildbreite" style="width: 930px;">-->
     <p>Es ist unglaublich, wie teuer Computer vor ca. 40 Jahren waren.
-       Wir stellen hier die Preise (in DM, für Euro-Preise ist der
+       Wir stellen hier die Preise (in DM, fÃ¼r Euro-Preise ist der
        Wert jeweils durch 2 zu teilen) unserer Anlage zusammen, die aus
        der UNIVAC-Preisliste aus den Jahren 1968-1970 entnommen wurden.</p>
 
     <p>Um sich ein noch besseres Bild vom Wert solcher Anlagen machen
-       zu können, geben wir auch die Preise als Vielfaches von
-       VW-Kraftfahrzeugen an. Für einen VW-Käfer (durchschnittliches
+       zu kÃ¶nnen, geben wir auch die Preise als Vielfaches von
+       VW-Kraftfahrzeugen an. FÃ¼r einen VW-KÃ¤fer (durchschnittliches
        KFZ im Jahre 1968) musste man damals ca. 6000,- DM bezahlen
-       (gehobene Ausführung).</p>
+       (gehobene AusfÃ¼hrung).</p>
 
     <table cellspacing="1" width="100%">
       <colgroup>
@@ -48,7 +31,7 @@
         <th>Typ</th>
         <th>Bezeichnung</th>
         <th>Preis inkl. 11% MWSt in DM</th>
-        <th>Zahl der äquivalenten VW (Stück)</th>
+        <th>Zahl der Ã¤quivalenten VW (StÃ¼ck)</th>
       </tr>
       <tr>
         <td>3019</td>
@@ -118,13 +101,13 @@
       </tr>
       <tr>
         <td></td>
-        <td>UNISCOPE 100 (Bildschirmgerät) ***)</td>
+        <td>UNISCOPE 100 (BildschirmgerÃ¤t) ***)</td>
         <td>15.000,-</td>
         <td>2</td>
       </tr>
       <tr>
         <td></td>
-        <td>Plattenstapel  (50 MB), 1 Stück</td>
+        <td>Plattenstapel  (50 MB), 1 StÃ¼ck</td>
         <td>2.950,-</td>
         <td>0,5</td>
       </tr>
@@ -132,7 +115,7 @@
         <th></th>
         <th>Summe (mit 10 Plattenstapel) ca.</th>
         <th>2.800.000,-  DM</th>
-        <th>470  Stück!!</th>
+        <th>470  StÃ¼ck!!</th>
       </tr>
     </table>
 
@@ -143,34 +126,28 @@
     </p>
 
        <p>Diese enormen Preise lassen sich nur durch die sehr hohen
-          Entwicklungskosten und den kleinen Stückzahlen erklären. 		Nebenstehende Grafik zeigt den paradoxen
-          Wertvergleich. Würde man die 470 Autos hintereinander stellen, so wäre die Länge dieser Neuwagenkette ca. 2,3 km!! Computerfirmen haben damals wirklich richtig gut
+          Entwicklungskosten und den kleinen StÃ¼ckzahlen erklÃ¤ren. 		Nebenstehende Grafik zeigt den paradoxen
+          Wertvergleich. WÃ¼rde man die 470 Autos hintereinander stellen, so wÃ¤re die LÃ¤nge dieser Neuwagenkette ca. 2,3 km!! Computerfirmen haben damals wirklich richtig gut
           verdient und konnten daher schnell expandieren.</p>
 
-       <p>Auffällig hoch sind die Kosten für den Arbeitsspeicher. Die Preise
-          hierfür sind jedoch mit der Entwicklung der Halbleiterspeicher Anfang
+       <p>AuffÃ¤llig hoch sind die Kosten fÃ¼r den Arbeitsspeicher. Die Preise
+          hierfÃ¼r sind jedoch mit der Entwicklung der Halbleiterspeicher Anfang
           der 70er Jahre schnell gefallen.</p>
 
        <p>Firmen, die einen Wartungsvertrag mit UNIVAC abgeschlossen hatten,
-          mussten dafür monatlich ca. 10.000,- DM bezahlen. Daher war es
-          preiswerter, eigene Ingenieure und Techniker hierfür einzustellen.</p>
+          mussten dafÃ¼r monatlich ca. 10.000,- DM bezahlen. Daher war es
+          preiswerter, eigene Ingenieure und Techniker hierfÃ¼r einzustellen.</p>
 
-      <p>Man konnte die Anlage von UNIVAC auch mieten, was in der frühen EDV-Zeit
-         sogar üblich war. Für die oben aufgeführte Anlage hätte man mit maximal
-         ausgebautem Arbeitsspeicher monatlich stolze 65.000,- DM bezahlen müssen. Deshalb wurden Rechenzeiten intern sekundengenau abgerechnet. 
-         Der Kauf (oder die Miete) eines solchen Rechners kam daher nur für große Unternehmen in Betracht.</p>
+      <p>Man konnte die Anlage von UNIVAC auch mieten, was in der frÃ¼hen EDV-Zeit
+         sogar Ã¼blich war. FÃ¼r die oben aufgefÃ¼hrte Anlage hÃ¤tte man mit maximal
+         ausgebautem Arbeitsspeicher monatlich stolze 65.000,- DM bezahlen mÃ¼ssen. Deshalb wurden Rechenzeiten intern sekundengenau abgerechnet. 
+         Der Kauf (oder die Miete) eines solchen Rechners kam daher nur fÃ¼r groÃŸe Unternehmen in Betracht.</p>
 
     <!--
     <ul id="nav">
-       <li><a href="/de/rechnertechnik/univac9400.php#backlink-univac9300">Übersicht Univac 9400</a></li>
+       <li><a href="/de/rechnertechnik/univac9400.php#backlink-univac9300">Ãœbersicht Univac 9400</a></li>
        <li><a href="/de/">technikum29 Startseite</a></li>
     </ul>
    -->
    <!-- absolut positioniertes Bildchen -->
     <img src="/shared/photos/rechnertechnik/univac/kosten-gleichsetzung.jpg" style="position: absolute; bottom: 5px; right: 0px;" alt="Illustration: Ein Gedankenspiel: Eine Univac 9400 entspricht 450 Autos!"  />
-
-
-</div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.php" -->
-</body>
-</html>

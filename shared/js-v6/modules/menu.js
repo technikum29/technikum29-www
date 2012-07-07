@@ -191,7 +191,9 @@ t29.menu.guide.setup = function() {
 	// ausserdem ein paar Ummodellierungen.
 	g = t29.menu.beam;
 	t29.menu.side.find(".u1").clone().appendTo(g);
-	$("ul",g).show(); // durch t29.menu.collapse.setup wurden die .u3er auf hide gesetzt. Revert!
+	g.find("ul").show(); // durch t29.menu.collapse.setup wurden die .u3er auf hide gesetzt. Revert!
+	g.find(".geraete").remove(); // geraete-Links nicht anzeigen
+	
 
 	// Texte ersetzen durch laengere verstaendlichere Beschreibungen im title
 	g.find("a[title]").each(function(){

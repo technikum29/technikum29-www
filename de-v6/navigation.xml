@@ -67,7 +67,20 @@
 					<li><a seiten_id="gamma3" href="/de-v6/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL GAMMA 3">BULL Gamma 3</a></li>
 					<li><a seiten_id="gamma10" href="/de-v6/rechnertechnik/gamma10.php" title="EDV-Anlage der 2. Generation: BULL GAMMA 10">BULL Gamma 10</a></li>
 					<li><a seiten_id="univac9200" href="/de-v6/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200</a></li>
-					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a></li>
+					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="univac-bandcontroller" href="/de-v6/geraete/univac9400/bandcontroller-laempchen.php">Tape- und Disk-Controller</a></li>
+							<li><a seiten_id="univac-frontpanel" href="/de-v6/geraete/univac9400/frontpanel.php">Frontpanel</a></li>
+							<li><a seiten_id="univac-cardreader" href="/de-v6/geraete/univac9400/kartenleser.php">Kartenleser</a></li>
+							<li><a seiten_id="univac-servo" href="/de-v6/geraete/univac9400/konsole+uniservo.php">Konsole und Uniservo</a></li>
+							<li><a seiten_id="univac-kosten" href="/de-v6/geraete/univac9400/kosten.php">Wie viel kostete die UNIVAC 9400-Anlage?</a></li>
+							<li><a seiten_id="univac-panorama-links" href="/de-v6/geraete/univac9400/panorama-links.php">Panorama Links</a></li>
+							<li><a seiten_id="univac-discdrives" href="/de-v6/geraete/univac9400/plattenlaufwerke.php">Plattenlaufwerke</a></li>
+							<li><a seiten_id="univac-highspeed-printer" href="/de-v6/geraete/univac9400/schnelldrucker.php">Schnelldrucker</a></li>
+							<li><a seiten_id="univac-board" href="/de-v6/geraete/univac9400/typisches-board.php">Module</a></li>
+							<li><a seiten_id="univac-werbung" href="/de-v6/geraete/univac9400/werbung.php">Anzeige</a></li>
+						</ul>
+					</li>
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="punchcard-collator" href="/de-v6/geraete/lochkartenmischer-funktion.php">Die Funktion des Lochkartenmischers</a></li>
@@ -140,6 +153,15 @@
 			</li>
 			<!-- die wurden vergessen: -->
 			<li><a seiten_id="speichermedien" href="/de-v6/rechnertechnik/speichermedien.php">Speichermedien</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#laufzeitspeicher">Verzögerungsspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#magnetostriktion">Magnetostriktion</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#kernspeicher">Kernspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#threaded-rom">Gefädeltes ROM</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#staebchenspeicher">Stäbchenspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#magnetdrahtspeicher">Magnetdrahtspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#lochband">Lochband</a></li>
+				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="threaded-rom" href="/de-v6/geraete/gefaedeltes-rom.php">Gefädeltes ROM: Ausschnitt</a></li>
 					<li><a seiten_id="plated-wire-storage" href="/de-v6/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des Magnetdrahtspeichers</a></li>

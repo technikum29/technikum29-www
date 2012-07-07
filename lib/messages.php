@@ -16,7 +16,7 @@ if(realpath($_SERVER['SCRIPT_FILENAME']) == __FILE__) {
 class t29Messages {
 	/// when instanciated, stores the language to lookup for _()
 	public $lang;
-
+	
 	/// The order of array elements in $msg. This array maps
 	/// $lang shortstring to array index position.
 	public static $order = array('de' => 0, 'en' => 1);
@@ -29,14 +29,16 @@ class t29Messages {
 	 * The translate function, shorthand like the gettext shorthand.
 	 * There's actually no long method name version :D
 	 * @param str_id  Some key from the $msg array
+	 * @param lang  The wanted target language (string like 'de' or 'en'). Leave empty for object default lang ($this->lang)
 	 * @returns Found string in current locale ($lang)
 	 **/
-	function _($str_id) {
+	function _($str_id, $lang=null) {
+		$lang = ($lang && isset(self::$order[$lang])) ? $lang : $this->lang;
 		if(!isset(self::$msg[$str_id])) {
 			return "&lt;$str_id&gt;"; // error; mediawiki style
 		} else {
 			if(is_array(self::$msg[$str_id])) {
-				return self::$msg[$str_id][ self::$order[$this->lang] ];
+				return self::$msg[$str_id][ self::$order[$lang] ];
 			} else
 				return self::$msg[$str_id];
 		}
@@ -52,13 +54,13 @@ class t29Messages {
 	 **/
 	function get_shorthand_printer() {
 		$t = $this;
-		return function($str)use($t) { print $t->_($str); };
+		return function($str,$lang=null)use($t) { print $t->_($str,$lang); };
 	}
 
 	/// same like get_shorthand_printer but return instead of print
 	function get_shorthand_returner() {
 		$t = $this;
-		return function($str)use($t) { return $t->_($str); };
+		return function($str,$lang=null)use($t) { return $t->_($str,$lang); };
 	}
 
 	/**
@@ -93,7 +95,9 @@ class t29Messages {
 		'sidebar-h2-mainnav'     => array('Hauptnavigation', 'Main Navigation'),
 		'sidebar-h2-lang'        => array('Sprachauswahl', 'Language'),
 
-		'topnav-interlang-title' => array('Read this page (%s) in English', 'Diese Seite (%s) auf Deutsch lesen'),
+		'topnav-interlang-title' => array('Die Seite "%s" auf Deutsch lesen', 'Read the page "%s" in English'),
+		'topnav-interlang-active' => array('Sie betrachten gerade die Seite "%s" auf Deutsch', 'You currently read the page "%s" in English'),
+		'topnav-interlang-nonexistent' => array('Diese Seite steht auf Deutsch nicht zur Verfügung', 'This page is not available in English'),
 		'topnav-search-label'    => array('Suchen', 'Search'),
 		'topnav-search-page'     => array('/suche.php', '/search.php'),
 		'opensearch-desc'        => array('technikum29 (de)', 'technikum29 (en)'),
@@ -114,7 +118,7 @@ class t29Messages {
 		'head-rel-first'         => array('Deutscher Start', 'English start'),
 		'head-rel-prev'          => array('Zur vorherigen Seite (%s)', 'Previous Page (%s)'),
 		'head-rel-next'          => array('Zur folgenden Seite (%s)', 'Next Page (%s)'),
-		'head-rel-interlang'     => array('Englische Version dieser Seite (%s)', 'Deutsche Version dieser Seite (%s)'),
+		'head-rel-interlang'     => array('Deutsche Version dieser Seite (%s)', 'English Version of this page (%s)'),
 		
 		// used in /shared/js/modules/heading_links.js
 		'js-heading-links'       => array("Direktlink zu diesem Abschnitt", "Link to this section"),

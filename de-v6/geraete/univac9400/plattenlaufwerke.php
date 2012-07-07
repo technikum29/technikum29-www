@@ -1,44 +1,22 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
-<head><!--#set var="title"        value="Univac 9400 Plattenlaufwerke"
-   --><!--#set var="location"     value="univac-discdrives"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_en"       value="devices/univac9400/discdrives.php"
-   --><!--#set var="title_en"     value="Univac 9400 disc drives"
-   --><!--#set var="prev"         value="/de/rechnertechnik/univac9400.php#backlink-plattenlaufwerke"
-   --><!--#set var="prev_title"   value="Übersicht Univac 9400"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/de/inc/head.inc.php" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.this.version" content="v5.7" />
-    <meta name="t29.this.summary" content="FINAL fertig" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac-discdrives';
+	$version = '$Id';
+	$titel = 'Univac 9400 Plattenlaufwerke';
+	
+	require '../../../lib/technikum29.php';
+?>
+<h2><?php print $titel; ?></h2>
 
 <div class="box center">
     <img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.jpg" alt="Die Plattenlaufwerke" width="595" height="446" />
     <div class="bildtext-bildbreite" style="width: 595px;">
-        <p>Plattenlaufwerke haben gegenüber den Bändern den großen Vorteil der kurzen Zugriffszeit. Die Steuerung der Laufwerke und der 10-fach Köpfe ist jedoch sehr aufwändig. Dazu bedurfte es eines ganzen Schrankes mit Elektronik.
-        <br />Die Speicherkapazität der ursprünglichen Laufwerke "8414" beträgt 7,5 MB pro Plattenstapel. Mit unseren Plattenlaufwerken, die Anfang der 70er Jahre gebaut wurden (Typ "8425") lassen sich bereits 50 MB speichern. Damals waren das ungeheuerliche Kapazitätsdimensionen.<br>
+        <p>Plattenlaufwerke haben gegenÃ¼ber den BÃ¤ndern den groÃŸen Vorteil der kurzen Zugriffszeit. Die Steuerung der Laufwerke und der 10-fach KÃ¶pfe ist jedoch sehr aufwÃ¤ndig. Dazu bedurfte es eines ganzen Schrankes mit Elektronik.
+        <br />Die SpeicherkapazitÃ¤t der ursprÃ¼nglichen Laufwerke "8414" betrÃ¤gt 7,5 MB pro Plattenstapel. Mit unseren Plattenlaufwerken, die Anfang der 70er Jahre gebaut wurden (Typ "8425") lassen sich bereits 50 MB speichern. Damals waren das ungeheuerliche KapazitÃ¤tsdimensionen.<br>
 		Wir haben zur Zeit 3 Plattenlaufwerke angeschlossen.</p>
     </div>
 	</div>
 	<div class="box center">
-    <img src="/shared/photos/rechnertechnik/univac/diskkoepfe.jpg" alt="Disk-Köpfe des Laufwerkes" width="595" height="511" />
+    <img src="/shared/photos/rechnertechnik/univac/diskkoepfe.jpg" alt="Disk-KÃ¶pfe des Laufwerkes" width="595" height="511" />
     <div class="bildtext-bildbreite" style="width: 595px;">
-	<p>Wahrlich gigantisch groß sind die Köpfe der Disk-Laufwerke. Die Tauchspule links taucht in einen sehr starken Topfmagnet (nicht abgebildet) ein und muss den gesamten Schlitten mit äußerster Präzision (wird fotoelektrisch per Interferenz gemessen) blitzschnell auf seine Position bringen. Das Prinzip ähnelt dem eines simplen Lautsprechers. Jedoch ist die zu beschleunigende (abzubremsende) Masse ungleich größer. Im Vorgängermodell wurde der Schlitten durch pneumatische Kräfte bewegt.<br>Als Größenvergleich dient eine Flasche Wein.</p></div>
+	<p>Wahrlich gigantisch groÃŸ sind die KÃ¶pfe der Disk-Laufwerke. Die Tauchspule links taucht in einen sehr starken Topfmagnet (nicht abgebildet) ein und muss den gesamten Schlitten mit Ã¤uÃŸerster PrÃ¤zision (wird fotoelektrisch per Interferenz gemessen) blitzschnell auf seine Position bringen. Das Prinzip Ã¤hnelt dem eines simplen Lautsprechers. Jedoch ist die zu beschleunigende (abzubremsende) Masse ungleich grÃ¶ÃŸer. Im VorgÃ¤ngermodell wurde der Schlitten durch pneumatische KrÃ¤fte bewegt.<br>Als GrÃ¶ÃŸenvergleich dient eine Flasche Wein.</p></div>
 </div>
-
-</div><!--content-->
-<!--#include virtual="/de/inc/menu.inc.php" -->
-</body>
-</html>

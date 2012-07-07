@@ -120,9 +120,9 @@ class t29Template {
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {
-		if($lang != $this->conf['lang']) {
+		if($lang != $this->conf['lang'] && !is_null($a)) {
 			printf('<link rel="alternate" href="%s" hreflang="%s" title="%s">',
-				$a['href'], $lang, sprintf($_('head-rel-interlang'), $a)
+				$a['href'], $lang, sprintf($_('head-rel-interlang', $lang), $a)
 			);
 		}
 	}
@@ -191,9 +191,23 @@ class t29Template {
 			<ul>
 				<?php
 					foreach($this->interlang_links as $lang => $a) {
+						$is_current_lang = $lang == $this->conf['lang'];
+						if(is_null($a)) {
+							// when interlanguage link not present (null) = no translation exists
+							$a = t29Menu::dom_new_link('#', 'not present');
+							$title = sprintf($_('topnav-interlang-nonexistent', $lang));
+							$class = 'nonexistent';
+						} elseif($is_current_lang) {
+							$title = sprintf($_('topnav-interlang-active'), $a);
+							$class = 'active';
+						} else {
+							// ordinary interlang link
+							$title = sprintf($_('topnav-interlang-title', $lang), $a);
+							$class = '';
+						}
 						printf("\t\t\t\t<li%s><a href='%s' title='%s'>%s</a></li>\n",
-							($lang == $this->conf['lang'] ? ' class="active"' : ''),
-							$a['href'], sprintf($_('topnav-interlang-title'), $a),
+							(empty($class) ? '' : " class='$class'"),
+							$a['href'], htmlspecialchars($title),
 							$this->conf['languages'][$lang][0] // verbose language name
 						);
 					}

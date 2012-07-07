@@ -39,7 +39,7 @@
 		</p>
 
 
-<h3>Laufzeitspeicher: Magnetostriktion</h3>
+<h3 id="magnetostriktion">Laufzeitspeicher: Magnetostriktion</h3>
 
 <div class="box center manuelle-bildbreite" style="max-width: 860px">
 	<img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="421" height="393" />

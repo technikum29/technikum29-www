@@ -70,7 +70,7 @@ class t29Cache {
 	 **/
 	function is_valid() {
 		// no double calculation
-		if($this->is_valid) return $this->is_valid;
+		if($this->is_valid !== null) return $this->is_valid;
 
 		if($this->debug) {
 			print '<pre>';

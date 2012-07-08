@@ -105,12 +105,12 @@
 			<li><a seiten_id="rundfunk" href="/en-v6/communication/broadcasting.php">Broadcasting</a></li>
 			<li><a seiten_id="tontechnik" href="/en-v6/communication/sound_technology.php">Sound recording and reproducing technology</a></li>
 			<li><a seiten_id="fernsehen" href="/en-v6/communication/television.php">Television</a></li>
-			<li><a seiten_id="faxtechnik" href="/en-v6/communication/fax.pjp">Telegraphy and Fax engineering</a></li>
+			<li><a seiten_id="faxtechnik" href="/en-v6/communication/fax.php">Telegraphy and Fax engineering</a></li>
 		</ul>
 	</li>
-	<li><a href="/en-v6/kommunikaionstechnik/measurement.php#DUMME-VERLINKUNG">Weitere Themen</a>
+	<li><a href="/en-v6/communication/measurement.php#DUMME-VERLINKUNG">Miscellaneous</a>
 		<ul class="u2">
-			<li><a seiten_id="messtechnik" href="/en-v6/kommunikaionstechnik/measurement.php">Measurement and Experimental technology</a></li>
+			<li><a seiten_id="messtechnik" href="/en-v6/communication/measurement.php">Measurement and Experimental technology</a></li>
 			<li><a seiten_id="sonstiges" href="/en-v6/miscellaneous.php">Pianola</a></li>
 			<li><a href="/en-v6/miscellaneous.php#kinomaschine">Movie projector</a></li>
 		</ul>

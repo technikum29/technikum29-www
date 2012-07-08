@@ -69,13 +69,13 @@ t29.img_license.tag_top = function() {
 			$(window).scrollTop()+$(window).height()));
 };
 
-// use this function from outer, see onload for help.
+// use this function from outer, see setup for help.
 // improvement possibility: converse to $.fn so can call $("img#my").img_license();
 t29.img_license.apply = function($elem) {
 	$elem.hover(t29.img_license.hover_in, t29.img_license.hover_out);
 };
 
-t29.img_license.onload = function() {
+t29.img_license.setup = function() {
 	$("body").append('<div id="img-license-tag"><p>'+t29._('js-img-license')+'</p></div>');
 	t29.img_license.tag = $("#img-license-tag");
 
@@ -85,5 +85,3 @@ t29.img_license.onload = function() {
 	// enable on all images
 	t29.img_license.apply( $("img").not(t29.img_license.settings.exclude) );
 };
-
-$(t29.img_license.onload);

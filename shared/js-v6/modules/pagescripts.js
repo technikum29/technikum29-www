@@ -58,11 +58,12 @@ t29.page.telefunkent40w = function() {
 	$('head').append('<script type="text/javascript" src="/shared/js-v6/telefunken-t40w.js"></script>');
 }
 
-t29.common = function(){
+t29.page.setup = function(){
 	pagename = t29.conf.seiten_id;
-	if(t29.page[pagename])
+	if(t29.page[pagename]
+	  && (pagename != "setup")) // no recursion
 		t29.page[pagename]();
 };
 
 // to execute, run:
-$(t29.common);
+//$(t29.common);

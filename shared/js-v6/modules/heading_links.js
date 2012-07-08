@@ -12,8 +12,9 @@
  **/
 
 if(!t29) window.t29 = {}; // the t29 namespace
- 
-t29.heading_links = function() {
+
+t29.heading_links = {};
+t29.heading_links.setup = function() {
 	$("#content").find("h2,h3").not("h2:first").each(function(){
 		anchor = ($(this).attr("title") || $(this).attr("id") || $(this).text())
 			.replace(/\s+/g, '_').replace(/[?!"']/g, '').replace(/^_+|_+$/g, '');
@@ -29,5 +30,3 @@ t29.heading_links = function() {
 		//$('html, body').animate({scrollTop: link.offset().top}, 1000);  // smooth scrolling
 		$('html, body').scrollTop(link.parent().offset().top); // springen
 }
-
-$(t29.heading_links);

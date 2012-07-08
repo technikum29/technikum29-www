@@ -69,7 +69,7 @@
        </p>
 <p class="small">
 Excerpt from the original prospekt:<br>
-This is a highly flexible and accurate analog computer, designed to fill requirements not presently met by commercial computer. It is an instrument suitable for use as a design tool in industry and universities. An advanced ìslide ruleî which permits engineering or research personnel to electronically simulate equations or physical problems and save many hours of calculation or experimentation.....
+This is a highly flexible and accurate analog computer, designed to fill requirements not presently met by commercial computer. It is an instrument suitable for use as a design tool in industry and universities. An advanced ‚Äúslide rule‚Äù which permits engineering or research personnel to electronically simulate equations or physical problems and save many hours of calculation or experimentation.....
 Because it is a kit, and the labor and overhead costs found in present day computers are eliminated, the Heath Computer can be obtained for use in situations where a computer was ruled out in the past because of cost.......</p>
     </div>
 

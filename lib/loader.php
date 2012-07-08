@@ -47,7 +47,6 @@ if($conf == null)
 	die("Illegal type. Valid types are: ". implode($types));
 extract($conf); // for saving long human reading times :D
 
-
 require "$lib/cache.php";
 $js_cache = new t29Cache();
 $js_cache->test_files = $modules;
@@ -59,5 +58,5 @@ if(!$debug) $js_cache->try_cache_and_exit();
 # so we are still in the game
 require "$lib/ressourceloader.php";
 $loader = new $class($conf);
-$js_cache->start_cache(array($loader, 'compression_filter'), true);
+if(!$debug) $js_cache->start_cache(array($loader, 'compression_filter'), true);
 $loader->run();

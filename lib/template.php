@@ -103,6 +103,9 @@ class t29Template {
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
   <?php
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
+	if(isset($_GET['debug']))
+		foreach(explode(' ','debug rl_debug skip_cache purge_cache verbose_cache') as $x)
+			printf("\n  <meta name='t29.template.data-%s' content='%s'>", $x, isset($_GET[$x])?'true':'false');
   ?>
   
   <?php
@@ -250,7 +253,7 @@ class t29Template {
 		</div>
     </footer>
   </div> <!--! end of #container -->
-
+</div><!-- end of div id="footer-background-container" helper -->
 
   <!-- JavaScript at the bottom for fast page loading -->
 
@@ -263,7 +266,6 @@ class t29Template {
 	foreach($this->get_ressourceloader_links('js') as $js)
 		printf('  <script src="%s"></script>'.PHP_EOL, $js);
   ?>
-</div><!-- end of div id="footer-background-container" helper -->
 </body>
 </html>
 <?php

@@ -128,7 +128,7 @@ how should we communicate to the computer (automatically)? Furthermore, in which
 should we represent a punch card with binary digits (zeros and ones)?
 <br/>While modeling 8 bit paper tapes into 8 bit bytes is trivial, a punch card, having
 80 columns with 12 rows each, is much more complex. Therefore we wrote the
-<a href="http://dev.technikum29.de/projects/export/head/punch-card-project/trunk/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
+<a href="http://dev.technikum29.de/projects/export/head/punch-card-project/trunk/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 ÂµC Serial Communication Protocol</a> that defines the
 way how computer and microcontroller shall communicate autonomously. It defines, that
 two punch card columns shall be packed into three octetts, each. This binary format has
 been proposed by the computer sciencist <a href="http://www.cs.uiowa.edu/~jones/">Douglas

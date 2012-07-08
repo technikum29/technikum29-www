@@ -7,9 +7,9 @@
 
  if( ($en !== false && $de !== false && $de < $en) ||
      ($en === false && de !== false)              )
-        header("Location: /de/");
+        header("Location: /de-v6/");
  else
-        header("Location: /en/");
+        header("Location: /en-v6/");
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">

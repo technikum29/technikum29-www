@@ -13,6 +13,12 @@ $lib = dirname(__FILE__);
 $webroot = realpath("$lib/../");  # file path to root of t29 web installation
 $file = substr($_SERVER['SCRIPT_FILENAME'], strlen($_SERVER['DOCUMENT_ROOT'])); # e.g.: "/de/page.php"
 
+// exactly define debugging behaviour
+if(isset($_GET['debug'])) {
+	$_GET['purge_cache'] = true;
+	$_GET['rl_debug'] = true;
+}
+
 $cache_dir = "$webroot/shared/cache";
 $languages = array(
 // shorthand => array(full name in page, path from webroot)

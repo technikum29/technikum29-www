@@ -14,10 +14,9 @@
  **/
 
 if(!t29) window.t29 = {}; // the t29 namespace
- 
-t29.auto_bildbreite = function() {
+
+t29.auto_bildbreite = {};
+t29.auto_bildbreite.setup = function() {
 	$("div.auto-bildbreite, div.desc-right, div.desc-left")
 		.each(function(){ $(this).css("width", $("img", this).width()); });
 }
-
-$(t29.auto_bildbreite);

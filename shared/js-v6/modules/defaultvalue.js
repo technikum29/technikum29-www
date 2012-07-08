@@ -28,5 +28,3 @@ t29.defaultvalue.setup = function() {
 		if($("input.text").hasClass("defaultvalue")) {i.focus();return false;}
 	});
 };
-
-$(t29.defaultvalue.setup);

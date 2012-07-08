@@ -45,4 +45,4 @@ t29.tr.preloader.onload = function() {
 	}
 }
 
-$(t29.tr.preloader);
+//$(t29.tr.preloader);

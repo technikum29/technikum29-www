@@ -6,7 +6,8 @@
 
 if(!t29) window.t29 = {}; // the t29 namespace
 
-t29.smoothscroll = function() {
+t29.smoothscroll = {};
+t29.smoothscroll.setup = function() {
 	$("nav.side a").smoothScroll();
 	
 	if(location.hash) {
@@ -16,7 +17,7 @@ t29.smoothscroll = function() {
 	}
 };
 
-$(t29.smoothscroll);
+//$(t29.smoothscroll);
 
 
 /*!

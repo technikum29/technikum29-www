@@ -24,30 +24,89 @@ t29.menu.setup = function() {
 	t29.menu.guide.setup();
 };
 
-//////////////////////////// Menu Collapsed System.
+/***************************************************************************************
+  1. Collapsable Menu system  t29.menu.collapsed
+  
+     The collapsable menu system is capable of collapse parts of the menu by user
+     interaction or program request. The current state is stored in t29.prefs.
+
+***************************************************************************************/
+
+/**
+ * Construct a new collapsible. It needs three named arguments:
+ *   c = new t29.menu.Collapsible({
+ *       id: 'foobar',  // a senseful id for the t29.prefs cookie system
+ *       lists: $(".your ul"),  // some element which should be collapsed
+ *       button: $("<button/>").appendTo("body"); // some button which should do the work
+ *   });
+ *
+ **/
+t29.menu.Collapsible = function(arglist) {
+	for (var n in arguments[0]) { this[n] = arguments[0][n]; }
+	this.store_key = 'menu-collapsible-'+this.id; // key for t29.prefs.get/set
+
+	// default values
+	if(!this.button)
+		this.button = $('<span class="button collapse-menu"></span>')
+		              .addClass('for-'+this.id).appendTo("nav.side");
+
+	// constants for the 'set' method
+	this.FOLD = true;   this.EXPAND = false;
+	this.QUICK = true;  this.ANIMATE = false;
+
+	// set initial state
+	this.set(t29.prefs.get(this.store_key, this.FOLD), this.QUICK);
+	
+	// set button callback
+	this.button.click($.proxy(function(){ this.set(); }, this));
+}
+
 /**
  * Menu ein- oder ausklappen.
+ * 
  * @param target_state  true: Eingeklappt, false: ausgeklappt
  * @param quick  true=keine Animation, false/undefined=Animation
  **/
-t29.menu.collapsed.set = function(collapse, quick) {
-	if(collapse==undefined) collapse = !t29.menu.collapsed.is();
-	log("Collapse zu "+(collapse?"KLEIN":"GROß")+" quick="+quick);
-	if(quick) collapse ? t29.menu.collapsed.lists.hide() : t29.menu.collapsed.lists.show();
-	else      collapse ? t29.menu.collapsed.lists.slideUp() : t29.menu.collapsed.lists.slideDown();
-	t29.menu.collapsed.but.text(t29._(collapse ? "js-menu-collapse-out" : "js-menu-collapse-in"));
-	collapse ? $("html").addClass("collapsed-menu") : $("html").removeClass("collapsed-menu");
+t29.menu.Collapsible.prototype.set = function(collapse, quick) {
+	if(collapse == undefined)
+		collapse = ! this.is_collapsed();
+	log("Collapsing "+this.id+" to " +(collapse==this.FOLD ? "klein (fold)" : "gross (expand)")+" quick = " + (quick==this.QUICK ? "quick!" : "animated"));
+	if(quick) collapse ? this.lists.hide()    : this.lists.show();
+	else      collapse ? this.lists.slideUp() : this.lists.slideDown();
+	this.button.text(t29._(collapse ? "js-menu-collapse-out" : "js-menu-collapse-in"));
+	//collapse ? $("html").addClass("collapsed-menu") : $("html").removeClass("collapsed-menu");
+	t29.prefs.set(this.store_key, collapse);
 }
+
 // returns whether menu is collapsed (boolean).
-t29.menu.collapsed.is = function() { return $("html").hasClass("collapsed-menu"); };
+t29.menu.Collapsible.prototype.is_collapsed = function() { return t29.prefs.get(this.store_key) == this.FOLD; }
+
 t29.menu.collapsed.setup = function() {
-	t29.menu.collapsed.but = $('<span class="button collapse-menu"></span>').appendTo("nav.side");
-	t29.menu.collapsed.lists = $("nav.side .u3").not("nav.side li.active > .u3"); // ein/auszuklappende Listen
-	t29.menu.collapsed.set(true, true); // initial state
-	t29.menu.collapsed.but.click(function(){ t29.menu.collapsed.set(); });
+	// set up some collapsible lists
+	t29.menu.collapsed.u3 = new t29.menu.Collapsible({
+		id: 'u3',
+		lists: $("nav.side .u3").not("nav.side li.active > .u3, .geraete"),
+	});
+
+	/*t29.menu.collapsed.geraete = new t29.menu.Collapsible({
+		id: 'geraete',
+		lists: $("nav.side ul.geraete"),
+	});*/
+	
+	// hide geraete
+	//t29.menu.collapsed.geraete.button.hide();
+	$("ul.geraete").hide();
 };
 
-//////////////////////////// Menu Scroll System
+/***************************************************************************************
+  2. Menu scroll system  t29.menu.scroll
+  
+     The scrollable menu system can handle a position:fixed navigation area with dynamic
+     switching to static or absolute positioning. It is narrowly toothed to the
+     collapse system. Current state is stored in t29.prefs.
+
+***************************************************************************************/
+
 // enums, die CSS-Klassen im <html> entsprechen:
 t29.menu.scroll.States = Object.freeze({STATIC:"static-menu",FIX:"fixed-menu",STICK_TOP:"stick-top-menu",STICK_BOTTOM:"stick-bottom-menu"});
 /**
@@ -75,7 +134,7 @@ t29.menu.scroll.set = function(target_state) {
 			// Menue schlaegt obene an. Prinzipiell Gleicher Zustand wie STATIC. Weiter.
 		case t29.menu.scroll.States.STATIC:
 			// die CSS-Klassen regeln eigentlich alles.
-			t29.menu.collapsed.but.show();
+			t29.menu.collapsed.u3.button.show();
 			t29.menu.scroll.but.text(t29._("js-menu-scroll-show"));
 			t29.menu.side.show();
 			break;
@@ -98,8 +157,8 @@ t29.menu.scroll.set = function(target_state) {
 				}
 			}*/
 
-			t29.menu.collapsed.set(true, true); // Sicherstellen, dass Navi eingeklappt.
-			t29.menu.collapsed.but.hide(); // Ausgeklappte Navi passt auf keinen Bildschirm.
+			t29.menu.collapsed.u3.set(true, true); // Sicherstellen, dass Navi eingeklappt.
+			t29.menu.collapsed.u3.button.hide(); // Ausgeklappte Navi passt auf keinen Bildschirm.
 			t29.menu.scroll.but.text(t29._("js-menu-scroll-hide"));
 			break;
 		case t29.menu.scroll.States.STICK_BOTTOM:
@@ -113,7 +172,29 @@ t29.menu.scroll.set = function(target_state) {
 
 t29.menu.scroll.setup = function() {
 	t29.menu.scroll.but = $('<span class="button get-menu"></span>').appendTo("section.sidebar");
-	t29.menu.scroll.set(t29.menu.scroll.States.STATIC); // initial state
+
+	/**
+	 * t29.prefs and t29.menu.scroll: Valid values are only FIX and STATIC.
+	 * Crossover states like STICK_BOTTOM, STICK_TOP shall not be stored.
+	 **/
+	t29.menu.scroll.store_key = 'menu-scroll'; // key for accessing t29.prefs value
+	
+	// set initial state:
+	initial = t29.prefs.get(t29.menu.scroll.store_key, t29.menu.scroll.States.STATIC);
+	switch(initial) {
+		case t29.menu.scroll.States.STATIC:
+			t29.menu.scroll.set(initial);
+			break;
+		case t29.menu.scroll.States.FIX:
+			// davon ausgehend, dass wir uns ganz oben befinden beim Seiten-Laden.
+			// TODO / PENDING: Wenn man mit Anker #foobar auf die Seite reinkommt,
+			//                 ist das nicht der Fall! Das kann kombiniert werden
+			//                 mit t29.smoothscroll!
+			t29.menu.scroll.set(t29.menu.scroll.States.STICK_TOP);
+			break;
+		default:
+			log("t29.menu.scroll.setup: Invalid value "+initial+" for initial prefs");
+	}
 	
 	t29.menu.scroll.but.click(function(){
 		switch(t29.menu.scroll.state) {
@@ -122,12 +203,15 @@ t29.menu.scroll.setup = function() {
 				t29.menu.side.hide();
 				t29.menu.scroll.set(t29.menu.scroll.States.FIX);
 				t29.menu.side.fadeIn();
+				t29.prefs.set(t29.menu.scroll.store_key, t29.menu.scroll.States.FIX);
 				break;
 			case t29.menu.scroll.States.FIX:
 			case t29.menu.scroll.States.STICK_BOTTOM:
 				// zu Static uebergehen, mit Animation.
 				t29.menu.side.fadeOut(function(){
-					t29.menu.scroll.set(t29.menu.scroll.States.STATIC); });
+					t29.menu.scroll.set(t29.menu.scroll.States.STATIC);
+				});
+				t29.prefs.set(t29.menu.scroll.store_key, t29.menu.scroll.States.STATIC);
 				break;
 			case t29.menu.scroll.States.STICK_TOP:
 			default:
@@ -157,7 +241,7 @@ t29.menu.scroll.setup = function() {
 			case t29.menu.scroll.States.STICK_TOP:
 				if(y > t29.menu.scroll.origin_top) {
 					// wir sind wieder weiter runter gescrollt.
-					if(t29.menu.collapsed.is())
+					if(t29.menu.collapsed.u3.is_collapsed())
 						// und der Benutzer hat zwischenzeitlich nicht das Menue ausgeklappt
 						t29.menu.scroll.set(t29.menu.scroll.States.FIX);
 					else
@@ -185,7 +269,14 @@ t29.menu.scroll.setup = function() {
 }; // end t29.menu.scroll.setup.
 
 
-//////////////////////////// Footer Guided Tour System (auch Menu)
+/***************************************************************************************
+  2. Footer Guided Tour System   t29.menu.guide
+  
+     The "beam" is a fancy jquery application where the menu is cloned and displayed
+     in the footer in a very other way. This is quite static compared to the
+     applications above.
+
+***************************************************************************************/
 t29.menu.guide.setup = function() {
 	// Zentraler Hauptschritt: Das Menue ab oberster Ebene klonen und im Footer dranhaengen,
 	// ausserdem ein paar Ummodellierungen.
@@ -249,5 +340,3 @@ t29.menu.guide.setup = function() {
 	t29.menu.rel.find(".next a").width(rest);
 	*/
 };
-
-$(t29.menu.setup);

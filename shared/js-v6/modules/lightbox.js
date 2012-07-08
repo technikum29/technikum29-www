@@ -7,8 +7,9 @@
  **/
  
 if(!t29) window.t29 = {}; // the t29 namespace
- 
-t29.lightbox = function() {
+
+t29.lightbox = {};
+t29.lightbox.setup = function() {
 	var elements = $("#content .popup");
 	if(elements.length) {
 		// we have fancybox elements on this page. Load Javascript and CSS
@@ -34,5 +35,3 @@ t29.lightbox = function() {
 		});
 	} // if lightbox elements
 }
-
-$(t29.lightbox);

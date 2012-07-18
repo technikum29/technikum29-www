@@ -75,7 +75,7 @@
 </div>
 
 <div class="box center auto-bildbreite">
-   <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher.big.jpg" alt="Abbildung eines Kernspeichers im Vergleich zu einem Streichholz" width="629" height="443" />
+   <img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher.big.jpg" alt="Abbildung eines Kernspeichers im Vergleich zu einem Streichholz" width="629" height="443" class="weisser-rahmen" />
    <p class="bildtext"><b>Speicherebene mit 16.000 Bit Kapazität</b></p></div>
    <!--class="bildtext-bildbreite" style="width: 629px">-->
 	  <p>Die Kapazit&auml;t der Kernspeicher wurde immer gr&ouml;&szlig;er bei drastisch abnehmenden Volumen. Das Bild zeigt eine Ebene eines Speichers (Bj. ca. 1975-1978). Die Fl&auml;che entspricht der des 144-Bit-Speichers. Die Kerne sind mit blo&szlig;em Auge nicht mehr zu erkennen. In dieser Ebene befinden sich &uuml;ber 16000 Kerne. Nur in einer Vergr&ouml;&szlig;erung sind sie sichtbar. Der Speicherblock beinhaltet 16 Ebenen (= Wortlänge) mit insgesamt ca. 256000 Kernen, er kann also 32 kB speichern. Dazu wurde ein Volumen von ca. 2,5 dm&sup3; ben&ouml;tigt, das entspricht 2,5 Milcht&uuml;ten! Damit sind die Grenzen und auch das Ende dieser Speicher&auml;ra aufgezeigt.

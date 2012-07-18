@@ -102,8 +102,8 @@ class t29Messages {
 		'topnav-search-page'     => array('/suche.php', '/search.php'),
 		'opensearch-desc'        => array('technikum29 (de)', 'technikum29 (en)'),
 
-		'js-menu-collapse-out'   => array('Menü ausklappen', 'Expand menu'),
-		'js-menu-collapse-in'    => array('Menü einklappen', 'Fold menu'),
+		'js-menu-collapse-out'   => array('Mehr Details', 'Expand menu'),
+		'js-menu-collapse-in'    => array('Weniger Details', 'Fold menu'),
 		'js-menu-scroll-show'    => array('Menü einblenden', 'Show menu'),
 		'js-menu-scroll-hide'    => array('Menü ausblenden', 'Hide menu'),
 

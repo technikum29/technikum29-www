@@ -70,7 +70,7 @@ class t29Menu {
 	}
 	
 	///////////////////// RETURN INFOS ABOUT SEITEN_ID LINK
-	function get_link_infos($seiten_id=false) {
+	function find_link($seiten_id=false) {
 		if($this->xml_is_defective()) {
 			return null;
 		}
@@ -100,7 +100,7 @@ class t29Menu {
 				'lang_path' => $lconf[1],
 			));
 
-			$link = $foreign_menu->get_link_infos($seiten_id);
+			$link = $foreign_menu->find_link($seiten_id);
 			$interlinks[$lang] = $link;
 		}
 		
@@ -117,6 +117,7 @@ class t29Menu {
 	public static function dom_new_link($href, $label) {
 		return new SimpleXMLElement(sprintf('<a href="%s">%s</a>', $href, $label));
 	}
+
 
 	///////////////////// MENU ACTIVE LINK DETECTION
 	/**
@@ -155,6 +156,13 @@ class t29Menu {
 			$adom = dom_import_simplexml($a);
 			$adom->removeAttribute('seiten_id');
 		}
+
+		// Geraete-Seiten entfernen
+		$geraete_uls = $xml->xpath("//ul[contains(@class, 'geraete')]");
+		foreach($geraete_uls as $ul) {
+			$uld = dom_import_simplexml($ul);
+			$uld->parentNode->removeChild($uld);
+		}
 	
 		if($xpath_menu_selection == self::horizontal_menu) {
 			# inject news
@@ -185,15 +193,20 @@ class t29Menu {
 		if(!$xml) { print "<i>Sidebar not found</i>"; return; }
 		$sidebar = $xml[0];
 		
+		
 		$return = array();
 		$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
 		if(count($current_a)) {
 			foreach(array(
-			  "prev" => "preceding::a[@seiten_id][1]",
-			  "next" => "following::a[@seiten_id][1]") as $rel => $xpath) {
-				$node = $current_a[0]->xpath($xpath);
-				if(count($node))
-					$return[$rel] = $node[0]; # $node[0] = <a href=../> tag
+			  "prev" => "preceding::a[@seiten_id]",
+			  "next" => "following::a[@seiten_id]") as $rel => $xpath) {
+				$nodes = $current_a[0]->xpath($xpath);
+				foreach($rel == "prev" ? array_reverse($nodes) : $nodes as $link) {
+					$is_geraete = count($link->xpath("ancestor::ul[contains(@class, 'geraete')]"));
+					if($is_geraete) continue; // skip geraete links
+					$return[$rel] = $link;
+					break; // just take the first matching element
+				}
 			}
 		} else {
 			// TODO PENDING: Der Fall tritt derzeit niemals ein, da das XML
@@ -202,6 +215,35 @@ class t29Menu {
 			$return['start'] = t29Menu::dom_new_link('#', 'bla');
 		}
 		return $return;
+	}
+	
+	/**
+	 * Construct link class information as an array, containing:
+	 *  - navigation list membership (in-nav-horizontal, in-nav-side)
+	 *  - parental ul classes (in-u2, in-u3, in-geraete, ...)
+	 * @returns array with individual class names as strings
+	 **/
+	function get_link_classes($seiten_id=false) {
+		if($this->xml_is_defective())
+			return array();
+		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
+		
+		$link = $this->find_link($seiten_id);
+		if(!$link) return array(); // if not found
+		$classes = array();
+		
+		// navigation list membership
+		$nav = $link->xpath("ancestor::nav");
+		$nav_type = $nav[0]['class'];
+		$classes[] = "in-nav-$nav_type";
+		
+		// direct parental ul classes
+		$ul = $link->xpath("ancestor::ul");
+		$parent_ul = array_pop($ul);
+		foreach(explode(' ',$parent_ul['class']) as $c)
+			$classes[] = "in-$c";
+		
+		return $classes;
 	}
 
 } // class

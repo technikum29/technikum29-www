@@ -33,7 +33,7 @@ t29.img_license.settings = {
 	treshold_size : [255,100], // [w,h]
 	
 	// selector to exclude images from being license tagged
-	exclude : "img.no-copyright, .no-copyright img, .start img, .impressum img"
+	exclude : "img.no-copyright, .no-copyright img, body.page-startseite img, body.page-impressum img"
 };
 
 // configuration end
@@ -50,7 +50,7 @@ t29.img_license.hover_in = function(){
 		return;
 	t29.img_license.img = $(this);
 	t29.img_license.tag.css({
-		left: $(this).offset().left,
+		left: $(this).offset().left + parseInt($(this).css("border-left-width")),
 		// top: tag_top();
 		width: $(this).width(),
 		display: "block"
@@ -65,8 +65,11 @@ t29.img_license.hover_out = function(){
 t29.img_license.tag_top = function() {
 	if(t29.img_license.img)
 		t29.img_license.tag.css("top", Math.min(
-			t29.img_license.img.offset().top + t29.img_license.img.height(),
-			$(window).scrollTop()+$(window).height()));
+			t29.img_license.img.offset().top
+			   + parseInt(t29.img_license.img.css("border-top-width"))
+			   + t29.img_license.img.height(),
+			$(window).scrollTop() + $(window).height()
+		));
 };
 
 // use this function from outer, see setup for help.

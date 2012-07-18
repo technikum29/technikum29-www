@@ -20,8 +20,8 @@
     </div>
 	
     <p>Dieser Rechner ist aus vieler Hinsicht historisch hochinteressant: 1.  Der Hardware-Aufwand ist extrem gering. 2. Im Wesentlichen arbeitet der Rechner mit einem BUS-System. 3. Er hat eine Festplatte, die alle Register und Taktspuren enthält. Wie auf obigem Bild zu erkennen ist, haben wir zwei komplette Anlagen, was die Reparatur bei Defekten erheblich erleichtert.<br>
-	Aus dem Original-Prospekt von 1964:<br>
-	"Der <b>LGP-21</b> wird von der Firma Schoppe & Faeser GmbH im Lizenzbau für Europa hergestellt und von der <b>EUROCOMP</b> GmbH vertrieben."<br> Entwickelt wurde der LGP-21 von Librascope Division -GPI- (USA), die damals zu den größten Rechenmaschinenherstellern der Welt gehörte. In den USA wurde der Rechner ab 1962 von "General Precision" verkauft.
+	Aus dem Original-Prospekt von 1964: <q>"Der <b>LGP-21</b> wird von der Firma Schoppe & Faeser GmbH im Lizenzbau für Europa hergestellt und von der <b>EUROCOMP</b> GmbH vertrieben."</q>
+	<p>Entwickelt wurde der LGP-21 von Librascope Division -GPI- (USA), die damals zu den größten Rechenmaschinenherstellern der Welt gehörte. In den USA wurde der Rechner ab 1962 von "General Precision" verkauft.
 	Es handelt sich um einen ausgesprochen kleinen Computer, der aber dennoch als <b>"Der erste vollständige programmgesteuerte Digitalrechner unter 60.000,- DM für die Grundausstattung"</b> angeboten wurde. Das war natürlich nur der Preis für die nackte CPU und einem "Flexowriter". Dieser Rechner war der Nachfolger des LGP-30 (1. Computergeneration, ab 1956), der ebenfalls von Schoppe & Faeser unter Lizenz hergestellt wurde. Der LGP21-Rechner ist sehr selten. Nur ca. 100 Stück wurden davon gebaut. Eine absolute Rarität ist das Magnetband-Laufwerk von dem etwa fünf Stück hergestellt wurden. Unser Gerät hat die Seriennummer 4.</p>
 	
 	<div class="box left clear-after">
@@ -77,14 +77,12 @@
     <div class="box left">
           <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" />		
 	</div>
-	<div class="box center" style="min-width: 840px;">
-		  
+	<div class="box center">
+		<div class="center auto-bildbreite inline-block">
 			<img src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i Bedienungspannel" /> 
-			
-			
 			<p class="bildtext small">PDP-8/I Anlage mit DEC-Tapes TU55, Hochgeschwindigkeits-Lochstreifenleser/stanzer PC04, CALCOM 563 Plotter (oben) und einem Teletype Drucker (nicht im Bild), rechts: Konsole des Rechners PDP-8/I.</p>
-			
 		</div>
+	</div>
 
             <p>Im Jahre 1967 waren die ersten TTL-ICs (Transistor-Transistor-Logik) der Serie 74xx lieferbar. DEC war mit dem Rechner 8i damit ganz vorne in der Entwicklung [die Bezeichnung "8/I" begründet sich mit: "With <b><u>I</u></b>ntegrated Circuits"]. Man hatte mit dem Langzeitverhalten (spätere Defekte) solcher integrierten Schaltungen noch keine Erfahrung. UNIVAC hat daher selbst 1969 lieber noch auf die immerhin 2 Jahre bewährte DTL-Technik gesetzt. Zum Glück erwiesen sich die TTL-ICs als genauso stabil wie die DTL-Serie. Doch der Integrationsgrad war wesentlich höher, so dass der Platzbedarf schrumfte. <br>
 			Dieser erste Rechner mit integrierten Schaltungen von DEC war nicht gerade billig. Alleine die CPU (im Bild links, Mitte) ohne Peripherie kostete damals 27000 $. Bei dem Umrechnungskurs der 60iger Jahre entspricht das ca. 55000 Euro. <br/>Der Arbeitsspeicher (Ringkerne) hatte eine Kapazität von 8 kB. Während der Bearbeitung eines "größeren" Problems müssen eventuell fortwährend Files (Programme, Daten) auf ein Tape (Magnetband) ausgelagert und später wieder eingelesen werden. Um mit sowenig Arbeitsspeicher dennoch erstaunlich effektiv arbeiten zu können, wurde schon in diesen frühen Jahren ein ausgesprochen intelligentes Betriebssystem (PS/8 bzw. OS/8) entwickelt!  Es ist sehr interessant, dem Rechner bei seiner Arbeit zuzuschauen.</p>
@@ -93,11 +91,11 @@
         
 
    <h3 id="pdp8l">PDP-8/L</h3>
-   	<div class="box desc-left borderless">
+   	<div class="box desc-left borderless nomargin-bottom">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8L.jpg" width="400" height="360" alt="DEC PDP-8L" />
 		<p class="bildtext small">Das Bild zeigt den PDP-8/L (Bj.1968) mit einem Hochgeschwindigkeits-Lochstreifenleser</p>
 	</div>
- 	<div class="box clear-after">
+ 	<div class="box clear-after nomargin-bottom">
 
 		<p>Viele Anwender von DEC-Rechnern benötigten die hohe Kapazität an Speicher und einbaubaren Optionen nicht. Daher entwickelte DEC einen abgespeckten Rechner der nur wenige vorverdrahtete Einbauoptionen ermöglichte. Der Kernspeicher hatte nur 4kB Speicherkapazität, durch ein zusätzliches externes Kabinett war dieser auf 8kB erweiterbar. <br>
 		Unsere PDP-8/L war "hoch" ausgebaut: HSR (High-Speed-Reader) Lochstreifenleser und ein TC01 DEC-Tape-Control mit zwei TU55 Laufwerken sowie Zusatzspeicher. Damit konnte man schon eine Menge anfangen.<br>

@@ -40,7 +40,7 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC ü
 *)  Arduino: …ist nach dem König „Arduino von Ivrea“, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst üblich in Fernost oder Silicon Valley.
 </small>
 
-<h3><a name="demo">Siemens Demo-Computer</a></h3>
+<h3 id="demo">Siemens Demo-Computer</h3>
 	
 	<div class="box center">
         <img src="/shared/photos/rechnertechnik/siemens-democomputer.jpg" alt="Siemens-Democomputer" width="700" height="587" class="nomargin-bottom" />

@@ -29,6 +29,11 @@
     font: 12px Verdana;
 }
 
+#content table {
+    border-spacing: 1px;
+    border-collapse: separate;
+}
+
 #content table p {
     text-align: justify;
     line-height: 120%;

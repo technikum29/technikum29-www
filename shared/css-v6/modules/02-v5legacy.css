@@ -1,3 +1,11 @@
 /* Anpassungsstyles, die benoetigt werden damit der Text aussieht wie frueher */
 #content p { text-align: justify } /* !! */
 #content .center { text-align: center; }
+
+#content .small { font-size: 80%; line-height: 130%; }
+
+#content ul { list-style-image: url(/shared/img/fresh.design/arrowbg.menu.png); }
+
+#content img.weisser-rahmen { border: 14px solid white; }
+
+#content .clear-left { clear: left; }

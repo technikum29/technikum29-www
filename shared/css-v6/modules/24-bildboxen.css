@@ -60,7 +60,8 @@
 }
 
 #content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
-.content .left img.nomargin-bottom, #content .right img.nomargin-bottom {
+.content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
+#content .nomargin-bottom {
     /* Zur absoluten Perfektion: Kein Abstand unter dem Bild bei links/rechts-fliessendem
        (nur machbar, wenn der Text nicht umbrechen wird, weil er einfach zu kurz ist).
        Dadurch wird der viel zu grosse Abstand unter einer .box verhindert, den ein
@@ -144,6 +145,7 @@ html>body #content .clear-after {
 	visibility: hidden;
 }
 
+#content .inline-block { display: inline-block; }
 
 
 
@@ -166,7 +168,8 @@ html>body #content .clear-after {
 
 /* ehemaliger Spezialstyle auf der Startseite,
    jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
-div.desc-right, div.desc-left {
+#content div.desc-right, #content div.desc-left,
+#content div.desc-right.auto-bildbreite, #content div.desc-left.auto-bildbreite {
     /* rechts gefloatetes thumbnail mit Beschreibungstext */
     float: right;
     margin: 0pt 0pt 2em 2em;
@@ -177,7 +180,7 @@ div.desc-right, div.desc-left {
     padding: 1em;
 }
 
-div.desc-left {
+#content div.desc-left, #content  div.desc-left.auto-bildbreite {
 	float: left;
 	margin: 0pt 2em 2em 0pt;
 }
@@ -193,6 +196,6 @@ div.desc-right p, div.desc-left p {
     text-align: left;
 }
 
-div.desc-right.borderless, div.desc-left.borderless {
+#content div.desc-right.borderless, #content div.desc-left.borderless {
 	border: none; /* ja, ziemlich bescheuert sorum */
 }

@@ -182,7 +182,7 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 			$this->print_debug("\n/*** Auto appended ***/\n");
 			require "$lib/messages.php";
 			echo "t29.msg.data=";
-			echo t29Messages::create_json();
+			echo t29Messages::create_json('/^js-/');
 			echo ";\n";
 		}
 	}

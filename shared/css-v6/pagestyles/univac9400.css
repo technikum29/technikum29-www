@@ -34,11 +34,11 @@ ul.univac-thumbs li img {
 
 /* Univac-Seite seit 5.7.11: Menü unter Panoramabild
    Quick&Dirty-Lösung, angelehnt an Navigationsleistenhintergrundrealisierungen */
-.univac #wrapper #menu {
-    margin-top: 520px; /* circa... */
-}
+/*.univac #wrapper #menu {
+    margin-top: 520px; \* circa... *\
+}*/
 
 /* Rand links, damit Liste im Univac-Artikel ordentlich aussieht (Jan 2010) */
-.univac li {
+.content li {
 	margin-left: 270px;
 }

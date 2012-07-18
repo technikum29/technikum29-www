@@ -7,8 +7,6 @@
 ?>
 <h2><?php print $titel; ?></h2>
 
-  <!--<div class="center">
-    <div class="bildtext-bildbreite" style="width: 930px;">-->
     <p>Es ist unglaublich, wie teuer Computer vor ca. 40 Jahren waren.
        Wir stellen hier die Preise (in DM, für Euro-Preise ist der
        Wert jeweils durch 2 zu teilen) unserer Anlage zusammen, die aus
@@ -20,7 +18,7 @@
        KFZ im Jahre 1968) musste man damals ca. 6000,- DM bezahlen
        (gehobene Ausführung).</p>
 
-    <table cellspacing="1" width="100%">
+    <table width="100%">
       <colgroup>
         <col style="text-align: left;"/>
         <col />
@@ -143,11 +141,5 @@
          ausgebautem Arbeitsspeicher monatlich stolze 65.000,- DM bezahlen müssen. Deshalb wurden Rechenzeiten intern sekundengenau abgerechnet. 
          Der Kauf (oder die Miete) eines solchen Rechners kam daher nur für große Unternehmen in Betracht.</p>
 
-    <!--
-    <ul id="nav">
-       <li><a href="/de/rechnertechnik/univac9400.php#backlink-univac9300">Übersicht Univac 9400</a></li>
-       <li><a href="/de/">technikum29 Startseite</a></li>
-    </ul>
-   -->
-   <!-- absolut positioniertes Bildchen -->
-    <img src="/shared/photos/rechnertechnik/univac/kosten-gleichsetzung.jpg" style="position: absolute; bottom: 5px; right: 0px;" alt="Illustration: Ein Gedankenspiel: Eine Univac 9400 entspricht 450 Autos!"  />
+    <!-- absolut positioniertes Bildchen -->
+    <img src="/shared/photos/rechnertechnik/univac/kosten-gleichsetzung.jpg" class="autobild" alt="Illustration: Ein Gedankenspiel: Eine Univac 9400 entspricht 450 Autos!"  />

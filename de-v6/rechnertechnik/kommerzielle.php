@@ -32,7 +32,7 @@
      		<p>Der<b> NCR 446 </b> ist ein Rechner der 2. Generation (Transistortechnik). Er wurde ab 1966/67 in Deutschland (National Registrier Kassen GmbH, Augsburg) von 4 Ingenieuren entwickelt, die gerade ihr Examen an der Universität absolviert hatten. Im Jahre 1968 war er marktreif. Die Architektur ist ungewöhnlich. Das gesamte Programm befindet sich auf dem Lochstreifen im Programmleser. Verknüpfungen werden in einem gefädeltem ROM ausgeführt. Die Anlage wurde als "Elektronische Fakturiermaschine" angeboten, weil das ihr Hauptanwendungsgebiet war. Dennoch verwendeten auch Statiker den Rechner, da er praktisch beliebig programmierbar war (und natürlich immer noch ist!). <br>
 	     	Durch Anklicken des Bildes erhält man eine Detailaufnahme.<br> Die Anlage beinhaltet neben dem Programmleser noch zwei Daten-Lochstreifenleser, einen Lochstreifenstanzer, die Eingabetastatur und eine IBM Kugelkopfmaschine als Drucker.</br>
 		    <br>Es ist herrlich, dem Rechner z.B. bei der Berechnung der Wurzel einer Zahl zuzuschauen. Spätestens dann versteht man, was ein Algorithmus ist! Da sich das Programm auf dem Lochstreifen befindet, kann man jeden Rechenschritt und alle Programmsprünge anhand der Bewegung des Lochstreifens verfolgen.</br>
-		    <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: "<a href="/de-v6/geraete/details-ncr446.php">Reparatureinblicke</a>"
+		    <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: <a class="go" href="/de-v6/geraete/details-ncr446.php">Reparatureinblicke</a>
 		</p>
   <h3 id="nixdorf820">NIXDORF 820</h3> 
 

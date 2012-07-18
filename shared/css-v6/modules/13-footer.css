@@ -26,7 +26,9 @@ nav.guide {
 	position: absolute;
 	z-index: 5; /* ueber nav.rel */
 	top: -5px; left: -5px;
-	width: 900px; margin: 0 25px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
+	width: 910px; margin: 0 25px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
+	/* width:900px, aber 10px Toleranz damit der Beam nicht umbricht wenn
+       eine ungerade Anzahl an Items vorhanden ist (1px Toleranz wuerde schon reichen) */
 }
 nav.guide ul, nav.guide li { display: inline; }
 nav.guide a {
@@ -70,10 +72,21 @@ nav.guide .visible > a > .bullet {
 	padding: 0;
 }
 
+
+nav.guide a { opacity: 0; }
+nav.guide li.visible > a,
+nav.guide a:hover, nav.guide a:focus { opacity: 1; }
+
+/*
 nav.guide .bullet, nav.guide .text { visibility: hidden; }
-nav.guide li.visible > a > .bullet, nav.guide .visible > a >  .text,
-nav.guide a:hover .bullet, nav.guide a:hover  .text,
-nav.guide a:focus .bullet, nav.guide a:focus .text { visibility:visible; }
+nav.guide li.visible > a > .bullet,
+nav.guide .visible > a > .text,
+nav.guide a:hover .bullet, nav.guide a:hover .text,
+nav.guide a:focus .bullet, nav.guide a:focus .text {
+	visibility:visible;
+}
+*/
+
 
 /*
 html.csstransitions nav.guide .bullet, html.csstransitions nav.guide .text {

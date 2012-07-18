@@ -19,7 +19,7 @@
     <p>Im selben Jahr (1966) erschien die Olivetti Programma 101 auf dem Markt. Erstmals in der Geschichte der EDV war es f&uuml;r Ingenieurb&uuml;ros m&ouml;glich, einen "kleinen" Rechner zu erwerben, auf welchem man schnell eigene Programme auf Magnetkarten abspeichern konnte. Die Maschine mit viel Mechanik wurde zu einem Verkaufsschlager. Billig war dieser Einstieg nicht: Doch der Preis von 14800,- DM + Steuer (ca. 8000,- Euro) machte sich durch Einsparen von viel manueller Rechenzeit schnell bezahlt.</p>
 
     <div class="box left clear-after">
-       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
+       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" class="weisser-rahmen" />
        <p class="bildtext">Die legend&auml;re <b>PROGRAMMA 101</b> von Olivetti. <br/>
            Man k&ouml;nnte die P 101 auch als ersten Personal-Computer der Welt bezeichnen. <br/>
            In der Mitte ist die Magnet-Programmkarte zu sehen. Der folgende Link f&uuml;hrt auf eine kurze Erl&auml;uterung des hier verwendeten Speichermediums, dem <a class="go" name="backlink-olivetti" href="speichermedien.php#laufzeitspeicher">Laufzeitspeicher</a>.

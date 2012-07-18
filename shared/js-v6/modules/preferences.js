@@ -56,7 +56,7 @@ t29.prefs.get = function(key, fallback_value) {
 t29.prefs.set = function(key, value) {
 	t29.prefs._store[key] = value;
 	$.cookie(t29.prefs.conf.cookie_name, JSON.stringify(t29.prefs._store), t29.prefs.cookie_options);
-	log("new prefs: "+$.cookie(t29.prefs.conf.cookie_name));
+	//log("new prefs: "+$.cookie(t29.prefs.conf.cookie_name));
 };
 
 t29.prefs.del = function() {

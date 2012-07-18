@@ -18,7 +18,7 @@ t29.menu = { collapsed:{}, scroll:{}, guide:{} }; // mit Unterklassen
 t29.menu.setup = function() {
 	t29.menu.side = $("nav.side");   // Hauptseitennavigation
 	t29.menu.beam = $("nav.guide");  // Strahlnavigation/Guide (Kopie von side)
-	t29.menu.rel = $("nav.rel");     // relative navigation im footer (vor/zurück)
+	t29.menu.rel = $("nav.rel");     // relative navigation im footer (vor/zurÃ¼ck)
 	t29.menu.collapsed.setup();
 	t29.menu.scroll.setup();
 	t29.menu.guide.setup();
@@ -46,20 +46,30 @@ t29.menu.Collapsible = function(arglist) {
 	this.store_key = 'menu-collapsible-'+this.id; // key for t29.prefs.get/set
 
 	// default values
-	if(!this.button)
+	if(!this.button) // button widget
 		this.button = $('<span class="button collapse-menu"></span>')
 		              .addClass('for-'+this.id).appendTo("nav.side");
-
-	// constants for the 'set' method
-	this.FOLD = true;   this.EXPAND = false;
-	this.QUICK = true;  this.ANIMATE = false;
+	if(!this.label) { // button label
+		this.label = {};
+		this.label[t29c.FOLD] = t29._("js-menu-collapse-out");
+		this.label[t29c.EXPAND] = t29._("js-menu-collapse-in");
+	}
+	if(!this.initial) // initial state
+		this.initial = t29.prefs.get(this.store_key, t29c.FOLD);
 
 	// set initial state
-	this.set(t29.prefs.get(this.store_key, this.FOLD), this.QUICK);
+	this.set(this.initial, t29c.QUICK);
 	
 	// set button callback
 	this.button.click($.proxy(function(){ this.set(); }, this));
 }
+
+// Constants:
+if(!window.t29c) window.t29c = {}; // namespace for t29 contstants
+t29c.FOLD = true; // state: folded menu (small)
+t29c.EXPAND = false; // state: expanded menu (big)
+t29c.QUICK = true; // action: quick crossover (no animation, instantanous)
+t29c.ANIMATE = false; // action: animated crossover (visible to user)
 
 /**
  * Menu ein- oder ausklappen.
@@ -70,16 +80,19 @@ t29.menu.Collapsible = function(arglist) {
 t29.menu.Collapsible.prototype.set = function(collapse, quick) {
 	if(collapse == undefined)
 		collapse = ! this.is_collapsed();
-	log("Collapsing "+this.id+" to " +(collapse==this.FOLD ? "klein (fold)" : "gross (expand)")+" quick = " + (quick==this.QUICK ? "quick!" : "animated"));
-	if(quick) collapse ? this.lists.hide()    : this.lists.show();
-	else      collapse ? this.lists.slideUp() : this.lists.slideDown();
-	this.button.text(t29._(collapse ? "js-menu-collapse-out" : "js-menu-collapse-in"));
-	//collapse ? $("html").addClass("collapsed-menu") : $("html").removeClass("collapsed-menu");
+	log("Collapse: "+this.id+" FOLD " +(collapse==t29c.FOLD ? "<=" : "=>")+" EXPAND " + (quick==t29c.QUICK ? "[quick!]" : ""));
+	if(this.set_pre)
+		this.set_pre(collapse, quick); // execute some callback
+	if(quick) this.lists[collapse ? 'hide' : 'show']();
+	else      this.lists[collapse ? 'slideUp' : 'slideDown']();
+	this.button.text(this.label[collapse]);
+	// body CSS class shall only be used for CSS interaction, not for JS readout. Use is_collapsed() instead.
+	$("body")[collapse ? 'addClass' : 'removeClass']("collapsed-menu-"+this.id);
 	t29.prefs.set(this.store_key, collapse);
 }
 
 // returns whether menu is collapsed (boolean).
-t29.menu.Collapsible.prototype.is_collapsed = function() { return t29.prefs.get(this.store_key) == this.FOLD; }
+t29.menu.Collapsible.prototype.is_collapsed = function() { return t29.prefs.get(this.store_key) == t29c.FOLD; }
 
 t29.menu.collapsed.setup = function() {
 	// set up some collapsible lists
@@ -87,15 +100,40 @@ t29.menu.collapsed.setup = function() {
 		id: 'u3',
 		lists: $("nav.side .u3").not("nav.side li.active > .u3, .geraete"),
 	});
-
-	/*t29.menu.collapsed.geraete = new t29.menu.Collapsible({
+	
+	// check if we want mini menu for the beginning
+	if( $("body").hasClass("in-geraete") ) {
+		t29.menu.collapsed.u3.button.hide();
+		// mini doesn't care about cookie settings.
+		t29.menu.collapsed.mini = new t29.menu.Collapsible({
+			id: 'mini',
+			lists: $("nav.side li").not('.guide-only').not("li.active, li.active > ul.u3 > li, li.active > ul.u4 > li"),
+			initial: t29c.FOLD,
+			set_pre: function(collapse) {
+				if(collapse == t29c.EXPAND) {
+					// after first expanding, disable system and enable rest of systems
+					this.button.hide();
+					t29.menu.collapsed.u3.button.show();
+				}
+			}
+		});
+	}
+	
+	/*
+	t29.menu.collapsed.geraete = new t29.menu.Collapsible({
 		id: 'geraete',
 		lists: $("nav.side ul.geraete"),
-	});*/
+		label: (function(){ l = {}; l[t29c.FOLD] = '(+ extra)';  l[t29c.EXPAND] = '(- extra)'; return l; })(),
+	});
+	*/
+
+	// special situation on gerate pages (body.in-geraete): only active li's are shown there
+	// by default. This is a third state next to FOLDed and EXPANDed menu: super-FOLDED.
+	// Clicking the 'details' button yields ordinary FOLDed state.
 	
 	// hide geraete
 	//t29.menu.collapsed.geraete.button.hide();
-	$("ul.geraete").hide();
+	//$("ul.geraete").hide();
 };
 
 /***************************************************************************************
@@ -134,7 +172,7 @@ t29.menu.scroll.set = function(target_state) {
 			// Menue schlaegt obene an. Prinzipiell Gleicher Zustand wie STATIC. Weiter.
 		case t29.menu.scroll.States.STATIC:
 			// die CSS-Klassen regeln eigentlich alles.
-			t29.menu.collapsed.u3.button.show();
+			//CSS// t29.menu.collapsed.u3.button.show();
 			t29.menu.scroll.but.text(t29._("js-menu-scroll-show"));
 			t29.menu.side.show();
 			break;
@@ -142,23 +180,23 @@ t29.menu.scroll.set = function(target_state) {
 			// checken ob fixing ueberhaupt geht
 			/*
 			if( !t29.menu.collapsed.is() && t29.menu.side.height() > $(window).height()) {
-				// Navi ist gerade ausgeklappt und zu groß fuer Bildschirm. Probiere Einklappen:
+				// Navi ist gerade ausgeklappt und zu groÃŸ fuer Bildschirm. Probiere Einklappen:
 				t29.menu.collapsed.set(true, true);
 				if(t29.menu.side.height() > $(window).height()) {
-					// Navi ist auch eingeklappt noch zu groß!
-					log("Navi ist auch eingeklappt zu groß zum fixen!");
+					// Navi ist auch eingeklappt noch zu groÃŸ!
+					log("Navi ist auch eingeklappt zu groÃŸ zum fixen!");
 					// eingeklappt lassen. Weitermachen.
 					// hier noch was ueberlegen: Bei zu kleinem Bildschirm
 					// sollte der Button gar nicht erst angezeigt werden.
 					// dazu braucht man einen resize-Listener, der aber im
-					// ausgeklappten zustand jedesmal checken müsste, ob das
+					// ausgeklappten zustand jedesmal checken mÃ¼sste, ob das
 					// eingeklappte menue reinpasst. (werte muss man cachen)
 					// Ziemlich doofe Aufgabe.
 				}
 			}*/
 
 			t29.menu.collapsed.u3.set(true, true); // Sicherstellen, dass Navi eingeklappt.
-			t29.menu.collapsed.u3.button.hide(); // Ausgeklappte Navi passt auf keinen Bildschirm.
+			//CSS// t29.menu.collapsed.u3.button.hide(); // Ausgeklappte Navi passt auf keinen Bildschirm.
 			t29.menu.scroll.but.text(t29._("js-menu-scroll-hide"));
 			break;
 		case t29.menu.scroll.States.STICK_BOTTOM:
@@ -216,7 +254,7 @@ t29.menu.scroll.setup = function() {
 			case t29.menu.scroll.States.STICK_TOP:
 			default:
 				// diese Faelle sollten nicht vorkommen.
-				log("Get-Menu Scroll-Button gedrückt obwohl unmöglich; state="+t29.menu.scroll.state);
+				log("Get-Menu Scroll-Button gedrÃ¼ckt obwohl unmÃ¶glich; state="+t29.menu.scroll.state);
 		}
 	}); // end event t29.menu.scroll.but.click.
 	
@@ -288,7 +326,7 @@ t29.menu.guide.setup = function() {
 
 	// Texte ersetzen durch laengere verstaendlichere Beschreibungen im title
 	g.find("a[title]").each(function(){
-		$(this).text( $(this).attr('title') );
+		$(this).text( $(this).attr('title') ).attr('title',''); // title attribut entfernen
 	});
 
 	// Abkuerzungen und Wrappings

@@ -17,7 +17,7 @@
        <br>Unsere Tabelliermaschine kann z.B. Kontoauszüge berechnen und drucken sowie Multiplikationen und Divisionen ausführen.<br> Im Jahre 1959 schloss ein BULL-Techniker eine Wette indem er behauptete, mit einer Tabelliermaschine könnte man auch Wurzeln beliebiger Zahlen ziehen. Seine Kollegen hielten dagagen; doch er gewann nach längerer Programmierarbeit schließlich die Wette. Dieses Programm ist per Zufall erhalten geblieben. Es wurde von dem damaligen Programmierer im Jahre 2010 nochmals verbessert. Hiermit lassen sich aus 8-stelligen Zahlen die Quadratwurzeln auf 3 Nachkommastellen genau berechnen. Zusätzlich wird eine Debugging Liste mit ausgedruckt, die bei eventuellen Fehlern hilfreich ist. Das ist wirklich einmalig! 
     </p>
 
-	<p class="small">An dieser Stelle möchten wir uns ganz herzlich beim F.E.B. (Federation des Equipes Bull) Deutschland e.V. (www.feb-d.de) für die Mithilfe bei der Reparatur der Tabelliermaschine bedanken.</small></p>
+	<p class="small">An dieser Stelle möchten wir uns ganz herzlich beim <a href="http://www.feb-d.de" target="_blank">F.E.B. (Federation des Equipes Bull) Deutschland e.V.</a> für die Mithilfe bei der Reparatur der Tabelliermaschine bedanken.</small></p>
    
 
     <div class="box center auto-bildbreite">

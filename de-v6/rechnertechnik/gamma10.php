@@ -56,12 +56,12 @@
 
     <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Daher steht bereits ein ANELEX Drucker (Series 5) aus dem Jahre 1965 bereit. Dieser Drucker war 1965 mit 1250 Druckzeilen pro Minute der schnellste Drucker der Welt. Für unseren Gamma 10 darf er ruhig etwas langsamer sein.</p>
 	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" />
+		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" class="nomargin-bottom" />
 		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p>
+		<p>Im Prinzip passt dieser Drucker gut zur Gamma 10: Es ist wie das Original ein Trommeldrucker und die Schaltung ist ebenfalls mit negativer Logik (Germaniumtransistoren) aufgebaut. Auch Anelex verwendete einen Kernspeicher als Datenpuffer. Dennoch wird die Anbindung an den Bull-Rechner ein schwieriges Unterfangen. Der Pufferspeicher des BULL-Druckers befindet sich im Prozessor. Wir möchten diese Architektur nicht verändern und müssen daher mit Hilfe von Microcontrollern eine Anpassung vornehmen. In der Rubrik "Entwicklungsprojekte" werden wir darüber berichten.</p>
+	</div>
 	
-<p>Im Prinzip passt dieser Drucker gut zur Gamma 10: Es ist wie das Original ein Trommeldrucker und die Schaltung ist ebenfalls mit negativer Logik (Germaniumtransistoren) aufgebaut. Auch Anelex verwendete einen Kernspeicher als Datenpuffer. Dennoch wird die Anbindung an den Bull-Rechner ein schwieriges Unterfangen. Der Pufferspeicher des BULL-Druckers befindet sich im Prozessor. Wir möchten diese Architektur nicht verändern und müssen daher mit Hilfe von Microcontrollern eine Anpassung vornehmen. In der Rubrik "Entwicklungsprojekte" werden wir darüber berichten.</p>
-
-    <p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>
+	<p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>
 	Um 1970 stand eine G10 in der Lochkartenabteilung der Stadtverwaltung. Der Rechner wurde aus Platzgründen schon vor langer Zeit entsorgt; doch die umfangreichen Unterlagen und Ersatzteile haben im Stadtarchiv überlebt. Frau A.R. knüpfte mit uns den Kontakt so dass wir die genau zu unserem Rechner passenden Unterlagen und Teile übernehmen konnten, die für uns eine wertvolle Hilfe sind. Dafür bedanken wir uns herzlich.<br>
 	Dennoch suchen wir weiterhin das Handbuch für Programmierer (Gamma 10), sowie Manuals zum ANELEX Schnelldrucker.
-	</small></div>
+	</p>

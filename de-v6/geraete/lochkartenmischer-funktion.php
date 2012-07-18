@@ -13,7 +13,7 @@
 <p>Wenn man z.B. auf einer Tabelliermaschine Rechnungen ausdrucken lassen wollte, war vorher eine Gruppierung der Lochkarten entsprechend ihrer Zusammengehörigkeit erforderlich.</p>
 
 <div class="box center">
-	<img src="/shared/photos/rechnertechnik/grafiken/lochkartenmischer.de.gif" width="600" height="531" alt="Grafik zur Funktionsweise des Kartenmischers" />
+	<img class="weisser-rahmen" src="/shared/photos/rechnertechnik/grafiken/lochkartenmischer.de.gif" width="600" height="531" alt="Grafik zur Funktionsweise des Kartenmischers" />
 </div>
 
 <p>Im einfachsten Fall hat man nur zwei Kartenarten: Adresskarten und Umsatzkarten.

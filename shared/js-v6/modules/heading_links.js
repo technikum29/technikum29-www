@@ -23,6 +23,9 @@ t29.heading_links.setup = function() {
 			name: anchor,
 			title: t29._('js-heading-links')
 		}).appendTo(this);
+		// the heading shall be the link target, for having a padding
+		// to the browser top edge.
+		$(this).attr('id', anchor);
 	});
 	
 	// Opera und Internet Explorer machen mit, Firefox nicht, also:

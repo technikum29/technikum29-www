@@ -105,6 +105,7 @@ nav a, nav a:link, nav a:visited, nav a:hover, nav a:focus {
 /* Scroll-Zustände der Navigationsleiste
  * Siehe Script, es gibt:
  *   html.no-js             - Ausgangslage ohne Javascript
+ *   html.mini-menu         - Anzeige nur der aktiven Komponenten
  *   html.static-menu       - Default mit Javascript
  *   html.fixed-menu        - Umgeschaltet auf fix
  *   html.stick-top-menu    - Zwischensituation wenn fix und ganz hochgescrollt (wie static-menu)
@@ -137,6 +138,14 @@ html.stick-bottom-menu nav.side {
 	/* Top-Wert durch JS gesetzt. */
 }
 
+html.mini-menu nav.side li { display: none; }
+html.mini-menu nav.side li.active,
+html.mini-menu nav.side li.active > ul.u3 > li,
+html.mini-menu nav.side li.active > ul.u4 > li {
+	display: inline;
+}
+
+
 /* Buttons in Navigationsleiste */
 section.sidebar .button {
 	display: block;
@@ -167,6 +176,22 @@ section.sidebar .button.collapse-menu {
 	padding: 5px 25px;
 }
 
+html.fixed-menu nav.side .button.collapse-menu,
+html.stick-bottom-menu nav.side .button.collapse-menu {
+	display: none;
+}
+
+
+section.sidebar .button.for-geraete {
+	/* Geraete content collapse button */
+	position: relative;
+	top: -27px; right: -140px;
+	width: 70px; margin-top: 0;
+}
+
+body.collapsed-menu-u3 section.sidebar .button.for-geraete { display: none; }
+
+/* Untere Sidebar */
 section.sidebar.bottom {
 	position: absolute;
 	bottom: 0; left: 0;

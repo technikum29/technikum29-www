@@ -92,9 +92,9 @@ Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikk
 		<p>In der Zeit nach 1945 gab es kaum Technik-Spielzeug. Die Hoch-Zeit der Dampfmaschine war schon vorbei, Metallbaukästen gab es vereinzelt, doch hier konnte man nicht viel Neues lernen.<br>
 		"Kosmos" erkannte die Lücke und bot die seit den 30er Jahren vertriebenen Lehrbaukästen fast unverändert wieder an.<br>
 		So steht in der Anleitung: "Der Radiomann ist der gelehrteste unter seinen Brüdern Elektromann, All-Chemist, Optikus und Technikus". Das war durchaus richtig, es gab wenig komplexe Technik, die Alltagsbezug hatte, bezahlbar und irgendwie faszinierend war. So fanden die Sprüche <b>"Vom Gebirg zum Ozean, alles hört der Radiomann"</b> oder "Aus fernen Ländern hören wir Sprachen so schön und rein, wie vielleicht kaum an einem viel teueren Empfänger" begeisterndes Interesse. 
-	<div class="box left">
+	<div class="box desc-left borderless">
         <img src="/shared/photos/kommunikationstechnik/radiomann2.jpg" width="400" height="361" alt="Bild des Radiomann Baukastens" />
-		<p class="Bildtext"><small>Nebenstehendes Bild: Radiomann Baukasten ca. 1950</small></p>
+		<p class="Bildtext center">Radiomann Baukasten ca. 1950</p>
 	</div>
 		
 		<p>Radiobasteln, ein Hobby aus der Anfangszeit des Rundfunks fand auch jetzt wieder Liebhaber. Bis Anfang der 60er Jahre konnten sich die bastelnden Jungen (Mädchen wurden gar nicht erst angesprochen!) ein Radiogerät selbst bauen, das auch wirklich (bescheiden mit Kopfhörer) funktionierte. Man muss bedenken, dass in einem durchschnittlichen Haushalt selten ein Fernsehempfänger und in der Regel auch nur ein einziges vom Familienoberhaupt gehütetes Rundfunkgerät stand. Mit dem Kosmos-Gerät konnte ein junjor-Bastler unabhängig von der Familie z.B. AFN hören.<br>

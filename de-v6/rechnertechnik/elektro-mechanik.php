@@ -66,7 +66,3 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
         <br>Die Ingenieure wurden angetrieben, immer komfortablere Maschinen zu konstruieren, oft bis an die Grenze des Machbaren. So hei&szlig;t es in der Bedienungsanleitung: "Das vor ihnen stehende DIEHL-Modell VSR leistet &Uuml;berdurchschnittliches". Das ist wohl wahr: Man konnte z.B. Ergebnisse zwischenspeichern und das Resultat jederzeit r&uuml;ck&uuml;bertragen. So waren oft auftretende Rechnungen wie  25 + 12 x 7 - 17 x 6  l&ouml;sbar ohne dass man etwas notieren musste. Doch der Luxus von 5 Rechenwerken und vielem sonstigen "Schnickschnack" zollte ein Attribut: Die Ger&auml;te waren sehr empfindlich bez&uuml;glich einer Fehlbedienung.</p>
     </div>
 
-    <!-- Der folgende Text erscheint unten rechts in der Seitenleiste: -->
-    <div id="sidebar-footnote">
-        <a href="/de-v6/geraete/sprossenradmaschine.php">Bild &uarr; der Sprossenradmaschine groß</a>
-    </div>

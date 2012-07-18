@@ -16,7 +16,7 @@
 
 <div class="box center">
 	<!-- 700px PNG-Export aus SVG und dann 50 Farben GIMP auf gif => 30kb -->
-	<img src="/shared/photos/rechnertechnik/grafiken/lochkartensortierer.de.gif" width="700" height="528" alt="Grafik zur Funktion des Sortierers" />
+	<img class="weisser-rahmen" src="/shared/photos/rechnertechnik/grafiken/lochkartensortierer.de.gif" width="700" height="528" alt="Grafik zur Funktion des Sortierers" />
 </div>
 
 <p>Das maschinelle Sortieren kann dieses Verfahren, das eine unbegrenzte Zahl von Ablegefächern benötigen würde, nicht anwenden. Es schlägt den umgekehrten Weg ein und geht von der niedrigsten Stelle des Sortierbegriffs zur höchsten. Der Kartenstapel wird dazu zunächst nach der Einerstelle sortiert. Die entstehenden zehn Pakete werden in auf- oder absteigender Folge von Hand zusammengelegt. Anschließend wird der neue Stapel geschlossen nach der Zehnerstelle sortiert. Nach dem erneuten Zusammenfassen wird nach der Hunderterstelle sortiert usw.

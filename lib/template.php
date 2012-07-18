@@ -42,6 +42,7 @@ class t29Template {
 		// setup body classes:
 		$this->body_classes[] = "lang-" . $this->conf['lang'];
 		$this->body_classes[] = "page-" . $this->conf['seiten_id'];
+		$this->body_classes = array_merge($this->body_classes, $this->menu->get_link_classes());
 		
 		// setup javascript configuration
 		$this->javascript_config['lang'] = $this->conf['lang'];

@@ -90,6 +90,7 @@ class t29Messages {
 		'html-title'             => 'technikum29',
 		'head-h1-title'          => array('Zur technikum29 Startseite', 'Go to technikum29 homepage'),
 		'head-h1'                => 'technikum29',
+		'homepage-pagename'      => 'startseite', # seiten_id der startseite
 
 		'sidebar-h2-tour'        => array('Museumstour', 'Museum Tour'),
 		'sidebar-h2-mainnav'     => array('Hauptnavigation', 'Main Navigation'),

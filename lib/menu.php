@@ -70,18 +70,67 @@ class t29Menu {
 	}
 	
 	///////////////////// RETURN INFOS ABOUT SEITEN_ID LINK
-	function find_link($seiten_id=false) {
+	
+	/**
+	 * Find the corresponding XML node in the navigation tree for the link
+	 * with given $seiten_id or the current given seiten_id in the configuration
+	 * array.
+	 * This method is used in get_link_navigation_class, etc. for resolving
+	 * the XML element from the string. They can be used with the XML node, too,
+	 * and this behaviour is passed throught by this method, so if you call
+	 * this with an SimpleXMLElement as argument, it behaves like an identity
+	 * function and just does nothing.
+	 * (This is used in template.php for caching the found xml element and saving
+	 * several xpath querys on get_* calls)
+	 *
+	 * @param $seiten_id Either a string, or nothing (defaults to conf) or SimpleXMLElement
+	 * @returns SimpleXMLElement or null if link not found
+	 **/
+	function get_link($seiten_id=false) {
 		if($this->xml_is_defective()) {
 			return null;
 		}
 		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
+		// convenience: If you found your link already.
+		if($seiten_id instanceof SimpleXMLElement) return $seiten_id;
 
 		$matches = $this->xml->xpath("//a[@seiten_id='$seiten_id']");
 		if($matches && count($matches)) {
 			// strip the first one
 			return $matches[0];
 		}
+		return null;
 	}
+	
+	/**
+	 * Get navigation list membership (horizontal or side) of a link
+	 * @see get_link for parameters
+	 * @returns String of <nav> class where this link is affiliated to
+	 **/
+	function get_link_navigation_class($seiten_id=false) {
+		$link = $this->get_link($seiten_id);
+		if(!$link) return null;
+		
+		// navigation list membership
+		$nav = $link->xpath("ancestor::nav");
+		return strval($nav[0]['class']); // cast SimpleXMLElement
+	}
+
+	/**
+	 * Get list of parental ul classes (u2, u3, geraete, ...)
+	 * @see get_link for parameters
+	 * @returns array with individual class names as strings
+	 **/
+	function get_link_ul_classes($seiten_id=false) {
+		$link = $this->get_link($seiten_id);
+		if(!$link) return array();
+		
+		// direct parental ul classes
+		$ul = $link->xpath("ancestor::ul");
+		$parent_ul = array_pop($ul);
+		return explode(' ',$parent_ul['class']);
+	}
+
 
 	///////////////////// INTER LANGUAGE DETECTION
 	/**
@@ -100,7 +149,7 @@ class t29Menu {
 				'lang_path' => $lconf[1],
 			));
 
-			$link = $foreign_menu->find_link($seiten_id);
+			$link = $foreign_menu->get_link($seiten_id);
 			$interlinks[$lang] = $link;
 		}
 		
@@ -215,35 +264,6 @@ class t29Menu {
 			$return['start'] = t29Menu::dom_new_link('#', 'bla');
 		}
 		return $return;
-	}
-	
-	/**
-	 * Construct link class information as an array, containing:
-	 *  - navigation list membership (in-nav-horizontal, in-nav-side)
-	 *  - parental ul classes (in-u2, in-u3, in-geraete, ...)
-	 * @returns array with individual class names as strings
-	 **/
-	function get_link_classes($seiten_id=false) {
-		if($this->xml_is_defective())
-			return array();
-		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
-		
-		$link = $this->find_link($seiten_id);
-		if(!$link) return array(); // if not found
-		$classes = array();
-		
-		// navigation list membership
-		$nav = $link->xpath("ancestor::nav");
-		$nav_type = $nav[0]['class'];
-		$classes[] = "in-nav-$nav_type";
-		
-		// direct parental ul classes
-		$ul = $link->xpath("ancestor::ul");
-		$parent_ul = array_pop($ul);
-		foreach(explode(' ',$parent_ul['class']) as $c)
-			$classes[] = "in-$c";
-		
-		return $classes;
 	}
 
 } // class

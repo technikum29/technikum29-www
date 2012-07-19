@@ -53,3 +53,12 @@ h2 {
 	border: none;
 	margin: 0;
 }
+
+#content a:link, #content a:visited {
+	color: #205b6b;
+	text-decoration: underline;
+}
+
+#content a:hover, #content a:focus {
+	color: #882224;
+}

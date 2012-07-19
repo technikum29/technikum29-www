@@ -316,6 +316,11 @@ t29.menu.scroll.setup = function() {
 
 ***************************************************************************************/
 t29.menu.guide.setup = function() {
+	// Beam nur anzeigen wenn auf Seite, die auch in der Beamnavigation drin ist,
+	// sprich Seitenleiste.
+	if(t29.conf['seite_in_nav'] != t29.menu.side.attr('class'))
+		return;
+
 	// Zentraler Hauptschritt: Das Menue ab oberster Ebene klonen und im Footer dranhaengen,
 	// ausserdem ein paar Ummodellierungen.
 	g = t29.menu.beam;

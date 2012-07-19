@@ -9,3 +9,37 @@
 #content img.weisser-rahmen { border: 14px solid white; }
 
 #content .clear-left { clear: left; }
+
+
+a.go:before {
+	content: "\bb"; /* unicode &raquo; */
+	display: inline-block;
+	padding-right: 2px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* a.go old style */
+/*
+a.arrow,
+a.go {
+	background-position: center left;
+	background-repeat: no-repeat;
+	padding-left: 13px;
+}
+
+a.arrow:link,
+a.arrow:visited,
+a.go:link,
+a.go:visited {
+	background-image: url(/shared/img/fresh.design/arrowbg.a.png);
+}
+
+a.arrow:hover,
+a.arrow:active,
+a.arrow:focus,
+a.go:hover,
+a.go:active,
+a.go:focus {
+	background-image: url(/shared/img/fresh.design/arrowbg-hot.a.png);
+}*/

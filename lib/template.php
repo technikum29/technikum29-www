@@ -39,14 +39,32 @@ class t29Template {
 		foreach(array('footer-legal-file', 'topnav-search-page') as $msg)
 			$this->conf[$msg] = $this->conf['lang_path'] . $this->msg->_($msg);
 
+		// store informations about the current page
+		$this->conf['seiten_link'] = $this->menu->get_link();
+		$this->conf['seite_in_nav'] = $this->menu->get_link_navigation_class($this->conf['seiten_link']);
+		$this->conf['seite_in_ul'] = $this->menu->get_link_ul_classes($this->conf['seiten_link']);
+
 		// setup body classes:
-		$this->body_classes[] = "lang-" . $this->conf['lang'];
-		$this->body_classes[] = "page-" . $this->conf['seiten_id'];
-		$this->body_classes = array_merge($this->body_classes, $this->menu->get_link_classes());
+		$body_classprefixes = array(
+			// css prefix => configuration array value
+			'lang-' => 'lang',
+			'page-' => 'seiten_id',
+			'in-nav-' => 'seite_in_nav',
+			'in-' => 'seite_in_ul',
+		);
+		foreach($body_classprefixes as $prefix => $key) {
+			if(is_array($this->conf[$key]))
+				// append each element of array conf values
+				foreach($this->conf[$key] as $x)
+					$this->body_classes[] = $prefix . $x;
+			elseif($this->conf[$key]) // skip null/false/empty conf values
+				$this->body_classes[] = $prefix . $this->conf[$key];
+		}
 		
 		// setup javascript configuration
-		$this->javascript_config['lang'] = $this->conf['lang'];
-		$this->javascript_config['seiten_id'] = $this->conf['seiten_id'];
+		$javascript_transfer = array('lang', 'seiten_id', 'seite_in_nav', 'seite_in_ul');
+		foreach($javascript_transfer as $key)
+			$this->javascript_config[$key] = $this->conf[$key];
 		
 		// get all kind of relations
 		$this->page_relations = $this->menu->get_page_relations();
@@ -57,6 +75,17 @@ class t29Template {
 		$this->conf['has_pagecss'] = file_exists($this->conf['webroot'].$this->conf['pagecss']);
 		// FIXME: There is no caching check yet for this setting
 		//        (new pagecss file won't be detected and wont purge the tmpl cache)
+		
+		// setup html title
+		$this->conf['html_title'] = '';
+		if(isset($this->conf['titel']) && !empty($this->conf['titel']))
+			$this->conf['html_title'] = $this->conf['titel'] . ' - ';
+		elseif($this->conf['seiten_id'] == $this->msg->_('homepage-pagename'))
+			{} // nop: Startseitentitel soll nur sein "technikum29"
+		elseif($this->conf['seiten_link'])
+			// Titel vom Menu nehmen
+			$this->conf['html_title'] = $this->conf['seiten_link'] . ' - ';
+		$this->conf['html_title'] .= $this->msg->_('html-title');
 	}
 	
 	/**
@@ -97,7 +126,7 @@ class t29Template {
 <html class="no-js" lang="<?php echo $this->conf['lang']; ?>">
 <head>
   <meta charset="utf-8">
-  <title><?php echo isset($this->conf['titel']) ? $this->conf['titel'].' - ' : ''; $p('html-title'); ?></title>
+  <title><?php echo $this->conf['html_title']; ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="Sven">
   <meta name="generator" content="t29v6">
@@ -232,6 +261,8 @@ class t29Template {
 		<nav class="rel clearfix">
 		<ul>
 			<?php
+			  // only print menu when in sidebar where it applies
+			  if($this->conf['seite_in_nav'] == 'side')
 				foreach($this->page_relations as $rel => $a) {
 					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
 						$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),

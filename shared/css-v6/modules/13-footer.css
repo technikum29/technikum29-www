@@ -119,24 +119,32 @@ nav.guide a:hover .bullet, nav.guide a:focus .bullet {
 nav.rel {
 	height: 20px;
 	position: absolute;
-	top: 20px; left: 40px;
+	top: 17px; left: 0;
 	z-index: 0;
+	width: 940px;
+	text-align: center;
 }
 
 nav.rel a {
 	/*font: 12px "Futura Std Medium";*/
-	font-size: 12px;
-	color: #40a8e2;
 	text-transform: uppercase;
 	display: inline-block;
+	padding: 15px;
+
+	font-size: 15px;
+	color: rgba(65,111,124,.85); /*#416f7c;*/
+	background-color: #dfe9f0;
+	
+	font-weight: bold;
+	
+	position: relative;
+	height: 40px; /* wegen arrow: height+2*padding=arrowheight */
 }
 
-nav.rel strong { display: block; }
-
-nav.rel li  a {
-	/*float: left;
-	width: 45%; *//* per JS automatisch angepasst */
-	padding: 10px; margin-top: 3px; /* footer bg */
+nav.rel strong {
+	display: block;
+	font-weight: normal;
+	opacity: .7;
 }
 
 nav.rel .prev  a {
@@ -146,8 +154,35 @@ nav.rel .next a {
 	text-align: left;
 }
 
+nav.rel a:after {
+	content: ""; width: 0;
+	display: block;
+	position: absolute;
+	top: 0;
+	border-top: 35px solid transparent;
+	border-bottom: 35px solid transparent;
+	border-left: 30px solid #dfe9f0;
+	border-right: 30px solid #dfe9f0;
+}
+
+nav.rel a:hover:after {
+	border-left-color: #40a8e2;
+	border-right-color: #40a8e2;
+}
+
+nav.rel .next a:after {
+	right: -30px;
+	border-right: none;
+}
+
+nav.rel .prev a:after {
+	left: -30px;
+	border-left: none;
+}
+
 nav.rel a:hover {
-	background-color: #dfeaf0;
+	background-color: #40a8e2;
+	color: white;
 }
 
 /* Footer Icon-Sammlung und so */

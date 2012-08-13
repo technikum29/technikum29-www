@@ -14,7 +14,7 @@ body {
 
 
 body, input { /* font */
-	font-family: "Trebuchet MS";
+	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 ::-moz-selection{background:#07a;color:#fff;text-shadow:none}
@@ -23,7 +23,7 @@ body, input { /* font */
 
 nav.horizontal a, nav.side .u1 > li > a {
 	/*font-family: "Futura Std Book", "Trebuchet MS";*/
-	font-family: "Trebuchet MS";
+	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 #footer-background-container {

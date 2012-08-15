@@ -9,7 +9,7 @@
 
 <p>Die <i>technikum29-Lernprojekte</i> sind u.a. eine Sammlung von Präsentationsdateien, die zum Teil nur gegen Passworteingabe zugänglich sind. 
 
-Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.shtm">das Projektmanagament</a>.</p>
+Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.php">das Projektmanagament</a>.</p>
 
 <h3 id="aes"> Das technikum29-Team unterstützt Projekte an der Schule</h3>
 

@@ -8,7 +8,7 @@
     <h2>Telegraphietechnik</h2>
 
     <div class="box left clear-after">
-        <a href="/de-v6/geraete/morsetelegraf.php" name="backlink-morsetelegraf"><img src="/shared/photos/kommunikationstechnik/telegrafie-regal.jpg" alt="Das Telegrafie-Regal" width="240" height="464" /></a>
+        <a href="/de/geraete/morsetelegraf.php" name="backlink-morsetelegraf"><img src="/shared/photos/kommunikationstechnik/telegrafie-regal.jpg" alt="Das Telegrafie-Regal" width="240" height="464" /></a>
         <div class="bildtext">
 		    Ausschnitt aus dem Bereich Fax- und Schreibtechnik.
 		    <p>Das Bedürfnis der Menschen, über weite Entfernungen Informationen auszutauschen ist sehr alt.  Hier wurde der Name MORSE zum Synonym für die Telegraphie schlechthin. Um 1838 entstanden die ersten Verkehrstelegraphen.</p>
@@ -89,7 +89,7 @@
         </p>
 
 
-    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de-v6/geraete/hellfax-funktionsschema.php">Funktionsweise des HELLfax</a>.
+    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.php">Funktionsweise des HELLfax</a>.
 	</p>
 
     <div class="box center auto-bildbreite">

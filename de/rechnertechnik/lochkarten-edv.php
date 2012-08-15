@@ -39,50 +39,64 @@
 		<h3>Sortiermaschinen</h3>
 		
     <div class="box center manuelle-bildbreite" style="width: 580px;">
-        <a name="backlink-sortierer" href="/de-v6/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
+        <a name="backlink-sortierer" href="/de/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
 
         <p class="center">
             <b>IBM 082 Sortiermaschine</b>
 	        <br/>Diese Sortiermaschine wurde ab 1949 gebaut.
-	        <br/><a class="go" href="/de-v6/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
+	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
 
     <div class="box center auto-bildbreite">
-        <a href="/de-v6/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
+        <a href="/de/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
             Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
-	        <br/><a class="go" href="/de-v6/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
+	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
 <h3>Lochkartenmischer</h3>
 
-    <div class="box center auto-bildbreite">
-        <a name="backlink-mischer" href="/de-v6/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
+    <div class="box left clear-after">
+        <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
         <p class="bildtext">
-            <b>IBM Lochkartenmischer 77</b></p></div>
+            <b>IBM Lochkartenmischer 77</b></p>
 			
             <p>Hier ist die Rückseite des 1959 gebauten Gerätes ohne Gehäuse zu sehen. Der Mischer liest 480 Karten/Minute und kann z.B. die Reihenfolge von Kartenstapeln verändern, Duplikate suchen und gegebenenfalls aussondern oder 2 Stapel vergleichen und Unterschiede feststellen. Er ist im übertragenen Sinne eine Art mechanische Datenbankabfrage und Updatemaschine.<br />Die Programme können durch Austauschen einer mit Steckkabeln bestückten Schalttafel gewechselt werden.
             <br/>Wie bei den anderen Lochkartenmaschinen bilden viele Relais und durch Nockenwellen gesteuerte Schalter die Elektronik. Für die Techniker aus dieser Frühzeit war das "Ölkännchen" zur Pflege der vielen Lager genauso wichtig wie ein Messgerät.
-	        <br/><a class="go" href="/de-v6/geraete/lochkartenmischer-funktion.php">Funktionsweise des Lochkartenmischers</a>
+	        <br/><a class="go" href="/de/geraete/lochkartenmischer-funktion.php">Funktionsweise des Lochkartenmischers</a>
         </p>
-
+	</div>
 	
-    <div class="box center auto-bildbreite">
-        <a name="backlink-mischer" href="/de-v6/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
+    <div class="box left clear-after">
+        <a name="backlink-mischer" href="/de/geraete/lochkartenmischer-funktion.php"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull Lochkartenmischer" width="450" height="536" /></a>
         <p class="bildtext">
-            <b>Bull Lochkartenmischer Typ 56.00.</b></p></div>
+            <b>Bull Lochkartenmischer Typ 56.00.</b></p>
 			
 		   <p> Dieser Lochkartenmischer ist ein gigantisch großes Gerät mit viel Chrom (symbolisiert Werthaltigkeit). Knapp 1000 Relais wurden hier verbaut um diverse Mischfunktionen per verkabeltem Programmfeld zu realisieren. Auch das Mischen und Sortieren in einem Arbeitsgang war dadurch möglich. Je nach Anwendung können 250 bis 500 Lochkarten in der Minute verarbeitet werden.
 		</p>
+	</div>
+	
 	
 	<h3>Lochschriftübersetzer</h3>
 	
-    <div class="box center auto-bildbreite">
+    <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
         <p class="bildtext">
-            <b>IBM 548</b></p></div>
+            <b>IBM 548</b></p>
 			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>
 			Nach dem Duplizieren von Lochkarten ist eine Beschriftung mittels IBM 548 sehr hilfreich.
         </p>
+	</div>
+
+	<h3>ANELEX Schnelldrucker</h3>
+	
+	<div class="box left clear-after">
+		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" />
+		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p>
+	
+<p>Wenn man vor einem solchen gewichtigen "Monstrum" steht, wird man fast ehrfürchtig: Eine ungeheuer aufwändige und stabile Mechanik sorgt dafür, dass zehntausende Seiten gedruckt werden können, ohne dass wesentliche Ausfälle zu beklagen sind. Der "Anelex Series 5" Drucker wurde 1963/64 in den USA entwickelt und in vielen Computeranlagen dieser Zeit verwendet (so auch an der Z-22 von ZUSE oder am Elektrologica X8). Er war 1965 mit bis zu 1250 Druckzeilen pro Minute der schnellste Drucker der Welt.<br>
+Wir haben unseren ANELEX repariert und steuern ihn über einen Micro-Controller von einem Laptop aus an. Hier wird antike EDV mit der Jetztwelt funktionsfähig verbunden.</p>
+
+		

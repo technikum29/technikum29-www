@@ -44,7 +44,7 @@
     <p>Die <b>Olympia-Werke AG</b> (Deutschland) brachte ab 1965 den "Elektronischen Vierspezies-Rechenautomat" auf den Markt. Die Besonderheit waren die Fließkomma-Automatik, 3 Rechenwerke, 1 Speicherwerk und im abgebildeten Gerät 3 "Memoriawerke" (d.h. 3 frei zur Verfügung stehende Register). Dennoch ein durchaus solider Rechner mit handgefädeltem Kernspeicher (384 Bit !!), Germanium-Transistoren und Nixieröhren aber leider ohne Schnittstelle. Damit waren weder eine Programmabspeicherung noch eine externe Programmeingabe möglich. Diesen Schritt hat Olympia verpasst, so dass der Rechner schnell veraltet war. Das Design ist mit dem schmucklosen Kunststoff-Gehäuse auch sehr dürftig. In der Sonne vergilbte das Gehäuse schnell und machte keinen guten Eindruck.<br>
 	Das Gerät wurde auch in den USA von der Rechenmaschinen-Fabrik <b>Monroe</b> unter dem Typ 770 vertrieben. Es war schon beachtlich, dass eine amerikanische Firma elektronische Rechner aus Deutschland bezog.<br>
 	Auch die legendäre <b>WANDERER-WERKE AG</b>, wie Olympia eine typische Büromaschinenfabrik, sah den Zug der Zeit abfahren und brachte daher ebenfalls 1965 einen Rechner auf den Markt. Werbewirksam formulierte WANDERER: "Der Welt erster druckender elektronischer universal Tischrechenautomat". Dieser Marktvorteil war Wanderer jedoch nur für einige Wochen gegönnt; die Zeit begann hektisch zu werden, Olivetti und Diehl zogen nach.<br>
-	Lesen Sie dazu den <a class="go" name="backlink-wanderer" href="/de-v6/geraete/wanderer.php">Originalprospekt</a>.</p><br>
+	Lesen Sie dazu den <a class="go" name="backlink-wanderer" href="/de/geraete/wanderer.php">Originalprospekt</a>.</p><br>
 	
 	<h3>FRIDEN 130 (132)</h3>
 	

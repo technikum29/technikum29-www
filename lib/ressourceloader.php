@@ -187,7 +187,7 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 		}
 	}
 
-	function print_header() {
+	function print_header($title=null) {
 		parent::print_header('JavaScript Code');
 		echo " * Depends heavily on jQuery\n **/\n";
 	}
@@ -202,7 +202,7 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 } // class t29JavaScriptRessourceLoader
 
 class t29StyleSheetRessourceLoader extends t29RessourceLoader {
-	function print_header() {
+	function print_header($title=null) {
 		parent::print_header('StyleSheet');
 		echo " **/\n";
 	}

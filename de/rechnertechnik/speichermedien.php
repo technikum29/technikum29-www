@@ -50,7 +50,7 @@
 		   <br/>Durch Magnetostriktion (kurzes Zusammenziehen eines Drahtes, wenn ihn ein starkes Magnetfeld umgibt) werden quasi Schallimpulse auf einen (zusammengerollten) Draht gegeben. Diese Information l&auml;uft mit der Schallgeschwindigkeit (des Materials) bis zum Ende und wird dort wieder in Stromimpulse umgewandelt. Jetzt w&auml;re die Information verloren, wenn man sie nicht aufbereiten und wieder am Anfang des Drahtes eingeben w&uuml;rde.</p>
 		<p>Die Daten laufen damit permanent "im Kreis" und k&ouml;nnen, wenn sie den Draht verlassen, gelesen und ver&auml;ndert werden. Je l&auml;nger der Draht ist, desto gr&ouml;&szlig;er ist die Speicherkapazit&auml;t.</p>
 		<p>Es handelt sich um einen fl&uuml;chtigen Speicher mit relativ langer Zugriffszeit. Wird der Rechner abgeschaltet, sind alle Daten weg.</p>
-		<p>Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de-v6/geraete/diehl-combitronic.php">"Diehl-Combitronic"</a></p> 
+		<p>Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de/geraete/diehl-combitronic.php">"Diehl-Combitronic"</a></p> 
 
 
 <h3 id="kernspeicher">Kernspeicher</a></h3>
@@ -86,7 +86,7 @@
   <h3 id="threaded-rom">Gefädeltes ROM, Festwertspeicher</h3>
   
 <div class="box center auto-bildbreite">
-	<a name="backlink-gefaedeltes-rom" href="/de-v6/geraete/gefaedeltes-rom.php"><img src="/shared/photos/rechnertechnik/speichermedien/nixdorf-rom-gesamt.jpg" alt="Gefädeltes ROM von Nixdorf" width="694" height="470" /></a>
+	<a name="backlink-gefaedeltes-rom" href="/de/geraete/gefaedeltes-rom.php"><img src="/shared/photos/rechnertechnik/speichermedien/nixdorf-rom-gesamt.jpg" alt="Gefädeltes ROM von Nixdorf" width="694" height="470" /></a>
 	<p class="bildtext"><b>Nixdorf gefädeltes ROM</b></p></div>
 		<p>Wenn man Mitte der 60er Jahre Programme, z.B. ein Betriebssystem, hardwaremäßig speichern wollte, stand man schon vor großen Problemen. Ausgehend von der Funktion des Kernspeichers ersann man sich ein ROM, in welchem das unveränderbare Programm abgelegt wurde. Dieses gefädelte ROM (Festwertspeicher) ist aus einer NIXDORF-WANDERER Logatronic Anlage (Bj. ca. 1966, der Vorgänger der Nixdorf 820 Anlage mit Stäbchenspeicher, s.u.). Es kann 2048 Wörter mit je 18 Bit generieren. <br>
 		Wie man sieht, waren die Ingenieure und Techniker der Firma WANDERER perfektionistische Ästheten: Alle Transistoren in Reih´ und Glied, sowie Symmetrie zeichnen den Aufbau aus. Einen Detailausschnitt und genauere Erklärungen erhalten Sie durch Anklicken des Bildes.<br/>
@@ -98,25 +98,25 @@
 <h3 id="staebchenspeicher">Stäbchenspeicher</h3>
 
 <div class="box center auto-bildbreite">
-	<a name="backlink-staebchenspeicher" href="/de-v6/geraete/staebchenspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="Stäbchenspeicher von Nixdorf" width="692" height="379" /></a>
+	<a name="backlink-staebchenspeicher" href="/de/geraete/staebchenspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="Stäbchenspeicher von Nixdorf" width="692" height="379" /></a>
 	<p class="bildtext"><b>Nixdorf Stäbchenspeicher</b></p></div>
 		<p>NIXDORF wollte besonders flexibel sein und gestaltete ein ROM, welches man auch 		problemlos selbst fädeln konnte (und natürlich noch immer kann).
 			 <br/>In diesen ROM´s wurde das ganze Betriebssystem des NIXDORF 820 - Rechners gespeichert (man brauchte 3 Stück dieser Module, Typ 177). Der Kunde konnte sich auch Programme selbst in leeren Programmträgern herstellen. Pro Modul (siehe Bild, hier geöffnet) waren das bis zu 4096 Wörter mit einer Länge von je 18 Bit. Das Gewicht des Moduls beträgt stolze 2,4 kg! Ein ordentliches Programm hatte auch ein ordentliches Gewicht!<br/>
 			 Weil dies das am einfachsten zu verstehende ROM ist, welches man selbst herstellen konnte, gibt es genauere Erklärungen und weitere Bilder.
 		</p>
-		<p><a class="go" href="/de-v6/geraete/staebchenspeicher.php">Detailaufnahme betrachten</a></p>
+		<p><a class="go" href="/de/geraete/staebchenspeicher.php">Detailaufnahme betrachten</a></p>
 	
 
 <h3 id="magnetdrahtspeicher">Magnetdrahtspeicher</h3>
 
 <div class="box left clear-after">
-	<a href="/de-v6/geraete/magnetdrahtspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Beschriftetes Photo: Aufbau des Magnetdrahtspeichers" width="340" height="303" /></a>
+	<a href="/de/geraete/magnetdrahtspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Beschriftetes Photo: Aufbau des Magnetdrahtspeichers" width="340" height="303" /></a>
 	<p class="bildtext"><b>Univac Magnetdrahtspeicher</b></p>
 	
 		<p>Dieser Speicher sollte den Kernspeicher ablösen. Mit Ankündigung der UNIVAC Serie 9000 (ca. 1965/66) stellte UNIVAC "eine technische Neuerung ersten Ranges" vor: Den Magnetdrahtspeicher, so der Text in der UNIVAC-Zeitschrift "Die Lochkarte" von 1967.</p><p>
 		Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA erhielt UNIVAC 1964 den Auftrag ein Speichersystem zu entwickeln, das weniger als 1 Watt Leistung benötigt (ein Kernspeicher benötigt dafür 10-15 Watt), nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br>
 		Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und für Satelliten und Raumschiffe eingesetzt werden. Doch schon nach relativ kurzer Zeit kam die Ernüchterung: Der Speicher war sehr störanfällig.</br></p>
-		<p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de-v6/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des Magnetdrahtspeichers</a></p></div>
+		<p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des Magnetdrahtspeichers</a></p></div>
 
 
 <h3 id="lochband">Lochband</h3>
@@ -124,5 +124,5 @@
 <div class="box left clear-after">
    <img src="/shared/photos/rechnertechnik/speichermedien/lochband-combitron.jpg" alt="Lochband der Combitron" width="424" height="322" />
    <p class="bildtext"><b>Metall-Lochband</b></p>
-	   <p>Wie in der Rubrik <a href="/de-v6/geraete/programmierbare.php">programmierbare Tischrechner der 2. Generation</a> beschrieben, benutzte die DIEHL Combitron einen Laufzeitspeicher. Der ist jedoch flüchtig. Das "Betriebssystem" war auf einem 2 spaltigen Lochband abgespeichert, wobei die linke Lochreihe nur die Taktspur ist. Nach dem Einschalten wurde das Lochband  mit der Geschwindigkeit per Fotozelle abgefühlt, welche die Information seriell optimal dicht in den ersten Teil des Laufzeitspeichers schrieb. Wie man erkennt, ist die Informationsdichte auf dem Lochband extrem gering. Aber das war ja auch die Steinzeit der programmierbaren Rechner.
+	   <p>Wie in der Rubrik <a href="/de/geraete/programmierbare.php">programmierbare Tischrechner der 2. Generation</a> beschrieben, benutzte die DIEHL Combitron einen Laufzeitspeicher. Der ist jedoch flüchtig. Das "Betriebssystem" war auf einem 2 spaltigen Lochband abgespeichert, wobei die linke Lochreihe nur die Taktspur ist. Nach dem Einschalten wurde das Lochband  mit der Geschwindigkeit per Fotozelle abgefühlt, welche die Information seriell optimal dicht in den ersten Teil des Laufzeitspeichers schrieb. Wie man erkennt, ist die Informationsdichte auf dem Lochband extrem gering. Aber das war ja auch die Steinzeit der programmierbaren Rechner.
    </p></div>

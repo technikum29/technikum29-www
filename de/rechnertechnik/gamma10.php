@@ -6,7 +6,8 @@
 	require "../../lib/technikum29.php";
 ?>
     <h2>EDV-Anlage der 2. Generation: BULL GAMMA 10</h2>
-
+ 
+ 
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
 		<p class="bildtext"><b>BULL Gamma 10 &nbsp;  EDV-Anlage</b></p></div>
@@ -54,24 +55,11 @@
 		</div>
 	</div>
 
-    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Daher steht bereits ein ANELEX Drucker (Series 5) aus dem Jahre 1965 bereit. Dieser Drucker war 1965 mit 1250 Druckzeilen pro Minute der schnellste Drucker der Welt. Für unseren Gamma 10 darf er ruhig etwas langsamer sein.</p>
-	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" class="nomargin-bottom" />
-		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p>
-		<p>Im Prinzip passt dieser Drucker gut zur Gamma 10: Es ist wie das Original ein Trommeldrucker und die Schaltung ist ebenfalls mit negativer Logik (Germaniumtransistoren) aufgebaut. Auch Anelex verwendete einen Kernspeicher als Datenpuffer. Dennoch wird die Anbindung an den Bull-Rechner ein schwieriges Unterfangen. Der Pufferspeicher des BULL-Druckers befindet sich im Prozessor. Wir möchten diese Architektur nicht verändern und müssen daher mit Hilfe von Microcontrollern eine Anpassung vornehmen. In der Rubrik "Entwicklungsprojekte" werden wir darüber berichten.</p>
-	</div>
-	
-<p>Wenn man vor einem solchen gewichtigen "Monstrum" steht, wird man fast ehrfürchtig: Eine ungeheuer aufwändige und stabile Mechanik sorgt dafür, dass zehntausende Seiten gedruckt werden können, ohne dass wesentliche Ausfälle zu beklagen sind. Der "Anelex Series 5" Drucker wurde 1963/64 in den USA entwickelt und in vielen Computeranlagen dieser Zeit verwendet (so auch an der Z-22 von ZUSE oder am Elektrologica X8). Er war 1965 mit bis zu 1250 Druckzeilen pro Minute der schnellste Drucker der Welt.<br>
-Wir haben unseren ANELEX repariert und steuern ihn über einen Micro-Controller von einem Laptop aus an. Hier wird antike EDV mit der Jetztwelt funktionsfähig verbunden.</p>
-<hr>
+    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Doch wir haben Glück: Ein original Drucker ist uns aus Frankreich zugesprochen worden. Er wird voraussichtlich im September hier eintreffen.</p><br>
 
+	<hr>
+	
     <p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>
-	Um 1970 stand eine G10 in der Lochkartenabteilung der Stadtverwaltung. Der Rechner wurde aus Platzgründen schon vor langer Zeit entsorgt; doch die umfangreichen Unterlagen und Ersatzteile haben im Stadtarchiv überlebt. Frau A.R. knüpfte mit uns den Kontakt so dass wir die genau zu unserem Rechner passenden Unterlagen und Teile übernehmen konnten, die für uns eine wertvolle Hilfe sind. Dafür bedanken wir uns herzlich.<br>
-	
-	</small></div>
+	Um 1970 stand eine G10 in der Lochkartenabteilung der Stadtverwaltung. Der Rechner wurde aus Platzgründen schon vor langer Zeit entsorgt; doch die umfangreichen Unterlagen und Ersatzteile haben im Stadtarchiv überlebt. Frau A.R. knüpfte mit uns den Kontakt so dass wir die genau zu unserem Rechner passenden Unterlagen und Teile übernehmen konnten, die für uns eine wertvolle Hilfe sind. Dafür bedanken wir uns herzlich.
+	</p>
 
-
-</div><!-- end of content -->
-<!--#include virtual="/de/inc/menu.inc.shtm" -->
-</body>
-</html>

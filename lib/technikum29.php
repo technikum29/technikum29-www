@@ -22,7 +22,7 @@ if(isset($_GET['debug'])) {
 $cache_dir = "$webroot/shared/cache";
 $languages = array(
 // shorthand => array(full name in page, path from webroot)
-	"de" => array("Deutsch",  "/de-v6"),
+	"de" => array("Deutsch",  "/de"),
 	"en" => array("English", "/en-v6"),
 );
 

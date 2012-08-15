@@ -7,7 +7,7 @@
 
  if( ($en !== false && $de !== false && $de < $en) ||
      ($en === false && de !== false)              )
-        header("Location: /de-v6/");
+        header("Location: /de/");
  else
         header("Location: /en-v6/");
 ?>

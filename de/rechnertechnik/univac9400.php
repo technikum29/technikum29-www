@@ -23,17 +23,17 @@
     </p>-->
 
     <ul class="univac-thumbs">
-       <li><a href="/de-v6/geraete/univac9400/panorama-links.php" name="backlink-links" title="Großes Bild von links"><img src="/shared/photos/rechnertechnik/univac/panorama-links.klein.jpg" alt="Foto 1: Univac 9400 von links" height="107" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/frontpanel.php" name="backlink-frontpanel" title="Großes Bild des Frontpanel"><img src="/shared/photos/rechnertechnik/univac/frontpanel.klein.jpg" alt="Foto 2: Univac 9400 Frontpanel" height="379" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/konsole+uniservo.php" name="backlink-konsole" title="Großes Bild der Konsole/Uniservo"><img src="/shared/photos/rechnertechnik/univac/uniservo-12-16.klein.jpg" alt="Foto 3: Konsole und Uniservo" height="165" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/kartenleser.php" name="backlink-kartenleser" title="Großes Bild vom Kartenleser"><img src="/shared/photos/rechnertechnik/univac/kartenleser.klein.jpg" alt="Foto 4: Kartenleser" height="178" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/kartenleser.php" name="backlink-kartenleser2" title="Großes Bild des Kartentransportes (Kartenleser)"><img src="/shared/photos/rechnertechnik/univac/kartentransport.klein.jpg" alt="Foto 5: Kartentransport im Kartenleser" height="318" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/bandcontroller-laempchen.php" name="backlink-bandcontroller" title="Großes Bild des Bandcontrollers"><img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.klein.jpg" alt="Foto 6: Lämpchen des Bandcontrollers" height="220" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/plattenlaufwerke.php" name="backlink-plattenlaufwerke" title="Großes Bild der Plattenlaufwerke"><img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.klein.jpg" alt="Foto 7: Plattenlaufwerke" height="178" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/schnelldrucker.php" name="backlink-schnelldrucker" title="Großes Bild vom Univac 9400 Schnelldrucker"><img src="/shared/photos/rechnertechnik/univac/schnelldrucker.klein.jpg" alt="Foto 8: Schnelldrucker" height="232" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/typisches-board.php" name="backlink-board" title="Großes Bild von einem typischen Modul"><img src="/shared/photos/rechnertechnik/univac/typisches-board.klein.jpg" alt="Foto 9: Typisches Board" height="161" /></a></li>
+       <li><a href="/de/geraete/univac9400/panorama-links.php" name="backlink-links" title="Großes Bild von links"><img src="/shared/photos/rechnertechnik/univac/panorama-links.klein.jpg" alt="Foto 1: Univac 9400 von links" height="107" /></a></li>
+       <li><a href="/de/geraete/univac9400/frontpanel.php" name="backlink-frontpanel" title="Großes Bild des Frontpanel"><img src="/shared/photos/rechnertechnik/univac/frontpanel.klein.jpg" alt="Foto 2: Univac 9400 Frontpanel" height="379" /></a></li>
+       <li><a href="/de/geraete/univac9400/konsole+uniservo.php" name="backlink-konsole" title="Großes Bild der Konsole/Uniservo"><img src="/shared/photos/rechnertechnik/univac/uniservo-12-16.klein.jpg" alt="Foto 3: Konsole und Uniservo" height="165" /></a></li>
+       <li><a href="/de/geraete/univac9400/kartenleser.php" name="backlink-kartenleser" title="Großes Bild vom Kartenleser"><img src="/shared/photos/rechnertechnik/univac/kartenleser.klein.jpg" alt="Foto 4: Kartenleser" height="178" /></a></li>
+       <li><a href="/de/geraete/univac9400/kartenleser.php" name="backlink-kartenleser2" title="Großes Bild des Kartentransportes (Kartenleser)"><img src="/shared/photos/rechnertechnik/univac/kartentransport.klein.jpg" alt="Foto 5: Kartentransport im Kartenleser" height="318" /></a></li>
+       <li><a href="/de/geraete/univac9400/bandcontroller-laempchen.php" name="backlink-bandcontroller" title="Großes Bild des Bandcontrollers"><img src="/shared/photos/rechnertechnik/univac/bandcontroller-laempchen.klein.jpg" alt="Foto 6: Lämpchen des Bandcontrollers" height="220" /></a></li>
+       <li><a href="/de/geraete/univac9400/plattenlaufwerke.php" name="backlink-plattenlaufwerke" title="Großes Bild der Plattenlaufwerke"><img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.klein.jpg" alt="Foto 7: Plattenlaufwerke" height="178" /></a></li>
+       <li><a href="/de/geraete/univac9400/schnelldrucker.php" name="backlink-schnelldrucker" title="Großes Bild vom Univac 9400 Schnelldrucker"><img src="/shared/photos/rechnertechnik/univac/schnelldrucker.klein.jpg" alt="Foto 8: Schnelldrucker" height="232" /></a></li>
+       <li><a href="/de/geraete/univac9400/typisches-board.php" name="backlink-board" title="Großes Bild von einem typischen Modul"><img src="/shared/photos/rechnertechnik/univac/typisches-board.klein.jpg" alt="Foto 9: Typisches Board" height="161" /></a></li>
        <li><a href="/de/rechnertechnik/univac9200.php"><img src="/shared/photos/rechnertechnik/univac/univac9300klein.jpg" alt="Foto 10: Univac 9200" height="127" /></a></li>
-       <li><a href="/de-v6/geraete/univac9400/werbung.php" name="backlink-werbung" title="Die Anzeige für die Univac 9400 lesen"><img src="/shared/photos/rechnertechnik/univac/werbung.klein.jpg" alt="Foto 11: Univac 9400 Anzeige" height="344" /></a></li>
+       <li><a href="/de/geraete/univac9400/werbung.php" name="backlink-werbung" title="Die Anzeige für die Univac 9400 lesen"><img src="/shared/photos/rechnertechnik/univac/werbung.klein.jpg" alt="Foto 11: Univac 9400 Anzeige" height="344" /></a></li>
     </ul>
 	
 	<p>Vorbemerkung: Alle untenstehenden Bilder lassen sich durch Anklicken vergrößern. Zusätzlich werden die Bilder kommentiert.<br /> <br />
@@ -82,7 +82,7 @@ Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und
 
 <p>Inzwischen laufen viele Programme. So können Sie sich von diesem "Groß"Rechner z.B. eine aktuelle Graphik für Ihren persönlichen Bio-Rhythmus der nächsten 4 Wochen anfertigen lassen. Ein COBOL-Programm übernimmt die aufwändige Analyse.</p>
 
-<p>Die Kosten der UNIVAC Anlage im Jahre 1969 war enorm und entsprach einer Kette von neuen PKW mit einer Länge von ca. 2,3 km. Siehe <a href="/de-v6/geraete/univac9400/kosten.php" class="go">Unfassbar: Univac 9400 = 470 Autos (VW-Käfer)</a></p>
+<p>Die Kosten der UNIVAC Anlage im Jahre 1969 war enorm und entsprach einer Kette von neuen PKW mit einer Länge von ca. 2,3 km. Siehe <a href="/de/geraete/univac9400/kosten.php" class="go">Unfassbar: Univac 9400 = 470 Autos (VW-Käfer)</a></p>
 
  <div class="box right clear-after">
        <img src="/shared/photos/rechnertechnik/unisys_tag.gif"  width="142" height="75" class="nomargin-bottom" />

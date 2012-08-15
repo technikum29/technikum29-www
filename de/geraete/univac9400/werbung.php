@@ -7,6 +7,6 @@
 ?>
 <h2><?php print $titel; ?></h2>
 
-<div class="box center">
+<div class="box center no-copyright">
 	<img src="/shared/photos/rechnertechnik/univac/werbung.jpg" alt="Zeitgenössische Univac 9400-Anzeige: Sie können ihre Zeit vervielfachen - mit der neuen Univac 9400" width="794" height="1147" />
 </div>

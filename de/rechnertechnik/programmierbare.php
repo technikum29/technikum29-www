@@ -30,7 +30,7 @@
     <p>Hochinteressant ist auch der 1967 gebaute wissenschaftliche Rechner "WANG 320". Ein extrem seltenes Ger&auml;t mit Lochkartenprogrammierung und mehreren Keyboards, f&uuml;r die damalige Zeit eine Weltsensation.</p>
 
     <div class="box center auto-bildbreite">
-        <a href="/de-v6/geraete/wang320.php" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
+        <a href="/de/geraete/wang320.php" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
         <p><b>WANG 320 SE</b></p></div>
 		
              <p>Für 1966/67 war dies ein Tischrechner der Superlative. Zwei Eigenheiten waren damals sensationell: Die sehr schnelle Ermittlung von Werten zur Exponential- und Logarithmenfunktion (schneller als die Berechnung der Wurzel einer Zahl) sowie die Tatsache, dass bis zu 4 Keyboards angeschlossen werden konnten. Alle Anwender können gleichzeitig auf den Rechner zugreifen. Längere Programme die man per Lochkarte eingibt, werden unterbrochen um kurze Berechnungen von einem anderen Keyboard zu übernehmen. Danach wird das Programm weiter ausgeführt. Ein ideales Gerät für Schulen und Universitäten. Die präparierten 80-spaltigen Lochkarten können offline mit einem Stift auf einer Schablone "gestanzt" werden. Während an den meisten Hochschulen noch mit dem Rechenschieber gerechnet wurde, begann bei den wenigen, die im Besitz dieser Rechner waren bereits die Zeit der Informatik. Durch Anklicken des Bildes erhalten Sie eine Detailaufnahme.

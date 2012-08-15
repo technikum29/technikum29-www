@@ -10,6 +10,8 @@
 
 #content .clear-left { clear: left; }
 
+/* Striche werden ab und zu verwendet */
+#content hr { display: block; }
 
 a.go:before {
 	content: "\bb"; /* unicode &raquo; */

@@ -21,7 +21,7 @@
             <ul>
                
                 <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
-                <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.shtm">Infos für Lehrer</a>)</li>
+                <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>)</li>
 				<li>Für Informatiker, Firmengruppen, Azubis und viele mehr</li>
             </ul>
         </div>

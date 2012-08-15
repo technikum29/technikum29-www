@@ -21,7 +21,7 @@
     </div>
 
     <div class="box left clear-after">
-        <a href="/de-v6/geraete/saba-telerama.php" name="backlink-telerama" title="Erläuterung und Bild der Telerama-Projektion anschauen"><img src="/shared/photos/kommunikationstechnik/saba_telerama.jpg" alt="Saba Telerama" width="360" height="466" /></a>
+        <a href="/de/geraete/saba-telerama.php" name="backlink-telerama" title="Erläuterung und Bild der Telerama-Projektion anschauen"><img src="/shared/photos/kommunikationstechnik/saba_telerama.jpg" alt="Saba Telerama" width="360" height="466" /></a>
         <div class="bildtext"><b>Saba Telerama</b>
 	      <p>Die schwarzwälder Präzisionsfirma baute ab 1956 Fernseh-Projektionsgeräte. In den Werbetexten wurde versprochen, dass man selbst in einem nicht abgedunkelten Raum brillante Bilder sehen kann. Dieses Versprechen war stark übertrieben. Nur durch den speziellen (Saba-)Projektionsschirm, der das Licht hauptsächlich in eine Richtung zurückstrahlt, ist ein erträgliches Bild zu verwirklichen. Museumsbesucher können sich davon überzeugen. Durch Anklicken des Bildes erhalten Sie eine Erläuterung zur Telerama-Projektion.</p>
 	      <p>Rechts im Hintergrund sieht steht eine Nordmende Fernseh-Rundfunk-Plattenspieler Kombination, links desgleichen von Telefunken. Beide aus dem Jahre 1954.</p>

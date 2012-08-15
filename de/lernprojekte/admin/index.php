@@ -129,11 +129,11 @@ Ein einzelnes Projekt entspricht dabei einem Verzeichnis in diesem Unterordner.
 Neue Projekte erstellt man also, in dem man
 ein neues Verzeichnis per Hand erzeugt. In diesem Verzeichnis kann man dann nach
 ohne Beschränkung Dateien erstellen. Anschließend sollte das neue Projekt in der
-HTML-Datei <a href="../index.shtml">index.shtml</a> in der Liste eingetragen werden.</p>
+HTML-Datei <a href="../index.phpl">index.phpl</a> in der Liste eingetragen werden.</p>
 
 <p>In der (über FTP) runtergeladenen Version der Projekte ist der Passwortschutz
 noch nicht vorhanden. <b>Erst nachdem der neue Projektordner</b> und die geänderte
-<i>index.shtml</i>-Datei per FTP <b>hochgeladen wurden, kann in dieser
+<i>index.phpl</i>-Datei per FTP <b>hochgeladen wurden, kann in dieser
 Administrationsoberfläche hier ein Passwort für das neue Projekt eingerichtet
 werden</b>.</p>
 

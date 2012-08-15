@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html>
+<!--
+  technikum29v6: /de-v6/navigation.xml  $Id$
+  Deutsche Navigation. Diese XHTML-Datei wird von PHP/SimpeXML dynamisch erarbeitet
+  und angereichert.
+  
+  ACHTUNG! Diese Datei muss wohlgeformtes HTML/XML sein! Das heißt:
+    ==> Alle Tags, die aufgehen, müssen auch wieder zugehen! <==
+  
+  In dieser Datei findet sich
+  
+    1. die horizontale Hauptnavigation am oberen Rand
+    2. die vertikale Inhaltsnavigation (Führung) am rechten Rand
+
+-->
+<nav class="horizontal">
+<ul class="u1">
+	<li><a seiten_id="startseite" href="/de-v6/">Start</a></li>
+	<li class="has-submenu"><a seiten_id="news" href="/de-v6/news.php">Neues</a>
+		<ul class="u2 rich-text">
+			<!-- Letzte Neuigkeiten werden hier automatisch eingesetzt -->
+			<!--# INSERT_NEWS #-->
+		</ul>
+	</li>
+	<li class="has-submenu"><a href="/de-v6/lernprojekte/#DUMME-VERLINKUNG">Projekte</a>
+		<ul class="u2">
+			<li class="has-submenu"><a seiten_id="lernprojekte" href="/de-v6/lernprojekte/">Lernprojekte</a>
+				<!-- Pfeil-Symbol: ↔ -->
+				<ul class="u3">
+					<li><a href="/de-v6/lernprojekte/#aes">Fax ↔ Computer</a></li>
+					<li><a href="/de-v6/lernprojekte/#democomputer">Lerncomputer</a></li>
+					<li><a href="/de-v6/lernprojekte/pianola">Pianola</a></li>
+					<li><a href="/de-v6/lernprojekte/schach">Schach</a></li>
+				</ul>
+			</li>
+			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/de-v6/entwicklungsprojekte.php">Entwicklungsprojekte</a>
+				<ul class="u3">
+					<li><a href="/de-v6/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#anelex">Anelex-Drucker</a></li>
+					<li><a href="/de-v6/entwicklungsprojekte.php#gamma10">Gamma10-Drucker</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a seiten_id="lehrerinfo" href="/de-v6/lehrerinfo.php">Didaktik</a></li>
+	<li><a seiten_id="wir-suchen" href="/de-v6/wir-suchen.php">Gesucht</a></li>
+	<li><a seiten_id="impressum" href="/de-v6/impressum.php">Kontakt</a></li>
+</ul>
+</nav><!-- class=horizontal -->
+<nav class="side">
+<ul class="u1">
+	<li class="guide-only start"><a href="/de-v6/">Start</a></li>
+	<li><a href="/de-v6/rechnertechnik/elektro-mechanik.php#DUMME-VERLINKUNG">Computer History</a>
+		<ul class="u2">
+			<li><a seiten_id="elektro-mechanik" href="/de-v6/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="efzet" href="/de-v6/geraete/efzet.php">Efzet</a></li>
+					<li><a seiten_id="sprocket-wheel-machine" href="/de-v6/geraete/sprossenradmaschine.php">Sprossenradmaschine</a></li>
+				</ul>
+			</li>
+			<li><a href="/de-v6/rechnertechnik/lochkarten-edv.php#DUMME-VERLINKUNG">Lochkarten-EDV</a>
+				<ul class="u3">
+					<li><a seiten_id="lochkarten" href="/de-v6/rechnertechnik/lochkarten-edv.php" title="Lochkartengeräte">Lochkartenstanzer</a></li>
+					<li><a seiten_id="tabelliermaschine" href="/de-v6/rechnertechnik/tabelliermaschine.php" title="BULL Tabelliermaschine">Tabelliermaschine</a></li>
+					<li><a seiten_id="gamma3" href="/de-v6/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL GAMMA 3">BULL Gamma 3</a></li>
+					<li><a seiten_id="gamma10" href="/de-v6/rechnertechnik/gamma10.php" title="EDV-Anlage der 2. Generation: BULL GAMMA 10">BULL Gamma 10</a></li>
+					<li><a seiten_id="gamma55" href="/de-v6/rechnertechnik/gamma55.php" title="Gamma 55 (GE 55)">BULL GAMMA 55 (GE-55)</a></li>
+					<li><a seiten_id="univac9200" href="/de-v6/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200</a></li>
+					<li><a seiten_id="univac9400" href="/de-v6/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="univac-bandcontroller" href="/de-v6/geraete/univac9400/bandcontroller-laempchen.php">Tape- und Disk-Controller</a></li>
+							<li><a seiten_id="univac-frontpanel" href="/de-v6/geraete/univac9400/frontpanel.php">Frontpanel</a></li>
+							<li><a seiten_id="univac-cardreader" href="/de-v6/geraete/univac9400/kartenleser.php">Kartenleser</a></li>
+							<li><a seiten_id="univac-servo" href="/de-v6/geraete/univac9400/konsole+uniservo.php">Konsole und Uniservo</a></li>
+							<li><a seiten_id="univac-kosten" href="/de-v6/geraete/univac9400/kosten.php">Wie viel kostete die UNIVAC 9400-Anlage?</a></li>
+							<li><a seiten_id="univac-panorama-links" href="/de-v6/geraete/univac9400/panorama-links.php">Panorama Links</a></li>
+							<li><a seiten_id="univac-discdrives" href="/de-v6/geraete/univac9400/plattenlaufwerke.php">Plattenlaufwerke</a></li>
+							<li><a seiten_id="univac-highspeed-printer" href="/de-v6/geraete/univac9400/schnelldrucker.php">Schnelldrucker</a></li>
+							<li><a seiten_id="univac-board" href="/de-v6/geraete/univac9400/typisches-board.php">Module</a></li>
+							<li><a seiten_id="univac-werbung" href="/de-v6/geraete/univac9400/werbung.php">Anzeige</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="punchcard-collator" href="/de-v6/geraete/lochkartenmischer-funktion.php">Die Funktion des Lochkartenmischers</a></li>
+					<li><a seiten_id="punchcard-sorter" href="/de-v6/geraete/lochkartensortierer-funktion.php">Die Funktion der Sortiermaschine</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="kommerzielle" href="/de-v6/rechnertechnik/kommerzielle.php" title="Frühe kommerzielle Rechner">Kommerzielle Rechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#olivetti-p203">Olivetti P203</a></li>
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#ncr446">NCR 446</a></li>
+					<li><a href="/de-v6/rechnertechnik/kommerzielle.php#nixdorf820">Nixdorf 820</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="ncr" href="/de-v6/geraete/details-ncr446.php">Reperatur der NCR 446</a></li>
+					<li><a seiten_id="ncr446" href="/de-v6/geraete/ncr446.php">NCR 446 Lochstreifenverarbeitung</a></li>
+					<li><a seiten_id="nixdorf820" href="/de-v6/geraete/nixdorf820.php">Nixdorf 820 Konsole</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="fruehe-computer" href="/de-v6/rechnertechnik/fruehe-computer.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#lpg21">LPG 21</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8">PDP 8</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8i">PDP 8i</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp8l">PDP 8L</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#pdp12">PDP 12</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#lab8e">LAB 8e</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#nova">NOVA 2</a></li>
+					<li><a href="/de-v6/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="dec-history" href="/de-v6/geraete/dec-geschichte.php">Aufstieg und Ende von DIGITAL (Equipment Corporation)</a></li>
+					<li><a seiten_id="lab8e" href="/de-v6/geraete/lab_8e.php">Lab 8e</a></li>
+					<li><a seiten_id="wang2200" href="/de-v6/geraete/wang2200.php">Wang 2200</a></li>
+					<li><a seiten_id="details2" href="/de-v6/details2.php">Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand</a></li>
+				</ul>
+			</li>
+			<li><a href="/de-v6/rechnertechnik/elektronenroehren.php#DUMME-VERLINKUNG" title="Tischrechner mit Elektronenröhren">Elektronische Tischrechner</a>
+				<ul class="u3">
+					<li><a seiten_id="elektronenroehren" href="/de-v6/rechnertechnik/elektronenroehren.php" title="Tischrechner mit Röhren">mit Röhren</a></li>
+					<li><a seiten_id="transistoren" href="/de-v6/rechnertechnik/transistoren.php" title="Rechner der 2. Generation mit Transistoren">mit Transistoren</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="wanderer" href="/de-v6/geraete/wanderer.php">Wanderer Conti</a></li>
+						</ul>
+					</li>
+					<li><a seiten_id="programmierbare" href="/de-v6/rechnertechnik/programmierbare.php" title="Programmierbare Rechner der 2. Generation">programmierbare Rechner</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="wang320" href="/de-v6/geraete/wang320.php">Wang 320 SE</a></li>
+						</ul>
+					</li>
+					<li><a seiten_id="ic-technik" href="/de-v6/rechnertechnik/ic-technik.php" title="Programmierbare Rechner der 3. Generation mit einfacher IC-Technik">Rechner mit ICs</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="diehl" href="/de-v6/geraete/diehl-combitronic.php">Details der Combitronic und Algotronic</a></li>
+							<li><a seiten_id="wang700" href="/de-v6/geraete/wang700.php">Wang 700</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="details1" href="/de-v6/details1.php">Besonders interessante Tischrechner und Kleinanlagen aus dem Museumsbestand</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="analogrechner" href="/de-v6/rechnertechnik/analogrechner.php">Analog u. Hybridrechner</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#heathkit-h1">Heathkit H1</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#heathkit-ec1">Heathkit EC1</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#rat700">Telefunken RAT 700</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#gte-ea22">GTE-EA 22</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#eai180">EAI 180, 185</a></li>
+					<li><a href="/de-v6/rechnertechnik/analogrechner.php#do240">DO 240</a></li>
+				</ul>
+			</li>
+			<!-- die wurden vergessen: -->
+			<li><a seiten_id="speichermedien" href="/de-v6/rechnertechnik/speichermedien.php">Speichermedien</a>
+				<ul class="u3">
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#laufzeitspeicher">Verzögerungsspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#magnetostriktion">Magnetostriktion</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#kernspeicher">Kernspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#threaded-rom">Gefädeltes ROM</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#staebchenspeicher">Stäbchenspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#magnetdrahtspeicher">Magnetdrahtspeicher</a></li>
+					<li><a href="/de-v6/rechnertechnik/speichermedien.php#lochband">Lochband</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="threaded-rom" href="/de-v6/geraete/gefaedeltes-rom.php">Gefädeltes ROM: Ausschnitt</a></li>
+					<li><a seiten_id="plated-wire-storage" href="/de-v6/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des Magnetdrahtspeichers</a></li>
+					<li><a seiten_id="magnetic-stick-memory" href="/de-v6/geraete/staebchenspeicher.php">Detailerklärung der Stäbchenspeicher</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a href="/de-v6/kommunikationstechnik/rundfunk.php#DUMME-VERLINKUNG">Kommunikations-technik</a>
+		<ul class="u2">
+			<li><a seiten_id="rundfunk" href="/de-v6/kommunikationstechnik/rundfunk.php">Rundfunk</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="telefunken650" href="/de-v6/geraete/telefunken_650.php">Telefunken 650</a></li>
+					<li><a seiten_id="telefunkent40w" href="/de-v6/geraete/telefunken_t40w.php">Telefunken T 40W</a></li>
+					<li><a seiten_id="ultramar" href="/de-v6/geraete/ultramar_hinten.php">Körting Ultramar</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="tontechnik" href="/de-v6/kommunikationstechnik/tontechnik.php">Tontechnik</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="schaub-lorenz-supraphon" href="/de-v6/geraete/schaub-lorenz-supraphon.php">Schaub-Lorenz-Supraphon</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="fernsehen" href="/de-v6/kommunikationstechnik/fernsehen.php">Fernsehen</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="saba-telerama" href="/de-v6/geraete/saba-telerama.php">Saba Telerama: Schmitt-Optik</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="faxtechnik" href="/de-v6/kommunikationstechnik/faxtechnik.php">Telegraphie und Faximile</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="hellfax" href="/de-v6/geraete/hellfax-funktionsschema.php">Funktionsschema des Hell-Fax</a></li>
+					<li><a seiten_id="morse-telegraph" href="/de-v6/geraete/morsetelegraf.php">TELEGRAPH von S.-A. HASLER, Bern</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a href="/de-v6/kommunikaionstechnik/messtechnik.php#DUMME-VERLINKUNG">Weitere Themen</a>
+		<ul class="u2">
+			<li><a seiten_id="messtechnik" href="/de-v6/kommunikaionstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
+			<li><a seiten_id="sonstiges" href="/de-v6/sonstiges.php">Pianola</a></li>
+			<li><a href="/de-v6/sonstiges.php#kinomaschine">Kinomaschine</a></li>
+		</ul>
+	</li>
+	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>
+</ul>
+</nav><!-- class=side -->
+</html>

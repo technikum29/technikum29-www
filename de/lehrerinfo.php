@@ -5,6 +5,7 @@
 	
 	require "../lib/technikum29.php";
 ?>
+	<h2>Didaktische Konzeption, Informationen für Lehrer</h2>
 	<p>
 		Prinzipiell bieten wir je einen Workshop mit dem Themenbereich "<b>Computer History</b>" oder "<b>Kommunikationstechnik</b>" an. Diese eignen sich für technisch interessierte Gruppen und Menschen, die einfach nur neugierig sind und sich in der Kulturgeschichte der intelligentesten und wichtigsten Werkzeuge, wie Computer und Kommunikationstechniken, weiter bilden möchten. Sie müssen sich zwischen diesen Themen entscheiden, da beide Gebiete in einer Führung mental überfordern würden und zeitlich nicht realisierbar sind.
    <br><br>

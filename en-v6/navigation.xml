@@ -22,15 +22,8 @@
 	</li>
 	<li class="has-submenu"><a href="/en-v6/development-projects.php#DUMME-VERLINKUNG">Projects</a>
 		<ul class="u2">
-<!--		<li class="has-submenu"><a seiten_id="lernprojekte" href="/en-v6/lernprojekte/">Lernprojekte</a>
-				<ul class="u3">
-					<li><a href="/en-v6/lernprojekte/#aes">Fax ↔ Computer</a></li>
-					<li><a href="/en-v6/lernprojekte/#democomputer">Lerncomputer</a></li>
-					<li><a href="/en-v6/lernprojekte/pianola">Pianola</a></li>
-					<li><a href="/en-v6/lernprojekte/schach">Schach</a></li>
-				</ul>
-			</li>-->
-			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en-v6/development-projects.php">development-projects</a>
+			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en-v6/study-projects.php">Study projects</a></li>
+			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en-v6/development-projects.php">development projects</a>
 				<ul class="u3">
 					<li><a href="/en-v6/development-projects.php#papertape">Lochstreifen ↔ Computer</a></li>
 					<li><a href="/en-v6/development-projects.php#punchcard">Lochkarten ↔ Computer</a></li>

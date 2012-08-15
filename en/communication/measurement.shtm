@@ -19,7 +19,7 @@
 <div id="content">
     <h2><!--#echo var="title" --></h2>
 
-    <p>Measurement- and Experimental technology can link Communication and Computer
+    <p>Measurement and Experimental technology can link Communication and Computer
        Technology. Measurement technology has a long history and there have been nice and
        remarkable devices.</p>
 <!--
@@ -41,7 +41,7 @@
       <div class="box left clear-after">
             <img src="/shared/photos/kommunikationstechnik/universalmessgeraet.jpg" alt="Fotografie des Universalmeßgerätes" width="396" height="325" />
             <p class="bildtext">
-               This is a remarkably functional, big and beautiful all-purpose measurement device made by Siemens &amp; Halske (about 1905). At that time even simple objects of utulity were made lovely detailed. This device was used as auxiliary device for morsing purposes in the national administration of the German Empire.
+               This is a remarkably functional, big and beautiful all-purpose measurement device made by Siemens &amp; Halske (about 1905). At that time even simple objects of utility were made with lovely details. This device was used as an auxiliary device for morsing purposes in the national administration of the German Empire.
             </p>
       </div>
       
@@ -82,14 +82,7 @@ Measuring was then an art that had to be mastered. Particularly disturbs the Ear
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/loewe-kathodenstrahl.jpg" alt="Photography of the cathode ray tube" width="396" height="189" />
         <p class="bildtext">
-            At the time where there was no television and no oscilloscope yet, the
-            <b>Cathode Ray Tube</b> was a sensation, especially at school. This was one of
-            the very first experiments where students could see that electrons have
-            almost no inertia, so they can be deflected easily at the presence of an
-            electric field.
-            <br/>This tube (with power supply on the left) from the German company
-            <b>Loewe</b> is an historical piece from the 1930s. It measures about
-            50&nbsp;cm!
+            Before television and oscilloscopes, the <b>Cathode Ray Tube</b> was a sensation, especially in schools. This was one of the very first experiments where students could see that electrons have almost no inertia, so they can be deflected easily in the presence of an electric field. This tube (with power supply on the left) from the German company <b>Loewe</b> is an historical piece from the 1930s. It measures about 50 cm! 
         </p>
    </div>
 
@@ -99,13 +92,13 @@ Measuring was then an art that had to be mastered. Particularly disturbs the Ear
           <img src="/shared/photos/kommunikationstechnik/aeg-oszi.jpg" alt="Photography of an AEG oscilloscope" width="425" height="419" />
 		  <p class="bildtext">
               After the currency reform in West Germany, the production
-              of mesurement devices got going again. This AEG
+              of mesurement devices got going again. This <b>AEG</b>
               oscilloscope was built in 1949. It seems to be an exact
               replica from an AEG device of the late thirties. It is
               equipped with steel tubes that were put on the German
               market at 1938. Neither the time base of the horizontal
               deflection nor the amplitude of the vertical deflection
-              are callibrated by the manufacturer. To measure
+              are calibrated by the manufacturer. To measure
               absolutely with this device, you always need reference sizes.
           </p>
       </div>
@@ -113,11 +106,12 @@ Measuring was then an art that had to be mastered. Particularly disturbs the Ear
       <div class="box left clear-after">
           <img src="/shared/photos/kommunikationstechnik/phywe-oszi.jpg" alt="Photography of a Phywe demonstration oscilloscope" width="396" height="269" />
           <p class="bildtext">
-             The "Physikalischen Werkst&auml;tten" (<i>phsyical facilities</i>), <b>Phywe</b>,
-             have built this small oscilloscope for demonstration purposes that can be
+             The "Physikalischen Werkstätten" (<i>phsyical facilities</i>), <b>Phywe</b>,
+             built this small oscilloscope for demonstration purposes. It can be
              used to show the electromagnetic interaction of an electron beam in E/B fields.
-             Since (CRT driven) television got a mass medium, these experiments
-             were state-of-art at those days.
+             Since (CRT driven) television was not yet a mass medium, these experiments
+             were state-of-art in those days.
+			 
           </p>
        </div>
 	   
@@ -132,9 +126,10 @@ came with service manuals that are a joy to read and a source of knowledge in el
 On the left hand side the truly gigantic Tektronix Type 555 oscilloscope is shown. The oscilloscope sitting next to it is a Type 564 which is also quite big but does not compare with the 555. 
 The Type 555 was first sold in 1963 and is a true dual-beam oscilloscope with two individual time bases. This makes it superior compared with traditional dual-channel oscilloscopes with only a single time base and an electronic chopper for the dual-channel display. <br>
 The 555 features a separate power supply which is sitting on the bottom of the oscilloscope cart (a scope mobile). All in all the 555 contains about 100 tubes - an extraordinary amount for such a device. As a result the power requirement of the 555 is quite high with about 1 kW.<br>
-The maximum signal frequency that can be displayed with the 555 is 33 MHz - an outstanding value for the time. Oscilloscopes like the 555 were normally carried from one place to another by a cart (it is next to impossible to lift such a device as a single person). Therefore the scope mobile often had storage space for additional modules that were not regularly used.<br>
-The 555 on display is in mint condition - a rare circumstance since most  oscilloscopes from this time show signs of their heavy duty use.<a  class="popup" href="/shared/photos/kommunikationstechnik/555.jpg"><b> A high resolution picture of the 555</b></a> can be seen here.</a><br>
-The Type 564 oscilloscope on the scope mobile on the right uses a bistable storage tube - a technology that was not mature at this time. These tubes were characterized by a short life time. Most notably the brightness of the display decreased rapidly with time and the maximum beam velocity for
+The maximum signal frequency that can be displayed with the 555 is 33 MHz - an outstanding value for the time. Oscilloscopes like the 555 were normally carried from one place to another on a cart (it is next to impossible for a single person to lift such a device). Therefore the scope mobile often had storage space for additional modules that were not regularly used.<br>
+The 555 on display is in mint condition---a rare circumstance since most  oscilloscopes from this time show signs of their heavy duty use.<a class="popup" href="/shared/photos/kommunikationstechnik/555.jpg">  <b>A high resolution picture of the 555</b></a> can be seen here.<br>
+
+The Type 564 oscilloscope on the scope mobile on the right uses a bistable storage tube---a technology that was not mature at this time. These tubes were characterized by a short lifetime. Most notably the brightness of the display decreased rapidly with time and the maximum beam velocity for
 storing images was about 500 cm/ms.<br>
 Below the 564 is a Tektronix Type 453 - a small oscilloscope which is quite difficult to service and repair due to its small physical size. By the way: Modern Tektronix oscilloscopes offer bandwidths up to 80GHz!
 		</p>
@@ -146,18 +141,18 @@ Below the 564 is a Tektronix Type 453 - a small oscilloscope which is quite diff
         <img src="/shared/photos/kommunikationstechnik/digitalexperimentiersystem.jpg" alt="photography of an electronic experimental system for use in schools" width="396" height="509" />
         <p class="bildtext">This big white board is an experience system from
           <b>Leybold</b> from the early 1970s. At that time, the subject
-          "digital electonics" was taught in the school. Students could set up
-          logic systems like binary counters, full adders, flip-flops, multiplexer,
+          "digital electronics" was taught in schools. Students could set up
+          logic systems like binary counters, full adders, flip-flops, multiplexers,
           etc. This was quite fascinating for students at that time. Today, in ordinary
-          schools, there is no more time for electronics in the curriculars.</p>
+          schools, there is no more time for electronics in the curriculum.</p>
     </div>
-	
-	<h3>The world of electronical calculating</h3> <!-- schleim... -->
+		  
+	<h3>The world of electronical calculating</h3> 
 
     <div class="box left clear-after">
        <img src="/shared/photos/kommunikationstechnik/frequenzzaehler.jpg" alt="Photography of different frequency- and event counters" width="420" height="582" />
        <p class="bildtext"><b>Calculating requires counting</b>
-         <br/>Last but not least we show a composition of (frequency) counters from
+         <br/>Last but not least, we show a composition of (frequency) counters from
          different epoches. There are, among others, devices equipped with tubes (57
          electron tubes) or discrete transistor logic (mostly germanium).
          The different counting tubes (e.g. E1T or GC10B) and the very different

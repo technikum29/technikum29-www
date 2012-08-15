@@ -7,11 +7,12 @@
 ?>
 
    <h2>Was das Museum noch sucht</h2><br>
-   <div class="box left clear-after">
+<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
         <p class="bildtext">
    Wir suchen zum Tischrechner IME 86 den <b>Digicorder DG 408 oder 308.</b><br>
-   Bei Bedarf stehen Tauschobjekte zur Verfügung.</p></div>
+   Bei Bedarf stehen Tauschobjekte zur Verfügung.</p>
+</div>
 	
 		
 	<h3>Geräte, Manuals und Bauteile</h3><br>

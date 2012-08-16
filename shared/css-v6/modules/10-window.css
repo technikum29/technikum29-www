@@ -6,6 +6,7 @@
  **/
 
 body {
+	/* Hintergrund oben horizontal, fuer unten siehe footer css files */
 	background: #cbc5bd url("/shared/img-v6/bg-v2.body.png") repeat-x;
 }
 
@@ -24,11 +25,6 @@ body, input { /* font */
 nav.horizontal a, nav.side .u1 > li > a {
 	/*font-family: "Futura Std Book", "Trebuchet MS";*/
 	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
-}
-
-#footer-background-container {
-	background: url("/shared/img-v6/bg-v2.body-footer.png") bottom left repeat-x;
-	padding-bottom: 1px;
 }
 
 #container {

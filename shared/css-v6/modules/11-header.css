@@ -57,6 +57,11 @@ nav.horizontal .u1 > li:hover > a {
 	background-color: white;
 }
 
+nav.horizontal .u1 > li.active > a,
+nav.horizontal .u2 > li.active > a {
+	color: #6F2A41;
+}
+
 nav.horizontal a {
 	/*font: 15px "Futura Std Book";*/
 	font-size: 15px;

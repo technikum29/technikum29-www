@@ -31,6 +31,7 @@ h2 {
     font-family: "Trebuchet MS", Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
     font-size: 180%;
     border-bottom: 3px double #aaa;
+    text-align: left; /* irgendwie meinen browser sonst `justify` */
 }
 
 #content h3 {

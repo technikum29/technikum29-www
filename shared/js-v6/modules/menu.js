@@ -342,7 +342,16 @@ t29.menu.guide.setup = function() {
 	count = a.length;
 	bwidth = $(".bullet",g).outerWidth();
 	each_width = (g.width() + bwidth*2) / count;
-	a.width(Math.floor(each_width));
+	each_width = g.width() / count;
+	
+	
+	// problem: each_width = 16.384023... -> Math.floor liefert zu schmale Werte, direktes
+	// a.width(each_width) hingegen kann mit Fliesskomma nicht umgehen. Daher jetzt ein Ansatz,
+	// CSS3-Subpixelwerte mit ueberschaubar vielen Dezimalstellen anzuwenden.
+	roundNumber = function(num,dec) { return Math.round(num*Math.pow(10,dec))/Math.pow(10,dec); };
+	subpixel_width = roundNumber(each_width, 2);
+	a.css("width", subpixel_width+"px");
+	//a.css("width", Math.floor(each_width)+"px");
 	// text-Label zentriert darstellen um den Punkt
 	$(".text", a).css("left", function(){return(bwidth - $(this).width())/2; });
 	

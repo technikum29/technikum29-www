@@ -156,11 +156,34 @@ class t29Menu {
 		return $interlinks;
 	}
 
-	// helper method
-	public static function dom_add_class($simplexml_element, $value) {
+	// helper methods
+	
+	/** Check if a simplexml element has an attribute. Lightweight operation
+	 *  over the DOM.
+	 * @returns boolean
+	 **/
+	public static function dom_has_attribute($simplexml_element, $attribute_name) {
 		$dom = dom_import_simplexml($simplexml_element); // is a fast operation
-		$simplexml_element['class'] = 
-			($dom->hasAttribute("class") ? ($simplexml_element['class'].' '):'').$value;
+		return $dom->hasAttribute($attribute_name);
+	}
+	
+	public static function dom_prepend_attribute($simplexml_element, $attribute_name, $content, $seperator='') {
+		if(!is_array($simplexml_element)) $simplexml_element = array($simplexml_element);
+		foreach($simplexml_element as $e)
+			$e[$attribute_name] = $content . (self::dom_has_attribute($e, $attribute_name) ? ($seperator.$e[$attribute_name]) : '');
+	}
+	
+	public static function dom_append_attribute($simplexml_element, $attribute_name, $content, $seperator='') {
+		if(!is_array($simplexml_element)) $simplexml_element = array($simplexml_element);
+		foreach($simplexml_element as $e)
+			$e[$attribute_name] = (self::dom_has_attribute($e, $attribute_name) ? ($e[$attribute_name].$seperator) : '') . $content;
+	}
+	
+	/**
+	 * Appends a (CSS) class to a simplexml element, seperated by whitespace. Just an alias.
+	 **/
+	public static function dom_add_class($simplexml_element, $value) {
+		self::dom_append_attribute($simplexml_element, 'class', $value, ' ');
 	}
 	
 	public static function dom_new_link($href, $label) {
@@ -192,9 +215,16 @@ class t29Menu {
 		$current_a = $xml->xpath("//a[@seiten_id='$seiten_id']");
 		if(count($current_a)) {
 			$current_li = $current_a[0]->xpath("parent::li");
-			$this->dom_add_class($current_li[0], "current");
-			$ancestors = $current_li[0]->xpath("ancestor-or-self::li");
-			array_walk($ancestors, create_function('$i', 't29Menu::dom_add_class($i, "active");'));
+			self::dom_add_class($current_li[0], 'current');
+			self::dom_prepend_attribute($current_a, 'title', 'Aktuelle Seite', ': ');
+
+			$actives = $current_li[0]->xpath("ancestor-or-self::li");
+			array_walk($actives, function($i) { t29Menu::dom_add_class($i, 'active'); });
+			
+			$ancestors = $current_li[0]->xpath("ancestor::li");
+			array_walk($ancestors, function($i) {
+				t29Menu::dom_prepend_attribute($i->xpath("./a[1]"), 'title', 'Übergeordnete Kategorie der aktuellen Seite' , ': ');
+			});
 		}
 
 		// Seiten-IDs (ungueltiges HTML) ummoddeln

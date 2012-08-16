@@ -36,8 +36,8 @@ class t29Template {
 
 		// fill up configuration
 		// Path names in messages
-		foreach(array('footer-legal-file', 'topnav-search-page') as $msg)
-			$this->conf[$msg] = $this->conf['lang_path'] . $this->msg->_($msg);
+		foreach(array('footer-legal-file', 'topnav-search-page') as $msg_id)
+			$this->msg->set($msg_id, $this->conf['lang_path'].$this->msg->_($msg_id));
 
 		// store informations about the current page
 		$this->conf['seiten_link'] = $this->menu->get_link();
@@ -128,7 +128,7 @@ class t29Template {
   <meta charset="utf-8">
   <title><?php echo $this->conf['html_title']; ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
-  <meta name="author" content="Sven">
+  <meta name="author" content="technikum29-Team">
   <meta name="generator" content="t29v6">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
   <?php
@@ -148,8 +148,8 @@ class t29Template {
 	}
   ?>
   
-  <link rel="copyright" href="<?php echo $this->conf['footer-legal-file']; ?>" title="<?php $p('footer-legal-link'); ?>">
-  <link rel="search" type="application/opensearchdescription+xml" href="<?php print $this->conf['topnav-search-page'] . '?action=opensearch-desc'; ?>" title="<?php $p('opensearch-desc'); ?>">
+  <link rel="copyright" href="<?php $p('footer-legal-file'); ?>" title="<?php $p('footer-legal-link'); ?>">
+  <link rel="search" type="application/opensearchdescription+xml" href="<?php $p('topnav-search-page'); print '?action=opensearch-desc'; ?>" title="<?php $p('opensearch-desc'); ?>">
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {
@@ -175,7 +175,6 @@ class t29Template {
 </head>
 
 <body class="<?php echo implode(' ', $this->body_classes) ?>">
-<div id="footer-background-container"><!-- helper -->
   <div id="container">
 	<h1 role="banner"><a href="/" title="<?php $p('head-h1-title'); ?>"><?php $p('head-h1'); ?></a></h1>
 	<div id="background-color-container"><!-- helper -->
@@ -246,7 +245,7 @@ class t29Template {
 					}
 				?>
 			</ul>
-			<form method="get" action="<?php print $this->conf['topnav-search-page']; ?>">
+			<form method="get" action="<?php $p('topnav-search-page'); ?>">
 				<span class="no-js"><?php $p('topnav-search-label'); ?>:</span>
 				<input type="text" value="" data-defaultvalue="<?php $p('topnav-search-label'); ?>" name="q" class="text">
 				<input type="submit" value="<? $p('topnav-search-label'); ?>" class="button">
@@ -254,7 +253,7 @@ class t29Template {
 		</nav>
     </header>
 	<hr>
-    <footer>
+    <footer class="in-sheet">
 		<nav class="guide">
 			<!-- hier wird nav.side die Liste per JS reinkopiert -->
 		</nav>
@@ -273,18 +272,25 @@ class t29Template {
 		</ul>
 		</nav>
 		<div class="right">
-			<img src="/shared/img-v6/logo.footer.png" title="technikum29 Logo" alt="Logo" class="logo">
-			<?php $p('footer-copyright-tag'); ?>
-			<br/><?php printf('<a href="%s">%s</a>', $this->conf['footer-legal-file'], $_('footer-legal-link')); ?>
-			<div class="icons">
-				<a href="<?php echo $this->conf['footer-legal-file']; ?>#image-copyright"><img src="/shared/img-v6/cc-icon.png"></a>
-				<!--<a href="http://ufopixel.de" title="Designed by Ufopixel"><img src="http://svenk.homeip.net/dropbox/Ufopixel/Ufopixel-Design/logo_90x30/ufopixel_logo_90x30_version2.png"></a>-->
-			</div>
-			<!--CC<br>Viele Bilder können unter einer CreativeCommons-Lizenz
-			verwendet werden. Erkundigen Sie sich.-->
+			<!-- text der rechts unten steht -->
 		</div>
     </footer>
   </div> <!--! end of #container -->
+  <footer class="attached">
+	<ul class="clearfix">
+	<li class="logo">
+		<a href="<?php $p('footer-legal-file'); ?>" class="img" title="technikum29 Logo">Logo</a>
+		<p><?php $p('footer-copyright-tag'); ?>
+		   <br><?php printf('<a href="%s">%s</a>', $_('footer-legal-file'), $_('footer-legal-link')); ?>
+		</p>
+	</li>
+	<li class="copy">
+		<a href="<?php $p('footer-legal-file'); ?>#image-copyright" class="img">CC</a>
+		<p>Viele Bilder können unter einer <a href="<?php $p('footer-legal-file'); ?>#image-copyright">CreativeCommons-Lizenz</a>
+		   verwendet werden. <a href="<?php $p('footer-legal-file'); ?>#image-copyright">Erkundigen Sie sich</a>.</p>
+	</li>
+	</ul>
+  </footer>
 </div><!-- end of div id="footer-background-container" helper -->
 
   <!-- JavaScript at the bottom for fast page loading -->

@@ -10,9 +10,9 @@
  *
  **/
 
-/* Footer */
-footer {
-	clear: both;
+/* Footer innerhalb des Blattes, mit Navigationselementen */
+footer.in-sheet {
+	clear: both; padding-top: 1px; /* um margin innerer elemente an der oberkante beginnen zu lassen */
 	height: 104px; width: 100%;
 	/* temp. um Navi-Kram zu uebermalen: */
 	position: relative; z-index: 20;
@@ -25,8 +25,8 @@ footer {
 nav.guide {
 	position: absolute;
 	z-index: 5; /* ueber nav.rel */
-	top: -5px; left: -5px;
-	width: 910px; margin: 0 25px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
+	top: -5px; left: -5px; /* damit bullets rausschauen */
+	width: 870px; margin: 0 40px; /* wie #content, in breite ein paar px mehr wegen ueberstehenden bullets */
 	/* width:900px, aber 10px Toleranz damit der Beam nicht umbricht wenn
        eine ungerade Anzahl an Items vorhanden ist (1px Toleranz wuerde schon reichen) */
 }
@@ -117,28 +117,33 @@ nav.guide a:hover .bullet, nav.guide a:focus .bullet {
 
 /* Relationale Navigation */
 nav.rel {
-	height: 20px;
-	position: absolute;
-	top: 17px; left: 0;
-	z-index: 0;
-	width: 940px;
-	text-align: center;
+	position: relative;
+	margin: 26px 70px 0;
+	width: 800px;
 }
+
+nav.rel li {
+	position: absolute;
+	top: 0;
+}
+
+nav.rel li.prev { left: 0; }
+nav.rel li.next { right: 0; }
 
 nav.rel a {
 	/*font: 12px "Futura Std Medium";*/
 	text-transform: uppercase;
 	display: inline-block;
-	padding: 15px;
-
-	font-size: 15px;
+	padding: 10px;
+	line-height: 17px;
+	font-size: 14px;
 	color: rgba(65,111,124,.85); /*#416f7c;*/
-	background-color: #dfe9f0;
+	/*background-color: #dfe9f0;*/
 	
 	font-weight: bold;
 	
 	position: relative;
-	height: 40px; /* wegen arrow: height+2*padding=arrowheight */
+	/*height: 40px; *//* wegen arrow: height+2*padding=arrowheight */
 }
 
 nav.rel strong {
@@ -147,45 +152,46 @@ nav.rel strong {
 	opacity: .7;
 }
 
-nav.rel .prev  a {
-	text-align: right;
-}
-nav.rel .next a {
-	text-align: left;
-}
+nav.rel li.prev a { text-align: right; padding-right: 16px; }
+nav.rel li.next a { text-align: left;  padding-left: 16px; }
 
 nav.rel a:after {
 	content: ""; width: 0;
 	display: block;
 	position: absolute;
 	top: 0;
-	border-top: 35px solid transparent;
-	border-bottom: 35px solid transparent;
-	border-left: 30px solid #dfe9f0;
-	border-right: 30px solid #dfe9f0;
+	border-top: 27px solid transparent;
+	border-bottom: 27px solid transparent;
+	border-left: 24px solid #dfe9f0;
+	border-right: 24px solid #dfe9f0;
 }
 
-nav.rel a:hover:after {
+nav.rel a:focus:after, nav.rel a:active:after {
 	border-left-color: #40a8e2;
 	border-right-color: #40a8e2;
 }
 
 nav.rel .next a:after {
-	right: -30px;
+	right: -24px;
 	border-right: none;
 }
 
 nav.rel .prev a:after {
-	left: -30px;
+	left: -24px;
 	border-left: none;
 }
 
 nav.rel a:hover {
+	background-color: #dfe9f0;
+}
+
+nav.rel a:active, nav.rel a:focus {
 	background-color: #40a8e2;
 	color: white;
 }
 
 /* Footer Icon-Sammlung und so */
+/*
 footer .right {
 	position: absolute;
 	top: 2px;
@@ -209,3 +215,59 @@ footer .right div.icons {
 
 footer .right .icons a { opacity: .5; }
 footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }
+*/
+
+/* Post-Footer */
+footer.attached {
+	/* @embed */ background: #307588 url("/shared/img-v6/bg-v2.body-footer.png") top left repeat-x;
+	margin-top: -122px;
+	padding: 122px;
+	
+	color: white;
+	font-size: 14px;
+}
+
+footer.attached ul {
+	width: 1170px;
+	margin: 10px auto 20px;
+	/* padding: 0 20px; *//* ueberfluessig, Breite allein reguliert schon */
+}
+
+footer.attached li {
+	width: 370px;
+	margin-right: 10px;
+	float: left;
+}
+
+footer.attached a:link, footer.attached a:visited {
+	color: #BAF1FF;
+}
+
+footer.attached a:hover {
+	color: #3DD8FF;
+}
+
+footer.attached a.img {
+	display: block;
+	float: left;
+	text-indent: -999px;
+}
+
+footer.attached p {
+	margin-left: 80px;
+	margin-top: 0px;
+	line-height: 115%;
+}
+
+
+footer.attached li.logo a.img {
+	background-image: url("/shared/img-v6/logo.footer.png");
+	width: 46px; height: 59px;
+}
+footer.attached li.logo p { margin-left: 60px; }
+
+footer.attached li.copy a.img {
+	background-image: url("/shared/img-v6/cc-icon.png");
+	width: 90px; height: 30px;
+}
+footer.attached li.copy p { margin-left: 110px; }

@@ -1,6 +1,7 @@
 <?php
 /**
  * t29v6 Message subsystem.
+ * now with instanciated message overwriting.
  *
  **/
 
@@ -26,6 +27,13 @@ class t29Messages {
 	}
 
 	/**
+	 * Add new messages to the local overwrite array.
+	 **/
+	function set($str_id, $content) {
+		$this->local_msg[$str_id] = $content;
+	}
+
+	/**
 	 * The translate function, shorthand like the gettext shorthand.
 	 * There's actually no long method name version :D
 	 * @param str_id  Some key from the $msg array
@@ -33,6 +41,10 @@ class t29Messages {
 	 * @returns Found string in current locale ($lang)
 	 **/
 	function _($str_id, $lang=null) {
+		// local overwrites come first
+		if(isset($this->local_msg[$str_id]))
+			return $this->local_msg[$str_id];
+	
 		$lang = ($lang && isset(self::$order[$lang])) ? $lang : $this->lang;
 		if(!isset(self::$msg[$str_id])) {
 			return "&lt;$str_id&gt;"; // error; mediawiki style
@@ -69,6 +81,7 @@ class t29Messages {
 	 * A given $filter_regexp will be run on the msg keys and hence give
 	 * out only matching entries. Example: $filter_regexp = "/^js-/"
 	 * would filter out all JavaScript related entries.
+	 * This method doesn't consider the $local_msg's.
 	 **/
 	static function create_json($filter_regexp=false) {
 		$msg = $filter_regexp ? array_intersect_key(self::$msg,
@@ -79,6 +92,15 @@ class t29Messages {
 			'msg'   => $msg
 		));
 	}
+
+	/**
+	 * Since the static messages are considered as `const`, any changes/overwrites
+	 * will be applied to the instanciated object. Use the gettext for correct
+	 * handling.
+	 * This array simply maps message id to string without language handling since
+	 * the instances don't know languages.
+	 */
+	public $local_msg = array();
 
 	/**
 	 * The Messages array maps a message id (string) to the message text

@@ -23,7 +23,7 @@ $cache_dir = "$webroot/shared/cache";
 $languages = array(
 // shorthand => array(full name in page, path from webroot)
 	"de" => array("Deutsch",  "/de"),
-	"en" => array("English", "/en-v6"),
+	"en" => array("English", "/en"),
 );
 
 // make sure we have a page title

@@ -125,8 +125,8 @@ class t29Messages {
 		'js-heading-links'       => array("Direktlink zu diesem Abschnitt", "Link to this section"),
 		// used in /shared/js/modules/img_license.js
 		'js-img-license'         => array(
-										'&copy; technikum29. <a href="/de-v6/impressum.php#image-copyright">Lizenzbestimmungen</a>',
-										'&copy; technikum29. <a href="/en-v6/contact.php#image-copyright">Licensing terms</a>',
+										'&copy; technikum29. <a href="/de/impressum.php#image-copyright">Lizenzbestimmungen</a>',
+										'&copy; technikum29. <a href="/en/contact.php#image-copyright">Licensing terms</a>',
 									),
 	);
 }

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html>
+<!--
+  technikum29v6: /en-v6/navigation.xml  $Id$
+  Englische Navigation. Diese XHTML-Datei wird von PHP/SimpeXML dynamisch erarbeitet
+  und angereichert.
+  
+  ACHTUNG! Diese Datei muss wohlgeformtes HTML/XML sein! Das heißt:
+    ==> Alle Tags, die aufgehen, müssen auch wieder zugehen! <==
+  
+  Siehe deutsche navigation.xml für weitere Details.
+  
+-->
+<nav class="horizontal">
+<ul class="u1">
+	<li><a seiten_id="startseite" href="/en-v6/">Start</a></li>
+	<li class="has-submenu"><a seiten_id="news" href="/en-v6/news.php">News</a>
+		<ul class="u2 rich-text">
+			<!-- magic comment (do not replace): -->
+			<!--# INSERT_NEWS #-->
+		</ul>
+	</li>
+	<li class="has-submenu"><a href="/en-v6/development-projects.php#DUMME-VERLINKUNG">Projects</a>
+		<ul class="u2">
+			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en-v6/study-projects.php">Study projects</a></li>
+			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en-v6/development-projects.php">development projects</a>
+				<ul class="u3">
+					<li><a href="/en-v6/development-projects.php#papertape">Lochstreifen ↔ Computer</a></li>
+					<li><a href="/en-v6/development-projects.php#punchcard">Lochkarten ↔ Computer</a></li>
+					<li><a href="/en-v6/development-projects.php#anelex">Anelex-Drucker</a></li>
+					<li><a href="/en-v6/development-projects.php#gamma10">Gamma10-Drucker</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<!--<li><a seiten_id="lehrerinfo" href="/en-v6/lehrerinfo.php">Didaktik</a></li>-->
+	<li><a seiten_id="wir-suchen" href="/en-v6/wanted.php">Wanted</a></li>
+	<li><a seiten_id="impressum" href="/en-v6/contact.php">Contact</a></li>
+</ul>
+</nav><!-- class=horizontal -->
+<nav class="side">
+<ul class="u1">
+	<li class="guide-only start"><a href="/en-v6/">Start</a></li>
+	<li><a href="#">Computer History</a>
+		<ul class="u2">
+			<li><a seiten_id="elektro-mechanik" href="/en-v6/computer/electro-mechanical.php">Mechanical calculators</a></li>
+			<li><a href="/en-v6/computer/punchcard.php#DUMME-VERLINKUNG">Punch card computing</a>
+				<ul class="u3">
+					<li><a seiten_id="lochkarten" href="/en-v6/computer/punchcard.php">Punchers</a></li>
+					<li><a seiten_id="tabelliermaschine" href="/en-v6/computer/tabulating-machine.php">Tabulating machine</a></li>
+					<li><a seiten_id="gamma3" href="/en-v6/computer/gamma3.php">BULL GAMMA 3</a></li>
+					<li><a seiten_id="gamma10" href="/en-v6/computer/gamma10.php">BULL GAMMA 10</a></li>
+					<li><a seiten_id="univac9200" href="/en-v6/computer/univac9200.php">UNIVAC 9200</a></li>
+					<li><a seiten_id="univac9400" href="/en-v6/computer/univac9400.php">UNIVAC 9400</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="kommerzielle" href="/en-v6/computer/commercial.php">Commercial Computers</a>
+				<ul class="u3">
+					<li><a href="/en-v6/computer/commercial.php#olivetti-p203">Olivetti P203</a></li>
+					<li><a href="/en-v6/computer/commercial.php#ncr446">NCR 446</a></li>
+					<li><a href="/en-v6/computer/commercial.php#nixdorf820">Nixdorf 820</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="fruehe-computer" href="/en-v6/computer/early-computers.php">Scientific Computers</a>
+				<ul class="u3">
+					<li><a href="/en-v6/computer/early-computers.php#lpg21">LPG 21</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#pdp8">PDP 8</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#pdp8i">PDP 8i</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#pdp8l">PDP 8L</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#pdp12">PDP 12</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#lab8e">LAB 8e</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#nova2">NOVA 2</a></li>
+					<li><a href="/en-v6/computer/early-computers.php#wang2200">WANG 2200</a></li>
+				</ul>
+			</li>
+			<li><a href="/en-v6/computer/electron-tubes.php#DUMME-VERLINKUNG">Electronical desk calculators</a>
+				<ul class="u3">
+					<li><a seiten_id="elektronenroehren" href="/en-v6/computer/electron-tubes.php">with electron tubes</a></li>
+					<li><a seiten_id="transistoren" href="/en-v6/computer/transistors.php">with transistors</a></li>
+					<li><a seiten_id="programmierbare" href="/en-v6/computer/programmable.php">programmable calculators</a></li>
+					<li><a seiten_id="ic-technik" href="/en-v6/computer/ic-technology.php">calculators mit ICs</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="analogrechner" href="/en-v6/computer/analog.php">Analog and digital-analog copmuters</a>
+				<ul class="u3">
+					<li><a href="/en-v6/computer/analog.php#heathkit-h1">Heathkit H1</a></li>
+					<li><a href="/en-v6/computer/analog.php#heathkit-ec1">Heathkit EC1</a></li>
+					<li><a href="/en-v6/computer/analog.php#rat700">Telefunken RAT 700</a></li>
+					<li><a href="/en-v6/computer/analog.php#gte-ea22">GTE-EA 22</a></li>
+					<li><a href="/en-v6/computer/analog.php#eai180">EAI 180, 185</a></li>
+					<li><a href="/en-v6/computer/analog.php#do240">DO 240</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><a href="/en-v6/communication/broadcasting.php#DUMME-VERLINKUNG">Communication Technology</a>
+		<ul class="u2">
+			<li><a seiten_id="rundfunk" href="/en-v6/communication/broadcasting.php">Broadcasting</a></li>
+			<li><a seiten_id="tontechnik" href="/en-v6/communication/sound_technology.php">Sound recording and reproducing technology</a></li>
+			<li><a seiten_id="fernsehen" href="/en-v6/communication/television.php">Television</a></li>
+			<li><a seiten_id="faxtechnik" href="/en-v6/communication/fax.php">Telegraphy and Fax engineering</a></li>
+		</ul>
+	</li>
+	<li><a href="/en-v6/communication/measurement.php#DUMME-VERLINKUNG">Miscellaneous</a>
+		<ul class="u2">
+			<li><a seiten_id="messtechnik" href="/en-v6/communication/measurement.php">Measurement and Experimental technology</a></li>
+			<li><a seiten_id="sonstiges" href="/en-v6/miscellaneous.php">Pianola</a></li>
+			<li><a href="/en-v6/miscellaneous.php#kinomaschine">Movie projector</a></li>
+		</ul>
+	</li>
+	<li class="guide-only end"><a href="/en-v6/contact.php">End</a></li>
+</ul>
+</nav><!-- class=side -->
+</html>

@@ -1,0 +1,151 @@
+<?php
+	$seiten_id = 'gamma10';
+	$version = '$Id$';
+	$title = 'A second generation calculator: The BULL GAMMA 10';
+	
+	require "../../lib/technikum29.php";
+?>
+    <h2>A second generation calculator: The BULL GAMMA&nbsp;10</h2>
+
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"
+             alt="BULL GAMMA 10" width="640" height="390" />
+		<p class="bildtext"><b>BULL Gamma 10 electronic data processing system</b></p>
+	</div>
+	
+	<p>
+        In 1963 BULL (General Electric) presented the BULL GAMMA 10 (G10)
+        which was intended for commercial purpose and puchcard
+        computing. It was the direct successor of the <a
+        href="tabulating-machine.shtm">Tabulating Machine</a>.
+        Compared to the really big mainframes, the G10 was intended to
+        be set up in a 20 square meter room, without air conditioning.
+        The maximum power input was 2.5 kW.
+        <br/>The standard equipment contains a CPU with
+        panel, a punchcard reader/puncher unit and a barrel printer.
+        The RAM consists of a 1kb core memory which could be
+        extended up to 4kb capacity. There are 59 different
+        opcodes to program the CPU.
+        <br/>The cycle time from the core memory is 7 micro
+        seconds. The calculator is capable of reading and
+        punching 300 cards per minute. Five punchcards per
+        second, that is an amazing speed &ndash;
+        therefore the punching unit is generously built. The
+        printer can only print up to 300 lines per minute. Compared
+        to our <a href="univac9400.shtm">Univac 9400</a> this
+        is quite slow &ndash; the Univac 9400 is capable of
+        printing more than 1000 lines per minute.
+    </p>
+<div class="box center manuelle-bildbreite" style="width: 650px;">
+	    <img src="/shared/photos/rechnertechnik/gamma10,offen.jpg" alt="BULL GAMMA 10 without panels" width="650" height="564" /></div>
+	<div class="box center manuelle-bildbreite" style="width: 650px;">
+	    <img src="/shared/photos/rechnertechnik/gamma10,rueckseite.jpg" alt="BULL GAMMA 10 from the back" width="650" height="633" />
+		
+		
+		<p class="bildtext"><b>Gamma 10 uncovered</b></p>
+	</div>
+	
+	<p>
+          The chassis is metallic bright and glossy. It is clearly arranged
+          and therefore the machine is quite easy to maintain.
+		  <!--
+          <br/>We want to repair this computer, too (see our page
+          <a href="/en/search.shtm">We are looking for...</a>). By now the
+          complete mechanics works again. After tuning the temperature
+          of the heated core memory and switching some defect
+          transistors, we can already execte a program for duplicating
+          punch cards, as well as the first mathematical programs.
+          That's really sensational for such an old computer.
+		  -->
+		  <br>By now the whole mechanics are working again, which is the core
+		  part of the computer. After adjusting the temperature of the
+		  heated core memory and replacing some broken transistors, the
+		  program for duplication punch cards runs again, as well as some
+		  mathematical programs. 
+    </p>
+
+	<!-- Idiotisch - den selben Absatz unten nochmal uebersetzt, sogar mit Bild -->
+	<!--
+    <div class="box left">
+         <img src="/shared/photos/rechnertechnik/modul-gamma10.jpg"
+            alt="Typical GAMMA 10 module" height="345" width="485">
+         <p class="bildtext">
+            This is one of 570 modules from the GAMMA 10 computer.
+            On the base plate the conductor tracks are aligned
+            horizontally while they are aligned vertically on the
+            small boards (flip flops, amplifier, etc.). Almost all
+            transistors are still Germanium transistors.
+         </p>
+         <div class="clear"></div>
+    </div>
+	-->
+
+    <div class="box left clear-after">
+	<img src="/shared/photos/rechnertechnik/steuerpult.jpg"
+            alt="A part from the control panel" width="485" height="379" />
+        <p class="bildtext">
+           The control panel could be used for monitoring running
+           programs, as well as for early "test driven development"
+           for programmers. <!-- hehe -->
+           <br/>The picture shows details of the programmer's part of
+           the control panel. These buttons and switches are intended
+           for debugging a program step-by-step and for reading out
+           the contents of registers, the ALU and RAM, and, finally,
+           for assembling and executing new computer instructions.
+           <br/>All output is driven by lime-green "DM 160" miniature
+           tubes.
+        </p>
+    </div>
+
+    <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/modul-gamma10.jpg"
+           alt="Picture of a typical BULL GAMMA 10 module (board)"
+           width="485" height="345" />
+        <p class="bildtext">
+	   This is a picture of a typical GAMMA 10 board. On the mainboard,
+	   all conductor paths are aligned horizontally while on the small
+	   plug-in boards (flip-flops, amplifiers, etc.) they are mostly
+	   vertically oriented. Almost all transistors are made of germanium.
+	   <br/>The slow non-time-critical logic (like card controlling)
+	   is performed by 573 relays. Building up such an amount of
+	   wear parts is quiete brave. <!-- stupid mode... -->
+           <br/>Summing up, there were about 570 boards like this one in
+           the GAMMA 10 (without counting the printer interface). The
+           GAMMA 10 was sold as a quite cheap electronic data processing
+           system. We have gotten an original list of prices for this device
+           from 1968/69, when this model was already out-of-date and
+           hence very cheap:
+           <br/>CPU with 4kB core memory: 267.000,- DM (about 133.000,- Euro or Dollar)
+           <br/>Printer: 105.000,- DM (about 50.000,- Euro, Dollar)
+        </p>
+     </div>
+
+     <p>While our GAMMA 10 is in a very good shape, we cannot use the
+        printer any more, since all electronics are missing.
+        Therefore we have set up an ANALEX printer (series 5) from 1965.
+        At that time, this printer was the fastest printer on earth, printing
+        1250 lines per minute. Of course he may slow down a bit for our GAMMA 10.
+        Connecting this device to the BULL computer is supposed to be a
+        quite complex problem. We will report about the progress on the
+        page <a href="../development-projects.shtm">Development Projects</a>,
+        soon.</p>
+
+     <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/anelex-drucker.jpg"
+          alt="ANELEX high speed printer" width="485" height="423" />
+        <div class="bildtext">
+          <p><b>ANELEX high speed printer, series 5</b>,
+             with lifted cover.</p>
+		  <p>This printer could be a good auxillary device to the GAMMA 10
+		     computer: It is a drum printer, like the original printer,
+			 and the cirtcuitry operates also on a negative logic level
+			 (germanium transistors). Anelex uses a core memory for the
+			 buffer, too. Anyway the printer cannot simply be plugged into
+			 the computer, because the original BULL printer works with
+			 the buffer memory which is placed directly in the CPU of the
+			 GAMMA 10. Since we don't want to modify the GAMMA 10 internal
+			 architecture, we currently implement a microcontroller driven
+			 interface between those two systems.
+		  </p>
+        </div>
+     </div>

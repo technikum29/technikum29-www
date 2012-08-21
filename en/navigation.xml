@@ -25,10 +25,10 @@
 			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en/study-projects.php">Study projects</a></li>
 			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en/development-projects.php">development projects</a>
 				<ul class="u3">
-					<li><a href="/en/development-projects.php#papertape">Lochstreifen ↔ Computer</a></li>
-					<li><a href="/en/development-projects.php#punchcard">Lochkarten ↔ Computer</a></li>
-					<li><a href="/en/development-projects.php#anelex">Anelex-Drucker</a></li>
-					<li><a href="/en/development-projects.php#gamma10">Gamma10-Drucker</a></li>
+					<li><a href="/en/development-projects.php#papertape">Paper tape ↔ Computer</a></li>
+					<li><a href="/en/development-projects.php#punchcard">Punch card ↔ Computer</a></li>
+					<li><a href="/en/development-projects.php#anelex">Anelex printer</a></li>
+					<li><a href="/en/development-projects.php#gamma10">Gamma10 printer</a></li>
 				</ul>
 			</li>
 		</ul>

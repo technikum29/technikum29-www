@@ -149,7 +149,7 @@ class t29Template {
   ?>
   
   <link rel="copyright" href="<?php $p('footer-legal-file'); ?>" title="<?php $p('footer-legal-link'); ?>">
-  <link rel="search" type="application/opensearchdescription+xml" href="<?php $p('topnav-search-page'); print '?action=opensearch-desc'; ?>" title="<?php $p('opensearch-desc'); ?>">
+  <link rel="search" type="application/opensearchdescription+xml" href="<?php $p('topnav-search-page'); print '?action=opensearch-desc&amp;lang='.$this->conf['lang']; ?>" title="<?php $p('opensearch-desc'); ?>">
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {

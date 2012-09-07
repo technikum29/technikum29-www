@@ -13,7 +13,7 @@
 	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
 	<!-- Implementierung dafür steht im common.css, Zeile 300ff. -->
     <div class="box center" style="position:relative;">
-       <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg" width="967" height="443" alt="LGP 21 Computeranlage" />
+       <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg"  width="872" height="414" alt="LGP 21 Computeranlage" />
 </div>
         <div style="height: 443px;">&nbsp;</div>
 		<p class="bildtext small">From left to right: magnetic tape drive, 1. LGP-21, Tally paper-tape-reader and punch, 2. Tally reader, two additional hard drives, 2. LGP-21, Flexowriter</p>

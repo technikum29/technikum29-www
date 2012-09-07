@@ -10,7 +10,7 @@
     <div class="box center" style="position:relative;">
         <!-- Direkt kopiert von deutscher Datei, siehe dort -->
        <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/univac/panorama-rechts.jpg" alt="Photography of the complete Univac 9400 installation" /></div>
-        <div style="height: 389px;">&nbsp;</div>
+        <div style="height: 387px;">&nbsp;</div>
     </div>
 
     <!-- old picture

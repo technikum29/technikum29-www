@@ -13,7 +13,7 @@
              in die Breite. Funktioniert auch in ordentlichen Browsern, ansonsten die
              richtige Lösung weiter unten. -->
        <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/univac/panorama-rechts.jpg" alt="Komplettfotografie der Univac 9400" /></div>
-        <div style="height: 389px;">&nbsp;</div>
+        <div style="height: 387px;">&nbsp;</div>
     </div>
     
     <!-- Ordentliche Lösung für ordentliche Browser, ist aber zusätzlich nicht nötig: -->

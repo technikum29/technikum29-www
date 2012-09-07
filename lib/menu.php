@@ -52,7 +52,7 @@ class t29Menu {
 	function convert_news_data() {
 		require $this->conf['lib'].'/spyc.php';
 		$data = Spyc::YAMLLoad($this->load_news_data());
-		$fields = array('titel', 'text', 'link', 'bild');
+		$fields = array('titel', 'text', 'link', /*'bild'*/);
 
 		$news_ul_content = '';
 		foreach($data as $e) {
@@ -61,7 +61,7 @@ class t29Menu {
 				$li = "<li>Fehler in Formatierung!";
 			} else {
 				$url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
-				$li = "<li><a href='$url'><img src='$e[bild]' /> $e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
+				$li = "<li><a href='$url'>$e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
 			}
 			$news_ul_content .= "\t".$li."\n";
 		}

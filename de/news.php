@@ -5,20 +5,17 @@
 	
 	$neues_menu = <<< MENU
 
-- titel: "Unterstützung von Schulen"
-  text: "Das technikum29-Team unterstützt Schulprojekte"
-  link: "#April_2012"
-  bild: "/shared/img-v6/topnav-neues1.jpg"
+- titel: "Gamma55"
+  text: "Ein neuer Rechner im Museum"
+  link: "#Juli_2012"
   
-- titel: "Neue Anlage: LPG-21"
-  text: "Ein neuer seltener Rechner im Museum"
-  link: "#März_2012"
-  bild: "/shared/img-v6/topnav-neues2.jpg"
+- titel: "Softwarefund"
+  text: "Unglaublicher Softwarefund für die Univac9200"
+  link: "#April_2012"
 
-- titel: "Neue Anlage: Nova 2"
-  text: "Wissenschaftlicher Rechner ab 1969"
-  link: "#Februar_2012"
-  bild: "/shared/img-v6/topnav-neues3.jpg"
+- titel: "Kunst im Museum"
+  text: ""
+  link: "#März_2012"
 
 MENU;
 // ende der menue-Eintraege
@@ -44,11 +41,6 @@ Siehe <a href="/de/rechnertechnik/gamma55.php"><b>Gamma 55</b></a>
 
 </p><br>
 
-<li><h3>Juni 2012</h3>
-<p><span style="color:red"><big><big><b>Tage der<br> Industriekultur Rhein-Main<br> 2012:</b></big></big></span><br><br>
-			Besuchen Sie uns am 12. August um 14 Uhr. Eine Anmeldung ist erforderlich! Bei dieser Sonderführung ist der Eintritt frei.<br><br>
-			Siehe <a href="http://www.krfrm.de/c/rdik/tdr2012/index.php?tdr=20120017,6,"> <b>Programm technikum29</b></a><br><br>
-			</li>
 <li><h3>April 2012</h3>
 <div class="box left">
 
@@ -59,7 +51,7 @@ Unglaublicher Software-Fund für unsere UNIVAC 9200.
 <div class="clear"></div></li>
 
 <li><h3>März 2012</h3><div class="box left">
- <img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231" </div>
+ <img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231"> </div>
  Künstler arbeiten im technikum29. Leander Schwarzer beim Stanzen von Lochkarten.
 <a href="/de/sonstiges.php#leander"><b>Zum Artikel</b></a>
  <div class="clear"></div></li>

@@ -46,7 +46,7 @@
 			<li><a seiten_id="elektro-mechanik" href="/en/computer/electro-mechanical.php">Mechanical calculators</a></li>
 			<li><a href="/en/computer/punchcard.php#DUMME-VERLINKUNG">Punch card computing</a>
 				<ul class="u3">
-					<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php">Punchers</a></li>
+					<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php" title="Punchers and Periphery">Punchers</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/en/computer/tabulating-machine.php">Tabulating machine</a></li>
 					<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
 					<li><a seiten_id="gamma10" href="/en/computer/gamma10.php">BULL GAMMA 10</a></li>

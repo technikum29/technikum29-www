@@ -96,7 +96,7 @@
 		<img src="/shared/photos/rechnertechnik/anelex-drucker.jpg" alt="ANELEX Schnelldrucker" width="485" height="423" />
 		<p class="bildtext"><b>ANELEX Schnelldrucker, Series 5</b> mit offener Haube.</p>
 	
-<p>Wenn man vor einem solchen gewichtigen "Monstrum" steht, wird man fast ehrfürchtig: Eine ungeheuer aufwändige und stabile Mechanik sorgt dafür, dass zehntausende Seiten gedruckt werden können, ohne dass wesentliche Ausfälle zu beklagen sind. Der "Anelex Series 5" Drucker wurde 1963/64 in den USA entwickelt und in vielen Computeranlagen dieser Zeit verwendet (so auch an der Z-22 von ZUSE oder am Elektrologica X8). Er war 1965 mit bis zu 1250 Druckzeilen pro Minute der schnellste Drucker der Welt.<br>
-Wir haben unseren ANELEX repariert und steuern ihn über einen Micro-Controller von einem Laptop aus an. Hier wird antike EDV mit der Jetztwelt funktionsfähig verbunden.</p>
+<p>Wenn man vor einem solchen gewichtigen "Monstrum" steht, wird man fast ehrfürchtig: Eine ungeheuer aufwändige und stabile Mechanik sorgt dafür, dass zehntausende Seiten gedruckt werden können, ohne dass wesentliche Ausfälle zu beklagen sind. Der "Anelex Series 5" Drucker wurde 1963/64 in den USA entwickelt und in vielen Computeranlagen dieser Zeit verwendet (so auch an der Z-23 von ZUSE oder am Elektrologica X8). Er war 1965 mit bis zu 1250 Druckzeilen pro Minute der schnellste Drucker der Welt.<br>
+Wir haben unseren ANELEX repariert und steuern ihn über einen Micro-Controller an, der z.B. von einem Laptop programmiert wird. Damit lassen sich beliebige aktuelle Texte drucken. Hier wird antike EDV mit der Jetztwelt funktionsfähig verbunden.</p>
 
 		

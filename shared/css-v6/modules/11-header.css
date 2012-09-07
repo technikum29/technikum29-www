@@ -71,10 +71,13 @@ nav.horizontal a {
 }
 
 /* Aufklappnavigation der Horizontalen Navi */
-nav.horizontal .u2 { display: none; }
+nav.horizontal .u2 { display: none; } 
 nav.horizontal .u1 > li:hover .u2, nav.horizontal .u1 li.dev-force-open .u2 {
 	display: block;
 }
+
+/* devel: Menu statisch anzeigen */
+/*nav.horizontal li.current.active .u2 { display: block; }*/
 
 
 nav.horizontal .u2 {
@@ -106,7 +109,7 @@ nav.horizontal .u3 > li > a {
 }
 
 nav.horizontal ul.rich-text a {
-	padding-top: .9em; padding-bottom: .9em;
+	padding-top: .7em; padding-bottom: .7em;
 }
 
 nav.horizontal ul.rich-text a:after {
@@ -120,6 +123,7 @@ nav.horizontal ul.rich-text a:after {
 nav.horizontal ul.rich-text img {
 	float: left;
 	margin-right: 10px;
+	display: none; /* ausblenden */
 }
 
 nav.horizontal ul.rich-text a:hover img {

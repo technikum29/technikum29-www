@@ -149,7 +149,7 @@ nav.rel a {
 nav.rel strong {
 	display: block;
 	font-weight: normal;
-	opacity: .7;
+	/*opacity: .7;*/
 }
 
 nav.rel li.prev a { text-align: right; padding-right: 16px; }
@@ -162,13 +162,14 @@ nav.rel a:after {
 	top: 0;
 	border-top: 27px solid transparent;
 	border-bottom: 27px solid transparent;
-	border-left: 24px solid #dfe9f0;
-	border-right: 24px solid #dfe9f0;
+	border-left: 24px solid #307588;
+	border-right: 24px solid #307588;
+	opacity: .4;
 }
 
 nav.rel a:focus:after, nav.rel a:active:after {
-	border-left-color: #40a8e2;
-	border-right-color: #40a8e2;
+/*	border-left-color: #40a8e2;
+	border-right-color: #40a8e2;*/
 }
 
 nav.rel .next a:after {
@@ -180,7 +181,7 @@ nav.rel .prev a:after {
 	left: -24px;
 	border-left: none;
 }
-
+/*
 nav.rel a:hover {
 	background-color: #dfe9f0;
 }
@@ -189,6 +190,19 @@ nav.rel a:active, nav.rel a:focus {
 	background-color: #40a8e2;
 	color: white;
 }
+*/
+
+nav.rel a:hover {
+	background-color: transparent;
+}
+
+nav.rel a:hover:after {
+	opacity: 1;
+	border-left-color: #A12A40;
+	border-right-color: #A12A40;
+}
+
+
 
 /* Footer Icon-Sammlung und so */
 /*
@@ -221,10 +235,16 @@ footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }
 footer.attached {
 	/* @embed */ background: #307588 url("/shared/img-v6/bg-v2.body-footer.png") top left repeat-x;
 	margin-top: -122px;
-	padding: 122px;
+	padding: 122px 122px 10px;
 	
 	color: white;
 	font-size: 14px;
+}
+
+footer.attached div.legacy {
+	/* Text von alter Homepage (eine Zeile), übergangsweise */
+	text-align: center;
+	font-size: 15px;
 }
 
 footer.attached ul {

@@ -131,6 +131,7 @@ class t29Template {
   <meta name="author" content="technikum29-Team">
   <meta name="generator" content="t29v6">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
+  <meta name="t29.localfile" content="<?php print $_SERVER['SCRIPT_FILENAME']; ?>" id="localFileSource">
   <?php
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
 	if(isset($_GET['debug']))
@@ -277,6 +278,8 @@ class t29Template {
     </footer>
   </div> <!--! end of #container -->
   <footer class="attached">
+    <div class="legacy"><?php $p('footer-legacy-text'); ?></div>
+	<!--
 	<ul class="clearfix">
 	<li class="logo">
 		<a href="<?php $p('footer-legal-file'); ?>" class="img" title="technikum29 Logo">Logo</a>
@@ -290,6 +293,7 @@ class t29Template {
 		   verwendet werden. <a href="<?php $p('footer-legal-file'); ?>#image-copyright">Erkundigen Sie sich</a>.</p>
 	</li>
 	</ul>
+	-->
   </footer>
 </div><!-- end of div id="footer-background-container" helper -->
 

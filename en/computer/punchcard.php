@@ -104,14 +104,13 @@
         </p>
     </div>
 	
+	
 	<h3>Collators</h3>
 
-    <div class="box center auto-bildbreite">
+    <div class="box left clear-after">
         <a href="/en/devices/punchcard-collator.shtm" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
         <p class="bildtext"><b>IBM punch card collator 077</b></p>
-	</div>
-	
-	<p>
+		<p>
 	    The picture above shows the back of a collator, year of manufacture 1959.
 		The collector reads 480 cards per minute. It is capable of changing the 
 		order of the cards, looking for copies (and seperating them out) or
@@ -124,29 +123,50 @@
 	     maintenance as often as a checking device.
 	     <br />The programs could be changed by replacing the programing field.
 	     <br/><a class="go" href="/en/devices/punchcard-collator.shtm">The function of the punch card collator</a>
-    </p>
+		</p>
+	</div>
 
-    <div class="box center auto-bildbreite">
+    <div class="box left clear-after">
          <a href="/en/devices/punchcard-collator.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
          <p class="bildtext"><b>Bull punch card collator 56.00.</b></p>
-    </div>
-	
-	<p>
+		<p>
 	    This very big device features very much chrome and almost 1000 relays,
 		assembled to allow developers to implement varoius mixing algorithms
 		with wired panels. Thus collating and sorting could be performed in only
 		one working cycle. Depending on the task, the device could process about
 		250 - 500 cards per minute.
-    </p>
+		</p>
+	</div>
 	
 	<h3>Card interpreter</h3>
 	
-    <div class="box center auto-bildbreite">
+    <div class="box left clear-after">
          <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
          <p class="bildtext"><b>IBM 548</b></p>
-    </div>
+		<p>
+			A huge punch card interpreter made by IBM. This machine can label 60 cards
+			per minute in 60 cols and two rows, according to the settings which you can set.
+		</p>
+	</div>
+
+	<h3>ANELEX high speed printer</h3>
+     <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/anelex-drucker.jpg"
+          alt="ANELEX high speed printer" width="485" height="423" />
+        <div class="bildtext">
+          <p><b>ANELEX high speed printer, series 5</b>,
+             with lifted cover.</p>
+		  <p>This printer could be a good auxillary device to the GAMMA 10
+		     computer: It is a drum printer, like the original printer,
+			 and the cirtcuitry operates also on a negative logic level
+			 (germanium transistors). Anelex uses a core memory for the
+			 buffer, too. Anyway the printer cannot simply be plugged into
+			 the computer, because the original BULL printer works with
+			 the buffer memory which is placed directly in the CPU of the
+			 GAMMA 10. Since we don't want to modify the GAMMA 10 internal
+			 architecture, we currently implement a microcontroller driven
+			 interface between those two systems.
+		  </p>
+        </div>
+     </div>
 	
-    <p>
-	    A huge punch card interpreter made by IBM. This machine can label 60 cards
-        per minute in 60 cols and two rows, according to the settings which you can set.
-    </p>

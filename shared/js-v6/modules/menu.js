@@ -21,7 +21,9 @@ t29.menu.setup = function() {
 	t29.menu.rel = $("nav.rel");     // relative navigation im footer (vor/zurück)
 	t29.menu.collapsed.setup();
 	t29.menu.scroll.setup();
-	t29.menu.guide.setup();
+	
+	// t29v6 launch: Guide-Menü erst mal deaktiviert
+	//t29.menu.guide.setup();
 };
 
 /***************************************************************************************

@@ -12,6 +12,8 @@ define('T29', true);
 $lib = dirname(__FILE__);
 $webroot = realpath("$lib/../");  # file path to root of t29 web installation
 $file = substr($_SERVER['SCRIPT_FILENAME'], strlen($_SERVER['DOCUMENT_ROOT'])); # e.g.: "/de/page.php"
+# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
+if($file{0} != '/') $file = "/$file";
 
 // exactly define debugging behaviour
 if(isset($_GET['debug'])) {

@@ -32,10 +32,10 @@
     </div>
 
     <div class="box left clear-after">
-        <a href="/en/devices/saba-telerama.shtm" name="backlink-telerama" title="Erläuterung und Bild der Telerama-Projektion anschauen"><img src="/shared/photos/kommunikationstechnik/saba_telerama.jpg" alt="Saba Telerama" width="360" height="466" /></a>
+        <a href="/en/devices/saba-telerama.php" name="backlink-telerama" title="ErlÃ¤uterung und Bild der Telerama-Projektion anschauen"><img src="/shared/photos/kommunikationstechnik/saba_telerama.jpg" alt="Saba Telerama" width="360" height="466" /></a>
         <div class="bildtext">
             <b>Saba Telerama</b>
-            <p>Since 1956, the German company SABA produced projection TV-sets. The advertisements said you could even watch television in light rooms which are not shaded. This promise was exaggerated: Only with a special projection screen (made by Saba) which reflects the light primarily in one direction, you can see a sufferable image. Clicking on the picture will show you an <a href="/en/devices/saba-telereama.shtm" class="go"> explanation of the Telerama projection technology.</a></p>
+            <p>Since 1956, the German company SABA produced projection TV-sets. The advertisements said you could even watch television in light rooms which are not shaded. This promise was exaggerated: Only with a special projection screen (made by Saba) which reflects the light primarily in one direction, you can see a sufferable image. Clicking on the picture will show you an <a href="/en/devices/saba-telerama.php" class="go"> explanation of the Telerama projection technology.</a></p>
             <p>On the right hand in the background you can see a multifunctional device made by Nordmende to see television, hear to broadcasting and gramophone records. On the left the concurrency device with the same features made by Telefunken. They are both made in 1954.</p>
 	    </div>
     </div>

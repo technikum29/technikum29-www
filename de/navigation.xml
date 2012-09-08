@@ -25,7 +25,7 @@
 	</li>
 	<li class="has-submenu"><a href="/de/lernprojekte/#DUMME-VERLINKUNG">Projekte</a>
 		<ul class="u2">
-			<li class="has-submenu"><a seiten_id="lernprojekte" href="/de/lernprojekte/">Lernprojekte</a>
+			<li class="has-submenu"><a seiten_id="lernprojekte" class="show-rel-next" href="/de/lernprojekte/">Lernprojekte</a>
 				<!-- Pfeil-Symbol: ↔ -->
 				<ul class="u3">
 					<li><a href="/de/lernprojekte/#aes">Fax ↔ Computer</a></li>
@@ -34,7 +34,7 @@
 					<li><a href="/de/lernprojekte/schach">Schach</a></li>
 				</ul>
 			</li>
-			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/de/entwicklungsprojekte.php">Entwicklungsprojekte</a>
+			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" class="show-rel-prev" href="/de/entwicklungsprojekte.php">Entwicklungsprojekte</a>
 				<ul class="u3">
 					<li><a href="/de/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
 					<li><a href="/de/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
@@ -44,7 +44,12 @@
 			</li>
 		</ul>
 	</li>
-	<li><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Didaktik</a></li>
+	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Didaktik</a>
+		<ul class="u2">
+			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
+			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
+		</ul>
+	</li>
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
 	<li><a seiten_id="impressum" href="/de/impressum.php">Kontakt</a></li>
 </ul>

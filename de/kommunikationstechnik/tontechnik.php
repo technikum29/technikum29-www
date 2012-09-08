@@ -22,16 +22,17 @@
 	
     </div>
 	<h3>Seltene Tonbandgeräte</h3>
-    <div class="box left">
+    <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/aeg-magnetophon.jpg" alt="Fotografie des AEG Magnetophon" width="546" height="407" />
         <p class="bildtext">
             Tonbandgeräte, die vor 1952 hergestellt wurden, sind extrem selten und technisch sehr interessant. Dieses Gerät, <b>AEG Magnetophon AW 1</b>, wurde 1948/49 gebaut und steht auf dem Stand der Technik von ca. 1939. Im Zusatzkoffer sind der Aufnahme- und Wiedergabeverstärker, sowie ein Lautsprecher untergebracht. Auf dem Originalband befindet sich die Aufzeichnung einer Karnevalssitzung aus den frühen 50er Jahren. Das Gerät war damals so teuer, dass der Kauf für Privatleute praktisch unerschwinglich war.
 	    </p></div>
 
 
-	<div class="box">
-        <img src="/shared/photos/kommunikationstechnik/loewe_opta.jpg" alt="Fotografie des Ferrophon IIIc/3" width="546" height="405" /></div>
+	<div class="box left clear-after">
+        <img src="/shared/photos/kommunikationstechnik/loewe_opta.jpg" alt="Fotografie des Ferrophon IIIc/3" width="546" height="405" />
         <p class="bildtext">Wenn ein Rundfunkreporter 1951 eine Reportage aufzeichnen wollte, musste er für den Transport der Anlage kräftig gebaut sein. Dieses semiprofessionelle Tonbandgerät der <b>Loewe-Radio AG Typ "Ferrophon IIIc/3"</b> war nicht für den Privatgebrauch gedacht. Erstaunlich sind die gute Tonqualität (max. Bandgeschwindigkeit 76cm/sec!!) und die Verwendung edler Materialien (viel Kupfer...), die in der frühen Nachkriegszeit sehr rar waren.</p>
+	</div>
 	
    
 	<h3>Schellack-Plattenwechsler</h3>

@@ -63,8 +63,9 @@ generated utilizing a reed-contact that is triggered by a so called
 The reed-contact thus generates a signal for every revolution of the
 drum which corresponds to a single line being scanned.<br>
 
-The control program for the Arduino was developed by the pupils (the
-source code can be found <a href="/de/lernprojekte/arduino-projekt-programme/"> >>HERE</a>). It allows the picture being scanned, a historic Mickey-Mouse drawing, to be transferred to the PC
+The control program for the Arduino was developed by the pupils (and is
+<a href="/de/lernprojekte/arduino-projekt-programme/" class="go">online avaliable
+in our repository</a>). It allows the picture being scanned, a historic Mickey-Mouse drawing, to be transferred to the PC
 where it is displayed slowly line by line with good resolution. 
 
 The experiment was a full success and will inspire future projects.

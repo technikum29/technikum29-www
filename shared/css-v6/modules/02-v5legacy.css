@@ -21,6 +21,9 @@ a.go:before {
 	font-weight: bold;
 }
 
+/* TODO: Dafuer sorgen dass Pfeile nicht abgeschnitten werden vom Linktext bei Zeilenumbruch! */
+#content a { white-space: nowrap; }
+
 /* a.go old style */
 /*
 a.arrow,

@@ -90,6 +90,11 @@ nav.horizontal .u2 {
 	border-bottom: 3px solid #888;
 }
 
+nav.horizontal li.open-to-left .u2 {
+	left: inherit;
+	right: 0;
+}
+
 nav.horizontal .u2 a {
 	padding: .2em .9em;
 }

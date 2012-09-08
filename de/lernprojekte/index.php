@@ -30,7 +30,7 @@ Seit 2009 gibt es ein preiswertes unscheinbares Modul, den „Arduino* -Controll
        </div>
  <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weißen Pixel. Dies muss in ein binäres Signal mit 5V-Level gewandelt werden.  Eine Verstärkerschaltung mit nachgeschaltetem RC-Glied übernimmt diesen Part.
 Zum Aufbau des Bildes wird noch eine Information für den jeweiligen Beginn einer neuen Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
-Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme"> >>Source-Code-Ordner öffnen</a> <br>
+Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme" class="go">Source-Code-Ordner öffnen</a> <br>
 
 Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC übertragen. Mit guter Auflösung zeichnet sich Zeile für Zeile eine historische Micky-Mouse auf dem Monitor des Laptops ab. Das Experiment ist geglückt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.</p>
 <p class="small">

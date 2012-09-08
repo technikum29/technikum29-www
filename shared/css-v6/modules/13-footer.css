@@ -18,7 +18,8 @@ footer.in-sheet {
 	position: relative; z-index: 20;
 	
 	/*border-top: 1px solid #5d5c58;*/
-	background: #f1f1f1 url("/shared/img-v6/line.header-footer.png") top left repeat-x;
+	background: transparent url("/shared/img-v6/line.header-footer.png") top left repeat-x;
+	/* bgcolor was #f1f1f1  - transparent gesetzt um nur an einer stelle die farbe austauschen zu muessen */
 }
 
 /* "Beam Navigation" nav.guide */
@@ -144,6 +145,9 @@ nav.rel a {
 	
 	position: relative;
 	/*height: 40px; *//* wegen arrow: height+2*padding=arrowheight */
+	
+	/* Zweizeilig bei langen Linktexten, etwa programmierbare */
+	max-width: 27em;
 }
 
 nav.rel strong {

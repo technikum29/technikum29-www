@@ -1,3 +1,11 @@
+stoplabel = {"de": "Animation stoppen", "en": "stop animation"};
+startlabel = {"de": "Animation starten", "en": "start animation"};
+repeatlabel = {"de": "Animation wiederholen", "en": "repeat animation"};
+
+// script wird zur laufzeit von pagescripts.js eingebunden,
+// da ist t29 schon definiert
+lang = t29.conf.lang;
+
 var slider = new Array();
 slider[1] = new Object();
 slider[1].min = 0;
@@ -5,13 +13,14 @@ slider[1].max = 100;
 slider[1].val = 0;
 slider[1].playerStepTimeout = 100; // ms
 slider[1].playerStepDistance = 1.6; // in min/max/val-Einheiten!
-slider[1].playerStopLabel = "Animation stoppen";
-slider[1].playerStartLabel = "Animation starten";
-slider[1].playerRepeatLabel = "Animation wiederholen"
+slider[1].playerStopLabel = stoplabel[lang];
+slider[1].playerStartLabel = startlabel[lang];
+slider[1].playerRepeatLabel = repeatlabel[lang];
 slider[1].playerAutoReverse = false;
 slider[1].playerAutoStart = true;
 slider[1].playerRepeatFromMin = true;
 slider[1].onchange = setTransparency;
+
 
 function setTransparency(val, blubb) {
 	val = val / 100; // normierung auf [0,1]

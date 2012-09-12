@@ -1,25 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Details of the Diehl Combitronic and Algotronic"
-   --><!--#set var="location"     value="diehl"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/diehl-combitronic.shtm"
-   --><!--#set var="title_de"     value="Details der Diehl Combitronic und Diehl Algotronic"
-   --><!--#set var="prev"         value="/en/computer/ic-technology.shtm#Diehl_Combitronic"
-   --><!--#set var="prev_title"   value="Programmable third-generation calculators with early IC-technology"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'diehl';
+	$version = '$Id';
+	$titel = 'Details of the Diehl Combitronic and Algotronic';
+	
+	require '../../lib/technikum29.php';
+?>
+<h2><?php print $title; ?></h2>
 
 <div class="box center">
       <div style="white-space:nowrap">
@@ -50,8 +36,3 @@
 	Diehl built the completely new computer "Alphatronic, DS 300, DS 400"
 	that is no more interesting for our museum.</p>
 </div>
-
-</div><!--content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

@@ -237,11 +237,13 @@ class t29Menu {
 		}
 
 		// Geraete-Seiten entfernen
+		/*
 		$geraete_uls = $xml->xpath("//ul[contains(@class, 'geraete')]");
 		foreach($geraete_uls as $ul) {
 			$uld = dom_import_simplexml($ul);
 			$uld->parentNode->removeChild($uld);
 		}
+		*/
 	
 		if($xpath_menu_selection == self::horizontal_menu) {
 			# inject news

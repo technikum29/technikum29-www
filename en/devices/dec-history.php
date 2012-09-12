@@ -1,25 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Rise and Fall of DIGITAL (Equipment Corporation)"
-   --><!--#set var="location"     value="dec-history"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/dec-geschichte.shtm"
-   --><!--#set var="title_de"     value="Aufstieg und Ende von DIGITAL (Equipment Corporation)"
-   --><!--#set var="prev"         value="/en/computer/early-computers.shtm"
-   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><!--#set var="credits"      value="M. Kaye / Ann Arbor, MI, USA" 
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="t29.SVN" content="$Id$" />
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-  <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'dec-history';
+	$version = '$Id';
+	$titel = 'Rise and Fall of DIGITAL (Equipment Corporation)';
+	
+	require '../../lib/technikum29.php';
+?>
+<!-- translation credits: M. Kaye / Ann Arbor, MI, USA -->
+<h2><? print $title; ?></h2>
 
 <div class="cols">
  <div class="leftcol">
@@ -66,8 +53,3 @@
 
 </div><!--right col -->
 </div><!-- cols -->
-
-</div><!-- page -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

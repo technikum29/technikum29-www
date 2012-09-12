@@ -23,8 +23,8 @@
 	
 <h3 id="lpg21-en">Schoppe & Faeser:  LGP-21 (General Precision) </h3>
 	
-	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
-	<!-- Implementierung dafür steht im common.css, Zeile 300ff. -->
+	<!-- Bild Ã¼ber ganze Breite (geht bei schmalen Monitoren ins MenÃ¼ rein) -->
+	<!-- Implementierung dafÃ¼r steht im common.css, Zeile 300ff. -->
     <div class="box center" style="position:relative;">
        <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg" width="872" height="414" alt="LGP 21 Computeranlage" />
 </div>
@@ -119,7 +119,7 @@ More information about this interesting and rare system will follow.</p>
 	<div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
-		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />
+		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 FlÃ¼gel" />
 	
 	
 		<p>PDP computers were especially used by scientists. By using self-made
@@ -357,7 +357,7 @@ or: <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,hell.jpg">
 	A Disk Cartridge Drive RK05 where sold for DM 21.200, where one needs in addition the "Positive I/O Bus to Omnibus Converter" DW8E (6750 DM). Similarly is the Converter DW08A and the Cabinet AA50 for additional D/A Controller. The 3 plugged D/A modules were calculated with 1.680 DM per unit.
 	The memory expansion to 32K does not appear on the list, but the price for this option was about 50.000 DM including the controller.<br>
 
-	In the sum it is a staggering number of 387.690 DM, which is today corresponding about 500,000 € or 600.000 $!</p>
+	In the sum it is a staggering number of 387.690 DM, which is today corresponding about 500,000 â‚¬ or 600.000 $!</p>
 </small>
 </div>
 </div>

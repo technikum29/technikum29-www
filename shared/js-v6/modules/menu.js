@@ -100,7 +100,7 @@ t29.menu.collapsed.setup = function() {
 	// set up some collapsible lists
 	t29.menu.collapsed.u3 = new t29.menu.Collapsible({
 		id: 'u3',
-		lists: $("nav.side .u3").not("nav.side li.active > .u3, .geraete"),
+		lists: $("nav.side .u3").not("nav.side li.active > .u3"), //, .geraete"),
 	});
 	
 	// check if we want mini menu for the beginning

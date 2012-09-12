@@ -1,34 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Tabular list of desk calculators"
-   --><!--#set var="location"     value="details2"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="details1.shtm"
-   --><!--#set var="title_de"     value="Besonders interessante Tischrechner und Kleinanlagen aus dem Museumsbestand"
-   --><!--#set var="prev"         value="/en/computer/transistores.shtm"
-   --><!--#set var="prev_title"   value="First calculators with transistors"
-   --><!--#set var="prev2"        value="/en/computer/programmable.shtm"
-   --><!--#set var="prev2_title"  value="Programable seccond-generation calculators"
-   --><!--#set var="prev3"        value="/en/computer/ic-technology.shtm"
-   --><!--#set var="prev3_title"  value="First third-generation calculators with early IC-technology"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'details1';
+	$version = '$Id$';
+	$titel = 'Tabular list of desk calculators';
+	
+	require "../lib/technikum29.php";
+?>
 
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="09.08.2006/v5.5.7" />
-    <meta name="t29.thistranslation" content="28.08.2007/v5.7.5" />
-    <meta name="t29.comment" content="Nur Strukuränderungen" />
-    <!--changes: 09.08.06: typo -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
+<h2><?php print $titel; ?></h2>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
   <colgroup>
@@ -196,8 +174,3 @@
         <i>**) For lack of space, these devices are stored in the archive</i>
     </td>
 </table>
-
-</div><!--content-->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

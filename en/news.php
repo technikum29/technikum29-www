@@ -5,20 +5,18 @@
 	
 	$neues_menu = <<< MENU
 
+- titel: "Gamma55"
+  text: "A new new acquisition"
+  link: "#July_2012"
+
 - titel: "UNIVAC Software discovery"
-  text: "Foobar"
+  text: "A bunch of punch cards"
   link: "#April_2012"
-  bild: "/shared/img-v6/topnav-neues1.jpg"
   
 - titel: "Artists at the museum"
   text: "Leander Schwarzer punching cards"
   link: "#March_2012"
-  bild: "/shared/img-v6/topnav-neues2.jpg"
 
-- titel: "School projects"
-  text: "We support schools"
-  link: "#February_2012"
-  bild: "/shared/img-v6/topnav-neues3.jpg"
 
 MENU;
 // ende der menue-Eintraege

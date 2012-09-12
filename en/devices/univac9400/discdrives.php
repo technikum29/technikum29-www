@@ -1,28 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Univac 9400 disc drives"
-   --><!--#set var="location"     value="univac-discdrives"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/univac9400/plattenlaufwerke.shtm"
-   --><!--#set var="title_de"     value="Univac 9400 Plattenlaufwerke"
-   --><!--#set var="prev"         value="/en/computer/univac9400.shtm#backlink-discdrives"
-   --><!--#set var="prev_title"   value="Univac 9400 overview"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="v5.7FINAL" />
-    <meta name="t29.thistranslation" content="23.08.2007/v5.7.5" />
-    <!-- meta: t29.germanoriginal="<27.07.2006/v5.5.4" -->
-<!-- meta: t29.thistranslation="27.07.2006/v5.5.5" -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
+<?php
+	$seiten_id = 'univac-discdrives';
+	$version = '$Id';
+	$titel = 'Univac 9400 disc drives';
+	
+	require '../../../lib/technikum29.php';
+?>
+<h2><?php print $titel; ?></h2>
 
 <div class="box center auto-bildbreite">
     <img src="/shared/photos/rechnertechnik/univac/plattenlaufwerke.jpg" alt="Die Plattenlaufwerke" width="595" height="446" />
@@ -54,9 +37,3 @@
 		</p>
 	</div>
 </div>
-
-
-</div><!--content -->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

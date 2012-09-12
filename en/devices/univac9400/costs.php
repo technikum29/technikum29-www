@@ -1,16 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="What was the price one had to pay for an UNIVAC 9400?"
-   --><!--#set var="location"     value="univac-kosten"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/univac9400/kosten.shtm"
-   --><!--#set var="title_de"     value="Wie viel kostete eine UNIVAC 9400?"
-   --><!--#set var="prev"         value="/en/computer/univac9400.shtm"
-   --><!--#set var="prev_title"   value="Univac 9400 overview"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'univac-kosten';
+	$version = '$Id';
+	$titel = 'What was the price one had to pay for an UNIVAC 9400?';
+	
+	require '../../../lib/technikum29.php';
+?>
+<h2><?php print $titel; ?></h2>
 
    <!--
      Some notes about prices:
@@ -33,23 +28,6 @@
          But the USD number is always even, thats good ;-)
 
    -->
-
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="de" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="14.08.2008/v5.8" />
-    <meta name="t29.thistranslation" content="09.08.2008/v5.8.0" />
-    <meta name="t29.comment" content="Only design (Sidebar)" />
-    <!--
-        Changelog of this file:
-          * 14.08.2008/v5.8BETA based on 09.08.2008/v5.8BETA: Initial translation
-     -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2><!--#echo var="title" --></h2>
 
     <p>40 years ago, computer systems were incredibly expensive. The prices in the
        following abstract are taken from the original UNIVAC price list from 1968
@@ -205,10 +183,5 @@
 
    <!-- absolut positioniertes Bildchen -->
     <img src="/shared/photos/rechnertechnik/univac/kosten-gleichsetzung.jpg"
-         style="position: absolute; bottom: 5px; right: 0px;"
+         class="autobild"
          alt="An illustration: One Univac 9400 equals 470 cars!"  />
-
-</div><!--content-->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

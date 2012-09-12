@@ -1,32 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="Mid range data processing equipment and proffessional early computers"
-   --><!--#set var="location"     value="details2"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="details2.shtm"
-   --><!--#set var="title_de"     value="Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand"
-   --><!--#set var="prev"         value="/en/computer/early-computers.shtm"
-   --><!--#set var="prev_title"   value="Scientifical calculators and mini computers"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'details2';
+	$version = '$Id$';
+	$titel = 'Mid range data processing equipment and proffessional early computers';
+	
+	require "../lib/technikum29.php";
+?>
+<h2><?php print $titel; ?></h2>
 
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.SVN" content="$Id$" />
-    <meta name="t29.germanoriginal" content="09.08.2006/v5.5.6" />
-    <meta name="t29.thistranslation" content="09.08.2007/v5.7.5" />
-    <meta name="t29.comment" content="Nur Strukuränderungen" />
-    <!--changes: 09.08.06: typo -->
-    <!--cbanges: 01.08.08: backlink typo -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-    <h2 class="center"><!--#echo var="title" --></h2>
-    
 <table width="100%" border="0" cellpadding="0" cellspacing="1">
   <colgroup>
     <col class="middle">
@@ -41,7 +21,7 @@
     <th width="50%">annotations</th>
   </tr>
   <tr>
-    <td class="b"><a href="/en/computer/early-computers.shtm#Classic_PDP-8">DEC Classic 8</a></td>
+    <td class="b"><a href="/en/computer/early-computers.php#Classic_PDP-8">DEC Classic 8</a></td>
     <td>1965</td>
     <td>Big tape deck "580"(**), hard disc DF 32**, 12 KB additional
         memory**, teletype</td>
@@ -50,14 +30,14 @@
 	not contain ICs. It is a seccond-generation computer.</td>
   </tr>
   <tr>
-    <td class="b"><a href="/en/computer/early-computers.shtm#PDP-8I">DEC PDP 8 I</a></td>
+    <td class="b"><a href="/en/computer/early-computers.php#PDP-8I">DEC PDP 8 I</a></td>
     <td>1967-69</td>
     <td>Teletype</td>
     <td>The 8I is DEC's first calculator with integrated circuits
         after the "Classic-8". 8 KB core memory.</td>
   </tr>
   <tr>
-    <td class="b"><a href="/en/computer/early-computers.shtm#pdp8L">DEC PDP 8L</a></td>
+    <td class="b"><a href="/en/computer/early-computers.php#pdp8L">DEC PDP 8L</a></td>
     <td>1968-70</td>
     <td>teletype-printer, two additionall memories (now 12K), two DECTAPEs
         incl. controller (transistor technology), punchcard reader,
@@ -67,13 +47,13 @@
 	Core memory.<br />The complete system is functionally attached.</td>
   </tr>
   <tr>
-	<td class="b"><a href="/en/computer/early-computers.shtm#pdp12">DEC PDP 12</a></td>
+	<td class="b"><a href="/en/computer/early-computers.php#pdp12">DEC PDP 12</a></td>
 	<td>1969-73</td>
 	<td>Teletype, etc.</td>
 	<td>Scientific laboratory computer with LINK-8 and PDP-8 mode.<br/>Fully equipped
 	    computer with more than 450 modules.
   <tr>
-    <td class="b"><a href="/en/computer/early-computers.shtm#8e">DEC LAB 8e</a></td>
+    <td class="b"><a href="/en/computer/early-computers.php#8e">DEC LAB 8e</a></td>
     <td>1971/72</td>
     <td>2 tape desks TU56, highspeed-punchcard reader and puncher,
         removable disk drive RK05, 8 inch floppy RX01, monitor VR12,
@@ -126,7 +106,3 @@
   </tr>
 </table>
 
-</div><!--content-->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>

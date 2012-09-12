@@ -43,7 +43,12 @@
 	<li class="guide-only start"><a href="/en/">Start</a></li>
 	<li><a href="#">Computer History</a>
 		<ul class="u2">
-			<li><a seiten_id="elektro-mechanik" href="/en/computer/electro-mechanical.php">Mechanical calculators</a></li>
+			<li><a seiten_id="elektro-mechanik" href="/en/computer/electro-mechanical.php">Mechanical calculators</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="efzet" href="/en/devices/efzet.php">Efzet</a></li>
+					<li><a seiten_id="sprocket-wheel-machine" href="/en/devices/sprocket-wheel-machine.php">Sprocket wheel machine</a></li>
+				</ul>
+			</li>
 			<li><a href="/en/computer/punchcard.php#DUMME-VERLINKUNG">Punch card computing</a>
 				<ul class="u3">
 					<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php" title="Punchers and Periphery">Punchers</a></li>
@@ -51,7 +56,24 @@
 					<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
 					<li><a seiten_id="gamma10" href="/en/computer/gamma10.php">BULL GAMMA 10</a></li>
 					<li><a seiten_id="univac9200" href="/en/computer/univac9200.php">UNIVAC 9200</a></li>
-					<li><a seiten_id="univac9400" href="/en/computer/univac9400.php">UNIVAC 9400</a></li>
+					<li><a seiten_id="univac9400" href="/en/computer/univac9400.php">UNIVAC 9400</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="univac-bandcontroller" href="/en/devices/univac9400/bandcontroller-lamps.php">Band and Disc controller</a></li>
+							<li><a seiten_id="univac-frontpanel" href="/en/devices/univac9400/frontpanel.php">Frontpanel</a></li>
+							<li><a seiten_id="univac-cardreader" href="/en/devices/univac9400/cardreader.php">Cardreader</a></li>
+							<li><a seiten_id="univac-servo" href="/en/devices/univac9400/console+uniservo.php">Servo</a></li>
+							<li><a seiten_id="univac-kosten" href="/en/devices/univac9400/costs.php">What was the price one had to pay for an UNIVAC 9400?</a></li>
+							<li><a seiten_id="univac-panorama-links" href="/en/devices/univac9400/panorama.php">Panorama</a></li>
+							<li><a seiten_id="univac-discdrives" href="/en/devices/univac9400/discdrives.php">Disc drives</a></li>
+							<li><a seiten_id="univac-highspeed-printer" href="/en/devices/univac9400/highspeed-printer.php">Highspeed printer</a></li>
+							<li><a seiten_id="univac-board" href="/en/devices/univac9400/typical-board.php">Modules</a></li>
+							<li><a seiten_id="univac-werbung" href="/en/devices/univac9400/advertisement.php">Contemporary Advertisement</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="punchcard-collator" href="/en/devices/punchcard-collator.php">The function of the punch card collator</a></li>
+					<li><a seiten_id="punchcard-sorter" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="kommerzielle" href="/en/computer/commercial.php">Commercial Computers</a>
@@ -59,6 +81,12 @@
 					<li><a href="/en/computer/commercial.php#olivetti-p203">Olivetti P203</a></li>
 					<li><a href="/en/computer/commercial.php#ncr446">NCR 446</a></li>
 					<li><a href="/en/computer/commercial.php#nixdorf820">Nixdorf 820</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<!-- existiert wohl nicht: -->
+					<!--<li><a seiten_id="ncr" href="/en/devices/details-ncr446.php">Reperatur der NCR 446</a></li>-->
+					<li><a seiten_id="ncr446" href="/en/devices/ncr446.php">NCR 446 program reader and tape puncher</a></li>
+					<li><a seiten_id="nixdorf820" href="/en/devices/nixdorf820.php">Nixdorf 820 Console</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="fruehe-computer" href="/en/computer/early-computers.php">Scientific Computers</a>
@@ -72,13 +100,35 @@
 					<li><a href="/en/computer/early-computers.php#nova2">NOVA 2</a></li>
 					<li><a href="/en/computer/early-computers.php#wang2200">WANG 2200</a></li>
 				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="dec-history" href="/en/devices/dec-history.php">Rise and Fall of DIGITAL (Equipment Corporation)</a></li>
+					<li><a seiten_id="lab8e" href="/en/devices/lab_8e.php">Lab 8e</a></li>
+					<li><a seiten_id="wang2200" href="/en/devices/wang2200.php">Wang 2200</a></li>
+					<li><a seiten_id="details2" href="/en/details2.php">Mid range data processing equipment and proffessional early computers</a></li>
+				</ul>
 			</li>
 			<li><a href="/en/computer/electron-tubes.php#DUMME-VERLINKUNG">Electronical desk calculators</a>
 				<ul class="u3">
 					<li><a seiten_id="elektronenroehren" href="/en/computer/electron-tubes.php">with electron tubes</a></li>
-					<li><a seiten_id="transistoren" href="/en/computer/transistors.php">with transistors</a></li>
-					<li><a seiten_id="programmierbare" href="/en/computer/programmable.php">programmable calculators</a></li>
-					<li><a seiten_id="ic-technik" href="/en/computer/ic-technology.php">calculators mit ICs</a></li>
+					<li><a seiten_id="transistoren" href="/en/computer/transistors.php">with transistors</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="wanderer" href="/en/devices/wanderer_conti.php">Wanderer Conti</a></li>
+						</ul>
+					</li>
+					<li><a seiten_id="programmierbare" href="/en/computer/programmable.php">programmable calculators</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="wang320" href="/en/devices/wang320.php">Wang 320 SE</a></li>
+						</ul>
+					</li>
+					<li><a seiten_id="ic-technik" href="/en/computer/ic-technology.php">calculators mit ICs</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="diehl" href="/en/devices/diehl-combitronic.php">Details of the Diehl Combitronic and Algotronic</a></li>
+							<li><a seiten_id="wang700" href="/en/devices/wang700.php">Wang 700</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="details1" href="/en/details1.php">Tabular list of desk calculators</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="analogrechner" href="/en/computer/analog.php">Analog and digital-analog copmuters</a>
@@ -91,14 +141,49 @@
 					<li><a href="/en/computer/analog.php#do240">DO 240</a></li>
 				</ul>
 			</li>
+			<li><a seiten_id="speichermedien" href="/en/computer/storage-media.php">Storage Media</a>
+				<ul class="u3">
+					<li><a href="/en/computer/storage-media.php#laufzeitspeicher">Verzögerungsspeicher</a></li>
+					<li><a href="/en/computer/storage-media.php#magnetostriktion">Magnetostriktion</a></li>
+					<li><a href="/en/computer/storage-media.php#kernspeicher">Kernspeicher</a></li>
+					<li><a href="/en/computer/storage-media.php#threaded-rom">Gefädeltes ROM</a></li>
+					<li><a href="/en/computer/storage-media.php#staebchenspeicher">Stäbchenspeicher</a></li>
+					<li><a href="/en/computer/storage-media.php#magnetdrahtspeicher">Magnetdrahtspeicher</a></li>
+					<li><a href="/en/computer/storage-media.php#lochband">Lochband</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="threaded-rom" href="/en/devices/threaded-rom.php">Threaded ROM: Detailed picture</a></li>
+					<li><a seiten_id="plated-wire-storage" href="/en/devices/plated-wire-storage.php">The plated wire storage: Functionality</a></li>
+					<li><a seiten_id="magnetic-stick-memory" href="/en/devices/magnetic-stick-memory.php">The magnetic stick memory: Functionality</a></li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 	<li><a href="/en/communication/broadcasting.php#DUMME-VERLINKUNG">Communication Technology</a>
 		<ul class="u2">
-			<li><a seiten_id="rundfunk" href="/en/communication/broadcasting.php">Broadcasting</a></li>
-			<li><a seiten_id="tontechnik" href="/en/communication/sound_technology.php">Sound recording and reproducing technology</a></li>
-			<li><a seiten_id="fernsehen" href="/en/communication/television.php">Television</a></li>
-			<li><a seiten_id="faxtechnik" href="/en/communication/fax.php">Telegraphy and Fax engineering</a></li>
+			<li><a seiten_id="rundfunk" href="/en/communication/broadcasting.php">Broadcasting</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="telefunken650" href="/en/devices/telefunken_650.php">Telefunken 650</a></li>
+					<li><a seiten_id="telefunkent40w" href="/en/devices/telefunken_t40w.php">Telefunken T 40W</a></li>
+					<li><a seiten_id="ultramar" href="/en/devices/ultramar_back.php">Körting Ultramar</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="tontechnik" href="/en/communication/sound_technology.php">Sound recording and reproducing technology</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="schaub-lorenz-supraphon" href="/en/devices/schaub-lorenz-supraphon.php">Schaub Lorenz Supraphon</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="fernsehen" href="/en/communication/television.php">Television</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="saba-telerama" href="/en/devices/saba-telerama.php">Saba Telerama: Schmitt lenses</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="faxtechnik" href="/en/communication/fax.php">Telegraphy and Fax engineering</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="hellfax" href="/en/devices/hellfax-functionality.php">Hellfax functional diagram</a></li>
+					<li><a seiten_id="morse-telegraph" href="/en/devices/morse_telegraph.php">TELEGRAPH made by S.-A. HASLER, Bern</a></li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 	<li><a href="/en/communication/measurement.php#DUMME-VERLINKUNG">Miscellaneous</a>

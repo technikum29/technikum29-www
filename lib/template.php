@@ -13,7 +13,7 @@
 require dirname(__FILE__) . "/ressourceloader.php";
 
 class t29Template {
-	public $conf, $menu, $msg;
+	public $conf, $menu, $msg, $host;
 	public $body_classes = array();
 	public $javascript_config = array();
 	public $page_relations, $interlang_links;
@@ -30,11 +30,19 @@ class t29Template {
 		require_once $this->conf['lib'].'/menu.php';
 		$this->menu = new t29Menu($this->conf);
 
+		// create a host instance:
+		require_once $this->conf['lib'].'/host.php';
+		$this->host = t29Host::detect($this->conf);
+
 		// create localisation class:
 		require_once $this->conf['lib'].'/messages.php';
 		$this->msg = new t29Messages($this->conf['lang']);
 
 		// fill up configuration
+		// optional configuration which can be filled by hooks or parts
+		if(!isset($this->conf['header_prepend']))
+			$this->conf['header_prepend'] = array(); // list
+		
 		// Path names in messages
 		foreach(array('footer-legal-file', 'topnav-search-page') as $msg_id)
 			$this->msg->set($msg_id, $this->conf['lang_path'].$this->msg->_($msg_id));
@@ -131,8 +139,9 @@ class t29Template {
   <meta name="author" content="technikum29-Team">
   <meta name="generator" content="t29v6">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
-  <meta name="t29.localfile" content="<?php print $_SERVER['SCRIPT_FILENAME']; ?>" id="localFileSource">
   <?php
+	foreach($this->conf['header_prepend'] as $h) print $h;
+  
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
 	if(isset($_GET['debug']))
 		foreach(explode(' ','debug rl_debug skip_cache purge_cache verbose_cache') as $x)

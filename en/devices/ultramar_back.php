@@ -1,30 +1,12 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head><!--#set var="title"        value="K&ouml;rting Ultramar"
-   --><!--#set var="location"     value="ultramar"
-   --><!--#set var="part"         value="extra"
-   --><!--#set var="url_de"       value="geraete/ultramar_hinten.shtm"
-   --><!--#set var="title_de"     value="Rückseite des K&ouml;rting Ultramar"
-   --><!--#set var="prev"         value="/en/communication/broadcasting.shtm#backlink-ultramar"
-   --><!--#set var="prev_title"   value="Broadcasting: K&ouml;rting Ultramar (front side)"
-   --><!--#set var="next"         value=""
-   --><!--#set var="next_title"   value=""
-   --><title>technikum29 - <!--#echo var="title" --></title>
+<?php
+	$seiten_id = 'ultramar';
+	$version = '$Id';
+	$titel = 'KÃ¶rting Ultramar';
+	
+	require '../../lib/technikum29.php';
+?>
 
-    <!--#include virtual="/en/inc/head.inc.shtm" -->
-    <meta name="keywords" lang="en" content="" />
-    <meta name="DC.Title" content="technikum29 - <!--#echo var="title" -->" />
-    <meta name="t29.germanoriginal" content="08.2007/v5.7FINAL" />
-    <meta name="t29.thistranslation" content="15.09.2007/v5.7.7" />
-    <meta name="t29.comment" content="Kleine Fixes (AD1->RE604, Einkreiser)" />
-    <!--cahgenlog: 23.08.2007/v5.7.5: Extraseite neustrukturiert -->
-</head>
-<body>
-<!--#echo encoding="none" var="heading" -->
-<div id="content">
-
-<h2>K&ouml;rting Ultramar: luxurious radio with 11 tubes</h2>
+<h2>KÃ¶rting Ultramar: luxurious radio with 11 tubes</h2>
 
 <div class="box center">
     <img src="/shared/photos/kommunikationstechnik/ultramar_hinten.jpg" alt="Ultramar back side" width="516" height="476" />
@@ -37,11 +19,6 @@
 	</div><!--bildtext-->
 </div>
 
-    <div class="box center">
-        <img src="/shared/photos/kommunikationstechnik/ultramar,skala.jpg" alt="Die Skala des Körting-Ultramar" width="516" height="387" /></div>
-    </div>
-
-</div><!--content-->
-<!--#include virtual="/en/inc/menu.inc.shtm" -->
-</body>
-</html>
+<div class="box center">
+	<img src="/shared/photos/kommunikationstechnik/ultramar,skala.jpg" alt="Die Skala des KÃ¶rting-Ultramar" width="516" height="387" />
+</div>

@@ -198,6 +198,14 @@ class t29Cache {
 	function start_cache($register_shutdown_func=null, $shutdown_func_is_filter=false) {
 		if($this->debug)
 			print "Will start caching with shutdown: " . $register_shutdown_func . PHP_EOL;
+			
+		// check if output file is writable; for logging and logging output
+		// purpose.
+		//if(!is_writable($this->cache_file))
+		//	print "Cache file not writable: ".$this->cache_file;
+		//	print "\n";
+		//exit;
+
 		ob_start();
 
 		if(is_callable($register_shutdown_func)) {

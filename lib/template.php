@@ -13,7 +13,7 @@
 require dirname(__FILE__) . "/ressourceloader.php";
 
 class t29Template {
-	public $conf, $menu, $msg, $host;
+	public $conf, $menu, $msg;
 	public $body_classes = array();
 	public $javascript_config = array();
 	public $page_relations, $interlang_links;
@@ -22,26 +22,26 @@ class t29Template {
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
 		
-		// create a lightweight logging object:
+		// fetch the lightweight logging object:
 		require_once $this->conf['lib'].'/logging.php';
-		$this->log = new t29Log();
+		$this->log = t29Log::get();
 
 		// create a menu:
 		require_once $this->conf['lib'].'/menu.php';
 		$this->menu = new t29Menu($this->conf);
-
-		// create a host instance:
-		require_once $this->conf['lib'].'/host.php';
-		$this->host = t29Host::detect($this->conf);
 
 		// create localisation class:
 		require_once $this->conf['lib'].'/messages.php';
 		$this->msg = new t29Messages($this->conf['lang']);
 
 		// fill up configuration
-		// optional configuration which can be filled by hooks or parts
+
+		// optional html headers which can be filled by hooks or parts
 		if(!isset($this->conf['header_prepend']))
 			$this->conf['header_prepend'] = array(); // list
+
+		// as t29Host for configuration fillup fillup
+		$this->conf['host']->fillup_template_conf($this->conf);
 		
 		// Path names in messages
 		foreach(array('footer-legal-file', 'topnav-search-page') as $msg_id)
@@ -137,10 +137,10 @@ class t29Template {
   <title><?php echo $this->conf['html_title']; ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="technikum29-Team">
-  <meta name="generator" content="t29v6">
+  <meta name="generator" content="t29v6/<?php print $this->conf['host']->hostname; ?>">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
   <?php
-	foreach($this->conf['header_prepend'] as $h) print $h;
+	foreach($this->conf['header_prepend'] as $h) print $h."\n  ";
   
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
 	if(isset($_GET['debug']))

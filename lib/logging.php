@@ -1,9 +1,15 @@
 <?php
-
 /**
-	Inspired by Klooger,
-	https://github.com/katzgrau/KLogger/
-*/
+ * t29Log is a very lightweight logging system for t29v6.
+ *
+ * The logging class is accessible via the Singleton pattern, but should
+ * be stored in a $GLOBAL["log"] and accessible like that everywhere.
+ * The contents are printed in t29Template.
+ *
+ * Inspired by Klooger for PHP: https://github.com/katzgrau/KLogger/
+ **/
+
+
 class t29Log {
 	const EMERG  = 'emerg';  // Emergency: system is unusable
 	const ALERT  = 'alert';  // Alert: action must be taken immediately
@@ -31,7 +37,17 @@ class t29Log {
 	*/
 	public $entries = array();
 	
-	function __construct() {
+	// the one global t29Log instance
+	private static $instance;
+	
+	// singleton access method
+	public function get() {
+		if(!isset(self::$instance))
+			self::$instance = new t29Log;
+		return self::$instance;
+	}
+	
+	private function __construct() {
 		// we shall be the PHP error handler
 		set_error_handler(array($this, 'log_phperror'));
 		
@@ -85,6 +101,12 @@ class t29Log {
 		$this->log($line, self::FATAL, $args);
 	}
 
-	
+	public function INFO($line, $args = self::NO_ARGUMENTS){
+		$this->log($line, self::INFO, $args);
+	}
+
+	public function DEBUG($line, $args = self::NO_ARGUMENTS){
+		$this->log($line, self::INFO, $args);
+	}
 	
 } // class

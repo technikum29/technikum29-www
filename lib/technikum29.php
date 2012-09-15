@@ -21,6 +21,12 @@ if(isset($_GET['debug'])) {
 	$_GET['rl_debug'] = true;
 }
 
+require "$lib/host.php";
+$host = t29Host::detect();
+
+// check for url rewriting neccessarity
+if($host->check_url_rewrite()) exit;
+
 $cache_dir = "$webroot/shared/cache";
 $languages = array(
 // shorthand => array(full name in page, path from webroot)
@@ -48,6 +54,7 @@ $page_cache->test_files =  array(
 	"$lib/template.php",
 	"$lib/menu.php",
 	"$lib/messages.php",
+	"$lib/host.php",
 	"$webroot$lang_path/navigation.xml",
 	"$webroot$lang_path/news.php",
 );

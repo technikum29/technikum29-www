@@ -15,7 +15,7 @@
 abstract class t29Host {
 	const webroot_host_file = '/host.php'; # relative to webroot
 	const webroot_local_host_classname = 't29LocalHost';
-	const env_hidesuffix_name = "T29HIDESUFFIX";
+	const env_hidesuffix_name = "T29URLHIDESUFFIX";
 
 
 	/// Some identifier like a FQDN. Must be overwritten!

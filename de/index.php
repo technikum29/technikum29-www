@@ -47,7 +47,10 @@
             <h2>Was wird geboten ?</h2>
             <ul>
                 <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine gesunde Neugierde ist jedoch Voraussetzung! Eine Führung dauert in der Regel ca. 90 Minuten.<br>
-				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.</li>
+				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.
+				
+				
+				</li>
             </ul>
 	  </div>
 	  
@@ -59,7 +62,8 @@
             <ul>
 			
                 <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
-				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br><br>
+				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
+				<p><span style="color:red"><b>Für Einzelbesucher und Kleingruppen bieten wir am <br> Sonntag, den 30. September um 14 Uhr<br> eine Führung "Computer-Histroy" an. Bei Interesse bitten wir Sie darum, sich rechtzeitig anzumelden.</b></span></p>
 				
 				
 					</li>

@@ -4,6 +4,9 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+- titel: "Neues Website-Design"
+  text: "Neu gestaltete Website"
+  link: "#September_2012"
 
 - titel: "Gamma55"
   text: "Ein neuer Rechner im Museum"
@@ -28,8 +31,11 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
-<li><h3>Juli 2012</h3>
+<li><h3>September 2012</h3>
+Sie besuchen gerade unsere völlig neu überarbeitete Website. Bessere Gliederung, bequemere Navigation und mehr Übersicht sind die wichtigsten Neuerungen.<br>
+Bitte benachrichtigen Sie uns, falls Sie auf Fehler stoßen.</li>
 
+<li><h3>Juli 2012</h3>
 <div class="box left">
 
 <img src="/shared/photos/rechnertechnik/bull-ge55.jpg" width="375" height="195"/>

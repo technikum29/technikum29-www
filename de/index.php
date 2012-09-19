@@ -1,6 +1,7 @@
 <?php
 	$seiten_id = 'startseite';
 	$version = '$Id$';
+	$titel = 'technikum29 Computermuseum - das einzige Computer-Museum mit funktionsfähiger Lochkartentechnik';
 	
 	require "../lib/technikum29.php";
 ?>

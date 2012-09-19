@@ -10,7 +10,7 @@
     <!-- klingt scheiße: <p class="progress10">Jolt by the calculators featuring all tube technology, now a vehement race of the development of transistorised second-generation calculators began.</p>-->
 
     <p>
-	   After the <a href="/en/computer/electron-tubes.shtm">ANITA tube calculator</a>,
+	   After the <a href="/en/computer/electron-tubes.php">ANITA tube calculator</a>,
 	   the development of transistorised second-generation calculators began. Due to the
 	   increasing number of users, the development was very lucrative, even considering the
 	   enormous costs.
@@ -25,7 +25,7 @@
         <p class="bildtext">
 		   <b>IME 84</b> (<i>Industria Macchine Elettroniche</i>) was the world's first
 		   desk calculator using transistors. This represented enormous progress, compared to the ANITA.
-           Using <a href="/en/computer/storage-media.shtm#Core_memory">core memory</a>, there was
+           Using <a href="/en/computer/storage-media.php#Core_memory">core memory</a>, there was
 		   much more memory, allowing many more application fields.
            <br>This calculator is at least able to exponentiate a number, but it cannot yet extract
 		   a root.
@@ -80,7 +80,7 @@
 	</p>
 	<p>
 	    The legendary <b>WANDERER-WERKE AG</b> were a typical company specialized on office machines and launched
-		the WANDERER CONTI in 1965. You can read the original prospectus <!--sic--> of the <a class="go" href="/en/devices/wanderer_conti.shtm"
+		the WANDERER CONTI in 1965. You can read the original prospectus <!--sic--> of the <a class="go" href="/en/devices/wanderer_conti.php"
 		title="Wanderer Conti original brochure">"first printing electonic universal automaton"</a>. This leading role
 		did only lasted for a few weeks, since Olivetti and Diehl followed close behind.
 	</p>
@@ -107,7 +107,7 @@
 		<p class="bildtext">
 		    The <b>FRIDEN 130</b> was announced in 1964. It was the first desktop calculator featuring a
 		    CRT display, using an oscillocope tube to display the contents of four internal registers of the machine.
-	        The memory is based on a <a class="go" href="storage-media.shtm#Magnetostrictive_memory">magnetostrictive line</a>.
+	        The memory is based on a <a class="go" href="storage-media.php#Magnetostrictive_memory">magnetostrictive line</a>.
             <br />The overall design of the calculator is quite futuristic - the machine might well be found in
 		    a space travel movie of that time. The smallest model featuring only the four basic arithmetic
 		    operations was sold for about 5000 DM while the larger model, the FRIDEN 132, which included a
@@ -118,6 +118,6 @@
 	<!--
     <p>Most of these calculators like many other brands were only capable of performing the four basic
 	arithmetic operations although some machines had extra provisions for calculating square roots. In most
-	cases a small <a href="storage-media.shtm#core-memory">core memory</a> was employed for internal storage.</p>
-	<p>You can read further details at the <a class="go" href="/en/details1.shtm" title="Details 1">tabular list of desk calculators</a></p>
+	cases a small <a href="storage-media.php#core-memory">core memory</a> was employed for internal storage.</p>
+	<p>You can read further details at the <a class="go" href="/en/details1.php" title="Details 1">tabular list of desk calculators</a></p>
 	-->

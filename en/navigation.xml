@@ -41,7 +41,7 @@
 <nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/en/">Start</a></li>
-	<li><a href="#">Computer History</a>
+	<li><a href="/en/computer/electro-mechanical.php#COMPUTER_HISTORY">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/en/computer/electro-mechanical.php">Mechanical calculators</a>
 				<ul class="u3 geraete">
@@ -143,13 +143,13 @@
 			</li>
 			<li><a seiten_id="speichermedien" href="/en/computer/storage-media.php">Storage Media</a>
 				<ul class="u3">
-					<li><a href="/en/computer/storage-media.php#laufzeitspeicher">Verzögerungsspeicher</a></li>
-					<li><a href="/en/computer/storage-media.php#magnetostriktion">Magnetostriktion</a></li>
-					<li><a href="/en/computer/storage-media.php#kernspeicher">Kernspeicher</a></li>
-					<li><a href="/en/computer/storage-media.php#threaded-rom">Gefädeltes ROM</a></li>
-					<li><a href="/en/computer/storage-media.php#staebchenspeicher">Stäbchenspeicher</a></li>
-					<li><a href="/en/computer/storage-media.php#magnetdrahtspeicher">Magnetdrahtspeicher</a></li>
-					<li><a href="/en/computer/storage-media.php#lochband">Lochband</a></li>
+					<li><a href="/en/computer/storage-media.php#delay-line-memory">Delay line memory</a></li>
+					<li><a href="/en/computer/storage-media.php#run-time-memory">Magnetostrictive memory</a></li>
+					<li><a href="/en/computer/storage-media.php#core-memory">Core memory</a></li>
+					<li><a href="/en/computer/storage-media.php#threaded-rom">Threader ROM</a></li>
+					<li><a href="/en/computer/storage-media.php#magnetic-stick-memory">Magnetic stick memory</a></li>
+					<li><a href="/en/computer/storage-media.php#plated-wire-storage">Plated wire storage</a></li>
+					<li><a href="/en/computer/storage-media.php#lochband">Metal punched tape</a></li>
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="threaded-rom" href="/en/devices/threaded-rom.php">Threaded ROM: Detailed picture</a></li>

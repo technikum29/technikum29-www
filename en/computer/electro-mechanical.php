@@ -16,7 +16,7 @@
     	</p>
     	<blockquote>for the buisenessman, industrial, craftsman, engineer, student and even the housewife</blockquote>
 		<p>
-	    	like the <a href="/en/devices/efzet.shtm" class="en">instruction sheet</a> (german only) tells.
+	    	like the <a href="/en/devices/efzet.php" class="en">instruction sheet</a> (german only) tells.
 			This device does not seem to be very useful.
 		</p>
 	</div>
@@ -99,8 +99,4 @@
         daily calculations like 25 + 12 x 7 - 17 x 6 could be solved without notating
         anything. However, this luxury still had a drawback: Maloperation could damage the
 		whole device.</p>
-    </div>
-
-    <div id="sidebar-footnote">
-        <a href="/en/devices/sprocket-wheel-machine.shtm">Big photography &uarr; of the sprocket wheel machine</a>
     </div>

@@ -60,7 +60,7 @@
 	
 	<p>
            The Univac 1710 VIP was released at
-           the same time like the <a href="univac9400.shtm">UNIVAC 9400 mainframe</a>
+           the same time like the <a href="univac9400.php">UNIVAC 9400 mainframe</a>
            in the year 1969. This device is very fast and versatile and works mostly
            electronically. Most likely, Univac wanted to trump IBM with this
            trendsetting device. The device's internals are very elaborate, but offer
@@ -86,21 +86,21 @@
 	<h3>Sorters</h3>
 
     <div class="box center">
-        <a href="/en/devices/punchcard-sorter.shtm" name="backlink-sorter"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 sorter" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 sorter (without cover)" width="215" height="287" /></a>
+        <a href="/en/devices/punchcard-sorter.php" name="backlink-sorter"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 sorter" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 sorter (without cover)" width="215" height="287" /></a>
         <p class="center">
             <b>IBM 082 punch card sorter</b>, Built since 1949
-            <br/><a class="go" href="/en/devices/punchcard-sorter.shtm">The function of the punch card sorter</a>
+            <br/><a class="go" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a>
          </p>
     </div>
 
     <div class="box center auto-bildbreite">
-        <a href="/en/devices/punchcard-sorter.shtm"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 punch card sorter" width="602" height="630" /></a>
+        <a href="/en/devices/punchcard-sorter.php"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 punch card sorter" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 sorter</b>
             <br/>Compared to the IBM 082 the sorting mechanics were greatly improved. The machine can sort 1000 cards
             per minute. Much more than 16 cards per second are not possible, due to the mechanic's inertia. This
             type was built since 1958.
-            <br/><a class="go" href="/en/devices/punchcard-sorter.shtm">The function of the punch card sorter</a>
+            <br/><a class="go" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a>
         </p>
     </div>
 	
@@ -108,7 +108,7 @@
 	<h3>Collators</h3>
 
     <div class="box left clear-after">
-        <a href="/en/devices/punchcard-collator.shtm" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
+        <a href="/en/devices/punchcard-collator.php" name="backlink-ibm077"><img src="/shared/photos/rechnertechnik/ibm77.jpg" alt="IBM 077" width="450" height="526" /></a>
         <p class="bildtext"><b>IBM punch card collator 077</b></p>
 		<p>
 	    The picture above shows the back of a collator, year of manufacture 1959.
@@ -122,12 +122,12 @@
 	     switches. Early engineers had to use oilcans for the bearing's
 	     maintenance as often as a checking device.
 	     <br />The programs could be changed by replacing the programing field.
-	     <br/><a class="go" href="/en/devices/punchcard-collator.shtm">The function of the punch card collator</a>
+	     <br/><a class="go" href="/en/devices/punchcard-collator.php">The function of the punch card collator</a>
 		</p>
 	</div>
 
     <div class="box left clear-after">
-         <a href="/en/devices/punchcard-collator.shtm"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
+         <a href="/en/devices/punchcard-collator.php"><img src="/shared/photos/rechnertechnik/bull-mischer.jpg" alt="Bull punch card collator 56.00" width="450" height="536" /></a>
          <p class="bildtext"><b>Bull punch card collator 56.00.</b></p>
 		<p>
 	    This very big device features very much chrome and almost 1000 relays,

@@ -22,7 +22,7 @@ a.go:before {
 }
 
 /* TODO: Dafuer sorgen dass Pfeile nicht abgeschnitten werden vom Linktext bei Zeilenumbruch! */
-#content a { white-space: nowrap; }
+#content a.go { white-space: nowrap; }
 
 /* a.go old style */
 /*

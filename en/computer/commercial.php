@@ -19,11 +19,11 @@
 
     <h3>NCR 446</h3>    
     <div class="box center">
-        <a href="/en/devices/ncr446.shtm" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="Photography of the NCR 446" width="694" height="520" /></a>
+        <a href="/en/devices/ncr446.php" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="Photography of the NCR 446" width="694" height="520" /></a>
 	</div>
 	
     <p>Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so-called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM Selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.
-       <br/>Clicking on the picture yields a <href="/en/devices/ncr446.shtm">more detailed picture</a></p>
+       <br/>Clicking on the picture yields a <href="/en/devices/ncr446.php">more detailed picture</a></p>
         <!-- das war B.Ulmann. Meine Übersetzung (alt):
         <img src="/shared/photos/start/ncr_rechner.jpg" alt="NCR-Rechner" style="margin-right: 25px" />
         <div class="bildtext">As an alternative to the desktop calculators, small installations
@@ -36,8 +36,8 @@
 
     <h3>NIXDORF 820</h3>
 	<div class="box center auto-bildbreite">
-        <a href="/en/devices/nixdorf820.shtm" name="backlink-nixdorf" title="Zur Detailaufnahme der Nixdorf 820-Anlage"><img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
+        <a href="/en/devices/nixdorf820.php" name="backlink-nixdorf" title="Zur Detailaufnahme der Nixdorf 820-Anlage"><img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
 		<p class="bildtext"><b>Nixdorf 820</b> with card puncher and printer</p>
 	</div>
 	
-	<p>A typical small to medium data processing system is the <b>NIXDORF 820</b> built in 1969/1970. This system is built entirely from modules, has a magnetic account reader and a <a href="storage-media.shtm#Threaded_ROM">threaded ROM</a> which was user modifiable. The console consists of a typewriter, the magnetic account reader and two punch card readers. In addition to this the system supports a card punching unit, a high speed matrix printer (visible on the right), two cassette tape drives and a stand alone card puncher (IBM or YUKI, see above). Clicking on the picture will yield <a class="go" href="/en/devices/nixdorf820.shtm">a more detailed version</a> of it.</p>
+	<p>A typical small to medium data processing system is the <b>NIXDORF 820</b> built in 1969/1970. This system is built entirely from modules, has a magnetic account reader and a <a href="storage-media.php#Threaded_ROM">threaded ROM</a> which was user modifiable. The console consists of a typewriter, the magnetic account reader and two punch card readers. In addition to this the system supports a card punching unit, a high speed matrix printer (visible on the right), two cassette tape drives and a stand alone card puncher (IBM or YUKI, see above). Clicking on the picture will yield <a class="go" href="/en/devices/nixdorf820.php">a more detailed version</a> of it.</p>

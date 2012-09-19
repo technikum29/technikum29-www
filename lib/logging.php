@@ -41,7 +41,7 @@ class t29Log {
 	private static $instance;
 	
 	// singleton access method
-	public function get() {
+	static public function get() {
 		if(!isset(self::$instance))
 			self::$instance = new t29Log;
 		return self::$instance;

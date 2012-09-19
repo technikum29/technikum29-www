@@ -30,7 +30,7 @@ nav.horizontal a, nav.side .u1 > li > a {
 #container {
 	width: 1200px;
 	margin: 16px auto;
-	background-color: #f1f1f1; /* Hintergrundfarbe des Textes ("Blatt") */
+	background-color: #F7F7F7; /* Hintergrundfarbe des Textes ("Blatt") */
 	position: relative;
 	padding-top: 104px;
 	overflow: hidden; /* #background-color-container */

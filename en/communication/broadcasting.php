@@ -130,10 +130,10 @@
 	   you can gain an extraordinary insight into this device.
 
     <div class="box left clear-after">
-        <a href="/en/devices/telefunken_t40w.shtm"><img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" alt="Photography of the Telefunken T40W" class="nomargin-bottom"></a>
+        <a href="/en/devices/telefunken_t40w.php"><img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" alt="Photography of the Telefunken T40W" class="nomargin-bottom"></a>
         <p class="bildtext">
             Clicking on the picture yields the innards of the
-			<a href="/en/devices/telefunken_t40w.shtm" class="go">Telefunken T 40W</a>.
+			<a href="/en/devices/telefunken_t40w.php" class="go">Telefunken T 40W</a>.
 	    </p>
     </div>
 
@@ -217,7 +217,7 @@
             Its circuitry contains 11 vacuum tubes driving two loudspeakers
             which results in an astonishable quality of sound. See also
             some pictures showing the <a class="go" name="backlink-ultramar"
-			href="/en/devices/ultramar_back.shtm">Innards of the Ultramar</a>.
+			href="/en/devices/ultramar_back.php">Innards of the Ultramar</a>.
 		</p>
     </div>
 

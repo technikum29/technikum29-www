@@ -27,7 +27,7 @@
 	<h3>Galvanometer</h3> <!-- sic -->
 	
       <div class="box left clear-after">
-            <img src="/shared/photos/kommunikationstechnik/universalmessgeraet.jpg" alt="Fotografie des Universalmeﬂger‰tes" width="396" height="325" />
+            <img src="/shared/photos/kommunikationstechnik/universalmessgeraet.jpg" alt="Fotografie des Universalme√üger√§tes" width="396" height="325" />
             <p class="bildtext">
                This is a remarkably functional, big and beautiful all-purpose measurement device made by Siemens &amp; Halske (about 1905). At that time even simple objects of utility were made with lovely details. This device was used as an auxiliary device for morsing purposes in the national administration of the German Empire.
             </p>
@@ -94,7 +94,7 @@ Measuring was then an art that had to be mastered. Particularly disturbs the Ear
       <div class="box left clear-after">
           <img src="/shared/photos/kommunikationstechnik/phywe-oszi.jpg" alt="Photography of a Phywe demonstration oscilloscope" width="396" height="269" />
           <p class="bildtext">
-             The "Physikalischen Werkst‰tten" (<i>phsyical facilities</i>), <b>Phywe</b>,
+             The "Physikalischen Werkst√§tten" (<i>phsyical facilities</i>), <b>Phywe</b>,
              built this small oscilloscope for demonstration purposes. It can be
              used to show the electromagnetic interaction of an electron beam in E/B fields.
              Since (CRT driven) television was not yet a mass medium, these experiments

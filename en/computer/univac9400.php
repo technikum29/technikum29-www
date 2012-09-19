@@ -48,17 +48,17 @@
       <p>The picture on top shows from right to left:</p>
 
       <ul>
-          <li>the <a href="/en/devices/univac9400/frontpanel.php" title="see a detailed picture from the processor's frontpanel">main processor cabinet</a></li>
-          <li>the <a href="/en/devices/univac9400/console+uniservo.php" title="read more about hte console and uniservo">system's console</a></li>
+          <li>the main processor cabinet</li>
+          <li>the system's console</li>
           <li>the Tape Control Unit</li>
           <li>UNISERVO 12</li><!--<li>a tape controller with two associated tape drives,</li>-->
           <li>UNISERVO 16</li>
           <li>UNISERVO 12</li>
-          <li>the <a href="/en/devices/univac9400/discdrives.php" title="a big picture from the disc controller and disc drives">Disk Control Unit</a></li> <!-- disc controller-->
+          <li>the Disk Control Unit</li> <!-- disc controller-->
           <!--<li>two storage cabinets holding 128 kB each,</li>-->
-          <li>the <a href="/en/devices/univac9400/highspeed-printer.php">high speed printer</a> of type 768</li> 
-          <li><a href="/en/devices/univac9400/discdrives.php">two disk drives</a> of type 8425</li>
-          <li>a <a href="/en/devices/univac9400/cardreader.php" title="further reading and viewing about the punchcard reader">punch card reader</a></li>
+          <li>the high speed printer of type 768</li> 
+          <li>three disk drives of type 8425</li>
+          <li>a punch card reader</li>
       </ul>
 
     <!-- ulmann text begins -->

@@ -88,8 +88,9 @@ class t29Template {
 		$this->conf['html_title'] = '';
 		if(isset($this->conf['titel']) && !empty($this->conf['titel']))
 			$this->conf['html_title'] = $this->conf['titel'] . ' - ';
-		elseif($this->conf['seiten_id'] == $this->msg->_('homepage-pagename'))
-			{} // nop: Startseitentitel soll nur sein "technikum29"
+		// Startseite macht ihren Titel jetzt selbst (SEO):
+		//elseif($this->conf['seiten_id'] == $this->msg->_('homepage-pagename'))
+		//	{} // nop: Startseitentitel soll nur sein "technikum29"
 		elseif($this->conf['seiten_link'])
 			// Titel vom Menu nehmen
 			$this->conf['html_title'] = $this->conf['seiten_link'] . ' - ';

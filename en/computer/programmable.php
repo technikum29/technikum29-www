@@ -23,7 +23,7 @@
         The Combitron is the first operating programmable desk calculator that was built and
 		sold in Germany. On the right you can see the DIEHL
         Dilector (paper tape reader) and to the left is the DIEHL ELS 830 (paper tape puncher). The system is fully operational.
-        The <a href="storage-media.shtm#delay-line-memory" class="go">delay line memory</a> serves as storage media
+        The <a href="storage-media.php#run-time-memory" class="go">delay line memory</a> serves as storage media
         (capacity ca. 1000 bits).</p>
     </p>
 	
@@ -37,19 +37,19 @@
 
     <div class="box left clear-after">
        <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
-       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. <a class="go" href="storage-media.shtm#delay-line-memory">Delay line memory</a> was used as storage media.</p>
+       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. <a class="go" href="storage-media.php#run-time-memory">Delay line memory</a> was used as storage media.</p>
     </div>
 
 	<h3>WANG 320</h3>
     <p>The WANG 320 is an outstanding machine in the collection. It was built in 1967 and is extremely rare nowadays. The system can be programmed using punched cards and features multiple keyboards, a sensational feature in its time.</p>
 
     <div class="box center auto-bildbreite">
-        <a href="/en/devices/wang320.shtm" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
+        <a href="/en/devices/wang320.php" name="backlink-wang320"><img src="/shared/photos/rechnertechnik/wang320.jpg" alt="WANG 320 SE" width="690" height="287" /></a>
 		<p class="bildtext"><b>WANG 320 SE</b></p>
 	</div>
 
 	<p>     In 1966/1967 the WANG 320 SE was a flagship calculator. Two of its features were truly sensational for its time: It could calculate logarithms and anti-logarithms quickly (in fact this took less time than the calcultion of a square root) and up to four keyboards could be connected to a single calculator unit; thus the machine was in fact a time sharing system. Further more the system could be programmed using punched cards &ndash; running programs were suspended for a short period of time to allow interactive users access to the machine. The 80 column punched cards could be prepared manually  using a stencil. These features made the calculator a perfect match for schools and universities. While the slide rule was in use in most of these places, this machine allowed them to enter the field of computer science. <br/>
-            Clicking on the picture will show a <a class="go" href="/en/devices/wang320.shtm">larger and more detailed version</a>.
+            Clicking on the picture will show a <a class="go" href="/en/devices/wang320.php">larger and more detailed version</a>.
     </p>
 
 	
@@ -60,7 +60,7 @@
 	</div>
 	
 	<p>In 1968 the first desktop calculator made by HP hit the market and was a truly outstanding machine. All of its internal logic is implemented using discrete transistor logic without a single integrated circuit. The machine supports a wealth of mathematical and scientific functions and employs a magnetic core memory, so even after a power off the contents of memory (data and programs) are preserved. Magnetic cards serve as external storage media. The printer shown on top of the HP 9100 is an optional device. The heart of the display is a CRT on which the contents of three internal registers are displayed. The character generation is controlled by a wired ROM. This technological marvel indeed had its price &ndash; with a price of 23 000&nbsp;DM for the basic version it was not affordable for individuals.
-       <br/>Only two years later WANG brought the <a class="go" href="ic-technology.shtm#backlink-wang700">WANG 700</a> to the market in direct competition to the HP 9100.
+       <br/>Only two years later WANG brought the <a class="go" href="ic-technology.php#backlink-wang700">WANG 700</a> to the market in direct competition to the HP 9100.
     </p>
 
     <div class="box center auto-bildbreite">
@@ -68,7 +68,7 @@
        <p class="center">Closeup of the HP 9100 tube display</p>
     </div>
 
-    <p>Read further details at the <a class="go" href="/en/details1.shtm" title="Details 1">tabular overview of desk calculators</a></p>
+    <p>Read further details at the <a class="go" href="/en/details1.php" title="Details 1">tabular overview of desk calculators</a></p>
 
     <!-- ehemaliger Text, jetzt oben mit Bildern eingebaut und mit ordentlicher B.Ulmann-Übersetzung:
     <p>The P 101 could also be called the first personal computer of the world. Many similar
@@ -79,5 +79,5 @@
     (HP 9100). An electron ray tube served as display, ferrite cores were used as storage.
     It commanded many mathematical functions, costed 23.000,- DM (ca. 12000,- Euro) and contained
     some forerunners of integrated circuits.
-    <a class="go" href="/en/details1.shtm" title="Details 1">See also Details 1</a></p>
+    <a class="go" href="/en/details1.php" title="Details 1">See also Details 1</a></p>
     -->

@@ -11,7 +11,7 @@
 	   uncommon that such old devices are completely preserved, even all the
 	   manuals are available. This system was stored for over four years in the museum
 	   archives until we moved it with a freight company into the museum, next
-	   to the <a href="univac9400.shtm">UNIVAC 9400</a>.</p>
+	   to the <a href="univac9400.php">UNIVAC 9400</a>.</p>
 	   
 	<p>After moving the devices with a trucking company to the museum building,
 	   the restoration started with cleaning all the devices, initially removing the typical
@@ -53,7 +53,7 @@
 	<b id="cards">UNIVAC 9200 Software</b><br>
 <p>Often it is sheer luck that helps saving unique artifacts from scrap. In this
 case a curious student at the Goethe University discovered strange objects in a
-building and informed us. It turned out that these devices were a <a href="/en/computer/punchcard.shtm#u1710">UNIVAC 1710</a> 
+building and informed us. It turned out that these devices were a <a href="/en/computer/punchcard.php#u1710">UNIVAC 1710</a> 
 
 card puncher and a cabinet full of punched cards containings programs for our 
 UNIVAC 9200. The punch cards, about 65000 pieces, contain programs which were
@@ -80,10 +80,10 @@ cards has a volume of about 0.5 m³ (about 500 liters of volume).</p>
 	<p><b>16.02.2010:</b> After locating two defective resistors the power supply is
 	   running again. Now we can use punch card devices from the CPU. Actually
 	   we cannot read nor punch data.
-	<br>Now there is another malfunctioning device: The <a href="storage-media.shtm#plated-wire-storage">
+	<br>Now there is another malfunctioning device: The <a href="storage-media.php#plated-wire-storage">
 	   plated wire storage</a> does not work. We are trying to get it working at least partially,
 	   replacing it with a new self-made solid state memory. As you can read on our
-	   <a href="/en/devices/plated-wire-storage.shtm">detailed description of the
+	   <a href="/en/devices/plated-wire-storage.php">detailed description of the
 	   plated wire storage</a>, this type of memory has always been very error-prone.
    	<div class="desc-right">
 		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Front palen" width="400" height="296" />

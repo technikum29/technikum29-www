@@ -59,7 +59,8 @@ nav.horizontal .u1 > li:hover > a {
 
 nav.horizontal .u1 > li.active > a,
 nav.horizontal .u2 > li.active > a {
-	color: #6F2A41;
+	/*color: #6F2A41; *//* gedecktes bordot */
+	color: #E90015; /* knalliges Rot von rechter Navi */
 }
 
 nav.horizontal a {
@@ -171,6 +172,12 @@ nav.top form, nav.top ul {
 	display: inline-block;
 	position: relative;
 }
+
+nav.top form {
+	/* Suche, solange sie noch nicht fertig ist, ausblenden. */
+	display: none;
+}
+
 nav.top input.text, nav.top input.text.defaultvalue {
 	border: 1px solid transparent; background: transparent;
 	/*width: 4em; text-align: right;
@@ -200,7 +207,8 @@ nav.top a {
 	margin-right: 1em;
 }
 nav.top li.active a {
+	/* Aktuell ausgewaehlte Farben */
 	/*color: #124b6b;*/
-	border-bottom: 2px solid #6F2A41;
+	border-bottom: 2px solid #E90015; /* war gedeckte Farbe #6F2A41 */
 }
 

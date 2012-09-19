@@ -17,7 +17,7 @@
         In 1963 BULL (General Electric) presented the BULL GAMMA 10 (G10)
         which was intended for commercial purpose and puchcard
         computing. It was the direct successor of the <a
-        href="tabulating-machine.shtm">Tabulating Machine</a>.
+        href="tabulating-machine.php">Tabulating Machine</a>.
         Compared to the really big mainframes, the G10 was intended to
         be set up in a 20 square meter room, without air conditioning.
         The maximum power input was 2.5 kW.
@@ -32,7 +32,7 @@
         second, that is an amazing speed &ndash;
         therefore the punching unit is generously built. The
         printer can only print up to 300 lines per minute. Compared
-        to our <a href="univac9400.shtm">Univac 9400</a> this
+        to our <a href="univac9400.php">Univac 9400</a> this
         is quite slow &ndash; the Univac 9400 is capable of
         printing more than 1000 lines per minute.
     </p>
@@ -50,7 +50,7 @@
           and therefore the machine is quite easy to maintain.
 		  <!--
           <br/>We want to repair this computer, too (see our page
-          <a href="/en/search.shtm">We are looking for...</a>). By now the
+          <a href="/en/search.php">We are looking for...</a>). By now the
           complete mechanics works again. After tuning the temperature
           of the heated core memory and switching some defect
           transistors, we can already execte a program for duplicating
@@ -127,6 +127,6 @@
         1250 lines per minute. Of course he may slow down a bit for our GAMMA 10.
         Connecting this device to the BULL computer is supposed to be a
         quite complex problem. We will report about the progress on the
-        page <a href="../development-projects.shtm">Development Projects</a>,
+        page <a href="../development-projects.php">Development Projects</a>,
         soon.</p>
 

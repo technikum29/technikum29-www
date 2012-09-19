@@ -1,6 +1,7 @@
 <?php
 	$seiten_id = 'startseite';
 	$version = '$Id$';
+	$titel = "technikum29 Computer museum - Europe's unique computer museum with runnable first general-purpose computers";
 	
 	require "../lib/technikum29.php";
 ?>
@@ -42,7 +43,7 @@
                 <li>The museum is located in Germany, close to Frankfurt am Main
                     (more precisely: 65779 Kelkheim). It is privately owned
                     and run.</li>
-                <li>See <a class="go" href="contact.shtm">contact data</a></li>
+                <li>See <a class="go" href="contact.php">contact data</a></li>
             </ul>
         </div>
 

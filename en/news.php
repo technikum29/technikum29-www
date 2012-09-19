@@ -34,14 +34,14 @@ MENU;
 	<div class="box left">
 <img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" width="350" height="87"/>
 </div> 
-	Unbelievable software-discovery for our UNIVAC 9200 <a href="/en/computer/univac9200.shtm#cards"><b>Read more here:</b></a>
+	Unbelievable software-discovery for our UNIVAC 9200 <a href="/en/computer/univac9200.php#cards"><b>Read more here:</b></a>
 <div class="clear"></div></li>
 	
 	<li><h3>March 2012</h3><div class="box left">
 	
 	<img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231" </div>
 	Artists are working in technikum29. Leander Schwarzer punching cards.
-	<a href="/en/miscellaneous.shtm#leander"><b>View article</b></a>
+	<a href="/en/miscellaneous.php#leander"><b>View article</b></a>
 	<div class="clear"></div></li>
 	
 
@@ -52,7 +52,7 @@ MENU;
 </div> 
 
 technikum29 supports school projects: 
-<a href="/en/miscellaneous.shtm#Q1"><b>Look here</b></a>
+<a href="/en/miscellaneous.php#Q1"><b>Look here</b></a>
 <div class="clear"></div></li>
 </li>
 

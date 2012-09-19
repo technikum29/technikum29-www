@@ -131,7 +131,6 @@ class t29Menu {
 		return explode(' ',$parent_ul['class']);
 	}
 
-
 	///////////////////// INTER LANGUAGE DETECTION
 	/**
 	 * @param seiten_id Get interlanguage link for that seiten_id or default.
@@ -261,6 +260,11 @@ class t29Menu {
 	 * foreach(get_page_relations() as $a) {
 	 *    echo "Link $a going to $a[href]";
 	 * }
+	 *
+	 * Hinweis:
+	 * Wenn Element (etwa prev) nicht existent, nicht null zurueckgeben,
+	 * sondern Element gar nicht zurueckgeben (aus hash loeschen).
+	 *
 	 * @param $seiten_id A seiten_id string or nothing for taking the current active string
 	 * @returns an array(prev=>..., next=>...) or empty array, elements are SimpleXML a links
 	 **/
@@ -273,21 +277,26 @@ class t29Menu {
 		if(!$xml) { print "<i>Sidebar not found</i>"; return; }
 		$sidebar = $xml[0];
 		
-		
 		$return = array();
 		$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
 		if(count($current_a)) {
-			foreach(array(
-			  "prev" => "preceding::a[@seiten_id]",
-			  "next" => "following::a[@seiten_id]") as $rel => $xpath) {
-				$nodes = $current_a[0]->xpath($xpath);
-				foreach($rel == "prev" ? array_reverse($nodes) : $nodes as $link) {
-					$is_geraete = count($link->xpath("ancestor::ul[contains(@class, 'geraete')]"));
-					if($is_geraete) continue; // skip geraete links
-					$return[$rel] = $link;
-					break; // just take the first matching element
-				}
-			}
+			// wenn aktuelle seite eine geraeteseite ist
+			if(in_array('geraete', $this->get_link_ul_classes($seiten_id))) {
+				//$return['next'] = null; // kein Link nach vorne
+				//$return['prev'] = null; // TODO: Da muss der richtige Link auf die Seite, die auf diese Extraseite verweist.
+			} else {
+				foreach(array(
+				  "prev" => "preceding::a[@seiten_id]",
+				  "next" => "following::a[@seiten_id]") as $rel => $xpath) {
+					$nodes = $current_a[0]->xpath($xpath);
+					foreach($rel == "prev" ? array_reverse($nodes) : $nodes as $link) {
+						$is_geraete = count($link->xpath("ancestor::ul[contains(@class, 'geraete')]"));
+						if($is_geraete) continue; // skip geraete links
+						$return[$rel] = $link;
+						break; // just take the first matching element
+					}
+				} // end for prev next
+			} // end if geraete
 		} else {
 			// TODO PENDING: Der Fall tritt derzeit niemals ein, da das XML
 			// sich dann doch irgendwie auf alles bezieht ($sidebar = alles) und

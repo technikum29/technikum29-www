@@ -29,6 +29,6 @@
         <li>Any kind of tube calculators, for example LGP-30</li>
         <li>Very old plotter</li>
         <li>Any kind of telegraph technology</li>
-        <li>All manuals for the <a href="/en/computer/tabulating-machine.shtm#bull3">BULL GAMMA 3</a> and BULL GAMMA 55</li>
+        <li>All manuals for the <a href="/en/computer/tabulating-machine.php#bull3">BULL GAMMA 3</a> and BULL GAMMA 55</li>
         <li>... and everything that is suitable for our collection</li>
       </ul>

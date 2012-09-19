@@ -16,7 +16,7 @@
         from the BULL maintenance manual), "electron computer" or actually
         "electron mastermind".
         <br/>The device could be connected to several punchcard devices, for
-        example the <a href="tabulating-machine.shtm">Tabulating Machine BS</a>,
+        example the <a href="tabulating-machine.php">Tabulating Machine BS</a>,
         to the card copier PRD or to the ULP puncher.
       </p>
       <!--
@@ -27,7 +27,7 @@
       -->
       <p>
         Our GAMMA 3 installation is fully equipped and features seven
-        <a href="storage-media.shtm">delay line memory units</a> with a capacity
+        <a href="storage-media.php">delay line memory units</a> with a capacity
         of 12 decimal digits each. To extend the built-in memory, there
         were special so-called "storage cabinets"
         that contained additional 24 storage units, each with a capacity

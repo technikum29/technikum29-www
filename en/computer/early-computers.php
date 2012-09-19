@@ -74,7 +74,7 @@ More information about this interesting and rare system will follow.</p>
 	
     <p>Today's kids think of the latest mobile devices when talking about "mini computers".
 	   In contrast, in the 1960s and the early 70s, a computer was always huge (like our
-	   <a href="univac9400.shtm">UNIVAC mainframe</a>), thus a 300kg computer was "mini".
+	   <a href="univac9400.php">UNIVAC mainframe</a>), thus a 300kg computer was "mini".
 	   Early computers are well worth seeing due to their enormous size and the nice
 	   transparent auxillary devices.
        <br />There is a very important computer family that finally lead to (today's)
@@ -96,9 +96,9 @@ More information about this interesting and rare system will follow.</p>
 	</div>
 	
 	<p>For further reading see the story about <a class="go" name="backlink-dec"
-	href="/en/devices/dec-history.shtm">Rise and Fall of DIGITAL (Equipment Corporation)</a>.</p>
+	href="/en/devices/dec-history.php">Rise and Fall of DIGITAL (Equipment Corporation)</a>.</p>
 
-    <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.shtm">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.shtm">LAB8e</a> (1971).
+    <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.php">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.php">LAB8e</a> (1971).
     Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
     <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
 
@@ -149,7 +149,7 @@ More information about this interesting and rare system will follow.</p>
          He is considered to be the world's first mass-produced "minicomputer" (1965). "Mini" is relative: Only too very
          strong men can lift the computer. It is better to have four people to carry it!.
          Without ICs or their ancestors the device is counted among the seccond-generation calculators.
-         <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.shtm">left flank</a>
+         <br/>You can also get a view from the "Flip-Chip"-card from the <a class="go" href="/en/devices/pdp-8-left-flank.php">left flank</a>
          (<u>flank</u>). The core memory is set above (storage capacity 4kB).-->
    
    
@@ -440,16 +440,16 @@ Hardware configuration, from top to bottom:<br>
  
  
     <h3>WANG 2200 with bulky peripheral hardware</h3>
-    <p>Next, the first system that looks like today's computer is presented: <a class="go" href="/en/devices/wang2200.shtm">WANG 2200</a>, year of manufacture 1973. This computer, with so many peripheral devices, is probably unique in Germany. The peripherals: paper tape reader, punch card reader,  triple 8-inch disc drive, hard disc system with 38cm diameter disks (the device weights 100kg and cost 24000 DM, but only holdy 5MB), special BASIC-language keyboard, etc.</p>
+    <p>Next, the first system that looks like today's computer is presented: <a class="go" href="/en/devices/wang2200.php">WANG 2200</a>, year of manufacture 1973. This computer, with so many peripheral devices, is probably unique in Germany. The peripherals: paper tape reader, punch card reader,  triple 8-inch disc drive, hard disc system with 38cm diameter disks (the device weights 100kg and cost 24000 DM, but only holdy 5MB), special BASIC-language keyboard, etc.</p>
     <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP
     computers had only a single-line LED display until 1975.</p>
 
     <div class="box center">
-       <a href="/en/devices/wang2200.shtm" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200.jpg" width="592" height="402" alt="Wang 2200" /></a>
+       <a href="/en/devices/wang2200.php" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200.jpg" width="592" height="402" alt="Wang 2200" /></a>
     </div>
 
     <p>The first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>
      
-     <p>See further details at <a class="go" href="/en/details2.shtm" title="Details 2">the tabular overview of
+     <p>See further details at <a class="go" href="/en/details2.php" title="Details 2">the tabular overview of
      mid range data processing equipment and proffessional early computers</a>.</p>
 

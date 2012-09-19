@@ -16,7 +16,7 @@
 			
 			<p>Diese Anlage mit umfangreicher Peripherie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.<br>
             Links befindet sich der Rechner mit einem zweizeiligen gro&szlig;en Nixier&ouml;hren-Display, 2 kB Kernspeicher und eingebautem Kassettentape zur Programmaufzeichnung. Dieser Rechner war für Jahre der schnellste Tischrechner der Welt.
-               <a class="go" href="/de/geraete/wang700.php">Großaufnahme des Rechners betrachten</a>
+               <a class="go popup" href="/shared/photos/rechnertechnik/wang700-detail.jpg">Großaufnahme des Rechners betrachten</a>
                <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umst&auml;ndlich. Das Plotterprogramm z.B. beinhaltet 794 (!) Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre sp&auml;ter ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 36 Schritten bew&auml;ltigen.
             </p>
          

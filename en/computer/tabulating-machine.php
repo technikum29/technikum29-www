@@ -59,7 +59,7 @@
 		a program for compiling and printing bank statements, the board on the
 		right contains a simple program for multiplying. Multiplying and dividing
 		mechanically needs lots of time. To shorten this amount of time, the
-		<a href="gamma3.shtm">"electronical calculator" BULL GAMMA&nbsp;3</a>
+		<a href="gamma3.php">"electronical calculator" BULL GAMMA&nbsp;3</a>
 		could be attached. That auxiliary tube calculator was only used for this
 		purpose.
 	</p>

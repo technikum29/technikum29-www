@@ -82,7 +82,7 @@
 	<h3>Wire recording devices</h3> <!-- von Drahtton => Wikipedia -->
 	
     <div class="box center auto-bildbreite">
-        <a href="/en/devices/schaub-lorenz-supraphon.shtm" name="backlink-supraphon" title="See a More detailed photography"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Schaub Lorenz Supraphon" width="546" height="561" /></a>
+        <a href="/en/devices/schaub-lorenz-supraphon.php" name="backlink-supraphon" title="See a More detailed photography"><img src="/shared/photos/kommunikationstechnik/schaub-lorenz-supraphon.jpg" alt="Schaub Lorenz Supraphon" width="546" height="561" /></a>
 		<p class="bildtext">
 		    <b>(Schaub-) Lorenz Supraphon</b>
 		</p>
@@ -100,7 +100,7 @@
 		recording it concurrently to wire. The era of devices using wires to store
 		sound began before the second world war but was already finished at 1965.
 		In this time, tape recorders conquered the market.
-		Clicking on the picture will show <a href="/en/devices/schaub-lorenz-supraphon.shtm"
+		Clicking on the picture will show <a href="/en/devices/schaub-lorenz-supraphon.php"
 		class="go">a larger and more detailed version</a>.
 	</p>
 	<p>

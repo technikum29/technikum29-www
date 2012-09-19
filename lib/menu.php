@@ -4,9 +4,16 @@
  *  webroot lang_path lang seiten_id languages
  *
  **/
+
+require_once dirname(__FILE__).'/messages.php';
+ 
 class t29Menu {
 	public $conf;
 	public $xml;
+
+	// Bevor es eine ordentliche Dev-Moeglichkeit gibt: Der magische
+	// Schalter zum Ausblenden der Geraeteseiten im Menue
+	const hide_geraete_seiten = true;
 
 	// jeweils relativ zum lang_path
 	const navigation_file = 'navigation.xml';
@@ -18,6 +25,10 @@ class t29Menu {
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
+		
+		// create a message object if not given
+		if(!isset($this->conf['msg']))
+			$this->conf['msg'] = new t29Messages($this->conf['lang']);
 		
 		// libxml: don't raise errors while parsing.
 		// will fetch them with libxml_get_errors later.
@@ -200,7 +211,8 @@ class t29Menu {
 			return false;
 		}
 		$seiten_id = $this->conf['seiten_id'];
-
+		$_ = $this->conf['msg']->get_shorthand_returner();
+		
 		// find wanted menu
 		$xml = $this->xml->xpath($xpath_menu_selection);
 		if(!$xml) {
@@ -215,15 +227,14 @@ class t29Menu {
 		if(count($current_a)) {
 			$current_li = $current_a[0]->xpath("parent::li");
 			self::dom_add_class($current_li[0], 'current');
-			self::dom_prepend_attribute($current_a, 'title', 'Aktuelle Seite', ': ');
+			self::dom_prepend_attribute($current_a, 'title', $_('nav-hierarchy-current'), ': ');
 
 			$actives = $current_li[0]->xpath("ancestor-or-self::li");
 			array_walk($actives, function($i) { t29Menu::dom_add_class($i, 'active'); });
 			
 			$ancestors = $current_li[0]->xpath("ancestor::li");
-			array_walk($ancestors, function($i) {
-				t29Menu::dom_prepend_attribute($i->xpath("./a[1]"), 'title', 'Übergeordnete Kategorie der aktuellen Seite' , ': ');
-			});
+			foreach($ancestors as $i)
+				t29Menu::dom_prepend_attribute($i->xpath("./a[1]"), 'title', $_('nav-hierarchy-ancestor'), ': ');
 		}
 
 		// Seiten-IDs (ungueltiges HTML) ummoddeln
@@ -236,12 +247,13 @@ class t29Menu {
 		}
 
 		// Geraete-Seiten entfernen
-		$geraete_uls = $xml->xpath("//ul[contains(@class, 'geraete')]");
-		foreach($geraete_uls as $ul) {
-			$uld = dom_import_simplexml($ul);
-			$uld->parentNode->removeChild($uld);
+		if(self::hide_geraete_seiten) {
+			$geraete_uls = $xml->xpath("//ul[contains(@class, 'geraete')]");
+			foreach($geraete_uls as $ul) {
+				$uld = dom_import_simplexml($ul);
+				$uld->parentNode->removeChild($uld);
+			}
 		}
-	
 	
 		if($xpath_menu_selection == self::horizontal_menu) {
 			# inject news
@@ -282,8 +294,11 @@ class t29Menu {
 		if(count($current_a)) {
 			// wenn aktuelle seite eine geraeteseite ist
 			if(in_array('geraete', $this->get_link_ul_classes($seiten_id))) {
-				//$return['next'] = null; // kein Link nach vorne
-				//$return['prev'] = null; // TODO: Da muss der richtige Link auf die Seite, die auf diese Extraseite verweist.
+				//  pfad:                        a ->li->ul.geraete->li->li/a
+				$geraetelink = $current_a[0]->xpath("../../../a");
+				if(count($geraetelink))
+					$return['prev'] = $geraetelink[0];
+				$return['next'] = null; // kein Link nach vorne
 			} else {
 				foreach(array(
 				  "prev" => "preceding::a[@seiten_id]",
@@ -303,6 +318,21 @@ class t29Menu {
 			// ueberall gesucht wird. Ist aber okay. oder?
 			$return['start'] = t29Menu::dom_new_link('#', 'bla');
 		}
+		
+		// Linkliste aufarbeiten: Nullen rausschmeissen (nur deko) und
+		// Links *klonen*, denn sie werden durch print_menu sonst veraendert
+		// ("Übergeordnete Kategorie der aktuellen Seite" steht dann drin)
+		// und wir wollen sie unveraendert haben.
+		foreach($return as $key => $node) {
+			if(!$node) {
+				unset($return[$key]);
+				continue;
+			}
+			$dn = dom_import_simplexml($node);
+			$dnc = simplexml_import_dom($dn->cloneNode(true));
+			$return[$key] = $dnc;
+		}
+		
 		return $return;
 	}
 

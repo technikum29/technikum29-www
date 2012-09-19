@@ -48,14 +48,14 @@ t29.page.efzet = function() {
 
 t29.page.impressum = function() {
 	// load gmaps
-	$('head').append('<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>');
-	$('head').append('<script type="text/javascript" src="/shared/js-v6/gmaps-impressum.js"></script>');
+	//$('head').append('<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw" type="text/javascript"></script>');
+	//$('head').append('<script type="text/javascript" src="/shared/js-v6/gmaps-impressum.js"></script>');
 }
 
 t29.page.telefunkent40w = function() {
 	$('head').append('<script type="text/javascript" src="/shared/js/slider/slider.js"></script>');
 	$('head').append('<link rel="stylesheet" type="text/css" href="/shared/js/slider/slider.css" />');
-	$('head').append('<script type="text/javascript" src="/shared/js-v6/telefunken-t40w.js"></script>');
+	//$('head').append('<script type="text/javascript" src="/shared/js-v6/telefunken-t40w.js"></script>');
 }
 
 t29.page.setup = function(){

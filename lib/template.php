@@ -10,8 +10,6 @@
  *  $header_cache_file, $footer_cache_file.
  **/
 
-require dirname(__FILE__) . "/ressourceloader.php";
-
 class t29Template {
 	public $conf, $menu, $msg;
 	public $body_classes = array();
@@ -33,6 +31,12 @@ class t29Template {
 		// create localisation class:
 		require_once $this->conf['lib'].'/messages.php';
 		$this->msg = new t29Messages($this->conf['lang']);
+		
+		// create the ressourceloaders:
+		require_once $this->conf['lib'].'/ressourceloader.php';
+		$this->rl = array();
+		foreach(array('js','css') as $type)
+			$this->rl[$type] = t29RessourceLoader::create_from_type($type, $this->conf);
 
 		// fill up configuration
 
@@ -174,12 +178,7 @@ class t29Template {
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <?php
-	$csslinktmpl = PHP_EOL.'  <link rel="stylesheet" href="%s">';
-	foreach($this->get_ressourceloader_links('css') as $css)
-		printf($csslinktmpl, $css);
-  
-	if($this->conf['has_pagecss'])
-		printf($csslinktmpl, $this->conf['pagecss']);
+	$this->print_ressourceloader_links('css', PHP_EOL . '  <link rel="stylesheet" href="%s">');
   ?>
 
   <script src="/shared/js-v6/libs/modernizr-2.0.6.min.js"></script>
@@ -308,15 +307,10 @@ class t29Template {
 </div><!-- end of div id="footer-background-container" helper -->
 
   <!-- JavaScript at the bottom for fast page loading -->
-
-  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"><\/script>')</script>
-
+  <script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
   <?php
-	foreach($this->get_ressourceloader_links('js') as $js)
-		printf('  <script src="%s"></script>'.PHP_EOL, $js);
+	$this->print_ressourceloader_links('js', '  <script src="%s"></script>'.PHP_EOL);
   ?>
 </body>
 </html>
@@ -330,9 +324,15 @@ class t29Template {
 		return isset($a['title']) ? $a['title'] : $a;
 	}
 
-	function get_ressourceloader_links($type) {
-		$rl = t29RessourceLoader::create_from_type($type, $this->conf);
-		return $rl->get_urls( isset($_GET['rl_debug']) );
+	function print_ressourceloader_links($type, $template='<!-- RL: %s -->') {
+		$rl = $this->rl[$type];
+		$rl_links = $rl->get_urls( isset($_GET['rl_debug']) );
+		$rl_pagespecific_links = $rl->get_page_specific_urls($this->conf['seiten_id']);
+
+		foreach(array($rl_links, $rl_pagespecific_links) as $rls)
+			foreach($rls as $link)
+				printf($template, $link);
 	}
+
 
 } // class t29Template

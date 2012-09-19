@@ -62,11 +62,8 @@ function t29_gmaps_include_once(src) {
 // damit verweigert Google den Dienst (unter localhost gehts aber...)
 //t29_gmaps_include_once("http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key="+t29_gmaps_key);
 
-var t29_gmaps_restore = window.onload;
 var gmap;
 $(function() {
-	if(t29_gmaps_restore) t29_gmaps_restore();
-	
 	var lang = t29_gmaps_detect_page_language();
 
 	if(location.hostname != t29_gmaps_valid_domain) {

@@ -31,7 +31,7 @@ $js->run();
 
 class t29RessourceLoader {
 	/**
-	 * expects: type, cache_file, module_dir, glob_pattern, content_types, class, modules, debug
+	 * expects: type, cache_file, module_dir, page_dir, glob_pattern, content_types, class, modules, debug
 	 **/
 	public $conf;
 	
@@ -60,6 +60,14 @@ class t29RessourceLoader {
 		if($conf === null) return null;
 		
 		return new $conf['class']($conf);
+	}
+	
+	function get_page_specific_urls($seiten_id) {
+		global $webroot;
+		$file = sprintf("%s/%s.%s", $this->conf['page_dir'], $seiten_id, $this->conf['type']);
+		// TODO: This is hacky. Same in get_urls.
+		$file_rel2webroot = str_replace($webroot, '', $file);
+		return file_exists($file) ? array($file_rel2webroot) : array();
 	}
 	
 	function get_urls($debug=null) {
@@ -185,6 +193,16 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 			echo t29Messages::create_json('/^js-/');
 			echo ";\n";
 		}
+	}
+	
+	function get_page_specific_urls($seiten_id) {
+		$urls = parent::get_page_specific_urls($seiten_id);
+		switch($seiten_id) {
+			case 'impressum':
+				$urls[] = 'http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw';
+				break;
+		}
+		return $urls;
 	}
 
 	function print_header($title=null) {

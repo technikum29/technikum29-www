@@ -22,6 +22,7 @@ $types = array('js', 'css'); // mapping position (numeric key) => $conf array po
 $conf = array(
 	'cache_file' => array('compressed.js', 'style.css'),
 	'module_dir' => array("$webroot/shared/js-v6/modules", "$webroot/shared/css-v6/modules"),
+	'page_dir' => array("$webroot/shared/js-v6/pagescripts", "$webroot/shared/css-v6/pagestyles"),
 	'glob_pattern' => array('*.js', '*.css'),
 	'content_types' => array('application/javascript', 'text/css'),
 	'class' => array('t29JavaScriptRessourceLoader', 't29StyleSheetRessourceLoader'),

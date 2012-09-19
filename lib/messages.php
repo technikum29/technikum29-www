@@ -136,6 +136,8 @@ class t29Messages {
 		'footer-legacy-text'     => array('&copy; 2003-2012 technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschüzt, siehe <a href="/de/impressum.php" class="go">Impressum</a>',
 		                                  '&copy; 2003-2012 technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact.php" class="go">Legal Information</a>.'),
 		
+		'nav-hierarchy-current'  => array('Aktuelle Seite', 'Current page'),
+		'nav-hierarchy-ancestor' => array('Übergeordnete Kategorie der aktuellen Seite', 'Parental category of current page'),
 		'nav-rel-prev'           => array('vorherige Seite', 'previous page'),
 		'nav-rel-next'           => array('nächste Seite', 'next page'),
 		'nav-rel-start'          => array('Starte Führrung', 'Start guided tour'),

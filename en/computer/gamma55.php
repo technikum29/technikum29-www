@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'gamma55';
-	$version = '$Id: gamma55.php 299 2012-09-19 09:38:55Z heribert $';
-	$title = 'A second generation calculator: The BULL GAMMA 55 (GE-55)';
+	$version = '$Id: gamma10.php 278 2012-07-18 12:55:44Z sven $';
+	$title = 'A second generation calculator: BULL GAMMA 55';
 	
 	require "../../lib/technikum29.php";
 ?>

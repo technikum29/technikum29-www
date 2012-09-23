@@ -10,8 +10,8 @@
       <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
       <a class="go" href="/de/details1.php" name="backlink-details1" title="Details 1">siehe tabellarische Darstellung der Tischrechner</a></p>
 <h3>WANG 700</h3>
-      <div class="box center auto-bildbreite">
-          <a href="/de/geraete/wang700.php" name="backlink-wang700" title="Zur Großaufnahme des WANG 700"><img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" width="600" height="438" /></a>
+<div style="width: 600px;" class="box center auto-bildbreite">
+          <img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" height="438" width="600">
           <p class="bildtext">Komplettanlage<b> WANG 700</b></p></div>
 			
 			<p>Diese Anlage mit umfangreicher Peripherie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.<br>

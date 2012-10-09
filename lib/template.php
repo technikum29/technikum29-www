@@ -306,12 +306,14 @@ class t29Template {
   </footer>
 </div><!-- end of div id="footer-background-container" helper -->
 
-  <!-- JavaScript at the bottom for fast page loading -->
+  <? /* JavaScript at the bottom for fast page loading */ ?>
   <script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
   <?php
 	$this->print_ressourceloader_links('js', '  <script src="%s"></script>'.PHP_EOL);
   ?>
+  <? /* Piwik Noscript, Script selbst wird asynchron im JS-Bereich aufgerufen */ ?>
+  <noscript><img src="<? $p("js-piwik-noscript-imgsrc"); ?>" alt="" /></noscript>
 </body>
 </html>
 <?php

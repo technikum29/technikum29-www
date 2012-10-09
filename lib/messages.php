@@ -154,5 +154,10 @@ class t29Messages {
 										'&copy; technikum29. <a href="/de/impressum.php#image-copyright">Lizenzbestimmungen</a>',
 										'&copy; technikum29. <a href="/en/contact.php#image-copyright">Licensing terms</a>',
 									),
+									
+		// piwik logging settings
+		'js-piwik-noscript-imgsrc' => '/logs/piwik/piwik.php?idsite=1',
+		'js-piwik-url-prefix' => '/logs/piwik/',
+		'js-piwik-siteid' => '1',
 	);
 }

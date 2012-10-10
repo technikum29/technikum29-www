@@ -44,9 +44,8 @@ Wichtiger Tipp für Lehrer: Bedenken Sie, dass Schüler von dem Vorschlag ein Mu
 Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist anhand "begreifbarer" historischer Technik als Einstieg durchaus möglich. Insbesondere im Bereich "Computer" ist eine Anbindung von neuer an alte Technik machbar und führt schnell auf sehr interessante Themen.</p>
 
 
-<p><span style="color:red"><big><b>PILOTPROJEKT:</b></big></span><br>
-	Wir testen zur Zeit, ob auch schon interessierte Schüler der 3./4. Klasse (Grundschule) mit Spaß und Erfolg an einem "Workshop" teilnehmen können.<br>
-	Der erste Pilotversuch mit einer Schülergruppe der Pestalozzischule-Kelkheim war ein großer Erfolg. Mit heller Begeisterung wurde der Workshop durchgeführt. Auch die Rallye kam sehr gut an und beflügelt uns, den Workshop und die Rallye für Grundschulkinder weiter zu entwickeln. Die Schüler blieben knapp 3 Stunden.<br>
+	Auch interessierte Schüler der 3./4. Klasse (Grundschule) können mit Spaß und Erfolg an einem "Workshop" teilnehmen.<br>
+	Gerade für Schüler dieser Altersgruppe gibt es nur wenige Möglichkeiten mit transparenter Technik in Berührung zu kommen. Hier ist das problemlos und sehr lebendig möglich!<br>
 	<a href="/de/lernprojekte/pilotprojekt.pdf">Lesen Sie bei Interesse hier weiter.</a>
 	</p><br>
 	

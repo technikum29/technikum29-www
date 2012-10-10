@@ -1,0 +1,73 @@
+/**
+ * Media Queries for responsive webdesign
+ * Fuer kleine Browserfenster sowie mobile Endgeraete.
+ **/
+
+/**
+ * Schmaler als die "Blattmetapher" 1200px: Blattmetapher aufgeben und Ueberbleibsel
+ * des Seitenhintergrundes ausblenden. Zur Ladezeitoptimierung braucht der auch gar
+ * nicht mehr geladen werden.
+ * Experimentell den Footer auch nicht mit der dunkeln Hintergrundfarbe machen, weil
+ * er sonst sehr aufdringlich ist.
+ *
+ **/
+@media all and (max-width: 1199px) {
+	body {
+		background: transparent;
+	}
+
+	#container {
+		margin-top: 0;
+		box-shadow: none;
+	}
+	
+	footer.attached {
+		background: #F4F4F4;
+		color: #777;
+	}
+	
+	footer.attached a:link, footer.attached a:visited {
+		color: #777;
+	}
+}
+
+/**
+ * Schmaler als 940px: Tablet-Design. Menue unten darstellen, keine Menuescrollfunktionen,
+ * Menuepunkte nebeneinander (sieht huebsch aus).
+ *
+ **/
+@media all and (max-width: 940px) {
+	/* menue unten darstellen, Menuescrollfunktionen deaktivieren */
+	#container {
+		width: 940px;
+	}
+	
+	#background-color-container, #content, section.sidebar {
+		float: none;
+		left: auto;
+		background-color: transparent;
+	}
+
+	section.sidebar {
+		width: 100%;
+		background-color: #dfeaf0;
+	}
+	
+	/* clearfix */
+	#content:after, section.sidebar:after { content: ""; display: table; clear: both; }
+	
+	nav.side { /* Quick and dirty */
+		padding-bottom: 15px !important;
+	}
+	
+	.button { display: none !important; } /* Quick and dirty */
+	
+	/* Spalten */
+	section.sidebar ul.u1 > li {
+		float: left;
+		padding: 24px;
+		width: 250px;
+	}
+	
+	footer.in-sheet.empty-footer { display: none; }
+}

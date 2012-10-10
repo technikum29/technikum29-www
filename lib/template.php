@@ -263,15 +263,18 @@ class t29Template {
 		</nav>
     </header>
 	<hr>
-    <footer class="in-sheet">
+	<?php
+		// only print menu when in sidebar where it applies
+		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side');
+	?>
+    <footer class="in-sheet <? if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
 			<!-- hier wird nav.side die Liste per JS reinkopiert -->
 		</nav>
 		<nav class="rel clearfix">
 		<ul>
 			<?php
-			  // only print menu when in sidebar where it applies
-			  if($this->conf['seite_in_nav'] == 'side')
+			  if($print_footer_menu)
 				foreach($this->page_relations as $rel => $a) {
 					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
 						$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),

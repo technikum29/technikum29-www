@@ -3,6 +3,7 @@ Disallow: /etc/
 Disallow: /icons/
 Disallow: /dev/
 Disallow: /en/dev/
+Disallow: /logs/
 Allow: /de/
 Allow: /en/
 Allow: /shared/
@@ -10,5 +11,3 @@ Allow: /shared/
 # kurzfristig:
 Disallow: /klima-laerm/
 Disallow: /schule/
-Disallow: /klasse10a
-Disallow: /physik-gk

@@ -60,11 +60,20 @@ foreach($redirects as $source => $target) {
 	}
 }
 
+require_once "$lib/client.php";
+if(t29Client::getLanguage() == "de") {
 ?>
 <h2>404 Seite nicht gefunden</h2>
-
-<p>Die gewünschte Adresse
-
 <address><?=$wanted_page; ?></address>
-
-<p>konnte nicht geladen werden. Probieren Sie folgendes... blabla ... 
+<p>Unsere Website wurde im Herbst 2012 neugestartet. Sie können unsere Suche oder
+die Navigation verwenden, um vielleicht doch noch an die gewünschten Informationen
+zu kommen.</p>
+<?php
+} else { // language 
+?>
+<h2>404 Page not found</h2>
+<address><?=$wanted_page; ?></address>
+<p>Our website was reconstructed in autumn 2012. Maybe you find your wanted website
+in the navigation or our new search form.</p>
+<?php
+} // language

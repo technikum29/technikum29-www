@@ -23,7 +23,7 @@
                
                 <li>Für Technikinteressierte, die verstehen möchten, welchen Weg die Entwicklung vollzogen hat und wie skurril und/oder begeisternd deren Realisierung war. Dabei muss man kein Technikexperte sein: Durch die Breite des dargestellten Spektrums findet fast jeder einen Bereich, der für ihn interessant ist</li>
                 <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>)</li>
-				<li>Für Informatiker, Firmengruppen, Azubis und viele mehr</li>
+				<li>Auch für Firmengruppen bestens geeignet.</li>
             </ul>
         </div>
 		
@@ -61,7 +61,8 @@
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
-                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen nach Absprache. Anmeldung mindestens 5 Tage vorher.<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
+                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
+				<br>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.<br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
 				
 				

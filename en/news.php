@@ -46,15 +46,7 @@ MENU;
 	
 
 
-<li><h3>February 2012</h3>
-<div class="box left">
-<img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="303" height="172"/>
-</div> 
 
-technikum29 supports school projects: 
-<a href="/en/miscellaneous.php#Q1"><b>Look here</b></a>
-<div class="clear"></div></li>
-</li>
 
 
 

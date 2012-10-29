@@ -23,6 +23,7 @@ MENU;
 
 	if(!require("../lib/technikum29.php")) return;
 ?>
+<h2>What's new?</h2>
 
     <p>This is a news feed for the recent changes on our homepage. The latest
        posts are on top.</p>

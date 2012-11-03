@@ -7,10 +7,9 @@
 ?>
 	<h2>Didaktische Konzeption, Informationen für Lehrer</h2>
 	<p>
-		Prinzipiell bieten wir je einen Workshop mit dem Themenbereich "<b>Computer History</b>" oder "<b>Kommunikationstechnik</b>" an. Diese eignen sich für technisch interessierte Gruppen und Menschen, die einfach nur neugierig sind und sich in der Kulturgeschichte der intelligentesten und wichtigsten Werkzeuge, wie Computer und Kommunikationstechniken, weiter bilden möchten. Sie müssen sich zwischen diesen Themen entscheiden, da beide Gebiete in einer Führung mental überfordern würden und zeitlich nicht realisierbar sind.
+		Prinzipiell bieten wir je einen Workshop mit dem Themenbereich "<b>Computer History</b>" oder "<b>Kommunikationstechnik</b>" an. Diese eignen sich für technisch interessierte Gruppen und Menschen, die einfach nur neugierig sind und sich in der Kulturgeschichte der intelligentesten und wichtigsten Werkzeuge, wie Computer und Kommunikationstechniken, weiter bilden möchten. Sie müssen sich zwischen diesen Themen entscheiden, da beide Gebiete in einer Führung mental überfordern würden und zeitlich nicht realisierbar sind.<br>
+		Lassen Sie sich nicht durch die speziellen Themen (rechte Navigation) einschüchtern! Wir gestalten Führungen und Workshop´s so, dass auch relative Laien Spaß daran haben. Sie werden nicht durch Fachwissen erschlagen.
    <br><br>
-
-		
 		Für interessierte Schülergruppen wird eine pädagogisch ausgewogener und altersgemäßer Workshop angeboten:</p>
 
 <ul>
@@ -30,11 +29,11 @@
 	<li>1.	Physik-Leistungskurse der gymnasialen Oberstufe</li>
 	<li>2.	Informatik-Kurse</li>
 	<li>3.	Physik-Grundkurse und Mathe-Leistungskurse</li>
-	<li>4.	Projektgruppen und Arbeitsgemeinschaften im naturwissenschaftlich-technischen Bereich ab der 5. Klasse</li>
+	<li>4.	Projektgruppen und Arbeitsgemeinschaften im naturwissenschaftlichen bzw. technischen Bereich ab der 5. Klasse</li>
 	<li>5.	Gruppen aus Berufsfachschulen usw.</li>
-	<li>6.	Schülergruppen aus dem Grundschulbereich, die z.B. ein (informations-)technisches Projekt bearbeiten.</li>
+	<li>6.	Schülergruppen aus dem Grundschulbereich, die z.B. ein Projekt (Natur und Technik) bearbeiten.</li>
 	</ul>
-	Wir können uns auf verschiedene Niveaus einstellen!</p>
+	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!</p>
 
 	
 <p>

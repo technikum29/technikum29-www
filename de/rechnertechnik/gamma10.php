@@ -26,7 +26,7 @@
 		<p class="bildtext"><b>Gamma 10 ohne Verkleidung</b></p></div>
 		
             <p>Dieser Rechner zeichnet sich durch einen sehr ästhetischen, hervorragenden Aufbau aus. "Nackt", d.h. ohne Verkleidung wirkt er noch schöner als in der ersten Abbildung. Das gesamte Chassis ist in silbermetallic Hochglanzfarbe ausgeführt. Die Anordnungen der einzelnen Elemente sind klar, servicefreundlich und übersichtlich. <br>
-           Wir mussten in der sehr umfangreichen Mechanik Zahnräder auswechseln, die eigens hierfür nachgebaut wurden. Auch waren viele elektronische Defekte zu beseitigen, was bei dem Umfang von knapp 500 Modulen (siehe Bild unten) alles andere als einfach war. Ohne die aktive Mithilfe von ehemaligen BULL-Technikern, die auf dieser Maschine andere Techniker ausgebildet hatten, wären die Chancen Fehler aufzuspüren praktisch Null. Jeder Fehler muss solange verfolgt werden, bis man das defekte Teil, meistens Transistoren, gefunden hat. <br>
+           Wir mussten in der sehr umfangreichen Mechanik Zahnräder auswechseln, die eigens hierfür nachgebaut wurden. Auch waren viele elektronische Defekte zu beseitigen, was bei dem Umfang von über 500 Modulen (siehe Bild unten) alles andere als einfach war. Ohne die aktive Mithilfe von ehemaligen BULL-Technikern, die auf dieser Maschine andere Techniker ausgebildet hatten, wären die Chancen Fehler aufzuspüren praktisch Null. Jeder Fehler muss solange verfolgt werden, bis man das defekte Teil, meistens Transistoren, gefunden hat. <br>
 		   Mittlerweile funktioniert der Rechner wieder einwandfrei, was für einen so alten Computer wahrlich sensationell ist. Es dürfte weltweit der einzige Gamma 10 sein, der noch läuft. Dennoch treten immer wieder neue Fehler auf, die uns herausfordern. Aber nur so lernt man die Architektur des Rechners kennen.<br>
 		   
 		</p>
@@ -55,10 +55,13 @@
 		</div>
 	</div>
 
-    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Doch wir haben Glück: Ein original Drucker ist uns aus Frankreich zugesprochen worden. Er wird voraussichtlich im September hier eintreffen.</p><br>
-
+    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Doch wir haben Glück: Ein original Drucker ist uns vom F.E.B. (Federation des Equipes Bull) aus Frankreich überlassen worden. Zwar fehlen die gesamte Verkleidung, sowie einige Teile, doch diese können wir von unserem "Restdrucker" verwenden. Dennoch liegt ein hartes Stück Arbeit vor uns, um dieses Fragment wieder zur Funktion zu bringen.</p>
+<div class="box center auto-bildbreite">
+		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
+		<div class="bildtext">
+		<p><b>Drucker-Fragment wartet auf die Restaurierung</b></p><br>
+		
 	<hr>
-	
     <p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>
 	Um 1970 stand eine G10 in der Lochkartenabteilung der Stadtverwaltung. Der Rechner wurde aus Platzgründen schon vor langer Zeit entsorgt; doch die umfangreichen Unterlagen und Ersatzteile haben im Stadtarchiv überlebt. Frau A.R. knüpfte mit uns den Kontakt so dass wir die genau zu unserem Rechner passenden Unterlagen und Teile übernehmen konnten, die für uns eine wertvolle Hilfe sind. Dafür bedanken wir uns herzlich.
 	</p>

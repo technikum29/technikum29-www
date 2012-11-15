@@ -121,12 +121,18 @@
      </div>
 
      <p>While our GAMMA 10 is in a very good shape, we cannot use the
-        printer any more, since all electronics are missing.
-        Therefore we have set up an ANALEX printer (series 5) from 1965.
-        At that time, this printer was the fastest printer on earth, printing
-        1250 lines per minute. Of course he may slow down a bit for our GAMMA 10.
-        Connecting this device to the BULL computer is supposed to be a
-        quite complex problem. We will report about the progress on the
-        page <a href="../development-projects.php">Development Projects</a>,
-        soon.</p>
+        printer any more, since all electronics are missing.<br>
+        But we were very lucky: We got a printer from the "Federation des Equipes Bull"
+from France which is a perfect match for our Gamma 10. Although some parts like
+the outer enclosing are missing we can use parts from another printer that is
+beyond repair to restore this printer to working condition. Nevertheless this
+will be a lot of work.</p>
+
+<div class="box center auto-bildbreite">
+		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
+		<div class="bildtext">
+		<p><b>Printer waiting for its restoration</b>
+		</div></div></p>
+		
+
 

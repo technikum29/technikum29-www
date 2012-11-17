@@ -31,9 +31,16 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>November 2012</h3>
+Gamma 10 nun komplett: Das Drucker-Fragment ist per Spedition aus Frankreich hier angekommen. Damit ist die BULL Gamma 10 EDV-Anlage endlich komplett. Siehe "BULL-GAMMA 10"
+<div class="box left">
+<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="320" height="240" />
+</div> 
+<div class="clear"></div>
 <li><h3>September 2012</h3>
 Sie besuchen gerade unsere völlig neu überarbeitete Website. Bessere Gliederung, bequemere Navigation und mehr Übersicht sind die wichtigsten Neuerungen.<br>
-Bitte benachrichtigen Sie uns, falls Sie auf Fehler stoßen.</li>
+</li>
 
 <li><h3>Juli 2012</h3>
 <div class="box left">

@@ -30,7 +30,12 @@ MENU;
 
 
     <ul class="news-feed">
-	
+	<li><h3>November 2012</h3>
+	The Gamma 10 is now complete: the printer (fragment) has arrived here from France. Thus the BULL GAMMA 10 computer-system is finally complete. See "BULL GAMMA 10"
+	<div class="box left">
+<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="320" height="240" />
+</div> 
+<div class="clear"></div>
 	
 	<li><h3>September 2012</h3>
 We have overhauled our web pages. The most important changes are a better

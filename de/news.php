@@ -4,6 +4,10 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+- titel: "Drucker für die Gamma 10 angekommen"
+  text: ""
+  link: "#November_2012"
+  
 - titel: "Neues Website-Design"
   text: "Neu gestaltete Website"
   link: "#September_2012"

@@ -132,7 +132,7 @@
 					<li><a seiten_id="details1" href="/en/details1.php">Tabular list of desk calculators</a></li>
 				</ul>
 			</li>
-			<li><a seiten_id="analogrechner" href="/en/computer/analog.php">Analog and digital-analog copmuters</a>
+			<li><a seiten_id="analogrechner" href="/en/computer/analog.php">Analog and digital-analog computers</a>
 				<ul class="u3">
 					<li><a href="/en/computer/analog.php#heathkit-h1">Heathkit H1</a></li>
 					<li><a href="/en/computer/analog.php#heathkit-ec1">Heathkit EC1</a></li>

@@ -74,4 +74,35 @@ The experiment was a full success and will inspire future projects.
 Ivrea" who lived in medieval times in northern Italy where the
 controller was developed.</small> <br>
 
+<h3>Siemens computer for demonstration</h3>
+
+<div class="box center">
+        <img src="/shared/photos/rechnertechnik/siemens-democomputer.jpg" alt="Siemens-Democomputer" width="700" height="587" class="nomargin-bottom" />
+		<p class="center"><b>Siemens computer</b></p>
+	</div>
+
+<p>The demonstration model shown above was built in 1973 by Siemens (Germany). It
+was used as an educational tool for technicians and engineers. The large
+machine on the right was built in rather high numbers for computer science
+courses and the like. Even today it can be used to show the basic principles of
+instruction processing, internal cycles etc. Its short word length of only 4
+bits is sufficient for this.<br>
+The program can be setup on the left by use of plugs containing various binary 
+values representing the instructions of the machine. The "computer" can be
+operated in either one of two modes: cycle mode or instruction mode. In
+addition to that its clock cycle time can be set arbitrarily or single step
+mode can be selected. 126 incandescent lights show the data flow through the
+registers, the operation of the control circuitry, the arithmetic/logic unit
+and the memory locations.<br><br>
+
+The demonstration model represents a bit-parallel program controller computer.
+The currently implemented program adds to binary values. It demonstrates that
+even short word lengths do not necessarily restrict the range of values that
+can be processed by such a machine.<br>
+
+ 
+
+ It is a truly wonderful machine that displays the elementary processes taking
+place in every computer even today.</p>
+
 	 

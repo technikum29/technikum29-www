@@ -12,7 +12,13 @@
 		<img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg" alt="BULL GAMMA 10" width="640" height="390" />
 		<p class="bildtext"><b>BULL Gamma 10 &nbsp;  EDV-Anlage</b></p></div>
 		
-			<p>1963 brachte BULL (General Electric) den GAMMA 10 (G10) auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war. Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3) und der erste von Bull selbst entwickelte Computer der 2. Generation. Angekündigt wurde der Rechner bereits im Oktober 1962, daher ist die Technik etwa auf dem Stand von 1961/62!<br>
+			<p>
+			Es war der 25. Oktober 1962 an welchem in Köln-Mülheim (BULL-Hauptverwaltung) der Öffentlichkeit erstmalig die neue Datenverarbeitungsanlage BULL-GAMMA-10 vorgestellt wurde. 1963 kam der GAMMA 10 (G10) schließlich auf den Markt, der insbesondere für kommerzielle Anwendungen im Lochkartenverfahren gedacht war.
+			
+			<p class="small">
+			Zitat aus BULL-Informationen Nr.24 von 1962: ".....eignet sich die Maschine, dank ihrer technischen Vorzüge und ihres verhältnismäßig niedrigen monatlichen Mietpreises von 8000 DM, besonders auch für mittlere Unternehmen von etwa 2000 Beschäftigten oder 10.000 bis 15.000 Buchungen pro Tag".</p>
+			
+			Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3) und der erste von Bull selbst entwickelte Computer der 2. Generation.  Die Technik ist etwa auf dem Stand von 1960-62!<br>
 			Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.
 		    <br/>Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher ist ein Kernspeicher der wahlweise 1 kB bis maximal 4 kB Kapazität hatte. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.
 		    <br/>Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).
@@ -47,6 +53,7 @@
 		    <p>
 		        Unten ist das Bild eines typischen Moduls (insges. 570 Stück, ohne Drucker!) zu sehen. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
 		        <br/>Die langsame Logik (u.a. der Kartensteuerung) wird von 573 Relais übernommen. Es war mutig, in einen Computer eine so große Menge Verschleißteile einzubeziehen.
+				
 			</p>
 		    <p>
 			    Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für die Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
@@ -56,6 +63,8 @@
 	</div>
 
     <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Doch wir haben Glück: Ein original Drucker ist uns vom F.E.B. (Federation des Equipes Bull) aus Frankreich überlassen worden. Zwar fehlen die gesamte Verkleidung, sowie einige Teile, doch diese können wir von unserem "Restdrucker" verwenden. Dennoch liegt ein hartes Stück Arbeit vor uns, um dieses Fragment wieder zur Funktion zu bringen.</p>
+	<p class="small">Es gibt noch einige bemerkenswerte technische Daten: Der Computer hat über 4000 Transistoren, ca. 10.000 Dioden und mehr als 2500 Messpunkte, an welchen man im (nicht gerade seltenen) Servicefall Messungen im logischen Ablauf der Zyklen vornehmen konnte.<br>
+	Eine Fehlersuche durch Austausch von einzelnen Platinen war bzw. ist nicht möglich, da die kausalen Verknüpfungen wild über das gesamte Chassis gestreut sind. So verfolgt man einen Fehler dessen logische Kette z.B. von Board 17 auf 95 geht, dann zurück auf 43 und schließlich im Board 293 endet, weil just dort noch ein Flip-Flop frei war. Man muss daher den Fehler konsequent bis zum defekten Bauteil mittels Schaltpläne und Zyklenablauf verfolgen.</p>
 <div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
 		<div class="bildtext">

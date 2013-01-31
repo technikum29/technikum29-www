@@ -68,7 +68,7 @@
 <div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
 		<div class="bildtext">
-		<p><b>Drucker-Fragment wartet auf die Restaurierung</b></p><br>
+		<p><b>Drucker-Fragment </b>(ist mittlerweile funktionsfähig)</p><br>
 		
 	<hr>
     <p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>

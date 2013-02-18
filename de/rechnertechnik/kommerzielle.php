@@ -38,7 +38,7 @@
 		    <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: <a class="go" href="/de/geraete/details-ncr446.php">Reparatureinblicke</a>
 		</p>
 		
-		<h5 id="zubehör">Lochstreifen-Zubehör</h5>
+		<h5 id="stanzer">Lochstreifen-Zubehör</h5>
 		
 		<p>Auch Zubehörteile aus der Zeit der Lochstreifen als Daten- und Programmträger sind recht interessant, verraten sie doch wie man zu Beginn des programmierten Rechnens arbeiten musste.<br>
 		In der untenstehenden Abbildung ist links ein "Handlocher" zu sehen, der es erlaubte, 1-Zoll Lochstreifen nach selbstentworfenen Programmen oder Daten zu lochen. Wer den NCR-Rechner in einer abgespeckten Version hatte, verfügte nicht über den Lochstreifenstanzer (rechts im Bild oben)!<br>

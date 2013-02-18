@@ -41,7 +41,7 @@ MENU;
 <div class="box left">
 <img src="/shared/photos/rechnertechnik/lochstreifenlocher.jpg" width="341" height="176" />
 </div>
-Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#zubehör"><b>Lesen Sie hier:</b></a>
+Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#stanzer"><b>Lesen Sie hier:</b></a>
 <div class="clear"></div></li>
 <li><h3>November 2012</h3>
 

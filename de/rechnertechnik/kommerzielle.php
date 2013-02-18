@@ -22,9 +22,7 @@
 		</div>
 	</div>
 	
-	
-    
-        
+	 
    <h3 id="ncr446">NCR 446</h3>
     
     <div class="box center auto-bildbreite">
@@ -40,18 +38,20 @@
 		    <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: <a class="go" href="/de/geraete/details-ncr446.php">Reparatureinblicke</a>
 		</p>
 		
-		<p>Auch <b>Zubehörteile</b> aus der Zeit der Lochstreifen als Daten- und Programmträger sind recht interessant.<br>
-		In der untenstehenden Abbildung ist links ein "Handlocher" zu sehen, der es erlaubte, 1-Zoll Lochstreifen nach selbstentworfenen Programmen oder Daten zu lochen. Wer den Rechner in einer abgespeckten Version hatte, verfügte nicht über den Lochstreifenstanzer (rechts im Bild oben)!<br>
-		Nach einer Erläuterung des Inhabers eines Ingenieurbüros für Baustatik lief die Prozedur dann etwa wie folgt ab:<br>
-		Zunächst erstellt man das Programm und den dazu gehörigen Text in Reinschrift. Dann musste jedes Zeichen per NCR-Codetabelle in einen 8-Bit-Code für den Lochstreifen übersetzt werden. Sodann durfte die Sekrekärin die vom "Chef" diktierten Ziffernfolge (1 bis 8) eintippen und danach jeweils den Hebel herunterdrücken. Per Handkraft wurden so die Löcher Sprosse für Sprosse hergestellt wobei jede Sprosse (Zeile) genau einem Zeichen entspricht. Das war eine mühsame und zeitraubende Arbeit, insbesondere wenn man sich aus Versehen "verlocht" hat. <br>
+		<h5 id="zubehör">Lochstreifen-Zubehör</h5>
+		
+		<p>Auch Zubehörteile aus der Zeit der Lochstreifen als Daten- und Programmträger sind recht interessant, verraten sie doch wie man zu Beginn des programmierten Rechnens arbeiten musste.<br>
+		In der untenstehenden Abbildung ist links ein "Handlocher" zu sehen, der es erlaubte, 1-Zoll Lochstreifen nach selbstentworfenen Programmen oder Daten zu lochen. Wer den NCR-Rechner in einer abgespeckten Version hatte, verfügte nicht über den Lochstreifenstanzer (rechts im Bild oben)!<br>
 		
 		<div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/lochstreifenlocher.jpg"  width="682" height="352" />
         <div class="bildtext"><b>Handlocher für Lochstreifen</b> (links) und <b> Tapewinder</b> (rechts)</div>
 		</div>
+		<p>Nach einer Erläuterung des Inhabers eines Ingenieurbüros für Baustatik lief die Prozedur dann etwa wie folgt ab:<br>
+		Zunächst erstellt man das Programm und den dazu gehörigen Text in Reinschrift. Dann musste jedes Zeichen per NCR-Codetabelle in einen 8-Bit-Code für den Lochstreifen übersetzt werden. Sodann durfte die Sekrekärin die vom "Chef" diktierten Ziffernkombination (1 bis 8) eintippen und danach jeweils den Hebel herunterdrücken. Per Handkraft wurden so die Löcher Sprosse für Sprosse hergestellt wobei jede Sprosse (Zeile) genau einem Zeichen entspricht. Das war eine mühsame und zeitraubende Arbeit, insbesondere wenn man sich aus Versehen "verlocht" hat. <br>
 	
-		<p>Mit unserer abgebildeten NCR-446 Maschine konnte man Programme und Daten direkt auf der Schreibmaschinentastatur eingeben die simultan im Lochstreifenstanzer ausgestanzt wurden. Dieser "Komfort" kostete jedoch zusätzlich ca. 20.000,- DM (10.000 Euro)!<br>
-		Wenn man den Programmlochstreifen wechseln musste, ergab sich das Problem, den oft sehr langen Streifen per Hand aufzuwickeln. Dazu baute HP einen kleinen handlichen "Tapewinder", der mit einem Akku betrieben wurde. So dauerte das Aufwickeln nur wenige Sekunden.</p>
+		Mit der oben abgebildeten NCR-446 Maschine konnten Programme und Daten direkt auf der Schreibmaschinentastatur eingeben und simultan im Lochstreifenstanzer ausgestanzt werden. Dieser "Komfort" kostete jedoch zusätzlich ca. 20.000,- DM (10.000 Euro)!<br>
+		Beim Wechsel des Programmlochstreifens ergab sich das Problem, den oft sehr langen Streifen per Hand aufzuwickeln um ihn in einer kleinen Dose verstauen zu können. Dazu gab es von HP einen handlichen akkubetriebenen "Tapewinder". So dauerte das Aufwickeln nur wenige Sekunden.</p>
 		
 		 
 		

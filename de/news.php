@@ -39,7 +39,7 @@ MENU;
 <ul class="news-feed">
 <li><h3>Februar 2013</h3>
 <div class="box left">
-<img src="/shared/photos/rechnertechnik/lochstreifenlocher.jpg" width="341" height="176" />
+<img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
 </div>
 Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#stanzer"><b>Lesen Sie hier:</b></a>
 <div class="clear"></div></li>

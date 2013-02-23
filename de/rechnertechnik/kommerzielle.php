@@ -44,7 +44,7 @@
 		In der untenstehenden Abbildung ist links ein "Handlocher" zu sehen, der es erlaubte, 1-Zoll Lochstreifen nach selbstentworfenen Programmen oder Daten zu lochen. Wer den NCR-Rechner in einer abgespeckten Version hatte, verfügte nicht über den Lochstreifenstanzer (rechts im Bild oben)!<br>
 		
 		<div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/lochstreifenlocher.jpg"  width="682" height="352" />
+        <img src="/shared/photos/rechnertechnik/handlocher.jpg"  width="682" height="428" />
         <div class="bildtext"><b>Handlocher für Lochstreifen</b> (links) und <b> Tapewinder</b> (rechts)</div>
 		</div>
 		<p>Nach einer Erläuterung des Inhabers eines Ingenieurbüros für Baustatik lief die Prozedur dann etwa wie folgt ab:<br>

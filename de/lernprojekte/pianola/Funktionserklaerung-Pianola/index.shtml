@@ -6,7 +6,8 @@
     <!-- Uebergangsweise: Wer auf diese Seite kommt, wird in die Wiki weitergeleitet.
          Die dortige Seite ist die aktuelle. Diese kann dort mit einem Klick auf "Bearbeiten"
 	 online ohne Anmeldung bearbeitet werden. -->
-    <meta http-equiv="refresh" content="0; URL=http://dev.technikum29.de/wiki/Projekte/Pianola">
+    <!--<meta http-equiv="refresh" content="0; URL=http://dev.technikum29.de/wiki/Projekte/Pianola">-->
+    <!-- ist derzeit down (Feb 2013) -->
 
     <link rel="stylesheet" href="/shared/css/screen.css" type="text/css" title="technikum29">
     <!--<link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29">-->

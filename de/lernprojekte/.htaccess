@@ -1,6 +1,6 @@
 AuthType Basic
 AuthName "technikum29 Projekt-Verzeichnisse (der Benutzername ist der Projektname!)"
-AuthUserFile /srv/www/.htpasswd-projekte
+AuthUserFile /etc/apache2/passwords/lernprojekte.passwd
 
 # Require-Geschichten in den jeweilgen .htaccess-Files
 #Require valid-users

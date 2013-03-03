@@ -21,7 +21,7 @@
             <h2>Für wen&nbsp;?</h2>
             <ul>
                
-                <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Geschichte der Computer, die unser Leben maßgebend bestimmt. Insbesondere haben auch Kinder und Jugendliche einen positiven Zugang zu dieser "History", da sie davon unmittelbar davon betroffen sind. Die Motivation, sich dieser Thematik hinzugeben fällt ihnen nicht schwer.<br>
+                <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Geschichte der Computer, die unser Leben maßgebend bestimmen. Insbesondere haben auch Kinder und Jugendliche einen positiven Zugang zu dieser "History", da sie davon unmittelbar davon betroffen sind. Die Motivation, sich dieser Thematik hinzugeben fällt ihnen daher nicht schwer.<br>
 				</li>
                 <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>)</li>
 				<li>Auch für Firmengruppen ist dieser Event bestens geeignet.</li>

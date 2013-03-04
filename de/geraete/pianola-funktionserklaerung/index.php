@@ -3,7 +3,7 @@
 	$version = '$Id$';
 	$titel = 'Pianola: Querschnitt durch die Pneumatik';
 	
-	require "../../../../lib/technikum29.php";
+	require "../../../lib/technikum29.php";
 ?>
 
 <!-- Inhalt war zwischen ca 2009 und 2013 in Wiki:
@@ -135,3 +135,7 @@ Wirkung auf das System zwar nur minimal, jedoch stark genug, um nach dem Verschl
 
 Würde man intelligente Menschen aus der heutigen hochtechnisierten Zeit damit beauftragen, ein solches Instrument nur mit Hilfe von Holz, Metall, Leder, "Gummihaut" und Knochenleim zu erfinden, kann man davon ausgehen, dass die meisten keine Chance hätten das gesteckte Ziel zu erreichen. Die hier beschriebenen Vorgänge sind eine vereinfachte Version der sehr viel umfangreicheren komplexen Vorgänge in einer Pianola.</p>
 Wenn man überlegt, wie rasend schnell diese Vorgänge ablaufen müssen, so gerät man in Ehrfurcht vor den mechanischen Fähigkeiten der Menschen aus dieser Zeit.
+
+<h3>Präsentationsmaterialien zur Pianola</h3>
+
+<p>Eine Powerpoint-Präsentation steht in den <a href="/de/lernprojekte/#Liste_anderer_Projekte">Lernprojekten</a> unter <a class="go" href="/de/lernprojekte/pianola">Pianola-Präsentation</a> zur Verfügung.</p>

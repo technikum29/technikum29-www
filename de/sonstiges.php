@@ -12,10 +12,10 @@
 	Es ist unglaublich, was die Menschen zu dieser Zeit an Wunderwerken bezüglich Musikautomaten entworfen und hergestellt haben. Verwendet wurden dabei nur sehr einfache und natürliche Materialien:<br>
 	Darmleder, Leder, Gummi, Holz, Knochenleim, Filz, Metall, Papier, Elfenbein und Glas. <br>
 	Wenn man das sehr geschickt zusammenbaut, entsteht ein Automat, der heute noch hochtechnisierte Menschen zum Staunen und Raunen bringt. Wir zeigen Ihnen vor Ort wie dieses Gerät funktioniert, erklären die Grundlagen der Pianola-Physik und spielen Musikstücke, die kein Pianist spielen kann! Dabei haben Sie bei geöffneter Verkleidung Einblick in die faszinierende Mechanik.
-	<br><a class="go" href="/de/lernprojekte/pianola/Funktionserklaerung-Pianola">Funktionserklärung der Pianola</a></p>
+	<br><a class="go" href="/de/geraete/pianola-funktionserklaerung/">Funktionserklärung der Pianola</a></p>
 	
 	<div class="box center">
-        <a href="/de/lernprojekte/pianola/Funktionserklaerung-Pianola"><img src="/shared/photos/kommunikationstechnik/pianola.jpg" alt="Abbildung der Pianola" width="700" height="618" class="nomargin-bottom" /></a>
+        <a href="/de/geraete/pianola-funktionserklaerung/"><img src="/shared/photos/kommunikationstechnik/pianola.jpg" alt="Abbildung der Pianola" width="700" height="618" class="nomargin-bottom" /></a>
 		<p class="center"><b>Pianola</b></p>
 	</div>
 	

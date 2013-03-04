@@ -13,7 +13,7 @@
 <h2>Pianola: Querschnitt durch die Pneumatik</h2>
 
 <div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/pianola-offen.jpg"><img src="fotos/thumb.pianola-offen.jpg" alt="Die Pianola geöffnet"></a>
+   <a class="popup" href="fotos/pianola-offen.jpg"><img src="fotos/thumb.pianola-offen.jpg" alt="Die Pianola geöffnet" width="300" height="225"></a>
    <p>Die Pianola (ohne Verkleidung) von außen</p>
 </div>
    
@@ -25,12 +25,12 @@ man pneumatische Systeme</a>
 Bei diesem Instrument wird der Unterdruck durch eine elektrische Saugluftturbine erzeugt damit man sich das Treten ersparen kann.</p>
 
 <div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/abfuehlkamm.jpg"><img src="fotos/thumb.abfuehlkamm.jpg" alt="Abfhühlkamm"></a>
+   <a class="popup" href="fotos/abfuehlkamm.jpg"><img src="fotos/thumb.abfuehlkamm.jpg" alt="Abfhühlkamm" width="268" height="109"></a>
    <p>Notengleitblock</p>
 </div>
 
 <div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken" style="clear: left;">
-   <a class="popup" href="fotos/notenrolle.jpg"><img src="fotos/thumb.notenrolle.jpg" alt="Notenrolle"></a>
+   <a class="popup" href="fotos/notenrolle.jpg"><img src="fotos/thumb.notenrolle.jpg" alt="Notenrolle" width="268" height="175"></a>
    <p>Notenrolle</p>
 
 </div>
@@ -42,7 +42,7 @@ Bei diesem Instrument wird der Unterdruck durch eine elektrische Saugluftturbine
 Ein flacher Notengleitblock mit 88 Öffnungen in einer Reihe (für 88 mögliche Töne) tastet beim Vorbeilaufen der Notenrolle ab, ob der entsprechende Ton gespielt werden soll oder nicht (siehe Schema links). Zusätzlich befinden sich noch weitere Öffnungen in diesem Block, welche dem Pedal, dem Anschlag (weich oder hart) und schließlich dem mittigen Lauf der Rolle zugeordnet sind.
 </p>
 <div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/pianola-innen.jpg"><img src="fotos/thumb.pianola-innen.jpg" alt="Pianola von innen, hinten"></a>
+   <a class="popup" href="fotos/pianola-innen.jpg"><img src="fotos/thumb.pianola-innen.jpg" alt="Pianola von innen, hinten" width="300" height="225"></a>
    <p>Ansicht von innen</p>
 </div>
 <p>Auf dem Foto auf der rechten Seite sieht man die hellen (gelb gefärbten) Bleirohre, die von den Notengleitblock wegführen. Sie führen jeweiles zu einem pneumatischen "Verstärker", der Relais genannt wird. Je nach dem, ob sich gerade in der Rolle ein Loch befindet oder nicht, wird ein Ton angeschlagen oder auch nicht (siehe großes Schema unten)</p>

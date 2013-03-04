@@ -1,6 +1,7 @@
 <html>
 <head>
     <title>technikum29 Projekte -- Fehler</title>
+	<meta charset="utf-8">
     <style>
       li { margin-bottom: 1em; text-align: justify }
       form { display:block; padding: 10px;
@@ -19,25 +20,25 @@
 <!--#else -->
   <!--#echo var="REQUEST_URI" -->
 <!--#endif --></tt></h2>
-<p>Möglicherweise wurde das falsche Passwort und/oder der falsche
+<p>MÃ¶glicherweise wurde das falsche Passwort und/oder der falsche
 Benutzername eingegeben. Probieren Sie folgendes aus:</p>
 <ul>
   <li>Der Benutzername muss dem Name des Projektes entsprechen:
-      Heißt das Projekt z.B. <i>pianola</i>, dann muss auch der
-      Benutzername <i>pianola</i> heißen. Mit keinem anderen
+      HeiÃŸt das Projekt z.B. <i>pianola</i>, dann muss auch der
+      Benutzername <i>pianola</i> heiÃŸen. Mit keinem anderen
       Benutzernamen wird der Zugriff gestattet.</li>
-  <li>Der Benutzername muss komplett klein geschrieben sein. Heißt
-      das Projekt z.B. <i>pianola</i>, dann heißt der Benutzername
+  <li>Der Benutzername muss komplett klein geschrieben sein. HeiÃŸt
+      das Projekt z.B. <i>pianola</i>, dann heiÃŸt der Benutzername
       nicht etwa <i>Pianola</i> oder <i>PIANOLA</i>, sondern
       einfach <i>pianola</i>.</li>
-  <li>Selbstverständlich gilt auch bei dem vom Projektleiter
-      mitgeteiltem Passwort Groß- und Kleinschreibung.</li>
-  <li>Möglicherweise hat der Projektleiter den Zugriff auf das Projekt
+  <li>SelbstverstÃ¤ndlich gilt auch bei dem vom Projektleiter
+      mitgeteiltem Passwort GroÃŸ- und Kleinschreibung.</li>
+  <li>MÃ¶glicherweise hat der Projektleiter den Zugriff auf das Projekt
       mittlerweile wieder gestrichen. Dies kann nach mehreren
       Wochen geschehen, da es sich bei den Projekten um
-      limitierte Zugangsgenehmigungen für exklusive Dateien handelt,
-      die nicht der Allgemeinheit zugänglich sein sollen.</li>
-  <li>Bei unlösbaren Problemen beim Zugriff wenden sie sich
+      limitierte Zugangsgenehmigungen fÃ¼r exklusive Dateien handelt,
+      die nicht der Allgemeinheit zugÃ¤nglich sein sollen.</li>
+  <li>Bei unlÃ¶sbaren Problemen beim Zugriff wenden sie sich
       an <a href="/de/impressum">das Projektmanagament</a>,
       zum Beispiel in dem sie das folgende Formular benutzen:</li>
 </ul>
@@ -45,11 +46,11 @@ Benutzername eingegeben. Probieren Sie folgendes aus:</p>
 <form action="/src/error/report.php">
   <h4>Neues Passwort oder Zugriffsrechte anfordern</h4>
   <p>Haben sie ihr Passwort verloren oder keines erhalten?
-     Hier haben sie die Möglichkeit, uns eine Nachricht hinterlassen
-     &ndash; wir werden uns ihrem Problem schnellstmöglich
+     Hier haben sie die MÃ¶glichkeit, uns eine Nachricht hinterlassen
+     &ndash; wir werden uns ihrem Problem schnellstmÃ¶glich
      zuwenden. Vergessen sie auch ggf. nicht die Nennung ihrer
      E-Mail-Adresse bzw. ihres Namens, damit wir sie erreichen
-     können.</p>
+     kÃ¶nnen.</p>
   
   <input type="hidden" name="error" value="401" />
   <input type="hidden" name="lang" value="de - Projekte" />

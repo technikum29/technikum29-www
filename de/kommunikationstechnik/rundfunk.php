@@ -101,7 +101,7 @@ Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikk
 	
 		Der Höhepunkt war der Einsatz einer Elektronenröhre. Schon der Anblick des silbernfarbig spiegelnden Glaskolbens verriet: Das ist etwas ganz Besonderes. Diese spezielle Röhre (RE 074d), die schon bei Anodenspannungen zwischen 10 und 15 Volt arbeitet, war um 1950 kaum lieferbar. Der ursprüngliche Besitzer des Radiomanns musste 6 Monate auf die Lieferung warten. Schließlich wurde die Röhre von Telefunken in Mailand hergestellt und ausgeliefert. Sie kostete mehr als der gesamte Baukasten (damals 28,50 DM). <br>
 		Ansonsten hatten die Teile den Charme der Zeit: Pappe, Holz, stoffummantelte Drähte usw. Einen elektrischen Widerstand hoher Ohmzahl musste man selbst bauen: Ein Stück Papier, darauf einen dicken Strich mit einem weichen Bleistift zeichnen und schon war er fertig.</p>
-		<div class="box right">
+		<div class="box right no-copyright">
 			<img src="/shared/photos/kommunikationstechnik/radiomann10.jpg" width="297" height="142" alt="Staubsauger und Röhre" />
 		</div>
 		

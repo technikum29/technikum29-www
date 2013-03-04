@@ -206,7 +206,11 @@
 	<li><a href="/de/kommunikationstechnik/messtechnik.php#DUMME-VERLINKUNG">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/de/kommunikationstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
-			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola</a></li>
+			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola</a>
+				<ul class="u3 geraete">
+					<li><a seiten_id="pianola-funktionserklaerung" href="/de/lernprojekte/pianola/Funktionserklaerung-Pianola/">Funktionserklärung der Pianola</a></li>
+				</ul>
+			</li>
 			<li><a href="/de/sonstiges.php#kinomaschine">Kinomaschine</a></li>
 		</ul>
 	</li>

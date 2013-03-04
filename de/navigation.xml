@@ -30,8 +30,8 @@
 				<ul class="u3">
 					<li><a href="/de/lernprojekte/#aes">Fax ↔ Computer</a></li>
 					<li><a href="/de/lernprojekte/#demo">Lerncomputer</a></li>
-					<li><a href="/de/lernprojekte/pianola">Pianola</a></li>
-					<li><a href="/de/lernprojekte/schach">Schach</a></li>
+					<li><a href="/de/geraete/pianola-funktionserklaerung/">Pianola</a></li>
+					<li><a href="/de/lernprojekte/schach/">Schach</a></li>
 				</ul>
 			</li>
 			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" class="show-rel-prev" href="/de/entwicklungsprojekte.php">Entwicklungsprojekte</a>

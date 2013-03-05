@@ -56,7 +56,7 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC ü
 <br><b>Als Benutzer ist stets der Name des Projekts </b>(kleingeschrieben)<b> einzugeben!</b></p>
 
 <table>
-<tr><th><a href="pianola">Pianola</a>          <td>Funktionsbeschreibung der Pianola und Entwurf einer Präsentation
+<tr><th><a href="pianola">Pianola</a>          <td>Funktionserklärung und Entwurf einer Präsentation
 <tr><th><a href="schach">Schach</a>            <td>Anleitung für ein Schachspiel gegen den PDP 8 Computer mit 8KB Arbeitsspeicher (freier Zugriff, kein Passwort erforderlich)
 <tr><th><a href="speichermedien">Speichermedien</a>   <td>Entwurf einer Präsentation über historische Speichermedien
 <tr><th><a href="telegrafie">Telegrafie</a>   <td>Präsentationsentwurf für Telegrafie, Bildtelegrafie und Faximiletechnik

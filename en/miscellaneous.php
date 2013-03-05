@@ -99,31 +99,4 @@ the cards. So, finally, the "Capital" is transformed into atmospheric sounds.</p
 	   </div>
 	</div>
 		
-	<h3 id="demo">Siemens Demonstration Computer</h3>
-	<div class="box center">
-        <img src="/shared/photos/rechnertechnik/siemens-democomputer.jpg" alt="Siemens demonstration educational computer CPU" width="700" height="587" />
-		<p class="center"><b>Siemens educational computer</b></p>
-	</div>
-
-	<p>This demonstration model was build in 1973, when personal computers were not
-	   invented for a long time yet. Engineers had to be trained to understand
-	   computer architectures. Therefore, this big education model was constructed.
-	   It is a giant implementation of a typical register machine where 126 lamps
-	   display all registers, control, ALU and RAM, including the data flow.
-	   Featuring a mutable clock pulse and only 4 bit word with, elementary opcodes
-	   could be reproduced in a very illustrative way. The device can be toggled to
-	   process one instruction or one cycle a time.
-	<br>On the left side, the computer program could be directly "written" by plugging
-	   cartidges labeled with assembly instruction mnemonics or numerical values
-	   (immediate operands). On this cartiges the user could directly read the binary
-	   value of the machine instruction which will be the content of the corresponding
-	   random access field. As you might guess, the computer cannot change the program
-	   memory without user interaction, so this model actually implements an Harvard
-	   architecture, even though the (german) labels on the frontend suggest something
-	   different.
-	<br>The picture above shows a currently running program that adds memory cells. It
-	   shows that computer word lengths do not limit the length of proccessable
-	   numbers.
-	<br>It is a wonderful device that can even be used today to understand the elementary
-	   workflow of modern high end desktop CPUs.
-    </p>	
+	

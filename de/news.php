@@ -37,6 +37,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>März 2013</h3><br>
+
+
+Ab sofort für alle Leser ohne Passwort erreichbar:  
+  <a href="/de/geraete/pianola-funktionserklaerung/"> <b>Die Funktionserklärung einer Pianola.</b></a>
+</li>
+
 <li><h3>Februar 2013</h3>
 <div class="box left">
 <img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
@@ -66,14 +74,7 @@ Siehe <a href="/de/rechnertechnik/gamma55.php"><b>Gamma 55</b></a>
 
 </p><br>
 
-<li><h3>April 2012</h3>
-<div class="box left">
 
-<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" width="350" height="87"/>
-</div> 
-Unglaublicher Software-Fund für unsere UNIVAC 9200.
-<a href="/de/rechnertechnik/univac9200.php#lochkarten"><b>Lesen Sie hier:</b></a>
-<div class="clear"></div></li>
 
 
 

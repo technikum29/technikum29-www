@@ -142,7 +142,7 @@ class t29Template {
   <title><?php echo $this->conf['html_title']; ?></title>
   <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="technikum29-Team">
-  <meta name="generator" content="t29v6/<?php print $this->conf['host']->hostname; ?>">
+  <meta name="generator" content="<?php print $this->conf['host']; ?>">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
   <?php
 	foreach($this->conf['header_prepend'] as $h) print $h."\n  ";

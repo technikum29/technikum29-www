@@ -19,7 +19,7 @@ abstract class t29Host {
 
 
 	/// Some identifier like a FQDN. Must be overwritten!
-	public $hostname = "unknown";
+	public $hostname = "undefined";
 
 
 	/**
@@ -37,6 +37,8 @@ abstract class t29Host {
 			if(class_exists(self::webroot_local_host_classname)) {
 				$x = self::webroot_local_host_classname;
 				return new $x;
+			} else {
+				print "Warning: Hostfile $hostfile does not contain class ".self::webroot_local_host_classname."\n";
 			}
 		}
 		
@@ -61,6 +63,10 @@ abstract class t29Host {
 			}
 		}
 		return null;
+	}
+
+	public function __toString() {
+		return 't29v6/host:'.$this->hostname;
 	}
 
 	abstract function fillup_template_conf(&$template_conf);

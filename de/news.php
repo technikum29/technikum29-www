@@ -4,6 +4,11 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+	
+- titel: "Funktionserklärung einer Pianola"
+  text: ""
+  link: "#März_2013"
+	
 - titel: "Lochstreifen-Zubehör"
   text: ""
   link: "#Februar_2013"
@@ -20,11 +25,7 @@
   text: "Ein neuer Rechner im Museum"
   link: "#Juli_2012"
   
-- titel: "Softwarefund"
-  text: "Unglaublicher Softwarefund für die Univac9200"
-  link: "#April_2012"
-
-
+- 
 
 MENU;
 // ende der menue-Eintraege
@@ -39,9 +40,11 @@ MENU;
 <ul class="news-feed">
 
 <li><h3>März 2013</h3><br>
+<div class="box left clear-after">
+    <img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild1.png"
+width="300" height="225">
 
-
-Ab sofort für alle Leser ohne Passwort erreichbar:  
+Ab sofort für alle Leser ohne Passwort erreichbar: <br> <br>
   <a href="/de/geraete/pianola-funktionserklaerung/"> <b>Die Funktionserklärung einer Pianola.</b></a>
 </li>
 

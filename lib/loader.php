@@ -14,7 +14,10 @@ if(!defined('T29_GRAB_LOADER_DEFS')) {
 	$webroot = realpath("$lib/../");  # file path to root of t29 web installation
 
 	if(!isset($_GET['type'])) {
-		die("Provide ?type=js or ?type=css.");
+		print "<html><pre>The t29v6 Ressource loader.\n";
+		print "Provide ?type=js or ?type=css.\n";
+		print '<a href="https://labs.technikum29.de/browser/technikum29%20Website/lib/loader.php">Read my sourcecode</a>';
+		exit;
 	}
 }
 

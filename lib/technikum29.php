@@ -9,6 +9,14 @@
 if(defined('T29')) return false; // no nesting
 define('T29', true);
 
+// at least the $seiten_id must be defined
+if(!isset($seiten_id)) {
+	print "<html><pre>The t29v6 WebStart file\n";
+	print 'technikum29.php is the main include, but requires at least global <tt>$seiten_id</tt> to be defined.';
+	print "\n<a href='https://labs.technikum29.de/browser/technikum29%20Website/lib/technikum29.php'>Read my sourcecode</a>";
+	return false;
+}
+
 $lib = dirname(__FILE__);
 $webroot = realpath("$lib/../");  # file path to root of t29 web installation
 

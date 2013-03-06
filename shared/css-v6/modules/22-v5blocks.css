@@ -65,6 +65,8 @@
     background-color: #F7FDFF;
 }
 
+#content table.t29-details td.left { text-align: left; }
+
 #content table.t29-details th {
     padding: 2px;
     text-align: center;

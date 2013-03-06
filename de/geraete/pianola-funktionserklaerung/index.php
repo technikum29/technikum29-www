@@ -14,10 +14,10 @@
 
 <div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
    <a class="popup" href="fotos/pianola-offen.jpg"><img src="fotos/thumb.pianola-offen.jpg" alt="Die Pianola geöffnet" width="300" height="225"></a>
-   <p>Die Pianola (ohne Verkleidung) von außen</p>
+   <p>Das Pianola (ohne Verkleidung) von außen</p>
 </div>
    
-<p>Die Pianola ist ein selbstspielendes Klavier welches ab ca. 1895 gebaut wurde. Das hier abgebildete Instrument stammt aus dem Jahre 1915. <br> Diese Klaviere beziehen ihre
+<p>Das Pianola ist ein selbstspielendes Klavier welches ab ca. 1895 gebaut wurde. Das hier abgebildete Instrument stammt aus dem Jahre 1915. <br> Diese Klaviere beziehen ihre
 ganze Energie aus dem Unterdruck, der durch den vermeindlichen "Spieler" durch das Treten von Blasebälgen erzeugt wird. Durch die Luftbewegungen wird zum Beispiel auch ein kleiner "4-Zylinder" Windmotor angetrieben, der die Aufnahmewalze antreibt, die das Papier aufnimmt.</p>
 
 <p>Mechanische Systeme, die nur durch Luftdruckunterschiede funktionieren, nennt
@@ -130,8 +130,8 @@ seinem Zustand verbleiben und könnte kein weiteres Mal einen Ton spielen. Noch 
 <p>Deswegen gibt es noch eine dritte durchgehende Kammer, in der auch ständig
 Unterdruck herrscht. Sie hat jedoch nur eine ganz kleine Öffnung. Dadurch ist sie mit dem System ganz rechts verbunden. Auf diese Weise ist ihre
 Wirkung auf das System zwar nur minimal, jedoch stark genug, um nach dem Verschluss des Loches in der Notenrolle den Unterdruck in dem ersten System wieder schnell herzustellen. Dadurch sinkt auch wieder das Vorventil, im mittleren System entsteht wieder Unterdruck, daraufhin sinkt das Hauptventil nach unten und der Spielbalg zieht sich aufgrund seines eigenen Gewichtes und einer kleinen Feder wieder auseinander.
-<p>Nun ist die Pianola bereit, den nächsten Ton zu spielen. Der ganze Vorgang muss natürlich mit einer sehr hohen Geschwindigkeit ablaufen, damit auch schnelle Läufe fehlerfrei gespielt werden.</p>
-<p>Die Pianola kann Stücke spielen, die aufgrund des schnellen Handwechsels von keinem Spieler spielbar wäre. Daher wurden auch speziell Klavierstücke für Pianola geschrieben, die sehr virtuos sind.</p>
+<p>Nun ist das Pianola bereit, den nächsten Ton zu spielen. Der ganze Vorgang muss natürlich mit einer sehr hohen Geschwindigkeit ablaufen, damit auch schnelle Läufe fehlerfrei gespielt werden.</p>
+<p>Das Pianola kann Stücke spielen, die aufgrund des schnellen Handwechsels von keinem Spieler spielbar wäre. Daher wurden auch speziell Klavierstücke für Pianola geschrieben, die sehr virtuos sind, z.B. "Studies for Player Piano" von Conlon Nancarrow.</p>
 
 Würde man intelligente Menschen aus der heutigen hochtechnisierten Zeit damit beauftragen, ein solches Instrument nur mit Hilfe von Holz, Metall, Leder, "Gummihaut" und Knochenleim zu erfinden, kann man davon ausgehen, dass die meisten keine Chance hätten das gesteckte Ziel zu erreichen. Die hier beschriebenen Vorgänge sind eine vereinfachte Version der sehr viel umfangreicheren komplexen Vorgänge in einer Pianola.</p>
 Wenn man überlegt, wie rasend schnell diese Vorgänge ablaufen müssen, so gerät man in Ehrfurcht vor den mechanischen Fähigkeiten der Menschen aus dieser Zeit.

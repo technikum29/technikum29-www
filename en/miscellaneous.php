@@ -21,7 +21,8 @@
        for today's people. Here at the technikum29, we will show you how
        this device works, we will explain the basic functionality and
        play challenging compositions. While having covers removed, you can
-       even see the fascinating mechanics working.
+       even see the fascinating mechanics working.<br>
+	   <br><a class="go" href="/en/devices/functional-explanation-pianola.php/">Functional explanation of the pianola</a></p>
     </p>
 
      <div class="box center">

@@ -27,8 +27,10 @@ h1 a {
 	top: 10px; left: 10px; z-index: 2;
 	text-indent: -9999px;
 	width: 310px; height: 84px;
-	background: url("/shared/img-v6/banner.png");
 }
+
+body.lang-de h1 a { background: url("/shared/img-v6/banner.de.png"); }
+body.lang-en h1 a { background: url("/shared/img-v6/banner.en.png"); }
 
 /* Horizontal Navigation (Hauptnavigation) */
 nav.horizontal {

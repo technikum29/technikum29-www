@@ -11,3 +11,7 @@
 #content .vcard {
 	font-style: italic;
 }
+
+#map {
+	line-height: 100%;
+}

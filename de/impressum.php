@@ -11,14 +11,21 @@
 ?>
     <h2>Impressum</h2>
 
-    <address>
-       Dipl. Phys. H. Müller
-       <br />Am Flachsland 29
-       <br />65779 Kelkheim/Taunus
-       <br />Telefon: 06195/2170
-       <br />E-Mail: <a href="mailto:post@technikum29.de">Post@technikum29.de</a>
-       <br />Internet: <a href="http://www.technikum29.de">www.technikum29.de</a>
-    </address>
+    <!-- Maschinenlesbare Visitenkarte: -->
+    <div class="vcard" id="address">
+       <div class="org hidden">technikum29 Computermuseum</div>
+       <div class="fn">Dipl. Phys. H. Müller</div>
+       <div class="adr">
+           <div class="street-address">Am Flachsland 29</div>
+           <span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
+           <span class="country-name hidden">Deutschland</span>
+       </div>
+       <div>Telefon: <span class="tel">06195/2170</span></div>
+       <div>E-Mail: <a class="email" href="mailto:post@technikum29.de">Post@technikum29.de</a></div>
+       <div>Internet: <a class="url" href="http://www.technikum29.de">www.technikum29.de</a></div>
+       <div class="hidden">Foto: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Foto des Museums" /></div>
+       <div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29-Logo" /></div>
+    </div>
 
      <p>Wir sind Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a> (Frankfurt).</p>
 

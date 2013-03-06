@@ -88,25 +88,20 @@ class t29Log {
 	
 	function print_all($ul_classes='') {
 		// causal printing function. Flushes entries afterwards!
-		print "<ul class='$ul_classes'>";
+		// if $ul_classes is given, will print a list around
+		if($ul_classes)
+			print "<ul class='$ul_classes'>";
 		foreach($this->entries as $entry) {
 			printf('<li class="%s">%s</li>'.PHP_EOL, $entry[0], $entry[1]);
 		}
-		print "</ul>";
+		if($ul_classes) print "</ul>";
 		$this->entries = array(); // flush entries!
 	}
 	
 	// convenience functions
-	public function FATAL($line, $args = self::NO_ARGUMENTS){
-		$this->log($line, self::FATAL, $args);
-	}
-
-	public function INFO($line, $args = self::NO_ARGUMENTS){
-		$this->log($line, self::INFO, $args);
-	}
-
-	public function DEBUG($line, $args = self::NO_ARGUMENTS){
-		$this->log($line, self::INFO, $args);
-	}
+	public function FATAL($line, $args = self::NO_ARGUMENTS) { $this->log($line, self::FATAL, $args); }
+ 	public function INFO($line, $args = self::NO_ARGUMENTS)  { $this->log($line, self::INFO, $args); }
+	public function DEBUG($line, $args = self::NO_ARGUMENTS) { $this->log($line, self::DEBUG, $args); }
+	public function WARN($line, $args = self::NO_ARGUMENTS) { $this->log($line, self::WARN, $args); }
 	
 } // class

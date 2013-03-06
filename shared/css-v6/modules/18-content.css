@@ -7,6 +7,7 @@
  *              h2, h3, h4 Ueberschriften
  *              Blockdesign, etc.
  *
+ *   .messages = Logging, zentralisiert (siehe logging.php, template.php und log.js)
  **/
 
 #content {
@@ -62,4 +63,36 @@ h2 {
 
 #content a:hover, #content a:focus {
 	color: #882224;
+}
+
+/**
+ *  Logging
+ **/
+
+.messages.panel.empty {
+	/* Hide empty message boxes */
+	display: none;
+}
+
+.messages.panel { margin-bottom: 20px; }
+
+.messages.panel li {
+	margin-bottom: 5px;
+	background-color: #FCF8E3;
+	border: 1px solid #FBEED5;
+	border-radius: 4px 4px 4px 4px;
+	margin-bottom: 20px;
+	padding: 8px 35px 8px 14px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.messages.panel p { margin: 2px 0; }
+.messages.panel button.close {
+	float: right;
+}
+
+.messages.footer {
+	/* sollte eigentlich gar nicht dargestellt werden, sondern von log.js
+	   in den .messages.panel-Bereich verschoben werden. */
+	opacity: .8;
 }

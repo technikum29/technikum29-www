@@ -23,7 +23,7 @@
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li class="has-submenu"><a href="/de/lernprojekte/#DUMME-VERLINKUNG">Projekte</a>
+	<li class="has-submenu"><a href="/de/lernprojekte/">Projekte</a>
 		<ul class="u2">
 			<li class="has-submenu"><a seiten_id="lernprojekte" class="show-rel-next" href="/de/lernprojekte/">Lernprojekte</a>
 				<!-- Pfeil-Symbol: ↔ -->
@@ -57,7 +57,7 @@
 <nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/de/">Start</a></li>
-	<li><a href="/de/rechnertechnik/elektro-mechanik.php#DUMME-VERLINKUNG">Computer History</a>
+	<li><a href="/de/rechnertechnik/elektro-mechanik.php">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/de/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a>
 				<ul class="u3 geraete">
@@ -65,7 +65,7 @@
 					<li><a seiten_id="sprocket-wheel-machine" href="/de/geraete/sprossenradmaschine.php">Sprossenradmaschine</a></li>
 				</ul>
 			</li>
-			<li><a href="/de/rechnertechnik/lochkarten-edv.php#DUMME-VERLINKUNG">Lochkarten-EDV und gross-Computer</a>
+			<li><a href="/de/rechnertechnik/lochkarten-edv.php">Lochkarten-EDV und gross-Computer</a>
 				<ul class="u3">
 					<li><a seiten_id="lochkarten" href="/de/rechnertechnik/lochkarten-edv.php" title="Lochkartengeräte">Lochkartengeräte und Peripherie</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/de/rechnertechnik/tabelliermaschine.php" title="BULL Tabelliermaschine">Tabelliermaschine</a></li>
@@ -123,7 +123,7 @@
 					<li><a seiten_id="details2" href="/de/details2.php">Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand</a></li>
 				</ul>
 			</li>
-			<li><a href="/de/rechnertechnik/elektronenroehren.php#DUMME-VERLINKUNG" title="Tischrechner mit Elektronenröhren">Elektronische Tischrechner</a>
+			<li><a href="/de/rechnertechnik/elektronenroehren.php" title="Tischrechner mit Elektronenröhren">Elektronische Tischrechner</a>
 				<ul class="u3">
 					<li><a seiten_id="elektronenroehren" href="/de/rechnertechnik/elektronenroehren.php" title="Tischrechner mit Röhren">mit Röhren</a></li>
 					<li><a seiten_id="transistoren" href="/de/rechnertechnik/transistoren.php" title="Rechner der 2. Generation mit Transistoren">mit Transistoren</a>
@@ -176,7 +176,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="/de/kommunikationstechnik/rundfunk.php#DUMME-VERLINKUNG">Kommunikations-technik</a>
+	<li><a href="/de/kommunikationstechnik/rundfunk.php">Kommunikations-technik</a>
 		<ul class="u2">
 			<li><a seiten_id="rundfunk" href="/de/kommunikationstechnik/rundfunk.php">Rundfunk</a>
 				<ul class="u3 geraete">
@@ -203,7 +203,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="/de/kommunikationstechnik/messtechnik.php#DUMME-VERLINKUNG">Weitere Themen</a>
+	<li><a href="/de/kommunikationstechnik/messtechnik.php">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/de/kommunikationstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
 			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola</a>

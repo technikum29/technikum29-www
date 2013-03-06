@@ -20,7 +20,7 @@
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li class="has-submenu"><a href="/en/development-projects.php#DUMME-VERLINKUNG">Projects</a>
+	<li class="has-submenu"><a href="/en/development-projects.php">Projects</a>
 		<ul class="u2">
 			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en/study-projects.php">Study projects</a></li>
 			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en/development-projects.php">development projects</a>
@@ -49,7 +49,7 @@
 					<li><a seiten_id="sprocket-wheel-machine" href="/en/devices/sprocket-wheel-machine.php">Sprocket wheel machine</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/computer/punchcard.php#DUMME-VERLINKUNG">Punch card computing</a>
+			<li><a href="/en/computer/punchcard.php">Punch card computing</a>
 				<ul class="u3">
 					<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php" title="Punchers and Periphery">Punchers</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/en/computer/tabulating-machine.php">Tabulating machine</a></li>
@@ -108,7 +108,7 @@
 					<li><a seiten_id="details2" href="/en/details2.php">Mid range data processing equipment and proffessional early computers</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/computer/electron-tubes.php#DUMME-VERLINKUNG">Electronical desk calculators</a>
+			<li><a href="/en/computer/electron-tubes.php">Electronical desk calculators</a>
 				<ul class="u3">
 					<li><a seiten_id="elektronenroehren" href="/en/computer/electron-tubes.php">with electron tubes</a></li>
 					<li><a seiten_id="transistoren" href="/en/computer/transistors.php">with transistors</a>
@@ -160,7 +160,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="/en/communication/broadcasting.php#DUMME-VERLINKUNG">Communication Technology</a>
+	<li><a href="/en/communication/broadcasting.php">Communication Technology</a>
 		<ul class="u2">
 			<li><a seiten_id="rundfunk" href="/en/communication/broadcasting.php">Broadcasting</a>
 				<ul class="u3 geraete">
@@ -187,7 +187,7 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="/en/communication/measurement.php#DUMME-VERLINKUNG">Miscellaneous</a>
+	<li><a href="/en/communication/measurement.php">Miscellaneous</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/en/communication/measurement.php">Measurement and Experimental technology</a></li>
 			<li><a seiten_id="sonstiges" href="/en/miscellaneous.php">Pianola</a></li>

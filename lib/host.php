@@ -21,7 +21,6 @@ abstract class t29Host {
 	/// Some identifier like a FQDN. Must be overwritten!
 	public $hostname = "undefined";
 
-
 	/**
 	 * Factory for creating a t29Host instance automatically
 	 * from the current host. This method will decide which 
@@ -36,7 +35,9 @@ abstract class t29Host {
 			include $hostfile;
 			if(class_exists(self::webroot_local_host_classname)) {
 				$x = self::webroot_local_host_classname;
-				return new $x;
+				$host = new $x;
+				$host->setup();
+				return $host;
 			} else {
 				print "Warning: Hostfile $hostfile does not contain class ".self::webroot_local_host_classname."\n";
 			}
@@ -46,16 +47,30 @@ abstract class t29Host {
 		switch($_SERVER['SERVER_NAME']) {
 			case 'heribert':
 			case 'localhost':
-				return new t29HeribertHost;
+				$localhost = new t29HeribertHost;
+				$localhost->setup();
+				return $localhost;
 		}
 		
-		return new t29PublicHost;
+		$publichost = new t29PublicHost;
+		$publichost->setup();
+		return $publichost;
+	}
+	
+	/**
+	 * A constructing method which is always called by the t29Host::detect() factory.
+	 * It does some general stuff.
+	 * Of course you can always write your own setup() class - it's just your __constructor.
+	 * The constructor will of course be called before the setup() method.
+	 **/
+	function setup() {
+		$this->is_rewriting_host = isset($_SERVER[self::env_hidesuffix_name]);
 	}
 	
 	function check_url_rewrite() {
-		if(isset($_SERVER[self::env_hidesuffix_name])) {
+		if($this->is_rewriting_host) {
 			$path = $_SERVER['REQUEST_URI'];
-			$newpath = preg_replace("/\.(php|shtml?)$/i", '', $path);
+			$newpath = $this->rewrite_link($path);
 			if($path != $newpath) {
 				header('HTTP/1.1 301 Moved Permanently');
 				header('Location: '.$newpath);
@@ -66,7 +81,25 @@ abstract class t29Host {
 	}
 
 	public function __toString() {
-		return 't29v6/host:'.$this->hostname;
+		return 't29v6/'.$this->hostname;
+	}
+	
+	function rewrite_link($link_target) {
+		// rewrite link if neccessary. This function will be called hundreds of times
+		// while rendering a page, rewriting all links found.
+		if($this->is_rewriting_host) {
+			$new_target = preg_replace('/\.(?:php|shtml?)([#?].+)?$/i', '\\1', $link_target);
+			return $new_target;
+		} else {
+			// just the identity function
+			return $link_target;
+		}
+		
+	}
+	
+	function get_shorthand_link_returner() {
+		$t = $this;
+		return function($link_target)use($t) { return $t->rewrite_link($link_target); };
 	}
 
 	abstract function fillup_template_conf(&$template_conf);

@@ -1,6 +1,9 @@
 <?php
 /**
- * technikum29v6 Page Template
+ * technikum29v6 Page Template.
+ * Initially written 08.01.2012, Sven Koeppel
+ *
+ * This file contains the t29v6 HTML5 template (header, footer, structure, ...).
  *
  * Global vars:
  *  $lang = de | en
@@ -17,13 +20,37 @@ class t29Template {
 	public $page_relations, $interlang_links;
 	public $log; // lightweight logging system
 
+	/**
+	 * The t29Template constructor.
+	 *
+	 * The template class is embedded into the t29v6 class framework. It
+	 * uses t29Log for logging, t29Messages for any localisation strings,
+	 * t29RessourceLoader for resolving URLs for CSS and JavaScript ressources.
+	 * t29Menu is a helper class considered for parsing and extracting
+	 * any relations between pages and the menu from navigation.xml.
+	 *
+	 * From the t29v6 entrypoint, technikum29.php, this class is instanced
+	 * at the end, if no caching has worked. That call looks like
+	 *
+	 *   $template = new t29Template($GLOBALS);
+	 *
+	 * which means that our configuration $this->conf will be set up from the
+	 * former global namespace. For correct working, at least some global vars
+	 * like
+	 *   $lib
+	 *   $lang
+	 *   $host
+	 *   ...
+	 * are considered as present (see above for a list).
+	 *
+	 **/
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
 		
 		// fetch the lightweight logging object:
 		require_once $this->conf['lib'].'/logging.php';
 		$this->log = t29Log::get();
-
+		
 		// create a menu:
 		require_once $this->conf['lib'].'/menu.php';
 		$this->menu = new t29Menu($this->conf);
@@ -39,12 +66,12 @@ class t29Template {
 			$this->rl[$type] = t29RessourceLoader::create_from_type($type, $this->conf);
 
 		// fill up configuration
-
+		
 		// optional html headers which can be filled by hooks or parts
 		if(!isset($this->conf['header_prepend']))
 			$this->conf['header_prepend'] = array(); // list
 
-		// as t29Host for configuration fillup fillup
+		// ask t29Host for configuration fillup
 		$this->conf['host']->fillup_template_conf($this->conf);
 		
 		// Path names in messages
@@ -78,7 +105,8 @@ class t29Template {
 		foreach($javascript_transfer as $key)
 			$this->javascript_config[$key] = $this->conf[$key];
 		
-		// get all kind of relations
+		// get all kind of relations. Pages can afterwards be overwritten with t29Template
+		// methods (see below).
 		$this->page_relations = $this->menu->get_page_relations();
 		$this->interlang_links = $this->menu->get_interlanguage_link();
 		
@@ -99,6 +127,44 @@ class t29Template {
 			// Titel vom Menu nehmen
 			$this->conf['html_title'] = $this->conf['seiten_link'] . ' - ';
 		$this->conf['html_title'] .= $this->msg->_('html-title');
+		
+		// Unfortunately mostly a t29Template instance won't be visible to a page
+		// handled by technikum29.php. Therefore there is this small "future" trick:
+		if(isset($this->conf['template_callback']))
+			$this->conf['template_callback']($this);
+		// Now you can use code like
+		// $template_callback = function($template) {
+		//    $template->set_page_relation("next", "/de/example", "foo");
+		//    $template->menu->... read and modify anything ... etc
+		// }
+		// so the callback function is called at the end of the template constructor.
+		// This can be considered whenever giving a static configuration variables
+		// is not enough.
+	}
+	
+	/**
+	 * Overwrite the page relations given by the t29Menu.
+	 * By setting $relation to "prev" or "next", you can overwrite the
+	 * relations which has been set up by construction by $this->menu->get_page_relations().
+	 * Thus any page can state any relations. For sure they are only one-directional,
+	 * the other pages don't know anything about such relations because no vice-versa
+	 * introspection can be done.
+	 **/
+	function set_page_relation($relation, $href, $label) {
+		// good values for $relation are: "prev", "next".
+		// Link is composed as <a href="$href">$label</a>.
+		$this->page_relations[$relation] = t29Menu::dom_new_link($href, $label);
+		print_r($this->page_relations);
+	}
+
+	/**
+	 * Overwrite the interlanguage link list given by the t29Menu.
+	 * This does the same as set_page_relation() only for interlanguage links.
+	 **/
+	function set_interlang_link($lang, $href, $label) {
+		// good values for $lang are: "de", "en".
+		// Link is composed as <a href="$href">$label</a>.
+		$this->interlang_links[$lang] = t29Menu::dom_new_link($href, $label);
 	}
 	
 	/**
@@ -132,15 +198,15 @@ class t29Template {
 	}
 
 	function print_header() {
-		$p = $this->msg->get_shorthand_printer();
-		$_ = $this->msg->get_shorthand_returner();
+		$p = $this->msg->get_shorthand_printer(); // t29Messages gettext printer
+		$_ = $this->msg->get_shorthand_returner(); // t29Messages gettext
+		$href = $this->conf['host']->get_shorthand_link_returner(); // t29Host link rewriter
 ?>
 <!doctype html>
 <html class="no-js" lang="<?php echo $this->conf['lang']; ?>">
 <head>
   <meta charset="utf-8">
   <title><?php echo $this->conf['html_title']; ?></title>
-  <meta name="description" content="Produziert am 08.01.2012">
   <meta name="author" content="technikum29-Team">
   <meta name="generator" content="<?php print $this->conf['host']; ?>">
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
@@ -154,23 +220,25 @@ class t29Template {
   ?>
   
   <?php
-	foreach(array_merge(array("first" => t29Menu::dom_new_link($this->conf['lang_path'], $_('head-rel-first'))),
-	  $this->page_relations) as $rel => $a) {
+	foreach(array_merge(
+		array("first" => t29Menu::dom_new_link($this->conf['lang_path'], $_('head-rel-first'))),
+		$this->page_relations
+	) as $rel => $a) {
 		if($rel == 'start') continue; // not in standard
 		printf("\n  <link rel='%s' href='%s' title='%s' />",
-			$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a))
+			$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a))
 		);
 	}
   ?>
   
-  <link rel="copyright" href="<?php $p('footer-legal-file'); ?>" title="<?php $p('footer-legal-link'); ?>">
-  <link rel="search" type="application/opensearchdescription+xml" href="<?php $p('topnav-search-page'); print '?action=opensearch-desc&amp;lang='.$this->conf['lang']; ?>" title="<?php $p('opensearch-desc'); ?>">
+  <link rel="copyright" href="<?php $href($p('footer-legal-file')); ?>" title="<?php $href($p('footer-legal-link')); ?>">
+  <link rel="search" type="application/opensearchdescription+xml" href="<?php $href($p('topnav-search-page')); print '?action=opensearch-desc&amp;lang='.$this->conf['lang']; ?>" title="<?php $p('opensearch-desc'); ?>">
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {
 		if($lang != $this->conf['lang'] && !is_null($a)) {
 			printf('<link rel="alternate" href="%s" hreflang="%s" title="%s">',
-				$a['href'], $lang, sprintf($_('head-rel-interlang', $lang), $a)
+				$href($a['href']), $lang, $this->relational_link_to_string($a)
 			);
 		}
 	}
@@ -189,13 +257,14 @@ class t29Template {
 	<h1 role="banner"><a href="/" title="<?php $p('head-h1-title'); ?>"><?php $p('head-h1'); ?></a></h1>
 	<div id="background-color-container"><!-- helper -->
 	<section class="main content" role="main" id="content">
-		<?php 
-			if(!$this->log->is_empty()) {
-				print '<div class="errorpane">';
-				$this->log->print_all();
-				print '</div>';
-			}
+		<ul class="messages panel <?php if($this->log->is_empty()) echo 'empty'; ?> nolist">
+		<?php
+			// This prints out error messages collected by the log only until this point
+			$this->log->print_all();
+			// All log entries generated until final processing will be flushed out at the
+			// end; a userspace javascript helper will then move them here.
 		?>
+		</ul>	
 		<!--<header class="teaser">
 			<h2 id="pdp8L">Wissenschaftliche Rechner und Minicomputer</h2>
 			<img width=880 src="http://www.technikum29.de/shared/photos/rechnertechnik/univac/panorama-rechts.jpg">
@@ -205,8 +274,10 @@ class t29Template {
 } // function print_header().
 
 	function print_footer() {
-		$p = $this->msg->get_shorthand_printer();
-		$_ = $this->msg->get_shorthand_returner();
+		$p = $this->msg->get_shorthand_printer(); // t29Messages gettext printer
+		$_ = $this->msg->get_shorthand_returner(); // t29Messages gettext
+		$href = $this->conf['host']->get_shorthand_link_returner(); // t29Host link rewriter
+		
 	?>
 	<!-- end content -->
 	</section>
@@ -214,7 +285,7 @@ class t29Template {
 	<section class="sidebar top">
 			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
 			<nav class="side">
-				<?php $this->menu->print_menu(t29Menu::sidebar_menu); ?>
+				<?php $this->menu->print_menu(t29Menu::sidebar_menu, $this->conf['host']); ?>
 			</nav>
 			<!-- menu changing buttons are made with javascript -->
 	</section>
@@ -226,7 +297,7 @@ class t29Template {
 	<header class="banner">
 		<h2 class="visuallyhidden"><?php $p("sidebar-h2-mainnav"); ?></h2>
 		<nav class="horizontal">
-			<?php $this->menu->print_menu(t29Menu::horizontal_menu); ?>
+			<?php $this->menu->print_menu(t29Menu::horizontal_menu, $this->conf['host']); ?>
 		</nav>
 		<nav class="top">
 			<h3 class="visuallyhidden"><?php $p("sidebar-h2-lang"); ?></h3>
@@ -249,13 +320,13 @@ class t29Template {
 						}
 						printf("\t\t\t\t<li%s><a href='%s' title='%s'>%s</a></li>\n",
 							(empty($class) ? '' : " class='$class'"),
-							$a['href'], htmlspecialchars($title),
+							$href($a['href']), htmlspecialchars($title),
 							$this->conf['languages'][$lang][0] // verbose language name
 						);
 					}
 				?>
 			</ul>
-			<form method="get" action="<?php $p('topnav-search-page'); ?>">
+			<form method="get" action="<?php $href($p('topnav-search-page')); ?>">
 				<span class="no-js"><?php $p('topnav-search-label'); ?>:</span>
 				<input type="text" value="" data-defaultvalue="<?php $p('topnav-search-label'); ?>" name="q" class="text">
 				<input type="submit" value="<? $p('topnav-search-label'); ?>" class="button">
@@ -264,8 +335,9 @@ class t29Template {
     </header>
 	<hr>
 	<?php
-		// only print menu when in sidebar where it applies
-		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side');
+		// only print menu when in sidebar where it applies.
+		// it can also be forced with a global setting $force_footer_menu = 1
+		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side') || isset($this->conf['force_footer_menu']);
 	?>
     <footer class="in-sheet <? if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
@@ -277,7 +349,7 @@ class t29Template {
 			  if($print_footer_menu)
 				foreach($this->page_relations as $rel => $a) {
 					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
-						$rel, $a['href'], sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
+						$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
 						$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
 					);
 				}
@@ -294,18 +366,26 @@ class t29Template {
 	<!--
 	<ul class="clearfix">
 	<li class="logo">
-		<a href="<?php $p('footer-legal-file'); ?>" class="img" title="technikum29 Logo">Logo</a>
+		<a href="<?php $href($p('footer-legal-file')); ?>" class="img" title="technikum29 Logo">Logo</a>
 		<p><?php $p('footer-copyright-tag'); ?>
-		   <br><?php printf('<a href="%s">%s</a>', $_('footer-legal-file'), $_('footer-legal-link')); ?>
+		   <br><?php printf('<a href="%s">%s</a>', $href($_('footer-legal-file')), $_('footer-legal-link')); ?>
 		</p>
 	</li>
 	<li class="copy">
-		<a href="<?php $p('footer-legal-file'); ?>#image-copyright" class="img">CC</a>
-		<p>Viele Bilder können unter einer <a href="<?php $p('footer-legal-file'); ?>#image-copyright">CreativeCommons-Lizenz</a>
-		   verwendet werden. <a href="<?php $p('footer-legal-file'); ?>#image-copyright">Erkundigen Sie sich</a>.</p>
+		<a href="<?php $href($p('footer-legal-file')); ?>#image-copyright" class="img">CC</a>
+		<p>Viele Bilder können unter einer <a href="<?php $href($p('footer-legal-file')); ?>#image-copyright">CreativeCommons-Lizenz</a>
+		   verwendet werden. <a href="<?php $href($p('footer-legal-file')); ?>#image-copyright">Erkundigen Sie sich</a>.</p>
 	</li>
 	</ul>
 	-->
+	<?php
+		// pending log messages
+		if(!$this->log->is_empty()) {
+			echo '<ul class="messages footer nolist">';
+			$this->log->print_all();
+			echo '</ul>';
+		}
+	?>
   </footer>
 </div><!-- end of div id="footer-background-container" helper -->
 

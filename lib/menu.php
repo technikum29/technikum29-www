@@ -6,10 +6,12 @@
  **/
 
 require_once dirname(__FILE__).'/messages.php';
+require_once dirname(__FILE__).'/logging.php';
  
 class t29Menu {
 	public $conf;
 	public $xml;
+	public $log; // just for convenience
 
 	// Bevor es eine ordentliche Dev-Moeglichkeit gibt: Der magische
 	// Schalter zum Ausblenden der Geraeteseiten im Menue
@@ -25,6 +27,7 @@ class t29Menu {
 
 	function __construct($conf_array) {
 		$this->conf = $conf_array;
+		$this->log = t29Log::get(); // just for convenience
 		
 		// create a message object if not given
 		if(!isset($this->conf['msg']))
@@ -69,7 +72,8 @@ class t29Menu {
 		foreach($data as $e) {
 			if(!array_reduce(array_map(function($x) use ($fields,$e){ return isset($e[$x]); }, $fields),
 					function($a,$b){ return $a && $b;}, true)) {
-				$li = "<li>Fehler in Formatierung!";
+				$li = "<li><a href='#'>Fehler in Formatierung!<em>Dieser Menüeintrag ist falsch formatiert</em></a></li>";
+				$this->log->WARN("<h5>Neuigkeiten-Menü: Fehler in Formatierung</h5><p>Ein Eintrag im Neuigkeiten-Menü ist falsch formatiert.");
 			} else {
 				$url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
 				$li = "<li><a href='$url'>$e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
@@ -204,8 +208,9 @@ class t29Menu {
 	///////////////////// MENU ACTIVE LINK DETECTION
 	/**
 	 * @arg $xpath_menu_selection  one of the horizontal_menu / sidebar_menu consts.
+	 * @arg $host Instance of t29Host which can be used for link rewriting if given.
 	 **/
-	function print_menu($xpath_menu_selection) {
+	function print_menu($xpath_menu_selection, $host=null) {
 		if($this->xml_is_defective()) {
 			print "The Menu file is broken.";
 			return false;
@@ -253,6 +258,14 @@ class t29Menu {
 				$uld = dom_import_simplexml($ul);
 				$uld->parentNode->removeChild($uld);
 			}
+		}
+		
+		// alle Links mittels t29Host umwandeln (idR .php-Endung entfernen),
+		// falls erwuenscht
+		if($host) {
+			$links = $xml->xpath("//a[@href]");
+			foreach($links as $a)
+				$a['href'] = $host->rewrite_link($a['href']);
 		}
 	
 		if($xpath_menu_selection == self::horizontal_menu) {

@@ -8,7 +8,7 @@
 
 <h2><?php print $titel; ?></h2>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="1">
+<table width="100%" border="0" cellpadding="0" cellspacing="1" class="t29-details">
   <colgroup>
     <col class="middle" /> <!-- middle-Klasse nicht -->
     <col class="middle" /> <!-- eingerichtet        -->

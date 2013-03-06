@@ -145,7 +145,7 @@ class t29Messages {
 		'head-rel-first'         => array('Deutscher Start', 'English start'),
 		'head-rel-prev'          => array('Zur vorherigen Seite (%s)', 'Previous Page (%s)'),
 		'head-rel-next'          => array('Zur folgenden Seite (%s)', 'Next Page (%s)'),
-		'head-rel-interlang'     => array('Deutsche Version dieser Seite (%s)', 'English Version of this page (%s)'),
+		 //'head-rel-interlang'     => array('Deutsche Version dieser Seite (%s)', 'English Version of this page (%s)'),
 		
 		// used in /shared/js/modules/heading_links.js
 		'js-heading-links'       => array("Direktlink zu diesem Abschnitt", "Link to this section"),
@@ -159,5 +159,9 @@ class t29Messages {
 		'js-piwik-noscript-imgsrc' => '/logs/piwik/piwik.php?idsite=1',
 		'js-piwik-url-prefix' => '/logs/piwik/',
 		'js-piwik-siteid' => '1',
+		
+		// interlang.js
+		'js-interlang-notify-heading' => array("This page is also avaliable in English", "Diese Website gibt es auch auf Deutsch"),
+		'js-interlang-notify-text' => array("Do you want to switch to the English version <i>%s</i>?", "Möchtest du die deutschsprachige Seite <i>%s</i> lesen?"),
 	);
 }

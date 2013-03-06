@@ -25,51 +25,53 @@
 \**********************************************************************/
 
 
-#content td, #content table, #content tr {
+#content table.t29-details td,
+#content table.t29-details,
+#content table.t29-details tr {
     font: 12px Verdana;
 }
 
-#content table {
+#content table.t29-details {
     border-spacing: 1px;
     border-collapse: separate;
 }
 
-#content table p {
+#content table.t29-details p {
     text-align: justify;
     line-height: 120%;
 }
 
-#content table p.center {
+#content table.t29-details p.center {
     margin: 5px 0px;
     text-align: center;
 }
 
-#content td b {
+#content table.t29-details td b {
     display: block;
 }
 
-#content td.b, #content td.b a {
+#content table.t29-details td.b, #content table.t29-details td.b a {
     font-weight: bold;
 }
 
-#content table {
+#content table.t29-details {
     background-color: #7090C0;
 }
 
-#content td {
+#content table.t29-details td {
     padding: 2px;
     vertical-align: middle;
     text-align: center;
     background-color: #F7FDFF;
 }
 
-#content th {
+#content table.t29-details th {
     padding: 2px;
     text-align: center;
     background-color: #BED0E5;
 }
 
-#content .bemerkungen {
+#content table.t29-details .bemerkungen {
     vertical-align: middle;
     text-align: justify;
 }

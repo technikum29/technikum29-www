@@ -6,8 +6,12 @@ class t29Search {
 	);
 
 	function page_handler() {
-		if(!isset($_GET['action']))
+		if(!isset($_GET['action'])) {
+			// This is an "ordinary" page call.
+			// do some organisation stuff and return.
+			$this->setup_interlang();
 			return;
+		}
 		$action = $_GET['action'];
 		if(array_key_exists($action, self::$actions)) {
 			$method_name = self::$actions[$action];
@@ -38,5 +42,39 @@ class t29Search {
 		</OpenSearchDescription>
 		<?php
 		exit;
+	}
+	
+	/**
+	 * Since the search isn't denoted in the navigation.xml, the interlanguage
+	 * system doesn't work. This method fixes that by talking with t29Template.
+	 * This must be done after including technikum29.php.
+	 **/
+	function setup_interlang() {
+		$GLOBALS['template_callback'] = function($template) {
+			// Interlanguage Links: Defakto nicht cachebar da das Cachesystem fuer dynamische Seiten
+			// den header/footer cacht und damit auch die Interlang-Eintraege. Links wie
+			// "/de/suche.php"+$_SERVER['QUERY_STRING'] funktionieren daher nicht dynamisch,
+			// da der Head ja gecacht wird. Ist ein nicht so wichtiges FIXME.
+			$template->set_interlang_link("de", "/de/suche.php", "Suche");
+			$template->set_interlang_link("en", "/en/search.php", "Search");
+		};
+	}
+	
+	function google_search_snippet() {
+	?>
+	<script>
+		(function() {
+		var cx = '010117769997860607363:ovbd9zjaaps';
+		var gcse = document.createElement('script');
+		gcse.type = 'text/javascript';
+		gcse.async = true;
+		gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+			'//www.google.com/cse/cse.js?cx=' + cx;
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(gcse, s);
+		})();
+	</script>
+	<gcse:search></gcse:search>
+	<?php
 	}
 }

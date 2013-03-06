@@ -25,8 +25,6 @@
   text: "Ein neuer Rechner im Museum"
   link: "#Juli_2012"
   
-- 
-
 MENU;
 // ende der menue-Eintraege
 

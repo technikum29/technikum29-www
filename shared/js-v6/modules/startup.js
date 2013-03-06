@@ -19,9 +19,13 @@ t29.startup.modules = [
 	'heading_links',
 	'img_license',
 	'lightbox',
+	'log',
 
 	// ganz am anfang
 	'prefs',
+	
+	// needs log, t29msg
+	'interlang',
 
 	// needs prefs
 	'menu',

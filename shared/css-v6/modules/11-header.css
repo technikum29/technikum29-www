@@ -175,7 +175,7 @@ nav.top form, nav.top ul {
 
 nav.top form {
 	/* Suche, solange sie noch nicht fertig ist, ausblenden. */
-	display: none;
+	/*display: none;*/ /* Online gegangen im Maerz 2013 */
 }
 
 nav.top input.text, nav.top input.text.defaultvalue {

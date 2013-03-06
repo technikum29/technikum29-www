@@ -1,17 +1,14 @@
 <?php
-	$seiten_id = 'functional-pianola';
+	$seiten_id = 'pianola-funktionserklaerung';
 	$version = '$Id';
 	$titel = 'Functional explanation of the pianola';
 	
 	require '../../lib/technikum29.php';
 ?>
-<h2>This page is in the development, please check back later</h2><br>
-<h2><?php print $title; ?></h2>
+<h2>Functional explanation of the pianola</h2>
 
-
-
-<div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/pianola-offen.jpg"><img src="fotos/thumb.pianola-offen.jpg" alt="Inside view of the pianola" width="300" height="225"></a>
+<div class="desc-right auto-bildbreite borderless no-copyright" title="Zum VergrÃ¶ÃŸern klicken">
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/pianola-offen.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.pianola-offen.jpg" alt="Inside view of the pianola" width="300" height="225"></a>
    <p>Inside view of the pianola</p>
 </div>
    
@@ -22,18 +19,18 @@ of a motor. The pneumatic system of the instrument described in the following
 is powered by a motor.</p>
 
 
-<div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/abfuehlkamm.jpg"><img src="fotos/thumb.abfuehlkamm.jpg" alt="Touch sliding block" width="268" height="109"></a>
+<div class="desc-left auto-bildbreite borderless no-copyright" title="Zum VergrÃ¶ÃŸern klicken">
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/abfuehlkamm.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.abfuehlkamm.jpg" alt="Touch sliding block" width="268" height="109"></a>
    <p>Touch sliding block</p>
 </div>
 
-<div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken" style="clear: left;">
-   <a class="popup" href="fotos/notenrolle.jpg"><img src="fotos/thumb.notenrolle.jpg" alt="music roll" width="268" height="175"></a>
+<div class="desc-left auto-bildbreite borderless no-copyright" title="Zum VergrÃ¶ÃŸern klicken" style="clear: left;">
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/notenrolle.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.notenrolle.jpg" alt="music roll" width="268" height="175"></a>
    <p>Music roll</p>
 
 </div>
 <!--<div class="left-thumb" style="width: 260px;">
-   <img src="zoomgrafiken/rolle.png" alt="Rolle schematisch">
+   <img src="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/rolle.png" alt="Rolle schematisch">
    <p>Die ablaufende Rolle und die Abtastung rein schematisch</p>
 </div>-->
 The piano roll is a strip of paper, many meters long, with holes punched in
@@ -44,8 +41,8 @@ control the pedals, the attack and the like.
 
 
 </p>
-<div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="fotos/pianola-innen.jpg"><img src="fotos/thumb.pianola-innen.jpg" alt="Back view of the pianola" width="300" height="225"></a>
+<div class="desc-right auto-bildbreite borderless no-copyright" title="Zum VergrÃ¶ÃŸern klicken">
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/pianola-innen.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.pianola-innen.jpg" alt="Back view of the pianola" width="300" height="225"></a>
    <p>Back view of the pianola</p>
 </div>
 <p>Clearly visible in the picture of the right are the yellow colored lead tubes
@@ -54,12 +51,12 @@ called "relays" and amplify the tiny differential pressures delivered by the
 pickup mechanism sufficiently to actuate the keys and pedals of the piano.</p>
 
 
-<div class="box center" title="Zum Vergrößern klicken">
-   <a href="zoomgrafiken/schema-uebersicht.png"><img style="border: none;" src="zoomgrafiken/thumb.schema-uebersicht.png" alt="Schematic diagram of a single amplifier/actuator
+<div class="box center" title="Zum VergrÃ¶ÃŸern klicken">
+   <a href="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/schema-uebersicht.png"><img style="border: none;" src="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/thumb.schema-uebersicht.png" alt="Schematic diagram of a single amplifier/actuator
 (relay) element"></a>
-   <p> Schematic diagram of a single amplifier/actuator
+   <p class="center"> Schematic diagram of a single amplifier/actuator
 (relay) element
-   (<a href="zoomgrafiken/schema-uebersicht.png">größeres Bild</a>)</p>
+   (<a href="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/schema-uebersicht.png">grÃ¶ÃŸeres Bild</a>)</p>
 </div>
 
 
@@ -69,9 +66,9 @@ pickup mechanism sufficiently to actuate the keys and pedals of the piano.</p>
     $ for bild in *.png; do convert -verbose $bild -resize 200x150\> -size 200x150 xc:white +swap -gravity center -composite thumb.$bild; done;
 -->
 
-<h3><a href="einzelbilder/Bild1.png">Picture 1</a>: Quiescent state</h3>
+<h3 class="clear"><a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild1.png">Picture 1</a>: Quiescent state</h3>
 <div class="box left">
-    <a class="thumb" href="einzelbilder/Bild1.png"><img src="einzelbilder/thumb.Bild1.png" alt="Amplifier/actuator in quiescent state"></a>
+    <a class="thumb" href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild1.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/thumb.Bild1.png" alt="Amplifier/actuator in quiescent state"></a>
 </div>
 
 <p>The schematic diagram shows one relay element. 88 of these are necessary to
@@ -79,11 +76,11 @@ control all of the piano's keys. Due to their size, these 88 relays are mounted
 in three rows. Yellow color denotes part of the vacuum system while blue marked
 areas are at atmospheric pressure. </p>
 
-<h3><a href="einzelbilder/Bild2.png">Picture 2</a>: Hole in the piano roll, air enters the pickup bar</h3>
+<h3 class="clear"><a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild2.png">Picture 2</a>: Hole in the piano roll, air enters the pickup bar</h3>
 <div class="box left">
-    <a href="einzelbilder/Bild2.png"><img src="einzelbilder/thumb.Bild2.png" alt="Schema des pneumatischen Systems während Luft einströmt"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild2.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/thumb.Bild2.png" alt="Schema des pneumatischen Systems wÃ¤hrend Luft einstrÃ¶mt"></a>
 </div><div class="box right">
-    <a href="einzelbilder/Bild2.png"><img src="einzelbilder/big.Bild2.png" alt="Ausschnitt aus dem Schema des pneumatischen Systems, während Luft einströmt"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild2.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/big.Bild2.png" alt="Ausschnitt aus dem Schema des pneumatischen Systems, wÃ¤hrend Luft einstrÃ¶mt"></a>
 </div>
 
     <p>A hole in the piano roll allows air to enter the corresponding hole in the
@@ -92,11 +89,11 @@ inflated by this stream of air which in turn opens the valve.
 </p>
 
 
-<h3><a href="einzelbilder/Bild3.png">Picture 3</a>: Amplification:</h3>
+<h3 class="clear"><a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild3.png">Picture 3</a>: Amplification:</h3>
 <div class="box left">
-    <a href="einzelbilder/Bild3.png"><img src="einzelbilder/thumb.Bild3.png" alt="Schema des pneumatischen Systems, erster Kolben bewegt sich"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild3.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/thumb.Bild3.png" alt="Schema des pneumatischen Systems, erster Kolben bewegt sich"></a>
 </div><div class="box right">
-    <a href="einzelbilder/Bild3.png"><img src="einzelbilder/big.Bild3.png" alt="Vergrößerung des Verstärkungseffekts durch den Kolben"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild3.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/big.Bild3.png" alt="VergrÃ¶ÃŸerung des VerstÃ¤rkungseffekts durch den Kolben"></a>
 </div>
 
 <p>This right valve allows air to enter the left part of the relay which is built
@@ -107,12 +104,11 @@ controls the first (right) valve which acts as a first amplifier stage. This
 controls the second (left) valve which acts as a power amplifier operating the
 the bellow shown below the relay unit.</p>
 
-
-<h3><a href="einzelbilder/Bild4.png">Picture 4</a>: Contracting the bellow</h3>
+<h3 class="clear"><a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild4.png">Picture 4</a>: Contracting the bellow</h3>
 <div class="box left">
-    <a href="einzelbilder/Bild4.png"><img src="einzelbilder/thumb.Bild4.png" alt="Schema des pneumatischen Systems: Der zweite Kolben sorgt für eine weitere Verstärkung des Effektes"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild4.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/thumb.Bild4.png" alt="Schema des pneumatischen Systems: Der zweite Kolben sorgt fÃ¼r eine weitere VerstÃ¤rkung des Effektes"></a>
 </div><div class="box right">
-    <a href="einzelbilder/Bild4.png"><img src="einzelbilder/big.Bild4.png" alt="Ausschnitt aus dem Schema in der jetzigen Position"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild4.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/big.Bild4.png" alt="Ausschnitt aus dem Schema in der jetzigen Position"></a>
 </div>
 
 <p>The left valve of the relay connects the bellow located under the relay block
@@ -121,11 +117,11 @@ will cause the bellow to contract which in turn moves the corresponding key of
 the piano.</p>
 
 
-<h3 class="clear"><a href="einzelbilder/Bild5.png">Picture 5</a>: Preview of a tone</h3>
+<h3 class="clear"><a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild5.png">Picture 5</a>: Preview of a tone</h3>
 <div class="box left">
-    <a href="einzelbilder/Bild5.png"><img src="einzelbilder/thumb.Bild5.png" alt="Schema des pneumatischen Systems: die Luft strömt aus dem Blasebalg, er zieht sich zusammen"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild5.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/thumb.Bild5.png" alt="Schema des pneumatischen Systems: die Luft strÃ¶mt aus dem Blasebalg, er zieht sich zusammen"></a>
 </div><div class="box right">
-    <a href="einzelbilder/Bild5.png"><img src="einzelbilder/big.Bild5.png" alt="Vergrößerung der Bewegung des Blasebalges"></a>
+    <a href="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild5.png"><img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/big.Bild5.png" alt="VergrÃ¶ÃŸerung der Bewegung des Blasebalges"></a>
 </div>
 <p>Without additional hardware, the bellow would stay in the contracted state
 after being actuated once. Thus, some means are necessary to release the bellow
@@ -144,7 +140,7 @@ valve, which will eventually cause the bellow to inflate again. Now the
 pianola is ready to play the next note. </p>
 
 <div class="right">
-	<img src="entlueftung.png" alt="Die Entlüftungskammer">
+	<img src="/de/geraete/pianola-funktionserklaerung/entlueftung.png" alt="Die EntlÃ¼ftungskammer">
 </div>
 
 <p>The pianola is able to play pieces which were impossible to play for a human

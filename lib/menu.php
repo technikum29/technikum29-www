@@ -63,7 +63,13 @@ class t29Menu {
 		return $neues_menu;
 	}
 
-	function convert_news_data() {
+	/**
+	 * Liest das YAML-formatierte News-Menue aus der news.php-File der entsprechenden
+	 * Sprache aus und erzeugt daraus ein HTML-Menue, welches als String zurueckgegeben
+	 * wird.
+	 * @param $host Instance of t29Host which can be used for link rewriting if given.
+	 **/
+	function convert_news_data($host=null) {
 		require $this->conf['lib'].'/spyc.php';
 		$data = Spyc::YAMLLoad($this->load_news_data());
 		$fields = array('titel', 'text', 'link', /*'bild'*/);
@@ -76,6 +82,8 @@ class t29Menu {
 				$this->log->WARN("<h5>Neuigkeiten-Menü: Fehler in Formatierung</h5><p>Ein Eintrag im Neuigkeiten-Menü ist falsch formatiert.");
 			} else {
 				$url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
+				if($host)
+					$url = $host->rewrite_link($url);
 				$li = "<li><a href='$url'>$e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
 			}
 			$news_ul_content .= "\t".$li."\n";
@@ -270,7 +278,7 @@ class t29Menu {
 	
 		if($xpath_menu_selection == self::horizontal_menu) {
 			# inject news
-			$news_ul_content = $this->convert_news_data();
+			$news_ul_content = $this->convert_news_data($host);
 			$magic_comment = '<!--# INSERT_NEWS #-->';
 			$menu = $xml->ul->asXML();
 			print str_replace($magic_comment, $news_ul_content, $menu);

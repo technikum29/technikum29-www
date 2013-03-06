@@ -338,6 +338,15 @@ class t29Template {
 		// only print menu when in sidebar where it applies.
 		// it can also be forced with a global setting $force_footer_menu = 1
 		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side') || isset($this->conf['force_footer_menu']);
+		
+		/*
+		// print next or prev entry when the current page has a
+		// "show-rel-next" or "show-rel-prev" class entry
+		$current_link_classes = $this->menu->get_link_classes();
+		print_r($current_link_classes); exit;
+		$show_rel_next = in_array('show-rel-next', $current_link_classes);
+		$show_rel_prev = in_array('show-rel-prev', $current_link_classes);
+		*/
 	?>
     <footer class="in-sheet <? if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
@@ -346,13 +355,21 @@ class t29Template {
 		<nav class="rel clearfix">
 		<ul>
 			<?php
-			  if($print_footer_menu)
+			  if($print_footer_menu) //|| $show_rel_prev || $show_rel_next)
 				foreach($this->page_relations as $rel => $a) {
-					printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
-						$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
-						$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
-					);
-				}
+					/*
+					// only show the links wanted to be shown. Only relevant if
+					// the "show-rel-*"-magic is working.
+					if( $print_footer_menu
+					    (!$print_footer_menu && $rel == "prev" && $show_rel_prev) ||
+					    (!$print_footer_menu && $rel == "next" && $show_rel_next)) {
+					*/
+						printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
+							$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
+							$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
+						);
+					//} // endif
+				} // endfor
 			?>
 		</ul>
 		</nav>

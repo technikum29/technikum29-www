@@ -113,7 +113,7 @@ class t29Menu {
 		if($this->xml_is_defective()) {
 			return null;
 		}
-		if(!$seiten_id) $seiten_id = $this->conf['seiten_id'];
+		if(!$seiten_id)	$seiten_id = $this->conf['seiten_id'];
 		// convenience: If you found your link already.
 		if($seiten_id instanceof SimpleXMLElement) return $seiten_id;
 
@@ -152,6 +152,19 @@ class t29Menu {
 		$ul = $link->xpath("ancestor::ul");
 		$parent_ul = array_pop($ul);
 		return explode(' ',$parent_ul['class']);
+	}
+	
+	/**
+	 * Extracts a list of (CSS) classes the link has,
+	 * e.g. <a class="foo bar"> gives array("foo","basr").
+	 * @returns array or empty array in case of error
+	 **/
+	function get_link_classes($seiten_id=false) {
+		$link = $this->get_link($seiten_id);
+		print "link:"; var_dump($this->xml);
+		if(!$link) return array();
+		var_dump($link); exit;
+		return isset($link['class']) ? explode(' ',$link['class']) : array();
 	}
 
 	///////////////////// INTER LANGUAGE DETECTION
@@ -215,8 +228,16 @@ class t29Menu {
 
 	///////////////////// MENU ACTIVE LINK DETECTION
 	/**
+	 * print_menu is the central method in this class. It converts the $this->xml
+	 * XML tree to valid HTML with all enrichments for appropriate CSS styling.
+	 * It also removes all 'seiten_id' attributes.
+	 * This method does *not* clone the structure, so this instance won't produce
+	 * the same results any more after print_menu invocation! This especially will
+	 * affect get_link().
+	 *
 	 * @arg $xpath_menu_selection  one of the horizontal_menu / sidebar_menu consts.
 	 * @arg $host Instance of t29Host which can be used for link rewriting if given.
+	 * @returns nothing, since the output is printed out
 	 **/
 	function print_menu($xpath_menu_selection, $host=null) {
 		if($this->xml_is_defective()) {
@@ -233,6 +254,13 @@ class t29Menu {
 			return false;
 		}
 		$xml = $xml[0]; // just take the first result (should only one result be present)
+		
+		/*
+		// work on a deep copy of the data. Thus this method won't make the overall
+		// class useless.
+		$dom = dom_import_simplexml($xml);
+		$xml = simplexml_import_dom($dom->cloneNode(true));
+		*/
 
 		// aktuelle Seite anmarkern und Hierarchie hochgehen
 		// (<ul><li>bla<ul><li>bla<ul><li>hierbin ich <- hochgehen.)

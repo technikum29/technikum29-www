@@ -22,7 +22,7 @@
        this device works, we will explain the basic functionality and
        play challenging compositions. While having covers removed, you can
        even see the fascinating mechanics working.<br>
-	   <br><a class="go" href="/en/devices/functional-explanation-pianola.php/">Functional explanation of the pianola</a></p>
+	   <br><a class="go" href="/en/devices/functional-explanation-pianola.php/"><b>Functional explanation of the pianola</b></a></p>
     </p>
 
      <div class="box center">

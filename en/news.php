@@ -4,6 +4,12 @@
 	$titel = "What's new?";
 	
 	$neues_menu = <<< MENU
+	
+	- titel: "Pianola"
+  text: "Functional explanation of the pianola"
+  link: "#March_2013"
+	
+	
 - titel: "Gamma10"
   text: "The Gamma10-Printer has arrived at the museum"
   link: "#November_2012"
@@ -34,6 +40,16 @@ MENU;
 
 
     <ul class="news-feed">
+	
+	<li><h3>March 2013</h3><br>
+<div class="box left clear-after">
+    <img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild1.png"
+width="300" height="225">
+
+New on our website: <br> <br>
+  <a href="/en/devices/functional-explanation-pianola.php/"> <b>Functional explanation of the pianola</b></a>
+</li>
+	
 	<li><h3>November 2012</h3>
 	The Gamma 10 is now complete: the printer (fragment) has arrived here from France. Thus the BULL GAMMA 10 computer-system is finally complete. See "BULL GAMMA 10"
 	<div class="box left">

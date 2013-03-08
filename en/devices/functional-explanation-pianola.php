@@ -20,13 +20,13 @@ is powered by a motor.</p>
 
 
 <div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">
-   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/abfuehlkamm.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.abfuehlkamm.jpg" alt="Touch sliding block" width="268" height="109"></a>
-   <p>Touch sliding block</p>
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/abfuehlkamm.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.abfuehlkamm.jpg" alt="Pickup bar" width="268" height="109"></a>
+   <p>Pickup bar</p>
 </div>
 
 <div class="desc-left auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken" style="clear: left;">
-   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/notenrolle.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.notenrolle.jpg" alt="music roll" width="268" height="175"></a>
-   <p>Music roll</p>
+   <a class="popup" href="/de/geraete/pianola-funktionserklaerung/fotos/notenrolle.jpg"><img src="/de/geraete/pianola-funktionserklaerung/fotos/thumb.notenrolle.jpg" alt="Piano roll" width="268" height="175"></a>
+   <p>Piano roll</p>
 
 </div>
 <!--<div class="left-thumb" style="width: 260px;">
@@ -56,7 +56,7 @@ pickup mechanism sufficiently to actuate the keys and pedals of the piano.</p>
 (relay) element"></a>
    <p class="center"> Schematic diagram of a single amplifier/actuator
 (relay) element
-   (<a href="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/schema-uebersicht.png">größeres Bild</a>)</p>
+   (<a href="/de/geraete/pianola-funktionserklaerung/zoomgrafiken/schema-uebersicht.png">enlarge image</a>)</p>
 </div>
 
 

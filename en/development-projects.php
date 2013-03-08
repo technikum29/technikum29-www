@@ -79,7 +79,7 @@ performed with ordinary PCs.</p>
 <a class="go" href="http://dev.technikum29.de/projects/wiki/PaperTapeProject"
 >The Paper Tape Project</a>. The source code was released as open source can be checked
 out from the <a
-href="http://dev.technikum29.de/projects/browser/paper-tape-project/trunk">technikum29.de 
+href="http://dev.technikum29.de/projects/browser/projects/paper-tape-project/trunk">technikum29.de 
 subversion repository</a>.</p>
 
 <h3><a name="punchcard"></a>Reading punch cards with contemprary computers</h3>
@@ -128,7 +128,7 @@ how should we communicate to the computer (automatically)? Furthermore, in which
 should we represent a punch card with binary digits (zeros and ones)?
 <br/>While modeling 8 bit paper tapes into 8 bit bytes is trivial, a punch card, having
 80 columns with 12 rows each, is much more complex. Therefore we wrote the
-<a href="http://dev.technikum29.de/projects/export/head/punch-card-project/trunk/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
+<a href="http://dev.technikum29.de/projects/export/head/projects/punch-card-project/trunk/protocols/documation-m200/protocol.htm" class="go">PC Documation M200 µC Serial Communication Protocol</a> that defines the
 way how computer and microcontroller shall communicate autonomously. It defines, that
 two punch card columns shall be packed into three octetts, each. This binary format has
 been proposed by the computer sciencist <a href="http://www.cs.uiowa.edu/~jones/">Douglas
@@ -147,7 +147,7 @@ Windows, GNU/Linux, Apple OS X, etc. - there just needs to be some RS232 or USB 
 <a class="go" href="http://dev.technikum29.de/projects/wiki/PunchCardProject"
 >The Punch Card Project</a>. The source code was released as open source can be checked
 out from the <a
-href="http://dev.technikum29.de/projects/browser/punch-card-project/trunk">technikum29.de 
+href="http://dev.technikum29.de/projects/browser/projects/punch-card-project/trunk">technikum29.de 
 subversion repository</a>.</p>
 
 <!--  irgendwie schon sinnlos, auf ein deutsches PDF zu verlinken:

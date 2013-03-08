@@ -22,7 +22,41 @@
         <a href="/en/devices/ncr446.php" name="ncr-backlink"><img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="Photography of the NCR 446" width="694" height="520" /></a>
 	</div>
 	
-    <p>Apart from desktop calculators other small computer systems were introduced to solve commercial problems. The <b>NCR 446</b> on display is a so-called accounting machine and consists of a paper tape reader and punch, a keyboard and an IBM Selectric typewriter as printer. It was built 1968 in Germany. Due to its core memory and woven ROM the machine is freely programmable and thus very versatile.
+    The <b>NCR 446</b> is a typical example of a 2nd generation computer
+(transistorized).
+It was developed 1966/67 in Germany at the "National Registrier Kassen GmbH"
+in Augsburg by four engineers fresh from the university. One year later their
+development was finished and the system announced.<br>
+
+The architecture is rather unique. Programs are stored on a paper tape while
+operations are controlled by means of a threaded wire ROM. The system was
+sold as a accounting machine but was not limited to that area of application.<br>
+
+The system not only contains the paper tape reader for the program control,
+but also two paper tape readers for input data, one paper tape punch, a
+keyboard, and an IBM ball-head typewriter. <br>
+
+This system was quite expensive. The basic model without a paper tape punch
+and without the additional paper tape readers for data input was sold for about
+35,000 DM (about 18,000 EUR) - about as much as three mid-class cars would
+have cost at the same time.<br>
+
+The NCR 446 was the first "small" commercial system which was able to print
+text as well as numerical values. Such a machine was used by structural
+engineers to perform the necessary calculations and directly generate a
+printout that could be used by the customer. (Competing systems like the
+Olivetti Programma 101, 203 could only print plain numbers on a small strip
+of paper.)<br>
+
+Watching the operation of the machine is a great experience. Things like the
+calculation of a square root allow the viewer to get an idea of the
+underlying algorithm. Since the program is stored on a paper tape, every step performed
+by the machine can be seen.<br>
+
+<!-- A glimpse of the internal structure of the machine can be seen
+<a href="...">here</a>. -->
+
+
        <br/>Clicking on the picture yields a <href="/en/devices/ncr446.php">more detailed picture</a></p>
         <!-- das war B.Ulmann. Meine Übersetzung (alt):
         <img src="/shared/photos/start/ncr_rechner.jpg" alt="NCR-Rechner" style="margin-right: 25px" />

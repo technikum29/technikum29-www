@@ -62,5 +62,13 @@ if(!$debug) $js_cache->try_cache_and_exit();
 # so we are still in the game
 require "$lib/ressourceloader.php";
 $loader = new $class($conf);
-if(!$debug) $js_cache->start_cache(array($loader, 'compression_filter'), true);
+// TODO: there is a known bug with the filter function issue: Since t29Host variable web prefixes the
+//       filter function for CSS also does path rewriting which doesn't work when it is in debug mode.
+//       Anyway a page in debug mode also imports all untouched CSS files, anyway
+if(!$debug)
+	$js_cache->start_cache(array(
+		'shutdown_func' => null, // nothing to do afterwards for the cache
+		'filter_func'   => array($loader, 'compression_filter'), // compress if not debugging
+		'write_cache'   => true, // write the cache if not debugging
+	));
 $loader->run();

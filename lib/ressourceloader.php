@@ -31,7 +31,7 @@ $js->run();
 
 class t29RessourceLoader {
 	/**
-	 * expects: type, cache_file, module_dir, page_dir, glob_pattern, content_types, class, modules, debug
+	 * expects: type, cache_file, module_dir, page_dir, glob_pattern, content_types, class, modules, debug, host
 	 **/
 	public $conf;
 	
@@ -70,6 +70,20 @@ class t29RessourceLoader {
 		return file_exists($file) ? array($file_rel2webroot) : array();
 	}
 	
+	/**
+	 * Return a list of URLs appropriate for being included in a website. In general this
+	 * should be a list with one element, like array("/lib/loader.php?type=js"), which can
+	 * be directly expanded to a <script src="$1"></script> tag. Same applies for CSS.
+	 * In debug mode, the list will contain all base files.
+	 *
+	 * The URLs are relative to the t29 web document root, that is, no host specific web prefix
+	 * handling here.
+	 *
+	 * There is especially an issue with web prefixes and debug mode: Since clean untouched CSS/JS
+	 * files are passed there, there cannot be any rewriting in progress.
+	 *
+	 * @returns array
+	 **/
 	function get_urls($debug=null) {
 		global $webroot;
 		if(($debug !== null && $debug) || !$this->conf['debug']) {
@@ -227,6 +241,13 @@ class t29StyleSheetRessourceLoader extends t29RessourceLoader {
 
 	function compression_filter($code) {
 		global $lib;
+		require "$lib/host.php";
+		$host = t29Host::detect();
+		if($host->has_web_prefix)
+			// rewrite CSS image includes
+			$code = preg_replace('#(url\(["\']?)/#i', '\\1'.$host->web_prefix.'/', $code);
+		
+		
 		require "$lib/CSSMin.php";
 		# compression: 40kb to 16kb
 		$minified = CSSMin::minify($code);

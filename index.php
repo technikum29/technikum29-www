@@ -4,12 +4,21 @@
   */
  $de = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'de');
  $en = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'en');
-
+ 
+ // Support web prefixes, aka installation of the homepage in
+ // subdirectorys and not in virtual hosts
+ // Basically relative redirects would do the trick, too,
+ // but officially they are not allowed (not standard compilant)
+ include "lib/host.php";
+ $host = t29Host::detect();
+ // this is not implemented in the HTML below, since actually
+ // there is no browser who see's that HTML.
+ 
  if( ($en !== false && $de !== false && $de < $en) ||
      ($en === false && de !== false)              )
-        header("Location: /de/");
+        header("Location: {$host->web_prefix}/de/");
  else
-        header("Location: /en/");
+        header("Location: {$host->web_prefix}/en/");
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">

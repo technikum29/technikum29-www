@@ -104,6 +104,8 @@ class t29Template {
 		$javascript_transfer = array('lang', 'seiten_id', 'seite_in_nav', 'seite_in_ul');
 		foreach($javascript_transfer as $key)
 			$this->javascript_config[$key] = $this->conf[$key];
+		// also collect data from other classes, e.g. t29Host:
+		$this->javascript_config['web_prefix'] = $this->conf['host']->web_prefix;
 		
 		// get all kind of relations. Pages can afterwards be overwritten with t29Template
 		// methods (see below).
@@ -175,7 +177,12 @@ class t29Template {
 	 *                   (does not change behaviour of this file's code)
 	 **/
 	function create_cache($cache_object) {
-		$cache_object->start_cache(array($this, 'print_footer'));
+		$cache_object->start_cache(array(
+			'shutdown_func' => array($this, 'print_footer'), // print the footer with it
+			'filter_func'   => $this->conf['host']->has_web_prefix ? 
+				array($this, 'rewrite_page_prefix_links') : null, // Entrypoint for URL and content rewriting!
+		));
+		// directly start header printing
 		$this->print_header();
 	}
 	
@@ -183,11 +190,19 @@ class t29Template {
 	 * Write header and footer in separate cache files.
 	 **/
 	function create_separate_caches($header_cache, $footer_cache) {
-		$header_cache->start_cache();
+		$header_cache->start_cache(array(
+			 // start with no shutdown, filter, nor writing
+			'filter_func' => $this->conf['host']->has_web_prefix ? array($this, 'rewrite_page_prefix_links') : null,
+			'write_cache' => false,
+		));
 		$this->print_header();
 		$header_cache->write_cache(); // will also print out header immediately.
 		
-		$footer_cache->start_cache();
+		$footer_cache->start_cache(array(
+			 // start with no shutdown, filter, nor writing
+			'filter_func' => $this->conf['host']->has_web_prefix ? array($this, 'rewrite_page_prefix_links') : null,
+			'write_cache' => false,
+		));
 		$this->print_footer();
 		$footer_content = $footer_cache->write_cache(null, true); // don't print footer immediately.
 		
@@ -431,9 +446,19 @@ class t29Template {
 		$rl_links = $rl->get_urls( isset($_GET['rl_debug']) );
 		$rl_pagespecific_links = $rl->get_page_specific_urls($this->conf['seiten_id']);
 
-		foreach(array($rl_links, $rl_pagespecific_links) as $rls)
-			foreach($rls as $link)
+		foreach(array($rl_links, $rl_pagespecific_links) as $rls) {
+			foreach($rls as $link) {
+				// do the host link renaming conversion. This is more important if
+				// there is a web_prefix than for the suffix rewriting.
+				//$link = $this->conf['host']->rewrite_link($link, true);
 				printf($template, $link);
+			}
+		}
+	}
+	
+	function rewrite_page_prefix_links($content) {
+		// called by cache: rewrite the page contents
+		return preg_replace('#(href|src|action)=("|\')/#i', '\\1=\\2'.$this->conf['host']->web_prefix.'/', $content);
 	}
 
 

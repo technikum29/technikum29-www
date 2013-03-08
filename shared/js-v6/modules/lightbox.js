@@ -9,12 +9,18 @@
 if(!t29) window.t29 = {}; // the t29 namespace
 
 t29.lightbox = {};
+
+t29.lightbox.paths = {
+	'css': "/shared/js/fancybox/jquery.fancybox-1.3.4.css",
+	'js': "/shared/js/fancybox/jquery.fancybox-1.3.4.pack.js"
+};
+
 t29.lightbox.setup = function() {
 	var elements = $("#content .popup");
 	if(elements.length) {
 		// we have fancybox elements on this page. Load Javascript and CSS
-		$("<style type='text/css'/>").html('@import url("/shared/js/fancybox/jquery.fancybox-1.3.4.css")').appendTo("head");
-		$.getScript('/shared/js/fancybox/jquery.fancybox-1.3.4.pack.js', function(){
+		t29.load.css(t29.lightbox.paths.css);
+		t29.load.js(t29.lightbox.paths.js, function(){
 			elements.fancybox({
 				onComplete: function() {
 					// etwas quick and dirty:

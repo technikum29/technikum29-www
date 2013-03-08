@@ -24,7 +24,7 @@ $webroot = realpath("$lib/../");  # file path to root of t29 web installation
 require "$lib/host.php";
 $host = t29Host::detect();
 
-$file = substr($_SERVER['SCRIPT_FILENAME'], strlen($_SERVER['DOCUMENT_ROOT'])); # e.g.: "/de/page.php"
+$file = $host->script_filename; # e.g.: "/de/page.php"
 # Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
 if($file{0} != '/') $file = "/$file";
 

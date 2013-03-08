@@ -17,10 +17,38 @@ abstract class t29Host {
 	const webroot_local_host_classname = 't29LocalHost';
 	const env_hidesuffix_name = "T29URLHIDESUFFIX";
 
-
-	/// Some identifier like a FQDN. Must be overwritten!
+	/// $hostname: An identifier like a FQDN. Is only used to identify the t29Host instance and not
+	///            for constructing any URL.
+	/// This value must be overwritten in child classes!
 	public $hostname = "undefined";
-
+	
+	/// $document_root := realpath($_SERVER['DOCUMENT_ROOT']), performed by setup().
+	///                   Can be used to identify the unix file path to the webserver docroot of the
+	///                   webhost. Independent of the t29 system.
+	public $document_root;
+	
+	/// $webroot: The unix file path to the t29 web installation, actually the parent directory
+	///           of the lib/ directory. Is widely used by many files and also computed by themselves.
+	public $webroot;
+	/// $lib  := realpath(__FILE__), just for convenience. $lib = "$webroot/lib" always holds.
+	public $lib;
+	
+	/// $web_prefix: The URL path to the webroot. Example:
+	///              http://example.com/path/to/t29/de/page.php
+	///                                ^^^^^^^^^^^^
+	///                            This part is the web prefix, if /de/page.php is the script_filename.
+	/// This value is computed by setup().
+	public $web_prefix = "";
+	
+	/// $has_web_prefix := !empty($web_prefix). If this host is installed in root or not
+	public $has_web_prefix = false;
+	
+	/// $script_filename: The t29-internal identifying url path, like "/de/page.php" or "/en".
+	///                   While $_SERVER['SCRIPT_FILENAME'] still contains the $web_prefix, this
+	///                   string is sanitized.
+	/// This value is computed by setup().
+	public $script_filename;
+	
 	/**
 	 * Factory for creating a t29Host instance automatically
 	 * from the current host. This method will decide which 
@@ -62,9 +90,74 @@ abstract class t29Host {
 	 * It does some general stuff.
 	 * Of course you can always write your own setup() class - it's just your __constructor.
 	 * The constructor will of course be called before the setup() method.
+	 *
+	 * This method detects two things:
+	 *   1. if this host does Clean URLs (Suffix rewriting)
+	 *   2. if this host is *not* installed in its own virtualhost (i.e. on docroot). 
 	 **/
 	function setup() {
 		$this->is_rewriting_host = isset($_SERVER[self::env_hidesuffix_name]);
+		
+		$this->lib = dirname(__FILE__);
+		$this->webroot = realpath($this->lib . '/../');  # file path to root of t29 web installation
+		
+		/*
+		   calculate the web_prefix. This is kind of a detection.
+		   
+		   Examples for an installation in Document root:
+		      $lib = /var/www/technikum29.de/lib
+		      $webroot = /var/www/technikum29.de
+		      $_SERVER["DOCUMENT_ROOT"] = /var/www/technikum29.de
+		      $this->document_root = /var/www/technikum29.de
+		      $_SERVER["SCRIPT_FILENAME"] = /var/www/technikum29-www/de/index.php
+		      $this->script_filename = /de/index.php
+		      $_SERVER["REQUEST_URI"] = /de
+		      $_SERVER["SCRIPT_NAME"] = /de/index.php
+		      $web_prefix = ""
+		      
+		   Example for an installation in an arbitrary directory below Document Root:
+		     $lib = /var/www/arbitrary/lib
+		     $webroot = /var/www/arbitrary
+		     $_SERVER['DOCUMENT_ROOT'] = /var/www
+		     $this->document_root = /var/www/arbitrary
+		     $_SERVER['SCRIPT_FILENAME'] = /var/www/arbitrary/de/index.php
+		     $this->script_filename = /arbitrary/de/index.php
+		     $_SERVER['REQUEST_URI'] = /arbitrary/de
+		     $_SERVER['SCRIPT_NAME'] = /arbitrary/de/index.php
+		     $web_prefix = "/arbitrary"
+		     
+		   Example for an installation in mod_userdirs homedir out of Docroot:
+		     $lib = /home/sven/public_html/foo/lib
+		     $webroot = /home/sven/public_html/foo
+		     $_SERVER['DOCUMENT_ROOT'] = /var/www   (mind that!)
+		     $this->document_root = /home/sven/public_html/foo
+		     $_SERVER['SCRIPT_FILENAME'] = /~sven/foo/en/index.php
+		     $this->script_filename = /~sven/foo/en/index.php
+		     $_SERVER['REQUEST_URI'] = /~sven/foo/en/
+		     $_SERVER['SCRIPT_NAME'] = /~sven/foo/en/index.php
+		     $web_prefix = "/~sven/foo"
+		*/
+
+		// this algorithm is good for detecting paths below the document root.
+		// it is not suitable for paths out of the document root
+		$this->document_root = realpath($_SERVER['DOCUMENT_ROOT']);
+		if($this->webroot == $this->document_root) {
+			// we are installed in document root
+			$this->web_prefix = "";
+		} else {
+			// we are installed in some arbitary directory
+			$this->web_prefix = substr($this->webroot, strlen($this->document_root));
+		}
+		
+		// TODO: Somehow autodetect paths out of the document root
+		
+		$this->has_web_prefix = !empty($this->web_prefix);
+		
+		//print "Web prefix:<pre>";
+		//var_dump($this); exit;
+		   
+		$this->script_filename = substr(realpath($_SERVER['SCRIPT_FILENAME']), strlen($this->document_root)); # e.g.: "/de/page.php"
+		//phpinfo(); exit;
 	}
 	
 	function check_url_rewrite() {
@@ -84,9 +177,33 @@ abstract class t29Host {
 		return 't29v6/'.$this->hostname;
 	}
 	
-	function rewrite_link($link_target) {
+	/**
+	 * Rewrite Links so they match for this host.
+	 * This method acts like a pipeline:
+	 *  $new_link = rewrite_link($old_link);
+	 * It can perform two conversions:
+	 *
+	 *   1. Rewriting/Clean URL system: Will strip file suffixes, if appropriate.
+	 *      This will be done whenever this is a rewriting host and this is the
+	 *      main purpose for this function.
+	 *
+	 *   2. Prefixing the correct web prefix. This is *only* be done when
+	 *      $also_rewrite_prefix = true. The reaseon is that prefix rewriting is
+	 *      generally done by a global page rewrite after generation of the whole
+	 *      page on a whole-page-level. This is less error prone.
+	 *      Anyway you can use this function if you think you need. blubblubb
+	 *
+	 *
+	 **/
+	function rewrite_link($link_target, $also_rewrite_prefix=false) {
 		// rewrite link if neccessary. This function will be called hundreds of times
 		// while rendering a page, rewriting all links found.
+		
+		// pending: prefix setzen.
+		if($this->has_web_prefix && $also_rewrite_prefix) {
+			$link_target = $this->web_prefix . $link_target;
+		}
+		
 		if($this->is_rewriting_host) {
 			$new_target = preg_replace('/\.(?:php|shtml?)([#?].+)?$/i', '\\1', $link_target);
 			return $new_target;

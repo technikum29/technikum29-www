@@ -177,6 +177,8 @@ class t29Cache {
 	 * if wanted. Most likely you will call this method with arguments,
 	 * otherwise it just calls ob_start() and that's it.
 	 *
+	 * TODO FIXME Doku outdated for this method --
+	 *
 	 * $register_shutdown_func can be:
 	 *   - Just 'true': Then it will tell t29Cache to register it's
 	 *     own write_cache() method as a shutdown function for PHP so
@@ -195,9 +197,17 @@ class t29Cache {
 	 *     This will convert all page content to uppercase before saving
 	 *     the stuff to the cache file.
 	 **/
-	function start_cache($register_shutdown_func=null, $shutdown_func_is_filter=false) {
+	//function start_cache($register_shutdown_func=null, $shutdown_func_is_filter=false) {
+	function start_cache(array $args) {
+		$defaults = array(
+			'shutdown_func' => null,
+			'filter_func'   => null,
+			'write_cache'   => true,
+		);
+		$args = array_merge($defaults, $args);
+		
 		if($this->debug)
-			print "Will start caching with shutdown: " . $register_shutdown_func . PHP_EOL;
+			print "Will start caching with shutdown: " . $args['shutdown_func'] . PHP_EOL;
 			
 		// check if output file is writable; for logging and logging output
 		// purpose.
@@ -208,33 +218,38 @@ class t29Cache {
 
 		ob_start();
 
-		if(is_callable($register_shutdown_func)) {
-			// callback given: Register a shutdown function
+		if($args['shutdown_func'] || $args['filter_func']) {
+			// callback/filter given: Register a shutdown function
 			// which will call user's callback at first, then
-			// our own write function
+			// our own write function. and which handles filters
 			$t = $this; // PHP stupidity
-			register_shutdown_function(function()
-			  use($register_shutdown_func, $shutdown_func_is_filter, $t) {
-				if($shutdown_func_is_filter) {
+			register_shutdown_function(function()  use($args, $t) {
+				if($args['filter_func']) {
+					// also collect the shutdown func prints in the $content
+					if($args['shutdown_func'])
+						call_user_func($args['shutdown_func']);
+
 					$content = ob_get_clean();
 					if($t->debug)
 						// can print output since OutputBuffering is finished
 						print 't29Cache: Applying user filter to output' . PHP_EOL;
-					$content = call_user_func($register_shutdown_func, $content);
+					$content = call_user_func($args['filter_func'], $content);
 					print $content;
-					$t->write_cache($content);
-				} else {
-					call_user_func($register_shutdown_func);
+						
+					if($args['write_cache'])
+						$t->write_cache($content);
+					return;
+				} else if($args['shutdown_func'])
+					call_user_func($args['shutdown_func']);
+				if($args['write_cache'])
 					$t->write_cache();
-				}
 			});
-		} elseif($register_shutdown_func) {
-			// only boolean value given: Just register our
-			// own write function
+		} elseif($args['write_cache']) {
+			// Just register our own write function
 			register_shutdown_function(array($this, 'write_cache'));
 		} else {
 			// nothing given: Dont call our write function,
-			// it will be called by hand.
+			// it must therefore be called by hand.
 		}
 	}
 
@@ -277,7 +292,10 @@ class t29Cache {
 	}
 	
 	private function print_error($string, $even_if_nonverbose=false) {
+		require_once dirname(__FILE__).'/logging.php';
+		$log = t29Log::get();
+		
 		if($this->verbose || $even_if_nonverbose)
-			echo "<div class='error t29cache'>t29Cache: $string</div>\n";
+			$log->WARN("t29Cache: ".$string, t29Log::IMMEDIATELY_PRINT);
 	}
 }

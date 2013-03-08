@@ -13,6 +13,9 @@ if(!t29) window.t29 = {}; // the t29 namespace
 t29.startup = {};
 
 t29.startup.modules = [
+	// infrastructure
+	'load',
+
 	// independent #content enrichment
 	'auto_bildbreite',
 	'defaultvalue',

@@ -9,7 +9,6 @@
  * Inspired by Klooger for PHP: https://github.com/katzgrau/KLogger/
  **/
 
-
 class t29Log {
 	const EMERG  = 'emerg';  // Emergency: system is unusable
 	const ALERT  = 'alert';  // Alert: action must be taken immediately
@@ -26,6 +25,14 @@ class t29Log {
      * are often the values the developers will test for. So we'll make one up.
      */
     const NO_ARGUMENTS = 't29Log::NO_ARGUMENTS';
+    
+    /**
+     * A magic argument which immediately forces the print_all()
+     * function to be called. This is good when the log method is called while
+     * php_shutdown is already in progress, otherwise your log lines will end
+     * in nirvana.
+     **/
+    const IMMEDIATELY_PRINT = 't29Log::IMMEDIATELY_PRINT';
 	/*
 		log array format:
 			[
@@ -56,6 +63,12 @@ class t29Log {
 	}
 	
 	function log($line, $severity, $args = self::NO_ARGUMENTS) {
+		if($args === self::IMMEDIATELY_PRINT) {
+			// to be used when in shutdown already
+			$this->entries[] = array($severity, $line);
+			$this->print_all('immediately final');
+			return;
+		}
 		if($args !== self::NO_ARGUMENTS)
 			$line .= '; '. var_export($args, true);
 		$this->entries[] = array($severity, $line);
@@ -90,7 +103,7 @@ class t29Log {
 		// causal printing function. Flushes entries afterwards!
 		// if $ul_classes is given, will print a list around
 		if($ul_classes)
-			print "<ul class='$ul_classes'>";
+			print "<ul class='messages footer $ul_classes'>";
 		foreach($this->entries as $entry) {
 			printf('<li class="%s">%s</li>'.PHP_EOL, $entry[0], $entry[1]);
 		}
@@ -103,5 +116,4 @@ class t29Log {
  	public function INFO($line, $args = self::NO_ARGUMENTS)  { $this->log($line, self::INFO, $args); }
 	public function DEBUG($line, $args = self::NO_ARGUMENTS) { $this->log($line, self::DEBUG, $args); }
 	public function WARN($line, $args = self::NO_ARGUMENTS) { $this->log($line, self::WARN, $args); }
-	
 } // class

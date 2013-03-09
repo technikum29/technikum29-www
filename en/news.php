@@ -8,7 +8,10 @@
 	- titel: "Pianola"
   text: "Functional explanation of the pianola"
   link: "#March_2013"
-	
+  
+	- titel: "NCR446"
+	text: "Paper tape accessories"
+	link: "#February_2013"
 	
 - titel: "Gamma10"
   text: "The Gamma10-Printer has arrived at the museum"
@@ -23,9 +26,6 @@
   text: "A bunch of punch cards"
   link: "#April_2012"
   
-- titel: "Artists at the museum"
-  text: "Leander Schwarzer punching cards"
-  link: "#March_2012"
 
 
 MENU;
@@ -49,7 +49,13 @@ width="300" height="225">
 New on our website: <br> <br>
   <a href="/en/devices/functional-explanation-pianola.php/"> <b>Functional explanation of the pianola</b></a>
 </li>
-	
+	<li><h3>February 2013</h3>
+<div class="box left">
+<img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
+</div>
+Also accessories for paper tape provide an insight into the early storage media. <br> <a href="/en/computer/commercial.php#acc"><b>Look here:</b></a>
+<div class="clear"></div></li>
+
 	<li><h3>November 2012</h3>
 	The Gamma 10 is now complete: the printer (fragment) has arrived here from France. Thus the BULL GAMMA 10 computer-system is finally complete. See "BULL GAMMA 10"
 	<div class="box left">
@@ -81,12 +87,7 @@ working condition (cf. the section describing the Gamma 55).</p><br>
 	Unbelievable software-discovery for our UNIVAC 9200 <a href="/en/computer/univac9200.php#cards"><b>Read more here:</b></a>
 <div class="clear"></div></li>
 	
-	<li><h3>March 2012</h3><div class="box left">
 	
-	<img src="/shared/photos/start/leander.jpg" alt="Leander Schwarzer" width="303" height="231" </div>
-	Artists are working in technikum29. Leander Schwarzer punching cards.
-	<a href="/en/miscellaneous.php#leander"><b>View article</b></a>
-	<div class="clear"></div></li>
 	
 
 

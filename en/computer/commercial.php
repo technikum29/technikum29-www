@@ -52,12 +52,42 @@ Watching the operation of the machine is a great experience. Things like the
 calculation of a square root allow the viewer to get an idea of the
 underlying algorithm. Since the program is stored on a paper tape, every step performed
 by the machine can be seen.<br>
+<br/>Clicking on the picture yields a <href="/en/devices/ncr446.php">more detailed picture</a></p>
 
+<h5 id="acc">Paper tape accessories:</h5>
+		
+		<p>Also interesting are typical paper tape accessories as shown below. It is 
+next to incredible that not too far ago programs had to be prepared with
+tools like these. The figure below shows a manual paper tape punch on the left
+which can be used to punch programs on a paper tape. For the most basic version 
+of the NCR 446 which lacked the attached paper tape punch, this was the only
+way to create program tapes!<br>
+		
+		<div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/handlocher.jpg"  width="682" height="428" />
+        <div class="bildtext"><b>Manual puncher for paper tape</b> (left) und <b> Tapewinder</b> (right)</div>
+		</div>
+		<p>Programming in those days was done as follows: First, the program was written
+down by hand. Each character was then translated manually using a NCR
+supplied code table to its corresponding numerical code. The paper tape was then
+punched by a secretary. Correcting errors was obviously rather cumbersome and
+time consuming.<br>
+
+The NCR 446 in the museum's collection allowed the creation of paper tapes by
+means of the built-in keyboard and the automatic paper tape punch
+unit at an additional cost of 20,000 DM (10,000 EUR).<br>
+
+The motor driven paper tape winder shown on the right could be used to wind
+the paper tapes after using them on the computer. </p>
+
+		
+		
+		
 <!-- A glimpse of the internal structure of the machine can be seen
 <a href="...">here</a>. -->
 
 
-       <br/>Clicking on the picture yields a <href="/en/devices/ncr446.php">more detailed picture</a></p>
+     
         <!-- das war B.Ulmann. Meine Übersetzung (alt):
         <img src="/shared/photos/start/ncr_rechner.jpg" alt="NCR-Rechner" style="margin-right: 25px" />
         <div class="bildtext">As an alternative to the desktop calculators, small installations

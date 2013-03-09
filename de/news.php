@@ -50,7 +50,7 @@ Ab sofort für alle Leser ohne Passwort erreichbar: <br> <br>
 <div class="box left">
 <img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
 </div>
-Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#stanzer"><b>Lesen Sie hier:</b></a>
+Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/en/computer/commercial.php#acc"><b>Lesen Sie hier:</b></a>
 <div class="clear"></div></li>
 <li><h3>November 2012</h3>
 

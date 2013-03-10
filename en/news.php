@@ -4,15 +4,15 @@
 	$titel = "What's new?";
 	
 	$neues_menu = <<< MENU
-	
-	- titel: "Pianola"
+
+- titel: "Pianola"
   text: "Functional explanation of the pianola"
   link: "#March_2013"
   
-	- titel: "NCR446"
-	text: "Paper tape accessories"
-	link: "#February_2013"
-	
+- titel: "NCR446"
+  text: "Paper tape accessories"
+  link: "#February_2013"
+
 - titel: "Gamma10"
   text: "The Gamma10-Printer has arrived at the museum"
   link: "#November_2012"

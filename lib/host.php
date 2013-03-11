@@ -157,6 +157,11 @@ abstract class t29Host {
 		//var_dump($this); exit;
 		   
 		$this->script_filename = substr(realpath($_SERVER['SCRIPT_FILENAME']), strlen($this->document_root)); # e.g.: "/de/page.php"
+		
+		// Windows realpath() converts Unix Paths ($_SERVER) to Windows Paths (like \en\index.php).
+		// We want to use unix paths ($_SERVER like) internally, so do this dummy conversion back, if neccessary
+		$this->script_filename = str_replace('\\', '/', $this->script_filename);
+		
 		//phpinfo(); exit;
 	}
 	

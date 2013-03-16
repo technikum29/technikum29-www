@@ -17,7 +17,6 @@
   text: "The Gamma10-Printer has arrived at the museum"
   link: "#November_2012"
 
-	
 - titel: "Gamma55"
   text: "A new new acquisition"
   link: "#July_2012"

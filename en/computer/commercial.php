@@ -61,7 +61,7 @@ next to incredible that not too far ago programs had to be prepared with
 tools like these. The figure below shows a manual paper tape punch on the left
 which can be used to punch programs on a paper tape. For the most basic version 
 of the NCR 446 which lacked the attached paper tape punch, this was the only
-way to create program tapes!<br>
+way to create program tapes!</p>
 		
 		<div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/handlocher.jpg"  width="682" height="428" />

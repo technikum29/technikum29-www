@@ -52,7 +52,7 @@
 	<h3 id="pdp8">Classic PDP-8</h3>
 			
 	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="474" alt="PDP 8 Classic" />
+		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="426" alt="PDP 8 Classic" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />   
 

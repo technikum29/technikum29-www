@@ -8,7 +8,7 @@
     <h2>Lochkartengeräte</h2>
 
     <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Die hier aufgeführeten Lochkarten-Peripheriegeräte waren notwendig um effektiv mit EDV-Anlagen arbeiten zu können. Wir stellen daher zunächst die Peripherigeräte und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
-	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch einige dieser dinosaurierhaften Maschinen.</p>
+	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch viele dieser dinosaurierhaften Maschinen.</p>
 <h3>Lochkartenstanzer</h3>
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg" alt="Lochkartenstanzer" width="330" height="368" class="nomargin-bottom" />
@@ -20,8 +20,17 @@
 
     <p>Ein typischer Maschinenpark bestand aus den Lochkartenstanzern (hier entstand der Beruf der "Locherin"), mit dem die Informationen und Daten auf Karten gestanzt wurden, einem Kartenmischer, der die Karten aus verschiedenen Stapeln (z.B. Adressen, Rechnungen) in die jeweils richtige Reihenfolge brachte, einem Sortierer, der Lochkarten nach vorgegebenen Bedingungen sortieren konnte und eventuell einem Lochschriftübersetzer, der die gestanzte Information als Klartext an eine vorbestimmte Stelle der Lochkarte schrieb.</p>
 
+
+	<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm26.jpg" alt="IBM 026 Card-Punch" width="450" height="431" />
+	<p class="bildtext"><b>IMB 026 Printing-Card-Punch</b></p>
+	<p>Ab 1949 wurde der Lochkartenstanzer in zwei Versionen von IBM gebaut: IBM 024, der  Karten ausschließlich stanzen konnte und IBM 026, der gleichzeitig die Lochkarten während der Stanzung beschriftet. In der deutschen Bezeichnung ist dies ein "Schreiblocher". Das Schreibsystem war genial einfach gebaut. Ein sehr kompakter Nadeldrucker der durch den Stanzmechanismus mit "angetrieben" wurde.<br>
+	Das war eine typische Eigenschaft von IBM: Mit einfachen dafür aber sehr intelligenten Lösungen möglichst viel zu erreichen. Auch die gesamte "Elektronik" besteht zwar aus relativ vielen Kontakten aber nur 10 Relais und 9 Elektronenröhren.<br>
+	Dieses Modell war so erfolgreich, dass es mit fast unveränderter Mechanik 20 (zwanzig!) Jahre lang gebaut und weltweit vertrieben wurde. Das war für die schnelllebige Branche eine enorm lange Zeit.
+	</p></div>
+	
     <div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
+        <img src="/shared/photos/rechnertechnik/ibm029+juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
         <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b></p></div>
 		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
 

@@ -79,11 +79,16 @@
 			<h2>Flyer-Download</h2>
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2011.pdf">aktuellen Flyer</a> als PDF (2 MB)</p>
 		</div>
-			
-			
+		
+		<br><br><br><br><br><br>
+		<big><span style="color:red">Unser IBM 029-Card-Punch ist am 10. Mai um 20:30 Uhr in einem Konzert in Köln zu "hören!" Siehe<br>
+			<a href="http://www.punchcardmusic.de/"> punchcard music</a> <br>
+			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln</span></big>
 			
       </div><!--rightcol-->
-    </div><!-- cols -->
+			
+			</div><!-- cols -->
+			
     <div class="clear">&nbsp;</div>
 	
 	

@@ -23,9 +23,9 @@
 
 	<div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/ibm26.jpg" alt="IBM 026 Card-Punch" width="450" height="431" />
-	<p class="bildtext"><b>IMB 026 Printing-Card-Punch</b></p>
-	<p>Ab 1949 wurde der Lochkartenstanzer in zwei Versionen von IBM gebaut: IBM 024, der  Karten ausschließlich stanzen konnte und IBM 026, der gleichzeitig die Lochkarten während der Stanzung beschriftet. In der deutschen Bezeichnung ist dies ein "Schreiblocher". Das Schreibsystem war genial einfach gebaut. Ein sehr kompakter Nadeldrucker der durch den Stanzmechanismus mit "angetrieben" wurde.<br>
-	Das war eine typische Eigenschaft von IBM: Mit einfachen dafür aber sehr intelligenten Lösungen möglichst viel zu erreichen. Auch die gesamte "Elektronik" besteht zwar aus relativ vielen Kontakten aber nur 10 Relais und 9 Elektronenröhren.<br>
+	<p class="bildtext" id="026"><b id="026">IMB 026 Printing-Card-Punch</b></p>
+	<p>Ab 1949 wurde der Lochkartenstanzer in zwei Versionen von IBM gebaut: IBM 024, der  Karten ausschließlich stanzen konnte und IBM 026, der gleichzeitig die Lochkarten während der Stanzung beschriftet. In der deutschen Bezeichnung ist dies ein "Schreiblocher". Das Schreibsystem war genial einfach gebaut: Ein sehr kompakter Nadeldrucker der durch den Stanzmechanismus mit "angetrieben" wurde, nicht viel größer als 2 Streichholz-Schachteln!<br>
+	Das war eine typische Eigenschaft von IBM: Einfache dafür aber sehr intelligente Lösungen zu finden, eine Quelle für viele Patentrechte. Auch die gesamte "Elektronik" besteht zwar aus relativ vielen Kontakten aber nur 10 Relais und 9 Elektronenröhren.<br>
 	Dieses Modell war so erfolgreich, dass es mit fast unveränderter Mechanik 20 (zwanzig!) Jahre lang gebaut und weltweit vertrieben wurde. Das war für die schnelllebige Branche eine enorm lange Zeit.
 	</p></div>
 	

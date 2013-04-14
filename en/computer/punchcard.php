@@ -39,6 +39,28 @@
        and possibly a punch card interpreter that writes the punched
        information on a prescribed position on the punch card.</p>
 
+	  <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm26.jpg" alt="IBM 026 Card-Punch" width="450" height="431" />
+	<p class="bildtext" id="026"><b id="026">IMB 026 Printing-Card-Punch</b></p>
+	Beginning in 1949 IBM built two versions of this card punch: The IBM 024
+which could just punch cards and the IBM 026 which could additionally print
+the data being punched on the top of the card in human-readable form, so the
+IBM 026 was actually a printing card punch. The printer is of ingenious
+design: A very compact wire printer only a couple of cubic inches in size,
+which is driven by the punch mechanism.<br>
+This is a typical example for the art of engineering that was common at IBM
+at that time: Developing simple, yet powerful solutions. Due to this
+approach, IBM filed (and still does) a vast amount of patent applications. 
+The control system of the card punch only contains 10 relays featuring a lot
+of contact sets and 9 vacuum tubes.<br>
+This card punch was so successful that it was built unmodified for 20 years
+and was sold world wide - an exceptional record in an area like electronic
+data processing.</p>
+	   
+	   
+	   
+	   
+	   
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm_029-juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
         <p class="bildtext"><b>IBM 029 and JUKI card puncher.</b></p>

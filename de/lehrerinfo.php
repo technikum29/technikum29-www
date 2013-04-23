@@ -58,7 +58,7 @@ Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist 
 <p class="small">
 Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die mit ihrem Kurs das technikum29 besucht und an der Rallye teilgenommen haben:<br><br>
 <hr><p class="small">
-"Mir hat die Führung gut gefallen. Ich fand es gut, dass wir erst mal alle Fragen stellen konnten, bevor wir uns die einzelnen Rechner angeschaut haben. Ich hätte nicht gedacht, dass alles noch so funktioniert und wir auch selbst die Rechner bedienen dürfen. Nicht so gut gefallen hat mir, dass wir nicht so viel Zeit für die Rallye hatten. Ich denke, dass so Dinge, die man selbst ausprobiert und verstehen muss am meisten in Erinnerung bleiben. Leider war für einiges kaum oder gar keine Zeit, sodass wir einige Aufgabe gar nicht mehr bearbeiten konnten" 
+"Mir hat die Führung gut gefallen. Ich fand es gut, dass wir erst mal alle Fragen stellen konnten, bevor wir uns die einzelnen Rechner angeschaut haben. Ich hätte nicht gedacht, dass alles noch so funktioniert und wir auch selbst die Rechner bedienen dürfen......" 
 <hr><p class="small">
 "Sehr schöne Ausstellung und informative Führung. Interessant, dass man auch sehen konnte, wie bzw. dass die Rechner von früher noch funktionieren. Ich hätte mich allerdings gefreut, wenn wir mehr Zeit für die Rallye gehabt hätten" 
 <hr><p class="small">

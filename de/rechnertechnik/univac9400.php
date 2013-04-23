@@ -86,6 +86,6 @@ Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und
 
  <div class="box right clear-after">
        <img src="/shared/photos/rechnertechnik/unisys_tag.gif"  width="142" height="75" class="nomargin-bottom" />
-       <p class="small">Wir möchten uns an dieser Stelle bei der Firma <b>UNISYS</b> für die Übernahme aller Großtransporte herzlich bedanken.</small>
+       <p class="small">Wir möchten uns an dieser Stelle bei der Firma <b>UNISYS</b> für die Übernahme vieler Großtransporte herzlich bedanken.</small>
 </div>
 

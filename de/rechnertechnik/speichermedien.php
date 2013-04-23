@@ -27,16 +27,21 @@
 	<li>Dreidimensionale Anordnung (z.B. Kernspeicher, Zahl der Ebenen entspricht der Wortlänge)</li>
 </ul>
 
-<p>Physikalisch hat man folgende Prinzipien verwendet: Elektrostatische Ladung (Speicherröhren), Ausbreitung von Schallwellen (Laufzeitleitungen), Ferromagnetismus (Kernspeicher, Magnetdrahtspeicher, Trommel-/Plattenspeicher), Holographie (optische Speicher). Die größte Bedeutung und die weiteste Verbreitung hatten die ferromagnetischen Speicher.</p>
+<p>Physikalisch hat man folgende Prinzipien verwendet: Elektrostatische Ladung (Speicherröhren), Ausbreitung von Schallwellen (Laufzeitleitungen), Ferromagnetismus (Kernspeicher, Magnetdrahtspeicher, Trommel-/ Plattenspeicher), Holographie (optische Speicher). Die größte Bedeutung und die weiteste Verbreitung hatten die ferromagnetischen Speicher.</p>
 
 <h3 id="laufzeitspeicher">Laufzeitspeicher des BULL GAMMA 3 Röhrenrechners</h3>
 <div class="box center manuelle-bildbreite" style="width: 670px">
-	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="435" height="338" /><img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher-gross.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="228" height="338" />
+	<img src="/shared/photos/rechnertechnik/speichermedien/gamma3-speicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="650" height="440" />
 	<p class="bildtext"><b>Verzögerungsspeicher</b></p></div>
-		<p>Ein wirklich historischer Speicher, der vor der Zeit der Kernspeicher zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet. <br/>
-		Im Prinzip besteht er aus einer Kette von vielen LC-Gliedern, die jeweils als Tiefpass geschaltet sind. In diesen bewegen sich Impulse langsamer als in normalen Leitern. Durch die starke Dämpfung der Impulse nach dem Durchlaufen der Verzögerungsleitung ist eine Regeneration notwendig. Dazu dienen insgesamt 12 Röhrenverstärker. Am Ende der Kette werden die  Informationen nochmals verstärkt und wieder am Beginn der Kette eingelesen. Sie laufen permanent durch die Verzögerungsleitung und sind damit gespeichert.</br>
-		Das hier abgebildete Speichermodul kann gerade mal eine 12-stellige Dezimalzahl speichern. Es ist offensichtlich, dass Speicherplatz zu den Frühzeiten des Computers sehr viel Raum und Energie beanspruchte und auch extrem teuer war.
-		</p>
+		
+	<div class="box left">	
+<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="405" />
+<p class="bildtext"><b>Ausschnitt. Die LC-Glieder sind deutlich zu erkennen</b></p></div>
+
+		<p>Ein wirklich historischer Speicher, der vor der Zeit der Kernspeicher zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet.<br>
+		Im Prinzip besteht er aus einer Kette von 120 LC-Gliedern, die jeweils als Tiefpass geschaltet sind. In diesen bewegen sich Impulse langsamer als in normalen Leitern. Durch die starke Dämpfung der Impulse nach dem Durchlaufen von je 12 Tiefpässen ist eine Regeneration notwendig. Dazu dienen 10 Röhrenverstärker. Am Ende der Kette werden die  Informationen nochmals verstärkt und wieder am Beginn der Kette eingelesen. Sie laufen permanent durch die Verzögerungsleitung und sind damit gespeichert.</br>
+		Das hier abgebildete Speichermodul kann gerade mal eine 12-stellige Dezimalzahl speichern. Es handelt sich um den sogenannten "Rechenspeicher (M1)". In dieser frühen Phase der "Elektronischen Rechengeräte" war Speicherplatz extrem teuer und sehr voluminös.
+		</p><br><br><br>
 
 
 <h3 id="magnetostriktion">Laufzeitspeicher: Magnetostriktion</h3>

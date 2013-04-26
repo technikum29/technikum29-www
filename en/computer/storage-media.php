@@ -33,11 +33,14 @@
        and most spread memories are the ferromagnetic memories.</p>
 
     <h3 id="delay-line-memory">Delay line memory from the BULL GAMMA 3 tube calculator</h3>
-	<div class="box center manuelle-bildbreite" style="width: 670px;">
-        <img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher.jpg" alt="Photography from a delay line memory" width="435" height="338" /><img
-	         src="/shared/photos/rechnertechnik/speichermedien/bull-gamma-3-laufzeitspeicher-gross.jpg" alt="Details from the delay line memory" style="margin-left: 6px;" width="228" height="338" />
-	    <p class="bildtext"><b>Delay line memory</b></p>
-    </div>
+	
+	<div class="box center manuelle-bildbreite" style="width: 650px">
+	<img src="/shared/photos/rechnertechnik/speichermedien/gamma3-speicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="650" height="440" />
+	<p class="bildtext"><b>Delay-Line</b></p></div>
+		
+	<div class="box left">	
+<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="405" />
+<p class="bildtext"><b>Cutout. The LC elements can be clearly seen.</b></p></div>
     <p>
         One of these solutions is the so called delay line memory.
         It consists of several chained LC-oscillators that are set
@@ -48,10 +51,13 @@
         chain again. In this way it runs permanentely throught the delay line memory.
         <br/>The pictures show a memory unit which is capable of storing a decimal
         integer with only 12 digits. Obviously storage was very expensive in the early
-        times of computing.
-    </p>
+        times of computing.</p>
+		<br><br><br><br><br><br><br>
+	
+		
  
     <h3 id="run-time-memory">Magnetostrictive memory</h3>
+	
     <div class="box center manuelle-bildbreite" style="max-width: 860px;">
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Photography of a magnetostrictive memory" width="421" height="393" />
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="details" style="margin-left: 3px;" width="421" height="393" />

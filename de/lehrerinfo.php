@@ -72,7 +72,7 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 <br><br>
 <h2 id="experimente">Die Rallye Experimente</h2>
 
-Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 3/4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse).
+Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 3/4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse). Die Schüler erhalten vor Ort eine ausführliche Beschreibung der Experimente.
 
 
  <div class="cols">

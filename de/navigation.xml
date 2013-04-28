@@ -206,7 +206,7 @@
 	<li><a href="/de/kommunikationstechnik/messtechnik.php">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/de/kommunikationstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
-			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola</a>
+			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola und mehr</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="pianola-funktionserklaerung" href="/de/geraete/pianola-funktionserklaerung/">Funktionserklärung der Pianola</a></li>
 				</ul>

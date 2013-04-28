@@ -72,91 +72,98 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 <br><br>
 <h2 id="experimente">Die Rallye Experimente</h2>
 
-Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 3/4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse). Die Schüler erhalten vor Ort eine ausführliche Beschreibung der Experimente.
+<p>Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 3/4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse). Die Schüler erhalten vor Ort eine ausführliche Beschreibung der Experimente.</p>
 
-
- <div class="cols">
-            <div class="leftcol">
-			
-<div class="box left clear-after">
+<div class="cols clear-after no-blocksatz">
+<div class="leftcol left-img">
     <img src="/shared/photos/rallye/exp1.jpg"  width="150" height="184" />
        Augen auf und Gegenstände erkennen <br>(P, S1)<br>
 	   Ziel: Gute Beobachtung, Kurzzeitgedächtnis trainieren.
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp2.jpg"  width="150" height="129" />
-       Mechanisch rechnen <br>(P, S1)<br>
-	   Ziel: Die Bedeutung des Stellenwertsystems erkennen (S1)
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp3.jpg"  width="150" height="112" />
-       Rechnen mit Automaten <br>(P, S1, S2)<br>
-	   Ziel: Mechanische Genialität begreifen
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp4.jpg"  width="150" height="105" />
-       Codieren und Decodieren, ASCII-Code <br>(P, S1)<br>
-	   Ziel: Codieren auf Lochstreifen und Testen mit der Teletype
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp5.jpg"  width="150" height="114" />
-       Black-Box Analyse <br>(S1, S2, LK)<br>
-	   Ziel: Die Innenschaltung herausfinden (S2, LK)
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp6.jpg"  width="150" height="129" />
-       Eine merkwürdige Maschine<br> (P, S1, S2)<br>
-	   Ziel: Die Anwendung der Maschine erschließen
-    </div>
-	<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp7.jpg"  width="150" height="103" />
-       Rätsel A <br>(S1, S2, LK)<br>
-	   Ziel: Analyse
-	</div></div>
-	
-	<div class="rightcol">
-	<div class="box left clear-after">
+</div>
+<div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp8.jpg"  width="150" height="108" />
        Rätselhafter Dezimalzähler <br>(S2, LK)<br>
 	   Ziel: Testen, beobachten und die Funktion erklären
-	   </div>
-	   <div class="box left clear-after">
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp2.jpg"  width="150" height="129" />
+       Mechanisch rechnen <br>(P, S1)<br>
+	   Ziel: Die Bedeutung des Stellenwertsystems erkennen (S1)
+</div>
+<div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp9.jpg"  width="150" height="113" />
        Telex-Chat<br> (P bis LK)<br>
 	   Ziel: Einfach nur Spaß
-	   </div>
-	   <div class="box left clear-after">
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp3.jpg"  width="150" height="112" />
+       Rechnen mit Automaten <br>(P, S1, S2)<br>
+	   Ziel: Mechanische Genialität begreifen
+</div>
+<div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp10.jpg"  width="150" height="125" />
        Die Schrift aus dem "Nichts", Chatten mit genialer Maschine<br> (P bis LK)<br>
 	   Ziel: Das geniale Schreibsystem begreifen (S1 bis LK)
-	   </div>
-	     <div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp11.jpg"  width="150" height="117" />
-       Die merkwürdigen Anzeigen <br>(S1 bis LK)<br>
-	   Ziel: Physik anwenden und verstehen
-	   </div>
-	     <div class="box left clear-after">
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp4.jpg"  width="150" height="105" />
+       Codieren und Decodieren, ASCII-Code <br>(P, S1)<br>
+	   Ziel: Codieren auf Lochstreifen und Testen mit der Teletype
+</div>
+<div class="rightcol left-img">
+    <img src="/shared/photos/rallye/exp6.jpg"  width="150" height="129" />
+       Eine merkwürdige Maschine<br> (P, S1, S2)<br>
+	   Ziel: Die Anwendung der Maschine erschließen
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp5.jpg"  width="150" height="114" />
+       Black-Box Analyse <br>(S1, S2, LK)<br>
+	   Ziel: Die Innenschaltung herausfinden (S2, LK)
+</div>
+<div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp12.jpg"  width="150" height="99" />
        Der merkwürdige Stromkreis<br> (LK)<br>
 	   Ziel: Testen, Schaltung herausfinden und erklären
-	   </div>
-  <div class="box left clear-after">
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp7.jpg"  width="150" height="103" />
+       Rätsel A <br>(S1, S2, LK)<br>
+	   Ziel: Analyse
+</div>
+<div class="rightcol left-img">
+    <img src="/shared/photos/rallye/exp11.jpg"  width="150" height="117" />
+       Die merkwürdigen Anzeigen <br>(S1 bis LK)<br>
+	   Ziel: Physik anwenden und verstehen
+</div>
+
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
+
+<div class="leftcol left-img">
     <img src="/shared/photos/rallye/exp13.jpg"  width="150" height="112" />
        Digitale Experimente <br>(S1 bis LK)<br>
 	   Ziel: Analyse
-	   </div>
-	     <div class="box left clear-after">
+</div>
+<div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp14.jpg"  width="150" height="112" />
        ASCII-Art, eine besondere Kunstform, (S1 bis LK)<br>
 	   Ziel: Aufwändige aber interessante Möglichkeit mit Hilfe von selbst zu stanzenden Lochkarten Bilder zu generieren, die ein Computer "zeichnet"
-	   </div>
-	   </div>
+</div>
 
-
-
-
-
-
-
+</div><!-- Ende der Zweispaltigkeit -->
 
 

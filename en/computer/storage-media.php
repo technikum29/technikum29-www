@@ -38,9 +38,9 @@
 	<img src="/shared/photos/rechnertechnik/speichermedien/gamma3-speicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="650" height="440" />
 	<p class="bildtext"><b>Delay-Line</b></p></div>
 		
-	<div class="box left">	
+	<div class="box left clear-after nomargin-bottom">
 <img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="405" />
-<p class="bildtext"><b>Cutout. The LC elements can be clearly seen.</b></p></div>
+<p class="bildtext"><b>Cutout. The LC elements can be clearly seen.</b></p>
     <p>
         One of these solutions is the so called delay line memory.
         It consists of several chained LC-oscillators that are set
@@ -52,7 +52,8 @@
         <br/>The pictures show a memory unit which is capable of storing a decimal
         integer with only 12 digits. Obviously storage was very expensive in the early
         times of computing.</p>
-		<br><br><br><br><br><br><br>
+
+	</div><!-- end of details laufzeitspeicherfoto-Box -->
 	
 		
  

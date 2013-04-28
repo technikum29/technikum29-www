@@ -41,7 +41,7 @@ MENU;
 <li><h3>Mai 2013</h3><br>
 <div class="box left clear-after">
     <img src="/shared/photos/rallye/exp12.jpg"  width="150" height="99" />
-	Selbst Experiementieren im technikum29, lesen Sie <a href="/de/lehrerinfo.php#experimente" width="150" height="99"><b> hier:</b></a><br>
+	Selbst experiementieren im technikum29, lesen Sie <a href="/de/lehrerinfo.php#experimente" width="150" height="99"><b> hier:</b></a><br>
 	</div>
 
 

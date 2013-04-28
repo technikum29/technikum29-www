@@ -5,6 +5,10 @@
 	
 	$neues_menu = <<< MENU
 	
+- titel: "Experimentieren im technikum"
+  text: ""
+  link: "#Mai_2013"  
+	
 - titel: "Lochkartenstanzer IBM026"
   text: ""
   link: "#April_2013"
@@ -17,9 +21,7 @@
   text: ""
   link: "#Februar_2013"
 	
-- titel: "Drucker für die Gamma 10 angekommen"
-  text: ""
-  link: "#November_2012"
+
   
 
 
@@ -36,6 +38,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+<li><h3>Mai 2013</h3><br>
+<div class="box left clear-after">
+    <img src="/shared/photos/rallye/exp12.jpg"  width="150" height="99" />
+	Selbst Experiementieren im technikum29, lesen Sie <a href="/de/lehrerinfo.php#experimente" width="150" height="99"><b> hier:</b><br>
+	</div>
+
+
+
 <li><h3>April 2013</h3><br>
 <div class="box left clear-after">
 <img src="/shared/photos/rechnertechnik/ibm26.jpg" width="300" height="287" />
@@ -58,12 +68,7 @@ Ab sofort für alle Leser ohne Passwort erreichbar: <br> <br>
 </div>
 Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#stanzer"><b>Lesen Sie hier:</b></a>
 <div class="clear"></div></li>
-<li><h3>November 2012</h3>
 
-Gamma 10 nun komplett: Das Drucker-Fragment ist per Spedition aus Frankreich hier angekommen. Damit ist die BULL Gamma 10 EDV-Anlage endlich komplett. Siehe "BULL-GAMMA 10"
-<div class="box left">
-<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="320" height="240" />
-</div> 
 <div class="clear"></div>
 
 

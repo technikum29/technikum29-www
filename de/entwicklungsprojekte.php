@@ -9,7 +9,7 @@
 
   <p>
 Auf dieser Seite zeigen wir anhand ausgewählter eigener Entwicklungen, dass unser Museumsteam sich aktiv mit der Vernetzung historischer Computerkomponenten und deren Anbindung an PCs der Jetztzeit auseinandersetzt. Dazu sind teils sehr aufwändige Hard- und Software-Konstrukte notwendig.<br>
-Diese Seite ist daher weniger für Laien gedacht, sondern richtet sich mehr an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. </p>
+Diese Seite ist daher nicht für Laien gedacht, sondern richtet sich an Experten. Gerne nehmen wir diesbezüglich konstruktive Vorschläge entgegen. </p>
 
 
 <h3 id="papertape">Kommunikation zwischen Lochstreifengeräten und PC</h3>
@@ -54,44 +54,18 @@ Weitere Details zu diesem Projekt mit umfassenden Hintergrundinformationen gibt 
 <br/>Für technisch Interessierte haben wir die Publikation <a href="http://dev.technikum29.de/projects/raw-attachment/wiki/Papers/Lochkartenverarbeitung%20per%20Computer.pdf" class="go">Lochkartenverarbeitung per Computer</a> veröffentlicht (26 Seiten), die interessante Details der Implementierung, Modellierung von Lochkarten auf Mikrocontroller und Computer, Umsetzung des Protokolls, uvm. erläutert.</p>
 
 
-<h3 id="anelex">Anpassung eines ANELEX Druckers an einen BULL-Computer</h3>
 
-<p>Dieses Projekt besteht aus dem anspruchsvollen Vorhaben, einen Rechner (Mitte der 1960er Jahre), zu dem der eigentliche Drucker defekt und unvollständig ist, mit einem völlig anderem Drucker aus der gleichen Zeit auszustatten. Was auf den ersten Blick recht einfach erscheint, ist in der Realität ein außerordentlich kompliziertes Unterfangen. Im Gegensatz zu den Geräten ab den 90er-Jahren war man noch meilenweit von standardisierten Schnittstellen entfernt.<br>
-Ein Interface muss also her, eine transparent agierende unidirektionale Übersetzung von Computer zu Drucker. Dabei ist einiges zu tun: Der GAMMA 10 (G10) arbeitet nicht nur mit völlig anderen 
-„negativen“ logischen Pegeln, sondern hat auch eine gänzlich andere Vorstellung davon, wie man eine 120 Zeichen lange Zeile in einen Drucker überträgt, als der anzuschließende Anelex-Zeilendrucker. Die Druckdaten werden bei der G10 im Rechner selbst abgespeichert, während sie beim Anelex Drucker eben dort gespeichert werden. Dass beide Geräte unterschiedliche Zeichensätze verwenden, ist daneben ein verschwindend einfaches Problem.</p>
-
-<div class="desc-right">
-    <img src="/shared/photos/rechnertechnik/bull-gamma10.jpg" width="320" height="195" alt="Bull Gamma 10 Computer" />
-     <p class="bildtext" style="width:320px;">Bild 1: BULL Gamma 10 Computer mit Original-Drucker</p>
-</div>
-
-<p>Wie bereits im Lochkartenprojekt haben wir uns auch diesmal für Mikrocontroller entschieden, die einen sehr guten Kompromiss aus Flexibilität, Geschwindigkeit, Programmierbarkeit und zuletzt auch Preis bieten.<br>
-Offensichtlich lässt sich das Problem in zwei Teilprobleme unterteilen, die einzeln für sich gelöst werden können. Im ersten Teilprojekt kümmert sich ein dezidierter Mikrocontroller um die Kommunikation mit dem Computer, übersetzt also die Druckausgaben nach ASCII, während wir in einem zweiten, unabhängigen Mikrocontroller-Projekt daran arbeiten, den Drucker mit Eingaben zu füttern, die zunächst von einem PC kommen.</p>
   
-<h4>Teil 1: Kommunikation zwischen Anelex Drucker und PC</h4>
+<h3>Kommunikation zwischen Anelex Drucker und PC</h3>
 
 <p>Der Anelex-Drucker ist sehr einfach aufgebaut – die 120 Sechs-Bit-Zeichen einer Zeile werden parallel interruptgesteuert in den Drucker geladen, anschließend wird die Zeile gedruckt. Zeilenvorschübe werden, im Gegensatz zum G10-Computer, in den Zeichenstrom kodiert. Zu Beginn einer jeden Zeile steht, wieviel Zeilenvorschübe auszuführen sind. Dadurch konnte man mehrere Zeilenvorschübe auf einen Schlag machen, wodurch man sich einen Zugewinn an Geschwindigkeit versprach. Zusätzlich sind die Ziffern auf der Druckwalze doppelt enthalten, so dass Zahlen in der doppelten Geschwindigkeit gedruckt werden können. <br>
 Die Schwierigkeit entsteht auch beim Anelex-Projekt erst dadurch, dass die Unterlagen nur unvollständig in niederländischer Sprache existieren. <br>
-Die Arbeitsweise des ersten Mikrocontrollers ist ziemlich einfach und folgt einer strikten Zustandsabfolge: Zunächst wird eine Zeile per RS232 in einen Ringpuffer eingelesen. Diese wird dann Zeichen für Zeichen parallel an den Drucker übergeben. Nach diesem Vorgang wird der Druckbefehl gestartet und der Drucker benötigt die nächsten 30ms zum Drucken. In dieser Zeit wird die RS232-Flusskontrolle wieder freigeschaltet und in bester Zeitausnutzung empfängt der nun unbeschäftigte Mikrocontroller Daten vom Computer (bzw. später dem anderem Mikrocontroller). Diese klassische Interfacetechnik wird in der Umsetzung insofern interessant, als dass sämtliche Timings empirisch erprobt werden mussten. <br>
-Theoretisch ist es mit unserem 20Mhz-Mikrocontroller und geeignet schneller Baud-Rate problemlos möglich, den Drucker in seiner damals weltbesten Geschwindigkeit auszureizen. Verbesserungspotential besteht etwa auch darin, mehrere Zeilen per Lookahead in eine Zeilenvorschubsanweisung zusammenzufassen, denn heutige Standardzeichensätze kodieren stets nur einen Zeilenvorschub in ein Zeichen. Aber auch die G10 kann einen Vierfachzeilenvorschub mit einem Befehl ausdrucken. Tiefer führende Funktionen wie die damals weit verbreiteten „Formularbänder“ für vordefinierte absolute Zeilensprünge werden wir freilich nicht implementieren.
-Es sei zum Abschluss angemerkt, dass wir dank der „Zwischenübersetzung“ zu heute geläufigem ASCII sowie standardkonformem RS-232 jede beliebige Hardware an den Drucker anschließen können. Einen Anfang macht der gute alte PC, der mit Terminal, Figlet- und ASCII-Art-Generator in unglaublicher Geschwindigkeit in Echtzeit generierte Textmassen auf Papier bringen kann.</p>
-
-<h4 id="gamma10">Teil 2: Kommunikation des Bull-Gamma10-Rechners mit dem PC</h4>
-
-<p>Dieses Teilprojekt ist wegen der hardwarenahen Implementierung der BULL-Druckerkommunikation das weitaus kompliziertere, denn der Original-Drucker und der Gamma10-Computer bilden eine eng verflochtene Einheit.</p>
-
 <div class="desc-left">
     <img src="/shared/photos/rechnertechnik/drucktrommel.jpg" width="366" height="275" alt="Druckertrommel mit Kodierscheibe" />
      <p class="bildtext" style="width:366px;">Bild 2: Ausgebaute Trommel mit Kodierscheibe. Die optische Abtastung ist hier nicht zu sehen. Gewicht der Trommel: Ca. 50 Kg</p>
 </div>
+Die Arbeitsweise des ersten Mikrocontrollers ist ziemlich einfach und folgt einer strikten Zustandsabfolge: Zunächst wird eine Zeile per RS232 in einen Ringpuffer eingelesen. Diese wird dann Zeichen für Zeichen parallel an den Drucker übergeben. Nach diesem Vorgang wird der Druckbefehl gestartet und der Drucker benötigt die nächsten 30ms zum Drucken. In dieser Zeit wird die RS232-Flusskontrolle wieder freigeschaltet und in bester Zeitausnutzung empfängt der nun unbeschäftigte Mikrocontroller Daten vom Computer. Diese klassische Interfacetechnik wird in der Umsetzung insofern interessant, als dass sämtliche Timings empirisch erprobt werden mussten. <br>
+Theoretisch ist es mit unserem 20Mhz-Mikrocontroller und geeignet schneller Baud-Rate problemlos möglich, den Drucker in seiner damals weltbesten Geschwindigkeit auszureizen. Verbesserungspotential besteht etwa auch darin, mehrere Zeilen per Lookahead in eine Zeilenvorschubsanweisung zusammenzufassen, denn heutige Standardzeichensätze kodieren stets nur einen Zeilenvorschub in ein Zeichen. Tiefer führende Funktionen wie die damals weit verbreiteten „Formularbänder“ für vordefinierte absolute Zeilensprünge werden wir jedoch nicht implementieren.
+Es sei zum Abschluss angemerkt, dass wir dank der „Zwischenübersetzung“ zu heute geläufigem ASCII sowie standardkonformem RS-232 jede beliebige Hardware an den Drucker anschließen können. Einen Anfang macht der gute alte PC, der mit Terminal, Figlet- und ASCII-Art-Generator in unglaublicher Geschwindigkeit in Echtzeit generierte Textmassen auf Papier bringen kann.</p>
 
-<p>Die ursprüngliche Kommunikation lief keineswegs zeilenweise und unidirektional ab, sondern war ein reger zeichenweiser Dialog zwischen Drucker und Computer:
-<br>Im Trommeldrucker rotiert ständig die Trommel, so dass zu jedem Zeitpunkt immer eine komplette Zeile mit einem Buchstaben gedruckt werden könnte. Auf der mitrotierenden Kodierscheibe wird dieser Buchstabe als 6bit-Binärcode optisch abgegriffen und dem G10-Computer übermittelt (Bild 2). Dieser scannt daraufhin seinen Zeilenspeicher durch und sendet dem Drucker in einem seriellen Bitstream für jede der 120 Zeichenpositionen, ob das aktive Zeichen an der Position gedruckt werden soll oder nicht. Eine einzige komplette Zeile wird schließlich während einer ganzen Trommelumdrehung sukzessive mit den entsprechenden Zeichen aufgefüllt.</p>
 
-<p>Der Mikrocontroller simuliert bei dieser bidirektionalen Kommunikation den Originaldrucker. Bei einer Druckgeschwindigkeit von 300 Zeilen pro Minute bleiben dem Controller nur einige Mikrosekunden pro 6-Bit-Zeichen als Übertragungszeit. Dieser Hochgeschwindigkeitstransport des Bitstreams muss synchron verarbeitet werden und kann dann, übersetzt nach ASCII, per RS232-Schnittstelle an den PC (später den Anelex-Mikrocontroller) übertragen werden. Das weitgehend unbekannte Timing bringt dabei einen hohen experimentellen Arbeitsaufwand.
-Das Wissen über diese komplizierte Datenübertragung konnten wir zu allem Überfluss keinen Manuals entnehmen, sondern mussten es anhand von Reverse Engineering, also Nachkonstruktion der Übertragungslogik, aus den französischsprachigen Schaltplänen rekonstruieren. Hier gebührt der Dank den ehemaligen BULL-Fachkräften und engagierten Mitarbeitern im Museum Herr Naumann und Herr Balz.<br>
-Die Pegelübersetzung zwischen Standard-TTL (logisch 0 = 0V, logisch 1 = +5V) und invertiertem geshiftetem Gamma 10-Pegel (logisch 0 = 0V, logisch 1 = -5V) haben wir in einer selbst entworfenen Mosfet-Schaltung für alle 30 Datenleitungen realisiert.</p>
-
-<p><i>Das Anelex-Gamma10-Projekt ist in aktiver Entwicklung; die Beschreibung wird fortgesetzt</i></p>
-
-<p>Weitere Details werden auf der englischsprachigen Homepage, <a href="http://dev.technikum29.de/projects/wiki/BullAnalexProject" class="go">The Bull Anelex Project</a>, veröffentlicht. Dort werden mit zunehmendem Fortschritt auch Schaltpläne und die Quelltexte (Open Source) für Interessenten einsehbar sein.</p>

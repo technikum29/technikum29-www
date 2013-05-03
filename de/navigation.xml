@@ -39,7 +39,7 @@
 					<li><a href="/de/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
 					<li><a href="/de/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
 					<li><a href="/de/entwicklungsprojekte.php#anelex">Anelex-Drucker</a></li>
-					<li><a href="/de/entwicklungsprojekte.php#gamma10">Gamma10-Drucker</a></li>
+					
 				</ul>
 			</li>
 		</ul>
@@ -212,6 +212,8 @@
 				</ul>
 			</li>
 			<li><a href="/de/sonstiges.php#kinomaschine">Kinomaschine</a></li>
+			
+				<li><a href="/de/lehrerinfo.php">Didaktik</a></li>
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>

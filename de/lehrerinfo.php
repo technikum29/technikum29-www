@@ -163,7 +163,18 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
        ASCII-Art, eine besondere Kunstform, (S1 bis LK)<br>
 	   Ziel: Aufwändige aber interessante Möglichkeit mit Hilfe von selbst zu stanzenden Lochkarten Bilder zu generieren, die ein Computer ausdruckt
 </div>
+<div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
 
+<div class="leftcol left-img">
+    <img src="/shared/photos/rallye/exp16.jpg"  width="150" height="81" />
+       1965: Der erste Bildschirmrechner<br>(S1)<br>
+	   Ziel: Learning by duing (1)
+	   </div>
+	   <div class="rightcol left-img">
+    <img src="/shared/photos/rallye/exp17.jpg"  width="150" height="112" />
+       1968: Der erste hochwissenschaftliche Rechner <br>(S2, LK)<br>
+	   Ziel: Learning by duing (2)
+	   </div>
 </div><!-- Ende der Zweispaltigkeit -->
 
 

@@ -80,15 +80,42 @@
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2011.pdf">aktuellen Flyer</a> als PDF (2 MB)</p>
 		</div>
 		
-		<br><br><br><br><br><br>
-		<big><span style="color:red">Unser IBM 026-Card-Punch ist am 10. Mai um 20:30 Uhr in einem Konzert in Köln zu "hören!" Siehe<br>
-			<a href="http://www.punchcardmusic.de/"> punchcard music</a> <br>
-			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln</span></big>
-			
       </div><!--rightcol-->
 			
 			</div><!-- cols -->
+			<div class="clear"></div>
 			
-    <div class="clear">&nbsp;</div>
+			
+		<h2>Termine</h2>	
+		
+		 <div class="cols">
+       <div class="leftcol startseiten-design">
+		<big><span style="color:red">Unser IBM 026-Card-Punch ist am 10. Mai um 20:30 Uhr in einem Konzert in Köln zu "hören!" Siehe<br>
+			<a href="http://www.punchcardmusic.de/"> punchcard music</a> <br>
+			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln</span></big><hr>
+			
+			Im Rahmen der <b>"Tage der Industriekultur Rhein-Main"</b> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe Rubrik "Kontakt"):<br><br>
+	<b>1. "Die Geschichte der Kommunikation"</b><br>
+	Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahren bestens geeignet. <br>
+	<b>Termin:</b> Mittwoch, den 14. August 2013 um 19 Uhr
+	<hr>
+			
+			
+    </div><!--leftcol-->
+	<div class="rightcol startseiten-design">
+	
+	<b>2. "Beeinflusst Sprache unser Denken?"</b><br>
+Kann man über Probleme nachdenken, sie
+gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
+sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein
+Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
+Mathematikers/Informatikers, (Prof. Dr. B. Ulmann)  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
+<b>Termin:</b> Samstag, den 17. August um 19 Uhr
+<hr>
+<b>3. "Computer-History"</b><br>
+Unsere klassische Führung als Zeitreise durch die Cumputerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahren bestens geeignet.<br>
+<b>Termin:</b> Sonntag, den 18. August um 14 Uhr
+	</div><!--rightcol-->
+	</div><!-- cols -->
 	
 	

@@ -90,9 +90,11 @@
 		
 		 <div class="cols">
        <div class="leftcol startseiten-design">
-		<big><span style="color:red">Unser IBM 026-Card-Punch ist am 10. Mai um 20:30 Uhr in einem Konzert in Köln zu "hören!" Siehe<br>
-			<a href="http://www.punchcardmusic.de/"> punchcard music</a> <br>
-			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln</span></big><hr>
+		Unser IBM 026-Card-Punch ist in einem Konzert in Köln zu "hören!" Siehe<br>
+			<a href="http://www.punchcardmusic.de/"><b> punchcard music</b></a> <br>
+			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln<br>
+			<b>Termin:</b> Freitag, den 10. Mai um 20:30 Uhr
+			<hr>
 			
 			Im Rahmen der <b>"Tage der Industriekultur Rhein-Main"</b> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe Rubrik "Kontakt"):<br><br>
 	<b>1. "Die Geschichte der Kommunikation"</b><br>

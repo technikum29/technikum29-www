@@ -96,7 +96,7 @@
 			
 			Im Rahmen der <b>"Tage der Industriekultur Rhein-Main"</b> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe Rubrik "Kontakt"):<br><br>
 	<b>1. "Die Geschichte der Kommunikation"</b><br>
-	Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahren bestens geeignet. <br>
+	Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet. <br>
 	<b>Termin:</b> Mittwoch, den 14. August 2013 um 19 Uhr
 	<hr>
 			
@@ -113,7 +113,7 @@ Mathematikers/Informatikers, (Prof. Dr. B. Ulmann)  sowie eines Philosophen (P. 
 <b>Termin:</b> Samstag, den 17. August um 19 Uhr
 <hr>
 <b>3. "Computer-History"</b><br>
-Unsere klassische Führung als Zeitreise durch die Cumputerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahren bestens geeignet.<br>
+Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
 <b>Termin:</b> Sonntag, den 18. August um 14 Uhr
 	</div><!--rightcol-->
 	</div><!-- cols -->

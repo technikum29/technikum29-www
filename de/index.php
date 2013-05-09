@@ -63,9 +63,9 @@
             <ul>
 			
                 <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
-				<br>Einzelpersonen können jedoch gerne nachfragen, ob zu den untenstehenden Terminen noch Plätze frei sind.<br>
+				<br>Einzelpersonen können jedoch gerne nachfragen, ob an den untenstehenden Gruppen-Terminen noch Plätze frei sind. <br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
-				
+				Zu den Veranstaltungen im Rahmen der "Tage der Industriekultur" können Sie sich jederzeit anmelden, siehe unten.
 				
 				
 					</li>

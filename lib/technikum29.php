@@ -54,6 +54,17 @@ $lang = substr($file, 1, 2);
 if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists
 $lang_path = $languages[$lang][1]; # shorthand, relative to webroot. use "$webroot$lang_path" for local.
 
+// "AJAX" calls are our meaning for pages without chrome
+$ajax = isset($_GET['ajax']);
+if($ajax) {
+	// print only a minimal chrome, no caching.
+	require "$lib/ajax-template.php";
+	$ajax_tmpl = new t29AJAXTemplate($GLOBALS);
+	$ajax_tmpl->print_page();
+	// important: do not execute bottom code
+	return true;
+}
+
 require "$lib/cache.php";
 
 $page_cache = new t29Cache(false, true); // debug, verbose

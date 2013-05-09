@@ -4,6 +4,8 @@
  * Blendet einen Hinweis ein, dass die Seite auch in der Muttersprache des
  * Benutzers existiert, falls er extern reinkam, da die Sprachwahl sonst doch
  * recht versteckt ist.
+ *
+ * Kuemmert sich ausserdem darum, hinzuweisen, dass eine Seite nicht in anderer Sprache existiert
  * 
  **/
 
@@ -23,7 +25,7 @@ t29.interlang.alternate_language_title = function () {
 	return (l=$("link[rel=alternate]")).length ? l.attr('title') : false;
 }
 
-t29.interlang.setup = function() {
+t29.interlang.setup_interlang_hint = function() {
 	// Noch deaktiviert, da get_prefered_language() nocht nicht implementiert ist
 	return;
 	
@@ -51,3 +53,23 @@ t29.interlang.setup = function() {
 	}
 }
 
+t29.interlang.catch_nonexistent_interlang = function() {
+	$("nav.top li.nonexistent a").click(function() {
+		// seiteninhalt per ajax kriegen
+		$.get(this.href + "&ajax", function(data) {
+			t29.log.notice({
+				//heading: $("h2", content).detach().html(),
+				text: data,
+				dismissable: true
+			});
+		});
+		
+		// link nicht folgen
+		return false;
+	});
+}
+
+t29.interlang.setup = function() {
+	t29.interlang.setup_interlang_hint();
+	t29.interlang.catch_nonexistent_interlang();
+}

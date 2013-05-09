@@ -121,6 +121,7 @@ class t29Messages {
 		'topnav-interlang-title' => array('Die Seite "%s" auf Deutsch lesen', 'Read the page "%s" in English'),
 		'topnav-interlang-active' => array('Sie betrachten gerade die Seite "%s" auf Deutsch', 'You currently read the page "%s" in English'),
 		'topnav-interlang-nonexistent' => array('Diese Seite steht auf Deutsch nicht zur Verfügung', 'This page is not available in English'),
+		'topnav-interlang-nonexistent-page' => '/en/no-translation.php',
 		'topnav-search-label'    => array('Suchen', 'Search'),
 		'topnav-search-page'     => array('/suche.php', '/search.php'),
 		'opensearch-desc'        => array('technikum29 (de)', 'technikum29 (en)'),

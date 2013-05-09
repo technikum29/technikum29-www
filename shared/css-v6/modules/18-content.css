@@ -76,7 +76,7 @@ h2 {
 
 .messages.panel { margin-bottom: 20px; }
 
-.messages.panel li {
+.messages.panel > li {
 	margin-bottom: 5px;
 	background-color: #FCF8E3;
 	border: 1px solid #FBEED5;
@@ -89,6 +89,18 @@ h2 {
 .messages.panel p { margin: 2px 0; }
 .messages.panel button.close {
 	float: right;
+}
+
+.messages.panel .panel-hide { display: none; }
+
+.messages.panel h2, #content .messages.panel h2 {
+	font-size: 120%;
+	font-weight: bold;
+	font-family: inherit;
+	border: none;
+	border-bottom: 1px solid #aaa;
+	margin: 0;
+	margin-bottom: 5px;
 }
 
 .messages.footer {

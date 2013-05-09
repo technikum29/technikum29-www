@@ -111,6 +111,7 @@ class t29Template {
 		// methods (see below).
 		$this->page_relations = $this->menu->get_page_relations();
 		$this->interlang_links = $this->menu->get_interlanguage_link();
+		$this->current_link_classes = $this->menu->get_link_classes();
 		
 		// check and load additional css
 		$this->conf['pagecss'] = '/shared/css-v6/pagestyles/'.$this->conf['seiten_id'].'.css';
@@ -156,7 +157,7 @@ class t29Template {
 		// good values for $relation are: "prev", "next".
 		// Link is composed as <a href="$href">$label</a>.
 		$this->page_relations[$relation] = t29Menu::dom_new_link($href, $label);
-		print_r($this->page_relations);
+		//print_r($this->page_relations);
 	}
 
 	/**
@@ -227,6 +228,8 @@ class t29Template {
   <meta name="t29.cachedate" content="<?php print date('r'); ?>">
   <?php
 	foreach($this->conf['header_prepend'] as $h) print $h."\n  ";
+	
+	if($this->conf['ajax']) print "\n  <meta name='t29.ajax' content='true'>";
   
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
 	if(isset($_GET['debug']))
@@ -322,7 +325,16 @@ class t29Template {
 						$is_current_lang = $lang == $this->conf['lang'];
 						if(is_null($a)) {
 							// when interlanguage link not present (null) = no translation exists
-							$a = t29Menu::dom_new_link('#', 'not present');
+							$backtitle = isset($this->conf['titel']) ? $this->conf['titel'] : null;
+							
+							$a = t29Menu::dom_new_link(
+								$_('topnav-interlang-nonexistent-page') . '?'
+								   . htmlentities(http_build_query(array(
+									'backurl' => $_SERVER['REQUEST_URI'],
+									'backtitle' => $backtitle ? $backtitle : null,
+								     ))),
+								'not present'
+							);
 							$title = sprintf($_('topnav-interlang-nonexistent', $lang));
 							$class = 'nonexistent';
 						} elseif($is_current_lang) {
@@ -354,14 +366,11 @@ class t29Template {
 		// it can also be forced with a global setting $force_footer_menu = 1
 		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side') || isset($this->conf['force_footer_menu']);
 		
-		/*
 		// print next or prev entry when the current page has a
 		// "show-rel-next" or "show-rel-prev" class entry
-		$current_link_classes = $this->menu->get_link_classes();
-		print_r($current_link_classes); exit;
-		$show_rel_next = in_array('show-rel-next', $current_link_classes);
-		$show_rel_prev = in_array('show-rel-prev', $current_link_classes);
-		*/
+		$show_rel_next = in_array('show-rel-next', $this->current_link_classes);
+		$show_rel_prev = in_array('show-rel-prev', $this->current_link_classes);
+		
 	?>
     <footer class="in-sheet <? if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
@@ -370,20 +379,19 @@ class t29Template {
 		<nav class="rel clearfix">
 		<ul>
 			<?php
-			  if($print_footer_menu) //|| $show_rel_prev || $show_rel_next)
+			  //if($print_footer_menu)
 				foreach($this->page_relations as $rel => $a) {
-					/*
 					// only show the links wanted to be shown. Only relevant if
 					// the "show-rel-*"-magic is working.
-					if( $print_footer_menu
+					if( $print_footer_menu ||
 					    (!$print_footer_menu && $rel == "prev" && $show_rel_prev) ||
 					    (!$print_footer_menu && $rel == "next" && $show_rel_next)) {
-					*/
+					
 						printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
 							$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
 							$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
 						);
-					//} // endif
+					} // endif
 				} // endfor
 			?>
 		</ul>

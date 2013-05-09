@@ -157,13 +157,19 @@ class t29Menu {
 	/**
 	 * Extracts a list of (CSS) classes the link has,
 	 * e.g. <a class="foo bar"> gives array("foo","basr").
+	 *
+	 * Caveat: This must be called before this class is destructed
+	 * by print_menu! Otherwise it will return an empty array. This is
+	 * actually bad design, print_menu destroyes the internal structure
+	 * for storage efficiencey.
+	 * 
 	 * @returns array or empty array in case of error
 	 **/
 	function get_link_classes($seiten_id=false) {
 		$link = $this->get_link($seiten_id);
-		print "link:"; var_dump($this->xml);
+		//print "link:"; var_dump($this->xml);
 		if(!$link) return array();
-		var_dump($link); exit;
+		//var_dump($link); exit;
 		return isset($link['class']) ? explode(' ',$link['class']) : array();
 	}
 

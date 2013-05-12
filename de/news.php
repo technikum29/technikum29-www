@@ -49,8 +49,8 @@ MENU;
 <li><h3>April 2013</h3><br>
 <div class="box left clear-after">
 <img src="/shared/photos/rechnertechnik/ibm26.jpg" width="300" height="287" />
-Den nun ältesten Lochkartenstanzer im technikum29 finden Sie <a href="/de/rechnertechnik/lochkarten-edv.php#026"><b>hier:</b></a><br><br>
-Nebenbei: Genau dieses Gerät wird am 10. Mai in Köln als "Musikinstrument" in einem Konzert mitspielen, siehe Startseite.
+Den nun ältesten Lochkartenstanzer im technikum29 finden Sie <a href="/de/rechnertechnik/lochkarten-edv.php#026"><b>hier:</b></a><br>
+
 </div>
 
 <li><h3>März 2013</h3><br>

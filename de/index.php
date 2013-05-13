@@ -104,20 +104,25 @@
 			(Guppe Stehling)<br>
 			<b>Termin:</b> Samstag, 22. Juni um 15 Uhr
 			<hr>
+			<b>Die lebendige Geschichte des Computers</b><br>
+			Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">  Nr. 01375122 </a>).<br>
+			<b>Termin:</b> Mittwoch, 26. Juni 14:30 Uhr. Anmeldung erforderlich.
+			<hr>
 			
 			Im Rahmen der <b>"Tage der Industriekultur Rhein-Main"</b> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe Rubrik "Kontakt"):<br><br>
 	<b>1. "Die Geschichte der Kommunikation"</b><br>
 	Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet. <br>
 	<b>Termin:</b> Mittwoch, den 14. August 2013 um 19 Uhr
 	<hr>
+	
+			
+    </div><!--leftcol-->
+	<div class="rightcol startseiten-design">
+	
 	<b>2. "Beeinflusst Sprache unser Denken?"</b><br>
 Kann man über Probleme nachdenken, sie
 gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
 sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein		
-			
-    </div><!--leftcol-->
-	<div class="rightcol startseiten-design">
-
 Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
 Mathematikers/Informatikers, (Prof. Dr. B. Ulmann)  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
 <b>Termin:</b> Samstag, den 17. August um 19 Uhr

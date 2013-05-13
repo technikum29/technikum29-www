@@ -125,13 +125,15 @@ Mathematikers/Informatikers, (Prof. Dr. B. Ulmann)  sowie eines Philosophen (P. 
 <b>3. "Computer-History"</b><br>
 Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
 <b>Termin:</b> Sonntag, den 18. August um 14 Uhr
-<hr><hr><br>
+<hr>
+
+<div style="opacity: 0.6">
 <b>Archiv:</b><br><br>
 Unser IBM 026-Card-Punch ist in einem Konzert in Köln zu "hören!" Siehe<br>
 			<a href="http://www.punchcardmusic.de/"><b> punchcard music</b></a> <br>
 			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln<br>
 			<b>Termin:</b> Freitag, den 10. Mai um 20:30 Uhr
-
+</div>
 
 	</div><!--rightcol-->
 	</div><!-- cols -->

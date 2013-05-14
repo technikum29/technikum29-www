@@ -1,4 +1,7 @@
 $(function(){
+	t29.load.css('/shared/js/slider/slider.css');
+	t29.load.js("/shared/js/slider/slider.js");
+		
 	stoplabel = {"de": "Animation stoppen", "en": "stop animation"};
 	startlabel = {"de": "Animation starten", "en": "start animation"};
 	repeatlabel = {"de": "Animation wiederholen", "en": "repeat animation"};
@@ -19,6 +22,8 @@ $(function(){
 	slider[1].playerAutoStart = true;
 	slider[1].playerRepeatFromMin = true;
 	slider[1].onchange = setTransparency;
+	
+	window.slider = slider;
 });
 
 function setTransparency(val, blubb) {

@@ -6,7 +6,7 @@
 	require "../lib/technikum29.php";
 ?>
 
-    <div class="cols">
+    <div class="cols clear-after">
        <div class="leftcol startseiten-design">
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
@@ -80,67 +80,156 @@
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2011.pdf">aktuellen Flyer</a> als PDF (2 MB)</p>
 		</div>
 		
-      </div><!--rightcol-->
-			
-			</div><!-- cols -->
-			<div class="clear"></div>
-			
-			
-		<h2>Termine</h2>	
-		
-		 <div class="cols">
-       <div class="leftcol startseiten-design">
-	
-			
-			<b>Computer-History</b><br>
-			(Gruppe Weber)<br>
-			<b>Termin:</b> Montag, 3. Juni um 15 Uhr
-			<hr>
-			<b>Computer-History</b><br>
-			(Gruppe Kliche)<br>
-			<b>Termin:</b> Mittwoch, 19. Juni um 18 Uhr
-			<hr>
-			<b>Die Geschichte der Kommunikation</b><br>
-			(Guppe Stehling)<br>
-			<b>Termin:</b> Samstag, 22. Juni um 15 Uhr
-			<hr>
-			<b>Die lebendige Geschichte des Computers</b><br>
-			Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">  Nr. 01375122 </a>).<br>
-			<b>Termin:</b> Mittwoch, 26. Juni 14:30 Uhr. Anmeldung erforderlich.
-			<hr>
-			
-			Im Rahmen der <b>"Tage der Industriekultur Rhein-Main"</b> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe Rubrik "Kontakt"):<br><br>
-	<b>1. "Die Geschichte der Kommunikation"</b><br>
-	Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet. <br>
-	<b>Termin:</b> Mittwoch, den 14. August 2013 um 19 Uhr
-	<hr>
-	
-			
-    </div><!--leftcol-->
-	<div class="rightcol startseiten-design">
-	
-	<b>2. "Beeinflusst Sprache unser Denken?"</b><br>
-Kann man über Probleme nachdenken, sie
-gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
-sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein		
-Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
-Mathematikers/Informatikers, (Prof. Dr. B. Ulmann)  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
-<b>Termin:</b> Samstag, den 17. August um 19 Uhr
-<hr>
-<b>3. "Computer-History"</b><br>
-Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
-<b>Termin:</b> Sonntag, den 18. August um 14 Uhr
-<hr>
-
-<div style="opacity: 0.6">
-<b>Archiv:</b><br><br>
-Unser IBM 026-Card-Punch ist in einem Konzert in Köln zu "hören!" Siehe<br>
-			<a href="http://www.punchcardmusic.de/"><b> punchcard music</b></a> <br>
-			ein Auftragswerk von ACHT BRÜCKEN | Musik für Köln<br>
-			<b>Termin:</b> Freitag, den 10. Mai um 20:30 Uhr
-</div>
-
 	</div><!--rightcol-->
 	</div><!-- cols -->
 	
+<!-- Zweiter Teil der Startseite: Termine -->
+
+<div id="termine" class="termine">
+<h2>Termine und Führungen</h2>
+
+<div class="cols clear-after"><!-- Zweispaltige Ansicht -->
+		
+<div class="leftcol">
+	<h3>Führungen</h3>
+
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 03. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Weber
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Montag, 3. Juni um 15 Uhr</dd>
+			<!-- Beispiel:
+			<dt>Anmeldung</dt>
+			<dd><a href="/de/impressum">wird erbeten</a></dd>
+			-->
+		</dl>
+	</div>
+	
+	
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 19. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Kliche
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, 19. Juni um 18 Uhr</dd>
+		</dl>
+	</div>
+	
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 22. Juni</em></p>
+		<h4>Die Geschichte der Kommunikation</h4>
+		
+		Gruppe Stehling
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
+		</dl>
+	</div>
+
+	<h3>Fortbildungen</h3>
+	
+	<div class="box termin clear-after">
+		<p class="date rot left"><em>2013</em> 26. Juni</em></p>
+		<h4>Die lebendige Geschichte des Computers</h4>
+		
+		Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">Nr. 01375122</a>).
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
+			<dt>Anmeldung</dt>
+			<dd><a href="https://akkreditierung.hessen.de/web/guest/catalog/registration?tspm=&tspi=132543&vsid=96223B5EA7C5D991D0CB30E7923598E5_17">erforderlich, Anmeldeschluss 21.06.13</a></dd>
+		</dl>
+	</div>
+			
+			
+
+<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
+	
+	<h3>Tage der Industriekultur Rhein-Main</h3>
+	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe <a href="/de/impressum">Kontakt</a>):<br><br>
+	
+
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 14. Aug</p>
+
+		<h4>1. Die Geschichte der Kommunikation</h4>
+		
+		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.
+
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
+		</dl>
+	</div>
+			
+			
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 17. Aug</p>
+
+		<h4>2. Beeinflusst Sprache unser Denken?</h4>
+
+		Kann man über Probleme nachdenken, sie
+gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
+sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein
+Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
+Mathematikers/Informatikers (<a href="http://www.vaxman.de/about_me/about.html">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
+
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
+		</dl>
+	</div>
+
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 18. Aug</p>
+		<h4>3. Computer History</h4>
+		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>
+		</dl>
+	</div>
+	
+	
+</div><!--rightcol-->
+</div><!-- Ende der Zweispaltigkeit -->
+
+<div class="center" style="opacity: 0.7">
+	<a href="#archiv" onclick="$('#termine .archiv').slideDown(); $(this).slideUp();" class="go">Vergangene Termine anzeigen</a>
+</div>
+
+<div class="archiv clear" style="display: none;">
+<h2>Termin-Archiv</h2>
+
+	<div class="box termin clear-after">
+		<p class="date rot left"><em>2013</em> 10.<br> Mai</p>
+		<h4>Punchcard music</h4>
+		
+		Unser <a href="/de/rechnertechnik/lochkarten-edv#026">IBM 026-Card-Punch</a> ist in einem
+		Konzert in Köln zu "hören!" Siehe <a class="go" href="http://www.punchcardmusic.de/"><b>punchcard music</b></a>
+		<br>
+		ein Auftragswerk von <a href="http://www.achtbruecken.de/">ACHT BRÜCKEN | Musik für Köln</a>
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Freitag, den 10. Mai um 20:30 Uhr</dd>
+			<dt>Ort</dt>
+			<dd><a href="http://www.achtbruecken.de/programm/110853/">Kunst-Station Sankt Peter, Köln</a>
+		</dl>
+
+	</div>
+
+
+</div><!-- Ende Archiv -->
+</div><!-- Ende Termine -->
 	

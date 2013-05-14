@@ -11,7 +11,7 @@
 \**********************************************************************/
 
 
-#content div {
+#content div.startseiten-design div {
     padding: 1em;
     margin: 0;
     /*border: 1px solid blue;*/
@@ -50,4 +50,103 @@
     color: #fff;
     font-size: 90%;
     font-weight: bold;
+}
+
+
+/* Termine-Bereich, ab 14.05.2013 */
+
+#termine {
+	/* Experiment: Helle Hintergrundbox */
+	background-color: #EDF0F2;
+	margin: 20px -40px -60px;
+	padding: 30px 40px 60px;
+}
+
+#termine h2 {
+	text-align: center;
+	margin-bottom: 1.4em;
+}
+
+#termine div.termin.box {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#termine div.termin, #termine div.termin p {
+	/* zu schmale spalte fuer blocktext */
+	text-align: left;
+}
+
+#termine div.termin h4 /* id zur Bedeutungssteigerung */ {
+    font-weight: bold;
+    font-size: 100%;
+    margin: 0;
+    font-family: inherit; /* 04.01.10: Neue Header-Styles */
+    border: none;         /*           neutralisieren     */
+    color: #1A5160; /* gleiche Farbe wie Navilinks rechts */
+}
+
+/* Details */
+#termine dl.daten {
+	font-size: 80%;
+}
+
+#termine dl.daten dt {
+	float: left; clear: left;
+	width: 70px;
+	text-align: left; font-weight: normal; color: #333333;
+	margin-top: 0;
+}
+
+#termine dl.daten dd {
+	margin: 0 0 0 80px;
+	padding: 0 0 0.5em 0;
+	text-align: left;
+}
+
+
+/*#termine dl.daten.right {
+	float: right;
+	margin: 0 0 30px 30px;
+	background-color: #eee;
+	padding: 20px;
+	width: 14em;
+}*/
+
+/* Date Icon */
+#termine div.termin {
+	/* fuer p.date */
+	margin-left: 52px;
+}
+
+#termine div.termin p.date {
+	margin: 0; padding: 0;
+	background: url(/shared/img-v6/date.sprite.png);
+	background-repeat: no-repeat;
+	height: 45px;
+	text-align: center;
+	width: 42px;
+	font: 11px/11px "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
+	color: #333333;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#termine div.termin p.date.rot {
+	background-position: 0 -49px;
+}
+
+p.date em {
+	/* Jahr/Text im gruenen bzw. roten Bereich oben */
+	color: white;
+	font-style: normal;
+	display: block;
+	line-height: 15px;
+	margin-bottom: 3px;
+}
+
+#termine div.termin p.date.left {
+	float: left;
+	margin-right: 10px;
+	margin-left: -52px;
 }

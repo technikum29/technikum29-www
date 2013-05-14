@@ -15,8 +15,7 @@
 	?>
 	
 	<div class="anmelde-maske">
-	    <form id="anmeldung">
-		<form action="http://dev.technikum29.de/cgi-bin/mail.php" method="post">
+	    <form id="anmeldung" action="http://dev.technikum29.de/cgi-bin/mail.php" method="post">
 			<input type="hidden" name="to" value="sven">
 			<input type="hidden" name="subject" value="Webanmeldung für Führung">
 			<input type="hidden" name="pre" value="Folgender Besucher hat sich für eine Führung angemeldet:">

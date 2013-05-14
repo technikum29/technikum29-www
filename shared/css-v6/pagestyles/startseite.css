@@ -150,3 +150,19 @@ p.date em {
 	margin-right: 10px;
 	margin-left: -52px;
 }
+
+/*
+ * Kleine Buttonleiste
+ **/
+
+#termine div.button-box {
+	opacity: 0.7;
+	margin-bottom: 20px;
+}
+
+/* Anmeldemaske, per AJAX eingebunden */
+
+#termine div.anmelde-maske {
+	background-color: #DFEAF0;
+	padding: 1em;
+}

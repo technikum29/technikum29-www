@@ -1,0 +1,23 @@
+/* Anmeldebox */
+
+
+#anmeldung  h4 { margin-top: 0; }
+
+#anmeldung  dl dt {
+	float: left; clear: left;
+	width: 180px;
+	text-align: right; font-weight: bold;
+	margin-top: 0;
+}
+
+#anmeldung dl dd {
+	margin: 0 0 0 200px;
+	padding: 0 0 0.5em 0;
+	text-align: left;
+}
+
+#anmeldung input[type=submit] {
+    color: green;
+    font-weight: bold;
+    padding: 9px;
+}

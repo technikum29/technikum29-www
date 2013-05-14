@@ -204,8 +204,9 @@ Mathematikers/Informatikers (<a href="http://www.vaxman.de/about_me/about.html">
 </div><!--rightcol-->
 </div><!-- Ende der Zweispaltigkeit -->
 
-<div class="center" style="opacity: 0.7">
-	<a href="#archiv" onclick="$('#termine .archiv').slideDown(); $(this).slideUp();" class="go">Vergangene Termine anzeigen</a>
+<div class="center button-box">
+	<a href="#archiv" class="go archiv-btn">Vergangene Termine anzeigen</a>
+	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a>
 </div>
 
 <div class="archiv clear" style="display: none;">

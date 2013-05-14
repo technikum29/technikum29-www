@@ -10,6 +10,16 @@
 if(!t29) window.t29 = {}; // the t29 namespace
 t29.load = {};
 
+/**
+ * Load the CSS file for a specific seiten_id. This is done by the t29Template on
+ * server side automatically but can be useful for modular pagescripts loading parts
+ * of other pages via AJAX.
+ **/
+t29.load.pagestyle = function(seiten_id) {
+	path = "/shared/css-v6/pagestyles/" + seiten_id + ".css";
+	t29.load.css(path);
+};
+
 t29.load.css = function(file) {
 	file = t29.load.get_path(file);
 	$("<style type='text/css'/>").html('@import url("'+file+'")').appendTo("head");

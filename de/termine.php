@@ -1,4 +1,17 @@
 <?php
+/**
+ * Die Termine-Seite wurde im Mai 2013 überlegt und von Sven vorgeschlagen.
+ * Durch folgende Anweisung ist sie deaktiviert, ein Aufruf leitet zur
+ * Startseite weiter (dort zum Anker "Termine"):
+ **/
+ 
+	header("Location: /de/#Termine"); exit;
+
+/**
+ * Wenn obige "header(...)"-Zeile auskommentiert bzw entfernt wird, ist diese
+ * Seite wieder aufrufbar.
+ **/
+
 	$seiten_id = 'termine';
 	$version = '$Id: index.php 387 2013-05-08 09:58:11Z heribert $';
 	$titel = 'Termine für Führungen';

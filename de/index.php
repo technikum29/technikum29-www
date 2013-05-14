@@ -181,7 +181,7 @@
 gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
 sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein
 Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
-Mathematikers/Informatikers (<a href="http://www.vaxman.de/about_me/about.html">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
+Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_me/">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
 
 		<dl class="daten">
 			<dt>Termin</dt>

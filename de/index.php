@@ -92,7 +92,17 @@
 		
 <div class="leftcol">
 	<h3>Führungen</h3>
-
+<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 22. Mai</em></p>
+		<h4>Die Geschichte der Kommunikation</h4>
+		
+		Pestalozzi-Schule
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, 22. Mai um 15 Uhr</dd>
+	
+	</div>
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 03. Juni</em></p>
 		<h4>Computer History</h4>

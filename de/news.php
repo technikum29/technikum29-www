@@ -5,6 +5,11 @@
 	
 	$neues_menu = <<< MENU
 	
+- titel: "Termine auf der Startseite"
+  text: ""
+  link: "#Mai_2013"  
+	
+	
 - titel: "Experimentieren im technikum"
   text: ""
   link: "#Mai_2013"  
@@ -38,6 +43,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+		
+<li><h3>Mai 2013</h3><br>
+
+<big><b>Ab sofort stehen auf der Startseite die aktuellen Termine des technikum29</b></big>
+</li><br>
+
+
 <li><h3>Mai 2013</h3><br>
 <div class="box left clear-after">
     <img src="/shared/photos/rallye/exp12.jpg"  width="300" height="198" />

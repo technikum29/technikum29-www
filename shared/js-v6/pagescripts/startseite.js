@@ -18,9 +18,9 @@ $(function() {
 			$anmeldebox.append(form);
 			
 			// Termine aus Startseite extrahieren
-			veranstaltungen = $("#termine .box.termin");
+			veranstaltungen = $("#termine .box.termin.only");
 			
-			if(veranstaltungen.length) {
+			if(veranstaltungen.length > 1) {
 				// Input-Box durch Chooser ersetzen
 				$anmeldebox.find("input[name='text_veranstaltung']").replaceWith('<select name="text_veranstaltung"></select>');
 				$ver_select = $anmeldebox.find("select[name='text_veranstaltung']");
@@ -42,6 +42,11 @@ $(function() {
 					if(d = $(this).find(':selected').data('ver_datum'))
 						$terminbox.text(d);
 				}).change();
+			} else if(veranstaltungen.length == 1) {
+				// nur ein Termin angeboten:
+				// statt chooser einfach fixe Vorgabe machen (keine Auswahlmoeglichkeit)
+				$anmeldebox.find("input[name='text_veranstaltung']").replaceWith(veranstaltungen.find('h4').text());
+				$anmeldebox.find("dd.termin").text(veranstaltungen.find('dd.termin').text());
 			}
 			
 			// Abbrechen-Button mit Funktion befüllen

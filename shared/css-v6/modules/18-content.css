@@ -108,3 +108,49 @@ h2 {
 	   in den .messages.panel-Bereich verschoben werden. */
 	opacity: .8;
 }
+
+/**
+ * CSS-basierte Icons und Pikotgramme, die auf der Website Verwendung finden
+ **/
+
+/**
+ * Date Icon, Mai 2013 vor allem fuer Startseite, Termine
+ * 
+ * Usage:
+ *   <p class="date"><em>2013</em> 15. Mai</p>
+ * 
+ * Nutze <p class="date rot"> fuer rotes Emblem.
+ *
+ **/
+
+p.date {
+	margin: 0; padding: 0;
+	background: url(/shared/img-v6/date.sprite.png);
+	background-repeat: no-repeat;
+	height: 45px;
+	text-align: center !important; /* Yes this is bad praxise, but it must be centered under all conditions. */
+	width: 32px;
+	padding-left: 5px; padding-right: 5px;
+	font: 11px/11px "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
+	color: #333333;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+p.date.rot {
+	background-position: 0 -49px;
+}
+
+p.date em {
+	/* Jahr/Text im gruenen bzw. roten Bereich oben */
+	color: white;
+	font-style: normal;
+	display: block;
+	line-height: 15px;
+	margin-bottom: 3px;
+}
+
+p.date.left {
+	float: left;
+	margin-right: 10px;
+}

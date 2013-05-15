@@ -11,7 +11,8 @@
 \**********************************************************************/
 
 
-#content div.startseiten-design div {
+#content div.startseiten-boxen,
+#content div.startseiten-boxen div {
     padding: 1em;
     margin: 0;
     /*border: 1px solid blue;*/
@@ -31,12 +32,12 @@
     padding-left: 1em;
 }
 
-#content div.foto,
+#content div div.foto,
 #startseitenfoto-en {
     /* #startseitenfoto-en für /en, da gibts kein #content */
     border: none;
     padding: 0;
-	margin: 2em auto;
+    margin: 2em auto;
     background: none;
     width: 338px; height: 228px; /* Bildgrößen */
     position: relative;
@@ -119,36 +120,10 @@
 	margin-left: 52px;
 }
 
-#termine div.termin p.date {
-	margin: 0; padding: 0;
-	background: url(/shared/img-v6/date.sprite.png);
-	background-repeat: no-repeat;
-	height: 45px;
-	text-align: center;
-	width: 32px;
-	padding-left: 5px; padding-right: 5px;
-	font: 11px/11px "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
-	color: #333333;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-#termine div.termin p.date.rot {
-	background-position: 0 -49px;
-}
-
-p.date em {
-	/* Jahr/Text im gruenen bzw. roten Bereich oben */
-	color: white;
-	font-style: normal;
-	display: block;
-	line-height: 15px;
-	margin-bottom: 3px;
-}
+/* Date Icon-Formatierung jetzt in modules/18-content.css */
 
 #termine div.termin p.date.left {
 	float: left;
-	margin-right: 10px;
 	margin-left: -52px;
 }
 

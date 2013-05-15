@@ -6,8 +6,8 @@
 	require "../lib/technikum29.php";
 ?>
 
-    <div class="cols clear-after">
-       <div class="leftcol startseiten-design">
+    <div class="cols clear-after startseiten-boxen">
+       <div class="leftcol">
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
@@ -38,7 +38,7 @@
         
       </div><!--leftcol-->
 
-      <div class="rightcol startseiten-design">
+      <div class="rightcol">
 	  <div class="foto">
                 <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
                 <p>Das Museumsgeb&auml;ude</p>
@@ -92,7 +92,7 @@
 		
 <div class="leftcol">
 	<h3>Führungen</h3>
-<div class="box termin clear-after">
+<div class="box termin only clear-after">
 		<p class="date left"><em>2013</em> 22. Mai</em></p>
 		<h4>Die Geschichte der Kommunikation</h4>
 		
@@ -101,7 +101,7 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, 22. Mai um 15 Uhr</dd>
-	
+		</dl>
 	</div>
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 03. Juni</em></p>

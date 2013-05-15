@@ -47,7 +47,10 @@ MENU;
 		
 <li><h3>Mai 2013</h3><br>
 
-<big><b>Ab sofort stehen auf der Startseite die aktuellen Termine des technikum29</b></big>
+<!-- Kalendericon zur Illustration, auf dieser Seite würde ich es nicht in der Form verwenden. -->
+<p class="date left"><em>2013</em> 15. Mai</p>
+
+<big><b>Ab sofort stehen auf der <a class="go" href="/de">Startseite</a> die aktuellen Termine des technikum29</b></big>
 </li><br>
 
 

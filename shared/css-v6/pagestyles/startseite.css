@@ -125,7 +125,8 @@
 	background-repeat: no-repeat;
 	height: 45px;
 	text-align: center;
-	width: 42px;
+	width: 32px;
+	padding-left: 5px; padding-right: 5px;
 	font: 11px/11px "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
 	color: #333333;
 	text-transform: uppercase;

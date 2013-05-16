@@ -6,8 +6,8 @@
 	require "../lib/technikum29.php";
 ?>
 
-    <div class="cols">
-       <div class="leftcol startseiten-design">
+    <div class="cols startseiten-boxen">
+       <div class="leftcol">
          <div class="besonderes">
            <h2>What's special about it?</h2>
            <ul>
@@ -36,7 +36,7 @@
         </div>
       </div><!--leftcol-->
 
-      <div class="rightcol startseiten-design">
+      <div class="rightcol">
         <div class="wo">
             <h2>Location</h2>
             <ul>

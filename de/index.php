@@ -128,7 +128,7 @@
 		
 		<dl class="daten">
 			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 19. Juni um 18 Uhr</dd>
+			<dd class="termin">Mittwoch, 19. Juni um 16:30 Uhr</dd>
 		</dl>
 	</div>
 	

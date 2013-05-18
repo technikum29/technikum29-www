@@ -156,7 +156,7 @@
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
 			<dt>Anmeldung</dt>
-			<dd><a href="https://akkreditierung.hessen.de/web/guest/catalog/registration?tspm=&tspi=132543&vsid=96223B5EA7C5D991D0CB30E7923598E5_17">erforderlich, Anmeldeschluss 21.06.13</a></dd>
+			<dd>erforderlich, Anmeldeschluss 21.06.13</dd>
 		</dl>
 	</div>
 			
@@ -216,7 +216,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="center button-box">
 	<a href="#archiv" class="go archiv-btn">Vergangene Termine anzeigen</a>
-	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a>
+	<!--
+	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a> -->
 </div>
 
 <div class="archiv clear" style="display: none;">

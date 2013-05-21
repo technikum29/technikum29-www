@@ -92,7 +92,7 @@
 		
 <div class="leftcol">
 	<h3>Führungen</h3>
-<div class="box termin only clear-after">
+<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 22. Mai</em></p>
 		<h4>Die Geschichte der Kommunikation</h4>
 		
@@ -216,8 +216,7 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="center button-box">
 	<a href="#archiv" class="go archiv-btn">Vergangene Termine anzeigen</a>
-	<!--
-	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a> -->
+	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a>
 </div>
 
 <div class="archiv clear" style="display: none;">

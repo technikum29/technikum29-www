@@ -18,12 +18,12 @@ $(function() {
 			$anmeldebox.append(form);
 			
 			// Termine aus Startseite extrahieren
-			veranstaltungen = $("#termine .box.termin.only");
+			veranstaltungen = $("#termine .box.termin");
 			
 			if(veranstaltungen.length > 1) {
 				// Input-Box durch Chooser ersetzen
-				$anmeldebox.find("input[name='text_veranstaltung']").replaceWith('<select name="text_veranstaltung"></select>');
-				$ver_select = $anmeldebox.find("select[name='text_veranstaltung']");
+				$anmeldebox.find("input[name='veranstaltung']").replaceWith('<select name="veranstaltung"></select>');
+				$ver_select = $anmeldebox.find("select[name='veranstaltung']");
 				
 				$.each(veranstaltungen, function() {
 					name = $(this).find('h4').text();
@@ -45,7 +45,7 @@ $(function() {
 			} else if(veranstaltungen.length == 1) {
 				// nur ein Termin angeboten:
 				// statt chooser einfach fixe Vorgabe machen (keine Auswahlmoeglichkeit)
-				$anmeldebox.find("input[name='text_veranstaltung']").replaceWith(veranstaltungen.find('h4').text());
+				$anmeldebox.find("input[name='veranstaltung']").replaceWith(veranstaltungen.find('h4').text());
 				$anmeldebox.find("dd.termin").text(veranstaltungen.find('dd.termin').text());
 			}
 			
@@ -61,6 +61,19 @@ $(function() {
 			});
 			
 			$anmeldebox.hide().insertBefore('.archiv').slideDown();
+			
+			// Bugfix: Recaptcha kann nicht per JavaScript inserted werden, muss also
+			// per AJAX nachgeladen werden
+			t29_recaptcha_insert_id = "t29-recaptcha-insert";
+			$anmeldebox.find(".t29-recaptcha").attr("id", t29_recaptcha_insert_id);
+			publickey = $anmeldebox.find(".t29-recaptcha").data("publickey");
+			t29.load.js("http://www.google.com/recaptcha/api/js/recaptcha_ajax.js", function() {
+				 Recaptcha.create(publickey, t29_recaptcha_insert_id, {
+					theme: "clean",
+					callback: Recaptcha.focus_response_field
+				 });
+			});
+			
 			$("a.anmeldung-btn").slideUp();
 		});
 		

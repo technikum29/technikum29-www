@@ -161,6 +161,7 @@ EOT1;
 		$this->to .= '@technikum29.de';
 		$this->body = $this->call_or_return_callback('body');
 		$this->body .= $this->call_or_return_callback('mail_info_append_text');
+		$this->subject = $this->call_or_return_callback('subject');
 		$this->send_mail($this->to, $this->subject, $this->body);
 		
 		// show output page
@@ -171,15 +172,13 @@ EOT1;
 	
 	public function send_mail($to, $subject, $message_body)  {
 		// compose the header
-		if(!$this->header) $this->header = array();
-		$mailer = $this;
-		$testset = function($k, $v) use($mailer) { if(!isset($mailer->_values['header'][$k])) $mailer->_values['header'][$k] = $v; };
-		
-		$testset('To', $to);
+		$header = is_array($this->header) ? $this->header : array();
+		$testset = function($k, $v) use(&$header) { if(!isset($header[$k])) $header[$k] = $v; };
+
 		$testset('Content-Type', 'text/plain; charset=UTF-8'); // all t29v6 is utf-8 based!
 		$testset('From', 'technikum29 Computer Musem Webmailer <www@technikum29.de>');
 		
-		$additional_headers = join("\r\n", array_map(function($k) use($mailer) { return "$k: ".$mailer->header[$k]; }, array_keys($mailer->header)));
+		$additional_headers = join("\r\n", array_map(function($k) use(&$header) { return "$k: ".$header[$k]; }, array_keys($header)));
 	
 		// debug output
 		$debug_mail = function($t, $s, $m, $a) {

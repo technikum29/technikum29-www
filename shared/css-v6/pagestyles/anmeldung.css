@@ -24,6 +24,7 @@
 
 #anmeldung input[type=text],
 #anmeldung input[type=email],
+#anmeldung input[type=number],
 #anmeldung textarea {
 	width: 70%;
 }

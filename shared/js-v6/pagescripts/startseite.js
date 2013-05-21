@@ -18,7 +18,7 @@ $(function() {
 			$anmeldebox.append(form);
 			
 			// Termine aus Startseite extrahieren
-			veranstaltungen = $("#termine .box.termin.aaa");
+			veranstaltungen = $("#termine .box.termin");
 			
 			if(veranstaltungen.length > 1) {
 				// Input-Box durch Chooser ersetzen

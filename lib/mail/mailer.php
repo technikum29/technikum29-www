@@ -172,13 +172,14 @@ EOT1;
 	public function send_mail($to, $subject, $message_body)  {
 		// compose the header
 		if(!$this->header) $this->header = array();
-		$testset = function($k, $v) { if(!isset($this->_values['header'][$k])) $this->_values['header'][$k] = $v; };
+		$mailer = $this;
+		$testset = function($k, $v) use($mailer) { if(!isset($mailer->_values['header'][$k])) $mailer->_values['header'][$k] = $v; };
 		
 		$testset('To', $to);
 		$testset('Content-Type', 'text/plain; charset=UTF-8'); // all t29v6 is utf-8 based!
 		$testset('From', 'technikum29 Computer Musem Webmailer <www@technikum29.de>');
 		
-		$additional_headers = join("\r\n", array_map(function($k) { return "$k: ".$this->header[$k]; }, array_keys($this->header)));
+		$additional_headers = join("\r\n", array_map(function($k) { return "$k: ".$mailer->header[$k]; }, array_keys($mailer->header)));
 	
 		// debug output
 		$debug_mail = function($t, $s, $m, $a) {

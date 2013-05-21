@@ -26,7 +26,7 @@
 					echo $veranstaltung;
 					echo '<input type="hidden" name="veranstaltung" name="'.$veranstaltung.'">';
 				} else { ?>
-					<input type="text" name="veranstaltung">
+					<input type="text" name="veranstaltung" required>
 				
 				<?php } /* if */ ?>
 				</dd>
@@ -34,17 +34,17 @@
 				<dt>Termin</dt>
 				<!--<dd><%=termin%>
 				<input type="hidden" name="termin" value="<%=termin%>">-->
-				<dd class="termin"><input type="text" name="termin">
+				<dd class="termin"><input type="text" name="termin" required>
 				</dd>
 
 				<dt>Name</dt>
-				<dd><input type="text" name="anmelder_name"></dd>
+				<dd><input type="text" name="anmelder_name" required></dd>
 
 				<dt>Anzahl der Personen</dt>
-				<dd><input type="text" name="personenanzahl"></dd>
+				<dd><input type="number" min="0" name="personenanzahl"></dd>
 				
 				<dt>E-Mail-Adresse</dt>
-				<dd><input type="email" name="email_adresse"></dd>
+				<dd><input type="email" name="email_adresse" required></dd>
 				
 				<!--
 				<dt>Telefonnummer</dt>

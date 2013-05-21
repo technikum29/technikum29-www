@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'terminanmeldung';
+	$seiten_id = 'anmeldung';
 	$version = '$Id: index.php 387 2013-05-08 09:58:11Z heribert $';
 	$titel = 'Anmeldung zu Terminen für Führungen';
 	$dynamischer_inhalt = true;
@@ -61,7 +61,9 @@
 						echo "<span class='t29-recaptcha' data-publickey='". t29Mailer::recaptcha_get_publickey() ."'></span>";
 					else
 						echo t29Mailer::recaptcha_get_html();
-				?></dd>
+				?>
+				<p>Vielen Dank für Ihre Mithilfe gegen Spam.
+				</dd>
 				
 				<dd><input type="submit" value="Abschicken" class="submit"> <input type="reset" value="Abbrechen"> </dd>
 			</dl>

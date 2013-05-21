@@ -21,3 +21,21 @@
     font-weight: bold;
     padding: 9px;
 }
+
+#anmeldung input[type=text],
+#anmeldung input[type=email],
+#anmeldung textarea {
+	width: 70%;
+}
+
+#anmeldung textarea {
+	min-height: 4em;
+}
+
+#recaptcha_area {
+	margin: 10px 0;
+}
+
+#recaptcha_table {
+	background-color: white;
+}

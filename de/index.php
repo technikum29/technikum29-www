@@ -92,7 +92,7 @@
 		
 <div class="leftcol">
 	<h3>Führungen</h3>
-<div class="box termin clear-after">
+<div class="box termin aaa clear-after">
 		<p class="date left"><em>2013</em> 22. Mai</em></p>
 		<h4>Die Geschichte der Kommunikation</h4>
 		

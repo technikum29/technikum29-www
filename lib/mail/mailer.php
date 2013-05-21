@@ -219,7 +219,7 @@ EOT1;
 		elseif(is_string($this->_values[$property])) {
 			// make string replacements
 			$mailer = $this; // PHP 5.3 convenience
-			return preg_replace_callback("/\{([^}]+)\}/", function($match) using($mailer) {
+			return preg_replace_callback("/\{([^}]+)\}/", function($match) use ($mailer) {
 				$identifier = $match[1];
 				return isset($mailer->_values[$identifier])
 					? $mailer->_values[$identifier]

@@ -100,10 +100,10 @@ IP-Adresse des Besuchers: $_SERVER[REMOTE_ADDR]
 
 EOT;
 
-				if($this->ack) $ret .= <<<EOT1
+				if($mailer->ack) $ret .= <<<EOT1
 
 Der Besucher bekam dafür eine Bestätigungsmail an die Adresse
-{$this->ack_to}  .
+{$mailer->ack_to}  .
 
 EOT1;
 				return $ret; },
@@ -218,10 +218,11 @@ EOT1;
 		}
 		elseif(is_string($this->_values[$property])) {
 			// make string replacements
-			return preg_replace_callback("/\{([^}]+)\}/", function($match) {
+			$mailer = $this; // PHP 5.3 convenience
+			return preg_replace_callback("/\{([^}]+)\}/", function($match) using($mailer) {
 				$identifier = $match[1];
-				return isset($this->_values[$identifier])
-					? $this->_values[$identifier]
+				return isset($mailer->_values[$identifier])
+					? $mailer->_values[$identifier]
 					: "{?$identifier?}";
 			}, $this->_values[$property]);
 		}

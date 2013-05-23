@@ -205,9 +205,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 </div><!-- Ende der Zweispaltigkeit -->
 
 <div class="center button-box">
-	<a href="#archiv" class="go archiv-btn">Vergangene Termine anzeigen</a>
-	<!--
-	&middot; <a href="/de/anmeldung.php" class="anmeldung-btn">Zu Führung anmelden</a> -->
+	<a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
+	<a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a>
 </div>
 
 <div class="archiv clear" style="display: none;">

@@ -60,7 +60,9 @@ class t29Mailer {
 	
 	// the small data holding architecture
 	public $_values;
-	#private $default_values;
+	// Security: Captcha checking not on $_values basis since that is regularily provided by
+	// POST or REQUEST data which are directly given by user => spambots could disable captcha check
+	public $enable_captcha_check = true;
 	
 	function __construct(Array $data=array()) {
 		// default values
@@ -145,7 +147,7 @@ EOT1;
 		}
 		
 		// show captcha validation, if neccessary
-		if(!$this->check_captcha()) {
+		if($this->enable_captcha_check && !$this->check_captcha()) {
 			return false;
 		}
 		

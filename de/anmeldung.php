@@ -7,6 +7,12 @@
 	require "../lib/technikum29.php";
 	require "../lib/mail/mailer.php";
 	
+	// Captcha-Sicherung gegen Spam hier an- oder ausschalten
+	$spamschutz_aktiv = false;
+	
+	// Bestätigungsmail hier ein- oder ausschalten
+	$bestaetigungsmail_senden = false;
+	
 	if(empty($_POST)) { // Wenn noch keine Formulardaten vorhanden sind, eigentliches Formular anzeigen
 	?>
 
@@ -54,6 +60,7 @@
 				<dt>Ggf. Anmerkungen</dt>
 				<dd><textarea name="weitere_anmerkungen"></textarea></dd>
 				
+				<?php if($spamschutz_aktiv) { ?>
 				<dt>Captcha</dt>
 				<dd>Bitte bestätigen Sie, dass Sie menschlich sind:
 				<?php
@@ -64,6 +71,7 @@
 				?>
 				<p>Vielen Dank für Ihre Mithilfe gegen Spam.
 				</dd>
+				<?php } /* $spamschutz_aktiv */ ?>
 				
 				<dd><input type="submit" value="Abschicken" class="submit"> <input type="reset" value="Abbrechen"> </dd>
 			</dl>
@@ -108,8 +116,11 @@ bescheid sagen.
 
 MAIL_BODY;
 
+		// Captcha-Check aktivieren
+		$mailer->enable_captcha_check = $spamschutz_aktiv;
+
 		// Bestätigungsmail aufsetzen
-		$mailer->ack = true;
+		$mailer->ack = $bestaetigungsmail_senden;
 		$mailer->ack_to = '{email_adresse}';
 		$mailer->ack_subject = "Bestätigung ihrer Webanmeldung zur technikum29-Führung \"{veranstaltung}\"";
 		$mailer->ack_body = <<<ACK_MAIL_BODY
@@ -141,9 +152,14 @@ ACK_MAIL_BODY;
 			?><h2>Ihre Anmeldung wurde eingereicht</h2>
 			
 			<p>Vielen Dank für ihre Anmeldung zur Veranstaltung <strong><?=$mailer->veranstaltung; ?></strong> am
-			<strong><?=$mailer->termin; ?></strong>. Sie erhielten eine Bestätigungsmail an ihre Mail-Adresse
+			<strong><?=$mailer->termin; ?></strong>. <!--Sie erhielten eine Bestätigungsmail an ihre Mail-Adresse
 			<em><?=$mailer->email_adresse; ?></em>. Bei Fragen wenden Sie sich bitte an die Museumsführung, siehe
-			Kontaktdaten im <a href="/de/impressum">Impressum</a>.</p>
+			Kontaktdaten im <a href="/de/impressum">Impressum</a>.-->
+			
+			Innerhalb von zwei Tagen erhalten Sie eine persönliche Bestätigungsmail. Sollte die Antwort ausbleiben,
+			können Sie den Kontakt jederzeit über die Kontaktdaten aus dem <a href="/de/impressum">Impressum</a>
+			herstellen.
+			</p>
 			
 			<p><a class="go" href="/de/">Zurück zur Startseite</a></p>
 			

@@ -155,7 +155,7 @@
 <!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
 	
 	<h3>Tage der Industriekultur Rhein-Main</h3>
-	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe <a href="/de/impressum">Kontakt</a>):<br><br>
+	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
 	
 
 	<div class="box termin clear-after">

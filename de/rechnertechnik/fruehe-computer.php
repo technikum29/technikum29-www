@@ -268,4 +268,4 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
     </div>
 
      <p>Auch der erste Personalcomputer wurde von WANG gebaut: PCS II (1975). Der erste f&uuml;r den Durchschnittsb&uuml;rger bezahlbare PC kam 1977 auf den Markt: PET 2001 von Commodore. Er war so billig wie ein heutiger PC, speicherte aber ganze 8 KB und hatte bescheidene Anwendungsvarianten. Weitere Homecomputer folgten, der Markt uferte aus, und damit endet die Sammlung der Computer.
-     <br/><a class="go" href="/de/details2.php" name="backlink-details2" title="Details 2">Siehe tabellarische Darstellung wissenschaftliche- und Mini- Computer aus dem Museumsbestand</a></p>
+     </p>

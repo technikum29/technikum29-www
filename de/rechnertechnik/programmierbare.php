@@ -52,4 +52,4 @@
         <p class="center"> Großaufnahme des Bildröhren-Displays vom HP 9100.</p>
 	</div>
 
-    <p>Weitere Details erhalten sie auf der <a class="go" href="/de/details1.php" title="Details 1">tabellarischen Zusammenstellung der Tischrechner</a></p>
+  

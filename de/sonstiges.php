@@ -7,7 +7,7 @@
 ?>
     <h2>Pianola, Kinomaschine und Anderes</h2><br>
 
-	<h3 id="pianola">Pianola</h3>
+	<h3 id="pianola">Pianola</h3><br>
 	<p>Unser Museum ist recht vielseitig. Neben der Kommunikations- und Computertechnik haben wir auch einen Leckerbissen der besonderen Art zu bieten: Eine funktionsfähige Pianola, Bj. ca. 1910-15.<br>
 	Es ist unglaublich, was die Menschen zu dieser Zeit an Wunderwerken bezüglich Musikautomaten entworfen und hergestellt haben. Verwendet wurden dabei nur sehr einfache und natürliche Materialien:<br>
 	Darmleder, Leder, Gummi, Holz, Knochenleim, Filz, Metall, Papier, Elfenbein und Glas. <br>
@@ -19,8 +19,23 @@
 		<p class="center"><b>Pianola</b></p>
 	</div>
 	
+	<h3 id="music">PUNCHCARD-MUSIC</h3><br>
 	
-		<h3 id="leander">Kunst im Museum</h3>
+	<p>Ein Lochkartenstanzer als Rhythmusgerät, ein ungewöhnlicher Aufbau in einem Konzert. Neben dem Flügel steht zwischen all den anderen Instrumenten unsere IBM 026 Card-Punch. Wenn man den Sound der Maschine (Motor und Rhythmik beim Stanzen) geschickt in ein durch Großbildprojektionen ergänztes Konzert einfügt, führt das zu ganz eigenen musikalisch-optischen Impressionen.</p><br>
+	
+	<div "box left clear-after">
+	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="848" height="555" class="nomargin-bottom" />
+	<div class="bildtext">
+	<b>Punchcard-Music</b> Foto: Florian Ross</p>
+	</div class="bildtext">
+	</div>
+	<p>Die Uraufführung war im Mai 2013 in Köln zu bewundern. Die Pianistin musste zeitweise den Platz an der Klaviatur des Konzertflügels gegen den der Tastatur des Lochkartenstanzers wechseln: Ein völlig neues Gefühl. Weitere Einzelheiten und einen Videoclip finden Sie unter
+	<a class="go" href="http://www.punchcardmusic.de/news.html"> punchcard-music </a><br><br>
+	
+	Prinzipiell sind wir gerne bereit, Künstler zu unterstützen, die mit Hilfe von transparenter, großformatiger und funktionierender Urzeit-Technik ein kreatives Projekt planen. Unsere Maschinen eignen sich hervorragend, um Kunst und Technik in einer Symbiose zu vereinen: Es entstehen völlig neue Möglichkeiten für das Sehen und Hören. </p>
+	
+	
+		<h3 id="leander">Kunst im Museum</h3><br>
 	
 	<p>Das technikum29 animiert zu Tätigkeiten, welche mit Preisen ausgezeichnet werden. Wie das?<br>
 	Ein junger Künstler, Leander A. Schwarzer, verzaubert teils alltägliche Gegenstände zu Kunstwerken. So hat der studierte Künstler Bilder aus zusammengenähten Reißverschlüssen entwickelt, die man durch Öffnen oder Schließen von einzelnen Reißverschlüssen selbst beeinflussen kann.<br>
@@ -52,6 +67,7 @@
 	
 	<p>In einem anderen Werk: "Fetischcharakter der Ware" werden die Texte von Karl Marx in den gestanzten Lochkarten aneinandergehängt und unter einer Maschine durchgezogen die, ähnlich einer mechanischen Spieluhr, gestanzte Löcher in Töne verwandelt. So entsteht "Das Kapital"  als verfremdete Musik in Spährenklängen.<br>
 	Wir werden dieses Projekt aufgreifen und mit Hilfe optischer Lochkartenleser über einen Microcontroller quasi einen Synthesizer steuern: Die technische Perfektion von Kunst mit historischen Medien.</p>
+	
 	
 	
 	<h3 id="kinomaschine">Kinomaschine</h3>

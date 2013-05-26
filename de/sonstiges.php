@@ -30,7 +30,7 @@
 	</div class="bildtext">
 	</div>
 	<p>Die Uraufführung war im Mai 2013 in Köln zu bestaunen. Die Pianistin musste zeitweise die Klaviatur des Konzertflügels gegen die Tastatur des Lochkartenstanzers tauschen: Ein völlig neues Gefühl. Weitere Einzelheiten und einen Videoclip finden Sie unter
-	<a class="go" href="http://www.punchcardmusic.de/news.html"> punchcard-music </a><br><br>
+	<a class="go" href="http://www.punchcardmusic.de/press.html"> punchcard-music </a><br><br>
 	
 	Prinzipiell sind wir gerne bereit Künstler zu unterstützen die mit Hilfe von transparenter, großformatiger und funktionierender Urzeit-Technik ein kreatives Projekt planen. Unsere Maschinen eignen sich hervorragend für die Vereinigung von Kunst und Technik in einer Symbiose: Es entstehen völlig neue Möglichkeiten für das Sehen und Hören. </p>
 	

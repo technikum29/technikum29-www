@@ -192,7 +192,7 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 18. Aug</p>
 		<h4>3. Computer History</h4>
-		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
+		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 10 Jahre bestens geeignet.<br>
 		
 		<dl class="daten">
 			<dt>Termin</dt>

@@ -109,6 +109,20 @@
 		</dl>
 	</div>
 	
+	<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 13. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Steinke
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Donnerstag, 19. Juni um 10:30 Uhr</dd>
+		</dl>
+	</div>
+	
+	
+	
 	
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 19. Juni</em></p>

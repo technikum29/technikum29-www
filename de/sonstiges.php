@@ -11,8 +11,8 @@
 	<p>Unser Museum ist recht vielseitig. Neben der Kommunikations- und Computertechnik haben wir auch einen Leckerbissen der besonderen Art zu bieten: Eine funktionsfähige Pianola, Bj. ca. 1910-15.<br>
 	Es ist unglaublich, was die Menschen zu dieser Zeit an Wunderwerken bezüglich Musikautomaten entworfen und hergestellt haben. Verwendet wurden dabei nur sehr einfache und natürliche Materialien:<br>
 	Darmleder, Leder, Gummi, Holz, Knochenleim, Filz, Metall, Papier, Elfenbein und Glas. <br>
-	Wenn man das sehr geschickt zusammenbaut, entsteht ein Automat, der heute noch hochtechnisierte Menschen zum Staunen und Raunen bringt. Wir zeigen Ihnen vor Ort wie dieses Gerät funktioniert, erklären die Grundlagen der Pianola-Physik und spielen Musikstücke, die kein Pianist spielen kann! Dabei haben Sie bei geöffneter Verkleidung Einblick in die faszinierende Mechanik.
-	<br><a class="go" href="/de/geraete/pianola-funktionserklaerung/">Funktionserklärung der Pianola</a></p>
+	Wenn man das sehr geschickt zusammenbaut, entsteht ein Automat, der heute noch hochtechnisierte Menschen zum Staunen und Raunen bringt. Wir zeigen Ihnen vor Ort wie dieses Gerät funktioniert, erklären die Grundlagen der Pianola-Physik und spielen Musikstücke, die kein Pianist spielen kann! Dabei haben Sie bei geöffneter Verkleidung Einblick in die faszinierende Mechanik.<br>
+	<br><a class="go" href="/de/geraete/pianola-funktionserklaerung/"><b>Funktionserklärung der Pianola</b></a></p>
 	
 	<div class="box center">
         <a href="/de/geraete/pianola-funktionserklaerung/"><img src="/shared/photos/kommunikationstechnik/pianola.jpg" alt="Abbildung der Pianola" width="700" height="618" class="nomargin-bottom" /></a>
@@ -30,7 +30,7 @@
 	</div class="bildtext">
 	</div>
 	<p>Die Uraufführung war im Mai 2013 in Köln zu bestaunen. Die Pianistin musste zeitweise die Klaviatur des Konzertflügels gegen die Tastatur des Lochkartenstanzers tauschen: Ein völlig neues Gefühl. Weitere Einzelheiten zu dieser großartigen Inszenierung wie Bilder, Texte und einen Videoclip finden Sie unter
-	<a class="go" href="http://www.punchcardmusic.de/press.html"> punchcard-music </a><br><br>
+	<a class="go" href="http://www.punchcardmusic.de/press.html"> <b>punchcard-music</b> </a><br><br>
 	
 	Prinzipiell sind wir gerne bereit Künstler zu unterstützen die mit Hilfe von transparenter, großformatiger und funktionierender Urzeit-Technik ein kreatives Projekt planen. Unsere Maschinen eignen sich hervorragend für die Vereinigung von Kunst und Technik in einer Symbiose: Es entstehen völlig neue Möglichkeiten für das Sehen und Hören. </p>
 	

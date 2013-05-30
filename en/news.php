@@ -4,6 +4,10 @@
 	$titel = "What's new?";
 	
 	$neues_menu = <<< MENU
+- titel: "Punch-Card-Music"
+  text: "Technique and art"	
+  link: "#Mai_2013"
+	
 - titel: "IBM 026 Card-Punch"
   text: ""
   link: "#April_2013"
@@ -35,6 +39,16 @@ MENU;
 
     <ul class="news-feed">
 	
+	
+	<li><h3>May 2013</h3><br>
+<div "box left clear-after">
+	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="300" height="196" class="nomargin-bottom" />
+	We support artists, look here  
+	<a href="/en/miscellaneous.php#music"> <b>Punch-Card-Music</b> </a>
+	</div>
+	
+	
+	
 <li><h3>April 2013</h3><br>
 <div class="box left clear-after">
 <img src="/shared/photos/rechnertechnik/ibm26.jpg" width="300" height="287" />
@@ -56,12 +70,7 @@ New on our website: <br> <br>
 Also accessories for paper tape provide an insight into the early storage media. <br> <a href="/en/computer/commercial.php#acc"><b>Look here:</b></a>
 <div class="clear"></div></li>
 
-	<li><h3>November 2012</h3>
-	The Gamma 10 is now complete: the printer (fragment) has arrived here from France. Thus the BULL GAMMA 10 computer-system is finally complete. See "BULL GAMMA 10"
-	<div class="box left">
-<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="320" height="240" />
-</div> 
-<div class="clear"></div>
+	
 	
 	
 

@@ -5,7 +5,7 @@
 	
 	require "../lib/technikum29.php";
 ?>
-    <h2>Miscellaneous</h2>
+    <h2>Pianola, Art and others</h2>
 
     <h3>Pianola</h3>
     <p>The technikum29 is quite versatile &ndash; beside all the communication
@@ -30,6 +30,35 @@
          alt="Picture of the Pianola" width="700" height="618" class="nomargin-bottom" />
      </div>
 
+	<h3 id="music">PUNCHCARD-MUSIC</h3><br>
+	
+	<p>What an unusual sight: Our IBM 26 card punch as a rhythm machine next to a grand
+piano and other instruments. The sound of the IBM 26, carefully embedded into a
+concerto, yields to a never-heard-of listening experience. <br>
+
+The premiere of this setup was in May 2013 in Cologne. The pianist exchanged
+the piano's keyboard with that of the card punch - a new and strange sensation.
+More details about this performance, including pictures, additional information
+as well as a video clip, may be found at <a class="go" href="http://www.punchcardmusic.de/press.html"><b> punchcard-music</b> </a></p><br>
+	
+	<div "box clear-after">
+	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="848" height="555" class="nomargin-bottom" />
+	<div class="bildtext">
+	<b>Punchcard-Music</b> Photo by Florian Ross</p>
+	</div class="bildtext">
+	</div>
+	
+	<p>We actively support artists who need original (computing) equipment from days
+long gone for their creative endeavors. The machines in our collection are
+extremely well suited for a symbiosis of art and technology which yields new
+experiences in viewing and listening.
+	
+	</p> 
+	 
+	 
+	 
+	 
+	 
 	<h3 id="leander">Art in the Museum</h3> 
 
 <p>The technikum29 motivates activities that get awards and prices. The latest

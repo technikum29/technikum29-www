@@ -189,12 +189,12 @@
 	<li><a href="/en/communication/measurement.php">Miscellaneous</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/en/communication/measurement.php">Measurement and Experimental technology</a></li>
-			<li><a seiten_id="sonstiges" href="/en/miscellaneous.php">Pianola</a>
+			<li><a seiten_id="sonstiges" href="/en/miscellaneous.php">Pianola, Art and others</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="pianola-funktionserklaerung" href="/en/devices/functional-explanation-pianola.php">Functional explanation of the pianola</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/miscellaneous.php#kinomaschine">Movie projector</a></li>
+			
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/en/contact.php">End</a></li>

@@ -93,21 +93,6 @@
 <div class="leftcol">
 	<h3>Führungen</h3>
 
-	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 03. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Weber
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Montag, 3. Juni um 15 Uhr</dd>
-			<!-- Beispiel:
-			<dt>Anmeldung</dt>
-			<dd><a href="/de/impressum">wird erbeten</a></dd>
-			-->
-		</dl>
-	</div>
 	
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 13. Juni</em></p>
@@ -220,12 +205,24 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="center button-box">
 	<a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
-	<a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a>
+	<a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a>
 </div>
 
 <div class="archiv clear" style="display: none;">
 <h2>Termin-Archiv</h2>
-
+<div class="box termin clear-after">
+	
+		<p class="date left"><em>2013</em> 03. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Weber
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Montag, 3. Juni um 15 Uhr</dd>
+			
+		</dl>
+	</div>
 <div class="box termin only clear-after">
 		<p class="date left"><em>2013</em> 22. Mai</em></p>
 		<h4>Die Geschichte der Kommunikation</h4>

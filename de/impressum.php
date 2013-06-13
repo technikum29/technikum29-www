@@ -21,7 +21,7 @@
            <span class="country-name hidden">Deutschland</span>
        </div>
        <div>Telefon: <span class="tel">06195/2170</span></div>
-       <div>E-Mail: <a class="email" href="mailto:post@technikum29.de">Post@technikum29.de</a></div>
+       <div>E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></div>
        <div>Internet: <a class="url" href="http://www.technikum29.de">www.technikum29.de</a></div>
        <div class="hidden">Foto: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Foto des Museums" /></div>
        <div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29-Logo" /></div>

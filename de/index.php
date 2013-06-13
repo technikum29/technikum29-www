@@ -93,22 +93,7 @@
 <div class="leftcol">
 	<h3>Führungen</h3>
 
-	
-	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 13. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Steinke
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Donnerstag, 13. Juni um 10:30 Uhr</dd>
-		</dl>
-	</div>
-	
-	
-	
-	
+
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 19. Juni</em></p>
 		<h4>Computer History</h4>
@@ -178,7 +163,7 @@
 
 		Kann man über Probleme nachdenken, sie
 gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
-sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein
+sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
 Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
 Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_me/">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
 
@@ -210,8 +195,21 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="archiv clear" style="display: none;">
 <h2>Termin-Archiv</h2>
+
 <div class="box termin clear-after">
-	
+		<p class="date left"><em>2013</em> 13. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Steinke
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Donnerstag, 13. Juni um 10:30 Uhr</dd>
+		</dl>
+	</div>
+
+
+<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 03. Juni</em></p>
 		<h4>Computer History</h4>
 		

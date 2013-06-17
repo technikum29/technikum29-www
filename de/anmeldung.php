@@ -85,11 +85,14 @@
 		$mailer = new t29Mailer($_POST);
 		
 		// fill up form data
-		$mailer->to = "sven";
+		$mailer->to = "team"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
 		$mailer->subject = "Webanmeldung für Führung \"{veranstaltung}\"";
 		$mailer->header = array(
 			'From' => 'technikum29 Computer Museum Anmeldesystem <post@technikum29.de>',
 		);
+		
+		$mailer_ack_text = $bestaetigungsmail_senden ? 'Die Person hat eine Bestätigungsmail ihrer Daten erhalten.'
+			: 'Die Person hat auf deinen Wunsch noch *keine* Bestätigungsmail erhalten.';
 		$mailer->body = <<<MAIL_BODY
 Hallo,
 
@@ -106,7 +109,7 @@ E-Mail-Adresse: {email_adresse}
 Ggf. weitere Anmerkungen, die angegeben wurden:
 {weitere_anmerkungen}
 
-Die Person hat eine Bestätigungsmail ihrer Daten erhalten.
+$mailer_ack_text
 
 Viele Grüße,
 deine Website

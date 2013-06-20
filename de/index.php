@@ -86,15 +86,12 @@
 <!-- Zweiter Teil der Startseite: Termine -->
 
 <div id="termine" class="termine">
-<h2>Termine und Führungen</h2>
+<h2><big>Termine</big></h2>
 
 <div class="cols clear-after"><!-- Zweispaltige Ansicht -->
 		
 <div class="leftcol">
 	<h3>Führungen</h3>
-
-
-	
 	
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 22. Juni</em></p>
@@ -110,7 +107,7 @@
 		</dl>
 	</div>
 
-	<h3>Fortbildungen</h3>
+	<h3>Fortbildung</h3>
 	
 	<div class="box termin clear-after">
 		<p class="date rot left"><em>2013</em> 26. Juni</em></p>
@@ -127,12 +124,9 @@
 		</dl>
 	</div>
 			
-			
-	
 	<h3>Tage der Industriekultur Rhein-Main</h3>
 	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
 	
-
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 14. Aug</p>
 

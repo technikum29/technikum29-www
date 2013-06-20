@@ -94,17 +94,7 @@
 	<h3>Führungen</h3>
 
 
-	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 19. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Kliche
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 19. Juni um 16:30 Uhr</dd>
-		</dl>
-	</div>
+	
 	
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 22. Juni</em></p>
@@ -135,8 +125,6 @@
 	</div>
 			
 			
-
-<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
 	
 	<h3>Tage der Industriekultur Rhein-Main</h3>
 	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
@@ -155,10 +143,13 @@
 		</dl>
 	</div>
 			
+			<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
 			
+		<br><br><br>	
 	<div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 17. Aug</p>
-
+		
+		
 		<h4>2. Beeinflusst Sprache unser Denken?</h4>
 
 		Kann man über Probleme nachdenken, sie
@@ -195,6 +186,19 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="archiv clear" style="display: none;">
 <h2>Termin-Archiv</h2>
+
+<div class="box termin clear-after">
+		<p class="date left"><em>2013</em> 19. Juni</em></p>
+		<h4>Computer History</h4>
+		
+		Gruppe Kliche
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, 19. Juni um 16:30 Uhr</dd>
+		</dl>
+	</div>
+
 
 <div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 13. Juni</em></p>

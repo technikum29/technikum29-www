@@ -16,6 +16,10 @@ $(function() {
 	
 	// Anmelde-Button
 	anmeldung_zeigen = function() {
+		// rausfinden, ob Funktion durch Button in einem konkreten Termin aufgerufen wurde
+		$termin = $(this).closest(".termin");
+		called_with_termin = $termin.length;
+		
 		$anmeldebox = $('<div class="anmelde-maske dynamisch"><h2>Anmelden</h2><p>Hier können Sie sich für eine Veranstaltung anmelden</p></div>');
 		$.get('/de/anmeldung.php?ajax', function(data) {
 			form = $(data).find(".anmelde-maske").html();
@@ -24,7 +28,7 @@ $(function() {
 			// Termine aus Startseite extrahieren
 			veranstaltungen = $("#termine .box.termin").not(".archiv .termin");
 			
-			if(veranstaltungen.length > 1) {
+			if(veranstaltungen.length > 1 && !called_with_termin) {
 				// Input-Box durch Chooser ersetzen
 				$anmeldebox.find("input[name='veranstaltung']").replaceWith('<select name="veranstaltung"></select>');
 				$ver_select = $anmeldebox.find("select[name='veranstaltung']");
@@ -49,11 +53,13 @@ $(function() {
 						$terminbox.find('span').text(d);
 					}
 				}).change();
-			} else if(veranstaltungen.length == 1) {
+			} else if(veranstaltungen.length == 1 || called_with_termin) {
 				// nur ein Termin angeboten:
 				// statt chooser einfach fixe Vorgabe machen (keine Auswahlmoeglichkeit)
-				$anmeldebox.find("input[name='veranstaltung']").val(veranstaltungen.find('h4').text());
-				$anmeldebox.find("input[name='termin']").val(veranstaltungen.find('dd.termin').text());
+				$anmeldebox.find("input[name='veranstaltung']").val(
+					(called_with_termin ? $termin : veranstaltungen).find('h4').text());
+				$anmeldebox.find("input[name='termin']").val(
+					(called_with_termin ? $termin : veranstaltungen).find('dd.termin').text());
 			}
 			
 			// Abbrechen-Button mit Funktion befüllen
@@ -84,7 +90,19 @@ $(function() {
 				});
 			});
 			
-			$anmeldebox.hide().insertBefore('.archiv').slideDown();
+			$anmeldebox.hide().insertBefore('.archiv');
+			
+			if(called_with_termin) {
+				// $anmeldebox einsliden und hinscrollen, weil man sich ja weiter oben befindet
+				$anmeldebox.show();
+				$("html,body").animate({
+					scrollTop: $anmeldebox.offset().top
+				}, 1200);
+				
+			} else {
+				// $anmeldebox sofort einsliden, weil Button in Buttonbox genau da ist wo Anmeldemaske.
+				$anmeldebox.slideDown();
+			}
 			
 			// Bugfix: Recaptcha kann nicht per JavaScript inserted werden, muss also
 			// per AJAX nachgeladen werden
@@ -103,7 +121,9 @@ $(function() {
 		// + load css
 		t29.load.pagestyle("anmeldung");
 		
+		// Don't follow link
 		return false;
 	};
 	$("a.anmeldung-btn").click(anmeldung_zeigen);
+	//$("dd.anmeldung a").click(anmeldung_zeigen);
 });

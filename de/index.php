@@ -105,6 +105,8 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
+			<dt>Anmeldung</dt>
+			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a></dd>
 		</dl>
 	</div>
 
@@ -120,7 +122,8 @@
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
 			<dt>Anmeldung</dt>
-			<dd>erforderlich, Anmeldeschluss 21.06.13</dd>
+			<dd>erforderlich, Anmeldeschluss 21.06.13
+			   <br><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
 		</dl>
 	</div>
 			
@@ -140,6 +143,9 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
+			<dt>Anmeldung</dt>
+			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a></dd>
+
 		</dl>
 	</div>
 			
@@ -161,6 +167,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
+			<dt>Anmeldung</dt>
+			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a></dd>
 		</dl>
 	</div>
 
@@ -172,6 +180,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>
+			<dt>Anmeldung</dt>
+			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Zu Führung anmelden</a></dd>
 		</dl>
 	</div>
 	
@@ -180,8 +190,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 </div><!-- Ende der Zweispaltigkeit -->
 
 <div class="center button-box">
-	<a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
 	<a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a>
+	<a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
 </div>
 
 <div class="archiv clear" style="display: none;">

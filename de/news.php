@@ -6,7 +6,7 @@
 	$neues_menu = <<< MENU
 - titel: "Punch-Card-Music"
   text: "Technik und Kunst"
-  link: "#Mai_2013" 
+  link: "/de/sonstiges#music" 
 	
 - titel: "Termine auf der Startseite"
   text: ""

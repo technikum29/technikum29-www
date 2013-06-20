@@ -105,6 +105,21 @@
 	text-align: left;
 }
 
+#termine dl.daten a.button {
+	padding: 0.1em;
+	font: inherit;
+	font-weight: bold;
+	text-transform: inherit;
+	
+	/* aus der nicht funktionierenden 25-buttons */
+	outline: none;
+	padding: 0.3em 1em 0.3em;
+	border-radius: .5em;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+/* Q&D: im Archiv keine Anmeldung mehr anzeigen */
+#termine div.archiv dd.anmeldung { display: none; }
 
 /*#termine dl.daten.right {
 	float: right;
@@ -145,7 +160,7 @@
 
 
 /* Button box */
-#termine div.button-box a.button {
+#termine a.button {
 	font-family: "Trebuchet MS",Verdana,Helvetica,Arial,sans-serif;
 	text-decoration: none;
 	display: inline-block;
@@ -159,11 +174,16 @@
 	font-weight: bold;
 }
 
-#termine div.button-box a.button:hover {
+#termine a.button:hover {
 	background-color: white;
 }
 
 #termine a.anmeldung-btn {
 	/* Soll auffallen */
 	background-color: #DBEBF7;
+	
+	outline: none;
+	padding: .5em 2em .55em;
+	border-radius: .5em;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
 }

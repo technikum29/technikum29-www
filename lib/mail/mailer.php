@@ -6,7 +6,16 @@
 
 $maillib = dirname(__FILE__);
 require "$maillib/recaptchalib.php";
-require "$maillib/recaptcha_keys.php";
+
+$key_file = "$maillib/recaptcha_keys.php";
+$recaptcha_keys_loaded = null;
+if(file_exists($key_file)) {
+	include $key_file;
+	// now in global scope:
+	// $publickey, recaptcha_get_answer, recaptcha_get_html etc.
+	$recaptcha_keys_loaded = true;
+} else
+	$recaptcha_keys_loaded = false;
  
 // This script can be used as standalone or libary.
 if(realpath($_SERVER['SCRIPT_FILENAME']) == __FILE__) {
@@ -136,6 +145,8 @@ EOT1;
 	
 	// the system
 	public function run() {
+		global $recaptcha_keys_loaded;
+	
 		if(empty($this->_values)) {
 			$this->print_usage();
 			return;
@@ -147,7 +158,7 @@ EOT1;
 		}
 		
 		// show captcha validation, if neccessary
-		if($this->enable_captcha_check && !$this->check_captcha()) {
+		if($recaptcha_keys_loaded && $this->enable_captcha_check && !$this->check_captcha()) {
 			return false;
 		}
 		

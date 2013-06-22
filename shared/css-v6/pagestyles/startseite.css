@@ -137,11 +137,35 @@
 
 /* Date Icon-Formatierung jetzt in modules/18-content.css */
 
-#termine div.termin p.date.left {
+#termine div.termin p.date.left,
+#termine div.termin div.left {
 	float: left;
 	margin-left: -52px;
 }
 
+/* Anmelden-Button links */
+#termine div.termin div.left a.anmeldung {
+    background-image: url("/shared/img-v6/register-icon.png");
+    background-position: 4px 5px;
+    background-repeat: no-repeat;
+    font-family: arial;
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 10px;
+    margin: 0 -2px 0 -5px;
+    outline: medium none;
+    padding: 10px 11px 11px;
+    text-transform: inherit;
+}
+
+#termine div.termin div.left a.anmeldung:hover,
+#termine div.termin div.left a.anmeldung:focus {
+    color: black;
+}
+
+/* zu lange floats link */
+#termine div.termin dl dt { clear: none; }
+    
 /*
  * Kleine Buttonleiste
  **/

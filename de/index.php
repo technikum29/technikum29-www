@@ -94,7 +94,10 @@
 	<h3>Führungen</h3>
 	
 	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 22. Juni</em></p>
+		<div class="left">
+			<p class="date"><em>2013</em> 22. Juni</em></p>
+			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+		</div>
 		<h4>Die Geschichte der Kommunikation</h4>
 		
 		Gruppe Stehling
@@ -102,15 +105,16 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
-			
-			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
 		</dl>
 	</div>
 
 	<h3>Fortbildung</h3>
 	
 	<div class="box termin clear-after">
-		<p class="date rot left"><em>2013</em> 26. Juni</em></p>
+		<div class="left">
+			<p class="date rot"><em>2013</em> 26. Juni</em></p>
+			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+		</div>
 		<h4>Die lebendige Geschichte des Computers</h4>
 		
 		Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">Nr. 01375122</a>).
@@ -128,7 +132,10 @@
 	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
 	
 	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 14. Aug</p>
+		<div class="left">
+			<p class="date"><em>2013</em> 14. Aug</p>
+			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+		</div>
 
 		<h4>1. Die Geschichte der Kommunikation</h4>
 		
@@ -137,9 +144,9 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
-			
+			<!--
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
-
+			-->
 		</dl>
 	</div>
 			
@@ -147,7 +154,10 @@
 			
 		<br><br><br>	
 	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 17. Aug</p>
+		<div class="left">
+			<p class="date"><em>2013</em> 17. Aug</p>
+			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+		</div>
 		
 		
 		<h4>2. Beeinflusst Sprache unser Denken?</h4>
@@ -161,21 +171,26 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
-			
+			<!--
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
+			-->
 		</dl>
 	</div>
 
 	<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 18. Aug</p>
+		<div class="left">
+			<p class="date"><em>2013</em> 18. Aug</p>
+			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+		</div>
 		<h4>3. Computer History</h4>
 		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 10 Jahre bestens geeignet.<br>
 		
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>
-			
+			<!--
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
+			-->
 		</dl>
 	</div>
 	

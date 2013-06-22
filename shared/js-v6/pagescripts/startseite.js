@@ -124,6 +124,6 @@ $(function() {
 		// Don't follow link
 		return false;
 	};
-	$("a.anmeldung-btn").click(anmeldung_zeigen);
+	$("a.anmeldung-btn, a.anmeldung").click(anmeldung_zeigen);
 	//$("dd.anmeldung a").click(anmeldung_zeigen);
 });

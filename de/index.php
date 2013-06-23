@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'startseite';
 	$version = '$Id$';
-	$titel = 'technikum29 Computermuseum - das einzige Computer-Museum mit funktionsfähiger Lochkartentechnik';
+	$titel = 'technikum29 Computer-Museum, Computerwelten: Lebendige Zeitreise';
 	
 	require "../lib/technikum29.php";
 ?>
@@ -91,22 +91,9 @@
 <div class="cols clear-after"><!-- Zweispaltige Ansicht -->
 		
 <div class="leftcol">
-	<h3>Führungen</h3>
+	<!-- <h3>Führungen</h3> -->
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 22. Juni</em></p>
-			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
-		</div>
-		<h4>Die Geschichte der Kommunikation</h4>
-		
-		Gruppe Stehling
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
-		</dl>
-	</div>
+	
 
 	<h3>Fortbildung</h3>
 	
@@ -123,8 +110,7 @@
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
 			<dt>Anmeldung</dt>
-			<dd>erforderlich, Anmeldeschluss 21.06.13
-			   <br><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
+			<dd>erforderlich</dd>
 		</dl>
 	</div>
 			
@@ -205,6 +191,22 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="archiv clear" style="display: none;">
 <h2>Termin-Archiv</h2>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2013</em> 22. Juni</em></p>
+			
+		</div>
+		<h4>Die Geschichte der Kommunikation</h4>
+		
+		Gruppe Stehling
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
+		</dl>
+	</div>
+
 
 <div class="box termin clear-after">
 		<p class="date left"><em>2013</em> 19. Juni</em></p>

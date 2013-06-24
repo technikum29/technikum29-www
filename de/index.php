@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'startseite';
 	$version = '$Id$';
-	$titel = 'technikum29 Computer-Museum, Computerwelten: Lebendige Zeitreise';
+	$titel = 'technikum29 Computer-Museum, historische Computerwelten: Lebendige Zeitreise';
 	
 	require "../lib/technikum29.php";
 ?>
@@ -11,8 +11,8 @@
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
-                <li>Fast alles funktioniert !</li>
-                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Fast alle Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
+                <li>Historische Computerwelten: Alles funktioniert!</li>
+                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Alle Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
               <li>Computer und Kommunikation beherrschen unsere Zeit in einem zunehmenden Maße. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
@@ -21,9 +21,9 @@
             <h2>Für wen&nbsp;?</h2>
             <ul>
                
-                <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Geschichte der Computer, die unser Leben maßgebend bestimmen. Insbesondere haben auch Kinder und Jugendliche einen positiven Zugang zu dieser "History", da sie davon unmittelbar betroffen sind. Die Motivation, sich dieser Thematik hinzugeben fällt ihnen daher nicht schwer.<br>
+                <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Geschichte der Computer, die unser Leben maßgebend bestimmen.  <br>
 				</li>
-                <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>)</li>
+                <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab 10J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
 				<li>Auch für Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
             </ul>
         </div>

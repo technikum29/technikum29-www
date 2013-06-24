@@ -13,13 +13,19 @@
  **/
 @media all and (max-width: 1199px) {
 	body {
-		background: transparent;
+		background: #F4F4F4; /* BG von footer.attached */
 	}
 
 	#container {
 		margin-top: 0;
 		box-shadow: none;
 	}
+	
+	footer.in-sheet.empty-footer {
+		height: 2px; /* Nur Linie anzeigen, keine weisse Flaeche */
+	}
+	
+	
 	
 	footer.attached {
 		background: #F4F4F4;

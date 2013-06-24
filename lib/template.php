@@ -251,6 +251,7 @@ class t29Template {
   
   <link rel="copyright" href="<?php print $href($_('footer-legal-file')); ?>" title="<?php $p('footer-legal-link'); ?>">
   <link rel="search" type="application/opensearchdescription+xml" href="<?php print $href($_('topnav-search-page')); print '?action=opensearch-desc&amp;lang='.$this->conf['lang']; ?>" title="<?php $p('opensearch-desc'); ?>">
+  <link rel="alternate" type="application/rss+xml" href="/de/news.php?format=rss" title="Neuigkeiten vom technikum29-Museum" />
   <?php
 	// print interlanguage links for all languages except the active one
 	foreach($this->interlang_links as $lang => $a) {

@@ -7,12 +7,16 @@
     *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
     *                                                                *
     *                        P R I N T    C S S                      *
-    *  ehemals in eigener print.css, jetzt aus perfomancegruenden    *
-    *              (ladezeit) in commons.css intigriert              *
      \**************************************************************/
+     
+   /**
+    * Die print.css gibts schon seit v5. Erst 2013 wurde sie auf v6
+    * portiert. Im HTML5 01-boilerplate werden bereits viele Print-Styles
+    * gemacht, die hier ueberschrieben werden muessen.
+    * 
+    **/
 
-    body {
-        margin: 1em; padding: 0;
+    body, #content {
         color: #000;
         font: 100% "Times New Roman",Times,serif;
     }
@@ -26,27 +30,25 @@
         page-break-after: avoid; /* weil Bildtexte fast immer hinterm Bild stehen */
     }
     
-    h1 {
+    h1, h1 a {
         margin: 0; padding: 6px 0;
+	width: 100%;
         text-align: center;
     
         font: 180% Arial,Verdana,Helvetica,sans-serif;
     }
     
-    h1 a, h1 a span {
-        display: inline !important; /* falls screen/fresh versehentlich angewandtfalls screen/fresh versehentlich angewandt */
+    h1 a {
+        text-indent: 0;
         color: #AAA !important;
         text-decoration: none !important;
     }
     
-    /*h1 span.old:after {
-        * jetzt durch #h1-subtitle auch im IE moeglich *
-        content: "Museum für Rechner-, Computer- und Kommunikationstechnik";
-    }*/
-    
-    #h1-subtitle {
-        display: block;
-        font-size: 108%;
+    h1 a:after {
+        content: "Museum fÃ¼r Rechner-, Computer- und Kommunikationstechnik" !important;
+	display: block;
+	
+	font-size: 40%;
         border-bottom: 1px solid #AAA;
         margin-bottom: 10px; margin-top: 0;
         text-align: center;
@@ -59,12 +61,20 @@
         page-break-after: avoid;  /* auch wenn's nur Opera rafft ;) */
     }
     
-    #sidebar, #footer, #sidebar-footnote {
+    header.banner, section.sidebar, footer.in-sheet {
         display: none;
     }
     
+    #background-color-container, #content, section.sidebar {
+       float: none; left: auto;
+    }
+    
+    #content {
+	padding: 0;
+    }
+    
     #copyright {
-        margin: 2em 0;
+        margin: 1em 0;
         font-size: 80%;
         text-align: center;
     }

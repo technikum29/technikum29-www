@@ -295,3 +295,19 @@ footer.attached li.copy a.img {
 	width: 100px; height: 42px;
 }
 footer.attached li.copy p { margin-left: 110px; }
+
+
+/* Creative Commons icon with pure CSS, on dark background */
+footer i.cc {
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100% 100% 100% 100%;
+    display: inline-block;
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 18px;
+    padding: 2px;
+    text-align: center;
+    width: 18px;
+}
+

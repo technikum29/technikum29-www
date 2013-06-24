@@ -38,7 +38,7 @@
 MENU;
 // ende der menue-Eintraege
 
-	if(!require("../lib/technikum29.php")) return;
+	if(!require("../lib/news.php")) return; // keine verschachtelten Aufrufe
 ?>
     <h2>Was gibt es Neues?</h2>
 	

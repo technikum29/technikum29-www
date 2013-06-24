@@ -31,7 +31,7 @@
 		        <div class="wo"><br>
             <h2>Wo&nbsp;?</h2>
             <ul>
-                <li>Westlich von Frankfurt/Main (ca. 15 Minuten), <a class="go" href="impressum.php">siehe Impressum</a>.</li>
+                <li>Westlich von Frankfurt/Main (ca. 15&nbsp;Minuten), <a class="go" href="impressum.php">siehe Impressum</a>.</li>
             </ul>
         </div>
             
@@ -62,7 +62,7 @@
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
-                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
+                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8&nbsp;Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen können jedoch gerne nachfragen, ob an den untenstehenden Gruppen-Terminen noch Plätze frei sind. <br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
 				Zu den Veranstaltungen im Rahmen der "Tage der Industriekultur" können Sie sich jederzeit anmelden, siehe unten.
@@ -77,7 +77,7 @@
 		<div class="flyer left">
 			<a href="/shared/flyer/august2011.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
-			<p>Betrachten Sie unseren <a href="/shared/flyer/august2011.pdf">aktuellen Flyer</a> als PDF (2 MB)</p>
+			<p>Betrachten Sie unseren <a href="/shared/flyer/august2011.pdf">aktuellen Flyer</a> als PDF (2&nbsp;MB)</p>
 		</div>
 		
 	</div><!--rightcol-->

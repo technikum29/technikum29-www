@@ -94,25 +94,6 @@
 	<!-- <h3>Führungen</h3> -->
 	
 	
-
-	<h3>Fortbildung</h3>
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date rot"><em>2013</em> 26. Juni</em></p>
-			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
-		</div>
-		<h4>Die lebendige Geschichte des Computers</h4>
-		
-		Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">Nr. 01375122</a>).
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
-			<dt>Anmeldung</dt>
-			<dd>erforderlich</dd>
-		</dl>
-	</div>
 			
 	<h3>Tage der Industriekultur Rhein-Main</h3>
 	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
@@ -135,10 +116,7 @@
 			-->
 		</dl>
 	</div>
-			
-			<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
-			
-		<br><br><br>	
+		
 	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2013</em> 17. Aug</p>
@@ -151,7 +129,14 @@
 		Kann man über Probleme nachdenken, sie
 gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
 sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
-Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
+Problem gewähren? 
+</div>
+
+<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
+
+<br><br><br><br>
+
+Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
 Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_me/">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
 
 		<dl class="daten">
@@ -161,8 +146,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
 			-->
 		</dl>
-	</div>
-
+	
+	
 	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2013</em> 18. Aug</p>
@@ -191,6 +176,25 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 <div class="archiv clear" style="display: none;">
 <h2>Termin-Archiv</h2>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date rot"><em>2013</em> 26. Juni</em></p>
+	
+		</div>
+		<h4>Die lebendige Geschichte des Computers</h4>
+		
+		Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">Nr. 01375122</a>).
+		
+		<dl class="daten">
+			<dt>Termin</dt>
+			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
+			
+		</dl>
+	</div>
+
+
+
 
 <div class="box termin clear-after">
 		<div class="left">

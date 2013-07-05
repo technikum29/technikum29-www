@@ -87,8 +87,9 @@
 		// fill up form data
 		$mailer->to = "team"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
 		$mailer->subject = "Webanmeldung für Führung \"{veranstaltung}\"";
+		$from = 'dev'; // Spamschutz (webSVN)
 		$mailer->header = array(
-			'From' => 'technikum29 Computer Museum Anmeldesystem <post@technikum29.de>',
+			'From' =>"'technikum29 Computer Museum Anmeldesystem <$from@technikum29.de>",
 		);
 		
 		$mailer_ack_text = $bestaetigungsmail_senden ? 'Die Person hat eine Bestätigungsmail ihrer Daten erhalten.'

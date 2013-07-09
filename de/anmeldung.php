@@ -73,7 +73,12 @@
 				</dd>
 				<?php } /* $spamschutz_aktiv */ ?>
 				
-				<dd><input type="submit" value="Abschicken" class="submit"> <input type="reset" value="Abbrechen"> </dd>
+				<dd><input type="submit" value="Abschicken" class="submit">
+
+				<!-- Heribert will das Abbrechen-Button nicht -->
+				<!-- ist aber noch mit jquery-Funktion besehen -->
+				<!--<input type="reset" value="Abbrechen">-->
+				</dd>
 			</dl>
 	    </form>
 	   </div>

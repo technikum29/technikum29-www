@@ -23,8 +23,8 @@
                
                 <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Geschichte der Computer, die unser Leben maßgebend bestimmen.  <br>
 				</li>
-                <li>Für interessierte Schülergruppen sowie Studentengruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab 10J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
-				<li>Auch für Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
+                <li>Für interessierte Schülergruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab 10J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
+				<li>Auch für Studenten, Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
             </ul>
         </div>
 		
@@ -96,7 +96,7 @@
 	
 			
 	<h3>Tage der Industriekultur Rhein-Main</h3>
-	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
+	<p>Im Rahmen der <a href="http://www.krfrm.de/c/rdik/tdr2013/index.php?tdr=20130018,/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
 	
 	<div class="box termin clear-after">
 		<div class="left">

@@ -141,7 +141,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 
 		<dl class="daten">
 			<dt>Termin</dt>
-			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
+			<dd class="termin">Samstag, den 17. August um 19 Uhr.<br> Bitte beachten: Dieser Termin ist ausgebucht. Sie können sich jedoch weiterhin anmelden. Eventuell wird der Vortrag im Herbst wiederholt.</dd>
+			
 			<!--
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
 			-->

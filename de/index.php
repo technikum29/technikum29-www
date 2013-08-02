@@ -11,7 +11,7 @@
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
-                <li>Historische Computerwelten: Alles funktioniert!</li>
+                <li>Vorab: Es geht hier nicht um Personal-Computer (PC´s) sondern um wirklich historische Computerwelten und: Fast alles funktioniert!</li>
                 <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). All diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Alle Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
               <li>Computer und Kommunikation beherrschen unsere Zeit in einem zunehmenden Maße. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>

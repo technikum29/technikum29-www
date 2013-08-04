@@ -159,7 +159,8 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 		
 		<dl class="daten">
 			<dt>Termin</dt>
-			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>
+			<dd class="termin">Sonntag, den 18. August um 14 Uhr. <br>
+			Bitte beachten: Dieser Termin ist ausgebucht. Sie können sich jedoch weiterhin anmelden. Eventuell wird diese Führung im Herbst wiederholt.</dd>
 			<!--
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
 			-->

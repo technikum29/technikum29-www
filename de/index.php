@@ -102,7 +102,7 @@ Ca. 90 Minuten spannende, hochinteressante philosophische Vorträge. Geeignet f�
 Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null.
 </p>
 <hr>
-Für beide Veranstaltungen können Sie sich vormerken lassen (post@techniukm29.de). Die Termine werden rechtzeitig bekannt gegeben.
+Für beide Veranstaltungen können Sie sich vormerken lassen (<a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>). Die Termine werden rechtzeitig bekannt gegeben.
 		
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

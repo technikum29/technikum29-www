@@ -8,11 +8,6 @@
   text: "Technik und Kunst"
   link: "/de/sonstiges#music" 
 	
-- titel: "Termine auf der Startseite"
-  text: ""
-  link: "#Mai_2013"  
-	
-	
 - titel: "Experimentieren im technikum"
   text: ""
   link: "#Mai_2013"  
@@ -53,14 +48,7 @@ MENU;
 	<a href="/de/sonstiges.php#music"> Punch-Card-Music </a>
 	</div>
 		
-<li><h3>Mai 2013</h3><br>
 
-
-<div class="box left clear-after">
-<img src="/shared/photos/start/kalendericon.jpg" width="200" height="214" /> 
-
-Ab sofort stehen auf der <a class="go" href="/de">Startseite</a> die aktuellen Termine des technikum29
-</div>
 </li><br>
 
 

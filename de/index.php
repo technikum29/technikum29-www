@@ -65,8 +65,6 @@
                 <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8&nbsp;Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen können jedoch gerne nachfragen, ob an den untenstehenden Gruppen-Terminen noch Plätze frei sind. <br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
-				Zu den Veranstaltungen im Rahmen der "Tage der Industriekultur" können Sie sich jederzeit anmelden, siehe unten.
-				
 				
 					</li>
             </ul>
@@ -89,16 +87,29 @@
 <h2><big>Termine</big></h2>
 
 <div class="cols clear-after"><!-- Zweispaltige Ansicht -->
+
+Wegen der großen Nachfrage der Veranstaltungen im August 2013, die wir im Rahmen der "Tage der Industriekultur" angeboten hatten, wiederholen wir folgende Veranstaltungen im Oktober:
+<hr>
+
+<p><b>Wie Sprache das Denken beeinflusst</b><br>
+Referenten: Patrick Hedfeld und Prof. Dr. Bernd Ulmann<br>
+Inhalt: <br>
+Kann man über Probleme nachdenken, sie gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
+Problem gewähren? Welche Bedeutung haben Kunstsprachen der IT? Gibt es die "ideale" Sprache?<br>
+Ca. 90 Minuten spannende, hochinteressante philosophische Vorträge. Geeignet für Interessenten ab ca. 16 Jahre.</p>
+<hr>
+<p><b>Computer-History</b><br>
+Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null.
+</p>
+<hr>
+Für beide Veranstaltungen können Sie sich vormerken lassen (post@techniukm29.de). Die Termine werden rechtzeitig bekannt gegeben.
 		
-<div class="leftcol">
-	<!-- <h3>Führungen</h3> -->
+<!-- <div class="leftcol">
+	<h3>Führungen</h3> -->
 	
 	
-			
-	<h3>Tage der Industriekultur Rhein-Main</h3>
-	<p>Im Rahmen der <a href="http://www.krfrm.de/c/rdik/tdr2013/index.php?tdr=20130018,/">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe unten)<br><br>
 	
-	<div class="box termin clear-after">
+	<!-- <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2013</em> 14. Aug</p>
 			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
@@ -111,9 +122,9 @@
 		<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
-			<!--
+			
 			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
-			-->
+			
 		</dl>
 	</div>
 		
@@ -131,39 +142,18 @@ gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
 sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
 Problem gewähren? 
 </div>
+-->
 
-<!-- Spaltenwechsel --> </div><div class="rightcol"> <!-- Spaltenwechsel -->
+<!-- Spaltenwechsel --> <!-- </div><div class="rightcol"> <!-- Spaltenwechsel -->
 
-<br><br><br><br>
 
-Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
-Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_me/">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
-
-		<dl class="daten">
+<!--	<dl class="daten">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, den 17. August um 19 Uhr.<br> Bitte beachten: Dieser Termin ist ausgebucht. Sie können sich jedoch weiterhin anmelden. Eventuell wird der Vortrag im Herbst wiederholt.</dd>
 			
-			<!--
-			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
-			-->
+			
 		</dl>
-	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 18. Aug</p>
-			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
-		</div>
-		<h4>3. Computer History</h4>
-		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 10 Jahre bestens geeignet.<br>
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Sonntag, den 18. August um 14 Uhr. <br>
-			Bitte beachten: Dieser Termin ist ausgebucht. Sie können sich jedoch weiterhin anmelden. Eventuell wird die Führung im Herbst wiederholt.</dd>
-			<!--
-			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
-			-->
+			
 		</dl>
 	</div>
 	
@@ -171,9 +161,9 @@ Mathematikers/Informatikers (<a href="http://www.analogmuseum.org/deutsch/about_
 </div><!--rightcol-->
 </div><!-- Ende der Zweispaltigkeit -->
 
-<div class="center button-box">
+<!-- <div class="center button-box">
 	
-	<a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
+	<!-- <a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
 </div>
 
 <div class="archiv clear" style="display: none;">

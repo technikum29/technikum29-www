@@ -18,7 +18,7 @@
 </div>
    
 <p>Das Pianola ist ein selbstspielendes Klavier welches ab ca. 1895 gebaut wurde. Das hier abgebildete Instrument stammt aus dem Jahre 1915. <br> Diese Klaviere beziehen ihre
-ganze Energie aus dem Unterdruck, der durch den vermeindlichen "Spieler" durch das Treten von Blasebälgen erzeugt wird. Durch die Luftbewegungen wird zum Beispiel auch ein kleiner "4-Zylinder" Windmotor angetrieben, der die Aufnahmewalze antreibt, die das Papier aufnimmt.</p>
+ganze Energie aus dem Unterdruck, der durch den vermeintlichen "Spieler" durch das Treten von Blasebälgen erzeugt wird. Durch die Luftbewegungen wird zum Beispiel auch ein kleiner "4-Zylinder" Windmotor angetrieben, der die Aufnahmewalze antreibt, die das Papier aufnimmt.</p>
 
 <p>Mechanische Systeme, die nur durch Luftdruckunterschiede funktionieren, nennt
 man pneumatische Systeme</a>

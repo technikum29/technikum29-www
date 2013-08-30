@@ -87,7 +87,7 @@ data processing.</p>
            electronically. Most likely, Univac wanted to trump IBM with this
            trendsetting device. The device's internals are very elaborate, but offer
            many advantages, compared to usual apperatures at that time:
-           <br/>It featured a core memory with 12 x 80 x 2 cells for both data and programs. It could
+           <br/>It featured a core memory with 16 x 80 x 2 cells for both data and programs. It could
            handle two programs and one data storage. Programming
            was performed automatically once program cards have been inserted, and
            programs could be changed at the touch of a key. The device furthermore

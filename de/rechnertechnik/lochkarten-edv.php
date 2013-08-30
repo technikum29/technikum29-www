@@ -42,7 +42,7 @@
     </div>
 	<p>Der Univac 1710 kam zeitgleich mit der UNIVAC 9400 Computeranlage im Jahre 1969 auf den Markt. Univac wollte damit seinen Konkurrenten IBM toppen indem dieses Gerät weitgehend elektronisch gesteuert wird, extrem schnell arbeitet und vielseitig ist. Das war zwar aufwändig, brachte aber einige Vorteile: <br>
 		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man zwei Stanzprogramme (z.B. Feldsprünge) und auch den Inhalt einer Datenkarte speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
-		Als Speicher dient ein Kernspeicher mit 12x80x2 Ringkernen.
+		Als Speicher dient ein Kernspeicher mit 16x80x2 Ringkernen.
 		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
 		
 		<h3>Sortiermaschinen</h3>

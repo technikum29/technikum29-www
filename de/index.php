@@ -86,15 +86,25 @@
 <div id="termine" class="termine">
 <h2><big>Termine</big></h2>
 
-<div class="cols clear-after"><!-- Zweispaltige Ansicht -->
+<!-- <div class="cols clear-after">  .... Zweispaltige Ansicht -->
 
-Aufgrund der großen Nachfrage unserer Veranstaltungen im August 2013, die wir im Rahmen der "Tage der Industriekultur" angeboten hatten, wiederholen wir folgende Veranstaltungen:
+Aufgrund der großen Nachfrage unserer Events im August 2013, die wir im Rahmen der "Tage der Industriekultur" angeboten hatten, wiederholen wir folgende Veranstaltungen:
+<br>
 <hr>
-<p><b>Computer-History</b><br>
-Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab 10 Jahre gut geeignet.<br>
-Voraussichtlicher Termin: Sonntag, der 27. Oktober um 14 Uhr
+<b>Computer-History</b>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2013</em> 27. Okt.</p>	</div>	
+		
+<p>Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab ca. 11 Jahre gut geeignet.<br>
+Termin: Sonntag, der 27. Oktober um 14 Uhr </div>
 </p><hr>
 <p><b>Wie Sprache das Denken beeinflusst</b><br>
+<div class="box termin clear-after">
+<div class="left">
+			<p class="date"><em>2013</em> 2. Nov.</p>		
+		</div>
 Referenten: Patrick Hedfeld und Prof. Dr. Bernd Ulmann<br>
 
 Kann man über Probleme nachdenken, sie gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
@@ -102,7 +112,7 @@ Problem gewähren? Dabei wird der Bogen von abstrakten Dingen bis zu Donald-Duck
 Im zweiten Teil des Vortrages liegt der Schwerpunkt auf künstlichen Sprachen, zu denen neben der bekannten mathematischen Notation auch Programmiersprachen zählen. Anhand solcher Sprachen werden Einflüsse von Sprachen auf Denken und die Entwicklung von Problemlösestrategien mit
 Hilfe einer Reihe praktischer Beispiele verdeutlicht.<br>
 Ca. 90 Minuten spannende, hochinteressante philosophische Vorträge. Geeignet für Interessenten ab ca. 16 Jahre.<br>
-Voraussichtlicher Termin: Samstag, der 2. November um 17 Uhr</p>
+Termin: Samstag, der 2. November um 17 Uhr</p>
 
 
 <hr>
@@ -279,5 +289,5 @@ Problem gewähren?
 
 
 </div><!-- Ende Archiv -->
-</div><!-- Ende Termine -->
+<!-- Ende Termine -->
 	

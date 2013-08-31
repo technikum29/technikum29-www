@@ -20,10 +20,6 @@
   text: "Paper tape accessories"
   link: "#February_2013"
 
-- titel: "Gamma10"
-  text: "The Gamma10-Printer has arrived at the museum"
-  link: "#November_2012"
-
   
 
 MENU;

@@ -4,9 +4,13 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+- titel: "Philosophie"
+  text: ""
+  link: "#August_2013"
+	
 - titel: "Punch-Card-Music"
   text: "Technik und Kunst"
-  link: "/de/sonstiges#music" 
+  link: "#Mai_2013" 
 	
 - titel: "Experimentieren im technikum"
   text: ""
@@ -20,10 +24,7 @@
   text: ""
   link: "#März_2013"
 	
-- titel: "Lochstreifen-Zubehör"
-  text: ""
-  link: "#Februar_2013"
-	
+
 
   
 
@@ -41,6 +42,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>August 2013</h3><br>
+<div "box left clear-after">
+	<img src="/shared/photos/start/philosophie.jpg" width="498" height="157" class="nomargin-bottom" /><br><br>
+	Philosopie im technikum29: Die Referenten Patrick Hedfeld und Prof. Dr. Ulmann begeisterten die Besucher des völlig ausgebuchten Votrages: "Wie Sprache das Denken verändert".<br>
+	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten. Wegen der großen Nachfrage wird der Vortrag im November wiederholt. Siehe Start-Seite.
+
+
 <li><h3>Mai 2013</h3><br>
 <div "box left clear-after">
 	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="300" height="196" class="nomargin-bottom" />
@@ -76,18 +85,9 @@ Ab sofort für alle Leser ohne Passwort erreichbar: <br> <br>
   <a href="/de/geraete/pianola-funktionserklaerung/"> <b>Die Funktionserklärung einer Pianola.</b></a>
 </li>
 
-<li><h3>Februar 2013</h3>
-<div class="box left">
-<img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
-</div>
-Auch Zubehör zur Bearbeitung von Lochstreifen geben einen Einblick in die frühen Speichermedien. <br> <a href="/de/rechnertechnik/kommerzielle.php#stanzer"><b>Lesen Sie hier:</b></a>
-<div class="clear"></div></li>
-
 <div class="clear"></div>
 
 
-
-</p><br>
 
 
 

@@ -5,7 +5,7 @@
 	
 	$neues_menu = <<< MENU
 	
-- titel: "Gamma 10 jetzt voll funktionsfähig!"
+- titel: "Gamma 55 jetzt voll funktionsfähig!"
   text: ""
   link: "#September_2013"
   

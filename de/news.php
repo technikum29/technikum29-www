@@ -4,6 +4,11 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+	
+- titel: "Gamma 10 jetzt voll funktionsfähig!"
+  text: ""
+  link: "#September_2013"
+  
 - titel: "Philosophie"
   text: ""
   link: "#August_2013"
@@ -20,14 +25,6 @@
   text: ""
   link: "#April_2013"
 	
-- titel: "Funktionserklärung einer Pianola"
-  text: ""
-  link: "#März_2013"
-	
-
-
-  
-
 
 
   
@@ -82,14 +79,7 @@ Den nun ältesten Lochkartenstanzer im technikum29 finden Sie <a href="/de/rechn
 
 </div>
 
-<li><h3>März 2013</h3><br>
-<div class="box left clear-after">
-    <img src="/de/geraete/pianola-funktionserklaerung/einzelbilder/Bild1.png"
-width="300" height="225">
 
-Ab sofort für alle Leser ohne Passwort erreichbar: <br> <br>
-  <a href="/de/geraete/pianola-funktionserklaerung/"> <b>Die Funktionserklärung einer Pianola.</b></a>
-</li>
 
 <div class="clear"></div>
 

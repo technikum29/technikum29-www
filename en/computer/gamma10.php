@@ -126,12 +126,12 @@
 from France which is a perfect match for our Gamma 10. Although some parts like
 the outer enclosing are missing we can use parts from another printer that is
 beyond repair to restore this printer to working condition. Nevertheless this
-will be a lot of work.</p>
+was a lot of work.</p>
 
 <div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
+		<img src="/shared/photos/rechnertechnik/bull-i50,vor-nachher.jpg" alt="Drucker-I 50" width="851" height="316" />
 		<div class="bildtext">
-		<p><b>Printer waiting for its restoration</b>
+		<p><b>BULL I 50: Before a printer fragment and afterwards fully functional </b></p><br>
 		</div></div></p>
 		
 

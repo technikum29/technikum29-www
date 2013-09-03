@@ -43,10 +43,16 @@ MENU;
 
 <ul class="news-feed">
 
+<li><h3>September 2013</h3>
+<div class="box left">
+		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" /><br><br>
+		</div>
+BULL GAMMA 55 läuft! Ein historischer Moment, <a href="/de/rechnertechnik/gamma55.php#ge55"><b>siehe hier</a></b><br><br><br><br>
+
 <li><h3>August 2013</h3><br>
 <div "box left clear-after">
 	<img src="/shared/photos/start/philosophie.jpg" width="498" height="157" class="nomargin-bottom" /><br><br>
-	Philosopie im technikum29: Die Referenten Patrick Hedfeld und Prof. Dr. Ulmann begeisterten die Besucher des völlig ausgebuchten Votrages: "Wie Sprache das Denken verändert".<br>
+	Philosopie im technikum29: Die Referenten Patrick Hedfeld und Prof. Dr. Bernd Ulmann begeisterten die Besucher des völlig ausgebuchten Votrages: "Wie Sprache das Denken verändert".<br>
 	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten. Wegen der großen Nachfrage wird der Vortrag im November wiederholt. Siehe Start-Seite.
 
 

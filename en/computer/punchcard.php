@@ -178,16 +178,17 @@ data processing.</p>
         <div class="bildtext">
           <p><b>ANELEX high speed printer, series 5</b>,
              with lifted cover.</p>
-		  <p>This printer could be a good auxillary device to the GAMMA 10
-		     computer: It is a drum printer, like the original printer,
-			 and the cirtcuitry operates also on a negative logic level
-			 (germanium transistors). Anelex uses a core memory for the
-			 buffer, too. Anyway the printer cannot simply be plugged into
-			 the computer, because the original BULL printer works with
-			 the buffer memory which is placed directly in the CPU of the
-			 GAMMA 10. Since we don't want to modify the GAMMA 10 internal
-			 architecture, we currently implement a microcontroller driven
-			 interface between those two systems.
+		  <p>Just standing in front of this behemoth is an impressive experience. The
+overall weight of this mechanical wonder amounts to 635 kg and is sturdy
+enough to print a next to uncountable number of pages without any major
+defects. The series 5 printer was developed in the USA in 1963/64 and was
+used by many computer manufacturers (as a matter of fact, even ZUSE used this
+printer for the Z-23 - other examples include the Electrologica X8 from the
+Netherlands etc.). Being able to print 1250 lines per minute it was the
+fastest printer until 1965.<br>
+Our ANELEX printer has been repaired and can now be controlled by a
+microcontroller which in turn can be connected to a Laptop or the like. This
+is a nice example of a symbiosis of old and modern computing technology.
 		  </p>
         </div>
      </div>

@@ -62,13 +62,16 @@
 		</div>
 	</div>
 
-    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, kann jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendet werden. Doch wir haben Glück: Ein original Drucker ist uns vom F.E.B. (Federation des Equipes Bull) aus Frankreich überlassen worden. Zwar fehlen die gesamte Verkleidung, sowie einige Teile, doch diese können wir von unserem "Restdrucker" verwenden. Dennoch liegt ein hartes Stück Arbeit vor uns, um dieses Fragment wieder zur Funktion zu bringen.</p>
+    <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, war jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendbar. Doch wir hatten Glück: Ein original Drucker ist uns vom F.E.B. (Federation des Equipes Bull) aus Frankreich überlassen worden. Zwar fehlen die gesamte Verkleidung, sowie einige Teile, doch konnten wir aus den beiden Fragmenten einen voll funktionsfähigen Drucker aufbauen. Das Ergebnis kann sich sehen lassen (s.u.).</p>
 	<p class="small">Es gibt noch einige bemerkenswerte technische Daten: Der Computer hat über 4000 Transistoren, ca. 10.000 Dioden und mehr als 2500 Messpunkte, an welchen man im (nicht gerade seltenen) Servicefall Messungen im logischen Ablauf der Zyklen vornehmen konnte.<br>
 	Eine Fehlersuche durch Austausch von einzelnen Platinen war bzw. ist nicht möglich, da die kausalen Verknüpfungen wild über das gesamte Chassis gestreut sind. So verfolgt man einen Fehler dessen logische Kette z.B. von Board 17 auf 95 geht, dann zurück auf 43 und schließlich im Board 293 endet, weil just dort noch ein Flip-Flop frei war. Man muss daher den Fehler konsequent bis zum defekten Bauteil mittels Schaltpläne und Zyklenablauf verfolgen.</p>
+	There are some remarkable technical data: The computer has about 4000 transistors, about 10,000 diodes and more than 2500 measurement points at which you could make in the (not very rare) case of service measurements in the logical sequence of cycles.
+Troubleshooting by replacing individual boards or was not possible because the causal links are scattered wildly over the entire chassis. So we follow the logical chain as an error 17 goes from board to 95, then to 43 and finally ending in the 293 board, just because there is a flip-flop was still free. One must therefore follow the error consistently to the broken component by means of diagrams and sequence cycles.
+	
 <div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/bull-i50.jpg" alt="Drucker-Fragment" width="640" height="480" />
+		<img src="/shared/photos/rechnertechnik/bull-i50,vor-nachher.jpg" alt="Drucker-I 50" width="851" height="316" />
 		<div class="bildtext">
-		<p><b>Drucker-Fragment </b>(ist mittlerweile funktionsfähig)</p><br>
+		<p><b>BULL I 50: Vorher ein Drucker-Fragment, nachher voll funktionsfähig </b></p><br>
 		
 	<hr>
     <p class="small">Leider werden noch heute quasi historische Unterlagen (Manuals, Schaltpläne usw.) von uralt-Computern oft leichtsinnig entsorgt. Nicht so in der Stadt Wedel.<br>

@@ -29,8 +29,31 @@ Der Rechner wurde in der Grundversion als reine Lochkartenanlage mit viel Mechan
 <p>Unser Rechner begnügt sich, wie damals üblich, mit einer Maschinensprache und einem "Mini-Cobol" als Programmiersprache. Der notwendige Compiler wird mittels Lochkarten geladen. Der ganze Programmablauf wird schließlich durch einen mit Lochkarten zu ladenden "Supervisor" vorgenommen.<br>
 Die Anlage wurde mit einem Arbeitsspeicher (Kernspeicher) von 2,5 KB, 5 KB oder 10 KB angeboten. Wir haben die 5K-Version. Es ist erstaunlich, dass man mit so wenig Speicherplatz bereits eine programmier-"Hochsprache" (Cobol), wenn auch in abgespeckter Form, verwenden kann. Es war jedoch auch ein Trommelspeicher anschließbar, so dass damit sogar "Mini-Fortran" installiert werden konnte.
 </p>
-<p>Bei allen Fortschritten im Software-Sektor war die Hardware von BULL rückständig. Die Boards der Rechnerlogik haben den gleichen Aufbau (mit Germaniumtransistoren) wie die des Gamma 10, sie sehen auch identisch aus. Zur gleichen Zeit baute UNIVAC seine Logik bereits mittes monolithischen Schaltkreisen in DTL-Logik. Gleiches gilt für IBM, auch hier wurden bereits 1965 z.B. in der IBM 1130 einfache monolith-ICs verwendet.	<br>
-Wir werden uns bemühen, die schöne Anlage wieder "zum Laufen" zu bringen und berichten dann weiter.</p>
+<p>Bei allen Fortschritten im Software-Sektor war die Hardware von BULL rückständig. Die Boards der Rechnerlogik haben den gleichen Aufbau (mit Germaniumtransistoren) wie die des Gamma 10, sie sehen auch identisch aus. Zur gleichen Zeit baute UNIVAC seine Logik bereits mittes monolithischen Schaltkreisen in DTL-Logik. Gleiches gilt für IBM, auch hier wurden bereits 1965 z.B. in der IBM 1130 einfache monolith-ICs verwendet.	<br><br>
+
+September 2013: <b id="ge55">Der Rechner läuft!</b> <br>
+Nach langem Suchen aller versteckter Fehler ist die Anlage nun funktionsfähig. Auch größere Gebrauchs-Programme die dabei waren, laufen einwandfrei. Mehr als 25 defekte Transistoren und Dioden mussten aufgefunden werden. Diese Bauteile sind während des "Stillstandes" innerhalb der letzten 33 Jahre kaputt gegangen. Nach umfangreichen Recherchen stellen wir fest: Dies ist der einzige Gamma 55 unserer Erde der noch funktioniert!<br>
+Wer sich für den Aufbau und die Programmierung des Rechners interessiert, kann hier nachlesen (in deutscher Sprache):  <a href="http://www.technikum29.de/download/Manuals-Bull%20GE55/"> BULL Gamma 55 Manuals </a> </p>
+
+<div class="box left">
+		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="402" height="249" />
+		<div class="bildtext">
+		<p>Lochkartenleser <a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">Bild vergrößern</a><br> </p>
+		</div></div>
+Im Bild links ist der Lochkartenleser des GE55 zu sehen (ohne Abdeckung). Alles was mechanisch lösbar war, hat BULL auch so gelöst: Die Lochkarte zieht ein Lochband mit, welches den Lesetakt zur Lesung der Spalten erzeugt! Ein unnötiges Verschleißteil aber eine originelle, simple Lösung für das spaltenrichtige Lesen der Karte. <br> 
+Deutlich ist auch die Projektionsanzeige zu erkennen. 10 Ziffern und zwei Sonderzeichen werden durch Lämpchen und Linsen auf je eine Mattscheibe projiziert. Über diese Anzeige findet die Kommunikation mit dem Rechner statt. Sie steht sozusagen für den heutigen Bildschirm.<br>
+Im unteren Bild sieht man den ausgebauten Festwertspeicher für 1024 Worte. Groß und schwer, dafür jedoch immer reparierbar! Beide Bilder lassen sich auch vergrößert darstellen.
+		
+		
+		<div class="box right">
+		<img src="/shared/photos/rechnertechnik/ge55-rom.jpg" alt="Festwertspeicher" width="399" height="259" />
+		<div class="bildtext">
+		<p>Rechts: Ausgebauter Festwertspeicher <a  class="popup" href="/shared/photos/rechnertechnik/ge55-rom.jpg">Bild vergrößern</a><br></p>
+		</div>
+		</div>
+		
+		
+		
 <div class="cols">
 <div class="leftcol">
 <p class="small">Zeitdokument: Hier Auszüge des Textes aus der originalen System-Beschreibung von 1967/68<br>
@@ -39,9 +62,10 @@ Er ist ein Datenverarbeitungssystem, dessen logische Konzeption ein klares Abbil
 Er ist darüber hinaus aber auch ein Datenverarbeitungssystem, das direkte Dateneingaben über Tastaturen in den Verarbeitsungsprozess erlaubt;<br>
 Er ist bei alledem ein echtes Datenverarbeitungssystem, weil er wachsen und größere interne und externe Speicherkapazität erhalten kann.<br>
 Aufbau: Die Zentraleinheit (CPU) des GE-55 stellt über 4 Kanäle - 3 normale für langsame Randeinheiten und 1 Hochleistungskanal für externe Speichereinheiten und den schnellen Drucker her.....<br>
+...die Zykluszeit beträgt 7,9 us. Interner Code ist der ISO-Code. Der Kernspeicher dient als Daten- und Programmspeicher. Ein Byte, 8 Datenbits und ein Prüfbit, speichert ein alphabetisches Zeichen oder ein bzw. zwei numerische Zeichen. Die Rechenoperationen erfolgen in gepackter Darstellung....
 </div>
 <div class="rightcol"><blockquote><p class="small">
-...die Zykluszeit beträgt 7,9 us. Interner Code ist der ISO-Code. Der Kernspeicher dient als Daten- und Programmspeicher. Ein Byte, 8 Datenbits und ein Prüfbit, speichert ein alphabetisches Zeichen oder ein bzw. zwei numerische Zeichen. Die Rechenoperationen erfolgen in gepackter Darstellung....<br>
+
 Den Analysen der Befehle und ihrer Ausführung dient ein Festspeicher mit einer Kapazität von 1024 Worten zu je 36 Bits.......Dieser enthält Mikroprogramme für die Steuerung, Überwachung und Befehlsdurchführung sowie arithmetische Rechentafeln und Umschlüsselungstabellen für externe Codes.<br>
 Software: Das Programmiersystem zur Vereinfachung der Programmierung enthält im Wesentlichen:<br>
 Symbolsprachen zur eigentlichen Programmierung und<br>

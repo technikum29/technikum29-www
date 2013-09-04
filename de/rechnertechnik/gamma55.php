@@ -11,7 +11,7 @@
 	 <div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/bull-ge55.jpg" alt="BULL Gamma 55 Computer-Anlage" width="750" height="389" />
 		<div class="bildtext">
-		<p><b>Bull Gamma 55</b> (GE-55) Anlage. Links der Drucker I41, hinten die CPU (2 Meter lang!), rechts der Lochkartenstanzer PS40, auf dem Tisch der Lochkartenleser und davor die alphanumerische Tastatur</p>
+		<p><b>Bull Gamma 55</b> (GE-55) Anlage. Links der Drucker I41, hinten die CPU (2 Meter lang!), rechts der Lochkartenstanzer PS40, auf dem Tisch der Lochkartenleser L617 und davor die alphanumerische Tastatur</p>
 		</div>
 		</div>
 	<p>Eine "neue" Computer-Anlage von BULL beglückt unser Museum: BULL Gamma 55, nach dem Zusammenschluss von Bull mit General-Electric auch mit "GE-55" bezeichnet. Diese Anlage war 26 Jahre lang in der Schweiz komplett mit allen notwendigen Unterlagen (Manuals, Lochkarten...) eingelagert und erblickt jetzt wieder das Licht der Welt. <br>
@@ -19,11 +19,11 @@
 	Dieser Computer zeigt, welche ungeheuerlichen Schritte Mitte der 60er Jahre vollzogen wurden. Während im GAMMA 10 alle Befehle und Rechenschritte mittels unzähliger aufwändiger "Zyklen" durch logisch aktive (und damit störanfälliger) Schaltungen generiert wurden, geschieht dies im GE-55 in einem riesigen Festwertspeicher in Form eines gefädelten ROMs. Hier sind sogar ganze Mikroprogramme abgelegt. Das vereinfachte den Aufwand an Logik-Bauelementen sehr stark.
 Der Rechner wurde in der Grundversion als reine Lochkartenanlage mit viel Mechanik konzipiert. Immerhin werden die Lochkarten optisch und nicht mehr durch Metallbürsten gelesen. <br>
 <div class="box left">
-		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="566" height="322" />
-		<div class="bildtext">
-	
-		<p>Bild links: Die Anlage während der Phase der optischen Restauration</p>
+<a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg">
+		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="565" height="323" /></a>
 		
+		<div class="bildtext">	
+	<p>Die Anlage während der Phase der optischen Restauration <a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg"> Bild vergrößern</a><br> </p>
 		</div>
 		</div>
 <p>Unser Rechner begnügt sich, wie damals üblich, mit einer Maschinensprache und einem "Mini-Cobol" als Programmiersprache. Der notwendige Compiler wird mittels Lochkarten geladen. Der ganze Programmablauf wird schließlich durch einen mit Lochkarten zu ladenden "Supervisor" vorgenommen.<br>
@@ -32,21 +32,23 @@ Die Anlage wurde mit einem Arbeitsspeicher (Kernspeicher) von 2,5 KB, 5 KB oder 
 <p>Bei allen Fortschritten im Software-Sektor war die Hardware von BULL rückständig. Die Boards der Rechnerlogik haben den gleichen Aufbau (mit Germaniumtransistoren) wie die des Gamma 10, sie sehen auch identisch aus. Zur gleichen Zeit baute UNIVAC seine Logik bereits mittes monolithischen Schaltkreisen in DTL-Logik. Gleiches gilt für IBM, auch hier wurden bereits 1965 z.B. in der IBM 1130 einfache monolith-ICs verwendet.	<br><br>
 
 September 2013: <b id="ge55">Der Rechner läuft!</b> <br>
-Nach langem Suchen aller versteckter Fehler ist die Anlage nun funktionsfähig. Auch größere Gebrauchs-Programme die dabei waren, laufen einwandfrei. Mehr als 25 defekte Transistoren und Dioden mussten aufgefunden werden. Diese Bauteile sind während des "Stillstandes" innerhalb der letzten 33 Jahre kaputt gegangen. Nach umfangreichen Recherchen stellen wir fest: Dies ist der einzige Gamma 55 unserer Erde der noch funktioniert!<br>
+Nach langem Suchen aller versteckter Fehler ist die Anlage nun funktionsfähig. Auch größere Gebrauchs-Programme die dabei waren, laufen einwandfrei. Mehr als 25 defekte Transistoren und Dioden mussten aufgefunden werden. Diese Bauteile sind während des "Stillstandes" innerhalb der letzten 33 Jahre kaputt gegangen. Nach umfangreichen Recherchen stellen wir fest: Dies ist der einzige Gamma 55 unseres Planeten der noch funktioniert!<br>
 Wer sich für den Aufbau und die Programmierung des Rechners interessiert, kann hier nachlesen (in deutscher Sprache):  <a href="http://www.technikum29.de/download/Manuals-Bull%20GE55/"> BULL Gamma 55 Manuals </a> </p>
 
 <div class="box left">
-		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="402" height="249" />
+		<a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">
+		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="402" height="249" /></a>
 		<div class="bildtext">
 		<p>Lochkartenleser <a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">Bild vergrößern</a><br> </p>
 		</div></div>
-Im Bild links ist der Lochkartenleser des GE55 zu sehen (ohne Abdeckung). Alles was mechanisch lösbar war, hat BULL auch so gelöst: Die Lochkarte zieht ein Lochband mit, welches den Lesetakt zur Lesung der Spalten erzeugt! Ein unnötiges Verschleißteil aber eine originelle, simple Lösung für das spaltenrichtige Lesen der Karte. <br> 
+Im Bild links ist der Lochkartenleser des GE55 zu sehen (ohne Abdeckung). Alles was mechanisch lösbar war, hat BULL auch so gelöst: Die Lochkarte zieht ein Lochband mit, welches den Lesetakt zur Lesung der Spalten erzeugt! Ein problematisches Verschleißteil aber eine originelle, simple Lösung für das spaltenrichtige Lesen der Karte. <br> 
 Deutlich ist auch die Projektionsanzeige zu erkennen. 10 Ziffern und zwei Sonderzeichen werden durch Lämpchen und Linsen auf je eine Mattscheibe projiziert. Über diese Anzeige findet die Kommunikation mit dem Rechner statt. Sie steht sozusagen für den heutigen Bildschirm.<br>
 Im unteren Bild sieht man den ausgebauten Festwertspeicher für 1024 Worte. Groß und schwer, dafür jedoch immer reparierbar! Beide Bilder lassen sich auch vergrößert darstellen.
 		
 		
 		<div class="box right">
-		<img src="/shared/photos/rechnertechnik/ge55-rom.jpg" alt="Festwertspeicher" width="399" height="259" />
+		<a  class="popup" href="/shared/photos/rechnertechnik/ge55-rom.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-rom.jpg" alt="Festwertspeicher" width="399" height="259" /> </a>
 		<div class="bildtext">
 		<p>Rechts: Ausgebauter Festwertspeicher <a  class="popup" href="/shared/photos/rechnertechnik/ge55-rom.jpg">Bild vergrößern</a><br></p>
 		</div>

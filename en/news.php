@@ -4,6 +4,11 @@
 	$titel = "What's new?";
 	
 	$neues_menu = <<< MENU
+	
+- titel: "Gamma 55 is up und running"
+  text: ""
+  link: "#September_2013"
+  
 - titel: "Punch-Card-Music"
   text: "Technique and art"	
   link: "#Mai_2013"
@@ -16,9 +21,6 @@
   text: "Functional explanation of the pianola"
   link: "#March_2013"
   
-- titel: "NCR446"
-  text: "Paper tape accessories"
-  link: "#February_2013"
 
   
 
@@ -35,7 +37,13 @@ MENU;
 
     <ul class="news-feed">
 	
-	
+	<li><h3>September 2013</h3>
+<div class="box left">
+		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" /><br><br>
+		</div>
+Success! The BULL GAMMA 55 is up and running! An historical moment, <a href="/en/computer/gamma55.php#ge-55"><b>look here</a></b><br><br><br><br>
+
+
 	<li><h3>May 2013</h3><br>
 <div "box left clear-after">
 	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="300" height="196" class="nomargin-bottom" />
@@ -59,12 +67,7 @@ width="300" height="225">
 New on our website: <br> <br>
   <a href="/en/devices/functional-explanation-pianola.php/"> <b>Functional explanation of the pianola</b></a>
 </li>
-	<li><h3>February 2013</h3>
-<div class="box left">
-<img src="/shared/photos/rechnertechnik/handlocher.jpg" width="341" height="214" />
-</div>
-Also accessories for paper tape provide an insight into the early storage media. <br> <a href="/en/computer/commercial.php#acc"><b>Look here:</b></a>
-<div class="clear"></div></li>
+
 
 	
 	

@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>A second generation calculator: The BULL GAMMA&nbsp;10</h2>
+    <h2>A second generation calculator:  BULL GAMMA&nbsp;10</h2>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"
@@ -122,17 +122,31 @@
 
      <p>While our GAMMA 10 is in a very good shape, we cannot use the
         printer any more, since all electronics are missing.<br>
-        But we were very lucky: We got a printer from the "Federation des Equipes Bull"
-from France which is a perfect match for our Gamma 10. Although some parts like
-the outer enclosing are missing we can use parts from another printer that is
-beyond repair to restore this printer to working condition. Nevertheless this
-was a lot of work.</p>
+        But we were very lucky: An original printer has been donated to the museum by
+the F.E.B. (Federation des Equipes Bull) in France. Although the enclosure is
+missing completely as well as some other parts, we were able to rebuild a
+fully functional printer basied on this devices together with the parts
+already in the collection. The result is remarkable (see below).</p>
 
 <div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/bull-i50,vor-nachher.jpg" alt="Drucker-I 50" width="851" height="316" />
 		<div class="bildtext">
-		<p><b>BULL I 50: Before a printer fragment and afterwards fully functional </b></p><br>
-		</div></div></p>
+		<p><b>BULL I 50: Before a printer fragment and afterwards fully functional </b></p>
+		</div></div>
+
+<p class="small">
+Some interesting technical data: The computer contains more than 4,000
+discrete transistors, about 10,000 diodes and more then 2,500 test points
+which aide the service technician.
+Tracking down errors by swapping boards was not possible since the logical
+functions are spread over the whole chassis and are not concentrated on
+single cards. A typical errorneous function had to be traced from card 17,
+which is connected to card 95, which is, in turn, connected to card 43 and
+card 293 which contains a flipflop which is necessary to implement this
+particular basic function. Without detailed schematics and cycle diagrams it
+would be impossible to repair this machine.</p>
+
+
 		
 
 

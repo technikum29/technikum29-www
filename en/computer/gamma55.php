@@ -36,16 +36,18 @@ reduces the necessary hardware significantly, making the machine
 cheaper and more reliable.<br>
 
 The basic implementation of the machines makes heavy use of mechanical
-parts but at least the card reader is an optical device.<br>
-<div class="box left">
-		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="566" height="322" />
-		<div class="bildtext">
+parts but at least the card reader is an optical device.<br>	
 
-<p>During reconstruction:
-The picture on the left shows the system during the refurbishment of
-the cabinets etc.</p>
-</div>
-</div>
+<div class="box left">
+<a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg">
+		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="565" height="323" /></a>
+		
+		<div class="bildtext">	
+	<p>The system during the refurbishment of
+the cabinets <a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg"> (enlarge picture) </a><br> </p>
+		</div>
+		</div>
+		
 
 <p>Our machine can be programmed in machine language or some kind of a
 mini-COBOL (Common Business Oriented Language). The compiler is loaded
@@ -65,11 +67,48 @@ was quite outdated. The boards used in this machine are the same as
 those in the earlier GAMMA 10 (based on Germanium transistors). At the
 same time other companies like UNIVAC or IBM already employed
 integrated circuits (DTL, Diode-Transistor-Logic) for their machines.<br>
-
-We are still working on restoring this wonderful machine to working
-condition. So stay tuned, we will post status updates along the
-process.
     </p>
+	
+September 2013: <b id="ge-55">Success! The machine is up and running!</b><br>
+After a substantial amount of time spent for debugging, the machine is now
+fully operational again. More the 30 (!!) defective transistors and diodes had to
+be traced down and replaced to achieve this. These parts failed silently
+during the 33 years in storage. We can now proudly state that this is the
+only surviving Gamma 55 on earth which is still running. If you are
+interested in details concerning the architecture and programming of the
+machine, have a look here (in German only): <a href="http://www.technikum29.de/download/Manuals-Bull%20GE55/"> BULL Gamma 55 manuals </a> </p>
+
+<div class="box left">
+		<a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">
+		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Card-Reader" width="402" height="249" /></a>
+		<div class="bildtext">
+		<p>Card-Reader <a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">(enlarge picture)</a><br> </p>
+		</div></div>
+The card reader of the GE55 can be seen on the left of the pictures (without
+its cover. It is interesting to see that Bull solved every problem for which
+as (practical) mechanical solution exists in a mechanical way (as compared to
+our times where microcontrollers are abundant even in applications which
+might be implemented more easily with a mechanical approach). The card is
+coupled to a punched tape which generates the clock signal for reading the
+card's columns. Although this part can wear out easily, it is nevertheless an
+ingenious solution.<br> 
+Also visible is the projection display: 10 digits and two
+additional symbols are displayed by an array of incandescent lamps with
+associated lenses. This is the main way of communicating with the machine
+like today's video terminals.
+The picture below shows the read-only-memory containing 1024 words. A very
+heavy contraption but very maintainable. (Both pictures can be enlarged by
+clicking on them.)
+		
+		
+		<div class="box right">
+		<a  class="popup" href="/shared/photos/rechnertechnik/ge55-rom.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-rom.jpg" alt="Read-only-memory" width="399" height="259" /> </a>
+		<div class="bildtext">
+		<p>Right: Read-only-memory removed from the machine. 
+ <a  class="popup" href="/shared/photos/rechnertechnik/ge55-rom.jpg">(enlarge picture)</a><br></p>
+		</div>
+		</div>
 
 	<div class="cols">
 <div class="leftcol">
@@ -86,13 +125,13 @@ Construction: The central processing unit (CPU) of the GE-55 supports
 four channels; three of which are normal speed channels for slow
 input/output devices and one high speed channel used by external
 memory units or a fast line printer...<br>
-</div>
-<div class="rightcol"><blockquote><p class="small">
 ....the cycle time is 7.9 us. Characters are represented by their
 respective ISO-code. The core memory is used as data and program
 memory. A since byte, comprised of 8 data bits and one parity bit,
 stores a single alphabetical character or up to two numerical
-digits...<br>
+digits...
+</div>
+<div class="rightcol"><blockquote><p class="small">
 
 Instructions are analyzed and executed under control of a
 read-only-memory with a capacity of 1024 word of 36 bits each... This

@@ -165,7 +165,8 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 </div>
 <div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->
 
-<div class="leftcol left-img">
+  <!--
+  <div class="leftcol left-img">
     <img src="/shared/photos/rallye/exp16.jpg"  width="150" height="81" />
        1965: Der erste Bildschirmrechner<br>(S1)<br>
 	   Ziel: Learning by doing (1)
@@ -174,7 +175,8 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
     <img src="/shared/photos/rallye/exp17.jpg"  width="150" height="112" />
        1968: Der erste hochwissenschaftliche Rechner <br>(S2, LK)<br>
 	   Ziel: Learning by doing (2)
-	   </div>
+	   </div>  
+	   -->
 </div><!-- Ende der Zweispaltigkeit -->
 
 

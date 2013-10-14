@@ -36,7 +36,7 @@
        car produced in Germany in the 1960/70s. In 1970, a 55&nbsp;HP model cost
        about 6000&nbsp;DM. In the USA, it was sold for approximately 2000 US&nbsp;$.</p>
 
-    <table cellspacing="1" width="100%">
+    <table width="100%" class="t29-details">
       <colgroup>
         <col width="10%" />
         <col />

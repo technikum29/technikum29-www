@@ -18,7 +18,7 @@ of it.</p>
 		</div>
 		</div>
 	<p>
-        We are now the proud owners of a new BULL computer system: A BULL Gamma
+        We are since 2012 the proud owners of a new BULL computer system: A BULL Gamma
 55 (also known as GE-55 after the merge with General-Electric). The
 system now in the collection was stored in Switzerland with all
 accompanying documentation, punched cards etc. for 26 years.<br>

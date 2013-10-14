@@ -19,13 +19,23 @@
 	Dieser Computer zeigt, welche ungeheuerlichen Schritte Mitte der 60er Jahre vollzogen wurden. Während im GAMMA 10 alle Befehle und Rechenschritte mittels unzähliger aufwändiger "Zyklen" durch logisch aktive (und damit störanfälliger) Schaltungen generiert wurden, geschieht dies im GE-55 in einem riesigen Festwertspeicher in Form eines gefädelten ROMs. Hier sind sogar ganze Mikroprogramme abgelegt. Das vereinfachte den Aufwand an Logik-Bauelementen sehr stark.
 Der Rechner wurde in der Grundversion als reine Lochkartenanlage mit viel Mechanik konzipiert. Immerhin werden die Lochkarten optisch und nicht mehr durch Metallbürsten gelesen. <br>
 <div class="box left">
-<a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg">
-		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="565" height="323" /></a>
+<a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-1.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-offen-1.jpg" alt="Während der Restauration" width="319" height="217" /></a>
 		
 		<div class="bildtext">	
-	<p>Die Anlage während der Phase der optischen Restauration <a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg"> Bild vergrößern</a><br> </p>
+	<p>Die Anlage während der Phase der Restauration von hinten gesehen <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-1.jpg"> Bild vergrößern</a><br> </p>
 		</div>
 		</div>
+		
+		<div class="box left">
+<a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-2.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-offen-2.jpg" alt="Während der Restauration" width="319" height="213" /></a>
+		
+		<div class="bildtext">	
+	<p>Prozessor aufgeklappt <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-2.jpg"> Bild vergrößern</a><br> </p>
+		</div>
+		</div>
+		
 <p>Unser Rechner begnügt sich, wie damals üblich, mit einer Maschinensprache und einem "Mini-Cobol" als Programmiersprache. Der notwendige Compiler wird mittels Lochkarten geladen. Der ganze Programmablauf wird schließlich durch einen mit Lochkarten zu ladenden "Supervisor" vorgenommen.<br>
 Die Anlage wurde mit einem Arbeitsspeicher (Kernspeicher) von 2,5 KB, 5 KB oder 10 KB angeboten. Wir haben die 5K-Version. Es ist erstaunlich, dass man mit so wenig Speicherplatz bereits eine programmier-"Hochsprache" (Cobol), wenn auch in abgespeckter Form, verwenden kann. Es war jedoch auch ein Trommelspeicher anschließbar, so dass damit sogar "Mini-Fortran" installiert werden konnte.
 </p>

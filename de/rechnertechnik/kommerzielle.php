@@ -9,7 +9,7 @@
 
     <p>
        Kommerzielle Rechner haben keine oder kaum wissenschaftliche Funktionen und sind speziell auf die Verarbeitung von "großen" Datenmengen ausgelegt. Manchmal ist die Unterscheidung zwischen kommerziellen und wissenschaftlichen Rechnern schwer und die unten stehenden Exemplare sind auch nur kleine kommerzielle Rechner.
-	   <br/>Eine schöne vorwiegend kommerziell eingesetzte EDV-Anlage (BULL GAMMA 10) wird in der Rubrik "Lochkarten-EDV" beschrieben. Ebenso finden Sie unter dieser Rubrik die UNIVAC 9200, welche ebenfalls hauptsächlich für kommerzielle Anwendungen angeboten wurde.</br>
+	   <br/>Schöne vorwiegend kommerziell eingesetzte EDV-Anlagen (BULL GAMMA 10, GAMMA 55) werden in der Rubrik "Lochkarten-EDV" beschrieben. Ebenso finden Sie unter dieser Rubrik die UNIVAC 9200, welche ebenfalls hauptsächlich für kommerzielle Anwendungen angeboten wurde.</br>
     </p>
 	
     <h3 id="olivetti-p203">Olivetti P 203</h3>

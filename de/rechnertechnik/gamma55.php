@@ -18,7 +18,8 @@
 	Sie wurde 1966 von BULL (Frankreich) entwickelt und kam 1967 auf den Markt. Gedacht war die GE-55 für kleine und mittlere Betriebe, die bisher auf "elektronische Rechenanlagen" aus Kostengründen weitgehend verzichten mussten.<br>
 	Dieser Computer zeigt, welche ungeheuerlichen Schritte Mitte der 60er Jahre vollzogen wurden. Während im GAMMA 10 alle Befehle und Rechenschritte mittels unzähliger aufwändiger "Zyklen" durch logisch aktive (und damit störanfälliger) Schaltungen generiert wurden, geschieht dies im GE-55 in einem riesigen Festwertspeicher in Form eines gefädelten ROMs. Hier sind sogar ganze Mikroprogramme abgelegt. Das vereinfachte den Aufwand an Logik-Bauelementen sehr stark.
 Der Rechner wurde in der Grundversion als reine Lochkartenanlage mit viel Mechanik konzipiert. Immerhin werden die Lochkarten optisch und nicht mehr durch Metallbürsten gelesen. <br>
-<div class="box left">
+
+<div class="desc-left auto-bildbreite borderless no-copyright">
 <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-1.jpg">
 		<img src="/shared/photos/rechnertechnik/ge55-offen-1.jpg" alt="Während der Restauration" width="319" height="217" /></a>
 		
@@ -27,7 +28,7 @@ Der Rechner wurde in der Grundversion als reine Lochkartenanlage mit viel Mechan
 		</div>
 		</div>
 		
-		<div class="box left">
+		<div class="desc-left auto-bildbreite borderless no-copyright" style="clear:left">
 <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-2.jpg">
 		<img src="/shared/photos/rechnertechnik/ge55-offen-2.jpg" alt="Während der Restauration" width="319" height="213" /></a>
 		

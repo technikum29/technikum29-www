@@ -18,7 +18,7 @@
        KFZ im Jahre 1968) musste man damals ca. 6000,- DM bezahlen
        (gehobene Ausführung).</p>
 
-    <table width="100%">
+    <table width="100%" class="t29-details">
       <colgroup>
         <col style="text-align: left;"/>
         <col />

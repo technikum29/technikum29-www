@@ -116,7 +116,7 @@ Termin: Samstag, der 2. November um 17 Uhr</p>
 
 
 <hr>
-Für beide Veranstaltungen können Sie sich vormerken lassen (<a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>). 
+Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 		
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

@@ -95,11 +95,18 @@ Aufgrund der großen Nachfrage unserer Events im August 2013, die wir im Rahmen 
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2013</em> 27. Okt.</p>	</div>	
+			<p class="date"><em>2013</em> 27. Okt.</p>	</div>
+			
+		<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2013</em> 10. Nov.</p>	</div>
+			
 		
 <p>Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab ca. 11 Jahre gut geeignet.<br>
-Termin: Sonntag, der 27. Oktober um 14 Uhr </div>
+Termine: Sonntag, der 27. Oktober um 14 Uhr und Sonntag, der 10. November um 14 Uhr </div></div>
 </p><hr>
+
+
 <p><b>Wie Sprache das Denken beeinflusst</b><br>
 <div class="box termin clear-after">
 <div class="left">

@@ -25,7 +25,7 @@ accompanying documentation, punched cards etc. for 26 years.<br>
 
 It was developed in 1966 by BULL in France and hit the market in 1967.
 It was aimed at small and middle sized companies that were too small
-as customers for other, larger computer systems.<br>
+as customers for other, larger computer systems.<br><br>
 
 This computer demonstrates the tremendous advances of computer
 technology in the 1960s. While all instructions on the (larger) Gamma
@@ -36,17 +36,26 @@ reduces the necessary hardware significantly, making the machine
 cheaper and more reliable.<br>
 
 The basic implementation of the machines makes heavy use of mechanical
-parts but at least the card reader is an optical device.<br>	
+parts but at least the card reader is an optical device.<br>	<br>
 
-<div class="box left">
-<a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg">
-		<img src="/shared/photos/rechnertechnik/ge-55-2.jpg" alt="Während der Restauration" width="565" height="323" /></a>
+<div class="desc-left auto-bildbreite borderless no-copyright">
+<a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-1.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-offen-1.jpg" alt="Während der Restauration" width="319" height="217" /></a>
 		
 		<div class="bildtext">	
-	<p>The system during the refurbishment of
-the cabinets <a class="popup" href="/shared/photos/rechnertechnik/ge-55-2.jpg"> (enlarge picture) </a><br> </p>
+	<p>The system during the period of restoration of rear view  <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-1.jpg">enlarge picture</a><br> </p>
 		</div>
 		</div>
+		
+		<div class="desc-left auto-bildbreite borderless no-copyright" style="clear:left">
+<a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-2.jpg">
+		<img src="/shared/photos/rechnertechnik/ge55-offen-2.jpg" alt="Während der Restauration" width="319" height="213" /></a>
+		
+		<div class="bildtext">	
+	<p>Opened CPU <a class="popup" href="/shared/photos/rechnertechnik/ge55-offen-2.jpg"> enlarge picture</a><br> </p>
+		</div>
+		</div>
+		
 		
 
 <p>Our machine can be programmed in machine language or some kind of a
@@ -57,7 +66,7 @@ punched cards is necessary.<br>
 The system was advertised with 2.5 kB, 5 kB or 10 kB of main memory
 (core memory). Our machine has 5 kB of memory and it is really
 astonishing that a high level language like COBOL - even our
-mini-COBOL - is feasible with such a tiny amount of memory at all.<br>
+mini-COBOL - is feasible with such a tiny amount of memory at all.<br><br>
 
 As an extension a memory drum was offered which also allowed the use of
 a mini-FORTRAN (FORmula TRANslator).<br>
@@ -68,7 +77,7 @@ those in the earlier GAMMA 10 (based on Germanium transistors). At the
 same time other companies like UNIVAC or IBM already employed
 integrated circuits (DTL, Diode-Transistor-Logic) for their machines.<br>
     </p>
-	
+	<br><br>
 September 2013: <b id="ge-55">Success! The machine is up and running!</b><br>
 After a substantial amount of time spent for debugging, the machine is now
 fully operational again. More the 30 (!!) defective transistors and diodes had to

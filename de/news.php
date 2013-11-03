@@ -50,7 +50,7 @@ BULL GAMMA 55 läuft! Ein historischer Moment, <a href="/de/rechnertechnik/gamma
 <div "box left clear-after">
 	<img src="/shared/photos/start/philosophie.jpg" width="498" height="157" class="nomargin-bottom" /><br><br>
 	Philosopie im technikum29: Die Referenten Patrick Hedfeld und Prof. Dr. Bernd Ulmann begeisterten die Besucher des völlig ausgebuchten Votrages: "Wie Sprache das Denken verändert".<br>
-	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten. Wegen der großen Nachfrage wird der Vortrag im November wiederholt. Siehe Start-Seite.
+	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten.
 
 
 <li><h3>Mai 2013</h3><br>

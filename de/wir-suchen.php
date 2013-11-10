@@ -7,6 +7,12 @@
 ?>
 
    <h2>Was das Museum noch sucht</h2><br>
+   
+   <p><b>In Kürze erhalten wir eine komplette IBM 1130  ("Elektronische Rechenanlage"), Bj. ca. 1965/66.<br>
+   Für diesen Computer suchen wir alles, was noch aufzutreiben ist: Manuals, Programme und insbesondere Platinen mit den kleinen Monolith-ICs</b>.<br>
+   Ehemalige IBM-Techniker: Bitte stöbern Sie in Ihrem Keller, ob sich noch etwas findet. Vielen Dank!</p>
+   <br><hr><br>
+   
 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
         <p class="bildtext">

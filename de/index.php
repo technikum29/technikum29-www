@@ -62,8 +62,8 @@
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
-                <li> Zur Zeit sind nur Gruppenanmeldungen (ab 8&nbsp;Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
-				<br>Einzelpersonen können jedoch gerne nachfragen, ob an den untenstehenden Gruppen-Terminen noch Plätze frei sind. <br>
+                <li> Zur Zeit sind nur Gruppenanmeldungen mit mindestens 8 Personen möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
+				<br>Einzelpersonen können jedoch ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammenkommen wird eine Führung angeboten (meistens Sonntags um 14 Uhr). <br>
 				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
 				
 					</li>
@@ -83,12 +83,13 @@
 	
 <!-- Zweiter Teil der Startseite: Termine -->
 
+
+<!--
+
 <div id="termine" class="termine">
 <h2><big>Termine</big></h2>
 
-<!-- <div class="cols clear-after">  .... Zweispaltige Ansicht -->
 
-Aufgrund der großen Nachfrage unserer Events im August 2013, die wir im Rahmen der "Tage der Industriekultur" angeboten hatten, wiederholen wir folgende Veranstaltung:
 <br>
 <hr>
 <b>Computer-History</b>
@@ -140,146 +141,5 @@ Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" hr
 			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
 		</div>
 		
+-->		
 		
-		<h4>2. Beeinflusst Sprache unser Denken?</h4>
-
-		Kann man über Probleme nachdenken, sie
-gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
-sein, dass unterschiedliche Sprachen unterschiedliche Einblicke in ein
-Problem gewähren? 
-</div>
--->
-
-<!-- Spaltenwechsel --> <!-- </div><div class="rightcol"> <!-- Spaltenwechsel -->
-
-
-<!--	<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Samstag, den 17. August um 19 Uhr.<br> Bitte beachten: Dieser Termin ist ausgebucht. Sie können sich jedoch weiterhin anmelden. Eventuell wird der Vortrag im Herbst wiederholt.</dd>
-			
-			
-		</dl>
-			
-		</dl>
-	</div>
-	
-	
-</div><!--rightcol-->
-</div><!-- Ende der Zweispaltigkeit -->
-
-<!-- <div class="center button-box">
-	
-	<!-- <a href="#archiv" class="button archiv-btn">Vergangene Termine anzeigen</a>
-</div>
-
-<div class="archiv clear" style="display: none;">
-<h2>Termin-Archiv</h2>
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date rot"><em>2013</em> 26. Juni</em></p>
-	
-		</div>
-		<h4>Die lebendige Geschichte des Computers</h4>
-		
-		Eine vom Hessischen Kultusministerium akkreditierte Fortbildungsveranstaltung (<a href="https://akkreditierung.hessen.de/web/guest/catalog/detail?tspi=132543_">Nr. 01375122</a>).
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 26. Juni 14:30 Uhr.</dd>
-			
-		</dl>
-	</div>
-
-
-
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 22. Juni</em></p>
-			
-		</div>
-		<h4>Die Geschichte der Kommunikation</h4>
-		
-		Gruppe Stehling
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Samstag, 22. Juni um 15 Uhr</dd>
-		</dl>
-	</div>
-
-
-<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 19. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Kliche
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 19. Juni um 16:30 Uhr</dd>
-		</dl>
-	</div>
-
-
-<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 13. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Steinke
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Donnerstag, 13. Juni um 10:30 Uhr</dd>
-		</dl>
-	</div>
-
-
-<div class="box termin clear-after">
-		<p class="date left"><em>2013</em> 03. Juni</em></p>
-		<h4>Computer History</h4>
-		
-		Gruppe Weber
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Montag, 3. Juni um 15 Uhr</dd>
-			
-		</dl>
-	</div>
-<div class="box termin only clear-after">
-		<p class="date left"><em>2013</em> 22. Mai</em></p>
-		<h4>Die Geschichte der Kommunikation</h4>
-		
-		Pestalozzi-Schule
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, 22. Mai um 15 Uhr</dd>
-		</dl>
-	</div>
-
-
-	<div class="box termin clear-after">
-		<p class="date rot left"><em>2013</em> 10.<br> Mai</p>
-		<h4>Punchcard music</h4>
-		
-		Unser <a href="/de/rechnertechnik/lochkarten-edv#026">IBM 026-Card-Punch</a> ist in einem
-		Konzert in Köln zu "hören!" Siehe <a class="go" href="http://www.punchcardmusic.de/"><b>punchcard music</b></a>
-		<br>
-		ein Auftragswerk von <a href="http://www.achtbruecken.de/">ACHT BRÜCKEN | Musik für Köln</a>
-		
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Freitag, den 10. Mai um 20:30 Uhr</dd>
-			<dt>Ort</dt>
-			<dd><a href="http://www.achtbruecken.de/programm/110853/">Kunst-Station Sankt Peter, Köln</a>
-		</dl>
-
-	</div>
-
-
-</div><!-- Ende Archiv -->
-<!-- Ende Termine -->
-	

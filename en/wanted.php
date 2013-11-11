@@ -5,7 +5,7 @@
 	
 	require "../lib/technikum29.php";
 ?>
-    <h2>We are looking for...</h2>
+    <h2>We are looking for...</h2><br>
 
 
 <p><b>We soon get a complete IBM 1130 ("electronic computing system"), built circa 1965/66.

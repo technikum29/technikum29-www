@@ -64,7 +64,7 @@
 			
                 <li> Zur Zeit sind nur Gruppenanmeldungen mit mindestens 8 Personen möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen können jedoch ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammenkommen wird eine Führung angeboten (meistens Sonntags um 14 Uhr). <br>
-				Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.<br>
+				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse, eine Gruppenführung kostet pauschal 50 Euro. Für Schüler und Studenten sind Führungen kostenlos.<br>
 				
 					</li>
             </ul>

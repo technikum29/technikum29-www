@@ -160,7 +160,7 @@ data processing.</p>
 		</p>
 	</div>
 	
-	<h3>Card interpreter</h3>
+	<h3>Alphabetic Interpreter</h3>
 	
     <div class="box left clear-after">
          <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />

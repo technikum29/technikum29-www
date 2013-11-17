@@ -78,31 +78,23 @@
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2013.pdf">aktuellen Flyer</a> als PDF (2&nbsp;MB)</p>
 		</div>
 		
-	</div><!--rightcol-->
-	</div><!-- cols -->
-	
-<!-- Zweiter Teil der Startseite: Termine -->
+</div><!--cools-->
 
-
-<!--
+<div class="clear">&nbsp;</div>
 
 <div id="termine" class="termine">
+
 <h2><big>Termine</big></h2>
 
 
-<br>
-<hr>
+<!--
 <b>Computer-History</b>
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2013</em> 27. Okt.</p>	</div>
+			<p class="date"><em>2013</em> 24. Nov.</p>	</div>
 			
-		<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 10. Nov.</p>	</div>
-			
-		
+
 <p>Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab ca. 11 Jahre gut geeignet.<br>
 Termine: Sonntag, der 27. Oktober um 14 Uhr und Sonntag, der 10. November um 14 Uhr </div></div>
 </p>
@@ -121,25 +113,27 @@ Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" hr
 			<p class="date"><em>2013</em> 14. Aug</p>
 			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
 		</div>
-
-		<h4>1. Die Geschichte der Kommunikation</h4>
 		
-		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.
-
-		<dl class="daten">
-			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
-			
-			<dd class="anmeldung"><a href="/de/anmeldung.php" class="button anmeldung-btn">Anmelden</a></dd>
-			
-		</dl>
-	</div>
+		-->
 		
-	<div class="box termin clear-after">
+
+		<h4>Die Geschichte der Kommunikation</h4>
+		
+		<div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2013</em> 17. Aug</p>
-			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
+			<p class="date"><em>2013</em> 24. Nov.</p>
+			
 		</div>
 		
--->		
+		
+		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.<br>
+		
+		
+			<b>Termin:</b> Sonntag, den 24. November 2013 um 14 Uhr (pünktlich).<br><br>
+			
+			
+			Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+		
+			
+		
 		

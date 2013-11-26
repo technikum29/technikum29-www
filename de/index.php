@@ -82,23 +82,22 @@
 
 <div class="clear">&nbsp;</div>
 
+
+<!--  
+
 <div id="termine" class="termine">
 
 <h2><big>Termine</big></h2>
 
-
-<!--
 <b>Computer-History</b>
 
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2013</em> 24. Nov.</p>	</div>
 			
-
 <p>Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab ca. 11 Jahre gut geeignet.<br>
 Termine: Sonntag, der 27. Oktober um 14 Uhr und Sonntag, der 10. November um 14 Uhr </div></div>
 </p>
-
 
 <hr>
 Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
@@ -114,7 +113,7 @@ Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" hr
 			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
 		</div>
 		
-		-->
+	
 		
 
 		<h4>Die Geschichte der Kommunikation</h4>
@@ -129,10 +128,11 @@ Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" hr
 		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.<br>
 		
 		
-			<b>Termin:</b> Sonntag, den 24. November 2013 um 14 Uhr (pünktlich).<br><br>
+			<b>Termin:</b> Sonntag, der 24. November 2013 um 14 Uhr (pünktlich).<br><br>
 			
 			
 			Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+			-->
 		
 			
 		

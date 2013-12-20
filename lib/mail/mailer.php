@@ -212,6 +212,10 @@ EOT1;
 	}
 	public static function recaptcha_get_html() {
 		global $publickey;
+		if ($publickey == null || $publickey == '') {
+			// recaptcha_get_html wirft sonst ein die().
+			return '<b>t29Error: Recaptcha Publickey not loaded!</b>';
+		}
 		return recaptcha_get_html($publickey);
 	}
 	

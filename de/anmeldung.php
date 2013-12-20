@@ -6,9 +6,9 @@
 
 	require "../lib/technikum29.php";
 	require "../lib/mail/mailer.php";
-	
+
 	// Captcha-Sicherung gegen Spam hier an- oder ausschalten
-	$spamschutz_aktiv = false;
+	$spamschutz_aktiv = true;
 	
 	// Bestätigungsmail hier ein- oder ausschalten
 	$bestaetigungsmail_senden = false;
@@ -64,9 +64,10 @@
 				<dt>Captcha</dt>
 				<dd>Bitte bestätigen Sie, dass Sie menschlich sind:
 				<?php
-					if($ajax)
-						echo "<span class='t29-recaptcha' data-publickey='". t29Mailer::recaptcha_get_publickey() ."'></span>";
-					else
+					if($ajax) {
+						$pubkey = t29Mailer::recaptcha_get_publickey();
+						echo "<span class='t29-recaptcha' data-publickey='$pubkey'></span>";
+					} else
 						echo t29Mailer::recaptcha_get_html();
 				?>
 				<p>Vielen Dank für Ihre Mithilfe gegen Spam.

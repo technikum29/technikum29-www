@@ -66,13 +66,14 @@
         </p>
     </div>
 	
-	<h3>Lochkartendoppler</h3>
+	<h3 id="doppler">Lochkartendoppler</h3>
 	 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="450" height="391" />
         <p class="bildtext">
             <b>IBM 514</b></p>
-			<p>Gigantisch groß und gigantisch schwer: Der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
-			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).</p>
+			<p>Seit Dezember 2013 im technikum29: Gigantisch groß und gigantisch schwer, der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
+			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).<br><br>
+			<small>Dieses Gerät wurde uns freundlicherweise vom FITG (Frankfurt) übereignet.</small></p>
 			</div>
 	
 <h3>Lochkartenmischer</h3>

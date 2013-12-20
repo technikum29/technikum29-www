@@ -65,6 +65,16 @@
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
     </div>
+	
+	<h3>Lochkartendoppler</h3>
+	 <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="450" height="391" />
+        <p class="bildtext">
+            <b>IBM 514</b></p>
+			<p>Gigantisch groß und gigantisch schwer: Der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
+			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).</p>
+			</div>
+	
 <h3>Lochkartenmischer</h3>
 
     <div class="box left clear-after">
@@ -91,7 +101,7 @@
 	<h3>Lochschriftübersetzer</h3>
 	
     <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="509" />
+        <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="464" />
         <p class="bildtext">
             <b>IBM 548</b></p>
 			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>

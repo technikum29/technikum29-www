@@ -1,11 +1,11 @@
-<?php
+﻿<?php
 	$seiten_id = 'lochkarten';
 	$version = '$Id$';
 	$title = 'Punch card computing';
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Punch card computing</h2>
+    <h2>Punch-card equipment and Peripherals</h2>
 
     <p>Punch cards are used since the beginnings of the 20th century
        as storage media. They are handy, can be labeled automatically or by
@@ -105,12 +105,22 @@ data processing.</p>
     </p>
 
 	<h3 id="reproducing">Reproducing Punch</h3>
-	<p>To be done</p>
+	
+	 <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="450" height="391" />
+        <p class="bildtext">
+            <b>IBM 514</b></p>
+			
+			<p>......will be translated soon</p>
+			<p>Seit Dezember 2013 im technikum29: Gigantisch groß und gigantisch schwer, der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
+			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).</p>
+			</div>
 	
 	<h3>Sorters</h3>
 
-    <div class="box center">
-        <a href="/en/devices/punchcard-sorter.php" name="backlink-sorter"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 sorter" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 sorter (without cover)" width="215" height="287" /></a>
+	 <div class="box center manuelle-bildbreite" style="width: 580px;">
+        <a name="backlink-sortierer" href="/de/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm-082-sorter.jpg" alt="IBM 082 Sortiermaschine" width="361" height="287" /><img style="margin-left: 2px;" src="/shared/photos/rechnertechnik/ibm-082-sorter.offen.jpg" alt="IBM 082 Sortiermaschine Offen" width="215" height="287" /></a>
+
         <p class="center">
             <b>IBM 082 punch card sorter</b>, Built since 1949
             <br/><a class="go" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a>

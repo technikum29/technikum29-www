@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>UNIVAC 9400 Großrechner, Rechenzentrum</h2>
+    <h2><b>UNIVAC 9400</b> Großrechner, Rechenzentrum</h2>
 
     <div class="box center" style="position:relative;">
         <!-- Umständliche Lösung für die 30% IE6-Benutzer: Absolut positioniertes

@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Röhrenrechner der 1. Generation: BULL GAMMA 3</h2>
+    <h2>Röhrenrechner der 1. Generation: <b>BULL GAMMA 3</b></h2>
 
 	<div class="box left">
 		<img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg" alt="BULL GAMMA 3 Geschlossen" width="156" height="210" />

@@ -5,10 +5,10 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Univac 9200, Univac 9300</h2>
+    <h2>UNIVAC 9200, UNIVAC 9300</h2>
 	
 	
-	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. <br>
+	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann. Unser Rechner ist eigentlich eine "9200".<br>
 	Die Anlage wurde zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen begann die Arbeit mit dem gründlichen Säubern der Geräte. Bereits hier zeigten sich die Probleme: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives Glück) oder sie haben sich zu einer klebrigen, teerartigen Masse verändert (ausgesprochenes Pech). Wir mussten mit beidem kämpfen.<br>
 	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Überraschungen erwartet.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
 	
@@ -29,7 +29,7 @@
 		<p class="bildtext">UNIVAC 9300 Anlage mit abgenommener Verkleidung während der Restauration</p>
 	</div>
 		
-	<h5 id="lochkarten">UNIVAC 9200 Software</h5>
+	<h5 id="lochkarten">UNIVAC 9200/9300 Software</h5>
 		<p>Manchmal sind es die Zufälle im Leben, die zu unglaublichen Funden führen. So hat ein (neugieriger) Student der Goethe-Universität in Frankfurt eben dort in einem Gebäudeteil merkwürdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte Gebäude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.php#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen für unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut für Mathematik und angewandte Informatik verwendet. Einige Programme werden wir sicher zum Laufen bringen.<br>
 		Die Uni-Frankfurt sowie der <a href="http://www.fitg.de">"FITG" (Frankfurt)</a>  unterstützten uns bei der Bergung der historischen Funde.
 		<div class="box center auto-bildbreite">
@@ -65,6 +65,6 @@ Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für St�
 
 <p><b>19.10.2010:</b> Nachdem alle verfügbaren Testprogramme (im Lochkartenformat) problemlos laufen und keine Fehlermeldungen erfolgen, stellen wir fest: <b>Der Rechner ist o.k.</b>
 <p>Nun sind wir mit der Neukonstruktion des Speichers beschäftigt. Dies ist wichtig, da nicht davon auszugehen ist, dass der Drahtspeicher noch Jahrzehnte fehlerfrei arbeitet.
-<p><b>Febr. 2012:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwändigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM läuft die neue Speicherkarte noch nicht. Weitere Tests und Änderungen sind notwendig. Zum Glück funktioniert der Drahtspeicher immer noch einwandfrei.
+<p><b>2013:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwändigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM läuft die neue Speicherkarte noch nicht. Weitere Tests und Änderungen sind notwendig. Zum Glück funktioniert der Drahtspeicher immer noch einwandfrei.
 
-<p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Ausleihe von vielen Ersatzteilen für diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer möglich.</small>
+<p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Überlassung von vielen Ersatzteilen für diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer möglich.</small>

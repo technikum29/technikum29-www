@@ -40,7 +40,8 @@
 <nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/en/">Start</a></li>
-	<li><a href="/en/computer/electro-mechanical.php#COMPUTER_HISTORY">Computer History</a>
+	<li class="collapsible-button-after first"><!-- first wg. separierender Linien ab 25.12.2013 -->
+		<a href="/en/computer/electro-mechanical.php#COMPUTER_HISTORY">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/en/computer/electro-mechanical.php">Mechanical calculators</a>
 				<ul class="u3 geraete">
@@ -48,13 +49,27 @@
 					<li><a seiten_id="sprocket-wheel-machine" href="/en/devices/sprocket-wheel-machine.php">Sprocket wheel machine</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/computer/punchcard.php">Punch card computing</a>
+			<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php">Punch card computing</a>
 				<ul class="u3">
-					<li><a seiten_id="lochkarten" href="/en/computer/punchcard.php" title="Punchers and Periphery">Punchers</a></li>
+					<li><a href="/en/computer/punchcard.php#Card_puncher_devices" title="Card puncher devices">Punchers</a></li>
+					<li><a href="/en/computer/punchcard.php#reproducing">Reproducing Punch</a></li>
+					<li><a href="/en/computer/punchcard.php#Sorters">Sorters</a></li>
+					<li><a href="/en/computer/punchcard.php#Collators">Collators</a></li>
+					<li><a href="/en/computer/punchcard.php#Alphabetic_Interpreter">Alphabetic Interpreter</a></li>
+					<li><a href="/en/computer/punchcard.php#ANELEX_high_speed_printer">High speed printer</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/en/computer/tabulating-machine.php">Tabulating machine</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="punchcard-collator" href="/en/devices/punchcard-collator.php">The function of the punch card collator</a></li>
+					<li><a seiten_id="punchcard-sorter" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a></li>
+				</ul>
+			</li>
+			<li><a href="/en/computer/gamma3.php">Mainframes</a>
+				<ul class="u3">
 					<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
 					<li><a seiten_id="gamma10" href="/en/computer/gamma10.php">BULL GAMMA 10</a></li>
 					<li><a seiten_id="gamma55" href="/en/computer/gamma55.php">BULL GAMMA 55 (GE-55)</a></li>
+					<li><a seiten_id="ibm1130" href="/en/computer/ibm1130.php">IBM 1130</a></li>
 					<li><a seiten_id="univac9200" href="/en/computer/univac9200.php">UNIVAC 9200</a></li>
 					<li><a seiten_id="univac9400" href="/en/computer/univac9400.php">UNIVAC 9400</a>
 						<ul class="u4 geraete">
@@ -70,10 +85,6 @@
 							<li><a seiten_id="univac-werbung" href="/en/devices/univac9400/advertisement.php">Contemporary Advertisement</a></li>
 						</ul>
 					</li>
-				</ul>
-				<ul class="u3 geraete">
-					<li><a seiten_id="punchcard-collator" href="/en/devices/punchcard-collator.php">The function of the punch card collator</a></li>
-					<li><a seiten_id="punchcard-sorter" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="kommerzielle" href="/en/computer/commercial.php">Commercial Computers</a>

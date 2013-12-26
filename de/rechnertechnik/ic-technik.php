@@ -6,7 +6,7 @@
 	require "../../lib/technikum29.php";
 ?>
     <h2>Programmierbare Rechner der 3. Generation mit einfacher IC-Technik</h2>
-      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: <b>WANG 700</b> , dessen Verkaufspreis 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM bzw. 35.000 Euro betrug.
+      <p>Mit der Entwicklung der IC-Technik 1967/68 galoppierte auch die Entwicklung sehr leistungsfähiger Rechner. Hier ist u.a. der teuerste Tischrechner der Welt aufgebaut: <b>WANG 700</b> , dessen Verkaufspreis 1969 mit sehr umfangreicher Peripherie deutlich über 70.000,-DM (35.000 Euro) betrug.
       <br/>Weiterhin kann der erste alphanumerisch anzeigende Rechner (HP 9820, 1971) sowie der erste BASIC-programmierbare Tischrechner der Welt (HP 9830, 1972) vorgeführt werden. Mit diesen Systemen kann man herrlich Funktionsgraphen samt Beschriftung plotten. Drei Jahre zuvor war so etwas undenkbar! 1971 kamen auch die ersten wissenschaftlichen programmierbaren "Taschenrechner" mit der Größe einer Zigarrenkiste auf den Markt.
       </p>
 <h3>WANG 700</h3>

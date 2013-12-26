@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Lochkartengeräte</h2>
+    <h2>Lochkartengeräte und Peripherie</h2>
 
     <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Die hier aufgeführeten Lochkarten-Peripheriegeräte waren notwendig um effektiv mit EDV-Anlagen arbeiten zu können. Wir stellen daher zunächst die Peripherigeräte und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
 	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch viele dieser dinosaurierhaften Maschinen.</p>
@@ -73,7 +73,7 @@
             <b>IBM 514</b></p>
 			<p>Seit Dezember 2013 im technikum29: Gigantisch groß und gigantisch schwer, der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
 			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).<br><br>
-			<small>Dieses Gerät wurde uns freundlicherweise vom FITG (Frankfurt) übereignet.</small></p>
+			<small>Dieses Gerät wurde uns freundlicherweise vom <a target="_blank" href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>
 			</div>
 	
 <h3>Lochkartenmischer</h3>
@@ -106,7 +106,7 @@
         <p class="bildtext">
             <b>IBM 548</b></p>
 			<p>Ein riesiger Lochschriftübersetzer von IBM. Er kann 60 Karten/Minute nach vorgegebenen Kriterien in 60 Spalten auf der Kopfzeile beschriften. Der Übersetzer kennt nur alphanumerische Zeichen und keine Sonderzeichen. Dafür ist die Schrift relativ groß und sehr gut lesbar.<br>Vorne ist das Programmierfeld zu sehen.<br>
-			Nach dem Duplizieren von Lochkarten ist eine Beschriftung mittels IBM 548 sehr hilfreich.
+			Für unsere Zwecke ist dieser Übersetzer nur bedingt verwendbar da oft alle 80 Zeichen einer Lochkarte beschriftet werden müssen. 
         </p>
 	</div>
 

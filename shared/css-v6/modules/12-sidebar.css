@@ -30,6 +30,15 @@ nav.side .u1 > li > a {
 	padding: 5px 25px;
 }
 
+/* 25.12.2013: Kapitel durch Linien abtrennen */
+nav.side .u1 > li > a {
+	padding-top: 19px;
+	border-top: 2px solid /*#A07F60;*/ rgba(173,148,125,.8);
+}
+nav.side .u1 > li.first > a {
+	border-top: none; /* Nicht ueber erstem Eintrag (Computer History) */ 
+}
+
 nav.side .u2 {
 	margin: 0 0 20px 0;
 }
@@ -152,7 +161,7 @@ section.sidebar .button {
 	cursor: pointer;
 
 	/*font: 14px "Myriad Pro Light";*/
-	font-size: 14px;
+	font-size: 15px; /*  25.12.2013: .button.collapsed-menu in Navigation drinnnen */
 	text-transform: uppercase;
 	color: #a07f60;
 	font-weight: bold;
@@ -172,8 +181,14 @@ section.sidebar .button.get-menu {
 
 section.sidebar .button.collapse-menu {
 	/* Ein/Ausklapp-Button */
-	margin: 3em -25px 0 -25px;
+	/* Seit 25.12.2013 direkt zwischen den Navigationselemten, jeweils
+       nach li.collapsible-button-after. */
+	/*margin: 3em -25px 0 -25px;
+	padding: 5px 25px;*/
 	padding: 5px 25px;
+	margin: 0 -25px;
+	margin-top:  -10px;
+	margin-bottom: 20px;
 }
 
 html.fixed-menu nav.side .button.collapse-menu,

@@ -38,7 +38,7 @@
 <img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="405" />
 <p class="bildtext"><b>Ausschnitt. Die LC-Glieder sind deutlich zu erkennen</b></p>
 
-		<p>Ein wirklich historischer Speicher, der vor der Zeit der Kernspeicher zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet. Es handelt sich um den sogenannten "Rechenspeicher (M1)". <br><br>
+		<p>Ein wirklich historischer Speicher, der vor der Zeit der Kernspeicher zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet. Es handelt sich hier um einen sogenannten "Rechenspeicher (M1)". <br><br>
 		Im Prinzip besteht er aus einer Kette von 120 LC-Gliedern, die jeweils als Tiefpass geschaltet sind. In diesen bewegen sich Impulse langsamer als in normalen Leitern. Durch die starke Dämpfung der Impulse nach dem Durchlaufen von je 12 Tiefpässen ist eine Regeneration notwendig. Dazu dienen 10 Röhrenverstärker. Am Ende der Kette werden die  Informationen nochmals verstärkt und wieder am Beginn der Kette eingelesen. Sie laufen permanent durch die Verzögerungsleitung und sind damit gespeichert.<br>
 		Das hier abgebildete Speichermodul kann gerade mal eine 12-stellige Dezimalzahl speichern. Binär entspricht dies einer Speicherkapazität von 6 Byte!! In dieser frühen Phase der "Elektronischen Rechengeräte" war Speicherplatz extrem teuer und sehr voluminös.
 		</p>
@@ -130,5 +130,5 @@
 <div class="box left clear-after">
    <img src="/shared/photos/rechnertechnik/speichermedien/lochband-combitron.jpg" alt="Lochband der Combitron" width="424" height="322" />
    <p class="bildtext"><b>Metall-Lochband</b></p>
-	   <p>Wie in der Rubrik <a href="/de/geraete/programmierbare.php">programmierbare Tischrechner der 2. Generation</a> beschrieben, benutzte die DIEHL Combitron einen Laufzeitspeicher. Der ist jedoch flüchtig. Das "Betriebssystem" war auf einem 2 spaltigen Lochband abgespeichert, wobei die linke Lochreihe nur die Taktspur ist. Nach dem Einschalten wurde das Lochband  mit der Geschwindigkeit per Fotozelle abgefühlt, welche die Information seriell optimal dicht in den ersten Teil des Laufzeitspeichers schrieb. Wie man erkennt, ist die Informationsdichte auf dem Lochband extrem gering. Aber das war ja auch die Steinzeit der programmierbaren Rechner.
+	   <p>Wie in der Rubrik <a href="/de/rechnertechnik/programmierbare.php">programmierbare Tischrechner der 2. Generation</a> beschrieben, benutzte die DIEHL Combitron einen Laufzeitspeicher. Der ist jedoch flüchtig. Das "Betriebssystem" war auf einem 2 spaltigen Lochband abgespeichert, wobei die linke Lochreihe nur die Taktspur ist. Nach dem Einschalten wurde das Lochband  mit der Geschwindigkeit per Fotozelle abgefühlt, welche die Information seriell optimal dicht in den ersten Teil des Laufzeitspeichers schrieb. Wie man erkennt, ist die Informationsdichte auf dem Lochband extrem gering. Aber das war ja auch die Steinzeit der programmierbaren Rechner.
    </p></div>

@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>A second generation calculator:  BULL GAMMA&nbsp;10</h2>
+    <h2>A second generation calculator:  <b>BULL GAMMA&nbsp;10</b></h2>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/bull-gamma-10.jpg"

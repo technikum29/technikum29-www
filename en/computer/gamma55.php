@@ -6,7 +6,7 @@
 	require "../../lib/technikum29.php";
 ?>
     
-	<h2>A second generation calculator: The BULL GAMMA 55 (GE-55)</h2>
+	<h2>A second generation calculator: <b> BULL GAMMA 55</b> (GE-55)</h2>
 	
 	 <div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/bull-ge55.jpg" alt="BULL Gamma 55 Computer-Anlage" width="750" height="389" />

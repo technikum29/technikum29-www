@@ -57,7 +57,8 @@
 <nav class="side">
 <ul class="u1">
 	<li class="guide-only start"><a href="/de/">Start</a></li>
-	<li><a href="/de/rechnertechnik/elektro-mechanik.php">Computer History</a>
+	<li class="collapsible-button-after first"><!-- first wg. separierender Linien ab 25.12.2013 -->
+		<a href="/de/rechnertechnik/elektro-mechanik.php">Computer History</a>
 		<ul class="u2">
 			<li><a seiten_id="elektro-mechanik" href="/de/rechnertechnik/elektro-mechanik.php">Mechanische Rechenmaschinen</a>
 				<ul class="u3 geraete">
@@ -65,13 +66,23 @@
 					<li><a seiten_id="sprocket-wheel-machine" href="/de/geraete/sprossenradmaschine.php">Sprossenradmaschine</a></li>
 				</ul>
 			</li>
-			<li><a href="/de/rechnertechnik/lochkarten-edv.php">Lochkarten-EDV und gross-Computer</a>
+			<li><a seiten_id="lochkarten" href="/de/rechnertechnik/lochkarten-edv.php">Lochkartengeräte und Peripherie</a>
 				<ul class="u3">
-					<li><a seiten_id="lochkarten" href="/de/rechnertechnik/lochkarten-edv.php" title="Lochkartengeräte">Lochkartengeräte und Peripherie</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#Lochkartenstanzer">stanzer</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#Sortiermaschinen">Sortiermaschinen</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#doppler">doppler</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#Lochkartenmischer">mischer</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#Lochschriftübersetzer">übersetzer</a></li>
+					<li><a href="/de/rechnertechnik/lochkarten-edv.php#ANELEX_Schnelldrucker">Schnelldrucker</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/de/rechnertechnik/tabelliermaschine.php" title="BULL Tabelliermaschine">Tabelliermaschine</a></li>
+				</ul>
+			</li>
+			<li><a href="/de/rechnertechnik/gamma3.php">Gross-Computer und Rechenzentren</a>
+				<ul class="u3">
 					<li><a seiten_id="gamma3" href="/de/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL GAMMA 3">BULL Gamma 3</a></li>
 					<li><a seiten_id="gamma10" href="/de/rechnertechnik/gamma10.php" title="EDV-Anlage der 2. Generation: BULL GAMMA 10">BULL Gamma 10</a></li>
 					<li><a seiten_id="gamma55" href="/de/rechnertechnik/gamma55.php" title="Gamma 55 (GE 55)">BULL GAMMA 55 (GE-55)</a></li>
+					<li><a seiten_id="ibm1130" href="/de/rechnertechnik/ibm1130.php" title="IBM 1130">IBM 1130</a></li>
 					<li><a seiten_id="univac9200" href="/de/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200</a></li>
 					<li><a seiten_id="univac9400" href="/de/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a>
 						<ul class="u4 geraete">
@@ -213,7 +224,7 @@
 			</li>
 			<li><a href="/de/sonstiges.php#kinomaschine">Kinomaschine</a></li>
 			
-				<li><a href="/de/lehrerinfo.php">Didaktik</a></li>
+				<li><a href="/de/lehrerinfo.php">Informationen für Lehrer</a></li>
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>

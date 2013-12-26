@@ -49,9 +49,14 @@ t29.menu.Collapsible = function(arglist) {
 
 	// default values
 	if(!this.button) // button widget
+		this.button_box = $('<li class="button-box"></li>'); // in nav.side
+		this.button_box.appendTo("nav.side li.collapsible-button-after");
+	
 		this.button = $('<span class="button collapse-menu"></span>')
-		              .addClass('for-'+this.id).appendTo("nav.side");
-	if(!this.label) { // button label
+		              .addClass('for-'+this.id).//appendTo("nav.side");
+					                            appendTo(this.button_box);	
+					  
+    if(!this.label) { // button label
 		this.label = {};
 		this.label[t29c.FOLD] = t29._("js-menu-collapse-out");
 		this.label[t29c.EXPAND] = t29._("js-menu-collapse-in");

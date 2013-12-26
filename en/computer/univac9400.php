@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>UNIVAC mainframe computer, data center</h2>
+    <h2><b>UNIVAC 9400</b> mainframe computer, data center</h2>
 
     <div class="box center" style="position:relative;">
         <!-- Direkt kopiert von deutscher Datei, siehe dort -->

@@ -7,7 +7,7 @@
 ?>
     <h2 id="pdp8L">Wissenschaftliche Rechner und Minicomputer</h2>
 	
-	<h3 id="lpg21">Schoppe & Faeser:  LGP-21 </h3>
+	<h3 id="lpg21">Schoppe & Faeser:  <b>LGP-21</b> </h3>
 
 	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
 	<!-- Implementierung dafür steht im common.css, Zeile 300ff. -->
@@ -49,10 +49,10 @@
 
 	Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.php">Geschichte von Digital (DEC)</a> aufgelistet.
 
-	<h3 id="pdp8">Classic PDP-8</h3>
+	<h3 id="pdp8">Classic <b>PDP-8</b></h3>
 			
 	<div class="box left clear-after">
-		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="560" alt="PDP 8 Classic" />
+		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="560" alt="PDP-8" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp8-fluegel.jpg" width="400" height="345" alt="PDP-8 Flügel" />   
 
@@ -230,7 +230,7 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 	</div>
    
    
-   <h3 id="nova">Data General: NOVA 2</h3>
+   <h3 id="nova">Data General: <b>NOVA 2</b></h3>
    
    <div class="box left">
       <img src="/shared/photos/rechnertechnik/nova2.jpg" width="400" height="561" alt="Data General: NOVA 2 Anlage" />

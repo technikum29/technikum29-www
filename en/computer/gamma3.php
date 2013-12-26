@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>A first generation tube calculator: BULL GAMMA 3</h2>
+    <h2>A first generation tube calculator: <b>BULL GAMMA 3</b></h2>
 
     <div class="box left clear-after">
       <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"

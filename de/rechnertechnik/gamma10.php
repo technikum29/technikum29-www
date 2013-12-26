@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>EDV-Anlage der 2. Generation: BULL GAMMA 10</h2>
+    <h2>EDV-Anlage der 2. Generation: <b>BULL GAMMA 10</b></h2>
  
  
 	<div class="box center auto-bildbreite">

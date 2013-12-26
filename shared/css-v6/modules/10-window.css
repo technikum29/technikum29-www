@@ -46,7 +46,7 @@ nav a:focus { outline: none; }
 
 /* Content */
 #content {
-	padding: 30px 40px 60px;
+	padding: 60px 40px 60px; /* 25.12.2013: Oben mehr Platz */
 	width: 860px;
 	float: left;
 	color: black;

@@ -111,9 +111,14 @@ data processing.</p>
         <p class="bildtext">
             <b>IBM 514</b></p>
 			
-			<p>......will be translated soon</p>
-			<p>Seit Dezember 2013 im technikum29: Gigantisch groß und gigantisch schwer, der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
-			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).</p>
+			<p>New in December 2013: Huge and incredibly heavy - an IBM card doubler from the
+1950s. This grand machine's purpose was just to copy punched cards or to 
+'double' them. Due to the stress of handling, punched cards had to be copied
+regularly. 
+<br>Of course, there are some additional functions implemented, although
+there is no function to print plaintext on the card, which would have been a
+nice feature, but this is where the IBM 548 translator comes into play. 
+A more detailed description will follow soon.</p>
 			</div>
 	
 	<h3>Sorters</h3>

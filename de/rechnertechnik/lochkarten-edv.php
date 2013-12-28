@@ -72,7 +72,8 @@
         <p class="bildtext">
             <b>IBM 514</b></p>
 			<p>Seit Dezember 2013 im technikum29: Gigantisch groß und gigantisch schwer, der Lochkartendoppler von IBM aus den 50er Jahren. Dieses stattliche Gerät war nur dazu da um Lochkarten zu duplizieren. Natürlich sind auch noch ein paar zusätzliche Funktionen vorhanden.<br>
-			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).<br><br>
+			Durch die starke mechanische Beanspruchung der Lochkarten während des täglichen Betriebes mussten diese nach einer gewissen Zeit erneuert werden. Der Doppler kann jedoch die Karten nicht gleichzeitig beschriften. Dazu war dann ein Lochschriftübersetzer wie z.B. der IBM 548 notwendig (siehe weiter unten).<br>
+			Eine Fortsetzung der Beschreibung erfolgt nach der Reparatur.<br><br>
 			<small>Dieses Gerät wurde uns freundlicherweise vom <a target="_blank" href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>
 			</div>
 	

@@ -6,7 +6,7 @@
 	require "../../lib/technikum29.php";
 ?>
    
-	<h2><b>IBM 1130</b>    Computing System</h2>
+	<h2 id="ibm1130"><b>IBM 1130</b>  &nbsp;  Computing System</h2>
 
     <div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />

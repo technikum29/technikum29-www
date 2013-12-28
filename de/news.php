@@ -4,7 +4,10 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
-	
+- titel: "Neu: IBM 1130 Anlage"
+  text: "Eine neue Herausforderung"
+  link: "#Januar_2014"
+  
 - titel: "Neuzugang: Lochkartendoppler"
   text: ""
   link: "#Dezember_2013"
@@ -21,16 +24,6 @@
   text: "Technik und Kunst"
   link: "#Mai_2013" 
 	
-- titel: "Experimentieren im technikum"
-  text: ""
-  link: "#Mai_2013"  
-	
-- titel: "Lochkartenstanzer IBM026"
-  text: ""
-  link: "#April_2013"
-	
-
-
   
 MENU;
 // ende der menue-Eintraege
@@ -43,6 +36,16 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>Januar 2014</h3>
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130" width="225" height="194" />
+		
+		Eine neue Herausforderung: <a href="/de/rechnertechnik/ibm1130.php#1130"><br>
+		<b>lesen Sie hier weiter</b></a> 
+		</div>
+
+
 
 <li><h3>Dezember 2013</h3>
 
@@ -86,14 +89,6 @@ BULL GAMMA 55 läuft! Ein historischer Moment, <a href="/de/rechnertechnik/gamma
 	Selbst experiementieren im technikum29, lesen Sie <a href="/de/lehrerinfo.php#experimente" width="150" height="99"><b> hier:</b></a><br>
 	</div>
 
-
-
-<li><h3>April 2013</h3><br>
-<div class="box left clear-after">
-<img src="/shared/photos/rechnertechnik/ibm26.jpg" width="300" height="287" />
-Den nun ältesten Lochkartenstanzer im technikum29 finden Sie <a href="/de/rechnertechnik/lochkarten-edv.php#026"><b>hier:</b></a><br>
-
-</div>
 
 
 

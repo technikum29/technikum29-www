@@ -17,12 +17,7 @@
 
 	<li><b>2.</b> Sie dehnen den Besuch auf 2 bis 3 Stunden aus. Dann nehmen die Schüler zusätzlich an einer interessanten "Rallye" mit vielen eigenen Experimenten teil. Hier werden sie in Gruppen aktiv, arbeiten an  historischen Geräten, experimentieren und knacken knifflige Spiele (siehe unten).</li> </ul>
 	
-	<div class="desc-right">
-    <img src="/shared/photos/start/praesentationsecke-gross.jpg" alt="Präsentationsmöglichkeiten im technikum29" width="360" height="268" />
-    <p style="width:360px;">
-        Präsentationsmöglichkeit im technikum29
-    </p>
-</div>
+	
 	
 	<p>Was sind "interessierte" Schülergruppen? <br>
 	<ul>

@@ -11,13 +11,7 @@
 <p>This page lists some of our development projects where old hardware meets modern
 computer equipment. All projects are selfmade, with partly enormous hardware and
 software efforts, like routed PCBs, kernel drivers and microcontrollers.
-<br/>Upcoming projects:</p>
-<ul>
-  <!-- Done: -->
-  <!--<li>punch card I/O with AVR ATmega microcontrollers via RS232 to computers,
-      Qt platform independent processing, with various hardware</li>-->
-  <li>Anelex printer interface to the Bull Gamma 10 computer (uC based)</li>
-</ul>
+
 <br/>
 
 <h3><a name="papertape"></a>Paper tape processing with contemporary computers</h3>

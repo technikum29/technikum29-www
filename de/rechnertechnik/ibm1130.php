@@ -20,7 +20,7 @@
 		<br>
 		<p>Seit Dezember 2013 sind wir im Besitz einer sehr schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert.<br>
 		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
-		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung der Anlage. Lesen Sie demnächst mehr an dieser Stelle. </p>
+		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung. Lesen Sie demnächst mehr an dieser Stelle. </p>
 		
 		<br>
 		<p><small>Diese Anlage wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>

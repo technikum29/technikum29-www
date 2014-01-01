@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'ibm1130';
 	$version = '$Id: ibm1130.php 271 2013-04-23 19:23:24Z heribert $';
-	$titel = 'IBM 1130 Elektronische Rechenanlage';
+	$titel = 'IBM 1130 Computing System';
 	
 	require "../../lib/technikum29.php";
 ?>

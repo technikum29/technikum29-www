@@ -41,7 +41,7 @@ MENU;
 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130" width="225" height="194" />
 		
-		Eine neue Herausforderung: <a href="/de/rechnertechnik/ibm1130.php#1130"><br>
+		IBM 1130, eine neue Herausforderung: <a href="/de/rechnertechnik/ibm1130.php#1130"><br>
 		<b>lesen Sie hier weiter</b></a> 
 		</div>
 

@@ -98,11 +98,7 @@ More information about this interesting and rare system will follow.</p>
 	<p>For further reading see the story about <a class="go" name="backlink-dec"
 	href="/en/devices/dec-history.php">Rise and Fall of DIGITAL (Equipment Corporation)</a>.</p>
 
-    <!--alter Text: The legendary Classic PDP 8 from the company DEC (year of manufacture 1965) can be admired among others. Furthermore you can see the PDP 8L or <a class="go" href="/en/devices/pdp_8I.php">PDP 8I</a> (year of manufacture 1967, a lot of periphery) and the laboratory computer <a class="go" href="/en/devices/lab_8e.php">LAB8e</a> (1971).
-    Because of constantly growing claims for storage capacity, backing storage (19-zoll drawers for 4kB with a weight of 20kg) was offered. The PDP 8I could not administrate more than 32kB.
-    <br />THe PDP 8L, a trimmed-down version of the PDP 8I, cannot hold more than 8 kB.</p> -->
-
-    <h3>Classic PDP-8</h3>
+    <h3 id="pdp8">Classic PDP-8</h3>
 	<div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8.jpg" width="400" height="560" alt="PDP 8 Classic" />
 		<img style="clear:left" src="/shared/photos/rechnertechnik/dec/pdp-8,pannel.jpg" width="400" height="300" alt="PDP-8 Bedienungspannel" />
@@ -154,7 +150,7 @@ More information about this interesting and rare system will follow.</p>
    
    
  
-  <h3>PDP-8I</h3>
+  <h3 id="pdp8i">PDP-8I</h3>
     <div class="box left">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" />
 	</div>
@@ -351,7 +347,7 @@ or: <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,hell.jpg">
 <div class="clear">
 </div>
 
-	 <h3 id="8e">Lab-8e, PDP-8e</h3>
+	 <h3 id="lab8e">Lab-8e, PDP-8e</h3>
 	<div class="box left">
 		<img src="/shared/photos/rechnertechnik/dec/lab8e.jpg" width="400" height="461" alt="DEC LAB-8e" />
 	</div>
@@ -439,7 +435,7 @@ Hardware configuration, from top to bottom:<br>
  </div>
  
  
-    <h3>WANG 2200 with bulky peripheral hardware</h3>
+    <h3 id="wang2200">WANG 2200 with bulky peripheral hardware</h3>
     <p>Next, the first system that looks like today's computer is presented: <a class="go" href="/en/devices/wang2200.php">WANG 2200</a>, year of manufacture 1973. This computer, with so many peripheral devices, is probably unique in Germany. The peripherals: paper tape reader, punch card reader,  triple 8-inch disc drive, hard disc system with 38cm diameter disks (the device weights 100kg and cost 24000 DM, but only holdy 5MB), special BASIC-language keyboard, etc.</p>
     <p>WANG quickly recognized that the future of computers needed screens. However the concurrent HP
     computers had only a single-line LED display until 1975.</p>
@@ -450,6 +446,7 @@ Hardware configuration, from top to bottom:<br>
 
     <p>The first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>
      
-     <p>See further details at <a class="go" href="/en/details2.php" title="Details 2">the tabular overview of
+    <p> See further details at <br>
+	 <a class="go" href="/en/details2.php" title="Details 2"> the tabular overview of
      mid range data processing equipment and proffessional early computers</a>.</p>
 

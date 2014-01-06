@@ -29,15 +29,16 @@
 	
 	<h3>Olivetti Programma 101</h3>
 
-    <p>In the same year the Olivetti Programma 101 came onto the market. For the first time in
+    <div class="box left clear-after">
+       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
+       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. <a class="go" href="storage-media.php#run-time-memory">Delay line memory</a> was used as storage media.</p>
+	   
+	    <p>In the same year the Olivetti Programma 101 came onto the market. For the first time in
     EDP history, engineering offices were able to buy a "small" calculator on which you could
     quickly save own programs on magnetic cards. This machine with many mechanical parts, became
 	a big seller.  However, the device was very expensive, but the price of 14800 DM + fees
 	(ca. 8000 Euro) paid for itself in saved manual calculating time.</p>
-
-    <div class="box left clear-after">
-       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
-       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. <a class="go" href="storage-media.php#run-time-memory">Delay line memory</a> was used as storage media.</p>
+	   
     </div>
 
 	<h3>WANG 320</h3>

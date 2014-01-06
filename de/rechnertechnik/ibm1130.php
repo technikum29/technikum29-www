@@ -22,5 +22,4 @@
 		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
 		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung. Lesen Sie demnächst mehr an dieser Stelle. </p>
 		
-		<br>
 		<p><small>Diese Anlage wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>

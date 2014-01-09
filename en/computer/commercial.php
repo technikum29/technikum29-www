@@ -13,7 +13,15 @@
     <div class="box right clear-after">
        <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
        <div class="bildtext">
-          <p>In 1968 the Olivetti P 101 with enlarged memory capacity was coupled with an electric typewriter which led to a system capable of printing the results of computations directly. This system is of a remarkable design and won quite some prizes for Olivetti in its time. Later machines made by Olivetti departed from that and were packaged in simple cubic enclosures.</p>
+          <p>In 1968, P101 which has been extended with more memory, was coupled to a
+typewriter. This made it possible to print tables and the like automatically.
+It is interesting to note that the computer was only capable to print numbers -
+text data had to be typed manually on the keyboard.<br>
+ One of the most remarkable features of this 'computer' is its enclosure. It
+was designed by the Italian designer 'Mario Bellini' and got quite some awards.
+Even today the style of the machine is admired by many. <br>
+ Unfortunately, Olivetti dropped this design and later machines were just plain
+cubes in the style of the 1970s.</p>
         </div>
     </div>
 

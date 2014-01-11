@@ -8,17 +8,13 @@
 
    <h2>Was das Museum noch sucht</h2><br>
    
-   <p><b>In Kürze erhalten wir eine komplette IBM 1130  ("Elektronische Rechenanlage"), Bj. ca. 1965/66.<br>
-   Für diesen Computer suchen wir alles, was noch aufzutreiben ist: Manuals, Programme und insbesondere Platinen mit den kleinen Monolith-ICs</b>.<br>
-   Ehemalige IBM-Techniker: Bitte stöbern Sie in Ihrem Keller, ob sich noch etwas findet. Vielen Dank!</p>
+   <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm-4628-7342.jpg" alt="Gesuchte Boards" width="448" height="231" class="nomargin-bottom" />
+        <p class="bildtext">
+   Für unsere <b>IBM 1130</b> Anlage suchen wir dringend die Boards "4628" (16-Bit-Register) sowie "7342" (Adressentreiber) von IBM. Hilfreich wären auch die Schaltpläne dieser Boards. Bitte melden Sie sich, wenn Sie hier weiter helfen können!<br><br>
+   Auch andere Boards mit SLT-Technik könnten wir gut gebrauchen.</p></div>
    <br><hr><br>
    
-<div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/digicorder.jpg" alt="IME Digicorder" width="299" height="374" class="nomargin-bottom" />
-        <p class="bildtext">
-   Wir suchen zum Tischrechner IME 86 den <b>Digicorder DG 408 oder 308.</b><br>
-   Bei Bedarf stehen Tauschobjekte zur Verfügung.</p>
-</div>
 	
 		
 	<h3>Geräte, Manuals und Bauteile</h3><br>

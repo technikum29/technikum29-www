@@ -34,7 +34,7 @@
 		<div class="desc-left">
 		<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-board.jpg">
 	<img src="/shared/photos/rechnertechnik/ibm-1130-board.jpg" alt="Modul der IBM1130" width="195" height="247" /></a>
-	<p class="small">Typisches <b>SLT-Modul</b>. Den Schaltplan darunter hat IBM auf Schnelldruckern herge- stellt. Nachteil: Schwer lesbar da alle Logikelemente gleich aussehen.<br>
+	<p class="small">Typisches <b>SLT-Modul</b>. Den Schaltplan hat IBM auf Schnell- druckern hergestellt. Nachteil: Schwer lesbar da alle Logik- elemente gleich aussehen.<br>
 	Vergrößern: Bild anklicken!</p></div>
 		
 		<p class="small">
@@ -54,6 +54,8 @@
 		
 		<b>8.1.2014:</b> Der 2. Fehler (6.1.) war relativ schnell gefunden: Im 2. Speichermodul fehlte ein (von 18) "Headconnector" der entsprechende Verbindungen von den Boards zum Kernspeichermodul herstellt. Vollkommen unklar, wie so ein Modul verschwinden kann.<br>
 		Der 1. Fehler ist ein tückischer Fehler in der Speicheradressierung, das ist eine harte Nuss!<br><br>
+		
+		<b>11.1.2014:</b> Die harte Nuss entpuppt sich als starker Frust! Die Adressrechnung für den Speicher läuft falsch, da der Treiber für die Adressen 11, 12, 13, 14 fehlt. Das verantwortliche Board 7342 ist nicht vorhanden. Das ist so das Schlimmste, was passieren kann. Nach gründlicher Überprüfung zeigte sich, dass auch das 16-Bit Pufferregister (4628) für den Drucker fehlt. In der Rubrik "Gesucht" sind die Boards abgebildet. Wenigstens die Schaltpläne hierzu sollten gefunden werden, um die Boards gegebenenfalls nachzubauen. Wer hier helfen kann, möge sich bitte melden! Vielen Dank.
 		
 		</small>
 		<p>Fortsetzung folgt</p>

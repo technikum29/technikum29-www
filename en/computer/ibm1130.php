@@ -36,7 +36,7 @@ if we knew in advance how many bugs there are to resolve.</p><br>
 		<div class="desc-left">
 		<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-board.jpg">
 	<img src="/shared/photos/rechnertechnik/ibm-1130-board.jpg" alt="Modul der IBM1130" width="195" height="247" /></a>
-	<p class="small">Typical <b> SLT-module </b>. The circuit diagram IBM was printed on speed printers. Disadvantage: heavy to read because all logic elements look identical. <br>Enlarge: click on picture!</p></div>
+	<p class="small">Typical <b> SLT-module </b>. The IBM circuit diagram was printed on high-speed printers.<br>Disadvantage: heavy to read because all logic elements look identical. <br>Enlarge: click on picture!</p></div>
 		
 		<p class="small">
 		

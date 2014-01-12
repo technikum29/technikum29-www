@@ -64,7 +64,7 @@
 			
                 <li> Zur Zeit sind nur Gruppenanmeldungen mit mindestens 8 Personen möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen können jedoch ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammenkommen wird eine Führung angeboten (meistens Sonntags um 14 Uhr). <br>
-				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse, eine Gruppenführung kostet pauschal 50 Euro. Für Schüler und Studenten sind Führungen kostenlos.<br>
+				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten sind Führungen kostenlos.<br>
 				
 					</li>
             </ul>

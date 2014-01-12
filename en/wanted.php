@@ -8,10 +8,12 @@
     <h2>We are looking for...</h2><br>
 
 
-<p><b>We soon get a complete IBM 1130 ("electronic computing system"), built circa 1965/66.
-Therefore we are looking for anything that can be raise for this computer: Manuals, programs and boards especially with the small monolithic ICs.</b><br>
-Old IBM engineers: Please browse through your basement, whether you still can find something about IBM 1130 System. Thank you very much!</p>
-<br><hr><br>
+ <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/ibm-4628-7342.jpg" alt="Gesuchte Boards" width="505" height="261" class="nomargin-bottom" />
+        <p class="bildtext">
+   We are urgently looking for the Boards "4628" (16 bit register) and "7342" (address driver) from IBM for our <b> IBM 1130 </b> system. It would be helpful to have the schematics for these boards. If you can help, please let us know! <br>
+Also other boards with SLT technology, we could well use. </p> </div>
+<br> <hr> <br>
 
 
 	<h3>Devices and Manuals</h3>

@@ -41,7 +41,7 @@
 		
 		<b>Dezember 2013:</b> Wie bei "neuen" Anlagen üblich, werden diese erst einmal gründlich gesäubert und von den verklebten oder zerfallenen Schaumgummimatten (zu Schalldämmung) befreit. Danach erfolgt der grobe optische Test auf Vollständigkeit der Anlage.<br><br>
 		
-		<b>30.12.2013:</b> Die Neugierde ist groß, daher wird am Anfang viel Zeit investiert! Nachdem die Installation des Memory´s mit 16 kB Kapazität erfolgt ist, kam der erste Einschaltvorgang (ohne Peripherie). Keine Sicherung verabschiedete sich, keine Rauchwolken stiegen empor....immerhin. Die Netzteilspannungen waren o.k. Nur der Konsolendrucker, eine IBM Kugelkopfschreibmaschine, machte lautstark einen dauernden Wagenrücklauf. Also schnell wieder ausschalten......<br><br>
+		<b>30.12.2013:</b> Die Neugierde ist groß, daher wird am Anfang viel Zeit investiert! Nachdem die Installation des Memory´s mit 16 kW Kapazität (bei einer Wortbreite von 16 Bit entspricht das 32 kB) erfolgt ist, kam der erste Einschaltvorgang (ohne Peripherie). Keine Sicherung verabschiedete sich, keine Rauchwolken stiegen empor....immerhin. Die Netzteilspannungen waren o.k. Nur der Konsolendrucker, eine IBM Kugelkopfschreibmaschine, machte lautstark einen dauernden Wagenrücklauf. Also schnell wieder ausschalten......<br><br>
 		
 		<b>2.1.2014:</b> Der Konsolendrucker musste ausgebaut und separat placiert werden.<br> Um die Anlage zu schonen wurde er unmittelbar an die Netzspannung angeschlossen. Nach ca. 3 Stunden Suchen war der Fehler gefunden: 4 durch Federn gehaltene Blättchen (kaum sichtbar) waren durch verharztes Öl unbeweglich. Nach der "Entfettung" und neuer Ölzufuhr (W40) war der Fehler behoben.<br><br>
 		
@@ -52,10 +52,10 @@
 		2.  Im "oberen" Bereich des Speichers entstehen Paritätsfehler, d.h. 2 von 15 Bits fehlen.<br>
 		.....Das fängt ja gut an.....<br><br>
 		
-		<b>8.1.2014:</b> Der 2. Fehler (6.1.) war relativ schnell gefunden: Im 2. Speichermodul fehlte ein (von 18) "Headconnector" der entsprechende Verbindungen von den Boards zum Kernspeichermodul herstellt. Vollkommen unklar, wie so ein Modul verschwinden kann.<br>
+		<b>8.1.2014:</b> Der 2. Fehler (6.1.) war relativ schnell gefunden: Im 2. Speichermodul fehlte ein (von 18) "Headconnector" der entsprechende Verbindungen von den Boards zum Kernspeichermodul herstellt. Vollkommen unklar, wie so ein Teil verschwinden kann.<br>
 		Der 1. Fehler ist ein tückischer Fehler in der Speicheradressierung, das ist eine harte Nuss!<br><br>
 		
-		<b>11.1.2014:</b> Die harte Nuss entpuppt sich als starker Frust! Die Adressrechnung für den Speicher läuft falsch, da der Treiber für die Adressen 11, 12, 13, 14 fehlt. Das verantwortliche Board 7342 ist nicht vorhanden. Das ist so das Schlimmste, was passieren kann. Nach gründlicher Überprüfung zeigte sich, dass auch das 16-Bit Pufferregister (4628) für den Drucker fehlt. In der Rubrik "Gesucht" sind die Boards abgebildet. Wenigstens die Schaltpläne hierzu sollten gefunden werden, um die Boards gegebenenfalls nachzubauen. Wer hier helfen kann, möge sich bitte melden! Vielen Dank.
+		<b>11.1.2014:</b> Die harte Nuss entpuppt sich als starker Frust! Die Adressrechnung für den Speicher läuft falsch, da der Treiber für die Adressen 11, 12, 13, 14 fehlt. Die verantwortliche Steckkarte 7342 ist nicht vorhanden. Das ist so das Schlimmste, was passieren kann. Nach gründlicher Überprüfung zeigte sich, dass auch das 16-Bit Pufferregister (4628) für den Drucker fehlt. In der Rubrik "Gesucht" sind die Steckkarten abgebildet. Wenigstens die Schaltpläne hierzu sollten gefunden werden, um die Karten gegebenenfalls nachzubauen. Wer hier helfen kann, möge sich bitte melden! Vielen Dank.
 		
 		</small>
 		<p>Fortsetzung folgt</p>

@@ -43,8 +43,7 @@ if we knew in advance how many bugs there are to resolve.</p><br>
 		<b>Dec.2013:</b>  Cleaning the machine and removing disintegrated foam rubber mats.<br><br>
 		
 		<b>30.12.2013:</b> Due to curiosity we already invested much time. After installing
-16 kW memory (with a word length of 16 bits it is equivalent to 32 kB) the first power on was attempted: No magic smoke escaping - a
-big success! Nevertheless, the console typewriter banged its type head
+32 kB memory (with a word length of 16 bits) the first power on was attempted: No magic smoke escaping - a big success! Nevertheless, the console typewriter banged its type head
 repeatedly at the left margin so we switched off quickly.<br><br>
 		
 		<b>2.1.2014:</b> Removal of the console typewriter for easier maintenance. After

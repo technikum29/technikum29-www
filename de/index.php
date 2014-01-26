@@ -80,28 +80,26 @@
 		
 </div><!--cools-->
 
-<div class="clear">&nbsp;</div>
+<div class="clear">&nbsp;</div>  
 
 
-<!--
 
 <div id="termine" class="termine">
 
-<h2><big>Termine</big></h2>
+<h3><big>Termine</big></h3>
 
-<b>Computer-History</b>
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2013</em> 24. Nov.</p>	</div>
+			<p class="date"><em>2014</em> 9. Feb.</p>	</div>
 			
-<p>Unsere legendäre Führung über die Entwicklung von Computern ab der Stunde Null. Auch für interessierte Kids ab ca. 11 Jahre gut geeignet.<br>
-Termine: Sonntag, der 27. Oktober um 14 Uhr und Sonntag, der 10. November um 14 Uhr </div></div>
-</p>
+<p><b>Computer-History</b><br>Unsere legendäre und interessante Führung über die Entwicklung von Computern ab der Stunde Null. Auch für Kids ab ca. 11 Jahre gut geeignet.<br>
+Termin: Sonntag, der <b>9. Februar um 14 Uhr</b><br>
+    Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+	<h3>  </h3>
+</p></div></div>
 
-<hr>
-Für diese Veranstaltungen ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
-		
+
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->
 	

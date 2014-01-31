@@ -9,9 +9,9 @@
    <h2>Was das Museum noch sucht</h2><br>
    
    <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/ibm-4628-7342.jpg" alt="Gesuchte Steckkarten" width="505" height="261" class="nomargin-bottom" />
+        <img src="/shared/photos/rechnertechnik/ibm7342.jpg" alt="Gesuchte Steckkarten" width="191" height="261" class="nomargin-bottom" />
         <p class="bildtext">
-   Für unsere <b>IBM 1130</b> Anlage suchen wir dringend die Steckkarten "4628" (16-Bit-Register) sowie "7342" (Adressentreiber) von IBM. Hilfreich wären auch die Schaltpläne dieser Karten. Bitte melden Sie sich, wenn Sie hier weiter helfen können!<br><br>
+   Für unsere <b>IBM 1130</b> Anlage suchen wir dringend die Steckkarte "7342" (Adressentreiber) von IBM. Hilfreich wären auch der Schaltplan dieser Karte. Bitte melden Sie sich, wenn Sie hier weiter helfen können!<br><br>
    Auch andere Platinen mit SLT-Technik könnten wir gut gebrauchen.</p></div>
    <br><hr><br>
    

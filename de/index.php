@@ -90,19 +90,18 @@
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 2. Feb.</p>	</div>
-			
-<b>Computer-History</b><br>Exklusiv-Führung für Leser der Frankfurter Rundschau (Zeitungsartikel vom 28.1.)<br>
-Termin: Sonntag, der <b>2. Februar um 14 Uhr</b><br>
-Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
-
-<div class="box termin clear-after">
-		<div class="left">
 			<p class="date"><em>2014</em> 9. Feb.</p>	</div>
 			
 <b>Computer-History</b><br>Unsere legendäre und interessante Führung über die Entwicklung von Computern ab der Stunde Null. Auch für Kids ab ca. 11 Jahre gut geeignet.<br>
 Termin: Sonntag, der <b>9. Februar um 14 Uhr</b><br>
     Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 16. Feb.</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Sonntag, der <b>16. Februar um 14 Uhr</b><br>
+Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 	<h3>  </h3>
 </div></div>
 

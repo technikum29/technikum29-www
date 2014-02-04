@@ -102,6 +102,15 @@ Termin: Sonntag, der <b>9. Februar um 14 Uhr</b><br>
 	<b>Computer-History</b><br>
 Termin: Sonntag, der <b>16. Februar um 14 Uhr</b><br>
 Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 23. Feb.</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Sonntag, der <b>23. Februar um 14 Uhr</b><br>
+Exklusiv-Führung für FR-Leser (Stadtgebiet Franfurt/Offenbach). Auch für technikbegeisterte Kids ab ca. 11J. gut geeignet.<br>
+Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+
 	<h3>  </h3>
 </div></div>
 

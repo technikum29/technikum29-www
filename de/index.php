@@ -88,13 +88,6 @@
 
 <h3><big>Termine</big></h3>
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 9. Feb.</p>	</div>
-			
-<b>Computer-History</b><br>Unsere legendäre und interessante Führung über die Entwicklung von Computern ab der Stunde Null. Auch für Kids ab ca. 11 Jahre gut geeignet.<br>
-Termin: Sonntag, der <b>9. Februar um 14 Uhr</b><br>
-    Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 	
 	<div class="box termin clear-after">
 		<div class="left">
@@ -108,7 +101,7 @@ Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href
 			<p class="date"><em>2014</em> 23. Feb.</p>	</div>
 	<b>Computer-History</b><br>
 Termin: Sonntag, der <b>23. Februar um 14 Uhr</b><br>
-Exklusiv-Führung für FR-Leser (Stadtgebiet Franfurt/Offenbach). Auch für technikbegeisterte Kids ab ca. 11J. gut geeignet.<br>
+Exklusiv-Führung für FR-Leser. Auch für technikbegeisterte Kids ab ca. 11J. gut geeignet.<br>
 Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 
 	<h3>  </h3>

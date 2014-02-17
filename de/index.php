@@ -88,13 +88,6 @@
 
 <h3><big>Termine</big></h3>
 
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 16. Feb.</p>	</div>
-	<b>Computer-History</b><br>
-Termin: Sonntag, der <b>16. Februar um 14 Uhr</b><br>
-Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 
 	<div class="box termin clear-after">
 		<div class="left">

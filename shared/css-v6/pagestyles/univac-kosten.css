@@ -1,0 +1,20 @@
+/* Navi-Hintergrunende wie in t29v5 */
+
+#background-color-container {
+	background-image: url(/shared/img/fresh.design/dev/use20469.png);
+}
+
+#content {
+	padding-bottom: 400px;
+	position: relative;
+}
+
+.autobild {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+section.sidebar.top {
+	background-color: rgba(255,255,255,.4);
+}

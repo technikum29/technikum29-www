@@ -95,6 +95,14 @@
 
 	<div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2014</em> 22. Feb.</p>	</div>
+	<b>Workshop "Computer-History" für Kids zwischen 10 und 13</b><br>
+Termin: Samstag, der <b>22. Februar von 14 bis 16 Uhr</b><br>
+Spezialführung für technikinteressierte Kids (auch mit Vater/Mutter) und Jugendliche mit anschließendem Experimentieren. Anmeldung bei der evangelischen Familienbildung Tel. 06196-560180<br>
+
+	
+	<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2014</em> 23. Feb.</p>	</div>
 	<b>Computer-History</b><br>
 Termin: Sonntag, der <b>23. Februar um 14 Uhr</b><br>

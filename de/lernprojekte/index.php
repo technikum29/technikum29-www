@@ -16,7 +16,7 @@ Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.php">das Pr
 <p>Microcontroller revolutionieren die Welt, wie an Schulen zukunftsweisende Projekte geplant und ausgeführt werden können.<br>
 Worum geht es? <br>
 6 Schüler der Q1 (früher 12. Klasse) des Albert-Einstein-Gymnasiums in Schwalbach suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29  an.  
-Ziel war es, die Technik der 50er Jahre an die des Jahres 2012 anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!<br>
+Ziel war es, die Technik der 50er Jahre an die aktuelle Zeit anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!<br>
 <div class="box left">
         <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="606" height="335" />
        </div>
@@ -28,7 +28,8 @@ Seit 2009 gibt es ein preiswertes unscheinbares Modul, den „Arduino* -Controll
 <div class="box left">
         <img src="/shared/photos/kommunikationstechnik/arduino2.jpg" width="606" height="354" />
        </div>
- <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weißen Pixel. Dies muss in ein binäres Signal mit 5V-Level gewandelt werden.  Eine Verstärkerschaltung mit nachgeschaltetem RC-Glied übernimmt diesen Part.
+ <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weißen Pixel. Dies muss in ein binäres Signal mit 5V-Level gewandelt werden.<br>
+Eine Verstärkerschaltung mit nachgeschaltetem RC-Glied übernimmt diesen Part.
 Zum Aufbau des Bildes wird noch eine Information für den jeweiligen Beginn einer neuen Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
 Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme" class="go">Source-Code-Ordner öffnen</a> <br>
 

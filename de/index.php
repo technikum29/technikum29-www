@@ -100,7 +100,7 @@
 Termin: Samstag, der <b>22. Februar von 14 bis 16 Uhr</b><br>
 Spezialführung für technikinteressierte Kids (auch mit Vater/Mutter) und Jugendliche mit anschließendem Experimentieren. Anmeldung bei der evangelischen Familienbildung Tel. 06196-560180<br>
 
-	
+	</div>
 	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 23. Feb.</p>	</div>

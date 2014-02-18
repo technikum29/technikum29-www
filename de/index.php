@@ -86,8 +86,12 @@
 
 <div id="termine" class="termine">
 
-<h3><big>Termine</big></h3>
+<!-- fuer das hier gabs ein Design: -->
+<h2>Termine</h2>
+<!-- fuer das hier nicht: -->
+<!--<h3><big>Termine</big></h3>-->
 
+	<hr class="h3-like">
 
 	<div class="box termin clear-after">
 		<div class="left">
@@ -97,8 +101,10 @@ Termin: Sonntag, der <b>23. Februar um 14 Uhr</b><br>
 Exklusiv-Führung für FR-Leser. Auch für technikbegeisterte Kids ab ca. 11J. gut geeignet.<br>
 Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 
-	<h3>  </h3>
-</div></div>
+	</div>
+
+	<hr class="h3-like">
+</div>
 
 
 <!-- <div class="leftcol">

@@ -132,7 +132,7 @@
 /* Date Icon */
 #termine div.termin {
 	/* fuer p.date */
-	margin-left: 52px;
+	margin-left: 52px !important;
 }
 
 /* Date Icon-Formatierung jetzt in modules/18-content.css */

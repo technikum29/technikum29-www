@@ -18,3 +18,9 @@
 section.sidebar.top {
 	background-color: rgba(255,255,255,.4);
 }
+
+/* Static-Krams optisch deaktiveren */
+html.static-menu nav.side, html.stick-top-menu nav.side {
+	background: none;
+	padding-bottom: inherit;
+}

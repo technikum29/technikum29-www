@@ -93,8 +93,9 @@ abstract class t29Host {
 	 * the same, just using the global conf array.
 	 **/ 
 	public function ressources_get_pagestyle($seiten_id) {
+		$ressources =  $this->ressources_array();
 		// We address the css property directly with the [1] index. Bad!
-		return $this->ressources_array()['page_dir'][1] . '/' . $seiten_id . '.css';
+		return $ressources['page_dir'][1] . '/' . $seiten_id . '.css';
 	}
 
 	/// Singleton fun for detect()

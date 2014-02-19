@@ -48,11 +48,69 @@ abstract class t29Host {
 	///                   string is sanitized.
 	/// This value is computed by setup().
 	public $script_filename;
-	
+
+	/// $ressources: CSS and JavaScript file paths ("Assets"), as used by the RessourceLoader,
+	///              the loader.php and technikum29.php entry points and the Template.
+	private function ressources_array($webroot='') {
+		// this is implemented as method, because of
+		// 1. "$webbroot/..." like strings. This isn't a good idea anyway (e.g. in ressourceloader: $module_dir_rel2webroot
+		// 2. Closures: function($conf){...} doesn't work as class attribute.
+		// This is rather dirty, but anyway the supposed way to access these data is the public get_ressources().
+		$ressources = array(
+			'cache_file' => array('compressed.js', 'style.css'),
+			'module_dir' => array("$webroot/shared/js-v6/modules", "$webroot/shared/css-v6/modules"),
+			'page_dir' => array("$webroot/shared/js-v6/pagescripts", "$webroot/shared/css-v6/pagestyles"),
+			'glob_pattern' => array('*.js', '*.css'),
+			'content_types' => array('application/javascript', 'text/css'),
+			'class' => array('t29JavaScriptRessourceLoader', 't29StyleSheetRessourceLoader'),
+			'modules' => function($conf){ return glob($conf['module_dir'] . '/' . $conf['glob_pattern']); },
+		);
+		return $ressources;
+	}
+
+	/// $ressources_types: The Ressources array above consists of numeric arrays. This array
+	///                    maps those positions (numeric keys) to $conf array positions.
+	///                    Use get_ressources() to resolve this mapping.
+	private $ressources_types = array('js', 'css');
+
+	public function get_ressources($type, $webroot, $debug_flag=false) {
+		$typepos = array_search($type, $this->ressources_types);
+		if($typepos === FALSE) return null;
+		$conf = array_map(function($val) use($typepos) 
+			{ return is_array($val) ? $val[$typepos] : $val; },
+			$this->ressources_array($webroot));
+		$conf['type'] = $type;
+		// callback functions need the $conf we built.
+		$conf['modules'] = call_user_func($conf['modules'], $conf);
+		$conf['debug'] = $debug_flag; // skip cache and just concat everything
+		return $conf;
+	}
+
+	/**
+	 * A special helper class, used by t29Template and technikum29.php entry point.
+	 * The general (clean) way would be querying get_ressources().
+	 * There is also t29RessourceLoader::get_page_specific_urls() which basically does
+	 * the same, just using the global conf array.
+	 **/ 
+	public function ressources_get_pagestyle($seiten_id) {
+		// We address the css property directly with the [1] index. Bad!
+		return $this->ressources_array()['page_dir'][1] . '/' . $seiten_id . '.css';
+	}
+
+	/// Singleton fun for detect()
+	private static $instance;
+	private static function new_singleton($classname) {
+		if(!isset(self::$instance))
+			self::$instance = new $classname;
+		return self::$instance;
+	}
+
 	/**
 	 * Factory for creating a t29Host instance automatically
 	 * from the current host. This method will decide which 
 	 * subclass has to be taken.
+	 * This function als implements the Singleton pattern, so
+	 * you can call it frequently.
 	 **/
 	static function detect() {
 		$instance = null;
@@ -63,7 +121,7 @@ abstract class t29Host {
 			include $hostfile;
 			if(class_exists(self::webroot_local_host_classname)) {
 				$x = self::webroot_local_host_classname;
-				$host = new $x;
+				$host = self::new_singleton($x);
 				$host->setup();
 				return $host;
 			} else {
@@ -75,12 +133,12 @@ abstract class t29Host {
 		switch($_SERVER['SERVER_NAME']) {
 			case 'heribert':
 			case 'localhost':
-				$localhost = new t29HeribertHost;
+				$localhost = self::new_singleton('t29HeribertHost');
 				$localhost->setup();
 				return $localhost;
 		}
 		
-		$publichost = new t29PublicHost;
+		$publichost = self::new_singleton('t29PublicHost');
 		$publichost->setup();
 		return $publichost;
 	}
@@ -95,7 +153,7 @@ abstract class t29Host {
 	 *   1. if this host does Clean URLs (Suffix rewriting)
 	 *   2. if this host is *not* installed in its own virtualhost (i.e. on docroot). 
 	 **/
-	function setup() {
+	private function setup() {
 		$this->is_rewriting_host = isset($_SERVER[self::env_hidesuffix_name]);
 		
 		$this->lib = dirname(__FILE__);

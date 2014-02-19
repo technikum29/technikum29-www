@@ -113,11 +113,10 @@ class t29Template {
 		$this->interlang_links = $this->menu->get_interlanguage_link();
 		$this->current_link_classes = $this->menu->get_link_classes();
 		
-		// check and load additional css
-		$this->conf['pagecss'] = '/shared/css-v6/pagestyles/'.$this->conf['seiten_id'].'.css';
+		// check and load additional css.
+		// #51: This is now checked by the site caching in technikum29.php.
+		$this->conf['pagecss'] = $this->conf['host']->ressources_get_pagestyle($this->conf['seiten_id']);
 		$this->conf['has_pagecss'] = file_exists($this->conf['webroot'].$this->conf['pagecss']);
-		// FIXME: There is no caching check yet for this setting
-		//        (new pagecss file won't be detected and wont purge the tmpl cache)
 		
 		// setup html title
 		$this->conf['html_title'] = '';

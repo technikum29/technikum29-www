@@ -47,19 +47,12 @@ class t29RessourceLoader {
 		$this->conf['filenames'] = array_map('basename', $this->conf['modules']); // filenames like foo.js
 	}
 	
-	private static $conf_for_type;
 	static function create_from_type($type, $baseconf=null) {
-		global $lib, $webroot;
-		if(!self::$conf_for_type) {
-			define('T29_GRAB_LOADER_DEFS', true);
-			include "$lib/loader.php";
-			self::$conf_for_type = $conf_for_type;
-		}
-
-		$conf = call_user_func(self::$conf_for_type, $type, isset($baseconf['debug']) && $baseconf['debug']);
+		global $lib, $webroot, $host;
+		$conf = $host->get_ressources($type, $webroot, isset($baseconf['debug']) && $baseconf['debug']);
 		if($conf === null) return null;
-		
-		return new $conf['class']($conf);
+	
+		return new $conf['class']($conf);		
 	}
 	
 	function get_page_specific_urls($seiten_id) {
@@ -240,9 +233,7 @@ class t29StyleSheetRessourceLoader extends t29RessourceLoader {
 	}
 
 	function compression_filter($code) {
-		global $lib;
-		require "$lib/host.php";
-		$host = t29Host::detect();
+		global $lib, $host;
 		if($host->has_web_prefix)
 			// rewrite CSS image includes
 			$code = preg_replace('#(url\(["\']?)/#i', '\\1'.$host->web_prefix.'/', $code);

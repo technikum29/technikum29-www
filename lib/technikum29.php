@@ -78,6 +78,7 @@ $page_cache->test_files =  array(
 	"$lib/host.php",
 	"$webroot$lang_path/navigation.xml",
 	"$webroot$lang_path/news.php",
+	$webroot.$host->ressources_get_pagestyle($seiten_id),
 );
 
 // dynamical content:

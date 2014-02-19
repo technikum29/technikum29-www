@@ -33,6 +33,7 @@ class t29Cache {
 	// these must be set after constructing!
 	public $cache_file; // must be set!
 	public $test_files = array(); // must be set!
+	public $test_conditions = array(); // can be filled with booleans
 
 	private $mtime_cache_file = null; // needed for cache header output
 	private $is_valid = null; // cache output value
@@ -77,6 +78,7 @@ class t29Cache {
 			print 't29Cache: Validity Checking.'.PHP_EOL;
 			print 'Cache file: '; var_dump($this->cache_file);
 			print 'Test files: '; var_dump($this->test_files);
+			print 'Test conditions: '; var_dump($this->test_conditions);
 		}
 
 		$this->mtime_cache_file = @filemtime($this->cache_file);
@@ -84,8 +86,11 @@ class t29Cache {
 			function($x){return @filemtime($x);},
 			$this->test_files);
 		$mtime_test_max = array_reduce($mtime_test_files, 'max');
+		// new feature: Testing boolean conditions. If $this->test_conditions is
+		// an empty array, the calculation gives true.
+		$test_conditions = array_reduce($this->test_conditions, function($a,$b){ return $a && $b; }, true);
 		$this->is_valid = $this->mtime_cache_file
-			&& $mtime_test_max < $this->mtime_cache_file;
+			&& $mtime_test_max < $this->mtime_cache_file && $test_conditions;
 			
 		if($this->debug) {
 			print 'Cache mtime: '; var_dump($this->mtime_cache_file);

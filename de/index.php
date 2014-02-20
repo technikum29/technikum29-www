@@ -111,6 +111,16 @@ Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href
 
 	</div>
 
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 3. März</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Sonntag, der <b>3. März um 14 Uhr</b><br>
+Auch für technikbegeisterte Kids/Jugendliche ab ca. 12J. bestens geeignet.<br>
+Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
+
+	</div>	
+	
 	<hr class="h3-like">
 </div>
 

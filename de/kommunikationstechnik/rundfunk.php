@@ -85,7 +85,7 @@ Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikk
         <p class="bildtext">Schnell noch ein riesiger Zeitsprung zum jüngsten Modell des Museumsbestandes: Der Kofferempfänger von Metz mit eingebautem Plattenspieler. Das 1956 gebaute Gerät ist natürlich noch mit Röhren bestückt. Damit konnte man seine "Elvis Presley"-Platten im Schwimmbad abspielen. Jedoch war das Vergnügen für Jugendliche wegen der hohen Anschaffungs- und Batteriekosten kaum erschwinglich.</p>
     </div>
 
-	<h3 id="rad">Der Radiomann   -  tüfteln in der Nachkriegszeit</h3>
+	<h3 id="rad">Kosmos: Der Radiomann   -  tüfteln in der Nachkriegszeit</h3>
 	<div class="box center clear-after">
         <img src="/shared/photos/kommunikationstechnik/radiomann.jpg" width="600" height="377" alt="Bild des Radiomann" />
 	</div>

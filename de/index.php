@@ -101,7 +101,14 @@
 Termin: Sonntag, der <b>2. März um 14 Uhr</b><br>
 Auch für technikbegeisterte Kids/Jugendliche ab ca. 12J. bestens geeignet.<br>
 Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
-
+	</div>	
+	
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 22. März</p>	</div>
+	<b>Computer-History + Rallye</b><br>
+Termin: Samstag, der <b>22. März ab 14 Uhr</b><br>
+Geburtstags-Event für Tim (13J.) und seine Freunde.<br>
 	</div>	
 	
 	<hr class="h3-like">

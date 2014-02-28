@@ -85,11 +85,11 @@
 
 
 <div id="termine" class="termine">
-
-<!-- fuer das hier gabs ein Design: -->
 <h2>Termine</h2>
 <!-- fuer das hier nicht: -->
 <!--<h3><big>Termine</big></h3>-->
+<!-- fuer das hier gabs ein Design: -->
+
 
 	<hr class="h3-like">
 
@@ -103,6 +103,14 @@ Auch für technikbegeisterte Kids/Jugendliche ab ca. 12J. bestens geeignet.<br>
 Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
 	</div>	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 7. März</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Samstag, der <b>7. März um 14 Uhr</b><br>
+für das Bildungs- und Kulturzentrum Wiesbaden e.V.<br>
+</div>
+
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 22. März</p>	</div>

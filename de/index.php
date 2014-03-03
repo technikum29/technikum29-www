@@ -105,9 +105,9 @@ Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href
 	
 	<div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 7. März</p>	</div>
+			<p class="date"><em>2014</em> 8. März</p>	</div>
 	<b>Computer-History</b><br>
-Termin: Samstag, der <b>7. März um 14 Uhr</b><br>
+Termin: Samstag, der <b>8. März um 14 Uhr</b><br>
 für das Bildungs- und Kulturzentrum Wiesbaden e.V.<br>
 </div>
 

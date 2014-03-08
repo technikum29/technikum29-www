@@ -112,6 +112,13 @@ Termin: Samstag, der <b>22. März ab 14 Uhr</b><br>
 Geburtstags-Event für Tim (13J.) und seine Freunde.<br>
 	</div>	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 15. April</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Dienstag, der <b>15. April um 15 Uhr</b><br>
+für den Kulturverein<br>
+</div>
 	<hr class="h3-like">
 </div>
 

@@ -95,13 +95,7 @@
 
 
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 22. März</p>	</div>
-	<b>Computer-History + Rallye</b><br>
-Termin: Samstag, der <b>22. März ab 14 Uhr</b><br>
-Geburtstags-Event für Tim (13J.) und seine Freunde.<br>
-	</div>	
+
 	
 	<div class="box termin clear-after">
 		<div class="left">

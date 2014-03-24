@@ -93,8 +93,13 @@
 
 	<hr class="h3-like">
 
-
-
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 29. März</p>	</div>
+	<b>Computer-History</b><br>
+Termin: Samstag, der <b>29. März um 15 Uhr</b><br>
+für das Kulturzentrum Wiesbaden<br>
+</div>
 
 	
 	<div class="box termin clear-after">

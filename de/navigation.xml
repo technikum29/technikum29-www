@@ -16,7 +16,7 @@
 -->
 <nav class="horizontal">
 <ul class="u1">
-	<li><a seiten_id="startseite" href="/de/">Start</a></li>
+	<li><a seiten_id="startseite" href="/de/">Start+Termine</a></li>
 	<li class="has-submenu"><a seiten_id="news" href="/de/news.php">Neues</a>
 		<ul class="u2 rich-text">
 			<!-- Letzte Neuigkeiten werden hier automatisch eingesetzt -->

@@ -109,9 +109,44 @@ für das Kulturzentrum Wiesbaden<br>
 Termin: Dienstag, der <b>15. April um 15 Uhr</b><br>
 für den Kulturverein<br>
 </div>
-	<hr class="h3-like">
+	
+<span style="color:#DF013A"><b> Tage der Industriekultur: Angebote des technikum29.</b> Dauer jeweils ca. 1,5 Stunden. Eintritt frei.</span>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 20. Juli</p>	</div>
+	<b>Die Urahnen des Smartphones</b><br>
+Termin: Sonntag, der <b>20. Juli um 14 Uhr</b><br>
+<small><p>Die Besucher dieser Führung erleben eine Zeitreise in die Welt der ganz frühen Vorgänger heutiger Computer:  Gigantische, tonnenschwere  Rechner  demonstrieren die Ära ihrer Zeit sehr lebendig denn all diese dinosaurierhaften Computer funktionieren noch. Diese in Deutschland einmalige „Computer-History“ ist insbesondere auch für technikinteressierte Kids und Jugendliche ab ca. 11 Jahren sehr gut geeignet. <br>
+Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
+
+
+</div>
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 26. Juli</p>	</div>
+	<b>Deus ex machina - Computer im Kalten Krieg und ihr Erbe</b><br>
+Termin: Samstag, der <b>26. Juli um 19 Uhr</b><br>
+<small><p>Der Kalte Krieg – Schreckgespenst und zugleich Auslöser eines zuvor ungekannten technischen Fortschrittes. Zeiten, in denen gewaltige Computer über das Wohl der ganzen Welt wachten und letztlich einen Nuklearkrieg verhinderten, Zeiten, in denen Computer noch als Elektronengehirne bezeichnet wurden und nahezu alles möglich schien. 
+Ein spannender Vortrag von <b>Prof. Dr. Bernd Ulmann und Patrick Hedfeld</b>, in welchem nicht nur technische, sondern auch <b>philosophische Aspekte</b> behandelt werden. Geeignet ab ca. 15 Jahren.
+<br>
+Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
 </div>
 
+
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 27. Juli</p>	</div>
+	<b>Die Geschichte der technischen Kommunikation</b><br>
+Termin: Sonntag, der <b>27. Juli um 14 Uhr</b><br>
+<small><p>Bei dieser Führung geht es um die historische Entwicklung von Rundfunk, Fernsehen, Tontechnik, Faximile, Telex und viel mehr.
+Alle Themen werden lebendig mit Experimenten und Demonstrationen funktionsfähiger Geräten aus der „Steinzeit“ dieser Technikepoche gezeigt. Ein 100 Jahre altes programmgesteuertes Klavier bildet den musikalischen Abschluss. 
+Auch für technikinteressierte Kids und Jugendliche ab ca. 12 Jahren bestens geeignet.<br>
+Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></p>
+</small>
+</div>
+
+<hr class="h3-like">
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

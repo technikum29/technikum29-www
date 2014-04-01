@@ -93,14 +93,6 @@
 
 	<hr class="h3-like">
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 29. März</p>	</div>
-	<b>Computer-History</b><br>
-Termin: Samstag, der <b>29. März um 15 Uhr</b><br>
-für das Kulturzentrum Wiesbaden<br>
-</div>
-
 	
 	<div class="box termin clear-after">
 		<div class="left">
@@ -111,10 +103,6 @@ für den Kulturverein<br>
 </div>
 	
 <span style="color:#8A0808"><b> Tage der Industriekultur: Angebote im technikum29.</b> Dauer jeweils ca. 1,5 Stunden. Eintritt frei.</span>
-
-
-	
-        
 
 
 <div class="box termin clear-after">
@@ -137,7 +125,7 @@ Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@
 	<b>Deus ex machina - Computer im Kalten Krieg und ihr Erbe</b><br>
 Termin: Samstag, der <b>26. Juli um 19 Uhr</b><br>
 <small><p>Der Kalte Krieg – Schreckgespenst und zugleich Auslöser eines zuvor ungekannten technischen Fortschrittes. Zeiten, in denen gewaltige Computer über das Wohl der ganzen Welt wachten und letztlich einen Nuklearkrieg verhinderten, Zeiten, in denen Computer noch als Elektronengehirne bezeichnet wurden und nahezu alles möglich schien. 
-Ein spannender Vortrag von <b>Prof. Dr. Bernd Ulmann und Patrick Hedfeld</b>, in welchem nicht nur technische, sondern auch <b>philosophische Aspekte</b> behandelt werden. Auch für Jugendliche ab ca. 15 Jahren gut geeignet.
+Ein spannender Vortrag von <b>Prof. Dr. Bernd Ulmann</b> (Mathematiker/Informatiker) und <b>Patrick Hedfeld</b> (Philosoph), in welchem nicht nur technische, sondern auch <b>philosophische Aspekte</b> behandelt werden. Auch für Jugendliche ab ca. 15 Jahren gut geeignet.
 <br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
 </div>

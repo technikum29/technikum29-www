@@ -58,4 +58,4 @@
 		<img src="/shared/photos/kommunikationstechnik/reichhalter.diktiergeraet.jpg" width="546" height="222" alt="Foto des Klein-Reporters"/>
 	</div>
 			
-    <p>Diese Aufnahme ist mindestens 55 Jahre alt. Die Magnetisierung des Drahtes ist offensichtlich noch 100%ig in Ordnung. Es handelt sich ganz nebenbei um eine hervorragende Vorlesung.</p>
+    <p>Diese Aufnahme ist mindestens 60 Jahre alt. Die Magnetisierung des Drahtes ist offensichtlich noch 100%ig in Ordnung. Es handelt sich ganz nebenbei um eine hervorragende Vorlesung.</p>

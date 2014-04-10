@@ -73,7 +73,7 @@
 		
 		
 		<div class="flyer left">
-			<a href="/shared/flyer/august2011.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
+			<a href="/shared/flyer/august2013.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2013.pdf">aktuellen Flyer</a> als PDF (2&nbsp;MB)</p>
 		</div>

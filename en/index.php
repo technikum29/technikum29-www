@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'startseite';
 	$version = '$Id$';
-	$titel = "technikum29 Computer museum - Europe's unique computer museum with runnable first general-purpose computers";
+	$titel = "technikum29 Computer museum with runnable first general-purpose computers";
 	
 	require "../lib/technikum29.php";
 ?>

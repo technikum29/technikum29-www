@@ -118,18 +118,18 @@ Termin: Dienstag, der <b>7. Mai um 14:30 Uhr</b><br>
 für den Tennisclub<br>
 </div>
 
-
-<span style="color:#8A0808"><b> Tage der Industriekultur: Angebote im technikum29.</b> Dauer jeweils ca. 1,5 Stunden. Eintritt frei.</span>
+<div class="right">
+                <img src="/shared/photos/start/kulturregion.jpg" width="200" height="173" />
+               </div>
+			   
+<span style="color:#8A0808"><b> Tage der Industriekultur Rhein-Main: Angebote im technikum29</b> <br>Dauer jeweils ca. 1,5 Stunden. Eintritt frei.</span>
 
 
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 20. Juli</p>	</div>
 			
-			<div class="right">
-                <img src="/shared/photos/start/kulturregion.jpg" width="200" height="173" />
-               </div>
-			
+				
 	<b>Die Urahnen des Smartphones</b><br>
 Termin: Sonntag, der <b>20. Juli um 14 Uhr</b><br>
 <small><p>Die Besucher dieser Führung erleben eine Zeitreise in die Welt der ganz frühen Vorgänger heutiger Computer:  Gigantische, tonnenschwere  Rechner  demonstrieren die Ära ihrer Zeit sehr lebendig denn all diese dinosaurierhaften Computer funktionieren noch. Diese in Deutschland einmalige „Computer-History“ ist auch für technikinteressierte Kids und Jugendliche ab ca. 11 Jahren sehr gut geeignet. <br>

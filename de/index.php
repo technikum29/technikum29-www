@@ -101,21 +101,22 @@
 Termin: Dienstag, der <b>15. April um 15 Uhr</b><br>
 für den Kulturverein<br>
 </div>
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 16. April</p>	</div>
-	<b>Computer-History</b><br>
-	Termin: Mittwoch, der <b>16. April um 15 Uhr</b><br>
-für die IBM-Gruppe Ffm.<br>
-</div>	
+	
 
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 7. Mai</p>	</div>
 	<b>Computer-History</b><br>
-Termin: Dienstag, der <b>7. Mai um 14:30 Uhr</b><br>
+Termin: Mittwoch, der <b>7. Mai um 14:30 Uhr</b><br>
 für den Tennisclub<br>
+
+</div>
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 21. Mai</p>	</div>
+	<b>Computer-History</b><br>
+	Termin: Mittwoch, der <b>21. Mai um 14:30 Uhr</b><br>
+für die IBM-Gruppe Ffm.<br>
 </div>
 
 <div class="right">

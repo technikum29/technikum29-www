@@ -8,6 +8,12 @@
 
     <div class="cols clear-after startseiten-boxen">
        <div class="leftcol">
+	     <a href="#Termine" class="smooth-scroll div left clear-after termine oben">
+		   <img src="/shared/img-v6/date.png" class="kalender">
+		   <span class="h2">Termine <br> Führungen <br> Events</span>
+		 </a>
+
+	   
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
@@ -92,30 +98,21 @@
 
 
 	<hr class="h3-like">
-
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 15. April</p>	</div>
-	<b>Computer-History</b><br>
-Termin: Dienstag, der <b>15. April um 15 Uhr</b><br>
-für den Kulturverein<br>
-</div>
 	
 
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 7. Mai</p>	</div>
-	<b>Computer-History</b><br>
-Termin: Mittwoch, der <b>7. Mai um 14:30 Uhr</b><br>
+	<h4>Computer-History</h4>
+Termin: Mittwoch, der <b>7. Mai</b> um 14:30 Uhr<br>
 für den Tennisclub<br>
 
 </div>
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 21. Mai</p>	</div>
-	<b>Computer-History</b><br>
-	Termin: Mittwoch, der <b>21. Mai um 14:30 Uhr</b><br>
+	<h4>Computer-History</h4>
+	Termin: Mittwoch, der <b>21. Mai</b> um 14:30 Uhr<br>
 für die IBM-Gruppe Ffm.<br>
 </div>
 
@@ -131,8 +128,8 @@ für die IBM-Gruppe Ffm.<br>
 			<p class="date"><em>2014</em> 20. Juli</p>	</div>
 			
 				
-	<b>Die Urahnen des Smartphones</b><br>
-Termin: Sonntag, der <b>20. Juli um 14 Uhr</b><br>
+	<h4>Die Urahnen des Smartphones</h4>
+Termin: Sonntag, der <b>20. Juli</b> um 14 Uhr<br>
 <small><p>Die Besucher dieser Führung erleben eine Zeitreise in die Welt der ganz frühen Vorgänger heutiger Computer:  Gigantische, tonnenschwere  Rechner  demonstrieren die Ära ihrer Zeit sehr lebendig denn all diese dinosaurierhaften Computer funktionieren noch. Diese in Deutschland einmalige „Computer-History“ ist auch für technikinteressierte Kids und Jugendliche ab ca. 11 Jahren sehr gut geeignet. <br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
 </div>
@@ -140,8 +137,8 @@ Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 26. Juli</p>	</div>
-	<b>Deus ex machina - Computer im Kalten Krieg und ihr Erbe</b><br>
-Termin: Samstag, der <b>26. Juli um 19 Uhr</b><br>
+	<h4>Deus ex machina - Computer im Kalten Krieg und ihr Erbe</h4>
+Termin: Samstag, der <b>26. Juli</b> um 19 Uhr<br>
 <small><p>Der Kalte Krieg – Schreckgespenst und zugleich Auslöser eines zuvor ungekannten technischen Fortschrittes. Zeiten, in denen gewaltige Computer über das Wohl der ganzen Welt wachten und letztlich einen Nuklearkrieg verhinderten, Zeiten, in denen Computer noch als Elektronengehirne bezeichnet wurden und nahezu alles möglich schien. 
 Ein spannender Vortrag von <b>Prof. Dr. Bernd Ulmann</b> (Mathematiker/Informatiker) und <b>Patrick Hedfeld</b> (Philosoph), in welchem nicht nur technische, sondern auch <b>philosophische Aspekte</b> behandelt werden. Auch für Jugendliche ab ca. 15 Jahren gut geeignet.
 <br>
@@ -152,16 +149,14 @@ Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@
 	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 27. Juli</p>	</div>
-	<b>Die Geschichte der technischen Kommunikation</b><br>
-Termin: Sonntag, der <b>27. Juli um 14 Uhr</b><br>
+	<h4>Die Geschichte der technischen Kommunikation</h4>
+Termin: Sonntag, der <b>27. Juli</b> um 14 Uhr<br>
 <small><p>Bei dieser Führung geht es um die historische Entwicklung von Rundfunk, Fernsehen, Tontechnik, Faximile, Telex und viel mehr.
 Alle Themen werden lebendig mit Experimenten und Demonstrationen funktionsfähiger Geräten aus der „Steinzeit“ dieser Technikepoche gezeigt. Ein 100 Jahre altes programmgesteuertes Klavier bildet den musikalischen Abschluss. 
 Auch für technikinteressierte Kids und Jugendliche ab ca. 12 Jahren bestens geeignet.<br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></p>
 </small>
 </div>
-
-<hr class="h3-like">
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

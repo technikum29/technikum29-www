@@ -12,13 +12,15 @@
 
 
 #content div.startseiten-boxen,
-#content div.startseiten-boxen div {
+#content div.startseiten-boxen div,
+#content div.startseiten-boxen a.div {
     padding: 1em;
     margin: 0;
     /*border: 1px solid blue;*/
 }
 
-#content div h2 /* id zur Bedeutungssteigerung */ {
+#content div h2, /* id zur Bedeutungssteigerung */
+#content a.div span.h2 {
     font-weight: bold;
     font-size: 113%;
     font-family: inherit; /* 04.01.10: Neue Header-Styles */
@@ -32,6 +34,37 @@
     padding-left: 1em;
 }
 
+#content div.termine, 
+#content a.div.termine {
+    display: block;
+    background-color: #EDF0F2;
+    border: 1px solid #B6B5B4;
+}
+
+#content a.div.termine {
+    margin-bottom: 1.5em !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 338px;
+}
+
+#content a.div.termine:hover {
+	background-color: #dfeaf0;
+	border-color: #a41c1c;
+}
+
+#content a.div.termine.oben img.kalender {
+	/* Icon oben */
+	margin: 0;
+	width: 85px;
+}
+
+#content a.div.termine.oben span.h2 {
+    display: block;
+    margin-left: 119px;
+    margin-top: 13px;
+}
+
 #content div div.foto,
 #startseitenfoto-en {
     /* #startseitenfoto-en für /en, da gibts kein #content */
@@ -41,6 +74,9 @@
     background: none;
     width: 338px; height: 228px; /* Bildgrößen */
     position: relative;
+	
+	/* Hoehengleich mit den Terminen sein */
+	margin-top: 0;
 }
 
 #content .foto p {
@@ -63,9 +99,10 @@
 	padding: 30px 40px 60px;
 }
 
-#termine h2 {
+#content #termine h2 {
 	text-align: center;
-	margin-bottom: 1.4em;
+	font-size: 250%;
+	font-weight: normal;
 }
 
 #termine div.termin.box {

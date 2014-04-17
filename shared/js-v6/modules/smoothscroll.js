@@ -8,7 +8,7 @@ if(!t29) window.t29 = {}; // the t29 namespace
 
 t29.smoothscroll = {};
 t29.smoothscroll.setup = function() {
-	$("nav.side a").smoothScroll();
+	$("nav.side a, a.smooth-scroll").smoothScroll();
 	
 	if(location.hash) {
 		// force scrolling to current hash

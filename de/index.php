@@ -99,7 +99,16 @@
 
 	<hr class="h3-like">
 	
-
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 2. Mai</p>	</div>
+	<h4>Computer-History</h4>
+Termin: Freitag, der <b>2. Mai</b> <br>
+Albert-Einstein-Schule<br>
+	</div>
+	
+	
+	
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 7. Mai</p>	</div>

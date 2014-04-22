@@ -301,6 +301,14 @@ class t29Template {
 	</section>
 	<hr>
 	<section class="sidebar top">
+			<?php /* Platz fuer eigentlich per "Extension" eingepflegtem Inhalt */ ?>
+			<!-- Anfang Test -->
+			<a class="button alertbox termine" href="/de/#termine">
+				<strong>Aktuelle Führungen</strong>
+				<span>Tage der Industriekultur im technikum29</span>
+			</a>
+			<!-- Ende Test -->
+			
 			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
 			<nav class="side">
 				<?php $this->menu->print_menu(t29Menu::sidebar_menu, $this->conf['host']); ?>

@@ -49,7 +49,7 @@
         <p class="bildtext">Hier die seitliche Ansicht des Morse-Empfängers. Die Anlage ist im Museum an einen Lochstreifen-Morsesender der 60er Jahre angeschlossen.</p>
     </div>
 	 <h2>Faxtechnik, Bildtelegraphie</h2>
-	<p>Die Faximile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
+	<p>Die Faksimile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
     <p>Der erste in Serie hergestellte Bildtelegraph (Fultograph) kam bereits 1929 auf den Markt. Dieses Gerät wäre allerdings nur mit erheblichem Aufwand noch zu betreiben. </br>
         Die ersten praktikablen Faxgeräte waren eine deutsche Erfindung: Das Normalpapierfax von Siemens-Hell, Bj. 1956 mit Röhrentechnik, ist noch voll funktionsfähig. Gemächlich und durchschaubar dauert eine Faxübertragung (DIN A5) etwa 4 Minuten. Mit ihm könnte man theoretisch sogar mit Hilfe einiger Tricks ein Fax in Farbe übertragen!</p>
 

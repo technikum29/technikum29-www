@@ -134,11 +134,11 @@ für die IBM-Gruppe Ffm.<br>
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 20. Juli</p>	</div>
+			<p class="date"><em>2014</em> 19. Juli</p>	</div>
 			
 				
 	<h4>Die Urahnen des Smartphones</h4>
-Termin: Sonntag, der <b>20. Juli</b> um 14 Uhr<br>
+Termin: Samstag, der <b>19. Juli</b> um 14 Uhr<br>
 <small><p>Die Besucher dieser Führung erleben eine Zeitreise in die Welt der ganz frühen Vorgänger heutiger Computer:  Gigantische, tonnenschwere  Rechner  demonstrieren die Ära ihrer Zeit sehr lebendig denn all diese dinosaurierhaften Computer funktionieren noch. Diese in Deutschland einmalige „Computer-History“ ist auch für technikinteressierte Kids und Jugendliche ab ca. 11 Jahren sehr gut geeignet. <br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
 </div>

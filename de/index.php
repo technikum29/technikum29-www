@@ -125,6 +125,20 @@ für den Tennisclub<br>
 für die IBM-Gruppe Ffm.<br>
 </div>
 
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 11. Juli</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Freitag, der <b>11. Juli</b> um 12:00 Uhr<br>
+für eine Studentengruppe der Goethe-Universität Ffm.<br>
+</div>
+
+
+
+
+
+
+
 <div class="right">
                 <img src="/shared/photos/start/kulturregion.jpg" width="200" height="173" />
                </div>

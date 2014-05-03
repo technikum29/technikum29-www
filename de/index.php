@@ -18,8 +18,8 @@
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
                 <li>Vorab: Es geht hier nicht um kleine Personal-Computer (PC´s) sondern um wirklich historische Computerwelten ...... und: Fast alles funktioniert!</li>
-                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). Fast all diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Fast alle Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
-              <li>Computer und Kommunikation beherrschen unsere Zeit in einem zunehmenden Maße. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
+                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). Fast all diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Unsere Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
+              <li>Computer und Kommunikation beherrschen unsere Gegenwart und Zukunft in einem extremen Maß. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
 
@@ -98,15 +98,6 @@
 
 
 	<hr class="h3-like">
-	
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 2. Mai</p>	</div>
-	<h4>Computer-History</h4>
-Termin: Freitag, der <b>2. Mai</b> um 9:30 Uhr <br>
-für die Albert-Einstein-Schule<br>
-	</div>
-	
 	
 	
 <div class="box termin clear-after">

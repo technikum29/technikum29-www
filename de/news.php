@@ -20,11 +20,7 @@
   text: ""
   link: "#August_2013"
 	
-- titel: "Punch-Card-Music"
-  text: "Technik und Kunst"
-  link: "#Mai_2013" 
 	
-  
 MENU;
 // ende der menue-Eintraege
 
@@ -71,24 +67,8 @@ BULL GAMMA 55 läuft! Ein historischer Moment, <a href="/de/rechnertechnik/gamma
 	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten.
 	</div>
 
-
-<li><h3>Mai 2013</h3><br>
-<div "box left clear-after">
-	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="300" height="196" class="nomargin-bottom" />
-	Wir unterstützen Künstler, schauen Sie unter 
-	<a href="/de/sonstiges.php#music"> Punch-Card-Music </a>
-	</div>
 		
-
 </li><br>
-
-
-<li><h3>Mai 2013</h3><br>
-<div class="box left clear-after">
-    <img src="/shared/photos/rallye/exp12.jpg"  width="300" height="198" />
-	Selbst experiementieren im technikum29, lesen Sie <a href="/de/lehrerinfo.php#experimente" width="150" height="99"><b> hier:</b></a><br>
-	</div>
-
 
 
 

@@ -15,7 +15,7 @@ Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.php">das Pr
 
 <p>Microcontroller revolutionieren die Welt, wie an Schulen zukunftsweisende Projekte geplant und ausgeführt werden können.<br>
 Worum geht es? <br>
-6 Schüler der Q1 (früher 12. Klasse) des Albert-Einstein-Gymnasiums in Schwalbach suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29  an.  
+6 Schüler der Q1 des Albert-Einstein-Gymnasiums suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29 an.  
 Ziel war es, die Technik der 50er Jahre an die aktuelle Zeit anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!<br>
 <div class="box left">
         <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="606" height="335" />

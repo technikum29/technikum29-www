@@ -99,28 +99,12 @@
 
 	<hr class="h3-like">
 	
-	
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 7. Mai</p>	</div>
-	<h4>Computer-History</h4>
-Termin: Mittwoch, der <b>7. Mai</b> um 14:30 Uhr<br>
-für den Tennisclub<br>
-</div>
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 8. Mai</p>	</div>
+			<p class="date"><em>2014</em> 18. Juni</p>	</div>
 	<h4>Computer-History</h4>
-Termin: Donnerstag, der <b>8. Mai</b> um 11:15 Uhr<br>
-für die Albert-Einstein-Schule, Q4<br>
-</div>
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 21. Mai</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Mittwoch, der <b>21. Mai</b> um 14:30 Uhr<br>
+	Termin: Mittwoch, der <b>18. Juni</b> um 15:00 Uhr<br>
 für die IBM-Gruppe Ffm.<br>
 </div>
 

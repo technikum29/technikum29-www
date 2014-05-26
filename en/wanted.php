@@ -13,16 +13,16 @@
         <p class="bildtext">
    We are urgently looking for the IBM Card SLT "5807342" (address driver) for our <b> IBM 1130 </b> system. It would be helpful to have the schematic for this card. If you can help, please let us know! <br>
 Also other cards with SLT technology, we could well use. </p> </div>
-<br> <hr> <br>
+<br> 
 
 
 	<h3>Devices and Manuals</h3>
 	
-    <p>We are always looking for:</p>
+    <p>We are looking for:</p>
     <ul>
-        <li>Any kind of tube calculators, for example LGP-30</li>
+        <li>Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)</li>
         <li>Very old plotter</li>
         <li>Any kind of telegraph technology</li>
-        <li>All manuals for the <a href="/en/computer/tabulating-machine.php#bull3">BULL GAMMA 3</a> and BULL GAMMA 55</li>
+       
         <li>... and everything that is suitable for our collection</li>
       </ul>

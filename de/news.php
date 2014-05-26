@@ -4,6 +4,11 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+	
+- titel: "Neu: Peripherie der IBM1130"
+  text: "Lochstreifengeräte"
+  link: "#Mai_2014"	
+	
 - titel: "Neu: IBM 1130 Anlage"
   text: "Eine neue Herausforderung"
   link: "#Januar_2014"
@@ -16,10 +21,6 @@
   text: ""
   link: "#September_2013"
   
-- titel: "Philosophie"
-  text: ""
-  link: "#August_2013"
-	
 	
 MENU;
 // ende der menue-Eintraege
@@ -32,6 +33,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>Mai 2014</h3>
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/facit4000.jpg" width="352" height="137" />
+		
+		Peripherie der 1130: Facit-Lochstreifengeräte <a href="/de/rechnertechnik/ibm1130.php#1130"><br>
+		<b>siehe hier</b></a> 
+		</div>
 
 <li><h3>Januar 2014</h3>
 <div class="box left clear-after">
@@ -58,16 +67,8 @@ MENU;
 		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" /><br><br>
 		
 BULL GAMMA 55 läuft! Ein historischer Moment, <a href="/de/rechnertechnik/gamma55.php#ge55"><b>siehe hier</b></a>
-</div><br><br><br>
+</div>
 
-<li><h3>August 2013</h3><br>
-<div "box left clear-after">
-	<img src="/shared/photos/start/philosophie.jpg" width="498" height="157" class="nomargin-bottom" /><br><br>
-	Philosopie im technikum29: Die Referenten Patrick Hedfeld und Prof. Dr. Bernd Ulmann begeisterten die Besucher des völlig ausgebuchten Votrages: "Wie Sprache das Denken verändert".<br>
-	Das Bild zeigt einen Teil der Besucher, die auch zwischen den historischen Rechnern sitzen mussten.
-	</div>
-
-		
 </li><br>
 
 

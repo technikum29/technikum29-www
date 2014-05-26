@@ -7,7 +7,7 @@
 ?>
     <h2>A first generation tube calculator: <b>BULL GAMMA 3</b></h2>
 
-    <div class="box left">
+    <div class="desc-left borderless">
       <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"
            alt="The BULL GAMMA 3, closed state" width="156" height="210" />
 		   </div>

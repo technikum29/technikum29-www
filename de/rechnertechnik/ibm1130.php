@@ -12,27 +12,29 @@
 		<img src="/shared/photos/rechnertechnik/ibm-logo.jpg"  width="304" height="42" />
 	</div>
 	
-    <div class="box center clear-after">
+	<div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />
-		<div class="bildtext">
-		<p><b>IBM 1130</b></p>
-		</div>
+		<p class="bildtext"><b>IBM 1130</b></p>
+	</div>
 		<br>
 		<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert.<br>
 		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
 		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung (siehe "Reparatur-Blog"). Lesen Sie demnächst mehr an dieser Stelle. </p>
+		
 		<div class="desc-left">
-		<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
-	<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" /></a>
-	<p class="small"><b>Facit Lochstreifengeräte</b><br>
-	Aufwickler Type 4015, Stanzer Type 4060, Leser Type 4001 und Stanzerelektronik Type 5104.<br>
-	Vergrößern: Bild anklicken!</p></div>
+			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
+				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />
+			</a>
+			<p class="small"><b>Facit Lochstreifengeräte</b><br>
+			Aufwickler Type 4015, Stanzer Type 4060, Leser Type 4001 und Stanzerelektronik Type 5104.<br>
+			Vergrößern: Bild anklicken!</p>
+		</div>
 	
 		<p>Die abgebildeten Lochstreifengeräte der Facit 4000er Serie waren an die Anlage angeschlossen.<br>
 		<br>
 		<small>Diese Anlage wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>
-		
-		<br><br><br><br><br><br><br>
+
+		<div class="clear"></div>
 		
 		<h3 id="blog-ibm">Reparatur-Blog</h3>
 		<p class="small">

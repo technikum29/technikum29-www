@@ -125,15 +125,11 @@ für eine Studentengruppe der Goethe-Universität Ffm.<br>
 
 
 
-
-
-
-
 <div class="right">
                 <img src="/shared/photos/start/kulturregion.jpg" width="200" height="173" />
                </div>
 			   
-<span style="color:#8A0808"><b> Tage der Industriekultur Rhein-Main: Angebote im technikum29</b> <br>Dauer jeweils ca. 1,5 Stunden. Eintritt frei.</span>
+<span style="color:#8A0808"><b> Tage der Industriekultur Rhein-Main: Angebote im technikum29</b> <br>Dauer jeweils ca. 1,5 Stunden. Eintritt frei.
 
 
 <div class="box termin clear-after">
@@ -168,8 +164,27 @@ Termin: Sonntag, der <b>27. Juli</b> um 14 Uhr<br>
 Alle Themen werden lebendig mit Experimenten und Demonstrationen funktionsfähiger Geräten aus der „Steinzeit“ dieser Technikepoche gezeigt. Ein 100 Jahre altes programmgesteuertes Klavier bildet den musikalischen Abschluss. 
 Auch für technikinteressierte Kids und Jugendliche ab ca. 12 Jahren bestens geeignet.<br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></p>
-</small>
 </div>
+</span>
+
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 1. Aug.</p>	</div>
+	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
+	Termin: Freitag, der <b>1. August</b> 9:45-12:15 Uhr<br>
+für die Feriengruppe A<br>
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 4. Aug.</p>	</div>
+	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
+	Termin: Montag, der <b>4. August</b> 9:45-12:15 Uhr<br>
+für die Feriengruppe B<br>
+</div>
+</small>
+
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

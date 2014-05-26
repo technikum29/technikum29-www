@@ -166,7 +166,7 @@ Auch für technikinteressierte Kids und Jugendliche ab ca. 12 Jahren bestens gee
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></p>
 </div>
 </span>
-
+</small>
 
 <div class="box termin clear-after">
 		<div class="left">
@@ -183,7 +183,7 @@ für die Feriengruppe A<br>
 	Termin: Montag, der <b>4. August</b> 9:45-12:15 Uhr<br>
 für die Feriengruppe B<br>
 </div>
-</small>
+
 
 
 <!-- <div class="leftcol">

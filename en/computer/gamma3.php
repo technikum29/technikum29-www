@@ -11,7 +11,7 @@
       <img src="/shared/photos/rechnertechnik/bull-gamma-3.jpg"
            alt="The BULL GAMMA 3, closed state" width="156" height="210" />
 		   </div>
-     
+
 		<p>
         The BULL GAMMA 3 was build since 1952. At these days, such devices were
         called "electronically calculating device" (original translation
@@ -32,7 +32,7 @@ computer is so fast that there is no visible delay caused by the calculations".<
   
 	 <div class="desc-left auto-bildbreite borderless no-copyright">
 <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg">
-		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="BULL Gamma 3" width="350" height="292" /></a>	
+		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="BULL Gamma 3" width="350" height="361" /></a>	
 		<div class="bildtext">	
 	<p><b>Tubes over Tubes: BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> enlarge picture</a> 
 	
@@ -59,15 +59,14 @@ computer is so fast that there is no visible delay caused by the calculations".<
         temporary digital states.
 		</p>
 		
-		<br><br>
+		<br><br><br><br><br>
 		
 	 <div class="desc-left auto-bildbreite borderless">
 		<img src="/shared/photos/rechnertechnik/gamma-3-netzteil.jpg" alt="BULL GAMMA 3 Netzteil" width="350" height="527" />
-		
-		</div>
+		<div class="bildtext">	
+	<p><b>Here you can see a part of the big power supply</b></p>
+		</div></div>
      
-
-      </p>On the left you can see a part of the big power supply.<br>
       
     
 	  <br>

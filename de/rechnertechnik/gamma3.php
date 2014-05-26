@@ -28,7 +28,7 @@
 <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg">
 		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="Prozessor aufgeklappt" width="350" height="292" /></a>	
 		<div class="bildtext">	
-	<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> Bild vergrößern</a> 
+			<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> Bild vergrößern</a> 
 		</div>
 		</div>
 		
@@ -40,12 +40,10 @@
 		</p>
 	
 	
-	<div class="desc-left auto-bildbreite borderless">
+	<div class="box left borderless clear-left">
 		<img src="/shared/photos/rechnertechnik/gamma-3-netzteil.jpg" alt="BULL GAMMA 3 Netzteil" width="350" height="527" />
 		
-		</div>
-		<br><br>
 		   <p> Nebenstehendes Bild gibt Einblick in das gigantische Netzteil des Rechners. 39 Sicherungen schützen die Stromkreise. Jetzt kann man sich vorstellen, wie die Netzteile von sehr großen Röhrenrechnern aussehen müssen!<br>
 			Um Wechselstrom in Gleichstrom umzuwandeln, verwendete man "Selen-Gleichrichter". Selen-Gleichrichter bestehen aus Metallscheiben, die auf einer Seite mit dem Selen-Halbleitermaterial beschichtet sind. Der Anschluss erfolgt durch Kontaktflächen, die mechanisch an der Scheibe anliegen. Die Sperrspannung je Scheibe beträgt etwa 25 bis 30 Volt. Um höhere Sperrspannungen zu erreichen, musste man mehrere Scheiben in Reihe schalten, die meist einfach übereinander gestapelt wurden (rechts unten im Bild). Links sind ganze "Batterien" von Elektrolytkondensatoren zu erkennen.</p>
-	
+	</div>
 	

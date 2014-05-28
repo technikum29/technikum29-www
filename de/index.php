@@ -99,13 +99,6 @@
 
 	<hr class="h3-like">
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 27. Mai</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>27. Mai</b> um 8:30 Uhr<br>
-Abi-Gruppe Darmstadt<br>
-</div>
 
 <div class="box termin clear-after">
 		<div class="left">

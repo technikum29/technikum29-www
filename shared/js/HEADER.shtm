@@ -3,6 +3,7 @@
 <head>
     <title>technikum29.de: /shared/js</title>
     <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
 </head>
 <body>
@@ -18,8 +19,8 @@
 eingebunden werden.</p>
 
 <ul class="icons">
-   <li class="script"><a href="ie5.js">ie5.js</a>: JavaScript, welches über Conditional Comments nur in dem Internet Explorer 5 eingebunden wird und diesen dazu bewegt, auf das alte screen.design zu wechseln.</li>
-   <li class="script"><a href="startseite.js">startseite.js</a>: Unobstructive JavaScript, welches die Hover-Effekte auf der <a href="/">absoluten Startseite</a> ermöglicht.</lii>
+   <li class="script"><a href="ie5.js">ie5.js</a>: JavaScript, welches Ã¼ber Conditional Comments nur in dem Internet Explorer 5 eingebunden wird und diesen dazu bewegt, auf das alte screen.design zu wechseln.</li>
+   <li class="script"><a href="startseite.js">startseite.js</a>: Unobstructive JavaScript, welches die Hover-Effekte auf der <a href="/">absoluten Startseite</a> ermÃ¶glicht.</lii>
 </ul>
 
 <!--#include virtual="/src/templates/copyright.txt" -->

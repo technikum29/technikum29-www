@@ -1,8 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-    <title>technikum29.de Navigationsleistenhintergründe</title>
+    <title>technikum29.de NavigationsleistenhintergrÃ¼nde</title>
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <style>
         .box img { border: 1px solid #888; }
         
@@ -59,25 +60,25 @@
 <div id="page" class="content">
 <!--#set var="TEMPLATE:lastmod" value="07.01.2008, 20.08.2008" -->
 <!--#include virtual="/src/templates/lastmod.shtm" -->
-<h2>Navigationsleitenhintergründe</h2>
+<h2>NavigationsleitenhintergrÃ¼nde</h2>
 
 <p>Die Dateien in diesem Verzeichnis werden im <a href="/shared/css/fresh.css">neuen Fresh-Design</a>
 (seit <a href="/etc/txt/v5.7">Version 5.7</a>)
-als Hintergründe für die Seitenleiste auf der rechten Seite verwendet. Für fast jeden Themenbereich/jede Inhaltsseite
+als HintergrÃ¼nde fÃ¼r die Seitenleiste auf der rechten Seite verwendet. FÃ¼r fast jeden Themenbereich/jede Inhaltsseite
 gibt es einen eigenen Hintergrund, der immer in einem Bezug zum Thema steht.</p>
 
-<p>Jeder einzelne Hintergrund wurde in mühevoller Kleinarbeit erstellt. Entsprechend gilt der folgende
+<p>Jeder einzelne Hintergrund wurde in mÃ¼hevoller Kleinarbeit erstellt. Entsprechend gilt der folgende
 Hinweis auch hier:</p>
 <!--#include virtual="/src/templates/copyright.txt" -->
 <p>Originalquellen sind vorhanden.</p>
 
-<h3>Übersicht der fehlenden Grafiken</h3>
-<p>Seit der Einführung des allgemeinen Seitendesigns auch für Extraseiten mit der
+<h3>Ãœbersicht der fehlenden Grafiken</h3>
+<p>Seit der EinfÃ¼hrung des allgemeinen Seitendesigns auch fÃ¼r Extraseiten mit der
    <a href="/etc/txt/v5.8">Version 5.8</a> bekamen auch diese Seitenleisten, die sich
-   anboten, mit etwas anderem als den standardmäßigen Nullen und Einsen gefüllt zu
-   werden. Da jede Extraseite üblicherweise von einer Inhaltsseite verlinkt ist,
-   bot sich an, die zugehörigen Bilder der Inhaltsseiten auch auf den Extraseiten zu
-   verwenden. Für folgende Inhaltsseiten (und damit auch Extraseiten) gibt es allerdings
+   anboten, mit etwas anderem als den standardmÃ¤ÃŸigen Nullen und Einsen gefÃ¼llt zu
+   werden. Da jede Extraseite Ã¼blicherweise von einer Inhaltsseite verlinkt ist,
+   bot sich an, die zugehÃ¶rigen Bilder der Inhaltsseiten auch auf den Extraseiten zu
+   verwenden. FÃ¼r folgende Inhaltsseiten (und damit auch Extraseiten) gibt es allerdings
    (noch) keine passenden Grafiken:</p>
 
 <ul>
@@ -85,20 +86,20 @@ Hinweis auch hier:</p>
   <li><b>Programmierbare Rechner der 2. Generation</b> swie die Extraseite <i>wang320</i></li>
   <li><b>Programmierbare Rechner der 3. Generation</b> sowie die Extraseite <i>wang700</i></li>
   <li><b>Kommerzielle Rechner</b> sowie die Extraseite <i>ncr446</i>, <i>nixdorf820</i></li>
-  <li><b>Univac 9400</b> sowie <i>11</i> zugehörige Extraseiten</li>
+  <li><b>Univac 9400</b> sowie <i>11</i> zugehÃ¶rige Extraseiten</li>
   <li>Die Extraseiten zu den <b>Speichermedien</b>, und zwar <i>Threaded ROM</i>, <i>Magnetic Stick Memory</i>
       sowie <i>Plated Wire Storage</i>.</li>
 </ul>
 
 <p><b>Stand: $Date$</b></p>
 
-<h3>Übersicht der vorhandenen Grafiken</h3>
+<h3>Ãœbersicht der vorhandenen Grafiken</h3>
 <div class="box" name="hoverbox" style="background-image:url(binary.png);">
     <h4><a name="binary.png" href="binary.png">binary.png</a></h4>
     <p>Allgemeine Fallback-Grafik, wird bei Seiten wie Start/Suche/Impressum verwendet. Dargestellt sind kleine
        Nullen und Einsen, die in einem Vektorgrafikprogramm (<a href="http://www.inkscape.org">Inkscape</a>)
-       gezeichnet wurden. In den dargestellten Oktetts ist eine Botschaft des Künstlers enthalten
-       (durch die nachträgliche Ausgrauung nach rechts kann diese allerdings vermutlich nicht mehr gelesen werden)
+       gezeichnet wurden. In den dargestellten Oktetts ist eine Botschaft des KÃ¼nstlers enthalten
+       (durch die nachtrÃ¤gliche Ausgrauung nach rechts kann diese allerdings vermutlich nicht mehr gelesen werden)
        ;-)
     </p>
 </div>
@@ -113,18 +114,18 @@ Hinweis auch hier:</p>
 <div class="box" name="hoverbox" style="background-image: url(elektro-mechanik.jpg);">
     <h4><a name="elektro-mechanik.jpg" href="elektro-mechanik.jpg">elektro-mechanik.jpg</a></h4>
     <p>Selbsterstellte Fotografie einer Sprossenradmaschine. Mit GIMP Kontrast und Farben
-       rausgeholt sowie Kachelübergang geglättet.</p>
+       rausgeholt sowie KachelÃ¼bergang geglÃ¤ttet.</p>
 </div>
 
 <div class="box" name="hoverbox" style="background-image: url(fernsehen.jpg);">
     <h4><a name="fernsehen.jpg" href="fernsehen.jpg">fernsehen.jpg</a></h4>
     <p>Drei eingescannte Bilder, wobei die antike Fernsehkamera freigestellt wurde. Untendrunter
-       ist ein Testbild abgebildet (farblos) und ein selbsterklärendes Bild ("3 Minuten Pause").</p>
+       ist ein Testbild abgebildet (farblos) und ein selbsterklÃ¤rendes Bild ("3 Minuten Pause").</p>
 </div>
 
 <div class="box" name="hoverbox" style="background-image: url(elektronenroehren.jpg);">
     <h4><a name="elektronenroehren.jpg" href="elektronenroehren.jpg">elektronenroehren.jpg</a></h4>
-    <p>Typische Schaltung von Rechnern mit Elektronenröhren. Die Röhren in dem Schaltbild wurden
+    <p>Typische Schaltung von Rechnern mit ElektronenrÃ¶hren. Die RÃ¶hren in dem Schaltbild wurden
        mit GIMP besonders hervorgehoben und die restliche Schaltung leicht abgewandelt.
 </div>
 
@@ -136,7 +137,7 @@ Hinweis auch hier:</p>
 <div class="box" name="hoverbox" style="background-image:url(lochkarte.jpg);">
     <h4><a name="lochkarte.jpg" href="lochkarte.jpg">lochkarte.jpg</a></h4>
     <p>Eingescannte Lochkarte, freigestellt auf schwarzen Hintergrund. Mit etwas Anstrengung
-    kann man sogar die Beschriftung lesen oder den Text anhand der Lochungen erschließen (ASCII).</p>
+    kann man sogar die Beschriftung lesen oder den Text anhand der Lochungen erschlieÃŸen (ASCII).</p>
 </div>
 
 <div class="box" name="hoverbox" style="background-image:url(messtechnik.jpg);">
@@ -154,7 +155,7 @@ Hinweis auch hier:</p>
     <h4><a name="rundfunk.jpg" href="rundfunk.jpg">rundfunk.jpg</a></h4>
     <p>Es handelt sich hier um Noten von Richard Strauss
        <a class="wiki" href="http://de.wikipedia.org/wiki/Till_Eulenspiegels_lustige_Streiche">Till Eulenspiegels lustige Streiche</a>, Opus 28,
-       einer sinfonischen Dichtung für Orchester. Das Bild zeigt Takt 531 (das komplette System) und ist
+       einer sinfonischen Dichtung fÃ¼r Orchester. Das Bild zeigt Takt 531 (das komplette System) und ist
        eingescannt von Seite 83 aus einer Studienpatitur, erschienen in Edition Eulenburg Nr. 443, EE 3502.
        <br>Es wird verwendet auf den Seiten Rundfunk und Tonaufnahme- und Wiedergabetechnik.
     </p>
@@ -162,15 +163,15 @@ Hinweis auch hier:</p>
 
 <div class="box" name="hoverbox" style="background-image:url(tabelliermaschine.png);">
     <h4><a name="tabelliermaschine.png" href="tabelliermaschine.png">tabelliermaschine.png</a></h4>
-    <p>Diese Grafik basiert auf einer Abbildung von Typenrädern (eingescannt). Diese wurde
+    <p>Diese Grafik basiert auf einer Abbildung von TypenrÃ¤dern (eingescannt). Diese wurde
        zwecks Kachelung entzerrt (Photoshop) und dann freigestellt/sterilisiert (GIMP).
        Dadurch sind auch einzelne Verzerrungen und Ungleichheiten (an den Ziffern) zu sehen.</p>
 </div>
 
 <div class="box" name="hoverbox" style="background-image:url(transistoren.png);">
     <h4><a name="transistoren.png" href="transistoren.png">transistoren.png</a></h4>
-    <p>Auch hier ein Scan eines Schaltplans, anschließend mit GIMP modifiziert, sodass die
-       zwei Transistoren besonders zur Geltung kommen und eine Kachelung möglich ist.</p>
+    <p>Auch hier ein Scan eines Schaltplans, anschlieÃŸend mit GIMP modifiziert, sodass die
+       zwei Transistoren besonders zur Geltung kommen und eine Kachelung mÃ¶glich ist.</p>
 </div>
 
 <div class="box" name="hoverbox" style="background-image:url(autos.png);">
@@ -178,8 +179,8 @@ Hinweis auch hier:</p>
     <p>Diese VW-Beetles, genutzt auf der <a href="/de/geraete/univac9400/kosten.shtm">Univac-Kosten</a>-Seite,
        basieren auf einer
        <a href="http://openclipart.org/media/files/Chrisdesign/3732">OpenClipart-Vektorgrafik</a>. Sie wurden
-       so dimensioniert, dass sie auf der Univac-Kosten-Seite etwa 500 Stück ergeben. Grafik erstellt
-       mit Inkscape und zum technikum29-Blau verfärbt mit GIMP.</p>
+       so dimensioniert, dass sie auf der Univac-Kosten-Seite etwa 500 StÃ¼ck ergeben. Grafik erstellt
+       mit Inkscape und zum technikum29-Blau verfÃ¤rbt mit GIMP.</p>
 </div>
 
 <div class="clear">&nbsp;</div>

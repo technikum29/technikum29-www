@@ -3,6 +3,7 @@
 <head>
     <title>technikum29.de: /shared/img/fresh.design</title>
     <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
 </head>
 <body>
@@ -14,15 +15,15 @@
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2>Grafiken des <a href="/shared/img/fresh.design">fresh-Designs</a></h2>
-<p>In diesem Verzeichnis befinden sich sämtliche Grafiken, die speziell für die Darstellung des aktuellen technikum29-Seitendesigns, dem <b>fresh.design</b>, notwendig sind. Zusätzlich zu diesen Bildern benötigt das fresh.design auch noch den passenden Banner der Homepage, er wird aus dem Verzeichnis <a href="/shared/img/banner/">/shared/img/banner</a> geladen.</p>
+<p>In diesem Verzeichnis befinden sich sÃ¤mtliche Grafiken, die speziell fÃ¼r die Darstellung des aktuellen technikum29-Seitendesigns, dem <b>fresh.design</b>, notwendig sind. ZusÃ¤tzlich zu diesen Bildern benÃ¶tigt das fresh.design auch noch den passenden Banner der Homepage, er wird aus dem Verzeichnis <a href="/shared/img/banner/">/shared/img/banner</a> geladen.</p>
 
-<p>In seiner Funktion erfüllt dieses Verzeichnis die gleiche Aufgabe wie sein Gegenspieler, <a href="/shared/img/screen.design">/shared/img/screen.design</a>. Siehe auch <a href="/shared/img">/shared/img/</a> für einen größeren Überblick.</p>
+<p>In seiner Funktion erfÃ¼llt dieses Verzeichnis die gleiche Aufgabe wie sein Gegenspieler, <a href="/shared/img/screen.design">/shared/img/screen.design</a>. Siehe auch <a href="/shared/img">/shared/img/</a> fÃ¼r einen grÃ¶ÃŸeren Ãœberblick.</p>
 
-<h3>Navigationsleistenhintergründe</h3>
-<p>Dem Verzeichnis <a href="/shared/img/fresh.design/menu-bg">/shared/img/fresh.design/menu-bg</a> kommt eine außergewöhnliche Bedeutung zu, die es fast legitimieren würde, dass dieses Verzeichnis sich in den Spähren der inhaltlichen Homepagebilder unter <a href="/shared/photos">/shared/photos</a> befinden dürfte: Hier sind die Grafiken für ein besonderes "Gimmick" des Freshdesigns gespeichert. Jeder Homepage-Seite kann im fresh-design nämlich ein individueller Navigationsleistenhintergrund zugewiesen werden. Auf diese Weise kommt der breiten Leiste auf der rechten Bildschirmseite auch eine inhaltliche Bedeutung zu. Siehe die <a href="menu-bg">Dokumentation zu den Navigationsleistenhintergründen</a> für weitere Informationen.</p>
+<h3>NavigationsleistenhintergrÃ¼nde</h3>
+<p>Dem Verzeichnis <a href="/shared/img/fresh.design/menu-bg">/shared/img/fresh.design/menu-bg</a> kommt eine auÃŸergewÃ¶hnliche Bedeutung zu, die es fast legitimieren wÃ¼rde, dass dieses Verzeichnis sich in den SpÃ¤hren der inhaltlichen Homepagebilder unter <a href="/shared/photos">/shared/photos</a> befinden dÃ¼rfte: Hier sind die Grafiken fÃ¼r ein besonderes "Gimmick" des Freshdesigns gespeichert. Jeder Homepage-Seite kann im fresh-design nÃ¤mlich ein individueller Navigationsleistenhintergrund zugewiesen werden. Auf diese Weise kommt der breiten Leiste auf der rechten Bildschirmseite auch eine inhaltliche Bedeutung zu. Siehe die <a href="menu-bg">Dokumentation zu den NavigationsleistenhintergrÃ¼nden</a> fÃ¼r weitere Informationen.</p>
 
-<h3>Rechtliches: Verwendung der Designgrafiken außerhalb der Homepage</h3>
-<p>Dieses technikum29-Designs basiert maßgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element für den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrückliche Genehmigung untersagt.</p>
+<h3>Rechtliches: Verwendung der Designgrafiken auÃŸerhalb der Homepage</h3>
+<p>Dieses technikum29-Designs basiert maÃŸgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element fÃ¼r den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrÃ¼ckliche Genehmigung untersagt.</p>
 <!--#include virtual="/src/templates/copyright.txt" -->
 
 </div>

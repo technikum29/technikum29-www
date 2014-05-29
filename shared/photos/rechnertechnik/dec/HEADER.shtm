@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de Photos</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
@@ -15,7 +15,7 @@
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 <h2>DEC-Photos</h2>
 
-<p>Fotos für die DEC-Rechner, <a href="/de/rechnertechnik/fruehe-computer.shtm">Fruehe Computer</a></p>
+<p>Fotos fÃ¼r die DEC-Rechner, <a href="/de/rechnertechnik/fruehe-computer.shtm">Fruehe Computer</a></p>
 
 <!--#include virtual="/src/templates/photo-copyright.txt" -->
 

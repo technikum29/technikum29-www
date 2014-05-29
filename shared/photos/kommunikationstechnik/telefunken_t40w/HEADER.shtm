@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de /shared/photos/kommunikationstechnik</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
@@ -15,7 +15,7 @@
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 <h2>Photos zum Telefunken T40W</h2>
 
-<p>Diese Bilder wurden im März 2009 (SVN-Revision 88) erstellt für die Seite
+<p>Diese Bilder wurden im MÃ¤rz 2009 (SVN-Revision 88) erstellt fÃ¼r die Seite
 <a href="/de/geraete/telefunken_t40w.shtm">Telefunken T40W</a>.</p>
 
 <!--#include virtual="/src/templates/photo-copyright.txt" -->

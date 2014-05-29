@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de /shared/photos</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
@@ -14,11 +14,19 @@
 <!--#set var="TEMPLATE:lastmod" value="15.10.2007 18:30<br>Januar 2011" -->
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 <h2>Das Photoverzeichnis von technikum29</h2>
-<p>In diesem Verzeichnis befinden sich, auf Unterverzeichnisse verteilt, sämtliche inhaltliche
-Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte Photographien.</p>
+<p>In diesem Verzeichnis befinden sich, auf Unterverzeichnisse verteilt, sÃ¤mtliche inhaltliche
+Bilder der technikum29.de-WebprÃ¤senz. Im Wesentlichen sind das JPG-komprimierte Photographien.</p>
 
 <p>This directory contains all photos from the <a href="/">technikum29.de homepage</a>. See
 <a href="http://dev.technikum29.de">The development portal</a> for further details.</p>
+
+
+<p>Seit Version 5.5. sind diese in drei Ordner unterteilt, die bei grÃ¶ÃŸeren Themenkomplexen nochmals in Unterordner untergliedert sind:</p>
+<ul>
+    <li><a href="start/">Photos fÃ¼r die Startseite</a> &ndash; meistens genutzt im aktuellen Bereich</li>
+    <li><a href="kommunikationstechnik/">Photos der Kommunikationstechnik</a></li>
+    <li><a href="rechnertechnik/">Photos der Rechnertechnik</a></li>
+</ul>
 
 <!--#include virtual="/src/templates/photo-copyright.txt" -->
 
@@ -29,12 +37,12 @@ Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte 
    * Bilder werden nach Kategorien in Ordner eingeteilt (z.B. Start, Rechnertechnik,
      Kommunikationstechnik)
 
-   * Für Hersteller/Bildergalerien/etc., die viele Bilder umfassen, sollten
+   * FÃ¼r Hersteller/Bildergalerien/etc., die viele Bilder umfassen, sollten
      Unterordner geschaffen werden (z.B. UNIVAC, DEC, ...)
 
    * einheitliches Format von Dateinamen:
         (hersteller)_nameNummer.jpg  oder ...-nameNummer.jpg
-        maximale Informationen und trotzdem kürzester Name
+        maximale Informationen und trotzdem kÃ¼rzester Name
 
         z.B.  dec_pdp8.jpg  telefunken_rat800.jpg   eai180.jpg
               wang2200.jpg  hellfax_bs110.jpg       loewe_ferrofon.jpg
@@ -47,18 +55,18 @@ Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte 
 
    * einheitlichs Format von Dateinamen zur Archivierung:
        (dateiname)<b>.old</b>.jpg    (dateiname).old[X].jpg
-       wenn nötig auch:    old.(dateiname).jpg
+       wenn nÃ¶tig auch:    old.(dateiname).jpg
 
 
-   * prinzipiell natürlich:
+   * prinzipiell natÃ¼rlich:
      * nur Kleinschreibung
      * keine Leerzeichen, keine Sonderzeichen
 
    * vor allem gilt auch:
-     * Niemals alte Versionen wegschmeißen, falls sie nicht trivial sind!
+     * Niemals alte Versionen wegschmeiÃŸen, falls sie nicht trivial sind!
 
 
-  13.04.2006/17:30 für Version 5.5
+  13.04.2006/17:30 fÃ¼r Version 5.5
 </pre>
 </div>
 <!--#include virtual="/src/templates/autoindex.shtm" -->

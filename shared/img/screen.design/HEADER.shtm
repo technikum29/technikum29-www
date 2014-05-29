@@ -3,6 +3,7 @@
 <head>
     <title>technikum29.de: /shared/img/screen.design</title>
     <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
 </head>
 <body>
@@ -14,13 +15,13 @@
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2>Grafiken des <a href="/shared/img/screen.design">screen-Designs</a></h2>
-<p>In diesem Verzeichnis befinden sich sämtliche Grafiken, die speziell für die Darstellung des ehemaligen technikum29-Seitendesigns, dem <b>screen.design</b>, notwendig sind. Zusätzlich zu diesen Bildern benötigt das screen.design auch noch den passenden Banner der Homepage, er wird aus dem Verzeichnis <a href="/shared/img/banner/">/shared/img/banner</a> geladen.</p>
+<p>In diesem Verzeichnis befinden sich sÃ¤mtliche Grafiken, die speziell fÃ¼r die Darstellung des ehemaligen technikum29-Seitendesigns, dem <b>screen.design</b>, notwendig sind. ZusÃ¤tzlich zu diesen Bildern benÃ¶tigt das screen.design auch noch den passenden Banner der Homepage, er wird aus dem Verzeichnis <a href="/shared/img/banner/">/shared/img/banner</a> geladen.</p>
 
-<p>In seiner Funktion erfüllt dieses Verzeichnis die gleiche Aufgabe wie sein Gegenspieler, <a href="/shared/img/fresh.design">/shared/img/fresh.design</a>. Siehe auch <a href="/shared/img">/shared/img/</a> für einen größeren Überblick.</p>
+<p>In seiner Funktion erfÃ¼llt dieses Verzeichnis die gleiche Aufgabe wie sein Gegenspieler, <a href="/shared/img/fresh.design">/shared/img/fresh.design</a>. Siehe auch <a href="/shared/img">/shared/img/</a> fÃ¼r einen grÃ¶ÃŸeren Ãœberblick.</p>
 
 
-<h3>Rechtliches: Verwendung der Designgrafiken außerhalb der Homepage</h3>
-<p>Dieses technikum29-Designs basiert maßgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element für den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrückliche Genehmigung untersagt.</p>
+<h3>Rechtliches: Verwendung der Designgrafiken auÃŸerhalb der Homepage</h3>
+<p>Dieses technikum29-Designs basiert maÃŸgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element fÃ¼r den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrÃ¼ckliche Genehmigung untersagt.</p>
 <!--#include virtual="/src/templates/copyright.txt" -->
 
 </div>

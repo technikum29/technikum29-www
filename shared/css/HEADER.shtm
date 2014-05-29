@@ -4,6 +4,7 @@
     <title>technikum29.de: /shared/css/</title>
     <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
     <link rel="stylesheet" href="/src/css/autoindex.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
 </head>
 <body>
@@ -15,30 +16,30 @@
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2>Verzeichnis <a href="/shared/css/">/shared/css/</a></h2>
-<p>In diesem Verzeichnis befinden sich sämtliche Designinformationen (Stylesheets, CSS) über die in der Homepage verwendeten Designs.</p>
+<p>In diesem Verzeichnis befinden sich sÃ¤mtliche Designinformationen (Stylesheets, CSS) Ã¼ber die in der Homepage verwendeten Designs.</p>
 
 <h3>Aktuelle CSS-Dateien</h3>
-<p>Seit Version 5.7 gibt es ein einfaches Konzept für alle wichtigen CSS-Dateien, basierend auf zwei zentralen unabhängigen Hauptdesigns. Alle CSS-Dateien seit Version 5.7 sind sehr gut und ausführlich (in deutsch) dokumentiert (d.h. kommentiert) und versioniert.</p>
+<p>Seit Version 5.7 gibt es ein einfaches Konzept fÃ¼r alle wichtigen CSS-Dateien, basierend auf zwei zentralen unabhÃ¤ngigen Hauptdesigns. Alle CSS-Dateien seit Version 5.7 sind sehr gut und ausfÃ¼hrlich (in deutsch) dokumentiert (d.h. kommentiert) und versioniert.</p>
 
 <ul class="icons">
-    <li class="layout_content"><a href="screen.css">Screen-Design</a>. Die zentrale CSS-Datei für das ehemalige Bildschirmdesign der technikum29.de-Seite.</li>
-    <li class="layout_content"><a href="fresh.css">Fresh-Design</a>. Die zentrale CSS-Datei für das neue Bildschirmdesign der technikum29.de-Seite (seit Version 5.7)</li>
-    <li class="layout_link"><a href="common.css">Screen &amp; Fresh-Design: Common Styles</a>. (Ursprünglich) gedacht für zwischen den beiden gleichberechtigten Seitendesigns gemeinsam genutzte Stile. Hier werden spezielle Designanweisungen gespeichert, die von einzelnen Inhaltsseiten genutzt werden (z.B. Startseite oder UNIVAC-Seite). Außerdem ist das ehemalige <tt>print.css</tt> hier eingebaut, zwecks Ladezeit. Mithilfe des Drucklayouts sind moderne Browser in der Lage, aus jeder technikum29.de-Seite eine sinnvolle Druckversion mit nur dem nötigsten Inhalt zu generieren.</li>
-    <li class="lightning"><a href="fresh-iefixing.css">Fresh-Design: Korrekturen für den Internet Explorer 6</a>. Die etwa 30% IE6-Benuter (Stand Juli 07) müssen zu jeder Seite dieses absurde CSS, Paradebeispiel für Javascript-getränkte Microsoft-Stylesheets, laden, um das neue Fresh-Design der Version 5.7 mit Kompromissen anzeigen zu können.</li>
-    <li class="layout_header"><a href="startseite.css">Design der absoluten Startseite</a>. Alleinstehendes Design für die unabhängige internationale <a href="/">Startseite</a>.</li>
+    <li class="layout_content"><a href="screen.css">Screen-Design</a>. Die zentrale CSS-Datei fÃ¼r das ehemalige Bildschirmdesign der technikum29.de-Seite.</li>
+    <li class="layout_content"><a href="fresh.css">Fresh-Design</a>. Die zentrale CSS-Datei fÃ¼r das neue Bildschirmdesign der technikum29.de-Seite (seit Version 5.7)</li>
+    <li class="layout_link"><a href="common.css">Screen &amp; Fresh-Design: Common Styles</a>. (UrsprÃ¼nglich) gedacht fÃ¼r zwischen den beiden gleichberechtigten Seitendesigns gemeinsam genutzte Stile. Hier werden spezielle Designanweisungen gespeichert, die von einzelnen Inhaltsseiten genutzt werden (z.B. Startseite oder UNIVAC-Seite). AuÃŸerdem ist das ehemalige <tt>print.css</tt> hier eingebaut, zwecks Ladezeit. Mithilfe des Drucklayouts sind moderne Browser in der Lage, aus jeder technikum29.de-Seite eine sinnvolle Druckversion mit nur dem nÃ¶tigsten Inhalt zu generieren.</li>
+    <li class="lightning"><a href="fresh-iefixing.css">Fresh-Design: Korrekturen fÃ¼r den Internet Explorer 6</a>. Die etwa 30% IE6-Benuter (Stand Juli 07) mÃ¼ssen zu jeder Seite dieses absurde CSS, Paradebeispiel fÃ¼r Javascript-getrÃ¤nkte Microsoft-Stylesheets, laden, um das neue Fresh-Design der Version 5.7 mit Kompromissen anzeigen zu kÃ¶nnen.</li>
+    <li class="layout_header"><a href="startseite.css">Design der absoluten Startseite</a>. Alleinstehendes Design fÃ¼r die unabhÃ¤ngige internationale <a href="/">Startseite</a>.</li>
 </ul>
 
 <h3>Veraltete CSS-Dateien <i>(deprecated)</i></h3>
-<p>Quasi noch als Erblasten aus vergangenen Zeiten vorhanden sind folgende CSS-Dateien, die allesamt nur spärlich dokumentiert sind:</p>
+<p>Quasi noch als Erblasten aus vergangenen Zeiten vorhanden sind folgende CSS-Dateien, die allesamt nur spÃ¤rlich dokumentiert sind:</p>
 
 <ul class="icons">
-    <li class="page_white_error"><a href="details.css">Erweiterungscss für die Details</a>, z.B. <a href="/de/details1.shtm">/de/details1.shtm</a>. Hier werden Stile für Tabellen formuliert, die allerdings wegen allgemeinerer Benutzung Einzug in das <a href="common.css">common.css</a> halten sollen.</li>
-    <li class="page_white_error"><a href="extra.css">Alleinstehendes CSS für Extraseiten</a>. Dieses CSS ist seit v5.7. nicht mehr in Benutzung. Es wurde für Extraseiten verwendet, die ein von den normalen Seiten sehr unterschiedliches Design verwendeten (u.a. kleinerer Banner).</li>
-    <li class="page_white_error"><a href="start.css">Erweiterungscss für die Startseiten</a>. Für die sprachabhängigen Startseiten wurde diese Datei entworfen. Weil aber viele Seiten ihre eigenen Stile haben, wurden diese in die <a href="common.css">common.css</a> integriert. <i>start.css</i> ist jetzt nicht mehr in Benutzung.</li>
+    <li class="page_white_error"><a href="details.css">Erweiterungscss fÃ¼r die Details</a>, z.B. <a href="/de/details1.shtm">/de/details1.shtm</a>. Hier werden Stile fÃ¼r Tabellen formuliert, die allerdings wegen allgemeinerer Benutzung Einzug in das <a href="common.css">common.css</a> halten sollen.</li>
+    <li class="page_white_error"><a href="extra.css">Alleinstehendes CSS fÃ¼r Extraseiten</a>. Dieses CSS ist seit v5.7. nicht mehr in Benutzung. Es wurde fÃ¼r Extraseiten verwendet, die ein von den normalen Seiten sehr unterschiedliches Design verwendeten (u.a. kleinerer Banner).</li>
+    <li class="page_white_error"><a href="start.css">Erweiterungscss fÃ¼r die Startseiten</a>. FÃ¼r die sprachabhÃ¤ngigen Startseiten wurde diese Datei entworfen. Weil aber viele Seiten ihre eigenen Stile haben, wurden diese in die <a href="common.css">common.css</a> integriert. <i>start.css</i> ist jetzt nicht mehr in Benutzung.</li>
 </ul>
 
 <h3>Rechtliches: Verwendung der Designs anderswo</h3>
-<p>Die technikum29-Designs sind maßgeblich für den Wiederkennungswert der Webseite und zeichnen zudem den Charakter der Organisation aus. Sie sind daher wie Bilder zu behandeln, ihre Benutzung auf anderen Webseiten ist ohne ausdrückliche Genehmigung untersagt.</p>
+<p>Die technikum29-Designs sind maÃŸgeblich fÃ¼r den Wiederkennungswert der Webseite und zeichnen zudem den Charakter der Organisation aus. Sie sind daher wie Bilder zu behandeln, ihre Benutzung auf anderen Webseiten ist ohne ausdrÃ¼ckliche Genehmigung untersagt.</p>
 <!--#include virtual="/src/templates/copyright.txt" -->
 
 </div>

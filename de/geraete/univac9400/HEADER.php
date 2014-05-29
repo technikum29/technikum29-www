@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de Univac9400</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
@@ -13,6 +13,6 @@
 <div id="page">
 <h2>Details zur UNIVAC 9400</h2>
 
-<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.php">UNIVAC 9400-Großrechner</a> existieren:</p>
+<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.php">UNIVAC 9400-GroÃŸrechner</a> existieren:</p>
 
 <!--#include virtual="/src/templates/autoindex.php" -->

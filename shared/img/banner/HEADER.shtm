@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/etc/src/autoindex.css" type="text/css" title="technikum29">
 
     
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <meta http-equiv="Content-Script-Type" content="text/javascript">
     <meta http-equiv="Content-Style-Type" content="text/css">
 </head>
@@ -24,15 +24,15 @@
 
 <p>Im Verzeichnis <a href="/shared/img/banner/"><tt>/shared/img/banner/</tt></a> befinden sich einige offizielle sowie inoffizielle Banner- und Logos der <a href="/">technikum29.de</a>-Homepage.</p>
 
-<p><b>Hinweis zur Verwendung außerhalb der technikum29-Präsenz:</b> Diese Banner sind Eigentum von technikum29 und dürfen nur im Zusammenhang damit (Namensnennung, etc.) verwendet werden. Nehmen sie im Zweifelsfall <a href="/de/impressum">Kontakt auf</a>.</p>
+<p><b>Hinweis zur Verwendung auÃŸerhalb der technikum29-PrÃ¤senz:</b> Diese Banner sind Eigentum von technikum29 und dÃ¼rfen nur im Zusammenhang damit (Namensnennung, etc.) verwendet werden. Nehmen sie im Zweifelsfall <a href="/de/impressum">Kontakt auf</a>.</p>
 
 <h3>Banner der dritten Generation (Juli 2009)</h3>
 <p>Im Juli 2009 kam der Museumsdirektor auf die Idee, die wohldefinierte Farbtabelle, die
-seit über 6 Jahren Markenzeichen (Corporate Design) der technikum29.de-Webpräsenz war,
-über Bord zuwerfen zugunsten eines Grün-Blauen-Designs. Da das selbst in seinen Augen unschön
-aussah, wählte er die etwas abgeschwächte Form, in dem er das zweite frische Kernblau durch ein tristes
-Grau ersetzte. Das Ergebnis ist ein Banner, der flau und kraftlos wirkt, unterstützt
-durch die wesentlich zurückhaltendere Erscheinungsform der Schrift.</p>
+seit Ã¼ber 6 Jahren Markenzeichen (Corporate Design) der technikum29.de-WebprÃ¤senz war,
+Ã¼ber Bord zuwerfen zugunsten eines GrÃ¼n-Blauen-Designs. Da das selbst in seinen Augen unschÃ¶n
+aussah, wÃ¤hlte er die etwas abgeschwÃ¤chte Form, in dem er das zweite frische Kernblau durch ein tristes
+Grau ersetzte. Das Ergebnis ist ein Banner, der flau und kraftlos wirkt, unterstÃ¼tzt
+durch die wesentlich zurÃ¼ckhaltendere Erscheinungsform der Schrift.</p>
 <ul class="dir">
 <li class="img"><strong>Deutsch</strong>: <a
 href="/shared/img/banner/big.de-v3.png">/shared/img/banner/big.de-v3.png</a><br>
@@ -40,9 +40,9 @@ href="/shared/img/banner/big.de-v3.png">/shared/img/banner/big.de-v3.png</a><br>
 </ul>
 
 <h3>Neue Banner (seit v5.7)</h3>
-<p>Die neuen Banner seit v5.7 behalten die bewährte Farbtabelle seit v5.0 bei und verbinden
-sie mit frischen zeitgemäßen Designelementen (nichtlinearer Farbverlauf, Spiegelwurf,
-weißer Schatten). Sie waren ein wesentliches Element, welches dem Design damals den Namen
+<p>Die neuen Banner seit v5.7 behalten die bewÃ¤hrte Farbtabelle seit v5.0 bei und verbinden
+sie mit frischen zeitgemÃ¤ÃŸen Designelementen (nichtlinearer Farbverlauf, Spiegelwurf,
+weiÃŸer Schatten). Sie waren ein wesentliches Element, welches dem Design damals den Namen
 <i>fresh</i> gab.</p>
 
 <ul class="dir">
@@ -58,17 +58,17 @@ weißer Schatten). Sie waren ein wesentliches Element, welches dem Design damals 
 <li class="img"><strong>Nur Logo</strong>: <a href="/shared/img/banner/logo.png">/shared/img/banner/logo.png</a><br>
     <img src="/shared/img/banner/logo.png" alt="Big Banner logo only (web2.0)"></li>
 
-<li class="img"><strong>Schwarz auf Weiß</strong>: <a href="/shared/img/banner/light.png">/shared/img/banner/light.png</a><br>
+<li class="img"><strong>Schwarz auf WeiÃŸ</strong>: <a href="/shared/img/banner/light.png">/shared/img/banner/light.png</a><br>
     <img src="/shared/img/banner/light.png" alt="Big Banner black on white (web2.0)">
-    (Als Ersatz für den alten schwarz auf weiß-Banner, s.u.)
+    (Als Ersatz fÃ¼r den alten schwarz auf weiÃŸ-Banner, s.u.)
     </li>
 
 </ul>
 
 <h3>Alte Banner, mit Unterschrift</h3>
-<p>Im alten screen-Design gab es große und kleine Banner, jeweils für Inhalts- und Extraseiten</p>
+<p>Im alten screen-Design gab es groÃŸe und kleine Banner, jeweils fÃ¼r Inhalts- und Extraseiten</p>
 
-<b>Groß:</b>
+<b>GroÃŸ:</b>
 
 <ul class="dir">
 <li class="img"><strong>Deutsch</strong>: <a href="/shared/img/banner/big.de-old.jpg">/shared/img/banner/big.de-old.jpg</a><br>
@@ -92,21 +92,21 @@ weißer Schatten). Sie waren ein wesentliches Element, welches dem Design damals 
    <img src="/shared/img/banner/small.en.jpg" alt="banner small english"></li>
 </ul>
 
-<h3>Ältere Versionen</h3>
-<p>Diese Banner wurden nie benutzt, lediglich während der Entwicklung von v5.0:</p>
+<h3>Ã„ltere Versionen</h3>
+<p>Diese Banner wurden nie benutzt, lediglich wÃ¤hrend der Entwicklung von v5.0:</p>
 <ul>
 <li>Version 1:<br><img src="/shared/img/banner/banner-v1.old.jpg"></li>
 <li>version 2:<br><img src="/shared/img/banner/banner-v2.old.jpg"></li>
 </ul>
 
 <h3>Anderes</h3>
-<p>Für diese alten Banner gibt es die neuen Banner als Ersatz, siehe oben</p>
+<p>FÃ¼r diese alten Banner gibt es die neuen Banner als Ersatz, siehe oben</p>
 
 <ul class="dir">
 <li class="img"><strong>Nur Logo</strong>: <a href="/shared/img/banner/logo.jpg">/shared/img/banner/logo.jpg</a><br></p>
     <img src="/shared/img/banner/logo.jpg" alt="logo only"></li>
 
-<li class="img"><strong>inoffiziell</strong> ein nicht so toller Banner schwarz auf weiß:<br>
+<li class="img"><strong>inoffiziell</strong> ein nicht so toller Banner schwarz auf weiÃŸ:<br>
     <img src="/shared/img/banner/light.jpg" alt="light"></li>
 
 </ul>

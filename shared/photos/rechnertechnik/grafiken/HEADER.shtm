@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de Photos</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
 </head>
 <body>
@@ -19,12 +19,15 @@
 <a href="/de/rechnertechnik">Rechnertechnik</a> betreffen.</p>
 
 <h3>Zur Erstellung</h3>
-<p>Diese Grafiken wurden als Vektorgrafiken (<a class="wiki" href="http://de.wikipedia.org/wiki/SVG">SVG</a>) mit dem Open Source-Programm <a href="http://www.inkscape.org">Inkscape</a> erzeugt und anschließend gerendert und als stark komprimierte <a class="wiki" href="http://de.wikipedia.org/wiki/GIF">GIF</a>-Dateien veröffentlicht. Die Quelldateien sind <a href="/de/impressum" class="go">auf Anfrage</a> erhältlich.</p>
+<p>Diese Grafiken wurden als Vektorgrafiken (<a class="wiki" href="http://de.wikipedia.org/wiki/SVG">SVG</a>)
+mit dem Open Source-Programm <a href="http://www.inkscape.org">Inkscape</a> erzeugt und anschlieÃŸend
+gerendert und als stark komprimierte <a class="wiki" href="http://de.wikipedia.org/wiki/GIF">GIF</a>-Dateien
+verÃ¶ffentlicht. Die Quelldateien sind <a href="/de/impressum" class="go">auf Anfrage</a> erhÃ¤ltlich.</p>
 
 <p>Verwendet wurden folgende Schriften:</p>
 <ul>
-   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Trebuchet_MS">Trebuchet MS</a> für Überschriften</li>
-   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Calibri">Calibri</a> für den Text (einzelne Beschriftungen, etc.)</li>
+   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Trebuchet_MS">Trebuchet MS</a> fÃ¼r Ãœberschriften</li>
+   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Calibri">Calibri</a> fÃ¼r den Text (einzelne Beschriftungen, etc.)</li>
 
 <!--#include virtual="/src/templates/photo-copyright.txt" -->
 </div>

@@ -3,7 +3,7 @@
 <head>
     <title>technikum29.de /shared/</title>
     <meta name="t29.SVN" content="$Id$">
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"> 
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
     <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
     <link rel="stylesheet" href="/src/css/autoindex.css" type="text/css" title="technikum29.de">
 </head>
@@ -12,44 +12,22 @@
 <!--#include virtual="/src/inc/header.shtm" -->
 
 <div id="page">
-<!--#set var="TEMPLATE:lastmod" value="15.10.2007 15:40, 15.08.2008, 29.08.2008" -->
+<!--#set var="TEMPLATE:lastmod" value="15.10.2007, 08.2008, 29.05.2014" -->
 <!--#include virtual="/src/templates/lastmod.shtm" -->
 
 <h2>Verzeichnis <a href="/shared/">/shared/</a></h2>
-<p>Verzeichnis für multilingual genutzten Inhalt (Photos, Bilder, CSS-Dateien &amp; mehr).
-   Seit <a href="/CHANGELOG.txt">Version 5.8</a> sind alle Unterverzeichnisse dieses
-   Verzeichnisses ausführlich dokumentiert. Damit soll die Funktion der Ordnerstruktur
-   sofort ersichtlich werden.</p>
 
-<h3>Unterverzeichnis <a href="css/">css</a></h3>
-<p>Im Verzeichnis <a href="/shared/css/">/shared/css/</a> befinden sich sämtliche
-   Designinformationen (CSS). Siehe dort für eine ausführliche Übersicht über verwendete
-   und veraltete CSS-Dateien sowie Rechtliches zwecks Benutzung außerhalb der Homepage.
-   Zusätzlich sind alle CSS-Dateien mit ausführlichen Kommentaren versehen.</p>
-
-<h3>Unterverzeichnis <a href="img/">img</a></h3>
-<p>Im Verzeichnis <a href="/shared/img/">/shared/img/</a> befinden sich die Grafiken
-   für die technikum29-Designs. Siehe dort für eine ausführliche Übersicht über
-   die Unterverzeichnisse, deren Funktion sowie Rechtlichem zwecks Benutzung
-   außerhalb der Homepage.</p>
-
-<h3>Unterverzeichnis <a href="js/">js</a></h3>
-<p>Im Verzeichnis <a href="/shared/js/">/shared/js/</a> befinden sich sämtliche
-   JavaScript-Dateien, die in der Homepage in Benutzung sind. Siehe dort für eine
-   ausführliche Übersicht sowie deren Funktion. Zusätzlich sind die Scripte selbst
-   auch mit ausführlchen Kommentaren versehen.</p>
-
-<h3>Unterverzeichnis <a href="photos/">photos</a></h3>
-<p>Im Verzeichnis <a href="/shared/photos/">/shared/photos/</a> befinden sich die inhaltlichen Bilder der Homepage. Seit Version 5.5. sind diese in drei Ordner unterteilt, die bei größeren Themenkomplexen nochmals in Unterordner untergliedert sind:</p>
-<ul>
-    <li><a href="photos/start/">Photos für die Startseite</a> &ndash; meistens genutzt im aktuellen Bereich</li>
-    <li><a href="photos/kommunikationstechnik/">Photos der Kommunikationstechnik</a></li>
-    <li><a href="photos/rechnertechnik/">Photos der Rechnertechnik</a></li>
-</ul>
+<p>In diesem Verzeichnis sind die meisten multilingual genutzten Inhalte der technikum29-Website,
+  wie Fotos, Bilder, JavaScript- und CSS-Dateien, gespeichert.
+  Dieses Verzeichnis gibt es seit Version 5 der Homepage. Siehe den ehemaligen
+  <a href="/CHANGELOG.txt">Changelog</a> fÃ¼r eine (historische) Dokumentation der Unterverzeichnisse.
+  FÃ¼r eine moderne Dokumentation der technikum29-Webstruktur siehe die
+  <a href="http://labs.technikum29.de">technikum29 Laboraties-Website</a>.
+</p>
 
 <!--#include virtual="/src/templates/photo-copyright.txt" -->
 </div>
 <p class="seealso">
-    siehe auch: <a href="/changelog">CHANGELOG</a>, <a href="/etc/txt/roadmap">Roadmap</a>, <a href="/etc/txt/css-guide">Styleguide</a>, <a href="/etc/txt/start-styleguide">Startseiten-Stilübersicht</a>
+    siehe auch (historische Ressourcen): <a href="/changelog">CHANGELOG</a>, <a href="/etc/txt/roadmap">Roadmap</a>, <a href="/etc/txt/css-guide">Styleguide</a>, <a href="/etc/txt/start-styleguide">Startseiten-StilÃ¼bersicht</a>
 </p>
 <!--#include virtual="/src/templates/autoindex.shtm" -->

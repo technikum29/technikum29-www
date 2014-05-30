@@ -19,8 +19,11 @@ t29.menu.setup = function() {
 	t29.menu.side = $("nav.side");   // Hauptseitennavigation
 	t29.menu.beam = $("nav.guide");  // Strahlnavigation/Guide (Kopie von side)
 	t29.menu.rel = $("nav.rel");     // relative navigation im footer (vor/zurück)
-	t29.menu.collapsed.setup();
-	t29.menu.scroll.setup();
+	
+	if(t29.menu.side.hasClass("contains-menu")) {
+		t29.menu.collapsed.setup();
+		t29.menu.scroll.setup();
+	} // else: hasClass("contains-custom") -> keine Navigation
 	
 	// t29v6 launch: Guide-Menü erst mal deaktiviert
 	//t29.menu.guide.setup();

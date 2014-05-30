@@ -143,6 +143,16 @@ abstract class t29Host {
 		$publichost->setup();
 		return $publichost;
 	}
+
+	/**
+	 * "Factory" for creating an instance of $className as a singleton. 
+	 * You should really use detect() for auto-detection instead of 
+	 * forcing a host.
+	 * Only useful for explicitely calling t29ExternalHost by $external call.
+	 **/
+	static function create($className) {
+		return self::new_singleton($className)->setup();
+	}
 	
 	/**
 	 * A constructing method which is always called by the t29Host::detect() factory.
@@ -153,6 +163,8 @@ abstract class t29Host {
 	 * This method detects two things:
 	 *   1. if this host does Clean URLs (Suffix rewriting)
 	 *   2. if this host is *not* installed in its own virtualhost (i.e. on docroot). 
+	 *
+	 * @returns $this for chaining
 	 **/
 	private function setup() {
 		$this->is_rewriting_host = isset($_SERVER[self::env_hidesuffix_name]);
@@ -222,6 +234,7 @@ abstract class t29Host {
 		$this->script_filename = str_replace('\\', '/', $this->script_filename);
 		
 		//phpinfo(); exit;
+		return $this; // Chaining
 	}
 	
 	function check_url_rewrite() {
@@ -305,5 +318,34 @@ class t29HeribertHost extends t29Host {
 	function fillup_template_conf(&$template_conf) {
 		$template_conf['header_prepend'][] = 
 			'<meta name="t29.localfile" content="'.$_SERVER['SCRIPT_FILENAME'].'" id="localFileSource">';
+	}
+}
+
+/**
+ * Ein "external" Host, der Links mit voller URL angeben muss, etwa bei der
+ * Einbindung von CSS/JS, aber auch von Links.
+ * Genutzt fuer $external-Einbindung von technikum29.php
+ **/
+class t29ExternalHost extends t29Host {
+	public $hostname = "external";
+	public $target_host = 'http://www.technikum29.de';
+
+	function rewrite_link($link_target, $also_rewrite_prefix=false) {
+		$link_target = parent::rewrite_link($link_target, $also_rewrite_prefix);
+	
+		if($also_rewrite_prefix) {
+			// check if link has host part
+			if(!preg_match('#^http:#i', $link_target)) {
+				$sep = ($link_target{0} == '/') ? '' : '/';
+				$link_target = $this->target_host . $sep . $link_target;
+			}
+		}
+
+		return $link_target;
+	}
+
+	function fillup_template_conf(&$template_conf) {
+		$template_conf['header_prepend'][] = 
+			'<meta name="t29.host.from" content="'.$_SERVER['SERVER_NAME'].'">';
 	}
 }

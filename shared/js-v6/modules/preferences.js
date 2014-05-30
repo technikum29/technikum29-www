@@ -32,6 +32,7 @@ t29.prefs._store = {};
 
 t29.prefs.setup = function() {
 	c = t29.prefs.conf;
+	$.cookie.defaults = t29.prefs.cookie_options; // TEST/TODO: Bugfix cookie path ignored!
 	// read initial data
 	json_str = $.cookie(c.cookie_name);
 	t29.prefs._store = json_str ? JSON.parse(json_str) : {};

@@ -13,6 +13,6 @@
 <div id="page">
 <h2>Details zur UNIVAC 9400</h2>
 
-<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.php">UNIVAC 9400-Gro√ürechner</a> existieren:</p>
+<p>Folgende Detailseiten zum <a href="/de/rechnertechnik/univac9400.php">UNIVAC 9400-Groﬂrechner</a> existieren:</p>
 
 <!--#include virtual="/src/templates/autoindex.php" -->

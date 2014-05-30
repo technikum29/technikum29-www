@@ -11,7 +11,7 @@
  * er sonst sehr aufdringlich ist.
  *
  **/
-@media all and (max-width: 1199px) {
+@media all and (max-width: 1250px) { /* was: 1199px */
 	body {
 		background: #F4F4F4; /* BG von footer.attached */
 	}

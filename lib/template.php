@@ -489,7 +489,7 @@ class t29Template {
 			foreach($rls as $link) {
 				// do the host link renaming conversion. This is more important if
 				// there is a web_prefix than for the suffix rewriting.
-				//$link = $this->conf['host']->rewrite_link($link, true);
+				$link = $this->conf['host']->rewrite_link($link, true);
 				printf($template, $link);
 			}
 		}

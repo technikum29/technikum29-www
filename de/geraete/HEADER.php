@@ -13,7 +13,7 @@
 <div id="page">
 <h2>Detailseiten zu GerÃ¤ten</h2>
 
-<p>Im Folgenden eine Auflistung aller Detailseiten zu GerÃ¤ten. Weitere Inhalte erreichen Sie Ã¼ber die
+<p>Im Folgenden eine Auflistung aller Detailseiten zu Geräten. Weitere Inhalte erreichen Sie über die
 <a href="/">Startseite des technikum29-Computermuseums</a>.</p>
 
 <!--#include virtual="/src/templates/autoindex.php" -->

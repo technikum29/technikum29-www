@@ -38,9 +38,9 @@ class t29Cache {
 	private $mtime_cache_file = null; // needed for cache header output
 	private $is_valid = null; // cache output value
 
-	function __construct($debug=false, $verbose=false) {
+	function __construct($debug=false, $verbose=false, $skip=false) {
 		// default values
-		$this->skip = isset($_GET['skip_cache']);
+		$this->skip = isset($_GET['skip_cache']) || $skip;
 		$this->purge = isset($_GET['purge_cache']);
 		$this->debug = isset($_GET['debug_cache']) || $debug;
 		$this->verbose = isset($_GET['verbose_cache']) || $verbose || $this->debug;
@@ -273,18 +273,18 @@ class t29Cache {
 
 		if($this->skip) {
 			$this->print_info('skipped cache and cache saving.');
-			return; // do not save anything.
+			//return; // do not save anything.
+		} else {
+			if(!file_exists($this->cache_file)) {
+				if(!self::mkdir_recursive(dirname($this->cache_file)))
+					$this->print_error('Could not create recursive caching directories');
+			}
+			
+			if(@file_put_contents($this->cache_file, $content))
+				$this->print_info('Wrote output cache successfully');
+			else
+				$this->print_error('Could not write page output cache to '.$this->cache_file);
 		}
-		
-		if(!file_exists($this->cache_file)) {
-			if(!self::mkdir_recursive(dirname($this->cache_file)))
-				$this->print_error('Could not create recursive caching directories');
-		}
-		
-		if(@file_put_contents($this->cache_file, $content))
-			$this->print_info('Wrote output cache successfully');
-		else
-			$this->print_error('Could not write page output cache to '.$this->cache_file);
 
 		if($clear_ob_cache)
 			return $content;

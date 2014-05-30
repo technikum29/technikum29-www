@@ -51,9 +51,9 @@ class t29Template {
 		require_once $this->conf['lib'].'/logging.php';
 		$this->log = t29Log::get();
 		
-		// create a menu:
+		// create a menu, if not given:
 		require_once $this->conf['lib'].'/menu.php';
-		$this->menu = new t29Menu($this->conf);
+		$this->menu = isset($this->conf['menu']) ? $this->conf['menu'] : new t29Menu($this->conf);
 
 		// create localisation class:
 		require_once $this->conf['lib'].'/messages.php';
@@ -70,6 +70,8 @@ class t29Template {
 		// optional html headers which can be filled by hooks or parts
 		if(!isset($this->conf['header_prepend']))
 			$this->conf['header_prepend'] = array(); // list
+		elseif(is_string($this->conf['header_prepend']))
+			$this->conf['header_prepend'] = array($this->conf['header_prepend']); // string to list
 
 		// ask t29Host for configuration fillup
 		$this->conf['host']->fillup_template_conf($this->conf);
@@ -228,7 +230,9 @@ class t29Template {
   <?php
 	foreach($this->conf['header_prepend'] as $h) print $h."\n  ";
 	
-	if($this->conf['ajax']) print "\n  <meta name='t29.ajax' content='true'>";
+	$indicators = array('ajax', 'external');
+	foreach($indicators as $key)
+		if($this->conf[$key]) print "\n  <meta name='t29.$key' content='true'>";
   
 	if(isset($this->conf['version'])) printf('<meta name="t29.version" content="%s">', $this->conf['version']);
 	if(isset($_GET['debug']))
@@ -310,10 +314,19 @@ class t29Template {
 			<!-- Ende Test -->
 			
 			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
-			<nav class="side">
-				<?php $this->menu->print_menu(t29Menu::sidebar_menu, $this->conf['host']); ?>
+			<?php
+				$sidebar_contains_menu  = !isset($this->conf['sidebar_content']);
+			?>
+			<nav class="side <?php print $sidebar_contains_menu ? 'contains-menu' : 'contains-custom'; ?>">
+				<?php
+					if(!$sidebar_contains_menu)
+						// used in external page calls
+						print $this->conf['sidebar_content'];
+					else
+						$this->menu->print_menu(t29Menu::sidebar_menu, $this->conf['host']);
+				?>
 			</nav>
-			<!-- menu changing buttons are made with javascript -->
+			<!-- menu changing buttons are made with javascript, but  -->
 	</section>
 	<section class="sidebar bottom">
 		<!-- inhalte die unten ueber dem header sind -->
@@ -323,7 +336,13 @@ class t29Template {
 	<header class="banner">
 		<h2 class="visuallyhidden"><?php $p("sidebar-h2-mainnav"); ?></h2>
 		<nav class="horizontal">
-			<?php $this->menu->print_menu(t29Menu::horizontal_menu, $this->conf['host']); ?>
+			<?php
+				if(isset($this->conf['mainnav_content']))
+					// used in external page calls
+					print $this->conf['mainnav_content'];
+				else
+					$this->menu->print_menu(t29Menu::horizontal_menu, $this->conf['host']);
+			?>
 		</nav>
 		<nav class="top">
 			<h3 class="visuallyhidden"><?php $p("sidebar-h2-lang"); ?></h3>
@@ -364,7 +383,7 @@ class t29Template {
 			<form method="get" action="<?php $href($p('topnav-search-page')); ?>">
 				<span class="no-js"><?php $p('topnav-search-label'); ?>:</span>
 				<input type="text" value="" data-defaultvalue="<?php $p('topnav-search-label'); ?>" name="q" class="text">
-				<input type="submit" value="<? $p('topnav-search-label'); ?>" class="button">
+				<input type="submit" value="<?php $p('topnav-search-label'); ?>" class="button">
 			</form>
 		</nav>
     </header>
@@ -380,7 +399,7 @@ class t29Template {
 		$show_rel_prev = in_array('show-rel-prev', $this->current_link_classes);
 		
 	?>
-    <footer class="in-sheet <? if(!$print_footer_menu) print "empty-footer"; ?>">
+    <footer class="in-sheet <?php if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
 			<!-- hier wird nav.side die Liste per JS reinkopiert -->
 		</nav>
@@ -437,14 +456,18 @@ class t29Template {
   </footer>
 </div><!-- end of div id="footer-background-container" helper -->
 
-  <? /* JavaScript at the bottom for fast page loading */ ?>
+  <?php /* JavaScript at the bottom for fast page loading */ ?>
   <script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
   <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script>
   <?php
 	$this->print_ressourceloader_links('js', '  <script src="%s"></script>'.PHP_EOL);
   ?>
-  <? /* Piwik Noscript, Script selbst wird asynchron im JS-Bereich aufgerufen */ ?>
-  <noscript><img src="<? $p("js-piwik-noscript-imgsrc"); ?>" alt="" /></noscript>
+  <?php /* Piwik Noscript, Script selbst wird asynchron im JS-Bereich aufgerufen */ ?>
+  <noscript><img src="<?php $p("js-piwik-noscript-imgsrc"); ?>" alt="" /></noscript>
+  <?php
+	if(isset($this->conf['body_append']))
+		print $this->conf['body_append'];
+  ?>
 </body>
 </html>
 <?php

@@ -9,6 +9,9 @@
 if(defined('T29')) return false; // no nesting
 define('T29', true);
 
+// is it an external call?
+$external = isset($external);
+
 // at least the $seiten_id must be defined
 if(!isset($seiten_id)) {
 	print "<html><pre>The t29v6 WebStart file\n";
@@ -34,7 +37,7 @@ if(isset($_GET['debug'])) {
 	$_GET['rl_debug'] = true;
 }
 
-// check for url rewriting neccessarity
+// check for url rewriting neccessarity (skip at external calls)
 if($host->check_url_rewrite()) exit;
 
 $cache_dir = "$webroot/shared/cache";
@@ -50,22 +53,35 @@ elseif(isset($titel)) $title = $titel;
 else $titel = $title = false; // to be determined by navigation seiten_id.
 
 // try to determine the language from the file path
-$lang = substr($file, 1, 2);
+if(!isset($lang)) $lang = substr($file, 1, 2);
 if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists
 $lang_path = $languages[$lang][1]; # shorthand, relative to webroot. use "$webroot$lang_path" for local.
 
 // "AJAX" calls are our meaning for pages without chrome
 $ajax = isset($_GET['ajax']);
-if($ajax) {
+if(!$external && $ajax) {
 	// print only a minimal chrome, no caching.
 	require "$lib/ajax-template.php";
 	$ajax_tmpl = new t29AJAXTemplate($GLOBALS);
 	$ajax_tmpl->print_page();
-	// important: do not execute bottom code
+	// important: do not execute code further down (Templating stuff)
 	return true;
 }
 
 require "$lib/cache.php";
+
+// "External" pages which are not part of the t29 website
+if($external) {
+	// skip caching stuff. External pages don't get in touch with
+	// any navigation.xml or news.php etc.
+	require "$lib/template.php";
+	$header_cache = new t29Cache(/*debug*/false, /*verbose*/true, /*skip=memory only*/true);
+	$footer_cache = new t29Cache(/*debug*/false, /*verbose*/true, /*skip=memory only*/true);
+	$tmpl = new t29Template($GLOBALS);
+	$tmpl->create_separate_caches($header_cache, $footer_cache);
+	// important: do not execute caching stuff below
+	return true;
+}
 
 $page_cache = new t29Cache(false, true); // debug, verbose
 $page_cache->set_cache_file($webroot, $file);

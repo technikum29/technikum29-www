@@ -5,6 +5,10 @@
 	
 	$neues_menu = <<< MENU
 	
+- titel: "Notizen zum Digitalen"
+  text: "IBM029 auf Reisen"
+  link: "#Juni_2014"		
+	
 - titel: "Neu: Peripherie der IBM1130"
   text: "Lochstreifengeräte"
   link: "#Mai_2014"	
@@ -33,6 +37,14 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
 
 <ul class="news-feed">
+
+<li><h3>Juni 2014</h3>
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
+
+Unser Lochkartenstanzer IBM029 ist auf Reisen: In Tübingen steht er als Rhythmusgerät und zur Einbindung in Kunstobjekte für den Event "Notizen zum Digitalen" von: ***Wir, die #iBorgs*** als Leihgabe zur Verfügung.<br>
+Hier der Link zur Ausstellung:
+<a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/"> <b>Kunstamt Tübingen</b></a>
 
 <li><h3>Mai 2014</h3>
 <div class="box left clear-after">

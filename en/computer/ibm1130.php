@@ -18,6 +18,19 @@
 		The "AMPEX TMZ" (digital tape memory system) is connected to the equipment, so we are urgently looking for Manuals (schematics).<br>
 There is much to report about, but in first place the optical and electronical restoration of the Computer have to be realized.<br> This section will be continued within a short time.</p><br>
 
+<div class="desc-left borderless no-copyright">
+			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
+				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />
+			</a>
+			<p class="small"><b>Facit Paper tape devices</b><br>
+			Rewinder type 4015, punch type 4060, reader type 4001 and punch electronics type 5104<br>
+			Enlarge: click on picture!</p>
+		</div>
+	
+		<p>The pictured paper tape devices of the Facit 4000 series were connected to the system.
+<div class="clear"></div>
+
+
 <h3 id="blog-ibm">Restauration-Blog</h3>
 		<p class="small">
 		As we did for the restoration of the UNIVAC 9200, we will again have a repair

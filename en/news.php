@@ -4,6 +4,15 @@
 	$titel = "What's new?";
 	
 	$neues_menu = <<< MENU
+	
+- titel: "Art: Notes on digital"
+  text: "German art"
+  link: "#June_2014"
+	
+- titel: "Facit papertape device"
+  text: "IBM1130"
+  link: "#May_2014"
+  
 - titel: "IBM 1130"
   text: ""
   link: "#January_2014"
@@ -20,14 +29,7 @@
   text: "Technique and art"	
   link: "#Mai_2013"
 	
-- titel: "IBM 026 Card-Punch"
-  text: ""
-  link: "#April_2013"
-	
-
-  
-
-  
+ 
 
 MENU;
 // ende der menue-Eintraege
@@ -41,6 +43,21 @@ MENU;
 
 
     <ul class="news-feed">
+	<li><h3>June 2014</h3>
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
+
+Our Cardpunch IBM029 is on Travel: at Tuebingen, it stands as a rhythm instrument and is integratet into objects of art for the event "Notes on digital" by: *** We, the # iBorgs *** as a loan. <br>
+Here the link to the exhibition (in german):
+<a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/"> <b>Kunstamt Tuebingen</b></a>
+
+<li><h3>May 2014</h3>
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/facit4000.jpg" width="352" height="137" />
+		
+		Periphery of the 1130: Facit tape devices <a href="/en/computer/ibm1130.php#1130"><br>
+		<b>Look here</b></a> 
+		</div>
 	
 	<li><h3>January 2014</h3>
 <div class="box left clear-after">
@@ -78,13 +95,7 @@ Success! The BULL GAMMA 55 is up and running! An historical moment, <a href="/en
 	</div>
 	<br>
 	
-	
-<li><h3>April 2013</h3><br>
-<div class="box left clear-after">
-<img src="/shared/photos/rechnertechnik/ibm26.jpg" width="300" height="287" />
-IBM 026 Card Punch now in the technikum29 <a href="/en/computer/punchcard.php#026"><b><br>Look here</b></a><br><br>
-
-</div></li>
+	</li>
 	
 
 

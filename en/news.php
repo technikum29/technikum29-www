@@ -47,9 +47,11 @@ MENU;
 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
 
-Our Cardpunch IBM029 is on Travel: at Tuebingen, it stands as a rhythm instrument and is integratet into objects of art for the event "Notes on digital" by: *** We, the # iBorgs *** as a loan. <br>
-Here the link to the exhibition (in german):
-<a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/"> <b>Kunstamt Tuebingen</b></a>
+Our Cardpunch IBM029 goes on jorney: For some time, it is now part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).
+The exhebition's title could be translated to <a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/"><b>We the #iBorgs</b></a>
+(in some way taken exception to the smart phone omnipresence and Apple devices) and is
+embedded into the event <em>Some notes on modern digital lifestyle</em>.
+</div>
 
 <li><h3>May 2014</h3>
 <div class="box left clear-after">

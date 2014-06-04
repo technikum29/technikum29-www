@@ -22,12 +22,11 @@ There is much to report about, but in first place the optical and electronical r
 			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
 				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />
 			</a>
-			<p class="small"><b>Facit Paper tape devices</b><br>
-			Rewinder type 4015, punch type 4060, reader type 4001 and punch electronics type 5104<br>
-			Enlarge: click on picture!</p>
+			<p class="small"><a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg"><b>Facit paper tape devices</b></a>:<br>
+			Rewinder type 4015, punch type 4060, reader type 4001 and punch electronics type 5104
 		</div>
 	
-		<p>The pictured paper tape devices of the Facit 4000 series were connected to the system.
+		<p>The picture on the left hand side shows the paper tape devices of the Facit 4000 series that were connected to the system.
 <div class="clear"></div>
 
 
@@ -49,7 +48,9 @@ if we knew in advance how many bugs there are to resolve.</p><br>
 		<div class="desc-left">
 		<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-board.jpg">
 	<img src="/shared/photos/rechnertechnik/ibm-1130-board.jpg" alt="Modul der IBM1130" width="195" height="247" /></a>
-	<p class="small">Typical <b> SLT-module </b>. The IBM circuit diagram was printed on high-speed printers.<br>Disadvantage: heavy to read because all logic elements look identical. <br>Enlarge: click on picture!</p></div>
+	<p class="small">Typical <a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-board.jpg"><b>SLT-module</b></a>.
+	The IBM circuit diagram was printed on high-speed printers.
+	<br>Disadvantage: heavy to read because all logic elements look identical.</p></div>
 		
 		<p class="small">
 		
@@ -83,11 +84,10 @@ generation is working fine but the driver for the address lines 11, 12, 13,
 and 14 is missing since there is no board 7342! Somehow this has been removed
 from the machine! That is the worst case for every restoration project! A
 closer inspection revealed, that a second board, 4628, is also missing from
-the printer control. We are now looking desperately for replacement boards or
-at least the schematics. If you can help, please let us know!  (Pictures
-of the missing boards can be found in the "Wanted" area of this web site.)
+the printer control. We are now <a href="/en/wanted.php">looking desperately for replacement boards</a> or
+at least the schematics. If you can help, please <a href="/en/contact.php">let us know!</a>
 		
 		</small>
-		<p>Continuation follows</p>
+		<p><em>This section will be gradually continued.</em></p>
 		
 		

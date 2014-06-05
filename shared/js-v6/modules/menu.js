@@ -328,8 +328,8 @@ t29.menu.scroll.setup = function() {
 t29.menu.guide.setup = function() {
 	// Beam nur anzeigen wenn auf Seite, die auch in der Beamnavigation drin ist,
 	// sprich Seitenleiste.
-	if(t29.conf['seite_in_nav'] != t29.menu.side.attr('class'))
-		return;
+	if(!t29.menu.side.hasClass( t29.conf['seite_in_nav'] ))
+		return false;
 
 	// Zentraler Hauptschritt: Das Menue ab oberster Ebene klonen und im Footer dranhaengen,
 	// ausserdem ein paar Ummodellierungen.
@@ -337,6 +337,7 @@ t29.menu.guide.setup = function() {
 	t29.menu.side.find(".u1").clone().appendTo(g);
 	g.find("ul").show(); // durch t29.menu.collapse.setup wurden die .u3er auf hide gesetzt. Revert!
 	g.find(".geraete").remove(); // geraete-Links nicht anzeigen
+	g.find("ul.u2 > li > a").remove(); // Ueberschriften entfernen
 	
 
 	// Texte ersetzen durch laengere verstaendlichere Beschreibungen im title

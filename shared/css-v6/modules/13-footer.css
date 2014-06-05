@@ -20,6 +20,9 @@ footer.in-sheet {
 	/*border-top: 1px solid #5d5c58;*/
 	background: transparent url("/shared/img-v6/line.header-footer.png") top left repeat-x;
 	/* bgcolor was #f1f1f1  - transparent gesetzt um nur an einer stelle die farbe austauschen zu muessen */
+	
+	/* "Hacky" bugfix, um "Menue einblenden"-Button zu uebertuenchen: Doch farbe setzen */
+	background-color: #f7f7f7;
 }
 
 /* "Beam Navigation" nav.guide */
@@ -114,6 +117,14 @@ nav.guide a:hover .bullet, nav.guide a:focus .bullet {
 
 }
 
+/* Guide-Nav Juni 2014 revisited: Mittlerweile hat sich so viel geaendert, dass 
+ * ein paar Anpassungen/Ausblendungen noetig sind. Moeglicherweise ist das hier nicht
+ * ganz sauber sondern sollte im CSS gemacht werden:
+ */
+nav.guide li.button-box {
+	display: none;
+}
+
 /*nav.guide .current > a > .text { color: #40a8e2; }*/
 
 /* Relationale Navigation */
@@ -121,6 +132,11 @@ nav.rel {
 	position: relative;
 	margin: 26px 70px 0;
 	width: 800px;
+}
+
+nav.rel.empty {
+	/* Do not take space - bigfooter will take it  */
+	display: none;
 }
 
 nav.rel li {
@@ -239,7 +255,7 @@ footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }
 footer.attached {
 	/* @embed */ background: #307588 url("/shared/img-v6/bg-v2.body-footer.png") top left repeat-x;
 	margin-top: -122px;
-	padding: 122px 122px 10px;
+	padding: 130px 0 30px;
 	
 	color: white;
 	font-size: 14px;
@@ -251,50 +267,118 @@ footer.attached div.legacy {
 	font-size: 15px;
 }
 
-footer.attached ul {
-	width: 1170px;
-	margin: 10px auto 20px;
+footer.attached div.bigfooter {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+footer.attached div.bigfooter ul {
+	padding-left: 40px;
+}
+
+footer.in-sheet div.bigfooter {
+	padding-left: 30px;
+	padding-top: 20px; /* sheet: 40px padding */
+}
+
+div.bigfooter {
+	/* body ist 13, #content 15 */
+	font-size: 14px;
+}
+
+/* Bigfooter, der wahlweise nach footer.attached oder footer.in-sheet kommt */
+
+footer div.bigfooter ul {
+	/*width: 1170px;*/
+	/*margin: 10px auto 20px;*/
 	/* padding: 0 20px; *//* ueberfluessig, Breite allein reguliert schon */
 }
 
-footer.attached li {
-	width: 370px;
+footer div.bigfooter li {
+	width: 390px;
 	margin-right: 10px;
 	float: left;
 }
 
-footer.attached a:link, footer.attached a:visited {
+footer div.bigfooter a {
+	display: block;
+	padding: 10px;
+	
+	/* optionaler Effekt: Beim Hovern nicht ueber "ganze Breite" gehen */
+	display: inline-block;
+}
+
+footer div.bigfooter a:link, footer div.bigfooter a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+
+footer.attached div.bigfooter a:hover {
+	background-color: rgba(255,255,255,.1);
+	/* ganz subtiler Schatten */
+	box-shadow: 0 3px 10px rgba(255, 255, 255, 0.05);
+}
+
+footer.in-sheet div.bigfooter a:hover {
+	background-color: white;
+}
+
+footer.attached div.bigfooter a:link u, footer.attached div.bigfooter a:visited u {
 	color: #BAF1FF;
 }
 
-footer.attached a:hover {
+footer.in-sheet div.bigfooter a:link u, footer.in-sheet div.bigfooter a:visited u {
+	color: #205B6B;
+}
+
+footer.attached div.bigfooter a:hover u, footer.attached div.bigfooter a:focus u {
 	color: #3DD8FF;
 }
 
-footer.attached a.img {
+footer.in-sheet div.bigfooter a:hover u, footer.in-sheet div.bigfooter a:focus u {
+	color: #882224;
+}
+
+footer div.bigfooter i {
 	display: block;
 	float: left;
 	text-indent: -999px;
 }
 
-footer.attached p {
+footer div.bigfooter span.p {
+	display: block;
 	margin-left: 80px;
 	margin-top: 0px;
 	line-height: 115%;
 }
 
 
-footer.attached li.logo a.img {
-	background-image: url("/shared/img-v6/logo.footer.png");
-	width: 46px; height: 59px;
+footer div.bigfooter li.logo i {
+	/* @embed */ background-image: url("/shared/img-v6/logo.footer.png");
+	width: 36px; height: 46px;
 }
-footer.attached li.logo p { margin-left: 60px; }
+footer.in-sheet div.bigfooter li.logo i {
+	/* @embed */ background-image: url("/shared/img-v6/logo-dark.footer.png");
+}
 
-footer.attached li.copy a.img {
-	background-image: url("/shared/img-v6/cc-icon2.png");
-	width: 100px; height: 42px;
+footer div.bigfooter li.logo span.p {
+	margin-left: 47px;
+	margin-top: 7px;
 }
-footer.attached li.copy p { margin-left: 110px; }
+
+footer div.bigfooter li.copy {
+	width: 510px;
+}
+
+footer div.bigfooter li.copy i {
+	/* @embed */ background-image: url("/shared/img-v6/cc-icon2.png");
+	width: 100px; height: 42px;
+	opacity: .4; /* Todo: Unauffaelligeres Logo finden */
+}
+footer div.bigfooter li.copy span.p {
+	margin-left: 110px;
+	margin-top: 5px;
+}
 
 
 /* Creative Commons icon with pure CSS, on dark background */

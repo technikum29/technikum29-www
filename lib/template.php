@@ -398,12 +398,16 @@ class t29Template {
 		$show_rel_next = in_array('show-rel-next', $this->current_link_classes);
 		$show_rel_prev = in_array('show-rel-prev', $this->current_link_classes);
 		
+		// Footer-String, um Footer je nach Footer-Menue "da" oder "nicht da" einbinden zu koennen
+		$footer_text = <<<FOOTER
+		
+FOOTER;
 	?>
     <footer class="in-sheet <?php if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">
 			<!-- hier wird nav.side die Liste per JS reinkopiert -->
 		</nav>
-		<nav class="rel clearfix">
+		<nav class="rel clearfix <?php if(!$print_footer_menu) print "empty"; ?>">
 		<ul>
 			<?php
 			  //if($print_footer_menu)
@@ -423,29 +427,23 @@ class t29Template {
 			?>
 		</ul>
 		</nav>
+		<?php
+			// packe Bigfooter bei leerem Footer-Menue in footer.in-sheet
+			if(!$print_footer_menu)
+				$this->print_footer_text();
+		?>
 		<div class="right">
 			<!-- text der rechts unten steht -->
 		</div>
     </footer>
   </div> <!--! end of #container -->
   <footer class="attached">
-    <div class="legacy"><?php $p('footer-legacy-text'); ?></div>
-	<!--
-	<ul class="clearfix">
-	<li class="logo">
-		<a href="<?php $href($p('footer-legal-file')); ?>" class="img" title="technikum29 Logo">Logo</a>
-		<p><?php $p('footer-copyright-tag'); ?>
-		   <br><?php printf('<a href="%s">%s</a>', $href($_('footer-legal-file')), $_('footer-legal-link')); ?>
-		</p>
-	</li>
-	<li class="copy">
-		<a href="<?php $href($p('footer-legal-file')); ?>#image-copyright" class="img">CC</a>
-		<p>Viele Bilder können unter einer <a href="<?php $href($p('footer-legal-file')); ?>#image-copyright">CreativeCommons-Lizenz</a>
-		   verwendet werden. <a href="<?php $href($p('footer-legal-file')); ?>#image-copyright">Erkundigen Sie sich</a>.</p>
-	</li>
-	</ul>
-	-->
+    <!--<div class="legacy"><?php $p('footer-legacy-text'); ?></div>-->
 	<?php
+		// packe Bigfooter bei gefuelltem footer.in-sheet nach footer.attached.
+		if($print_footer_menu)
+			$this->print_footer_text();
+	
 		// pending log messages
 		if(!$this->log->is_empty()) {
 			echo '<ul class="messages footer nolist">';
@@ -454,7 +452,7 @@ class t29Template {
 		}
 	?>
   </footer>
-</div><!-- end of div id="footer-background-container" helper -->
+<?php /*</div><!-- end of div id="footer-background-container" helper -->*/ // seems misplaced ?>
 
   <?php /* JavaScript at the bottom for fast page loading */ ?>
   <script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
@@ -472,6 +470,33 @@ class t29Template {
 </html>
 <?php
 	} // function print_footer()
+	
+	/**
+	 * Den "Bigfooter"-Text ausgeben.
+	 * Hilfsfunktion fuer print_footer().
+	 * (Grund: Implementierung als langer String in print_footer() ist unbequem)
+	 **/
+	private function print_footer_text() {
+		$p = $this->msg->get_shorthand_printer(); // t29Messages gettext printer
+		$_ = $this->msg->get_shorthand_returner(); // t29Messages gettext
+		$href = $this->conf['host']->get_shorthand_link_returner(); // t29Host link rewriter
+		
+		?><div class="bigfooter">
+		    <ul class="clearfix">
+			<li class="logo"><a href="<?php print $href($_('footer-legal-file')); ?>" class="clearfix"><!-- FIXME: clearfix should be semantically performed -->
+				<i title="technikum29 Logo">Logo</i>
+				<span class="p"><?php $p('footer-copyright-tag'); ?>
+				<br><u><?php $p('footer-legal-link'); ?></u>
+				</span>
+			</a></li>
+			<li class="copy"><a href="<?php print $href($_('footer-legal-file')); ?>#image-copyright" class="clearfix">
+				<i>CC</i>
+				<span class="p">Viele Bilder können unter einer <u>CreativeCommons-Lizenz</u>
+				verwendet werden. <u>Erkundigen Sie sich</u>.</span>
+			</a></li>
+		    </ul>
+		</div><?php
+	}
 	
 	// Hilfsfunktionen
 	private function relational_link_to_string($a) {

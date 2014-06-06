@@ -15,7 +15,7 @@ class t29Menu {
 
 	// Bevor es eine ordentliche Dev-Moeglichkeit gibt: Der magische
 	// Schalter zum Ausblenden der Geraeteseiten im Menue
-	const hide_geraete_seiten = true;
+	public $hide_geraete_seiten = true;
 
 	// jeweils relativ zum lang_path
 	const navigation_file = 'navigation.xml';
@@ -70,7 +70,7 @@ class t29Menu {
 	 * @param $host Instance of t29Host which can be used for link rewriting if given.
 	 **/
 	function convert_news_data($host=null) {
-		require $this->conf['lib'].'/spyc.php';
+		require_once $this->conf['lib'].'/spyc.php';
 		$data = Spyc::YAMLLoad($this->load_news_data());
 		$fields = array('titel', 'text', 'link', /*'bild'*/);
 
@@ -294,7 +294,7 @@ class t29Menu {
 		}
 
 		// Geraete-Seiten entfernen
-		if(self::hide_geraete_seiten) {
+		if($this->hide_geraete_seiten) {
 			$geraete_uls = $xml->xpath("//ul[contains(@class, 'geraete')]");
 			foreach($geraete_uls as $ul) {
 				$uld = dom_import_simplexml($ul);

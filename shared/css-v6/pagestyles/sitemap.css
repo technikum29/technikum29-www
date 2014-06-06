@@ -1,0 +1,17 @@
+/**
+ * Styles fuer eine experimentelle Sitemap,
+ * 06. Juni 2014.
+ **/
+
+ul.sitemap ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+ul.sitemap b {
+	font-weight: normal;
+}
+
+ul.sitemap li.guide-only {
+	display: none;
+}

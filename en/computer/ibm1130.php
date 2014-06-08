@@ -86,7 +86,7 @@ from the machine! That is the worst case for every restoration project! A
 closer inspection revealed, that a second board, 4628, is also missing from
 the printer control. <br><br>
 
-<b>7.6.2014:</b> The card 7342 we are looking fore is just located in systems with memory expansion. These Mainframes are much rarer than the "small" IBM 1130 without the left-side table addition. Therefore, both the desired card as well as its circuit diagram are nowhere to be preserved.<br>
+<b>7.6.2014:</b> The card 7342, we are looking fore, is only located in systems with memory expansion. These Mainframes are much rarer than the "small" IBM 1130 without the left-side table addition. Therefore, both the desired card as well as its circuit diagram are nowhere to be preserved.<br>
 So we have worked out the circuit diagram of the wiring gradients and measurements and rebuilt the card. Now the core memory is running properly. This is a significant advance.
 		
 		</small>

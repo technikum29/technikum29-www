@@ -19,7 +19,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 6.6.2014</b></span><br>
+<span style="color:red"><b>Aktualisiert: 11.6.2014</b></span><br>
 <br> <br><br>
 
 <center><img src="robo.jpg" width="847" height="674" alt="Roboter" /></center>
@@ -34,7 +34,9 @@ Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmiers
 Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden, begrüßen und strahlen!</p>
 
 
-Hier kannst du das Blatt vom 11.6. öffnen: <a href="Robotic-Sensoren kennenlernen.pdf"> Sensoren besser kennenlernen</a>
+<b>>>>>></b> Hier kannst du das Blatt vom 11.6. öffnen: <a href="Robotic-Sensoren kennenlernen.pdf"> Sensoren besser kennenlernen</a>
+
+<br><br><br>
 
 
 

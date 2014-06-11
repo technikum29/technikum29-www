@@ -29,10 +29,12 @@
 <br><br>
 <big><b>Spielend Informatik lernen!</big></b><br><br>
 
-<br>Roboter bauen und programmieren macht Spaß, da man sofort sein Ergebnis sieht. In dieser AG lernst du mit grafischer Methode wie man Programme erstellt.<br>
+<br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In dieser AG lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden, begrüßen und strahlen!
+Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden, begrüßen und strahlen!</p>
 
+
+Hier kannst du das Blatt vom 11.6. öffnen: <a href="Robotic-Sensoren kennenlernen.pdf"> Sensoren besser kennenlernen</a>
 
 
 

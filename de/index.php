@@ -105,7 +105,15 @@
 			<p class="date"><em>2014</em> 18. Juni</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Mittwoch, der <b>18. Juni</b> um 15:00 Uhr<br>
-für die IBM-Gruppe Ffm.<br>
+IBM-Gruppe Ffm.<br>
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 21. Juni</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>21. Juni</b> um 15:00 Uhr<br>
+Oldtimer-Club Oppenheim<br>
 </div>
 
 <div class="box termin clear-after">
@@ -113,7 +121,7 @@ für die IBM-Gruppe Ffm.<br>
 			<p class="date"><em>2014</em> 11. Juli</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Freitag, der <b>11. Juli</b> um 12:00 Uhr<br>
-für eine Studentengruppe der Goethe-Universität Ffm.<br>
+Studentengruppe der Goethe-Universität Ffm.<br>
 </div>
 
 
@@ -166,7 +174,7 @@ Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@
 			<p class="date"><em>2014</em> 1. Aug.</p>	</div>
 	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
 	Termin: Freitag, der <b>1. August</b> 9:45-12:15 Uhr<br>
-für die Feriengruppe A<br>
+Feriengruppe A<br>
 </div>
 
 <div class="box termin clear-after">
@@ -174,7 +182,7 @@ für die Feriengruppe A<br>
 			<p class="date"><em>2014</em> 4. Aug.</p>	</div>
 	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
 	Termin: Montag, der <b>4. August</b> 9:45-12:15 Uhr<br>
-für die Feriengruppe B<br>
+Feriengruppe B<br>
 </div>
 
 

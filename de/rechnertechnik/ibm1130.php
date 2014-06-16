@@ -69,7 +69,9 @@
 		<b>11.1.2014:</b> Die harte Nuss entpuppt sich als starker Frust! Die Adressrechnung für den Speicher läuft falsch, da der Treiber für die Adressen 11, 12, 13, 14 fehlt. Die verantwortliche Steckkarte 7342 ist nicht vorhanden. Das ist so das Schlimmste, was passieren kann. Nach gründlicher Überprüfung zeigte sich, dass auch das 16-Bit Pufferregister (4628) für den Drucker fehlt.<br><br>
 		
 		<b>7.6.2014:</b> Die gesuchte Steckkarte 7342 befindet sich nur in Anlagen mit Speichererweiterung. Diese waren viel seltener als die "kleine" IBM 1130 ohne den linksseitigen Tisch-Zusatz. Daher sind sowohl die gesuchte Karte als auch deren Schaltbild nirgends zu erhalten.<br>
-		Wir haben das Schaltbild aus den Leiterbahnverläufen und Messungen herausgearbeitet und die Karte nachgebaut. Nun läuft der Kernspeicher einwandfrei. Das ist ein deutlicher Fortschritt.
+		Wir haben das Schaltbild aus den Leiterbahnverläufen und Messungen herausgearbeitet und die Karte nachgebaut. Nun läuft der Kernspeicher einwandfrei. Das ist ein deutlicher Fortschritt.<br><br>
+		
+		<b>16.6.2014:</b> Nun geht es in großen Schritten voran: Nach der intensiven Reinigung und Justage der Lesestation des Lochkartenlesers (IBM 1442) konnten wir zunächst die 7 "one-Card-Diagnostic" Programme laufen lassen um sicher zu stellen, dass sehr grobe Fehler in der CPU nicht vorhanden sind. Das sind sehr einfache Tests, die auch dann noch laufen, wenn gewisse Fehler vorhanden sind. Diese Tests liefen ohne Probleme. Der nächste größere Diagnostic-Test prüft den Konsoldrucker. Ohne dessen Funktion ist eine Kommunikation mit dem Rechner nicht möglich. Hier zeigt sich, dass der Kugelkopf-Drucker noch einige Defekte aufweist. In der Regel ist es verharztes Öl, was die Funktion stark beeinträchtigt.<br><br>
 		
 		</small>
 		<p>Fortsetzung folgt</p>

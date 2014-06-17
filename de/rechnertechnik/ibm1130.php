@@ -7,20 +7,22 @@
 ?>
 	<!-- per CSS wird das Hintergrundbild unter /shared/photos/rechnertechnik/ibm-logo.jpg
          eingebunden -->
-	<h2 class="hidden"><b>IBM 1130</b> "Elektronische Rechenanlage"</h2>
-	<div id="1130" class="text-ersatz" style="height: 21px;">
-		<img src="/shared/photos/rechnertechnik/ibm-logo.jpg"  width="304" height="42" />
+	<h2><b>IBM 1130</b>   "Elektronische Rechenanlage"</h2>
+	
+	
+	<div class="box center clear-after">
+		<img src="/shared/photos/rechnertechnik/ibm-register.jpg"  width="860" height="309" />	
 	</div>
+	<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert.<br>
+		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
+		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung (siehe "Reparatur-Blog"). Lesen Sie demnächst mehr an dieser Stelle. </p>
+	
 	
 	<div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />
 		<p class="bildtext"><b>IBM 1130</b></p>
 	</div>
-		<br>
-		<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert.<br>
-		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
-		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung (siehe "Reparatur-Blog"). Lesen Sie demnächst mehr an dieser Stelle. </p>
-		
+			
 		<div class="desc-left borderless no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
 				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />

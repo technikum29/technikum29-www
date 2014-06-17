@@ -278,7 +278,7 @@ footer.attached div.bigfooter ul {
 
 footer.in-sheet div.bigfooter {
 	padding-left: 30px;
-	padding-top: 20px; /* sheet: 40px padding */
+	padding-top: 15px; /* sheet: 40px padding */
 }
 
 div.bigfooter {
@@ -300,49 +300,75 @@ footer div.bigfooter li {
 	float: left;
 }
 
-footer div.bigfooter a {
+footer div.bigfooter .block,
+footer div.bigfooter .block:link,
+footer div.bigfooter .block:visited {
 	display: block;
 	padding: 10px;
 	
 	/* optionaler Effekt: Beim Hovern nicht ueber "ganze Breite" gehen */
 	display: inline-block;
-}
 
-footer div.bigfooter a:link, footer div.bigfooter a:visited {
 	text-decoration: none;
 	color: inherit;
 }
 
-footer.attached div.bigfooter a:hover {
+footer.attached div.bigfooter .block:hover {
 	background-color: rgba(255,255,255,.1);
 	/* ganz subtiler Schatten */
 	box-shadow: 0 3px 10px rgba(255, 255, 255, 0.05);
 }
 
-footer.in-sheet div.bigfooter a:hover {
+footer.in-sheet div.bigfooter .block,
+footer.in-sheet div.bigfooter .block:link,
+footer.in-sheet div.bigfooter .block:visited {
+	opacity: .6;
+}
+
+footer.in-sheet div.bigfooter .block:hover {
+	opacity: .9;
 	background-color: white;
 }
 
-footer.attached div.bigfooter a:link u, footer.attached div.bigfooter a:visited u {
+footer.attached div.bigfooter a u,
+footer.attached div.bigfooter a.u:link,
+footer.attached div.bigfooter a.u:visited,
+footer.attached div.bigfooter a.block:link u,
+footer.attached div.bigfooter a.block:visited u {
 	color: #BAF1FF;
 }
 
-footer.in-sheet div.bigfooter a:link u, footer.in-sheet div.bigfooter a:visited u {
+footer.in-sheet div.bigfooter a u,
+footer.in-sheet div.bigfooter a.u:link,
+footer.in-sheet div.bigfooter a.u:visited,
+footer.in-sheet div.bigfooter a.block:link u,
+footer.in-sheet div.bigfooter a.block:visited u {
 	color: #205B6B;
 }
 
-footer.attached div.bigfooter a:hover u, footer.attached div.bigfooter a:focus u {
+footer.attached div.bigfooter a.u:hover,
+footer.attached div.bigfooter a.u:hover,
+footer.attached div.bigfooter a.block:hover u,
+footer.attached div.bigfooter a.block:focus u {
 	color: #3DD8FF;
 }
 
-footer.in-sheet div.bigfooter a:hover u, footer.in-sheet div.bigfooter a:focus u {
+footer.in-sheet div.bigfooter a.u:hover,
+footer.in-sheet div.bigfooter a.u:focus,
+footer.in-sheet div.bigfooter a.block:hover u,
+footer.in-sheet div.bigfooter a.block:focus u {
 	color: #882224;
 }
 
 footer div.bigfooter i {
 	display: block;
 	float: left;
-	text-indent: -999px;
+	text-indent: -9999px;
+}
+
+footer div.bigfooter img {
+	/* Nur uebergangsweise fuer das "Haus", der Faulheit wegen */
+	float: left;
 }
 
 footer div.bigfooter span.p {
@@ -350,6 +376,23 @@ footer div.bigfooter span.p {
 	margin-left: 80px;
 	margin-top: 0px;
 	line-height: 115%;
+}
+
+footer div.bigfooter li {
+	width: 240px;
+	margin-bottom: 10px; /* Fuer den In-Sheet-Abstand nach unten */
+}
+
+footer div.bigfooter li.haus {
+	width: 510px;
+}
+
+footer div.bigfooter li.haus span.p {
+	margin-left: 225px;
+}
+
+footer.in-sheet div.bigfooter li.haus img {
+	opacity: .3;
 }
 
 
@@ -367,7 +410,7 @@ footer div.bigfooter li.logo span.p {
 }
 
 footer div.bigfooter li.copy {
-	width: 510px;
+	width: 370px;
 }
 
 footer div.bigfooter li.copy i {
@@ -379,7 +422,6 @@ footer div.bigfooter li.copy span.p {
 	margin-left: 110px;
 	margin-top: 5px;
 }
-
 
 /* Creative Commons icon with pure CSS, on dark background */
 footer i.cc {

@@ -483,17 +483,22 @@ FOOTER;
 		
 		?><div class="bigfooter">
 		    <ul class="clearfix">
-			<li class="logo"><a href="<?php print $href($_('footer-legal-file')); ?>" class="clearfix"><!-- FIXME: clearfix should be semantically performed -->
+			<li class="haus"><a class="block" href="<?php print $href($_('footer-haus-link')); ?>">
+				<img src="/shared/img-v6/logo-haus.footer.png" alt="Museum Haus" title="The Museum building">
+				<span class="p"><?php $p('footer-haus-text'); ?></span>
+			</a></li>
+			<li class="copy"><a class="block" href="<?php print $href($_('footer-legal-file')); ?>#image-copyright" class="clearfix">
+				<i>CC</i>
+				<span class="p"><?php $p('footer-image-copyright-text'); ?></span>
+			</a></li>
+			<li class="logo"><span class="block clearfix"><!-- FIXME: clearfix should be semantically performed -->
 				<i title="technikum29 Logo">Logo</i>
 				<span class="p"><?php $p('footer-copyright-tag'); ?>
-				<br><u><?php $p('footer-legal-link'); ?></u>
+				<br><a class="u" href="<?php print $href($_('footer-legal-file')); ?>"><?php $p('footer-legal-link'); ?></a>
+				<br><a class="u" href="<?php print $href($_('footer-sitemap-link')); ?>"><?php $p('footer-sitemap-text'); ?></a>
 				</span>
-			</a></li>
-			<li class="copy"><a href="<?php print $href($_('footer-legal-file')); ?>#image-copyright" class="clearfix">
-				<i>CC</i>
-				<span class="p">Viele Bilder können unter einer <u>CreativeCommons-Lizenz</u>
-				verwendet werden. <u>Erkundigen Sie sich</u>.</span>
-			</a></li>
+			</span></li>
+
 		    </ul>
 		</div><?php
 	}

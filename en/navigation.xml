@@ -35,6 +35,8 @@
 	<!--<li><a seiten_id="lehrerinfo" href="/en/lehrerinfo.php">Didaktik</a></li>-->
 	<li><a seiten_id="wir-suchen" href="/en/wanted.php">Wanted</a></li>
 	<li><a seiten_id="impressum" href="/en/contact.php">Contact</a></li>
+	<!-- Don't show sitemap here -->
+	<li><a seiten_id="sitemap" class="hidden-in-nav" href="/en/sitemap.php">Sitemap</a></li>
 </ul>
 </nav><!-- class=horizontal -->
 <nav class="side">

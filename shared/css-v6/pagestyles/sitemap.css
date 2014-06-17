@@ -15,3 +15,14 @@ ul.sitemap b {
 ul.sitemap li.guide-only {
 	display: none;
 }
+
+ul.sitemap span.hidden {
+	/* in news genutzt */
+	display: inline !important;
+	visibility: visible;
+}
+
+body.lang-de ul.sitemap .en,
+body.lang-en ul.sitemap .de {
+	display: none;
+}

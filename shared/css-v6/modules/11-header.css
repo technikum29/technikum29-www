@@ -73,6 +73,11 @@ nav.horizontal a {
 	/*color: #124b6b;*/
 }
 
+nav.horizontal a.hidden-in-nav {
+	/* Items which shall not be visible in the header navigation display */
+	display: none;
+}
+
 /* Aufklappnavigation der Horizontalen Navi */
 nav.horizontal .u2 { display: none; } 
 nav.horizontal .u1 > li:hover .u2, nav.horizontal .u1 li.dev-force-open .u2 {

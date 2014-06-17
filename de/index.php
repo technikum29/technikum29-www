@@ -118,6 +118,14 @@ Oldtimer-Club Oppenheim<br>
 
 <div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2014</em> 30. Juni</p>	</div>
+	<h4>Computer-History + Workshop</h4>
+	Termin: Montag, der <b>30. Juni</b> um 9:30 Uhr<br>
+Schüler-Gruppe, Nidda<br>
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2014</em> 11. Juli</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Freitag, der <b>11. Juli</b> um 12:00 Uhr<br>

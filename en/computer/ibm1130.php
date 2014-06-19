@@ -96,7 +96,16 @@ without the additional left enclosure. Therefore both, the card missing in
 out machine as well as its schematics have apparently not been preserved. 
 Accordingly, we reverse-engineered the circuit diagram based on measurements
 on an existing card and rebuilt the card. Now the core memory of our IBM 1130
-is working like a charm which is a significant milestone.
+is working like a charm which is a significant milestone.<br><br>
+
+<b>16.6.2014:</b> Giant leaps: After an intensive cleaning effort with adjustments following,
+the card reader IBM 1442 is now fully operational and we could successfully
+run the seven so-called "One-Card-Diagnostic" programs. This demonstrated
+that the CPU is at least basically operating (since these tests are quite
+simple in nature they can not detect subtle faults).<br>
+The next test involved the console printer: A working console printer is necessary to communicate
+with the machine - unfortunately, this test showed that the printer is still
+faulty. Currently, we suspect resinified oil as the culprit. Stay tuned...
 		
 		</small>
 		<p><em>This section will be gradually continued.</em></p>

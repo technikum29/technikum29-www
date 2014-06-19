@@ -8,11 +8,8 @@
 
    <h2>Was das Museum noch sucht</h2><br>
    
-   <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/ibm7342.jpg" alt="Gesuchte Steckkarten" width="191" height="261" class="nomargin-bottom" />
-        <p class="bildtext">
-   Für unsere <b>IBM 1130</b> Anlage suchen wir dringend die Steckkarte "5807342" (Adressentreiber) von IBM. Hilfreich wären auch der Schaltplan dieser Karte. Bitte melden Sie sich, wenn Sie hier weiter helfen können!<br><br>
-   Auch andere Platinen mit SLT-Technik könnten wir gut gebrauchen.</p></div>
+   Die Reparatur der IBM 1130 mit SLT-Technik ist nicht einfach. Daher suchen wir noch Steckkarten aus diesem Rechner oder eine komplette 1130 bzw. Fragmente hiervon.<br>
+   Für die dauerhaft sichere Funktion solcher Anlagen benötigt man eigentlich 2 Stück. 
    <br>
    
 	

@@ -29,7 +29,7 @@
                
                 <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Entwicklung der Computer, die unser Leben maßgebend bestimmt.  <br>
 				</li>
-                <li>Für interessierte Schülergruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab 10J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
+                <li>Für interessierte Schülergruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab ca. 11J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
 				<li>Auch für Studenten, Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
             </ul>
         </div>
@@ -99,14 +99,6 @@
 
 	<hr class="h3-like">
 	
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 18. Juni</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Mittwoch, der <b>18. Juni</b> um 15:00 Uhr<br>
-IBM-Gruppe Ffm.<br>
-</div>
 
 <div class="box termin clear-after">
 		<div class="left">

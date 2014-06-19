@@ -8,16 +8,20 @@
    
 	<h2 id="ibm1130"><b>IBM 1130</b>  &nbsp;  Computing System</h2>
 
-    <div class="box center clear-after">
+<div class="box center clear-after">
+		<img src="/shared/photos/rechnertechnik/ibm-3register.jpg"  width="859" height="186" />	
+	</div>	
+	<p>Since December 2013, we own a very nice and also quite interesting "Electronic Computing System" by IBM. This type was delivered for the first time in 1965 and intended for use by scientists, engineers, and mathematicians.<br>
+		The "AMPEX TMZ" (digital tape memory system) is connected to the equipment, so we are urgently looking for Manuals (schematics).<br>
+There is much to report about, but in first place the optical and electronical restoration of the Computer have to be realized.<br> This section will be continued within a short time.</p>
+    
+	<div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />
 		<div class="bildtext">
 		<p><b>IBM 1130</b></p>
 		</div>
 		<br><br>
-		<p>Since December 2013, we own a very nice and also quite interesting "Electronic Computing System" by IBM. This type was delivered for the first time in 1965 and intended for use by scientists, engineers, and mathematicians.<br>
-		The "AMPEX TMZ" (digital tape memory system) is connected to the equipment, so we are urgently looking for Manuals (schematics).<br>
-There is much to report about, but in first place the optical and electronical restoration of the Computer have to be realized.<br> This section will be continued within a short time.</p><br>
-
+		
 <div class="desc-left borderless no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
 				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />

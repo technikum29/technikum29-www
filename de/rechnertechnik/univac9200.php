@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>UNIVAC 9200, UNIVAC 9300</h2>
+    <h2><b>UNIVAC 9200, UNIVAC 9300</b></h2>
 	
 	
 	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann. Unser Rechner ist eigentlich eine "9200".<br>

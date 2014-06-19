@@ -5,9 +5,8 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-	<!-- per CSS wird das Hintergrundbild unter /shared/photos/rechnertechnik/ibm-logo.jpg
-         eingebunden -->
-	<h2><b>IBM 1130</b>   "Elektronische Rechenanlage"</h2>
+	
+	<h2><b>IBM 1130</b></h2>
 	
 	
 	<div class="box center clear-after">

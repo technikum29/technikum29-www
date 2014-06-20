@@ -3,7 +3,6 @@
 	$version = '$Id: sitemap.php 565 2014-06-05 12:48:12Z sven $';
 	$titel = 'Sitemap';
 
-	if(!require("../lib/technikum29.php")) return; // keine verschachtelten Aufrufe
 	require("../lib/sitemap.php");
 ?>
     <h2>Sitemap</h2>

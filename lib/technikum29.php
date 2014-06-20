@@ -85,7 +85,9 @@ if($external) {
 
 $page_cache = new t29Cache(false, true); // debug, verbose
 $page_cache->set_cache_file($webroot, $file);
-$page_cache->test_files =  array(
+// You can define "$test_files" for additionall files to check. See e.g. /lib/sitemap.php
+$page_cache->test_files = isset($test_files) ? $test_files : array();
+$page_cache->test_files += array(
 	__FILE__,
 	$_SERVER['SCRIPT_FILENAME'],
 	"$lib/template.php",

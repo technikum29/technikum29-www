@@ -138,7 +138,7 @@ class t29Messages {
 		                                  '&copy; 2003-2014 technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact.php" class="go">Legal Information</a>.'),
 		'footer-sitemap-text'	 => 'Sitemap',
 		'footer-sitemap-link'	 => array('/de/sitemap.php', '/en/sitemap.php'),
-		'footer-haus-text'	 => array('Das technikum29 ist ein <u>interaktives Museum</u> im <u>Rhein-Main-Gebiet</u> (Kelkheim/Taunus). Unsere <u>Öffnungszeiten</u> erfahren Sie auf der <u>Startseite</u>',
+		'footer-haus-text'	 => array('Das technikum29 ist ein <u>interaktives Museum</u> im <u>Rhein-Main-Gebiet</u> (nahe Frankfurt). Informationen zu <u>Führungen</u> und <u>Öffnungszeiten</u> erfahren Sie auf der <u>Startseite</u>',
 						'The technikum29 is a <u>living computer museum</u> located in <u>Germany, near Frankfurt</u>. We regularly offer <u>guided tours</u>.'),
 		'footer-haus-link'	 => array('/de/', '/en/'),
 		'footer-image-copyright-text' => array('Viele Bilder können unter einer <u>CreativeCommons-Lizenz</u> verwendet werden. <u>Erkundigen Sie sich</u>.',

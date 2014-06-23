@@ -19,7 +19,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 11.6.2014</b></span><br>
+<span style="color:red"><b>Aktualisiert: 23.6.2014</b></span><br>
 <br> <br><br>
 
 <center><img src="robo.jpg" width="847" height="674" alt="Roboter" /></center>

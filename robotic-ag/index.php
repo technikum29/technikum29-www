@@ -32,9 +32,14 @@
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In dieser AG lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden, begrüßen und strahlen!</p>
+<hr>
+<p><b>Tipps zum 25.6.2014:</b><br>
+Heute geht es um Präzision. Euer Roboter soll ganz genau ein vorgegebenes Rechteck umfahren.<br>
+Dazu sollte man erst die beiden Strecken mit dem Bewegungsblock testen und genau einstellen und dann die Kurvenfahrt. Dazu wird nur ein Motor aktiviert. Hier ist Geduld und eine schnelle Reaktion gefragt.<br>
+Die Gruppe, welche die Aufgabe am Besten löst erhält einen Preis (Tafel Schokolade!).</p>
 
+Hier kannst du das Blatt vom <b>11.6.</b> öffnen: <a href="Robotic-Sensoren kennenlernen.pdf"> Sensoren besser kennenlernen</a>
 
-<b>>>>>></b> Hier kannst du das Blatt vom 11.6. öffnen: <a href="Robotic-Sensoren kennenlernen.pdf"> Sensoren besser kennenlernen</a>
 
 <br><br><br>
 

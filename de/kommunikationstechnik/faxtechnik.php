@@ -124,12 +124,13 @@
 		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />
 		<p class="bildtext">
 	        <div class="bildtext">	
-	<p><b>5-Bit-Fernschreibcode </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"> Bild vergrößern</a>
+	<p><b id="decoder">5-Bit-Fernschreibcode </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"> Bild vergrößern</a>
 			</div>
 			
-			Aus einer Technischen Universität vor der Verschrottung gerettet: Dieser sehr große (70cm x 60cm) und schöne "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet übersetzt.<br>
-			Es ist ein von den Universitätswerkstetten in der Zeit zwischen 1937 und 1949 aufwändig gebautes Demonstrationsgerät. Man stellt eine beliebige 5-Bit-Zahl an den groß dimensionierten Schaltern ein, dreht die Codierscheibe und erhält an einer bestimmten Stelle das entsprechende Zeichen, was oben aufleuchtet. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
-			Was damals übliche Nachrichtentechnik war, dient heute im technikum29 als sogenannte "Dechiffriermaschine". In unserem Experimental-Workshop können Kids und Jugendliche damit Binärtexte dechiffrieren.
+			Diesen sehr großen (70cm x 60cm) und schönen "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet übersetzt, haben wir vor der Entsorgung an einer Technischen Universität gerettet.<br>
+			Er ist von den dortigen Werkstetten ca. in der Zeit zwischen 1937 und 1949 als aufwändiges Demonstrationsgerät für Vorlesungen und Praktika gebaut worden.<br>
+			Man stellt eine beliebige 5-Bit-Zahl an den groß dimensionierten Schaltern ein, dreht die Codierscheibe und erhält an einer bestimmten Stelle das dazugehörige, oben aufleuchtende Zeichen. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
+			Was damals fortschrittliche Nachrichtentechnik war, dient heute im technikum29 als sogenannte "Dechiffriermaschine". In unserem <a href="/de/lehrerinfo.php#experimente"> Experimental-Workshop</a> können Kids und Jugendliche damit Binärtexte entschlüsseln und weiter verarbeiten.
 			
 			</p>
 			<div class="clear"></div>

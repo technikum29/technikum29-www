@@ -44,7 +44,7 @@
 			</li>
 		</ul>
 	</li>
-	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Didaktik</a>
+	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Didaktik+Workshop</a>
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>

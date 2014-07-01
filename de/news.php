@@ -38,6 +38,12 @@ MENU;
 
 <ul class="news-feed news-ng">
 
+<li><a href="/de/kommunikationstechnik/faxtechnik.php#decoder">
+	<h3>Juli 2014</h3>
+        <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="153" height="144" />
+	Ein historischer 5-Bit-Zeichen-Decoder aus der Hochschule. Hier wird er als Dechiffriermaschine in unserem Experimental-Workshop eingesetzt.
+</a></li>
+
 <li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
 	<h3>Juni 2014</h3>
         <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />

@@ -65,15 +65,17 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 </hr>
 </small>
 <br><br>
-<h2 id="experimente">Die Rallye Experimente</h2>
+<h2 id="experimente">Experimental-Workshop</h2>
 
-<p>Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 3/4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse). Die Schüler erhalten vor Ort eine ausführliche Beschreibung der ausgewählten Experimente.</p>
+<p>Hier listen wir einige unserer ungewöhnlichen Experimente auf die von Schülern in Gruppen selbst ausgeführt werden. Die bevorzugte Eignung steht in Klammern: P (Primarstufe, Klasse 4), S1 (Sekundarstufe 1), S2 (Sekundarstufe 2), LK (Leistungskurse). Die Schüler erhalten vor Ort eine ausführliche Beschreibung der ausgewählten Experimente.<br>
+Dieser Workshop findet ein ganz besonderes Interesse bei unseren Besuchern aus der Schule. Die Experimente unterscheiden sich durch Originalität und Kreativität deutlich von den typischen Schulexperimenten!</p>
 
 <div class="cols clear-after no-blocksatz">
+
 <div class="leftcol left-img">
-    <img src="/shared/photos/rallye/exp1.jpg"  width="150" height="184" />
-       Augen auf und Gegenstände erkennen <br>(P, S1)<br>
-	   Ziel: Gute Beobachtung, Kurzzeitgedächtnis trainieren
+    <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"  width="150" height="142" />
+       Dechiffrieren von geheimen Nachrichten mit Hilfe einer Maschine, variable Schwierigkeitsgrade<br>(P bis S2)<br>
+	   Ziel: Kombinatorik
 </div>
 <div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp8.jpg"  width="150" height="108" />

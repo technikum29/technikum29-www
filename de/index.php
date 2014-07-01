@@ -100,13 +100,7 @@
 	<hr class="h3-like">
 	
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 30. Juni</p>	</div>
-	<h4>Computer-History + Workshop</h4>
-	Termin: Montag, der <b>30. Juni</b> um 9:30 Uhr<br>
-Schüler-Gruppe, Nidda<br>
-</div>
+
 
 <div class="box termin clear-after">
 		<div class="left">

@@ -120,6 +120,20 @@
 	 </div>
 	 <p>Dieses Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig. Im Rahmen der Museumsrallye kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p>
 	 
+	 <div class="box left">
+		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />
+		<p class="bildtext">
+	        <div class="bildtext">	
+	<p><b>5-Bit-Fernschreibcode </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"> Bild vergrößern</a>
+			</div>
+			
+			Aus einer Technischen Universität vor der Verschrottung gerettet: Dieser sehr große (70cm x 60cm) und schöne "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet übersetzt.<br>
+			Es ist ein von den Universitätswerkstetten in der Zeit zwischen 1937 und 1949 aufwändig gebautes Demonstrationsgerät. Man stellt eine beliebige 5-Bit-Zahl an den groß dimensionierten Schaltern ein, dreht die Codierscheibe und erhält an einer bestimmten Stelle das entsprechende Zeichen, was oben aufleuchtet. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
+			Was damals übliche Nachrichtentechnik war, dient heute im technikum29 als sogenannte "Dechiffriermaschine". In unserem Experimental-Workshop können Kids und Jugendliche damit Binärtexte dechiffrieren.
+			
+			</p>
+			<div class="clear"></div>
+	 
 	 <h2>Schreibautomaten</h2>
 	 
     <div class="box center auto-bildbreite">

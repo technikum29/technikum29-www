@@ -118,7 +118,7 @@
 	        <b>Siemens Fernschreiber ca. Bj. 1952</b> 
 		</p>
 	 </div>
-	 <p>Dieses Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig. Im Rahmen der Museumsrallye kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p>
+	 <p>Dieses Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig. Im Rahmen des <a href="/de/lehrerinfo.php#experimente">Experimental-Workshop</a> kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p>
 	 
 	 <div class="box left">
 		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />
@@ -128,7 +128,7 @@
 			</div>
 			
 			Diesen sehr großen (70cm x 60cm) und schönen "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet übersetzt, haben wir vor der Entsorgung an einer Technischen Universität gerettet.<br>
-			Er ist von den dortigen Werkstetten ca. in der Zeit zwischen 1937 und 1949 als aufwändiges Demonstrationsgerät für Vorlesungen und Praktika gebaut worden.<br>
+			Er ist von den dortigen Werkstätten ca. in der Zeit zwischen 1937 und 1949 als aufwändiges Demonstrationsgerät für Vorlesungen und Praktika gebaut worden.<br>
 			Man stellt eine beliebige 5-Bit-Zahl an den groß dimensionierten Schaltern ein, dreht die Codierscheibe und erhält an einer bestimmten Stelle das dazugehörige, oben aufleuchtende Zeichen. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
 			Was damals fortschrittliche Nachrichtentechnik war, dient heute im technikum29 als sogenannte "Dechiffriermaschine". In unserem <a href="/de/lehrerinfo.php#experimente"> Experimental-Workshop</a> können Kids und Jugendliche damit Binärtexte entschlüsseln und weiter verarbeiten.
 			

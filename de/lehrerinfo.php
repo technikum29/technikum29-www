@@ -74,7 +74,7 @@ Dieser Workshop findet ein ganz besonderes Interesse bei unseren Besuchern aus d
 
 <div class="leftcol left-img">
     <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"  width="150" height="142" />
-       Dechiffrieren von geheimen Nachrichten mit Hilfe einer Maschine, variable Schwierigkeitsgrade<br>(P bis S2)<br>
+       Dechiffrieren von verschlüsselten Nachrichten mit Hilfe einer historischen Maschine, variable Schwierigkeitsgrade<br>(P bis S2)<br>
 	   Ziel: Kombinatorik
 </div>
 <div class="rightcol left-img">

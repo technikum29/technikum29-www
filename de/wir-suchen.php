@@ -8,8 +8,8 @@
 
    <h2>Was das Museum noch sucht</h2><br>
    
-   Die Reparatur der IBM 1130 mit SLT-Technik ist nicht einfach. Daher suchen wir noch Steckkarten aus diesem Rechner oder eine komplette 1130 bzw. Fragmente hiervon.<br>
-   Für die dauerhaft sichere Funktion solcher Anlagen benötigt man eigentlich 2 Stück. 
+   Die Reparatur der <b>IBM 1130</b> mit SLT-Technik ist nicht einfach. Daher suchen wir noch Steckkarten aus diesem Rechner oder eine komplette 1130 bzw. Fragmente hiervon.<br>
+   Für die dauerhaft sichere Funktion solchen Rechners benötigt man eigentlich 2 Anlagen. 
    <br>
    
 	

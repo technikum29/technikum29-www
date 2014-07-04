@@ -4,6 +4,10 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+
+- titel: "Dechiffriermaschine"
+  text: "Historischer 5-Bit Decoder"
+  link: "#Juli_2014"
 	
 - titel: "Notizen zum Digitalen"
   text: "IBM029 auf Reisen"

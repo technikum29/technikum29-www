@@ -43,7 +43,19 @@ MENU;
 
 
     <ul class="news-feed">
+	
+	<li><h3>July 2014</h3>
+	<div class="box left clear-after">
+	
+       <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="153" height="144" />
+	   
+	<a href="/en/communication/fax.php#decoder"> A historic 5-bit character decoder</a> from the university. Here it is used as a decryption engine in our experimental workshop.</div>
+	
+	
+	
+	
 	<li><h3>June 2014</h3>
+	
 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
 
@@ -52,6 +64,7 @@ The exhebition's title could be translated to <a href="http://www.kunst-stoff.fr
 (in some way taken exception to the smart phone omnipresence and Apple devices) and is
 embedded into the event <em>Some notes on modern digital lifestyle</em>.
 </div>
+
 
 <li><h3>May 2014</h3>
 <div class="box left clear-after">
@@ -87,15 +100,6 @@ embedded into the event <em>Some notes on modern digital lifestyle</em>.
 		</div>
 		
 Success! The BULL GAMMA 55 is up and running! An historical moment, <a href="/en/computer/gamma55.php#ge-55"><b>Look here</a></b><br><br><br><br>
-
-
-	<li><h3>May 2013</h3><br>
-<div "box left clear-after">
-	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="300" height="196" class="nomargin-bottom" />
-	We support artists, look here  
-	<a href="/en/miscellaneous.php#music"> <b>Punch-Card-Music</b> </a>
-	</div>
-	<br>
 	
 	</li>
 	

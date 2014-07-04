@@ -257,7 +257,27 @@
         it until it is send in one go, instead of streaming the keyboard input "live" to the recipient.
         Of course this apperature is still fully executable.
     </p>
-
+	
+	 <div class="box left">
+		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />
+		<p class="bildtext">
+	        <div class="bildtext">	
+	<p><b id="decoder">Decoder: 5-Bit to telex </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"><br>
+	Enlarge picture</a>
+	
+<p>Recently we saved this large (70cm by 60cm) and wonderful "decoder" from scrap
+at a local university. This device translates 5 bit telegraph codes to their
+corresponding characters. It has been built as a demonstration object by the
+university's machine shop sometime between 1937 and 1949 and has been used
+extensively in lectures.<br>
+Principle of operation: A 5 bit value is set by means of the large levers. Then
+the code wheel is turned slowly until the correct character is in the top
+position which is denoted by lighting a lamp. If, e.g., 10101 is set and the
+code wheel is turned, the lamp will be lit under the character "Y".<br>
+What once was state-of-the-art technology is now used as a decoding device for
+our experimental workshops. There kids can decipher texts given in binary and
+thus gain experience with binary data representation.</p>
+<div class="clear"></div>
 
 	<h2>Flexowriter</h2>
      <!-- This paragraph was replaced on 27. july 08 in favour of... -->

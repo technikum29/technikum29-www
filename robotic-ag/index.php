@@ -7,7 +7,7 @@
   <meta name="t29.localfile" content="<?php print $_SERVER['SCRIPT_FILENAME']; ?>" id="localFileSource">
   <meta name="t29.version" content="$Id$">
   <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/css/graydesign.css">
-  <link rel="stylesheet" type="text/css" href="/schule/styles.css">
+  <link rel="stylesheet" type="text/css" href="styles.css">
   <!-- MathJax = LaText im Browser -->
   <script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">

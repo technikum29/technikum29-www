@@ -19,11 +19,11 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 1.7.2014</b></span><br>
+<span style="color:red"><b>Aktualisiert: 1.7.2014</b></span>
 <br> <br><br>
 
-<br><br>
-<big><b>Spielend Informatik lernen!</big></b><br><br>
+<br>
+<h3><big><big><b>Spielend Informatik lernen!</b></big></big></h3>
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In dieser AG lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
@@ -34,10 +34,10 @@ Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden,
 
 <p><b>Tipps zum 2.7.2014:</b><br>
 Unser Roboter soll nun Hindernisse umfahren und sich so einen freien Weg suchen.<br>
-Weil unsere Zeit sehr knapp wird, hier der Lösungsvorschlag:<br>
-Wir starten mit einem Bewegungsblock (geradeaus fahren). Danach setzen wir einen "Warten Block Distanz" (Ultraschallsensor), der mit Port 4 verbunden wird. Den stellen wir so ein, dass so lange gewartet wird (und damit der Roboter weiter geradeaus fährt), bis der Abstand zu einem Hindernis <b>kleiner</b> als z.B. 15cm wird. Dann hat das Warten ein Ende und das Programm läuft weiter.<br>
+Weil unsere Zeit sehr knapp wird, hier ausnahmsweise der Lösungsvorschlag:<br>
+Wir starten mit einem Bewegungsblock (geradeaus fahren). Danach setzen wir einen "Warten Block Distanz" (Ultraschallsensor), der mit Port 4 verbunden wird. Den stellen wir so ein, dass so lange gewartet wird (und damit der Roboter weiter geradeaus fährt), bis der Abstand zu einem Hindernis <b>kleiner</b> als z.B. 30cm wird. Dann hat das Warten ein Ende und das Programm läuft weiter.<br>
 Danach kommt wieder ein Bewegungsblock. Diesmal eine rückwärts-Kurvenfahrt um dem Hindernis auszuweichen. Doch wie weit soll er rückwärts fahren?<br>
-Dazu setzen wir anschließend wieder einen "Warten Block Distanz" ein. Der bewirkt ein Warten, bis der Abstand vom Hindernis z.B. <b>größer</b> als 15cm ist. So lange fährt der Roboter also rückwärts. <br>
+Dazu setzen wir anschließend wieder einen "Warten Block Distanz" ein. Der bewirkt ein Warten, bis der Abstand vom Hindernis z.B. <b>größer</b> als 30cm ist. So lange fährt der Roboter also rückwärts. <br>
 Danach könnte unser Roboter wieder geradeaus fahren. Wir setzen die 4 Blöcke also in eine Endlos-Schleife.</p>
 
 <hr>

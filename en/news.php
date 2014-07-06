@@ -36,74 +36,53 @@ MENU;
 
 	if(!require("../lib/technikum29.php")) return;
 ?>
+
 <h2>What's new?</h2>
 
     <p>This is a news feed for the recent changes on our homepage. The latest
        posts are on top.</p>
 
+<ul class="news-feed news-ng">
 
-    <ul class="news-feed">
-	
-	<li><h3>July 2014</h3>
-	<div class="box left clear-after">
-	
-       <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="153" height="144" />
-	   
-	<a href="/en/communication/fax.php#decoder"> A historic 5-bit character decoder</a> from the university. Here it is used as a decryption engine in our experimental workshop.</div>
-	
-	
-	
-	
-	<li><h3>June 2014</h3>
-	
-<div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
+<li><a href="/de/kommunikationstechnik/faxtechnik.php#decoder">
+	<h3>July 2014</h3>
+        <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="153" height="144" />
+	<em>A historic 5-bit character decoder</em> from the university. Here it is used as a decryption engine in our experimental workshop.
+</a></li>
 
-Our Cardpunch IBM029 goes on jorney: For some time, it is now part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).
-The exhebition's title could be translated to <a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/"><b>We the #iBorgs</b></a>
-(in some way taken exception to the smart phone omnipresence and Apple devices) and is
-embedded into the event <em>Some notes on modern digital lifestyle</em>.
-</div>
+<li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
+	<h3>June 2014</h3>
+	<img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
+	Our Cardpunch IBM029 goes on jorney: For some time, it is now part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).
+	The exhebition's title could be translated to <em>We the #iBorgs</em>
+	(in some way taken exception to the smart phone omnipresence and Apple devices) and is
+	embedded into the event <em>Some notes on modern digital lifestyle</em>.
+</a></li>
 
 
-<li><h3>May 2014</h3>
-<div class="box left clear-after">
+<li><a href="/en/computer/ibm1130.php#1130">
+	<h3>May 2014</h3>
         <img src="/shared/photos/rechnertechnik/facit4000.jpg" width="352" height="137" />
-		
-		Periphery of the 1130: Facit tape devices <a href="/en/computer/ibm1130.php#1130"><br>
-		<b>Look here</b></a> 
-		</div>
-	
-	<li><h3>January 2014</h3>
-<div class="box left clear-after">
+	Periphery of the 1130: Facit tape devices
+</a></li>
+
+<li><a href="/en/computer/ibm1130.php#ibm1130">
+	<h3>January 2014</h3>
         <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130" width="225" height="194" />
-		
-		A new callenge: IBM 1130 Mainframe <a href="/en/computer/ibm1130.php#ibm1130"><br>
-		<b>Look here</b></a> 
-		</div>
+	A new callenge: IBM 1130 Mainframe
+</a></li>
 
+<li><a href="/en/computer/punchcard.php#reproducing">
+	<h3>December 2013</h3>
+	<img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="225" height="195" />
+	Recruit: A large IBM reproducing punch from the early days of computing
+</a></li>
 
-
-<li><h3>December 2013</h3>
-
-<div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="225" height="195" />
-		
-		Recruit: A large IBM reproducing punch from the early days of computing <a href="/en/computer/punchcard.php#reproducing"><br>
-		<b>Read here</b></a> 
-		</div>
-	
-	
-	<li><h3>September 2013</h3>
-<div class="box left clear after">
-		<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" /><br><br>
-		</div>
-		
-Success! The BULL GAMMA 55 is up and running! An historical moment, <a href="/en/computer/gamma55.php#ge-55"><b>Look here</a></b><br><br><br><br>
-	
-	</li>
-	
-
+<li><a href="/en/computer/gamma55.php#ge-55">
+	<h3>September 2013</h3>
+	<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" />
+	Success! The BULL GAMMA 55 is up and running! An historical moment.
+</a></li>
 
     </ul>
 

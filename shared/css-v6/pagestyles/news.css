@@ -12,11 +12,11 @@
 |                                                                      |
 \**********************************************************************/
 
-ul.news-ng li {
+ul.news-feed li {
     margin-bottom: 1.2em;
 }
 
-#content ul.news-ng h3 { /* Id zur Bedeutungssteigerung */
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
    margin: 0; padding: 0; border: none;
    font-family: inherit;
    font-weight: normal;
@@ -41,20 +41,23 @@ ul.news-ng li {
  **/
 /* Bislang erst in deutscher Sprache, daher Klasse .news-ng fuer Next Generation */
 
-ul.news-ng, ul.news-ng li {
+ul.news-feed, ul.news-feed li {
 	list-style: none;
 	margin: 0; padding: 0;
 }
 
 ul.news-ng li {
-	width: 30%;
 	float: left;
+}
+
+ul.news-feed li {
+	width: 30%;
 	margin-right: 3%;
 	margin-bottom: 3%;
 	padding: 1px;
 }
 
-ul.news-ng li > a {
+ul.news-feed li > a {
 	display: block;
 
 	min-height: 20em;
@@ -64,25 +67,25 @@ ul.news-ng li > a {
 	padding: 2em;
 }
 
-#content ul.news-ng a:link,
-#content ul.news-ng a:visited { /* Id zur Bedeutungssteigerung */
+#content ul.news-feed a:link,
+#content ul.news-feed a:visited { /* Id zur Bedeutungssteigerung */
 	text-decoration: none;
 	color: inherit;
 	background-color: #DFEAF0;
 }
 
-#content ul.news-ng a:hover,
-#content ul.news-ng a:focus {
+#content ul.news-feed a:hover,
+#content ul.news-feed a:focus {
 	background-color: #EDF0F2;
 	box-shadow: 0 1px 4px #B2B6B7;
 }
 
-ul.news-ng img {
+ul.news-feed img {
 	width: 100%; height: auto;
 	margin: .5em 0;
 }
 
-#content ul.news-ng h3 { /* Id zur Bedeutungssteigerung */
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
    margin: 0; padding: 0; border: none;
    font-family: inherit;
    font-weight: bold;

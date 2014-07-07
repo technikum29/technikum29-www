@@ -19,7 +19,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 1.7.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 7.7.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -31,6 +31,13 @@ Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden,
 
 
 <center><img src="robo.jpg" width="847" height="674" alt="Roboter" /></center>
+
+<br><br>
+
+<p><b>Hinweis für den 9.7.:</b><br>
+Wir werden ein Programm erstellen, mit welchem unser Roboter in der Lage ist, einer schwarzen Linie zu folgen. Er "schnüffelt" wie ein Hund und verfolgt die Spur. Bitte zu Beginn der Stunde die Roboter an die Ladestation anschließen!</p>
+<hr>
+
 
 <p><b>Tipps zum 2.7.2014:</b><br>
 Unser Roboter soll nun Hindernisse umfahren und sich so einen freien Weg suchen.<br>

@@ -38,7 +38,7 @@ MENU;
     <h2>Was gibt es Neues?</h2>
 	
 	
-	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt. Das Neueste steht ganz oben.</p>
+	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt.</p>
 
 <ul class="news-feed news-ng">
 
@@ -51,9 +51,9 @@ MENU;
 <li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
 	<h3>Juni 2014</h3>
         <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
-	Unser Lochkartenstanzer IBM029 ist auf Reisen: In Tübingen steht er als Rhythmusgerät und zur
-        Einbindung in Kunstobjekte für das Event <em>Notizen zum Digitalen: Wir, die #iBorgs</em>
-	der Ausstellung im <em>Kunstamt Tübingen</em> als Leihgabe zur Verfügung.
+	Unser Lochkartenstanzer IBM029 war auf Reisen: In Tübingen wurde er als Rhythmusgerät und zur
+        Einbindung in Kunstobjekte für das Event <em>Notizen zum Digitalen: Wir, die #iBorgs</em> verwendet.
+	
 </a></li>
 
 <li><a href="/de/rechnertechnik/ibm1130.php#1130">

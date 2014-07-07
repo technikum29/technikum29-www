@@ -53,10 +53,8 @@ MENU;
 <li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
 	<h3>June 2014</h3>
 	<img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
-	Our Cardpunch IBM029 goes on jorney: For some time, it is now part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).
-	The exhebition's title could be translated to <em>We the #iBorgs</em>
-	(in some way taken exception to the smart phone omnipresence and Apple devices) and is
-	embedded into the event <em>Some notes on modern digital lifestyle</em>.
+	Our Cardpunch IBM029 were on jorney: For some time, it were part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).
+	
 </a></li>
 
 

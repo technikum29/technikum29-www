@@ -4,7 +4,11 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
-
+	
+- titel: "Robotik-Kurs"
+  text: "für Kids von 11-13"
+  link: "#Juli_2014"
+	
 - titel: "Dechiffriermaschine"
   text: "Historischer 5-Bit Decoder"
   link: "#Juli_2014"
@@ -41,6 +45,16 @@ MENU;
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt.</p>
 
 <ul class="news-feed news-ng">
+
+
+<li><a href="/robotik">
+<h3>Juli 2014</h3>
+<img src="/robotik/robotik.jpg" width="153" height="115" />
+Robotik-Ferienkurs für Kids zwischen 11 und 13 (14) Jahren im technikum29.<br>
+Hochinteressant und sehr lehrreich.
+</a> 
+
+</li>
 
 <li><a href="/de/kommunikationstechnik/faxtechnik.php#decoder">
 	<h3>Juli 2014</h3>

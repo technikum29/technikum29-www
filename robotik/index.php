@@ -44,6 +44,7 @@ Voraussetzungen: Es sind keine Programmierkentnisse erforderlich. Du erfährst u
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und:<br>
 Du solltest gut logisch denken können!</p>
 <p>Zum Abschluss gibt es einen Experimental-Workshop im technikum29 mit tollen Experimenten!</p>
+<p>Anmeldung und weitere Informationen unter  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> oder Telefon: 06195-2170.
 
 <p><b>Wir suchen noch gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>
 

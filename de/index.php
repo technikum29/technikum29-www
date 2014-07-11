@@ -104,10 +104,10 @@
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 11. Juli</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Freitag, der <b>11. Juli</b> um 12:00 Uhr<br>
-Studentengruppe der Goethe-Universität Ffm.<br>
+			<p class="date"><em>2014</em> Aug.</p>	</div>
+	<h4>Robotik-Ferienkurs für Kids von 11-13(14) Jahren. Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a></h4>
+	
+<br>
 </div>
 
 

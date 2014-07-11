@@ -20,7 +20,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 10.7.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 11.7.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -39,10 +39,10 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 <p>Der Ferienkurs läuft eine Woche lang (5 Tage) mit je 2 Zeitstunden. Er findet im "technikum29", Am Flachsland 29 in Kelkheim-Hornau statt.<br>
 Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 (14) Jahren.<br>
 Es wird <b>die</b> Woche in den Ferien gewählt, in welcher mindestens 6 Schüler teilnehmen können. Eine Verlängerung ist eventuell möglich. Uhrzeit nach Absprache, vermutlich jeweils von 14 bis 16 Uhr.<br> 
-Gib bitte bei Interesse die Wochen an, in welchen du Zeit hast. Die Gruppengröße beträgt maximal 10 Personen. Je zwei bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS. Das Material ist vorhanden und wird während des Kurses zur Verfügung gestellt.<br>
-Voraussetzungen: Es sind keine Programmierkentnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
-Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und:<br>
-Du solltest gut logisch denken können!</p>
+Gib bitte bei Interesse die Wochen an, in welchen du Zeit hast. Die Gruppengröße beträgt maximal 10 Personen. Je zwei bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br>
+Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
+Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
+du solltest gut logisch denken können!</p>
 <p>Zum Abschluss gibt es einen Experimental-Workshop im technikum29 mit tollen Experimenten!</p>
 <p>Anmeldung und weitere Informationen unter  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> oder Telefon: 06195-2170.
 

@@ -128,6 +128,7 @@
 Termin: Samstag, der <b>19. Juli</b> um 14 Uhr<br>
 <small><p>Die Besucher dieser Führung erleben eine Zeitreise in die Welt der ganz frühen Vorgänger heutiger Computer:  Gigantische, tonnenschwere  Rechner  demonstrieren die Ära ihrer Zeit sehr lebendig denn all diese dinosaurierhaften Computer funktionieren noch. Diese in Deutschland einmalige „Computer-History“ ist auch für technikinteressierte Kids und Jugendliche ab ca. 11 Jahren sehr gut geeignet. <br>
 Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
+<b>Dieser Termin ist ausgebucht. Eine Wiederholung findet am 3. August um 14 Uhr statt, wenn genügend weitere Anmeldungen kommen.</b>
 </div>
 
 <div class="box termin clear-after">
@@ -161,6 +162,14 @@ Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@
 	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
 	Termin: Freitag, der <b>1. August</b> 9:45-12:15 Uhr<br>
 Feriengruppe A<br>
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 3. Aug.</p>	</div>
+	<h4>Die Urahnen des Smartphones</h4>
+	Termin: Sonntag, der <b>3. August</b> 14 Uhr<br>
+Wiederholung der ausgebuchten Führung vom 19.7.<br>
 </div>
 
 <div class="box termin clear-after">

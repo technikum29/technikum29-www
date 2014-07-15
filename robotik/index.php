@@ -44,6 +44,7 @@ Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst 
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
 du solltest gut logisch denken können!</p>
 <p>Zum Abschluss gibt es einen Experimental-Workshop im technikum29 mit tollen Experimenten!</p>
+Kosten: 45 Euro pro Teilnehmer.
 <p>Anmeldung und weitere Informationen unter  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> oder Telefon: 06195-2170.
 
 <p><b>Wir suchen noch gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>

@@ -16,7 +16,7 @@
 
 	<h3>Diehl Combitron</h3>
     <div class="box center">
-        <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="690" height="232" />
+        <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="850" height="284" />
 	</div>
 	
 	<p>

@@ -61,18 +61,22 @@
 		
 	
 	<h3>Olivetti Programma 101</h3>
-
-    <div class="box left clear-after">
-       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" />
-       <p class="bildtext">The legendary <b>PROGRAMMA 101</b> by Olivetti. In the middle you see the magnetic program card. <a class="go" href="storage-media.php#run-time-memory">Delay line memory</a> was used as storage media.</p>
-	   
-	    <p>In the same year the Olivetti Programma 101 came onto the market. For the first time in
-    EDP history, engineering offices were able to buy a "small" calculator on which you could
-    quickly save own programs on magnetic cards. This machine with many mechanical parts, became
-	a big seller.  However, the device was very expensive, but the price of 14800 DM + fees
-	(ca. 8000 Euro) paid for itself in saved manual calculating time.</p>
-	   
-    </div>
+    <div class="desc-left borderless">
+       <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" class="weisser-rahmen" />
+       <p class="small">The legendary <b>PROGRAMMA 101</b> by Olivetti.</p>
+   </div>
+	
+	    <p>The Olivetty Programma 101 was introduced onto the market in 1966, the same year as the DIEHL Combitron above.
+	    For the first time in EDP history, engineering offices were able to buy a "small" calculator on which you could
+	    quickly save own programs on magnetic cards. This machine was equipped with many mechanical parts and became a big seller.
+	    The device was very expensive, but the price of 14800 DM + fees (ca. 8000 Euro) paid for itself in saved manual calculating time.</p>
+   
+	<p>The P 101 could also be called as the world's first personal computer.
+	<br>In the center of the picture you can see the magnetic program card. Compared with the Combitron, storing programs is very comfortable with the P101.
+	<br>The device is equipped with a <a class="go" href="storage-media.php#run-time-memory">delay line memory</a> which is organized in 10 registers, each having 24 storage cells with 8 bit each. Summing up, there memory could save 240 byte. For comparison, that would not even suffice to store this paragraph of plain text!
+	<p>Today, the computer is famous for his award-winning futuristic design. Putting it into operation required some work, since the plastic coils for winding the magnetic program cards deformed and the small builtin printer is problematic. Anyway, our P 101 is fully operational.
+		
+	
 
 	<h3>WANG 320</h3>
     <p>The WANG 320 is an outstanding machine in the collection. It was built in 1967 and is extremely rare nowadays. The system can be programmed using punched cards and features multiple keyboards, a sensational feature in its time.</p>

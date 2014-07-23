@@ -15,17 +15,50 @@
     Such complete installations are very rare.</p>
 
 	<h3>Diehl Combitron</h3>
-    <div class="box center">
-        <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="850" height="284" />
-	</div>
-	
 	<p>
         The Combitron is the first operating programmable desk calculator that was built and
-		sold in Germany. On the right you can see the DIEHL
+		sold in Germany (1966-1968). The first Combitron's did not have an external interface, therefore it was not possible to save user-written programs on external storage. Programs could be printed as a Hex dump that could be used to reenter the program via the keyboard at a restart.
+	</p>
+		
+		
+<!-- old text:
+		On the right you can see the DIEHL
         Dilector (paper tape reader) and to the left is the DIEHL ELS 830 (paper tape puncher). The system is fully operational.
         The <a href="storage-media.php#run-time-memory" class="go">delay line memory</a> serves as storage media
         (capacity ca. 1000 bits).</p>
-    </p>
+-->
+    
+	<div class="desc-left borderless no-copyright">
+	
+	<a class="popup" href="/shared/photos/rechnertechnik/diehl-els.jpg">
+		<img src="/shared/photos/rechnertechnik/diehl-els.jpg" alt="Diehl tape puncher" width="325" height="177" /></a>
+		<p class="small"><b><a class="popup" href="/shared/photos/rechnertechnik/diehl-els.jpg">Paper tape puncher "DIEHL ELS"</a></b><br>
+		for manual usage.
+		</p></div>
+
+	<p>This kind of in and output was laborious even for the late 1960s. Diehl did recognize that and extended the computer in 1967 with an interface for a paper tape reader. They offered a paid conversion service: User-written programs could be sent in by post, a few days later one got a paper tape with the same information.
+	<br>Under the pressure from the users, Diehl built a tape puncher (Diehl ELS) for manual (offline) operation, to avoid the snake mail conversion progress.
+
+	<div class="desc-left borderless no-copyright clear-left">
+	<a class="popup" href="/shared/photos/rechnertechnik/diehl-els-detail.jpg">
+        <img src="/shared/photos/rechnertechnik/diehl-els-detail.jpg" alt="Diehl tape puncher, details" width="325" height="242" />
+		</a>
+		<p class="small"><b><a class="popup" href="/shared/photos/rechnertechnik/diehl-els-detail.jpg">DIEHL ELS puncher</a></b>, detail.</p>
+		</div>
+
+	<p>Looking at the <a class="popup" href="/shared/photos/rechnertechnik/diehl-els-detail.jpg">DIEHL ELS keyboard</a>, one can imagine how commands and numbers were transfered to paper tape codes. Anyway, this was only a workaround for the messed computer setup: Olivetti, the concurrency, had much more progressive devices. To compete, eventually the DIEHL Combitron was shipped with the puncher ELS 830, primarily designed only for Diehl internal usage. This final combitron puncher synchronously punches paper tapes while typing on the keyboard.
+		
+		
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/combitron-s.jpg" alt="Diehl Combitron" width="850" height="284" />
+		<p class="small"> <b>DIEHL paper tape puncher ELS830, Combitron-S, Dilector</b></p>
+		</div>
+		 
+	<p>The <b>Combitron S</b> (1968-71) features additional 10 program memories, 10 memories for constants and two branch instructions opposite to the original version of the Combitron. The <a href="storage-media.php#run-time-memory" name="backlink-diehl" class="go">delay line memory</a> serves as storage media (storage space: approx 1000 bits). The delay line memory is a volatile storage, i.e. after powering off the device the memory content is lost. With the paper tape reader "Dilector", programs could be read in when turing the device on again.</p>
+		
+		
+		
+		
 	
 	<h3>Olivetti Programma 101</h3>
 

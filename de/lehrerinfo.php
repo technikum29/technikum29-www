@@ -105,7 +105,7 @@ Dieser Workshop findet ein ganz besonderes Interesse bei unseren Besuchern aus d
 </div>
 <div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp10.jpg"  width="150" height="125" />
-       Die Schrift aus dem "Nichts", Chatten mit genialer Maschine<br> (P bis LK)<br>
+       Die Schrift aus dem "Nichts", Chatten mit genialer Maschine<br>
 	   Ziel: Das geniale Schreibsystem begreifen (S1 bis LK)
 </div>
 
@@ -143,9 +143,9 @@ Dieser Workshop findet ein ganz besonderes Interesse bei unseren Besuchern aus d
 	   Ziel: Funktionsanalyse
 </div>
 <div class="rightcol left-img">
-    <img src="/shared/photos/rallye/exp11.jpg"  width="150" height="117" />
-       Die merkwürdigen Anzeigen <br>(S1 bis LK)<br>
-	   Ziel: Physik (Optik) anwenden und verstehen
+    <img src="/shared/photos/rallye/exp18.jpg"  width="150" height="106" />
+       Magnetostriktion, (LK)<br>
+	 Wissenschaftliches Experiment aus dem fortgeschrittenen-Praktikum der Hochschule
 </div>
 
 <div class="clear"></div> <!-- Zeilen auf gleiche Höhe trennen -->

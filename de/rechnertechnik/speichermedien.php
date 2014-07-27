@@ -53,11 +53,21 @@
 	<p class="bildtext"><b>1 KB Laufzeitspeicher</b></p></div>
 	
 		<p>Wenn sich (Ultra-)Schall ausbreitet, benötigt er Zeit zum Durchlaufen des Mediums. In dieser Zeit ist der Schall "gespeichert".
+		
+		<div class="desc-left no-copyright">
+		<a class="popup" href="/shared/photos/rechnertechnik/magnetostriktion.jpg">
+   <img src="/shared/photos/rechnertechnik/magnetostriktion.jpg" alt="Aufbau des Experimentes" width="428" height="303" /></a>
+   
+   <p class="small"><b>Magnetostriktion: Wissenschaftlich experimentieren</b><br>
+		Im Rahmen unseres "<a href="/de/lehrerinfo.php#experimente">Experimental-Workshop für Schüler</a>" können Sie hier auch alle wichtigen Eigenschaften der Magnetostriktion testen und auswerten. So ergibt sich z.B. für die Ausbreitungsgeschwindigkeit des magnetostriktiv erzeugten Ultraschalls im Nickeldraht ein Wert von ca. 3000 m/s.<br>
+		Vergrößern: Bild anklicken!</p></div>
+		
 		   <br/>Durch Magnetostriktion (kurzes Zusammenziehen eines Drahtes, wenn ihn ein starkes Magnetfeld umgibt) werden quasi Schallimpulse auf einen (zusammengerollten) Draht gegeben. Diese Information l&auml;uft mit der Schallgeschwindigkeit (des Materials) bis zum Ende und wird dort wieder in Stromimpulse umgewandelt. Jetzt w&auml;re die Information verloren, wenn man sie nicht aufbereiten und wieder am Anfang des Drahtes eingeben w&uuml;rde.</p>
 		<p>Die Daten laufen damit permanent "im Kreis" und k&ouml;nnen, wenn sie den Draht verlassen, gelesen und ver&auml;ndert werden. Je l&auml;nger der Draht ist, desto gr&ouml;&szlig;er ist die Speicherkapazit&auml;t.</p>
 		<p>Es handelt sich um einen fl&uuml;chtigen Speicher mit relativ langer Zugriffszeit. Wird der Rechner abgeschaltet, sind alle Daten weg.</p>
 		<p>Im Prinzip ist ein solcher Speicher ein analoges "Schieberegister". So wurde von der deutschen Firma DIEHL (Rechnersysteme) der Ultraschallspeicher der Rechner "Combitron" bzw. "Combitronic" im Nachfolgemodell "Algotronic" durch eine Kette von Schieberegistern ersetzt. Die Umlaufzeit wird jetzt durch die Taktfrequenz und nicht durch die physikalische Laufzeit des Drahtes bestimmt. Siehe <a class="go" href="/de/geraete/diehl-combitronic.php">"Diehl-Combitronic"</a></p> 
-
+		
+		
 
 <h3 id="kernspeicher">Kernspeicher</a></h3>
 

@@ -104,8 +104,9 @@
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> Aug.</p>	</div>
-	<h4>Robotik-Ferienkurs für Kids von 11-13(14) Jahren. Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a></h4>
+			<p class="date"><em>2014</em>18. Aug.</p>	</div>
+	<h4>Robotik-Ferienkurs für Kids von 11-14 Jahren. Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a><br>
+	Termin: 18. bis 22. August</h4>
 	
 <br>
 </div>
@@ -128,7 +129,14 @@ Feriengruppe A<br>
 Feriengruppe B<br>
 </div>
 
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 12. Aug.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Dienstag, der <b>12. August</b> <br>
+	Spezial-Führung
 
+</div>
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

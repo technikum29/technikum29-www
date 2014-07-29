@@ -111,41 +111,6 @@
 </div>
 
 
-
-<div class="right">
-                <img src="/shared/photos/start/kulturregion.jpg" width="200" height="173" />
-               </div>
-			   
-<span style="color:#8A0808"><b> Tage der Industriekultur Rhein-Main: Angebote im technikum29</b> <br>Dauer jeweils ca. 1,5 Stunden. Eintritt frei.
-
-
-
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 26. Juli</p>	</div>
-	<h4>Deus ex machina - Computer im Kalten Krieg und ihr Erbe</h4>
-Termin: Samstag, der <b>26. Juli</b> um 19 Uhr<br>
-<small><p>Der Kalte Krieg – Schreckgespenst und zugleich Auslöser eines zuvor ungekannten technischen Fortschrittes. Zeiten, in denen gewaltige Computer über das Wohl der ganzen Welt wachten und letztlich einen Nuklearkrieg verhinderten, Zeiten, in denen Computer noch als Elektronengehirne bezeichnet wurden und nahezu alles möglich schien. 
-Ein spannender Vortrag von <b>Prof. Dr. Bernd Ulmann</b> (Mathematiker/Informatiker) und <b>Patrick Hedfeld</b> (Philosoph), in welchem nicht nur technische, sondern auch <b>philosophische Aspekte</b> behandelt werden. Auch für Jugendliche ab ca. 15 Jahren gut geeignet.
-<br>
-Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> </p></small>
-</div>
-
-
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 27. Juli</p>	</div>
-	<h4>Die Geschichte der technischen Kommunikation</h4>
-Termin: Sonntag, der <b>27. Juli</b> um 14 Uhr<br>
-<small><p>Bei dieser Führung geht es um die historische Entwicklung von Rundfunk, Fernsehen, Tontechnik, Faximile, Telex und viel mehr.
-Alle Themen werden lebendig mit Experimenten und Demonstrationen funktionsfähiger Geräten aus der „Steinzeit“ dieser Technikepoche gezeigt. Ein 100 Jahre altes programmgesteuertes Klavier bildet den musikalischen Abschluss. 
-Auch für technikinteressierte Kids und Jugendliche ab ca. 12 Jahren bestens geeignet.<br>
-Anmeldung erforderlich: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></p>
-</div>
-</span>
-</small>
-
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 1. Aug.</p>	</div>

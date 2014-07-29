@@ -309,7 +309,7 @@ class t29Template {
 			<!-- Anfang Test -->
 			<a class="button alertbox termine" href="/de/#termine">
 				<strong>Aktuelle Führungen</strong>
-				<span>Tage der Industriekultur im technikum29</span>
+				
 			</a>
 			<!-- Ende Test -->
 			

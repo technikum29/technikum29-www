@@ -131,6 +131,14 @@ Feriengruppe B<br>
 
 <div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2014</em> 8. Aug.</p>	</div>
+	<h4>Werbeaufnahmen, Hessischer Rundfunk</h4>
+	Termin: Freitag, der <b>8. August</b> <br>
+
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2014</em> 12. Aug.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>12. August</b> <br>

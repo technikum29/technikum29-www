@@ -105,7 +105,7 @@
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em>18. Aug.</p>	</div>
-	<h4>Robotik-Ferienkurs für Kids von 11-14 Jahren. Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a><br>
+	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren. Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a><br>
 	Termin: 18. bis 22. August</h4>
 	
 <br>
@@ -133,7 +133,7 @@ Feriengruppe B<br>
 		<div class="left">
 			<p class="date"><em>2014</em> 8. Aug.</p>	</div>
 	<h4>Werbeaufnahmen, Hessischer Rundfunk</h4>
-	Termin: Freitag, der <b>8. August</b> <br>
+	Termin: Freitag, der <b>8. August</b> ganztägig<br>
 
 </div>
 

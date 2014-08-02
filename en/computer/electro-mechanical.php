@@ -21,8 +21,14 @@
 		</p>
 	</div>
 
-    <h2><!--#echo var="title" --></h2>
-    <p>
+    <h2>(Electro-) mechanical calculators</h2>
+   
+
+<div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
+        <p class="bildtext">
+
+   <p>
 	    The first electronically calculating calculators were gigantic mainframes
         in the 1940/50s. Until then, calculators worked mechanically.
         When the handwheel was replaced by an electric engine, the era of mechanical
@@ -30,18 +36,16 @@
 	</p>
     <p>
 	    <!--The first printing mechanical calculator (1905) is an unicum with an huge exterior engine!-->
-        From the first fully automatic machines (1927) until calculators with
+		
+		From the first fully automatic machines (1927) until calculators with
 		accumulating memory (1960s), mechanical calculators computed the result
 		indepently after user input.
 		Curta I, The world's first "pocket calculator", has 1/3 from the volume of a
         Coca Cola-pin and is consequently the smallest four-species machine ever built.
 		Looking at mechanical calculators, one quickly recognize the enormous
 		importance of the positional notation.</p>
+		
 	<p>
-
-    <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/burroughs.jpg" width="447" height="606" alt="Borroughs Mod.2" />
-        <p class="bildtext">
            <b>Burroughs Mod. 2.</b>
            The first printing calculating machine was invented in the USA (about 1905)
 		   and was selled worldwide. It features a complete keyboard for 17 digits, a

@@ -70,7 +70,7 @@ the "FITG" (Frankfurt) whon we would like to thank for their efforts.</p>
 per card. Thus 65000 cards correspond to about 5 MB which is roughly the same
 amount of data that a modern digital camera produces for a single picture.
 Stored on punch cards 5 MB weigh about 160 kg while the cabinet housing the
-cards has a volume of about 0.5 m³ (about 500 liters of volume).</p>
+cards has a volume of about 0.5 cubic meters (about 500 liters of volume).</p>
 
 
 

@@ -114,23 +114,6 @@
 
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 1. Aug.</p>	</div>
-	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
-	Termin: Freitag, der <b>1. August</b> 9:45-12:15 Uhr<br>
-Feriengruppe A<br>
-</div>
-
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 4. Aug.</p>	</div>
-	<h4>Die Urahnen des Smartphones, Experimental-Workshop</h4>
-	Termin: Montag, der <b>4. August</b> 9:45-12:15 Uhr<br>
-Feriengruppe B<br>
-</div>
-
-<div class="box termin clear-after">
-		<div class="left">
 			<p class="date"><em>2014</em> 8. Aug.</p>	</div>
 	<h4>Werbeaufnahmen, Hessischer Rundfunk</h4>
 	Termin: Freitag, der <b>8. August</b> ganztägig<br>
@@ -139,12 +122,31 @@ Feriengruppe B<br>
 
 <div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2014</em> 9. Aug.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>9. August</b> um 14:00 Uhr <br>
+	
+	
+	</div>
+<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2014</em> 12. Aug.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>12. August</b> <br>
 	Spezial-Führung
 
 </div>
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 13. Sept.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>13. September</b> um 14:00 Uhr <br>
+	Spezial-Führung UNIVAC 9400
+	
+	</div>
+
+
+
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 16. Sept.</p>	</div>

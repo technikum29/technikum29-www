@@ -112,22 +112,11 @@
 </div>
 
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 8. Aug.</p>	</div>
-	<h4>Werbeaufnahmen, Hessischer Rundfunk</h4>
-	Termin: Freitag, der <b>8. August</b> ganztägig<br>
 
-</div>
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 9. Aug.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>9. August</b> um 14:00 Uhr <br>
+
 	
-	
-	</div>
+
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 12. Aug.</p>	</div>

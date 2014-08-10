@@ -36,7 +36,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Ferienkurs findet vom <b>18.8.2014 bis 22.8.2014</b> mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau.<br>
+<p>Der Ferienkurs findet vom <b>18.8.2014 bis 22.8.2014</b> mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Am Montag beginnen wir um 10 Uhr.<br>
 Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren.<br>
 In den Herbstferien werden wir wieder einen Robotik-Kurs anbieten. Eine Vormerkung wird empfohlen.<br>
 

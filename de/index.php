@@ -117,14 +117,7 @@
 
 	
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 12. Aug.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>12. August</b> <br>
-	Spezial-Führung
 
-</div>
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 13. Sept.</p>	</div>

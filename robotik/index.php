@@ -20,7 +20,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 16.8.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 18.8.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -38,22 +38,24 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <p>Der Ferienkurs findet vom <b>18.8.2014 bis 22.8.2014</b> mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren.<br><br>
 <b>Startzeit:</b><br>
-Montag:  10 Uhr.<br>
-Dienstag:     <br>
-Mittwoch:     <br>
-Donnerstag:   <br>
-Freitag:      <br><br>
-
+Montag bis Freitag jeweils um 10 Uhr<br>
 <br>
+<small>
+Inhalt:<br>
+Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try my"<br>
+Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
+<br><hr>
+</small>
 In den Herbstferien werden wir wieder einen Robotik-Kurs anbieten. Eine Vormerkung wird empfohlen.<br>
+E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+<br><br>
 
 Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br><br>
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
 du solltest gut logisch denken können!</p>
 
-<p>Kosten: 45 Euro pro Teilnehmer.<br>
-Anmeldung und weitere Informationen unter  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> oder Telefon: 06195-2170.</p>
+
 
 <p><b>Wir suchen noch gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>
 

@@ -42,7 +42,7 @@ Montag bis Freitag jeweils um 10 Uhr<br>
 <br>
 <small>
 Inhalt:<br>
-Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try my"<br>
+Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try me"<br>
 Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
 <br><hr>
 </small>

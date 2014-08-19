@@ -20,7 +20,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 18.8.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 19.8.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -28,7 +28,7 @@
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn und er kommt, wenn du ihm ein Lichtsignal sendest. Er wird dich finden, begrüßen und strahlen!<br>
+Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen!<br>
 Dies und viel viel mehr kann man programmieren.</p><br>
 
 
@@ -43,7 +43,10 @@ Montag bis Freitag jeweils um 10 Uhr<br>
 <small>
 Inhalt:<br>
 Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try me"<br>
-Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
+Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
+Mittwoch: Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgrad.<br>
+Donnerstag: <br>
+Freitag:
 <br><hr>
 </small>
 In den Herbstferien werden wir wieder einen Robotik-Kurs anbieten. Eine Vormerkung wird empfohlen.<br>

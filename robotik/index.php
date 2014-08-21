@@ -20,7 +20,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 19.8.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 21.8.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -45,8 +45,8 @@ Inhalt:<br>
 Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try me"<br>
 Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Mittwoch: Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgrad.<br>
-Donnerstag: <br>
-Freitag:
+Donnerstag: Spezielle Programmiertechniken. Formationstanz der Roboter. Line fahren. Programmierte Navigation.<br>
+Freitag: Variablen, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen.
 <br><hr>
 </small>
 In den Herbstferien werden wir wieder einen Robotik-Kurs anbieten. Eine Vormerkung wird empfohlen.<br>

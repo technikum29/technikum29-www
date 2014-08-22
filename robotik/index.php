@@ -20,7 +20,7 @@
 
           
 
-<span style="color:red"><b>Aktualisiert: 21.8.2014</b></span>
+<span style="color:red"><b>Aktualisiert: 22.8.2014</b></span>
 <br> <br><br>
 
 <br>
@@ -28,7 +28,7 @@
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen!<br>
+Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen oder selbstständig die Länge einer Strecke vermessen.<br>
 Dies und viel viel mehr kann man programmieren.</p><br>
 
 
@@ -36,27 +36,27 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Ferienkurs findet vom <b>18.8.2014 bis 22.8.2014</b> mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren.<br><br>
-<b>Startzeit:</b><br>
-Montag bis Freitag jeweils um 10 Uhr<br>
-<br>
-<small>
-Inhalt:<br>
-Montag: Aufbau der Roboter, erste Tests aller Sensoren durch "try me"<br>
-Dienstag: Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
-Mittwoch: Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgrad.<br>
-Donnerstag: Spezielle Programmiertechniken. Formationstanz der Roboter. Line fahren. Programmierte Navigation.<br>
-Freitag: Variablen, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen.
-<br><hr>
-</small>
-In den Herbstferien werden wir wieder einen Robotik-Kurs anbieten. Eine Vormerkung wird empfohlen.<br>
-E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-<br><br>
+<p>Der Ferienkurs findet in den Herbstferien eine Woche lang mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, die intelligente "Einsteiger" sind.<br>
 
-Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br><br>
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
 du solltest gut logisch denken können!</p>
+<small>
+Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br>
+Aufbau der Roboter, erste Tests aller Sensoren durch "try me".
+Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
+Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgrad.<br>
+Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
+Variablen, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
+Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll Spaß machen!
+</small><br><br>
+Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:<br>
+E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+<br><br>
+
+Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br>
+Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
+
 
 
 

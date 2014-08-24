@@ -1,0 +1,5 @@
+section.sidebar nav.side,
+section.sidebar a.button,
+section.sidebar span.button {
+	display: none !important;
+}

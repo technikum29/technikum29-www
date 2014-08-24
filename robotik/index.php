@@ -41,9 +41,9 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
 du solltest gut logisch denken können!</p><br>
-<div class="box left">
+<div class="box left clear-after">
 		<img src="ferienkurs.jpg" width="531" height="313"/>
-		<p class="bildtext"><small><b>Ein Teil der Schüler beim entwickeln eines neuen Programms</b></small></p>
+		<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms</b></small></p>
 	</div>
 	
 <!--	

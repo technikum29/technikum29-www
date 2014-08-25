@@ -1,30 +1,23 @@
-<!DOCTYPE html>
+<?php
+	$seiten_id = 'robotik-ferienkurs';
+	$version = '$Id: robotik$';
+	$titel = 'Informationen zum Ferienkurs "Robotik"';
+	
+	require "../lib/technikum29.php";
+?>
+<!--
+ Hinweis: Diese Seite wurde am 24.Aug 13:22 testweise auf Basis von Revision 636
+ von der Hauptrobotikseite "kopiert".
+-->
 
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Informationen zum Ferienkurs  "ROBOTIK"</title>
-  <?php /* zwecks Homepagebarbeitungsprogramm, vgl. /lib/host.php: */ ?>
-  <meta name="t29.localfile" content="<?php print $_SERVER['SCRIPT_FILENAME']; ?>" id="localFileSource">
-  <meta name="t29.version" content="$Id$">
-  <link rel="stylesheet" type="text/css" href="http://www.technikum29.de/src/css/graydesign.css">
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  <!-- MathJax = LaText im Browser -->
-  <script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
-<body>
+<h2 class="center">Informationen zum Ferienkurs  "Robotik"</h2>
 
-<h1>Informationen zum Ferienkurs  "Robotik" ............ technikum29</h1><br><br>
 
-          
-
-<span style="color:red"><b>Aktualisiert: 22.8.2014</b></span>
-<br> <br><br>
-
+<div style="font-weight:bold; text-align:center">
+<div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<h3><big><big><big><b>Spielend Informatik lernen!</b></big></big></big></h3>
+<span style="color:red">Aktualisiert: 22.8.2014</span>
+</div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
@@ -85,11 +78,6 @@ $$  d = \frac{a \cdot \lambda}{ \sqrt{g^2 - \lambda^2 } } $$
 inline-formel:  \( E^2 = \sqrt{ p^2 + m^2 } \)
 -->
 
-</li><br>
-
-</ul><br>
-
-
 
    
    
@@ -125,25 +113,3 @@ Siehe derzeit auch noch die <a href="dokuwiki/"><b>Wiki (Upload, Texte)</b></a>.
 </div>   
 -->
 
-
-
-<!--
-
-     ACHTUNG: Folgendes nicht loeschen, zwecks
-              Tracking der Seite in den STATISITKEN
--->
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.technikum29.de/logs/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="http://www.technikum29.de/logs/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->

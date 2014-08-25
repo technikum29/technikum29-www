@@ -3,3 +3,7 @@ section.sidebar a.button,
 section.sidebar span.button {
 	display: none !important;
 }
+
+body.lang-de h1 a {
+	background-image: url("/shared/img-v6/banner.png");
+}

@@ -48,6 +48,7 @@
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
+			<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Kurs</a></li>
 		</ul>
 	</li>
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>

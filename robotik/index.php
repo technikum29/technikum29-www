@@ -5,7 +5,7 @@
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
-Dieser Text hier steht in der Sidebar.
+<!--Text der Sidebar hier eingeben:-->
 
 SIDEBAR_ENDE;
 	

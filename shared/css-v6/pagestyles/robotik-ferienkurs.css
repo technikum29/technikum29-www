@@ -1,8 +1,6 @@
-section.sidebar nav.side,
-section.sidebar a.button,
-section.sidebar span.button {
+/*section.sidebar a.button.termine {
 	display: none !important;
-}
+}*/
 
 body.lang-de h1 a {
 	background-image: url("/shared/img-v6/banner.png");

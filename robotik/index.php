@@ -2,6 +2,12 @@
 	$seiten_id = 'robotik-ferienkurs';
 	$version = '$Id: robotik$';
 	$titel = 'Informationen zum Ferienkurs "Robotik"';
+
+$sidebar_content = <<<SIDEBAR_ENDE
+
+Dieser Text hier steht in der Sidebar.
+
+SIDEBAR_ENDE;
 	
 	require "../lib/technikum29.php";
 ?>
@@ -34,17 +40,18 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
 du solltest gut logisch denken können!</p><br>
-<div class="box left clear-after">
-		<img src="ferienkurs.jpg" width="531" height="313"/>
-		<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms</b></small></p>
-	</div>
+
+<div class="box desc-left borderless">
+	<img src="ferienkurs.jpg" width="531" height="313"/>
+	<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms</b></small></p>
+</div>
 	
 <!--	
 <div><img src="ferienkurs.jpg" width="531" height="313" /> 
 <small><b>Ein Teil der Schüler beim entwickeln eines neuen Programms</b></div>
 -->
 
-<p><small>
+<p style="font-size: small; text-align: left; line-height: 110%;">
 Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br>
 Aufbau der Roboter, erste Tests aller Sensoren durch "try me".
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
@@ -52,7 +59,8 @@ Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgr
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
 Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll Spaß machen!
-</small></p>
+</p>
+
 <br>
 Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:
 E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>

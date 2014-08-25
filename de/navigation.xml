@@ -48,7 +48,7 @@
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
-			<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Kurs</a></li>
+			<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Kurse</a></li>
 		</ul>
 	</li>
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
@@ -228,6 +228,7 @@
 			<li><a href="/de/sonstiges.php#kinomaschine">Kinomaschine</a></li>
 			
 				<li><a href="/de/lehrerinfo.php">Informationen für Lehrer</a></li>
+				<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Kurse</a></li>
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>

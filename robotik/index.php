@@ -5,7 +5,15 @@
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
-<!--Text der Sidebar hier eingeben:-->
+<p style="margin-bottom: 1050px"></p>
+
+<font size="5">
+Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:<br><br>
+E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</fond><br>
+<font size="4">
+Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also gut erreichbar.
+</fond>
 
 SIDEBAR_ENDE;
 	
@@ -22,7 +30,7 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 22.8.2014</span>
+<span style="color:red">Aktualisiert: 25.8.2014</span>
 </div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
@@ -35,7 +43,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Ferienkurs findet in den Herbstferien eine Woche lang mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, die intelligente "Einsteiger" sind.<br>
+<p>Der Ferienkurs findet in den Herbstferien eine Woche lang von Montag bis Freitag mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, also intelligente "Robotik-Einsteiger".<br>
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
@@ -43,28 +51,19 @@ du solltest gut logisch denken können!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms</b></small></p>
+	<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b> Sommerferien 2014</small></p>
 </div>
 	
-<!--	
-<div><img src="ferienkurs.jpg" width="531" height="313" /> 
-<small><b>Ein Teil der Schüler beim entwickeln eines neuen Programms</b></div>
--->
 
 <p style="font-size: small; text-align: left; line-height: 110%;">
 Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br>
 Aufbau der Roboter, erste Tests aller Sensoren durch "try me".
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
-Programmverzweigungen und Unterprogramme. Programme mit erhötem Komplexitätsgrad.<br>
+Programmverzweigungen und Unter-programme. Programme mit erhöhtem Komplexitätsgrad.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
-Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll Spaß machen!
-</p>
-
-<br>
-Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:
-E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-<br><br>
+Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll vor allem Spaß machen!
+</p><br><br><br>
 
 Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br>
 Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
@@ -72,7 +71,7 @@ Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
 
 
 
-<p><b>Wir suchen noch gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>
+<p><b>Wir suchen noch weitere gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>
 
 
 

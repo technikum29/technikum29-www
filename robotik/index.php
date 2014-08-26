@@ -5,7 +5,12 @@
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
-<p style="margin-bottom: 1050px"></p>
+<p style="margin-bottom: 200px"></p>
+<a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">
+<center><img src="hk.jpg" width="210" height="135" alt="Frankfurter Neue Presse" /></center>
+Bericht in der "Frankfurter Neuen Presse" </a>
+
+<p style="margin-bottom: 725px"></p>
 
 <font size="5">
 Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:<br><br>
@@ -24,9 +29,9 @@ SIDEBAR_ENDE;
  von der Hauptrobotikseite "kopiert".
 -->
 
-<h2 class="center">Informationen zum Ferienkurs  "Robotik"</h2>
+<h2 class="center">Informationen zum Robotik-Kurs</h2>
 
-
+<br><br>
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
@@ -43,7 +48,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Ferienkurs findet in den Herbstferien eine Woche lang von Montag bis Freitag mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, also intelligente "Robotik-Einsteiger".<br>
+<p>Der Robotik-Kurs findet in den Herbstferien eine Woche lang von Montag bis Freitag mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, also intelligente "Robotik-Einsteiger".<br>
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
@@ -51,7 +56,7 @@ du solltest gut logisch denken können!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098"> Bericht in der Frankfurter Neue Presse</a> </p>
+	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank"> Bericht in der Frankfurter Neue Presse</a> </p>
 </div>
 	
 
@@ -71,7 +76,7 @@ Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
 
 
 
-<p><b>Wir suchen noch weitere gebrauchsfähige Laptops für diesen Ferienkurs!</b></p>
+<p><b>Wir suchen noch weitere gebrauchsfähige Laptops für unsere Robotik-Kurse!</b></p>
 
 
 

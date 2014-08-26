@@ -73,8 +73,8 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 				<?php
 					$link =  ($e['link']{0} == '#' ? $news_url : '').$e['link'];
 				?>
-				<link>http://www.technikum29.de/<?=$link; ?></link>
-				<guid idPermaLink="true">http://www.example.com/<?=$link; ?></guid>
+				<link><?=$link; ?></link>
+				<guid idPermaLink="true"><?=$link; ?></guid>
 				<pubDate><?=date('r', $pubdate); ?></pubDate>
 			</item>
 			<?php

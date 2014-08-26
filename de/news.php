@@ -7,7 +7,7 @@
 	
 - titel: "Robotik-Kurs"
   text: "für Kids von 11-13"
-  link: "#Juli_2014"
+  link: "#August_2014"
 	
 - titel: "Dechiffriermaschine"
   text: "Historischer 5-Bit Decoder"
@@ -48,9 +48,9 @@ MENU;
 
 
 <li><a href="/robotik">
-<h3>Juli 2014</h3>
+<h3>August 2014</h3>
 <img src="/robotik/robotik.jpg" width="153" height="115" />
-Robotik-Ferienkurs für Kids zwischen 11 und 13 (14) Jahren im technikum29.<br>
+Robotik-Ferienkurs für Kids zwischen 11 und 13 Jahren im technikum29.<br>
 Hochinteressant und sehr lehrreich.
 </a> 
 

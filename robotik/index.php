@@ -51,7 +51,7 @@ du solltest gut logisch denken können!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><small><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b> Sommerferien 2014</small></p>
+	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098"> Bericht in der Frankfurter Neue Presse</a> </p>
 </div>
 	
 
@@ -63,9 +63,9 @@ Programmverzweigungen und Unter-programme. Programme mit erhöhtem Komplexitäts
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
 Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll vor allem Spaß machen!
-</p><br><br><br>
+</p><br>
 
-Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.<br>
+Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.
 Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
 
 

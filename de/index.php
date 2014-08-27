@@ -123,7 +123,7 @@
 	<div class="left">
 			<p class="date"><em>2014</em>Ende Okt.</p>	</div>
 	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Ferienkurs</a><br>
+	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
 	Termin: <b>Herbstferien</b>
 	
 </div>

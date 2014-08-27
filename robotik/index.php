@@ -4,16 +4,17 @@
 	$titel = 'Informationen zum Ferienkurs "Robotik"';
 
 $sidebar_content = <<<SIDEBAR_ENDE
-
-<p style="margin-bottom: 200px"></p>
+<!--
+<p style="margin-bottom: 200px"></p> -->
 <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">
 <center><img src="hk.jpg" width="210" height="135" alt="Frankfurter Neue Presse" /></center>
 Bericht in der "Frankfurter Neuen Presse" </a>
-
-<p style="margin-bottom: 725px"></p>
+<br><br><!-- wieder entfernen! -->
+<!--
+<p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Es wird empfohlen, sich für diesen Kurs vormerken zu lassen:<br><br>
+Es wird empfohlen sich für diesen Kurs vormerken zu lassen:<br><br>
 E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </fond><br>
 <font size="4">
@@ -56,7 +57,7 @@ du solltest gut logisch denken können!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank"> Bericht in der Frankfurter Neue Presse</a> </p>
+	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a class="go" href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank"> Bericht in der Frankfurter Neue Presse</a> </p>
 </div>
 	
 

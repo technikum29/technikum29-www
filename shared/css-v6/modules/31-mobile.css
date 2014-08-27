@@ -24,8 +24,7 @@
 	footer.in-sheet.empty-footer {
 		height: 2px; /* Nur Linie anzeigen, keine weisse Flaeche */
 	}
-	
-	
+
 	
 	footer.attached {
 		background: #F4F4F4;
@@ -58,6 +57,11 @@
 		width: 100%;
 		background-color: #dfeaf0;
 	}
+	section.sidebar nav.side .u1 > li > a {
+		/* u1-Trenner abschalten */
+		border-top: none;
+		padding-top: 0;
+	}
 	
 	/* clearfix */
 	#content:after, section.sidebar:after { content: ""; display: table; clear: both; }
@@ -76,4 +80,29 @@
 	}
 	
 	footer.in-sheet.empty-footer { display: none; }
+}
+
+/**
+ * Schmaller als 600px: Handy-Design, alles einspaltig!
+ *
+ **/
+@media all and (max-width: 600px) {
+	#container, #content, section.sidebar, #background-color-container {
+		width: inherit;
+	}
+	#content {
+		padding: 1.5em 1em;
+	}
+
+	/* Mehrspaltige Contents. Overwrite dank #container */
+	#container div.startseiten-boxen,
+	#container div.startseiten-boxen .cols,
+	#container div.startseiten-boxen .leftcol, 
+	#container div.startseiten-boxen .rightcol {
+		float: none;
+		width: inherit;
+		padding: 0 !important;
+	}
+
+
 }

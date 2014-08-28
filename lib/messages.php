@@ -171,5 +171,11 @@ class t29Messages {
 		// interlang.js
 		'js-interlang-notify-heading' => array("This page is also avaliable in English", "Diese Website gibt es auch auf Deutsch"),
 		'js-interlang-notify-text' => array("Do you want to switch to the English version <i>%s</i>?", "Möchtest du die deutschsprachige Seite <i>%s</i> lesen?"),
+
+		// RSS-feed, in /lib/news.php verwendet
+		'rss-title' => array('technikum29 Computer Museum - Was gibt es Neues?','technikum29 Computer Museum - What\'s new?'),
+		'rss-description' => array('Neuste Geräte und Erweiterungen im technikum29-Computermuseum', 'The latest devices and news from the technikum29 computer museum'),
+		'rss-copyright' => array('Heribert Müller und das technikum29-Team', 'Heribert Müller and the technikum29 team'),
+		
 	);
 }

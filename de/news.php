@@ -5,33 +5,33 @@
 	
 	$neues_menu = <<< MENU
 	
-- titel: "Robotik-Kurs"
-  text: "für Kids von 11-13"
-  link: "#August_2014"
+- datum: "August 2014"
+  titel: "Robotik-Kurs"
+  untertitel: "für Kids von 11-13"
 	
-- titel: "Dechiffriermaschine"
-  text: "Historischer 5-Bit Decoder"
-  link: "#Juli_2014"
+- datum: "Juli 2014"
+  titel: "Dechiffriermaschine"
+  untertitel: "Historischer 5-Bit Decoder"
 	
-- titel: "Notizen zum Digitalen"
-  text: "IBM029 auf Reisen"
-  link: "#Juni_2014"		
+- datum: "Juni 2014"
+  titel: "Notizen zum Digitalen"
+  untertitel: "IBM029 auf Reisen"
 	
-- titel: "Neu: Peripherie der IBM1130"
-  text: "Lochstreifengeräte"
-  link: "#Mai_2014"	
+- datum: "Mai 2014"
+  titel: "Neu: Peripherie der IBM1130"
+  untertitel: "Lochstreifengeräte"
 	
-- titel: "Neu: IBM 1130 Anlage"
-  text: "Eine neue Herausforderung"
-  link: "#Januar_2014"
+- datum: "Januar 2014"
+  titel: "Neu: IBM 1130 Anlage"
+  untertitel: "Eine neue Herausforderung"
   
-- titel: "Neuzugang: Lochkartendoppler"
-  text: ""
-  link: "#Dezember_2013"
+- datum: Dezember 2013
+  titel: "Neuzugang: Lochkartendoppler"
+  untertitel: ""
 
-- titel: "Gamma 55 jetzt voll funktionsfähig!"
-  text: ""
-  link: "#September_2013"
+- datum: September 2013
+  titel: "Gamma 55 jetzt voll funktionsfähig!"
+  untertitel: ""
   
 	
 MENU;
@@ -42,7 +42,8 @@ MENU;
     <h2>Was gibt es Neues?</h2>
 	
 	
-	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben, wurde diese Rubrik eingeführt.</p>
+	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben,
+	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
 
 <ul class="news-feed news-ng">
 

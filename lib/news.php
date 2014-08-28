@@ -22,9 +22,20 @@ require $lib.'/spyc.php';
 $data = Spyc::YAMLLoad($neues_menu);
 $required_fields = array('titel', 'text', 'link', /*'bild'*/);
 
+# Hack, um die Sprache zu bekommen, von technikum29.php kopiert.
+require "$lib/host.php";
+$host = t29Host::detect();
+$file = $host->slash_filename; # e.g.: "/de/page.php"
+if(!isset($lang)) $lang = substr($file, 1, 2);
+if(!in_array($lang, array('de','en'))) $lang = "de"; # check if language exists
+
+require $lib.'/messages.php';
+$msg = new t29Messages($lang);
+$p = $msg->get_shorthand_printer();
+
 # und hostname davor.
 # $this->conf['lang_path'].'/'.self::news_file
-$news_url = "http://www.technikum29.de/de/news";
+$news_url = "http://www.technikum29.de/$lang/news";
 # if($host)	$url = $host->rewrite_link($url);
 
 header("Content-Type: application/rss+xml");
@@ -34,33 +45,43 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 
 <rss 
    xmlns:atom="http://www.w3.org/2005/Atom"
-   xml:lang="de-DE"
+   xml:lang="<?php print $lang; ?>"
    version="2.0">
     <channel>
-	<title>technikum29 Computer Museum - Was gibt es Neues?</title>
+	<title><?php $p('rss-title'); ?></title>
 	<link>http://www.technikum29.de</link>
-	<description>Neuste Geräte und Erweiterungen im technikum29-Computermuseum</description>
-	<language>de-DE</language>
-	<copyright>&#x2117; &amp; &#xA9; 2033-<?=date('Y'); ?> Heribert Müller und das technikum29-Team</copyright>
+	<description><?php $p('rss-description'); ?></description>
+	<language><?php print $lang; ?></language>
+	<copyright>&#x2117; &amp; &#xA9; 2003-<?=date('Y'); ?> <?php $p('rss-copyright'); ?></copyright>
 	<pubDate><?=date('r', $pubdate); ?></pubDate>
 	<image>
-		<url>http://www.technikum29.de/shared/img-v6/banner.de.png</url>
+		<url>http://www.technikum29.de/shared/img-v6/banner.<?php print $lang; ?>.png</url>
 		<title>technikum29 Computermuseum</title>
 		<link>http://www.technikum29.de/</link>
 	</image>
 	<!-- Time To Live: Cache validity time for channel until update in minutes -->
 	<!--<ttl><?=60*12; ?></ttl>--><!-- half a day -->
 	
-	<atom:link href="http://www.technikum29.de/de/news.php?format=rss" rel="self" type="application/rss+xml" />	
+	<atom:link href="http://www.technikum29.de/<?php print $lang; ?>/news.php?format=rss" rel="self" type="application/rss+xml" />	
 	
 	<?php
 	foreach($data as $e) {
+		// Kompatibilitaet im August 2014, Uebergangsphase
+		if(!isset($e['text']) && isset($e['untertitel'])) $e['text'] = $e['untertitel'];
+		if(!isset($e['link']) && isset($e['datum'])) $e['link'] = $news_url.'#'.str_replace(' ', '_', $e['datum']);
+
 		if(!array_reduce(array_map(function($x) use ($required_fields,$e){ return isset($e[$x]); }, $required_fields),
 				function($a,$b){ return $a && $b;}, true)) {
 			?>
 			<item>
 				<title>Fehlformatierung</title>
-				<description>Leider ist dieser Eintrag nicht richtig formatiert. Schauen Sie sich die News-Seite direkt an.</description>
+				<description><![CDATA[<html><body>
+					<b>Leider ist dieser Eintrag nicht richtig formatiert</b>. Schauen Sie sich die News-Seite direkt an.
+					<p><i>Details:</i></p>
+					Eines der Fehler Felder <?php print implode(", ", $required_fields); ?> fehlt.
+					Details: <pre><?php print var_dump($e); ?></pre>
+				</body></html>]]>
+				</description>
 				<link>http://www.technikum29.de/de/news</link>
 			</item>
 			<?php
@@ -68,10 +89,17 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 			?>
 			<item>
 				<title><?=$e['titel']; ?></title>
-				<description><?=$e['text']; ?></description>
+				<description><?php
+					// if text contains tags like <em>, mark it as HTML
+					if(strpos($e['text'], '<') !== false) { print '<![CDATA[<html><body>'; }
+					print $e['text'];
+					if(strpos($e['text'], '<') !== false) { print '</body></html>]]>'; } ?>
+				</description>
 				<author>Heribert Müller</author>
 				<?php
-					$link =  ($e['link']{0} == '#' ? $news_url : '').$e['link'];
+					if($e['link']{0} == '#') $link = $news_url . $e['link'];
+					else if($e['link']{0} == '/') $link = 'http://www.technikum29.de' . $e['link'];
+					else $link = $e['link'];
 				?>
 				<link><?=$link; ?></link>
 				<guid idPermaLink="true"><?=$link; ?></guid>
@@ -88,8 +116,10 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 
 // rss ausgegeben, jetzt: exit um nicht noch Seite auszugeben.
 exit();
-
 } else {
+	// bin eingebunden von news-Seite
 	require("$lib/technikum29.php");
+	// wichtig:
 	return true;
 }
+

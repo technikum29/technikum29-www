@@ -136,7 +136,7 @@ nav.horizontal ul.rich-text a:after {
 nav.horizontal ul.rich-text img {
 	float: left;
 	margin-right: 10px;
-	display: none; /* ausblenden */
+	/*display: none;*/ /* ausblenden */ /* warum ausblenden? */
 }
 
 nav.horizontal ul.rich-text a:hover img {

@@ -72,19 +72,28 @@ class t29Menu {
 	function convert_news_data($host=null) {
 		require_once $this->conf['lib'].'/spyc.php';
 		$data = Spyc::YAMLLoad($this->load_news_data());
-		$fields = array('titel', 'text', 'link', /*'bild'*/);
+		$fields = array('datum', 'titel',/* 'untertitel', 'bild'*/);
 
 		$news_ul_content = '';
 		foreach($data as $e) {
 			if(!array_reduce(array_map(function($x) use ($fields,$e){ return isset($e[$x]); }, $fields),
 					function($a,$b){ return $a && $b;}, true)) {
 				$li = "<li><a href='#'>Fehler in Formatierung!<em>Dieser Menüeintrag ist falsch formatiert</em></a></li>";
-				$this->log->WARN("<h5>Neuigkeiten-Menü: Fehler in Formatierung</h5><p>Ein Eintrag im Neuigkeiten-Menü ist falsch formatiert.");
+				$this->log->WARN("<h5>Neuigkeiten-Menü: Fehler in Formatierung</h5><p>Ein Eintrag im Neuigkeiten-Menü ist falsch formatiert. Ich erwarte zu jedem Menüeintrag die Felder ".implode(", ", $fields).". Eine der Angaben fehlt oder ist fehlerhaft formatiert: <pre>".var_export($e, true)."</pre>");
 			} else {
-				$url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
+				// Ehemals konnte die URL per "link: #August_2013" angegeben werden oder "link: /de/irgendwohin".
+				// $url = ($e['link']{0} == '#' ? $this->conf['lang_path'].'/'.self::news_file : '').$e['link'];
+				// Jetzt wird die URL automatisch aus dem Datum gebaut (slugify-artig)
+				$url = $this->conf['lang_path'].'/'.self::news_file.'#'.str_replace(' ', '_', $e['datum']);
 				if($host)
 					$url = $host->rewrite_link($url);
-				$li = "<li><a href='$url'>$e[titel]<span class='hidden'>: </span><em>$e[text]</em></a></li>";
+
+				// optionales Feld: Untertitel
+				if(!isset($e['untertitel'])) $e['untertitel'] = '';
+
+				// weiteres optionales Feld: Bildeinbindung
+				$img = !isset($e['bild']) ? '' : "<img src='$e[bild]' style='max-width:64px; max-height:64px;'>";
+				$li = "<li><a href='$url'>$img$e[titel]<span class='hidden'>: </span><em>$e[untertitel]</em></a></li>";
 			}
 			$news_ul_content .= "\t".$li."\n";
 		}

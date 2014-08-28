@@ -26,10 +26,7 @@ $webroot = realpath("$lib/../");  # file path to root of t29 web installation
 // early import host specific settings for making low level corrections like Bugfix #32
 require "$lib/host.php";
 $host = $external ? t29Host::create('t29ExternalHost') : t29Host::detect();
-
-$file = $host->script_filename; # e.g.: "/de/page.php"
-# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
-if($file{0} != '/') $file = "/$file";
+$file = $host->slash_filename; # e.g.: "/de/page.php"
 
 // exactly define debugging behaviour
 if(isset($_GET['debug'])) {

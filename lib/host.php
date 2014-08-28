@@ -49,6 +49,9 @@ abstract class t29Host {
 	/// This value is computed by setup().
 	public $script_filename;
 
+	/// $slash_filename: Cross-platform $script_filename, always starting with a "/".
+	public $slash_filename;
+
 	/// $ressources: CSS and JavaScript file paths ("Assets"), as used by the RessourceLoader,
 	///              the loader.php and technikum29.php entry points and the Template.
 	private function ressources_array($webroot='') {
@@ -228,6 +231,10 @@ abstract class t29Host {
 		//var_dump($this); exit;
 		   
 		$this->script_filename = substr(realpath($_SERVER['SCRIPT_FILENAME']), strlen($this->document_root)); # e.g.: "/de/page.php"
+
+		# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
+		$this->slash_filename = $this->script_filename;
+		if($this->slash_filename{0} != '/') $this->slash_filename = '/'.$this->slash_filename;
 		
 		// Windows realpath() converts Unix Paths ($_SERVER) to Windows Paths (like \en\index.php).
 		// We want to use unix paths ($_SERVER like) internally, so do this dummy conversion back, if neccessary

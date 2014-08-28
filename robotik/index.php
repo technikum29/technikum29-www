@@ -36,7 +36,7 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 25.8.2014</span>
+<span style="color:red">Aktualisiert: 28.8.2014</span>
 </div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
@@ -49,7 +49,11 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Robotik-Kurs findet in den Herbstferien eine Woche lang von Montag bis Freitag mit je 2 Zeitstunden statt. Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an technikinteressierte Schüler im Alter von 11 bis 13 Jahren, also intelligente "Robotik-Einsteiger".<br>
+<p>Wegen der großen Nachfrage werden wir den Kurs zwei mal in den Herbstferien anbieten. Er findet an 5 Tagen je 2 Stunden statt (Uhrzeit nach Absprache, vermutlich von 10 bis 12 Uhr oder von 14 bis 16 Uhr).<br>
+Kurs 1: 20.10. bis 24.10.<br>
+Kurs 2: 27.10. bis 31.10.<br> 
+Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
+
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und

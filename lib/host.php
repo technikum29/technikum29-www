@@ -232,14 +232,14 @@ abstract class t29Host {
 		   
 		$this->script_filename = substr(realpath($_SERVER['SCRIPT_FILENAME']), strlen($this->document_root)); # e.g.: "/de/page.php"
 
-		# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
-		$this->slash_filename = $this->script_filename;
-		if($this->slash_filename{0} != '/') $this->slash_filename = '/'.$this->slash_filename;
-		
 		// Windows realpath() converts Unix Paths ($_SERVER) to Windows Paths (like \en\index.php).
 		// We want to use unix paths ($_SERVER like) internally, so do this dummy conversion back, if neccessary
 		$this->script_filename = str_replace('\\', '/', $this->script_filename);
 		
+		# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
+		$this->slash_filename = $this->script_filename;
+		if($this->slash_filename{0} != '/') $this->slash_filename = '/'.$this->slash_filename;
+	
 		//phpinfo(); exit;
 		return $this; // Chaining
 	}

@@ -61,7 +61,7 @@ du solltest gut logisch denken können!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a class="go" href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank"> Bericht in der Frankfurter Neue Presse</a> </p>
+	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="Kelkheimer-Zeitung.pdf"> Bericht in der Kelkheimer Zeitung</a> </p>
 </div>
 	
 

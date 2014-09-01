@@ -38,9 +38,8 @@ Wichtiger Tipp für Lehrer: Bedenken Sie, dass Schüler von dem Vorschlag ein Mu
 Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist anhand "begreifbarer" historischer Technik als Einstieg durchaus möglich. Insbesondere im Bereich "Computer" ist eine Anbindung von neuer an alte Technik machbar und führt schnell auf sehr interessante Themen.</p>
 
 
-	Auch interessierte Schüler der 3./4. Klasse (Grundschule) können mit Spaß und Erfolg an einem "Workshop" teilnehmen.<br>
-	Gerade für Schüler dieser Altersgruppe gibt es nur wenige Möglichkeiten mit transparenter Technik in Berührung zu kommen. Hier ist das problemlos und sehr lebendig möglich!<br>
-	<a href="/de/lernprojekte/pilotprojekt.pdf">Lesen Sie bei Interesse hier weiter.</a>
+	Auch interessierte Schüler der 4. Klasse (Grundschule) können mit Spaß und Erfolg an einem "Workshop" teilnehmen.<br>
+	Gerade für Schüler dieser Altersgruppe gibt es nur wenige Möglichkeiten mit transparenter Technik in Berührung zu kommen. Hier ist das problemlos und sehr lebendig möglich!
 	</p><br>
 	
 	<div class="desc-left">

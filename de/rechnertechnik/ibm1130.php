@@ -74,8 +74,18 @@
 		
 		<b>16.6.2014:</b> Nun geht es in großen Schritten voran: Nach der intensiven Reinigung und Justage der Lesestation des Lochkartenlesers (IBM 1442) konnten wir zunächst die 7 "one-Card-Diagnostic" Programme laufen lassen um sicher zu stellen, dass sehr grobe Fehler in der CPU nicht vorhanden sind. Das sind sehr einfache Tests, die auch dann noch laufen, wenn gewisse Fehler vorhanden sind. Diese Tests liefen ohne Probleme. Der nächste größere Diagnostic-Test prüft den Konsoldrucker. Ohne dessen Funktion ist eine Kommunikation mit dem Rechner nicht möglich. Hier zeigt sich, dass der Kugelkopf-Drucker noch einige Defekte aufweist. In der Regel ist es verharztes Öl, was die Funktion stark beeinträchtigt.<br><br>
 		
-		<b>31.8.2014:</b> Wir möchten uns beim "Verein für ein Museum der Lochkartentechnik": cosecans.ch herzlich für die Überlassung eines Steckkartensatzes für den Prozessor 1131 bedanken. Mit dessen Hilfe werden wir die restlichen Fehler aufspüren und beseitigen.<br>
-		Weitere Tests haben ergeben: Der Speicher-Test sowie der CPU-Test laufen korrekt, der Keyboard-Printer-Test jedoch falsch.
+		<b>31.8.2014:</b> Wir möchten uns beim "Verein für ein Museum der Lochkartentechnik": cosecans.ch herzlich für die Überlassung eines Steckkartensatzes für den Prozessor 1131 bedanken. Für eine Reparatur sind solche Ersatzkarten sehr hilfreich.<br>
+		Weitere Tests haben ergeben: Der Speicher-Test sowie der CPU-Test laufen korrekt, der Keyboard-Printer-Test jedoch falsch.<br><br>
+		
+		<b>7.9.2014:</b> Wie schon bei den anderen größeren Anlagen muss man bei der ersten Instandsetzung nach jahrzehntelangem Stillstand Rückschläge hinnehmen. Wir haben es noch mit mindestens 2 Fehlern zu tun. Hier zeigt sich, dass ohne die Diagnostic-Tests eine Reparatur fast unmöglich wäre. Alleine der "Keyboard-Printer-Test" zeigt:<br>
+		Fehler 1: Nach längerer Betriebszeit kommt beim erneutem Laden der Programme (auf Lochkarten) die Meldung auf der Konsol-Schreibmaschine<br>
+		"E0004 &nbsp; &nbsp; CKSUM"<br>
+		was bedeutet, dass nach dem Lesen der Karten die von der CPU berechnete Prüfsumme nicht mit der vorgegebenen übereinstimmt.<br>
+		Fehlerursachen: Eine Karte im Stapel fehlt/ist zuviel/ist vertauscht, Leser 1442 liest falsch, die CPU 1131 berechnet die Prüfsumme falsch. Hier kommen nur die beiden letzten Ursachen in Betracht.<br>
+		Fehler 2 mit folgender Meldung:<br>
+		"E0001 &nbsp; &nbsp; INVLD"<br>
+		was bedeutet, dass die im Switch-Register eingestellte Adresse für einen speziellen Test ungültig ist. Sie ist jedoch korrekt, wird aber als ungültig identifiziert. Es gibt also noch einiges zu tun.
+		
 		
 		</small>
 		<p>Fortsetzung folgt</p>

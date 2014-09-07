@@ -31,7 +31,7 @@
                     origin of today's technolgy. You don't have to be
                     an expert: Almost everybody can find an interesting
                     part in our broad spectrum of possibilities.</li>
-                <li>Student groups (at least 15 years old), firms outgoing, etc.</li>
+                <li>Student groups (at least 10 years old), firms outgoing, etc.</li>
             </ul>
         </div>
       </div><!--leftcol-->

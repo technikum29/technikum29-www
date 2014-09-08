@@ -23,11 +23,11 @@
 	
 	<p>Ein Lochkartenstanzer als Rhythmusgerät ist ein ungewöhnlicher Aufbau in einem Konzert. Neben dem Flügel steht zwischen all den anderen Instrumenten unsere IBM 026 Card-Punch. Wenn man den Sound der Maschine (Motor und Rhythmik beim Stanzen) geschickt in ein  Konzert einfügt welches zusätzlich durch riesige Bildprojektionen ergänzt wird, führt das zu ganz eigenen akustisch-visuellen Impressionen.</p><br>
 	
-	<div "box clear-after">
-	<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="848" height="555" class="nomargin-bottom" />
-	<div class="bildtext">
-	<b>Punchcard-Music</b> Foto: Florian Ross</p>
-	</div class="bildtext">
+	<div class="box center">
+		<img src="/shared/photos/rechnertechnik/ross-moll.jpg" width="848" height="555" class="nomargin-bottom" />
+		<p class="center">
+			<b>Punchcard-Music</b> Foto: Florian Ross
+		</p>
 	</div>
 	<p>Die Uraufführung war im Mai 2013 in Köln zu bestaunen. Die Pianistin musste zeitweise die Klaviatur des Konzertflügels gegen die Tastatur des Lochkartenstanzers tauschen: Ein völlig neues Gefühl. Weitere Einzelheiten zu dieser großartigen Inszenierung wie Bilder, Texte und einen Videoclip finden Sie unter
 	<a class="go" href="http://www.punchcardmusic.de/press.html"> <b>punchcard-music</b> </a><br><br>

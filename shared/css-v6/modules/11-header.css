@@ -29,8 +29,8 @@ h1 a {
 	width: 310px; height: 84px;
 }
 
-body.lang-de h1 a { background: url("/shared/img-v6/banner.de.png"); }
-body.lang-en h1 a { background: url("/shared/img-v6/banner.en.png"); }
+body.lang-de h1 a { background-image: url("/shared/img-v6/banner.de.png"); }
+body.lang-en h1 a { background-image: url("/shared/img-v6/banner.en.png"); }
 
 /* Horizontal Navigation (Hauptnavigation) */
 nav.horizontal {
@@ -151,6 +151,10 @@ nav.horizontal ul.rich-text a em {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 13px; /* like body */
+}
+
+nav.horizontal li.small-screen-only {
+	display: none;
 }
 
 /* Farben */

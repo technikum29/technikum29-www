@@ -55,6 +55,7 @@
 	<li><a seiten_id="impressum" href="/de/impressum.php">Kontakt</a></li>
 	<!-- Sitemap derzeit nicht anzeigen -->
 	<li><a seiten_id="sitemap" class="hidden-in-nav" href="/de/sitemap.php">Sitemap</a></li>
+	<li class="small-screen-only"><a href="#tour-navigation">Themen</a></li>
 </ul>
 </nav><!-- class=horizontal -->
 <nav class="side">

@@ -313,7 +313,7 @@ class t29Template {
 			</a>
 			<!-- Ende Test -->
 			
-			<h2 class="visuallyhidden"><?php $p("sidebar-h2-tour"); ?></h2>
+			<h2 class="visuallyhidden" id="tour-navigation"><?php $p("sidebar-h2-tour"); ?></h2>
 			<?php
 				$sidebar_contains_menu  = !isset($this->conf['sidebar_content']);
 			?>

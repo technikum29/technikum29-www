@@ -25,7 +25,7 @@
 		height: 2px; /* Nur Linie anzeigen, keine weisse Flaeche */
 	}
 
-	
+	/*
 	footer.attached {
 		background: #F4F4F4;
 		color: #777;
@@ -34,6 +34,7 @@
 	footer.attached a:link, footer.attached a:visited {
 		color: #777;
 	}
+	*/
 }
 
 /**
@@ -45,6 +46,32 @@
 	/* menue unten darstellen, Menuescrollfunktionen deaktivieren */
 	#container {
 		width: 940px;
+	}
+
+	/* Header-Navigation */
+	header.banner {
+		height: auto;
+		background: none;
+	}
+
+	nav.horizontal {
+		position: relative;
+		top: auto; bottom: auto;
+		margin: 108px 0 0 0;
+		text-align: center;
+
+		/* testweise: */
+		background-color: #f1f1f1;
+		border-bottom: 2px solid #d2d2d2;
+		border-top: 2px solid #d2d2d2;
+	}
+	nav.horizontal .u1 > li > a {
+		margin-bottom: 0; /* kein Abstand zu nav.horizontal */
+		padding: 9px; /* groessere Klickflaechen */
+	}
+
+	li.small-screen-only {
+		display: inline-block !important;
 	}
 	
 	#background-color-container, #content, section.sidebar {
@@ -87,6 +114,9 @@
  *
  **/
 @media all and (max-width: 600px) {
+	#container {
+		padding-top: 240px; /* wg grossem Header, to be fixed */
+	}
 	#container, #content, section.sidebar, #background-color-container {
 		width: inherit;
 	}
@@ -94,15 +124,61 @@
 		padding: 1.5em 1em;
 	}
 
+	#container h1 a {
+		/* Banner in der Mitte anzeigen */
+		left: 0; width: 100%;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+	nav.rel {
+		width: 100%;
+		margin: 26px 0 0;
+		text-align: center;
+	}
+	nav.rel li {
+		position: relative;
+	}
+
+	footer.attached div.bigfooter ul,
+	footer div.bigfooter li {
+		padding: 0;
+		width: 100% !important;
+	}
+
 	/* Mehrspaltige Contents. Overwrite dank #container */
 	#container div.startseiten-boxen,
 	#container div.startseiten-boxen .cols,
 	#container div.startseiten-boxen .leftcol, 
-	#container div.startseiten-boxen .rightcol {
+	#container div.startseiten-boxen .rightcol,
+	#content div.cols,
+	#content div.cols .leftcol,
+	#content div.cols .rightcol,
+	#content div.desc-left,
+	#content div.desc-right  {
 		float: none;
 		width: inherit;
 		padding: 0 !important;
 	}
 
+	/* Box-System einspaltig machen */
+	#content .auto-bildbreite img,
+	#content .center img,
+	#content .left img,
+	#content .right img,
+	#content div.desc-left img,
+	#content div.desc-right img {
+		float: none;
+		display: block; margin: 0 auto; /* for small images */
+		max-width: 100%;
+		height: auto;
+	}
+
+	#content div.desc-left,
+	#content div.desc-right,
+	#content .auto-bildbreite {
+		width: 100% !important;
+		margin: 1em 0;
+	}
 
 }

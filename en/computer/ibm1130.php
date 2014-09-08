@@ -105,8 +105,35 @@ that the CPU is at least basically operating (since these tests are quite
 simple in nature they can not detect subtle faults).<br>
 The next test involved the console printer: A working console printer is necessary to communicate
 with the machine - unfortunately, this test showed that the printer is still
-faulty. Currently, we suspect resinified oil as the culprit. Stay tuned...
-		
+faulty. Currently, we suspect resinified oil as the culprit. <br><br>
+
+<b>31.08.2014:</b> We would like to thank the people from the "Verein fuer ein Museum
+der Lochkartentechnik", cosecans.ch, who donated a set of plug in cards
+for the IBM 1131 processor. Without these spares our repair attempts would be
+next to impossible due to the SLT technology.<br>
+ Further tests showed that memory and CPU test run flawlessly but the
+keyboard/printer-test still fails.<br><br>
+
+<b>07.09.2014:</b> We experienced some set-backs during our initial restoration
+attempts. This was not that unexpected since the machines have been sitting
+idle for several decades. We have at least two different problems in the
+machine. Without diagnostic programs, any repair attempt would be in vain. Just
+the keyboard/printer test shows two errors:<br>
+
+1) After running for some time, the attempt to read programs from punched cards
+will print out "E0004   CKSUM" on the console typewriter which denotes a
+checksum error; the checksum stored on the card differs from that computed by
+the CPU based on the data read. Possible causes for this type of error are
+missing/wrongly placed cards, reader errors or a CPU error. The first
+possibility can be ruled out, so the error is either in the reader or in the
+CPU.<br>
+
+2) The second error we experience is "E0001   INVLD" denoting an erroneous
+address in the switch register for that particular test. Unfortunately the
+address set on the switches is correct so another problem is still lurking in
+the machine.
+
+
 		</small>
 		<p><em>This section will be gradually continued.</em></p>
 		

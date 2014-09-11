@@ -101,14 +101,7 @@
 		
 
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 13. Sept.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>13. September</b> um 14:00 Uhr <br>
-	Spezial-Führung UNIVAC 9400
-	
-	</div>
+
 
 <div class="box termin clear-after">
 		<div class="left">

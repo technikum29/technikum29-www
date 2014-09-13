@@ -112,6 +112,17 @@
 	
 	</div>
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 14. Okt.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Dienstag, der <b>14. Oktober</b> Vormittags <br>
+	Führung für den Informatik-LK der MTS
+	
+	</div>
+	
+	
+	
 <div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2014</em>Ende Okt.</p>	</div>

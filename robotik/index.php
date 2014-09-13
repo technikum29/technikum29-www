@@ -69,7 +69,7 @@ du solltest gut logisch denken können!</p><br>
 Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br>
 Aufbau der Roboter, erste Tests aller Sensoren durch "try me".
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
-Programmverzweigungen und Unter-programme. Programme mit erhöhtem Komplexitätsgrad.<br>
+Programmverzweigungen und Unterprogramme.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
 Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll vor allem Spaß machen!

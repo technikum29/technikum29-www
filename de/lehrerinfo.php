@@ -15,7 +15,7 @@
 <ul>
 	<li><b>1.</b> Sie wählen nur eine Führung (ca. 90 Minuten: Interessant, locker und informativ).</li><br>
 
-	<li><b>2.</b> Sie dehnen den Besuch auf 2 bis 3 Stunden aus. Dann nehmen die Schüler zusätzlich an einer interessanten "Rallye" mit vielen eigenen Experimenten teil. Hier werden sie in Gruppen aktiv, arbeiten an  historischen Geräten, experimentieren und knacken knifflige Spiele (siehe unten).</li> </ul>
+	<li><b>2.</b> Sie dehnen den Besuch auf 2 bis 3 Stunden aus. Dann nehmen die Schüler zusätzlich an einem interessanten "Experimental-Workshop" mit vielen eigenen Experimenten teil. Hier werden sie in Gruppen aktiv, arbeiten an  historischen Geräten, experimentieren und knacken knifflige Spiele (siehe unten).</li> </ul>
 	
 	
 	

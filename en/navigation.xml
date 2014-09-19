@@ -71,7 +71,12 @@
 					<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
 					<li><a seiten_id="gamma10" href="/en/computer/gamma10.php">BULL GAMMA 10</a></li>
 					<li><a seiten_id="gamma55" href="/en/computer/gamma55.php">BULL GAMMA 55 (GE-55)</a></li>
-					<li><a seiten_id="ibm1130" href="/en/computer/ibm1130.php">IBM 1130</a></li>
+					<li><a seiten_id="ibm1130" href="/en/computer/ibm1130.php">IBM 1130</a>
+						<ul class="u4 geraete">
+							<li><a seiten_id="ibm1130-blog" href="/en/devices/ibm1130-blog.php">IBM 1130 reparation log</a></li>
+						</ul>
+
+					</li>
 					<li><a seiten_id="univac9200" href="/en/computer/univac9200.php">UNIVAC 9200</a></li>
 					<li><a seiten_id="univac9400" href="/en/computer/univac9400.php">UNIVAC 9400</a>
 						<ul class="u4 geraete">

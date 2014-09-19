@@ -136,5 +136,6 @@ the machine.
 
 		</small>
 		<p><em>This section will be gradually continued.</em></p>
+		<p><a class="go" href="/en/devices/ibm1130-blog.php">IBM 1130 Reparation blog archives</a>
 		
 		

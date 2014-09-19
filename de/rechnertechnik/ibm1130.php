@@ -89,6 +89,6 @@
 		
 		</small>
 		<p>Fortsetzung folgt</p>
-		
+		<p><a class="go" href="/de/geraete/ibm1130-blog.php">Blog-Archiv</a>	
 		
 		

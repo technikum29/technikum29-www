@@ -40,7 +40,8 @@
 		<h3 id="blog-ibm">Reparatur-Blog</h3>
 		<p class="small">
 		Wie schon für den UNIVAC Rechner 9200 werden wir auch für diese IBM Anlage einen Reparatur-Blog erstellen. Die Schwierigkeit bei der Instandsetzung des Rechners liegt darin, dass er damals, mitte der 60er Jahre, sehr fortschrittlich aufgebaut war: Hier wurden kaum noch herkömmliche Transistoren verwendet, sondern sogenannte <b>SLT</b>-Bausteine (Solid Logic Technology). Das sind kleine Keramit-"ICs" (keine integrierten Schaltungen im heutigen Sinne), in welchen die Transistoren, Dioden und Widerstände, eben noch lokalisierbar, untergebracht wurden. Diese Bausteine sind nicht mehr erhältlich und müssen bei defekten praktisch "repariert" werden, was sehr aufwändig ist. Die fortschrittliche IBM-Technik von damals ist daher heute für die Instandsetzung ein großer Nachteil. Zur gleichen Zeit baute z.B. BULL noch mit großformatigen Pertinax-Platinen und Germanium-Transistoren. Zwei Welten, wie sie unterschiedlicher nicht sein konnten!<br>
-		Die Zeitinvestitionen für ein solches Vorhaben sind riesig. Zum Glück weiß man vorher nicht, was auf einem zukommt (siehe BULL Gamma 55: über 30 Fehler!). Sonst würde manch eine Reparatur gar nicht erst begonnen werden.</p><br>
+		Die Zeitinvestitionen für ein solches Vorhaben sind riesig. Zum Glück weiß man vorher nicht, was auf einem zukommt (siehe BULL Gamma 55: über 30 Fehler!). Sonst würde manch eine Reparatur gar nicht erst begonnen werden.<br>
+		Der Blog beginnt hier und geht auf einer Extraseite weiter (siehe unten).</p><br>
 		
 		
 		<div class="desc-left">
@@ -89,6 +90,7 @@
 		
 		</small>
 		<p>Fortsetzung folgt</p>
+		<!--
 		<p><a class="go" href="/de/geraete/ibm1130-blog.php">Blog-Archiv</a>	
-		
+		-->
 		

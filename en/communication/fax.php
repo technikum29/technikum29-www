@@ -259,7 +259,7 @@
     </p>
 	
 	 <div class="box left">
-		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />
+		<img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" />
 		<p class="bildtext">
 	        <div class="bildtext">	
 	<p><b id="decoder">Decoder: 5-Bit to telex </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"><br>

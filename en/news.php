@@ -9,7 +9,7 @@
   titel: "Historic workshop device"
   text: "<em>A historic 5-bit character decoder</em> from the university. Here it is used as a decryption engine in our experimental workshop."
   bild: /shared/photos/kommunikationstechnik/telegrafenalphabet.jpg
-  link: /de/kommunikationstechnik/faxtechnik.php#decoder
+  link: /en/communication/fax.php#decoder
 
 - datum: June 2014
   titel: "Art installation with cards"

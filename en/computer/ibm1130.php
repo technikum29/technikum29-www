@@ -90,52 +90,9 @@ from the machine! That is the worst case for every restoration project! A
 closer inspection revealed, that a second board, 4628, is also missing from
 the printer control. <br><br>
 
-<b>7.6.2014:</b> The card 7432 we are looking for is only used in systems with a memory 
-expansion. These mainframes are much rarer than the smaller IBM 1130 systems
-without the additional left enclosure. Therefore both, the card missing in 
-out machine as well as its schematics have apparently not been preserved. 
-Accordingly, we reverse-engineered the circuit diagram based on measurements
-on an existing card and rebuilt the card. Now the core memory of our IBM 1130
-is working like a charm which is a significant milestone.<br><br>
-
-<b>16.6.2014:</b> Giant leaps: After an intensive cleaning effort with adjustments following,
-the card reader IBM 1442 is now fully operational and we could successfully
-run the seven so-called "One-Card-Diagnostic" programs. This demonstrated
-that the CPU is at least basically operating (since these tests are quite
-simple in nature they can not detect subtle faults).<br>
-The next test involved the console printer: A working console printer is necessary to communicate
-with the machine - unfortunately, this test showed that the printer is still
-faulty. Currently, we suspect resinified oil as the culprit. <br><br>
-
-<b>31.08.2014:</b> We would like to thank the people from the "Verein fuer ein Museum
-der Lochkartentechnik", cosecans.ch, who donated a set of plug in cards
-for the IBM 1131 processor. Without these spares our repair attempts would be
-next to impossible due to the SLT technology.<br>
- Further tests showed that memory and CPU test run flawlessly but the
-keyboard/printer-test still fails.<br><br>
-
-<b>07.09.2014:</b> We experienced some set-backs during our initial restoration
-attempts. This was not that unexpected since the machines have been sitting
-idle for several decades. We have at least two different problems in the
-machine. Without diagnostic programs, any repair attempt would be in vain. Just
-the keyboard/printer test shows two errors:<br>
-
-1) After running for some time, the attempt to read programs from punched cards
-will print out "E0004   CKSUM" on the console typewriter which denotes a
-checksum error; the checksum stored on the card differs from that computed by
-the CPU based on the data read. Possible causes for this type of error are
-missing/wrongly placed cards, reader errors or a CPU error. The first
-possibility can be ruled out, so the error is either in the reader or in the
-CPU.<br>
-
-2) The second error we experience is "E0001   INVLD" denoting an erroneous
-address in the switch register for that particular test. Unfortunately the
-address set on the switches is correct so another problem is still lurking in
-the machine.
-
-
 		</small>
-		<p><em>This section will be gradually continued.</em></p>
-		<p><a class="go" href="/en/devices/ibm1130-blog.php">IBM 1130 Reparation blog archives</a>
+		<br>
+		
+		<p><a class="go" href="/en/devices/ibm1130-blog.php">IBM 1130 Reparation blog continuation</a>
 		
 		

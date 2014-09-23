@@ -8,7 +8,7 @@
 
    <h2>Was (wen) das Museum noch sucht</h2><br>
    
-  Immer gesucht aber schwerlich zu finden sind Leute mit starkem technischem Interesse, die hier mitmachen möchten. Arbeiten Sie sich in eines unserer Computer-Systeme ein, es macht wirklich Spaß und ist ein ungewöhnliches und anspruchsvolles Hobby. Nachteil: Sie sollten im näheren Umkreis des Museums wohnen. 
+  Immer gesucht aber schwerlich zu finden sind Leute mit starkem technischem Interesse, die hier mitmachen möchten. Arbeiten Sie sich in eines unserer Computer-Systeme ein, es macht wirklich Spaß und ist ein ungewöhnliches und anspruchsvolles Hobby. Dabei könnten Sie Schwerpunkte im Software- oder Hardware-Bereich setzen. Nachteil: Sie sollten im näheren Umkreis des Museums wohnen. 
    <br>
    
 	

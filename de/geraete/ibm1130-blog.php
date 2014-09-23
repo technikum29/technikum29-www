@@ -8,17 +8,17 @@
 
 <h2><?php print $title; ?></h2>
 
-Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"> IBM-Blog </a>
+Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"><b> IBM-Blog</b> </a>
 
 
 <p>
-<b>8.1.2014:</b> Der 2. Fehler (6.1.) war relativ schnell gefunden: Im 2. Speichermodul fehlte ein (von 18) "Headconnector" der entsprechende Verbindungen von den Boards zum Kernspeichermodul herstellt. Vollkommen unklar, wie so ein Teil verschwinden kann.<br>
+<b>8.1.2014:</b> Der 2. Fehler (6.1.) war relativ schnell gefunden: Im 2. Speichermodul fehlte ein "Headconnector" der entsprechende Verbindungen von den Boards zum Kernspeichermodul herstellt. Vollkommen unklar, wie so ein Teil verschwinden kann.<br>
 		Der 1. Fehler ist ein tückischer Fehler in der Speicheradressierung, das ist eine harte Nuss!<br><br>
 		
 		<b>11.1.2014:</b> Die harte Nuss entpuppt sich als starker Frust! Die Adressrechnung für den Speicher läuft falsch, da der Treiber für die Adressen 11, 12, 13, 14 fehlt. Die verantwortliche Steckkarte 7342 ist nicht vorhanden. Das ist so das Schlimmste, was passieren kann. Nach gründlicher Überprüfung zeigte sich, dass auch das 16-Bit Pufferregister (4628) für den Drucker fehlt.<br><br>
 		
 		<b>7.6.2014:</b> Die gesuchte Steckkarte 7342 befindet sich nur in Anlagen mit Speichererweiterung. Diese waren viel seltener als die "kleine" IBM 1130 ohne den linksseitigen Tisch-Zusatz. Daher sind sowohl die gesuchte Karte als auch deren Schaltbild nirgends zu erhalten.<br>
-		Wir haben das Schaltbild aus den Leiterbahnverläufen und Messungen herausgearbeitet und die Karte nachgebaut. Nun läuft der Kernspeicher einwandfrei. Das ist ein deutlicher Fortschritt.<br><br>
+		Wir haben das Schaltbild aus den Leiterbahnverläufen und Messungen herausgearbeitet und die Karte nachgebaut. Jetzt läuft der Kernspeicher einwandfrei. Das ist ein deutlicher Fortschritt.<br><br>
 		
 	<div class="desc-left">
 		<a class="popup" href="/shared/photos/rechnertechnik/1130-reparatur.jpg">
@@ -37,7 +37,7 @@ Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"> I
 		<b>13.9.2014:</b> Die nächste Aktion bestand darin, den Lochkartenstanzer 1442 mit Hilfe des Diagnostic-Tests zu prüfen. Dazu werden vom Programm aus Lochkartenmuster gestanzt, die danach eingelesen und auf korrekte Stanzung kontrolliert werden. Unser Stanzer stanzt jedoch nur die ersten 40 Spalten einer Lochkarte. Hier liegt bereits ein Fehler vor.<br>
 		Erstaunlicherweise arbeitet der Konsol-Printer offensichtlich einwandfrei, obwohl beim Konsol-Test eine Fehlermeldung kam, siehe 7.9.<br><br>
 		
-		<b>20.9.2014:</b> "Erst einmal die Fehler sammeln und weitermachen", nach diesem Prinzip ist nun der Drucker 1132 dran. Hier ist besondere Vorsicht angebracht. Nach einer Standzeit von mindestens 30 Jahren ist das Öl verharzt. Ein Einschalten könnte verheerende Auswirkungen haben. Man muss zunächst alle bewegliche Teile per Hand prüfen. Es zeigte sich, dass die Motorwelle fest saß. Dazu wurde der Motor ausgebaut und gangbar gemacht. Nun wurde der gesamte Druckblock mit Hilfe eines Heizlüfters aufgeheizt und anschließend mit W40 Öl eingesprüht. Dann kann man vorsichtig die Welle drehen. Da nun alles leichtgängig ist, lässt sich im noch warmen Zustand der Motor des Druckers einschalten. Die Mechanik läuft ohne merkwürdige Geräusche.<br><br>
+		<b>20.9.2014:</b> "Erst einmal die Fehler sammeln und weitermachen", nach diesem Prinzip ist nun der Drucker 1132 dran. Hier ist besondere Vorsicht angebracht. Nach einer Standzeit von mindestens 30 Jahren ist das Öl verharzt. Ein Einschalten könnte verheerende Auswirkungen haben. Man muss zunächst alle bewegliche Teile per Hand prüfen. Es zeigte sich, dass die Motorwelle fest sitzt. Dazu wurde der Motor ausgebaut und gangbar gemacht. Nun wurde der gesamte Druckerblock mit Hilfe eines Heizlüfters aufgeheizt und anschließend mit W40 Öl eingesprüht. Dann kann man vorsichtig die Welle drehen. Da jetzt alles leichtgängig ist, lässt sich im noch warmen Zustand der Motor des Druckers einschalten. Die Mechanik läuft ohne merkwürdige Geräusche.<br><br>
 		
 	
 		<p><b>Fortsetzung folgt</b></p>

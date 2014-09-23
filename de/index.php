@@ -101,16 +101,6 @@
 		
 
 
-
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 16. Sept.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>16. September</b> um 18:00 Uhr <br>
-	Führung der Gruppe Dr. Bach
-	
-	</div>
 	
 	<div class="box termin clear-after">
 		<div class="left">

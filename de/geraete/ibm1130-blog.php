@@ -37,7 +37,14 @@ Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"><b
 		<b>13.9.2014:</b> Die nächste Aktion bestand darin, den Lochkartenstanzer 1442 mit Hilfe des Diagnostic-Tests zu prüfen. Dazu werden vom Programm aus Lochkartenmuster gestanzt, die danach eingelesen und auf korrekte Stanzung kontrolliert werden. Unser Stanzer stanzt jedoch nur die ersten 40 Spalten einer Lochkarte. Hier liegt bereits ein Fehler vor.<br>
 		Erstaunlicherweise arbeitet der Konsol-Printer offensichtlich einwandfrei, obwohl beim Konsol-Test eine Fehlermeldung kam, siehe 7.9.<br><br>
 		
+		<div class="desc-left">	
+	<img src="/shared/photos/rechnertechnik/slt.jpg"  width="233" height="234" />
+	<p class="small">SLT-Baustein geöffnet<br>
+	Vergrößern: Bild anklicken!</p></div>
+	
 		<b>20.9.2014:</b> "Erst einmal die Fehler sammeln und weitermachen", nach diesem Prinzip ist nun der Drucker 1132 dran. Hier ist besondere Vorsicht angebracht. Nach einer Standzeit von mindestens 30 Jahren ist das Öl verharzt. Ein Einschalten könnte verheerende Auswirkungen haben. Man muss zunächst alle bewegliche Teile per Hand prüfen. Es zeigte sich, dass die Motorwelle fest sitzt. Dazu wurde der Motor ausgebaut und gangbar gemacht. Nun wurde der gesamte Druckerblock mit Hilfe eines Heizlüfters aufgeheizt und anschließend mit W40 Öl eingesprüht. Dann kann man vorsichtig die Welle drehen. Da jetzt alles leichtgängig ist, lässt sich im noch warmen Zustand der Motor des Druckers einschalten. Die Mechanik läuft ohne merkwürdige Geräusche.<br><br>
+		
+		<b>30.9.2014:</b> Der Druckertest läuft, jedoch zeigen sich im Schriftbild Fehler. So werden z.B. in jeder 16. Spalte alle Zeichen übereinander gedruckt. Nach langem Messen war die Ursache gefunden: Bit 6 des Druckpufferspeichers ist immer gesetzt, d.h. das SLT-Flip-Flop ist defekt. Wie man eine solche SLT-Schaltung reparieren kann erfahren Sie hier: Tiefere Einblicke.
 		
 	
 		<p><b>Fortsetzung folgt</b></p>

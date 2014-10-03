@@ -66,7 +66,7 @@ du solltest gut logisch denken können!</p><br>
 	
 
 <p style="font-size: small; text-align: left; line-height: 110%;">
-Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br>
+Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br><br>
 Aufbau der Roboter, erste Tests aller Sensoren durch "try me".
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen und Unterprogramme.<br>

@@ -38,14 +38,14 @@ Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"><b
 		Erstaunlicherweise arbeitet der Konsol-Printer offensichtlich einwandfrei, obwohl beim Konsol-Test eine Fehlermeldung kam, siehe 7.9.<br><br>
 		
 		<div class="desc-left">	
-	<a href="/shared/photos/rechnertechnik/ibm1130/SLT Layout-Schaltbild-1-1.pdf">
+	<a href="/shared/photos/rechnertechnik/ibm1130/SLT-Layout+Schaltbild.pdf">
 	<img src="/shared/photos/rechnertechnik/slt.jpg"  width="233" height="234" /></a>
-	<p class="small"><a href="/shared/photos/rechnertechnik/ibm1130/SLT Layout-Schaltbild-1-1.pdf">SLT-Baustein geöffnet</a><br>
+	<p class="small"><a href="/shared/photos/rechnertechnik/ibm1130/SLT-Layout+Schaltbild.pdf">SLT-Baustein geöffnet</a><br>
 	Vergrößern: Bild anklicken!</p></div>
 	
 		<b>20.9.2014:</b> "Erst einmal die Fehler sammeln und weitermachen", nach diesem Prinzip ist nun der Drucker 1132 dran. Hier ist besondere Vorsicht angebracht. Nach einer Standzeit von mindestens 30 Jahren ist das Öl verharzt. Ein Einschalten könnte verheerende Auswirkungen haben. Man muss zunächst alle bewegliche Teile per Hand prüfen. Es zeigte sich, dass die Motorwelle fest sitzt. Dazu wurde der Motor ausgebaut und gangbar gemacht. Nun wurde der gesamte Druckerblock mit Hilfe eines Heizlüfters aufgeheizt und anschließend mit W40 Öl eingesprüht. Dann kann man vorsichtig die Welle drehen. Da jetzt alles leichtgängig ist, lässt sich im noch warmen Zustand der Motor des Druckers einschalten. Die Mechanik läuft ohne merkwürdige Geräusche.<br><br>
 		
-		<b>30.9.2014:</b> Der Druckertest läuft, jedoch zeigen sich im Schriftbild Fehler. So werden z.B. in jeder 16. Spalte alle Zeichen übereinander gedruckt. Nach langem Messen war die Ursache gefunden: Bit 6 des Druckpufferspeichers ist immer gesetzt, d.h. das SLT-Flip-Flop ist defekt. Wie man eine solche SLT-Schaltung reparieren kann erfahren Sie hier: <a href="/shared/photos/rechnertechnik/ibm1130/SLT Layout-Schaltbild-1-1.pdf">Tiefere Einblicke</a>.
+		<b>30.9.2014:</b> Der Druckertest läuft, jedoch zeigen sich im Schriftbild Fehler. So werden z.B. in jeder 16. Spalte alle Zeichen übereinander gedruckt. Nach langem Messen war die Ursache gefunden: Bit 6 des Druckpufferspeichers ist immer gesetzt, d.h. das SLT-Flip-Flop ist defekt. Wie man eine solche SLT-Schaltung reparieren kann erfahren Sie hier: <a href="/shared/photos/rechnertechnik/ibm1130/SLT-Layout+Schaltbild.pdf">Tiefere Einblicke</a>.
 		
 	
 		<p><b>Fortsetzung folgt</b></p>

@@ -49,7 +49,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Wir bieten den Kurs zwei mal in den Herbsferien an. Er findet an 5 Tagen je 2 Stunden statt (Uhrzeit nach Absprache, vermutlich von 10 bis 12 Uhr oder von 14 bis 16 Uhr).<br>
+<p>Wir bieten den Kurs zwei mal in den Herbsferien an. Er findet an 5 Tagen je 2 Stunden statt (Zeit: 14-16 Uhr oder eventuell von 10-12 Uhr).<br>
 Kurs 1: 20.10. bis 24.10.<br>
 Kurs 2: 27.10. bis 31.10.<br> 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>

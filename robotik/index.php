@@ -14,8 +14,8 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Es wird empfohlen sich für diesen Kurs vormerken zu lassen:<br><br>
-E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+Anmeldung unter:<br><br>
+<a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </fond><br>
 <font size="4">
 Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also gut erreichbar.

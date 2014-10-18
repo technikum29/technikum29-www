@@ -36,7 +36,7 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 12.11.2014</span>
+<span style="color:red">Aktualisiert: 19.10.2014</span>
 </div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
@@ -59,8 +59,8 @@ Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>t
 
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
-Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und
-du solltest gut logisch denken können!</p><br>
+Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest
+Spaß am logischen Denken haben!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>

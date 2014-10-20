@@ -99,28 +99,23 @@
 
 	<hr class="h3-like">
 		
-
-
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 14. Okt.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>14. Oktober</b> Vormittags <br>
-	Führung für den Informatik-LK der MTS
-	
-	</div>
-	
-	
-	
 <div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2014</em>Ende Okt.</p>	</div>
 	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
 	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
 	Termin: <b>Herbstferien</b>
-	
 </div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 23. Nov.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Sonntag, der <b>23. November</b> um 14:00 Uhr <br>
+	Es sind noch Anmeldungen möglich
+	</div> 
+
+
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->
 	

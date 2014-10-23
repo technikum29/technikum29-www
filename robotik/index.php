@@ -53,7 +53,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 <b>Kurs 1:</b> 20.10. bis 24.10. Dieser Kurs ist ausgebucht. Die Teilnehmer sind:<br>
 Jonas, Fabrice, Dennis, Lukas, Niklas, Marco, Lars, Maximilian und Moritz<br>
 
-<b>Kurs 2:</b> 27.10. bis 31.10. Angemeldet sind bisher: Thomas, Simon, Erik, Benjamin, Philipp, Lukas und Paul.<br> Hier gibt es noch max. 3 freie Plätze.<br><br> 
+<b>Kurs 2:</b> 27.10. bis 31.10. Angemeldet sind bisher: Thomas, Simon, Erik, Benjamin, Philipp, Lukas, Florian und Paul.<br> Hier gibt es noch max. 2 freie Plätze.<br><br> 
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 

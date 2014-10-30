@@ -29,9 +29,7 @@
   titel: "Neuzugang: Lochkartendoppler"
   untertitel: ""
 
-- datum: September 2013
-  titel: "Gamma 55 jetzt voll funktionsfähig!"
-  untertitel: ""
+
   
 	
 MENU;
@@ -91,11 +89,5 @@ Hochinteressant und sehr lehrreich.
 	Neuzugang: Ein schöner Lochkartendoppler aus der Frühzeit der EDV.
 </a></li>
 	
-
-<li><a href="/de/rechnertechnik/gamma55.php#ge55">
-	<h3>September 2013</h3>
-	<img src="/shared/photos/rechnertechnik/leser617.jpg" alt="Lochkartenleser" width="241" height="149" /><br><br>
-	BULL GAMMA 55 läuft! Ein historischer Moment.
-</a></li>
 </ul>
 

@@ -14,7 +14,7 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Anmeldung unter:<br><br>
+Vormerkung unter:<br><br>
 <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </fond><br>
 <font size="4">
@@ -36,7 +36,7 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 26.10.2014</span>
+<span style="color:red">Aktualisiert: 30.10.2014</span>
 </div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
@@ -49,10 +49,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Wir bieten den Kurs zwei mal in den Herbsferien an. Er findet an 5 Tagen je 2 Stunden statt, jeweils von 14-16 Uhr.<br><br>
-<b>Kurs 1:</b> 20.10. bis 24.10. Die Teilnehmer waren: Jonas, Fabrice, Dennis, Lukas, Niklas, Marco, Lars, Maximilian und Moritz<br>
-
-<b>Kurs 2:</b> 27.10. bis 31.10. Teilnehmer: Simon, Erik, Benjamin, Philipp, Lukas, Florian und Paul.<br><br> 
+<p>Der Kurs lief bisher 3 mal in den Sommer- und Herbstferien. Wenn genügend Anmeldungen zusammenkommen, werden wir auch in den Winterferien einen Kurs anbieten. Entweder vom 29.12.2014 bis 3.1.2015 oder vom 5.1.2015 bis 9.1.2015.<br>
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 
@@ -74,7 +71,7 @@ Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen
 Programmverzweigungen und Unterprogramme.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
-Möglicherweise werden aber nicht all diese Themen behandelt. Das Grundprinzip lautet: Es soll vor allem Spaß machen!
+Das Grundprinzip lautet: Es soll vor allem Spaß machen!
 </p><br>
 
 Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.

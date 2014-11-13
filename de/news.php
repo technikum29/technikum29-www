@@ -49,11 +49,11 @@ MENU;
 
 <ul class="news-feed news-ng">
 
-<li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/1/">
+<li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/8/">
 <h3>November 2014</h3>
 <img src="http://pixelprosemedia.com/wp-content/uploads/2013/02/techrepublic.png" width="150">
 Das technikum29 hat sich für den <i>Tony Sales Award</i> beworben und wurde
-in der Onlinezeitschrift <i>techrepublic</i> erwähnt.
+in der Onlinezeitschrift <i>techrepublic</i> aufgeführt.
 </a></li>
 
 

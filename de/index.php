@@ -18,7 +18,7 @@
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
                 <li>Vorab: Es geht hier nicht um kleine Personal-Computer (PC´s) sondern um wirklich historische Computerwelten ...... und: Fast alles funktioniert!</li>
-                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). Fast all diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Unsere Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige "Technikgeschichte".</li>
+                <li>Es gibt viele Museen, die sich mit Computer- und Kommunikationstechnik befassen, dabei auch gigantisch große (z.B. Nixdorf-Computermuseum in Paderborn). Fast all diese Museen begnügen sich jedoch mit der bloßen Darstellung der Objekte, eventuell manchmal immerhin noch gut gestylt. Wir gestalten das ganz anders und heben uns durch eine wichtige Eigenschaft deutlich ab: Unsere Exponate sind funktionsfähig und demonstrieren die Ära ihrer Glanzzeiten sehr beeindruckend. Das ist ziemlich einmalig und gibt einen völlig anderen Einblick in diese wichtige Geschichte der EDV und Computer.</li>
               <li>Computer und Kommunikation beherrschen unsere Gegenwart und Zukunft in einem extremen Maß. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
@@ -99,13 +99,7 @@
 
 	<hr class="h3-like">
 		
-<div class="box termin clear-after">	
-	<div class="left">
-			<p class="date"><em>2014</em>Ende Okt.</p>	</div>
-	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut werden, die sich programmieren lassen und damit die verrücktesten Dinge tun. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
-	Termin: <b>Herbstferien</b>
-</div>
+
 
 <div class="box termin clear-after">
 		<div class="left">
@@ -114,7 +108,23 @@
 	Termin: Sonntag, der <b>23. November</b> um 14:00 Uhr <br>
 	Es sind noch Anmeldungen möglich
 	</div> 
-
+	
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 17. Dez.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Mittwoch, der <b>17. Dezember</b> um 18:00 Uhr <br>
+	Gruppe: IBM Deutschland
+	</div> 	
+	
+	
+<div class="box termin clear-after">	
+	<div class="left">
+			<p class="date"><em>2014</em>Dez./<br>Jan.</p>	</div>
+	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
+	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
+	Termin: <b>In den Weihnachtsferien</b>
+</div>
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

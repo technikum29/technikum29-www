@@ -14,11 +14,11 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Vormerkung unter:<br><br>
+Vormerkung zum Winterkurs unter:<br><br>
 <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </fond><br>
 <font size="4">
-Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also gut erreichbar.
+Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also mit Bahn und Bus gut erreichbar.
 </fond>
 
 SIDEBAR_ENDE;
@@ -49,7 +49,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Kurs lief bisher 3 mal in den Sommer- und Herbstferien. Wenn genügend Anmeldungen zusammenkommen, werden wir auch in den Winterferien einen Kurs anbieten. Entweder vom 29.12.2014 bis 3.1.2015 oder vom 5.1.2015 bis 9.1.2015.<br>
+<p>Der Kurs lief bisher 3 mal in den Sommer- und Herbstferien. Wenn genügend Anmeldungen zusammenkommen, werden wir auch in den Winterferien einen Kurs anbieten. Entweder vom 29.12.2014 bis 3.1.2015 oder vom 5.1.2015 bis 9.1.2015. Interessenten sollten sich vormerken lassen!<br>
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 
@@ -65,8 +65,8 @@ Spaß am logischen Denken haben!</p><br>
 	
 
 <p style="font-size: small; text-align: left; line-height: 110%;">
-Aus dem Inhalt: (Keine Angst, es ist nicht so schwer wie es sich anhört!!)<br><br>
-Aufbau der Roboter, erste Tests aller Sensoren.
+Aus dem Inhalt:<br><br>
+Aufbau der Roboter, erster Test aller Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen und Unterprogramme.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>

@@ -143,7 +143,7 @@ Dieser Workshop findet ein ganz besonderes Interesse bei unseren Besuchern aus d
 </div>
 <div class="rightcol left-img">
     <img src="/shared/photos/rallye/exp18.jpg"  width="150" height="106" />
-       Magnetostriktion, (LK)<br>
+       Magnetostriktion, Ultraschall (LK)<br>
 	 Wissenschaftliches Experiment aus dem fortgeschrittenen-Praktikum der Hochschule
 </div>
 

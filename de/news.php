@@ -4,6 +4,10 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
+
+- datum: "November 2014"
+  titel: "Tony Sales-Award"
+  untertitel: "Teilnahme vom technikum29"
 	
 - datum: "August 2014"
   titel: "Robotik-Kurs"
@@ -44,6 +48,13 @@ MENU;
 	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
 
 <ul class="news-feed news-ng">
+
+<li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/1/">
+<h3>November 2014</h3>
+<img src="http://pixelprosemedia.com/wp-content/uploads/2013/02/techrepublic.png" width="150">
+Das technikum29 hat sich für den <i>Tony Sales Award</i> beworben und wurde
+in der Onlinezeitschrift <i>techrepublic</i> erwähnt.
+</a></li>
 
 
 <li><a href="/robotik">

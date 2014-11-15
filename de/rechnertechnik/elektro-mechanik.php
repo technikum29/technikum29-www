@@ -53,7 +53,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 	<p class="bildtext"><b>Curta I und Curta II</b><br> Diese für damalige Zeiten sensationell kleine  "Taschenrechner" für die vier Grundrechenarten wurden von 1948 bis ca. 1971 hergestellt, d.h. über 20 Jahre lang praktisch unverändert. Das ist bei heutigen Rechnern undenkbar.<br>
 	Es war eine Herausforderung die gesamte Mechanik in ein Volumen zu packen, das viel kleiner als das einer Cola-Dose ist. Zum Vergleich ist eine Streichholzschachtel aus der gleichen Zeit mit abgebildet.<br> 
 	Im Internet gibt es unendlich viel schöne Literatur hierüber, z.B. auch über die  
-	<a class="go" href="http://www.curta.de/kr21/index.htm">Geschichte des Erfinders</a> so dass wir es uns ersparen, hier noch viel hinzuzufügen.
+	<a class="go" href="http://www.curta.de/kr21/index.htm" target="_blank"> Geschichte des Erfinders</a> so dass wir es uns ersparen, hier noch viel hinzuzufügen.
 	
 	
 	</p></div>

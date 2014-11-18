@@ -106,7 +106,7 @@
 			<p class="date"><em>2014</em> 23. Nov.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Sonntag, der <b>23. November</b> um 14:00 Uhr <br>
-	Es sind noch Anmeldungen möglich
+	Ausgebucht!
 	</div> 
 	
 <div class="box termin clear-after">

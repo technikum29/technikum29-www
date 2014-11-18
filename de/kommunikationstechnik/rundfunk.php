@@ -66,9 +66,12 @@ Der T650 (links im Bild) wurde mit diesem aufwändigen Gehäuse als Exportmodell
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/telefunken,musikschrank.jpg" width="350" height="610" alt="Telefunken Musikschrank" />
         <p class="bildtext">
-            Der Wunsch nach "Tonmöbeln" kam schon ein paar Jahre nach der Einführung des Rundfunks. Hier ist ein <b>Telefunken 650 GK</b> Musikschrank aus dem Jahre 1932 abgebildet. Fortschrittlich waren der  Plattenspieler mit "Magnetsystem" und ein Elektromotor zum Antrieb der Schallplatten; aber noch mit Grammophonnadeln und hohem Gewicht des Tonarms, welcher die Platten beachtlich strapazierte.
-Gegenüber dem mageren Klang eines Grammophons waren hiermit jedoch schon Musikkonserven in akzeptabler Qualität abspielbar.<br>
-			Das Gehäuse wurde aus edlem Nussbaum gefertigt. Das konnten sich nicht viele Menschen leisten. Solche Geräte standen z.B. im Salon von gut betuchten Bürgern, die ihren Wohlstand auch damit zu Schau stellen konnten. Heute sind sie seltene Schmuckstücke einer Sammlung historischer Rundfunkempfänger.
+            Der Wunsch nach "Tonmöbeln" kam schon ein paar Jahre nach der Einführung des Rundfunks. Hier ist ein <b>Telefunken 650 GK</b> Schrank aus dem Jahre 1932 abgebildet.<br> 
+			"Stilvoll aus kaukasischem Nussbaum und Wänden mit intarsienartiger Verzierung....", so im Telefunken Prospekt und weiter: "Man bedient ihn nicht, man wird von ihm bedient".<br> 
+			Der frühe Superhet-Empfänger war mit einem Preis von 670 RM ein Privileg für reiche Leute. Solche Geräte standen z.B. im Salon von gut betuchten Bürgern, die ihren Wohlstand auch damit zu Schau stellen konnten. <br>
+			Fortschrittlich waren der  Plattenspieler mit "Magnetsystem" und ein Elektromotor zum Antrieb der Schallplatten; aber noch mit Grammophonnadeln und hohem Gewicht des Tonarms, welcher die Platten beachtlich strapazierte.
+			Gegenüber dem mageren Klang eines Grammophons sind hiermit jedoch Musikkonserven in merklich besserer Qualität abspielbar.<br>
+			Heute sind solche seltene Geräte Schmuckstücke einer anspruchsvollen Sammlung historischer Rundfunkempfänger.
         </p>
     </div>
 

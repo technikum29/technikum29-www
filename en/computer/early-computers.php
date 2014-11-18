@@ -444,7 +444,7 @@ Hardware configuration, from top to bottom:<br>
        <a href="/en/devices/wang2200.php" name="backlink-wang2200"><img src="/shared/photos/rechnertechnik/wang2200.jpg" width="592" height="402" alt="Wang 2200" /></a>
     </div>
 
-    <p>The first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>
+    <p>One of the first personal computer was also build by WANG: the PCS II (1975). The first PC that was affordable for everybody was the PET 2001 from Commodore. It came on the market in 1977 and was as cheap as today's PCs, but had 8kB and had decent applications. Many more home computers followed, the market got out of hand and therewith this collection of computers ends.</p>
      
     <p> See further details at <br>
 	 <a class="go" href="/en/details2.php" title="Details 2"> the tabular overview of

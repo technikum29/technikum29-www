@@ -109,6 +109,15 @@
 	Ausgebucht!
 	</div> 
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2014</em> 29. Nov.</p>	</div>
+	<h4>Computer-History + Experimental-Workshop</h4>
+	Termin: Samstag, der <b>29. November</b> ab 15:00 Uhr <br>
+	Kindergeburtstag
+	</div> 
+	
+	
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 17. Dez.</p>	</div>

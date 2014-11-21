@@ -49,7 +49,7 @@ Dies und viel viel mehr kann man programmieren.</p><br>
 
 <br><br>
 
-<p>Der Kurs lief bisher 3 mal in den Sommer- und Herbstferien. Wenn genügend Anmeldungen zusammenkommen, werden wir auch in den Winterferien einen Kurs anbieten. Entweder vom 29.12.2014 bis 3.1.2015 oder vom 5.1.2015 bis 9.1.2015. Interessenten sollten sich vormerken lassen!<br>
+<p>Der Kurs lief bisher 3 mal in den Sommer- und Herbstferien. Wenn genügend Anmeldungen zusammenkommen, werden wir auch in den Winterferien einen Kurs anbieten. Entweder vom 29.12.2014 bis 3.1.2015 oder vom 5.1.2015 bis 9.1.2015. Ein Kurs kommt zustande, wenn sich mindestens 8 Teilnehmer für einen der beiden Termine anmelden.<br>
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 
@@ -74,8 +74,8 @@ Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entsc
 Das Grundprinzip lautet: Es soll vor allem Spaß machen!
 </p><br>
 
-Die Gruppengröße beträgt maximal 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.
-Die Kursgebühr beträgt 45 Euro pro Teilnehmer.<br><br>
+Die Gruppengröße liegt zwischen 8 und 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education 9797. Das Material ist vorhanden und wird während der Kurszeit zur Verfügung gestellt.
+Die Kursgebühr beträgt 40 Euro pro Teilnehmer.<br><br>
 
 
 

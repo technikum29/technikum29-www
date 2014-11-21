@@ -120,9 +120,9 @@
 	
 <div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 17. Dez.</p>	</div>
+			<p class="date"><em>2014</em> 16. Dez.</p>	</div>
 	<h4>Computer-History</h4>
-	Termin: Mittwoch, der <b>17. Dezember</b> um 18:00 Uhr <br>
+	Termin: Dienstag, der <b>16. Dezember</b> um 18:00 Uhr <br>
 	Gruppe: IBM Deutschland
 	</div> 	
 	

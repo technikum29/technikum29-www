@@ -114,7 +114,7 @@
 			<p class="date"><em>2014</em> 29. Nov.</p>	</div>
 	<h4>Computer-History + Experimental-Workshop</h4>
 	Termin: Samstag, der <b>29. November</b> ab 15:00 Uhr <br>
-	Kindergeburtstag
+	Kindergeburtstag von Olav-Moritz
 	</div> 
 	
 	

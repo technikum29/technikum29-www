@@ -70,7 +70,7 @@
 			
                 <li> Zur Zeit sind nur Gruppenanmeldungen mit mindestens 8 Personen möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen können jedoch ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammenkommen wird eine Führung angeboten (meistens Sonntags um 14 Uhr). <br>
-				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten sind Führungen kostenlos.<br>
+				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt kostenlos.<br>
 				
 					</li>
             </ul>
@@ -99,23 +99,6 @@
 
 	<hr class="h3-like">
 		
-
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 23. Nov.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>23. November</b> um 14:00 Uhr <br>
-	Ausgebucht!
-	</div> 
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2014</em> 29. Nov.</p>	</div>
-	<h4>Computer-History + Experimental-Workshop</h4>
-	Termin: Samstag, der <b>29. November</b> ab 15:00 Uhr <br>
-	Kindergeburtstag von Olav-Moritz
-	</div> 
 	
 	
 <div class="box termin clear-after">

@@ -79,7 +79,7 @@ Der T650 (links im Bild) wurde mit diesem aufwändigen Gehäuse als Exportmodell
         <img src="/shared/photos/kommunikationstechnik/ultramar3.jpg" width="600" height="533" alt="Fotografie des K&ouml;rting Ultramars" />
         <p class="bildtext"><b>Körting Ultramar</b>, das größte, aufwendigste und teuerste Gerät des Jahres 1935. 11 Röhren, zwei Lautsprecher und eine enorme Empfangsleistung zeichneten es aus.
             <br/>Einiges zur Technik: 100fache Empfindlichkeit eines Einkreisers, 9 Kreise, Alloptik-Skala mit Lichtprojektion, Empfindlichkeits- , Feldstärke- und Bandbreitenanzeige. Ein solcher technischer Luxus war bisher unbekannt. Daher bezeichnete man das Gerät auch als "Übersuper".
-            <br/>Auf Wunsch können Sie das <a class="go" name="backlink-ultramar" href="/de/geraete/ultramar_hinten.php">Innenleben des Ultramars sowie die Skala</a> erforschen.
+            <br/>Hier können Sie das <a class="go" name="backlink-ultramar" href="/de/geraete/ultramar_hinten.php">Innenleben des Ultramar sowie die Skala</a> erforschen.
         </p>
     </div>
 
@@ -109,5 +109,7 @@ Der T650 (links im Bild) wurde mit diesem aufwändigen Gehäuse als Exportmodell
 		</div>
 		
 		
-		<p>Die Erklärungen (für 10 bis 14 jährige) waren abenteuerlich: Der Strom in einer Vakuumröhre wurde mit dem Staubstrom eines Staubsaugers verglichen der permanent seinen eigenen Schmutz wieder einzog. Der Motor, der den Dreck drückt und zieht entspricht der Batterie, die Elektronen in die Kathode drückt und aus der Anode wieder absaugt. Für heutige Kids ist es verwunderlich, dass man damit begeistern konnte. Die Ansprüche und die Komplexität sind enorm gestiegen, ob damit auch die echte Begeisterung gestiegen ist muss jedoch stark bezweifelt werden.<br>
-		Kosmos vertrieb diese Lehrbaukästen bis in die siebziger Jahre, allerdings grundlegend verändert mit viel Kunststoff und leider ohne die Aufbauanleitung des faszinierenden eigenen "Rundfunksenders". Offensichtlich scheute man den Ärger mit der Bundespost. Danach kamen die Elektronik- und schließlich die Computerbaukästen. Aus vielen Radiobastlern wurden Computerfreaks. Kein anderer Berufszweig war der gerade entstehenden Computerindustrie näher.</p>
+		<p>Die Erklärungen (für 10 bis 14 jährige) waren abenteuerlich: Der Strom in einer Vakuumröhre wurde mit dem Staubstrom eines Staubsaugers verglichen der permanent seinen eigenen Schmutz wieder einzog. Der Motor, der den Dreck drückt und zieht entspricht der Batterie, die Elektronen in die Kathode drückt und aus der Anode wieder absaugt. Für heutige Kids ist es verwunderlich, dass man damit begeistern konnte. <br>
+		Kosmos vertrieb diese Lehrbaukästen bis in die siebziger Jahre, allerdings grundlegend verändert mit viel Kunststoff und leider ohne die Aufbauanleitung des faszinierenden eigenen "Rundfunksenders". Offensichtlich scheute man den Ärger mit der Bundespost.<br>
+		Danach kamen die Elektronik- und schließlich die Computerbaukästen. Aus vielen Radiobastlern wurden Computerfreaks. Die gleichen technikbegeisterten Kids bauen heute z.B. mit dem Lego-Mindstorms-System Roboter, die sie dann programmieren. Der Komplexitätsgrad ist unvergleichbar höher, wird aber von der neuen Generation in der Regel mühelos bewältigt. Siehe auch <a class="go" href="http://www.technikum29.de/robotik"> Robotik</a><br><br>
+		</p>

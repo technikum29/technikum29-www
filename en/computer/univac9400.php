@@ -129,7 +129,7 @@
 	    "advertising brochure" for this system dating back to 1969.)</li>
 	 </ul>
 
-      <p>As in interesting note all systems of this series used a magnetic
+      <p>As an interesting note all systems of this series used a magnetic
          thin film memory, a then revolutionary development which,
 	 unfortunately turned out to be the most error prone part of
 	 these computers. One of the main advantages over
@@ -137,7 +137,7 @@
 	 out which allowed for shorter memory read cycle times.</p>
 	 
       <p>Due to the insufficient reliability of this memory system the
-         complete subsystem was eventually replaced by a even more modern
+         complete subsystem was eventually replaced by an even more modern
          semiconductor memory system using some of the first memory chips
 	 made by INTEL. More than 1200 of these chips were necessary to
 	 implement the 256 kB of our machine.</p>
@@ -168,13 +168,12 @@
       <p>By now many programs started running again. For example you can
          make this mainframe create you an up-to-date chart for your
          personal bio-rhythm of the next four weeks. This time-consuming
-         task is perfomed by an program written in COBOL.</p>
+         task is perfomed by a program written in COBOL.</p>
 
       <!-- absatz hinzugekommen zu v5.8BETA -->
-      <p>The price of an UNIVAC mainframe system was incredibly high and
-         approximate a chain of new cars with a length of 2,3 kilometers.
+      <p>The price of an UNIVAC mainframe system was incredibly high and would have paid for a chain of new cars with a length of 2,3 kilometers.
          <a class="go" href="/en/devices/univac9400/costs.php">Incredible:
-         UNIVAC 9400 = 470 cars (Volkswagen beatle)</a></p>
+         UNIVAC 9400 = 470 cars (Volkswagen Beetle)</a></p>
 
       <!-- Absatz hinzugekommen/zuletzt geaendert 05.07.09 -->
       <div class="box right">

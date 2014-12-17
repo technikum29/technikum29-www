@@ -100,22 +100,22 @@
 	<hr class="h3-like">
 		
 	
-	
-<div class="box termin clear-after">
+	<!--
+	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2014</em> 16. Dez.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>16. Dezember</b> um 18:00 Uhr <br>
 	Gruppe: IBM Deutschland
 	</div> 	
-	
+	-->
 	
 <div class="box termin clear-after">	
 	<div class="left">
-			<p class="date"><em>2014</em>Dez./<br>Jan.</p>	</div>
+			<p class="date"><em>2015</em>März</p>	</div>
 	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
 	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
-	Termin: <b>In den Weihnachtsferien</b>
+	Termin: <b>In den Osterferien</b>
 </div>
 
 <!-- <div class="leftcol">

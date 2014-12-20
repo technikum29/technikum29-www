@@ -5,6 +5,7 @@
 	$menu_version = 2;
 
 	$neues_menu = <<< MENU
+	
 - datum: July 2014
   titel: "Historic workshop device"
   text: "<em>A historic 5-bit character decoder</em> from the university. Here it is used as a decryption engine in our experimental workshop."

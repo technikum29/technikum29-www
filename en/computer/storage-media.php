@@ -59,6 +59,7 @@
  
     <h3 id="run-time-memory">Magnetostrictive memory</h3>
 	
+	
     <div class="box center manuelle-bildbreite" style="max-width: 860px;">
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Photography of a magnetostrictive memory" width="421" height="393" />
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="details" style="margin-left: 3px;" width="421" height="393" />
@@ -70,6 +71,32 @@
     <p>This type of memory is volatile and has a rather long access time &ndash; on the other hand, its capacity depends mainly on the length of the wire and the basic clock of the surrounding circuitry so it may easily expanded. In addition to this it is relatively inexpensive and rugged making it suitable for applications like desktop calculators and the like.</p>
 
 	<h3 id="core-memory">Core memory</h3>
+	
+	<div class="box left clear-after">
+<a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg">
+	<img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="428" height="321" /> </a>
+	
+	<p class="bildtext"><b>Core memory demonstration model, Transfluxor</b><br>(you can enlarge the picture!)</p>
+	
+<p>
+This giant core memory has been used for teaching purposes in a university in
+the late 1950s and early 1960s. It is a fully functional model of a special
+type of core memory. Its size can be estimated by means of the wine bottle
+visible in the background.<br>
+In contrast to the more common "core memory" store used in most computers until
+the advent of semiconductor memory, this device uses so-called Transfluxor
+cores with a diameter of 8.5mm. These have a very peculiar shape - not the
+simple donut structure of a traditional core. This results in a separation of
+magnetic flux domains which allows a non-destructive read out - a definitive
+advantage over traditional core-memories. Alas, this comes at a cost: The
+control of such a memory system is more complicated compared with a traditional
+core memory. Nevertheless it was used in telecommunications equipment like
+telephone exchanges.<br><br>
+The creation of this demonstration device must have required an awful amount of
+time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher-ausschnitt.jpg"> detailed view of the memory</a> gives an impression of its complexity. Each Transfluxor has two holes through which thin wires are threaded.
+ </p>
+</div>
+	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/speichermedien/triumph-kernspeicher.jpg" alt="Core memory made by Triumph" width="694" height="520" />
         <div class="bildtext">

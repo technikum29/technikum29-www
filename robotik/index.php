@@ -67,7 +67,7 @@ Spaß am logischen Denken haben!</p><br>
 
 <p style="font-size: small; text-align: left; line-height: 110%;">
 Aus dem Inhalt:<br><br>
-Aufbau der Roboter, erster Test aller Sensoren.
+Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen und Unterprogramme.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>

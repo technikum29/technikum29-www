@@ -126,7 +126,7 @@
 
    <h3 id="magnetic-stick-memory">Magnetic stick memory</h3>
    <div class="box center auto-bildbreite">
-       <a href="/en/devices/magnetic-stick-memory.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="A 'magnetic stick memory' made by nixdorf" width="692" height="379" /></a>
+       <a href="/en/devices/magnetic-stick-memory.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="A 'magnetic stick memory' made by nixdorf" width="750" height="525" /></a>
        <p class="bildtext"><b>Nixdorf magnetic stick memory</b></p>
    </div>
    

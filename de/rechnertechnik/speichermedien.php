@@ -71,6 +71,17 @@
 
 <h3 id="kernspeicher">Kernspeicher</a></h3>
 
+<div class="box left clear-after">
+<a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg">
+	<img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="428" height="321" /> </a>
+	
+	<p class="bildtext"><b>Kernspeicher-Demonstrationsmodell, Transfluxor</b><br>(Zum Vergrößern Bild anklicken!)</p>
+	
+<p>Dieser gigantisch große Kernspeicher stammt aus der Hochsschule und diente Ende der 50er bis Anfang der 60er Jahre als funktionsfähiges Modell des Ferritkernspeichers. Im Hintergrund ist eine edle Flasche Rotwein zum Größenvergleich abgebildet. <br>
+Es handelt sich hierbei genau genommen um einen Transfluxor-Speicher. Die Ringkerne mit einem Durchmesser von 8,5mm stellen durch ihre geometrische Form mehrere ineinander verkoppelte Einzelkreise dar. Die Ansteuerung ist recht komplex und fand u.a. in der Fernsprechtechnik Verwendung. Im Gegensatz zu den einfachen Ringkernen lassen sich Transfluxor-Kerne auslesen ohne dass dabei der Inhalt zerstört wird.<br><br>
+Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran gearbeitet haben. Wenn man diesen <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher-ausschnitt.jpg"> Ausschnitt des Speichers </a> betrachtet erkennt man mehrere magnetische Keise in jedem Kern und begreift den umfangreichen Herstellungsaufwand.
+ </p>
+</div>
 <div class="box center manuelle-bildbreite" style="width: 694px;">
 	<img src="/shared/photos/rechnertechnik/speichermedien/triumph-kernspeicher.jpg" alt="Kernspeicher von Triumph" width="694" height="520" />
 	<p class="bildtext"><b>Triumph Kernspeicher</b></p>
@@ -114,7 +125,7 @@
 <h3 id="staebchenspeicher">Stäbchenspeicher</h3>
 
 <div class="box center auto-bildbreite">
-	<a name="backlink-staebchenspeicher" href="/de/geraete/staebchenspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="Stäbchenspeicher von Nixdorf" width="692" height="379" /></a>
+	<a name="backlink-staebchenspeicher" href="/de/geraete/staebchenspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="Stäbchenspeicher von Nixdorf" width="750" height="525" /></a>
 	<p class="bildtext"><b>Nixdorf Stäbchenspeicher</b></p></div>
 		<p>NIXDORF wollte besonders flexibel sein und gestaltete ein ROM, welches man auch 		problemlos selbst fädeln konnte (und natürlich noch immer kann).
 			 <br/>In diesen ROM´s wurde das ganze Betriebssystem des NIXDORF 820 - Rechners gespeichert (man brauchte 3 Stück dieser Module, Typ 177). Der Kunde konnte sich auch Programme selbst in leeren Programmträgern herstellen. Pro Modul (siehe Bild, hier geöffnet) waren das bis zu 4096 Wörter mit einer Länge von je 18 Bit. Das Gewicht des Moduls beträgt stolze 2,4 kg! Ein ordentliches Programm hatte auch ein ordentliches Gewicht!<br/>

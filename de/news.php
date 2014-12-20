@@ -4,7 +4,10 @@
 	$titel = 'Was gibt es Neues?';
 	
 	$neues_menu = <<< MENU
-
+- datum: "Dezember 2014"
+  titel: "Riesiger Kernspeicher"
+  untertitel: "Demonstrations-Modell"
+	
 - datum: "November 2014"
   titel: "Tony Sales-Award"
   untertitel: "Teilnahme vom technikum29"
@@ -29,9 +32,6 @@
   titel: "Neu: IBM 1130 Anlage"
   untertitel: "Eine neue Herausforderung"
   
-- datum: Dezember 2013
-  titel: "Neuzugang: Lochkartendoppler"
-  untertitel: ""
 
 
   
@@ -48,6 +48,12 @@ MENU;
 	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
 
 <ul class="news-feed news-ng">
+
+<li><a href="/de/rechnertechnik/speichermedien.php#kernspeicher">
+	<h3>Dezember 2014</h3>
+        <img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="153" height="115" />
+	Riesiges Kernspeichermodell aus der Hochschule
+</a></li>
 
 <li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/8/" target="_blank">
 
@@ -95,11 +101,7 @@ Hochinteressant und sehr lehrreich.
 
 
 
-<li><a href="/de/rechnertechnik/lochkarten-edv.php#doppler">
-	<h3>Dezember 2013</h3>
-        <img src="/shared/photos/rechnertechnik/ibm-514.jpg" alt="IBM 514" width="225" height="195" />
-	Neuzugang: Ein schöner Lochkartendoppler aus der Frühzeit der EDV.
-</a></li>
+
 	
 </ul>
 

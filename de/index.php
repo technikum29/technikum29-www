@@ -12,7 +12,6 @@
 		   <img src="/shared/img-v6/date.png" class="kalender">
 		   <span class="h2">Termine <br> Führungen <br> Events</span>
 		 </a>
-
 	   
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>

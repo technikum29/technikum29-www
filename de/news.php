@@ -3,41 +3,9 @@
 	$version = '$Id$';
 	$titel = 'Was gibt es Neues?';
 	
-	$neues_menu = <<< MENU
-- datum: "Dezember 2014"
-  titel: "Riesiger Kernspeicher"
-  untertitel: "Demonstrations-Modell"
-	
-- datum: "November 2014"
-  titel: "Tony Sales-Award"
-  untertitel: "Teilnahme vom technikum29"
-	
-- datum: "August 2014"
-  titel: "Robotik-Kurs"
-  untertitel: "für Kids von 11-13"
-	
-- datum: "Juli 2014"
-  titel: "Dechiffriermaschine"
-  untertitel: "Historischer 5-Bit Decoder"
-	
-- datum: "Juni 2014"
-  titel: "Notizen zum Digitalen"
-  untertitel: "IBM029 auf Reisen"
-	
-- datum: "Mai 2014"
-  titel: "Neu: Peripherie der IBM1130"
-  untertitel: "Lochstreifengeräte"
-	
-- datum: "Januar 2014"
-  titel: "Neu: IBM 1130 Anlage"
-  untertitel: "Eine neue Herausforderung"
-  
-
-
-  
-	
-MENU;
-// ende der menue-Eintraege
+	// muss noch restlos entfernt werden:
+	$neues_menu = "";
+    // ende der menue-Eintraege
 
 	if(!require("../lib/news.php")) return; // keine verschachtelten Aufrufe
 ?>
@@ -50,8 +18,8 @@ MENU;
 <ul class="news-feed news-ng">
 
 <li><a href="/de/rechnertechnik/speichermedien.php#kernspeicher">
-	<h3>Dezember 2014</h3>
-        <img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="153" height="115" />
+	<h3 lang="de">Dezember 2014</h3>
+    <img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="153" height="115" />
 	Riesiges Kernspeichermodell aus der Hochschule
 </a></li>
 

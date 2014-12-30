@@ -22,6 +22,7 @@ t29.lightbox.setup = function() {
 		t29.load.css(t29.lightbox.paths.css);
 		t29.load.js(t29.lightbox.paths.js, function(){
 			elements.fancybox({
+				//margin: 0,
 				onComplete: function() {
 					// etwas quick and dirty:
 					if(! this.orig.is(".no-copyright")) {

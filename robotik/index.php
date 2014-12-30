@@ -36,21 +36,21 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 14.12.2014</span>
+<span style="color:red">Aktualisiert: 28.12.2014</span>
 </div>          
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
-Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen (Schalter), Unterprogramme (Blöcke)</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
+Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen, Unterprogramme, Interrupts</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen oder selbstständig die Länge einer Strecke vermessen.<br>
-Dies und viel viel mehr kann man programmieren.</p><br>
+Es gibt per Programmierung unendlich viel Möglichkeiten den Roboter "intelligent" zu machen.</p><br>
 
 
-<center><img src="robotik.jpg" width="850" height="637" alt="Roboter" /></center>
+<center><img src="robotik.jpg" width="850" height="676" alt="Roboter" /></center>
 
 <br><br>
 
-<p>Der für die Weihnachtsferien geplante Kurs muss leider ausfallen. Wir steigen gerade auf das leistungsfähigere EV3-System um, welches aber nicht rechtzeitig geliefert werden konnte.
-In den Osterferien werden auf jeden Fall wieder Robotik-Kurse angeboten.<br><br>
+<p>
+In den Osterferien werden wieder wieder Robotik-Kurse angeboten. Diesmal mit dem neuen EV3-System.<br><br>
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 

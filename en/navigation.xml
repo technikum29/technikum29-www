@@ -14,8 +14,8 @@
 <nav class="horizontal">
 <ul class="u1">
 	<li><a seiten_id="startseite" href="/en/">Start</a></li>
-	<li class="has-submenu"><a seiten_id="news" href="/en/news.php">News</a>
-		<ul class="u2 rich-text">
+	<li><a seiten_id="news" href="/en/news.php">News</a>
+		<ul class="u2 rich-text hidden">
 			<!-- magic comment (do not replace): -->
 			<!--# INSERT_NEWS #-->
 		</ul>

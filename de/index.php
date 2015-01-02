@@ -99,15 +99,15 @@
 	<hr class="h3-like">
 		
 	
-	<!--
+	
 	<div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2014</em> 16. Dez.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>16. Dezember</b> um 18:00 Uhr <br>
-	Gruppe: IBM Deutschland
+			<p class="date"><em>2015</em> 23. Jan.</p>	</div>
+	<h4>Computer-History + Experimental-Workshop</h4>
+	Termin: Freitag, der <b>23. Januar</b> ab 15:30 Uhr <br>
+	Linus wird 11 Jahre, Geburtstags-Event
 	</div> 	
-	-->
+	
 	
 <div class="box termin clear-after">	
 	<div class="left">

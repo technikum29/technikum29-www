@@ -74,7 +74,7 @@
 	
 	<div class="box left clear-after">
 <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg">
-	<img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="428" height="321" /> </a>
+	<img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="428" height="322" /> </a>
 	
 	<p class="bildtext"><b>Core memory demonstration model, Transfluxor</b><br>(you can enlarge the picture!)</p>
 	

@@ -30,7 +30,7 @@ SIDEBAR_ENDE;
  von der Hauptrobotikseite "kopiert".
 -->
 
-<h2 class="center">Informationen zum Robotik-Kurs</h2>
+
 
 <br><br>
 <div style="font-weight:bold; text-align:center">

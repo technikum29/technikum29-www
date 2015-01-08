@@ -91,6 +91,7 @@
 
 <div id="termine" class="termine">
 <h2>Termine</h2>
+
 <!-- fuer das hier nicht: -->
 <!--<h3><big>Termine</big></h3>-->
 <!-- fuer das hier gabs ein Design: -->
@@ -116,6 +117,8 @@
 	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
 	Termin: <b>In den Osterferien</b>
 </div>
+<hr>
+>>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 
 <!-- <div class="leftcol">
 	<h3>Führungen</h3> -->

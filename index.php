@@ -15,7 +15,7 @@
  // there is no browser who see's that HTML.
  
  if( ($en !== false && $de !== false && $de < $en) ||
-     ($en === false && de !== false)              )
+     ($en === false && $de !== false)              )
         header("Location: {$host->web_prefix}/de/");
  else
         header("Location: {$host->web_prefix}/en/");

@@ -36,12 +36,17 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 2.1.2015</span>
+<span style="color:red">Aktualisiert: 10.1.2015</span>
 </div>          
+<br>
+<div class="box desc-left">
+	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
+	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule in Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
+</div>
 
 <br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
-Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen, Unterprogramme, Interrupts</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter in einem fremden Umfeld bewegen ohne "hängen" zu bleiben. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen oder selbstständig die Länge einer Strecke vermessen.<br>
+Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen, Unterprogramme, Interrupts, Datenleitungen</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p><br>
 
 
@@ -64,7 +69,6 @@ Spaß am logischen Denken haben!</p><br>
 	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="Kelkheimer-Zeitung.pdf"> Bericht in der Kelkheimer Zeitung</a> </p>
 </div>
 	
-
 <p style="font-size: small; text-align: left; line-height: 110%;">
 Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
@@ -73,10 +77,10 @@ Programmverzweigungen und Unterprogramme.<br>
 Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
 Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
 Das Grundprinzip lautet: Es soll vor allem Spaß machen!
-</p><br>
+</p>
 
 Die Gruppengröße liegt zwischen 8 und 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
-Die Kursgebühr beträgt 40 Euro pro Teilnehmer.<br><br>
+Die Kursgebühr für die Ferienkurse beträgt 40 Euro pro Teilnehmer.<br><br>
 
 
 

@@ -117,7 +117,8 @@
 	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
 	Termin: <b>In den Osterferien</b>
 </div>
-<hr>
+
+<hr class="h3-like">
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 
 <!-- <div class="leftcol">

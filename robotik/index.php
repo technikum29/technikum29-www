@@ -16,10 +16,10 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <font size="5">
 Vormerkung unter:<br><br>
 <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</fond><br>
+</font><br>
 <font size="4">
 Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also mit Bahn und Bus gut erreichbar.
-</fond>
+</font>
 
 SIDEBAR_ENDE;
 	
@@ -39,7 +39,7 @@ SIDEBAR_ENDE;
 <span style="color:red">Aktualisiert: 10.1.2015</span>
 </div>          
 <br>
-<div class="box desc-left">
+<div class="box bordered nomargin-bottom">
 	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
 	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule in Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
 </div>

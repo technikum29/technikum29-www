@@ -36,16 +36,16 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 10.1.2015</span>
+<span style="color:red">Aktualisiert: 14.1.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
 	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
-	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule in Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
+	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
 </div>
 
-<br><p>Roboter bauen und programmieren macht Spaß da man sofort sein Ergebnis sieht. In diesem Ferienkurs lernst du mit grafischer Methode wie man Programme erstellt.<br>
-Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Du programmierst <b>Schleifen, Programmverzweigungen, Unterprogramme, Interrupts, Datenleitungen</b> und vieles mehr. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+<br><p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem Ferienkurs lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
+Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p><br>
 
@@ -57,7 +57,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 <p>
 In den Osterferien werden wieder Robotik-Kurse angeboten. Diesmal mit dem neuen EV3-System.<br><br>
 
-Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
+Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
@@ -73,14 +73,14 @@ Spaß am logischen Denken haben!</p><br>
 Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
-Programmverzweigungen und Unterprogramme.<br>
-Spezielle Programmiertechniken. Synchrontanz der Roboter. Line fahren. Programmierte Navigation.<br>
-Variable speichern, Mathe-Block, Konverter. Zählen, vergleichen, logische Entscheidungen treffen.<br>
-Das Grundprinzip lautet: Es soll vor allem Spaß machen!
+Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.<br> 
+Linie fahren. Programmierte Navigation, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter u.v.m.<br>
+Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen.<br>
+Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 
-Die Gruppengröße liegt zwischen 8 und 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter nach dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
-Die Kursgebühr für die Ferienkurse beträgt 40 Euro pro Teilnehmer.<br><br>
+Die Gruppengröße liegt zwischen 8 und 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
+Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.<br><br>
 
 
 

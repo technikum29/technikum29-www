@@ -112,9 +112,9 @@
 	
 <div class="box termin clear-after">	
 	<div class="left">
-			<p class="date"><em>2015</em>März</p>	</div>
+			<p class="date"><em>2015</em>April</p>	</div>
 	<h4>Robotik-Ferienkurs für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressanter Kurs in welchem Roboter gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurs</a><br>
+	<br></h4> Hochinteressanter Kurs in welchem Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
 	Termin: <b>In den Osterferien</b>
 </div>
 

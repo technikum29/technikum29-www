@@ -55,7 +55,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 <br><br>
 
 <p>
-In den Osterferien werden wieder Robotik-Kurse angeboten. Diesmal mit dem neuen EV3-System.<br><br>
+In den Osterferien werden wieder Robotik-Kurse angeboten. Diesmal mit dem neuen EV3-System.<br>Geplante Termine: Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.) <b>oder</b> Dienstag 7.4. bis Samstag 11.4. jeweils von 14 bis 16 Uhr.<br><br>
 
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
 
@@ -74,8 +74,7 @@ Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.<br> 
-Linie fahren. Programmierte Navigation, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter u.v.m.<br>
-Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen.<br>
+Linie fahren. Programmierte Navigation, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter, Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
 Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 

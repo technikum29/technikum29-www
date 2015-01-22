@@ -109,6 +109,13 @@
 	Linus wird 11 Jahre, Geburtstags-Event
 	</div> 	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 24. Jan.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>24. Januar</b> um 17:00 Uhr <br>
+	</div> 	
+	
 	
 <div class="box termin clear-after">	
 	<div class="left">

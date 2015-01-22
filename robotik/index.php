@@ -78,7 +78,7 @@ Linie fahren. Programmierte Navigation, Farben erkennen, Sprachaufzeichnung, Lin
 Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 
-Die Gruppengröße liegt zwischen 8 und 10 Personen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
+Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
 Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.<br><br>
 
 

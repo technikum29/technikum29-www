@@ -84,8 +84,23 @@ Characters were overprinted every 16th column. This could be traced back to
 the buffer memory of the printer. Bit 6 of the buffer, an SLT-flip-flop, was
 stuck. How an SLT circuit can be repaired is described in more detail here:
 <a href="/shared/photos/rechnertechnik/ibm1130/SLT-layout+schematic.pdf">Deeper insights.</a>
+<br><br>
 
-
+<b>3.12.2014:</b> As already noted on September 13th, the IBM 1442 model 6 card punch
+creates erroneous hole patterns on the cards. Fortunately, we have a second 
+IBM 1442 which we connected to the machine after adjusting all necessary parts.
+ This is a model 7 and thus faster than the model 6 it replaced. With a working
+card punch it is now clear that the processor is working correctly, and the
+fault must be on the side of the original 1142. <br>
+ We were also able to repair the defective 6th bit in the printer buffer (cf.
+30.09.2014) by replacing the faulty SLT module (the two defective transistors 
+could not be replaced). <br><br>
+		
+		<b>25.1.2015:</b> After cleaning all moving parts in the 1132 printer as well as in
+the console printer and adjusting both of them, the overall system is now fully
+working as a punched card computer.<br> 
+The next project will be the restauration of the 2310 disk drive. Unfortunately we have no spare hard sectored removeable disks with eight sectors for this drive. All we have are hard sectored disks with 16 sectors. Accordingly we will try to convert one of these to eight
+sectors by masking every second index slot.
 
 <p><b><em>This section will be gradually continued.</em></b></p>
 

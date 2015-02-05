@@ -80,6 +80,10 @@
 					<li><a href="/de/rechnertechnik/lochkarten-edv.php#ANELEX_Schnelldrucker">Schnelldrucker</a></li>
 					<li><a seiten_id="tabelliermaschine" href="/de/rechnertechnik/tabelliermaschine.php" title="BULL Tabelliermaschine">Tabelliermaschine</a></li>
 				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="punchcard-collator" href="/de/geraete/lochkartenmischer-funktion.php">Die Funktion des Lochkartenmischers</a></li>
+					<li><a seiten_id="punchcard-sorter" href="/de/geraete/lochkartensortierer-funktion.php">Die Funktion der Sortiermaschine</a></li>
+				</ul>
 			</li>
 			<li><a href="/de/rechnertechnik/gamma3.php">Gross-Computer und Rechenzentren</a>
 				<ul class="u3">
@@ -106,10 +110,6 @@
 							<li><a seiten_id="univac-werbung" href="/de/geraete/univac9400/werbung.php">Anzeige</a></li>
 						</ul>
 					</li>
-				</ul>
-				<ul class="u3 geraete">
-					<li><a seiten_id="punchcard-collator" href="/de/geraete/lochkartenmischer-funktion.php">Die Funktion des Lochkartenmischers</a></li>
-					<li><a seiten_id="punchcard-sorter" href="/de/geraete/lochkartensortierer-funktion.php">Die Funktion der Sortiermaschine</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="kommerzielle" href="/de/rechnertechnik/kommerzielle.php" title="Frühe kommerzielle Rechner">Kommerzielle Rechner</a>

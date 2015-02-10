@@ -8,5 +8,5 @@
 <h2><?php print $titel; ?></h2>
 
 <div class="box center">
-    <img src="/shared/photos/rechnertechnik/univac/panorama-links.jpg" alt="Univac-Panorama von links" width="979" height="442" />
+    <img src="/shared/photos/rechnertechnik/univac/panorama-links.jpg" alt="Univac-Panorama von links" width="912" height="439" />
 </div>

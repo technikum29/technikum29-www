@@ -36,7 +36,7 @@ SIDEBAR_ENDE;
 <div style="font-weight:bold; text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 14.1.2015</span>
+<span style="color:red">Aktualisiert: 10.2.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -55,9 +55,12 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 <br><br>
 
 <p>
-In den Osterferien werden wieder Robotik-Workshop´s angeboten. Diesmal mit dem neuen EV3-System.<br>Geplante Termine: Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.) <b>oder</b> Dienstag 7.4. bis Samstag 11.4. jeweils von 14 bis 16 Uhr.<br><br>
 
-Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger".<br>
+
+Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
+
+Termine in den Osterferien (jeweils 14 bis 16 Uhr):<br>
+Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.), Altersschwerpunkt: 11 bis 13 Jahre  <br> Dienstag 7.4. bis Samstag 11.4., Altersschwerpunkt: 12 bis 14 Jahre.<br><br>
 
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>

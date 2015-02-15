@@ -99,23 +99,14 @@
 
 	<hr class="h3-like">
 		
-	
-	
-<!--	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 23. Jan.</p>	</div>
-	<h4>Computer-History + Experimental-Workshop</h4>
-	Termin: Freitag, der <b>23. Januar</b> ab 15:30 Uhr <br>
-	Linus wird 11 Jahre, Geburtstags-Event
-	</div> 	
-	
 	<div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2015</em> 24. Jan.</p>	</div>
+			<p class="date"><em>2015</em> 29. März</p>	</div>
 	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>24. Januar</b> um 17:00 Uhr <br>
+	Termin: Sonntag, der <b>29. März</b> um 14:00 Uhr <br>
+	Anmeldungen sind noch möglich
 	</div> 	
-	-->
+	
 	
 <div class="box termin clear-after">	
 	<div class="left">

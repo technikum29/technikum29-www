@@ -11,11 +11,11 @@
 		Lassen Sie sich nicht durch die speziellen Themen (rechte Navigation) einschüchtern! Wir gestalten Führungen und Workshop´s so, dass auch relative Laien Spaß daran haben. Sie werden nicht durch Fachwissen erschlagen.
 		
 		<div class="box bordered nomargin-bottom">
-	<p class="bildtext"><b><big>Geburtstags-Event für 11 bis 13-Jährige</big></b> <br><br>
+	<p class="bildtext"><big><big>Geburtstags-Event für 11- bis 13-Jährige</big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche im Alter von 11 bis 13 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine kurze, altersgemäße Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
-	Nach einer kurzen Pause experimentieren die Kids in kleinen Gruppen an wirklich interessanten Projekten, die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
-	Eine abwechslungsreiche und intelligente Alternative zu den üblichen Geburtstagspartys.</p>
+	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
+	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys.</p>
 </div>
 		
 		

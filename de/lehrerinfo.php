@@ -9,6 +9,18 @@
 	<p>
 		Prinzipiell bieten wir je einen Workshop mit dem Themenbereich "<b>Computer History</b>" oder "<b>Kommunikationstechnik</b>" an. Diese eignen sich für technisch interessierte Gruppen und Menschen, die einfach nur neugierig sind und sich in der Kulturgeschichte der intelligentesten und wichtigsten Werkzeuge, wie Computer und Kommunikationstechniken, weiter bilden möchten. Sie müssen sich zwischen diesen Themen entscheiden, da beide Gebiete in einer Führung mental überfordern würden und zeitlich nicht realisierbar sind.<br>
 		Lassen Sie sich nicht durch die speziellen Themen (rechte Navigation) einschüchtern! Wir gestalten Führungen und Workshop´s so, dass auch relative Laien Spaß daran haben. Sie werden nicht durch Fachwissen erschlagen.
+		
+		<div class="box bordered nomargin-bottom">
+	<p class="bildtext"><b><big>Geburtstags-Event für 11 bis 13-Jährige</big></b> <br><br>
+	Das technikum29 bietet für Kinder und Jugendliche im Alter von 11 bis 13 Jahren einen Geburtstags-Event der besonderen Art an: <br>
+	Zunächst erfolgt eine kurze, altersgemäße Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
+	Nach einer kurzen Pause experimentieren die Kids in kleinen Gruppen an wirklich interessanten Projekten, die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
+	Eine abwechslungsreiche und intelligente Alternative zu den üblichen Geburtstagspartys.</p>
+</div>
+		
+		
+		
+		
    <br><br>
 		Für interessierte Schülergruppen wird eine pädagogisch ausgewogener und altersgemäßer Workshop angeboten:</p>
 

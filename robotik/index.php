@@ -33,7 +33,7 @@ SIDEBAR_ENDE;
 
 
 <br><br>
-<div style="font-weight:bold; text-align:center">
+<div style="font-weight;text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
 <span style="color:red">Aktualisiert: 10.2.2015</span>

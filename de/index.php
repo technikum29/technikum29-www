@@ -98,6 +98,15 @@
 
 
 	<hr class="h3-like">
+	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 1. März</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Sonntag, der <b>1. März</b> um 10:00 Uhr <br>
+	Geburtstags-Event für P.K.
+	</div> 	
+	
 		
 	<div class="box termin clear-after">
 		<div class="left">
@@ -115,6 +124,14 @@
 	<br></h4> Hochinteressanter Kurs in welchem Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
 	Termin: <b>In den Osterferien</b>
 </div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 16. Mai</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>16. Mai</b>  <br>
+	Marburger Cumputer-Stammtisch
+	</div> 	
 
 <hr class="h3-like">
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

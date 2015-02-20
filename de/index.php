@@ -130,7 +130,7 @@
 			<p class="date"><em>2015</em> 16. Mai</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Samstag, der <b>16. Mai</b>  <br>
-	Marburger Cumputer-Stammtisch
+	Marburger Computer-Stammtisch
 	</div> 	
 
 <hr class="h3-like">

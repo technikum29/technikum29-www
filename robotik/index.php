@@ -36,27 +36,25 @@ SIDEBAR_ENDE;
 <div style="font-weight;text-align:center">
 <div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
 <br>
-<span style="color:red">Aktualisiert: 10.2.2015</span>
+<span style="color:red">Aktualisiert: 23.2.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
 	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
 	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
 </div>
-
-<br><p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem Ferienkurs lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
-Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
-Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p><br>
-
-
-<center><img src="robotik.jpg" width="850" height="676" alt="Roboter" /></center>
-
 <br><br>
 
+<div class="box desc-left borderless">
+<img src="robotik.jpg" width="425" height="338" alt="Roboter" />
+</div>
+
+<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem Ferienkurs lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
+Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
+Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
+
 <p>
-
-
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
 
 Termine in den Osterferien (jeweils 14 bis 16 Uhr):<br>

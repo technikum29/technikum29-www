@@ -113,7 +113,7 @@
 			<p class="date"><em>2015</em> 29. März</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Sonntag, der <b>29. März</b> um 14:00 Uhr <br>
-	Anmeldungen sind noch möglich
+	Ausgebucht!
 	</div> 	
 	
 	

@@ -127,6 +127,14 @@
 
 <div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2015</em> 28. April</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Dienstag, der <b>28. April</b> um 11.00 Uhr<br>
+	FEB Deutschland e.V.
+	</div> 	
+
+<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2015</em> 16. Mai</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Samstag, der <b>16. Mai</b>  <br>

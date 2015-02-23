@@ -49,7 +49,7 @@ SIDEBAR_ENDE;
 <img src="robotik.jpg" width="425" height="338" alt="Roboter" />
 </div>
 
-<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem Ferienkurs lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
+<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>

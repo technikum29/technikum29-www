@@ -21,8 +21,8 @@ IBM hat schon ab 1964/65 mit der SLT-Technik (Solid Logic Technology) die SMD-Te
 	
 	
 	<div class="box center clear-after">
-		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />
-		<p class="bildtext"><b>IBM 1130</b>, vorne rechts IBM 1131 Prozessor, links Speichererweiterung, hinten links IBM 1442 Lochkarteneinheit (Leser/Stanzer), mitte Bandlaufwerk Ampex TMZ, rechts IBM 1132 Drucker.</p>
+		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="860" height="606" />
+		<p class="bildtext"><b>IBM 1130</b>, vorne rechts IBM 1131 Prozessor, links Speichererweiterung, hinten links IBM 1442 Lochkarteneinheit (Leser/Stanzer), rechts IBM 1132 Drucker.</p>
 	</div>
 			
 		<div class="desc-left borderless no-copyright">

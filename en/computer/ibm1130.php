@@ -16,7 +16,7 @@
 There is much to report about, but in first place the optical and electronical restoration of the Computer have to be realized.<br> This section will be continued within a short time.</p>
     
 	<div class="box center clear-after">
-		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="700" height="603" />
+		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="860" height="606" />
 		<div class="bildtext">
 		<p><b>IBM 1130</b></p>
 		</div>

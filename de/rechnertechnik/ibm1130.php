@@ -14,27 +14,49 @@
 	</div>
 	<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert.<br>
 		An die Anlage ist u.a. das "AMPEX TMZ" Magnetbandlaufwerk (Digital Tape Memory System) angeschlossen, für welches wir dringend noch Manuals (Schaltpläne usw.) suchen.<br>
-		Es gibt viel darüber zu berichten aber zunächst erfolgen die optische und dann die elektrische Sanierung (siehe "Reparatur-Blog").<br><br>
+		<br>
 IBM hat schon ab 1964/65 mit der SLT-Technik (Solid Logic Technology) die SMD-Technik entwickelt (SMD: Surface-Mounted-Device, deutsch: Oberflächenmontiertes Bauelement). Erst Mitte der 80er Jahre hat sich diese Technik mit den vielen Vorteilen langsam durchgesetzt. Siehe auch Reparatur-Blog vom 30.9.2014.<br>
-
-		Lesen Sie demnächst mehr an dieser Stelle. </p>
-	
+Unsere Anlage ist nach langer Reparaturzeit als Lochkartenrechner mittlerweile voll funktionsfähig. Die Instandsetzung des Plattenlaufwerkes ist nun unsere Aufgabe.
+</p>
 	
 	<div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130 Elektronische Rechenanlage" width="860" height="606" />
 		<p class="bildtext"><b>IBM 1130</b>, vorne rechts IBM 1131 Prozessor, links Speichererweiterung, hinten links IBM 1442 Lochkarteneinheit (Leser/Stanzer), rechts IBM 1132 Drucker.</p>
 	</div>
+			<div class="box clear">
+			<div class="desc-left no-copyright">
+			<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-konsole.jpg">
+				<img src="/shared/photos/rechnertechnik/ibm-1130-konsole.jpg" alt="Nahaufnahme" width="352" height="288" />
+			</a>	
+</div>			
+Alle Bilder lassen sich vergrößern.<br><br>
+In nebenstehendem Bild 1 ist die Tastatur mit Kugelkopf-Schreibmaschine sowie die Konsole und das Anzeigepannel zu sehen. Die Tastatur ist keine Neuentwicklung sondern stammt aus dem Lochkartenstanzer 029 und dekodiert noch mechanisch.<br>
+Die kleinstmögliche Anlagenkonfiguration ist ohne Zusatzspeicher (linker Teil der Front), ohne Drucker, ohne Wechselplatte und arbeitet anstelle mit Lochkarten mit den preiswerteren Lochstreifen (siehe Bild 3). Das ist dann in etwa die Ausstattung einer Classic-PDP8 mit Teletype-Drucker und entsprechenden Lochstreifengeräten.<br>
+Da der aufwändige und komfortable Prozessor der 1130 damit restlos unterfordert ist, wurde diese Anlage in der Regel mit mehr Peripherie verkauft. 
+
 			
-		<div class="desc-left borderless no-copyright">
+			<div class="box clear">
+			</div>
+			<div class="desc-left no-copyright">
+			<a class="popup" href="/shared/photos/rechnertechnik/1130-memory.jpg">
+				<img src="/shared/photos/rechnertechnik/1130-memory.jpg" alt="8k-Kernspeicher" width="352" height="264" />
+			</a>
+			</div></div>
+			Der Drucker wurde von der Tabelliermaschine IBM-407 aus den 50er Jahren übernommen. 
+			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer 50er Jahre-Mechanik wohl im Hinblick eines günstigen Verkaufspreises gewählt. <br><br>
+			Im Bild 2 ist ein kompletter 8K x 16 Bit Kernspeicherblock mitsamt der Ansteuer- und Auslese-Elektronik zu sehen. Wie die restliche Elektronik mit den SLT-Steckkarten ist auch die Speichereinheit sehr kompakt und deutlich weniger voluminös als bei allen Konkurrenten der damaligen Zeit. Hier setzte IBM, bekannt durch seine vielen Patente, Maßstäbe. Die mit abgebildete Streichholzschachtel dient nur zum Größenvergleich.
+			<br>
+			<div class="box clear">	
+			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
 				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />
 			</a>
-			<p class="small"><b>Facit Lochstreifengeräte</b><br>
+			</div></div>
+			
+			Auch die gehören zu unserer Anlage: Facit Lochstreifengeräte:<br>
 			Aufwickler Type 4015, Stanzer Type 4060, Leser Type 4001 und Stanzerelektronik Type 5104.<br>
-			Vergrößern: Bild anklicken!</p>
-		</div>
-	
-		<p>Die abgebildeten Lochstreifengeräte der Facit 4000er Serie waren an die Anlage angeschlossen.<br>
+			</p>
+		
 		<br>
 		<small>Diese Anlage wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet.</small></p>
 

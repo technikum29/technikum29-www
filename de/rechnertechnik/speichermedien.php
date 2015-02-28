@@ -79,7 +79,7 @@
 	
 <p>Dieser gigantisch große Kernspeicher stammt aus der Hochsschule und diente Ende der 50er bis Anfang der 60er Jahre als funktionsfähiges Modell des Ferritkernspeichers. Im Hintergrund ist eine edle Flasche Rotwein zum Größenvergleich abgebildet. <br>
 Es handelt sich hierbei genau genommen um einen Transfluxor-Speicher. Die Ringkerne mit einem Durchmesser von 8,5mm stellen durch ihre geometrische Form mehrere ineinander verkoppelte Einzelkreise dar. Die Ansteuerung ist recht komplex und fand u.a. in der Fernsprechtechnik Verwendung. Im Gegensatz zu den einfachen Ringkernen lassen sich Transfluxor-Kerne auslesen ohne dass dabei der Inhalt zerstört wird.<br><br>
-Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran gearbeitet haben. Wenn man diesen <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher-ausschnitt.jpg"> Ausschnitt des Speichers </a> betrachtet erkennt man mehrere magnetische Kreise in jedem Kern und begreift den umfangreichen Herstellungsaufwand.
+Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran gearbeitet haben. Wenn man diesen <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher-ausschnitt.jpg"> Ausschnitt des Speichers</a> betrachtet erkennt man mehrere magnetische Kreise in jedem Kern und begreift den umfangreichen Herstellungsaufwand.
  </p>
 </div>
 <div class="box center manuelle-bildbreite" style="width: 694px;">

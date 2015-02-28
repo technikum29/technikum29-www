@@ -50,6 +50,6 @@ Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"><b
 		<b>3.12.2014:</b> Wie am 13.9. vermerkt, stanzt der IBM-1442 Lochkartenstanzer (Model-6) falsch. Wir haben zum Glück einen "Ersatz 1442", den wir nach einer Neujustage angeschlossen haben. Dieses "Model-7" ist die schnelle Version des 1442. Hier werden die Stanzungen richtig. Nun ist ein Fehler im Prozessor ausgeschlossen und damit auf den Original-1442 beschränkt. Dieser Fehler muss noch gefunden werden.<br>
 		Das 6. Bit (siehe 30.9.2014) für den Druckerspeicher ist mittlerweile "repariert". Die defekten Transistoren konnten jedoch nicht durch handelsübliche ersetzt werden. Wir haben ein Ersatz-SLT neben das defekte gesetzt. <br><br>
 		
-		<b>25.1.2015:</b> Nachdem wir die Mechanik des Druckers (1132) komplett gereinigt sowie die Mechanik des Konsoldruckers neu justiert haben kann man sagen, dass der Rechner als Lochkartenanlage voll funktionsfähig ist. Nun ist das Plattenlaufwerk 2310 an der Reihe. Hierzu müssen wir erst noch solche mit 16 Segmenten (Slots) auf 8 Segmente "umbauen", da wir nur eine original-Platte haben.
+		<b>25.1.2015:</b> Nachdem wir die Mechanik des Druckers (1132) komplett gereinigt sowie die Mechanik des Konsoldruckers neu justiert haben kann man sagen, dass der Rechner als Lochkartenanlage voll funktionsfähig ist. Nun ist das Plattenlaufwerk 2310 an der Reihe. 
 	
 		<p><b>Fortsetzung folgt</b></p>

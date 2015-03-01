@@ -85,7 +85,7 @@
 			Vorne sitzen 120 Elektromagnete zum Auslösen der entsprechenden Druckstellen, alles noch in großformatiger Mechanik, gebaut für die Ewigkeit und typisch für die 50er und frühen 60er Jahre.<br>
 
 			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer 50er Jahre-Mechanik wohl nur im Hinblick eines günstigen Preises gewählt. 
-			Wem der Drucker zu langsam war konnte auch den IBM 1401 Schnelldrucker anschließen.<br><br>
+			Wem der Drucker zu langsam war konnte auch den IBM 1403 Schnelldrucker anschließen.<br><br>
 			Im Bild 3 ist ein kompletter 8K x 16 Bit Kernspeicherblock mitsamt der Ansteuer- und Auslese-Elektronik zu sehen. Wie die restliche Elektronik mit den SLT-Steckkarten ist auch die Speichereinheit sehr kompakt und deutlich weniger voluminös als bei allen Konkurrenten der damaligen Zeit. Hier setzte der Konzern, bekannt durch die vielen <a class="go" href="http://www.zdnet.de/88215861/ibm-sichert-sich-auch-2014-die-meisten-us-patente/" target="_blank">IBM-Patente</a>, ebenfalls Maßstäbe. Die abgebildete Streichholzschachtel dient zum Größenvergleich.<br><br>
 			
 			
@@ -94,7 +94,7 @@
 			Es war damals üblich, dass wissenschaftliche Rechner immer zusätzlich mit Lochstreifenperipherie ausgestattet war. Diese Geräte sind relativ unempfindlich, so dass man im Notfall darauf zurückgreifen konnte. Es war jedoch nicht möglich vom Lochstreifen aus Programme zu starten. Dafür musste eine extra Option eingebaut werden.<br>
 			
 			Bild 5 zeigt die an die Anlage angeschlossen Ausgabegeräte wie Plotter und Terminal.<br>
-			Der <b>COMPLOT DP-1 Digital Plotter</b> ist ein noch voll transistorisierter "Hochgeschwingigkeitsplotter" der anstelle des langsameren IBM-Modells angeschlossen wurde. Die Technik und Elektronik des Plotters ist sehr überschaubar, nicht aber der Preis: Er kostete 1971 über 18.000,- DM (ca. 9000 €), was einem Gegenwert von zwei Mittelklasseautos entsprach. In den frühen 70er Jahren konnten EDV-Firmen noch "richtig Geld machen".<br>
+			Der <b>COMPLOT DP-1 Digital Plotter</b> ist ein noch voll transistorisierter "Hochgeschwingigkeitsplotter" der anstelle des langsameren IBM-Modells (Calcomp 565) angeschlossen wurde. Die Technik und Elektronik des Plotters ist sehr überschaubar, nicht aber der Preis: Er kostete 1971 über 18.000,- DM (ca. 9000 €), was einem Gegenwert von zwei Mittelklasseautos entsprach. In den frühen 70er Jahren konnten EDV-Firmen noch "richtig Geld machen".<br>
 			Rechts daneben steht das <b>Tektronix 4006 Graphic-Terminal</b> mit welchem sowohl Text als auch Grafik angezeigt werden kann. Dieses Terminal kam 1975 auf den Markt. Damals waren die Preise für Halbleiterspeicher noch so hoch, dass man stattdessen eine "Speicherröhre" verwendete. Auf einem ähnlichen Prinzip arbeiteten die ersten Speicheroszilloskope.			</p>
 			
 			</div>
@@ -108,7 +108,7 @@
 			</a>
 			</div>	
 			
-		Zum Abspeichern von großen Datenmengen diente schließlich das <b>Ampex Bandlaufwerk TMZ</b> (Bild 6). Es war eine prieswerte Alternative zu den sonst üblichen Laufwerken größerer Anlagen.<br>
+		Zum Abspeichern von großen Datenmengen diente schließlich das <b>Ampex Bandlaufwerk TMZ</b> (Bild 6). Es war eine prieswerte Alternative zu den sonst üblichen teueren Laufwerken größerer Anlagen.<br>
 		***Für dieses Gerät suchen wir noch Unterlagen (Manuals) um es reparieren zu können***
 		
 		<br><br>

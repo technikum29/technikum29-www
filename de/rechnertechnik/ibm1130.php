@@ -81,7 +81,7 @@
 		Die kleinstmögliche Anlagenkonfiguration ist ohne Zusatzspeicher (linker Teil der Front), ohne Drucker (1132), ohne Wechselplatte und arbeitet anstelle mit Lochkarten mit den preiswerteren Lochstreifen (siehe Bild 4). Das ist dann in etwa die Ausstattung einer Classic-PDP8 mit Teletype-Drucker und entsprechenden Lochstreifengeräten.
 		Da der aufwändige und komfortable Prozessor der 1130 damit restlos unterfordert ist, wurde diese Anlage in der Regel mit mehr Peripherie verkauft (vermietet).<br><br>
 		
-			Die Mechanik des Druckers 1132 wurde von der Tabelliermaschine IBM-407 aus den 50er Jahren übernommen. In Bild 2 zeigt ein Foto mit allseits geöffnetem Gehäuse und entfernten Abdeckungen. So haben unsere Besucher auch während der Vorführung tiefe Einblicke in die archaische Technik.  Nach der Restauration sieht unser Drucker außen und innen wie aus dem Ei gepellt aus.<br>
+			Die Mechanik des Druckers 1132 wurde von der Tabelliermaschine IBM-407 aus den 50er Jahren übernommen. In Bild 2 zeigt ein Foto den Drucker mit allseits geöffnetem Gehäuse und entfernten Abdeckungen. So haben unsere Besucher auch während der Vorführung tiefe Einblicke in die archaische Technik.  Nach der Restauration sieht unser Drucker außen und innen wie aus dem Ei gepellt aus.<br>
 			Vorne sitzen 120 Elektromagnete zum Auslösen der entsprechenden Druckstellen, alles noch in großformatiger Mechanik, gebaut für die Ewigkeit und typisch für die 50er und frühen 60er Jahre.<br>
 
 			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer 50er Jahre-Mechanik wohl nur im Hinblick eines günstigen Preises gewählt. 

@@ -99,13 +99,6 @@
 
 	<hr class="h3-like">
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 1. März</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>1. März</b> um 10:00 Uhr <br>
-	Geburtstags-Event für P.K.
-	</div> 	
 	
 		
 	<div class="box termin clear-after">

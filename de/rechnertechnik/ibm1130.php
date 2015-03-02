@@ -10,12 +10,13 @@
 	
 	
 	<div class="box center clear-after">
-		<img src="/shared/photos/rechnertechnik/ibm-register.jpg"  width="860" height="309" />	
+		<img src="/shared/photos/rechnertechnik/ibm-register.jpg"  width="516" height="185" />	
 	</div>
 	<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert. Auch für sehr viele Fachhochschulen war dieser Rechner der Einstieg in die elektronische Computerwelt. Die Mittel hierfür wurden schnell bewilligt, wenn man zeigte, dass damit nebenbei die gesamte Verwaltung der Hochschule auf EDV umgestellt werden konnte. So stammt unser Rechner aus der Hochschule Darmstadt, die im Laufe der Zeit von einer "Staatlichen Ingenieurschule" bis zur "UNIVERSITY OF APPLIED SCIENCE" avancierte. Es war der erste größere Rechner der Hochschule, hier bereits abgebaut noch im Rechenzentrum stehend: <a  class="popup" href="/shared/photos/rechnertechnik/1130-darmstadt.jpg"><b>[öffnen: IBM-Anlage noch im RZ]</b></a>. 
 		
 	<br><br>
-	IBM schätzte bei der Einführung der 1130, dass in Deutschland insgesamt ca. 100 Stück davon vermietet (später auch verkauft) werden können. Doch es kam anders. Da die eingebaute Wechselplatte sowie die gesamte Anlage konkurrenzlos preiswert waren wurde mehr als die Hälfte der ausgelieferten Systeme quasi "zweckentfremdet" kommerziell genutzt. Damit konnte der Absatz auf ca. 450 Stück (Deutschland) gesteigert werden. Die meisten weltweit verkauften Systeme hatten nur einen Kernspeicher mit 8K x 16 Bit. Die Erweiterung auf 2 x 8K x 16 Bit (linker Anbau) ist daher deutlich seltener zu finden.
+	IBM schätzte bei der Einführung der 1130, dass in Deutschland insgesamt ca. 100 Stück davon vermietet (später auch verkauft) werden können. Doch es kam anders. Da die eingebaute Wechselplatte sowie die gesamte Anlage konkurrenzlos preiswert waren wurde ca. die Hälfte der ausgelieferten Systeme quasi "zweckentfremdet" kommerziell genutzt. Damit konnte der Absatz auf ca. 450 Stück (Deutschland) gesteigert werden. Je nach Ausbaustufe kostete die Monatsmiete der Anlage zwischen ca. 3500 DM bis 14500 DM. Das entsprach dem 3- bis 12-fachen Durchschnittsgehalt von 1970. Damit war die Rentabilität des Rechners recht hoch.
+<br>Die meisten weltweit verkauften Systeme hatten nur einen Kernspeicher mit 8K x 16 Bit. Die Erweiterung auf 2 x 8K x 16 Bit (linker Anbau) ist 	daher deutlich seltener zu finden.
 		<br><br>
 	IBM hat schon ab 1964/65 mit der <b>SLT</b>-Technik (Solid Logic Technology) die <b>SMD</b>-Technik entwickelt (SMD: Surface-Mounted-Device, deutsch: Oberflächenmontiertes Bauelement). Erst Mitte der 80er Jahre hat sich diese Technik mit den vielen Vorteilen langsam durchgesetzt. Siehe auch Reparatur-Blog vom 30.9.2014.<br>
 	Unsere Anlage ist als Lochkartenrechner mittlerweile voll funktionsfähig. Die Instandsetzung des Plattenlaufwerkes ist das nächste Vorhaben.
@@ -35,7 +36,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-konsole.jpg">
 				<img src="/shared/photos/rechnertechnik/ibm-1130-konsole.jpg" alt="Nahaufnahme" width="352" height="288" />
-			</a>	
+			</a>	1
 			</div>			
 
 			<div class="box clear">
@@ -43,7 +44,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/1132-detail.jpg">
 				<img src="/shared/photos/rechnertechnik/ibm-1132.jpg" alt="Drucker offen" width="352" height="409" />
-			</a>
+			</a>	2
 			</div>
 
 			<div class="box clear">
@@ -51,7 +52,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/1130-memory.jpg">
 				<img src="/shared/photos/rechnertechnik/1130-memory.jpg" alt="8k-Kernspeicher" width="352" height="264" />
-			</a>
+			</a>	3
 			</div>
 			
 			<br>
@@ -60,7 +61,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/facit4000.jpg">
 				<img src="/shared/photos/rechnertechnik/facit4000.jpg" alt="Lochstreifengeräte" width="352" height="137" />
-			</a>
+			</a>	4
 			</div>
 			
 			<div class="box clear">	
@@ -68,7 +69,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/plotter+terminal.jpg">
 				<img src="/shared/photos/rechnertechnik/plotter+terminal.jpg" alt="Plotter und Terminal" width="352" height="152" />
-			</a>
+			</a>	5
 			</div>
 			
 		
@@ -81,10 +82,10 @@
 		Die kleinstmögliche Anlagenkonfiguration ist ohne Zusatzspeicher (linker Teil der Front), ohne Drucker (1132), ohne Wechselplatte und arbeitet anstelle mit Lochkarten mit den preiswerteren Lochstreifen (siehe Bild 4). Das ist dann in etwa die Ausstattung einer Classic-PDP8 mit Teletype-Drucker und entsprechenden Lochstreifengeräten.
 		Da der aufwändige und komfortable Prozessor der 1130 damit restlos unterfordert ist, wurde diese Anlage in der Regel mit mehr Peripherie verkauft (vermietet).<br><br>
 		
-			Die Mechanik des Druckers 1132 wurde von der Tabelliermaschine IBM-407 aus den 50er Jahren übernommen. In Bild 2 zeigt ein Foto den Drucker mit allseits geöffnetem Gehäuse und entfernten Abdeckungen. So haben unsere Besucher auch während der Vorführung tiefe Einblicke in die archaische Technik.  Nach der Restauration sieht unser Drucker außen und innen wie aus dem Ei gepellt aus.<br>
+			Die Mechanik des Druckers 1132 wurde von der Tabelliermaschine IBM-407 aus den 50er Jahren abgeleitet und unter Beibehaltung der Druckqualität etwas vereinfacht. In Bild 2 zeigt ein Foto den Drucker mit allseits geöffnetem Gehäuse und entfernten Abdeckungen. So haben unsere Besucher auch während der Vorführung tiefe Einblicke in die archaische Technik.  Nach der Restauration sieht unser Drucker außen und innen wie aus dem Ei gepellt aus.<br>
 			Vorne sitzen 120 Elektromagnete zum Auslösen der entsprechenden Druckstellen, alles noch in großformatiger Mechanik, gebaut für die Ewigkeit und typisch für die 50er und frühen 60er Jahre.<br>
 
-			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer 50er Jahre-Mechanik wohl nur im Hinblick eines günstigen Preises gewählt. 
+			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer Mechanik wohl nur im Hinblick eines günstigen Preises gewählt. 
 			Wem der Drucker zu langsam war konnte auch den IBM 1403 Schnelldrucker anschließen.<br><br>
 			Im Bild 3 ist ein kompletter 8K x 16 Bit Kernspeicherblock mitsamt der Ansteuer- und Auslese-Elektronik zu sehen. Wie die restliche Elektronik mit den SLT-Steckkarten ist auch die Speichereinheit sehr kompakt und deutlich weniger voluminös als bei allen Konkurrenten der damaligen Zeit. Hier setzte der Konzern, bekannt durch die vielen <a class="go" href="http://www.zdnet.de/88215861/ibm-sichert-sich-auch-2014-die-meisten-us-patente/" target="_blank">IBM-Patente</a>, ebenfalls Maßstäbe. Die abgebildete Streichholzschachtel dient zum Größenvergleich.<br><br>
 			
@@ -94,7 +95,7 @@
 			Es war damals üblich, dass wissenschaftliche Rechner immer zusätzlich mit Lochstreifenperipherie ausgestattet war. Diese Geräte sind relativ unempfindlich, so dass man im Notfall darauf zurückgreifen konnte. Es war jedoch nicht möglich vom Lochstreifen aus Programme zu starten. Dafür musste eine extra Option eingebaut werden.<br>
 			
 			Bild 5 zeigt die an die Anlage angeschlossen Ausgabegeräte wie Plotter und Terminal.<br>
-			Der <b>COMPLOT DP-1 Digital Plotter</b> ist ein noch voll transistorisierter "Hochgeschwingigkeitsplotter" der anstelle des langsameren IBM-Modells (Calcomp 565) angeschlossen wurde. Die Technik und Elektronik des Plotters ist sehr überschaubar, nicht aber der Preis: Er kostete 1971 über 18.000,- DM (ca. 9000 €), was einem Gegenwert von zwei Mittelklasseautos entsprach. In den frühen 70er Jahren konnten EDV-Firmen noch "richtig Geld machen".<br>
+			Der <b>COMPLOT DP-1 Digital Plotter</b> ist ein noch voll transistorisierter "Hochgeschwingigkeitsplotter" der anstelle des langsameren IBM-Modells (Calcomp 565) angeschlossen wurde. Die Technik und Elektronik des Plotters ist sehr überschaubar, nicht aber der Preis: Er kostete 1971 über 18.000,- DM (ca. 9000 €), was einem Gegenwert von zwei Mittelklasseautos entsprach. In den frühen 70er Jahren konnten EDV-Firmen noch "richtig Geld verdienen".<br>
 			Rechts daneben steht das <b>Tektronix 4006 Graphic-Terminal</b> mit welchem sowohl Text als auch Grafik angezeigt werden kann. Dieses Terminal kam 1975 auf den Markt. Damals waren die Preise für Halbleiterspeicher noch so hoch, dass man stattdessen eine "Speicherröhre" verwendete. Auf einem ähnlichen Prinzip arbeiteten die ersten Speicheroszilloskope.			</p>
 			
 			</div>
@@ -105,7 +106,7 @@
 			<div class="desc-left no-copyright">
 			<a class="popup" href="/shared/photos/rechnertechnik/ampex-detail.jpg">
 				<img src="/shared/photos/rechnertechnik/ampex-tmz.jpg" alt="Ampex Bandlaufwerk TMZ" width="195" height="414" />
-			</a>
+			</a>	6
 			</div>	
 			
 		Zum Abspeichern von großen Datenmengen diente schließlich das <b>Ampex Bandlaufwerk TMZ</b> (Bild 6). Es war eine prieswerte Alternative zu den sonst üblichen teueren Laufwerken größerer Anlagen.<br>
@@ -118,7 +119,7 @@
 		
 		<h3 id="blog-ibm">Reparatur-Blog</h3>
 		
-		Wie schon für den UNIVAC-9200 Rechner wird auch für diese IBM Anlage ein Reparatur-Blog erstellt. Die Schwierigkeit bei der Instandsetzung der IBM-Anlage liegt darin, dass diese damals, mitte der 60er Jahre, sehr fortschrittlich aufgebaut war: Hier wurden kaum noch herkömmliche Transistoren verwendet, sondern sogenannte <b>SLT</b>-Bausteine. Das sind kleine Keramit-"ICs" (keine integrierten Schaltungen im heutigen Sinne), in welchen die Transistoren, Dioden und Widerstände, eben noch lokalisierbar, untergebracht wurden. Diese Bausteine sind nicht mehr erhältlich und müssen bei Defekten praktisch "repariert" werden, was sehr aufwändig ist. Die fortschrittliche IBM-Technik von damals ist daher heute für die Instandsetzung ein Nachteil. Zur gleichen Zeit baute z.B. BULL noch mit großformatigen Pertinax-Platinen und Germanium-Transistoren. Zwei Welten, wie sie unterschiedlicher nicht sein konnten! 
+		Wie schon für den UNIVAC-9200 Rechner wird auch für diese IBM Anlage ein Reparatur-Blog erstellt. Die Schwierigkeit bei der Instandsetzung der IBM-Anlage liegt darin, dass diese damals, mitte der 60er Jahre, sehr fortschrittlich aufgebaut war: Hier wurden kaum noch herkömmliche Transistoren verwendet, sondern sogenannte <b>SLT</b>-Bausteine. Das sind kleine Keramik-"ICs" (keine integrierten Schaltungen im heutigen Sinne), in welchen die Transistoren, Dioden und Widerstände, eben noch lokalisierbar, untergebracht wurden. Diese Bausteine sind nicht mehr erhältlich und müssen bei Defekten praktisch "repariert" werden, was sehr aufwändig ist. Die fortschrittliche IBM-Technik von damals ist daher heute für die Instandsetzung ein Nachteil. Zur gleichen Zeit baute z.B. BULL noch mit großformatigen Pertinax-Platinen und Germanium-Transistoren. Zwei Welten, wie sie unterschiedlicher nicht sein konnten! 
 		<br><br>
 		
 	

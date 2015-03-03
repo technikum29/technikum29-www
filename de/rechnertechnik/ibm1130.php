@@ -12,7 +12,7 @@
 	<div class="box center clear-after">
 		<img src="/shared/photos/rechnertechnik/ibm-register.jpg"  width="516" height="185" />	
 	</div>
-	<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert. Auch für sehr viele Fachhochschulen war dieser Rechner der Einstieg in die elektronische Computerwelt. Die Mittel hierfür wurden schnell bewilligt, wenn man zeigte, dass damit nebenbei die gesamte Verwaltung der Hochschule auf EDV umgestellt werden konnte. So war unser Rechner ursprünglich der erste größere Rechner der Hochschule Darmstadt, die im Laufe der Zeit von einer "Staatlichen Ingenieurschule" bis zur "UNIVERSITY OF APPLIED SCIENCE" avancierte. Hier bereits abgebaut im Rechenzentrum stehend: <a  class="popup" href="/shared/photos/rechnertechnik/1130-darmstadt.jpg"><b>[IBM-Anlage im RZ]</b></a>. 
+	<p>Seit Dezember 2013 sind wir im Besitz einer schönen und auch sehr interessanten "Elektronischen Rechenanlage" von IBM. Dieser Typ wurde 1965 zum ersten Mal ausgeliefert. Die Anlage war vorwiegend für Wissenschaftler, Ingenieure und Mathematiker konzipiert. Auch für sehr viele Fachhochschulen war dieser Rechner der Einstieg in die elektronische Computerwelt. Die Mittel hierfür wurden schnell bewilligt, wenn man zeigte, dass damit nebenbei die gesamte Verwaltung der Hochschule auf EDV umgestellt werden konnte. So war unsere 1130 ursprünglich der erste größere Rechner der Hochschule Darmstadt, die im Laufe der Zeit von einer "Staatlichen Ingenieurschule" zur "UNIVERSITY OF APPLIED SCIENCE" avancierte. Hier bereits abgebaut im Rechenzentrum stehend: <a  class="popup" href="/shared/photos/rechnertechnik/1130-darmstadt.jpg"><b>[IBM-Anlage im RZ]</b></a>. 
 		
 	<br><br>
 	IBM schätzte den Bedarf für Deutschland bei der Einführung der 1130 auf insgesamt ca. 100 Stück. Doch es kam anders. Da die eingebaute Wechselplatte sowie die gesamte Anlage konkurrenzlos preiswert waren wurde ca. die Hälfte der ausgelieferten Systeme quasi "zweckentfremdet" rein kommerziell genutzt. Damit konnte der Absatz auf ca. 450 Stück (Deutschland) gesteigert werden. Je nach Ausbaustufe kostete die Monatsmiete der Anlage zwischen ca. 3500 DM bis 14500 DM. Das entsprach dem 3- bis 12-fachen monatlichen Durchschnittsgehalt von 1970. Damit war die Rentabilität des Rechners recht hoch.
@@ -110,11 +110,11 @@
 			</a>	6
 			</div>	
 			
-		Zum Abspeichern von großen Datenmengen diente schließlich das <b>Ampex Bandlaufwerk TMZ</b> (Bild 6). Es war eine prieswerte Alternative zu den sonst üblichen teueren Laufwerken größerer Anlagen.<br>
-		***Für dieses Gerät suchen wir noch Unterlagen (Manuals) um es reparieren zu können***
+		Zum Abspeichern von großen Datenmengen diente schließlich das <b>Ampex Bandlaufwerk TMZ</b> (Bild 6). Es war eine preiswerte Alternative zu den sonst üblichen teueren Laufwerken größerer Anlagen.<br>
+		***Für dieses Gerät sowie das Interface von WDV suchen wir noch Unterlagen (Manuals) um es reparieren zu können***
 		
 		<br><br>
-		<small>Die IBM1130-Anlage inkl. Bandlaufwerk wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet. Die Peripheriegeräte sind Leihgaben des FITG.</small>
+		<span style="color:red"><small>Die IBM1130-Anlage inkl. Bandlaufwerk wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet. Die Peripheriegeräte sind Leihgaben des FITG.</small></span>
 
 		
 		

@@ -38,7 +38,7 @@
 	<li>3.	Physik-Grundkurse und Mathe-Leistungskurse</li>
 	<li>4.	Projektgruppen und Arbeitsgemeinschaften im naturwissenschaftlichen bzw. technischen Bereich ab der 5. Klasse</li>
 	<li>5.	Gruppen aus Berufsfachschulen usw.</li>
-	<li>6.	Schülergruppen aus dem Grundschulbereich, die z.B. ein Projekt (Natur und Technik) bearbeiten.</li>
+	<li>6.	Schülergruppen aus dem Grundschulbereich (4. Klasse), die z.B. ein Technik-Projekt bearbeiten.</li>
 	</ul>
 	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!</p>
 
@@ -50,8 +50,6 @@ Wichtiger Tipp für Lehrer: Bedenken Sie, dass Schüler von dem Vorschlag ein Mu
 Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist anhand "begreifbarer" historischer Technik als Einstieg durchaus möglich. Insbesondere im Bereich "Computer" ist eine Anbindung von neuer an alte Technik machbar und führt schnell auf sehr interessante Themen.</p>
 
 
-	Auch interessierte Schüler der 4. Klasse (Grundschule) können mit Spaß und Erfolg an einem "Workshop" teilnehmen.<br>
-	Gerade für Schüler dieser Altersgruppe gibt es nur wenige Möglichkeiten mit transparenter Technik in Berührung zu kommen. Hier ist das problemlos und sehr lebendig möglich!
 	</p><br>
 	
 	<div class="desc-left">

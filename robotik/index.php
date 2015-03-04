@@ -34,9 +34,10 @@ SIDEBAR_ENDE;
 
 <br><br>
 <div style="font-weight;text-align:center">
-<div style="font-size: 310%; line-height: 110%">Spielend Informatik lernen!</div>
+<div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
+Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 23.2.2015</span>
+<span style="color:red">Aktualisiert: 4.3.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -63,7 +64,7 @@ Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.), Altersschwerpunkt: 11 bis 13 J
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
 Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest
-Spaß am logischen Denken haben!</p><br>
+<b>Spaß am logischen Denken</b> haben!</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>

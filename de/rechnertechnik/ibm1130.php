@@ -71,9 +71,7 @@
 				<img src="/shared/photos/rechnertechnik/plotter+terminal.jpg" alt="Plotter und Terminal" width="352" height="152" />
 			</a>	5
 			</div>
-			
-		
-			
+					
 			</div>
 			
 		<div class="rightcol">
@@ -88,7 +86,7 @@
 			Er liefert mit 80 Zeilen pro Minute zwar ein gutes Druckbild doch wurde die Kombination von Hightech-Elektronik und langsamer Mechanik wohl nur im Hinblick eines günstigen Preises gewählt. 
 			Wem der Drucker zu langsam war konnte auch den IBM 1403 Schnelldrucker anschließen.<br><br>
 			
-			Im Bild 3 ist ein kompletter 8K x 16 Bit Kernspeicherblock mitsamt der Ansteuer- und Auslese-Elektronik zu sehen. Wie die restliche Elektronik mit den SLT-Steckkarten ist auch die Speichereinheit sehr kompakt und deutlich weniger voluminös als bei allen Konkurrenten der damaligen Zeit. Hier setzte der Konzern, bekannt durch die vielen <a class="go" href="http://www.zdnet.de/88215861/ibm-sichert-sich-auch-2014-die-meisten-us-patente/" target="_blank">IBM-Patente</a>, ebenfalls Maßstäbe. Die abgebildete Streichholzschachtel dient zum Größenvergleich. Die meisten weltweit verkauften Systeme hatten nur einen Kernspeicher mit 8K x 16 Bit. Die Erweiterung auf 2 x 8K x 16 Bit (linker Anbau) ist daher deutlich seltener zu finden.<br><br>
+			Im Bild 3 ist ein kompletter 8K x 16 Bit (=16 KB) Kernspeicherblock mitsamt der Ansteuer- und Auslese-Elektronik zu sehen. Wie die restliche Elektronik mit den SLT-Steckkarten ist auch die Speichereinheit sehr kompakt und deutlich weniger voluminös als bei allen Konkurrenten der damaligen Zeit. Hier setzte der Konzern, bekannt durch die vielen <a class="go" href="http://www.zdnet.de/88215861/ibm-sichert-sich-auch-2014-die-meisten-us-patente/" target="_blank">IBM-Patente</a>, ebenfalls Maßstäbe. Die abgebildete Streichholzschachtel dient zum Größenvergleich. Die meisten weltweit verkauften Systeme hatten nur einen Kernspeicher mit 8K x 16 Bit. Die Erweiterung auf 2 x 8K x 16 Bit (=32 KB) (linker Anbau) ist daher deutlich seltener zu finden.<br><br>
 			
 			
 			Auch die gehören zu unserer Anlage: <b>Facit Lochstreifengeräte</b> (Bild 4).<br>
@@ -114,7 +112,7 @@
 		***Für dieses Gerät sowie das Interface von WDV suchen wir noch Unterlagen (Manuals) um es reparieren zu können***
 		
 		<br><br>
-		<span style="color:red"><small>Die IBM1130-Anlage inkl. Bandlaufwerk wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet. Die Peripheriegeräte sind Leihgaben des FITG.</small></span>
+		[Die IBM1130-Anlage inkl. Bandlaufwerk wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet. Die Peripheriegeräte sind Leihgaben des FITG]
 
 		
 		

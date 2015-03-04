@@ -14,8 +14,17 @@
 	
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben,
 	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
+	
+	<br><br>
 
 <ul class="news-feed news-ng">
+
+<li><a href="/de/rechnertechnik/ibm1130.php#1130">
+	<h3>März 2015</h3>
+    <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" width="153" height="108" />
+	Endlich: Die IBM-1130 Anlage läuft perfekt! Diese Seite wurde stark ausgebaut.
+</a></li>
+
 
 <li><a href="/de/rechnertechnik/speichermedien.php#kernspeicher">
 	<h3 lang="de">Dezember 2014</h3>
@@ -54,22 +63,6 @@ Hochinteressant und sehr lehrreich.
         Einbindung in Kunstobjekte für das Event <em>Notizen zum Digitalen: Wir, die #iBorgs</em> verwendet.
 	
 </a></li>
-
-<li><a href="/de/rechnertechnik/ibm1130.php#1130">
-	<h3>Mai 2014</h3>
-        <img src="/shared/photos/rechnertechnik/facit4000.jpg" width="352" height="137" />
-	Peripherie der 1130: Facit-Lochstreifengeräte.
-</a></li>
-
-<li><a href="/de/rechnertechnik/ibm1130.php#1130">
-	<h3>Januar 2014</h3>
-        <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130" width="225" height="194" />
-	IBM 1130, eine neue Herausforderung.
-</a></li>
-
-
-
-
 	
 </ul>
 

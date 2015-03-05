@@ -61,7 +61,7 @@ foreach($redirects as $source => $target) {
 }
 
 // compile a search query from the path
-$query = preg_replace('%/\?=\+%', ' ', $wanted_page);
+$query = preg_replace('%[/\?=\+]%', ' ', $wanted_page);
 $query = preg_replace('%\s+%', ' ', $query);
 
 require_once "$lib/client.php";
@@ -74,7 +74,7 @@ die Navigation verwenden, um vielleicht doch noch an die gewünschten Informatio
 zu kommen. Auch kann unsere <a href="/de/sitemap.php">Sitemap</a> hilfreich sein.</p>
 
 <?php /* TODO: URL by message (topnav-search-...) and host rewrite */ ?>
-<form method="/suche.php">
+<form action="/suche.php">
 <input type="text" value="<?php echo $query; ?>" name="q">
 <input type="submit" value="Suchen">
 </form>

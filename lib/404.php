@@ -60,14 +60,25 @@ foreach($redirects as $source => $target) {
 	}
 }
 
+// compile a search query from the path
+$query = preg_replace('%/\?=\+%', ' ', $wanted_page);
+$query = preg_replace('%\s+%', ' ', $query);
+
 require_once "$lib/client.php";
 if(t29Client::getLanguage() == "de") {
 ?>
 <h2>404 Seite nicht gefunden</h2>
 <address><?=$wanted_page; ?></address>
-<p>Unsere Website wurde im Herbst 2012 neugestartet. Sie können unsere Suche oder
+<p>Unsere Website wurde vor kurzem neugestartet. Sie können unsere Suche oder
 die Navigation verwenden, um vielleicht doch noch an die gewünschten Informationen
-zu kommen.</p>
+zu kommen. Auch kann unsere <a href="/de/sitemap.php">Sitemap</a> hilfreich sein.</p>
+
+<?php /* TODO: URL by message (topnav-search-...) and host rewrite */ ?>
+<form method="/suche.php">
+<input type="text" value="<?php echo $query; ?>" name="q">
+<input type="submit" value="Suchen">
+</form>
+
 <?php
 } else { // language 
 ?>

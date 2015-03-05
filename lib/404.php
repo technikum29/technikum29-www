@@ -74,7 +74,7 @@ die Navigation verwenden, um vielleicht doch noch an die gewünschten Informatio
 zu kommen. Auch kann unsere <a href="/de/sitemap.php">Sitemap</a> hilfreich sein.</p>
 
 <?php /* TODO: URL by message (topnav-search-...) and host rewrite */ ?>
-<form action="/suche.php">
+<form action="/de/suche.php">
 <input type="text" value="<?php echo $query; ?>" name="q">
 <input type="submit" value="Suchen">
 </form>

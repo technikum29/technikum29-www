@@ -93,6 +93,7 @@
 					<li><a seiten_id="ibm1130" href="/de/rechnertechnik/ibm1130.php" title="IBM 1130">IBM 1130</a>
 						<ul class="u4 geraete">
 							<li><a seiten_id="ibm1130-blog" href="/de/geraete/ibm1130-blog.php">IBM 1130-Reperaturblog</a></li>
+							<li><a seiten_id="ibm1130-hochschule" href="/de/geraete/ibm1130-hochschule.php">IBM 1130 an der Hochschule</a></li>
 						</ul>
 					</li>
 					<li><a seiten_id="univac9200" href="/de/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200</a></li>

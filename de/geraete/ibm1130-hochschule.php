@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'hochschule';
+	$seiten_id = 'ibm1130-hochschule';
 	$version = '$Id';
 	$titel = 'IBM-1130 noch an der Hochschule';
 	

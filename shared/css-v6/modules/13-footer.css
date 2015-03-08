@@ -360,6 +360,13 @@ footer.in-sheet div.bigfooter a.block:focus u {
 	color: #882224;
 }
 
+/* By means of javascript, the in-sheet footer is cloned to the original position
+   for the mobile viewports. Disable the this clone view generally
+   (this is reversed again in mobile.css). */
+footer.attached.for-mobile {
+	display: none;
+}
+
 footer div.bigfooter i {
 	display: block;
 	float: left;

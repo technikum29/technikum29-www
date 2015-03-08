@@ -8,7 +8,7 @@
 
     <div class="cols clear-after startseiten-boxen">
        <div class="leftcol">
-	     <a href="#Termine" class="smooth-scroll div left clear-after termine oben">
+	     <a href="#Termine" class="smooth-scroll div left mobile clear-after termine oben">
 		   <img src="/shared/img-v6/date.png" class="kalender">
 		   <span class="h2">Termine <br> Führungen <br> Events</span>
 		 </a>
@@ -77,7 +77,7 @@
 		
 		
 		
-		<div class="flyer left">
+		<div class="flyer left mobile">
 			<a href="/shared/flyer/august2013.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
 			<p>Betrachten Sie unseren <a href="/shared/flyer/august2013.pdf">aktuellen Flyer</a> als PDF (2&nbsp;MB)</p>

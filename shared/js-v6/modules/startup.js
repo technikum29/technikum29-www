@@ -23,6 +23,7 @@ t29.startup.modules = [
 	'img_license',
 	'lightbox',
 	'log',
+	'mobile',
 
 	// ganz am anfang
 	'prefs',

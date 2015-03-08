@@ -57,6 +57,12 @@ ul.news-feed li {
 	padding: 1px;
 }
 
+@media all and (max-width: 600px) {
+	/* Mobile fixes, einspaltiger Inhalt: Kein Floating! */
+	ul.news-ng li { float: none; }
+	ul.news-feed li { width: 100%; }
+}
+
 ul.news-feed li > a {
 	display: block;
 

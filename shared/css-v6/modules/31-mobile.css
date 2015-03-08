@@ -24,17 +24,33 @@
 	footer.in-sheet.empty-footer {
 		height: 2px; /* Nur Linie anzeigen, keine weisse Flaeche */
 	}
-
-	/*
-	footer.attached {
-		background: #F4F4F4;
-		color: #777;
-	}
 	
-	footer.attached a:link, footer.attached a:visited {
-		color: #777;
+	/* If we have a Javascript capable browser, display the cloned footer as the
+	   in-sheet footer looks ugly. */
+	html.js footer.in-sheet div.bigfooter {
+		display: none;
 	}
-	*/
+	html.js footer.attached.for-mobile {
+		display: block;
+	}
+
+	/* mache Eintraege schmaler. Das hier sollte eigentlich gemeinsam bei footer.css stehen... */
+	footer div.bigfooter li.haus {
+		width: 300px;
+	}
+	footer div.bigfooter li.copy {
+		width: 290px;
+	}
+	footer div.bigfooter li.logo {
+		width: 240px;
+	}
+
+	footer div.bigfooter li.haus img {
+		width: 100px;
+	}
+	footer div.bigfooter li.haus span.p {
+		margin-left: 118px;
+	}
 }
 
 /**
@@ -52,12 +68,13 @@
 	header.banner {
 		height: auto;
 		background: none;
+		text-align: left;
 	}
 
 	nav.horizontal {
 		position: relative;
 		top: auto; bottom: auto;
-		margin: 108px 0 0 0;
+		margin: 105px 0 0 0;
 		text-align: center;
 
 		/* testweise: */
@@ -106,7 +123,8 @@
 		width: 250px;
 	}
 	
-	footer.in-sheet.empty-footer { display: none; }
+	/* ist nicht mehr empty wg bigfooter */
+	/* footer.in-sheet.empty-footer { display: none; } */
 }
 
 /**
@@ -124,11 +142,35 @@
 		padding: 1.5em 1em;
 	}
 
+	#container h1 {
+		display: block;
+		position: absolute;
+		top: 0; left: 0; width: 100%;
+	}
+
 	#container h1 a {
 		/* Banner in der Mitte anzeigen */
-		left: 0; width: 100%;
+		display: block;
+		position: relative; top: 0; left: 0;
+		width: 80%; max-width: 310px;
 		background-repeat: no-repeat;
 		background-position: center center;
+		background-size: 100% auto;
+		margin: 0 auto;
+	}
+
+	nav.horizontal {
+		/* Less distance to logo */
+		margin: 90px 0 0 0;
+		border-bottom: none;
+	}
+
+	nav.top {
+		position: relative;
+		margin: 0; padding: .5em 0;
+		border-bottom: 2px solid #d2d2d2;
+		background-color: #ebebeb;
+		text-align: center;
 	}
 
 	nav.rel {
@@ -140,11 +182,21 @@
 		position: relative;
 	}
 
+	footer.in-sheet {
+		height: auto;
+		min-height: 100px; /* wenn Vorherige/Nächste umbricht */
+	}
+
 	footer.attached div.bigfooter ul,
 	footer div.bigfooter li {
 		padding: 0;
 		width: 100% !important;
 	}
+
+	footer.in-sheet div.bigfooter {
+		padding-left: .4em;
+	}
+
 
 	/* Mehrspaltige Contents. Overwrite dank #container */
 	#container div.startseiten-boxen,
@@ -161,13 +213,14 @@
 		padding: 0 !important;
 	}
 
-	/* Box-System einspaltig machen */
-	#content .auto-bildbreite img,
-	#content .center img,
-	#content .left img,
-	#content .right img,
-	#content div.desc-left img,
-	#content div.desc-right img {
+	/* Box-System einspaltig machen, aber NUR wo
+	   nicht "mobile-keep" steht! */
+	#content .auto-bildbreite:not(.mobile) img,
+	#content .center:not(.mobile) img,
+	#content .left:not(.mobile) img,
+	#content .right:not(.mobile) img,
+	#content div.desc-left:not(.mobile) img,
+	#content div.desc-right:not(.mobile) img {
 		float: none;
 		display: block; margin: 0 auto; /* for small images */
 		max-width: 100%;

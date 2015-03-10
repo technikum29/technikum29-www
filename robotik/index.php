@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 4.3.2015</span>
+<span style="color:red">Aktualisiert: 10.3.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -47,7 +47,9 @@ Roboter bauen und programmieren</div>
 <br><br>
 
 <div class="box desc-left borderless">
-<img src="robotik.jpg" width="425" height="338" alt="Roboter" />
+<img src="roboter.jpg" width="450" height="360" alt="Roboter" />
+
+<p><small>Bestückt mit 3 Motoren und 5 Sensoren tasten sie sich durch die Welt</small></p>
 </div>
 
 <p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>

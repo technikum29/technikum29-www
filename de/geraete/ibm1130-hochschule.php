@@ -13,7 +13,7 @@
         <img src="/shared/photos/rechnertechnik/1130-darmstadt-1.jpg" width="860" height="418" alt="IBM-1130" />
        </div>
 
-    <p>So stand der Rechner bereits abgebaut an der Hochschule Darmstadt (ca. 1983). Glücklicherweise sorgte der Professor der die Anlage zuletzt nutzte dafür, dass sie nicht entsorgt wurde. Erst 31 Jahre später sausen die Elektronen wieder durch die Schaltkreise. So lange dauerte der "Winterschlaf".<br>
+    <p>So stand der Rechner bereits abgebaut an der Hochschule Darmstadt (ca. 1983). Glücklicherweise sorgte der Professor der die Anlage zuletzt nutzte dafür, dass sie nicht entsorgt wurde. Erst 32 Jahre später sausen die Elektronen wieder durch die Schaltkreise. So lange dauerte der "Winterschlaf".<br>
 	Ganz links ist ein Nachfolger der Anlage zu sehen: Eines von vielen Cluster DIGITAL Terminals, die über Modem mit dem VAX Rechner der TU-Darmstadt arbeiteten.</p>
 	
 	

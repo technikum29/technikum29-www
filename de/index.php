@@ -126,6 +126,14 @@
 	FEB Deutschland e.V.
 	</div> 	
 
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 15. Mai</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Freitag, der <b>15. Mai</b>  <br>
+	Software Consult MSC, ca. 4 Plätze sind noch frei
+	</div> 	
+	
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2015</em> 16. Mai</p>	</div>

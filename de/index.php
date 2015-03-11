@@ -130,7 +130,7 @@
 		<div class="left">
 			<p class="date"><em>2015</em> 15. Mai</p>	</div>
 	<h4>Computer-History</h4>
-	Termin: Freitag, der <b>15. Mai</b>  <br>
+	Termin: Freitag, der <b>15. Mai</b> um 10 Uhr<br>
 	Software Consult MSC, ca. 4 Plätze sind noch frei
 	</div> 	
 	

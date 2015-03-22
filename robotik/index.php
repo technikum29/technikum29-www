@@ -14,7 +14,7 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Vormerkung unter:<br><br>
+Anmeldung unter:<br><br>
 <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </font><br>
 <font size="4">
@@ -54,7 +54,7 @@ Roboter bauen und programmieren</div>
 
 <p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
-Rufe ihn dann wird er sofort starten und wenn du ihm ein Lichtsignal sendest wird er dich auch finden, begrüßen und strahlen! Er kann auch tanzen, selbstständig die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
+Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
 
 <p>
@@ -78,7 +78,7 @@ Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.<br> 
-Linie fahren. Programmierte Navigation, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter, Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
+Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter, Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
 Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 

@@ -141,6 +141,39 @@
 	Termin: Samstag, der <b>16. Mai</b>  <br>
 	Marburger Computer-Stammtisch
 	</div> 	
+	
+<hr>
+	<b>Tage der Industriekultur im technikum29:</b> <br>
+	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 18. Juli</p>	</div>
+	<h4>Die Entwicklung moderner Kommunikationsmittel</h4>
+	Termin: Samstag, der <b>18. Juli</b> 14:00 Uhr <br>	
+	<p class="small">Sie erleben mit vielen Vorführungen und Experimenten die Entwicklungsgeschichte der Kommunikationstechnik vom Telegraphen über Rundfunk, Fernsehen, Beginn der Farbe, Telex, Schall- und Magnetbandaufzeichnung ein breites Spektrum der Zeiten zu denen das „Internet“ absolute Utopie war. Die Zeitreise beginnt 1915 mit selbst spielenden Klavieren und endet ca. 1971 mit dem ersten Rückprojektions-Farbfernseher der Welt. Alles bespickt mit ungewöhnlichen Experimenten. Auch für Kids ab 12 bestens geeignet</small>
+	</div> 
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 19. Juli</p>	</div>
+	<h4>Der Beginn des zweiten Maschinenzeitalters</h4>
+	Termin: Sonntag, der <b>19. Juli</b> 14:00 Uhr <br>	
+	<p class="small">Im ersten Maschinenzeitalter wurden die Muskelkraft von Mensch und Tier durch Maschinen ersetzt.
+Im zweiten Maschinenzeitalter  wird die menschliche Intelligenz durch die digitale Revolution zunehmend ersetzt. Wie fing das alles an? Wie sahen die ersten Computer aus? Hier erleben Sie riesige dinosaurierhafte Computer ab der Stunde Null, alle in Funktion! Wir gestalten sehr lebendig die Entwicklungsgeschichte unserer Computer bis in die 70er Jahre.  Auch sehr gut für Kids ab 11 J. geeignet</small>
+</div>
+
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 25. Juli</p>	</div>
+	<h4>Künstliche Intelligenz und artificial life, (wann) werden uns Maschinen 
+überflügeln?</h4>
+	Termin: Samstag, der <b>25. Juli</b> 19:00 Uhr <br>	
+	<p class="small">Künstliche Intelligenz, künstliches Leben - Traum, Schreckensvision? Ist so etwas überhaupt möglich? Ist es wünschenswert? Kann es verhindert werden?
+Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der technischen Entwicklung auch aus kultureller Sicht Schritt zu halten. In dem Vortrag stellen ein Mathematiker und ein Philosoph jeweils ihre Sicht der Dinge dar, wobei der Bogen von grundlegenden philosophischen Fragestellungen bis hin zu technischen Details gespannt wird.<br>
+Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
+</div>
+	
+</div>
 
 <hr class="h3-like">
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

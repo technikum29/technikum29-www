@@ -120,6 +120,14 @@
 
 <div class="box termin clear-after">
 		<div class="left">
+			<p class="date"><em>2015</em> 16. April</p>	</div>
+	<h4>Computer-History + Experimental-Workshop</h4>
+	Termin: Donnerstag, der <b>16. April</b> um 9:00 Uhr <br>
+	Physik-LK, Main-Taunus-Schule
+	</div> 
+	
+<div class="box termin clear-after">
+		<div class="left">
 			<p class="date"><em>2015</em> 28. April</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>28. April</b> um 11.00 Uhr<br>

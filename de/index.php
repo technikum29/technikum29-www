@@ -122,7 +122,7 @@
 		<div class="left">
 			<p class="date"><em>2015</em> 15. April</p>	</div>
 	<h4>Computer-History + Experimental-Workshop</h4>
-	Termin: Mittwoch, der <b>15. April</b> um 9:30 Uhr <br>
+	Termin: Mittwoch, der <b>15. April</b> um 9:00 Uhr <br>
 	Informatik-Kurse der Main-Taunus-Schule
 	</div> 
 	

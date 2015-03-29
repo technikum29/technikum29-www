@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 10.3.2015</span>
+<span style="color:red">Aktualisiert: 29.3.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">

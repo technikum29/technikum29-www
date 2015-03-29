@@ -14,7 +14,7 @@ Bericht in der "Frankfurter Neuen Presse" </a>
 <p style="margin-bottom: 725px"></p> -->
 
 <font size="5">
-Anmeldung unter:<br><br>
+Anmeldung und Vormerkung unter:<br><br>
 <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </font><br>
 <font size="4">
@@ -61,7 +61,11 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
 
 Termine in den Osterferien (jeweils 14 bis 16 Uhr):<br>
-Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.), Altersschwerpunkt: 11 bis 13 Jahre  <br> Dienstag 7.4. bis Samstag 11.4., Altersschwerpunkt: 12 bis 14 Jahre.<br><br>
+Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.), Altersschwerpunkt: 11 bis 13 Jahre  <br>
+Teilnehmer: Vincent, Nick, Elena, Dana, Jonas, Svea, Philipp, Benjamin, Max, Dominik <br>
+ Dienstag 7.4. bis Samstag 11.4., Altersschwerpunkt: 12 bis 14 Jahre.<br>
+ Teilnehmer: Christopher, Daniel, Maxim, Christoph, Martin, David, Jason, Ben, Robin, Luca<br>
+ Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Dann bieten wir zusätzlich einen Kurs für Fortgeschrittene an.<br><br>
 
 
 Voraussetzungen: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>

@@ -99,17 +99,6 @@
 
 	<hr class="h3-like">
 	
-	
-		
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 29. März</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>29. März</b> um 14:00 Uhr <br>
-	Ausgebucht!
-	</div> 	
-	
-	
 <div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em>April</p>	</div>

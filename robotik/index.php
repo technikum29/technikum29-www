@@ -52,7 +52,7 @@ Roboter bauen und programmieren</div>
 <p><small>Bestückt mit 3 Motoren und 5 Sensoren tasten sie sich durch die Welt</small></p>
 </div>
 
-<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In diesem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
+<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In dem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
@@ -61,7 +61,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
 
 Termine in den Osterferien (jeweils 14 bis 16 Uhr):<br>
-Montag 30.3. bis Freitag 3.4. (alternativ: 4.4.), Altersschwerpunkt: 11 bis 13 Jahre  <br>
+Montag 30.3. bis Freitag 3.4., Altersschwerpunkt: 11 bis 13 Jahre  <br>
 Teilnehmer: Vincent, Nick, Elena, Dana, Jonas, Svea, Philipp, Benjamin, Max, Dominik <br>
  Dienstag 7.4. bis Samstag 11.4., Altersschwerpunkt: 12 bis 14 Jahre.<br>
  Teilnehmer: Christopher, Daniel, Maxim, Christoph, Martin, David, Jason, Ben, Robin, Luca<br>

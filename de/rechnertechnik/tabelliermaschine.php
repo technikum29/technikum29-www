@@ -24,7 +24,7 @@
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/tabelliermaschine.jpg" alt="Bull Tabelliermaschine" width="679" height="658" />  
         <p class="bildtext"><b>Tabelliermaschine Bull BS-PR</b> 
 	</div>
-	<p>Von außen ein unscheinbarer Blechkasten aber von innen ein Meisterwerk an elektromechanischer Technik. Vorne stehen zwei auswechselbare Schalttafeln, die jeweils an der linken Seite (hier unsichtbar) angedoggt werden. Die linke Tafel beinhaltet ein Programm zur Berechnung und zum Drucken von Kontoauszügen, rechts ist ein einfaches Multiplikationsprogramm gesteckt.</br> Multiplikationen und Divisionen benötigen ein Mehrfaches an Zeit als einfache Saldierungen. Um diese Zeit drastisch zu verkürzen, konnte man den "Elektronenrechner" BULL GAMMA 3 anschließen. </p>
+	<p>Von außen ein unscheinbarer Blechkasten aber von innen ein Meisterwerk an elektromechanischer Technik. Vorne stehen zwei auswechselbare Schalttafeln, die jeweils an der linken Seite (hier unsichtbar) angedockt werden. Die linke Tafel beinhaltet ein Programm zur Berechnung und zum Drucken von Kontoauszügen, rechts ist ein einfaches Multiplikationsprogramm gesteckt.</br> Multiplikationen und Divisionen benötigen ein Mehrfaches an Zeit als einfache Saldierungen. Um diese Zeit drastisch zu verkürzen, konnte man den "Elektronenrechner" BULL GAMMA 3 anschließen. </p>
 	
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg" alt="Teilansicht der Relais der geöffneten Bull-Tabelliermaschine" width="312" height="416" />

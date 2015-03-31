@@ -67,8 +67,12 @@
             <h2>Wann&nbsp;?</h2>
             <ul>
 			
-                <li> Zur Zeit sind nur Gruppenanmeldungen mit mindestens 8 Personen möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
-				<br>Einzelpersonen können jedoch ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammenkommen wird eine Führung angeboten (meistens Sonntags um 14 Uhr). <br>
+                <li> Gruppenanmeldungen (Führungen):<br><br>
+				Minimum 8 Personen<br>
+				Ideal 12-16 Personen<br>
+				Schmerzgrenze ca. 20 Personen<br><br>
+				Termine an beliebigen Tagen und Zeiten nach Absprache.
+				<br>Einzelpersonen können ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
 				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt kostenlos.<br>
 				
 					</li>

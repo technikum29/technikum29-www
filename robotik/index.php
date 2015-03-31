@@ -92,9 +92,6 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.<br><br>
 
 
 
-<p><b>Wir suchen noch weitere gebrauchsfähige Laptops für unsere Robotik-Kurse!</b></p>
-
-
 
 
 

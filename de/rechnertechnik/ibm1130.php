@@ -124,7 +124,7 @@
 	
 		<div class="desc-left">
 		<a class="popup" href="/shared/photos/rechnertechnik/ibm-1130-board.jpg">
-	<img src="/shared/photos/rechnertechnik/ibm-1130-board.jpg" alt="Modul der IBM1130" width="195" height="247" /></a>
+	<img src="/shared/photos/rechnertechnik/ibm-1130-board.jpg"  width="195" height="247" /></a>
 	<p class="small">Typisches <b>SLT-Modul</b>. Den Schaltplan hat IBM auf Schnell- druckern hergestellt. Nachteil: Schwer lesbar da alle Logik- elemente gleich aussehen.<br>
 	Vergrößern: Bild anklicken!</p></div>
 		

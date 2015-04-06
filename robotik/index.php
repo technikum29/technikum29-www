@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 29.3.2015</span>
+<span style="color:red">Aktualisiert: 6.4.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -61,8 +61,6 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
 
 Termine in den Osterferien (jeweils 14 bis 16 Uhr):<br>
-Montag 30.3. bis Freitag 3.4., Altersschwerpunkt: 11 bis 13 Jahre  <br>
-Teilnehmer: Vincent, Nick, Elena, Dana, Jonas, Svea, Philipp, Benjamin, Max, Dominik <br>
  Dienstag 7.4. bis Samstag 11.4., Altersschwerpunkt: 12 bis 14 Jahre.<br>
  Teilnehmer: Christopher, Daniel, Maxim, Christoph, Martin, David, Jason, Ben, Robin, Luca<br>
  Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Dann bieten wir zusätzlich einen Kurs für Fortgeschrittene an.<br><br>

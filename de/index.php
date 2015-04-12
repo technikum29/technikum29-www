@@ -140,7 +140,7 @@
 			<p class="date"><em>2015</em> 3. Mai</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Sonntag, der <b>3. Mai</b> um 14.00 Uhr<br>
-	Führungs-Event für Einzelanmeldungen
+	Führungs-Event (Einzelanmeldungen und Kleingruppen)
 	</div> 	
 	
 	

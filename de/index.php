@@ -103,14 +103,6 @@
 
 	<hr class="h3-like">
 	
-<!--<div class="box termin clear-after">	
-	<div class="left">
-			<p class="date"><em>2015</em>April</p>	</div>
-	<h4>Robotik-Ferienkurs für Kids von 11-14 Jahren.
-	<br></h4> Hochinteressanter Kurs in welchem Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
-	Termine: <b>30. März bis 11. April</b>
-</div>
--->
 
 <div class="box termin clear-after">
 		<div class="left">
@@ -210,9 +202,15 @@ Im zweiten Maschinenzeitalter wird die menschliche Intelligenz durch die digital
 Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der technischen Entwicklung auch aus kultureller Sicht Schritt zu halten. In dem Vortrag stellen ein Mathematiker und ein Philosoph jeweils ihre Sicht der Dinge dar, wobei der Bogen von grundlegenden philosophischen Fragestellungen bis hin zu technischen Details gespannt wird.<br>
 Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
 </div>
-	
+	<hr>
+<div class="box termin clear-after">	
+	<div class="left">
+			<p class="date"><em>2015</em>Aug.</p>	</div>
+	<h4>Robotik-Ferienkurse für Kids von 11-14 Jahren.
+	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
+	Termine: <b>August</b>
 </div>
-
+</div>
 <hr class="h3-like">
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 

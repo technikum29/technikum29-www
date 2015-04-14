@@ -124,7 +124,7 @@
 		<div class="left">
 			<p class="date"><em>2015</em> 19. April</p>	</div>
 	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>19. April</b> um 10:00 Uhr <br>
+	Termin: Sonntag, der <b>19. April</b> um 14:00 Uhr <br>
 	Physiker der Geothe-Universität
 	</div> 
 	

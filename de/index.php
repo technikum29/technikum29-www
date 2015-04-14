@@ -103,13 +103,14 @@
 
 	<hr class="h3-like">
 	
-<div class="box termin clear-after">	
+<!--<div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em>April</p>	</div>
 	<h4>Robotik-Ferienkurs für Kids von 11-14 Jahren.
 	<br></h4> Hochinteressanter Kurs in welchem Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
 	Termine: <b>30. März bis 11. April</b>
 </div>
+-->
 
 <div class="box termin clear-after">
 		<div class="left">
@@ -125,6 +126,14 @@
 	<h4>Computer-History + Experimental-Workshop</h4>
 	Termin: Donnerstag, der <b>16. April</b> um 9:00 Uhr <br>
 	Physik-LK, Main-Taunus-Schule
+	</div> 
+	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 19. April</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Samstag, der <b>19. April</b> um 10:00 Uhr <br>
+	Physiker der Geothe-Universität
 	</div> 
 	
 <div class="box termin clear-after">

@@ -104,13 +104,6 @@
 	<hr class="h3-like">
 	
 
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 15. April</p>	</div>
-	<h4>Computer-History + Experimental-Workshop</h4>
-	Termin: Mittwoch, der <b>15. April</b> um 9:00 Uhr <br>
-	Informatik-Kurse der Main-Taunus-Schule
-	</div> 
 	
 <div class="box termin clear-after">
 		<div class="left">
@@ -134,14 +127,6 @@
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>28. April</b> um 11.00 Uhr<br>
 	FEB Deutschland e.V.
-	</div> 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 3. Mai</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>3. Mai</b> um 14.00 Uhr<br>
-	Führungs-Event (Einzelanmeldungen und Kleingruppen)
 	</div> 	
 	
 	

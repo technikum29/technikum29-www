@@ -103,15 +103,6 @@
 
 	<hr class="h3-like">
 	
-
-	
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 16. April</p>	</div>
-	<h4>Computer-History + Experimental-Workshop</h4>
-	Termin: Donnerstag, der <b>16. April</b> um 9:00 Uhr <br>
-	Physik-LK, Main-Taunus-Schule
-	</div> 
 	
 	<div class="box termin clear-after">
 		<div class="left">
@@ -154,6 +145,15 @@
 	Marburger Computer-Stammtisch
 	</div> 	
 	
+	<div class="box termin clear-after">	
+	<div class="left">
+			<p class="date"><em>2015</em>Aug.</p>	</div>
+	<h4>Robotik-Ferienkurse für Kids von 11-14 Jahren.
+	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
+	Termine: <b>August</b>
+	
+</div>
+	
 <hr>
 <br>
 
@@ -188,13 +188,7 @@ Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der 
 Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
 </div>
 	<hr>
-<div class="box termin clear-after">	
-	<div class="left">
-			<p class="date"><em>2015</em>Aug.</p>	</div>
-	<h4>Robotik-Ferienkurse für Kids von 11-14 Jahren.
-	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
-	Termine: <b>August</b>
-</div>
+
 </div>
 <hr class="h3-like">
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 14.4.2015</span>
+<span style="color:red">Aktualisiert: 17.4.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -72,7 +72,8 @@ Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und so
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>
-	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="Kelkheimer-Zeitung.pdf"> Bericht in der Kelkheimer Zeitung</a> </p>
+	<p class="bildtext"><b>Ein Teil der Schüler beim Entwickeln eines neuen Programms.</b>  Siehe: <a href="Kelkheimer-Zeitung.pdf"> Bericht in der Kelkheimer Zeitung</a><br>
+...oder auch <a href="http://www.fnp.de/lokales/main-taunus-kreis/Junge-Roboter-fahren-zwischen-alten-Computern-Slalom;art676,1352844" target="blank">"Junge Roboter fahren zwischen alten Computern Slalom"</a>, Bericht im Höchster Kreisblatt vom 14.4.2015</p>
 </div>
 	
 <p style="font-size: small; text-align: left; line-height: 110%;">

@@ -104,14 +104,6 @@
 	<hr class="h3-like">
 	
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 19. April</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>19. April</b> um 14:00 Uhr <br>
-	Physiker der Geothe-Universität
-	</div> 
-	
 <div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2015</em> 28. April</p>	</div>
@@ -154,7 +146,7 @@
 	
 </div>
 	
-<hr>
+<hr class="h3-like">
 <br>
 
 	<center><span style="color: #CC080B;"><big><b>Tage der Industriekultur Rhein-Main im technikum29</b></big></span><br>
@@ -187,10 +179,10 @@ Im zweiten Maschinenzeitalter wird die menschliche Intelligenz durch die digital
 Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der technischen Entwicklung auch aus kultureller Sicht Schritt zu halten. In dem Vortrag stellen ein Mathematiker und ein Philosoph jeweils ihre Sicht der Dinge dar, wobei der Bogen von grundlegenden philosophischen Fragestellungen bis hin zu technischen Details gespannt wird.<br>
 Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
 </div>
-	<hr>
+	
 
 </div>
-<hr class="h3-like">
+<br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 
 <!-- <div class="leftcol">

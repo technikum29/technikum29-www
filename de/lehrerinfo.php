@@ -60,17 +60,17 @@ Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist 
 </div>
 
 <p class="small">
-Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die mit ihrem Kurs das technikum29 besucht und an der Rallye teilgenommen haben:<br><br>
+Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die mit ihrem Kurs das technikum29 besucht und am Workshop teilgenommen haben:<br><br>
 <hr><p class="small">
 "Mir hat die Führung gut gefallen. Ich fand es gut, dass wir erst mal alle Fragen stellen konnten, bevor wir uns die einzelnen Rechner angeschaut haben. Ich hätte nicht gedacht, dass alles noch so funktioniert und wir auch selbst die Rechner bedienen dürfen......" 
 <hr><p class="small">
-"Sehr schöne Ausstellung und informative Führung. Interessant, dass man auch sehen konnte, wie bzw. dass die Rechner von früher noch funktionieren. Ich hätte mich allerdings gefreut, wenn wir mehr Zeit für die Rallye gehabt hätten" 
+"Sehr schöne Ausstellung und informative Führung. Interessant, dass man auch sehen konnte, wie bzw. dass die Rechner von früher noch funktionieren. Ich hätte mich allerdings gefreut, wenn wir mehr Zeit für den Workshop gehabt hätten" 
 <hr><p class="small">
 "Alles in allem eine sehr interessante Führung. Ich denke, dass jeder der ein wenig Interesse für Technik mitbringt sich für wenigstens ein Objekt begeistern lassen kann. Dabei muss der Fokus gar nicht so stark auf den kleinwagengroßen „Supercomputern“ liegen, die zwar letztlich am meisten hergeben und auch sehr spannend sind, aber grade die Rechenmaschinen 0. Generation sind mit ihren vielen Hebeln und Zahnrädern sehr interessant. –> Meiner Meinung nach eine sehr schöne Sammlung der Geschichte des Rechnens"
 <hr><p class="small">
-"Ich fand die Führung sehr interessant und jeder Rechner, den Sie uns gezeigt und erklärt haben, war es wert, Teil der Führung zu sein. Jeder Computer war auf seine Weise beeindruckend. Die Rallye beinhaltete ebenfalls interessante Aufgaben (v. a. ASCII-Art), war jedoch für die Zeit meiner Meinung nach zu umfangreich" 
+"Ich fand die Führung sehr interessant und jeder Rechner, den Sie uns gezeigt und erklärt haben, war es wert, Teil der Führung zu sein. Jeder Computer war auf seine Weise beeindruckend. Der Workshop beinhaltete ebenfalls interessante Aufgaben (v. a. ASCII-Art), war jedoch für die Zeit meiner Meinung nach zu umfangreich" 
 <hr><p class="small">
-"Sehr informative Ausstellung mit sehr interessanten Ausstellungsstücken. Ich denke es ist für Technik-Interessierte wie uns wichtig auch etwas über die Geschichte zu erfahren, besonders, wenn alle Exponate noch funktionsfähig sind. Außerdem war unsere Führung sehr gut, besonders weil man nicht mit Informationen überladen wurde. Auch die anschließende Rallye hat Spaß gemacht und war sehr lehrreich, obwohl die Zeit vielleicht etwas zu kurz war, um sich mit allen Aufgaben vertraut zu machen. Ich kann mir einen weiteren Besuch im Technikum mit anderen Themenschwerpunkten sehr gut vorstellen" 
+"Sehr informative Ausstellung mit sehr interessanten Ausstellungsstücken. Ich denke es ist für Technik-Interessierte wie uns wichtig auch etwas über die Geschichte zu erfahren, besonders, wenn alle Exponate noch funktionsfähig sind. Außerdem war unsere Führung sehr gut, besonders weil man nicht mit Informationen überladen wurde. Auch der anschließende Workshop hat Spaß gemacht und war sehr lehrreich, obwohl die Zeit vielleicht etwas zu kurz war, um sich mit allen Aufgaben vertraut zu machen. Ich kann mir einen weiteren Besuch im Technikum mit anderen Themenschwerpunkten sehr gut vorstellen" 
 </hr>
 </small>
 <br><br>

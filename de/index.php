@@ -72,8 +72,8 @@
 				Ideal 12-16 Personen<br>
 				Schmerzgrenze ca. 20 Personen<br><br>
 				Termine an beliebigen Tagen und Zeiten nach Absprache.
-				<br>Einzelpersonen können ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
-				Eine lebendige Führung beträgt für Einzelpersonen eine Fl. Rotwein der unteren Preisklasse. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt kostenlos.<br>
+				<br>Einzelpersonen und Kleingruppen können ihr Interesse kundtun (Mail schreiben!). Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
+				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt frei.<br>
 				
 					</li>
             </ul>

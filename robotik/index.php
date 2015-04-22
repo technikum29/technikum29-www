@@ -8,7 +8,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 <p style="margin-bottom: 200px"></p> -->
 <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">
 <center><img src="hk.jpg" width="210" height="135" alt="Frankfurter Neue Presse" /></center>
-Bericht in der "Frankfurter Neuen Presse" </a>
+"Lego-Roboter werden zu Rechenkünstlern", Bericht in der "Frankfurter Neuen Presse" </a>
 <br><br><!-- wieder entfernen! -->
 <!--
 <p style="margin-bottom: 725px"></p> -->
@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 17.4.2015</span>
+<span style="color:red">Aktualisiert: 21.4.2015</span>
 </div>          
 <br>
 <div class="box bordered nomargin-bottom">
@@ -58,13 +58,13 @@ Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vors
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
 
 <p>
-Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger".<br><br>
+Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
 
 Terminvorschläge für die Sommerferien (jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr):<hr>
  Kurs für Einsteiger: Montag 3.8. bis Freitag 8.8.<br>
  Kurs für Fortgeschrittene: Montag 24.8. bis Freitag 28.8.<hr>
  
- Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind hier etwas flexibel. Einfach die Wünsche mitteilen. Wir sammeln diese erst einmal. Eventuell gibt es auch zwei Einführungskurse.<br><br>
+ Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden den günstigsten Termin auswählen. Eventuell gibt es auch zwei Einführungskurse.<br><br>
 
 
 Voraussetzungen für den Einsteigerkurs: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>

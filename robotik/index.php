@@ -40,11 +40,8 @@ Roboter bauen und programmieren</div>
 <span style="color:red">Aktualisiert: 21.4.2015</span>
 </div>          
 <br>
-<div class="box bordered nomargin-bottom">
-	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
-	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Alternativ bieten wir Ferienkurse an, siehe unten.</p>
-</div>
-<br><br>
+
+<br>
 
 <div class="box desc-left borderless">
 <img src="roboter.jpg" width="450" height="360" alt="Roboter" />
@@ -86,9 +83,12 @@ Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alt
 </p>
 
 Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
-Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.<br><br>
+Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 
-
+<div class="box bordered nomargin-bottom">
+	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
+	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen!</p>
+</div>
 
 
 

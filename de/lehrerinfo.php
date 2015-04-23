@@ -42,7 +42,11 @@
 	</ul>
 	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!</p>
 
-	
+	<div>
+    <img src="/shared/photos/rallye/physik-lk.jpg"  width="900" height="300" />
+    <p style="width:900px;">
+     <i>   Schüler eines Physik-LK beim Experimentieren [Workshop]  </i>  </p>
+</div>
 <p>
 Wichtiger Tipp für Lehrer: Bedenken Sie, dass Schüler von dem Vorschlag ein Museum zu besuchen selten hellauf begeistert sind. Vermeiden Sie daher das Wort "Museum", denn das klingt nach "alt, staubig und langweilig". Diese Einstellung ändert sich zwar nach dem Besuch in der Regel grundlegend, dennoch ist es sinnvoller ihn z.B. einfach mit "Workshop Computer-History" zu bezeichnen. Wenn man Inhalte interessant und zeitgemäß verpackt, lassen sie sich besser vermitteln. </p>
 

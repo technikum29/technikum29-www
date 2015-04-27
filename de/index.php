@@ -112,6 +112,13 @@
 	FEB Deutschland e.V.
 	</div> 	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 29. April</p>	</div>
+	<h4>Computer-History und Experimental-Workshop</h4>
+	Termin: Mittwoch, der <b>29. April</b> <br>
+	Strothoff International School
+	</div> 	
 	
 <div class="box termin clear-after">
 		<div class="left">

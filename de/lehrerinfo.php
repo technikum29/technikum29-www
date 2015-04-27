@@ -42,11 +42,7 @@
 	</ul>
 	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!</p>
 
-	<div>
-    <img src="/shared/photos/rallye/physik-lk.jpg"  width="900" height="300" />
-    <p style="width:900px;">
-     <i>   Schüler eines Physik-LK beim Experimentieren [Workshop]  </i>  </p>
-</div>
+	
 <p>
 Wichtiger Tipp für Lehrer: Bedenken Sie, dass Schüler von dem Vorschlag ein Museum zu besuchen selten hellauf begeistert sind. Vermeiden Sie daher das Wort "Museum", denn das klingt nach "alt, staubig und langweilig". Diese Einstellung ändert sich zwar nach dem Besuch in der Regel grundlegend, dennoch ist es sinnvoller ihn z.B. einfach mit "Workshop Computer-History" zu bezeichnen. Wenn man Inhalte interessant und zeitgemäß verpackt, lassen sie sich besser vermitteln. </p>
 
@@ -56,12 +52,14 @@ Unser hochgestecktes Ziel ist, Schüler für Technik zu interessieren. Dies ist 
 
 	</p><br>
 	
+
 	<div class="desc-left">
     <img src="/shared/photos/start/grundschueler.jpg"  width="400" height="269" />
     <p style="width:400px;">
         Staunende Schüler der Pestalozzischule vor dem Computer-Dinosaurier "Gamma 10"
     </p>
 </div>
+
 
 <p class="small">
 Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die mit ihrem Kurs das technikum29 besucht und am Workshop teilgenommen haben:<br><br>
@@ -77,6 +75,13 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 "Sehr informative Ausstellung mit sehr interessanten Ausstellungsstücken. Ich denke es ist für Technik-Interessierte wie uns wichtig auch etwas über die Geschichte zu erfahren, besonders, wenn alle Exponate noch funktionsfähig sind. Außerdem war unsere Führung sehr gut, besonders weil man nicht mit Informationen überladen wurde. Auch der anschließende Workshop hat Spaß gemacht und war sehr lehrreich, obwohl die Zeit vielleicht etwas zu kurz war, um sich mit allen Aufgaben vertraut zu machen. Ich kann mir einen weiteren Besuch im Technikum mit anderen Themenschwerpunkten sehr gut vorstellen" 
 </hr>
 </small>
+<div class="center">
+    <img src="/shared/photos/rallye/physik-lk.jpg"  width="852" height="284" />
+    <p style="width:800px;">
+     <i>   Schüler eines Physik-LK beim Experimentieren [Workshop]  </i>  </p>
+</div>
+
+
 <br><br>
 <h2 id="experimente">Experimental-Workshop</h2>
 

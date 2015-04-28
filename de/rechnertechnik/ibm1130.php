@@ -115,8 +115,8 @@
 		[Die IBM1130-Anlage inkl. Bandlaufwerk wurde uns freundlicherweise vom <a href="http://www.fitg.de">FITG (Frankfurt)</a> übereignet. Die Peripheriegeräte sind Leihgaben des FITG]
 
 		
-		
-		<h3 id="blog-ibm">Reparatur-Blog</h3>
+		<!-- margin-left, um die Breite von Bild 6 auf der linken Seite zu überbrücken. -->
+		<h3 id="blog-ibm" style="margin-left: 257px">Reparatur-Blog</h3>
 		
 		Wie schon für den UNIVAC-9200 Rechner wird auch für diese IBM Anlage ein Reparatur-Blog erstellt. Die Schwierigkeit bei der Instandsetzung der IBM-Anlage liegt darin, dass diese damals, mitte der 60er Jahre, sehr fortschrittlich aufgebaut war: Hier wurden kaum noch herkömmliche Transistoren verwendet, sondern sogenannte <b>SLT</b>-Bausteine. Das sind kleine Keramik-"ICs" (keine integrierten Schaltungen im heutigen Sinne), in welchen die Transistoren, Dioden und Widerstände, eben noch lokalisierbar, untergebracht wurden. Diese Bausteine sind nicht mehr erhältlich und müssen bei Defekten praktisch "repariert" werden, was sehr aufwändig ist. Die fortschrittliche IBM-Technik von damals ist daher heute für die Instandsetzung ein Nachteil. Zur gleichen Zeit baute z.B. BULL noch mit großformatigen Pertinax-Platinen und Germanium-Transistoren. Zwei Welten, wie sie unterschiedlicher nicht sein konnten! 
 		<br><br>

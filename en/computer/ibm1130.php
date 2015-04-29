@@ -111,7 +111,7 @@ The processing of large data sets required a tape drive such as our Ampex TMZ sh
 			</div>
 
 
-<h2>  Restauration-Blog</h2>
+<h3 style="margin-left: 257px"> Restauration-Blog </h3>
 
 			
 			As for out UNIVAC 9200 we also maintain a repair blog for this machine. The main challenge in repairing a machine like this is that the machine was very advanced for its time. There are no individual transistors or common integrated circuits, instead IBM used a proprietary technology called SLT (Solid Logic Technology). SLT devices are small ceramic substrates on which extremely tiny transistors, diodes, resistors etc. are mounted (SLT devices are no integrated circuits - they more closely resemble hybrid circuits).<br>
@@ -166,6 +166,6 @@ the printer control. <br><br>
 		</small>
 		<br>
 		
-		<p><a class="go" href="/en/devices/ibm1130-blog.php">IBM 1130 Reparation blog continuation</a>
+		<p><a class="go" href="/en/devices/ibm1130-blog.php">IBM 1130 Restauration blog continuation</a>
 		
 		

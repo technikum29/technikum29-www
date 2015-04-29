@@ -78,7 +78,7 @@ Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.<br> 
-Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Synchrontanz der Roboter, Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
+Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (=Mobil-Plotter), Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
 Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 

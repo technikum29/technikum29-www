@@ -19,6 +19,15 @@
 
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/lochkarten-edv.php#129">
+	<h3>April 2015</h3>
+    <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
+	Der letzte Stanzer der Lochkartenära: IBM 129<br>
+	mit voll elektronischer Steuerung
+</a></li>
+
+
+
 <li><a href="/de/rechnertechnik/ibm1130.php#1130">
 	<h3>März 2015</h3>
     <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" width="153" height="108" />
@@ -56,13 +65,6 @@ Die spaßig intelligente Ferienalternative.
 	Ein historischer 5-Bit-Zeichen-Decoder aus der Hochschule. Hier wird er als Dechiffriermaschine in unserem Experimental-Workshop eingesetzt.
 </a></li>
 
-<li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
-	<h3>Juni 2014</h3>
-        <img src="/shared/photos/rechnertechnik/tuebingen.jpg" width="153" height="149" />
-	Unser Lochkartenstanzer IBM029 war auf Reisen: In Tübingen wurde er als Rhythmusgerät und zur
-        Einbindung in Kunstobjekte für das Event <em>Notizen zum Digitalen: Wir, die #iBorgs</em> verwendet.
-	
-</a></li>
 	
 </ul>
 

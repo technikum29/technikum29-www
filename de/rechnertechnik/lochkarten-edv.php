@@ -32,9 +32,16 @@
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm029+juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
         <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b></p></div>
-		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speicherte und dann erst stanzte. So waren vorher Korrekturen beliebig möglich. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1971 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
 
-    
+     <div class="box center auto-bildbreite" id="129">
+        <img src="/shared/photos/rechnertechnik/ibm129.jpg" alt="IBM 129" width="580" height="375" />
+        <p class="bildtext"><b>IBM 129 Lochkartenstanzer.</b></p></div>
+		
+		<p>IBM´s Antwort auf den voll elektronisch gesteuerten UNIVAC 1710 Lochkartenstanzer (siehe unten) war 1971 die letzte Version eines solchen Gerätes: IBM129.
+		Hier wurde (fast) alles verarbeitet, was zu dieser Zeit marktreif war: Daten und Stanzprogramme wurden im FET-Halbleiterspeicher abgelegt, die Anzeige der Kartenspalte erfolgte mit den ersten LED-7-Segment-Anzeigen und den spaltenweisen Vorschub besorgte ein kleiner Schrittschaltmotor. Mit einer sehr aufwändigen Logik in SLT-Technik waren viele Features möglich: Verifizieren (prüfen) bereits gelochter Karten, Lochschriftübersetzung, Speichern von bis zu 6 Formatierungsprogrammen usw.<br>
+		Der IBM129 ist relativ selten da Anfang der 70er Jahre der Markt an Lochkartengeräten weitgehend gesättigt und das Ende der Lochkartenära vorhersehbar war.<br>
+		Bei unserem Gerät wurde später noch eine V24-Schnittstelle eingebaut. Wir werden versuchen, auch diese wieder zur Funktion zu bringen.</p>
 	
     <div class="box center auto-bildbreite" id="1710">
         <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />
@@ -44,6 +51,9 @@
 		Da die Lochkarten zuerst gelesen und die Daten in einem Kernspeicher abgelegt werden, konnte man zwei Stanzprogramme (z.B. Feldsprünge) und auch den Inhalt einer Datenkarte speichern (für das Duplizieren von Lochkarten). Die Information von neu zu stanzenden Karten wurde Spalte für Spalte eingegeben, ohne dass sich die Karte bewegt. Daher sind Korrekturen vor dem Ausstanzen möglich. Der Stanz- und Beschriftungszyklus erfolgt nach der vollständigen Dateneingabe in beachtlichem Tempo. Außerdem hat der Stanzer zwei Kartenzuführungen sowie zwei Kartenablagen (jeweils für Programm- bzw. Datenkarten). <br>
 		Als Speicher dient ein Kernspeicher mit 16x80x2 Ringkernen.
 		Mit diesem Gerät konnte man damit auch gestanzte Karten nachträglich beschriften (Lochschriftübersetzer) und gelochte Karten auf richtige Lochung überprüfen. Bei allem Respekt vor der elektronischen Logik hatte der Stanzer aber Probleme mit der Mechanik: Die Beschriftung mittels Typenrad war leicht flatterhaft und der Karteneinzug problematisch, wenn die Einstellungen nicht 100%ig stimmten.</p>
+		
+	
+		
 		
 		<h3>Sortiermaschinen</h3>
 		

@@ -15,7 +15,17 @@
        posts are on top.</p>
 
 	   <ul class="news-feed news-ng">
-	   
+	 
+	 <li><a href="/en/computer/punchcard.php#129">
+	<h3>April 2015</h3>
+    <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
+	The Last model of a card punch: IBM 129 Card Data Recorder 
+with fully electronic control
+</a></li>
+
+
+
+	  
 	   <li><a href="/en/computer/ibm1130.php#ibm1130">
 				<h3>March 2015</h3>
 				<img src='/shared/photos/rechnertechnik/ibm-1130.jpg' alt='IBM 1130'>	

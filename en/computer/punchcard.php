@@ -69,12 +69,35 @@ data processing.</p>
 	<p> On the left hand in the picture there is the legendary
 	    IBM 029 (build since 1964), on the right hand the JUKI puncher
 	    (made in Japan). The JUKI puncher is not accidentally looking
-	    like the IBM: In 1971 IBM brought the puncher 129 on the market
-            which buffers the content of the whole punchcard while reading.
-	    Therefore IBM selled the license to reproduce the machine. In
+	    like the IBM: The type 129 card punch was introduced by IBM in 1971. It is capable of storing
+the contents of a whole card prior to punching it, thus making corrections
+possible. Therefore IBM selled the license of the 029 to reproduce the machine. In
 	    1971, the IBM 029 costed about 15.500 DM.
 	</p>
 	
+	  <div class="box center auto-bildbreite" id="129">
+        <img src="/shared/photos/rechnertechnik/ibm129.jpg" alt="IBM 129" width="580" height="375" />
+        <p class="bildtext"><b>IBM 129 Card Data Recorder.</b></p></div>
+		
+		<p>
+		IBM's answer to the electronic card punch UNIVAC 1710 was its most
+sophisticated and last member of its venerable family of card punched, the
+model 129. Every usable modern technology was incorporated in this device: Data
+and punch programs were stored in a FET-based memory, early seven-segment LED
+displays were used to diplay the current column, the card transport employed a
+stepper motor. A very complex SLT-based control logic implements a wide
+variety of features: Verification of punched cards, printing the data stored on
+a card on its edge, storing up to six customized card formats etc.<br>
+
+The IBM 129 is a rather rare find since the market for card punches was already
+saturated in the early 1970s. In addition to this the decline of punch card
+equipment was already forseeable.<br>
+
+Our machine has a serial line interface as an add-on which we are currently
+repairing.
+</p>
+		
+		
 	<div class="box center auto-bildbreite" id="u1710">
         <a name="univac1710"><img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC 1710 Verifying Interpreting Punch" width="580" height="435" /></a>
         <p class="bildtext"><b>UNIVAC 1710 Verifying Interpreting Punch</b> (VIP)</p>

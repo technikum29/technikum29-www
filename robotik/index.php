@@ -58,7 +58,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
 
 Terminvorschläge für die Sommerferien (jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr):<hr>
- Kurs für Einsteiger: Montag 3.8. bis Freitag 8.8.<br>
+ Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8.<br>
  Kurs für Fortgeschrittene: Montag 24.8. bis Freitag 28.8.<hr>
  
  Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden den günstigsten Termin auswählen. Eventuell gibt es auch zwei Einführungskurse.<br><br>

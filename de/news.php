@@ -22,8 +22,8 @@
 <li><a href="/de/rechnertechnik/lochkarten-edv.php#129">
 	<h3>April 2015</h3>
     <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
-	Der letzte Stanzer der Lochkartenära: IBM 129<br>
-	mit voll elektronischer Steuerung
+	Das letzte Stanzermodell der Lochkartenära: IBM 129<br>
+	mit voll elektronischer Steuerung (1971)
 </a></li>
 
 

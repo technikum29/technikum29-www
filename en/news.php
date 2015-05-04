@@ -12,7 +12,7 @@
 <h2>What's new?</h2>
 
     <p>This is a news feed for the recent changes on our homepage. The latest
-       posts are on top.</p>
+       posts are on top.</p><br><br>
 
 	   <ul class="news-feed news-ng">
 	 
@@ -20,7 +20,7 @@
 	<h3>April 2015</h3>
     <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
 	The Last model of a card punch: IBM 129 Card Data Recorder 
-with fully electronic control
+with fully electronic control (1971)
 </a></li>
 
 
@@ -47,12 +47,7 @@ described in the online-journal <i> techrepublic </i> "The world's greatest rest
 	<li><a href="/en/communication/fax.php#decoder">
 				<h3>July 2014</h3>
 				<img src='/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg' alt='Historic workshop device'>				<em>A historic 5-bit character decoder</em> from the university. Here it is used as a decryption engine in our experimental workshop.			</a></li>
-			<li><a href="http://www.kunst-stoff.fr/tresorraum/wir-die-iborgs/">
-				<h3>June 2014</h3>
-				<img src='/shared/photos/rechnertechnik/tuebingen.jpg' alt='Art installation with cards'>				Our Cardpunch IBM029 were on jorney: For some time, it were part of an art installation in Tübingen (Baden-Wüttemberg, near Stuttgart).			</a></li>
-			<li><a href="/en/computer/ibm1130.php#1130">
-				<h3>May 2014</h3>
-				<img src='/shared/photos/rechnertechnik/facit4000.jpg' alt='Facit papertape device'>				Periphery of the 1130: Facit tape devices			</a></li>
+			
 			
 			
 			

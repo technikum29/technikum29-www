@@ -104,28 +104,14 @@
 	<hr class="h3-like">
 	
 	
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 9. Mai</p>	</div>
-	<h4>Geburtstags-Event</h4>
-	Termin: Samstag, der <b>9. Mai</b> ab 15.00 Uhr<br>
-	für Moritz (wird 13 J.)
-	</div> 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 12. Mai</p>	</div>
-	<h4>Computer-History und Experimental-Workshop</h4>
-	Termin: Dienstag, der <b>12. Mai</b> um 13:00 Uhr<br>
-	Musterschule Frankfurt
-	</div> 	
+
 	
 	<div class="box termin clear-after">
 		<div class="left">
 			<p class="date"><em>2015</em> 15. Mai</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Freitag, der <b>15. Mai</b> um 10 Uhr<br>
-	Software Consult MSC, ca. 4 Plätze sind noch frei
+	Software Consult MSC
 	</div> 	
 	
 <div class="box termin clear-after">

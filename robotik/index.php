@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 21.4.2015</span>
+<span style="color:red">Aktualisiert: 14.5.2015</span>
 </div>          
 <br>
 
@@ -78,7 +78,7 @@ Aus dem Inhalt:<br><br>
 Aufbau der Roboter, Erklärung der Sensoren.
 Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.<br>
 Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.<br> 
-Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (=Mobil-Plotter), Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
+Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Robograph), Datenleitungen, Variable speichern und verwenden, Mathe-Block. Zählen, vergleichen, logische Entscheidungen treffen usw.<br>
 Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 </p>
 

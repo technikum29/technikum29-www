@@ -70,7 +70,7 @@
                 <li> Gruppenanmeldungen (Führungen):<br><br>
 				Minimum 8 Personen<br>
 				Ideal 12-16 Personen<br>
-				Schmerzgrenze ca. 20 Personen<br><br>
+				Maximum ca. 20 Personen<br><br>
 				Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen und Kleingruppen können ihr Interesse per E-Mail kundtun. Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
 				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt frei.<br>
@@ -104,23 +104,6 @@
 	<hr class="h3-like">
 	
 	
-
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 15. Mai</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Freitag, der <b>15. Mai</b> um 10 Uhr<br>
-	Software Consult MSC
-	</div> 	
-	
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 16. Mai</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>16. Mai</b>  <br>
-	Marburger Computer-Stammtisch
-	</div> 	
 	
 	<div class="box termin clear-after">
 		<div class="left">

@@ -137,6 +137,15 @@
 	Pestalozzischule
 	</div> 	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 21. Juni</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Sonntag, der <b>21. Juni</b> um 14:00 Uhr <br>
+	für Einzelbesucher und Kleingruppen (Anmeldung erforderlich!)
+	</div> 	
+	
+	
 	
 	<div class="box termin clear-after">	
 	<div class="left">

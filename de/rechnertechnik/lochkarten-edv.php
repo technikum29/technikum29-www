@@ -41,7 +41,7 @@
 		<p>IBM´s Antwort auf den voll elektronisch gesteuerten UNIVAC 1710 Lochkartenstanzer (siehe unten) war 1971 die letzte Version eines solchen Gerätes: IBM 129.
 		Hier wurden viele fortschrittliche Techniken verarbeitet, die zu dieser Zeit marktreif waren: Daten und Stanzprogramme werden im Halbleiterspeicher auf FET-Basis abgelegt, die Anzeige der Kartenspalte erfolgt mit den ersten 7-Segment-LED-Anzeigen und den spaltenweisen Vorschub besorgt ein kleiner Schrittschaltmotor. Mit einer sehr aufwändigen Logik in SLT-Technik sind viele Features möglich: Verifizieren (prüfen) bereits gelochter Karten, Lochschriftübersetzung, Speichern von bis zu 6 Formatierungsprogrammen usw.<br>
 		Das Modell 129 ist relativ selten da Anfang der 70er Jahre der Markt an Lochkartengeräten weitgehend gesättigt und das Ende der Lochkartenära vorhersehbar war.<br>
-		Bei unserem Gerät ist zusätzlich eine serielle Schnittstelle (V24) eingebaut. Wir werden versuchen, auch diese wieder zur Funktion zu bringen.</p>
+	</p>
 	
     <div class="box center auto-bildbreite" id="1710">
         <img src="/shared/photos/rechnertechnik/univac1710.jpg" alt="UNIVAC Stanzer 1710" width="580" height="435" />

@@ -73,7 +73,7 @@
 				Maximum ca. 20 Personen<br><br>
 				Termine an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen und Kleingruppen können ihr Interesse per E-Mail kundtun. Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
-				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt frei.<br>
+				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für einzelne Schüler und Studenten ist der Eintritt frei. Schülergruppen "zahlen" als symbolische Anerkennung eine Fl. Rotwein für die komplette Gruppe.<br>
 				
 					</li>
             </ul>
@@ -153,7 +153,21 @@
 	für Einzelbesucher und Kleingruppen (Anmeldung erforderlich!)
 	</div> 	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 1. Juli</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Mittwoch, der <b>1. Juli</b> um 15:00 Uhr <br>
+	Wirtschaftsinformatiker der Goethe-Universität
+	</div> 	
 	
+	<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 8. Juli</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Mittwoch, der <b>8. Juli</b> um 15:00 Uhr <br>
+	Wirtschaftsinformatiker der Goethe-Universität
+	</div> 	
 	
 	<div class="box termin clear-after">	
 	<div class="left">

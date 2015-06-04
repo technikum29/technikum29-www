@@ -131,7 +131,7 @@ Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran
 			 <br/>In diesen ROM´s wurde das ganze Betriebssystem des NIXDORF 820 - Rechners gespeichert (man brauchte 3 Stück dieser Module, Typ 177). Der Kunde konnte sich auch Programme selbst in leeren Programmträgern herstellen. Pro Modul (siehe Bild, hier geöffnet) waren das bis zu 4096 Wörter mit einer Länge von je 18 Bit. Das Gewicht des Moduls beträgt stolze 2,4 kg! Ein ordentliches Programm hatte auch ein ordentliches Gewicht!<br/>
 			 Weil dies das am einfachsten zu verstehende ROM ist, welches man selbst herstellen konnte, gibt es genauere Erklärungen und weitere Bilder.
 		</p>
-		<p><a class="go" href="/de/geraete/staebchenspeicher.php">Detailaufnahme betrachten</a></p>
+		<p><a class="go" href="/de/geraete/staebchenspeicher.php">Funktionserklärung des Stäbchenspeichers</a></p>
 	
 
 <h3 id="magnetdrahtspeicher">Magnetdrahtspeicher</h3>

@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 14.5.2015</span>
+<span style="color:red">Aktualisiert: 4.6.2015</span>
 </div>          
 <br>
 
@@ -55,7 +55,7 @@ Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vors
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
 
 <p>
-Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 14 Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
+Ort: "technikum29", Am Flachsland 29 in Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
 
 Terminvorschläge für die Sommerferien (jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr):<hr>
  Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8.<br>

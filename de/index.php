@@ -172,7 +172,7 @@
 	<div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em>Aug.</p>	</div>
-	<h4>Robotik-Ferienkurse für Kids von 11-14 Jahren.
+	<h4>Robotik-Ferienkurse für Kids von 11-13 Jahren.
 	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
 	Termine: <b>August</b>
 	

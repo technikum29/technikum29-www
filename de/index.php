@@ -103,23 +103,7 @@
 
 	<hr class="h3-like">
 	
-	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 6. Juni</p>	</div>
-	<h4>Geburtstags-Event</h4>
-	Termin: Samstag, der <b>6. Juni</b> ab 15.00 Uhr<br>
-	für Jonathan (wird 13 J.)
-	</div> 
 
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 10. Juni</p>	</div>
-	<h4>Computer-Dinosaurier</h4>
-	Termin: Mittwoch, der <b>10. Juni</b>  <br>
-	Uhlandschule Frankfurt
-	</div> 	
 	
 	<div class="box termin clear-after">
 		<div class="left">

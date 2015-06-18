@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 4.6.2015</span>
+<span style="color:red">Aktualisiert: 14.6.2015</span>
 </div>          
 <br>
 
@@ -55,17 +55,17 @@ Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vors
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>
 
 <p>
-Ort: "technikum29", Am Flachsland 29 in 65779 Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
+Ort: "technikum29", Am Flachsland 29 in 65779 Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 (14) Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
 
 Terminvorschläge für die Sommerferien (jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr):<hr>
- Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8. [Bisher angemeldet: Simon, Daniel, Rebekka,....]<hr>
- Kurs für Fortgeschrittene: Montag 24.8. bis Freitag 28.8.<hr>
+ Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8. [Bisher angemeldet: Simon, Daniel, Rebekka, Tim,....]<hr>
+ Kurs für Fortgeschrittene: Montag 24.8. bis Freitag 28.8.  [Bisher angemeldet: David, Tim, ....] <hr>
  
  Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden den günstigsten Termin auswählen. Eventuell gibt es auch zwei Einführungskurse.<br><br>
 
 
 Voraussetzungen für den Einsteigerkurs: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
-Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p><br>
+Du benötigst Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch für 14-jährige Schüler.</p><br>
 
 <div class="box desc-left borderless">
 	<img src="ferienkurs.jpg" width="531" height="313"/>

@@ -103,23 +103,6 @@
 
 	<hr class="h3-like">
 	
-
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 16. Juni</p>	</div>
-	<h4>Computer-Dinosaurier und Roboter</h4>
-	Termin: Dienstag, der <b>16. Juni</b> um 15:00 Uhr <br>
-	Pestalozzischule
-	</div> 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 17. Juni</p>	</div>
-	<h4>Computer-Dinosaurier und Roboter</h4>
-	Termin: Mittwoch, der <b>17. Juni</b> um 15:00 Uhr <br>
-	Pestalozzischule
-	</div> 	
 	
 	<div class="box termin clear-after">
 		<div class="left">

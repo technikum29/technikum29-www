@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 <div style="font-size: 250%; line-height: 110%">Spaßig intelligente Alternative für die Ferien:<br>
 Roboter bauen und programmieren</div>
 <br>
-<span style="color:red">Aktualisiert: 14.6.2015</span>
+<span style="color:red">Aktualisiert: 19.6.2015</span>
 </div>          
 <br>
 
@@ -58,10 +58,10 @@ Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intellige
 Ort: "technikum29", Am Flachsland 29 in 65779 Kelkheim-Hornau. Er richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von<b> 11 bis 13 (14) Jahren</b>, also intelligente "Robotik-Einsteiger" sowie Fortgeschrittene.<br><br>
 
 Terminvorschläge für die Sommerferien (jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr):<hr>
- Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8. [Bisher angemeldet: Simon, Daniel, Rebekka, Tim,....]<hr>
+ Kurs für Einsteiger: Montag 3.8. bis Freitag 7.8. [Bisher angemeldet: Simon, Daniel, Rebekka, Tim, Felix,....]<hr>
  Kurs für Fortgeschrittene: Montag 24.8. bis Freitag 28.8.  [Bisher angemeldet: David, Tim, ....] <hr>
  
- Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden den günstigsten Termin auswählen. Eventuell gibt es auch zwei Einführungskurse.<br><br>
+ Es ist sinnvoll, sich für die Kurse in den Sommerferien vormerken zu lassen! Wer zu den aufgeführten Terminen nicht kommen kann hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden gegebenenfalls einen zweiten Einführungskurs anbieten.<br><br>
 
 
 Voraussetzungen für den Einsteigerkurs: Es sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Aber:<br>
@@ -86,8 +86,8 @@ Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmie
 Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 
 <div class="box bordered nomargin-bottom">
-	<p class="bildtext"><b>Robotik-AG in der Schule:</b> <br>
-	Das technikum29 sponsert Robotik-Arbeitsgemeinschaften an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 je zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen!</p>
+	<p class="bildtext"><b>Robotik in der Schule:</b> <br>
+	Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshop´s beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
 </div>
 
 

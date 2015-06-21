@@ -16,7 +16,7 @@ t29.lightbox.paths = {
 };
 
 t29.lightbox.setup = function() {
-	var elements = $("#content .popup");
+	var elements = $("#content .popup, nav.side.contains-custom .popup");
 	if(elements.length) {
 		// we have fancybox elements on this page. Load Javascript and CSS
 		t29.load.css(t29.lightbox.paths.css);

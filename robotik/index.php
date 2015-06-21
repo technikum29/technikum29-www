@@ -19,7 +19,17 @@ Anmeldung und Vormerkung unter:<br><br>
 </font><br>
 <font size="4">
 Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also mit Bahn und Bus gut erreichbar.
+<br><br><br>
+
+<div class="box desc-left borderless">
+<a class="popup" href="2-roboter.jpg">
+<img src="2-roboter.jpg" width="228" height="159" />
+</a>
+</div>
+	
+
 </font>
+
 
 SIDEBAR_ENDE;
 	

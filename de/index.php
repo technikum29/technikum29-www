@@ -52,8 +52,8 @@
 	  <div class="erwartung">
             <h2>Was wird geboten ?</h2>
             <ul>
-                <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst ausschliesslich funktionsfähige, großformatige Technik.<br>
-				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.
+                <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst vorwiegend funktionsfähige, großformatige Technik.<br>
+				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzel-besuche nur in Ausnahmefällen möglich.
 				
 				
 				</li>
@@ -106,22 +106,6 @@
 	
 	<div class="box termin clear-after">
 		<div class="left">
-			<p class="date"><em>2015</em> 20. Juni</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>20. Juni</b> um 16:00 Uhr <br>
-	Gruppe Schuster
-	</div> 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 21. Juni</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Sonntag, der <b>21. Juni</b> um 14:00 Uhr <br>
-	für Einzelbesucher und Kleingruppen (ausgebucht!)
-	</div> 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
 			<p class="date"><em>2015</em> 1. Juli</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Mittwoch, der <b>1. Juli</b> um 15:00 Uhr <br>
@@ -139,8 +123,8 @@
 	<div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em>Aug.</p>	</div>
-	<h4>Robotik-Ferienkurse für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Kurse</a><br>
+	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
+	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
 	Termine: <b>August</b>
 	
 </div>

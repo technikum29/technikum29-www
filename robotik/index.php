@@ -23,7 +23,7 @@ Das technikum29 ist <br> 5 Minuten vom Bahnhof Kelkheim-Hornau entfernt, also mi
 
 <div class="box desc-left borderless">
 <a class="popup" href="2-roboter.jpg">
-<img src="2-roboter.jpg" width="228" height="159" />
+<img src="2-roboter.jpg" width="210" height="146" />
 </a>
 </div>
 	
@@ -59,7 +59,7 @@ Roboter bauen und programmieren</div>
 <p><small>Bestückt mit 3 Motoren und 5 Sensoren tasten sie sich durch die Welt</small></p>
 </div>
 
-<p>Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In dem <b>Ferienkurs</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
+<p>Fun for Future: Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß da man hier richtig kreativ "spielen" kann. In dem <b>Ferienworkshop</b> lernst du mit einer grafischen Methode wie man Programme erstellt.<br>
 Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten den Roboter "intelligent" zu machen.</p>

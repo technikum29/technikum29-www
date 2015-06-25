@@ -4,6 +4,7 @@
 	$titel = 'Informationen zum Ferienkurs "Robotik"';
 
 $sidebar_content = <<<SIDEBAR_ENDE
+
 <!--
 <p style="margin-bottom: 200px"></p> -->
 <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">

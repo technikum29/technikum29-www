@@ -16,8 +16,16 @@
 	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
 	
 	<br><br>
-
+	
 <ul class="news-feed news-ng">
+
+<li><a href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
+	<h3>Juni 2015</h3>
+    <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
+	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer)<br> und viele Vorräte an Lochkarten.... wir berichten demnächst hierüber
+	</a>
+</li>
+
 
 <li><a href="/de/rechnertechnik/lochkarten-edv.php#129">
 	<h3>April 2015</h3>
@@ -59,11 +67,7 @@ Die spaßig intelligente Ferienalternative.
 
 </li>
 
-<li><a href="/de/kommunikationstechnik/faxtechnik.php#decoder">
-	<h3>Juli 2014</h3>
-        <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="153" height="144" />
-	Ein historischer 5-Bit-Zeichen-Decoder aus der Hochschule. Hier wird er als Dechiffriermaschine in unserem Experimental-Workshop eingesetzt.
-</a></li>
+
 
 	
 </ul>

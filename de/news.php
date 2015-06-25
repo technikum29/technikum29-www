@@ -19,7 +19,7 @@
 	
 <ul class="news-feed news-ng">
 
-<li><a href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
+<li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
 	<h3>Juni 2015</h3>
     <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
 	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer)<br> und viele Vorräte an Lochkarten.... wir berichten demnächst hierüber

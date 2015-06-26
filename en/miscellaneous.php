@@ -104,29 +104,5 @@ mechanism like a musical clock that generates sounds controlled by the holes in
 the cards. So, finally, the "Capital" is transformed into atmospheric sounds.</p><br>
 
 	 
-	 
-	 
-    <h3>Movie projector  "Dresden 1"</h3>
-
-     <div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/kinomaschine.dresden1.jpg"
-           alt="Photography of the movie projector Dresden 1" width="350" height="630" />
-
-		<div class="bildtext">
-          <p>The technikum29 has a movie projector from 1951 (there are
-             more and even older projectors from the 1930s that are stored in the
-             archive for lack of space).</p>
-          <p>
-             Movie projectors have always been very complex devices. At that time,
-             the bright picture projection was archived with an arc light which was
-             generated between two carbon pencils. The waste heat was deflected via a
-             chimney pipe! <!-- stupid mode... -->
-             Since the pencils got shorter and shorter while the movie went on, they
-             had to be moved continously closer together for producing a constant
-             luminosity. Otherwise the light goes out.
-             <br/>We will repair this device to show an original newsreel from the 1960s.
-         </p>
-	   </div>
-	</div>
 		
 	

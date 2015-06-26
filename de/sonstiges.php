@@ -68,16 +68,3 @@
 	<p>In einem anderen Werk: "Fetischcharakter der Ware" werden die Texte von Karl Marx in den gestanzten Lochkarten aneinandergehängt und unter einer Maschine durchgezogen die, ähnlich einer mechanischen Spieluhr, gestanzte Löcher in Töne verwandelt. So entsteht "Das Kapital"  als verfremdete Musik in Spährenklängen.<br>
 	Wir werden dieses Projekt aufgreifen und mit Hilfe optischer Lochkartenleser über einen Microcontroller quasi einen Synthesizer steuern: Die technische Perfektion von Kunst mit historischen Medien.</p>
 	
-	
-	
-	<h3 id="kinomaschine">Kinomaschine</h3>
-	
-	<div class="box left clear-after">
-        <img src="/shared/photos/kommunikationstechnik/kinomaschine.dresden1.jpg" alt="Abbildung der Kinomaschine Dresden 1" width="350" height="630" />
-        <div class="bildtext">
-			<b>Kinomaschine Dresden D1</b>
-			<p>Auch das gibt es im <b>technikum29</b>: Eine Kinomaschine aus dem Jahre 1951. Weitere Kinomaschinen aus den 30ern stehen aus Platzgründen im Archiv.<br>
-	        Filmvorführmaschinen beinhalten auch eine recht komplexe Mechanik; schließlich musste die helle und weiße Bildausleuchtung mit Hilfe eines Bogenlichtes zwischen zwei Kohlestiften erzeugt werden. Die als Folge der Verbrennung entstehende Hitze wurde durch einen Kamin abgeleitet! Da die Stifte während der Vorführung immer kürzer werden, müssen sie kontinuierlich aufeinander zu driften, damit deren Abstand und damit die Lichtstärke konstant bleibt. Ansonsten erlischt der Bogen und das Kinopublikum dankt es mit lautstarken Protesten.<br>
-	        Diese Maschine werden wir noch reparieren um Ihnen dann einen originalen Wochenschaufilm aus den 60er Jahren vorführen zu können.</p>
-		</div>
-	</div>

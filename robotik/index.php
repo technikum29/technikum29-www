@@ -34,9 +34,10 @@ $sidebar_content = <<<SIDEBAR_ENDE
 <div class="text-block">
 	<b>Zeitungsecho</b>
 	<ul>
-	<li>Kelkheimer Zeitung vom 28.07.2014: <a href="Kelkheimer-Zeitung.pdf">Roboter in den Ferien programmieren</a>
+	
 	<li>Höchster Kreisblatt vom 14.04.2015: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Junge-Roboter-fahren-zwischen-alten-Computern-Slalom;art676,1352844" target="blank">Junge Roboter fahren zwischen alten Computern Slalom</a>
 	<li>Frankfurter Neuen Presse vom 25.08.2014: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">Lego-Roboter werden zu Rechenkünstlern</a>
+	<li>Kelkheimer Zeitung vom 28.07.2014: <a href="Kelkheimer-Zeitung.pdf">Roboter in den Ferien programmieren</a>
 	</ul>
 </div>
 
@@ -129,7 +130,8 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 
 <p>Wer zu den aufgeführten Terminen nicht kommen kann, hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden eventuell einen zweiten Einführungskurs anbieten.
 
-<p><b>Anmeldung</b> per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+<h3>Anmeldung</h3>  
+per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

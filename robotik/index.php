@@ -19,16 +19,16 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 
 <div class="bild-block">
-	<a href="roboter.jpg" class="popup"><img src="roboter.jpg" style="max-width:100%" alt="Roboter" /></a>
+	<a href="roboter.jpg" class="popup"><img src="roboter.jpg" alt="Roboter" /></a>
 	<p class="bildtext">Bestückt mit 3 Motoren und 5 Sensoren: <a href="roboter.jpg" class="popup">LEGO Mindstorms-Roboter</a></p>
 </div>
 
 
 <div class="bild-block">
 	<a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">
-		<img src="hk.jpg" width="210" height="135" alt="Frankfurter Neue Presse" />
+		<img src="hk.jpg" alt="Frankfurter Neue Presse" />
 	</a>
-	<p class="bildtext">Einige Schüler beim Entwickeln eines neuen Programms</p>
+	<p class="bildtext">Schüler beim Entwickeln eines neuen Programms</p>
 </div>
 
 <div class="text-block">
@@ -44,7 +44,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="bild-block">
 	<a class="popup" href="2-roboter.jpg">
-		<img src="2-roboter.jpg" width="210" height="146" />
+		<img src="2-roboter.jpg" />
 	</a>
 </div>
 
@@ -61,7 +61,7 @@ SIDEBAR_ENDE;
 
 <header class="teaser">
 	<h2>
-	<span class="subtext">Spaßig intelligente Altenrative für die Ferien:</span>
+	<span class="subtext">Spaßig-intelligente Alternative für die Ferien:</span>
 	Roboter bauen und programmieren
 	</h2>
 	<img class="no-copyright" src="header-bild.jpg">
@@ -119,11 +119,11 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 <ul>
  <li><b>Kurs für Einsteiger</b>
 	<br>Montag 3.8. bis Freitag 7.8.
-	<br><em>Bisher angemeldet:</em> Simon, Daniel, Rebekka, Tim, Felix....
+	<br><em>Bisher angemeldet:</em> Simon, Daniel, Rebekka, Tim, Felix.
 	<br>
  <li><b>Kurs für Fortgeschrittene</b>
 	<br>Montag 24.8. bis Freitag 28.8.
-	<br><em>Bisher angemeldet:</em> David, Tim.....
+	<br><em>Bisher angemeldet:</em> David, Tim.
 	<br>
 </ul>
 

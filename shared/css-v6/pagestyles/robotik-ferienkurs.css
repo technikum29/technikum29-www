@@ -44,7 +44,7 @@ header.teaser h2 span.subtext {
 
 
 header.teaser img {
-	width: 100%;
+/*	width: 100%; *//* Sieht im Mobile bloed aus */
 }
 
 
@@ -77,6 +77,7 @@ section.sidebar div.text-block {
 
 section.sidebar div.bild-block img {
 	width: 100%;
+	max-width: 300px; /* tablet */
 }
 
 section.sidebar div.bild-block .bildtext {

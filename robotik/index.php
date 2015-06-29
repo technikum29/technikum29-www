@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>28.06.2015
+	<br>29.06.2015
 </div>
 
 <div class="spacing"></div>
@@ -50,7 +50,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text">
 <strong>Robotik in der Schule:</strong>
-<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Albert-Einstein-Schule, Schwalbach sowie Eichendorffschule, Kelkheim. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
+<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule, Kelkheim sowie Albert-Einstein-Schule, Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
 </div>
 
 
@@ -128,10 +128,10 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 </ul>
 
 
-<p>Wer zu den aufgeführten Terminen nicht kommen kann, hat die Möglichkeit selbst Terminvorschläge zu machen. Wir sind flexibel, sammeln die Wünsche und werden eventuell einen zweiten Einführungskurs anbieten.
-
 <h3>Anmeldung</h3>  
+<p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

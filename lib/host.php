@@ -167,9 +167,13 @@ abstract class t29Host {
 	 *   1. if this host does Clean URLs (Suffix rewriting)
 	 *   2. if this host is *not* installed in its own virtualhost (i.e. on docroot). 
 	 *
+	 * Note:
+	 * This is only public as it must be able to be overwritten by subclasses.
+	 * This should be a constructor!
+	 *
 	 * @returns $this for chaining
 	 **/
-	private function setup() {
+	public function setup() {
 		$this->is_rewriting_host = isset($_SERVER[self::env_hidesuffix_name]);
 		
 		$this->lib = dirname(__FILE__);

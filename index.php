@@ -2,8 +2,12 @@
  /* technikum29 language negotation since v5.8.x
   * automatical redirection based on user language
   */
+if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
  $de = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'de');
  $en = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'en');
+} else {
+ $de = $en = false;
+}
  
  // Support web prefixes, aka installation of the homepage in
  // subdirectorys and not in virtual hosts

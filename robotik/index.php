@@ -119,11 +119,11 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 <ul>
  <li><b>Kurs für Einsteiger</b>
 	<br>Montag 3.8. bis Freitag 7.8.
-	<br><em>Bisher angemeldet:</em> Simon, Daniel, Rebekka, Tim, Felix.
-	<br>
+	
+	<br><br>
  <li><b>Kurs für Fortgeschrittene</b>
 	<br>Montag 24.8. bis Freitag 28.8.
-	<br><em>Bisher angemeldet:</em> David, Tim.
+	
 	<br>
 </ul>
 

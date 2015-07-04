@@ -261,15 +261,18 @@ td { vertical-align: top; }
    Modify as content requires.
    ========================================================================== */
 
+/* Not used at all at this point, see 30-print.css */
+/*
 @media only screen and (min-width: 480px) {
-  /* Style adjustments for viewports 480px and over go here */
+  * Style adjustments for viewports 480px and over go here *
 
 }
 
 @media only screen and (min-width: 768px) {
-  /* Style adjustments for viewports 768px and over go here */
+  * Style adjustments for viewports 768px and over go here *
 
 }
+*/
 
 
 

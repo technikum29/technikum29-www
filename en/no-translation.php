@@ -36,12 +36,6 @@
          ?how=no,backtitle=Blabla
     -->
 
-    <? /*
-    <!--#if expr="$QUERY_STRING = /how=([^,&]+)/" --><!--#set var="how" value="$1" --><!--#endif --> 
-    <!--#if expr="$QUERY_STRING = /backurl=([^,&]+)/" --><!--#set var="url_de" value="$1" --><!--#endif --> 
-    <!--#if expr="$QUERY_STRING = /backtitle=([^,&]+)/" --><!--#set var="backtitle" value="$1" --><!--#endif --> 
-    */ ?>
-
     <?php
 
 	

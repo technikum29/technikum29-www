@@ -13,7 +13,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 <div class="spacing"></div>
 
 <div class="bild-block">
-	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau""><img src="wegskizze-bahnhof.png" style="width:100%"></a>
+	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="wegskizze-bahnhof.png" style="width:100%"></a>
 	<p class="bildtext">Das technikum29 ist 5 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
 
@@ -48,9 +48,9 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	</a>
 </div>
 
-<div class="text">
-<strong>Robotik in der Schule:</strong>
-<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule, Kelkheim sowie Albert-Einstein-Schule, Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
+<div class="text-block">
+	<strong>Robotik in der Schule:</strong>
+	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule, Kelkheim sowie Albert-Einstein-Schule, Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
 </div>
 
 

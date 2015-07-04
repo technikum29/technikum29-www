@@ -94,6 +94,20 @@ section.sidebar div.text-block li {
 	margin: .4em 0;
 }
 
+/* Mobile Sidebar, nur auf senkrechtem Tablet... */
+@media all and (max-width: 940px) and (min-width: 600px) {
+	section.sidebar div.text-block,
+	section.sidebar div.bild-block {
+		margin: .5em;
+		padding: .5em;
+		width: 300px;
+		/*outline: 1px solid red;*/
+
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
 
 
 /* Wie auf Startseite */

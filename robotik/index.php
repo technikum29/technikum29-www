@@ -113,7 +113,7 @@ Die Kursgebühr für den Ferienkurs beträgt 40 Euro pro Teilnehmer.
 
 </div><!--/leftcol -->
 <div class="rightcol">
-<h3>Termine für die Sommerferien</h3>
+<h3>Termine in den Sommerferien</h3>
 <p>Jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr:
 
 <ul>

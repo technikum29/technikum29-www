@@ -103,13 +103,7 @@
 
 	<hr class="h3-like">
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 8. Juli</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Mittwoch, der <b>8. Juli</b> um 15:00 Uhr <br>
-	Wirtschaftsinformatiker der Goethe-Universität
-	</div> 	
+	
 	
 	<div class="box termin clear-after">
 		<div class="left">

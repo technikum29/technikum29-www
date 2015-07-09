@@ -21,7 +21,7 @@
 		
 		
 		
-   <br><br>
+   <p><br>
 		Für interessierte Schülergruppen wird eine pädagogisch ausgewogener und altersgemäßer Workshop angeboten:</p>
 
 <ul>
@@ -33,19 +33,18 @@
     <img src="/shared/photos/start/yousra-9200.jpg"  width="400" height="329" />
     <p style="width:400px;">
         Yousra, Klasse 4b, bedient den Univac-9200 Computer
-    </p>
-</div>
+	</div>
 	
-	<p>Was sind "interessierte" Schülergruppen?<br>
+	Was sind "interessierte" Schülergruppen?<br>
 	<ul>
 	<li>1.	Physik-Leistungskurse der gymnasialen Oberstufe</li>
 	<li>2.	Informatik-Kurse</li>
 	<li>3.	Physik-Grundkurse und Mathe-Leistungskurse</li>
-	<li>4.	Projektgruppen und Arbeitsgemeinschaften im naturwissenschaftlichen bzw. technischen Bereich ab der 5. Klasse</li>
+	<li>4.	Projektgruppen und Arbeitsgemeinschaften ab der 5. Klasse</li>
 	<li>5.	Gruppen aus Berufsfachschulen usw.</li>
 	<li>6.	Schülergruppen aus dem Grundschulbereich (4. Klasse).</li>
 	</ul>
-	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!</p>
+	Wir können uns jeweils auf verschiedene Niveaus optimal einstellen!
 
 	
 <p>

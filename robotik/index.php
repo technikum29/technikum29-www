@@ -85,8 +85,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 </div><!--/leftcol -->
 <div class="rightcol">
 
-<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 (14) Jahren</b>, sowohl intelligente Einsteiger als auch Fortgeschrittene. Er findet im <a href="/" class="go">technikum29</a> in Kelkheim-Hornau statt.
-Es gibt Einsteiger- und Fortgeschrittenenkurse.
+<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 (14) Jahren</b>, sowohl intelligente Einsteiger als auch Fortgeschrittene. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
 
 <h3>Inhalt</h3>
 <ul>

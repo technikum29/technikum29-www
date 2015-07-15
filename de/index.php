@@ -28,7 +28,7 @@
                
                 <li>Eigentlich für alle neugierigen Menschen, es sei denn, Sie haben eine Aversion gegen Technik.  Es ist die Entwicklung der Computer, die unser Leben maßgebend bestimmt.  <br>
 				</li>
-                <li>Für interessierte Schülergruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab ca. 11J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
+                <li>Für interessierte Schülergruppen (<a class="go" href="lehrerinfo.php">Infos für Lehrer</a>), denn Kinder (ab ca. 10J.) und Jugendliche haben einen positiven Zugang zu dieser "History", da sie voll in der Welt der Computer integriert sind.</li>
 				<li>Auch für Studenten, Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
             </ul>
         </div>
@@ -156,9 +156,18 @@ Im zweiten Maschinenzeitalter wird die menschliche Intelligenz durch die digital
 Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der technischen Entwicklung auch aus kultureller Sicht Schritt zu halten. In dem Vortrag stellen ein Mathematiker und ein Philosoph jeweils ihre Sicht der Dinge dar, wobei der Bogen von grundlegenden philosophischen Fragestellungen bis hin zu technischen Details gespannt wird.<br>
 Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
 </div>
-	
+<hr class="h3-like">
 
+<div class="box termin clear-after">
+		<div class="left">
+			<p class="date"><em>2015</em> 11. Aug.</p>	</div>
+	<h4>Computer-History</h4>
+	Termin: Dienstag, der <b>11. August</b> um 18:00 Uhr <br>
+	Gruppe Weidmann
+	</div> 	
 </div>
+
+
 <br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 

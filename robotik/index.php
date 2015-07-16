@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>29.06.2015
+	<br>16.07.2015
 </div>
 
 <div class="spacing"></div>
@@ -85,7 +85,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 </div><!--/leftcol -->
 <div class="rightcol">
 
-<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 (14) Jahren</b>, sowohl intelligente Einsteiger als auch Fortgeschrittene. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
+<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 (14) Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
 
 <h3>Inhalt</h3>
 <ul>
@@ -113,7 +113,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro pro Teilne
 </div><!--/leftcol -->
 <div class="rightcol">
 <h3>Termine in den Sommerferien</h3>
-<p>Jeweils 10 bis 12 Uhr, alternativ 14 bis 16 Uhr:
+<p>Jeweils von 10 bis 12 Uhr:
 
 <ul>
  <li><b>Kurs für Einsteiger</b>

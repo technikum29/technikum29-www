@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'robotik-ferienkurs';
+	$seiten_id = 'robotik-ferienkurs'; 'robotik-workshop';
 	$version = '$Id: robotik$';
 	$titel = 'Ferienkurs "Robotik" mit Lego-Robotern im technikum29 und an Schulen in Kelkheim und Schwalbach';
 
@@ -14,7 +14,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="bild-block">
 	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="wegskizze-bahnhof.png" style="width:100%"></a>
-	<p class="bildtext">Das technikum29 ist 5 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
+	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
 
 
@@ -92,7 +92,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 <li>Aufbau der Roboter, Erklärung der Sensoren.
 <li>Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
 <li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
-<li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Robograph), Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, Spiele entwickeln usw.
+<li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter), Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, Spiele entwickeln usw.
 </ul>
 <p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
 
@@ -118,7 +118,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro pro Teilne
 <ul>
  <li><b>Kurs für Einsteiger</b>
 	<br>Montag 3.8. bis Freitag 7.8.<br>
-	<p class="small">Sie können auch eigene Terminvorschläge machen. Wenn genügend zusammen kommen, wird noch ein zweiter Kurs eingerichtet.</small>
+	<p class="small">Sie können auch eigene Terminvorschläge machen. Wenn genügend Interessenten zusammen kommen, wird noch ein zweiter Kurs eingerichtet.</small>
 	
 	<br><br>
  <li><b>Kurs für Fortgeschrittene</b>

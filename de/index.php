@@ -129,23 +129,7 @@
 	<center><span style="color: #CC080B;"><big><b>Tage der Industriekultur Rhein-Main im technikum29</b></big></span><br>
 	<small><small>Der Eintritt für diese Events ist kostenlos (Anmeldung erforderlich)</small></small></p></center>
 	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 18. Juli</p>	</div>
-	<h4>Die Entwicklung moderner Kommunikationsmittel</h4>
-	Termin: Samstag, der <b>18. Juli</b> 14:00 Uhr <br>	
-	<p class="small">Sie erleben mit vielen Vorführungen und Experimenten die Entwicklungsgeschichte der Kommunikationstechnik vom Telegraphen über Rundfunk, Fernsehen, Beginn der Farbe, Telex, Fax, Schall- und Magnetbandaufzeichnung ein breites Spektrum der Zeiten zu denen das „Internet“ absolute Utopie war. Die Zeitreise beginnt 1915 mit selbst spielenden Klavieren und endet ca. 1971 mit dem ersten Rückprojektions-Farbfernseher der Welt. Alles bespickt mit teils ungewöhnlichen Experimenten. Auch für technikinteressierte Kids ab 12 bestens geeignet</small>
-	</div> 
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 19. Juli</p>	</div>
-	<h4>Der Beginn des zweiten Maschinenzeitalters</h4>
-	Termin: Sonntag, der <b>19. Juli</b> 14:00 Uhr <br>	
-	<p class="small">Im ersten Maschinenzeitalter wurden die Muskelkraft von Mensch und Tier durch Maschinen ersetzt.
-Im zweiten Maschinenzeitalter wird die menschliche Intelligenz durch die digitale Revolution zunehmend ersetzt. Wir stecken mitten drin.
-<br> Wie fing das alles an? Wie sahen die ersten Computer aus? Hier erleben Sie riesige dinosaurierhafte Computer ab der Stunde Null, alle in Funktion! Wir gestalten sehr lebendig die Entwicklungsgeschichte unserer Computer bis in die 70er Jahre.  Auch sehr gut für technikinteressierte Kids ab 11 J. geeignet</small>
-</div>
+	
 
 <div class="box termin clear-after">
 		<div class="left">

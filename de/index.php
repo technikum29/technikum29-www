@@ -104,16 +104,6 @@
 	<hr class="h3-like">
 	
 	
-	
-	<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 25. Juli</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Samstag, der <b>25. Juli</b> um 14:00 Uhr <br>
-	Hochschule RheinMain
-	</div> 	
-	
-	
 	<div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em>Aug.</p>	</div>
@@ -123,24 +113,6 @@
 	
 </div>
 	
-<hr class="h3-like">
-<br>
-
-	<center><span style="color: #CC080B;"><big><b>Tage der Industriekultur Rhein-Main im technikum29</b></big></span><br>
-	<small><small>Der Eintritt für diese Events ist kostenlos (Anmeldung erforderlich)</small></small></p></center>
-	
-	
-
-<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2015</em> 25. Juli</p>	</div>
-	<h4>Künstliche Intelligenz und artificial life, (wann) werden uns Maschinen überflügeln?</h4>
-	Termin: Samstag, der <b>25. Juli</b> 19:00 Uhr <br>	
-	<p class="small">Künstliche Intelligenz, künstliches Leben - Traum, Schreckensvision? Ist so etwas überhaupt möglich? Ist es wünschenswert? Kann es verhindert werden?<br>
-Diese Fragen und viele andere müssen in Zukunft beantwortet werden, um mit der technischen Entwicklung auch aus kultureller Sicht Schritt zu halten. In dem Vortrag stellen ein Mathematiker und ein Philosoph jeweils ihre Sicht der Dinge dar, wobei der Bogen von grundlegenden philosophischen Fragestellungen bis hin zu technischen Details gespannt wird.<br>
-Referenten: Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Patrick Hedfeld (Philosoph)</small>
-</div>
-<hr class="h3-like">
 
 <div class="box termin clear-after">
 		<div class="left">

@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'robotik-ferienkurs'; 'robotik-workshop';
 	$version = '$Id: robotik$';
-	$titel = 'Ferienkurs "Robotik" mit Lego-Robotern im technikum29 und an Schulen in Kelkheim und Schwalbach';
+	$titel = 'Robotik Workshop im technikum29 und an Schulen in Kelkheim und Schwalbach';
 
 $sidebar_content = <<<SIDEBAR_ENDE
 

@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>19.07.2015
+	<br>2.8.2015
 </div>
 
 <div class="spacing"></div>
@@ -118,9 +118,10 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 <ul>
  <li><b>Kurs für Einsteiger</b>
 	<br>Montag 3.8. bis Freitag 7.8.<br>
-	<p class="small">Sie können auch eigene Terminvorschläge machen. Wenn genügend Interessenten zusammen kommen, wird noch ein zweiter Kurs eingerichtet.</small>
+	<p class="small">Teilnbehmer: Simon, Daniel, Rebekka, Tim, Felix B., Samuel, Jeremias, Ben, Felix J., Elena</p>
 	
-	<br><br>
+	
+	<br>
  <li><b>Kurs für Fortgeschrittene</b>
 	<br>Montag 24.8. bis Freitag 28.8.
 	

@@ -106,23 +106,22 @@
 	
 	<div class="box termin clear-after">	
 	<div class="left">
-			<p class="date"><em>2015</em>Aug.</p>	</div>
-	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
-	Termine: <b>August</b>
-	
-</div>
-	
-
-<div class="box termin clear-after">
-		<div class="left">
 			<p class="date"><em>2015</em> 11. Aug.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>11. August</b> um 18:00 Uhr <br>
 	Gruppe Weidmann
 	</div> 	
-</div>
 
+
+<div class="box termin clear-after">
+		<div class="left">
+
+<p class="date"><em>2015</em>Okt.</p>	</div>
+	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
+	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
+	Termine: <b>Oktober</b>
+	
+</div></div>
 
 <br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

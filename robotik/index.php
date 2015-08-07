@@ -76,8 +76,9 @@ SIDEBAR_ENDE;
 <br>Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
-<a href="ferienkurs.jpg" class="popup"><img src="ferienkurs.jpg" style="max-width:100%" /></a>
-
+<img src="sommerkurs2015.jpg" style="max-width:100%" />
+<div class="small">Sommerkurs 2015, die meisten möchten weiter machen...</small></div>
+</p>
 <p>
 Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.</p>
@@ -112,18 +113,16 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 
 </div><!--/leftcol -->
 <div class="rightcol">
-<h3>Termine in den Sommerferien</h3>
-<p>Jeweils von 10 bis 12 Uhr:
+<h3>Termine in den Herbstferien</h3>
+<p>Jeweils von 14 bis 16 Uhr:
 
 <ul>
  <li><b>Kurs für Einsteiger</b>
-	<br>Montag 3.8. bis Freitag 7.8.<br>
-	<p class="small">Teilnbehmer: Simon, Daniel, Rebekka, Tim, Felix B., Samuel, Jeremias, Ben, Felix J., Elena</p>
+	<br>Montag 19.10. bis Freitag 23.10.<br>(1. Ferienwoche)<br><br>
 	
 	
-	<br>
- <li><b>Kurs für Fortgeschrittene</b>
-	<br>Montag 24.8. bis Freitag 28.8.
+ <li><b>Kurs für Fortgeschrittene</b><br>
+	Montag 26.10. bis Freitag 30.10.<br> ( 2. Ferienwoche)
 	
 	<br>
 </ul>

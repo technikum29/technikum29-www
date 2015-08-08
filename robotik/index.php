@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>2.8.2015
+	<br>8.8.2015
 </div>
 
 <div class="spacing"></div>
@@ -86,7 +86,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 </div><!--/leftcol -->
 <div class="rightcol">
 
-<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 (14) Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
+<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
 
 <h3>Inhalt</h3>
 <ul>
@@ -104,14 +104,14 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 
 <div class="leftcol">
 <h3>Vorraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch für 14-jährige Schüler.
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 
-
 </div><!--/leftcol -->
+
 <div class="rightcol">
 <h3>Termine in den Herbstferien</h3>
 <p>Jeweils von 14 bis 16 Uhr:
@@ -127,7 +127,6 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 	<br>
 </ul>
 
-
 <h3>Anmeldung</h3>  
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
@@ -135,5 +134,14 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
+<div class="clear cols">
+
+		<div class="box bordered nomargin-bottom">
+	<p class="bildtext"><big><big>Geburtstags-Event für 11- bis 13-Jährige</big></big> <br><br>
+	Das technikum29 bietet für Kinder und Jugendliche im Alter von 11 bis 13 Jahren einen Geburtstags-Event der besonderen Art an: <br>
+	Zunächst erfolgt eine kurze, altersgemäße Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
+	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
+	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 2,5 Stunden.</p>
+</div>
 
 

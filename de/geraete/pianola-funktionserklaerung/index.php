@@ -38,7 +38,7 @@ Bei diesem Instrument wird der Unterdruck durch eine elektrische Saugluftturbine
    <img src="zoomgrafiken/rolle.png" alt="Rolle schematisch">
    <p>Die ablaufende Rolle und die Abtastung rein schematisch</p>
 </div>-->
-<p>Die Notenrolle ist eine meterlange Papierrolle, auf der viele Löcher in Reihen angeordnet sind. Einzelne Löcher bzw. Lochketten stehen für einen Ton.<br>
+<p><br>Die Notenrolle ist eine meterlange Papierrolle, auf der viele Löcher in Reihen angeordnet sind. Einzelne Löcher bzw. Lochketten stehen für einen Ton.<br>
 Ein flacher Notengleitblock mit 88 Öffnungen in einer Reihe (für 88 mögliche Töne) tastet beim Vorbeilaufen der Notenrolle ab, ob der entsprechende Ton gespielt werden soll oder nicht (siehe Schema links). Zusätzlich befinden sich noch weitere Öffnungen in diesem Block, welche dem Pedal, dem Anschlag (weich oder hart) und schließlich dem mittigen Lauf der Rolle zugeordnet sind.
 </p>
 <div class="desc-right auto-bildbreite borderless no-copyright" title="Zum Vergrößern klicken">

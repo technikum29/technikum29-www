@@ -61,7 +61,7 @@ in der Onlinezeitschrift <i>techrepublic</i> unter: "The world's greatest restor
 <li><a href="/robotik">
 <h3>...seit August 2014</h3>
 <img src="/robotik/roboter.jpg" width="153" height="122" />
-Robotik-Ferienkurse für Kids zwischen 11 und 14 Jahren im technikum29.<br>
+Robotik-Ferienkurse für Kids zwischen 11 und 13 Jahren im technikum29.<br>
 Die spaßig intelligente Ferienalternative.
 </a> 
 

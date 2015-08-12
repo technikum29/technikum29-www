@@ -104,13 +104,13 @@
 	<hr class="h3-like">
 	
 	
-	<div class="box termin clear-after">	
+<!--	<div class="box termin clear-after">	
 	<div class="left">
 			<p class="date"><em>2015</em> 11. Aug.</p>	</div>
 	<h4>Computer-History</h4>
 	Termin: Dienstag, der <b>11. August</b> um 18:00 Uhr <br>
-	Gruppe Weidmann
-	</div> 	
+	
+	</div> 	-->
 
 
 <div class="box termin clear-after">

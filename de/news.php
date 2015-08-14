@@ -19,11 +19,16 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
+	<h3>August 2015</h3>
+    <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
+	LGP-30, ein Röhrenrechner (ca. 1955) wird demnächst in unser Museum transportiert. Wir werden im September /Oktober darüber berichten</a>
+</li>
+
 <li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
 	<h3>Juni 2015</h3>
     <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
-	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer) und große Vorräte an Lochkarten .... wir berichten demnächst hierüber
-	</a>
+	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer) und große Vorräte an Lochkarten </a>
 </li>
 
 
@@ -33,7 +38,6 @@
 	IBM´s letztes Stanzermodell der Lochkartenära: IBM 129<br>
 	mit voll elektronischer Steuerung (1971)
 </a></li>
-
 
 
 <li><a href="/de/rechnertechnik/ibm1130.php#1130">
@@ -47,14 +51,6 @@
 	<h3 lang="de">Dezember 2014</h3>
     <img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="153" height="115" />
 	Riesiges Kernspeichermodell aus der Hochschule
-</a></li>
-
-<li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/8/" target="_blank">
-
-<h3>November 2014</h3>
-<img src="http://pixelprosemedia.com/wp-content/uploads/2013/02/techrepublic.png" width="150">
-Das technikum29 hat sich für den <i>Tony Sales Award</i> beworben und wird
-in der Onlinezeitschrift <i>techrepublic</i> unter: "The world's greatest restoration projects" aufgeführt.
 </a></li>
 
 

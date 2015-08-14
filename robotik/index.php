@@ -24,12 +24,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 </div>
 
 
-<div class="bild-block">
-	<a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">
-		<img src="hk.jpg" alt="Frankfurter Neue Presse" />
-	</a>
-	<p class="bildtext">Schüler beim Entwickeln eines neuen Programms</p>
-</div>
+
 
 <div class="text-block">
 	<b>Zeitungsecho</b>

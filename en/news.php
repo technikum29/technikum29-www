@@ -19,12 +19,19 @@
 
 	   <ul class="news-feed news-ng">
 	
+	<li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
+	<h3>August 2015</h3>
+    <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
+	LGP-30, a tube computer (around 1955) will soon be transported to the museum. We will report about in September/October</a>
+</li>
+	
+	
+	
 <li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
 	<h3>June 2015</h3>
     <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
 	<br><br>
-	A unusual offer: A complete cardroom (8 keypunch) and large stocks of punch cards .... we will report about soon 
-	</a>
+	A unusual offer: A complete cardroom (8 keypunch) and large stocks of punch cards</a>
 </li>
 	
 	 <li><a href="/en/computer/punchcard.php#129">
@@ -48,12 +55,7 @@ The mainframe IBM 1130 is now working perfect. This page has been greatly expand
 	Huge core memory model of the university
 </a></li>
 
-	   <li><a href="http://www.techrepublic.com/pictures/bringing-the-first-computers-back-to-life-contenders-for-a-computer-conservation-award/8/" target="_blank">  
-<h3>November 2014</h3>
-<img src="http://pixelprosemedia.com/wp-content/uploads/2013/02/techrepublic.png" width="150">
-The technikum29 has applied to the <i> Tony Sales Award </i> and is
-described in the online-journal <i> techrepublic </i> "The world's greatest restoration projects"  
-</a></li>
+	  
 	   
 	
 			

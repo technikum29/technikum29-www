@@ -119,7 +119,7 @@
 <p class="date"><em>2015</em>Okt.</p>	</div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
 	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
-	Termine: <b>Oktober</b>
+	Termine: <b>Oktober</b> (Herbstferien)
 	
 </div></div>
 

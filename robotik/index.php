@@ -131,7 +131,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 </div><!-- /cols -->
 <div class="clear cols">
 
-		<div class="box bordered nomargin-bottom">
+		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für 11- bis 13-Jährige</big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche im Alter von 11 bis 13 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine kurze, altersgemäße Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>

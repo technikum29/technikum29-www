@@ -22,7 +22,7 @@
 	<li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
 	<h3>August 2015</h3>
     <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
-	LGP-30, a tube computer (around 1955) will soon be transported to the museum. We will report about in September/October</a>
+	LGP-30, a tube computer (around 1956) will soon be transported to the museum. We will report about in September/October</a>
 </li>
 	
 	

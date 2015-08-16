@@ -46,7 +46,7 @@
       <div class="rightcol">
 	  <div class="foto">
                 <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
-                <p>Das Museumsgeb&auml;ude</p>
+                <p>Das Museumsgebäude</p>
         </div>
 	  
 	  <div class="erwartung">
@@ -54,8 +54,7 @@
             <ul>
                 <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst vorwiegend funktionsfähige, großformatige Technik.<br>
 				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzel-besuche nur in Ausnahmefällen möglich.
-				
-				
+								
 				</li>
             </ul>
 	  </div>
@@ -115,13 +114,23 @@
 
 <div class="box termin clear-after">
 		<div class="left">
-
 <p class="date"><em>2015</em>Okt.</p>	</div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
 	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
-	Termine: <b>Oktober</b> (Herbstferien)
+	Termine: <b>Oktober</b> (Herbstferien)</p>
 	
-</div></div>
+	<div class="left">
+<p class="date"><em>2015</em></p>	</div>
+	<h4>Geburtstags-Event für Kids von 11-13 Jahren.<br>
+	
+	</h4> Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.<br>
+<!--	<a href="/robotik/php#geburtstag">Die intelligente Geburtstagsalternative!</a> -->
+	
+	</div>
+	
+</div>
+	
+
 
 <br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

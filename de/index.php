@@ -120,11 +120,10 @@
 	Termine: <b>Oktober</b> (Herbstferien)</p>
 	
 	<div class="left">
-<p class="date"><em>2015</em></p>	</div>
+<p class="date"><em>2015</em>Sept.-<br>Dez.</p>	</div>
 	<h4>Geburtstags-Event für Kids von 11-13 Jahren.<br>
 	
-	</h4> Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.<br>
-<!--	<a href="/robotik/php#geburtstag">Die intelligente Geburtstagsalternative!</a> -->
+	</h4> Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 	
 	</div>
 	

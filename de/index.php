@@ -103,31 +103,31 @@
 	<hr class="h3-like">
 	
 	
-<!--	<div class="box termin clear-after">	
+<div class="box termin clear-after">		
 	<div class="left">
-			<p class="date"><em>2015</em> 11. Aug.</p>	</div>
-	<h4>Computer-History</h4>
-	Termin: Dienstag, der <b>11. August</b> um 18:00 Uhr <br>
-	
-	</div> 	-->
-
+	<p class="date"><em>2015</em> 16. Okt.</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Freitag, der <b>16. Oktober</b> um 14:45 Uhr <br>
+	Gruppe "Steinbach"
+	</div> 	
 
 <div class="box termin clear-after">
-		<div class="left">
-<p class="date"><em>2015</em>Okt.</p>	</div>
-	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.
-	<br></h4> Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
-	Termine: <b>Oktober</b> (Herbstferien)</p>
-	
 	<div class="left">
-<p class="date"><em>2015</em>Sept.-<br>Dez.</p>	</div>
-	<h4>Geburtstags-Event für Kids von 11-13 Jahren.<br>
+	<p class="date"><em>2015</em>Okt.</p></div>
+	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
+	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
+	Termine: <b>Oktober</b> (Herbstferien)
+	</div>
 	
-	</h4> Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
+<div class="box termin clear-after">
+	<div class="left">
+	<p class="date"><em>2015</em>Sept.-<br>Dez.</p></div>
+	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
+	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 	
 	</div>
 	
-</div>
+
 	
 
 

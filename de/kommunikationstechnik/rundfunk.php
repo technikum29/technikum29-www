@@ -33,7 +33,7 @@
 	<div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/saba1927.jpg" width="600" height="451" alt="Fotografie des 3-Kreisers von Saba" />
 		<p class="bildtext">
-		   Bei diesem <b>SABA</b> Empfänger (Bj. 1927) wurde der Deckel geöffnet und die Abschirmhauben entfernt. Man erkennt 3 Spulen und ebensoviele Drehkondensatoren. Es liegt damit ein sogenannter "Dreikreis-Empfänger" vor. Das Gehäuse ist mit Intarsien geschmückt (hier nicht sichtbar) und sogar innen mit Edelholz funiert.
+		   Bei diesem <b>SABA</b> Empfänger (Bj. 1927) wurde der Deckel geöffnet und die Abschirmhauben entfernt. Man erkennt 3 Spulen und ebensoviele Drehkondensatoren. Es liegt damit ein sogenannter "Dreikreis-Empfänger" vor. Das Gehäuse ist mit Intarsien geschmückt (hier nicht sichtbar) und sogar innen mit Edelholz furniert.
         </p>
 	</div>
 <p>	Viele Haushalte hatten in den 20er Jahren noch keinen Anschluss an das damals sogenannte "Lichtnetz". U.a. deshalb wurden die ersten Rundfunkgeräte als Batterieempfänger hergestellt. Da der Batterieverschleiß hoch war, musste man tief in die Tasche greifen, wenn man oft und laut Radio hörte.<br>

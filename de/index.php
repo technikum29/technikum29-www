@@ -107,8 +107,8 @@
 	<div class="left">
 	<p class="date"><em>2015</em> 16. Okt.</p></div>
 	<h4>Computer-History (Führung)</h4> 
-	Termin: Freitag, der <b>16. Oktober</b> um 14:45 Uhr <br>
-	Gruppe "Steinbach"
+	Termin: Freitag, der <b>16. Oktober</b> um 15:30 Uhr <br>
+	Gruppe "Steinbach", Einzelinteressenten können sich noch anmelden.
 	</div> 	
 
 <div class="box termin clear-after">

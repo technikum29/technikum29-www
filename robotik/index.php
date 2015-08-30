@@ -113,11 +113,11 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 
 <ul>
  <li><b>Kurs für Einsteiger</b>
-	<br>Montag 19.10. bis Freitag 23.10.<br>(1. Ferienwoche)<br><br>
+	<br>Montag 19.10. bis Dienstag 23.10.<br>(1. Ferienwoche)<br><br>
 	
 	
  <li><b>Kurs für Fortgeschrittene</b><br>
-	Montag 26.10. bis Freitag 30.10.<br> ( 2. Ferienwoche)
+	Montag 26.10. bis Samstag 31.10., außer Dienstag, 27.10.<br> ( 2. Ferienwoche)
 	
 	<br>
 </ul>

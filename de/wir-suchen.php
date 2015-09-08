@@ -15,13 +15,10 @@
 		
 	<h3>Geräte, Manuals und Bauteile</h3><br>
 	
-      <ul>
-	  <li>Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System)</li>
-	  <li>Für unsere PDP-12 suchen wir zwei möglichst alte <b>analoge Joysticks</b></li>     
-          <li>sehr alte xy-Schreiber und Plotter</li>        
-       <br>
-	   <li>sowie alles, was zu unseren Themen bzw. Exponaten passt</li>
-      </ul>
+    
+	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe IBM 1130<br><br>
+	 
+     
 <hr>
 	  <p>Wir erhalten demnächst einen LGP 30 Röhrenrechner Bj. 1956. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, siehe Bild unten. Der Durchmesser beträgt ca. 40mm.<br>
 	  Auch andere 40-polige Steckverbindungen würden uns weiter helfen.</p><br>

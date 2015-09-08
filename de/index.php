@@ -102,6 +102,13 @@
 
 	<hr class="h3-like">
 	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2015</em> 10. Okt.</p></div>
+	<h4>Geburtstags-Event</h4> 
+	Termin: Samstag, der <b>10. Oktober</b> um 15:00 Uhr <br>
+	Nick wird 13 Jahre alt. Computer-History + Workshop
+	</div> 	
 	
 <div class="box termin clear-after">		
 	<div class="left">
@@ -116,7 +123,7 @@
 	<p class="date"><em>2015</em>Okt.</p></div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
-	Termine: <b>Oktober</b> (Herbstferien)
+	Termine: <b>19. bis 31. Oktober</b> (Herbstferien)
 	</div>
 	
 <div class="box termin clear-after">

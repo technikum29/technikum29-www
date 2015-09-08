@@ -27,7 +27,7 @@ Der Parallelport besteht aus drei 8-bit-Hardwareregistern: Ein bidirektionales D
 
 <div class="desc-right">
         <img src="/shared/photos/rechnertechnik/facit4070.jpg" width="192" height="313" alt="Foto des Lochstreifenstanzers" />
-        <p class="bildtext" style="width:192px;">Der legendäre Lochstreifenstanzer <b>FACIT 4070</b></p>
+        <p class="bildtext" style="width:192px;">Der legendäre Lochstreifen-stanzer <b>FACIT 4070</b></p>
     </div>
 	
         <p>Wie oben erwähnt, stellt sich bei Lochstreifen nicht die Frage der Modellierung, da Oktetts als Bytes auf PC-Architekturen gerade die kleinste adressierbare Speichereinheit darstellen und somit als nativer Datentyp verarbeitet werden. Eine 250 Byte lange Binärdatei stellt somit genau einen 250 Zeichen langen Lochstreifen dar. Dadurch ist die computerinterne Verarbeitung von Lochstreifen durch Unix-Kommandozeilenwerkzeuge oder grafische Werkzeuge wie Hex-Editoren sehr leicht möglich. Zur Vereinfachung des Arbeitsflusses wurden zunächst einfache Werkzeuge in der Scriptsprache Perl geschrieben, mit denen etwa auch Beschriftungen von Lochstreifen vorgenommen werden konnten. Später entstand ein grafischer

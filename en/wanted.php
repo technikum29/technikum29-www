@@ -14,14 +14,10 @@
 	<h3>Devices and Manuals</h3>
 	
     <p>We are looking for:</p>
-    <ul>
-        <li>Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)</li>
-        <li>Very old plotter</li>
-        <li>Any kind of telegraph technology</li>
-       
-        <li>... and everything that is suitable for our collection</li>
-      </ul>
-<br><hr>
+   
+      Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
+        
+<br><br><hr>
 	  <p>We soon get an LGP 30 computer withe tubes build in 1956. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
 Other 40-pin connectors would help us further too.</p><br>
     

@@ -56,7 +56,7 @@
 				
 			</p>
 		    <p>
-			    Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für die Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
+			    Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für den Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
 		        Zentraleinheit mit 4 k Kernspeicher:  267.000,- DM  (ca. 133.000,- €), Drucker 105.000,- DM  (ca. 50.000,- €).
 			</p>
 		</div>

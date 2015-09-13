@@ -82,9 +82,9 @@ Hier Meinungen von Schülern der gymnasialen Oberstufe (anonym abgegeben), die m
 <div class="center">
     <img src="/shared/photos/rallye/physik-lk.jpg"  width="852" height="284" />
     <p style="width:800px;">
-     <i>   Schüler eines Physik-LK beim Experimentieren [Workshop]  </i>  </p>
+     <i>   Schüler eines Physik-LK (Main-Taunus-Schule, Hofheim) beim Experimentieren </i>  </p>
 </div>
-
+Siehe z.B. auch <a href="http://infos.musterschule.de/?p=394097"> Schüler der Musterschule im technikum29</a> 
 
 <br><br>
 <h2 id="experimente">Experimental-Workshop</h2>

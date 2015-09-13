@@ -106,8 +106,8 @@
 	<div class="left">
 	<p class="date"><em>2015</em> 10. Okt.</p></div>
 	<h4>Geburtstags-Event</h4> 
-	Termin: Samstag, der <b>10. Oktober</b> um 15:00 Uhr <br>
-	Nick wird 13 Jahre alt. Computer-History + Workshop
+	Termin: Samstag, der <b>10. Oktober</b> ab 15:00 Uhr <br>
+	Nick wird 13 Jahre alt. Computer-History + Experimental-Workshop
 	</div> 	
 	
 <div class="box termin clear-after">		

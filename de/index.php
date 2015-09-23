@@ -129,11 +129,20 @@
 
 <div class="box termin clear-after">
 	<div class="left">
-	<p class="date"><em>2015</em>Okt.</p></div>
+	<p class="date"><em>2015</em>19.-31.<br>Okt.</p></div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
 	Termine: <b>19. bis 31. Oktober</b> (Herbstferien)
 	</div>
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2015</em> 28. Nov.</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Samstag, der <b>28. November</b> um 14:00 Uhr <br>
+	Einzelinteressenten und Kleingruppen können sich noch anmelden.
+	</div> 	
+	
 	
 <div class="box termin clear-after">
 	<div class="left">

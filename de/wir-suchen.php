@@ -20,7 +20,7 @@
 	 
      
 <hr>
-	  <p>Wir erhalten demnächst einen LGP 30 Röhrenrechner Bj. 1956. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, siehe Bild unten. Der Durchmesser beträgt ca. 40mm.<br>
+	  <p>Wir sind nunmehr im Besitz eines LGP 30 Röhrenrechners Bj. 1956. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, siehe Bild unten. Der Durchmesser beträgt ca. 40mm.<br>
 	  Auch andere 40-polige Steckverbindungen würden uns weiter helfen.</p><br>
     
 <div class="center">

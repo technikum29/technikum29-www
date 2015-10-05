@@ -45,7 +45,8 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Robotik in der Schule:</strong>
-	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule, Kelkheim sowie Albert-Einstein-Schule, Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.</p>
+	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule, Kelkheim sowie Albert-Einstein-Schule, Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! Die nächsten Workshops beginnen am 24.9.2015 (EDS) bzw. 28.9.2015 (AES). Anmeldung an der jeweiligen Schule.<br>
+	Diese Kurse sind total ausgebucht. An der AES hatten wir alleine 41 Anmeldungen aus den 6. Klassen.</p>
 </div>
 
 

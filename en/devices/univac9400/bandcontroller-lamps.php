@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'univac-bandcontroller';
 	$version = '$Id';
-	$titel = 'Univac 9400 band and disc controller';
+	$titel = 'Univac 9400 tape and disc controller';
 	
 	require '../../../lib/technikum29.php';
 ?>

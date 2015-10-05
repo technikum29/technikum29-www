@@ -102,15 +102,6 @@
 
 	<hr class="h3-like">
 	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2015</em> 4. Okt.</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Sonntag, der <b>4. Oktober</b> um 17:00 Uhr <br>
-	Gruppe "Kammann", Einzelinteressenten können sich noch anmelden.
-	</div> 	
-	
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2015</em> 10. Okt.</p></div>

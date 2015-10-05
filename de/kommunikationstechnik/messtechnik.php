@@ -84,5 +84,5 @@
 	<h3>Die Welt des elektronischen Zählens</h3>
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/frequenzzaehler.jpg" alt="Foto der verschiedenen Frequenz- und Ereigniszähler" width="430" height="582" />
-        <p class="bildtext"><b>Zählen als Vorstufe des Rechnens</b><br>Zum Schluss zeigen wir noch eine Zusammenstellung von (Frequenz-) Zählern aus verschiedenen Epochen. Dabei befinden sich röhrenbestückte Geräte (mit 57 Elektronenröhren) und solche, die mit diskreten Transistoren (meist Germanium) aufgebaut sind. Sehr interessant sind die verschiedenen Zählröhren (z.B. E1T oder GC10B) und die sehr unterschiedliche Form der Anzeigetechniken. Doch das sollte man besser im technikum29 live in Funktion erleben.</p>
+        <p class="bildtext"><b>Zählen als Vorstufe des Rechnens</b><br><br>Zum Schluss zeigen wir noch eine Zusammenstellung von (Frequenz-) Zählern aus verschiedenen Epochen. Dabei befinden sich röhrenbestückte Geräte (mit 57 Elektronenröhren) und solche, die mit diskreten Transistoren (meist Germanium) aufgebaut sind. Sehr interessant sind die verschiedenen Zählröhren (z.B. E1T oder GC10B) und die sehr unterschiedliche Form der Anzeigetechniken. Doch das sollte man besser im technikum29 live in Funktion erleben.</p>
 	</div>

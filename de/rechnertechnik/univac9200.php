@@ -49,7 +49,7 @@
 Unterschied zu unserer ersten UNIVAC 9300: Der Stab-Drucker ist langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist voll ausgebaut (32 kB gegenüber 8 kB) und die Punch (Lochkartenstanzer) ist eine sogenannte Read-Punch. Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
 Die Reparatur und Inbetriebnahme erfolgt in Kürze.</p>
 
-<p class="small">Wir bedanken uns bei der Stadverwaltung Rheinfeld (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
+<p class="small">Wir bedanken uns bei der Stadtverwaltung Rheine (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
 		
 	<h3 id="blog">Reparatur-Blog (zur ersten UNIVAC 9200/9300)</h3>
 	

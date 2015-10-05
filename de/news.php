@@ -19,6 +19,14 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/univac9200.php#u9200">
+	<h3>Speptember 2015</h3>
+    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" />
+	Eine keline Sensation:<br>
+	Die zweite UNIVAC 9200 im technikum29!
+</a></li>
+
+
 <li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
 	<h3>August 2015</h3>
     <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />

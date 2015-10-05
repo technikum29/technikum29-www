@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2><b>UNIVAC 9200, UNIVAC 9300</b></h2>
+    <h2><b>UNIVAC 9300</b></h2>
 	
 	
 	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann. Unser Rechner ist eigentlich eine "9200".<br>
@@ -35,9 +35,23 @@
 		<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" alt="65.000 Lochkarten" width="700" height="174" />
 		<p class="bildtext">24 Boxen mit insgesamt mehr als 65.000 Lochkarten erweitern unser UNIVAC-Softwarearchiv</p></div>
-		<p>Ganz nebenbei: In jeder Lochkarte lassen sich bis zu 80 Zeichen abspeichern. Das wären ca. 80 Byte pro Karte. 65.000 Lochkarten könnten damit in etwa die Datenmenge von 5 MB speichern. Das entspricht dem Umfang eines durchschnittlichen Bildes einer Digitalkamera. Diese Daten hätten ein Netto-Gewicht von 160 kg wobei der Lochkartenschrank zur Aufbewahrung mehr als 0,5m³ also über 500 Liter Volumen umfasst!</p>
+		<p>Ganz nebenbei: In jeder Lochkarte lassen sich bis zu 80 Zeichen abspeichern. Das wären ca. 80 Byte pro Karte. 65.000 Lochkarten könnten damit in etwa die Datenmenge von 5 MB speichern. Das entspricht dem Umfang eines durchschnittlichen Bildes einer Digitalkamera. Diese Daten hätten ein Netto-Gewicht von 160 kg wobei der Lochkartenschrank zur Aufbewahrung mehr als 0,5m³ also über 500 Liter Volumen umfasst!</p><br>
 		
-	<h3 id="blog">Reparatur-Blog</h3>
+		
+<h2 id="u9200"><b>UNIVAC 9200</b> - die Zweite</h2>
+
+<div class="box center auto-bildbreite">
+		<img src="/shared/photos/rechnertechnik/u9200-1.jpg" alt="UNIVAC 9200 Anlage" width="850" height="404" />
+		<p class="bildtext">Die neue Univac 9200</p>
+	</div>
+
+<p>Es ist schon eine kleine Sensation: Seit 9-2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es sind pure Zufälle, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt hat. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden kann. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchschnitten. <br>
+Unterschied zu unserer ersten UNIVAC 9300: Der Stab-Drucker ist langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist voll ausgebaut (32 kB gegenüber 8 kB) und die Punch (Lochkartenstanzer) ist eine sogenannte Read-Punch. Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
+Die Reparatur und Inbetriebnahme erfolgt in Kürze.</p>
+
+<p class="small">Wir bedanken uns bei der Stadverwaltung Rheinfeld (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
+		
+	<h3 id="blog">Reparatur-Blog (zur ersten UNIVAC 9200/9300)</h3>
 	
 <p><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.
 <p><b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.

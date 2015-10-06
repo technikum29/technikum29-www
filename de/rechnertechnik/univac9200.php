@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2><b>UNIVAC 9300</b></h2>
+    <h2><b>UNIVAC 9300</b> - die Erste</h2>
 	
 	
 	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann. Unser Rechner ist eigentlich eine "9200".<br>
@@ -13,7 +13,7 @@
 	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Überraschungen erwartet.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
 	
 	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/univac9300.jpg" alt="UNIVAC 9300 Anlage" width="700" height="375" />
+		<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9300 Anlage" width="850" height="440" />
 		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit den Komponenten (von links nach rechts): 
 		Stabdrucker, Prozessor, Electronic-Cabinett (Netzteil u. Magnetdrahtspeicher), Lochkartenleser,
 		Lochkartenstanzer</p></div>
@@ -45,8 +45,8 @@
 		<p class="bildtext">Die neue Univac 9200</p>
 	</div>
 
-<p>Es ist schon eine kleine Sensation: Seit 9-2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es sind pure Zufälle, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt hat. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden kann. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchschnitten. <br>
-Unterschied zu unserer ersten UNIVAC 9300: Der Stab-Drucker ist langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist voll ausgebaut (32 kB gegenüber 8 kB) und die Punch (Lochkartenstanzer) ist eine sogenannte Read-Punch. Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
+<p>Es ist schon eine kleine Sensation: Seit 9-2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es ist ein purer Zufall, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden kann. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchgeschnitten. <br>
+Unterschied zu unserer ersten UNIVAC 9300: Der Stab-Drucker ist langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist voll ausgebaut (32 kB gegenüber 8 kB) und die Punch (Lochkartenstanzer) ist eine sogenannte "Read-Punch". Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
 Die Reparatur und Inbetriebnahme erfolgt in Kürze.</p>
 
 <p class="small">Wir bedanken uns bei der Stadtverwaltung Rheine (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>

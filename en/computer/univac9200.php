@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>UNIVAC 9200, UNIVAC 9300</h2>
+    <h2>UNIVAC 9300 - the first</h2>
 	
 	<p>The Univac 9200 (Univac 9300) is a punch card computing data center from 1966. It is
 	   uncommon that such old devices are completely preserved, even all the
@@ -26,7 +26,7 @@
 	   issue and will be checked in the near future.</p>
 
 		<div class="box center auto-bildbreite">
-			<img src="/shared/photos/rechnertechnik/univac9300.jpg" alt="UNIVAC 9300" width="700" height="375" />
+			<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9300" width="850" height="440" />
 			<p class="bildtext">
 				<b>UNIVAC 9300</b> electronic data processing system, with its components (left
 				to right): bar printer, cpu, "electronic cabinet" (power supply and plated wire
@@ -70,11 +70,40 @@ the "FITG" (Frankfurt) whon we would like to thank for their efforts.</p>
 per card. Thus 65000 cards correspond to about 5 MB which is roughly the same
 amount of data that a modern digital camera produces for a single picture.
 Stored on punch cards 5 MB weigh about 160 kg while the cabinet housing the
-cards has a volume of about 0.5 cubic meters (about 500 liters of volume).</p>
+cards has a volume of about 0.5 cubic meters (about 500 liters of volume).</p><br><br>
 
 
+<h2 id="u9200"><b>UNIVAC 9200</b> - the second</h2>
 
-	<h3 id="blog">Restoration Blog</h3>	
+<div class="box center auto-bildbreite">
+		<img src="/shared/photos/rechnertechnik/u9200-1.jpg" alt="UNIVAC 9200 mainframe" width="850" height="404" />
+		<p class="bildtext">The new Univac 9200</p>
+	</div>
+
+<p>It is nearly unbelievable: Since September 2015 we have a second UNIVAC 9200
+in the museum! It is sheer luck when such a precious old machine survives so
+many years (1967 to 2015) without any major damage at all. This particular
+machine was stored under near ideal conditions in the cellar of a
+municipality before it found its way to our museum where it will be restored
+to running condition again. Fortunately, the machine was professionally
+decommissioned so all necessary cables are still there and intact - this is
+true luck since often cables just get cut during decommissioning of large
+computers.<br>
+
+The machine is different in some respects to our other machine of the same
+type: The bar-printer is slower (we expect a higher quality of print outs due
+to that fact), the memory is fully expanded to 32 kB as compared to 8 kB of
+the other machine, and the punch unit is a rare "Read-Punch". This device is
+capable of reading pre-punched cards and punching results onto the very same
+cards.
+<br>
+The machine will be restored in the near future.</p>
+
+<p class="small">We would like to thank the municipality of Rheine and in particular Mr. M.
+Lange, who donated the machine to the museum.</small>
+
+
+	<h3 id="blog">Restoration Blog (the first UNIVAC)</h3>	
 	<p><b>17.01.2010:</b> There were some mice in the power supply and printer; they
 	   bit thorugh some small cables.
 	<p><b>16.02.2010:</b> After locating two defective resistors the power supply is

@@ -18,6 +18,15 @@
        posts are on top.</p><br><br>
 
 	   <ul class="news-feed news-ng">
+	   
+	<li><a href="/en/computer/univac9200.php#u9200">
+	<h3>September 2015</h3><br>
+    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>
+	A little sensation:<br>
+	The second UNIVAC 9200 in the technikum29!
+</a></li>
+	
+	
 	
 	<li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
 	<h3>August 2015</h3>

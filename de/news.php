@@ -21,7 +21,7 @@
 
 <li><a href="/de/rechnertechnik/univac9200.php#u9200">
 	<h3>September 2015</h3><br>
-    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" />
+    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>
 	Eine keline Sensation:<br>
 	Die zweite UNIVAC 9200 im technikum29!
 </a></li>
@@ -30,7 +30,7 @@
 <li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
 	<h3>August 2015</h3>
     <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
-	LGP-30, ein Röhrenrechner (ca. 1958) wird demnächst in unser Museum transportiert. Wir werden im Oktober darüber berichten</a>
+	LGP-30, ein Röhrenrechner (ca. 1958) wurde in unser Museum transportiert. Wir werden spätestens im November darüber berichten</a>
 </li>
 
 <li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">

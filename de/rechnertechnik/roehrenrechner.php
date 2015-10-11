@@ -7,3 +7,4 @@
 ?>
     <h2>Rechner mit Elektronenröhren</h2>
     
+    <p><em>Diese Seite entsteht in Kürze.</em></p>

@@ -85,7 +85,7 @@
 					<li><a seiten_id="punchcard-sorter" href="/de/geraete/lochkartensortierer-funktion.php">Die Funktion der Sortiermaschine</a></li>
 				</ul>
 			</li>
-			<li><a href="/de/rechnertechnik/roehrenrechner.php">Rechner mit Elektronenröhren</a>
+			<li><a href="/de/rechnertechnik/roehrenrechner.php" seiten_id="roehrenrechner">Rechner mit Elektronenröhren</a>
 				<ul class="u3">
 			<li><a seiten_id="gamma3" href="/de/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL GAMMA 3">BULL Gamma 3</a></li>
 			<li><a seiten_id="lgp30" href="/de/rechnertechnik/lgp30.php" title="Röhrenrechner der 1. Generation: LGP 30">LGP 30</a></li>

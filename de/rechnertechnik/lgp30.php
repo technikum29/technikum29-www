@@ -14,9 +14,9 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 
 <div class="center">
 		<img src="/shared/photos/rechnertechnik/lgp30-1.jpg" alt="LGP 30 Anlage" width="850" height="380" />
-		<div class="bildtext">	
-		<p><b>LGP 30 Röhrenrechner vor der Restauration</b></p> 
-		</div></div>
+		<p class="center">	
+		<b>LGP 30 Röhrenrechner vor der Restauration</b>
+		</p></div>
 		
 <p>Bei unserem Rechner fehlen die Verbindungskabel zu den Lochstreifengeräten und zum Flexowriter. Daher suchen wir Steckverbindungen, siehe. Ansonsten ist der Zustand altersgemäß. Die Bleche müssen neu lackiert und die Mechanik wieder gangbar gemacht werden. Erst danach wird sich zeigen welche Fehler die Elektronik aufweist. Eine echte Herausforderung.</p>
 
@@ -35,10 +35,11 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 			<p><b>Rückansicht, ohne Verkleidung</b></p> <a class="popup" href="/shared/photos/rechnertechnik/lgp30-3.jpg"> Bild vergrößern</a> 
 		</div></div>	
 
-<p class="small">Hier ein paar Daten zu unserem LGP-30. Der Verbleib bis 1962 ist nicht geklärt. Von 1962 bis 1980 wurde er im Landesvermessungsamt wie folgt eingesetzt.	<br>
-1.  Kataster: Zur Koordinatenberechnung und Herstellung von Steuerlochstreifen für die automatische Kartierung (ZUSE Graphomat Z64), Umrechnung alter Polygonierungen durch Polygonzugberechnungen, Affin- oder Helmert-Transformationen.<br>
-2.  Landesvermessung: Ausgleich trigonometrischer Netze, Auswertung von Aerotriangulationen.</small>	
-
+<p class="clear">Hier ein paar Daten zu unserem LGP-30. Der Verbleib bis 1962 ist nicht geklärt. Von 1962 bis 1980 wurde er im Landesvermessungsamt wie folgt eingesetzt:
+<ol>
+<li> Kataster: Zur Koordinatenberechnung und Herstellung von Steuerlochstreifen für die automatische Kartierung (ZUSE Graphomat Z64), Umrechnung alter Polygonierungen durch Polygonzugberechnungen, Affin- oder Helmert-Transformationen.<br>
+<li> Landesvermessung: Ausgleich trigonometrischer Netze, Auswertung von Aerotriangulationen.
+</ol>
 
 
 

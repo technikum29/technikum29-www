@@ -40,7 +40,7 @@
 <li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
 	<h3>August 2015</h3>
     <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
-	LGP-30, ein Röhrenrechner (ca. 1958) wurde in unser Museum transportiert. Wir werden spätestens im November darüber berichten</a>
+	LGP-30, ein Röhrenrechner (ca. 1958) auf dem Transport zum technikum29. Wir werden im Oktober darüber berichten</a>
 </li>
 
 <li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">

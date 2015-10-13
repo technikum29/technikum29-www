@@ -19,6 +19,16 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/lgp30.php#lgp30">
+	<h3>Oktober 2015</h3><br>
+    <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>
+	Die LGP-30-Anlage ist jetzt im Museum
+	
+</a></li>
+
+
+
+
 <li><a href="/de/rechnertechnik/univac9200.php#u9200">
 	<h3>September 2015</h3><br>
     <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>

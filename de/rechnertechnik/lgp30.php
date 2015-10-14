@@ -50,6 +50,6 @@ Das Gewicht des LGP30 beträgt stolze 350 kg (ohne Peripherie).
 <li> Landesvermessung: Ausgleich trigonometrischer Netze, Auswertung von Aerotriangulationen.
 </ol>
 
-Es wurden durchaus anspruchsvolle Berechnungen die mit dem kleinen Rechner ausgeführt, auch wenn z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
+Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, auch wenn z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
 Der Versuch der Instandsetzung des LGP-30 erfolgt in den nächsten Monaten. Wir berichten dann weiter.
 

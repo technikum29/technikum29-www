@@ -38,7 +38,7 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 
 <p class="clear">Bei so einem historischen Rechner sind die technischen Daten durchaus interessant:<br>
 Der Trommelspeicher hat eine Rotationsgeschwindigkeit von 3600 U/Min., der Spurabstand der feststehenden Köpfe beträgt 2mm, die Spurbreite 1mm und der Kopfabstand zur Trommel 25 µm. Die Speicherkapazität ist mit 4.096 Worten (Wortlänge 32 Bit!) für damalige Zeiten recht groß.<br>
-Mit einer Taktfrequenz von 120 kHz beträgt die typische Zugriffszeit für eine Addition (Subtraktion): 0,23 ms, für eine Multiplikation bzw. Division 15 ms.<br>
+Mit einer Taktfrequenz von 120 kHz beträgt die Zugriffszeit mindestens 2ms, höchstens 15ms. Eine Addition dauert 0,23 ms, eine Multiplikation 15 ms (jeweils ohne Zugriffszeit).<br>
 Die Elektronik besteht aus 113 Langlebensdauer-Röhren und 1450 Germaniumdioden in 34 Modulen (12 verschiedene Einschübe).<br>
 Peripherie:<br>
 Der Lochstreifenleser liest 200 Zeichen/Sek. der Lochstreifenstanzer kann 50 Zeichen/Sek. stanzen und der Flexowriter schafft 10 Zeichen/Sek.<br>
@@ -50,6 +50,6 @@ Das Gewicht des LGP30 beträgt stolze 350 kg (ohne Peripherie).
 <li> Landesvermessung: Ausgleich trigonometrischer Netze, Auswertung von Aerotriangulationen.
 </ol>
 
-Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, auch wenn z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
+Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, wobei z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
 Der Versuch der Instandsetzung des LGP-30 erfolgt in den nächsten Monaten. Wir berichten dann weiter.
 

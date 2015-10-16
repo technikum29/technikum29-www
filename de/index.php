@@ -124,7 +124,7 @@
 	<p class="date"><em>2015</em> 7. Nov.</p></div>
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Samstag, der <b>7. November</b> um 10:00 Uhr <br>
-	UNIVAC-Gruppe
+	UNISYS-Gruppe
 	</div>
 	
 	<div class="box termin clear-after">		

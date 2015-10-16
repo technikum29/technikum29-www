@@ -22,18 +22,26 @@
     <p>Dieser Rechner ist aus vieler Hinsicht historisch hochinteressant: 1.  Der Hardware-Aufwand ist extrem gering. 2. Im Wesentlichen arbeitet der Rechner mit einem BUS-System. 3. Er hat eine Festplatte, die alle Register und Taktspuren enthält. Wie auf obigem Bild zu erkennen ist, haben wir zwei komplette Anlagen, was die Reparatur bei Defekten erheblich erleichtert.<br>
 	Aus dem Original-Prospekt von 1964: <q>"Der <b>LGP-21</b> wird von der Firma Schoppe & Faeser GmbH im Lizenzbau für Europa hergestellt und von der <b>EUROCOMP</b> GmbH vertrieben."</q>
 	<p>Entwickelt wurde der LGP-21 von Librascope Division -GPI- (USA), die damals zu den größten Rechenmaschinenherstellern der Welt gehörte. In den USA wurde der Rechner ab 1962 von "General Precision" verkauft.
-	Es handelt sich um einen ausgesprochen kleinen Computer, der aber dennoch als <b>"Der erste vollständige programmgesteuerte Digitalrechner unter 60.000,- DM für die Grundausstattung"</b> angeboten wurde. Das war natürlich nur der Preis für die nackte CPU und einem "Flexowriter". Dieser Rechner war der Nachfolger des <a class="go" href="/de/rechnertechnik/lgp30.php#lgp30"> LGP-30 (1. Computergeneration, ab 1956)</a>, der ebenfalls von Schoppe & Faeser unter Lizenz hergestellt wurde. Der LGP21-Rechner ist sehr selten. Nur ca. 100 Stück wurden davon gebaut. Eine absolute Rarität ist das Magnetband-Laufwerk von dem etwa fünf Stück hergestellt wurden. Unser Gerät hat die Seriennummer 4.</p>
-	
-	<div class="box left clear-after">
+	Es handelt sich um einen ausgesprochen kleinen Computer, der aber dennoch als <b>"Der erste vollständige programmgesteuerte Digitalrechner unter 60.000,- DM für die Grundausstattung"</b> angeboten wurde. Das war natürlich nur der Preis für die nackte CPU und einem "Flexowriter". Dieser Rechner war der Nachfolger des <a class="go" href="/de/rechnertechnik/lgp30.php#lgp30"> <b>LGP-30</b> (1. Computergeneration, ab 1956)</a>, der ebenfalls von Schoppe & Faeser unter Lizenz hergestellt wurde.</p>
+<div class="box left">
 		<img src="/shared/photos/rechnertechnik/tally-lochstreifenleser.jpg" width="603" height="241" alt="Tally Lochstreifenleser" />
-		<p class="bildtext small">Externe Speicher des LGP-21 sind Lochstreifen, welche durch die Tally-Lochstreifenleser noch mechanisch abtastet werden. Das Bandlaufwerk und weitere externe Platten mit je ca. 8000 32-Bit-Worte Kapazität kamen erst Ende der 60er Jahre hinzu.</p>
+		<p class="bildtext">Externe Speicher des LGP-21 sind Lochstreifen, welche durch die Tally-Lochstreifenleser noch mechanisch abtastet werden. Das Bandlaufwerk und weitere externe Platten mit je ca. 8000 32-Bit-Worte Kapazität kamen erst Ende der 60er Jahre hinzu.</p>
+	</div>
+
+	<p>Der LGP21-Rechner ist sehr selten. Nur ca. 100 Stück wurden davon gebaut. Eine absolute Rarität ist das Magnetband-Laufwerk von dem etwa fünf Stück hergestellt wurden. Unser Gerät hat die Seriennummer 4.</p>
+	
+	
+	
+<div class="box left">
+<a  class="popup" href="/shared/photos/rechnertechnik/lgp21-platte.jpg">Festplatten-Laufwerk des LGP-21
+		<img src="/shared/photos/rechnertechnik/lgp21-platte.jpg" width="300" height="270" alt="LGP-21 Festplatte" /></a>
 	</div>
 	
-
-	<p>Als Speichermedium und zugleich Taktgeber (95 kHz!) wird eine rotierende Festplatte mit unbeweglichen Köpfen verwendet. Sie dreht sich mit 1475 U/min und kann 4096 Worte mit je 32 Bit speichern. Das entspricht ca. 12 KB und war zu dieser Zeit eine beachtliche Kapazität. Die Platte wird in 64 Spuren sowie 4 Taktspuren und 3 Umlaufspeicher (Akkumulator, Befehlsregister und Zählregister) aufgeteilt. Die mittlere Schreibdichte beträgt ca. 10 Bit je mm während sie heute ca. 200 mal größer ist. Hier können Sie das <br><a  class="popup" href="/shared/photos/rechnertechnik/lgp21-platte.jpg"><b>Festplatten-Laufwerk des LGP-21</b></a><br> betrachten. 
-	Der LGP-21 verfügt über 23 verschiedene Befehle. Das reicht aus, um die üblichen wissenschaftlichen Aufgaben programmieren zu können.  <br>
-	Die Reparatur des Rechners gestaltet sich als große Herausforderung. Da wir jedoch die Grundausstattung doppelt haben, ist die Chance für eine erfolgreiche Reparatur groß.<br>
-	Weitere Informationen zu diesem interessanten Rechner folgen später.</p>
+	<p>Als internes Speichermedium und zugleich Taktgeber (95 kHz!) wird eine rotierende Festplatte mit unbeweglichen Köpfen verwendet. Sie dreht sich mit 1475 U/min und kann 4096 Worte mit je 32 Bit speichern. Das entspricht ca. 12 KB und war zu dieser Zeit eine beachtliche Kapazität. Die Platte wird in 64 Spuren sowie 4 Taktspuren und 3 Umlaufspeicher (Akkumulator, Befehlsregister und Zählregister) aufgeteilt. Die mittlere Schreibdichte beträgt ca. 10 Bit je mm während sie heute ca. 200 mal größer ist</p>
+	
+	 
+	<p>Der LGP-21 verfügt über 23 verschiedene Befehle. Das reicht aus, um die üblichen wissenschaftlichen Aufgaben programmieren zu können.  <br>
+	Die Reparatur des Rechners gestaltet sich als große Herausforderung. Da wir jedoch die Grundausstattung doppelt haben, ist die Chance für eine erfolgreiche Reparatur groß.	Weitere Informationen zu diesem interessanten Rechner folgen später.</p>
 
 	
 	<h3>Minicomputer</h3>

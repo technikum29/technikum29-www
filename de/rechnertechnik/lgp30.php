@@ -9,8 +9,8 @@
 <h2 id="lgp30">LGP 30 von Schoppe & Faeser</h2>
 
 <p>Ein interessanter Neuzugang im Oktober 2015:<br><br>
-Die Datenverarbeitungsanlage LGP-30 der 1. Generation wurde in den USA Mitte der fünfziger Jahre von den Firmen <b>L</b>IPRASCOP und <b>G</b>erneral-<b>P</b>recision entwickelt. Etwa 40 Stück dieser Anlagen wurden ab 1958 in Minden von der Firma Schoppe & Faeser in Lizenz gebaut. Der LGP war als wissenschaftlicher Rechner konzipiert. Im Jahre 1962 wurde er schließlich vom <a class="go" href="/de/rechnertechnik/fruehe-computer.php#lgp21"> LGP-21</a> abgelöst.<br>
-Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein Schnell-Leser bzw. -Stanzer verarbeitet. Als "Drucker" (besser Ein-/Ausgabegerät) dient der "Flexowriter" von FRIDEN, im Prinzip eine elektrische Schreibmaschine mit Lochstreifenzusatz.</p><br>
+Die Datenverarbeitungsanlage LGP-30 der 1. Generation wurde in den USA Mitte der fünfziger Jahre von den Firmen <b>L</b>IPRASCOP und <b>G</b>erneral-<b>P</b>recision entwickelt. Etwa 40 Stück dieser Anlagen wurden ab 1958 in Minden von der Firma Schoppe & Faeser in Lizenz gebaut. Der LGP war als wissenschaftlicher Rechner konzipiert. Im Jahre 1962 wurde er schließlich vom <a class="go" href="/de/rechnertechnik/fruehe-computer.php#lgp21"> <b>LGP-21</b></a> abgelöst.<br>
+Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein Schnell-Leser bzw. -Stanzer verarbeitet. Als Ein-/Ausgabegerät dient der "Flexowriter" von FRIDEN, im Prinzip eine elektrische Schreibmaschine mit Lochstreifenzusatz.</p><br>
 
 <div class="center">
 		<img src="/shared/photos/rechnertechnik/lgp30-1.jpg" alt="LGP 30 Anlage" width="850" height="380" />

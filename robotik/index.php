@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>25.9.2015
+	<br>17.10.2015
 </div>
 
 <div class="spacing"></div>
@@ -114,19 +114,19 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 
 <ul>
  <li><b>Kurs für Einsteiger</b>
-	<br>Montag 19.10. bis Freitag 23.10.<br>(1. Ferienwoche)<br><br>
-	
+	<br>Montag 19.10. bis Freitag 23.10.<br>(1. Ferienwoche)<br>
+	<p class="small">Teilnehmer: Simon, Moritz, Alex, Alexander, Sebastian F., Max, Milad, Jan, Sebastian K., Marwin</p><br>
 	
  <li><b>Kurs für Fortgeschrittene</b><br>
-	Montag 26.10. bis Samstag 31.10., außer Dienstag, 27.10.<br> ( 2. Ferienwoche)
-	
-	<br>
+	Montag 26.10. bis Samstag 31.10., außer Dienstag, 27.10.<br> ( 2. Ferienwoche)<br>
+	<p class="small">Teilnehmer: Felix, Ben, David, Daniel, Rebekka, Benjamin, Max, Linus, Yannik, Jona</p>
 </ul>
 
+<!-- 
 <h3>Anmeldung</h3>  
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p>
+</p> -->
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

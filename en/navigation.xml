@@ -66,9 +66,17 @@
 					<li><a seiten_id="punchcard-sorter" href="/en/devices/punchcard-sorter.php">The function of the punch card sorter</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/computer/gamma3.php">Mainframes</a>
+			
+			<li><a href="/en/computer/gamma3.php">Computer with vacuum tubes</a>
 				<ul class="u3">
-					<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
+				<li><a seiten_id="gamma3" href="/en/computer/gamma3.php">BULL GAMMA 3</a></li>
+				<li><a seiten_id="lgp30" href="/en/computer/lgp30.php">LGP-30</a></li>
+				</ul>
+				</li>
+				
+			<li><a href="/en/computer/gamma10.php">Mainframes</a>
+				<ul class="u3">
+					
 					<li><a seiten_id="gamma10" href="/en/computer/gamma10.php">BULL GAMMA 10</a></li>
 					<li><a seiten_id="gamma55" href="/en/computer/gamma55.php">BULL GAMMA 55 (GE-55)</a></li>
 					<li><a seiten_id="ibm1130" href="/en/computer/ibm1130.php">IBM 1130</a>

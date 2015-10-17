@@ -18,7 +18,7 @@
       Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
         
 <br><br><hr>
-	  <p>We have got an LGP 30 computer withe tubes build in 1958/61. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
+	  <p id="connector">We have got an LGP 30 computer withe tubes build in 1958/61. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
 	 </p><br>
     
 <div class="left">

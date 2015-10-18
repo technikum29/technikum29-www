@@ -35,7 +35,7 @@ Starting in 1962 the LGP-21 was marketed in the USA by General Precision. The
 machine is a very small computer but was advertised as "The first complete
 program controlled digital computer for only $16,250 in the minimum
 configuration." This configuration consisted of the CPU and a Flexowriter only.
-This machine was the successor of the LGP-30 (1st generation, 1956, also build
+This machine was the successor of the <a class="go" href="/en/computer/lgp30.php"><b>LGP-30</b></a> (1st generation, 1956, also build
 by Schoppe & Faeser in Germany as a licensed product). The LGP-21 is very rare
 - only about 100 machines were built in Germany. Even rarer is the magnetic
 tape unit of which only 5 known units were built. The machine in the museum has

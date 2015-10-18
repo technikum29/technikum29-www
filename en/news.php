@@ -18,7 +18,15 @@
        posts are on top.</p><br><br>
 
 	   <ul class="news-feed news-ng">
-	   
+	
+<li><a href="/en/computer/lgp30.php">
+	<h3>October 2015</h3><br>
+    <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>
+	The LGP-30 computer is now in the museum
+	
+</a></li>
+
+	
 	<li><a href="/en/computer/univac9200.php#u9200">
 	<h3>September 2015</h3><br>
     <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>

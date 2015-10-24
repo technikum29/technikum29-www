@@ -51,27 +51,29 @@ capacity of about 8000 words each were added in the late 1960s.<br>
 
 A rotating disk serves as the machine's main memory and clock generator. It
 rotates with 1475 RPM and holds 4096 words of 32 bits each which equals 12 kB,
-a reasonable size back then. The disk contains 64 data tracks, four timing
-tracks and tracks for three registers (accumulator, instruction register and
-counter register). The mean write density is about 10 Bit/mm (about 1/200th of
-today's disk drives).<br> Here you can see a picture of the 
-<a  class="popup" href="/shared/photos/rechnertechnik/lgp21-platte.jpg"><b>LGP-21 disk drive</b></a><br>
+a reasonable size back then. 
 
+<div class="box left">
+<a  class="popup" href="/shared/photos/rechnertechnik/lgp21-platte.jpg">LGP-21 disk drive
+		<img src="/shared/photos/rechnertechnik/lgp21-platte.jpg" width="300" height="270" alt="LGP-21 disk drive" /></a>
+	</div>
+<br>
+The disk contains 64 data tracks, four timing tracks and tracks for three registers (accumulator, instruction register and
+counter register). 
+The mean write density is about 10 Bit/mm (about 1/200th of
+today's disk drives).<br>
 The LGP-21 supports 23 different instructions - enough to program typical
 scientific applications.<br>
 
 Repairing the machine turned out to be quite a challenge. Having two machines
 of this type helps a lot.
 
-More information about this interesting and rare system will follow.</p>
+More information about this interesting and rare system will follow.</p>		
 
-
-		
-</p>
 
 	
 	<h3>Mini-Computers</h3>
-	
+
     <p>Today's kids think of the latest mobile devices when talking about "mini computers".
 	   In contrast, in the 1960s and the early 70s, a computer was always huge (like our
 	   <a href="univac9400.php">UNIVAC mainframe</a>), thus a 300kg computer was "mini".
@@ -181,6 +183,7 @@ More information about this interesting and rare system will follow.</p>
 
 		 
 	<h3 id="pdp8L">PDP-8L</h3>
+	<br>
 	<div class="box desc-left borderless">
 		<img src="/shared/photos/rechnertechnik/dec/pdp-8L.jpg" width="400" height="360" alt="DEC PDP-8L" />
 		<p class="small">PDP-8L (build in 1968) with HSR Paper Tape Reader</p>

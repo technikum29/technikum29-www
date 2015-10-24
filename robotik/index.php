@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>17.10.2015
+	<br>24.10.2015
 </div>
 
 <div class="spacing"></div>
@@ -100,7 +100,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 
 <div class="leftcol">
 <h3>Vorraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
@@ -113,9 +113,6 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 <p>Jeweils von 14 bis 16 Uhr:
 
 <ul>
- <li><b>Kurs für Einsteiger</b>
-	<br>Montag 19.10. bis Freitag 23.10.<br>(1. Ferienwoche)<br>
-	<p class="small">Teilnehmer: Simon, Moritz, Alex, Alexander, Sebastian F., Max, Milad, Jan, Sebastian K., Marwin</p><br>
 	
  <li><b>Kurs für Fortgeschrittene</b><br>
 	Montag 26.10. bis Samstag 31.10., außer Dienstag, 27.10.<br> ( 2. Ferienwoche)<br>

@@ -19,7 +19,7 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 		</p></div>
 	
 <p>Bei unserem Rechner fehlen die Verbindungskabel zu den Lochstreifengeräten und zum Flexowriter. Daher suchen wir spezielle Stecker, siehe
-<a class="go" href="/de/wir-suchen.php#stecker" target="_blank"> "gesuchte Steckverbindungen"</a>. Ansonsten ist der Zustand altersgemäß. Die Bleche müssen neu lackiert und die Mechanik wieder gangbar gemacht werden. Erst danach wird sich zeigen welche Fehler die Elektronik aufweist.....eine echte Herausforderung.</p>
+<a class="go" href="/de/wir-suchen.php#stecker" target="_blank"> "gesuchte Steckverbindungen"</a>. Ansonsten ist der Zustand altersgemäß o.k.. Die Bleche müssen neu lackiert und die Mechanik wieder gangbar gemacht werden. Erst danach wird sich zeigen welche Fehler die Elektronik aufweist.....eine echte Herausforderung.</p>
 
 		
 	<div style="width: 350px;" class="desc-left borderless no-copyright">
@@ -38,11 +38,11 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 
 <p class="clear">Bei so einem historischen Rechner sind die technischen Daten durchaus interessant:<br>
 Der Trommelspeicher hat eine Rotationsgeschwindigkeit von 3600 U/Min., der Spurabstand der feststehenden Köpfe beträgt 2mm, die Spurbreite 1mm und der Kopfabstand zur Trommel 25 µm. Die Speicherkapazität ist mit 4.096 Worten (Wortlänge 32 Bit!) für damalige Zeiten recht groß.<br>
-Mit einer Taktfrequenz von 120 kHz beträgt die Zugriffszeit mindestens 2ms, höchstens 15ms. Eine Addition dauert 0,23 ms, eine Multiplikation 15 ms (jeweils ohne Zugriffszeit).<br>
-Die Elektronik besteht aus 113 Langlebensdauer-Röhren und 1450 Germaniumdioden in 34 Modulen (12 verschiedene Einschübe).<br>
+Mit einer Taktfrequenz von 137 kHz beträgt die Zugriffszeit mindestens 2ms, höchstens 15ms. Eine Addition dauert 0,23 ms, eine Multiplikation 15 ms (jeweils ohne Zugriffszeit).<br>
+Die Elektronik besteht aus 113 Langlebensdauer-Röhren und 1350 Germaniumdioden in 34 Modulen (12 verschiedene Einschübe).<br>
 Peripherie:<br>
 Der Lochstreifenleser liest 200 Zeichen/Sek. der Lochstreifenstanzer kann 50 Zeichen/Sek. stanzen und der Flexowriter schafft 10 Zeichen/Sek.<br>
-Das Gewicht des LGP30 beträgt stolze 350 kg (ohne Peripherie).	
+Das Gewicht des LGP30 beträgt stolze 365 kg (ohne Peripherie).	
 
 <p class="clear">Hier ein paar Daten zu unserem LGP-30. Der Verbleib bis 1962 ist nicht geklärt. Von 1962 bis 1980 wurde er im Landesvermessungsamt wie folgt eingesetzt:
 <ol>

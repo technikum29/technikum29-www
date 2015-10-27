@@ -92,7 +92,7 @@ computers.<br>
 
 The machine is different in some respects to our other machine of the same
 type: The bar-printer is slower (we expect a higher quality of print outs due
-to that fact), the memory is fully expanded to 32 kB as compared to 8 kB of
+to that fact), the memory is expanded to 16 kB as compared to 8 kB of
 the other machine, and the punch unit is a rare "Read-Punch". This device is
 capable of reading pre-punched cards and punching results onto the very same
 cards.

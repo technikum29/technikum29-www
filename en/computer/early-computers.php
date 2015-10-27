@@ -343,7 +343,7 @@ or: <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,hell.jpg">
 	A Disk Cartridge Drive RK05 where sold for DM 21.200, where one needs in addition the "Positive I/O Bus to Omnibus Converter" DW8E (6750 DM). Similarly is the Converter DW08A and the Cabinet AA50 for additional D/A Controller. The 3 plugged D/A modules were calculated with 1.680 DM per unit.
 	The memory expansion to 32K does not appear on the list, but the price for this option was about 50.000 DM including the controller.<br>
 
-	In the sum it is a staggering number of 387.690 DM, which is today corresponding about 500,000 € or 600.000 $!</p>
+	In the sum it is a staggering number of 387.690 DM, which is today corresponding about 500,000 Euro or 600.000 $!</p>
 </small>
 </div>
 </div>

@@ -306,12 +306,13 @@ class t29Template {
 	<hr>
 	<section class="sidebar top">
 			<?php /* Platz fuer eigentlich per "Extension" eingepflegtem Inhalt */ ?>
-			<!-- Anfang Test -->
+			<!-- Box (nur DE), die irgendwie sonst keinen Platz findet: -->
+			<?php if(isset($this->conf['lang']) && $this->conf['lang'] == 'de') { ?>
 			<a class="button alertbox termine" href="/de/#termine">
 				<strong>Aktuelle Führungen</strong>
 				
 			</a>
-			<!-- Ende Test -->
+			<?php }/* end of lang==de */ ?>
 			
 			<h2 class="visuallyhidden" id="tour-navigation"><?php $p("sidebar-h2-tour"); ?></h2>
 			<?php

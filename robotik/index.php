@@ -109,21 +109,16 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 </div><!--/leftcol -->
 
 <div class="rightcol">
-<h3>Termine in den Herbstferien</h3>
-<p>Jeweils von 14 bis 16 Uhr:
+<h3>Termine in den Ferien</h3>
+<p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
+Lassen Sie Ihre(n) Tochter/Sohn rechtzeitig hierfür vormerken.
+</p>
 
-<ul>
-	
- <li><b>Kurs für Fortgeschrittene</b><br>
-	Montag 26.10. bis Samstag 31.10., außer Dienstag, 27.10.<br> ( 2. Ferienwoche)<br>
-	<p class="small">Teilnehmer: Felix, Ben, David, Daniel, Rebekka, Benjamin, Max, Linus, Yannik, Jona</p>
-</ul>
 
-<!-- 
-<h3>Anmeldung</h3>  
+<h3>Vormerkung</h3>  
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p> -->
+</p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

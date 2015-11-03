@@ -16,9 +16,12 @@
     <p>We are looking for:</p>
    
       Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
+	  <br><hr>
+	  <b>UNIVAC 9200:</b>
+	  <br>We are looking for someone who has worked with the UNIVAC-9200 card assembly language and could give us a few tips (loading the assembler).
         
 <br><br><hr>
-	  <p id="connector">We have got an LGP 30 computer withe tubes build in 1958/61. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
+	  <p id="connector">We have got an <b>LGP 30</b> computer withe tubes build in 1958/61. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
 	 </p><br>
     
 <div class="left">

@@ -16,11 +16,14 @@
 	<h3>Geräte, Manuals und Bauteile</h3><br>
 	
     
-	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe IBM 1130<br><br>
+	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe IBM 1130<br><hr>
+	<b>UNIVAC 9200:</b><br>
+	Wir suchen jemanden, der mit dem Univac-9200 Karten-Assembler gearbeitet hat und uns ein paar Tipps geben könnte.
+	<br>
 	 
      
 <hr id="stecker">
-	  <p>Wir sind nunmehr im Besitz eines LGP 30 Röhrenrechners Bj. 1958-61. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, siehe Bild unten. Der Durchmesser beträgt ca. 40mm.<br>
+	  <p>Wir sind nunmehr im Besitz eines <b>LGP 30</b> Röhrenrechners Bj. 1958-61. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, siehe Bild unten. Der Durchmesser beträgt ca. 40mm.<br>
 	  Auch andere alte 40-polige Steckverbindungen würden uns eventuell weiter helfen.</p><br>
     
 <div class="left">

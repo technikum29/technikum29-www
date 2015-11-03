@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>24.10.2015
+	<br>1.11.2015
 </div>
 
 <div class="spacing"></div>
@@ -111,7 +111,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
 <div class="rightcol">
 <h3>Termine in den Ferien</h3>
 <p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
-Lassen Sie Ihre(n) Tochter/Sohn rechtzeitig hierfür vormerken.
+Eine rechtzeitige Vormerkung ist empfehlenswert.
 </p>
 
 

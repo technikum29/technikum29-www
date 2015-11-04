@@ -113,6 +113,14 @@
 	
 	<div class="box termin clear-after">		
 	<div class="left">
+	<p class="date"><em>2015</em> 8. Nov.</p></div>
+	<h4>Computer-History + Kid´s Workshop</h4> 
+	Termin: Sonntag, der <b>8. November</b> ab 13:00 Uhr <br>
+	Stuttgarter-Gruppe
+	</div>
+	
+	<div class="box termin clear-after">		
+	<div class="left">
 	<p class="date"><em>2015</em> 28. Nov.</p></div>
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Samstag, der <b>28. November</b> um 14:00 Uhr <br>

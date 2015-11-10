@@ -37,7 +37,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
     <div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/madas1.jpg" width="600" height="373" alt="Madas Rechenmaschiene" />
-        <p class="bildtext"><b>MADAS</b>, ein elektromechanischer Rechenautomat aus dem Jahre 1927 von der Rechenmaschinenfabrik "Egli AG" aus Z&uuml;rich. <br>
+        <p class="bildtext"><b>MADAS</b>,<br> ein elektromechanischer Rechenautomat aus dem Jahre 1927 von der Rechenmaschinenfabrik "Egli AG" aus Z&uuml;rich. <br>
 		Für die Multiplikation und Division benötigt sie schon etwas Zeit, daher haben die Konstrukteure ein Glöckchen eingebaut (oben links im Bild), welches nach der Vollendung der Rechnung läutet!</p>
     </div>
 

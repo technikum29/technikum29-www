@@ -104,9 +104,9 @@ Lange, who donated the machine to the museum.</small>
 
 
 	<h3 id="blog">Restoration Blog (the first UNIVAC)</h3>	
-	<p><b>17.01.2010:</b> There were some mice in the power supply and printer; they
+	<p class="small"><b>17.01.2010:</b> There were some mice in the power supply and printer; they
 	   bit thorugh some small cables.
-	<p><b>16.02.2010:</b> After locating two defective resistors the power supply is
+	<br><br><b>16.02.2010:</b> After locating two defective resistors the power supply is
 	   running again. Now we can use punch card devices from the CPU. Actually
 	   we cannot read nor punch data.
 	<br>Now there is another malfunctioning device: The <a href="storage-media.php#plated-wire-storage">
@@ -120,41 +120,47 @@ Lange, who donated the machine to the museum.</small>
                 states of processor and periphery can be indicated with light bulbs and
 		selected via switches.</p>
 	</div>
-	<p><b>15.04.2010:</b> The boot process of the device is still crashing. There is
+	<p class="small"><b>15.04.2010:</b> The boot process of the device is still crashing. There is
 	    an error message from the printer without any reason. We are trying to
 		locate this error.
-	<p><b>02.05.2010:</b> A broken thyristor (hammer driver) raised the
+	<br><br><b>02.05.2010:</b> A broken thyristor (hammer driver) raised the
 	    "printer error" message. Data integrity was the most important consideration at the
 		time. If only one of the 140 printer columns is not working correctly, the whole
 		printer goes offline to avoid any wrong output.
-	<p><b>10.05.2010:</b> We managed to get the plated wire storage online. We
+	<br>><br><b>10.05.2010:</b> We managed to get the plated wire storage online. We
 	    can even start some small test programs via the input switches, but there are
 		bugs while running. This is perhaps the only device that still uses the old
 		plated wire storage. Anyway, we are planing a replacement.
-	<p><b>12.06.2010:</b> After calibrating the optical card reader, we could read in
+	<br><br><b>12.06.2010:</b> After calibrating the optical card reader, we could read in
 	   and execute small programs in the data memory. We will report about the high
 	   security level of the card reading process later. Surprisingly the plated wire
-	   storage still works.</p>
-	<p><b>16.06.2010:</b> The card puncher doesn't work any more. 30 years of inactivity
+	   storage still works.
+	<br><br><b>16.06.2010:</b> The card puncher doesn't work any more. 30 years of inactivity
 	   are a long time for computers, too.
 	   <br>On the other side, we could execute a printer loop program. The huge printer
-	   starts up, but doesn't print yet. After two minutes, a thermal fuse triggers.</p>
-	<p><b>25.06.2010:</b> The fuse is triggerd by a broken centrifugal switch from the
+	   starts up, but doesn't print yet. After two minutes, a thermal fuse triggers.
+	   
+	<br><br><b>25.06.2010:</b> The fuse is triggerd by a broken centrifugal switch from the
 	   printer engine start-up windings. Therefore the winding was always on and
 	   constantly dissipated current. Now the engine is running, but print commands
 	   are not yet executed.
 	   <br>We also found a bug in the memory. Now all 8kB seem to run completely
-	   error-free.</p>
-	<p><b>30.06.2010:</b> We located another bug in the printer logic (faulty
+	   error-free.
+	<br><br><b>30.06.2010:</b> We located another bug in the printer logic (faulty
 	   transistor). For the first time in 30 years, the bar printer works and is capable of
 	   printing files from various punch cards. The type face looks good.
-	   <br>Now we turn to the damaged printer.</p>
-	<p><b>05.08.2010:</b> After replacing a broken transistor and injecting some oil,
+	   <br>Now we turn to the damaged printer.
+	   <div class="desc-right">
+		<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
+		<p class="bildtext" style="width: 400px;"><b>Backside of the UNIVAC 9300:</b> With a storage oscilloscope and a logic analyzer logic states are measured</p></div>
+	   
+	<p class="small"><b>05.08.2010:</b> After replacing a broken transistor and injecting some oil,
 	   the puncher is up and running! Now we are able to dublicate punch cards.
 	   Unfortunately we had to disable the error checking functions since the device
 	   detected a non-existing error when punching. Locating this error is the next
-	   problem.</p>
-	<p><b>26.08.2010:</b> Locating the bug in the device's internal error checking
+	   problem.
+	   
+	<br><br><b>26.08.2010:</b> Locating the bug in the device's internal error checking
 	   of punched data was hard work. The computer compares the data which should be
 	   punched with the position of the hammers in the punch station in a very
 	   complex way. One of the 24 inductive sensing elements was broken,
@@ -164,26 +170,22 @@ Lange, who donated the machine to the museum.</small>
 	   the comparing element. The adjustment has only a margin of 5 microseconds.
 	   After this repair, all duplicated punch cards are checked too. If there
 	   is a wrong punch hole, the computer stops immediately (an event that occurs
-	   extremely rarely now).</p>
+	   extremely rarely now).
 	   
-	   <div class="desc-right">
-		<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
-		<p class="bildtext" style="width: 400px;"><b>Backside of the UNIVAC 9300:</b> With a storage oscilloscope and a logic analyzer logic states are measured</p></div>
-
-	<p><b>19.10.2010:</b> After all test programs were run successfully, we can now declare
+	<br><br><b>19.10.2010:</b> After all test programs were run successfully, we can now declare
 the machine as being fully operational. The next step will be constructing a
 new memory system which is necessary since the original plated wire memory is
 fragile and it is doubtful that it would survive the years to come without
-errors.</p>
+errors.
 
-
-<p><b>Feb. 2012:</b> Redesigning the memory using modern semiconductor circuits is more complicated
+<br><br><b>Feb. 2012:</b> Redesigning the memory using modern semiconductor circuits is more complicated
 than expected initially. Despite a lot of effort concerning the timing of 
 all signals involved in the RAM's logic the new RAM card is still not working.
 Further tests and modifications will be necessary. Fortunately the original
-wire memory is still working perfectly.</p>
+wire memory is still working perfectly.
 
-	<p><i>This blog will be irregulary continued.</i></p>
+	<br><br><i>This blog will be irregulary continued.</i>
+	<hr>
 	
 <p class="small">We would like to thank Dr. Frank Berger and Dr. Juergen Steen (both from the
 "Historischen Museum Frankfurt) for their suuport and many spare parts they

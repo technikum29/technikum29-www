@@ -43,12 +43,12 @@
 	LGP-30, ein Röhrenrechner (ca. 1958) auf dem Transport zum technikum29. Wir werden im Oktober darüber berichten</a>
 </li>
 
+
 <li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
 	<h3>Juni 2015</h3>
     <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
 	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer) und große Vorräte an Lochkarten </a>
 </li>
-
 
 <li><a href="/de/rechnertechnik/lochkarten-edv.php#129">
 	<h3>April 2015</h3>

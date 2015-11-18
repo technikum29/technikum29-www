@@ -49,5 +49,11 @@
 	
 		   <p> Nebenstehendes Bild gibt Einblick in das gigantische Netzteil des Rechners. 39 Sicherungen schützen die Stromkreise. Jetzt kann man sich vorstellen, wie die Netzteile von sehr großen Röhrenrechnern aussehen müssen!<br>
 			Um Wechselstrom in Gleichstrom umzuwandeln, verwendete man "Selen-Gleichrichter". Selen-Gleichrichter bestehen aus Metallscheiben, die auf einer Seite mit dem Selen-Halbleitermaterial beschichtet sind. Der Anschluss erfolgt durch Kontaktflächen, die mechanisch an der Scheibe anliegen. Die Sperrspannung je Scheibe beträgt etwa 25 bis 30 Volt. Um höhere Sperrspannungen zu erreichen, musste man mehrere Scheiben in Reihe schalten, die meist einfach übereinander gestapelt wurden (rechts unten im Bild). Links sind ganze "Batterien" von Elektrolytkondensatoren zu erkennen.</p>
+			
+		<div class="desc-left auto-bildbreite borderless">
+		<img src="/shared/photos/rechnertechnik/g3-anschluesse.jpg" alt="Anschlusskabel des Gamma 3" width="362" height="526" />	
+		<div class="bildtext">	
+			<p>Riesige Anschlusskabel zur Peripherie des für damalige Verhältnisse relativ kleinen Gamma-3 Elektronen-Rechners</a> 
+		</div></div>
 	
 	</div>

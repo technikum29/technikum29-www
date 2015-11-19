@@ -72,48 +72,41 @@ SIDEBAR_ENDE;
 <br>Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
-<img src="sommerkurs2015.jpg" style="max-width:100%" />
-<div class="small">Sommerkurs 2015, die meisten möchten weiter machen...</small></div>
+<img src="aes-gruppe2015.jpg" width="405"  height="262"/> 
+<div class="small">Die AES-Robotik-Gruppe kurz vor der Besprechung</small></div>
 </p>
 <p>
 Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
-Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.</p>
+Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.<br><br>
 
-</div><!--/leftcol -->
-<div class="rightcol">
-
-<p>Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
+Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.
 
 <h3>Inhalt</h3>
 <ul>
 <li>Aufbau der Roboter, Erklärung der Sensoren.
 <li>Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
-<li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
-<li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter), Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, Spiele entwickeln usw.
 </ul>
-<p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.
-
-</div><!--/rightcol-->
-</div><!--/cols -->
-
-<div class="clear cols">
-
-<div class="leftcol">
-<h3>Vorraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.
-
-<h3>Bedingungen und Kosten</h3>
-<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
-Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.
-
 </div><!--/leftcol -->
 
 <div class="rightcol">
+<ul>
+<li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
+<li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
+<li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
+</ul>
+<p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
+
+<h3>Vorraussetzungen</h3>
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
+
+<h3>Bedingungen und Kosten</h3>
+<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
+Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
+
 <h3>Termine in den Ferien</h3>
 <p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
 Eine rechtzeitige Vormerkung ist empfehlenswert.
 </p>
-
 
 <h3>Vormerkung</h3>  
 <p>

@@ -397,6 +397,20 @@ class t29Menu {
 			$return[$key] = $dnc;
 		}
 		
+		// Nov 2015: short circuit: Manuell "ueberladene" bzw. uebertragene Seitenrelationen
+		/**
+		 * Benutzung: Auf Inhaltseite zb. $manuell_naechste_seite = array('href'=>'/de/sonstwas.php', 'label'=>'Computertechnik');
+		 **/
+		 /*
+		$manual_keys = array('next' => "manuell_naechste_seite", 'prev' => 'manuell_vorherige_seite');
+		foreach($manual_keys as $key => $confkey) {
+			if(isset($this->conf[$confkey])) {
+				$retrun[$key] = self::dom_new_link($confkey['href'], $confkey['label']);
+			}
+		}
+		*/
+		// Funktioniert allerding gerade nicht!
+		
 		return $return;
 	}
 

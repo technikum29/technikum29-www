@@ -309,7 +309,7 @@ class t29Template {
 			<!-- Box (nur DE), die irgendwie sonst keinen Platz findet: -->
 			<?php if(isset($this->conf['lang']) && $this->conf['lang'] == 'de') { ?>
 			<a class="button alertbox termine" href="/de/#termine">
-				<strong>Aktuelle Führungen</strong>
+				<strong>Aktuelle Termine</strong>
 				
 			</a>
 			<?php }/* end of lang==de */ ?>

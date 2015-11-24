@@ -26,7 +26,7 @@
 	</p>
 	
 	<div class="desc-left auto-bildbreite borderless no-copyright">
-    <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg">
+    <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg">
 		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="Prozessor aufgeklappt" width="350" height="361" /></a>	
 		<div class="bildtext">	
 			<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> Bild vergrößern</a> 

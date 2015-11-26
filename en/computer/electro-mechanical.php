@@ -107,5 +107,6 @@
 	
 	 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/kids-rechnen-mechanisch.jpg" width="448" height="336" alt="Kid´s beim Exp.-Workshop" />
-        <p class="bildtext">Experimental-Workshop: Für Kinder und Jugendliche eine besondere Herausforderung mit mechanischen Maschinen eine Division auszuführen.</p>
+        <p class="bildtext">Hands-on-workshop: It is a challenge for kids and young adults to perform a
+division operation with mechanical devices.</p>
 		</div>

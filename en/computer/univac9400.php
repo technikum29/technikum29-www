@@ -189,5 +189,5 @@
 	  
 	  <div class="box right">
         <img src="/shared/photos/rechnertechnik/kids-an-lochkartenl..jpg" width="519" height="415" alt="Besucher am Lochkartenleser" />
-        <div class="bildtext">Junge Besucher sind von der enormen Geschwindigkeit des Lochkartenlesers beeindruckt.<br>
+        <div class="bildtext">Young visitors are impressed by the speed of the punch card reader.<br>
 		</div></div>

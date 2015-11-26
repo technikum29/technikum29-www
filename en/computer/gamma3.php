@@ -34,7 +34,7 @@ computer is so fast that there is no visible delay caused by the calculations".<
 <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg">
 		<img src="/shared/photos/rechnertechnik/gamma3.jpg" alt="BULL Gamma 3" width="500" height="408" /></a>	
 		<div class="bildtext">	
-	<p><b>Tubes over Tubes: BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> enlarge picture</a> 
+	<p><b>Tubes over Tubes: BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg"> enlarge picture</a> 
 	
 	</div></div>
 	 
@@ -91,5 +91,5 @@ computer is so fast that there is no visible delay caused by the calculations".<
    <div class="desc-left auto-bildbreite borderless">
 		<img src="/shared/photos/rechnertechnik/g3-anschluesse.jpg" alt="Connecting cables of the Gamma 3" width="362" height="526" />	
 		<div class="bildtext">	
-			<p>Gigantic connecting cables to the periphery of for those times relatively small gamma 3 electron computer</a> 
+			<p>Gigantic cables connect the peripheral devices with the rather small (for its time) Gamma-3 vacuum tube computer</a> 
 		</div></div>

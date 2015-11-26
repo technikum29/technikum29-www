@@ -29,7 +29,7 @@
     <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg">
 		<img src="/shared/photos/rechnertechnik/gamma3.jpg" alt="Prozessor aufgeklappt" width="500" height="408" /></a>	
 		<div class="bildtext">	
-			<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> Bild vergrößern</a> 
+			<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg"> Bild vergrößern</a> 
 		</div></div>
 		
 		

@@ -52,7 +52,7 @@
 		
 	<div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/dec/flip-chip-module.jpg" width="400" height="173" alt="Flip-Chip-Module" />
-		<p>	Diese Rechner wurden durch zahlreiche sehr detallierte Funktions- und Schaltungsbeschreibungen dokumentiert, wie kein anderer je gebauter Computer. Das ist aus heutiger Sicht ein Glücksfall. Nur durch das Vorhandensein dieser Dokumente ist eine Reparatur problemlos möglich. Dagegen hielten andere Hersteller oft ihre Schaltungen aus Angst vor unbefugter Weiterverwendung zurück (z.B. HP).<br>
+		<p>	Diese Rechner wurden durch zahlreiche sehr detaillierte Funktions- und Schaltungsbeschreibungen dokumentiert, wie kein anderer je gebauter Computer. Das ist aus heutiger Sicht ein Glücksfall. Nur durch das Vorhandensein dieser Dokumente ist eine Reparatur problemlos möglich. Dagegen hielten andere Hersteller oft ihre Schaltungen aus Angst vor unbefugter Weiterverwendung zurück (z.B. HP).<br>
 	</div>
 
 	Für besonders interessierte Leser ist hier eine zeitchronologische <a class="go" name="backlink-dec" href="/de/geraete/dec-geschichte.php">Geschichte von Digital (DEC)</a> aufgelistet.

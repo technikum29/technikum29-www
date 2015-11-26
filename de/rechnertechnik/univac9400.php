@@ -23,6 +23,7 @@
     </p>-->
 
     <ul class="univac-thumbs">
+		<li><a href="/de/geraete/univac9400/vogelperspektive.php" name="backlink-links" title="Univac 9400 Vogelperspektive"><img src="/shared/photos/rechnertechnik/univac/vogelperspektive-klein.jpg" alt="Foto 1: Univac 9400 aus der Vogelperspektive" height="142" /></a></li>
        <li><a href="/de/geraete/univac9400/panorama-links.php" name="backlink-links" title="Großes Bild von links"><img src="/shared/photos/rechnertechnik/univac/panorama-links.klein.jpg" alt="Foto 1: Univac 9400 von links" height="107" /></a></li>
        <li><a href="/de/geraete/univac9400/frontpanel.php" name="backlink-frontpanel" title="Großes Bild des Frontpanel"><img src="/shared/photos/rechnertechnik/univac/frontpanel.klein.jpg" alt="Foto 2: Univac 9400 Frontpanel" height="379" /></a></li>
        <li><a href="/de/geraete/univac9400/konsole+uniservo.php" name="backlink-konsole" title="Großes Bild der Konsole/Uniservo"><img src="/shared/photos/rechnertechnik/univac/uniservo-12-16.klein.jpg" alt="Foto 3: Konsole und Uniservo" height="165" /></a></li>

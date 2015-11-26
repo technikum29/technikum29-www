@@ -104,3 +104,8 @@
         anything. However, this luxury still had a drawback: Maloperation could damage the
 		whole device.</p>
     </div>
+	
+	 <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/kids-rechnen-mechanisch.jpg" width="448" height="336" alt="Kid´s beim Exp.-Workshop" />
+        <p class="bildtext">Experimental-Workshop: Für Kinder und Jugendliche eine besondere Herausforderung mit mechanischen Maschinen eine Division auszuführen.</p>
+		</div>

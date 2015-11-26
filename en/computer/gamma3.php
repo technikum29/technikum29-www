@@ -30,9 +30,9 @@ machine which will print or punch these values. Regardless of the task, the
 computer is so fast that there is no visible delay caused by the calculations".</blockquote>
       </p>
   
-	 <div class="desc-left auto-bildbreite borderless no-copyright">
+	 <div class="desc-left auto-bildbreite borderless">
 <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg">
-		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="BULL Gamma 3" width="350" height="361" /></a>	
+		<img src="/shared/photos/rechnertechnik/gamma3.jpg" alt="BULL Gamma 3" width="500" height="408" /></a>	
 		<div class="bildtext">	
 	<p><b>Tubes over Tubes: BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> enlarge picture</a> 
 	
@@ -59,12 +59,12 @@ computer is so fast that there is no visible delay caused by the calculations".<
         temporary digital states.
 		</p>
 		
-		<br><br><br><br><br>
+		<br>
 		
 	 <div class="desc-left auto-bildbreite borderless">
 		<img src="/shared/photos/rechnertechnik/gamma-3-netzteil.jpg" alt="BULL GAMMA 3 Netzteil" width="350" height="527" />
 		<div class="bildtext">	
-	<p><b>Here you can see a part of the big power supply</b></p>
+	<p>Here you can see a part of the big power supply</p>
 		</div></div>
      
       
@@ -88,3 +88,8 @@ computer is so fast that there is no visible delay caused by the calculations".<
         At the left side you see dozens of electrolytic capacitors.
       </p>
    
+   <div class="desc-left auto-bildbreite borderless">
+		<img src="/shared/photos/rechnertechnik/g3-anschluesse.jpg" alt="Connecting cables of the Gamma 3" width="362" height="526" />	
+		<div class="bildtext">	
+			<p>Gigantic connecting cables to the periphery of for those times relatively small gamma 3 electron computer</a> 
+		</div></div>

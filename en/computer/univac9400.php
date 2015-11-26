@@ -1,3 +1,4 @@
+
 <?php
 	$seiten_id = 'univac9400';
 	$version = '$Id$';
@@ -185,3 +186,8 @@
             Museum Frankfurt</a> for lending several UNIVAC boards. Reparations
             are quite difficult without comparative boards.</small></p>
       </div>
+	  
+	  <div class="box right">
+        <img src="/shared/photos/rechnertechnik/kids-an-lochkartenl..jpg" width="519" height="415" alt="Besucher am Lochkartenleser" />
+        <div class="bildtext">Junge Besucher sind von der enormen Geschwindigkeit des Lochkartenlesers beeindruckt.<br>
+		</div></div>

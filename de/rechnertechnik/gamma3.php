@@ -25,9 +25,9 @@
 	    Unsere GAMMA 3 ist voll ausgebaut und verfügt über 7 Laufzeitspeicher mit einer Kapazität von je 12 Dezimalstellen (siehe "Speichermedien") die sich in einen Rechenspeicher und 6 Zahlenspeicher aufteilen. Zur Speichererweiterung gab es noch so genannte "Speicherschränke" mit 24 Speichereinheiten für je 12 Dezimalstellen, also der Platzbedarf eines Kleiderschrankes zum Abspeichern von 24 zwölfstelligen Dezimalzahlen!!! <br/>Insgesamt ist der Rechner mit knapp 400 Elektronenröhren bestückt. Die Anpassung des schnellen Elektronenrechners an die langsame Lochkartenmaschine erfolgt durch Thyratrons. Eine Thyratronröhre arbeitet ähnlich wie ein Thyristor (Halbleiterbauelement) und kann binäre Zustände zwischenspeichern.
 	</p>
 	
-	<div class="desc-left auto-bildbreite borderless no-copyright">
+	<div class="desc-left auto-bildbreite borderless">
     <a class="popup" href="/shared/photos/rechnertechnik/gamma-3.jpg">
-		<img src="/shared/photos/rechnertechnik/bull-gamma3.jpg" alt="Prozessor aufgeklappt" width="350" height="361" /></a>	
+		<img src="/shared/photos/rechnertechnik/gamma3.jpg" alt="Prozessor aufgeklappt" width="500" height="408" /></a>	
 		<div class="bildtext">	
 			<p><b>Röhren, Röhren, Röhren.....BULL GAMMA 3</b></p> <a class="popup" href="/shared/photos/rechnertechnik/bull-gamma3.jpg"> Bild vergrößern</a> 
 		</div></div>
@@ -56,4 +56,4 @@
 			<p>Riesige Anschlusskabel zur Peripherie des für damalige Verhältnisse relativ kleinen Gamma-3 Elektronen-Rechners</a> 
 		</div></div>
 	
-	</div>
+

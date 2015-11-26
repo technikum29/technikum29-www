@@ -64,7 +64,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
  <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/kids-rechnen-mechanisch.jpg" width="448" height="336" alt="Kid´s beim Exp.-Workshop" />
-        <p class="bildtext">Experimental-Workshop: Für Kinder und Jugendliche eine besondere Herausforderung mit mechanischen Maschinen eine Division auszuführen.</p>
+        <p class="bildtext">Experimental-Workshop: Für Kinder und Jugendliche ist es eine besondere Herausforderung mit mechanischen Maschinen eine Division auszuführen.</p>
 		</div>
 		
 		

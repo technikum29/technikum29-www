@@ -109,6 +109,7 @@
 					<li><a seiten_id="univac9200" href="/de/rechnertechnik/univac9200.php" title="Univac 9200, Univac 9300">Univac 9200/9300</a></li>
 					<li><a seiten_id="univac9400" href="/de/rechnertechnik/univac9400.php" title="UNIVAC 9400 Großrechner, Rechenzentrum">Univac 9400</a>
 						<ul class="u4 geraete">
+							<li><a seiten_id="univac-vogelperspektive" href="/de/geraete/univac9400/vogelperspektive.php">Vogelperspektive</a></li>
 							<li><a seiten_id="univac-bandcontroller" href="/de/geraete/univac9400/bandcontroller-laempchen.php">Tape- und Disk-Controller</a></li>
 							<li><a seiten_id="univac-frontpanel" href="/de/geraete/univac9400/frontpanel.php">Frontpanel</a></li>
 							<li><a seiten_id="univac-cardreader" href="/de/geraete/univac9400/kartenleser.php">Kartenleser</a></li>

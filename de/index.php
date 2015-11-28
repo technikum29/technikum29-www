@@ -104,14 +104,6 @@
 	
 	<div class="box termin clear-after">		
 	<div class="left">
-	<p class="date"><em>2015</em> 28. Nov.</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Samstag, der <b>28. November</b> um 14:00 Uhr <br>
-	2 freie Plätze sind noch vorhanden.
-	</div> 	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
 	<p class="date"><em>2015</em> 11. Dez.</p></div>
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Freitag, der <b>11. Dezember</b> um 16:00 Uhr <br>

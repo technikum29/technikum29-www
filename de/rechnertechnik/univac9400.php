@@ -86,18 +86,11 @@ Der kurz darauf angebotene Nachfolger UNIVAC 9300 war bereits karten-, band- und
 <p>Die Kosten der UNIVAC Anlage im Jahre 1969 war enorm und entsprach einer Kette von neuen PKW mit einer Länge von ca. 2,3 km. Siehe <a href="/de/geraete/univac9400/kosten.php" class="go">Unfassbar: Univac 9400 = 470 Autos (VW-Käfer)</a></p>
 
 
-			
-<div class="box right">
+ <div class="box right">
         <img src="/shared/photos/rechnertechnik/kids-an-lochkartenl..jpg" width="519" height="415" alt="Besucher am Lochkartenleser" />
-        <div class="bildtext">Rechtes Bild: Junge Besucher sind von der enormen Geschwindigkeit des Lochkartenlesers beeindruckt.<br>
+        <div class="bildtext">Junge Besucher sind von der enormen Geschwindigkeit des Lochkartenlesers beeindruckt.<br>
 		</div></div>
 			
-<!-- <div class="box left">
-       <img src="/shared/photos/rechnertechnik/unisys_tag.gif"  width="142" height="75" class="nomargin-bottom" />
-       <p class="small">Wir möchten uns an dieser Stelle bei der Firma <b>UNISYS</b> für die Übernahme vieler Großtransporte herzlich bedanken.</small>
-</div>
 
- 
-		
 		
 		

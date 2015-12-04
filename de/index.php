@@ -104,6 +104,14 @@
 	
 	<div class="box termin clear-after">		
 	<div class="left">
+	<p class="date"><em>2015</em> 8. Dez.</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Dienstag, der <b>8. Dezember</b> um 14:30 Uhr <br>
+	Wolfgang-Winckler-Haus
+	</div> 	
+	
+	<div class="box termin clear-after">		
+	<div class="left">
 	<p class="date"><em>2015</em> 11. Dez.</p></div>
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Freitag, der <b>11. Dezember</b> um 16:00 Uhr <br>
@@ -112,7 +120,7 @@
 	
 <div class="box termin clear-after">
 	<div class="left">
-	<p class="date"><em>2015</em>Nov.-<br>Dez.</p></div>
+	<p class="date"><em>2016</em></p></div>
 	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
 	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 	</div>

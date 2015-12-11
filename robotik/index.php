@@ -85,6 +85,11 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <img src="eds-gruppe2015.jpg" width="405"  height="191"/> 
 <div class="small">Die EDS-Robotik-Gruppe</small></div>
 </p>
+<h3>Vormerkung</h3>  
+
+<p>
+per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</p>
 
 </div><!--/leftcol -->
 
@@ -101,7 +106,7 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
 
 <h3>Vorraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst teamfähig sein und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken</b> haben! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
@@ -109,12 +114,9 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 <p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
+Entweder von Di. 29.3. bis Sa. 2.4.2016 oder von Mo. 4.4. bis Fr. 8.4.2016<br>
+Es wird der Termin gewählt an welchem genügend Anmeldungen erfolgen. Eventuell finden beide Termine statt.
 Eine rechtzeitige Vormerkung ist empfehlenswert.
-</p>
-
-<h3>Vormerkung</h3>  
-<p>
-per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </p>
 
 </div><!-- /rightcol -->

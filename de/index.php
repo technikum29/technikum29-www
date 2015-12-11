@@ -101,25 +101,24 @@
 
 
 	<hr class="h3-like">
-	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2015</em> 11. Dez.</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Freitag, der <b>11. Dezember</b> um 16:00 Uhr <br>
-	NITEX GmbH
-	
-	</div> 	
+
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2015</em> 15. Dez.</p></div>
 	<h4>Computer-History (Führung)</h4> 
-	Termin: Dienstag, der <b>15. Dezember</b> um 14:30 Uhr <br>
-	
+	Termin: Dienstag, der <b>15. Dezember</b> um 14:30 Uhr <br>	
 	</div> 	
 	
-<div class="box termin clear-after">
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2015</em> 20. Dez.</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Sonntag, der <b>20. Dezember</b> um 14:00 Uhr <br>
+	Einzelinteressenten können sich noch anmelden.
+	</div>
+	
+	<div class="box termin clear-after">
 	<div class="left">
 	<p class="date"><em>2016</em></p></div>
 	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
@@ -132,45 +131,8 @@
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
 	Termine: Osterferien 2016 
-	</div>
+	</div></div>
 	
-
-
 <br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
 
-<!-- <div class="leftcol">
-	<h3>Führungen</h3> -->
-	
-	
-	
-	<!-- <div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 14. Aug</p>
-			<a href="/de/anmeldung.php" class="button anmeldung">An-<br>meld-<br>en</a>
-		</div>
-		
-	
-		
-
-		<h4>Die Geschichte der Kommunikation</h4>
-		
-		<div class="box termin clear-after">
-		<div class="left">
-			<p class="date"><em>2013</em> 24. Nov.</p>
-			
-		</div>
-		
-		
-		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.<br>
-		
-		
-			<b>Termin:</b> Sonntag, der 24. November 2013 um 14 Uhr (pünktlich).<br><br>
-			
-			
-			Für diese Veranstaltung ist eine Anmeldung erforderlich:  <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> 
-			-->
-		
-			
-		
-		

@@ -101,14 +101,6 @@
 
 
 	<hr class="h3-like">
-
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2015</em> 15. Dez.</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Dienstag, der <b>15. Dezember</b> um 14:30 Uhr <br>	
-	</div> 	
-	
 	
 	<div class="box termin clear-after">		
 	<div class="left">

@@ -65,13 +65,6 @@
 </a></li>
 
 
-<li><a href="/de/rechnertechnik/speichermedien.php#kernspeicher">
-	<h3 lang="de">Dezember 2014</h3>
-    <img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="153" height="115" />
-	Riesiges Kernspeichermodell aus der Hochschule
-</a></li>
-
-
 <li><a href="/robotik">
 <h3>...seit August 2014</h3>
 <img src="/robotik/roboter.jpg" width="153" height="122" />

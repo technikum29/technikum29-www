@@ -107,7 +107,7 @@
 
 		<p>Viele Anwender von DEC-Rechnern benötigten die hohe Kapazität an Speicher und einbaubaren Optionen nicht. Daher entwickelte DEC einen abgespeckten Rechner der nur wenige vorverdrahtete Einbauoptionen ermöglichte. Der Kernspeicher hatte nur 4kB Speicherkapazität, durch ein zusätzliches externes Kabinett war dieser auf 8kB erweiterbar. <br>
 		Unsere PDP-8/L war "hoch" ausgebaut: HSR (High-Speed-Reader) Lochstreifenleser und ein TC01 DEC-Tape-Control mit zwei TU55 Laufwerken sowie Zusatzspeicher. Damit konnte man schon eine Menge anfangen.<br>
-		DEC entwickelte eine eigene Dialog-Sprache [<b>FOCAL</b>: Formulating Online Calculations in Algebraic Language], die es dem Benutzer ermöglichte, in unmittelbarer Konversation mit dem Rechner zu stehen. Es wird ein direkter Compiler benutzt, jeder Befehl wird sofort in die Maschinensprache übersetzt. Diese Sprache ist ähnlich wie BASIC, jedoch etwas weniger komplex. FOCAL lief problemlos mit 4kB Kernspeicher und machte den Computer zu einem kleinen relativ leistungsfähigen Rechner der unteren Preisklasse (<b>L</b>ow-Cost, daher 8/<b>L</b>).</p>
+		DEC entwickelte eine eigene Dialog-Sprache [<b>FOCAL</b>: <b>F</b>ormulating <b>O</b>nline <b>C</b>alculations in <b>A</b>lgebraic <b>L</b>anguage], die es dem Benutzer ermöglichte, in unmittelbarer Konversation mit dem Rechner zu stehen. Es wird ein direkter Compiler benutzt, jeder Befehl wird sofort in die Maschinensprache übersetzt. Diese Sprache ist ähnlich wie BASIC, jedoch etwas weniger komplex. FOCAL lief problemlos mit 4kB Kernspeicher und machte den Computer zu einem kleinen relativ leistungsfähigen Rechner der unteren Preisklasse (<b>L</b>ow-Cost, daher 8/<b>L</b>).</p>
 	</div>
    
     

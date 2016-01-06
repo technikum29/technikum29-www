@@ -47,7 +47,7 @@
 
 <p>Es ist schon eine kleine Sensation: Seit September 2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es ist ein purer Zufall, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden kann. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchgeschnitten. <br>
 Im Unterschied zu unserer ersten UNIVAC 9300 ist der Stab-Drucker langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist auf 16 kB gegenüber 8 kB ausgebaut und die Punch (Lochkartenstanzer) ist eine sogenannte "Read-Punch". Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
-Die Reparatur und Inbetriebnahme erfolgen in Kürze.</p>
+Mit der Erfahrung durch die Reparatur der ersten UNIVAC 9200 dauerte die Reparatur der Zweiten nur wenige Wochen: Seit Januar 2016 ist die Anlage voll funktionsfähig.</p>
 
 <p class="small">Wir bedanken uns bei der Stadtverwaltung Rheine (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
 		

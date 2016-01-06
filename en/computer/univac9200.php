@@ -97,8 +97,8 @@ the other machine, and the punch unit is a rare "Read-Punch". This device is
 capable of reading pre-punched cards and punching results onto the very same
 cards.
 <br>
-The machine will be restored in the near future.</p>
-
+By the experience repairing the first U9200, the repair of the second UNIVAC 9200 took only a few weeks:  It is fully operational since January 2016."
+</p>
 <p class="small">We would like to thank the municipality of Rheine and in particular Mr. M.
 Lange, who donated the machine to the museum.</small>
 

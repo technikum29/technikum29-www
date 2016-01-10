@@ -5,16 +5,17 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2><b>UNIVAC 9300</b> - die Erste</h2>
+    <h2><b>UNIVAC 9200</b> - die Erste</h2>
 	
 	
-	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann. Unser Rechner ist eigentlich eine "9200".<br>
+	<p>Die UNIVAC 9200 bzw. 9300 ist eine lochkartenorientierte EDV-Anlage die 1966/67 auf den damals explodierenden EDV-Markt kam. Selten sind solche Anlagen vollständig erhalten geblieben, die dazu noch umfassend dokumentiert sind. Die beiden Typen unterscheiden sich dadurch, dass die "9200" eine reine Lochkartenanlage ist, während die "9300" zusätzlich mit Magnetbandgeräten und Plattenlaufwerken betrieben werden kann.<br>
+	
 	Die Anlage wurde zunächst per Spedition aus dem Archiv ins Museum transportiert. Wie bei allen Restaurationen begann die Arbeit mit dem gründlichen Säubern der Geräte. Bereits hier zeigten sich die Probleme: Die Schaumgummi-Verkleidungen der Gehäuseinnenseiten sind im Laufe der Zeit entweder zu Staub zerfallen (relatives Glück) oder sie haben sich zu einer klebrigen, teerartigen Masse verändert (ausgesprochenes Pech). Wir mussten mit beidem kämpfen.<br>
 	Volumenmäßig besteht diese Anlage vorwiegend aus Mechanik, insofern hatten wir hier viele Überraschungen erwartet.	Daher bestand die nächste Aufgabe darin, die teils festsitzende Mechanik für den Transport der Lochkarten wieder gangbar zu machen und einige Kugellager sowie Antriebsrollen und -riemen zu erneuern. Alleine der Lochkartenstanzer weist 15 Zahnriemen auf!</p>
 	
 	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9300 Anlage" width="850" height="440" />
-		<p class="bildtext"><b>UNIVAC 9300 Anlage</b> mit den Komponenten (von links nach rechts): 
+		<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9200 Anlage" width="850" height="440" />
+		<p class="bildtext"><b>UNIVAC 9200 Anlage</b> mit den Komponenten (von links nach rechts): 
 		Stabdrucker, Prozessor, Electronic-Cabinett (Netzteil u. Magnetdrahtspeicher), Lochkartenleser,
 		Lochkartenstanzer</p></div>
 	
@@ -22,11 +23,11 @@
 	
 	Danach war der Stabdrucker an der Reihe. Er lässt sich jedoch nur über den Prozessor steuern, so dass wir dann auch schon die erste spannende Inbetriebnahme vornehmen mussten.<br>
 	Die Mühe der aufwändigen Restauration hat sich gelohnt, da diese Anlage als reine Lochkartenmaschine mit Assembler-Programmierung einen historischen Seltenheitswert hat.<br>
-	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9300. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. 
+	Für besonders interessierte Leser berichten wir unten in einem "Reparatur-Blog" über die laufenden Fort- und Rückschritte bei der umfangreichen Reparatur der Univac 9200. Damit gewinnen Sie einen Einblick in den Aufwand, den eine solche Restauration erfordert. Engagement und Geduld sind Eigenschaften, die hier besonders gefragt sind. 
 	</p>
 	<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300 Anlage" width="700" height="368" />
-		<p class="bildtext">UNIVAC 9300 Anlage mit abgenommener Verkleidung während der Restauration</p>
+		<p class="bildtext">UNIVAC 9200 Anlage mit abgenommener Verkleidung während der Restauration</p>
 	</div>
 		
 	<h5 id="lochkarten">UNIVAC 9200/9300 Software</h5>
@@ -46,20 +47,20 @@
 	</div>
 
 <p>Es ist schon eine kleine Sensation: Seit September 2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es ist ein purer Zufall, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden kann. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchgeschnitten. <br>
-Im Unterschied zu unserer ersten UNIVAC 9300 ist der Stab-Drucker langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist auf 16 kB gegenüber 8 kB ausgebaut und die Punch (Lochkartenstanzer) ist eine sogenannte "Read-Punch". Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
+Im Unterschied zu unserer ersten UNIVAC 9200 ist der Stab-Drucker langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist auf 16 kB gegenüber 8 kB ausgebaut und die Punch (Lochkartenstanzer) ist eine sogenannte "Read-Punch". Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
 Mit der Erfahrung durch die Reparatur der ersten UNIVAC 9200 dauerte die Reparatur der Zweiten nur wenige Wochen: Seit Januar 2016 ist die Anlage voll funktionsfähig.</p>
 
 <p class="small">Wir bedanken uns bei der Stadtverwaltung Rheine (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
 		
-	<h3 id="blog">Reparatur-Blog (zur ersten UNIVAC 9200/9300)</h3>
+	<h3 id="blog">Reparatur-Blog (zur ersten UNIVAC 9200)</h3>
 
 	
 <p class="small"><b>17.1.2010:</b> Im Netzteil und im Drucker haben sich ein paar Mäuse zu schaffen gemacht und dabei 5 dünne Kabel durchgefressen. Glücklicherweise wurden die restlichen dicken Kabel verschont. Dennoch befinden sich in diesem sehr aufwändigen Netzteil weitere Fehler.
 <br><br><b>16.2.2010:</b> Nach dem Aufspüren von zwei defekten Widerständen (Unterbrechnung) ist das Netzteil funktionsfähig. Damit ist es jetzt auch möglich, die Lochkartengeräte vom Prozessor aus aufzurufen. Das funktioniert schon, wobei zur Zeit weder Daten gelesen noch gelocht werden können.
 Nun öffnet sich ein Feld mit weiteren Fehlern. Der Magnetdrahtspeicher arbeitet nicht. Wir versuchen, ihn wenigstens partiell zur Funktion zu bringen und werden später einen neuen Halbleiterspeicher anpassen. Wie unter der Rubrik "Speichermedien" beschreiben, ist der Magnetdrahtspeicher ein ganz spezielles Sorgenkind. Man erkennt, der Weg bis zur vollen Funktion ist noch weit!
 <div class="desc-right">
-	<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Bedienungspannel" width="400" height="296" />
-	<p class="bildtext" style="width: 400px;"><b>Bedienungspannel der UNIVAC 9300:</b> Insgesamt können 160 (Fehler-)Zustände aus dem Prozessor und der Peripherie mit Lämpchen per Schalter ausgeleuchtet werden.</p></div>
+	<img src="/shared/photos/rechnertechnik/u9200pannel.jpg" alt="UNIVAC 9200 Bedienungspannel" width="500" height="382" />
+	<p class="bildtext" style="width: 500px;"><b>Bedienungspannel der UNIVAC 9200:</b> Insgesamt können 160 (Fehler-)Zustände aus dem Prozessor und der Peripherie mit Lämpchen per Schalter ausgeleuchtet werden.</p></div>
 	
 <p class="small"><b>15.4.2010:</b> Noch immer läuft der Startzyklus der Maschine falsch. Eine Fehlermeldung des Druckers wird ohne offensichtlichen Grund angezeigt. Wir kreisen diesen Fehler sukzessive ein.
 
@@ -80,7 +81,7 @@ Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für St�
 
 <div class="desc-right">
 	<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
-	<p class="bildtext" style="width: 400px;"><b>Rückseite der UNIVAC 9300:</b> Mit Speicheroszilloskop und Logik-Analysator werden logische Zustände gemessen</p>
+	<p class="bildtext" style="width: 400px;"><b>Rückseite der UNIVAC 9200:</b> Mit Speicheroszilloskop und Logik-Analysator werden logische Zustände gemessen</p>
 </div>
 
 <p class="small">

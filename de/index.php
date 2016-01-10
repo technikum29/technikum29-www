@@ -102,13 +102,14 @@
 
 	<hr class="h3-like">
 	
-	 <div class="box termin clear-after">		
+<!--	 <div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 10. Jan.</p></div>
 	<h4>Computer-Dinosaurier (Führung)</h4> 
 	Termin: Sonntag, der <b>10. Januar</b> um 14:00 Uhr <br>
 	Für Kid`s + Eltern (ausgebucht!)
 	</div> 
+-->
 	
 	<div class="box termin clear-after">
 	<div class="left">

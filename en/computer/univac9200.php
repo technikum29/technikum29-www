@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>UNIVAC 9300 - the first</h2>
+    <h2>UNIVAC 9200 - the first</h2>
 	
 	<p>The Univac 9200 (Univac 9300) is a punch card computing data center from 1966. It is
 	   uncommon that such old devices are completely preserved, even all the
@@ -26,9 +26,9 @@
 	   issue and will be checked in the near future.</p>
 
 		<div class="box center auto-bildbreite">
-			<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9300" width="850" height="440" />
+			<img src="/shared/photos/rechnertechnik/u9300-1.jpg" alt="UNIVAC 9200" width="850" height="440" />
 			<p class="bildtext">
-				<b>UNIVAC 9300</b> electronic data processing system, with its components (left
+				<b>UNIVAC 9200</b> electronic data processing system, with its components (left
 				to right): bar printer, cpu, "electronic cabinet" (power supply and plated wire
 				memory), card reader, card puncher.
 			</p>
@@ -45,12 +45,12 @@
 	   until the device is fully functional again.</p>
 
 	<div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9300" width="700" height="368" />
-		<p class="bildtext"><b>UNIVAC 9300</b> electronic data processing system, uncovered while being restored</p>
+        <img src="/shared/photos/rechnertechnik/univac9200.jpg" alt="UNIVAC 9200" width="700" height="368" />
+		<p class="bildtext"><b>UNIVAC 9200</b> electronic data processing system, uncovered while being restored</p>
 	</div>
 		
 		
-	<b id="cards">UNIVAC 9200 Software</b><br>
+	<b id="cards">UNIVAC 9200/9300 Software</b><br>
 <p>Often it is sheer luck that helps saving unique artifacts from scrap. In this
 case a curious student at the Goethe University discovered strange objects in a
 building and informed us. It turned out that these devices were a <a href="/en/computer/punchcard.php#u1710">UNIVAC 1710</a> 
@@ -103,7 +103,7 @@ By the experience repairing the first U9200, the repair of the second UNIVAC 920
 Lange, who donated the machine to the museum.</small>
 
 
-	<h3 id="blog">Restoration Blog (the first UNIVAC)</h3>	
+	<h3 id="blog">Restoration Blog (the first UNIVAC 9200)</h3>	
 	<p class="small"><b>17.01.2010:</b> There were some mice in the power supply and printer; they
 	   bit thorugh some small cables.
 	<br><br><b>16.02.2010:</b> After locating two defective resistors the power supply is
@@ -115,8 +115,8 @@ Lange, who donated the machine to the museum.</small>
 	   <a href="/en/devices/plated-wire-storage.php">detailed description of the
 	   plated wire storage</a>, this type of memory has always been very error-prone.
    	<div class="desc-right">
-		<img src="/shared/photos/rechnertechnik/9300pannel.jpg" alt="UNIVAC 9300 Front palen" width="400" height="296" />
-		<p class="bildtext" style="width:400px;"><b>UNIVAC 9300 front panel:</b> 160
+		<img src="/shared/photos/rechnertechnik/u9200pannel.jpg" alt="UNIVAC 9200 Front palen" width="500" height="382" />
+		<p class="bildtext" style="width:500px;"><b>UNIVAC 9200 front panel:</b> 160
                 states of processor and periphery can be indicated with light bulbs and
 		selected via switches.</p>
 	</div>

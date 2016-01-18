@@ -96,4 +96,4 @@ Nun wenden wir uns der Punch (Lochkartenstanzer) zu, die sich ja Stück für St�
 
 <br><br><b>2013:</b> Die Neukonstruktion des Memory als Halbleiterspeicher macht mehr Probleme als erwartet. Trotz der aufwändigen Aufnahme aller notwendigen Timings und deren Einbindung in die Logik des RAM läuft die neue Speicherkarte noch nicht. Weitere Tests und Änderungen sind notwendig. Zum Glück funktioniert der Drahtspeicher immer noch einwandfrei.
 
-<hr><p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Überlassung von vielen Ersatzteilen für diesen Rechner bedanken. Reparaturen sind ohne Vergleichboards und andere spezielle Teile bei der komplexen Technik nur schwer möglich.</small>
+<hr><p class="small">Wir möchten uns herzlich bei den Herrn Dr. Frank Berger und Dr. Jürgen Steen vom <b>Historischen Museum Frankfurt</b> für die Überlassung von vielen Ersatzteilen für diesen Rechner bedanken. </small>

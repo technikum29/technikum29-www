@@ -102,29 +102,30 @@
 
 	<hr class="h3-like">
 	
-<!--	 <div class="box termin clear-after">		
+	 <div class="box termin clear-after">		
 	<div class="left">
-	<p class="date"><em>2016</em> 10. Jan.</p></div>
-	<h4>Computer-Dinosaurier (Führung)</h4> 
-	Termin: Sonntag, der <b>10. Januar</b> um 14:00 Uhr <br>
-	Für Kid`s + Eltern (ausgebucht!)
+	<p class="date"><em>2016</em> 4. Mai</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr <br>
+	Für ADFC Frankfurt
 	</div> 
--->
-	
-	<div class="box termin clear-after">
-	<div class="left">
-	<p class="date"><em>2016</em></p></div>
-	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
-	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
-	</div>
-	
+
 	<div class="box termin clear-after">
 	<div class="left">
 	<p class="date"><em>2016</em></p></div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
 	Termine: Osterferien 2016 
-	</div></div>
+	</div>
+	
+	<div class="box termin clear-after">
+	<div class="left">
+	<p class="date"><em>2016</em></p></div>
+	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
+	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
+	</div><div>
+	
+	
 	
 <br>
 >>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!

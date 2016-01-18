@@ -152,7 +152,7 @@ Lange, who donated the machine to the museum.</small>
 	   <br>Now we turn to the damaged printer.
 	   <div class="desc-right">
 		<img src="/shared/photos/rechnertechnik/univac/messen-am-memory.jpg"  width="400" height="313" />
-		<p class="bildtext" style="width: 400px;"><b>Backside of the UNIVAC 9300:</b> With a storage oscilloscope and a logic analyzer logic states are measured</p></div>
+		<p class="bildtext" style="width: 400px;"><b>Backside of the UNIVAC 9200:</b> With a storage oscilloscope and a logic analyzer logic states are measured</p></div>
 	   
 	<p class="small"><b>05.08.2010:</b> After replacing a broken transistor and injecting some oil,
 	   the puncher is up and running! Now we are able to dublicate punch cards.
@@ -189,6 +189,5 @@ wire memory is still working perfectly.
 	
 <p class="small">We would like to thank Dr. Frank Berger and Dr. Juergen Steen (both from the
 "Historischen Museum Frankfurt) for their suuport and many spare parts they
-donated for this machine. Repairing such complex circuitry would be next to
-impossible without known good boards for swapping etc.</small>
+donated for this machine. </small>
 

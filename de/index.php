@@ -114,7 +114,7 @@
 	<div class="left">
 	<p class="date"><em>2016</em></p></div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
-	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http://www.technikum29.de/robotik"> Robotik-Workshop</a><br>
+	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="http:/robotik"> Robotik-Workshop</a><br>
 	Termine: Osterferien 2016 
 	</div>
 	
@@ -122,7 +122,7 @@
 	<div class="left">
 	<p class="date"><em>2016</em></p></div>
 	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
-	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
+	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 	</div><div>
 	
 	

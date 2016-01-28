@@ -115,7 +115,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 <p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
-Entweder von Di. 29.3. bis Sa. 2.4.2016 oder von Mo. 4.4. bis Fr. 8.4.2016<br>
+Entweder von Di. 29.3. bis Sa. 2.4.2016 oder von Mo. 4.4. bis Fr. 8.4.2016 jeweils von 14 bis 16 Uhr.
 Es wird der Termin gewählt an welchem genügend Anmeldungen erfolgen. Eventuell finden beide Termine statt.
 Eine rechtzeitige Vormerkung ist empfehlenswert. Einen Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
 </p>

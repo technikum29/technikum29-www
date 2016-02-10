@@ -88,6 +88,11 @@
     </p>
 	
 	<h3>Hewlett Packard HP 9810, 9820, 9830</h3>
+	
+	 <div class="box left clear-after">
+          <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="HP desk calculators (panorama)" width="335" height="1045" class="nomargin-bottom" />
+          <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
+           
     <p>While DIEHL still emphazised the mechanics, HP tried to hide it as much as possible. For scientifical calculations
        the Diehl computers from the series shown above were too slowly, compared to HP or WANG, whereas the Diehl devices
        were much cheaper than the others. On the other hand, for normal calculations in engineering offices the
@@ -95,10 +100,7 @@
     <br/>For large scientifical calculations or even more complex jobs you
        had to buy Wang or HP devices.</p>
 
-      <div class="box left clear-after">
-          <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="HP desk calculators (panorama)" width="335" height="1045" class="nomargin-bottom" />
-          <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
-            <p class="left">The history of development from the HP-desk calculators in one rack:</p>
+      <p class="left">The history of development from the HP-desk calculators in one rack:</p>
             <ul>
               <li>In the center there is the HP 9100 (see
                   <a href="/en/computer/programmable.php#Hewlett_Packard_HP_9100">Programmable

@@ -44,14 +44,15 @@ Mit dem angeschlossenen Markierungskartenleser (anstelle ausgestanzter Löcher w
 	
 <h3>Hewlett Packard HP 9810, 9820, 9830</h3>
 
+ <div class="box left clear-after">
+        <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
+        <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
+            	
 	<p>Während DIEHL noch die Mechanik stark betonte, versuchten WANG und Hewlett Packard diese zu meiden oder zumindest zu minimieren, wo immer es möglich war. Die Diehl-Rechner der obigen Serie waren für wissenschaftliche Berechnungen einfach zu langsam. Sie hatten weder gegen HP noch gegen WANG eine Chance, obwohl sie natürlich in einer erheblich niedrigeren Preisklasse lagen. Für die Alltagsberechnungen in Ingenieurbüros reichte jedoch zunächst die Leistung dieser Rechner.<br/>
 	   Für umfangreiche wissenschaftliche Berechnungen und komplexere Programme führte jedoch kein Weg an WANG bzw. HP vorbei.
 	</p>
-		
-    <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/hp-rechner.jpg" alt="Fotografie der HP-Tischrechner im Regal" width="335" height="1045" class="nomargin-bottom" />
-        <div class="bildtext" style="margin-left: 335px; padding-left: 2em;">
-            <p>Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
+		<p>Entwicklungsgeschichte der HP-Tischrechner in einem Regal:</p>
+   
             <ul>
               <li>Im Zentrum (Mitte) befindet sich der unter "Rechner der 2. Generation" beschriebene HP 9100.</li>
               <li>Darunter ist das Nachfolgermodell HP 9810 (gleiche Logik wie HP 9100 aber mit TTL-IC´s und den allerersten sehr kleinen 3 spaltigen LED-Anzeigen.</li>

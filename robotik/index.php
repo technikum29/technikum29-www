@@ -106,7 +106,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 </ul>
 <p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
 
-<h3>Vorraussetzungen</h3>
+<h3>Voraussetzungen</h3>
 <p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
 
 <h3>Bedingungen und Kosten</h3>

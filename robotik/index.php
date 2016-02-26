@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>24.1.2016
+	<br>26.2.2016
 </div>
 
 <div class="spacing"></div>
@@ -123,6 +123,13 @@ Eine rechtzeitige Vormerkung ist empfehlenswert. Einen Fortsetzungskurs wird in 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 <div class="clear cols">
+
+
+		<div  class="box bordered nomargin-bottom" id="camp">
+	<p class="bildtext"><big><big><b>Robotik-Camp für Schüler der Klassen 6/7</b></big></big> <br><br>
+	Im Rahmen des Junioren-Programms der "Route der Industriekultur Rhein/Main" bieten wir vom 4. Juli bis 14. Juli ein Robotik-Camp für Schulen an.
+	Hier können interessierte Schüler an einem Tag die Grundlagen der Programmierung von Robotern erlernen und erfahren. Dies geschieht anhand von 3 Modulen. Einer "Theoriephase" von max. 30 Minuten folgt jeweils eigenes Programmieren und Testen anhand bereits aufgebauter Universal-Roboter.<br>Empfohlener Beginn jeweils um 9 Uhr, Ende ca. 14 Uhr (die Uhrzeiten sind auch veränderbar). Maximale Schülerzahl: 12 </p>
+</div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für 11- bis 13-Jährige</big></big> <br><br>

@@ -19,9 +19,9 @@
 	
 <ul class="news-feed news-ng">
 
-<li><a href="/de/rechnertechnik/lgp30.php#lgp30">
+<li><a href="/robotik/#camp">
 	<h3>Februar 2016</h3><br>
-   
+   <img src="/robotik/header-bild.jpg" width="153" height="67" />
 	<b>Robotik-Camp für Schulen</b> vom 4.7. bis 14.7.<br>
 	Roboter programmieren für Schüler der Klassen 6/7<br>
 	Einzelheiten finden Sie unter der Rubrik:<br>
@@ -79,7 +79,7 @@
 <li><a href="/robotik">
 <h3>...seit August 2014</h3>
 <img src="/robotik/roboter.jpg" width="153" height="122" />
-Robotik-Ferienkurse für Kids zwischen 11 und 13 Jahren im technikum29.<br>
+Robotik-Ferienkurse für Kids zwischen 11 und 13 Jahren.<br>
 Die spaßig intelligente Ferienalternative.
 </a> 
 

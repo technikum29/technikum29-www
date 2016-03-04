@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>26.2.2016
+	<br>5.3.2016
 </div>
 
 <div class="spacing"></div>
@@ -110,13 +110,12 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
 
 <h3>Bedingungen und Kosten</h3>
-<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer bauen und programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt.
+<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind für den Oster-Kurs bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
-<p>In den nächsten Osterferien bieten wir wieder einen Robotik-Workshop an.<br>
-Entweder von Di. 29.3. bis Sa. 2.4.2016 oder von Mo. 4.4. bis Fr. 8.4.2016 jeweils von 14 bis 16 Uhr.
-Es wird der Termin gewählt an welchem genügend Anmeldungen erfolgen. Eventuell finden beide Termine statt.
+<p>In den Osterferien bieten wir wieder einen Robotik-Workshop an:<br>
+Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.
 Eine rechtzeitige Vormerkung ist empfehlenswert. Einen Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
 </p>
 
@@ -127,8 +126,8 @@ Eine rechtzeitige Vormerkung ist empfehlenswert. Einen Fortsetzungskurs wird in 
 
 		<div  class="box bordered nomargin-bottom" id="camp">
 	<p class="bildtext"><big><big><b>Robotik-Camp für Schüler der Klassen 6/7</b></big></big> <br><br>
-	Im Rahmen des Junioren-Programms der "Route der Industriekultur Rhein/Main" bieten wir vom 4. Juli bis 14. Juli ein Robotik-Camp für Schulen an.
-	Hier können interessierte Schüler an einem Tag die Grundlagen der Programmierung von Robotern erlernen und erfahren. Dies geschieht anhand von 3 Modulen. Einer "Theoriephase" von max. 30 Minuten folgt jeweils eigenes Programmieren und Testen anhand bereits aufgebauter Universal-Roboter.<br>Empfohlener Beginn jeweils um 9 Uhr, Ende ca. 14 Uhr (die Uhrzeiten sind auch veränderbar). Maximale Schülerzahl: 12 </p>
+	Im Rahmen des Junioren-Programms der "Route der Industriekultur Rhein-Main" bieten wir vom 4. Juli bis 14. Juli ein Robotik-Camp für Schulen an.
+	Hier können interessierte Schüler an einem Tag die Grundlagen der Programmierung von Robotern erlernen und erfahren. Dies geschieht anhand von 3 Modulen. Jeder "Theoriephase" von max. 30 Minuten folgt jeweils eigenes Programmieren und Testen anhand bereits aufgebauter Universal-Roboter.<br>Empfohlener Beginn jeweils um 9 Uhr, Ende ca. 14 Uhr (die Uhrzeiten sind auch veränderbar). Maximale Schülerzahl: 12 </p>
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">

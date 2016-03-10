@@ -19,7 +19,7 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 		</p></div>
 	
 <p>Bei unserem Rechner fehlen die Verbindungskabel zu den Lochstreifengeräten und zum Flexowriter. Daher suchen wir spezielle Stecker, siehe
-<a class="go" href="/de/wir-suchen.php#stecker" target="_blank"> "gesuchte Steckverbindungen"</a>. Ansonsten ist der Zustand altersgemäß o.k.. Die Bleche müssen neu lackiert und die Mechanik wieder gangbar gemacht werden. Erst danach wird sich zeigen welche Fehler die Elektronik aufweist.....eine echte Herausforderung.</p>
+<a class="go" href="/de/wir-suchen.php#stecker" target="_blank"> "gesuchte Steckverbindungen"</a>. Ansonsten ist der Zustand altersgemäß o.k.. Die Bleche müssen neu lackiert und die Mechanik wieder gangbar gemacht werden. Der Magnet-Trommelspeicher weist Schleifspuren in der ferromagnetischen Beschichtung auf und ist vermutlich nicht mehr zu retten. Hierfür müssen wir einen Micro-Controller anpassen, der diese Aufgabe übernimmt. Erst danach wird sich zeigen welche Fehler die Elektronik aufweist.....eine wirkliche Herausforderung.</p>
 
 		
 	<div style="width: 350px;" class="desc-left borderless no-copyright">

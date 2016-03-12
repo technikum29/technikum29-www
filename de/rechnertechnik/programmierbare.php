@@ -50,7 +50,7 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 		
 		
 	
-<h3>Olivetti Programma 101</h3>
+<h3 id="101">Olivetti Programma 101</h3>
 
     <p>Im selben Jahr (1966) erschien die Olivetti Programma 101 auf dem Markt. Erstmals in der Geschichte der EDV war es für Ingenieurbüros möglich, einen "kleinen" Rechner zu erwerben, auf welchem man schnell eigene Programme auf Magnetkarten abspeichern konnte. Die Maschine mit viel Mechanik wurde zu einem Verkaufsschlager. Billig war dieser Einstieg nicht: Doch der Preis von 14800,- DM + Steuer (ca. 8000,- Euro) machte sich durch Einsparen von viel manueller Rechenzeit schnell bezahlt.</p>
 

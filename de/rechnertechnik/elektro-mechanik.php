@@ -60,7 +60,25 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
         <img src="/shared/photos/rechnertechnik/diehl-vsr18.jpg" width="500" height="375" alt="DIEHL VSR-18" />
         <p class="bildtext"><b>DIEHL VSR-18</b>,  eine von vielen zwischen 1955 und 1965 gebauten mechanischen Rechenmaschinen.
         <br>Die Ingenieure wurden angetrieben, immer komfortablere Maschinen zu konstruieren, oft bis an die Grenze des Machbaren. So hei&szlig;t es in der Bedienungsanleitung: "Das vor ihnen stehende DIEHL-Modell VSR leistet &Uuml;berdurchschnittliches". Das ist wohl wahr: Man konnte z.B. Ergebnisse zwischenspeichern und das Resultat jederzeit r&uuml;ck&uuml;bertragen. So waren oft auftretende Rechnungen wie  25 + 12 x 7 - 17 x 6  l&ouml;sbar ohne dass man etwas notieren musste. Doch der Luxus von 5 Rechenwerken und vielem sonstigen "Schnickschnack" zollte ein Attribut: Die Ger&auml;te waren sehr empfindlich bez&uuml;glich einer Fehlbedienung.</p>
-    </div>
+		<br>
+   
+
+	 <img id="logos" src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="500" height="362" alt="Oivetti Logos 27-2" />
+        <p class="bildtext"><b>Olivetti Logos 27-2</b>,
+		ein mechanisches Monstrum als letzter Versuch gegen die aufkommenden elektronischen Rechner anzugehen. Ende 1965 kam die erste Version auf den Markt. Schließlich folgte 1968 dieses gewichtige 2. Logos27-Modell (über 27kg!!) mit 3 unterschiedlichen Speichern, Rückübertragungen, Kommaautomatik und anderen Features. Stolz präsentierte Olivetti diesen "Schnellrechner" als gut für die Wissenschaft geeignet. Mit der Aussage "dass verschiedene Automatiken selbst ganze Rechenvorgänge steuern" wurde das wahre mechanische Wunderwerk angepriesen. Olivetti zeigte wie man damit Quadrat- und Kubikwurzeln, Kugelberechnungen, lineare Gleichungssysteme, Determinanten, Polynome, Reihenentwicklungen und vieles mehr berechnen kann. Das ging natürlich nicht auf Tastendruck sondern durch eine Abfolge von Rechenschritten und gegebenenfalls der Eingabe von "Näherungswerten". So benötigte man zur Berechnung der 3. Wurzel aus 2993582,625 statte 25 Tastendrücke und 3 Eingaben. Wer sich an die vorgegebenen Abfolgen hielt konnte ohne Programmierkenntnisse "wissenschaftlich rechnen". Da man diese Abfolgen (=Programm) aber nicht speichern konnte, war die Anwendung recht mühsam.
+		</div>
+		<div class="box left clear-after">
+		<a href="/shared/photos/rechnertechnik/logos-innen-links.jpg">
+				<img src="/shared/photos/rechnertechnik/logos-innen-links.jpg" width="196" height="147"/>
+			</a>
+		<a href="/shared/photos/rechnertechnik/logos-innen-rechts.jpg">	
+		<img src="/shared/photos/rechnertechnik/logos-innen-rechts.jpg" width="196" height="147"/>
+		</a>
+		Doch die Zeiten des mechanischen Rechnens waren längst vorüber. Es scheint als ob die vielen genialen Büromaschinen-Mechaniker und -Ingenieure noch eine fulminante "Endzeitmaschine" bauen wollten um zu zeigen wozu reine Mechanik in der Lage ist.<br>
+		Man muss jedoch Olivetti zugutehalten, bereits 1966 den sehr fortschrittlichen programmierbaren elektronischen Rechner <a class="go" href="/de/rechnertechnik/programmierbare.php#101"> <b>PROGRAMMA 101</b></a>  auf den Markt gebracht zu haben. <br>
+		Wenn eine solche mechanische Maschine einmal mit falschem Öl oder Fett behandelt wurde ist ihr Leben nach ein paar Jahren ausgehaucht. So sind in unserer Maschine so viele Gelenke total verharzt, so dass eine Reparatur leider nicht mehr möglich ist. Einblicke in die mechanische Wunderwelt erhält man durch Anklicken der kleinen Bilder. </p>
+		
+		
 
  <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/kids-rechnen-mechanisch.jpg" width="448" height="336" alt="Kid´s beim Exp.-Workshop" />

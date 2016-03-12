@@ -19,6 +19,15 @@
 	
 <ul class="news-feed news-ng">
 
+
+<li><a href="/de/rechnertechnik/elektro-mechanik.php#logos">
+	<h3>März 2016</h3><br>
+    <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="153" height="115" /><br>
+	Die letzten rechneneden Maschinenmonster
+	
+</a></li>
+
+
 <li><a href="/robotik/#camp">
 	<h3>Februar 2016</h3><br>
    <img src="/robotik/header-bild.jpg" width="153" height="67" />

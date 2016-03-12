@@ -60,7 +60,7 @@
 		
 		
 	
-	<h3>Olivetti Programma 101</h3>
+	<h3 id="101">Olivetti Programma 101</h3>
     <div class="desc-left borderless">
        <img src="/shared/photos/rechnertechnik/olivetti_programma101.jpg" alt="Programma 101" width="379" height="301" class="weisser-rahmen" />
        <p class="small">The legendary <b>PROGRAMMA 101</b> by Olivetti.</p>

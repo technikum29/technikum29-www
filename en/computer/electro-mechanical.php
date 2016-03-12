@@ -105,6 +105,45 @@
 		whole device.</p>
     </div>
 	
+	
+	<div id="logos" class="box right clear-after">
+	 <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="500" height="362" alt="Oivetti Logos 27-2" />
+        <p class="bildtext"><b>Olivetti Logos 27-2</b>,
+		a mechanical monstrosity as a last stand against the
+		then modern electronic calculators. The first version hit the market in 1965, followed by this big second modell which weighs in excess of 27 kg! This calculator features three memory cells, automatic carry, floating point and several additional features.<br>
+		
+		Olivetti proudly presented this printing calculator as a workhorse for
+scientific applications, "slightly" exaggerating its features and
+versatility. <br>
+As typical applications, the calculation of square and cubic roots were
+demonstrated as well as the solution of systems of linear equations,
+determinants, polynomials, series expansion etc. Of course, these tasks could
+not be performed by just pressing a single key. Instead, simple algorithms
+were necessary, written down as sequences of basic operations which often
+required the user to enter approximate values. The calculation of the cubic
+root of 2993582.625 for example required 25 key strokes and three inputs of
+values. So much for workhorse for scientific applications - without any means
+of storing a program working with this machine was mostly a tedious task.
+
+	</div>
+		<div class="box left clear-after">
+		<a href="/shared/photos/rechnertechnik/logos-innen-links.jpg">
+				<img src="/shared/photos/rechnertechnik/logos-innen-links.jpg" width="196" height="147"/>
+			</a>
+		<a href="/shared/photos/rechnertechnik/logos-innen-rechts.jpg">	
+		<img src="/shared/photos/rechnertechnik/logos-innen-rechts.jpg" width="196" height="147"/>
+		</a>
+		It looks as if the brilliant designers of mechanical calculators wanted to created a last fulminant hurrah just to show what could be done with mechanical systems although the time was ripe for electronic calculators. It should be noted that Olivetti already had introduced the rather sophisticated electronic calculator <a class="go" href="/en/computer/programmable.php#101"><b>PROGRAMMA 101</b></a> back in 1966.
+
+Keeping such a mechanical marvel alive is a formidable task. Even using the
+wrong oil or grease for lubrication can lead to stuck mechanisms resulting in
+a completely unusable machine in a short time. Unfortunately, our machine has
+suffered so badly that it is beyond repair. 
+
+By clicking on the small pictures you will get some impressions of this
+mechanical marvel.</p>
+	
+	
 	 <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/kids-rechnen-mechanisch.jpg" width="448" height="336" alt="Kid´s beim Exp.-Workshop" />
         <p class="bildtext">Hands-on-workshop: It is a challenge for kids and young adults to perform a

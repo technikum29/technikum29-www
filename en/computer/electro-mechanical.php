@@ -110,7 +110,7 @@
 	 <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="500" height="362" alt="Oivetti Logos 27-2" />
         <p class="bildtext"><b>Olivetti Logos 27-2</b>,
 		a mechanical monstrosity as a last stand against the
-		then modern electronic calculators. The first version hit the market in 1965, followed by this big second modell which weighs in excess of 27 kg! This calculator features three memory cells, automatic carry, floating point and several additional features.<br>
+		then modern electronic calculators. The first version hit the market in 1965, followed by this big second modell in 1967 which weighs in excess of 27 kg! This calculator features three memory cells, automatic carry, floating point and several additional features.<br>
 		
 		Olivetti proudly presented this printing calculator as a workhorse for
 scientific applications, "slightly" exaggerating its features and

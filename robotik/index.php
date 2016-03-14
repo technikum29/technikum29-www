@@ -73,8 +73,8 @@ SIDEBAR_ENDE;
 <br>Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
-<img src="aes-gruppe2015.jpg" width="405"  height="262"/> 
-<div class="small">Die AES-Robotik-Gruppe kurz vor der Besprechung</small></div>
+<img src="aes-gruppe2016.jpg" width="405"  height="197"/> 
+<div class="small">Die AES-Robotik-Gruppe</small></div>
 </p>
 <p>
 Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>

@@ -83,7 +83,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <p>
-<img src="eds-gruppe2015.jpg" width="405"  height="191"/> 
+<img src="eds-gruppe-2016.jpg" width="405"  height="226"/> 
 <div class="small">Die EDS-Robotik-Gruppe</small></div>
 </p>
 <h3>Anmeldung</h3>  

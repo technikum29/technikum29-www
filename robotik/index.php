@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>5.3.2016
+	<br>18.3.2016
 </div>
 
 <div class="spacing"></div>
@@ -86,7 +86,7 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <img src="eds-gruppe2015.jpg" width="405"  height="191"/> 
 <div class="small">Die EDS-Robotik-Gruppe</small></div>
 </p>
-<h3>Vormerkung</h3>  
+<h3>Anmeldung</h3>  
 
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
@@ -115,8 +115,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 <p>In den Osterferien bieten wir wieder einen Robotik-Workshop an:<br>
-Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.
-Eine rechtzeitige Vormerkung ist empfehlenswert. Einen Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
+Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.<br>
+Ein Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
 </p>
 
 </div><!-- /rightcol -->

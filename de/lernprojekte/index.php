@@ -49,23 +49,9 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC ü
 	Links lässt sich das Programm mit Hilfe von Steckmodulen generieren. Anhand der Stecker ist sofort die entsprechende Binärkombination ablesbar (quasi eine Übersetzung vom mnemotechnischen Assemblercode auf den Binärcode der Maschine). Der "Rechner" kann im Befehlsmodus oder im Zyklenmodus arbeiten. Dabei sind verschiedene Taktfrequenzen oder eine Einzelauslösung einstellbar. 126 Lämpchen zeigen die Datenflüsse sowie den Status von Registern, Steuerung, Rechenwerk und Arbeitsspeicher an. Das Demomodell entspricht in seiner Gesamtheit einem programmgesteuerten Digitalrechner mit Parallelverarbeitung.<br>
 	Hier ist ein Programm für die "binäre Addition mit gekoppelten Arbeitsspeicherzellen" gesteckt. Es zeigt, dass die Binärstellenzahl eines Datenwortes nicht unbedingt eine Beschränkung der Zahlenmenge zur Folge hat.<br>
 	Ein wunderbares Gerät, mit welchem man die Vorgänge elementar verstehen kann, die sich auch heute noch in jedem Computer abspielen.<br>
-	Die Dokumentation hierzu finden Sie in der untenstehenden Tabelle.</p>
+	Die Dokumentation hierzu finden Sie hier:
 
-	<!--
-<div class="box center">
-<h3>Liste anderer Projekte</h3>
-<p>Jedes Projekt ist möglicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
-<br><b>Als Benutzer ist stets der Name des Projekts </b>(kleingeschrieben)<b> einzugeben!</b></p>
+<a href="lerncomputer">Siemens Demo-Computer</a>
 
-<table>
-<tr><th><a href="/de/geraete/pianola-funktionserklaerung/">Pianola</a>          <td>Funktionserklärung und Entwurf einer Präsentation
-<tr><th><a href="schach">Schach</a>            <td>Anleitung für ein Schachspiel gegen den PDP 8 Computer mit 8KB Arbeitsspeicher (freier Zugriff, kein Passwort erforderlich)
-<tr><th><a href="speichermedien">Speichermedien</a>   <td>Entwurf einer Präsentation über historische Speichermedien
-<tr><th><a href="telegrafie">Telegrafie</a>   <td>Präsentationsentwurf für Telegrafie, Bildtelegrafie und Faximiletechnik
 
-<tr><th><a href="nipkow">Nipkow</a>            <td>Präsentation, welche die physikalischen Grundlagen und Techniken des Fernsehens nach Paul Nipkow zeigt
-<tr><th><a href="lerncomputer">Demo-Computer</a><td>Dokumentation des Siemens Lern-Computers (kein Passwort erforderlich)
-</table>
-
-<div style="text-align:right;"><a href="http://www.technikum29.de/projekte/admin/">Administration der Projekte (online)</a></div>
- --> 
+  

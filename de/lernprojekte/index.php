@@ -51,6 +51,7 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC ü
 	Ein wunderbares Gerät, mit welchem man die Vorgänge elementar verstehen kann, die sich auch heute noch in jedem Computer abspielen.<br>
 	Die Dokumentation hierzu finden Sie in der untenstehenden Tabelle.</p>
 
+	<!--
 <div class="box center">
 <h3>Liste anderer Projekte</h3>
 <p>Jedes Projekt ist möglicherweise mit einer eigenen Benutzer/Passwort-Kombination gesichert.
@@ -66,7 +67,5 @@ Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC ü
 <tr><th><a href="lerncomputer">Demo-Computer</a><td>Dokumentation des Siemens Lern-Computers (kein Passwort erforderlich)
 </table>
 
-</div><!--box-->
-
-<!-- Fussbereich -->
 <div style="text-align:right;"><a href="http://www.technikum29.de/projekte/admin/">Administration der Projekte (online)</a></div>
+ --> 

@@ -118,6 +118,15 @@
 	Gruppe: Biehl
 	</div> 
 	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 15. April</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Freitag, der <b>15. April</b> um 11:00 Uhr <br>
+	Gruppe: CHILI GmbH
+	</div> 
+	
+	
 	 <div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 4. Mai</p></div>

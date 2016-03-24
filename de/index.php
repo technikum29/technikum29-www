@@ -102,13 +102,7 @@
 
 	<hr class="h3-like">
 	
-	 <div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 23. März</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Mittwoch, der <b>23. März</b> um 17:00 Uhr <br>
-	Gruppe: Internetpaten
-	</div> 
+	
 	
 	<div class="box termin clear-after">		
 	<div class="left">

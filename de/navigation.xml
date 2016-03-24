@@ -44,11 +44,11 @@
 			</li>
 		</ul>
 	</li>
-	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Didaktik+Workshop</a>
+	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" class="show-rel-next" href="/de/lehrerinfo.php">Didaktik+Workshop</a>
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
-			<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Kurse</a></li>
+			<li><a href="/robotik/" seiten_id="robotik-ferienkurs" class="show-rel-prev">Robotik-Kurse</a></li>
 		</ul>
 	</li>
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
@@ -244,7 +244,7 @@
 			</li>
 			
 				<li><a href="/de/lehrerinfo.php">Informationen für Lehrer</a></li>
-				<li><a href="/robotik/" seiten_id="robotik-ferienkurs">Robotik-Workshop</a></li>
+				<li><a href="/robotik/">Robotik-Workshop</a></li>
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>

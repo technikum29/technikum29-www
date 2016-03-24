@@ -392,17 +392,14 @@ class t29Template {
 	<?php
 		// only print menu when in sidebar where it applies.
 		// it can also be forced with a global setting $force_footer_menu = 1
-		$print_footer_menu = ($this->conf['seite_in_nav'] == 'side') || isset($this->conf['force_footer_menu']);
+		$print_footer_menu = count($this->page_relations) || isset($this->conf['force_footer_menu']);
+		// old test: ($this->conf['seite_in_nav'] == 'side') || isset($this->conf['force_footer_menu']);
 		
 		// print next or prev entry when the current page has a
 		// "show-rel-next" or "show-rel-prev" class entry
 		$show_rel_next = in_array('show-rel-next', $this->current_link_classes);
 		$show_rel_prev = in_array('show-rel-prev', $this->current_link_classes);
 		
-		// Footer-String, um Footer je nach Footer-Menue "da" oder "nicht da" einbinden zu koennen
-		$footer_text = <<<FOOTER
-		
-FOOTER;
 	?>
     <footer class="in-sheet <?php if(!$print_footer_menu) print "empty-footer"; ?>">
 		<nav class="guide">

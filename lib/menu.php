@@ -228,6 +228,13 @@ class t29Menu {
 		foreach($simplexml_element as $e)
 			$e[$attribute_name] = (self::dom_has_attribute($e, $attribute_name) ? ($e[$attribute_name].$seperator) : '') . $content;
 	}
+
+	public static function dom_attribute_contains($simplexml_element, $attribute_name, $needle) {
+		if(isset($simplexml_element[$attribute_name])) {
+			return strpos((string)$simplexml_element[$attribute_name], $needle) !== false;
+		} else
+			return false;
+	}
 	
 	/**
 	 * Appends a (CSS) class to a simplexml element, seperated by whitespace. Just an alias.
@@ -353,21 +360,29 @@ class t29Menu {
 		if(!$xml) { print "<i>Sidebar not found</i>"; return; }
 		$sidebar = $xml[0];
 		
+		// nur Sidebar-Links kriegen eine Relation aufgeloest
 		$return = array();
-		$current_a = $sidebar->xpath("//a[@seiten_id='$seiten_id']");
-		if(count($current_a)) {
+		$current_a = $sidebar->xpath(".//a[@seiten_id='$seiten_id']");
+		$seiten_id_in_sidebar = count($current_a);
+		// ggf. nochmal global suchen:
+		$current_a = $seiten_id_in_sidebar ? $current_a[0] : $this->get_link($seiten_id);
+		if($current_a) {
 			// wenn aktuelle seite eine geraeteseite ist
 			if(in_array('geraete', $this->get_link_ul_classes($seiten_id))) {
 				//  pfad:                        a ->li->ul.geraete->li->li/a
-				$geraetelink = $current_a[0]->xpath("../../../a");
+				$geraetelink = $current_a->xpath("../../../a");
 				if(count($geraetelink))
 					$return['prev'] = $geraetelink[0];
 				$return['next'] = null; // kein Link nach vorne
 			} else {
-				foreach(array(
-				  "prev" => "preceding::a[@seiten_id]",
-				  "next" => "following::a[@seiten_id]") as $rel => $xpath) {
-					$nodes = $current_a[0]->xpath($xpath);
+				$searches = array();
+				if($seiten_id_in_sidebar || self::dom_attribute_contains($current_a, 'class', 'show-rel-prev'))
+					$searches['prev'] = 'preceding::a[@seiten_id]';
+				if($seiten_id_in_sidebar || self::dom_attribute_contains($current_a, 'class', 'show-rel-next'))
+					$searches['next'] = 'following::a[@seiten_id]';
+
+				foreach($searches as $rel => $xpath) {
+					$nodes = $current_a->xpath($xpath);
 					foreach($rel == "prev" ? array_reverse($nodes) : $nodes as $link) {
 						$is_geraete = count($link->xpath("ancestor::ul[contains(@class, 'geraete')]"));
 						if($is_geraete) continue; // skip geraete links
@@ -376,12 +391,28 @@ class t29Menu {
 					}
 				} // end for prev next
 			} // end if geraete
-		} else {
-			// TODO PENDING: Der Fall tritt derzeit niemals ein, da das XML
-			// sich dann doch irgendwie auf alles bezieht ($sidebar = alles) und
-			// ueberall gesucht wird. Ist aber okay. oder?
-			$return['start'] = t29Menu::dom_new_link('#', 'bla');
 		}
+
+		// Short circuit fuer Links ueberall:
+		// Wenn der aktuelle Link ein "next" oder "prev"-Attribut besitzt, dann ueberschreibt
+		// das alle bisherigen Ergebnisse.
+		// Benutzung: <a seiten_id="a" href="a.html" next="b">foo</a>, <a seiten_id="b">bar</a>
+		//
+		// Funktioniert wahrscheinlich, aber nicht getestet/genutzt, da bislang nur "show-rel-{prev,next}"
+		// genutzt wird (direkte Nachbarn)
+		/*
+		if(!$current_a)
+			// falls $current_a nicht in der sidebar ist, nochmal global suchen
+			$current_a = $this->get_link($seiten_id);
+		$short_circuits = array('prev', 'next');
+		foreach($short_circuits as $rel) {
+			if($current_a[$rel]) {
+				$target = $this->get_link((string) $current_a[$rel]);
+				if($target)
+					$return[$rel] = $target;
+			}
+		}
+		*/
 		
 		// Linkliste aufarbeiten: Nullen rausschmeissen (nur deko) und
 		// Links *klonen*, denn sie werden durch print_menu sonst veraendert
@@ -396,20 +427,6 @@ class t29Menu {
 			$dnc = simplexml_import_dom($dn->cloneNode(true));
 			$return[$key] = $dnc;
 		}
-		
-		// Nov 2015: short circuit: Manuell "ueberladene" bzw. uebertragene Seitenrelationen
-		/**
-		 * Benutzung: Auf Inhaltseite zb. $manuell_naechste_seite = array('href'=>'/de/sonstwas.php', 'label'=>'Computertechnik');
-		 **/
-		 /*
-		$manual_keys = array('next' => "manuell_naechste_seite", 'prev' => 'manuell_vorherige_seite');
-		foreach($manual_keys as $key => $confkey) {
-			if(isset($this->conf[$confkey])) {
-				$retrun[$key] = self::dom_new_link($confkey['href'], $confkey['label']);
-			}
-		}
-		*/
-		// Funktioniert allerding gerade nicht!
 		
 		return $return;
 	}

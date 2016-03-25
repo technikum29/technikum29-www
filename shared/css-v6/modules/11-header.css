@@ -67,9 +67,9 @@ nav.horizontal .u2 > li.active > a {
 
 nav.horizontal a {
 	/*font: 15px "Futura Std Book";*/
-	font-size: 15px;
-	font-weight: bold;
-	text-transform: uppercase;
+	font-size: 17px;
+	/*font-weight: bold;*/
+	/*text-transform: uppercase;*/
 	/*color: #124b6b;*/
 }
 
@@ -160,7 +160,7 @@ nav.horizontal li.small-screen-only {
 /* Farben */
 nav.horizontal a, nav.top li.active a, nav.side a {
 	color: #1a5160;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	opacity: .8;
 }
 
@@ -173,10 +173,10 @@ nav.top {
 
 nav.top, nav.top input, nav.top a {
 	/*font: 15px "Futura Std Medium";*/
-	font-size: 15px;
-	text-transform: uppercase;
+	font-size: 17px;
+	/*text-transform: uppercase;*/
 	color: #757575;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 nav.top form, nav.top ul {

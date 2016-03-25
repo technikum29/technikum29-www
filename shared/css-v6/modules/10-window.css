@@ -8,14 +8,21 @@
 body {
 	/* Hintergrund oben horizontal, fuer unten siehe footer css files */
 	background: #cbc5bd url("/shared/img-v6/bg-v2.body.png") repeat-x;
+	
+	/* Neuer Hintergrund ab 2016, noch nicht aktiv: */
+	/*background: #d0d8dd url("/shared/img-v6/bg2016-v2.body.png") repeat-x;*/
 }
 
 .clear { clear: both; }
 
 
+/* Testweise Futura-Ersatzschrift */ 
+/* eingebunden im HTML */
+/*@import url(https://fonts.googleapis.com/css?family=Nunito);*/
+
 
 body, input { /* font */
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 ::-moz-selection{background:#07a;color:#fff;text-shadow:none}
@@ -24,7 +31,7 @@ body, input { /* font */
 
 nav.horizontal a, nav.side .u1 > li > a {
 	/*font-family: "Futura Std Book", "Trebuchet MS";*/
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: Nunito, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
 }
 
 #container {

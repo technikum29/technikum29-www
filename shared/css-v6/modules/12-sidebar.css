@@ -23,8 +23,8 @@ nav.side .guide-only { display: none; } /* Nur in nav.guide anzeigen */
 
 nav.side .u1 > li > a {
 	/*font: 18px "Futura Std Book";*/
-	font-size: 21px; font-weight: bold;
-	text-transform: uppercase;
+	font-size: 23px; /* font-weight: bold; */
+	/*text-transform: uppercase; */
 	/*color: #124b6b;*/
 	margin: 0 -25px;
 	padding: 5px 25px;
@@ -44,15 +44,15 @@ nav.side .u2 {
 }
 
 nav.side .u2 > li > a {
-	text-transform: uppercase;
-	font-size: 15px;
+	/*text-transform: uppercase; */
+	font-size: 17px;
 	margin: 0 -25px;
 	padding: 5px 25px;
 }
 
 nav.side .u2 > li.active > a {
 	color: #E90015; /* hellblau:  #40a8e2; */
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 nav.side .u3 {
@@ -68,13 +68,13 @@ nav.side .u3 > li > a {
 	margin: 0 -25px 0 -40px;
 	padding: 1px 25px 1px 40px;
 	opacity: .9;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 nav.side .u3 > li.active > a,
 nav.side .u4 > li.active > a {
 	color: #e90015;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 /* 4. Ebene, wird derzeit nicht aktiv verwendet (nur fuer .u4.geraete) */
@@ -161,10 +161,10 @@ section.sidebar .button {
 	cursor: pointer;
 
 	/*font: 14px "Myriad Pro Light";*/
-	font-size: 15px; /*  25.12.2013: .button.collapsed-menu in Navigation drinnnen */
-	text-transform: uppercase;
+	font-size: 17px; /*  25.12.2013: .button.collapsed-menu in Navigation drinnnen */
+	/*text-transform: uppercase; */
 	color: #a07f60;
-	font-weight: bold;
+	/*font-weight: bold;*/
 }
 
 section.sidebar .button:hover {

@@ -118,7 +118,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.<br>
 Teilnehmer:<i> Ferdi, Oskar, Nick, Vincent, Linus, Ben, Caroline, Valerie, Frederic, Sebastian.</i><br>
 Wegen der großen Nachfrage haben wir noch einen zweiten Workshop vom 29.3. bis 1.4. eingerichtet.<br>
-Teilnehmer:<i> Christian, Lasse, Tim, Leopold, Mark, Florian, Luca.</i><br>
+Teilnehmer:<i> Christian, Lasse, Tim, Leopold, Mark, Florian.</i> Zwei Plätze sind noch frei.<br>
 Ein Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
 </p>
 

@@ -267,6 +267,9 @@ class t29Template {
   ?>
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <!-- fancy neue Ersatzschrift fuer Futura, Maerz 2016 -->
+  <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
   <?php
 	$this->print_ressourceloader_links('css', PHP_EOL . '  <link rel="stylesheet" href="%s">');
   ?>
@@ -307,12 +310,14 @@ class t29Template {
 	<section class="sidebar top">
 			<?php /* Platz fuer eigentlich per "Extension" eingepflegtem Inhalt */ ?>
 			<!-- Box (nur DE), die irgendwie sonst keinen Platz findet: -->
+			<!--
 			<?php if(isset($this->conf['lang']) && $this->conf['lang'] == 'de') { ?>
 			<a class="button alertbox termine" href="/de/#termine">
 				<strong>Aktuelle Termine</strong>
 				
 			</a>
 			<?php }/* end of lang==de */ ?>
+			-->
 			
 			<h2 class="visuallyhidden" id="tour-navigation"><?php $p("sidebar-h2-tour"); ?></h2>
 			<?php

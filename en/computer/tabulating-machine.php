@@ -38,7 +38,10 @@
        tabulating machine. Since his friends have not studied computer science,
        they bet against it. The engineer made some programming efforts and won
        the bet. We came across that program, so we are currently trying to get
-       it back running, so we can relive that historical moment. This is the <b>only tabulating machine on this earth that can calculate square roots</b>.<!-- </LOL> -->
+       it back running, so we can relive that historical moment. This is the <b>only tabulating machine on this earth that can calculate square roots</b>.<br>
+	   If you want to know how this is possible without memory can look here:<br>
+	   <a class="go" href="/shared/pdf/wurzelprogramm.pdf">Root program of tabulating,</a> bilinguar French/German. It is based on the so-called Toepler algorithm.
+	   <!-- </LOL> -->
     </p>
 
     <p><small>We would like to thank the <a href="http://www.feb-d.de">F.E.B.

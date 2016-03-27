@@ -110,7 +110,7 @@
 	</div>
 	
 	
-	<h3>Lochschriftübersetzer</h3>
+	<h3 id="548">Lochschriftübersetzer</h3>
 	
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/ibm_548.jpg" alt="IBM 548" width="450" height="464" />

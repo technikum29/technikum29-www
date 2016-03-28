@@ -14,8 +14,8 @@
        odd for today's folks.</p>
 
     <p>The tabulating machine BULL BS-PR was constructed in October 1956, thus it
-       is the oldest pice of EDP in the museum. At these days you could buy it
-       for about 260.000 German marks (about 62.000 US$).
+       is the oldest piece of EDP in the museum. At these days you could buy it
+       for about 260,000 German marks (about 62,000 US$).
        Nevertheless even medium-sized businesses (especially banks) had to buy
 	   these punch card machines to work economically.</p>
 
@@ -27,21 +27,21 @@
        we own other machines that are also operational to perform card driven EDP,
        that is, devices for creation, sorting, mixing, etc. the cards.</p>
 
-    <p>Our tabluating machine is now even capable of calculating and printing bank
-       statements as well as multiplying and dividing.
-    <!-- <LOL> -->
-    <br/>In the year 1959 some BULL engineer asked himself why there was not some
-       algorithm for the tabulating machine somewhere outside to compute square roots.
-       Since he was bored, he knew already dozens of simple algorithms he learned
-       in his study of computer science and he wanted to gouge his friends, he
-       bet them that you could compute square roots of any real number with a
-       tabulating machine. Since his friends have not studied computer science,
-       they bet against it. The engineer made some programming efforts and won
-       the bet. We came across that program, so we are currently trying to get
-       it back running, so we can relive that historical moment. This is the <b>only tabulating machine on this earth that can calculate square roots</b>.<br>
-	   If you want to know how this is possible without memory can look here:<br>
-	   <a class="go" href="/shared/pdf/wurzelprogramm.pdf">Root program of tabulating,</a> bilinguar French/German. It is based on the so-called Toepler algorithm.
-	   <!-- </LOL> -->
+    <p>We have digged out programs in order to enable our tabulating machine to calculate
+       bank statements as well as multiplying and dividing. However, advanced
+       arithmetic operations are not implemented in the computer. Anyway it is possible
+       to implement a good deal of operations with lengthy algorithms borrowed from
+       computer science.
+       
+    <p>And so it came to pass that some BULL engineer asked himself why there was not yet a
+       way to compute square roots on the tabulating machine back then in 1959.
+       Since he was bored, he started to bet against his friends whether he is able to
+       implement the <em>Toepler algorithm</em> on this machine. It turned out it was
+       possible and he won the bet. We came across that program and restored it back
+       to operation. We happily relieved the historical moment having the <b>world's only tabulating
+       machine that can calculate square roots</b>. The algorithm works without any memory.
+       There is a <a class="go" href="/shared/pdf/wurzelprogramm.pdf">program guide (PDF)</a>
+       in German and French.
     </p>
 
     <p><small>We would like to thank the <a href="http://www.feb-d.de">F.E.B.

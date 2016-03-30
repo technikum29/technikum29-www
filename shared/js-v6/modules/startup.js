@@ -34,6 +34,7 @@ t29.startup.modules = [
 	// needs prefs
 	'menu',
 	'piwik',
+	'admin',
 	
 	// ggf verbaendelt mit menu wg scroll lock
 	'smoothscroll',

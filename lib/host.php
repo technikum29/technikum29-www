@@ -140,11 +140,13 @@ abstract class t29Host {
 				$localhost = self::new_singleton('t29HeribertHost');
 				$localhost->setup();
 				return $localhost;
-			case strpos($_SERVER['SERVER_NAME'], 'design') !== false:
-				/* Hostnames like foobar.design.technikum29.de */
-				$localhost = self::new_singleton('t29DesignHost');
-				$localhost->setup();
-				return $localhost;
+			
+			// Hat sich wegen Caching als nicht sinnvolle Loesung herausgestellt
+			//case strpos($_SERVER['SERVER_NAME'], 'design') !== false:
+			//	/* Hostnames like foobar.design.technikum29.de */
+			//	$localhost = self::new_singleton('t29DesignHost');
+			//	$localhost->setup();
+			//	return $localhost;
 		}
 		
 		$publichost = self::new_singleton('t29PublicHost');

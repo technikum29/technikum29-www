@@ -73,8 +73,13 @@ class t29Template {
 		elseif(is_string($this->conf['header_prepend']))
 			$this->conf['header_prepend'] = array($this->conf['header_prepend']); // string to list
 
+		// optional body css classes which can be filled by hooks or parts
+		if(!isset($this->conf['body_classes_append']))
+			$this->conf['body_classes_append'] = array();
+
 		// ask t29Host for configuration fillup
 		$this->conf['host']->fillup_template_conf($this->conf);
+		$this->body_classes += $this->conf['body_classes_append'];
 		
 		// Path names in messages
 		foreach(array('footer-legal-file', 'topnav-search-page') as $msg_id)

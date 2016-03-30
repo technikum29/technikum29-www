@@ -140,6 +140,11 @@ abstract class t29Host {
 				$localhost = self::new_singleton('t29HeribertHost');
 				$localhost->setup();
 				return $localhost;
+			case strpos($_SERVER['SERVER_NAME'], 'design') !== false:
+				/* Hostnames like foobar.design.technikum29.de */
+				$localhost = self::new_singleton('t29DesignHost');
+				$localhost->setup();
+				return $localhost;
 		}
 		
 		$publichost = self::new_singleton('t29PublicHost');
@@ -317,6 +322,22 @@ class t29PublicHost extends t29Host {
 	 **/
 	public $hostname = "public";
 	function fillup_template_conf(&$template_conf) {}
+}
+
+class t29DesignHost extends t29Host {
+	/**
+	 * A host like "foobar.design.technikum29.de". This allows CSS to detect
+	 * the body class "host-foobar-design".
+	 **/
+	public $hostname = 'design';
+	public $designname = 'undefined';
+
+	function fillup_template_conf(&$template_conf) {
+		if(preg_match('/^([^.]+)\.design/i', $_SERVER['SERVER_NAME'], $matches))
+			$this->designname = strtolower($matches[1]).'-design';
+
+		$template_conf['body_classes_append'][] = $this->designname;
+	}
 }
 
 /**

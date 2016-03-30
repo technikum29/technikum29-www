@@ -8,9 +8,12 @@
 body {
 	/* Hintergrund oben horizontal, fuer unten siehe footer css files */
 	background: #cbc5bd url("/shared/img-v6/bg-v2.body.png") repeat-x;
-	
+}
+
+body.bg-test1-design {
+	/* Testweise erreichbar unter http://bg-test1.design.technikum29.de */
 	/* Neuer Hintergrund ab 2016, noch nicht aktiv: */
-	/*background: #d0d8dd url("/shared/img-v6/bg2016-v2.body.png") repeat-x;*/
+	background: #d0d8dd url("/shared/img-v6/bg2016-v2.body.png") repeat-x;
 }
 
 .clear { clear: both; }

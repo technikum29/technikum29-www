@@ -51,11 +51,10 @@
 	
 	if($backurl)  {
 		?><p class="panel-hide">Please <a href="<?=$backurl; ?>">go back to the german page</a>.</p>
-		<p>You can also use automatically generated translations from <a href="http://www.google.com">Google</a> or <a href="http://babelfish.altavista.com">Altavista Babelfish</a>
+		<p>You can also use automatically generated translations from <a href="https://translate.google.com/">Google Translate</a> or <a href="https://www.bing.com/translator">Microsoft Bing</a>
 		(but don't expect too much):</p>
 		<ul>
 		<li><a href="http://translate.google.com/translate?hl=en&sl=de&u=http://www.technikum29.de/<?=$backurl; ?>&prev=/search%3Fq%3Dtechnikum29%26hl%3Den%26lr%3D%26sa%3DN">Read the google translation</a></li>
-		<!--<li><a href="http://babelfish.altavista.com/babelfish/tr?doit=done&url=http://www.technikum29.de/<?=$backurl; ?>&lp=de_en">Read the Altavista bablefish translation</a>-->
 		<li><a href="http://www.microsofttranslator.com/bv.aspx?from=de&to=en&a=http://www.technikum29.de/<?=$backurl; ?>">Read the Microsoft translator (Babelfish/Bing)</a></li>
 		</ul><?php
 	} else {

@@ -81,7 +81,13 @@ h2 {
 	display: none;
 }
 
-.messages.panel { margin-bottom: 20px; }
+.messages.panel {
+	margin-bottom: 20px;
+	/* Sometimes there is stuff with margin-top: -...; at the top.
+	   Make sure we overlay. (Example: Robotik, english translation) */
+	position: relative;
+	z-index: 100;
+}
 
 .messages.panel > li {
 	margin-bottom: 5px;

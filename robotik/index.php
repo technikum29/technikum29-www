@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>28.3.2016
+	<br>1.4.2016
 </div>
 
 <div class="spacing"></div>
@@ -114,12 +114,13 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
-<p>In den Osterferien bieten wir wieder einen Robotik-Workshop an:<br>
+<p>2. Robotik-Workshop in den Osterferien:<br>
 Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.<br>
-Teilnehmer:<i> Ferdi, Oskar, Nick, Vincent, Linus, Ben, Caroline, Valerie, Frederic, Sebastian.</i><br>
-Wegen der großen Nachfrage haben wir noch einen zweiten Workshop vom 29.3. bis 1.4. eingerichtet.<br>
-Teilnehmer:<i> Christian, Lasse, Tim, Leopold, Mark, Florian, Liam.</i><br>
-Ein Fortsetzungskurs wird in der letzten Woche der Sommerferien angeboten.
+Teilnehmer:<i> Ferdi, Oskar, Nick, Vincent, Linus, Ben, Caroline, Valerie, Frederic, Sebastian.</i><br><br>
+
+Termine für die Kurse in den Sommerferien 2016:<br>
+Einführungskurs:	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
+Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </p>
 
 </div><!-- /rightcol -->

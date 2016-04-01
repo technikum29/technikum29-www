@@ -128,7 +128,40 @@
 	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr <br>
 	Für ADFC Frankfurt
 	</div> 
+	
+	<font color="#882201">
 
+
+	<h3><div class="center"><big>Tage der Industriekultur Rhein-Main 2016:</div></h3></big> 
+	Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 13. Aug.</p></div>
+	<h4>Computer ---- Wie alles begann</h4> 
+	Termin: Samstag, der <b>13. August</b> um 14:00 Uhr <br>
+	<div class="small">Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren.
+Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahren gut geeignet. Diese werden aktiv mit einbezogen.</div></div>
+	
+	 <div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 14. Aug.</p></div>
+	<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4> 
+	Termin: Sonntag, der <b>14. August</b> um 14:00 Uhr <br>
+	<div class="small">Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
+Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahren bestens geeignet.</div></div>
+	
+	  <div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 21. Aug.</p></div>
+	<h4>...und sie dreht sich weiter! Von der Lust an  Weltuntergängen und warum sie nicht eintreten</h4> 
+	Termin: Sonntag, der <b>21. August</b> um 19:00 Uhr <br>
+	<div class="small">Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintretenden Weltuntergängen? Und warum eigentlich geht die Welt nicht unter?
+Diesen Fragen widmen sich der Philosoph Dr. Patrick Hedfeld und der Mathematiker Prof. Dr. Bernd Ulmann in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.</div></div>
+
+<hr class="h3-like">
+	</font>  
+	
 	<div class="box termin clear-after">
 	<div class="left">
 	<p class="date"><em>2016</em></p></div>

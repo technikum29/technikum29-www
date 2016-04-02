@@ -86,7 +86,7 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <img src="eds-gruppe-2016.jpg" width="405"  height="250"/> 
 <div class="small">Die EDS-Robotik-Gruppe</small></div>
 </p>
-<h3>Anmeldung</h3>  
+<h3>Anmeldung und Vormerkung</h3>  
 
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
@@ -118,7 +118,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.<br>
 Teilnehmer:<i> Ferdi, Oskar, Nick, Vincent, Linus, Ben, Caroline, Valerie, Frederic, Sebastian.</i><br><br>
 
-Termine für die Kurse in den Sommerferien 2016:<br>
+Termine für die Kurse in den Sommerferien 2016, jeweils von 10 bis 12 Uhr:<br>
 Einführungskurs:	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
 Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </p>

@@ -98,8 +98,8 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 
 <h3>Inhalt</h3>
 <ul>
-<li>Aufbau der Roboter, Erklärung der Sensoren.
-<li>Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
+
+<li>Erklärung der Sensoren. Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
 <li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
 <li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
 <li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
@@ -107,10 +107,10 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
 
 <h3>Voraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf und eignet sich auch noch für 14-jährige Schüler.</p>
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
 
 <h3>Bedingungen und Kosten</h3>
-<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind für den Oster-Kurs bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
+<p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>

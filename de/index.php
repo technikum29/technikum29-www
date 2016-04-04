@@ -167,7 +167,7 @@ Diesen Fragen widmen sich der Philosoph Dr. Patrick Hedfeld und der Mathematiker
 	<p class="date"><em>2016</em></p></div>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="/robotik"> Robotik-Workshop</a><br>
-	Termine: Osterferien 2016 
+	Termine: Sommerferien 2016 
 	</div>
 	
 	<div class="box termin clear-after">

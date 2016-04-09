@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>1.4.2016
+	<br>9.4.2016
 </div>
 
 <div class="spacing"></div>
@@ -16,14 +16,6 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="wegskizze-bahnhof.png" style="width:100%"></a>
 	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
-
-
-<div class="bild-block">
-	<a href="roboter.jpg" class="popup"><img src="roboter.jpg" alt="Roboter" /></a>
-	<p class="bildtext">Bestückt mit 3 Motoren und 5 Sensoren: <a href="roboter.jpg" class="popup">LEGO Mindstorms-Roboter</a></p>
-</div>
-
-
 
 
 <div class="text-block">
@@ -41,6 +33,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	<a class="popup" href="2-roboter.jpg">
 		<img src="2-roboter.jpg" />
 	</a>
+	<p class="bildtext">Roboter bestückt mit 3 Motoren und bis zu 5 Sensoren.</p>
 </div>
 
 <div class="text-block">
@@ -114,9 +107,6 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
-<p>2. Robotik-Workshop in den Osterferien:<br>
-Montag 4.4. bis Freitag 8.4.2016 jeweils von 14 bis 16 Uhr.<br>
-Teilnehmer:<i> Ferdi, Oskar, Nick, Vincent, Linus, Ben, Caroline, Valerie, Frederic, Sebastian.</i><br><br>
 
 Termine für die Kurse in den Sommerferien 2016, jeweils von 10 bis 12 Uhr:<br>
 Einführungskurs:	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>

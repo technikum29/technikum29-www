@@ -102,16 +102,6 @@
 
 	<hr class="h3-like">
 	
-	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 10. April</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Sonntag, der <b>10. April</b> um 14:00 Uhr <br>
-	Gruppe: Biehl
-	</div> 
-	
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 15. April</p></div>

@@ -66,7 +66,7 @@ SIDEBAR_ENDE;
 <br>Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
-<img src="aes-gruppe2016.jpg" width="405"  height="197"/> 
+<img src="aes-gruppe-2016.jpg" width="405"  height="221"/> 
 <div class="small">Die AES-Robotik-Gruppe</small></div>
 </p>
 <p>

@@ -117,10 +117,12 @@
 	Termin: Mittwoch, der <b>18. Mai</b> um 9:30 Uhr <br>
 	Uhlandschule, Frankfurt
 	</div> 
+
 	
 	<font color="#882201">
-	<h3><div class="center"><big>Tage der Industriekultur Rhein-Main 2016:</div></h3></big> 
-	Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.
+	<h3><img src="/shared/photos/start/rdik.png" width="140" height="63"/><big>&nbsp;&nbsp;&nbsp;  Tage der Industriekultur Rhein-Main 2016:</big></h3> 
+	
+	<div class="small">Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.</small>
 	
 	<div class="box termin clear-after">		
 	<div class="left">

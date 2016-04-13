@@ -122,7 +122,7 @@
 	<font color="#882201">
 	<h3><img src="/shared/photos/start/rdik.png" width="140" height="63"/><big>&nbsp;&nbsp;&nbsp;  Tage der Industriekultur Rhein-Main 2016:</big></h3> 
 	
-	<div class="small">Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.</small>
+	<div class="small">Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.</div>
 	
 	<div class="box termin clear-after">		
 	<div class="left">

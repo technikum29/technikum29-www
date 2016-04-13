@@ -107,12 +107,18 @@
 	<p class="date"><em>2016</em> 4. Mai</p></div>
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr <br>
-	Für ADFC Frankfurt
+	ADFC Frankfurt
+	</div> 
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 18. Mai</p></div>
+	<h4>Computer-Dinosaurier (Führung)</h4> 
+	Termin: Mittwoch, der <b>18. Mai</b> um 9:30 Uhr <br>
+	Uhlandschule, Frankfurt
 	</div> 
 	
 	<font color="#882201">
-
-
 	<h3><div class="center"><big>Tage der Industriekultur Rhein-Main 2016:</div></h3></big> 
 	Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.
 	

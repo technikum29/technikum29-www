@@ -118,6 +118,21 @@
 	Uhlandschule, Frankfurt
 	</div> 
 
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 27. Juli</p></div>
+	<h4>Computer-Dinosaurier (Führung)</h4> 
+	Termin: Mittwoch, der <b>27. Juli</b> um 10:00 Uhr <br>
+	Ferienspiele der Stadt Kelkheim
+	</div> 
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 28. Juli</p></div>
+	<h4>Computer-History Workshop</h4> 
+	Termin: Donnerstag, der <b>28. Juli</b> um 9:30 Uhr <br>
+	Ferienspiele der Stadt Kelkheim
+	</div> 
 	
 	<font color="#882201">
 	<h3><img src="/shared/photos/start/rdik.png" width="140" height="63"/><big>&nbsp;&nbsp;&nbsp;  Tage der Industriekultur Rhein-Main 2016:</big></h3> 

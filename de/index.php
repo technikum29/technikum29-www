@@ -110,6 +110,14 @@
 	ADFC Frankfurt
 	</div> 
 	
+	 <div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 5. Mai</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Donnerstag, der <b>5. Mai</b> um 11:00 Uhr <br>
+	Gruppe Steinberg
+	</div> 
+	
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 18. Mai</p></div>
@@ -118,6 +126,15 @@
 	Uhlandschule, Frankfurt
 	</div> 
 
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 26. Juli</p></div>
+	<h4>Robotik-Camp (Workshop)</h4> 
+	Termin: Dienstag, der <b>26. Juli</b> um 9:30 Uhr <br>
+	Ferienspiele der Stadt Kelkheim
+	</div> 
+	
+	
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 27. Juli</p></div>

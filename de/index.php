@@ -128,9 +128,9 @@
 
 	<div class="box termin clear-after">		
 	<div class="left">
-	<p class="date"><em>2016</em> 26. Juli</p></div>
+	<p class="date"><em>2016</em> 20. Juli</p></div>
 	<h4>Robotik-Camp (Workshop)</h4> 
-	Termin: Dienstag, der <b>26. Juli</b> um 9:30 Uhr <br>
+	Termin: Mittwoch, der <b>20. Juli</b> um 9:30 Uhr <br>
 	Ferienspiele der Stadt Kelkheim
 	</div> 
 	

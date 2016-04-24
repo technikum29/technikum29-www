@@ -121,7 +121,7 @@
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 18. Mai</p></div>
-	<h4>Computer-Dinosaurier (Führung)</h4> 
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
 	Termin: Mittwoch, der <b>18. Mai</b> um 9:30 Uhr <br>
 	Uhlandschule, Frankfurt
 	</div> 
@@ -138,7 +138,7 @@
 	<div class="box termin clear-after">		
 	<div class="left">
 	<p class="date"><em>2016</em> 27. Juli</p></div>
-	<h4>Computer-Dinosaurier (Führung)</h4> 
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
 	Termin: Mittwoch, der <b>27. Juli</b> um 10:00 Uhr <br>
 	Ferienspiele der Stadt Kelkheim
 	</div> 

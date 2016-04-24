@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>9.4.2016
+	<br>24.4.2016
 </div>
 
 <div class="spacing"></div>
@@ -62,15 +62,14 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<p><b>Fun for Future:</b> Roboter werden in Zukunft eine immer größere Bedeutung haben. Diese zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. In dem <b>Ferienworkshop</b> lernst du mit einer grafischen Methode, wie man Programme erstellt.
-<br>Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+<p><b>Fun for Future:</b> Es sind nicht die Pop- oder Sportstars, die die Zukunft entwickeln sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. <br>
+In dem <b>Ferienworkshop</b> lernst du mit einer grafischen Methode, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
 <img src="aes-gruppe-2016.jpg" width="405"  height="221"/> 
 <div class="small">Die AES-Robotik-Gruppe</small></div>
 </p>
 <p>
-Als Mars-Rover sucht er selbstständig nach Objekten und nähert sich ihnen vorsichtig an. So scannt er eine unbekannte Fläche ab. Er kann auch tanzen, die Länge von Strecken vermessen oder auf "Straßen" navigieren.<br>
 Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.<br><br>
 
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>

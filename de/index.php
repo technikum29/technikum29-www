@@ -125,6 +125,15 @@
 	Termin: Mittwoch, der <b>18. Mai</b> um 9:30 Uhr <br>
 	Uhlandschule, Frankfurt
 	</div> 
+	
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 29. Mai</p></div>
+	<h4>Computer-History (Führung)</h4> 
+	Termin: Sonntag, der <b>29. Mai</b> um 14:00 Uhr <br>
+	Gruppe Sawitza
+	</div> 
 
 	<div class="box termin clear-after">		
 	<div class="left">

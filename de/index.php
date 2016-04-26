@@ -102,13 +102,13 @@
 
 	<hr class="h3-like">
 	
-	 <div class="box termin clear-after">		
+	<div class="box termin clear-after">
 	<div class="left">
-	<p class="date"><em>2016</em> 4. Mai</p></div>
+	<p class="date"><em>2016</em> 4. Mai</p></div> 
 	<h4>Computer-History (Führung)</h4> 
-	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr <br>
+	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr<br>
 	ADFC Frankfurt
-	</div> 
+	</div>
 	
 	 <div class="box termin clear-after">		
 	<div class="left">
@@ -133,6 +133,14 @@
 	<h4>Computer-History (Führung)</h4> 
 	Termin: Sonntag, der <b>29. Mai</b> um 14:00 Uhr <br>
 	Gruppe Sawitza
+	</div> 
+	
+	<div class="box termin clear-after">		
+	<div class="left">
+	<p class="date"><em>2016</em> 1. Juni</p></div>
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
+	Termin: Mittwoch, der <b>1. Juni</b> um 9:00 Uhr <br>
+	Pestalozzischule, Kelkheim
 	</div> 
 
 	<div class="box termin clear-after">		

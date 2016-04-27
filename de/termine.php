@@ -5,7 +5,7 @@
  * Startseite weiter (dort zum Anker "Termine"):
  **/
  
-	header("Location: /de/#Termine"); exit;
+#	header("Location: /de/#Termine"); exit;
 
 /**
  * Wenn obige "header(...)"-Zeile auskommentiert bzw entfernt wird, ist diese
@@ -28,7 +28,7 @@
 	<h3>Kulturelle Veranstaltungen</h3>
 	
 	<div class="box termin clear-after">
-		<p class="date left">25 <em>Mai</em></p>
+		<p class="date2 left">25 <em>Mai</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Freitag, den 10. Mai um 20:30 Uhr</dd>
@@ -50,7 +50,7 @@
 	
 
 	<div class="box termin clear-after">
-		<p class="date left">14 <em>Aug</em></p>
+		<p class="date2 left">14 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
@@ -63,7 +63,7 @@
 			
 			
 	<div class="box termin clear-after">
-		<p class="date left">17 <em>Aug</em></p>
+		<p class="date2 left">17 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
@@ -79,7 +79,7 @@ Mathematikers/Informatikers (<a href="http://www.vaxman.de/about_me/about.html">
 	</div>
 
 	<div class="box termin clear-after">
-		<p class="date left">18 <em>Aug</em></p>
+		<p class="date2 left">18 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>

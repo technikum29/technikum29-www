@@ -66,7 +66,7 @@ div.anmelden {
 
 
 /* Date Icon */
-p.date {
+p.date2 {
 	width: 90px;
 	background: #fcfcfc; 
 	background: linear-gradient(top, #fcfcfc 0%,#dad8d8 100%); 
@@ -81,12 +81,12 @@ p.date {
 	-webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
 }
 
-p.date.left {
+p.date2.left {
 	float: left;
 	margin: 0 30px 30px 0;
 }
 
-p.date {
+p.date2 {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 66px;
 	text-align: center !important; /* wg #content p */
@@ -96,7 +96,7 @@ p.date {
 	line-height: 100%;
 }
 
-p.date em {
+p.date2 em {
 	background: #d10000; 
 	background: linear-gradient(top, #d10000 0%, #7a0909 100%);
 	background: -moz-linear-gradient(top, #d10000 0%, #7a0909 100%);

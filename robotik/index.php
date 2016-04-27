@@ -126,7 +126,7 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für 11- bis 13-Jährige</big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche im Alter von 11 bis 13 Jahren einen Geburtstags-Event der besonderen Art an: <br>
-	Zunächst erfolgt eine kurze altersgemäße Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
+	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 2,5 Stunden.</p>
 </div>

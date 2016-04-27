@@ -179,7 +179,7 @@
 	<h4>Computer ---- Wie alles begann</h4> 
 	Termin: Samstag, der <b>13. August</b> um 14:00 Uhr <br>
 	<div class="small">Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren.
-Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahren gut geeignet. Diese werden aktiv mit einbezogen.</div></div>
+Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.</div></div>
 	
 	 <div class="box termin clear-after">		
 	<div class="left">
@@ -187,7 +187,7 @@ Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der
 	<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4> 
 	Termin: Sonntag, der <b>14. August</b> um 14:00 Uhr <br>
 	<div class="small">Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
-Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahren bestens geeignet.</div></div>
+Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahre bestens geeignet.</div></div>
 	
 	  <div class="box termin clear-after">		
 	<div class="left">

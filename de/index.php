@@ -102,6 +102,47 @@
 
 	<hr class="h3-like">
 	
+	<ul>
+	
+	<li>
+	<h4>Computer-History (Führung)</h4> 
+	<b>4. Mai</b> (Mittwoch) um 12:30 Uhr, ADFC Frankfurt
+	</li>
+	
+	<li>
+	<h4>Computer-History (Führung)</h4> 
+	<b>5. Mai</b> (Donnerstag) um 11:00 Uhr, Gruppe Steinberg</li>
+	
+	<li>
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
+	<b>18. Mai</b> (Mittwoch) um 9:30 Uhr, Uhlandschule Frankfurt</li>
+	
+	<li>
+	<h4>Computer-History (Führung)</h4>
+	<b>29. Mai</b> (Sonntag) um 14:00 Uhr, Gruppe Sawitza</li>
+	
+	<li>
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
+	<b>1. Juni</b> (Mittwoch) um 9:00 Uhr, Pestalozzischule, Kelkheim</li>
+	
+	<li>
+	<h4>Robotik-Camp (Workshop)</h4>
+	<b>20. Juli</b> (Mittwoch) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li>
+	
+	
+	<li>
+	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
+	<b>27. Juli</b> (Mittwoch) um 10:00 Uhr, Ferienspiele der Stadt Kelkheim</li>
+	
+	<li>
+	<h4>Computer-History Workshop</h4>
+	<b>28. Juli</b> (Donnerstag) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li> 
+	</ul>
+	<br>
+	
+	
+	
+	<!--
 	<div class="box termin clear-after">
 	<div class="left">
 	<p class="date"><em>2016</em> 4. Mai</p></div> 
@@ -167,6 +208,7 @@
 	Termin: Donnerstag, der <b>28. Juli</b> um 9:30 Uhr <br>
 	Ferienspiele der Stadt Kelkheim
 	</div> 
+	-->
 	
 	<font color="#882201">
 	<h3><img src="/shared/photos/start/rdik.png" width="140" height="63"/><big>&nbsp;&nbsp;&nbsp;  Tage der Industriekultur Rhein-Main 2016:</big></h3> 
@@ -200,19 +242,22 @@ Diesen Fragen widmen sich der Philosoph Dr. Patrick Hedfeld und der Mathematiker
 <hr class="h3-like">
 	</font>  
 	
-	<div class="box termin clear-after">
+	<!--<div class="box termin clear-after">
 	<div class="left">
-	<p class="date"><em>2016</em></p></div>
+	<p class="date"><em>2016</em></p></div>-->
+	<ul>
+	<li>
 	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
 	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="/robotik"> Robotik-Workshop</a><br>
-	Termine: Sommerferien 2016 
-	</div>
+	Termine: Sommerferien 2016 </li>
+	<!--</div>-->
 	
-	<div class="box termin clear-after">
+	<!--<div class="box termin clear-after">
 	<div class="left">
-	<p class="date"><em>2016</em></p></div>
-	<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
-	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
+	<p class="date"><em>2016</em></p></div>-->
+	<li><h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
+	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a></li>
+	</ul>
 	</div><div>
 	
 	

@@ -102,8 +102,8 @@
 
 	<hr class="h3-like">
 	
-	<ul>
 	
+	<ul>
 	<li>
 	<h4>Computer-History (Führung)</h4> 
 	<b>4. Mai</b> (Mittwoch) um 12:30 Uhr, ADFC Frankfurt
@@ -126,6 +126,10 @@
 	<b>1. Juni</b> (Mittwoch) um 9:00 Uhr, Pestalozzischule, Kelkheim</li>
 	
 	<li>
+	<h4>Computer-History-Workshop</h4>
+	<b>12. Juli</b> (Dienstag) um 10:00 Uhr, Leibnitz-Schule Offenbach</li>
+	
+	<li>
 	<h4>Robotik-Camp (Workshop)</h4>
 	<b>20. Juli</b> (Mittwoch) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li>
 	
@@ -135,7 +139,7 @@
 	<b>27. Juli</b> (Mittwoch) um 10:00 Uhr, Ferienspiele der Stadt Kelkheim</li>
 	
 	<li>
-	<h4>Computer-History Workshop</h4>
+	<h4>Computer-History-Workshop</h4>
 	<b>28. Juli</b> (Donnerstag) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li> 
 	</ul>
 	<br>

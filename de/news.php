@@ -85,13 +85,6 @@
 </a></li>
 
 
-<li><a href="/robotik">
-<h3>...seit August 2014</h3>
-<img src="/robotik/roboter.jpg" width="153" height="122" />
-Robotik-Ferienkurse für Kids zwischen 11 und 13 Jahren.<br>
-Die spaßig intelligente Ferienalternative.
-</a> 
-
 </li>
 
 

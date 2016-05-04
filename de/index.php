@@ -104,10 +104,6 @@
 	
 	
 	<ul>
-	<li>
-	<h4>Computer-History (Führung)</h4> 
-	<b>4. Mai</b> (Mittwoch) um 12:30 Uhr, ADFC Frankfurt
-	</li>
 	
 	<li>
 	<h4>Computer-History (Führung)</h4> 

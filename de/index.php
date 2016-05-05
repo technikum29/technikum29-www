@@ -106,10 +106,6 @@
 	<ul>
 	
 	<li>
-	<h4>Computer-History (Führung)</h4> 
-	<b>5. Mai</b> (Donnerstag) um 11:00 Uhr, Gruppe Steinberg</li>
-	
-	<li>
 	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
 	<b>18. Mai</b> (Mittwoch) um 9:30 Uhr, Uhlandschule Frankfurt</li>
 	

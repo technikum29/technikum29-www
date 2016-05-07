@@ -8,7 +8,7 @@
 	require "../lib/mail/mailer.php";
 
 	// Captcha-Sicherung gegen Spam hier an- oder ausschalten
-	$spamschutz_aktiv = true;
+	$spamschutz_aktiv = false;
 	
 	// Bestätigungsmail hier ein- oder ausschalten
 	$bestaetigungsmail_senden = false;
@@ -91,7 +91,7 @@
 		$mailer = new t29Mailer($_POST);
 		
 		// fill up form data
-		$mailer->to = "team"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
+		$mailer->to = "sven"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
 		$mailer->subject = "Webanmeldung für Führung \"{veranstaltung}\"";
 		$from = 'dev'; // Spamschutz (webSVN)
 		$mailer->header = array(
@@ -136,13 +136,14 @@ MAIL_BODY;
 		$mailer->ack_body = <<<ACK_MAIL_BODY
 Hallo {anmelder_name},
 
-vielen Dank für Ihre Web-Anmeldung zu einer Führung im technikum29 Computer Museum (http://www.technikum29.de/).
+vielen Dank für Ihre Web-Anmeldung zu einer Führung im technikum29-Computermuseum (http://www.technikum29.de/).
 
 Sie haben sich mit {personenanzahl} zu der Führung "{veranstaltung}" am {termin} angemeldet.
 
 Diese Mail bestätigt den Eingang ihrer Anmeldung. Bitte setzen Sie sich bei weiteren Fragen mit der Museumsführung in Kontakt, schreiben Sie dazu eien Mail an post@technikum29.de, siehe auch Kontaktdaten auf http://www.technikum29.de/de/impressum .
 
--- Diese E-Mail wurde automatisch generiert. Bitte antworten Sie nicht darauf --
+Mit freundlichen Grüßen,
+das technikum29-Computermuseum
 ACK_MAIL_BODY;
 
 		$mailer->output_error_page = function($mailer, $text) {
@@ -166,7 +167,9 @@ ACK_MAIL_BODY;
 			<em><?=$mailer->email_adresse; ?></em>. Bei Fragen wenden Sie sich bitte an die Museumsführung, siehe
 			Kontaktdaten im <a href="/de/impressum">Impressum</a>.-->
 			
-			Innerhalb von zwei Tagen erhalten Sie eine persönliche Bestätigungsmail. Sollte die Antwort ausbleiben,
+			<!--
+			Innerhalb von zwei Tagen erhalten Sie eine persönliche Bestätigungsmail. Sollte die Antwort ausbleiben,-->
+			Wenn Sie weitere Fragen haben,
 			können Sie den Kontakt jederzeit über die Kontaktdaten aus dem <a href="/de/impressum">Impressum</a>
 			herstellen.
 			</p>

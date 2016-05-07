@@ -21,74 +21,136 @@
 
 	<h2>Termine und Führungen</h2>
 	
-	<p>Zur Zeit sind nur Gruppenanmeldungen (ab 8 Personen) möglich. Termine an beliebigen Tagen und Zeiten nach Absprache.
-	<br/>Einzelpersonen können ihr Interesse jedoch mitteilen. Sie werden per Mail informiert, wenn in einer Gruppe noch Plätze frei sind.
-	<br/>Der Eintritt beträgt eine Fl. Rotwein der unteren Preisklasse pro Person ("Rabatt" für Gruppen über 10 Pers.). Für Schüler und Studenten ist der Eintritt frei.</p>
+	<p>Diese Seite listet bereits feststehende Termine im Frühling und Sommer 2016 auf und bietet
+	Möglichkeiten zur Anmeldung. Für allgemeine Informationen über Führungen und Gruppenanmeldungen
+	siehe die <a href="index.php">Startseite</a>.
+
+	<h3>Termine im Frühling und Sommer 2016</h3>
+	<p>Die folgenden Veranstaltungen sind bereits ausgebucht, eine Teilnahme ist nicht möglich.</p>
+
+	<table class="termine">
+	<tr class="title">
+		<th>Datum
+		<th>Uhrzeit
+		<th>Titel
+		<th>Typ
+		<th>Teilnehmer
+	<tr>
+		<td>18. Mai (Mi)
+		<td>09:30 Uhr
+		<td>Computer-Dinosaurier
+		<td>Interaktive Führung
+		<td>Uhlandschule Frankfurt
+	<tr>
+		<td>29. Mai (So)
+		<td>14:00 Uhr
+		<td>Computer-History
+		<td>Führung
+		<td>Gruppe Sawitza
+	<tr>
+		<td>01. Juni (Mi)
+		<td>09:00 Uhr
+		<td>Computer-Dinosaurier
+		<td>Interaktive Führung
+		<td>Pestalozzischule, Kelkheim
+	<tr>
+		<td>12. Juli (Di)
+		<td>10:00 Uhr
+		<td>Computer-History
+		<td>Workshop
+		<td>Leibnitz-Schule Offenbach
+	<tr>
+		<td>20. Juli (Mi)
+		<td>09:30 Uhr
+		<td>Robotik-Camp
+		<td>Workshop
+		<td>Ferienspiele der Stadt Kelkheim
+	<tr>
+		<td>27. Juli (Mi)
+		<td>10:00 Uhr
+		<td>Computer-Dinosaurier
+		<td>Interaktive Führung
+		<td>Ferienspiele der Stadt Kelkheim
+	<tr>
+		<td>28. Juli (Do)
+		<td>09:30 Uhr
+		<td>Computer-History
+		<td>Workshop
+		<td>Ferienspiele der Stadt Kelkheim
+	</table>
 	
-	<h3>Kulturelle Veranstaltungen</h3>
+		
+	<h3>Tage der Industriekultur Rhein-Main 2016</h3>
+	<img class="industriekultur" src="/shared/photos/start/rdik.png">
+	
+	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Route der Industriekultur Rhein-Main</a> richtet die <a href="http://www.krfrm.de/">KulturRegion FrankfurtRheinMain</a> dieses Jahr zum vierzehnten mal die
+	<a href="http://www.krfrm.de/projekte/route-der-industriekultur/tage-der-industriekultur-2016/">Tage der Industriekultur Rhein-Main</a>
+	aus, zu denen das <a href="/">technikum29</a> zum dritten mal seine Türen öffnet.
+	
+	<p>Der Eintritt für diese drei Veranstaltungen ist kostenlos. Eine Anmeldung ist erforderlich.</p>
+	
 	
 	<div class="box termin clear-after">
-		<p class="date2 left">25 <em>Mai</em></p>
+		<p class="date2 left">13 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
-			<dd class="termin">Freitag, den 10. Mai um 20:30 Uhr</dd>
-			<dt>Ort</dt>
-			<dd><a href="http://www.achtbruecken.de/programm/110853/">Kunst-Station Sankt Peter, Köln</a>
+			<dd class="termin">Samstag, den 13. August 2016 um 14 Uhr</dd>
+			<dd class="anmelden"><button>Anmelden</button></dd>
 		</dl>
-		<h4>Punchcard music</h4>
+		<h4>Computer &ndash; Wie alles begann</h4>
 		
-		Unser <a href="/de/rechnertechnik/lochkarten-edv#026">IBM 026-Card-Punch</a> ist in einem
-		Konzert in Köln zu "hören!" Siehe <a class="go" href="http://www.punchcardmusic.de/"><b>punchcard music</b></a>
-		<br>
-		ein Auftragswerk von <a href="http://www.achtbruecken.de/">ACHT BRÜCKEN | Musik für Köln</a>
+		Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren.
+Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.
 	</div>
-
-
-	<h3>Tage der Industriekultur Rhein-Main</h3>
-	
-	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/" class="go">Tage der Industriekultur Rhein-Main</a> bieten wir folgende Veranstaltungen an (jeweils ca. 90 Miunten, freier Eintritt, Voranmeldung ist erforderlich, siehe <a href="/de/impressum">Kontakt</a>):<br><br>
-	
-
+			
+			
 	<div class="box termin clear-after">
 		<p class="date2 left">14 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
-			<dd class="termin">Mittwoch, den 14. August 2013 um 19 Uhr</dd>
+			<dd class="termin">Sonntag, den 14. August um 14 Uhr</dd>
 			<dd class="anmelden"><button>Anmelden</button></dd>
 		</dl>
-		<h4>1. Die Geschichte der Kommunikation</h4>
+		<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4>
 		
-		Eine lebendige Führung mit vielen Live-Demonstrationen und Experimenten. Auch für Kids ab ca. 10 Jahre bestens geeignet.
-	</div>
-			
-			
-	<div class="box termin clear-after">
-		<p class="date2 left">17 <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Samstag, den 17. August um 19 Uhr</dd>
-			<dd class="anmelden"><button>Anmelden</button></dd>
-		</dl>
-		<h4>2. Beeinflusst Sprache unser Denken?</h4>
-		
-Kann man über Probleme nachdenken, sie
-gar lösen, ohne dies in Form einer Sprache formulieren zu können? Kann es
-sein, dass unterschiedliche Sprachen einem unterschiedliche Einblicke in ein
-Problem gewähren? Diese und weitere Fragen werden in einem Vortrag aus der Sicht eines
-Mathematikers/Informatikers (<a href="http://www.vaxman.de/about_me/about.html">Prof. Dr. B. Ulmann</a>),  sowie eines Philosophen (P. Hedfeld) behandelt, wobei der Bogen von abstrakten Dingen bis hin zu Donald Duck Comics gespannt wird. Geeignet ab ca. 16 Jahre.<br>
-	</div>
-
-	<div class="box termin clear-after">
-		<p class="date2 left">18 <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Sonntag, den 18. August um 14 Uhr</dd>
-			<dd class="anmelden"><button>Anmelden</button></dd>
-		</dl>
-		<h4>3. Computer History</h4>
-		Unsere klassische Führung als Zeitreise durch die Computerwelten sowie die Entstehung von EDV und IT mit vielen einmaligen funktionsfähigen Urzeit-Rechnern. Auch für interessierte Kids ab ca. 9 Jahre bestens geeignet.<br>
+		Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
+		Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahre bestens geeignet.
 	</div>
 	
+	
+	<div class="box termin clear-after">
+		<p class="date2 left">21 <em>Aug</em></p>
+		<dl class="daten right">
+			<dt>Termin</dt>
+			<dd class="termin">Sonntag, den 21. August um 19 Uhr</dd>
+			<dd class="anmelden"><button>Anmelden</button></dd>
+		</dl>
+		<h4>...und sie dreht sich weiter! Von der Lust an  Weltuntergängen und warum sie nicht eintreten</h4> 
+		
+Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintretenden Weltuntergängen? Und warum eigentlich geht die Welt nicht unter?
+Diesen Fragen widmen sich der Philosoph Dr. <a href="http://patrick-hedfeld.de/">Patrick Hedfeld</a> und der Mathematiker Prof. Dr. <a href="http://www.analogmuseum.org/deutsch/">Bernd Ulmann</a> in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.
+	</div>
+	
+	
+	<h3>Weitere Angebote</h3>
+	
+	<div class="box termin clear-after">
+		<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren</h4>
+		
+		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a>
+		
+		<p><b>Termine</b> in den Sommerferien 2016
+	</div>
+	
+	<div class="box termin clear-after">
+		<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4>
+		
+		<p>Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids.
+		
+		
+		<p><b>Weitere Informationen</b> <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
+		<br><b>Termine</b> nach Absprache
+	</div>
 	
 	<!-- "Rohmaske" einer Anmelde-Box als Vorlage fürs Script -->
 	<script type="text/html" id="anmeldung_tmpl">

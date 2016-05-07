@@ -3,12 +3,19 @@
 
 /* Ueberschrift */
 
+#content div.termin {
+	background-color: #edf0f2;
+	padding: 2em;
+}
+
 #content div.termin h4 /* id zur Bedeutungssteigerung */ {
     font-weight: bold;
     font-size: 113%;
     font-family: inherit; /* 04.01.10: Neue Header-Styles */
     border: none;         /*           neutralisieren     */
     color: #1A5160; /* gleiche Farbe wie Navilinks rechts */
+    
+    margin-top: 0;
 }
 
 /* Details */
@@ -30,7 +37,13 @@ dl.daten.right {
 	float: right;
 	margin: 0 0 30px 30px;
 	background-color: #eee;
-	padding: 20px;
+	/*padding: 20px;*/
+	width: 14em;
+}
+
+#content img.industriekultur { /* das Bild */
+	float: right;
+	margin: 20px;
 	width: 14em;
 }
 
@@ -42,30 +55,31 @@ dd.anmelden button, div.anmelden input.submit {
 }
 
 /* Anmeldebox */
-div.anmelden {
+div.anmelde-maske {
 	clear: both;
 	background-color: #eee;
 	padding: 1em;
 }
 
-#content div.anmelden h4 { margin-top: 0; }
+#content div.anmelde-maske h4 { margin-top: 1em; }
 
-#content div.anmelden dl dt {
+#content div.anmelde-maske dl dt {
 	float: left; clear: left;
 	width: 180px;
 	text-align: right; font-weight: bold;
 	margin-top: 0;
 }
 
-#content div.anmelden dl dd {
+#content div.anmelde-maske dl dd {
 	margin: 0 0 0 200px;
 	padding: 0 0 0.5em 0;
 	text-align: left;
 }
 
 
-
 /* Date Icon */
+p.date2 { display: none; }
+
 p.date2 {
 	width: 90px;
 	background: #fcfcfc; 
@@ -110,4 +124,13 @@ p.date2 em {
 	-moz-border-radius: 0 0 10px 10px;
 	-webkit-border-radius: 0 0 10px 10px;
 	padding: 4px 0 3px;
+}
+
+/* Tabelle mit geschlossenen Terminen */
+table.termine {
+	width: 100%;
+}
+
+table.termine tr.title {
+	background-color: #edf0f2;
 }

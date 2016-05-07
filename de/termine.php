@@ -25,60 +25,50 @@
 	Möglichkeiten zur Anmeldung. Für allgemeine Informationen über Führungen und Gruppenanmeldungen
 	siehe die <a href="index.php">Startseite</a>.
 
-	<h3>Termine im Frühling und Sommer 2016</h3>
-	<p>Die folgenden Veranstaltungen sind bereits ausgebucht, eine Teilnahme ist nicht möglich.</p>
+	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
+	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a> oder nutzen
+	Sie das <a hreF="anmelden.php" class="go">Anmeldeformular</a>.
 
+	<h3>Termine im Frühling und Sommer 2016</h3>
+	<p>Die folgende Tabelle listet Gruppenanmeldungen in den nächsten Wochen und Monaten auf.
+	Falls Plätze frei werden, können sich Interessenten <a href="anmelden.php">anmelden</a>. Aus Kapazitätsgründen erlauben
+	wir Veranstaltungen nur mit Maximalgrößen.
+
+	<div class="termine">
 	<table class="termine">
 	<tr class="title">
-		<th>Datum
-		<th>Uhrzeit
-		<th>Titel
-		<th>Typ
+		<th>Datum und Uhrzeit
+		<th>Titel und Typ
 		<th>Teilnehmer
 	<tr>
-		<td>18. Mai (Mi)
-		<td>09:30 Uhr
-		<td>Computer-Dinosaurier
-		<td>Interaktive Führung
-		<td>Uhlandschule Frankfurt
+		<td>18. Mai (Mi)<br>09:30 Uhr
+		<td>Computer-Dinosaurier <br>Interaktive Führung
+		<td>Uhlandschule Frankfurt <br> <span class="label ausgebucht">Ausgebucht</span>
 	<tr>
-		<td>29. Mai (So)
-		<td>14:00 Uhr
-		<td>Computer-History
-		<td>Führung
-		<td>Gruppe Sawitza
+		<td>29. Mai (So)<br>14:00 Uhr
+		<td>Computer-History <br>Führung
+		<td>Gruppe Sawitza  <br> <span class="label ausgebucht">Ausgebucht</span>
 	<tr>
-		<td>01. Juni (Mi)
-		<td>09:00 Uhr
-		<td>Computer-Dinosaurier
-		<td>Interaktive Führung
-		<td>Pestalozzischule, Kelkheim
+		<td>01. Juni (Mi)<br>09:00 Uhr
+		<td>Computer-Dinosaurier <br>Interaktive Führung
+		<td>Pestalozzischule, Kelkheim  <br> <span class="label ausgebucht">Ausgebucht</span>
 	<tr>
-		<td>12. Juli (Di)
-		<td>10:00 Uhr
-		<td>Computer-History
-		<td>Workshop
-		<td>Leibnitz-Schule Offenbach
+		<td>12. Juli (Di)<br>10:00 Uhr
+		<td>Computer-History <br>Workshop
+		<td>Leibnitz-Schule Offenbach  <br> <span class="label ausgebucht">Ausgebucht</span>
 	<tr>
-		<td>20. Juli (Mi)
-		<td>09:30 Uhr
-		<td>Robotik-Camp
-		<td>Workshop
-		<td>Ferienspiele der Stadt Kelkheim
+		<td>20. Juli (Mi)<br>09:30 Uhr
+		<td>Robotik-Camp <br>Workshop
+		<td>Ferienspiele der Stadt Kelkheim  <br> <span class="label verfuegbar">Teilnahme möglich</span>
 	<tr>
-		<td>27. Juli (Mi)
-		<td>10:00 Uhr
-		<td>Computer-Dinosaurier
-		<td>Interaktive Führung
-		<td>Ferienspiele der Stadt Kelkheim
+		<td>27. Juli (Mi)<br>10:00 Uhr
+		<td>Computer-Dinosaurier <br>Interaktive Führung
+		<td>Ferienspiele der Stadt Kelkheim <br> <span class="label verfuegbar">Teilnahme möglich</span>
 	<tr>
-		<td>28. Juli (Do)
-		<td>09:30 Uhr
-		<td>Computer-History
-		<td>Workshop
-		<td>Ferienspiele der Stadt Kelkheim
-	</table>
-	
+		<td>28. Juli (Do)<br>09:30 Uhr
+		<td>Computer-History <br>Workshop
+		<td>Ferienspiele der Stadt Kelkheim  <br> <span class="label verfuegbar">Teilnahme möglich</span>
+	</table></div>
 		
 	<h3>Tage der Industriekultur Rhein-Main 2016</h3>
 	<img class="industriekultur" src="/shared/photos/start/rdik.png">

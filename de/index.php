@@ -8,7 +8,7 @@
 
     <div class="cols clear-after startseiten-boxen">
        <div class="leftcol">
-	     <a href="#Termine" class="smooth-scroll div left mobile clear-after termine oben">
+	     <a href="/de/termine.php" class="smooth-scroll div left mobile clear-after termine oben">
 		   <img src="/shared/img-v6/date.png" class="kalender">
 		   <span class="h2">Termine <br> Führungen <br> Events</span>
 		 </a>
@@ -90,174 +90,32 @@
 
 <div class="clear">&nbsp;</div>  
 
+<!-- Beginn Link zu Terminspezialseite -->
+<a href="/de/termine.php" class="termine div left oben" style="width: auto;">
+   <img src="/shared/img-v6/date.png" class="kalender">
+   <span class="h2">Termine, Führungen und Events</span>
+   <span style="display: block; clear: left"></span>
+ </a>
+<!-- Ende Link zu Terminspezialseite -->
 
 
+
+<!-- Das ist die alte Terminbox, die bei wenig Aufkommen wieder verwendet werden kann -->
+<!--
 <div id="termine" class="termine">
-<h2>Termine</h2>
+	<h2>Termine</h2>
 
-<!-- fuer das hier nicht: -->
-<!--<h3><big>Termine</big></h3>-->
-<!-- fuer das hier gabs ein Design: -->
-
-
-	<hr class="h3-like">
-	
-	
-	<ul>
-	
-	<li>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
-	<b>18. Mai</b> (Mittwoch) um 9:30 Uhr, Uhlandschule Frankfurt</li>
-	
-	<li>
-	<h4>Computer-History (Führung)</h4>
-	<b>29. Mai</b> (Sonntag) um 14:00 Uhr, Gruppe Sawitza</li>
-	
-	<li>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
-	<b>1. Juni</b> (Mittwoch) um 9:00 Uhr, Pestalozzischule, Kelkheim</li>
-	
-	<li>
-	<h4>Computer-History-Workshop</h4>
-	<b>12. Juli</b> (Dienstag) um 10:00 Uhr, Leibnitz-Schule Offenbach</li>
-	
-	<li>
-	<h4>Robotik-Camp (Workshop)</h4>
-	<b>20. Juli</b> (Mittwoch) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li>
-	
-	
-	<li>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4>
-	<b>27. Juli</b> (Mittwoch) um 10:00 Uhr, Ferienspiele der Stadt Kelkheim</li>
-	
-	<li>
-	<h4>Computer-History-Workshop</h4>
-	<b>28. Juli</b> (Donnerstag) um 9:30 Uhr, Ferienspiele der Stadt Kelkheim</li> 
-	</ul>
-	<br>
-	
-	
-	
-	<!--
 	<div class="box termin clear-after">
 	<div class="left">
 	<p class="date"><em>2016</em> 4. Mai</p></div> 
 	<h4>Computer-History (Führung)</h4> 
-	Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr<br>
-	ADFC Frankfurt
+	<p>Das hier ist die Beschreibung des Termins, an dem man erfährt, wie zu
+	Uhrzeiten Dinosaurier durch die damals noch verbundenen Kontinente liefen.
+	Da gab es den Sägelzahntieger und das Mammut, aber keinen Menschen. Und überhaupt
+	war damals an Computer noch gar nicht zu denken. Dinosaurier waren sehr schlecht
+	in Mathe, weil ihr Gehirn so klein war.
+	<p>Termin: Mittwoch, der <b>4. Mai</b> um 12:30 Uhr
 	</div>
-	
-	 <div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 5. Mai</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Donnerstag, der <b>5. Mai</b> um 11:00 Uhr <br>
-	Gruppe Steinberg
-	</div> 
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 18. Mai</p></div>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
-	Termin: Mittwoch, der <b>18. Mai</b> um 9:30 Uhr <br>
-	Uhlandschule, Frankfurt
-	</div> 
-	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 29. Mai</p></div>
-	<h4>Computer-History (Führung)</h4> 
-	Termin: Sonntag, der <b>29. Mai</b> um 14:00 Uhr <br>
-	Gruppe Sawitza
-	</div> 
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 1. Juni</p></div>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
-	Termin: Mittwoch, der <b>1. Juni</b> um 9:00 Uhr <br>
-	Pestalozzischule, Kelkheim
-	</div> 
-
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 20. Juli</p></div>
-	<h4>Robotik-Camp (Workshop)</h4> 
-	Termin: Mittwoch, der <b>20. Juli</b> um 9:30 Uhr <br>
-	Ferienspiele der Stadt Kelkheim
-	</div> 
-	
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 27. Juli</p></div>
-	<h4>Computer-Dinosaurier (Interaktive Führung)</h4> 
-	Termin: Mittwoch, der <b>27. Juli</b> um 10:00 Uhr <br>
-	Ferienspiele der Stadt Kelkheim
-	</div> 
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 28. Juli</p></div>
-	<h4>Computer-History Workshop</h4> 
-	Termin: Donnerstag, der <b>28. Juli</b> um 9:30 Uhr <br>
-	Ferienspiele der Stadt Kelkheim
-	</div> 
-	-->
-	
-	<font color="#882201">
-	<h3><img src="/shared/photos/start/rdik.png" width="140" height="63"/><big>&nbsp;&nbsp;&nbsp;  Tage der Industriekultur Rhein-Main 2016:</big></h3> 
-	
-	<div class="small">Der Eintritt für diese 3 Veranstaltungen ist kostenlos. Anmeldung erforderlich.</div>
-	
-	<div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 13. Aug.</p></div>
-	<h4>Computer ---- Wie alles begann</h4> 
-	Termin: Samstag, der <b>13. August</b> um 14:00 Uhr <br>
-	<div class="small">Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren.
-Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.</div></div>
-	
-	 <div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 14. Aug.</p></div>
-	<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4> 
-	Termin: Sonntag, der <b>14. August</b> um 14:00 Uhr <br>
-	<div class="small">Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
-Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahre bestens geeignet.</div></div>
-	
-	  <div class="box termin clear-after">		
-	<div class="left">
-	<p class="date"><em>2016</em> 21. Aug.</p></div>
-	<h4>...und sie dreht sich weiter! Von der Lust an  Weltuntergängen und warum sie nicht eintreten</h4> 
-	Termin: Sonntag, der <b>21. August</b> um 19:00 Uhr <br>
-	<div class="small">Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintretenden Weltuntergängen? Und warum eigentlich geht die Welt nicht unter?
-Diesen Fragen widmen sich der Philosoph Dr. Patrick Hedfeld und der Mathematiker Prof. Dr. Bernd Ulmann in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.</div></div>
-
-<hr class="h3-like">
-	</font>  
-	
-	<!--<div class="box termin clear-after">
-	<div class="left">
-	<p class="date"><em>2016</em></p></div>-->
-	<ul>
-	<li>
-	<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren.</h4> 
-	Hochinteressante Kurse in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a class="go" href="/robotik"> Robotik-Workshop</a><br>
-	Termine: Sommerferien 2016 </li>
-	<!--</div>-->
-	
-	<!--<div class="box termin clear-after">
-	<div class="left">
-	<p class="date"><em>2016</em></p></div>-->
-	<li><h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4> 
-	Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids. Termine nach Absprache.&nbsp; &nbsp; Siehe: <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a></li>
-	</ul>
-	</div><div>
-	
-	
-	
-<br>
->>>> Für alle Veranstaltungen (Events) ist eine Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a> erforderlich!
+</div>
+-->
 

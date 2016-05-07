@@ -3,7 +3,7 @@
 
 /* Ueberschrift */
 
-#content div.termin {
+#content div.termin, #content div.termine {
 	background-color: #edf0f2;
 	padding: 2em;
 }
@@ -129,8 +129,43 @@ p.date2 em {
 /* Tabelle mit geschlossenen Terminen */
 table.termine {
 	width: 100%;
+	line-height: 140%;
+}
+
+table.termine td {
+	padding: .3em;
 }
 
 table.termine tr.title {
 	background-color: #edf0f2;
 }
+
+table.termine tr:nth-child(even) {
+	background-color: #E4E3E3;
+}
+
+
+/* Labels */
+span.label {
+	color: #fff;
+	border-radius: 0.25em;
+	display: inline;
+	font-size: 75%;
+	font-weight: 700;
+	line-height: 1;
+	padding: 0.2em 0.6em 0.3em;
+	text-align: center;
+	vertical-align: baseline;
+	white-space: nowrap;
+
+}
+
+span.label.ausgebucht {
+	background-color: #d9534f;
+}
+
+span.label.verfuegbar {
+	background-color: #5cb85c;
+}
+
+

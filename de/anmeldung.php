@@ -18,7 +18,7 @@
 
 	<h2>Termine und Führungen - Anmeldung</h2>
 	
-	<p>Siehe <a href="/de/#termine">Termine auf Startseite</a> für verfügbare Termine.</p>
+	<p>Siehe die <a href="/de/termine.php">Terminübersicht</a> für verfügbare Termine.</p>
 	
 	<?php
 		$veranstaltung = isset($_GET['veranstaltung']) ? $_GET['veranstaltung'] : '';
@@ -196,6 +196,7 @@ ACK_MAIL_BODY;
 		// mailer starten
 		if(!$mailer->run()) {
 			?><div style="opacity:0.5"><hr>
-			<p><small>Es wurde ein Fehler beim Anmelden festgestellt</small></p><?php
+			<p><small>Es wurde ein Fehler beim Anmelden festgestellt. Bitte schicken Sie uns eine
+			reguläre E-Mail, Kontaktdaten finden Sie in unserem <a href="/de/impressum.php">Impressum</a></small></p><?php
 		}
 	}

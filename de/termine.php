@@ -27,11 +27,11 @@
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a> oder nutzen
-	Sie das <a hreF="anmelden.php" class="go">Anmeldeformular</a>.
+	Sie das <a hreF="anmeldung.php" class="go">Anmeldeformular</a>.
 
 	<h3>Termine im Frühling und Sommer 2016</h3>
 	<p>Die folgende Tabelle listet Gruppenanmeldungen in den nächsten Wochen und Monaten auf.
-	Falls Plätze frei werden, können sich Interessenten <a href="anmelden.php">anmelden</a>. Aus Kapazitätsgründen erlauben
+	Falls Plätze frei werden, können sich Interessenten <a href="anmeldung.php">anmelden</a>. Aus Kapazitätsgründen erlauben
 	wir Veranstaltungen nur mit Maximalgrößen.
 
 	<div class="termine">

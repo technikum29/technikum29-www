@@ -41,33 +41,33 @@
 		<th>Titel und Typ
 		<th>Teilnehmer
 	<tr>
-		<td>18. Mai (Mi)<br>09:30 Uhr
+		<td><b>18. Mai</b> (Mi)<br>09:30 Uhr
 		<td>Computer-Dinosaurier <br>Interaktive Führung
-		<td>Uhlandschule Frankfurt <br> <span class="label ausgebucht">Ausgebucht</span>
+		<td>Uhlandschule Frankfurt <br> <!--<span class="label ausgebucht">Ausgebucht</span>-->
 	<tr>
-		<td>29. Mai (So)<br>14:00 Uhr
+		<td><b>29. Mai</b> (So)<br>14:00 Uhr
 		<td>Computer-History <br>Führung
-		<td>Gruppe Sawitza  <br> <span class="label ausgebucht">Ausgebucht</span>
+		<td>Gruppe Sawitza  <br> 
 	<tr>
-		<td>01. Juni (Mi)<br>09:00 Uhr
+		<td><b>01. Juni</b> (Mi)<br>09:00 Uhr
 		<td>Computer-Dinosaurier <br>Interaktive Führung
-		<td>Pestalozzischule, Kelkheim  <br> <span class="label ausgebucht">Ausgebucht</span>
+		<td>Pestalozzischule, Kelkheim 
 	<tr>
-		<td>12. Juli (Di)<br>10:00 Uhr
+		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <br>Workshop
-		<td>Leibnitz-Schule Offenbach  <br> <span class="label ausgebucht">Ausgebucht</span>
+		<td>Leibnitz-Schule Offenbach  
 	<tr>
-		<td>20. Juli (Mi)<br>09:30 Uhr
+		<td><b>20. Juli</b> (Mi)<br>09:30 Uhr
 		<td>Robotik-Camp <br>Workshop
-		<td>Ferienspiele der Stadt Kelkheim  <br> <span class="label verfuegbar">Teilnahme möglich</span>
+		<td>Ferienspiele der Stadt Kelkheim  <br> <!--<span class="label verfuegbar">Anmeldungen noch möglich</span>-->
 	<tr>
-		<td>27. Juli (Mi)<br>10:00 Uhr
+		<td><b>27. Juli</b> (Mi)<br>10:00 Uhr
 		<td>Computer-Dinosaurier <br>Interaktive Führung
-		<td>Ferienspiele der Stadt Kelkheim <br> <span class="label verfuegbar">Teilnahme möglich</span>
+		<td>Ferienspiele der Stadt Kelkheim 
 	<tr>
-		<td>28. Juli (Do)<br>09:30 Uhr
+		<td><b>28. Juli</b> (Do)<br>09:30 Uhr
 		<td>Computer-History <br>Workshop
-		<td>Ferienspiele der Stadt Kelkheim  <br> <span class="label verfuegbar">Teilnahme möglich</span>
+		<td>Ferienspiele der Stadt Kelkheim 
 	</table></div>
 		
 	<h3>Tage der Industriekultur Rhein-Main 2016</h3>

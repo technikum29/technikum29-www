@@ -21,18 +21,17 @@
 
 	<h2>Termine und Führungen</h2>
 	
-	<p>Diese Seite listet bereits feststehende Termine im Frühling und Sommer 2016 auf und bietet
+	<p>Diese Seite listet bereits feststehende Termine auf und bietet gegebenenfalls
 	Möglichkeiten zur Anmeldung. Für allgemeine Informationen über Führungen und Gruppenanmeldungen
-	siehe die <a href="index.php">Startseite</a>.
+	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a> oder nutzen
 	Sie das <a hreF="anmeldung.php" class="go">Anmeldeformular</a>.
 
-	<h3>Termine im Frühling und Sommer 2016</h3>
-	<p>Die folgende Tabelle listet Gruppenanmeldungen in den nächsten Wochen und Monaten auf.
-	Falls Plätze frei werden, können sich Interessenten <a href="anmeldung.php">anmelden</a>. Aus Kapazitätsgründen erlauben
-	wir Veranstaltungen nur mit Maximalgrößen.
+	<h3>Termine 2016</h3>
+	<p>Die folgende Tabelle listet Gruppenanmeldungen auf.
+	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich <a href="anmeldung.php">anmelden</a>. 
 
 	<div class="termine">
 	<table class="termine">

@@ -101,7 +101,7 @@
 
 
 <!-- Das ist die alte Terminbox, die bei wenig Aufkommen wieder verwendet werden kann -->
-<!--
+
 <div id="termine" class="termine">
 	<h2>Termine</h2>
 

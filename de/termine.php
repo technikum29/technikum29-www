@@ -34,36 +34,39 @@
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">
-		<th>Datum und Uhrzeit
-		<th>Titel und Typ
-		<th>Teilnehmer
+		<th>Datum
+		<th>Titel
+		<th>Typ
+		<th>Teilnehmer 
+		
 	<tr>
 		<td><b>18. Mai</b> (Mi)<br>09:30 Uhr
-		<td>Computer-Dinosaurier <br>Interaktive Führung
-		<td>Uhlandschule Frankfurt <br> <!--<span class="label ausgebucht">Ausgebucht</span>-->
+		<td>Computer-Dinosaurier
+		<td>Interaktive Führung
+		<td>Uhlandschule Frankfurt <br> 
 	<tr>
 		<td><b>29. Mai</b> (So)<br>14:00 Uhr
-		<td>Computer-History <br>Führung
+		<td>Computer-History <td>Führung
 		<td>Gruppe Sawitza  <br> 
 	<tr>
 		<td><b>01. Juni</b> (Mi)<br>09:00 Uhr
-		<td>Computer-Dinosaurier <br>Interaktive Führung
+		<td>Computer-Dinosaurier <td>Interaktive Führung
 		<td>Pestalozzischule, Kelkheim 
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
-		<td>Computer-History <br>Workshop
+		<td>Computer-History <td>Workshop
 		<td>Leibnitz-Schule Offenbach  
 	<tr>
 		<td><b>20. Juli</b> (Mi)<br>09:30 Uhr
-		<td>Robotik-Camp <br>Workshop
-		<td>Ferienspiele der Stadt Kelkheim  <br> <!--<span class="label verfuegbar">Anmeldungen noch möglich</span>-->
+		<td>Robotik-Camp <td>Workshop
+		<td>Ferienspiele der Stadt Kelkheim  <br>
 	<tr>
 		<td><b>27. Juli</b> (Mi)<br>10:00 Uhr
-		<td>Computer-Dinosaurier <br>Interaktive Führung
+		<td>Computer-Dinosaurier <td>Interaktive Führung
 		<td>Ferienspiele der Stadt Kelkheim 
 	<tr>
 		<td><b>28. Juli</b> (Do)<br>09:30 Uhr
-		<td>Computer-History <br>Workshop
+		<td>Computer-History <td>Workshop
 		<td>Ferienspiele der Stadt Kelkheim 
 	</table></div>
 		
@@ -86,8 +89,7 @@
 		</dl>
 		<h4>Computer &ndash; Wie alles begann</h4>
 		
-		Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren.
-Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.
+		Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren. Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.
 	</div>
 			
 			

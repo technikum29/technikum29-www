@@ -132,8 +132,13 @@ table.termine {
 	line-height: 140%;
 }
 
-table.termine td {
+table.termine td, table.termine th {
 	padding: .3em;
+	vertical-align: middle;
+}
+
+table.termine th {
+	PADDING-BOTTOM: 1em;
 }
 
 table.termine tr.title {

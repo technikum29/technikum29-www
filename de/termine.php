@@ -72,7 +72,7 @@
 	
 	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Route der Industriekultur Rhein-Main</a> richtet die <a href="http://www.krfrm.de/">KulturRegion FrankfurtRheinMain</a> dieses Jahr zum vierzehnten mal die
 	<a href="http://www.krfrm.de/projekte/route-der-industriekultur/tage-der-industriekultur-2016/">Tage der Industriekultur Rhein-Main</a>
-	aus, zu denen das <a href="/">technikum29</a> zum dritten mal seine Türen öffnet.
+	aus, zu denen das technikum29 zum vierten mal seine Türen öffnet.
 	
 	<p>Der Eintritt für diese drei Veranstaltungen ist kostenlos. Eine Anmeldung ist erforderlich.</p>
 	

@@ -91,7 +91,7 @@
 		$mailer = new t29Mailer($_POST);
 		
 		// fill up form data
-		$mailer->to = "sven"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
+		$mailer->to = "team"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
 		$mailer->subject = "Webanmeldung für Führung \"{veranstaltung}\"";
 		$from = 'dev'; // Spamschutz (webSVN)
 		$mailer->header = array(

@@ -53,6 +53,10 @@
 		<td>Computer-Dinosaurier <td>Interaktive Führung
 		<td>Pestalozzischule, Kelkheim 
 	<tr>
+		<td><b>14. Juni</b> (Di)<br>10:00 Uhr
+		<td>Computer-Event <td>Programm-Erweiterungen
+		<td>Gruppe Naumann 
+	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <td>Workshop
 		<td>Leibnitz-Schule Offenbach  
@@ -84,7 +88,7 @@
 		<p class="date2 left">13 <em>Aug</em></p>
 		<dl class="daten right">
 			<dt>Termin</dt>
-			<dd class="termin">Samstag, den 13. August 2016 um 14 Uhr</dd>
+			<dd class="termin">Samstag, den 13. August um 14 Uhr</dd>
 			<dd class="anmelden"><button>Anmelden</button></dd>
 		</dl>
 		<h4>Computer &ndash; Wie alles begann</h4>
@@ -105,7 +109,7 @@
 		Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
 		Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahre bestens geeignet.
 	</div>
-	
+
 	
 	<div class="box termin clear-after">
 		<p class="date2 left">21 <em>Aug</em></p>

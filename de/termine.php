@@ -39,11 +39,7 @@
 		<th>Typ
 		<th>Teilnehmer 
 		
-	<tr>
-		<td><b>18. Mai</b> (Mi)<br>09:30 Uhr
-		<td>Computer-Dinosaurier
-		<td>Interaktive Führung
-		<td>Uhlandschule Frankfurt <br> 
+	
 	<tr>
 		<td><b>29. Mai</b> (So)<br>14:00 Uhr
 		<td>Computer-History <td>Führung

@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>24.4.2016
+	<br>21.5.2016
 </div>
 
 <div class="spacing"></div>
@@ -115,6 +115,24 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 <div class="clear cols">
+
+	<div  class="box bordered nomargin-bottom" id="3D">
+	<p class="bildtext"><big><big><b>3D-Labor</b></big></big>   (In Vorbereitung) <br><br>
+	Hier geht es um die Generierung, Darstellung und den Ausdruck von dreidimensionalen Körpern. <br>
+	Laut namhafter Zeitschriften läuten die 3D-Drucker die dritte industrielle Revolution ein und Deutschland´s Schulen verschlafen diese. Um Abhilfe zu schaffen, bietet das technikum29-Team in Kürze an Schulen einen Workshop "3D-Labor" an. Für geeignete Schüler ab Klasse 8 wird es um folgende Inhalte gehen: <br>
+	<ul>
+	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
+	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
+	<li>Stepper-Motoren und deren Ansteuerung</li>
+	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
+	<li>Programmierung der Drucker über G-Code</li>
+	<li>Einführung in die Anwendung von CAD (Computer-Aided-Design)</li>
+	<li>Entwerfen und Ausdrucken von dreidimensionalen Modellen.</li>
+	<li>Modellieren und Ausdrucken von allen mechanischen Teilen zum Aufbau eines 3D-Scanners.</li>
+	<li>Eigene 3D-Scan´s bearbeiten, verändern und ausdrucken.</li>
+</ul>
+Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs bereits in den Herbstferien auch im technikum29 anbieten.	</p>
+</div>
 
 
 		<div  class="box bordered nomargin-bottom" id="camp">

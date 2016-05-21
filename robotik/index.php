@@ -119,7 +119,7 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<div  class="box bordered nomargin-bottom" id="3D">
 	<p class="bildtext"><big><big><b>3D-Labor</b></big></big>   (In Vorbereitung) <br><br>
 	Hier geht es um die Generierung, Darstellung und den Ausdruck von dreidimensionalen Körpern. <br>
-	Laut namhafter Zeitschriften läuten die 3D-Drucker die dritte industrielle Revolution ein und Deutschland´s Schulen verschlafen diese. Um Abhilfe zu schaffen, bietet das technikum29-Team in Kürze an Schulen einen Workshop "3D-Labor" an. Für geeignete Schüler ab Klasse 8 wird es um folgende Inhalte gehen: <br>
+	Laut namhafter Zeitschriften läuten 3D-Drucker die dritte industrielle Revolution ein und Deutschland´s Schulen verschlafen diese. Um Abhilfe zu schaffen, bietet das technikum29-Team in Kürze an Schulen einen Workshop "3D-Labor" an. Für geeignete Schüler ab Klasse 8 wird es um folgende Inhalte gehen: <br>
 	<ul>
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>

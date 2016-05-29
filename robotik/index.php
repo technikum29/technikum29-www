@@ -123,7 +123,7 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<ul>
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
-	<li>Stepper-Motoren und deren Ansteuerung</li>
+	<li>Stepper-Motoren und deren Ansteuerung (Arduino µC)</li>
 	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
 	<li>Programmierung der Drucker über G-Code</li>
 	<li>Einführung in die Anwendung von CAD (Computer-Aided-Design)</li>

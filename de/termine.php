@@ -40,10 +40,7 @@
 		<th>Teilnehmer 
 		
 	
-	<tr>
-		<td><b>29. Mai</b> (So)<br>14:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>Gruppe Sawitza  <br> 
+	
 	<tr>
 		<td><b>01. Juni</b> (Mi)<br>09:00 Uhr
 		<td>Computer-Dinosaurier <td>Interaktive Führung

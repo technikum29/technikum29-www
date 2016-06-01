@@ -42,9 +42,9 @@
 	
 	
 	<tr>
-		<td><b>01. Juni</b> (Mi)<br>09:00 Uhr
-		<td>Computer-Dinosaurier <td>Interaktive Führung
-		<td>Pestalozzischule, Kelkheim 
+		<td><b>04. Juni</b> (Sa)<br>15:00 Uhr
+		<td>Computer-History<td>Workshop
+		<td>Geburtstags-Event für Lorenzo 
 	<tr>
 		<td><b>14. Juni</b> (Di)<br>10:00 Uhr
 		<td>Computer-Event <td>Programm-Erweiterungen

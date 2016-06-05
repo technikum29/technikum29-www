@@ -35,9 +35,9 @@
 		
 		
 		<p>Die einzelnen Module können ausgeklappt werden, wodurch das Gerät sehr servicefreundlich ist. Zwei große Ventilatoren ziehen die durch die Heizung der Röhren bedingte Wärme aus dem Gehäuse. 
-            <br/>Beim Anschluss an eine BULL Tabelliermaschine werden die Informationen der Lochkartenabfühlbürsten direkt in den Gamma 3 eingelesen. Es lassen sich so Programme und Daten eingeben, die vom Gamma 3 unmittelbar bearbeitet werden. Die Ausgabe der Ergebnisse wird in das Druckwerk der Tabelliermaschine zurückgeführt.
+            <br/>Beim Anschluss an eine BULL Tabelliermaschine werden die Informationen der Lochkarten-abfühlbürsten direkt in den Gamma 3 eingelesen. Es lassen sich so Programme und Daten eingeben, die vom Gamma 3 unmittelbar bearbeitet werden. Die Ausgabe der Ergebnisse wird in das Druckwerk der Tabellier-maschine zurückgeführt.
 		    <br/>Da unsere Tabelliermaschine und der Gamma 3 nicht genau aus der gleichen Zeit stammen, ist ein unmittelbarer Anschluss des Rechners nicht möglich. Die Schnittstellen umfassen etwa 80-100 Leitungen!
-		    <br/>Techniker und Ingenieure, die damit gearbeitet haben und sich in dieser völlig anderen Welt des Rechnens auskannten, sind heute schon deutlich über 80 Jahre alt und stehen daher als "Einstiegshilfe" leider kaum noch zur Verfügung. Dieser Rechner wird daher vermutlich nie mehr seine Funktion demonstrieren können.
+		    <br/>Techniker und Ingenieure, die damit gearbeitet haben und sich in dieser völlig anderen Welt des Rechnens auskannten, sind heute schon deutlich über 85 Jahre alt und stehen daher als "Einstiegshilfe" leider kaum noch zur Verfügung. Dieser Rechner wird daher vermutlich nie mehr seine Funktion demonstrieren können.
 		</p>
 	
 	<div class="box clear">

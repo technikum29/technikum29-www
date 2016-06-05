@@ -111,7 +111,8 @@
             <br />The overall design of the calculator is quite futuristic - the machine might well be found in
 		    a space travel movie of that time. The smallest model featuring only the four basic arithmetic
 		    operations was sold for about 5000 DM while the larger model, the FRIDEN 132, which included a
-		    square root function, was priced at 6700 DM.
+		    square root function, was priced at 6700 DM.</p>
+			A beautiful advertising leaflet, one finds here:	<a class="go" href="http://archive.computerhistory.org/resources/text/Friden/Friden.130.1964.102646292.pdf" target="_blank">"Mathematics for the Space Age"</a> 
 		</p>
     </div>
 

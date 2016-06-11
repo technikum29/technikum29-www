@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>21.5.2016
+	<br>11.6.2016
 </div>
 
 <div class="spacing"></div>
@@ -38,8 +38,8 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Robotik in der Schule:</strong>
-	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! <br>
-	Diese Kurse sind total ausgebucht: An der AES gab es über 40 Anmeldungen aus den 6. Klassen.<br><br>
+	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
+	<br><br>
 	Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a> </p>
 </div>
 
@@ -107,7 +107,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 
-Termine für die Kurse in den Sommerferien 2016, jeweils von 10 bis 12 Uhr:<br>
+Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 12 Uhr:<br>
 Einführungskurs:	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
 Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </p>
@@ -123,13 +123,13 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<ul>
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
-	<li>Stepper-Motoren und deren Ansteuerung (Arduino µC)</li>
+	<li>Einführung in die Programmierung des Arduino Micro-Controllers</li>
+	<li>Ansteuerung von Steppermotoren über Arduino</li>
 	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
 	<li>Programmierung der Drucker über G-Code</li>
 	<li>Einführung in die Anwendung von CAD (Computer-Aided-Design)</li>
 	<li>Entwerfen und Ausdrucken von dreidimensionalen Modellen.</li>
-	<li>Modellieren und Ausdrucken von allen mechanischen Teilen zum Aufbau eines 3D-Scanners.</li>
-	<li>Eigene 3D-Scan´s bearbeiten, verändern und ausdrucken.</li>
+	
 </ul>
 Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs bereits in den Herbstferien auch im technikum29 anbieten.	</p>
 </div>

@@ -39,11 +39,10 @@
 		<th>Typ
 		<th>Teilnehmer 
 		
-	
 	<tr>
-		<td><b>14. Juni</b> (Di)<br>10:00 Uhr
-		<td>Computer-Event <td>Programm-Erweiterungen
-		<td>Gruppe Naumann 
+		<td><b>24. Juni</b> (Fr)<br>15:00 Uhr
+		<td>Computer-History <td>Führung
+		<td>Exxeta AG, Frankfurt 
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <td>Workshop

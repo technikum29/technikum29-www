@@ -42,7 +42,12 @@
 	<tr>
 		<td><b>24. Juni</b> (Fr)<br>15:00 Uhr
 		<td>Computer-History <td>Führung
-		<td>Exxeta AG, Frankfurt 
+		<td>Exxeta AG, Frankfurt
+	<tr>
+		<td><b>10. Juli</b> (So)<br>15:00 Uhr
+		<td>Computer-History-Workshop <td>Geburtstags-Event
+		<td>
+		
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <td>Workshop

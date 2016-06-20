@@ -128,9 +128,9 @@ Diesen Fragen widmen sich der Philosoph Dr. <a href="http://patrick-hedfeld.de/"
 	</div>
 	
 	<div class="box termin clear-after">
-		<h4>Geburtstags-Event für Kids von 11-13 Jahren.</h4>
+		<h4>Geburtstags-Event für Kids ab 11 Jahren.</h4>
 		
-		<p>Dinosaurier-Computer hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids.
+		<p>Computer-Dinosaurier hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids.
 		
 		
 		<p><b>Weitere Informationen</b> <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>

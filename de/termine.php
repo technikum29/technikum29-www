@@ -46,7 +46,7 @@
 	<tr>
 		<td><b>10. Juli</b> (So)<br>15:00 Uhr
 		<td>Computer-History-Workshop <td>Geburtstags-Event
-		<td>
+		<td>Tobia wird 14 Jahre alt
 		
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
@@ -64,7 +64,14 @@
 		<td><b>28. Juli</b> (Do)<br>09:30 Uhr
 		<td>Computer-History <td>Workshop
 		<td>Ferienspiele der Stadt Kelkheim 
-	</table></div>
+
+	<tr>
+		<td><b>18. Sept.</b> (So)<br>15:00 Uhr
+		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
+		<td>Constantin wird 10 Jahre alt
+		
+		</table></div>
+		
 		
 	<h3>Tage der Industriekultur Rhein-Main 2016</h3>
 	<img class="industriekultur" src="/shared/photos/start/rdik.png">

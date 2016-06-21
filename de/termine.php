@@ -46,8 +46,7 @@
 	<tr>
 		<td><b>10. Juli</b> (So)<br>15:00 Uhr
 		<td>Computer-History-Workshop <td>Geburtstags-Event
-		<td>Tobia wird 14 Jahre alt
-		
+		<td>für Tobia (dann 14J.) 
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <td>Workshop
@@ -68,7 +67,7 @@
 	<tr>
 		<td><b>18. Sept.</b> (So)<br>15:00 Uhr
 		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
-		<td>Constantin wird 10 Jahre alt
+		<td>für Constantin (dann 10J.) 
 		
 		</table></div>
 		

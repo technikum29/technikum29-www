@@ -52,7 +52,7 @@ SIDEBAR_ENDE;
 <header class="teaser">
 	<h2>
 	<span class="subtext">Spaßig-intelligente Alternative für die Ferien:</span>
-	Roboter bauen und programmieren
+	Roboter programmieren
 	</h2>
 	<img class="no-copyright" src="header-bild.jpg">
 </header>
@@ -123,7 +123,7 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<ul>
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
-	<li>Einführung in die Programmierung des Arduino Micro-Controllers</li>
+	<li>Einführung in die Programmierung des Arduino Micro-Controllers, Sensortechnik</li>
 	<li>Ansteuerung von Steppermotoren über Arduino</li>
 	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
 	<li>Programmierung der Drucker über G-Code</li>
@@ -131,7 +131,8 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<li>Entwerfen und Ausdrucken von dreidimensionalen Modellen.</li>
 	
 </ul>
-Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs bereits in den Herbstferien auch im technikum29 anbieten.	</p>
+Vorkenntnisse werden nicht vorausgesetzt, wohl aber gewisse technische Fähigkeiten, Spaß am logischen Denken und die Bereitschaft, sich wirklich zu engagieren sowie Geduld und Teamfähigkeit.<br>
+ Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs bereits in den Herbstferien auch im technikum29 anbieten.	</p>
 </div>
 
 

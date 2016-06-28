@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>20.6.2016
+	<br>28.6.2016
 </div>
 
 <div class="spacing"></div>
@@ -108,8 +108,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine in den Ferien</h3>
 
 Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 12 Uhr:<br>
-Einführungskurs:	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
-Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
+<b>Einführungskurs:</b>	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
+<b>Fortsetzungskurs:</b>	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </p>
 
 </div><!-- /rightcol -->
@@ -123,7 +123,7 @@ Fortsetzungskurs:	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 	<ul>
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
-	<li>Einführung in die Programmierung des Arduino Micro-Controllers, Sensortechnik</li>
+	<li>Die Welt der Micro-Controller und Sensoren (Programmieren des Arduino µC)</li>
 	<li>Ansteuerung von Steppermotoren über Arduino</li>
 	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
 	<li>Programmierung der Drucker über G-Code</li>

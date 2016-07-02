@@ -143,7 +143,7 @@ Vorkenntnisse werden nicht vorausgesetzt, wohl aber gewisse technische Fähigkei
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
-	<p class="bildtext"><big><big>Geburtstags-Event für Kids ab 11</big></big> <br><br>
+	<p class="bildtext"><big><big><b>Geburtstags-Event für Kids ab 11</b></big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 11 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 

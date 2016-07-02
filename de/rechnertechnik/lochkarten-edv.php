@@ -10,7 +10,7 @@
     <p>Lochkarten sind ein sehr altes Medium, um Daten zu speichern. Man kann sie beschriften, sie sind handlich und schnell sortierbar und haben noch viele andere Vorteile. Daher fanden sie bis in die 80er Jahre Verwendung . Der Hauptumsatz an Lochkarten war wohl in den 60er Jahren zu verzeichnen, als die EDV aufblühte. Die hier aufgeführeten Lochkarten-Peripheriegeräte waren notwendig um effektiv mit EDV-Anlagen arbeiten zu können. Wir stellen daher zunächst die Peripherigeräte und dann die eigentlichen EDV-Anlagen des technikum29 vor.<br>
 	Aus heutiger Sicht ist die Größe der Geräte, deren Anschaulichkeit und deren teils beeindruckenden Funktion bewundernswert. Im technikum29 rattern noch viele dieser dinosaurierhaften Maschinen.</p>
 <h3>Lochkartenstanzer</h3>
-    <div class="box left clear-after">
+    <div class="box left">
         <img src="/shared/photos/rechnertechnik/lochkartenstanzer.jpg" alt="Lochkartenstanzer" width="330" height="368" class="nomargin-bottom" />
         <div class="bildtext">
            

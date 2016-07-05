@@ -49,6 +49,11 @@
 		<td>Computer-History <td>Workshop
 		<td>Leibnitz-Schule Offenbach  
 	<tr>
+		<td><b>13. Juli</b> (Mi)<br>9:30 Uhr
+		<td>Computer-History <td>Workshop
+		<td>Hochtaunusschule  	
+		
+	<tr>
 		<td><b>20. Juli</b> (Mi)<br>09:30 Uhr
 		<td>Robotik-Camp <td>Workshop
 		<td>Ferienspiele der Stadt Kelkheim  <br>

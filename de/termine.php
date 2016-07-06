@@ -65,8 +65,12 @@
 		<td><b>28. Juli</b> (Do)<br>09:30 Uhr
 		<td>Computer-History <td>Workshop
 		<td>Ferienspiele der Stadt Kelkheim 
-
 	<tr>
+		<td><b>2. August</b> (Di)<br>16:00 Uhr
+		<td>Computer-History <td>Führung
+		<td>Industriepark Höchst  
+	<tr>
+		
 		<td><b>18. Sept.</b> (So)<br>15:00 Uhr
 		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
 		<td>für Constantin (dann 10J.) 

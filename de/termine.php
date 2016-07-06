@@ -25,8 +25,8 @@
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
-	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a> oder nutzen
-	Sie das <a hreF="anmeldung.php" class="go">Anmeldeformular</a>.
+	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a> <!--oder nutzen
+	Sie das <a hreF="anmeldung.php" class="go">Anmeldeformular</a>. -->
 
 	<p>Die folgende Tabelle listet Gruppenanmeldungen auf.
 	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. 
@@ -93,7 +93,7 @@
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Samstag, den 13. August um 14 Uhr</dd>
-			<dd class="anmelden"><button>Anmelden</button></dd>
+		<!--	<dd class="anmelden"><button>Anmelden</button></dd> -->
 		</dl>
 		<h4>Computer &ndash; Wie alles begann</h4>
 		
@@ -106,7 +106,7 @@
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Sonntag, den 14. August um 14 Uhr</dd>
-			<dd class="anmelden"><button>Anmelden</button></dd>
+		<!--	<dd class="anmelden"><button>Anmelden</button></dd> -->
 		</dl>
 		<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4>
 		
@@ -120,7 +120,7 @@
 		<dl class="daten right">
 			<dt>Termin</dt>
 			<dd class="termin">Sonntag, den 21. August um 19 Uhr</dd>
-			<dd class="anmelden"><button>Anmelden</button></dd>
+			<!-- <dd class="anmelden"><button>Anmelden</button></dd> -->
 		</dl>
 		<h4>...und sie dreht sich weiter! Von der Lust an  Weltuntergängen und warum sie nicht eintreten</h4> 
 		

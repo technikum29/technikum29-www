@@ -135,13 +135,6 @@ Vorkenntnisse werden nicht vorausgesetzt, wohl aber gewisse technische Fähigkei
  Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs bereits in den Herbstferien auch im technikum29 anbieten.	</p>
 </div>
 
-
-		<div  class="box bordered nomargin-bottom" id="camp">
-	<p class="bildtext"><big><big><b>Robotik-Camp für Schüler der Klassen 6/7</b></big></big> <br><br>
-	Im Rahmen des Junioren-Programms der "Route der Industriekultur Rhein-Main" bieten wir vom 4. Juli bis 14. Juli ein Robotik-Camp für Schulen an.
-	Hier können interessierte Schüler an einem Tag die Grundlagen der Programmierung von Robotern erlernen und erfahren. Dies geschieht anhand von 3 Modulen. Jeder "Theoriephase" von max. 30 Minuten folgt jeweils eigenes Programmieren und Testen anhand bereits aufgebauter Universal-Roboter.<br>Empfohlener Beginn jeweils um 9 Uhr, Ende ca. 14 Uhr (die Uhrzeiten sind auch veränderbar). Maximale Schülerzahl: 12 </p>
-</div>
-
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big><b>Geburtstags-Event für Kids ab 11</b></big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 11 Jahren einen Geburtstags-Event der besonderen Art an: <br>

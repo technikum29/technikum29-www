@@ -40,10 +40,7 @@
 		<th>Teilnehmer 
 		
 	
-	<tr>
-		<td><b>10. Juli</b> (So)<br>15:00 Uhr
-		<td>Computer-History<br>Experimental-Workshop <td>Geburtstags-Event
-		<td>für Tobia (dann 14J.) 
+	
 	<tr>
 		<td><b>12. Juli</b> (Di)<br>10:00 Uhr
 		<td>Computer-History <td>Workshop

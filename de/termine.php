@@ -82,7 +82,7 @@
 	<a href="http://www.krfrm.de/projekte/route-der-industriekultur/tage-der-industriekultur-2016/">Tage der Industriekultur Rhein-Main</a>
 	aus, zu denen das technikum29 zum vierten mal seine Türen öffnet.
 	
-	<p>Der Eintritt für diese drei Veranstaltungen ist kostenlos. Eine Anmeldung ist erforderlich.</p>
+	<p>Der Eintritt für die ersten drei Veranstaltungen ist kostenlos. Eine Anmeldung ist erforderlich.</p>
 	
 	
 	<div class="box termin clear-after">
@@ -125,13 +125,26 @@ Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintr
 Diesen Fragen widmen sich der Philosoph Dr. <a href="http://patrick-hedfeld.de/">Patrick Hedfeld</a> und der Mathematiker Prof. Dr. <a href="http://www.analogmuseum.org/deutsch/">Bernd Ulmann</a> in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.
 	</div>
 	
+	<div class="box termin clear-after">
+		<p class="date2 left">15. <em>Aug</em></p>
+		<dl class="daten right">
+			<dt>Termin</dt>
+			<dd class="termin">Montag, den 15. August bis 19. August</dd>
+			<!-- <dd class="anmelden"><button>Anmelden</button></dd> -->
+		</dl>
+		<h4>Roboter programmieren für 11-13-jährige Kids</h4> 
+		
+Täglich von 10:00 bis 12:00 Uhr können hier technikinteressierte Schüler/innen lernen, wie man Roboter immer intelligenter macht. Ein spannender und sehr beliebter Workshop, ausgeführt mit Lego Mindstrorms Education, siehe <a href="/robotik">Robotik-Website</a>
+	</div>
+	
+	
 	
 	<h3>Weitere Angebote</h3>
 	
 	<div class="box termin clear-after">
 		<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren</h4>
 		
-		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation gebaut und programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a>
+		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a>
 		
 		<p><b>Termine</b> in den Sommerferien 2016
 	</div>

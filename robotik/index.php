@@ -124,8 +124,8 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
 	<li>RepRap-Drucker (Self-REPlicating RAPid-Prototyping)</li>
 	<li>Die Welt der Micro-Controller und Sensoren (Programmieren des Arduino µC)</li>
-	<li>Ansteuerung von Steppermotoren über Arduino</li>
-	<li>Selbstaufbau der 3D-Drucker (5 Stück!)</li>
+	<li>Entwurf eines Roboter-Fahrzeugs</li>
+	<li>Selbstaufbau der 3D-Drucker (4 Stück!)</li>
 	<li>Programmierung der Drucker über G-Code</li>
 	<li>Einführung in die Anwendung von CAD (Computer-Aided-Design)</li>
 	<li>Entwerfen und Ausdrucken von dreidimensionalen Modellen.</li>

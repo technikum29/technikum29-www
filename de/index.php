@@ -70,7 +70,7 @@
 				Minimum 8 Personen<br>
 				Ideal 12-16 Personen<br>
 				Maximum ca. 20 Personen<br><br>
-				Termine an beliebigen Tagen und Zeiten nach Absprache.
+				<a href="/de/termine.php"><b>Termine</b></a> an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen und Kleingruppen können ihr Interesse per E-Mail kundtun. Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
 				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für einzelne Schüler und Studenten ist der Eintritt frei. Schülergruppen "zahlen" als symbolische Anerkennung eine Fl. Rotwein für die komplette Gruppe.<br>
 				

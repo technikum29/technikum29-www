@@ -19,7 +19,7 @@
 
 		<br><br>
 	IBM hat schon ab 1964/65 mit der <b>SLT</b>-Technik (Solid Logic Technology) die <b>SMD</b>-Technik entwickelt (SMD: Surface-Mounted-Device, deutsch: Oberflächenmontiertes Bauelement). Erst Mitte der 80er Jahre hat sich diese Technik mit den vielen Vorteilen langsam durchgesetzt. Siehe auch Reparatur-Blog vom 30.9.2014.<br>
-	Unsere Anlage ist als Lochkartenrechner seit Anfang 2015 voll funktionsfähig. Die Instandsetzung des Plattenlaufwerkes ist das nächste Vorhaben.
+	Unsere Anlage ist mittlerweile voll funktionsfähig. 
 </p>
 	
 	<div class="box center clear-after">

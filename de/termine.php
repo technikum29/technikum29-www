@@ -40,10 +40,7 @@
 		<th>Teilnehmer 
 		
 		
-	<tr>
-		<td><b>20. Juli</b> (Mi)<br>09:30 Uhr
-		<td>Robotik-Camp <td>Workshop
-		<td>Ferienspiele der Stadt Kelkheim  <br>
+	
 	<tr>
 		<td><b>27. Juli</b> (Mi)<br>10:00 Uhr
 		<td>Computer-Dinosaurier <td>Interaktive Führung

@@ -41,14 +41,7 @@
 		
 		
 	
-	<tr>
-		<td><b>27. Juli</b> (Mi)<br>10:00 Uhr
-		<td>Computer-Dinosaurier <td>Interaktive Führung
-		<td>Ferienspiele der Stadt Kelkheim 
-	<tr>
-		<td><b>28. Juli</b> (Do)<br>09:30 Uhr
-		<td>Computer-History <td>Workshop
-		<td>Ferienspiele der Stadt Kelkheim 
+	
 	<tr>
 		<td><b>2. August</b> (Di)<br>16:00 Uhr
 		<td>Computer-History <td>Führung

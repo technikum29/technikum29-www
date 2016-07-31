@@ -60,6 +60,9 @@ class t29Menu {
 		$pwd = getcwd(); chdir($newsdir);
 		include(self::news_file);
 		chdir($pwd);
+		if(!isset($neues_menu) || empty($neues_menu))
+			// in self::news_file konnte das neue Menue nicht extrahiert werden oder war leer
+			$neues_menu = "";
 		return $neues_menu;
 	}
 

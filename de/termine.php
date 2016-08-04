@@ -42,10 +42,10 @@
 		
 	
 	
-	<tr>
+	<!--<tr>
 		<td><b>2. August</b> (Di)<br>16:00 Uhr
 		<td>Computer-History <td>Führung
-		<td>Industriepark Höchst  
+		<td>Industriepark Höchst  -->
 	<tr>
 		
 		<td><b>18. Sept.</b> (So)<br>15:00 Uhr

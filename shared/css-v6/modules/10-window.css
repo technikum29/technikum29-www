@@ -25,16 +25,16 @@ body.bg-test1-design {
 
 
 body, input { /* font */
-	font-family: 'Nunito', "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Tahoma", "Trebuchet MS", 'Nunito', Verdana, Helvetica, Arial, sans-serif;
 }
-
+    /* rausgenommen */
 ::-moz-selection{background:#07a;color:#fff;text-shadow:none}
 ::selection{background:#07a;color:#fff;text-shadow:none}
 
 
 nav.horizontal a, nav.side .u1 > li > a {
 	/*font-family: "Futura Std Book", "Trebuchet MS";*/
-	font-family: Nunito, "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Tahoma", Nunito, , Verdana, Helvetica, Arial, sans-serif;
 }
 
 #container {

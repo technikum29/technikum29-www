@@ -11,7 +11,7 @@
  **/
 
 #content {
-	font-family: Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
+	font-family: "Tahoma", "Trebuchet MS", Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	line-height: 130%;
 	text-align: justify;
@@ -29,7 +29,7 @@ h2 {
     /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
        auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
     font-weight: normal;
-    font-family: "Trebuchet MS", Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
+    font-family: "Tahoma", "Trebuchet MS", , Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
     font-size: 180%;
     border-bottom: 3px double #aaa;
     text-align: left; /* irgendwie meinen browser sonst `justify` */

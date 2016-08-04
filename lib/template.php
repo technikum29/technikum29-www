@@ -273,8 +273,6 @@ class t29Template {
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
   
-  <!-- fancy neue Ersatzschrift fuer Futura, Maerz 2016 -->
-  <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' type='text/css'>
   <?php
 	$this->print_ressourceloader_links('css', PHP_EOL . '  <link rel="stylesheet" href="%s">');
   ?>

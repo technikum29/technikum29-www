@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>20.7.2016
+	<br>6.8.2016
 </div>
 
 <div class="spacing"></div>
@@ -119,7 +119,7 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 	<div  class="box bordered nomargin-bottom" id="3D">
 	<p class="bildtext"><big><big><b>Physical-Computing & Robotics </b></big></big>   (In Vorbereitung) <br><br>
 	
-	„Unter Physical Computing versteht man Projekte, bei denen Computer oder Minicomputer (z.B. Arduino)  durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.“<br>
+	Unter Physical Computing versteht man Projekte, bei denen Computer oder Minicontroller (z.B. RasPi, Arduino) durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.<br><br>
 	Wir beschäftigen uns in diesem Workshop also vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre. Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Module sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen anbieten.</p>

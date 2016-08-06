@@ -117,22 +117,12 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 <div class="clear cols">
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>3D-Labor</b></big></big>   (In Vorbereitung) <br><br>
+	<p class="bildtext"><big><big><b>Physical-Computing & Robotics </b></big></big>   (In Vorbereitung) <br><br>
 	
-	Laut namhafter Zeitschriften läuten 3D-Drucker die dritte industrielle Revolution ein und Deutschland´s Schulen verschlafen diese. Um Abhilfe zu schaffen, bietet das technikum29-Team in Kürze an Schulen einen Workshop "3D+Roboter-Labor" an. Für geeignete Schüler ab Klasse 8 geht es um 
-	die Generierung, Darstellung und den Ausdruck von dreidimensionalen Körpern, sowie darum Roboter selbst herzustellen und mit vielen Sensoren versehen zu programmieren. Das "Gehirn" der Roboter wird ein Arduino-Micro-Controller sein. <br>
-	
-<ul>
-	<li>Was sind 3D-Drucker, wie sind sie aufgebaut, was kann man damit machen....</li>
-	<li>Die Welt der Micro-Controller und Sensoren (Programmieren des Arduino Micro Controllers)</li>
-	<li>Selbstaufbau der 3D-Drucker (4 Stück!)</li>
-	<li>Einführung in die Anwendung von CAD (Computer-Aided-Design)</li>
-	<li>Entwurf und Bau von Roboter-Fahrzeugen</li>
-	<li>Entwerfen und Ausdrucken von dreidimensionalen Modellen.</li>
-</ul>
-
-Vorkenntnisse werden nicht vorausgesetzt, wohl aber gewisse technische Fähigkeiten, Spaß am logischen Denken und die Bereitschaft, sich wirklich zu engagieren sowie Geduld und Teamfähigkeit.<br>
- Der Aufbau und Betrieb von 3D-Druckern erfordert viel Erfahrung. Deshalb hat dieser Workshop Laborcharakter. Nicht immer gelingt alles sofort und ohne Probleme. Dennoch ein sehr spannender Workshop in welchem Technik, Informatik und nicht zuletzt Kunst vereint werden. Eventuell können wir diesen Kurs demnächst auch im technikum29 anbieten.	</p>
+	„Unter Physical Computing versteht man Projekte, bei denen Computer oder Minicomputer (z.B. Arduino)  durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.“<br>
+	Wir beschäftigen uns in diesem Workshop also vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre. Nach oben gibt es eigentlich keine Grenze.<br>
+	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Module sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
+	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen anbieten.</p>
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">

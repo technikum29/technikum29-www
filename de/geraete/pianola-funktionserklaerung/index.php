@@ -51,10 +51,10 @@ Ein flacher Notengleitblock mit 88 Öffnungen in einer Reihe (für 88 mögliche 
 <div class="box center" title="Zum Vergrößern klicken">
    <a href="zoomgrafiken/schema-uebersicht.png"><img style="border: none;" src="zoomgrafiken/thumb.schema-uebersicht.png" alt="Pneumatisches Verstärkersystem"></a>
    <p>Schema eines einzelnen Spielbalgs mit Vor- und Hauptventil, welches für den Anschlag einer Saite verantwortlich ist.
-   (<a href="zoomgrafiken/schema-uebersicht.png">größeres Bild</a>)</p>
+   (<a href="zoomgrafiken/schema-uebersicht.png">größeres Bild</a>)
 </div>
 
-<p>Die Funktionsweise eines solchen Systems wird im Folgendenden anschaulich
+Die Funktionsweise eines solchen Systems wird im Folgendenden anschaulich
 erklärt. Ferner stehen ein halbes Dutzend hochauflösende Schemata bereit, die die jeweiligen Stadien erläutern.</p>
 
 
@@ -73,7 +73,7 @@ erklärt. Ferner stehen ein halbes Dutzend hochauflösende Schemata bereit, die 
 den Anschlag eines einzelnen Tones verantwortlich ist. Da das Klavier 88 Töne
 hat, gibt es 88 von diesen kleinen Spielbälge, die in drei Reihen untereinander
 liegen. Sie sind einfach zu groß, um sie alle nebeneinander anbringen zu können. 
-</p> Durch alle Systeme hindurch ziehen sich zwei Kammern, die andauernd
+<br> Durch alle Systeme hindurch ziehen sich zwei Kammern, die andauernd
 Luft raussaugen und so in jedem System einen Unterdruck erzeugen (Unterdruck wird
 gelb dargestellt, atmosphärischer Druck blau). Durch die Position der
 Ventile werden die unterschiedlichen Luftleitungen mit den Unterdruckkammern
@@ -131,11 +131,9 @@ seinem Zustand verbleiben und könnte kein weiteres Mal einen Ton spielen. Noch 
 Unterdruck herrscht. Sie hat jedoch nur eine ganz kleine Öffnung. Dadurch ist sie mit dem System ganz rechts verbunden. Auf diese Weise ist ihre
 Wirkung auf das System zwar nur minimal, jedoch stark genug, um nach dem Verschluss des Loches in der Notenrolle den Unterdruck in dem ersten System wieder schnell herzustellen. Dadurch sinkt auch wieder das Vorventil, im mittleren System entsteht wieder Unterdruck, daraufhin sinkt das Hauptventil nach unten und der Spielbalg zieht sich aufgrund seines eigenen Gewichtes und einer kleinen Feder wieder auseinander.
 <p>Nun ist das Pianola bereit, den nächsten Ton zu spielen. Der ganze Vorgang muss natürlich mit einer sehr hohen Geschwindigkeit ablaufen, damit auch schnelle Läufe fehlerfrei gespielt werden.</p>
-<p>Das Pianola kann Stücke spielen, die aufgrund des schnellen Handwechsels von keinem Spieler spielbar wäre. Daher wurden auch speziell Klavierstücke für Pianola geschrieben, die sehr virtuos sind, z.B. "Studies for Player Piano" von Conlon Nancarrow.</p>
+<p>Das Pianola kann Stücke spielen, die aufgrund des schnellen Handwechsels von keinem Spieler spielbar wäre. Daher wurden auch speziell Klavierstücke für Pianola geschrieben, die sehr virtuos sind, z.B. "Studies for Player Piano" von Conlon Nancarrow.<br>
 
 Würde man intelligente Menschen aus der heutigen hochtechnisierten Zeit damit beauftragen, ein solches Instrument nur mit Hilfe von Holz, Metall, Leder, "Gummihaut" und Knochenleim zu erfinden, kann man davon ausgehen, dass die meisten keine Chance hätten das gesteckte Ziel zu erreichen. Die hier beschriebenen Vorgänge sind eine vereinfachte Version der sehr viel umfangreicheren komplexen Vorgänge in einer Pianola.</p>
-Wenn man überlegt, wie rasend schnell diese Vorgänge ablaufen müssen, so gerät man in Ehrfurcht vor den mechanischen Fähigkeiten der Menschen aus dieser Zeit.
+Wenn man überlegt, wie rasend schnell diese Vorgänge ablaufen müssen, so gerät man in Ehrfurcht vor den mechanischen Fähigkeiten der Menschen aus dieser Zeit.<br><br>
 
-<h3>Präsentationsmaterialien zur Pianola</h3>
-
-<p>Eine Powerpoint-Präsentation steht in den <a href="/de/lernprojekte/#Liste_anderer_Projekte">Lernprojekten</a> unter <a class="go" href="/de/lernprojekte/pianola">Pianola-Präsentation</a> zur Verfügung.</p>
+Eine Powerpoint-Präsentation mit weiteren Bildern während der Restauration steht unter <a class="go" href="/de/lernprojekte/pianola">Pianola-Präsentation</a> zur Verfügung.</p>

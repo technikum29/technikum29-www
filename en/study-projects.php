@@ -13,14 +13,14 @@
 <p>Microcontrollers revolutionize
 and influence next to everything. How can schools participate on these
 developments and perform successful and interesting projects?<br>
-Six pupils of Q1 (12th year in school) of the Albert-Einstein secondary
+Fife pupils of Q1 (12th year in school) of the Albert-Einstein secondary
 school were looking for a suitable idea for their so called "project
 week". This project should be connected to mathematics, physics and/or
 computer science. This is where the technikum29 got involved. The idea
 the pupils came up with was to connect technology from the 1950s with
 modern equipment of 2012. Communication spanning time and technology.<br>
 <div class="box left">
-        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="606" height="335" />
+        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="537" height="335" />
        </div>
 <p>Traditionally such projects required knowledge only accessible to
 computer scientists, engineers and the like. Often they had to spend

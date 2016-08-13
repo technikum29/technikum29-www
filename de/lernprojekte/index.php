@@ -7,33 +7,39 @@
 ?>
  <h2>Lernprojekte</h2>
 
-<p>Die <i>technikum29-Lernprojekte</i> sind u.a. eine Sammlung von Präsentationsdateien, die zum Teil nur gegen Passworteingabe zugänglich sind. 
 
-Bei Problemen beim Zugriff wenden sie sich an <a href="/de/impressum.php">das Projektmanagament</a>.</p>
-
-<h3 id="aes"> Das technikum29-Team unterstützt Projekte an der Schule</h3>
+<h3 id="aes"> Rotationsfax der 50er Jahre sendet Bild an einen Laptop</h3>
 
 <p>Microcontroller revolutionieren die Welt, wie an Schulen zukunftsweisende Projekte geplant und ausgeführt werden können.<br>
 Worum geht es? <br>
-6 Schüler der Q1 des Albert-Einstein-Gymnasiums suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29 an.  
-Ziel war es, die Technik der 50er Jahre an die aktuelle Zeit anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!<br>
+5 Schüler der Q1 des Albert-Einstein-Gymnasiums suchten für ihre Projektwoche ein interessantes Thema aus den Gebieten Physik/Mathematik/Informatik. Hier bot sich eine Zusammenarbeit der Schule mit dem technikum29 an.  
+Ziel war es, die Technik der 50er Jahre an die aktuelle Zeit anzubinden: Eine Kommunikation zwischen eigentlich nicht zusammenpassenden  Welten!
 <div class="box left">
-        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="606" height="335" />
+        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="303" height="189" />
        </div>
-<p>Um eine solche Kommunikation herzustellen bedurfte es bisher eines „Herrschaftswissens“ welches sich auf wenige spezialisierte Informatiker und Ingenieure beschränkte. Dafür musste man wochenlang Datenblätter lesen und dann kryptische Codes in Assembler schreiben.
-Seit 2009 gibt es ein preiswertes unscheinbares Modul, den „Arduino* -Controller“, ein kleiner Microcontroller (ATmega 328, mit 32 kB Speicher), der auch relativen Laien  mit überschaubaren Programmierkenntnissen zugänglich ist.  Hiermit können Erfinder, Visionäre, Künstler und Designer ihre kreativen Möglichkeiten drastisch erhöhen. Es geht ganz allgemein um die Anbindung der realen, physikalischen Welt an einen Computer. <br>
+<p>Im Rahmen von "Physical-Computing" gibt es seit 2009 ein preiswertes unscheinbares Modul, den „Arduino* -Controller“, ein kleiner Microcontroller (ATmega 328, mit 32 kB Speicher), in dessen Programmierung sich auch relative Laien schnell einarbeiten können. Hiermit ergibt sich die Möglichkeit für Erfinder, Visionäre, Künstler und Designer ihre Kreativität drastisch zu erhöhen. Es geht ganz allgemein um die Anbindung der realen, physikalischen Welt an einen Computer. <br>
 	 
 <p>Dieses kleine Modul lässt sich als Interface für alle nur denkbare Zwecke programmieren. Die Schüler beabsichtigten, ein Faxgerät der Frühzeit (Siemens KF108, Baujahr 1956) mit einem PC kommunizieren zu lassen. Bei diesem Fax, damals noch „Fernkopierer“ genannt, wird das Blatt mit der zu übertragenden Information (z.B. ein Bild) auf eine Walze gespannt und schraubenförmig durch Rotation ab gescannt. Ein solches Gerät kann natürlich mit den Heutigen nicht kommunizieren. Hier hilft der Microcontroller als Bindeglied. Die Schüler mussten sich in die Programmierung eines solchen Controllers einarbeiten. Dabei sind jedoch einige Hürden zu überwinden, schließlich waren die Schüler (noch) keine Star-Programmierer. Während falsch aufgebaute Hardware umständlich zerpflückt werden müsste, sind falsch laufende Programme schnell korrigiert. Und so entstand nach einer Woche Projektarbeit die perfekte Anbindung dieser zwei so verschiedenen Technikwelten.<br>
 
-<div class="box left">
-        <img src="/shared/photos/kommunikationstechnik/arduino2.jpg" width="606" height="354" />
-       </div>
+<div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/kf108+laptop.jpg" width="700" height="438" />
+      
+	   <p class="bildtext small"> Projekt Fax-PC: Unten links der Versuchsaufbau für die Impulsgenerierung, Mitte: Fertige Schaltung (s.u.). Etwa die Hälfte des Bildes wurde gescannt.</p></div>
+	   
  <p>Das Fax sendet eine Tonfrequenz von 1,5 kHz beim scannen schwarzer Pixel und keinen Ton bei weißen Pixel. Dies muss in ein binäres Signal mit 5V-Level gewandelt werden.<br>
-Eine Verstärkerschaltung mit nachgeschaltetem RC-Glied übernimmt diesen Part.
+Es werden also "Tonpakete" ausgesendet, von denen nur noch die Hüllkurve mit 5V-Pegel benötigt wird. Im einfachsten Fall übernimmt eine Verstärkerschaltung mit nachgeschaltetem RC-Glied diesen Part. In einer verbesserten Version haben wir mit Hilfe des bekannten "555-Timer IC" durch die Schaltung <a class="go"href="http://www.electronicsinfoline.com/pin/11479" target="_blank">"Basic Missing Pulse Detector"</a> die Hüllkurve noch exakter reproduzieren können.<br>
+<div class="box left">
+        <img src="/shared/photos/kommunikationstechnik/impulsgenerierung.jpg" width="303" height="221" />
+		<p class="bildtext small">Schaltung als Bindeglied zwischen Fax und Arduino</p></div>
+	   
 Zum Aufbau des Bildes wird noch eine Information für den jeweiligen Beginn einer neuen Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
-Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und kann hier eingesehen werden. <a href="arduino-projekt-programme" class="go">Source-Code-Ordner öffnen</a> <br>
+In unserem Fall wurden die weißen Pixel (kein Ton) durch den Arduino in eine "0" umgesetzt, die schwarzen Pixel in eine "1" und ein Zeilensprung (Zylinderumlauf) in eine "2". Damit sendet der Arduino einen aus den Ziffern 0;1;2 bestehenden Datenstream.<br>
+Mit Hilfe des Programms "Processing" generiert der angeschlossene Laptop schließlich daraus das Bild. <br>
 
-Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC übertragen. Mit guter Auflösung zeichnet sich Zeile für Zeile eine historische Micky-Mouse auf dem Monitor des Laptops ab. Das Experiment ist geglückt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.</p>
+Gemächlich wird das schraubenförmig abgetastete Bild in Realtime auf den PC übertragen. Mit guter Auflösung zeichnet sich Zeile für Zeile eine historische Micky-Maus auf dem Monitor des Laptops ab. Das Experiment ist geglückt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.<br>
+Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und später vom technikum29-Team weiter verbessert. <a href="arduino-projekt-programme" class="go">Source-Code-Ordner öffnen</a> </p>
+
+
 <p class="small">
 *)  Arduino: …ist nach dem König „Arduino von Ivrea“, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst üblich in Fernost oder Silicon Valley.
 </small>

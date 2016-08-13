@@ -5,7 +5,7 @@
 	
 	require "../lib/technikum29.php";
 ?>
-    <h2>Pianola, Kunst und Anderes</h2><br>
+    <h2>Pianola, Kunst und Anderes</h2>
 
 	<h3 id="pianola">Pianola</h3><br>
 	<p>Unser Museum ist recht vielseitig. Neben der Kommunikations- und Computertechnik haben wir auch einen Leckerbissen der besonderen Art zu bieten: Eine funktionsfähige Pianola, Bj. ca. 1910-15.<br>

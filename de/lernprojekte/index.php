@@ -32,7 +32,7 @@ Die Schüler beabsichtigten, ein Faxgerät der Frühzeit (Siemens KF108, Baujahr
         <img src="/shared/photos/kommunikationstechnik/impulsgenerierung.jpg" width="303" height="221" />
 		<p class="bildtext small">Schaltung als Bindeglied zwischen Fax und Arduino</p></div>
 	   
-Zum Aufbau des Bildes wird auch die Information für den jeweiligen Beginn einer neuen Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
+Zum Aufbau des Bildes wird auch die Information für den jeweiligen Beginn einer neuen (senkrechten) Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
 In unserem Fall wurden die weißen Pixel (kein Ton) durch den Arduino in eine "0" umgesetzt, die schwarzen Pixel in eine "1" und ein Zeilensprung (Zylinderumlauf) in eine "2". Damit sendet der Arduino einen aus den Ziffern 0;1;2 bestehenden Datenstream.<br>
 Mit Hilfe des Programms "Processing" generiert der angeschlossene Laptop schließlich daraus das Bild. <br>
 

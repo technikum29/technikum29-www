@@ -1,52 +1,92 @@
-﻿import processing.serial.*;
+﻿/*
+****************************************************************
+
+ Programm zur Darstellung des Datenstroms (des "Bildes") des
+ Siemens-Hell Faxgerätes KF 108
+
+ Am seriellen (USB) Eingang muß ein Arduino angeschlossen sein,
+ der das Ton(Bild) Signal des FAX in einen seriellen Datenstrom
+ (Baudrate 115200) von "0", "1" und "2" wandelt.
+ "0" bzw "1" stehen für das Helligkeitssignal, "2" zeigt das
+ Ende einer Trommelumdrehung an und dient der Synchronisation
+ auf die nächste Spalte.
+
+ Nach 700 Spalten wird das eingelesene Bild abgespeichert unter
+ "Scan_FAX.jpg" im Programmordner.
+ 
+ R.L. und technikum29, 15.8.2016
+
+****************************************************************
+*/
+import processing.serial.*;
 Serial serialPort;
-
 boolean finished=false;
-int scal=1;
-int kx=630/scal;
-int ky=0;
-float yScal=2;
-
-int verzoeger=0;
-
-
-
+int kx=700;          // Breite des Bildes (Spalten)
+int ky=0;            // Höhe des Bildes (Umfang der Trommel in px)
+int flag = 0;        // Startflag
+float yScal= 0.75;
+/* yScal richtet sich nach der Verzögerungszeit des Arduino-Programms zur Zeichen-
+  generierung. Der Wert (als FLOAT) ist so einzustellen, daß das **beschriebene**
+  Bildschirmfenster ein Breiten/Höhen-Verhältnis von etwa 2:3 hat
+*/  
 void setup(){
-size(kx,900);
-noStroke();
-println(Serial.list());
-//serialPort = new Serial(this, Serial.list()[0], 9600); // Fuer Mac-User
-serialPort = new Serial(this, Serial.list()[Serial.list().length-1], 115200); // Fuer PC-User
+  flag = 0;                // Sync-Flag: wird "1" nach Empfang der ersten "2"
+  size(700,1300);          // Größe der Zeichenfläche, der 2. Parameter kann ggf bis
+                           // bis auf 1000 reduziert werden, um unbeschriebene Leer-
+                           // fläche unter dem Bild zu vermeiden
+  noStroke();              // kein Rahmen um die Fläche zeichnen
+  println(Serial.list());  // gibt alle USB-Anschlüsse auf Konsole aus  
+// dieser Befehl erzeugt (unbedenklichen) Fehler, kann auskommentiert werden
+// er gibt auf der Konsole die vorhandenen COM-Ports aus (also z.B. COM3   COM 15)
+
+// wählt den geeigneten Port aus der Liste Serial.list()[]
+// serialPort = new Serial(this, Serial.list()[1], 115200); // Fuer Mac-User, funktioniert so
+// bei PC: ggf den Inhalt von [] durch eine Ziffer ersetzen:
+// 0 für den ersten durch println... angezeigten COM-Port, 1 für den nächsten usw ...
+   serialPort = new Serial(this, Serial.list()[Serial.list().length-1], 115200); // Fuer PC-User
+   serialPort.clear();     // zur Sicherheit nochmal Datenpuffer löschen
 }
 
 void draw(){
-
-}
-
-void serialEvent(Serial serialPort) {
+  // starte mit Spalte# kx=700. zähle runter auf 0
   if (kx>0) {
-    String dataString = serialPort.readString();
-    println(dataString);
-    if (dataString != null) {
-      for(int i=0; i<dataString.length(); i++){
-        if(dataString.charAt(i)==48){
-          fill(255);
-          rect(kx*scal,ky*scal*yScal,scal,scal*yScal);
-          ky++;
-        }else if(dataString.charAt(i)==49){
-          fill(0);
-          rect(kx*scal,ky*scal*yScal,scal,scal*yScal);
-          ky++;
-        }else if(dataString.charAt(i)==50){
-          if(ky>300){
-            ky=0;
-            kx--;
+    String dataString = serialPort.readString();       // lese Seriel-Puffer ein und ...
+    println(dataString);                               // ... gebe zur Kontrolle auf Konsole aus
+    if (dataString != null) {                          // nur, wenn auch ein neues Zeichen angekommen ist
+      for(int i=0; i<dataString.length(); i++){        // Eingabestring kann mehrere Zeichen enthalten !
+        if(dataString.charAt(i)==48){                  // Fall "0"
+          if (flag == 1) {                             // zeichne nur, wenn bereits ein Sync erhalten
+            fill(255);                                 // helles Rechteck malen
+            rect(kx,ky*yScal,1,yScal);
+            ky++;                                      // rücke zu nächstem Pixel vor
           }
+        }else if(dataString.charAt(i)==49){            // Fall "1"
+          if (flag == 1) {                             // zeichne nur, wenn bereits ein Sync erhalten
+            fill(0);                                   // dunkles Rechteck malen
+            rect(kx,ky*yScal,1,yScal);
+            ky++;                                      // rücke zum nächsten Pixel vor
+          }  
+        }else if(dataString.charAt(i)==50){            // Fall "2" Sync-Zeichen vom Magnet
+          if (flag == 0) {                             // erstes Eintreffen von Sync-Zeichen, ...
+            flag = 1;                                  // ... setze Synflag
+          }
+          else {                                       // wiederholtes Empfangen von "2"
+            if(ky>50){                                 // akzeptiere neues Sync erst nach 50 Pixeln (Entprellen)
+                                                       // kann ggf entfallen, 
+              ky=0;                                    // Anfang neue Spalte: Zeile 0
+              kx--;                                    // nächste Spalte
+            }
+          }  
         }
       }
     }
   }else if(!finished){
     finished=true;
-    saveFrame("Scan#000003.jpg");
+    println("--Ende--");                               // Ende-Meldung
+    println("Vorhandene USB-Ports:");                  // nur zur Kontrolle wg besserer Lesbarkeit nochmal
+    println(Serial.list());                            // gibt alle USB-Anschlüsse auf Konsole aus
+    saveFrame("Scan_FAX.jpg");                         // speichere Bild ab
+    println("FAX-Bild gespeichert in File Scan_FAX.jpg im Processingordner");
+    serialPort.stop();                                 // seriellen Port abmelden
   }
 }

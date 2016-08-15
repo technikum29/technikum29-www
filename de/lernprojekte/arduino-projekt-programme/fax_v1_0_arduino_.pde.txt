@@ -1,25 +1,56 @@
-﻿int dataPin = 3;                          // Pin zum Einlesen der Pixel
-int interruptPin = 2;                     // Pin fuer Zeilenumbruch
+﻿/*
+********************************************************************
+
+ Programm zur Wandlung des Ausgangssignals des Siemens-Hell-FAX-Gerätes/
+ KF 108 in einen Datenstrom über den seriellen Port (USB, 115200 bd)
+ Pin 3 wird mit dem verstärkten/gewandelten Ausgangssignal des FAX
+ verbunden. Programm sendet "0" bei LOW an Pin 3, "1" bei HIGH
+ Ein Reed-Relais auf der Achse des Fax wird durch einen mitlaufenden
+ Magnet pro Umdrehung einmal geschlossen und zieht Pin 2 auf LOW-
+ Das Programm sendet "2", wenn auf Pin 2 eine Flanke erkannt wird.
+
+ Der Datenstrom des Arduino wird durch ein Programm auf dem PC in 
+ eine Grafik gewandelt.
+
+ technikum29, 15.8.2016
+*********************************************************************
+*/
+int dataPin = 3;                          // Pin zum Einlesen der Pixel
+int interruptPin = 2;                     // Pin fuer Zeilensync
+int sum = 0;                              // Aufsummieren des Signals
+unsigned int verzoegerung = 500;          // Verzögerung in us
+
+/* empfohlene Verzögerung liegt zwischen 500 und 250 us, Optimum
+ * für KF 108 bei 300 us. Je nach Verögerung ist im zugehörigen
+ * PC-Empfangs-Programm der Faktor yScal anzupassen
+ */
+
+// Programm-Initialisierung
 
 void setup(){
-  Serial.begin(115200);                   // Datenübertragungsrate (Baud-Rate)
-  
+  Serial.begin(115200);                   // Datenübertragungsrate (Baud-Rate) 
   pinMode(dataPin,INPUT);                 // Pins werden als Dateneingaenge konfiguriert
   pinMode(interruptPin,INPUT);
-  digitalWrite(interruptPin,HIGH);
-  
+  digitalWrite(interruptPin,HIGH);  
   attachInterrupt(0,newLine,RISING);      // Interrupt (Unterbrechung) fuer Zeilenumbruch wird festgelegt
 }
 
+// Dauerschleife
+
 void loop(){
-  if(digitalRead(dataPin)==HIGH){         // Bei Spannung, also schwarz, wird eine "1" gesendet, sonst eine "0"
+  if(digitalRead(dataPin)==HIGH){
+    // Bei Spannung, also schwarz, wird eine "1" gesendet, sonst eine "0"
     Serial.print("1");
   }else{
     Serial.print("0");
   } 
-  delay(0.1);                             // Zeitverzoegerung zwischen den Pixeln
+  delayMicroseconds(verzoegerung);        // Zeitverzoegerung zwischen den Pixeln
 }
 
-void newLine(){
+// Interruptroutine, wird durch Magnetschalter ausgelöst
+
+void newLine(){      
   Serial.print("2");                      // Bei Interrupt zum Zeilenumbruch wird eine "2" gesendet  
 }
+
+

@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>6.8.2016
+	<br>15.8.2016
 </div>
 
 <div class="spacing"></div>
@@ -130,7 +130,7 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 11 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
-	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 2,5 Stunden.</p>
+	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 3 Stunden.</p>
 </div>
 
 

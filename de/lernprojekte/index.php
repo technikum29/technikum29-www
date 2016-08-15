@@ -33,15 +33,15 @@ Die Schüler beabsichtigten, ein Faxgerät der Frühzeit (Siemens KF108, Baujahr
 		<p class="bildtext small">Schaltung als Bindeglied zwischen Fax und Arduino</p></div>
 	   
 Zum Aufbau des Bildes wird auch die Information für den jeweiligen Beginn einer neuen (senkrechten) Zeile benötigt. Dies wurde durch das Befestigen eines kleinen Supermagneten an der Drehachse realisiert. Ein in ca. 2cm Entfernung befindlicher Reedkontakt wird bei jeder Umdrehung für kurze Zeit aktiviert.<br>
-In unserem Fall wurden die weißen Pixel (kein Ton) durch den Arduino in eine "0" umgesetzt, die schwarzen Pixel in eine "1" und ein Zeilensprung (Zylinderumlauf) in eine "2". Damit sendet der Arduino einen aus den Ziffern 0;1;2 bestehenden Datenstream.<br>
-Mit Hilfe des Programms "Processing" generiert der angeschlossene Laptop schließlich daraus das Bild. <br>
+In unserem Fall wurden die weißen Pixel (kein Ton) durch ein kleines C-Programm auf dem Arduino in eine '0' umgesetzt, die schwarzen Pixel in eine '1' und ein Zeilensprung (Zylinderumlauf) in eine '2'. Damit sendet der Arduino einen aus den Ziffern 0;1;2 bestehenden Datenstream.<br>
+Mit Hilfe eines Programms auf einem PC, geschrieben in der Software-Entwicklungsumgebung <a class="go" href="http://www.processing.org"target="_blank">"Processing"</a> generiert der angeschlossene Laptop schließlich daraus das Bild. <br>
 
 Gemächlich wird das schraubenförmig abgetastete Bild in Realtime (ca. 4,5 Minuten!) auf den PC übertragen. Mit guter Auflösung zeichnet sich Zeile für Zeile eine historische Micky-Maus auf dem Monitor des Laptops ab. Das Experiment ist geglückt und macht Mut zu weiteren kreativen Anwendungen dieser zukunftsweisenden Technik.<br>
 Die eigentliche Programmierarbeit wurde von den Schülern selbst entwickelt und später vom technikum29-Team weiter verbessert. <a href="arduino-projekt-programme" class="go">Source-Code-Ordner öffnen</a> </p>
 
 
 <p class="small">
-*)  Arduino: …ist nach dem König „Arduino von Ivrea“, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst üblich in Fernost oder Silicon Valley.
+*) <a class="go" href="http://www.Arduino.cc" target="_blank">Arduino....</a> ist nach dem König „Arduino von Ivrea“, der im Mittelalter in Norditalien lebte, benannt. Dort wurde auch der Controller entwickelt und nicht wie sonst üblich in Fernost oder Silicon Valley.
 </small>
 
 <h3 id="demo">Siemens Demo-Computer</h3>

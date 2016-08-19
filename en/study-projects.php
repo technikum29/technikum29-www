@@ -20,7 +20,7 @@ computer science. This is where the technikum29 got involved. The idea
 the pupils came up with was to connect technology from the 1950s with
 modern equipment of 2012. Communication spanning time and technology.<br>
 <div class="box left">
-        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="537" height="335" />
+        <img src="/shared/photos/kommunikationstechnik/arduino1.jpg" width="303" height="189" />
        </div>
 <p>Traditionally such projects required knowledge only accessible to
 computer scientists, engineers and the like. Often they had to spend
@@ -34,7 +34,7 @@ creative people, artists, designers etc.
 This project focuses on connecting computers to the "real world". The
 small Arduino board can be programmed to be used as an interface for
 nearly everything. The pupils decided to connect an early fax machine
-(a Siemens KF108 made in 1958) to a modern PC.	 <br>
+(a Siemens KF108 made in 1956) to a modern PC.	 <br>
 This fax machine is based on a rotating drum which holds the sheet of
 paper to be transmitted to the receiving station. The picture is
 scanned in a spiral movement by a photodetector that slowly moves in
@@ -49,9 +49,8 @@ advantages: It is more easily debugged compared with a traditional
 hardware based interface. Thus it only took a single week to program
 and interface the Arduino board to the Siemens fax.
 
-<div class="box left">
-        <img src="/shared/photos/kommunikationstechnik/arduino2.jpg" width="606" height="354" />
-       </div>
+<div class="box center">
+        <img src="/shared/photos/kommunikationstechnik/kf108+laptop.jpg" width="700" height="438" />
 	   
 <p>The fax machine generates an auido signal with a frequency of 1.5 kHz
 denoting black pixels to be transmitted. To convert this into a binary

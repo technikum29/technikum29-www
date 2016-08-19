@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>15.8.2016
+	<br>19.8.2016
 </div>
 
 <div class="spacing"></div>
@@ -108,7 +108,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine in den Ferien</h3>
 
 Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 12 Uhr:<br>
-<b>Einführungskurs:</b>	Mo. 15.8. bis Fr. 19.8. für Einsteiger<br>
+
 <b>Fortsetzungskurs:</b>	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
 </p>
 

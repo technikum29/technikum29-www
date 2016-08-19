@@ -49,7 +49,7 @@
 		
 	<tr>
 		
-		<td><b>28. Aug.</b> (So)<br>14:00 Uhr
+		<td><b>28. Aug.</b> (So)<br>15:00 Uhr
 		<td>Computer-History<br>Interaktive Führung<td>Geburtstags-Event
 		<td>für Lorenzo (dann 12J.) 	
 		
@@ -69,35 +69,7 @@
 	<a href="http://www.krfrm.de/projekte/route-der-industriekultur/tage-der-industriekultur-2016/">Tage der Industriekultur Rhein-Main</a>
 	aus, zu denen das technikum29 zum vierten mal seine Türen öffnet.
 	
-	<p>Der Eintritt für die ersten drei Veranstaltungen ist kostenlos. Eine Anmeldung ist erforderlich.</p>
-	
-	
-	<div class="box termin clear-after">
-		<p class="date2 left">13 <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Samstag, den 13. August um 14 Uhr</dd>
-		<!--	<dd class="anmelden"><button>Anmelden</button></dd> -->
-		</dl>
-		<h4>Computer &ndash; Wie alles begann</h4>
-		
-		Computer sind heute aus unserem Leben nicht mehr wegzudenken. Die Geschichte dieser faszinierenden und zuweilen auch bedrohlichen Technik begann vor ca. 60 Jahren. Steigen Sie ein in die Zeitreise „Computer-History“:  Die ersten Rechner der Menschheit, tonnenschwer und noch funktionsfähig.  Einmalig in Deutschland zeigen wir Ihnen die revolutionäre Entwicklung dieser Technik mit ungewöhnlichen Vorführungen. Auch für Kids ab ca. 11 Jahre gut geeignet. Diese werden aktiv mit einbezogen.
-	</div>
-			
-			
-	<div class="box termin clear-after">
-		<p class="date2 left">14 <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Sonntag, den 14. August um 14 Uhr</dd>
-		<!--	<dd class="anmelden"><button>Anmelden</button></dd> -->
-		</dl>
-		<h4>Klänge, Bilder Kommunikation: Faszinierende Entwicklung ab 1900</h4>
-		
-		Die Besucher dieser Zeitreise erleben mit vielen Vorführungen, wie sich die Technik für Ton- und Bild entwickelt hat: Innerhalb von zwei Menschenleben wurden die Möglichkeiten hierzu revolutioniert.
-		Von den ersten Musikautomaten,  Bildübertragungen, Faxgeräte, Fernkopierer über kuriose Erfindungen bis zum selbst spielenden Klavier reicht die Palette der historischen, funktionsfähigen Technik. Auch für Kids ab ca. 12 Jahre bestens geeignet.
-	</div>
-
+	<p>Diese Veranstaltung ist ausgebucht!!!</p>
 	
 	<div class="box termin clear-after">
 		<p class="date2 left">21 <em>Aug</em></p>
@@ -111,19 +83,6 @@
 Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintretenden Weltuntergängen? Und warum eigentlich geht die Welt nicht unter?
 Diesen Fragen widmen sich der Philosoph Dr. <a href="http://patrick-hedfeld.de/">Patrick Hedfeld</a> und der Mathematiker Prof. Dr. <a href="http://www.analogmuseum.org/deutsch/">Bernd Ulmann</a> in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.
 	</div>
-	
-	<div class="box termin clear-after">
-		<p class="date2 left">15. <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Montag, den 15. August bis 19. August</dd>
-			<!-- <dd class="anmelden"><button>Anmelden</button></dd> -->
-		</dl>
-		<h4>Roboter programmieren für 11-13-jährige Kids</h4> 
-		
-Täglich von 10:00 bis 12:00 Uhr können hier technikinteressierte Schüler/innen lernen, wie man Roboter immer intelligenter macht. Ein spannender und sehr beliebter Workshop, ausgeführt mit Lego Mindstrorms Education, siehe <a href="/robotik">Robotik-Website</a>
-	</div>
-	
 	
 	
 	<h3>Weitere Angebote</h3>

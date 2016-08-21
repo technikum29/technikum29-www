@@ -60,29 +60,6 @@
 		<td>für Constantin (dann 10J.) 
 		
 		</table></div>
-		
-		
-	<h3>Tage der Industriekultur Rhein-Main 2016</h3>
-	<img class="industriekultur" src="/shared/photos/start/rdik.png">
-	
-	<p>Im Rahmen der <a href="http://www.route-der-industriekultur-rhein-main.de/">Route der Industriekultur Rhein-Main</a> richtet die <a href="http://www.krfrm.de/">KulturRegion FrankfurtRheinMain</a> dieses Jahr zum vierzehnten mal die
-	<a href="http://www.krfrm.de/projekte/route-der-industriekultur/tage-der-industriekultur-2016/">Tage der Industriekultur Rhein-Main</a>
-	aus, zu denen das technikum29 zum vierten mal seine Türen öffnet.
-	
-	<p>Diese Veranstaltung ist ausgebucht!!!</p>
-	
-	<div class="box termin clear-after">
-		<p class="date2 left">21 <em>Aug</em></p>
-		<dl class="daten right">
-			<dt>Termin</dt>
-			<dd class="termin">Sonntag, den 21. August um 19 Uhr</dd>
-			<!-- <dd class="anmelden"><button>Anmelden</button></dd> -->
-		</dl>
-		<h4>...und sie dreht sich weiter! Von der Lust an  Weltuntergängen und warum sie nicht eintreten</h4> 
-		
-Woher rührt die Lust an drohenden, aber glücklicherweise dann doch nicht eintretenden Weltuntergängen? Und warum eigentlich geht die Welt nicht unter?
-Diesen Fragen widmen sich der Philosoph Dr. <a href="http://patrick-hedfeld.de/">Patrick Hedfeld</a> und der Mathematiker Prof. Dr. <a href="http://www.analogmuseum.org/deutsch/">Bernd Ulmann</a> in diesem spannenden und zugleich unterhaltsamen Vortrag, in dem wenig heilig ist.
-	</div>
 	
 	
 	<h3>Weitere Angebote</h3>

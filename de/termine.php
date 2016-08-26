@@ -51,13 +51,19 @@
 		
 		<td><b>28. Aug.</b> (So)<br>15:00 Uhr
 		<td>Computer-History<br>Interaktive Führung<td>Geburtstags-Event
-		<td>für Lorenzo (dann 12J.) 	
+		<td>für Lorenzo (12J.) 
+
+	<tr>
+		
+		<td><b>4. Sept.</b> (So)<br>14:30 Uhr
+		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
+		<td>für Alexander (12J.) 	
 		
 	<tr>
 		
 		<td><b>18. Sept.</b> (So)<br>15:00 Uhr
 		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
-		<td>für Constantin (dann 10J.) 
+		<td>für Constantin (10J.) 
 		
 		</table></div>
 	
@@ -69,56 +75,15 @@
 		
 		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a>
 		
-		<p><b>Termine</b> in den Sommerferien 2016
 	</div>
 	
 	<div class="box termin clear-after">
-		<h4>Geburtstags-Event für Kids ab 11 Jahren.</h4>
+		<h4>Geburtstags-Event für Kids ab ca. 11 Jahren.</h4>
 		
-		<p>Computer-Dinosaurier hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 2,5 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids.
+		<p>Computer-Dinosaurier hautnah erleben und anschließend selbst tolle Experimente ausführen. 2 bis 3 spannende Stunden für ca. 8 bis 12 technikbegeisterte Kids.
 		
 		
 		<p><b>Weitere Informationen</b> <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 		<br><b>Termine</b> nach Absprache
 	</div>
 	
-	<!-- "Rohmaske" einer Anmelde-Box als Vorlage fürs Script -->
-	<script type="text/html" id="anmeldung_tmpl">
-		<div class="anmelden">
-			<h4>Anmelden für <em><%=veranstaltung%></em></h4>
-			<p>An dieser Stelle können Sie sich für obige Veranstaltung anmelden.</p>
-			<form action="http://dev.technikum29.de/cgi-bin/mail.php" method="post">
-				<input type="hidden" name="to" value="sven">
-				<input type="hidden" name="subject" value="Webanmeldung für Führung <%=veranstaltung%>">
-				<input type="hidden" name="pre" value="Folgender Besucher hat sich für Führung <%=veranstaltung%> angemeldet:">
-				<input type="hidden" name="out_heading" value="Ihre Anmeldung wurde entgegengenommen.">
-				<input type="hidden" name="out_text" value="Vielen Dank für ihre Anmeldung zur Veranstaltung <i><%=veranstaltung%></i>. <a href=http://www.technikum29.de/de/termine>Zurück zur Termine-Website</a>">
-
-				<dl>
-					<dt>Veranstaltung</dt>
-					<dd><%=veranstaltung%>
-					<input type="hidden" name="text_veranstaltung" name="<%=veranstaltung%>"
-					</dd>
-					
-					<dt>Termin</dt>
-					<dd><%=termin%>
-					<input type="hidden" name="text_termin" value="<%=termin%>">
-					</dd>
-				
-					<dt>Name</dt>
-					<dd><input type="text" name="text_anmelder_name"></dd>
-					
-					<dt>E-Mail-Adresse</dt>
-					<dd><input type="email" name="text_email_adresse"></dd>
-					
-					<dt>Telefonnummer</dt>
-					<dd><input type="tel" name="text_telefon_nummer"></dd>
-					
-					<dt>Ggf. Anmerkungen</dt>
-					<dd><textarea name="text"></textarea></dd>
-					
-					<dd><input type="submit" value="Abschicken" class="submit"> <input type="reset" value="Abbrechen"> </dd>
-				</dl>
-			</form>
-		</div>
-	</script>

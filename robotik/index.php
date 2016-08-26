@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>19.8.2016
+	<br>26.8.2016
 </div>
 
 <div class="spacing"></div>
@@ -107,9 +107,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 
-Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 12 Uhr:<br>
-
-<b>Fortsetzungskurs:</b>	Mo. 22.8. bis Fr. 26.8. für Fortgeschrittene
+In den Herbstferien ist z.Z. noch kein Kurs geplant.<br>
+Bei Interesse können Sie uns jedoch eine Mail schreiben.
 </p>
 
 </div><!-- /rightcol -->
@@ -119,7 +118,7 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 	<div  class="box bordered nomargin-bottom" id="3D">
 	<p class="bildtext"><big><big><b>Physical-Computing & Robotics </b></big></big>   (In Vorbereitung) <br><br>
 	
-	Unter Physical Computing versteht man Projekte, bei denen Computer oder Micro-Controller (z.B. RasPi, Arduino) durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.<br><br>
+	Unter "Physical Computing" versteht man Projekte, bei denen Computer oder Micro-Controller (z.B. RasPi, Arduino) durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.<br><br>
 	Wir beschäftigen uns in diesem Workshop also vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre. Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen als AG realisieren. Im technikum29 werden wir diesen eventuell in den Osterferien anbieten.<br>
@@ -131,7 +130,7 @@ Termine für die Kurse in den Sommerferien 2016, jeweils vormittags von 10 bis 1
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big><b>Geburtstags-Event für Kids ab 11</b></big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 11 Jahren einen Geburtstags-Event der besonderen Art an: <br>
-	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen.<br>
+	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 3 Stunden.</p>
 </div>

@@ -38,7 +38,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Robotik in der Schule:</strong>
-	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die Klassen 6/7 zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
+	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 6. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
 	<br><br>
 	Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a> </p>
 </div>
@@ -96,7 +96,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
 <li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
 </ul>
-<p>Das Grundprinzip lautet: Es soll vor allem Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
+<p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
 
 <h3>Voraussetzungen</h3>
 <p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
@@ -108,7 +108,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine in den Ferien</h3>
 
 In den Herbstferien ist z.Z. noch kein Kurs geplant.<br>
-Bei Interesse können Sie uns jedoch eine Mail schreiben.
+Bei Interesse können Sie uns jedoch eine Mail schreiben. Wenn genügend Anfragen kommen, richten wir einen Einsteigerkurs ein.
 </p>
 
 </div><!-- /rightcol -->
@@ -119,7 +119,7 @@ Bei Interesse können Sie uns jedoch eine Mail schreiben.
 	<p class="bildtext"><big><big><b>Physical-Computing & Robotics </b></big></big>   (In Vorbereitung) <br><br>
 	
 	Unter "Physical Computing" versteht man Projekte, bei denen Computer oder Micro-Controller (z.B. RasPi, Arduino) durch physische Systeme wie Sensoren oder Aktuatoren zu einer interaktiven Einheit verbunden werden.<br><br>
-	Wir beschäftigen uns in diesem Workshop also vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre. Nach oben gibt es eigentlich keine Grenze.<br>
+	Wir beschäftigen uns in diesem Workshop also vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen als AG realisieren. Im technikum29 werden wir diesen eventuell in den Osterferien anbieten.<br>
 	Voraussetzungen zur Teilnahme:<br>

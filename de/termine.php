@@ -47,11 +47,7 @@
 		<td>Computer-History <td>Führung
 		<td>Industriepark Höchst  -->
 		
-	<tr>
-		
-		<td><b>28. Aug.</b> (So)<br>15:00 Uhr
-		<td>Computer-History<br>Interaktive Führung<td>Geburtstags-Event
-		<td>für Lorenzo (12J.) 
+	
 
 	<tr>
 		

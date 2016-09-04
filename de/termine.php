@@ -47,13 +47,6 @@
 		<td>Computer-History <td>Führung
 		<td>Industriepark Höchst  -->
 		
-	
-
-	<tr>
-		
-		<td><b>4. Sept.</b> (So)<br>14:30 Uhr
-		<td>Computer-History<br>Experimental-Workshop<td>Geburtstags-Event
-		<td>für Alexander (12J.) 	
 		
 	<tr>
 		

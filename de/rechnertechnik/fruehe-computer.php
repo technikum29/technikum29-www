@@ -44,7 +44,7 @@
 	Die Reparatur des Rechners gestaltet sich als große Herausforderung. Da wir jedoch die Grundausstattung doppelt haben, ist die Chance für eine erfolgreiche Reparatur groß.	Weitere Informationen zu diesem interessanten Rechner folgen später.</p>
 
 	
-	<h3>Minicomputer</h3>
+	<h3><b>Minicomputer</b></h3>
 	
 	   <p> Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Rechner zu den "Minis" gehörte, insbesondere war die CPU sehr klein. Frühe Computer sind wegen ihrer stattlichen Größe und der sehr schönen transparenten Peripheriegeräten vor allem in ihrer Funktion sehenswert.
         <br/>Es gibt eine sehr wichtige Computerfamilie, die letztendlich zu unseren heutigen (Home-)Computern geführt hat: Die Entwicklung der "Mini-"Computer der Firma <b>D</b>igital <b>E</b>quipment <b>C</b>orporation (kurz <b>DEC</b>) der 12-Bit-Serie PDP-8 bzw. PDP-12. Wir verfügen über alle in dieser Serie gebauten Geräte: Von der PDP-8 (auch Classic-8 genannt) aus dem Jahr 1965 bis zur PDP-8a (1975). Letztere ist museal weniger interessant und steht daher im Archiv. Der Abkürzung "<b>PDP</b>" steht für "<b>P</b>rogramable <b>D</b>igital Com<b>p</b>uter".

@@ -31,7 +31,7 @@
 	</div>
 		
 	<h5 id="lochkarten">UNIVAC 9200/9300 Software</h5>
-		<p>Manchmal sind es die Zufälle im Leben, die zu unglaublichen Funden führen. So hat ein (neugieriger) Student der Goethe-Universität in Frankfurt eben dort in einem Gebäudeteil merkwürdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte Gebäude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.php#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen für unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut für Mathematik und angewandte Informatik verwendet. Einige Programme werden wir sicher zum Laufen bringen.<br>
+		<p>Manchmal sind es die Zufälle im Leben, die zu unglaublichen Funden führen. So hat ein (neugieriger) Student der Goethe-Universität in Frankfurt eben dort in einem Gebäudeteil merkwürdige Teile entdeckt und uns informiert. Das im Umbau befindliche alte Gebäude beherbergte in einem fensterlosen Abstellraum einen <a href="/de/rechnertechnik/lochkarten-edv.php#1710">UNIVAC 1710</a> Lochkartenstanzer, sowie einen Schrank voll mit Programmen für unsere Anlage: Nicht weniger als etwa 65.000 Lochkarten. Diese stammen aus der Zeit von 1967 bis 1975 und wurden am damaligen Institut für Mathematik und angewandte Informatik verwendet. Die Hoffnung, einige Programme hiervon zum Laufen zu bringen haben sich zerschlagen, da deren Dokumentationen nicht vorhanden sind.<br>
 		Die Uni-Frankfurt sowie der <a href="http://www.fitg.de">"FITG" (Frankfurt)</a>  unterstützten uns bei der Bergung der historischen Funde.
 		<div class="box center auto-bildbreite">
 		<img src="/shared/photos/rechnertechnik/univac/lochkarten.jpg" alt="65.000 Lochkarten" width="700" height="174" />
@@ -48,7 +48,8 @@
 
 <p>Es ist schon eine kleine Sensation: Seit September 2015 sind wir im Besitz einer zweiten UNIVAC 9200. Es ist ein purer Zufall, wenn ein solches Fossil die Zeit von 1967 bis 2015 völlig unbeschadet überlebt. Die Anlage stand unter besten klimatischen Bedingungen im Keller einer Stadtverwaltung und ist nun dort gelandet, wo sie wieder zum Leben erweckt werden konnte. Zum Glück wurde sie vor vielen Jahren fachgerecht deinstalliert, so dass die sehr umfangreichen Kabelverbindungen zwischen den Einheiten noch vorhanden sind. Nicht selten werden beim Abbau die Verbindungen einfach durchgeschnitten. <br>
 Im Unterschied zu unserer ersten UNIVAC 9200 ist der Stab-Drucker langsamer, wir erwarten damit ein noch besseres Druckbild, der Speicher ist auf 16 kB gegenüber 8 kB ausgebaut und die Punch (Lochkartenstanzer) ist eine sogenannte "Read-Punch". Bereits gelochte Karten können hier zusätzlich gelesen, im Prozessor verarbeitet und das Ergebnis noch in die gleiche Karte gestanzt werden.<br>
-Mit der Erfahrung durch die Reparatur der ersten UNIVAC 9200 dauerte die Reparatur der Zweiten nur wenige Wochen: Seit Januar 2016 ist die Anlage voll funktionsfähig.</p>
+Mit der Erfahrung durch die Reparatur der ersten UNIVAC 9200 dauerte die Reparatur der Zweiten nur wenige Wochen: Seit Januar 2016 ist die Anlage voll funktionsfähig.<br>
+Mittlerweile haben wir auch den passenden Lochkarten-Assembler zu den Anlagen, so dass wir selbst schöne Demo-Programme schreiben konnten und natürlich auch vorführen.</p>
 
 <p class="small">Wir bedanken uns bei der Stadtverwaltung Rheine (Herrn M. Lange), die uns die Anlage freundlicherweise überlassen hat.</small>
 		

@@ -118,7 +118,7 @@ Bei Interesse können Sie uns jedoch eine Mail schreiben. Wenn genügend Anfrage
 	<div  class="box bordered nomargin-bottom" id="3D">
 	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big>   (In Vorbereitung) <br><br>
 	
-	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstarktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
+	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen als AG realisieren. Im technikum29 werden wir diesen eventuell in den Osterferien anbieten.<br>
 	Voraussetzungen zur Teilnahme:<br>

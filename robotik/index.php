@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>4.9.2016
+	<br>5.9.2016
 </div>
 
 <div class="spacing"></div>
@@ -122,7 +122,8 @@ Bei Interesse können Sie uns jedoch eine Mail schreiben. Wenn genügend Anfrage
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Es handelt sich damit um einen wirklichen Zukunfts-Workshop, den wir zunächst an zwei Schulen in den 8. Klassen als AG realisieren. Im technikum29 werden wir diesen eventuell in den Osterferien anbieten.<br>
 	Voraussetzungen zur Teilnahme:<br>
-	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.
+	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.<br><br>
+	Nebenbei: Das was wir hier planen nennt man in der Wissenschaft "<b>Physical-Computing</b>". Es ist das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
 </p>
 </div>
 

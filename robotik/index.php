@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>5.9.2016
+	<br>19.9.2016
 </div>
 
 <div class="spacing"></div>
@@ -116,22 +116,22 @@ Bei Interesse können Sie uns jedoch eine Mail schreiben. Wenn genügend Anfrage
 <div class="clear cols">
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big>   (In Vorbereitung) <br><br>
+	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big> <br><br>
 	
-	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs für Schüler ab ca. 14 Jahre (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
+	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
-	
+	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbch.<br>
 	Voraussetzungen:<br>
 	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.<br><br>
-	Nebenbei: Das was wir hier planen nennt man in der Wissenschaft "<b>Physical-Computing</b>". Es ist das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
+	Den Workshop würde man in der Wissenschaft "<b>Physical-Computing</b>" nennen. Es ist das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
 </p>
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big><b>Geburtstags-Event für Kids ab 10</b></big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>
-	Zunächst erfolgt eine kurze altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen. Dabei passen wir den "Tiefgang" dem Alter der Teilnehmer an.<br>
-	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. 
+	Zunächst erfolgt eine altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen. Dabei passen wir den "Tiefgang" dem Alter der Teilnehmer an.<br>
+	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. Für den Workshop sollten Die Teilnehmer jedoch mindestens 11 Jahre alt sein.<br>
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 3 Stunden.</p>
 </div>
 

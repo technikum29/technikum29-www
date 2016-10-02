@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>19.9.2016
+	<br>2.10.2016
 </div>
 
 <div class="spacing"></div>
@@ -107,8 +107,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine in den Ferien</h3>
 
-In den Herbstferien ist z.Z. noch kein Kurs geplant.<br>
-Bei Interesse können Sie uns jedoch eine Mail schreiben. Wenn genügend Anfragen kommen, richten wir einen Einsteigerkurs ein.
+<p>
+Herbstferien: Wenn genügend Anmeldungen erfolgen, richten wir einen Einsteigerkurs vom 24.10. bis 28.10. jeweils von 14:00 bis 16:00 Uhr ein.
 </p>
 
 </div><!-- /rightcol -->

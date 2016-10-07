@@ -47,7 +47,7 @@
 	<div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/loewe-kathodenstrahl.jpg" alt="Foto einer Kathodenstrahlröhre" width="396" height="189" />
 		<p class="bildtext">
-            Als es noch kein Fernsehen und kein Oszilloskop gab war die <b>Kathodenstrahlröhre</b> in der Schule eine Sensation. Hier konnten die Schüler zum ersten Mal sehen, dass Elektronen trägheitslos und einfach in ihrer Richtung ablenkbar sind.<br>
+            Als es noch kein Fernsehen und kein Oszilloskop gab war die <b>Kathodenstrahlröhre</b> in der Schule eine Sensation. Hier konnten die Schüler zum ersten Mal sehen, dass Elektronen scheinbar trägheitslos und einfach in ihrer Richtung ablenkbar sind.<br>
 		    Diese Röhre mit Netzteil der Firma <b>Loewe</b> (Berlin Steglitz) ist ein wirklich historisches Exponat aus den 30er Jahren. Sie ist ca. einen halben Meter lang!
 		</p>
 	</div>

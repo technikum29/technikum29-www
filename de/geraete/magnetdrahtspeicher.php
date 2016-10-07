@@ -14,7 +14,7 @@
 
 <p>Kernspeicher waren in der Herstellung relativ teuer. Die Tatsache, dass beim Auslesen der Information der gespeicherte Inhalt gelöscht wird und daher ein Neuschreiben notwendig ist, vergrößert die Zykluszeit (Auslesen und Neuschreiben). Halbleiterspeicher waren noch lange nicht serienreif und der Speicherinhalt verschwand mit dem Abschalten der Betriebsspannung.
 <p>Da die ersten Anlagen der 9000er Serie von UNIVAC (auch unsere 9200) mit Magnetdrahtspeichern aufgebaut wurden, beschreiben wir hier kurz ihre Funktion. 
-Physikalisch gesehen ist ein Magnetdrahtspeicher ein Dünnfilmspeicher. Er benutzt als Informationsträger einen zusammenhängenden Permalloy-Magnetfilm (81% Nickel, 19% Eisen) von etwa 1 Mikrometer, der sich auf einem Beryllium-Kupferdraht von ca. 0,13mm Durchmesser befindet.<br>
+Physikalisch gesehen ist ein Magnetdrahtspeicher ein Dünnfilmspeicher. Er benutzt als Informationsträger einen zusammen-hängenden Permalloy-Magnetfilm (81% Nickel, 19% Eisen) von etwa 1 Mikrometer, der sich auf einem Beryllium-Kupferdraht von ca. 0,13mm Durchmesser befindet.<br>
 Mit dem hier abgebildetem Ausschnitt könnte man also 4 Wörter mit je 3 Bit speichern.</p>
 
 <div class="box center" style="clear:right;">

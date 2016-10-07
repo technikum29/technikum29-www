@@ -122,12 +122,12 @@ Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran
 		</p>
 	
 
-<h3 id="staebchenspeicher">Stäbchenspeicher</h3>
+<h3 id="staebchenspeicher">Stäbchenspeicher (Induktionsspeicher)</h3>
 
 <div class="box center auto-bildbreite">
 	<a name="backlink-staebchenspeicher" href="/de/geraete/staebchenspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="Stäbchenspeicher von Nixdorf" width="750" height="525" /></a>
 	<p class="bildtext"><b>Nixdorf Stäbchenspeicher</b></p></div>
-		<p>NIXDORF wollte besonders flexibel sein und gestaltete ein ROM, welches man auch 		problemlos selbst fädeln konnte (und natürlich noch immer kann).
+		<p>NIXDORF wollte besonders flexibel sein und gestaltete ein ROM, welches man auch problemlos selbst fädeln konnte (und natürlich noch immer kann).
 			 <br/>In diesen ROM´s wurde das ganze Betriebssystem des NIXDORF 820 - Rechners gespeichert (man brauchte 3 Stück dieser Module, Typ 177). Der Kunde konnte sich auch Programme selbst in leeren Programmträgern herstellen. Pro Modul (siehe Bild, hier geöffnet) waren das bis zu 4096 Wörter mit einer Länge von je 18 Bit. Das Gewicht des Moduls beträgt stolze 2,4 kg! Ein ordentliches Programm hatte auch ein ordentliches Gewicht!<br/>
 			 Weil dies das am einfachsten zu verstehende ROM ist, welches man selbst herstellen konnte, gibt es genauere Erklärungen und weitere Bilder.
 		</p>

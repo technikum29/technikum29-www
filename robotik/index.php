@@ -1,7 +1,7 @@
 <?php
-	$seiten_id = 'robotik-ferienkurs'; 'robotik-workshop';
+	$seiten_id = 'robotik-ferienkurs'; 'robotik-workshop'; 'Roboter programmieren';
 	$version = '$Id: robotik$';
-	$titel = 'Robotik Workshop im technikum29 und an Schulen in Kelkheim und Schwalbach';
+	$titel = 'Robotik Workshop im technikum29 und an Schulen';
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
@@ -75,7 +75,7 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <p>
-<img src="eds-gruppe-2016.jpg" width="405"  height="250"/> 
+<img src="eds-2016-17.jpg" width="405"  height="223"/> 
 <div class="small">Die EDS-Robotik-Gruppe</small></div>
 </p>
 <h3>Anmeldung und Vormerkung</h3>  

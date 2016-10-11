@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>8.10.2016
+	<br>11.10.2016
 </div>
 
 <div class="spacing"></div>
@@ -108,7 +108,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine in den Ferien</h3>
 
 <p>
-Herbstferien: Wenn genügend Anmeldungen erfolgen, richten wir einen Einsteigerkurs vom 24.10. bis 28.10. jeweils von 14:00 bis 16:00 Uhr ein.
+Herbstferien: Wegen Renovierungsarbeiten in unseren Räumen können wir in den Herbstferien leider keinen Robotik-Workshop anbieten.
 </p>
 
 </div><!-- /rightcol -->

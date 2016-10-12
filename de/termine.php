@@ -27,10 +27,10 @@
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a><br><br>
 	
-		Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen.
+		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
 
-<!--	<p>Die folgende Tabelle listet Gruppenanmeldungen auf.
+	<p>Die folgende Tabelle listet Gruppenanmeldungen auf.
 	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. 
 
 	<div class="termine">
@@ -45,12 +45,12 @@
 	
 	
 	<tr>
-		<td><b>2. August</b> (Di)<br>16:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>Industriepark Höchst 
+		<td><b>23. November</b> (Di)<br>10:00 Uhr
+		<td>Computer-History <td>Spezial-Führung
+		<td>Kulturamt Kelkheim 
 		
 		
-		</table></div> -->
+		</table></div> 
 	
 	
 	<h3>Weitere Angebote</h3>

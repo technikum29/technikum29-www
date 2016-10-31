@@ -28,17 +28,6 @@
 </a></li>
 
 
-<li><a href="/robotik/#camp">
-	<h3>Februar 2016</h3><br>
-   <img src="/robotik/header-bild.jpg" width="153" height="67" />
-	<b>Robotik-Camp für Schulen</b> vom 4.7. bis 14.7.<br>
-	Roboter programmieren für Schüler der Klassen 6/7<br>
-	Einzelheiten finden Sie unter der Rubrik:<br>
-	Robotik-Workshop
-	
-</a></li>
-
-
 <li><a href="/de/rechnertechnik/lgp30.php#lgp30">
 	<h3>Oktober 2015</h3><br>
     <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>

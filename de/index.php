@@ -53,7 +53,7 @@
             <h2>Was wird geboten ?</h2>
             <ul>
                 <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst vorwiegend funktionsfähige, großformatige Technik.<br>
-				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzel-besuche nur in Ausnahmefällen möglich.
+				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.
 								
 				</li>
             </ul>

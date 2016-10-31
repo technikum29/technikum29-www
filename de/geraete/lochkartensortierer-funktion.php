@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-<p>Nur die deutlich über 50-jährigen wissen noch, wie solche Lochkartenmaschinen arbeiten. Daher versuchen wir, Ihnen einen Einblick zu geben.</p>
+<p>Nur die deutlich über 60-jährigen wissen noch, wie solche Lochkartenmaschinen arbeiten. Daher versuchen wir, Ihnen einen Einblick zu geben.</p>
 
 <p>Nehmen wir an, es solle eine Kundenkartei (jeder Kunde hat eine Nummer) nach der Kundennummer sortiert werden (man kann natürlich auch nach Namen sortieren).</p>
 

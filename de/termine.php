@@ -42,7 +42,7 @@
 		<th>Teilnehmer 
 		
 		<tr>
-		<td><b>11. November</b> (Sa)<br>14:00 Uhr
+		<td><b>19. November</b> (Sa)<br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>es gibt noch freie Plätze 
 		

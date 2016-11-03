@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>11.10.2016
+	<br>3.11.2016
 </div>
 
 <div class="spacing"></div>
@@ -108,7 +108,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine in den Ferien</h3>
 
 <p>
-Herbstferien: Wegen Renovierungsarbeiten in unseren Räumen können wir in den Herbstferien leider keinen Robotik-Workshop anbieten.
+Die nächsten Kurse finden in den Osterferien statt. Die Termine werden in Kürze bekannt gegeben.
 </p>
 
 </div><!-- /rightcol -->
@@ -120,7 +120,7 @@ Herbstferien: Wegen Renovierungsarbeiten in unseren Räumen können wir in den H
 	
 	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
-	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbch.<br>
+	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbach.<br>
 	Voraussetzungen:<br>
 	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.<br><br>
 	Den Workshop würde man in der Wissenschaft "<b>Physical-Computing</b>" nennen. Es ist das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.

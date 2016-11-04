@@ -44,7 +44,7 @@
 		<tr>
 		<td><b>19. November</b> (Sa)<br>14:00 Uhr
 		<td>Computer-History <td>Führung
-		<td>es gibt noch ca. 3 freie Plätze 
+		<td>es gibt noch ca. 2 freie Plätze 
 	
 	<tr>
 		<td><b>23. November</b> (Mi)<br>10:00 Uhr

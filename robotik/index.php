@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>3.11.2016
+	<br>5.11.2016
 </div>
 
 <div class="spacing"></div>
@@ -103,12 +103,12 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
-Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
+Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
 
-<h3>Termine in den Ferien</h3>
-
+<h3>Termine in den Osterferien</h3>
 <p>
-Die nächsten Kurse finden in den Osterferien statt. Die Termine werden in Kürze bekannt gegeben.
+Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr.<br>
+Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017 Anmeldung für diesen Kurs nur an der VHS.
 </p>
 
 </div><!-- /rightcol -->

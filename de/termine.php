@@ -46,10 +46,15 @@
 		<td>Computer-History <td>Führung
 		<td>es gibt noch ca. 2 freie Plätze 
 	
-	<tr>
+		<tr>
 		<td><b>23. November</b> (Mi)<br>10:00 Uhr
 		<td>Computer-History <td>Spezial-Führung
 		<td>Kulturamt Kelkheim 
+		
+		<tr>
+		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr
+		<td>Computer-History <td>Geburtstags-Event
+		<td>R. wird 11 Jahre alt 
 		
 		<tr>
 		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr

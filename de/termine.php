@@ -54,7 +54,7 @@
 		<tr>
 		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr
 		<td>Computer-History <td>Geburtstags-Event
-		<td>R. wird 11 Jahre alt 
+		<td>Hendrik wird 11 Jahre alt 
 		
 		<tr>
 		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr

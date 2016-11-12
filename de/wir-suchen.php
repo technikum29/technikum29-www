@@ -15,8 +15,13 @@
 		
 	<h3>Geräte, Manuals und Bauteile</h3><br>
 	
-    
+    <div class="left">
+		<img src="/shared/photos/rechnertechnik/card-5806223.jpg" alt="Plotter-Interface" width="350" height="483" />
+	</div>
 	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe IBM 1130<br>
+	<hr><br>
+	Für unsere IBM 1130 suchen wir ferner die Plotterinterface-Karte mit der Nummer 5806223 oder das Schaltbild hiervon. Der abgebildete Schaltplan gehört zu einer anderen Karte. Das nebenstehende Bild lässt sich vergrößern: Auf die rechte Maustaste klicken und Grafik anzeigen.<br><br>
+	<hr>
 
      
 <hr id="stecker">

@@ -13,7 +13,14 @@
    
       Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
 	  <br>
-<br><hr>
+	  <hr>
+	   <div class="left">
+		<img src="/shared/photos/rechnertechnik/card-5806223.jpg" alt="Plotter-Interface" width="350" height="483" />
+	</div>
+	  <br>
+	  For our IBM 1130, we are also looking for the plotter interface card with the number 5806223 or the circuit diagram. The circuit diagram shown belongs to another card. The picture can be enlarged: Click on the right mouse button and display the graphic.
+<br><br><hr><hr><br><br>
+
 	  <p id="connector">We have got an <b>LGP 30</b> computer withe tubes build in 1958/61. Unfortunately lacks some cables. Therefore we are looking for 37-pin circular connectors (-jacks) built by Cannon, see picture below. The diameter is about 40mm.
 	 </p><br>
     

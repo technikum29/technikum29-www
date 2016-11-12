@@ -49,7 +49,7 @@
 		<tr>
 		<td><b>23. November</b> (Mi)<br>10:00 Uhr
 		<td>Computer-History <td>Spezial-Führung
-		<td>Kulturamt Kelkheim 
+		<td>Kulturamt Kelkheim <br>ausgebucht!
 		
 		<tr>
 		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr

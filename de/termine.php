@@ -58,7 +58,7 @@
 		
 		<tr>
 		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr
-		<td>Computer-History <td>Interaktive Führung + Workshop
+		<td>Computer-History <td>Interaktive Führung<br> + Workshop
 		<td>Klasse 10 der IGS Schönenberg 
 		
 		</table></div> 

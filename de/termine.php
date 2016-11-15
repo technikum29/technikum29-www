@@ -52,6 +52,11 @@
 		<td>Kulturamt Kelkheim <br>ausgebucht!
 		
 		<tr>
+		<td><b>9. Dezember</b> (Fr)<br>14:00 Uhr
+		<td>Computer-History <td>Führung
+		<td>IBM-Techniker<br>ausgebucht!
+		
+		<tr>
 		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr
 		<td>Computer-History <td>Geburtstags-Event
 		<td>Hendrik wird 11 Jahre alt 

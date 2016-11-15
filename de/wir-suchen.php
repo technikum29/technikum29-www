@@ -20,9 +20,9 @@
 	
 	<h4>Plotterinterface-Karte für IBM 1130</h4>
 	<div class="left clear-after">
-		<a href="/shared/photos/rechnertechnik/card-5806223.jpg"><img src="/shared/photos/rechnertechnik/card-5806223.jpg" alt="Plotter-Interface" width="350" height="483" /></a>
+		<a href="/shared/photos/rechnertechnik/card-5806223,5800132.jpg"><img src="/shared/photos/rechnertechnik/card-5806223,5800132.jpg" alt="Plotter-Interface" width="350" height="483" /></a>
 		<p class="bildtext">
-			Für unsere IBM 1130 suchen wir ferner die Plotterinterface-Karte mit der Nummer 5806223 oder das Schaltbild hiervon. Der <a href="/shared/photos/rechnertechnik/card-5806223.jpg">abgebildete Schaltplan</a> gehört zu einer anderen Karte. Das nebenstehende Bild lässt sich durch Anklicken vergrößern.
+			Für unsere IBM 1130 suchen wir ferner die Plotterinterface-Karte mit der Nummer 5806223 bzw. 5800132 (neuere Version) oder das Schaltbild hiervon. Der <a href="/shared/photos/rechnertechnik/card-5806223,5800132.jpg">abgebildete Schaltplan</a> gehört zu einer anderen Karte. Das nebenstehende Bild lässt sich durch Anklicken vergrößern.
 		</p>
 	</div>
 

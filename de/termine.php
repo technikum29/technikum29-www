@@ -40,11 +40,6 @@
 		<th>Titel
 		<th>Typ
 		<th>Teilnehmer 
-		
-		<tr>
-		<td><b>19. November</b> (Sa)<br>14:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>ausgebucht! 
 	
 		<tr>
 		<td><b>23. November</b> (Mi)<br>10:00 Uhr

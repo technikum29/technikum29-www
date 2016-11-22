@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>5.11.2016
+	<br>22.11.2016
 </div>
 
 <div class="spacing"></div>
@@ -116,9 +116,15 @@ Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr
 <div class="clear cols">
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big> <br><br>
+	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big> 
 	
-	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
+	<div class="box left">
+	<img src="arduino.jpg" width="220"  height="171"/> 
+<small>Arduino-Zähler, Einführungsbeispiel</small></div>
+
+</p>
+<p>	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird   hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
+Zunächst geht es darum, die grundlegenden Methoden zur Programmierung des Arduino-Micro-Controllers zu erfahren.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbach.<br>
 	Voraussetzungen:<br>

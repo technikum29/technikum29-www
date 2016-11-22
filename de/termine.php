@@ -54,7 +54,7 @@
 		<tr>
 		<td><b>14. Dezember</b> (Mi)<br>14:00 Uhr
 		<td>Computer-History <td>Führung
-		<td>IBM-Deutschland<br>
+		<td>IBM-Deutschland<br>ausgebucht!
 		
 		<tr>
 		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr

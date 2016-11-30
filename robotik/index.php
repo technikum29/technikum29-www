@@ -116,7 +116,7 @@ Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr
 <div class="clear cols">
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Dehli gewannen sie den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, wie üblich belegten die Asiaten dabei die ersten 4. Plätze. Weitere Einzelheiten können Sie hier lesen: <br>
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Dehli gewannen sie den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten können Sie hier lesen: <br>
 <a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Digitale Welten & Roboter" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
 
 

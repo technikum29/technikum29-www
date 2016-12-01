@@ -41,10 +41,7 @@
 		<th>Typ
 		<th>Teilnehmer 
 	
-	<tr>
-		<td><b>3. Dezember</b> (Sa)<br>14:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>Einzelpersonen und<br>Kleingruppen
+	
 		
 		<tr>
 		<td><b>9. Dezember</b> (Fr)<br>14:00 Uhr

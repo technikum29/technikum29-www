@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>22.11.2016
+	<br>30.11.2016
 </div>
 
 <div class="spacing"></div>
@@ -108,7 +108,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro a
 <h3>Termine in den Osterferien</h3>
 <p>
 Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr.<br>
-Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017 Anmeldung für diesen Kurs nur an der VHS.
+Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017, Anmeldung für diesen Kurs nur an der VHS.
 </p>
 
 </div><!-- /rightcol -->
@@ -116,7 +116,7 @@ Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr
 <div class="clear cols">
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Dehli gewannen sie den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten können Sie hier lesen: <br>
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Dehli gewannen sie den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
 <a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Digitale Welten & Roboter" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
 
 

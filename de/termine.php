@@ -76,7 +76,8 @@
 		</table></div> <br>
 		
 		<b>Der besondere Event: Was ist das Internet der Dinge?</b><br><br>
-		Termin: Freitag, der 24. März 2017 um 19 Uhr im technikum29.<br>
+		Termin: Freitag, der 24. März 2017 um 19 Uhr 
+		<br>
 		<p>Was haben Captain Kirk, Picard, Janeway und weitere Offiziere der Sternenflotte aus unserer Kindheit mit uns heute zu tun? Sie benutzten einen persönlichen Assistenten, der sie mit der Brücke oder dem Computer verband. Und heute nennen wir es Smartphone. Und das Ganze funktioniert, weil die Geräte über das Internet verbunden sind. In Deutschland spricht man von der „Industrie 4.0“ und im Rest der Welt vom „Internet der Dinge“. Im Computer-Museum in Kelkheim, umgeben von den Dinosauriern in der Computerevolution, erwartet Sie ein verständlicher Einblick in die Welt vom „Internet der Dinge“, dessen Akteure sowie Trends.<br><br>
 		Anmeldung nur über die Volkshochschule des Main-Taunus-Kreises (VHS)</p>
 	

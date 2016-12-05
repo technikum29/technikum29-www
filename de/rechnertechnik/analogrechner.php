@@ -35,13 +35,13 @@ Da es sich um einen Bausatz handelt, wird ein Teil der Anschaffungskosten einges
 
 
     <div class="box left clear-after">	 
-        <h3 id="heathkit-ec1">Heathkit Analog Computer EC-1</h3>
+        <h3 id="heathkit-ec1">Heathkit Analog Computer EC-1</h3><br>
         <img src="/shared/photos/rechnertechnik/heathkit-ec1.jpg" width="400" height="252" alt="Heathkit EC-1" />
         <p>Dies ist ein sehr kleiner ab 1960 gebauter Analogrechner für Schulen und Ausbildung. Aufgebaut mit nur 17 Röhren (davon 5 für die Spannungsstabilisierung) war er gerade gut, um das Prinzip des Analogrechners zu verdeutlichen. Für ernsthafte Berechnungen war er zu klein und zu ungenau. Ein abgespeckter ES-400 der 1960 als Bausatz stolze 1.494,- DM kostete, betriebsfertig jedoch 1.894,- DM (ca. 900 Euro).</p>
     </div>
 
      <div class="box right">
-        <h3 id="rat700">Telefunken RAT 700</h3>
+        <h3 id="rat700">Telefunken RAT 700</h3><br>
         <img src="/shared/photos/rechnertechnik/telefunken_rat700.jpg" width="291" height="917" title="Telefunken RAT 700" />
         <div class="bildtext">
             <p>Die Abbildung rechts zeigt unten den <b>Telefunken RAT 700</b> (erstes Modell von 1961), dar&uuml;ber ein Nachfolgermodell. Beide Rechner verfügen über 15 Rechenverstärker. Bei dem neueren Rechner kann man das gesamte Steckboard austauschen und so Programme schnell wechseln. Über diesem befinden sich ein Speicheroszilloskop und darüber schließlich ein xy-Schreiber zum Aufzeichnen langsamer Vorgänge.
@@ -57,7 +57,7 @@ Da es sich um einen Bausatz handelt, wird ein Teil der Anschaffungskosten einges
 	</div>
     <div class="clear">&nbsp;</div>
 	
-   <h3 id="eai180">EAI 180 und EAI 185 Hybridrechner</h3>
+   <h3 id="eai180">EAI 180 und EAI 185 Hybridrechner</h3><br>
 	
      
         <p>EAI 180 von "Electronic Associates Incorporated", New Jersey,  ist ein sogenannter <b>Hybrid-Recher</b> (hybris [griech.]: Von zweierlei Abkunft),  Baujahr 1970. Er beinhaltet die Komponenten eines Analogrechners und die eines Digitalrechners. Das Ger&auml;t ist mit ICs der ersten Generation (DTL-Technik) ausgestattet. Die Rechen-Schaltung wird per Kabel am Frontpannel zusammengesteckt. Die Zykluszeit des analogen Teils kann auf weniger als 10&nbsp;ms eingestellt werden. Eine zu l&ouml;sende Gleichung wird dann mindestens 100 Mal pro Sekunde gel&ouml;st. Damit ben&ouml;tigt man zum Betrachten der Kurven nur ein einfaches Oszilloskop.</p>

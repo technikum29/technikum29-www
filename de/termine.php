@@ -49,6 +49,11 @@
 		<td>IBM-Techniker<br>ausgebucht!
 		
 		<tr>
+		<td><b>13. Dezember</b> (Di)<br>18:00 Uhr
+		<td>Computer-History <td>Führung 
+		<td>IT-Abteilung<br>St. Josefs-Hospital Wiesbaden
+		
+		<tr>
 		<td><b>14. Dezember</b> (Mi)<br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>IBM-Deutschland<br>ausgebucht!

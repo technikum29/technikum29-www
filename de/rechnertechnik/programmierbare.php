@@ -64,7 +64,7 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
            Der eingebaute magnetostriktive Laufzeitspeicher ist in 10 Register aufgeteilt, wobei jedes Register aus 24 Speicherzellen zu je 8 Bit besteht. Das entspricht ca. 240 Byte Speicherkapazität. Der folgende Link führt auf eine kurze Erläuterung des hier verwendeten Speichermediums, dem <a class="go" name="backlink-olivetti" href="speichermedien.php#magnetostriktion">Laufzeitspeicher</a><br>
 		   Heute ist dieser Rechner vor allem wegen seines ungewöhnlich schönen und preisgekrönten Designs gesucht. Die Reparatur ist aufwändig, da sich alle Kunststoff-Rollen des Magnetkartenantriebs "verflüssigt" haben und der kleine Trommeldrucker Probleme bereitet. Dennoch: Unsere P 101 ist voll funktionsfähig.
        </p>
-	<br><br><br>
+	<br>
 	
 	
 <h3>WANG 320</h3>

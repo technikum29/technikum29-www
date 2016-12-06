@@ -72,8 +72,22 @@
 		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr
 		<td>Computer-History <td>Interaktive Führung<br> + Workshop
 		<td>Klasse 10 der IGS Schönenberg 
+		
+		<tr>
+		<td><b>24. März 2017</b> (Fr)<br>19:00 Uhr
+		<td>Was ist das Internet der Dinge?<br>(Siehe unten)
+		<td>Event-Vortrag
+		<td>Anmeldung über die VHS
 
-		</table></div> <br>
+
+		</table>
+		</div> <br>
+		
+	<div class="termin">
+		<h4>VHS Main-Taunus: Was ist das Internet der Dinge?</h4>
+		<p> Was haben Captain Kirk, Picard, Janeway und weitere Offiziere der Sternenflotte aus unserer Kindheit mit uns heute zu tun? Sie benutzten einen persönlichen Assistenten, der sie mit der Brücke oder dem Computer verband. Und heute nennen wir es Smartphone. Und das Ganze funktioniert, weil die Geräte über das Internet verbunden sind. In Deutschland spricht man von der „Industrie 4.0“ und im Rest der Welt vom „Internet der Dinge“. Im Computer-Museum in Kelkheim, umgeben von den Dinosauriern in der Computerevolution, erwartet Sie ein verständlicher Einblick in die Welt vom „Internet der Dinge“, dessen Akteure sowie Trends (siehe "Termine").<br>
+		
+	</div>
 	
 	
 	<h3>Weitere Angebote</h3>

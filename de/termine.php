@@ -47,7 +47,7 @@
 		<td><b>9. Dezember</b> (Fr)<br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>IBM-Techniker<br>ausgebucht!
-		
+	
 		<tr>
 		<td><b>13. Dezember</b> (Di)<br>18:00 Uhr
 		<td>Computer-History <td>Führung 
@@ -67,6 +67,11 @@
 		<td><b>14. Januar 2017</b> (Sa)<br>15:30 Uhr
 		<td>Bilder-Klänge-Kommunikation <td>Geburtstags-Event
 		<td>Lukas wird 13 Jahre alt 
+		
+		<tr>
+		<td><b>24. Januar 2017</b> (Di)<br>10:00 Uhr
+		<td>Computer-Entwicklung <td>Event
+		<td>Hessischer Rundfunk 
 		
 		<tr>
 		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr

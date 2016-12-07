@@ -135,6 +135,7 @@ table.termine {
 table.termine td, table.termine th {
 	padding: .3em;
 	vertical-align: middle;
+	text-align: left;
 }
 
 table.termine th {

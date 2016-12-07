@@ -44,42 +44,42 @@
 	
 		
 		<tr>
-		<td><b>9. Dezember</b> (Fr)<br>14:00 Uhr
+		<td>Freitag<br><b>9. Dezember</b><br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>IBM-Techniker<br>ausgebucht!
 	
 		<tr>
-		<td><b>13. Dezember</b> (Di)<br>18:00 Uhr
+		<td>Dienstag<br><b>13. Dezember</b><br>18:00 Uhr
 		<td>Computer-History <td>Führung 
 		<td>IT-Abteilung<br>St. Josefs-Hospital Wiesbaden
 		
 		<tr>
-		<td><b>14. Dezember</b> (Mi)<br>14:00 Uhr
+		<td>Mittwoch<br><b>14. Dezember</b><br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>IBM-Deutschland<br>ausgebucht!
 		
 		<tr>
-		<td><b>17. Dezember</b> (Sa)<br>15:00 Uhr
+		<td>Samstag<br><b>17. Dezember</b><br>15:00 Uhr
 		<td>Computer-History <td>Geburtstags-Event
 		<td>Hendrik wird 11 Jahre alt 
 		
 		<tr>
-		<td><b>14. Januar 2017</b> (Sa)<br>15:30 Uhr
+		<td>Samstag<br><b>14. Jan 2017</b><br>15:30 Uhr
 		<td>Bilder-Klänge-Kommunikation <td>Geburtstags-Event
 		<td>Lukas wird 13 Jahre alt 
 		
 		<tr>
-		<td><b>24. Januar 2017</b> (Di)<br>10:00 Uhr
+		<td>Dienstag<br><b>24. Jan 2017</b><br>10:00 Uhr
 		<td>Computer-Entwicklung <td>Event
 		<td>Hessischer Rundfunk 
 		
 		<tr>
-		<td><b>7. Februar 2017</b> (Di)<br>11:00 Uhr
+		<td>Dienstag<br><b>7. Feb 2017</b><br>11:00 Uhr
 		<td>Computer-History <td>Interaktive Führung<br> + Workshop
 		<td>Klasse 10 der IGS Schönenberg 
 		
 		<tr>
-		<td><b>24. März 2017</b> (Fr)<br>19:00 Uhr
+		<td>Freitag<br><b>24. März 2017</b><br>19:00 Uhr
 		<td>Was ist das Internet der Dinge?<br>(Siehe unten)
 		<td>Event-Vortrag
 		<td>Anmeldung über die VHS

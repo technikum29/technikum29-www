@@ -41,13 +41,6 @@
 		<th>Typ
 		<th>Teilnehmer 
 	
-	
-		
-		<tr>
-		<td>Freitag<br><b>9. Dezember</b><br>14:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>IBM-Techniker<br>ausgebucht!
-	
 		<tr>
 		<td>Dienstag<br><b>13. Dezember</b><br>18:00 Uhr
 		<td>Computer-History <td>Führung 

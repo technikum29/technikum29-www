@@ -100,9 +100,9 @@
         </p>
     </div>
 	
-<h2>Fernschreibtechnik</h2>
+<h2 >Fernschreibtechnik</h2>
 
-<div class="box left">
+<div id="t32" class="box left">
 	  <a href="/shared/photos/kommunikationstechnik/siemens-t32.jpg"><img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="435" height="415"/></a>
 		<p class="bildtext">
 		    Siemens Springschreiber T32 (zum Vergrößern anklicken)

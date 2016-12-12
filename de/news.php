@@ -13,11 +13,18 @@
 	
 	
 	<p>Damit alle die öfters unsere Homepage besuchen einen schnellen Einblick in Neuigkeiten und Erweiterungen haben,
-	wurde diese Rubrik eingeführt. Die Neuigkeiten können sie auch <a href="?format=rss" title="technikum29-Neuigkeiten abonnieren">als RSS-Feed abonnieren</a>.</p>
+	wurde diese Rubrik eingeführt.</p>
 	
 	<br><br>
 	
 <ul class="news-feed news-ng">
+
+<li><a href="/de/kommunikationstechnik/faxtechnik.php#t32">
+	<h3>Dezember 2016</h3><br>
+    <img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="153" height="146" /><br>
+	Sehr seltener Springschreiber (Fernschreiber), Siemens T32
+	
+</a></li>
 
 
 <li><a href="/de/rechnertechnik/elektro-mechanik.php#logos">
@@ -59,22 +66,6 @@
 	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer) und große Vorräte an Lochkarten </a>
 </li>
 
-<li><a href="/de/rechnertechnik/lochkarten-edv.php#129">
-	<h3>April 2015</h3>
-    <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
-	IBM´s letztes Stanzermodell der Lochkartenära: IBM 129<br>
-	mit voll elektronischer Steuerung (1971)
-</a></li>
-
-
-<li><a href="/de/rechnertechnik/ibm1130.php#1130">
-	<h3>März 2015</h3>
-    <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" width="153" height="108" />
-	Endlich: Die IBM-1130 Anlage läuft perfekt! Diese Seite wurde stark ausgebaut.
-</a></li>
-
-
-</li>
 
 
 

@@ -42,12 +42,12 @@
 		<th>Teilnehmer 
 		
 		<tr>
-		<td>Mittwoch<br><b>14. Dezember</b><br>14:00 Uhr
+		<td>Mittwoch<br><b>14.Dezember</b><br>14:00 Uhr
 		<td>Computer-History <td>Führung
 		<td>IBM-Deutschland<br>ausgebucht!
 		
 		<tr>
-		<td>Samstag<br><b>17. Dezember</b><br>15:00 Uhr
+		<td>Samstag<br><b>17.Dezember</b><br>15:00 Uhr
 		<td>Computer-History <td>Geburtstags-Event
 		<td>Hendrik wird 11 Jahre alt 
 		

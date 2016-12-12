@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>30.11.2016
+	<br>12.12.2016
 </div>
 
 <div class="spacing"></div>
@@ -18,15 +18,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 </div>
 
 
-<div class="text-block">
-	<b>Zeitungsecho</b>
-	<ul>
-	
-	<li>Höchster Kreisblatt vom 14.04.2015: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Junge-Roboter-fahren-zwischen-alten-Computern-Slalom;art676,1352844" target="blank">Junge Roboter fahren zwischen alten Computern Slalom</a>
-	<li>Frankfurter Neuen Presse vom 25.08.2014: <a href="http://www.fnp.de/lokales/main-taunus-kreis/Lego-Roboter-werden-zu-Rechenkuenstlern;art676,1000098" target="blank">Lego-Roboter werden zu Rechenkünstlern</a>
-	<li>Kelkheimer Zeitung vom 28.07.2014: <a href="Kelkheimer-Zeitung.pdf">Roboter in den Ferien programmieren</a>
-	</ul>
-</div>
+
 
 
 <div class="bild-block">

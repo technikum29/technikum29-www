@@ -70,19 +70,19 @@
 		<td>Samstag<br><b>26. Februar</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung
-		<td>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
 		
 		<tr>
 		<td>Freitag<br><b>24. März</b><br>19:00 Uhr
-		<td>Was ist das Internet der Dinge?<br>(Siehe unten)
+		<td>Das Internet der Dinge,<br>Industrie 4.0<br>(Siehe unten)
 		<td>Event-Vortrag *)
-		<td>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
 		
 		<tr>
 		<td>Sonntag<br><b>23. April</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
-		<td>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
 
 
 		</table>
@@ -90,7 +90,7 @@
 		
 	<div class="termin">
 		<h4>*) VHS Main-Taunus: Was ist das Internet der Dinge?</h4>
-		<p> Was haben Captain Kirk, Picard, Janeway und weitere Offiziere der Sternenflotte aus unserer Kindheit mit uns heute zu tun? Sie benutzten einen persönlichen Assistenten, der sie mit der Brücke oder dem Computer verband. Und heute nennen wir es Smartphone. Und das Ganze funktioniert, weil die Geräte über das Internet verbunden sind. In Deutschland spricht man von der „Industrie 4.0“ und im Rest der Welt vom „Internet der Dinge“. Im Computer-Museum in Kelkheim, umgeben von den Dinosauriern in der Computerevolution, erwartet Sie ein verständlicher Einblick in die Welt vom „Internet der Dinge“, dessen Akteure sowie Trends (siehe "Termine").<br>
+		<p> Was haben Captain Kirk, Picard, Janeway und weitere Offiziere der Sternenflotte aus unserer Kindheit mit uns heute zu tun? Sie benutzten einen persönlichen Assistenten, der sie mit der Brücke oder dem Computer verband. Und heute nennen wir es Smartphone. Und das Ganze funktioniert, weil die Geräte über das Internet verbunden sind. In Deutschland spricht man von der „<b>Industrie 4.0</b>“ und im Rest der Welt vom „Internet der Dinge“. Im Computer-Museum in Kelkheim, umgeben von den Dinosauriern in der Computerevolution, erwartet Sie ein verständlicher Einblick in die Welt vom „Internet der Dinge“, dessen Akteure sowie Trends (siehe "Termine").<br>
 		
 	</div>
 	

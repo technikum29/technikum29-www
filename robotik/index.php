@@ -98,9 +98,9 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
 
 <h3>Termine in den Osterferien</h3>
-<p>
-Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr.<br>
-Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017, Anmeldung für diesen Kurs nur an der VHS.
+<p>Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017, Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a><br><br>
+Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a><br>
+
 </p>
 
 </div><!-- /rightcol -->
@@ -113,7 +113,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>Digitale Welten & Roboter </b></big></big> 
+	<p class="bildtext"><big><big><b>Das Arduino-Labor: Digitale Welten & Roboter </b></big></big> 
 	
 	<div class="box left">
 	<img src="arduino.jpg" width="220"  height="171"/> 

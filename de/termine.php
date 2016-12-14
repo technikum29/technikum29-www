@@ -42,11 +42,6 @@
 		<th>Teilnehmer 
 		
 		<tr>
-		<td>Mittwoch<br><b>14.Dezember</b><br>14:00 Uhr
-		<td>Computer-History <td>Führung
-		<td>IBM-Deutschland<br>ausgebucht!
-		
-		<tr>
 		<td>Samstag<br><b>17.Dezember</b><br>15:00 Uhr
 		<td>Computer-History <td>Geburtstags-Event
 		<td>Hendrik wird 11 Jahre alt 
@@ -70,19 +65,19 @@
 		<td>Samstag<br><b>26. Februar</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung
-		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
 		
 		<tr>
 		<td>Freitag<br><b>24. März</b><br>19:00 Uhr
 		<td>Das Internet der Dinge,<br>Industrie 4.0<br>(Siehe unten)
 		<td>Event-Vortrag *)
-		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
 		
 		<tr>
 		<td>Sonntag<br><b>23. April</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
-		<td>Einzelpersonen und Gruppen <br>Anmeldung nur über die VHS-Main-Taunus
+		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
 
 
 		</table>

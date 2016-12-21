@@ -64,7 +64,7 @@ In dem <b>Ferienworkshop</b> lernst du mit einer grafischen Methode, wie man Pro
 <p>
 Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.<br><br>
 
-Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
+Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p><br>
 
 <p>
 <img src="eds-2016-17.jpg" width="405"  height="223"/> 
@@ -98,7 +98,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
 
 <h3>Termine in den Osterferien</h3>
-<p>Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017, Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a><br><br>
+<p>Einführungskurs an der Volkshochschule des MTK in Hofheim: Mo. 3.4.20171 bis Fr. 7.4.2017 jeweils von 14:00 bis 16:00 Uhr. Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a><br><br>
 Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a><br>
 
 </p>

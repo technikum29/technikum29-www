@@ -47,6 +47,11 @@
 		<td>für H.   
 		
 		<tr>
+		<td>Donnerstag<br><b>5.Januar</b><br>
+		<td>Computer-History <td>Filmaufnahmen
+		<td>DOCUBYTE   
+		
+		<tr>
 		<td>Samstag<br><b>14. Januar</b><br>15:30 Uhr
 		<td>Bilder-Klänge-<br>Kommunikation <td>Geburtstags-Event
 		<td>Lukas wird 13 Jahre alt 

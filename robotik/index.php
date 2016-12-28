@@ -17,10 +17,6 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
 
-
-
-
-
 <div class="bild-block">
 	<a class="popup" href="2-roboter.jpg">
 		<img src="2-roboter.jpg" />
@@ -113,20 +109,20 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>Das Arduino-Labor: Digitale Welten & Roboter </b></big></big> 
+	<p class="bildtext"><big><big><b>Das Arduino-Labor: Physical-Computing & Robotics </b></big></big> 
 	
 	<div class="box left">
 	<img src="arduino.jpg" width="220"  height="171"/> 
 <small>Arduino-Zähler, Einführungsbeispiel</small></div>
 
 </p>
-<p>	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird   hier eine "richtige" Programmiersprache verwendet, die man auch relativ schnell erlernen kann. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
+<p>	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird   hier eine "richtige" Programmiersprache verwendet (im Wesentlichen "C", teilweise auch etwas "C++"), die man relativ schnell spielerisch lernt. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
 Zunächst geht es darum, die grundlegenden Methoden zur Programmierung des Arduino-Micro-Controllers zu erfahren.<br>
 	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
 	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbach.<br>
 	Voraussetzungen:<br>
 	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.<br><br>
-	Den Workshop würde man in der Wissenschaft "<b>Physical-Computing</b>" nennen. Es ist das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
+	"<b>Physical-Computing</b>" ist ganz allgemein das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
 </p>
 </div>
 

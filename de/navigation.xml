@@ -49,7 +49,8 @@
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
-			<li><a href="/robotik/" seiten_id="robotik-ferienkurs" class="show-rel-prev">Robotik-Kurse</a></li>
+			<li><a href="/robotik/" seiten_id="robotik-ferienkurs" class="show-rel-prev show-rel-next">Robotik-Kurse</a></li>
+			<li><a href="/physical-computing/" seiten_id="physical-computing" class="show-rel-prev">Physical Computing &amp; Robotics</a></li>
 		</ul>
 	</li>
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
@@ -245,7 +246,9 @@
 			</li>
 			
 				<li><a href="/de/lehrerinfo.php">Informationen für Lehrer</a></li>
-				<li><a href="/robotik/">Robotik-Workshop + Physical-Computing</a></li>
+				<li><a href="/robotik/">Robotik-Workshop</a></li>
+				<li><a href="/physical-computing/">Physical Computing &amp; Robotics</a></li>
+
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>

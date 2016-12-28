@@ -22,17 +22,21 @@
 	<h2>Termine und Führungen</h2>
 	
 	<p>Für allgemeine Informationen über Führungen und Gruppenanmeldungen
-	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.
+	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
+	
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
+	Folgender Hinweis: Ab Februar 2017 sind folgende Zeiten bereits fest an Schulen vergeben:
+	Montags ganztägig, dienstags und donnerstags je ab 12:00 Uhr. Diese Zeiten stehen nur in Ausnahmefällen für Schulen zur Verfügung.<br>
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
 
-	<p>Die folgende Tabelle listet Gruppenanmeldungen auf.
-	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. 
-
+	Die folgende Tabelle listet Gruppenanmeldungen auf.
+	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. </p>
+	<br>
+	
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">

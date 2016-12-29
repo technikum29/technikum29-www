@@ -20,7 +20,7 @@ Diese Seite ist im Aufbau.
 
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
-	<p>Das technikum29 sponsert je einen Physical-Computing-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
+	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an folgender Schule: Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
 	
 </div>
 
@@ -52,6 +52,7 @@ Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der phy
 	<img src="yannik.jpg" width="180"  height="230"/> 
 </div>
  Im Laufe des Kurses werden die Aufgaben immer freier lösbar, dadurch wird das eigenverantwortliche Lernen adressiert. Erfahrungsgemäß macht den meisten das Lösen der recht offen gestalteten Gesamtaufgaben großen Spaß, da sie hier ihrer Kreativität freien Lauf lassen können.<br>
+ Für besonders begabte Schüler ergibt sich immer die Möglichkeit zusätzlich schwierigere Programmteile einzubauen. Das erhöht das Selbstwertgefühl und schafft eine natürliche ungezwungene Binnendifferenzierung.<br>
 Ein weiterer Vorteil ist, dass Schüler sowohl mit Hard- als auch Software konfrontiert werden wobei die Grenzen dieser Welten zunehmend verschwimmen.<br>
 Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, einen kreativen Freiraum sowie das Erlernen von Teamplaying (Zweierteams) bietet und zudem absolut "up-to-date" ist, eben ein HIGHLIGHT einer Schule.
 
@@ -66,7 +67,7 @@ In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. 
 	<img src="jona.jpg" width="180"  height="142"/> 
 </div>
 
-Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen erfolgen immer interessanter wobei viele Sensoren eingeführt werden, schließlich soll unser Roboter intelligent interagieren können.<br>
+Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können.<br>
 Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt kann von sich behaupten in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu sein, etwas Besonderes zu leisten und eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar den späteren Beruf zu setzen.
 
 <div class="box right">

@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block alertbox">
 	Seite zuletzt aktualisiert:
-	<br>12.12.2016
+	<br>29.12.2016
 </div>
 
 <div class="spacing"></div>
@@ -116,13 +116,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 <small>Arduino-Zähler, Einführungsbeispiel</small></div>
 
 </p>
-<p>	Wir beschäftigen uns in diesem Workshop vorwiegend mit der Programmierung des Arduino Micro-Controllers. Im Gegensatz zu den LEGO-Robotern wird   hier eine "richtige" Programmiersprache verwendet (im Wesentlichen "C", teilweise auch etwas "C++"), die man relativ schnell spielerisch lernt. Die Abstraktion ist jedoch deutlich größer, daher eignet sich der Kurs <b>für Schüler ab ca. 14 Jahre</b> (8. Klasse). Nach oben gibt es eigentlich keine Grenze.<br>
-Zunächst geht es darum, die grundlegenden Methoden zur Programmierung des Arduino-Micro-Controllers zu erfahren.<br>
-	Die Liste der möglichen Projekte ist sehr lang. Vom sprechenden Tee-Automaten bis zum intelligenten Roboter-Fahrzeug sind die einzelnen Projekte sehr abwechslungsreich. Dazu stehen uns eine große Palette an Sensoren, viele verschiedene Display´s und sehr unterschiedliche Motoren zur Verfügung. Ferner haben wir einen 3D-Drucker, mit welchem wir dreidimensionale Objekte und Bauteile ausdrucken können. Diese werden vorher mit Hilfe von CAD-Programmen erstellt.<br>
-	Diesen Workshop testen wir gerade an der Albert-Einstein-Schule in Schwalbach.<br>
-	Voraussetzungen:<br>
-	Vorkenntnisse werden nicht erwartet aber dafür Teamfähigkeit, Interesse an Technik + Computer, Zuverlässigkeit, Geduld, Spaß am Experimentieren und viel Neugierde.<br><br>
-	"<b>Physical-Computing</b>" ist ganz allgemein das Anbinden von Sensoren, Display´s und Aktuatoren (auch "Aktor" = Antriebselement, z.B. ein Motor) an einen Mini-Computer (RasPi oder z.B. Arduino). Mit entsprechender Software kann man damit fast alles machen, was vorstellbar ist.
+<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi die Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an. Diese Website ist gerade im Aufbau, siehe <a href="/physical-computing" target="blank"> Physical-Computing & Robotics </a>.
 </p>
 </div>
 

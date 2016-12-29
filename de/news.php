@@ -22,7 +22,7 @@
 <li><a href="/physical-computing">
 	<h3>Januar 2017</h3><br>
     <img src="/shared/photos/start/arduino-1.jpg" width="153" height="144" /><br>
-	Eine neue Website bereichert unseren Online-Auftritt:
+	Eine neue Seite wurde angefügt:
 	<b>Physical-Computing & Robotics</b> für Jugendliche ab ca. 14 Jahre
 	
 </a></li>

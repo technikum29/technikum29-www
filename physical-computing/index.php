@@ -42,7 +42,7 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<p><h3>Grundsätzliches </h3> <br>
+<p><h3>Grundsätzliches (Didaktik)</h3> <br>
 
 Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese Faszination sollte man nutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird hier Realität.<br>
@@ -61,7 +61,7 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch sollten Teilnehmer gerne logisch denken, teamfähig und neugierig sein.<br>
+In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch sollten Teilnehmer gerne logisch denken, teamfähig und neugierig sein.
 
 <div class="box left">
 	<img src="jona.jpg" width="180"  height="142"/> 
@@ -74,8 +74,9 @@ Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können
 	<img src="arduino.jpg" width="220"  height="171"/> 
 </div>
 
-Um den Teilnehmern die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden wir diese hier mit einem Link veröffentlichen. Für alle "Fremdleser" sei angemerkt, dass dieser Kurs am Entstehen ist. Noch ist nicht alles perfekt.
-Ferner findet man hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.
+Um den Teilnehmern die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden wir diese hier mit einem Link veröffentlichen. Ferner findet man hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.<br>
+Für alle "Fremdleser" sei angemerkt, dass dieser Kurs am Entstehen ist. Noch ist nicht alles perfekt.
+
 </p>
 
 </div><!-- /rightcol -->

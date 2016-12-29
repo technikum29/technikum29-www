@@ -50,8 +50,9 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<p><b>Fun for Future:</b> Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. <br>
-In dem <b>Ferienworkshop</b> lernst du mit einer grafischen Methode, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+<p><h3>Fun for Future:</h3> <br>
+Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. <br>
+In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
 <p>
 <img src="aes-gruppe-2016.jpg" width="405"  height="221"/> 
@@ -116,7 +117,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 <small>Arduino-Zähler, Einführungsbeispiel</small></div>
 
 </p>
-<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi die Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an. Diese Website ist gerade im Aufbau, siehe <a href="/physical-computing" target="blank"> Physical-Computing & Robotics </a>.
+<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an. Diese Website ist gerade im Aufbau, siehe <a href="/physical-computing" target="blank"> Physical-Computing & Robotics </a>.
 </p>
 </div>
 

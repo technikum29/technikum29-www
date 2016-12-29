@@ -42,9 +42,9 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<p><h3>Grundsätzliches </h3> 
+<p><h3>Grundsätzliches </h3> <br>
 
-Schon immer üben Roboter eine Faszination auf Jugendliche und Kinder aus. Diese Faszination sollte man ausnutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
+Schon immer üben Roboter eine Faszination auf Jugendliche und Kinder aus. Diese Faszination sollte man nutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, die im üblichen Informatikunterricht ablaufen, werden hier physikalisch angreifbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird hier Realität.<br>
 
 Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der physikalischen Außenwelt durch Sensoren und Aktoren verbunden. Diese Controller steuern z.B. intelligent einen Roboter. Bei der Roboter-Programmierung hat man sofort ein greifbares Feedback an dem Jugendliche erkennen können ob das implementierte Programm läuft oder nicht. Da kann schon mal ein Roboter sprichwörtlich "gegen die Wand fahren".
@@ -60,7 +60,7 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 
 <div class="rightcol">
 
-<h3>Für Schüler</h3>
+<h3>Für Schüler</h3> <br>
 In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch sollten Teilnehmer gerne logisch denken, teamfähig und neugierig sein.<br>
 
 <div class="box left">
@@ -76,7 +76,7 @@ Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können
 
 Um den Teilnehmern die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Skteche aus dem Unterricht nachlesen zu können, werden wir diese hier mit einem Link veröffentlichen. Für alle "Fremdleser" sei bemerkt, dass dieser Kurs am Entstehen ist. Noch ist nicht alles perfekt.
 Ferner findet man hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.
-
+</p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

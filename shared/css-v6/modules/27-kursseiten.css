@@ -31,19 +31,19 @@ body.kursseite header.teaser {
 	overflow: hidden;
 }
 
-body.kursseite header.teaser h2,
+body.kursseite header.teaser h2,    /*Robotik*/
 body.kursseite #content header.teaser h2 {
 	border: none !important;
 	position: absolute;
 	bottom: 0; left: 0;
-	width: 80%;
+	width: 80%;      
 	padding: 0.3em 10%;
 	margin: 0;
-	background-color: rgba(255,255,255,.3);
-	color: white;
-	text-shadow: 1px 1px 5px #1C1C1C;
+	background-color: rgba(255,255,255,.6); 
+	color: #0006ff;     
 	
-	font-size: 250%;
+	
+	font-size: 280%;    /* vorher 250%;*/
 	text-align: center;
 }
 
@@ -51,20 +51,20 @@ body.kursseite header.teaser h2 span.subtext {
 	display: block;
 	font-size: 60%;
 	line-height: 100%;
-	text-shadow: 1px 1px 2px #282828;
+	
 }
 
-/* Fuer Physical-Computing mal wieder eine andere Schrit */
+/* Physical-Computing */
 body.kursseite #content header.teaser.physical-computing h2 {
-	font-weight: bold;
+	
 	color: #0006ff;
 
-	background-color: rgba(224, 242, 254, .8);
-	text-shadow: 1px 1px 3px rgb(224, 242, 254);
+	background-color: rgba(224, 242, 254, .7);/*vorher .8*/
+	
 }
 
 body.kursseite header.teaser img {
-/*	width: 100%; *//* Sieht im Mobile bloed aus */
+
 }
 
 

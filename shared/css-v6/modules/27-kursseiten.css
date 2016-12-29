@@ -114,6 +114,14 @@ body.kursseite section.sidebar div.text-block li {
 	margin: .4em 0;
 }
 
+/* Auf Wunsch von Heribert sollen Kursseiten-Floatbilder weniger Abstand
+   drumherum haben. Das liegt daran, weil sie so klein sind. Ist ein
+   ziemlich kruder Design-Fix */
+body.kursseite #content .left img,
+body.kursseite #content .right img {
+	margin-bottom: 1em; /* Standard in Bildboxen sind 2em */
+}
+
 /* Mobile Sidebar, nur auf senkrechtem Tablet... */
 @media all and (max-width: 940px) and (min-width: 600px) {
 	body.kursseite section.sidebar div.text-block,

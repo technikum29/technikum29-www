@@ -9,7 +9,8 @@
     <p>Im Folgenden ist eine vollständige hierarchisch strukturierte Darstellung aller Einzelseiten
     des Internetauftritts von technikum29 dargestellt. Wenn Sie etwas nicht finden, ist dies eine
     Möglichkeit, zu suchen oder sich einen Überblick zu verschaffen. Wir weisen auch auf
-    <a href="/de/suche.php">unsere Seitensuche</a> hin.
+    <a href="/de/suche.php">unsere Seitensuche</a> hin. Fast alle Seiten sind ins Englische übersetzt,
+    die <a href="/en/sitemap.php">Sitemap der englischen Seiten</a> unterscheidet sich geringfügig.
     </p>
     
     <?php

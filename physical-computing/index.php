@@ -5,7 +5,7 @@
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
-<div class="text-block alertbox">
+<div class="text-block">
 Diese Seite ist im Aufbau.
 	Sie wurde zuletzt aktualisiert:
 	<br>28.12.2016<br><br>

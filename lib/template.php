@@ -119,6 +119,10 @@ class t29Template {
 		$this->page_relations = $this->menu->get_page_relations();
 		$this->interlang_links = $this->menu->get_interlanguage_link();
 		$this->current_link_classes = $this->menu->get_link_classes();
+
+		// as a service for CSS, show all link classes in the body
+		// (added quite lately in dec 2016 as a patchy way to tag pages)
+		$this->body_classes = array_merge($this->current_link_classes, $this->body_classes);
 		
 		// check and load additional css.
 		// #51: This is now checked by the site caching in technikum29.php.

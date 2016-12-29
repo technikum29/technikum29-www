@@ -247,7 +247,7 @@ class t29Menu {
 	}
 	
 	public static function dom_new_link($href, $label) {
-		return new SimpleXMLElement(sprintf('<a href="%s">%s</a>', $href, $label));
+		return new SimpleXMLElement(sprintf('<a href="%s">%s</a>', $href, htmlentities($label)));
 	}
 
 

@@ -14,7 +14,7 @@ Diese Seite ist im Aufbau.
 <div class="spacing"></div>
 
 <div class="bild-block">
-	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="wegskizze-bahnhof.png" style="width:100%"></a>
+	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="../robotik/wegskizze-bahnhof.png" style="width:100%"></a>
 	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
 
@@ -30,7 +30,10 @@ SIDEBAR_ENDE;
 	require "../lib/technikum29.php";
 ?>
 
-<header class="teaser">
+<header class="teaser physical-computing">
+	<h2>
+	Physical-Computing &amp; Robotics
+	</h2>
 	<img class="no-copyright" src="robotics.jpg">
 </header>
 
@@ -63,7 +66,7 @@ In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. 
 	<img src="jona.jpg" width="180"  height="142"/> 
 </div>
 
-Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Program-mierung. Die Aufgaben-stellungen erfolgen immer interessanter wobei viele Sensoren eingeführt werden, schließlich soll unser Roboter intelligent interagieren können.<br>
+Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen erfolgen immer interessanter wobei viele Sensoren eingeführt werden, schließlich soll unser Roboter intelligent interagieren können.<br>
 Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt kann von sich behaupten in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu sein, etwas Besonderes zu leisten und eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar den späteren Beruf zu setzen.
 
 <div class="box right">

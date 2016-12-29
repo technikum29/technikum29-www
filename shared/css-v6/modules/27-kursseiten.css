@@ -1,31 +1,43 @@
+/**
+ * Layout in diesem Modul wird auf den Seiten
+ *  - robotik-ferienkurs
+ *  - physical-computing
+ * verwendet. Das war bis Dez 2016 als pagestyle umgesetzt,
+ * da es aber jetzt mehrere Seiten sind, als Modul.
+ *
+ **/
+
 /*section.sidebar a.button.termine {
 	display: none !important;
 }*/
 
-body.lang-de h1 a {
+/* Ein Logo ohne */
+body.kursseite h1 a {
 	background-image: url("/shared/img-v6/banner.png");
 }
 
+
 /* Neues Design ab Juni 2015, Experiment-Styles */
 
-section.sidebar a.termine {
+body.kursseite section.sidebar a.termine {
 	/* zugehoerig zur normalen Homepage */
 	display: none;
 }
 
 /* teaser, von devzone kopiert */
-header.teaser {
+body.kursseite header.teaser {
 	margin: -60px -40px 40px;
 	position: relative;
 	overflow: hidden;
 }
 
-header.teaser h2, #content header.teaser h2 {
+body.kursseite header.teaser h2,
+body.kursseite #content header.teaser h2 {
 	border: none !important;
 	position: absolute;
 	bottom: 0; left: 0;
-	width: 100%;
-	padding: 0.3em 40px;
+	width: 80%;
+	padding: 0.3em 10%;
 	margin: 0;
 	background-color: rgba(255,255,255,.3);
 	color: white;
@@ -35,20 +47,28 @@ header.teaser h2, #content header.teaser h2 {
 	text-align: center;
 }
 
-header.teaser h2 span.subtext {
+body.kursseite header.teaser h2 span.subtext {
 	display: block;
 	font-size: 60%;
 	line-height: 100%;
 	text-shadow: 1px 1px 2px #282828;
 }
 
+/* Fuer Physical-Computing mal wieder eine andere Schrit */
+body.kursseite #content header.teaser.physical-computing h2 {
+	font-weight: bold;
+	color: #0006ff;
 
-header.teaser img {
+	background-color: rgba(224, 242, 254, .8);
+	text-shadow: 1px 1px 3px rgb(224, 242, 254);
+}
+
+body.kursseite header.teaser img {
 /*	width: 100%; *//* Sieht im Mobile bloed aus */
 }
 
 
-header.teaser::before {
+body.kursseite header.teaser::before {
 	/* css3 hack to get img inset box-shadow */
 	display:block;
 	content:'';
@@ -59,45 +79,45 @@ header.teaser::before {
 }
 
 /* sidebar */
-section.sidebar div.text-block,
-section.sidebar div.bild-block {
+body.kursseite section.sidebar div.text-block,
+body.kursseite section.sidebar div.bild-block {
 	margin-top: 2em;
 	margin-bottom: 2em;
 }
 
-section.sidebar div.text-block a,
-section.sidebar div.bild-block a {
+body.kursseite section.sidebar div.text-block a,
+body.kursseite section.sidebar div.bild-block a {
 	display: inline !important;
 }
 
-section.sidebar div.text-block {
+body.kursseite section.sidebar div.text-block {
 	margin: -15px -25px 15px;
 	padding: 35px 25px;
 }
 
-section.sidebar div.bild-block img {
+body.kursseite section.sidebar div.bild-block img {
 	width: 100%;
 	max-width: 300px; /* tablet */
 }
 
-section.sidebar div.bild-block .bildtext {
+body.kursseite section.sidebar div.bild-block .bildtext {
 	margin-top: .5em;
 }
 
-section.sidebar div.alertbox {
+body.kursseite section.sidebar div.alertbox {
 	background-color: #edf0f2;
 	margin: -35px -25px 15px;
 }
 
-section.sidebar div.text-block li {
+body.kursseite section.sidebar div.text-block li {
 	display: block;
 	margin: .4em 0;
 }
 
 /* Mobile Sidebar, nur auf senkrechtem Tablet... */
 @media all and (max-width: 940px) and (min-width: 600px) {
-	section.sidebar div.text-block,
-	section.sidebar div.bild-block {
+	body.kursseite section.sidebar div.text-block,
+	body.kursseite section.sidebar div.bild-block {
 		margin: .5em;
 		padding: .5em;
 		width: 300px;
@@ -108,10 +128,8 @@ section.sidebar div.text-block li {
 	}
 }
 
-
-
 /* Wie auf Startseite */
-#content h3 {
+body.kursseite #content h3 {
     border: medium none;
     color: #1a5160;
     font-family: inherit;

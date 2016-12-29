@@ -19,6 +19,15 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/physical-computing">
+	<h3>Januar 2017</h3><br>
+    <img src="/shared/photos/start/arduino-1.jpg" width="153" height="144" /><br>
+	Eine neue Website bereichert unseren Online-Auftritt:
+	<b>Physical-Computing & Robotics</b> für Jugendliche ab ca. 14 Jahre
+	
+</a></li>
+
+
 <li><a href="/de/kommunikationstechnik/faxtechnik.php#t32">
 	<h3>Dezember 2016</h3><br>
     <img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="153" height="146" /><br>
@@ -34,16 +43,12 @@
 	
 </a></li>
 
-
 <li><a href="/de/rechnertechnik/lgp30.php#lgp30">
 	<h3>Oktober 2015</h3><br>
     <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>
 	Die LGP-30-Anlage ist jetzt im Museum
 	
 </a></li>
-
-
-
 
 <li><a href="/de/rechnertechnik/univac9200.php#u9200">
 	<h3>September 2015</h3><br>
@@ -59,16 +64,5 @@
 	LGP-30, ein Röhrenrechner (ca. 1958) auf dem Transport zum technikum29. </a>
 </li>
 
-
-<li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
-	<h3>Juni 2015</h3>
-    <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
-	Ungewöhnliches Angebot: Ein kompletter Lochkartenraum (8 Lochkartenstanzer) und große Vorräte an Lochkarten </a>
-</li>
-
-
-
-
-	
 </ul>
 

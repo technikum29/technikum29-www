@@ -61,20 +61,20 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop erlernen wir das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch sollten Teilnehmer gerne logisch denken, teamfähig und neugierig sein.
+In diesem Workshop lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
 
 <div class="box left">
 	<img src="jona.jpg" width="180"  height="142"/> 
 </div>
 
 Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können.<br>
-Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu sein, etwas Besonderes zu leisten und eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar den späteren Beruf zu setzen.
+Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu sein. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für den späteren Beruf.
 
 <div class="box right">
 	<img src="arduino.jpg" width="220"  height="171"/> 
 </div>
 
-Um den Teilnehmern die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden wir diese hier mit einem Link veröffentlichen. Ferner findet man hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.<br>
+Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.<br>
 Für alle "Fremdleser" sei angemerkt, dass dieser Kurs am Entstehen ist. Noch ist nicht alles perfekt.
 
 </p>

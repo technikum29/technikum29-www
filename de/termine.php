@@ -43,12 +43,7 @@
 		<th>Datum
 		<th>Titel
 		<th>Typ
-		<th>Teilnehmer 
-		
-		<tr>
-		<td>Dienstag<br><b>27.Dezember</b><br>16:30 Uhr
-		<td>Computer-History <td>Geburtstags-Event
-		<td>für H.   
+		<th>Teilnehmer    
 		
 		<tr>
 		<td>Donnerstag<br><b>5.Januar</b><br>

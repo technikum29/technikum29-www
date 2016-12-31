@@ -7,8 +7,8 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 Diese Seite ist im Aufbau.
-	Sie wurde zuletzt aktualisiert:
-	<br>28.12.2016<br><br>
+	Sie wurde zuletzt am 31.12.2016 aktualisiert
+	
 </div>
 
 <div class="spacing"></div>
@@ -67,15 +67,16 @@ In diesem Workshop lernst du das Programmieren von Arduino-Microcontrollern. Wir
 	<img src="jona.jpg" width="180"  height="142"/> 
 </div>
 
-Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können.<br>
-Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu sein. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für den späteren Beruf.
+Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können, selbst das Sprechen werden wir ihm beibringen.<br>
+Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu stehen. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für ein späteres Studienfach.
 
 <div class="box right">
 	<img src="arduino.jpg" width="220"  height="171"/> 
 </div>
 
 Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten gedacht sind.<br>
-Für alle "Fremdleser" sei angemerkt, dass dieser Kurs am Entstehen ist. Noch ist nicht alles perfekt.
+Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase ist. Noch ist nicht alles perfekt.<br>
+Die Links folgen demnächst.
 
 </p>
 

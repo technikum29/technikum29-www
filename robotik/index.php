@@ -105,7 +105,7 @@ Einführungskurs im technikum29: Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 
 <div class="clear cols">
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Dehli gewannen sie nun den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
 <a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Digitale Welten & Roboter" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
 
 

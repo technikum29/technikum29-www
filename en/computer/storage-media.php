@@ -34,12 +34,12 @@
 
     <h3 id="delay-line-memory">Delay line memory from the BULL GAMMA 3 tube calculator</h3>
 	
-	<div class="box center manuelle-bildbreite" style="width: 650px">
-	<img src="/shared/photos/rechnertechnik/speichermedien/gamma3-speicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="650" height="440" />
+	<div class="box center">
+	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-laufzeitspeicher.jpg" alt="Bull Laufzeitspeicher" width="720" height="559" />
 	<p class="bildtext"><b>Delay-Line</b></p></div>
-		
+	
 	<div class="box left clear-after nomargin-bottom">
-		<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="405" />
+		<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="233" />
 		<p class="bildtext"><b>Cutout. The LC elements can be clearly seen.</b></p>
 
     <p>

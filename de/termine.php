@@ -28,7 +28,7 @@
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
 	Folgender Hinweis: Ab Februar 2017 sind folgende Zeiten bereits fest an Schulen vergeben:
-	Montags ganztägig, dienstags und donnerstags je ab 12:00 Uhr. Diese Zeiten stehen nur in Ausnahmefällen für Schulen zur Verfügung.<br>
+	Montags ganztägig, dienstags und donnerstags je ab 12:00 Uhr. Diese Zeiten stehen nur in Ausnahmefällen für andere Schulen zur Verfügung.<br>
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
@@ -45,11 +45,7 @@
 		<th>Typ
 		<th>Teilnehmer    
 		
-		<tr>
-		<td>Donnerstag<br><b>5.Januar</b><br>
-		<td>Computer-History <td>Filmaufnahmen
-		<td>DOCUBYTE   
-		
+	
 		<tr>
 		<td>Samstag<br><b>14. Januar</b><br>15:30 Uhr
 		<td>Bilder-Klänge-<br>Kommunikation <td>Geburtstags-Event
@@ -100,7 +96,15 @@
 	<div class="box termin clear-after">
 		<h4>Robotik-Workshop in den Ferien für Kids von 11-13 Jahren</h4>
 		
-		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a>
+		<p>Hochinteressante Kurse, in welchen Roboter der neuesten Generation programmiert werden. Weitere Informationen unter <a href="/robotik" class="go">Robotik-Workshop</a></p>
+		
+	</div>
+	
+	<div class="box termin clear-after">
+		<h4>Physical-Computing & Robotics für Jugendliche ab ca. 14 Jahre</h4>
+		
+		<p>Micro-Controller programmieren und intelligente Roboter bauen, siehe <a href="/physical-computing" class="go">Physical-Computing</a><br>
+		Die digitale Welt von heute und morgen verstehen.....</p>
 		
 	</div>
 	
@@ -111,6 +115,6 @@
 		
 		
 		<p><b>Weitere Informationen</b> <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
-		<br><b>Termine</b> nach Absprache
+		<br><b>Termine</b> nach Absprache</p>
 	</div>
 	

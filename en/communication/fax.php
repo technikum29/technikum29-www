@@ -194,6 +194,30 @@
      </div>
 	 
 	<h2>Teletype technology</h2>
+	
+	<div id="t32" class="box left">
+	  <a href="/shared/photos/kommunikationstechnik/siemens-t32.jpg"><img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="435" height="415"/></a>
+		<p class="bildtext">
+		    Siemens Springschreiber T32
+		</p></div>
+	
+<p>	The heyday of mechanics in telecommunications was clearly marked by a wide
+variety of teletypewriters (by the way - this reflects until today in the
+naming of serial line interface devices in UNIX which are traditionally called
+"tty"). The so-called "Springschreiber T32" is quite rare and was built between
+the 1930s and the 1950s. It writes onto a narrow paper strip. It is built so
+heavily that it is nearly indestructible. As F. Schiweck ("Fernschreibtechnik",
+1942) notes:<br>
+
+<blockquote>"The Teletypewriter is one of this most stunning productions and a marvel of
+mechanical design. It requires the best materials available and is a marvel of
+construction. According to general opinion, its relability of operation is
+extremely high."</blockquote>
+<br>
+
+Back in those heydays of mechanical engineering the field engineers required a
+steady hand, good hearing to spot troublesome noises, and, of course, an oil
+can as well. Their profession vanished in the 1980s.</p>
      
     <!--
      next Paragraph/box: In Deutsch "ohne Worte". Heribert schreibt
@@ -298,7 +322,7 @@ thus gain experience with binary data representation.</p>
                &ndash; at that time only big companies could afford these
                typically German devices.
                <br/>The picture above shows the <b>Olympia flexowriter</b>
-               with two paaper tape readers and one paper tape puncher,
+               with two paper tape readers and one paper tape puncher,
                year of manufacture 1962.</p>
         </div>
     </div><!-- end of image box -->

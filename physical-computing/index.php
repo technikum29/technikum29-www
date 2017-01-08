@@ -77,13 +77,17 @@ Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können
 
 Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten geeignet sind.<br>
 Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase ist. Noch ist nicht alles perfekt.<br>
-Die Links folgen demnächst.
 
 </p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 <div class="clear cols">
+
+<hr>
+
+<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF) </a><br>
+<a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF) </a>  
 
 
 

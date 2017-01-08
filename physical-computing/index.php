@@ -62,7 +62,7 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zum Robotik-Workshop in Klasse 6 erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
+In diesem Workshop lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
 
 <div class="box left">
 	<img src="jona.jpg" width="180"  height="142"/> 

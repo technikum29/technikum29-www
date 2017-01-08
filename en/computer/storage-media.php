@@ -33,27 +33,52 @@
        and most spread memories are the ferromagnetic memories.</p>
 
     <h3 id="delay-line-memory">Delay line memory from the BULL GAMMA 3 tube calculator</h3>
-	
-	<div class="box center">
-	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-laufzeitspeicher.jpg" alt="Bull Laufzeitspeicher" width="720" height="559" />
-	<p class="bildtext"><b>Delay-Line</b></p></div>
-	
-	<div class="box left clear-after nomargin-bottom">
-		<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 6px;" width="225" height="233" />
-		<p class="bildtext"><b>Cutout. The LC elements can be clearly seen.</b></p>
+	<p>
+      Incredibly big, next to no capacity from today's point of view and at 8.3 kg
+extremely heavy - that is the historic memory from our vacuum tube based <a href="/en/computer/gamma3.php"> BULL
+GAMMA 3</a> computer (vintage 1952-1959). See this marvelous device here:
 
-    <p>
-        One of these solutions is the so called delay line memory.
-        It consists of several chained LC-oscillators that are set
-        up as low-pass filters. In this circuit the pulses are carried slower compared
-        to ohmic conductors. Due to the high damping the pulses must be amplified again.
-        Therefore the memory is equipped with 12 tube amplifiers. After amplification
-        at the end of the LC chain, the information is read in at the beginning of the
-        chain again. In this way it runs permanentely throught the delay line memory.
-        <br/>The pictures show a memory unit which is capable of storing a decimal
-        integer with only 12 digits. Obviously storage was very expensive in the early
-        times of computing.</p>
-	</div><!-- end of details laufzeitspeicherfoto-Box -->
+	<div class="box center">
+	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-laufzeitspeicher.jpg" alt="Delay-Line" width="720" height="559" />
+	<p class="bildtext"><i>Figure 1: Delay-Line</i></p></div>
+	
+The next picture shows the back of this memory (M1). The bottle of wine
+serves as a comparison. The delay lines consist of 120 LC combinations which
+serve as low-pass filters yielding, each yielding a short delay.
+
+<div class="box left">
+	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-speicher.jpg" alt="Delay line memory opened" width="478" height="380" />
+	<p class="bildtext"><i>Figure 2 (on the left): Delay line memory opened</i></p></div>
+
+	<div class="box center">	
+<img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details" width="225" height="233" />
+<p class="bildtext"><i>Figure 3: Cutout. The LC elements can be clearly seen</i></p></div>
+		
+
+After having passed through 12 such delaying low-pass filters, the signals
+are extremely attenuated and must be regenerated. This is done by 10 tube
+based amplifiers. At the end of such a chain of low-pass filters and
+amplifiers, the signals are amplified again and fed to the input of the delay
+chain. This causes a bit pattern to circulate in the memory, thus effectively
+creating a memory.
+
+<div class="box left">
+	<img src="/shared/photos/rechnertechnik/speichermedien/laufzeitkette.jpg" width="478" height="119" />
+	<p class="bildtext"><i>Figure 4: Part of a delay line - three of 120 LC combinations are visible</i></p></div>
+
+
+The memory module shown here can store a single (!) twelve digit decimal
+number which corresponds to about 6 byte! Not 6 MB, not 6 kB, no, six single
+bytes! Back in the days of this computer memory was en extremely scarce
+resource. Programmers were hard pressed to use as few memory locations as
+possible.<br>
+
+This kind of memory is extremely rare and predates the widespread use of
+core-memory. It was called a "delay-line memory". The BULL GAMMA 3 uses seven
+of these delay-line memories, corresponding to 58 kg of electronics yielding
+a total of 42 bytes of main memory.</p>
+
+	
 
 		
  
@@ -63,7 +88,7 @@
     <div class="box center manuelle-bildbreite" style="max-width: 860px;">
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Photography of a magnetostrictive memory" width="421" height="393" />
         <img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="details" style="margin-left: 3px;" width="421" height="393" />
-		<p class="bildtext"><b>1&nbsp;kB magnetostrictive delay line memory</b></p>
+		<p class="bildtext"><i>1&nbsp;kB magnetostrictive delay line memory</i></p>
 	</div>
 
     <p>Another kind of "delay line" memory is the so called magnetostrictive memory. This technique is based on the idea of the propagation of ultrasonic waves through a thin wire. The information to be stored is fed into a long wire by the effect of magnetostricion (the wire contracts when exposed to a strong magnetic field &ndash; this in turn yields an acoustic wave traveling across the wire). A bit pattern created by this effect travels along the wire to its end where the information is picked up by a piezo electric element. The output of this pickup will be amplified and fed back into the beginning of the wire loop.</p>
@@ -76,7 +101,7 @@
 <a class="popup" href="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg">
 	<img src="/shared/photos/rechnertechnik/speichermedien/demo-kernspeicher.jpg" width="428" height="322" /> </a>
 	
-	<p class="bildtext"><b>Core memory demonstration model, Transfluxor</b><br>(you can enlarge the picture!)</p>
+	<p class="bildtext"><i>Core memory demonstration model, Transfluxor</i><br>(you can enlarge the picture!)</p>
 	
 <p>
 This giant core memory has been used for teaching purposes in a university in
@@ -100,7 +125,7 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/speichermedien/triumph-kernspeicher.jpg" alt="Core memory made by Triumph" width="694" height="520" />
         <div class="bildtext">
-		    <p><b>Triumph core memory</b></p>
+		    <p><i>Triumph core memory</i></p>
 		
             <p>The company "Triumph" created a very demonstrative core memory
 			   about 1961). The circuit card, measuring 16 cm by 20 cm, can
@@ -110,8 +135,8 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
         </div>
 		<img src="/shared/photos/rechnertechnik/speichermedien/kernspeicher-ausschnitt.jpg" alt="Detailed view on the Triumph Core Memory" width="694" height="90" />
 		<div class="bildtext">
-		    <p>The Triump core memory was still threaded manually, in contrast
-			   to the memory shown below.</p>
+		    <i>The Triump core memory was still threaded manually, in contrast
+			   to the memory shown below.</i>
 		</div>
     </div>
 
@@ -128,7 +153,7 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
 
     <div class="box center auto-bildbreite">
        <img src="/shared/photos/rechnertechnik/kernspeicher.big.jpg" alt="Photography illustrating the size of a core memory in contrast to a match" width="629" height="443" />
-       <p class="bildtext"><b>Storage layer with a capacity of 16.000 bit</b></p>
+       <p class="bildtext"><i>Storage layer with a capacity of 16.000 bit</i></p>
 	</div>
 	
     <p>During the years the capacity of core memory devices was increased more and more while the dimensions were shrinked accordingly. This picture shows a core memory plane made in the time frame 1975 - 1978. The area shown equals
@@ -142,7 +167,7 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
    <h3 id="threaded-rom">Threaded ROM</h3>
    <div class="box center auto-bildbreite">
         <a name="backlink-gefaedeltes-rom" href="/en/devices/threaded-rom.php"><img src="/shared/photos/rechnertechnik/speichermedien/nixdorf-rom-gesamt.jpg" alt="Photography of a threaded ROM made by Nixdorf" width="694" height="470" /></a>
-		<p class="bildtext"><b>Nixdorf threaded ROM</b></p>
+		<p class="bildtext"><i>Nixdorf threaded ROM</i></p>
    </div>
    
     <p>All of the memory devices shown before were capable of read and write operations. Sometimes a read only memory (ROM for short) is needed. The picture shows such a ROM made in the mid 1960s which is closely related to a core memory.
@@ -154,7 +179,7 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
    <h3 id="magnetic-stick-memory">Magnetic stick memory</h3>
    <div class="box center auto-bildbreite">
        <a href="/en/devices/magnetic-stick-memory.php"><img src="/shared/photos/rechnertechnik/speichermedien/gefaedeltes-rom.jpg" alt="A 'magnetic stick memory' made by nixdorf" width="750" height="525" /></a>
-       <p class="bildtext"><b>Nixdorf magnetic stick memory</b></p>
+       <p class="bildtext"><i>Nixdorf magnetic stick memory</i></p>
    </div>
    
    <p>NIXDORF decided to implement a read only memory which could be easily modified by customers and did not require a service technician to modify its contents.The whole operating system of the NIXDORF 820 was stored in ROMs like this (all in all 3 modules &ndash; type 177 &ndash; were necessary for this). Even empty ROMs were manufactured which were sold to customers who liked to modify their 820 system. Each of these modules could hold 4096 word of 18 bits each. One of these ROMs weighs 2.4 kg.</p>

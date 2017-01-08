@@ -18,7 +18,11 @@
        for about 260,000 German marks (about 62,000 US$).
        Nevertheless even medium-sized businesses (especially banks) had to buy
 	   these punch card machines to work economically.</p>
-
+<div class="box center auto-bildbreite">
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/tabelliermaschine.jpg"
+             width="679" height="658" alt="Bull PS BR Tabulating Machine" />
+		<p class="bildtext"><i>Tabulating Machine Bull BS-PR</i></p>
+    </div> 
     <p>On high quality tabulating machines the patch panel could be replaced to
        perform very different tasks. By plugging the cables on the programming field 
        cleverly, even some scientifical caluclations could be solved.
@@ -26,20 +30,25 @@
        programming field. The only data input medium are punch cards. Therefore
        we own other machines that are also operational to perform card driven EDP,
        that is, devices for creation, sorting, mixing, etc. the cards.</p>
-
+	   
+<div class="box left clear-after">
+      <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg"
+           alt="Partial view of the relays" width="312" height="416"/>
+      <p class="bildtext"></p>
+	  
     <p>We have digged out programs in order to enable our tabulating machine to calculate
        bank statements as well as multiplying and dividing. However, advanced
        arithmetic operations are not implemented in the computer. Anyway it is possible
        to implement a good deal of operations with lengthy algorithms borrowed from
        computer science.
-       
+         
     <p>And so it came to pass that some BULL engineer asked himself why there was not yet a
        way to compute square roots on the tabulating machine back then in 1959.
        Since he was bored, he started to bet against his friends whether he is able to
        implement the <em>Toepler algorithm</em> on this machine. It turned out it was
        possible and he won the bet. We came across that program and restored it back
-       to operation. We happily relieved the historical moment having the <b>world's only tabulating
-       machine that can calculate square roots</b>. The algorithm works without any memory.
+       to operation. We happily relieved the historical moment having the <font color="#FF0000"><b>world's only tabulating
+       machine that can calculate square roots</b></font>. The algorithm works without any memory.
        There is a <a class="go" href="/shared/pdf/wurzelprogramm.pdf">program guide (PDF)</a>
        in German and French.
     </p>
@@ -48,13 +57,22 @@
        (Federation des Equipes Bull) Deutschland e.V.</a> for their assistance
        of the restoration of the tabulating machine</small></p>
 
-    <div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/bull-bs-pr/tabelliermaschine.jpg"
-             width="679" height="658" alt="Bull PS BR Tabulating Machine" />
-		<p class="bildtext"><b>Tabulating Machine Bull BS-PR</b></p>
-    </div>
-	
-	<p>
+  
+        The control and memory of the machine is comprised of about 1500 relays. 
+        <br/>10 ALUs work in parallel and are driven and synchronized by the large main motor.
+        Every revolution engages about 300 sliding contacts. In the upper part of the picture
+        you can see three ALUs. Only one of the ALUs is broken (that can be easily bypassed by
+        customizing the programs), that is quite astonishing in view of the old age.
+      
+   <div class="box left">
+        <img src="/shared/photos/rechnertechnik/bull-bs-pr/rechenwerk-1.jpg" alt="Rechenwerk" width="450" height="405" />
+		<p class="bildtext"><i>Arithmetic-logic unit</i></p> 
+		</div>
+		
+		<div class="box right">
+		<img src="/shared/photos/rechnertechnik/bull-bs-pr/rechenwerk.jpg" width="398" height="366" />        
+		</div>
+	<br>
 	    With closed walls it looks like a strange chunk made of metal, but it
 		comprises impressive electromechanical technology. In the front there
 		are two demountable program boards that are mounted at the left side
@@ -64,57 +82,10 @@
 		mechanically needs lots of time. To shorten this amount of time, the
 		<a href="gamma3.php">"electronical calculator" BULL GAMMA&nbsp;3</a>
 		could be attached. That auxiliary tube calculator was only used for this
-		purpose.
-	</p>
-
-    <!--
-     3 Bilder im Deutschen entfernt nach v5.7.21, zugunsten zwei einzelner.
-    
-    <div class="box left">
-        <img src="/shared/photos/rechnertechnik/bull-bs-pr/rechenwerke.jpg" alt="Photography of the ALU" width="357" height="476"/>
-        <p class="bildtext">
-            The picture on the left shows the heart of the Bull BS-PR. In the foreground the card sensing circuitry can be seen. Every card is sensed twice &ndash; the first run determines if it is a program or a data card while the second run (below) reads the actual data. In addition to that this mechanism allows the comparison of successive cards.
-        </p>
-        <div class="clear">&nbsp;</div>
-    </div>
-
-    <div class="box left">
-        <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais.jpg" alt="Partial view of the relays" width="400" height="533" />
-        <p class="bildtext">
-          The control and memory of the machine is comprised of about 1500 relays. 10 ALUs work in parallel and are driven and synchronized by the large main motor. Every revolution engages about 300 sliding contacts.
-        </p>
-        <div class="clear">&nbsp;</div>
-    </div>
-
-    <div class="box left">
-        <img src="/shared/photos/rechnertechnik/bull-bs-pr/offen.jpg" alt="Vorderansicht der geöffneten Bull-Tabelliermaschine" width="569" height="396" />
-        <p class="bildtext">
-            The picture on the left shows part of the complicated printing unit &ndash; in every step a complete line is printed (like later line printers did).
-         </p>
-         <div class="clear">&nbsp;</div>
-    </div>
-    -->
-    
-    <div class="box left clear-after">
-      <img src="/shared/photos/rechnertechnik/bull-bs-pr/relais1.jpg"
-           alt="Partial view of the relays" width="312" height="416"/>
-      <p class="bildtext">
-        The control and memory of the machine is comprised of about 1500 relays. 
-        <br/>10 ALUs work in parallel and are driven and synchronized by the large main motor.
-        Every revolution engages about 300 sliding contacts. In the upper part of the picture
-        you can see three ALUs. Only one of the ALUs is broken (that can be easily bypassed by
-        customizing the programs), that is quite astonishing in view of the old age.
-      </p>
-    </div>
-
-    <div class="box center auto-bildbreite">
-         <img src="/shared/photos/rechnertechnik/rechenwerke.jpg" alt="ALUs of the Bull tabulating machine" width="555" height="329" />
-         <p class="bildtext">
-		    <b>Arithmetic-logic units</b> of the tabulating machine
-		 </p>
-    </div>
+		purpose.</p><br><br>
+   
 	
-	<p>     We exposed two of the 10 ALUs for an one-of-a-kind photo. The principle of sprocket wheel
+	<p>     We exposed one of the 10 ALUs for an one-of-a-kind photo. The principle of sprocket wheel
             machines is visible to the naked eye. All calculation work is performed only by mechanical
             components and read in electronically by touch-sensitive contacts. You can even read out
             the current arithmetic register contents: They hold both <i>144</i>. Carries are also
@@ -122,11 +93,11 @@
             12 hours every day without any serious problems.
     </p>
    
-    <div class="box center auto-bildbreite">
+    <div class="box left">
         <img src="/shared/photos/rechnertechnik/bull-bs-pr/offen1.jpg"
              alt="Front view of the BULL BS PR Tabulating Machine" width="555" height="325"/>
 	    <p class="bildtext">
-		    <b>Printing unit</b> of the tabulating machine
+		    <i><b>Printing unit</b> of the tabulating machine</i>
 		</p>
 	</div>
 	

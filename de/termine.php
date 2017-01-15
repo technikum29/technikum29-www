@@ -45,11 +45,6 @@
 		<th>Typ
 		<th>Teilnehmer    
 		
-	
-		<tr>
-		<td>Samstag<br><b>14. Januar</b><br>15:30 Uhr
-		<td>Bilder-Klänge-<br>Kommunikation <td>Geburtstags-Event
-		<td>Lukas wird 13 Jahre alt 
 		
 		<tr>
 		<td>Dienstag<br><b>24. Januar</b><br>10:00 Uhr

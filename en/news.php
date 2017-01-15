@@ -16,8 +16,17 @@
 
     <p>This is a news feed for the recent changes on our homepage. The latest
        posts are on top.</p><br><br>
-
+	   
 	   <ul class="news-feed news-ng">
+	   
+	   <li><a href="/en/communication/fax.php#t32">
+	<h3>December 2016</h3><br>
+    <img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="153" height="146" /><br>
+	Very rare Teletype, Siemens T32
+	
+</a></li>
+	   
+	   
 	<li><a href="/en/computer/electro-mechanical.php#logos">
 	<h3>March 2016</h3><br>
     <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="153" height="115" /><br>
@@ -57,28 +66,6 @@
 	A unusual offer: A complete cardroom (8 keypunch) and large stocks of punch cards</a>
 </li>
 	
-	 <li><a href="/en/computer/punchcard.php#129">
-	<h3>April 2015</h3>
-    <img src="/shared/photos/rechnertechnik/ibm129.jpg" width="153" height="99" />
-	The Last model of a card punch: IBM 129 Card Data Recorder 
-with fully electronic control (1971)
-</a></li>
-  
-	   <li><a href="/en/computer/ibm1130.php#ibm1130">
-				<h3>March 2015</h3>
-				<img src='/shared/photos/rechnertechnik/ibm-1130.jpg' alt='IBM 1130'>	
-The mainframe IBM 1130 is now working perfect. This page has been greatly expanded			</a></li>
-
- 
-
-	  
-	   
-	
-			
-			
-			
-			
-			</ul>
 </ul>
 
 

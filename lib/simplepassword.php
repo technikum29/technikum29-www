@@ -41,9 +41,8 @@ class t29PasswordBarrier {
 
 		?>
 		<div class="alert">
-			<h4>Passwort benötigt</h4>
-			<p>Der folgende Inhalt ist mit einem Passwort versehen.
-			<form method="get">
+			Passwort benötigt, um diesen Teil der Seite zu sehen:
+			<form method="get" class="inline">
 				<input type="password" name="<?= $this->paramkey; ?>">
 				<input type="submit" value="Anmelden">
 			</form>

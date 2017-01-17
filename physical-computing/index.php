@@ -1,6 +1,6 @@
 <?php
-	$seiten_id = 'physical-computing'; 'robotics'; 'arduino programmieren';
-	$version = '$Id: ph-computing$';
+	$seiten_id = 'physical-computing';
+	$version = '$Version$';
 	$titel = 'Physical-Computing & Robotics';
 
 $sidebar_content = <<<SIDEBAR_ENDE

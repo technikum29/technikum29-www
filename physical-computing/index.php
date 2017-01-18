@@ -7,7 +7,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 Diese Seite ist im Aufbau.
-	Sie wurde zuletzt am 9.1.2017 aktualisiert
+	Sie wurde zuletzt am 18.1.2017 aktualisiert
 	
 </div>
 
@@ -89,8 +89,8 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 <hr>
 
-<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF) </a><br>
-<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF) </a><br>
+<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> Update Version 1.1<br>
+<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> Update Version 1.1<br>
 <a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF) </a>  
 
 

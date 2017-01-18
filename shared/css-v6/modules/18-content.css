@@ -170,15 +170,26 @@ p.date.left {
 
 /*
    Allgemeine Hinweisboxen, zB. fuer das /lib/simplepassword.php-Sytem
-   genutzt. Den pagestyles/termine.css abgeschaut.
+   genutzt. Den pagestyles/termine.css abgeschaut. Von der HTML-Struktur
+   den bootstrap div.panel's abgeschaut.
    -- Sven, 2017-01-17
  */
 
-
-#content div.alert {
-	background-color: #edf0f2;
-	padding: 2em;
+#content div.panel {
+	border: .5em solid #edf0f2;
 	margin: 2em 0;
+}
+
+#content div.panel div.panel-heading {
+	background-color: #edf0f2;
+}
+
+#content div.panel div.panel-heading {
+	padding: .2em 1em;
+}
+
+#content div.panel div.panel-body {
+	padding: 1em;
 }
 
 #content div.alert h4 {

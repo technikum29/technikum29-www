@@ -26,12 +26,13 @@
 
 class t29FencedContent {
 	public $password;
-	public $paramkey = 't29-pwd-barrier';
-	public $id; // used in form #id
+	public $id; // used in form #id and in paramkey
+	public $paramkey; // computed from $id
 
 	function __construct($id, $password=Null) {
 		$this->id = $id;
 		$this->password = $password;
+		$this->paramkey = "pwd-fence-$id";
 	}
 
 	function isAuthenticated() {

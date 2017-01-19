@@ -152,13 +152,14 @@ More information about this interesting and rare system will follow.</p>
    
    
  
-  <h3 id="pdp8i">PDP-8I</h3>
-    <div class="box left">
+  <h3 id="pdp8i">PDP-8I</h3>   
+	
+	<div class="box left">
         <img src="/shared/photos/rechnertechnik/dec/pdp8i.jpg" alt="DEC PDP-8I" width="400" height="666" />
 	</div>
-	<div style="margin-left:400px; min-width: 450px;">
-		<div class="box center auto-bildbreite">
-			<img style="float:none" src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i operator panel" /> 
+		<div class="box center">
+		<div class="center auto-bildbreite inline-block">
+			<img src="/shared/photos/rechnertechnik/dec/8i-pannel.jpg" width="400" height="292" alt="PDP 8i operator panel" /> 
 			<p class="bildtext small">Left: The PDP-8i system with two-DECtapes TU 55, hight-speed paper tape reader/punch
 				PC 04, 563 CALCOM plotter (top) and a TELETYPE (not shown). Above: the computer console</p>
 		</div>

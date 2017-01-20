@@ -2,6 +2,11 @@
 	$seiten_id = 'physical-computing';
 	$version = '$Version$';
 	$titel = 'Physical-Computing & Robotics';
+	
+	$dynamischer_inhalt = true;
+	require "../lib/simplepassword.php";
+	$zaun = new t29FencedContent('Schulgeheimnisse');
+	$zaun->password = "flamingo";
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
@@ -38,7 +43,7 @@ SIDEBAR_ENDE;
 </header>
 
 
-<div class="cols">
+<div class="cols clear-after">
 
 <div class="leftcol">
 
@@ -85,13 +90,27 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
-<div class="clear cols">
 
-<hr>
+<h3>Material</h3	>
 
-<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> Update Version 1.1<br>
-<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> Update Version 1.1<br>
-<a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF) </a>  
+<ul>
+	<li><a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> Update Version 1.1
+	<li><a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> Update Version 1.1
+	<li><a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>
+
+	<li style="visibility:hidden"><!-- Abstandshalter -->
+	<?php $zaun->printAnchor(); ?>
+	<li>Detailliertes Material für Schüler der AES:  <?php $zaun->printMiniForm(); ?>
+
+	<?php $zaun->start(); ?>
+	<ul>
+		<li>Tanja: Bitte nächtes mal mehr aufpassen!
+		<li>Bettina: Lösung von Aufgabe 4 war richtig, sehr gut! Du wirst mal eine tolle Wissenschaftlerin.
+		<li>Hanna: Bei dir sehe ich leider keine Chance mehr.
+		<li>Jonas: Bitte komme nicht mehr in den Kurs.
+	</ul>
+	<?php $zaun->end(); ?>
+</ul>
 
 
 

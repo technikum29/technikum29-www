@@ -54,24 +54,21 @@ class t29FencedContent {
 		// Print small inline "login/logut" form, Heribert style
 		if( $this->failedToAuthenticate()) {
 			?>
-			Passwort falsch, bitte nochmal probieren:
+			<strong>Passwort falsch</strong>, bitte nochmal probieren:
 			<?php
 			$this->printLoginForm();
 		} else if($this->isAuthenticated()) {
 			$this->printLogoutForm();
 		} else {
-			?>
-			Passwort:
-			<?php
 			$this->printLoginForm();
 		}
 	}
 
 	function printLoginForm() {
 		?>
-		<form method="get" style="display: inline-block;"
+		<form method="get" style="display: inline-block;  font-size: 80%" 
 		   action="#<?php echo $this->id; ?>">
-			<input type="password" name="<?= $this->paramkey; ?>">
+			<input type="password" placeholder="Passwort" name="<?= $this->paramkey; ?>">
 			<input type="submit" value="Anmelden">
 		</form>
 		<?php

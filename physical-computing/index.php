@@ -91,26 +91,22 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 
-<h3>Material</h3	>
+<hr>
 
-<ul>
-	<li><a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> Update Version 1.1
-	<li><a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> Update Version 1.1
-	<li><a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>
 
-	<li style="visibility:hidden"><!-- Abstandshalter -->
+	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
+	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
+	<a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a> <br><br>
+
+	<!--<li style="visibility:hidden"> Abstandshalter -->
 	<?php $zaun->printAnchor(); ?>
-	<li>Detailliertes Material für Schüler der AES:  <?php $zaun->printMiniForm(); ?>
+	Speziell für Schüler der AES: &nbsp;  <?php $zaun->printMiniForm(); ?>
 
 	<?php $zaun->start(); ?>
-	<ul>
-		<li>Tanja: Bitte nächtes mal mehr aufpassen!
-		<li>Bettina: Lösung von Aufgabe 4 war richtig, sehr gut! Du wirst mal eine tolle Wissenschaftlerin.
-		<li>Hanna: Bei dir sehe ich leider keine Chance mehr.
-		<li>Jonas: Bitte komme nicht mehr in den Kurs.
-	</ul>
+	....Text
+		
 	<?php $zaun->end(); ?>
-</ul>
+
 
 
 

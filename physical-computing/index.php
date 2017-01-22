@@ -6,13 +6,13 @@
 	$dynamischer_inhalt = true;
 	require "../lib/simplepassword.php";
 	$zaun = new t29FencedContent('Schulgeheimnisse');
-	$zaun->password = "flamingo";
+	$zaun->password = "pcs";
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 Diese Seite ist im Aufbau.
-	Sie wurde zuletzt am 18.1.2017 aktualisiert
+	Sie wurde zuletzt am 22.1.2017 aktualisiert
 	
 </div>
 
@@ -95,20 +95,19 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
-	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
-	<a href="/physical-computing/shift.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a> <br><br>
+	<a href="/physical-computing/ph5-2.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.2</small><br>
+	<a href="/physical-computing/shift-1.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>&nbsp; <small>Update Version 1.1</small> <br><br>
 
-	<!--<li style="visibility:hidden"> Abstandshalter -->
+	
 	<?php $zaun->printAnchor(); ?>
 	Speziell für Schüler der AES: &nbsp;  <?php $zaun->printMiniForm(); ?>
 
 	<?php $zaun->start(); ?>
-	....Text
+	Texte folgen....
 		
 	<?php $zaun->end(); ?>
 
-
-
+	
 
 
 

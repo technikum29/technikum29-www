@@ -115,7 +115,7 @@ if($page_cache->shall_use()) {
 	else {
 		$header_cache->print_cache(true);
 		register_shutdown_function(function() use ($footer_cache) {
-			$footer_cache->print_cache(true);
+			$footer_cache->print_cache(true, /* skip http headers */ true);
 		});
 		// now print your dynamical stuff in your page, the
 		// footer content will be automatically added afterwards.

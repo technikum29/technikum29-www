@@ -121,31 +121,38 @@ class t29Cache {
 	 * instead of this one or exit on yourself.
 	 *
 	 * @param $ignore_http_caching Don't check the clients HTTP cache
+	 * @param $skip_http_headers Don't send HTTP headers. Used for instance in Footer cache.
 	 **/
-	function print_cache($ignore_http_caching=false) {
+	function print_cache($ignore_http_caching=false, $skip_http_headers=false) {
 		// make sure we already have called is_valid
 		if($this->mtime_cache_file === null)
 			$this->is_valid(); // calculate mtime
 
-		if(!$this->debug) {
-			header("Last-Modified: ".gmdate("D, d M Y H:i:s", $this->mtime_cache_file)." GMT");
-			//header("Etag: $etag");
-		}
+		if(!$skip_http_headers) {
+			if(!$this->debug) {
+				header("Last-Modified: ".gmdate("D, d M Y H:i:s", $this->mtime_cache_file)." GMT");
+				//header("Etag: $etag");
+			}
 
-		if(!$ignore_http_caching && @strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $this->mtime_cache_file) {
-			// client already has page cached locally
-			if($this->debug) {
-				print 'Would send Client a NOT MODIFIED answer.' . PHP_EOL;
-			} else {
-				header("HTTP/1.1 304 Not Modified");
-				// important - no more output!
+			if(!$ignore_http_caching && @strtotime($_SERVER['HTTP_IF_MODIFIED_SINCE']) == $this->mtime_cache_file) {
+				// client already has page cached locally
+				if($this->debug) {
+					print 'Would send Client a NOT MODIFIED answer.' . PHP_EOL;
+				} else {
+					header("HTTP/1.1 304 Not Modified");
+					// important - no more output!
+				}
+				return;
 			}
 		} else {
-			if($this->debug) {
-				print 'Would send Client output of ' . $this->cache_file . PHP_EOL;
-			} else {
-				readfile($this->cache_file);
-			}
+			if($this->debug)
+				print 'Skipping HTTP Headers as requested' . PHP_EOL;
+		}
+		
+		if($this->debug) {
+			print 'Would send Client output of ' . $this->cache_file . PHP_EOL;
+		} else {
+			readfile($this->cache_file);
 		}
 	}
 	

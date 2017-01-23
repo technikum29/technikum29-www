@@ -104,9 +104,16 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	<?php $zaun->start(); ?>
 	
+	<br><hr>
+	Wir müssen das Thema "Schieberegister" nun endlich abschließen. Dazu werde ich alle Sketche als Lösung vorgeben, sonst arbeiten wir noch ewig daran.<br>
+	Wenn´s dir wirklich ernst um das Erlernen der Programmierung ist, solltest du versuchen, diese Sketche auch zu verstehen.
+<br>
+	Der Schwierigste ist sicher der von Dominik (Kompliment!!). Ich habe ihn etwas umgeschrieben damit er besser lesbar ist und eine Analyse beigefügt.
+	Wenn du gerade gut drauf bist, einen klaren Kopf hast und dich etwas quälen möchtest, dann öffne die PDF und versuche den Inhalt zu verstehen. 
+	Das kann man aber nicht wie einen Roman lesen :-)
 	<br><br>
-	Inhalte werden in Kürze hochgeladen!
-		
+	<a href="/physical-computing/ping-pong-1.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.0</small><br>
+	<br> Weitere Sketche folgen in Kürze.
 	<?php $zaun->end(); ?>
 
 	

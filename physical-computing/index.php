@@ -112,7 +112,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Wenn du gerade gut drauf bist, einen klaren Kopf hast und dich etwas quälen möchtest, dann öffne die PDF und versuche den Inhalt zu verstehen. 
 	Das kann man aber nicht wie einen Roman lesen :-)
 	<br><br>
-	<a href="/physical-computing/ping-pong-1.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.0</small><br>
+	<a href="/physical-computing/ping-pong-2.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.0</small><br>
 	<br> Weitere Sketche folgen in Kürze.
 	<?php $zaun->end(); ?>
 

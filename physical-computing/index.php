@@ -6,7 +6,7 @@
 	$dynamischer_inhalt = true;
 	require "../lib/simplepassword.php";
 	$zaun = new t29FencedContent('Schulgeheimnisse');
-	$zaun->password = "pcs";
+	$zaun->password = "pcr";
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
@@ -103,7 +103,9 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Speziell für Schüler der AES: &nbsp;  <?php $zaun->printMiniForm(); ?>
 
 	<?php $zaun->start(); ?>
-	Texte folgen....
+	
+	<br><br>
+	Inhalte werden in Kürze hochgeladen!
 		
 	<?php $zaun->end(); ?>
 

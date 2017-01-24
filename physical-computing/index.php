@@ -100,20 +100,26 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	
 	<?php $zaun->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;  <?php $zaun->printMiniForm(); ?>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.1.2017)</small>
 
 	<?php $zaun->start(); ?>
 	
 	<br><hr>
 	Wir müssen das Thema "Schieberegister" nun endlich abschließen. Dazu werde ich alle Sketche als Lösung vorgeben, sonst arbeiten wir noch ewig daran.<br>
-	Wenn´s dir wirklich ernst um das Erlernen der Programmierung ist, solltest du versuchen, diese Sketche auch zu verstehen.
+	Wenn´s dir wirklich ernst um das Erlernen der Programmierung ist, solltest du versuchen diese Sketche auch zu verstehen.
 <br>
 	Der Schwierigste ist sicher der von Dominik (Kompliment!!). Ich habe ihn etwas umgeschrieben damit er besser lesbar ist und eine Analyse beigefügt.
 	Wenn du gerade gut drauf bist, einen klaren Kopf hast und dich etwas quälen möchtest, dann öffne die PDF und versuche den Inhalt zu verstehen. 
 	Das kann man aber nicht wie einen Roman lesen :-)
 	<br><br>
-	<a href="/physical-computing/ping-pong-2.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.0</small><br>
-	<br> Weitere Sketche folgen in Kürze.
+	<a href="/physical-computing/ping-pong-3.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.2</small><br>
+	<br>
+	Lösung zu Blatt 5, Aufgabe 1a/b:<br><br>
+	<a href="/physical-computing/ping-pong-led"> Ping-Pong-Blatt 5 A. 1a/b</a> &nbsp; <small>Version 1.0</small><br><br>
+	Wäre gut, wenn du dir schon mal überlegen würdest, wie man Aufgabe 2 von Blatt 5 löst.<br>
+	Wir werden uns am 30.1. nur noch sehr kurz mit dem Shift-Register beschäftigen und dann das TM1637 4x7-Segment-Modul studieren. Danach müssen wir noch einmal die 
+	handgestrickte Library für das Ultraschall-Modul kurz erläutern......
+	
 	<?php $zaun->end(); ?>
 
 	

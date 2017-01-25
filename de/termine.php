@@ -47,11 +47,6 @@
 		
 		
 		<tr>
-		<td>Dienstag<br><b>24. Januar</b><br>10:00 Uhr
-		<td>Computer-Entwicklung <td>Event
-		<td>Hessischer Rundfunk 
-		
-		<tr>
 		<td>Dienstag<br><b>7. Februar</b><br>11:00 Uhr
 		<td>Computer-History <td>Interaktive Führung<br> + Workshop
 		<td>Klasse 10 der IGS Schönenberg 

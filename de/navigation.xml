@@ -49,7 +49,7 @@
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
 			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
-			<li><a href="/robotik/" seiten_id="robotik-ferienkurs" class="show-rel-prev show-rel-next kursseite">Robotik-Kurse</a></li>
+			<li><a href="/robotik/" seiten_id="robotik" class="show-rel-prev show-rel-next kursseite">Robotik-Kurse</a></li>
 			<li><a href="/physical-computing/" seiten_id="physical-computing" class="show-rel-prev kursseite">Physical Computing &amp; Robotics</a></li>
 		</ul>
 	</li>

@@ -32,7 +32,12 @@
 			</li>
 		</ul>
 	</li>
-	<!--<li><a seiten_id="lehrerinfo" href="/en/lehrerinfo.php">Didaktik</a></li>-->
+	<li class="has-submenu open-to-left"><a seiten_id="robotik" class="kursseite show-rel-next" href="/en/robotics.php">Didactics</a>
+		<ul class="u2">
+			<li><a href="/en/robotics.php">Robotic workshops</a></li>
+			<li><a href="/en/physical-computing.php" seiten_id="physical-computing" class="show-rel-prev kursseite">Arduino lab</a></li>
+		</ul>
+	</li>
 	<li><a seiten_id="wir-suchen" href="/en/wanted.php">Wanted</a></li>
 	<li><a seiten_id="impressum" href="/en/contact.php">Contact</a></li>
 	<!-- Don't show sitemap here -->

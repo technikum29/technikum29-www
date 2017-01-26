@@ -1,6 +1,9 @@
 <?php
-	$seiten_id = 'robotik-ferienkurs'; 'robotik-workshop'; 'Roboter programmieren';
+	/* Die seiten-ID dient zur Identifikation der Seite */
+	/* im Menü. Bitte nicht verändern. */
+	$seiten_id = 'robotik';
 	$version = '$Id: robotik$';
+	/* Der Titel wird im Browserfenster angezeigt */
 	$titel = 'Robotik Workshop im technikum29 und an Schulen';
 
 $sidebar_content = <<<SIDEBAR_ENDE

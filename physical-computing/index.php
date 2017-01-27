@@ -70,14 +70,15 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
+In diesem Workshop, den man auch mit <b>Arduino-Lab</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
 Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können, selbst das Sprechen werden wir ihm beibringen.<br>
 <div class="box left">
 	<img src="aes-2.jpg" width="220"  height="262"/> 
 </div>
 
 
-Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu stehen. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für ein späteres Studium.
+Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu stehen. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für ein späteres Studium.<br>
+Falls noch genügend Zeit vorhanden ist, werden wir uns auch mit einem vorhandenen 3D-Drucker sowie dessen Programmierung beschäftigen. Dann lassen sich u.a. auch zusätzliche Teile für unsere Roboter-Fahrzeuge herstellen.
 
 <div class="box right">
 	<img src="arduino.jpg" width="220"  height="171"/> 
@@ -112,13 +113,13 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Wenn du gerade gut drauf bist, einen klaren Kopf hast und dich etwas quälen möchtest, dann öffne die PDF und versuche den Inhalt zu verstehen. 
 	Das kann man aber nicht wie einen Roman lesen :-)
 	<br><br>
-	<a href="/physical-computing/ping-pong-3.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.2</small><br>
+	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.3</small><br>
 	<br>
 	Lösung zu Blatt 5, Aufgabe 1a/b:<br><br>
 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br><br>
 	Wäre gut, wenn du dir schon mal überlegen würdest, wie man Aufgabe 2 von Blatt 5 löst.<br>
 	Wir werden uns am 30.1. nur noch sehr kurz mit dem Shift-Register beschäftigen und dann das TM1637 4x7-Segment-Modul studieren. Danach müssen wir noch einmal die 
-	handgestrickte Library für das Ultraschall-Modul kurz erläutern......
+	handgestrickte Library für das Ultraschall-Modul kurz erläutern......und die 7-Segment-Anzeige in den Sketch einbinden.
 	
 	<?php $zaun->end(); ?>
 

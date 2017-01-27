@@ -52,6 +52,12 @@
 		<td>Klasse 10 der IGS Schönenberg 
 		
 		<tr>
+		<td>Sonntag<br><b>19. Februar</b><br>14:00 Uhr
+		<td>Computer-History 
+		<td>Führung
+		<td>Gruppe F.G. 
+		
+		<tr>
 		<td>Samstag<br><b>26. Februar</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung

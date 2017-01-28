@@ -57,28 +57,30 @@
     </p>
 </div>
 
-
 <p>This is some (anonymous) feedback from advanced students of the high school which visited technikum29 and attended a workshop:
+<p class="small">
 
-<blockquote>
+
 I liked this tour very much. It was so helpful we could ask all our questions well before we looked at the individual copmuters. I never expected to see them working as if nothing happened to them in terms of age! We could even operate them! -- Student A
-</blockquote>
+<hr><p class="small">
 
-<blockquote>
+
 Very nice exhibition and informative tour. It's interesting to see how these old computers were working. Actually I would have been happy to have even more time for the workshops.  -- Student B
-</blockquote>
+<hr><p class="small">
 
-<blockquote>
+
 All in all a very interesting tour. I think everybody who is at least in particular interested in technology should be inspired by at least one of these old giants. This doesn't even have to be these large truck-like super computers but can even be a smallish but astonishing mechanical computer with their hand gears and gear wheels.  -- Student C
-</blockquote>
+<hr><p class="small">
 
-<blockquote>
+
 I enjoyed the tour very much. Every single computer which was shown is worth of being included in the tour. Every single computer was impressive in it's own way. The workshop also included interesting tasks, for instance the ASCII art. However, in my opinion, the workshops were way too long.  -- Student D
-</blockquote>
+<hr><p class="small">
 
-<blockquote>
+
 This was a very interesting exhibition with quite interesting exhibits. I think for us younger ones it's very important to learn something not only about sociopolitical history but also about technical history, especially when all the old exhibits are still fully working! I also enjoyed the guided tour which was fun and entertaining. The subsqeuent workshop  was also a great fun and very instructive. I can well imagine to come back to the museum to take part at another tour with another thematic focus.  -- Student E
-</blockquote>
+
+
+</small>
 
 <div class="center">
     <img src="/shared/photos/rallye/physik-lk.jpg"  width="852" height="284" />

@@ -19,6 +19,8 @@
 	require "../lib/technikum29.php";
 ?>
 
+	<!-- Bereiche "nur-auf-deutscher-seite" werden im Englischen nicht angezeigt -->
+	<div class="nur-auf-deutscher-seite">
 	<h2>Termine und Führungen</h2>
 	
 	<p>Für allgemeine Informationen über Führungen und Gruppenanmeldungen
@@ -36,7 +38,8 @@
 	Die folgende Tabelle listet Gruppenanmeldungen auf.
 	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. </p>
 	<br>
-	
+	</div><!-- Ende nur-auf-deutscher-seite -->
+
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">

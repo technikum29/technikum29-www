@@ -9,7 +9,7 @@
 <header class="teaser physical-computing">
 	<h2>
 	<span class="subtext">Workshops for children and teenagers at technikum29</span>
-	The Arduino lab
+	Physical computing workshops
 	</h2>
 	<img class="no-copyright" src="/physical-computing/robotics.jpg">
 </header>

@@ -9,7 +9,7 @@
 <header class="teaser">
 	<h2>
 	<span class="subtext">Workshops for children and teenagers at technikum29</span>
-	Lego Robotics
+	Lego Robotic workshops
 	</h2>
 	<img class="no-copyright" src="/robotik/header-bild.jpg">
 </header>

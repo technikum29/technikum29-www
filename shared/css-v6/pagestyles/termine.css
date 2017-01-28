@@ -174,4 +174,7 @@ span.label.verfuegbar {
 	background-color: #5cb85c;
 }
 
-
+/* Englische Termine */
+body.lang-en div.nur-auf-deutscher-seite {
+	display: none;
+}

@@ -73,7 +73,7 @@ All in all a very interesting tour. I think everybody who is at least in particu
 <hr><p class="small">
 
 
-I enjoyed the tour very much. Every single computer which was shown is worth of being included in the tour. Every single computer was impressive in it's own way. The workshop also included interesting tasks, for instance the ASCII art. However, in my opinion, the time for doing the workshop were too short.  -- Student D
+I enjoyed the tour very much. Every single computer which was shown is worth of being included in the tour. Every single computer was impressive in it's own way. The workshop also included interesting tasks, for instance the ASCII art. However, in my opinion, the time for doing the workshop was too short.  -- Student D
 <hr><p class="small">
 
 

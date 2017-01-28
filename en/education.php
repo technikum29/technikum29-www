@@ -7,8 +7,8 @@
 ?>
 	<h2>Museum paedagogics and education</h2>
 	
-	<p>Technikum29 is not only a computer museum showing exponats of runnig computers. Since some years, we also
-	develop paedagogic concepts for pupils (i.e. kids between 8-18 years). We offer theses courses
+	<p>Technikum29 is not only a computer museum showing exponats of running computers. Since some years, we also
+	develop paedagogic concepts for pupils (i.e. kids and youth between 10-18 years). We offer these courses
 	in German only, so this English speaking pages shall merely give you an idea what kind of outreach work is
 	done in technikum29. It can suit as an invitation for paedagogic concepts in adjacent countries, thought.
 	
@@ -25,7 +25,7 @@
 	<div class="desc-right auto-bildbreite borderless">
 		<img src="/shared/photos/start/yousra-9200.jpg"  width="400" height="329" />
 		<p>
-			Yousra, 9 years old (primary school), operates the <a href="/en/computer/univac9200.php">Univac 9200 computer</a>.
+			Yousra, 10 years old (primary school), operates the <a href="/en/computer/univac9200.php">Univac 9200 computer</a>.
 		</p>
 	</div>
 	<p>When school classes come visiting our museum, we typically offer one of the two tours in the two main
@@ -61,7 +61,7 @@
 <p class="small">
 
 
-I liked this tour very much. It was so helpful we could ask all our questions well before we looked at the individual copmuters. I never expected to see them working as if nothing happened to them in terms of age! We could even operate them! -- Student A
+I liked this tour very much. It was so helpful we could ask all our questions well before we looked at the individual computers. I never expected to see them working as if nothing happened to them in terms of age! We could even operate them! -- Student A
 <hr><p class="small">
 
 
@@ -73,7 +73,7 @@ All in all a very interesting tour. I think everybody who is at least in particu
 <hr><p class="small">
 
 
-I enjoyed the tour very much. Every single computer which was shown is worth of being included in the tour. Every single computer was impressive in it's own way. The workshop also included interesting tasks, for instance the ASCII art. However, in my opinion, the workshops were way too long.  -- Student D
+I enjoyed the tour very much. Every single computer which was shown is worth of being included in the tour. Every single computer was impressive in it's own way. The workshop also included interesting tasks, for instance the ASCII art. However, in my opinion, the time for doing the workshop were too short.  -- Student D
 <hr><p class="small">
 
 

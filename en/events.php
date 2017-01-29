@@ -21,7 +21,7 @@
 <p>We don't have daily tours at technikum29 computer museum, but instead a lively timetable full
 of specialized events tailored for the registered audience. We invite anybody to register by writing
 an email to <a href="mailto:post@technikum29.de">post@technikum29.de</a>. This also applies to
-international publicum. From time to time or in special cases we offer tours in English language.
+international publicum. Currently we can offer guided tours only in German language.
 
 <p>Next to the typical guided tour, we have built up a broad curriculum on
 <a href="/en/education.php">educational courses and workshops for children</a>, "research"-like

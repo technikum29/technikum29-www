@@ -13,13 +13,13 @@ void setup() {
 
 void loop() {
  
- digitalWrite(Trig, LOW);
- delayMicroseconds(5);           //sorgt für einen sauberen High-Impuls (anschließend)
+ digitalWrite(Trig, LOW);        // Erzeugen des Triggerimpulses (5 Zeilen)
+ delayMicroseconds(5);           
  digitalWrite(Trig, HIGH);
  delayMicroseconds(10);
  digitalWrite(Trig, LOW);
-                                 // beachte: "Echo" ist nicht die Laenge des Echo-Impulses!
- zeit = pulseIn(Echo, HIGH);     // misst die Impulsdauer, beginnend mit High bis Low in µs
+                                 // beachte: "Echo" ist nicht die Laenge des Echo-Impulses! Sondern......
+ zeit = pulseIn(Echo, HIGH);     // misst die Impulsdauer, beginnend mit High bis Low in Mikrosekunden
  
  distanz = zeit*0.0343/2;        // Berechnung der Distanz aus der Signal-Laufzeit
 

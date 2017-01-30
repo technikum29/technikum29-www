@@ -97,29 +97,24 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
 	<a href="/physical-computing/ph5-1.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
-	<a href="/physical-computing/shift-1.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>&nbsp; <small>Update Version 1.1</small> <br><br>
-
+	<a href="/physical-computing/shift-1.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>&nbsp; <small>Update Version 1.1</small> <br>
+	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4 <br><br>
 	
 	<?php $zaun->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.1.2017)</small>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 30.1.2017)</small><br>
 
 	<?php $zaun->start(); ?>
 	
 	<br><hr>
-	Wir müssen das Thema "Schieberegister" nun endlich abschließen. Dazu werde ich alle Sketche als Lösung vorgeben, sonst arbeiten wir noch ewig daran.<br>
-	Wenn´s dir wirklich ernst um das Erlernen der Programmierung ist, solltest du versuchen diese Sketche auch zu verstehen.
-<br>
-	Der Schwierigste ist sicher der von Dominik (Kompliment!!). Ich habe ihn etwas umgeschrieben damit er besser lesbar ist und eine Analyse beigefügt.
-	Wenn du gerade gut drauf bist, einen klaren Kopf hast und dich etwas quälen möchtest, dann öffne die PDF und versuche den Inhalt zu verstehen. 
-	Das kann man aber nicht wie einen Roman lesen :-)
+	Wenn wir die Theoriephasen etwas verkürzen wollen, müsste einiges davon "ausgelagert" werden. D.h. es wird nur grob der Weg vorgegeben, den ihr dann während der Stunde selbst erarbeiten müsstet wie z.B. die Anwendung von Libraries. Schwierige Sketche sollten freiwillig von einem Schüler schriftlich dokumentiert werden. Das müsste zeitnahe geschehen, ich würde die Analyse dann bei Bedarf korrigieren (ergänzen) und sie hier einstellen.<br>
+	Das macht aber nur Sinn, wenn <b>jeder</b> diese Analysen durcharbeitet bis er es verstanden hat. Fragen dazu solltest du dir aufschreiben und in der nächsten Stunde stellen.<br>
+	Programmieren lernen ist schon etwas aufwändiger als kochen lernen :-), bringt dafür auch mehr!
 	<br><br>
-	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a> &nbsp; <small>Version 1.3</small><br>
-	<br>
-	Lösung zu Blatt 5, Aufgabe 1a/b:<br><br>
-	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br><br>
-	Wäre gut, wenn du dir schon mal überlegen würdest, wie man Aufgabe 2 von Blatt 5 löst.<br>
-	Wir werden uns am 30.1. nur noch sehr kurz mit dem Shift-Register beschäftigen und dann das TM1637 4x7-Segment-Modul studieren. Danach müssen wir noch einmal die 
-	handgestrickte Library für das Ultraschall-Modul kurz erläutern......und die 7-Segment-Anzeige in den Sketch einbinden.
+	
+	Lösung zu Aufgabe 1a/b, Blatt 5, :&nbsp; 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br>
+	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><br>
+	
+	
 	
 	<?php $zaun->end(); ?>
 

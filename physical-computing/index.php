@@ -110,6 +110,8 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Das macht aber nur Sinn, wenn <b>jeder</b> diese Analysen durcharbeitet bis er es verstanden hat. Fragen dazu solltest du dir aufschreiben und in der nächsten Stunde stellen.<br>
 	Programmieren lernen ist schon etwas aufwändiger als kochen lernen :-), bringt dafür auch mehr!
 	<br><br>
+	Library für unsere <b>7-Segment-Anzeige</b>: Wenn du die Arduino-Software auf deinem PC hast, kannst du auch die Library zum TM1637-Modul öffnen und dir die Sketche zu den vielen Beispielen anschauen. Dann weißt du in der nächsten Stunde genau, was zu tun ist.<br>
+	Gehe wie folgt vor: Arduino Software öffnen, dann "Beispiele" dort findest du relativ weit unten: SevenSegmentTM1637. Beginne mit "Basic".<br><br>
 	
 	Lösung zu Aufgabe 1a/b, Blatt 5, :&nbsp; 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br>
 	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><br>

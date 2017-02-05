@@ -5,8 +5,10 @@
 	
 	$dynamischer_inhalt = true;
 	require "../lib/simplepassword.php";
-	$zaun = new t29FencedContent('Schulgeheimnisse');
-	$zaun->password = "pcr";
+	$zaun_aes = new t29FencedContent('Schulgeheimnisse-AES');
+	$zaun_aes->password = "pcr";
+	$zaun_eds = new t29FencedContent('Schulgeheimnisse-EDS');
+	$zaun_eds->password = "eds-1";
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
@@ -100,10 +102,10 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<a href="/physical-computing/shift-1.pdf"> 74HC595, 8 Bit Schieberegister mit Latch, Sketche und Analysen (PDF)</a>&nbsp; <small>Update Version 1.1</small> <br>
 	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4 <br><br>
 	
-	<?php $zaun->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 30.1.2017)</small><br>
+	<?php $zaun_aes->printAnchor(); ?>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 30.1.2017)</small><br>
 
-	<?php $zaun->start(); ?>
+	<?php $zaun_aes->start(); ?>
 	
 	<br><hr>
 	Wenn wir die Theoriephasen etwas verkürzen wollen, müsste einiges davon "ausgelagert" werden. D.h. es wird nur grob der Weg vorgegeben, den ihr dann während der Stunde selbst erarbeiten müsstet wie z.B. die Anwendung von Libraries. Schwierige Sketche sollten freiwillig von einem Schüler schriftlich dokumentiert werden. Das müsste zeitnahe geschehen, ich würde die Analyse dann bei Bedarf korrigieren (ergänzen) und sie hier einstellen.<br>
@@ -114,12 +116,19 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Gehe wie folgt vor: Arduino Software öffnen, dann "Beispiele" dort findest du relativ weit unten: SevenSegmentTM1637. Beginne mit "Basic".<br><br>
 	
 	Lösung zu Aufgabe 1a/b, Blatt 5, :&nbsp; 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br>
-	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><br>
+	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><hr><br>
 	
 	
 	
-	<?php $zaun->end(); ?>
+	<?php $zaun_aes->end(); ?>
 
+	<?php $zaun_eds->printAnchor(); ?>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 05.02.2017)</small><br>
+
+	<?php $zaun_eds->start(); ?>
+	<br><hr>
+	Wenn wir die Theoriephasen etwas verkürzen wollen, ... Inhalt für die EDS.
+	<?php $zaun_eds->end(); ?>
 	
 
 

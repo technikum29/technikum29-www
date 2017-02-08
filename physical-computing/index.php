@@ -110,8 +110,8 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<br><hr>
 	<u>Neu:</u><br><br>
 	Vorab: Wir ziehen am 13.2. von Raum 15 in den Raum 17 um! <br>
-	Zum Sketch "Einparkhilfe": Bei den meisten Gruppen hat die LED-Anzeige unruhig geblinkt. Das muss aber nicht sein. Ursache ist in der Regel, dass der Serielle Monitor (SM) noch aktiviert ist. Der "frißt" Zeit, in welcher die LED Anzeige nicht aktiv ist. Also sollte der SM deaktiviert werden.<br>
-	Hier ist ein "Lern-Sketch" beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br>
+	Zum Sketch "Einparkhilfe": Bei den meisten Gruppen hat die LED-Anzeige unruhig geblinkt. Das muss aber nicht sein. Ursache ist in der Regel der noch aktive Serielle Monitor (SM). Der "frisst" Zeit, in welcher die LED Anzeige nicht aktiv ist. Daher sollte der SM deaktiviert werden.<br>
+	Hier ist ein "Lern-Sketch" einer Gruppe beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br>
 	<a href="/physical-computing/anzeige"> Sketch zum Lernen, Aufg. 7a) Blatt 5</a>
 	<br><br>
 	

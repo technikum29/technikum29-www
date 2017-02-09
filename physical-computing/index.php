@@ -132,11 +132,14 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 05.02.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 09.02.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Wenn wir die Theoriephasen etwas verkürzen wollen, ... Inhalt für die EDS.
+	Kompliment an die Gruppe: Wir kommen ganz gut voran :-) <br>
+	Das Aufgabenblatt 1 ist nicht passwortgeschützt und steht oben.<br>
+	Das Ergebnis bei Aufgabe 4II) aus Blatt 1 war schon recht merkwürdig. Wer noch nicht ganz durchblickt, sollte sich die Analyse hierzu anschauen: <br><br>
+	<a href="/physical-computing/5-mal-blinken.pdf"> Analyse für 5-mal-blinken, Aufg. 4II), Blatt 1</a>
 	<?php $zaun_eds->end(); ?>
 	
 

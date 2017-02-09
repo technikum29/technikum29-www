@@ -97,7 +97,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 <hr>
 
 
-	
+	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
 	<a href="/physical-computing/ph5-1.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	
 	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4 <br><br>

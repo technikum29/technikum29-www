@@ -100,18 +100,17 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
 	<a href="/physical-computing/ph5-1.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	
-	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4 <br><br>
+	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
 	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 8.2.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?>
 	
-	<br><hr>
 	<u>Neu:</u><br><br>
 	Vorab: Wir ziehen am 13.2. von Raum 15 in den Raum 17 um! <br>
 	Zum Sketch "Einparkhilfe": Bei den meisten Gruppen hat die LED-Anzeige unruhig geblinkt. Das muss aber nicht sein. Ursache ist in der Regel der noch aktive Serielle Monitor (SM). Der "frisst" Zeit, in welcher die LED Anzeige nicht aktiv ist. Daher sollte der SM deaktiviert werden.<br>
-	Hier ist ein "Lern-Sketch" einer Gruppe beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br>
+	Hier ist ein "Lern-Sketch" einer Gruppe beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br><br>
 	<a href="/physical-computing/anzeige"> Sketch zum Lernen, Aufg. 7a) Blatt 5</a>
 	<br><br>
 	
@@ -124,6 +123,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Library für unsere <b>7-Segment-Anzeige</b>: Wenn du die Arduino-Software auf deinem PC hast, kannst du auch die Library zum TM1637-Modul öffnen und dir die Sketche zu den vielen Beispielen anschauen. Dann weißt du in der nächsten Stunde genau, was zu tun ist.<br>
 	Gehe wie folgt vor: Arduino Software öffnen, dann "Beispiele" dort findest du relativ weit unten: SevenSegmentTM1637. Beginne mit "Basic".<br><br>
 	
+	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4<br>
 	Lösung zu Aufgabe 1a/b, Blatt 5, :&nbsp; 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br>
 	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><hr><br></font>
 	
@@ -132,7 +132,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 09.02.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 9.2.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>

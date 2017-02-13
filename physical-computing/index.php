@@ -27,7 +27,7 @@ Diese Seite ist im Aufbau.
 
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
-	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an folgender Schule: Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
+	<p>Das technikum29 sponsert zur Zeit je einen Physical-Computing-Workshop an folgenden Schulen: Albert-Einstein-Schule (AES), Schwalbach sowie an der Eichendorffschule (EDS) in Kelkheim. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten.
 	
 </div>
 
@@ -103,31 +103,22 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 8.2.2017)</small><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
-	<u>Neu:</u><br><br>
-	Vorab: Wir ziehen am 13.2. von Raum 15 in den Raum 17 um! <br>
-	Zum Sketch "Einparkhilfe": Bei den meisten Gruppen hat die LED-Anzeige unruhig geblinkt. Das muss aber nicht sein. Ursache ist in der Regel der noch aktive Serielle Monitor (SM). Der "frisst" Zeit, in welcher die LED Anzeige nicht aktiv ist. Daher sollte der SM deaktiviert werden.<br>
+	<u>Neu:</u><br>
+	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2.<br><br>
+	
+	
+	
+	<font color="silver"><hr>
+	
 	Hier ist ein "Lern-Sketch" einer Gruppe beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br><br>
 	<a href="/physical-computing/anzeige"> Sketch zum Lernen, Aufg. 7a) Blatt 5</a>
-	<br><br>
 	
-	<font color="silver">
-	Alt:<hr>
-	Wenn wir die Theoriephasen etwas verkürzen wollen, müsste einiges davon "ausgelagert" werden. D.h. es wird nur grob der Weg vorgegeben, den ihr dann während der Stunde selbst erarbeiten müsstet wie z.B. die Anwendung von Libraries. Schwierige Sketche sollten freiwillig von einem Schüler schriftlich dokumentiert werden. Das müsste zeitnahe geschehen, ich würde die Analyse dann bei Bedarf korrigieren (ergänzen) und sie hier einstellen.<br>
-	Das macht aber nur Sinn, wenn <b>jeder</b> diese Analysen durcharbeitet bis er es verstanden hat. Fragen dazu solltest du dir aufschreiben und in der nächsten Stunde stellen.<br>
-	Programmieren lernen ist schon etwas aufwändiger als kochen lernen :-), bringt dafür auch mehr!
-	<br><br>
-	Library für unsere <b>7-Segment-Anzeige</b>: Wenn du die Arduino-Software auf deinem PC hast, kannst du auch die Library zum TM1637-Modul öffnen und dir die Sketche zu den vielen Beispielen anschauen. Dann weißt du in der nächsten Stunde genau, was zu tun ist.<br>
-	Gehe wie folgt vor: Arduino Software öffnen, dann "Beispiele" dort findest du relativ weit unten: SevenSegmentTM1637. Beginne mit "Basic".<br><br>
-	
-	<a href="/physical-computing/ping-pong-4.pdf"> Ping-Pong-Analyse (2) (PDF)</a>, Lösung der Aufg. 6e) Blatt 4<br>
-	Lösung zu Aufgabe 1a/b, Blatt 5, :&nbsp; 	<a href="/physical-computing/ping-pong-led"> Ping-Pong Blatt 5 Aufg. 1a/b</a> &nbsp; <small>Version 1.0</small><br>
-	Lösung zu Aufgabe 5, Blatt 5: &nbsp; 	<a href="/physical-computing/ultraschall-sensor"> Ultraschall-Sensor-Sketch</a><br><hr><br></font>
-	
-	
+	</font><br>
+	<hr>	<br>
 	
 	<?php $zaun_aes->end(); ?>
 

@@ -99,7 +99,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
 	<a href="/physical-computing/ph5-1.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
-	
+	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
@@ -108,7 +108,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->start(); ?>
 	
 	<u>Neu:</u><br>
-	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2.<br><br>
+	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2. In einer kleineren Gruppe werden wir auch wesentlich schneller vorankommen und weniger oberflächlich "arbeiten".<br><br>
 	
 	
 	

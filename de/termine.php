@@ -48,25 +48,23 @@
 		<th>Typ
 		<th>Teilnehmer    
 		
-		
 		<tr>
 		<td>Sonntag<br><b>19. Februar</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>Gruppe F.G. 
 		
-		
-		<tr>
-		<td>Mittwoch<br><b>22. Februar</b><br>15:45 Uhr
-		<td>Computer-History 
-		<td>Führung
-		<td>Vivo Wiesbaden 
-		
 		<tr>
 		<td>Samstag<br><b>26. Februar</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
+		
+		<tr>
+		<td>Mittwoch<br><b>8. März</b><br>15:00 Uhr
+		<td>Computer-History 
+		<td>Führung
+		<td>Vivo Wiesbaden 
 		
 		<tr>
 		<td>Freitag<br><b>24. März</b><br>19:00 Uhr

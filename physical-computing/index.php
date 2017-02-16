@@ -8,7 +8,7 @@
 	$zaun_aes = new t29FencedContent('Schulgeheimnisse-AES');
 	$zaun_aes->password = "pcr";
 	$zaun_eds = new t29FencedContent('Schulgeheimnisse-EDS');
-	$zaun_eds->password = "eds-1";
+	$zaun_eds->password = "1eds2";
 
 $sidebar_content = <<<SIDEBAR_ENDE
 
@@ -98,8 +98,8 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
-	<a href="/physical-computing/ph5-1.pdf"> Physical-Computing Blatt 5 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
-	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
+	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><br>
+	
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
@@ -107,8 +107,12 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	<?php $zaun_aes->start(); ?>
 	
-	<u>Neu:</u><br>
-	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2. In einer kleineren Gruppe werden wir auch wesentlich schneller vorankommen und weniger oberflächlich "arbeiten".<br><br>
+	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
+	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
+	<br>
+	Am Montag kommt die Film-AG in PCR um einen Video-Clip zu drehen!<br><br>
+	
+	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2. In einer kleineren Gruppe werden wir auch deutlich schneller vorankommen.<br><br>
 	
 	
 	
@@ -128,7 +132,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
 	Kompliment an die Gruppe: Wir kommen ganz gut voran :-) <br>
-	Das Aufgabenblatt 1 ist nicht passwortgeschützt und steht oben.<br>
+	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
 	Das Ergebnis bei Aufgabe 4II) aus Blatt 1 war schon recht merkwürdig. Wer noch nicht ganz durchblickt, sollte sich die Analyse hierzu anschauen: <br><br>
 	<a href="/physical-computing/5-mal-blinken.pdf"> Analyse für 5-mal-blinken, Aufg. 4II), Blatt 1</a>
 	<?php $zaun_eds->end(); ?>

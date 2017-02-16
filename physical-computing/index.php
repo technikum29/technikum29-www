@@ -13,8 +13,7 @@
 $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
-Diese Seite ist im Aufbau.
-	Sie wurde zuletzt am 7.2.2017 aktualisiert
+
 	
 </div>
 
@@ -103,7 +102,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
@@ -127,7 +126,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 9.2.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.2.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>

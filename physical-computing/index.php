@@ -102,17 +102,16 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
-	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
+	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <br>
 	<br>
 	Am Montag kommt die Film-AG in PCR um einen Video-Clip zu drehen!<br><br>
 	
 	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2. In einer kleineren Gruppe werden wir auch deutlich schneller vorankommen.<br><br>
-	
 	
 	
 	<font color="silver"><hr>

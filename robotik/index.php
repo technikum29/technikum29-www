@@ -99,7 +99,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro a
 
 <h3><font color="#FF0000">Termine in den Osterferien</font></h3>
 <p><b>1. Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
-<b>Mo. 3.4.20171 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr. Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a>&nbsp; <font color="#FF0000"><b>Der Kurs ist ausgebucht!</b></font><br><br>
+<b>Mo. 3.4.20171 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr. <font color="#C0C0C0">Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a></font>&nbsp; <font color="#FF0000"><b>Dieser Kurs ist ausgebucht!</b></font><br><br>
+
 <b><font color="#FF0000">2. Einführungskurs</b></font> im technikum29 (Kelkheim): <br>
 <b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br>
 Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a><br>

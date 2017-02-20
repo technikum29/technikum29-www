@@ -97,10 +97,10 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
 
-<h3>Termine in den Osterferien</h3>
+<h3><font color="#FF0000">Termine in den Osterferien</font></h3>
 <p><b>1. Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
-<b>Mo. 3.4.20171 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr. Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a><br><br>
-<b>2. Einführungskurs</b> im technikum29 (Kelkheim): <br>
+<b>Mo. 3.4.20171 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr. Anmeldung für <u>diesen</u> Kurs nur an der <a class="email" href="mailto:info@vhs-mtk.de">VHS. Kursnummer: G7505110</a>&nbsp; <font color="#FF0000"><b>Der Kurs ist ausgebucht!</b></font><br><br>
+<b><font color="#FF0000">2. Einführungskurs</b></font> im technikum29 (Kelkheim): <br>
 <b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br>
 Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a><br>
 

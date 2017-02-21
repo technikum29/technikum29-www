@@ -102,24 +102,21 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 21.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <br>
 	<br>
-	Am Montag kommt die Film-AG in PCR um einen Video-Clip zu drehen!<br><br>
+	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY <br>
+	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reizuschauen!<br><br>
+	<a href="/physical-computing/TM1638-1"> TM1638-1, manuelles Einlesen von Daten</a><br>
+	<a href="/physical-computing/TM1638-zaehler-text"> TM1638-zaehler-text, Zahlen und anschließend Text anzeigen</a><br>
+	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext, Lauftext anzeigen</a><br><br>
 	
-	Konsequenz aus dem Verhalten einiger Schüler: Die Regeln für eine Teilnahme an der AG werden neu aufgestellt. Wer dagegen verstößt, wird sofort für den Rest der Stunde ausgeschlossen. Im Wiederholungsfall darf der "Störer" nicht mehr an der AG teilnehmen. Weitere Einzelheiten erfährst du am 20.2. In einer kleineren Gruppe werden wir auch deutlich schneller vorankommen.<br><br>
+	<!--  <font color="silver"><hr> -->
 	
-	
-	<font color="silver"><hr>
-	
-	Hier ist ein "Lern-Sketch" einer Gruppe beigefügt, in welchem einige Fehler versteckt waren. Schaue dir desen genau an und versuche daraus ebenfalls zu lernen.<br><br>
-	<a href="/physical-computing/anzeige"> Sketch zum Lernen, Aufg. 7a) Blatt 5</a>
-	
-	</font><br>
 	<hr>	<br>
 	
 	<?php $zaun_aes->end(); ?>

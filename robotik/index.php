@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>3.1.2017
+	<br>22.2.2017
 </div>
 
 <div class="spacing"></div>
@@ -91,7 +91,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
 
 <h3>Voraussetzungen</h3>
-<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im zweiten Kurs sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
+<p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind bereits aufgebaut, so dass mehr Zeit für die Programmierung vorhanden ist.<br>
@@ -113,7 +113,7 @@ Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@techniku
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
 Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
-<a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Digitale Welten & Roboter" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
+<a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Physical-Computing & Robotics" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">
@@ -124,7 +124,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 <small>Arduino-Zähler, Einführungsbeispiel</small></div>
 
 </p>
-<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an. Diese Website ist gerade im Aufbau, siehe <a href="/physical-computing" target="blank"> Physical-Computing & Robotics </a>.
+<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="blank"> Physical-Computing & Robotics </a>.
 </p>
 </div>
 

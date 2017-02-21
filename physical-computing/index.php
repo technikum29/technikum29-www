@@ -110,8 +110,9 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <br>
 	<br>
 	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY <br>
-	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reizuschauen!<br><br>
+	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen! Insbesondere hat Dominik den Sketch TM1638-1 sehr intelligent ausgebaut. Wer wirklich was lernen möchte, sollte den Sketch durcharbeiten.<br><br>
 	<a href="/physical-computing/TM1638-1"> TM1638-1, manuelles Einlesen von Daten</a><br>
+	<a href="/physical-computing/TM1638-1_dominik"> TM1638-1_dominik, komfortables manuelles Einlesen von Daten (Dominik)</a><br>
 	<a href="/physical-computing/TM1638-zaehler-text"> TM1638-zaehler-text, Zahlen und anschließend Text anzeigen</a><br>
 	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext, Lauftext anzeigen</a><br><br>
 	

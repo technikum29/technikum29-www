@@ -102,7 +102,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 21.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 23.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
@@ -110,11 +110,11 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <br>
 	<br>
 	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY <br>
-	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen! Insbesondere hat Dominik den Sketch TM1638-1 sehr intelligent ausgebaut. Wer wirklich was lernen möchte, sollte den Sketch durcharbeiten.<br><br>
-	<a href="/physical-computing/TM1638-1"> TM1638-1, manuelles Einlesen von Daten</a><br>
-	<a href="/physical-computing/TM1638-1_dominik"> TM1638-1_dominik, komfortables manuelles Einlesen von Daten (Dominik)</a><br>
-	<a href="/physical-computing/TM1638-zaehler-text"> TM1638-zaehler-text, Zahlen und anschließend Text anzeigen</a><br>
-	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext, Lauftext anzeigen</a><br><br>
+	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen! Insbesondere haben Dominik und Victor den Sketch TM1638-1 intelligent ausgebaut. Wer wirklich was lernen möchte, sollte den Sketch durcharbeiten. Kleine Verbesserungen sind noch möglich, siehe nächste Stunde.<br><br>
+	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>
+	<a href="/physical-computing/TM1638-1_dominik">  TM1638-1_dominik</a>, komfortables manuelles Einlesen von Daten (Dominik + Victor)<br>
+	<a href="/physical-computing/TM1638-zaehler-text">  TM1638-zaehler-text</a>, Zahlen und anschließend Text anzeigen<br>
+	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext </a>, Lauftext anzeigen<br><br>
 	
 	<!--  <font color="silver"><hr> -->
 	

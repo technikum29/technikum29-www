@@ -1,6 +1,6 @@
 
 
-//TM 1638 LED & Key.  "Manuelles" Einlesen der Ziffern mit shiftOut, (von Dominik)
+//TM 1638 LED & Key.  "Manuelles" Einlesen der Ziffern mit shiftOut, (von Dominik + Victor)
 
 const int stb = 7;    // Strobe
 const int clk = 9;    // Clock
@@ -31,11 +31,11 @@ void setup() {
 
   clearLn();        // loeschen des Displays, ausgelagerte Methode
   
-  printLn(7,0,0);   // Daten einlesen, ausgelagerte Methode, s.u.
-  printLn(3,0,1);
-  printLn(4,1,0);   // hier wird z.B. die Zahl 734.12 eingegeben und ueber der 3 sowie 1
-  printLn(1,0,1);   // wird die LED eingeschaltet
-  printLn(2,0,0);  
+  printZi(7,0,0);   // Daten einlesen, ausgelagerte Methode, s.u.
+  printZi(3,0,1);
+  printZi(4,1,0);   // hier wird z.B. die Zahl 734.12 eingegeben und ueber der 3 sowie 1
+  printZi(1,0,1);   // wird die LED eingeschaltet
+  printZi(2,0,0);  
   
   digitalWrite(stb, HIGH);        //uebernimmt Daten aus dem Schieberegister zur Anzeige
 }
@@ -52,10 +52,10 @@ void clearLn() {              // loescht das Display und die LEDs
 
 }
   
-void printLn(int number, int point, int led) {    // setzt Ziffer, Punkt und LED über der Ziffer
+void printZi(int number, int point, int led) {    // setzt Ziffer, Punkt und LED über der Ziffer
   byte byte2 = NUMBER_FONT[number];     // liest Byte der gewuenschten Nummer aus dem Array
   
-  if (point==1){                        // setzt bei Bedarf das Bit für den Dezimalpunkt auf 1
+  if (point==1){                        // setzt bei Bedarf das Bit fuer den Dezimalpunkt auf 1
     bitSet(byte2,7);  // hier wird im NUMBER-FONT das 8. Bit (Array-Index=7) gesetzt, falls an dieser
   }                   // Stelle ein Dezimalpunkt erscheinen soll
   

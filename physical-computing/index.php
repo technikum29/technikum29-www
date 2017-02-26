@@ -97,7 +97,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
-	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><br>
+	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><small> &nbsp; Update Version 1.1</small><br>
 	
 	 <br><br>
 	

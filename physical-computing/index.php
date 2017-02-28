@@ -102,13 +102,12 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 23.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 28.2.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
-	....für Victor: Am Montag (27.2.) findet die AG nicht statt.....<br><br>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
-	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <br>
+	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
 	<br>
 	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY <br>
 	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen! Insbesondere haben Dominik und Victor den Sketch TM1638-1 intelligent ausgebaut. Wer wirklich was lernen möchte, sollte den Sketch durcharbeiten. Kleine Verbesserungen sind noch möglich, siehe nächste Stunde.<br><br>

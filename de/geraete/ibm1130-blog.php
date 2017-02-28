@@ -53,7 +53,10 @@ Den Beginn finden Sie hier: <a href="/de/rechnertechnik/ibm1130.php#blog-ibm"><b
 		<b>25.1.2015:</b> Nachdem wir die Mechanik des Druckers (1132) komplett gereinigt sowie die Mechanik des Konsoldruckers neu justiert haben kann man sagen, dass der Rechner als Lochkartenanlage voll funktionsfähig ist. <br><br>
 		
 		<b>10.7.2016:</b> Nun haben wir uns endlich mit dem Plattenlaufwerk "2310" beschäftigt und konnten es nach dem Auswechseln eines 16-Bit-Puffer-Registers zur Funktion bringen. Die ersten FORTRAN-Programme wurden erfolgreich kompiliert und liefen fehlerfrei.
-		Damit ist die Anlage nunmehr komplett in Ordnung.<br>
-		Als nächste Aktion ist die Anbindung des Plotters vorgesehen.
+		Damit ist die Anlage nunmehr komplett in Ordnung.<br><br>
+		
+		<b>29.1.2017:</b> Mittlerweile ist es uns auch gelungen, die Lochstreifengeräte am der 1130 zum Laufen zu bringen. Wir können z.B. das ASCII-Bild "SNOOPY" über Lochsterifen laden und ausdrucken lassen. Zusätzlich sind wir in der Lage, Klartext, also beliebigen lesbaren Text auf Lochstreifen zu stanzen. Das kombinierte Fortran/Assembler-Programm hierfür umfasst 392 Lochkarten.<br>
+		Nun fehlt noch die Anbindung des Plotters an den Rechner.<br>
+		
 	
 		<p><b>Fortsetzung folgt</b></p>

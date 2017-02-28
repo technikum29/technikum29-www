@@ -1,38 +1,31 @@
 
-// Sketch "laufender Text" auf TM1638 (LED & Key)
+// Mit diesem Sketch kannst du auf dem Modul LED & KEY einen Lauftext darstellen
 
 #include <TM1638.h>
 
-TM1638  aktuellesModule(8, 9, 7);
-
-const char nachricht[] = "       AES SUPER AG        ";
-int base = 0;
+TM1638 Module(8, 9, 7);   //(DIO, CLK, STB)
 
 void setup() {
 }
 
+const char nachricht[] = "        AES SUPER AG        ";  //8 Blank´s vor und hinter dem Text
+int startIndex = 0;
+
 void loop() 
 {
-  //bestimme Ausschnitt der Nachricht zum Anzeigen passend zum module.
-  const char* pos = nachricht + base;
+  //bestimme Ausschnitt der Nachricht zum Anzeigen passend zum Module.
+  
+  Module.setDisplayToString(&nachricht[startIndex]);
 
-  if ( (pos >= nachricht) && ((pos + 8) < (nachricht + sizeof(nachricht)))) {
-    aktuellesModule.setDisplayToString(pos);
-  } else {
-    aktuellesModule.clearDisplay();
-  }
+  startIndex++;
 
-  base++;
-
-  //Wenn das Ende der Nachricht erreicht ist, wieder von vorne anfangen.
-  if (base == sizeof(nachricht) - 8) {
-    base = -8;
+  // Nachricht am Ende angekommen: Wieder von vorne anfangen.
+  
+  if (startIndex >= (sizeof(nachricht) - 8))
+  {
+    startIndex = 0;
   }
 
   delay(200);
 }
 
-/* Kurzinfo: "sizeof" kann den Speicherbedarf von Variablen bzw.Datentypen ermitteln
- *  "char" hat ähnliche Bedeutung wie int, byte usw. Um z.B. Buchstaben zu speichern 
- *  benötigt man den Variablentyp char.
- */

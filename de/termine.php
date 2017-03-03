@@ -61,6 +61,12 @@
 		<td>Vivo Wiesbaden 
 		
 		<tr>
+		<td>Freitag<br><b>17. März</b><br>10:00 Uhr
+		<td>Computer-History 
+		<td>Führung
+		<td>Gutenberg Universität Mainz
+		
+		<tr>
 		<td>Freitag<br><b>24. März</b><br>19:00 Uhr
 		<td>Das Internet der Dinge,<br>Industrie 4.0<br>(Siehe unten)
 		<td>Event-Vortrag *)

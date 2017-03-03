@@ -123,14 +123,15 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.2.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.3.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Kompliment an die Gruppe: Wir kommen ganz gut voran :-) <br>
+
 	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
-	Das Ergebnis bei Aufgabe 4II) aus Blatt 1 war schon recht merkwürdig. Wer noch nicht ganz durchblickt, sollte sich die Analyse hierzu anschauen: <br><br>
-	<a href="/physical-computing/5-mal-blinken.pdf"> Analyse für 5-mal-blinken, Aufg. 4II), Blatt 1</a>
+	Nächste Stunde werden 3 Schüler wegen des Praktikums fehlen. Wir werden dennoch weiter machen und es den Fehlenden am 16.3. kurz erklären.
+	Es geht insbesondere um die Einführung des Begriffs "Array" und dessen Anwendung.
+	
 	<?php $zaun_eds->end(); ?>
 	
 

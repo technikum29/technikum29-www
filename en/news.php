@@ -20,10 +20,8 @@
 	   <ul class="news-feed news-ng">
 	 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">  
 	  <h3>March 2017</h3><br> 
-	<b><big>".... technikum29 is the most exciting computer museum in Europe "</big> </b> <br> <br>
-    ..... so it looks a blogger who knows the computer history scene well.
-   
-    <div class = "small"> Here are only 2 errors: The Bologger served a PDP12 (not 11) and the maximum number of participants for guided tours is 16, not 10. </div>  
+	<b><big>"… technikum29 is the most exciting computer museum in Europe",</big></b> <br> <br>
+	that's how people in the computer history scende discuss about technikum29 in forums.
 	</a></li>
 	
 	<li><a href="/en/physical-computing.php">

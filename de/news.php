@@ -22,8 +22,8 @@
 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">
 
 	<h3>März 2017</h3><br>
-   <b><big>".....technikum29 ist das spannenste Computer-Museum Europas"</big></b><br><br>
-   .....so sieht es ein Blogger, der die Computer-History-Szene gut kennt.<br>
+   <big><b>"… technikum29 ist das spannenste Computer-Museum Europas"</b>, </big> <br><br>
+      so sieht man es in einem Forum der Computer-History-Szene.<br>
    
    <div class="small">Hier sind nur 2 Fehler: Der Bologger bediente eine PDP12 (nicht 11) und die max. Teilnehmerzahl bei Führungen beträgt 16 Personen, nicht 10.</div>
 </a></li>

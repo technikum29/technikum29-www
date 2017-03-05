@@ -18,6 +18,22 @@
        posts are on top.</p><br><br>
 	   
 	   <ul class="news-feed news-ng">
+	 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">  
+	  <h3>March 2017</h3><br> 
+	<b><big>".... technikum29 is the most exciting computer museum in Europe "</big> </b> <br> <br>
+    ..... so it looks a blogger who knows the computer history scene well.
+   
+    <div class = "small"> Here are only 2 errors: The Bologger served a PDP12 (not 11) and the maximum number of participants for guided tours is 16, not 10. </div>  
+	</a></li>
+	
+	<li><a href="/en/physical-computing.php">
+	<h3>January 2017</h3><br>
+	Education in technikum29:
+    <img src="/shared/photos/start/arduino-1.jpg" width="153" height="144" /><br>
+	A new page has been added:
+	<b>Physical-Computing & Robotics</b> for teenagers
+	
+</a></li>
 	   
 	   <li><a href="/en/communication/fax.php#t32">
 	<h3>December 2016</h3><br>
@@ -49,22 +65,6 @@
 	The second UNIVAC 9200 in the technikum29!
 </a></li>
 	
-	
-	
-	<li><a href="/en/computer/lgp30.php">
-	<h3>August 2015</h3>
-    <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
-	We have received a LGP-30 tube computer (build in 1958/60).</a>
-</li>
-	
-	
-	
-<li><a class="popup" href="/shared/photos/rechnertechnik/lochkartenraum.jpg">
-	<h3>June 2015</h3>
-    <img src="/shared/photos/rechnertechnik/lochkartenraum.jpg" width="153" height="86" />
-	<br><br>
-	A unusual offer: A complete cardroom (8 keypunch) and large stocks of punch cards</a>
-</li>
 	
 </ul>
 

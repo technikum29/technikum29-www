@@ -19,6 +19,15 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">
+
+	<h3>März 2017</h3><br>
+   <b><big>".....technikum29 ist das spannenste Computer-Museum Europas"</big></b><br><br>
+   .....so sieht es ein Blogger, der die Computer-History-Szene gut kennt.<br>
+   
+   <div class="small">Hier sind nur 2 Fehler: Der Bologger bediente eine PDP12 (nicht 11) und die max. Teilnehmerzahl bei Führungen beträgt 16 Personen, nicht 10.</div>
+</a></li>
+
 <li><a href="/physical-computing">
 	<h3>Januar 2017</h3><br>
     <img src="/shared/photos/start/arduino-1.jpg" width="153" height="144" /><br>
@@ -56,13 +65,6 @@
 	Eine keline Sensation:<br>
 	Die zweite UNIVAC 9200 im technikum29!
 </a></li>
-
-
-<li><a class="popup" href="/shared/photos/rechnertechnik/lgp-30.jpg">
-	<h3>August 2015</h3>
-    <img src="/shared/photos/rechnertechnik/lgp-30.jpg" width="153" height="121" />
-	LGP-30, ein Röhrenrechner (ca. 1958) auf dem Transport zum technikum29. </a>
-</li>
 
 </ul>
 

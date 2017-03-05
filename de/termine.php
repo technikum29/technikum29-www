@@ -49,12 +49,6 @@
 		<th>Teilnehmer    
 		
 		<tr>
-		<td>Sonntag<br><b>5. März</b><br>14:00 Uhr
-		<td>Computer der Stunde Null: Wie alles begann 
-		<td>Führung
-		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
-		
-		<tr>
 		<td>Mittwoch<br><b>8. März</b><br>15:00 Uhr
 		<td>Computer-History 
 		<td>Führung

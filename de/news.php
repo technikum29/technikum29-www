@@ -25,7 +25,7 @@
    <big><b>"… technikum29 ist das spannenste Computer-Museum Europas"</b>, </big> <br><br>
       so sieht man es in einem Forum der Computer-History-Szene.<br>
    
-   <div class="small">Hier sind nur 2 Fehler: Der Bologger bediente eine PDP12 (nicht 11) und die max. Teilnehmerzahl bei Führungen beträgt 16 Personen, nicht 10.</div>
+   <div class="small">Kleine Korrektur: Der Besucher bediente eine PDP12 (nicht 11) und die max. Teilnehmerzahl bei Führungen beträgt 16 Personen, nicht 10.</div>
 </a></li>
 
 <li><a href="/physical-computing">

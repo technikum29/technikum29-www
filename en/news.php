@@ -21,7 +21,7 @@
 	 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">  
 	  <h3>March 2017</h3><br> 
 	<b><big>"… technikum29 is the most exciting computer museum in Europe",</big></b> <br> <br>
-	that's how people in the computer history scende discuss about technikum29 in forums.
+	that's how people in the computer history scene discuss about technikum29 in forums.
 	</a></li>
 	
 	<li><a href="/en/physical-computing.php">

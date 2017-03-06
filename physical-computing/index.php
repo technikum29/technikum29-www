@@ -102,20 +102,24 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 28.2.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 6.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
+	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
 	<br>
-	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY <br>
-	Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen! Insbesondere haben Dominik und Victor den Sketch TM1638-1 intelligent ausgebaut. Wer wirklich was lernen möchte, sollte den Sketch durcharbeiten. Kleine Verbesserungen sind noch möglich, siehe nächste Stunde.<br><br>
+	Wir müssen verhindern, dass die Gruppen zu sehr auseinanderlaufen. Die Profis sollten sich in der nächsten Stunde zu den Gruppen gesellen, die
+	langsamer "arbeiten" um sie auf den gleichen Stand zu bringen (Anwendung des LED & KEY Moduls). Erst dann können wir mit dem Bau des Roboter-Fahrzeugs beginnen.<br>
+	Dominik sollte möglichst umgehend die Analyse seines Programms senden, deren Überarbeitung ich dann einstelle.<br>
+	
+	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>
 	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>
 	<a href="/physical-computing/TM1638-1_dominik">  TM1638-1_dominik</a>, komfortables manuelles Einlesen von Daten (Dominik + Victor)<br>
 	<a href="/physical-computing/TM1638-zaehler-text">  TM1638-zaehler-text</a>, Zahlen und anschließend Text anzeigen<br>
-	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext </a>, Lauftext anzeigen<br><br>
-	
+	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext </a>, Lauftext anzeigen<br>
+	<a href="/physical-computing/Text-und-Zahl"> Text-und-Zahl</a>, Text und Zahl (Variable) gleichzeitig anzeigen<br><br>
 	<!--  <font color="silver"><hr> -->
 	
 	<hr>	<br>

@@ -3,10 +3,6 @@
 	$version = '$Id$';
 	$titel = 'Was gibt es Neues?';
 	
-	// muss noch restlos entfernt werden:
-	$neues_menu = "";
-    // ende der menue-Eintraege
-
 	if(!require("../lib/news.php")) return; // keine verschachtelten Aufrufe
 ?>
     <h2>Was gibt es Neues?</h2>

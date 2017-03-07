@@ -102,17 +102,19 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 6.3.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 7.3.2017, Analyse eingefügt!)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
 	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
-	<br>
+	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> 
+	<br><br>
+	Die Analyse des im Wesentlichen von Dominik und Victor geschriebenen Programms ist bigefügt. <b>Nochmal</b>: Wer wirklich etwas Programmieren lernen möchte, sollte diese durcharbeiten!!<br>
 	Wir müssen verhindern, dass die Gruppen zu sehr auseinanderlaufen. Die Profis sollten sich in der nächsten Stunde zu den Gruppen gesellen, die
 	langsamer "arbeiten" um sie auf den gleichen Stand zu bringen (Anwendung des LED & KEY Moduls). Erst dann können wir mit dem Bau des Roboter-Fahrzeugs beginnen.<br>
-	Dominik sollte möglichst umgehend die Analyse seines Programms senden, deren Überarbeitung ich dann einstelle.<br>
+	<br>
 	
 	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>
 	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>

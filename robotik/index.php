@@ -53,28 +53,28 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<p><h3>Fun for Future:</h3> <br>
-Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. <br>
-In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
+<h3>Fun for Future:</h3>
+<p>
+Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. </p><br>
+
+<img src="aes-gruppe-2017.jpg" width="405"  height="205"/> 
+<div class="small">Die AES-Robotik-Gruppe</small></div>
 
 <p>
-<img src="aes-gruppe-2016.jpg" width="405"  height="221"/> 
-<div class="small">Die AES-Robotik-Gruppe</small></div>
-</p>
+In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!</p><br>
+
+<img src="4-schueler.jpg" width="405"  height="152"/> 
+<div class="small">Programmier-Probleme lösen</small></div>
+
 <p>
 Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.<br><br>
 
-Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p><br>
+Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
-<p>
-<img src="eds-2016-17.jpg" width="405"  height="223"/> 
-<div class="small">Die EDS-Robotik-Gruppe</small></div>
-</p>
-<h3>Anmeldung und Vormerkung</h3>  
-
-<p>
-per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p>
+<div class="box center">
+<img src="2-schueler.jpg" width="320"  height="301"/> 
+<div class="small">Endlich: Der Roboter tut was man ihm beibringt....</small></div>
+</div>
 
 </div><!--/leftcol -->
 
@@ -104,7 +104,11 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro a
 <b><font color="#FF0000">2. Einführungskurs</b></font> im technikum29 (Kelkheim): <br>
 <b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br>
 Anmeldung unter <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a><br>
+</p>
+<h3>Anmeldung und Vormerkung</h3>  
 
+<p>
+per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </p>
 
 </div><!-- /rightcol -->

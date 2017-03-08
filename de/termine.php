@@ -49,12 +49,6 @@
 		<th>Teilnehmer    
 		
 		<tr>
-		<td>Mittwoch<br><b>8. März</b><br>15:00 Uhr
-		<td>Computer-History 
-		<td>Führung
-		<td>Vivo Wiesbaden 
-		
-		<tr>
 		<td>Freitag<br><b>17. März</b><br>10:00 Uhr
 		<td>Computer-History 
 		<td>Führung

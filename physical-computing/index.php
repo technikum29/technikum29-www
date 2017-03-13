@@ -102,18 +102,21 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 <br><br>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 7.3.2017, Analyse eingefügt!)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
-	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Vorläufige Version</small><br>
+	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Vorläufige Version 1.2</small><br>
 	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> 
 	<br><br>
-	Die Analyse des im Wesentlichen von Dominik und Victor geschriebenen Programms ist bigefügt. <b>Nochmal</b>: Wer wirklich etwas Programmieren lernen möchte, sollte diese durcharbeiten!!<br>
-	Wir müssen verhindern, dass die Gruppen zu sehr auseinanderlaufen. Die Profis sollten sich in der nächsten Stunde zu den Gruppen gesellen, die
-	langsamer "arbeiten" um sie auf den gleichen Stand zu bringen (Anwendung des LED & KEY Moduls). Erst dann können wir mit dem Bau des Roboter-Fahrzeugs beginnen.<br>
+	Im Moment bin ich etwas ratlos, wie es weiter gehen soll. Einige Schüler bringen einfach nicht die notwendige Konzentration auf, um etwas schwierigere Sketches zu verstehen.
+	Die Gruppe wird wohl noch etwas schrumpfen und wir müssen damit leben, dass der Niveau-Unterschied sehr groß bleibt.<br>
+	Dann soll halt für die Restlaufzeit gelten: Die mit "für Profis" gekennzeichneten Aufgabenstellungen müssen nicht unbedingt verstanden werden. Wir werden sie auch nicht besprechen, sondern nur die Lösungen hier einstellen.
+	Toll wäre es natürlich, wenn ein Ehrgeiz entsteht, es doch zu kapieren......Bei manchen habe ich aber das Gefühl "dabei sein" reicht ihnen völlig aus. Naja.<br>
+	Die Analyse "Keyboard mit Buttons aus LED & KEY" wird demnächst hier eingestellt.<br>
+	
 	<br>
 	
 	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>

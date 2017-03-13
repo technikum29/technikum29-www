@@ -18,7 +18,7 @@
 			<p class="small">
 			Zitat aus BULL-Informationen Nr.24 von 1962: ".....eignet sich die Maschine, dank ihrer technischen Vorzüge und ihres verhältnismäßig niedrigen monatlichen Mietpreises von 8000 DM, besonders auch für mittlere Unternehmen von etwa 2000 Beschäftigten oder 10.000 bis 15.000 Buchungen pro Tag".</p>
 			
-			Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3) und der erste von Bull selbst entwickelte Computer der 2. Generation.  Die Technik ist etwa auf dem Stand von 1960-62!<br>
+			Dies war der unmittelbare Nachfolger der Tabelliermaschine (mit oder ohne Gamma 3) und der erste von Bull selbst entwickelte Computer der 2. Generation.  Die Technik ist etwa auf dem Stand von 1960/61!<br>
 			Im Gegensatz zu den Großanlagen benötigte der G10 nur einen ca. 20m² großen Raum, der nicht klimatisiert werden musste. Die Leistungsaufnahme beträgt maximal 2,5 kW.
 		    <br/>Die Grundausrüstung besteht aus der Zentraleinheit mit Steuerpult, der Lochkartenlese-/Stanzeinheit und dem separaten Trommeldrucker. Der Arbeitsspeicher ist ein Kernspeicher der wahlweise 1 kB bis maximal 4 kB Kapazität hatte. Für die Programmierung stehen 59 unterschiedliche Grundoperationen zur Verfügung.
 		    <br/>Die Zykluszeit des Kernspeichers beträgt 7 Mikrosekunden. Der Rechner kann gleichzeitig 300 Karten pro Minute lesen und stanzen. Entsprechend gigantisch ist das Stanzwerk. 5 komplette Lochkarten pro Sekunde zu stanzen ist eine beachtliche Leistung. Der Drucker schafft immerhin 300 Zeilen pro Minute (Zum Vergleich: Der Drucker unserer UNIVAC 9400 Anlage ist mehr als dreimal so schnell).

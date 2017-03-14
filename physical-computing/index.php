@@ -132,7 +132,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 10.3.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 14.3.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>

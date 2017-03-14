@@ -113,13 +113,13 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<br><br>
 	Im Moment bin ich etwas ratlos, wie es weiter gehen soll. Einige Schüler bringen einfach nicht die notwendige Konzentration auf, um etwas schwierigere Sketches zu verstehen.
 	Die Gruppe wird wohl noch etwas schrumpfen und wir müssen damit leben, dass der Niveau-Unterschied sehr groß bleibt.<br>
-	Dann soll halt für die Restlaufzeit gelten: Die mit "für Profis" gekennzeichneten Aufgabenstellungen müssen nicht unbedingt verstanden werden. Wir werden sie auch nicht besprechen, sondern nur die Lösungen hier einstellen.
-	Toll wäre es natürlich, wenn ein Ehrgeiz entsteht, es doch zu kapieren......Bei manchen habe ich aber das Gefühl "dabei sein" reicht ihnen völlig aus. Naja.<br>
+	Dann soll halt für die Restlaufzeit gelten: Die mit "für Profis" gekennzeichneten Aufgabenstellungen müssen nicht unbedingt verstanden werden. Wir werden sie auch nicht mehr besprechen, sondern nur die Lösungen hier einstellen.
+	Toll wäre es natürlich, wenn ein Ehrgeiz entsteht, es doch zu kapieren......bei manchen Schülern habe ich aber das Gefühl "dabei sein" reicht ihnen völlig aus. Naja.<br>
 	Die Analyse "Keyboard mit Buttons aus LED & KEY" wird demnächst hier eingestellt.<br>
 	
 	<br>
 	
-	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Zum "Nachlernen" lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>
+	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Für die spätere Anwendung lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>
 	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>
 	<a href="/physical-computing/TM1638-1_dominik">  TM1638-1_dominik</a>, komfortables manuelles Einlesen von Daten (Dominik + Victor)<br>
 	<a href="/physical-computing/TM1638-zaehler-text">  TM1638-zaehler-text</a>, Zahlen und anschließend Text anzeigen<br>
@@ -136,7 +136,8 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-
+	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br><br>
+	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
 	Die Bedeutung von PWM sollte spätestens nach der Beobachtung des Oszilloskops klar sein. Versuche z.B. zu erklären, was es bedeutet, wenn ein "analogWrite" Ausgang den Wert 110 hat. Mache dir noch mal klar, was eine 10-Bit bzw. 8-Bit Auflösung aussagt.<br>
 	In der nächsten Stunde geht es um Arrays und deren Anwendung.

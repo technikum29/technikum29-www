@@ -94,12 +94,21 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 </div><!-- /cols -->
 
 <hr>
+<div class="cols clear-after">
 
+<div class="leftcol">
 
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
 	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><small> &nbsp; Update Version 1.2</small><br>
-	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a>
+	
+	</div>
+<div class="rightcol">	
+	
+	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br>
+	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a>
 	 <br><br>
+	 </div>
+	 </div>
 	
 	<?php $zaun_aes->printAnchor(); ?>
 	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.3.2017)</small><br><br>
@@ -132,15 +141,14 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 14.3.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.3.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
 	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br><br>
 	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
-	Die Bedeutung von PWM sollte spätestens nach der Beobachtung des Oszilloskops klar sein. Versuche z.B. zu erklären, was es bedeutet, wenn ein "analogWrite" Ausgang den Wert 110 hat. Mache dir noch mal klar, was eine 10-Bit bzw. 8-Bit Auflösung aussagt.<br>
-	In der nächsten Stunde geht es um Arrays und deren Anwendung.
+	
 	
 	<?php $zaun_eds->end(); ?>
 	

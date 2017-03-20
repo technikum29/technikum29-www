@@ -49,13 +49,6 @@
 		<th>Teilnehmer    
 		
 		<tr>
-		<td>Freitag<br><b>24. März</b><br>19:00 Uhr
-		<td>Das Internet der Dinge,<br>Industrie 4.0<br>(Siehe unten)
-		<td>Event-Vortrag *)
-		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus<br>
-			Kursnummer: G0100112</a>
-		
-		<tr>
 		<td>Sonntag<br><b>23. April</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
@@ -64,12 +57,6 @@
 
 		</table>
 		</div> <br>
-		
-	<div class="termin">
-		<h4>*) Das Internet der Dinge, Industrie 4.0, Blick in die Zukunft</h4>
-		<p> Was haben Captain Kirk, Picard, Janeway und weitere Offiziere der Sternenflotte aus unserer Kindheit mit uns heute zu tun? Sie benutzten einen persönlichen Assistenten, der sie mit der Brücke oder dem Computer verband. Und heute nennen wir es Smartphone. Und das Ganze funktioniert, weil die Geräte über das Internet verbunden sind. In Deutschland spricht man von der „<b>Industrie 4.0</b>“ und im Rest der Welt vom „Internet der Dinge“. Im Computer-Museum in Kelkheim, umgeben von den Dinosauriern in der Computerevolution, erwartet Sie ein verständlicher Einblick in die Welt vom „Internet der Dinge“, dessen Akteure sowie Trends (siehe "Termine", 24.3.).<br>
-		
-	</div>
 	
 	
 	<h3>Weitere Angebote</h3>

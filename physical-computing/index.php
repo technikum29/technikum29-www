@@ -111,24 +111,23 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 </div>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 19.3.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
 	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Update Version 1.3</small><br>
-	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> 
+	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> <br>
+	<a href="/physical-computing/rotary-encoder.pdf"> Aufbau eines Rotary-Encoders</a> 
 	<br><br>
-	Im Moment bin ich etwas ratlos, wie es weiter gehen soll. Einige Schüler bringen einfach nicht die notwendige Konzentration auf, um etwas schwierigere Sketches zu verstehen.
-	Die Gruppe wird wohl noch etwas schrumpfen und wir müssen damit leben, dass der Niveau-Unterschied sehr groß bleibt.<br>
-	Dann soll halt für die Restlaufzeit gelten: Die mit "für Profis" gekennzeichneten Aufgabenstellungen müssen nicht unbedingt verstanden werden. Wir werden sie auch nicht mehr besprechen, sondern nur die Lösungen hier einstellen.
-	Toll wäre es natürlich, wenn ein Ehrgeiz entsteht, es doch zu kapieren......bei manchen Schülern habe ich aber das Gefühl "dabei sein" reicht ihnen völlig aus. Naja.<br>
-	Die Analyse "Keyboard mit Buttons aus LED & KEY" wird demnächst hier eingestellt.<br>
+	Das Ende der AG naht: Im Prinzip arbeite ich nur noch mit ca. zwei aktiven Schülern zusammen. Die Restlichen sind (gerne??) dabei und warten
+	bis die Programme fertig sind um dann zu "spielen". So war der Workshop aber nicht gedacht.<br>
+	Habe dennoch den Aufbau und Sketch des Rotary-Encoders beigefügt.<br>
 	
 	<br>
 	
-	Hier noch die Sketches zur Anwendung des Moduls: LED & KEY. Für die spätere Anwendung lohnt es sich schon, mal in die Sketches reinzuschauen!<br><br>
+	<a href="/physical-computing/encoder-mit-interrupt"> Rotary-Encoder-Sketch mit Interrupt, Aufg. 2 Blatt 8<br>
 	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>
 	<a href="/physical-computing/TM1638-1_dominik">  TM1638-1_dominik</a>, komfortables manuelles Einlesen von Daten (Dominik + Victor)<br>
 	<a href="/physical-computing/TM1638-zaehler-text">  TM1638-zaehler-text</a>, Zahlen und anschließend Text anzeigen<br>

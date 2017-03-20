@@ -111,13 +111,13 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 </div>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.3.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 19.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a> &nbsp; <small>Update Version 1.5</small><br>
 	<a href="/physical-computing/ph7.pdf"> Physical-Computing Blatt 7 (PDF)</a> &nbsp; <small>Update Version 1.1</small><br>
-	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Vorläufige Version 1.2</small><br>
+	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Update Version 1.3</small><br>
 	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> 
 	<br><br>
 	Im Moment bin ich etwas ratlos, wie es weiter gehen soll. Einige Schüler bringen einfach nicht die notwendige Konzentration auf, um etwas schwierigere Sketches zu verstehen.

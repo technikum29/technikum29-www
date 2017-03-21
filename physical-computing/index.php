@@ -126,9 +126,6 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<br>
 	
 	<a href="/physical-computing/encoder-mit-interrupt"> Rotary-Encoder-Sketch mit Interrupt, Aufg. 2 Blatt 8<br>
-	<a href="/physical-computing/TM1638-1"> TM1638-1</a>, manuelles Einlesen von Daten<br>
-	<a href="/physical-computing/TM1638-1_dominik">  TM1638-1_dominik</a>, komfortables manuelles Einlesen von Daten (Dominik + Victor)<br>
-	<a href="/physical-computing/TM1638-zaehler-text">  TM1638-zaehler-text</a>, Zahlen und anschließend Text anzeigen<br>
 	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext </a>, Lauftext anzeigen<br>
 	<a href="/physical-computing/Text-und-Zahl"> Text-und-Zahl</a>, Text und Zahl (Variable) gleichzeitig anzeigen<br><br>
 	<!--  <font color="silver"><hr> -->

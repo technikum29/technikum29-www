@@ -9,7 +9,7 @@
 #define encoderPinA  2       // "#define" ist eine einfache Methode, um Pins festzulegen
 #define encoderPinB  3
 
-volatile int encoderPos = 0;   // "volatile" (flüchtig), siehe Aufgabenstellung
+volatile int encoderPos = 0;   // "volatile" (fluechtig), siehe Aufgabenstellung
 
 void setup() { 
   

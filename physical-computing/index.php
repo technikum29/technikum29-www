@@ -111,20 +111,17 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 </div>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.3.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 21.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
-	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Update Version 1.3</small><br>
-	<a href="/physical-computing/Analysen-3.pdf"> Analysen-3: Manuelles Einlesen in TM1638, LED & KEY</a> <br>
-	<a href="/physical-computing/rotary-encoder.pdf"> Aufbau eines Rotary-Encoders</a> 
-	<br><br>
 	Das Ende der AG naht: Im Prinzip arbeite ich nur noch mit ca. zwei aktiven Schülern zusammen. Die Restlichen sind (gerne??) dabei und warten
 	bis die Programme fertig sind um dann zu "spielen". So war der Workshop aber nicht gedacht.<br>
-	Habe dennoch den Aufbau und Sketch des Rotary-Encoders beigefügt.<br>
+	Habe dennoch den Aufbau und Sketch des Rotary-Encoders beigefügt.<br><br>
 	
+	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Update Version 1.3</small><br>
+	<a href="/physical-computing/rotary-encoder.pdf"> Aufbau eines Rotary-Encoders</a> 
 	<br>
-	
 	<a href="/physical-computing/encoder-mit-interrupt"> Rotary-Encoder-Sketch mit Interrupt, Aufg. 2 Blatt 8<br>
 	<a href="/physical-computing/TM1638_Lauftext"> TM1638_Lauftext </a>, Lauftext anzeigen<br>
 	<a href="/physical-computing/Text-und-Zahl"> Text-und-Zahl</a>, Text und Zahl (Variable) gleichzeitig anzeigen<br><br>

@@ -1,49 +1,38 @@
 /* 
- * Rotary-Encoder Sketch mit Interrupt Nr. 2
- * beachte: Bei schnellen Vorgaengen verlangsamt der Serielle-Monitor den Sketch!
- * Wenn der Button (Switch) zum Rueckstellen ins Programm eingebaut wird, muss
- * man den INPUT mit PULLUP versehen! 
- * 
- * read a rotary encoder with interrupts
-   Encoder hooked up with common to GROUND,
-   encoder0PinA to pin 2, encoder0PinB to pin 3 
-   it doesn't matter which encoder pin you use for A or B  
-
-   uses Arduino pull-ups on A & B channel outputs
-   turning on the pull-ups saves having to hook up resistors 
-   to the A & B channel outputs 
+ * Rotary-Encoder Sketch mit Interrupt 
+ * beachte: Bei schnellem Drehen verlangsamt der Serielle-Monitor den Sketch!
+ * Wenn die 7-Segment-Anzeige eingebaut ist, solltest du den SM deaktivieren.
+ * Wenn du den Button (Switch) zum Rueckstellen ins Programm eingebaust, musst
+ * du den INPUT mit "PULLUP" versehen! 
 */ 
 
-#define encoder0PinA  2
-#define encoder0PinB  3
+#define encoderPinA  2       // "#define" ist eine einfache Methode, um Pins festzulegen
+#define encoderPinB  3
 
-volatile int encoder0Pos = 0;
+volatile int encoderPos = 0;   // "volatile" (flüchtig), siehe Aufgabenstellung
 
 void setup() { 
   
-  pinMode(encoder0PinA, INPUT); 
-  pinMode(encoder0PinB, INPUT); 
+  pinMode(encoderPinA, INPUT); 
+  pinMode(encoderPinB, INPUT); 
   
-  attachInterrupt(0, doEncoder, CHANGE);  // encoder pin on interrupt 0 - pin 2
+  attachInterrupt(0, doEncoder, CHANGE);      // Interrupt Nr. 0 aktivieren, beobachtet durch Pin 2
   Serial.begin (9600);
-  Serial.println("Start des Programms");               
+  Serial.println("Start des Programms");      // Beliebiger Text, wird einmal im SM angezeigt             
 } 
 
 void loop(){    
+}
 
-}
-}
 void doEncoder() {
-  /* If pinA and pinB are both high or both low, it is spinning
-   * forward. If they're different, it's going backward.
-   */
-  if (digitalRead(encoder0PinA) == digitalRead(encoder0PinB)) {
-    encoder0Pos++;
+  
+  if (digitalRead(encoderPinA) == digitalRead(encoderPinB)) {
+    encoderPos++;
   } else {
-    encoder0Pos--;
+    encoderPos--;                 // Erklaerungen: Siehe Extra-Blatt
   }
-   Serial.print("    ");
-  Serial.println (encoder0Pos);
+  Serial.print("    ");
+  Serial.println (encoderPos);
 }
 
  

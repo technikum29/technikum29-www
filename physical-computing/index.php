@@ -111,12 +111,12 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	 </div>
 	
 	<?php $zaun_aes->printAnchor(); ?>
-	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 21.3.2017)</small><br><br>
+	Speziell für Schüler der AES: &nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 22.3.2017)</small><br><br>
 
 	<?php $zaun_aes->start(); ?>
 	
 	Das Ende der AG naht: Im Prinzip arbeite ich nur noch mit ca. zwei aktiven Schülern zusammen. Die Restlichen sind (gerne??) dabei und warten
-	bis die Programme fertig sind um dann zu "spielen". So war der Workshop aber nicht gedacht.<br>
+	bis die Programme fertig sind um dann zu "spielen". So war der Workshop aber nicht gedacht.	Nichts gegen "spielen" aber die Programme hierzu sollten selbst gemacht sein. Sonst kannst du dir auch einen flotten Land-Rover bei Lidl oder Aldi kaufen  :-) <br>
 	Habe dennoch den Aufbau und Sketch des Rotary-Encoders beigefügt.<br><br>
 	
 	<a href="/physical-computing/ph8.pdf"> Physical-Computing Blatt 8 (PDF)</a> &nbsp; <small>Update Version 1.3</small><br>

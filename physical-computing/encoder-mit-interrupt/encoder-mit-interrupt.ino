@@ -2,14 +2,14 @@
  * Rotary-Encoder Sketch mit Interrupt 
  * beachte: Bei schnellem Drehen verlangsamt der Serielle-Monitor den Sketch!
  * Wenn die 7-Segment-Anzeige eingebaut ist, solltest du den SM deaktivieren.
- * Wenn du den Button (Switch) zum Rueckstellen ins Programm eingebaust, musst
- * du den INPUT mit "PULLUP" versehen! 
+ * Wenn du den Button (Switch) zum Rueckstellen ins Programm einbindest, musst
+ * du INPUT mit "PULLUP" versehen! 
 */ 
 
 #define encoderPinA  2       // "#define" ist eine einfache Methode, um Pins festzulegen
 #define encoderPinB  3
 
-volatile int encoderPos = 0;   // "volatile" (fluechtig), siehe Aufgabenstellung
+volatile int encoderPos = 0;   // "volatile" (fluechtig), siehe Aufgabenstellung Blatt 8
 
 void setup() { 
   
@@ -29,7 +29,7 @@ void doEncoder() {
   if (digitalRead(encoderPinA) == digitalRead(encoderPinB)) {
     encoderPos++;
   } else {
-    encoderPos--;                 // Erklaerungen: Siehe Extra-Blatt
+    encoderPos--;                 // Erklaerungen: Siehe Extra-Blatt "Rotary-Encoder"
   }
   Serial.print("    ");
   Serial.println (encoderPos);

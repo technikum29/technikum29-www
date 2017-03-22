@@ -46,7 +46,13 @@
 		<th>Datum
 		<th>Titel
 		<th>Typ
-		<th>Teilnehmer    
+		<th>Teilnehmer   
+
+		<tr>
+		<td>Montag<b> 4. April<br></b> bis Freitag <b>14. April</b>
+		<td>Robotik-Workshop
+		<td>Roboter programmieren
+		<td>Kids von 11-13 Jahren <br>
 		
 		<tr>
 		<td>Sonntag<br><b>23. April</b><br>14:00 Uhr

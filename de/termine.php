@@ -49,7 +49,7 @@
 		<th>Teilnehmer   
 
 		<tr>
-		<td>Montag<b> 4. April<br></b> bis Freitag <b>14. April</b>
+		<td>Montag<b> 4. April</b> bis<br> Freitag <b>14. April</b>
 		<td>Robotik-Workshop
 		<td>Roboter programmieren
 		<td>Kids von 11-13 Jahren <br>

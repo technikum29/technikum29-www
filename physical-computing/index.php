@@ -132,11 +132,13 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	<?php $zaun_aes->end(); ?>
 
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.3.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.3.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br><br>
+	Hier die Lösung von Aufg. 1 aus Blatt 4. Es macht sehr viel Sinn, sich das nochmal genau anzuschauen.<br><br>
+	<a href="/physical-computing/zweidim-array"> Ziffernanzeige mit zweidimensionalem Array, Aufg. 1 Blatt 4 </a><br><br>
+	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br>
 	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
 	

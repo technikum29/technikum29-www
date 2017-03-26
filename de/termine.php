@@ -36,7 +36,7 @@
 	
 
 	Die folgende Tabelle listet Gruppenanmeldungen auf.
-	Falls dort noch Plätze frei sind, ist dies vermerkt und Sie können sich hierzu anmelden. </p>
+	Falls dort noch Plätze frei sind können Sie sich hierzu anmelden. </p>
 	<br>
 	</div><!-- Ende nur-auf-deutscher-seite -->
 
@@ -49,13 +49,13 @@
 		<th>Teilnehmer   
 
 		<tr>
-		<td>Mo, <b>4. Apr.</b>  bis<br> Fr, <b>14. Apr.</b>
-		<td>Robotik-Workshop
+		<td>Mo, <b>4. April</b>  bis<br> Fr, <b>14. April</b>
+		<td>Zwei Robotik-Workshops
 		<td>Roboter programmieren
 		<td>Kids von 11-13 Jahren <br>
 		
 		<tr>
-		<td>So, <b>23. Apr.</b><br>14:00 Uhr
+		<td>So, <b>23. April</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
 		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
@@ -63,7 +63,7 @@
 		</table>
 		</div> <br>
 		
-		<b><font color="#FF0000">Tage der Industriekultur Rhein-Main 2017: Wir sind dabei: (Anmeldung erforderlich, freier Eintritt)</font></b><br><br>
+		<b><font color="#FF0000"> Tage der Industriekultur Rhein-Main 2017. Wir sind dabei (Anmeldung erforderlich, freier Eintritt):</font></b><br><br>
 		
 		<div class="termine">
 	<table class="termine">
@@ -74,32 +74,40 @@
 		<th>Teilnehmer   
 		
 		<tr>
-		<td>Sa, <b>5. Aug.</b><br>19:00 Uhr
+		<td>Sa, <b>5. August</b><br>19:00 Uhr
 		<td>Mathematik, Sprache der Natur *)
 		<td>Event-Vortrag
 		<td>Mathematisch-technisch-philosopisch interessierte Menschen <br>
 
 		<tr>
-		<td>Sa, <b>12. Aug.</b><br>14:00 Uhr
+		<td>Sa, <b>12. August</b><br>14:00 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
 		<td>Interaktive Führung
-		<td>Neugierige Menschen ab 11 J. <br>
+		<td>Neugierige Menschen ab 11 Jahre <br>
 		
 		<tr>
-		<td>So, <b>13. Aug.</b><br>14:00 Uhr
+		<td>So, <b>13. August</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation ***)
 		<td>Interaktive Führung
-		<td>Neugierige Menschen ab ca. 11 Jahren
+		<td>Neugierige Menschen ab ca. 12 Jahre
 
 		</table>
 		</div> <br>
-		Tage der Industiekultur, weitere Informationen:<br><br>
+		Tage der Industiekultur, ergänzende Informationen:<br><br>
 		*) Mathematik - für die Einen eines der wohl unbeliebtesten Schulfächer, für andere der Schlüssel zum Verständnis der Welt.<br> 
-		Der Vortrag beleuchtet sowohl aus mathematischer als auch aus philosophischer Sicht, was Mathematik leisten kann, und wo sie an ihre Grenzen stösst. Ein unterhaltsamer, spannender Event-Vortrag von Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Dr. Patrick Hedfeld (Philosoph). Ein "muss" für Alle, welche die Referenten bereits
-		im technikum29 erlebt haben!<br> Maximale Teilnehmerzahl: 50
+		Das Thema beleuchtet sowohl aus mathematischer als auch aus philosophischer Sicht, was Mathematik leisten kann, und wo sie an ihre Grenzen stößt. Ein unterhaltsamer, spannender Event-Vortrag von Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Dr. Patrick Hedfeld (Philosoph). Alle, welche die Referenten bereits
+		mehrfach im technikum29 erlebt haben wissen es: Das darf man nicht versäumen!<br> 
+		Maximale Teilnehmerzahl: 50
 		<br><br>
-		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahren hochinteressant.<br> Maximale Teilnehmerzahl: 16
-	<br><br>
+		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
+		Maximale Teilnehmerzahl: 16
+		<br><br>
+		***) Musik- und Bildwiedergabe begannen mit sehr einfachen, teils verblüffenden technischen Geräten. Wie sahen sie aus, die ersten Rundfunkempfängen von 1923, die ersten Fernsehgeräte von 1952, Video-Projektionsanlagen ab 1956, die ersten Faxgeräte, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr.<br>
+		Eine spannende Zeitreise durch die Welt der Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>
+		Auch für Kids ab ca. 12 Jahre bestens geeignet.<br>
+		Maximale Teilnehmerzahl: 14
+		<br>
+	
 	
 	<h3>Weitere Angebote</h3>
 	

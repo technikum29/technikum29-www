@@ -76,6 +76,10 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <div class="small">Endlich: Der Roboter tut was man ihm beibringt....</small></div>
 </div>
 
+<h3>Anmeldung und Vormerkung</h3>  
+<p>
+per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</p>
 </div><!--/leftcol -->
 
 <div class="rightcol">
@@ -97,19 +101,21 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <p>Pro Kurs können 10 Personen teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
 
-<h3><font color="#FF0000">Termine in den Osterferien</font></h3>
+
+<h3><font color="#FF0000">Termine in den Ferien</font></h3><br>
+Osterferien:<br>
 <p><b>1. Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
-<b>Mo. 3.4.20171 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr.</font>&nbsp; <font color="#FF0000"><b>Dieser Kurs ist ausgebucht!</b></font><br><br>
+<b>Mo. 3.4.2017 bis Fr. 7.4.2017</b> jeweils 14:00 bis 16:00 Uhr.</font>&nbsp; <font color="#FF0000"><b>Dieser Kurs ist ausgebucht!</b></font><br><br>
 
 <b><font color="#FF0000">2. Einführungskurs</b></font> im technikum29 (Kelkheim): <br>
-<b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br>
+<b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br><br>
+Sommerferien:<br>
+<p><b>Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
+<b>Mo. 10.7.2017 bis Fr. 14.7.2017</b> jeweils 10:00 bis 12:00 Uhr.<br>
+Anmeldung hierzu an der VHS-MTK.<br>
 
 </p>
-<h3>Anmeldung und Vormerkung</h3>  
 
-<p>
-per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

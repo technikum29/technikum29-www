@@ -43,19 +43,19 @@
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">
-		<th style="width:10em">Datum
-		<th>Titel
-		<th>Typ
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:9em;">Typ
 		<th>Teilnehmer   
 
 		<tr>
-		<td>Montag <b>4. April</b><br> bis<br> Freitag <b>14. April</b>
+		<td>Mo, <b>4. Apr.</b>  bis<br> Fr, <b>14. Apr.</b>
 		<td>Robotik-Workshop
 		<td>Roboter programmieren
 		<td>Kids von 11-13 Jahren <br>
 		
 		<tr>
-		<td>Sonntag<br><b>23. April</b><br>14:00 Uhr
+		<td>So, <b>23. Apr.</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
 		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
@@ -68,25 +68,25 @@
 		<div class="termine">
 	<table class="termine">
 	<tr class="title">
-		<th>Datum
-		<th>Titel
-		<th>Typ
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:9em;">Typ
 		<th>Teilnehmer   
 		
 		<tr>
-		<td>Samstag<br><b>5. Aug.</b><br>19:00 Uhr
+		<td>Sa, <b>5. Aug.</b><br>19:00 Uhr
 		<td>Mathematik, Sprache der Natur *)
 		<td>Event-Vortrag
 		<td>Mathematisch-technisch-philosopisch interessierte Menschen <br>
 
 		<tr>
-		<td>Samstag<br><b>12. Aug.</b><br>14:00 Uhr
+		<td>Sa, <b>12. Aug.</b><br>14:00 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
 		<td>Interaktive Führung
 		<td>Neugierige Menschen ab 11 J. <br>
 		
 		<tr>
-		<td>Sonntag<br><b>13. Aug.</b><br>14:00 Uhr
+		<td>So, <b>13. Aug.</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation ***)
 		<td>Interaktive Führung
 		<td>Neugierige Menschen ab ca. 11 Jahren

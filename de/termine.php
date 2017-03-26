@@ -43,13 +43,13 @@
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">
-		<th>Datum
+		<th style="width:10em">Datum
 		<th>Titel
 		<th>Typ
 		<th>Teilnehmer   
 
 		<tr>
-		<td>Montag<b> 4. April</b><br> bis<br> Freitag <b>14. April</b>
+		<td>Montag <b>4. April</b><br> bis<br> Freitag <b>14. April</b>
 		<td>Robotik-Workshop
 		<td>Roboter programmieren
 		<td>Kids von 11-13 Jahren <br>

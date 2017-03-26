@@ -49,7 +49,7 @@
 		<th>Teilnehmer   
 
 		<tr>
-		<td>Montag<b> 4. April</b> bis<br> Freitag <b>14. April</b>
+		<td>Montag<b> 4. April</b><br> bis<br> Freitag <b>14. April</b>
 		<td>Robotik-Workshop
 		<td>Roboter programmieren
 		<td>Kids von 11-13 Jahren <br>
@@ -60,10 +60,46 @@
 		<td>Führung
 		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
 
+		</table>
+		</div> <br>
+		
+		<b><font color="#FF0000">Tage der Industriekultur Rhein-Main 2017: Wir sind dabei: (Anmeldung erforderlich, freier Eintritt)</font></b><br><br>
+		
+		<div class="termine">
+	<table class="termine">
+	<tr class="title">
+		<th>Datum
+		<th>Titel
+		<th>Typ
+		<th>Teilnehmer   
+		
+		<tr>
+		<td>Samstag<br><b>5. Aug.</b><br>19:00 Uhr
+		<td>Mathematik, Sprache der Natur *)
+		<td>Event-Vortrag
+		<td>Mathematisch-technisch-philosopisch interessierte Menschen <br>
+
+		<tr>
+		<td>Samstag<br><b>12. Aug.</b><br>14:00 Uhr
+		<td>Computer der Stunde Null, wie alles begann **)
+		<td>Interaktive Führung
+		<td>Neugierige Menschen ab 11 J. <br>
+		
+		<tr>
+		<td>Sonntag<br><b>13. Aug.</b><br>14:00 Uhr
+		<td>Klänge, Bilder,<br> Kommunikation ***)
+		<td>Interaktive Führung
+		<td>Neugierige Menschen ab ca. 11 Jahren
 
 		</table>
 		</div> <br>
-	
+		Tage der Industiekultur, weitere Informationen:<br><br>
+		*) Mathematik - für die Einen eines der wohl unbeliebtesten Schulfächer, für andere der Schlüssel zum Verständnis der Welt.<br> 
+		Der Vortrag beleuchtet sowohl aus mathematischer als auch aus philosophischer Sicht, was Mathematik leisten kann, und wo sie an ihre Grenzen stösst. Ein unterhaltsamer, spannender Event-Vortrag von Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Dr. Patrick Hedfeld (Philosoph). Ein "muss" für Alle, welche die Referenten bereits
+		im technikum29 erlebt haben!<br> Maximale Teilnehmerzahl: 50
+		<br><br>
+		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahren hochinteressant.<br> Maximale Teilnehmerzahl: 16
+	<br><br>
 	
 	<h3>Weitere Angebote</h3>
 	

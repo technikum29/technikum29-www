@@ -66,11 +66,11 @@
 
 <p>PDP-Rechner wurden vorwiegend von Wissenschaftlern eingesetzt, z.B. bei fast allen Max-Planck-Forschungsinstituten. Mit Hilfe selbstgebauter Interface-Karten bestand die Möglichkeit, bereits vorhandene Geräte und experimentelle Anordnungen einzubinden. Selbst dazu lieferte DEC vorgefertigte Boards, die einen Selbstbau von Anpassungen sehr erleichterten. Die Abbildung oben zeigt links ein typisches Modul der 2. Generation (1965) ohne ICs aus der Classic PDP-8. In der Mitte befindet sich ein kleines Modul der 3. Generation (ab 1967) mit ICs, welches in den Geräten PDP-8/I, PDP-8/L und PDP-12 verwendet wurde. Rechts schließlich ist ein leeres Modul; es kann vom Anwender für spezifische Erweiterungen der Peripherie bestückt werden. </p>
 
-	<p>Eines der musealen Highlights ist die PDP-8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP-5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber ASR33 als Ein- Ausgabegerät. Diese Classic-8 ist der erste in Serie gebauter "Minicomputer" der Welt (Bj. 1965, Serien Nr. 100). <br/>
+	<p>Eines der musealen Highlights ist die PDP-8 Komplettanlage, bestehend aus Prozessor, Bandlaufwerk TU 580 (gehörte ursprünglich zur PDP-5, Bj. 1963), Lochstreifenleser/stanzer PC 01, Festplatte DF 32 mit unbeweglichen Köpfen und dem Teletype Fernschreiber ASR33 als Ein- Ausgabegerät. Dieser Classic-8 ist der erste in Serie gebauter "Minicomputer" der Welt (Bj. 1965, Serien Nr. 100). <br/>
 	</p> 
 
 
-		<p>Aufgebaut ist dieser Computer durch eine Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen aufgebaut. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a href="http://de.wikipedia.org/wiki/Wickelverbindung">Wikipedia</a> nachzulesen ist. <br/>
+		<p>Aufgebaut ist der Computer mit einer Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen realisiert. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a href="http://de.wikipedia.org/wiki/Wickelverbindung">Wikipedia</a> nachzulesen ist. <br/>
 		Diese Wire-Wrap-Verbindungen wurden bis in die 80er Jahre bei allen größeren Rechnern angewendet. Es ist eine einfache Möglichkeit, räumlich beliebig liegende Modulanschlüsse miteinander zu verbinden. Anfangs erfolgte das "Wrappen" noch per Hand und wurde später von Automaten ausgeführt. Auch heute gibt es bei Versuchsschaltungen noch solche Verbindungen.<br>
 		Rechner der 2. Computer-Generation haben einen entscheidenden Vorteil: Fehler lassen sich einfacher auffinden, da jeder einzelne Transistor frei zugänglich ist.
 		 </p>
@@ -106,7 +106,7 @@
  	<div class="box clear-after nomargin-bottom">
 
 		<p>Viele Anwender von DEC-Rechnern benötigten die hohe Kapazität an Speicher und einbaubaren Optionen nicht. Daher entwickelte DEC einen abgespeckten Rechner der nur wenige vorverdrahtete Einbauoptionen ermöglichte. Der Kernspeicher hatte nur 4kB Speicherkapazität, durch ein zusätzliches externes Kabinett war dieser auf 8kB erweiterbar. <br>
-		Unsere PDP-8/L war "hoch" ausgebaut: HSR (High-Speed-Reader) Lochstreifenleser und ein TC01 DEC-Tape-Control mit zwei TU55 Laufwerken sowie Zusatzspeicher. Damit konnte man schon eine Menge anfangen.<br>
+		Unser PDP-8/L war "hoch" ausgebaut: HSR (High-Speed-Reader) Lochstreifenleser und ein TC01 DEC-Tape-Control mit zwei TU55 Laufwerken sowie Zusatzspeicher. Damit konnte man schon eine Menge anfangen.<br>
 		DEC entwickelte eine eigene Dialog-Sprache [<b>FOCAL</b>: <b>F</b>ormulating <b>O</b>nline <b>C</b>alculations in <b>A</b>lgebraic <b>L</b>anguage], die es dem Benutzer ermöglichte, in unmittelbarer Konversation mit dem Rechner zu stehen. Es wird ein direkter Compiler benutzt, jeder Befehl wird sofort in die Maschinensprache übersetzt. Diese Sprache ist ähnlich wie BASIC, jedoch etwas weniger komplex. FOCAL lief problemlos mit 4kB Kernspeicher und machte den Computer zu einem kleinen relativ leistungsfähigen Rechner der unteren Preisklasse (<b>L</b>ow-Cost, daher 8/<b>L</b>).</p>
 	</div>
    
@@ -118,8 +118,8 @@
  <div class="box center" style="min-width: 840px;">
 	  <img src="/shared/photos/rechnertechnik/dec/pdp-12-konsole.jpg" width="400" height="256" alt="LAB-12 Bedienungspannel" />
  </div>
-		<p>Im Jahre 1969 brachte DEC den PDP-12 Rechner auf den Markt. Er war der letzte Rechner, der auch im LINC-Modus arbeiten kann und ist von LINC-8 auf PDP-8 umschaltbar. Weltweit wurden 755 Anlagen verkauft. Es handelt sich hier um einen "Laborrechner" mit standardmäßig eingebauten AD- und DA-Wandlern. Solche Rechner wurden während ihrer aktiven Phase meistens dem jeweiligen Stand der Technik angepasst. So wurde in diesem Gerät der Speicher schrittweise von zunächst 8kB bis auf zuletzt 32 kB ausgebaut.<br>
-Neben den Bandlaufwerken wurde dann ein Floppy-Laufwerk mit 8-Zoll Disketten hinzugefügt. Schließlich wurde dieses wieder entfernt und dafür zwei Wechselplattenlaufwerke installiert. Zu allerletzt wurde das Gerät sogar mit einem 10BASE-T Ethernet und selbstgeschriebenem TCP/IP Protokoll an das hausinterne Netz angeschlossen. So hat dieser Rechner vom Lochstreifen über Disketten und Platten die Entwicklung bis zum Ethernet durchlebt.<br>
+		<p>Im Jahre 1969 brachte DEC den PDP-12 Rechner auf den Markt. Er war der letzte Rechner, der auch im LINC-Modus arbeiten kann und ist von LINC-8 auf PDP-8 umschaltbar. Weltweit wurden 755 Anlagen verkauft. Es handelt sich hier um einen "Laborrechner" mit standardmäßig eingebauten AD- und DA-Wandlern. Solche Rechner wurden während ihrer aktiven Phase meistens dem jeweiligen Stand der Technik angepasst. So wurde in diesem Gerät der Speicher schrittweise von zunächst 8 kB bis auf zuletzt 32 kB ausgebaut.<br>
+Neben den Bandlaufwerken wurde dann ein Floppy-Laufwerk mit 8-Zoll Disketten hinzugefügt. Schließlich wurde dieses wieder entfernt und dafür zwei Wechselplattenlaufwerke installiert. Zu allerletzt wurde der Rechner sogar mit einem 10BASE-T Ethernet und selbstgeschriebenem TCP/IP Protokoll an das hausinterne Netz angeschlossen. So hat dieser Rechner vom Lochstreifen über Disketten und Platten die Entwicklung bis zum Ethernet durchlebt.<br>
 Hier können Sie die Konsole im Großformat sehen:
 <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,dunkel.jpg">PDP-12 Konsole (Dunkelaufnahme)</a><br>
 oder als helle Aufnahme: <a  class="popup" href="/shared/photos/rechnertechnik/dec/konsole,hell.jpg">PDP-12 Konsole (Hellaufnahme)</a>
@@ -127,7 +127,7 @@ oder als helle Aufnahme: <a  class="popup" href="/shared/photos/rechnertechnik/d
 
 	<div class="desc-right borderless">
       <img src="/shared/photos/rechnertechnik/dec/pdp-12-innen.jpg" width="297" height="676" alt="DEC LAB-12-Flip-Chips" />
-	  <p class="small">Ein Teil des Innenlebens der PDP-12 mit 462 hier sichtbaren Flip-Chip Modulen.</p>
+	  <p class="small">Ein Teil des Innenlebens des PDP-12 mit 462 hier sichtbaren Flip-Chip Modulen.</p>
 	</div>
 
 	<p> Unser Rechner war durch den Einbau folgender Optionen sehr komfortabel nutzbar (in den runden Klammern steht die Zahl der dazu notwendigen Module):</p>
@@ -194,7 +194,7 @@ oder als helle Aufnahme: <a  class="popup" href="/shared/photos/rechnertechnik/d
 	<div class="cols" style="clear:left;">
 	<div class="leftcol">
 	<p class="small">
-	Wie für die UNIVAC 9400 Anlage haben wir auch für den PDP-12 eine Preisliste aus dem Jahre 1973, eine Zeit in welcher der PDP-12 schon ein Auslaufmodell war. Unser voll ausgebauter Rechner wurde auch als PDP-12 LDP (Laboratory Data Processor), hier speziell als "clinical lab12", zum Preis von 206.700 DM verkauft in welchem schon die meisten der oben aufgeführten Optionen eingebaut waren. Dieser Rechner war jedoch nur mit 4kB Core Memory ausgestattet. Damit kam man nicht weit und war gezwungen, sogleich eine "Memory Extension Control" für 16.600 DM und ein 4kB Memory Module für 25.100 DM zusätzlich zu erwerben. Der unscheinbare Peripheral Expander BA12 kostete 5.400 DM (entsprach einem Mittelklassen-Auto) und der "High-Speed Paper Tape Reader/Punch" sagenhafte 16.200 DM.</small>
+	Wie für den UNIVAC 9400 Anlage haben wir auch für den PDP-12 eine Preisliste aus dem Jahre 1973, eine Zeit in welcher der PDP-12 schon ein Auslaufmodell war. Unser voll ausgebauter Rechner wurde auch als PDP-12 LDP (Laboratory Data Processor), hier speziell als "clinical lab12", zum Preis von 206.700 DM verkauft in welchem schon die meisten der oben aufgeführten Optionen eingebaut waren. Dieser Rechner war jedoch nur mit 4kB Core Memory ausgestattet. Damit kam man nicht weit und war gezwungen, sogleich eine "Memory Extension Control" für 16.600 DM und ein 4kB Memory Module für 25.100 DM zusätzlich zu erwerben. Der unscheinbare Peripheral Expander BA12 kostete 5.400 DM (entsprach einem Mittelklassen-Auto) und der "High-Speed Paper Tape Reader/Punch" sagenhafte 16.200 DM.</small>
 	</div>
 	<div class="rightcol">
 	<p class="small">

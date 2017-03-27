@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>22.3.2017
+	<br>27.3.2017
 </div>
 
 <div class="spacing"></div>
@@ -111,8 +111,7 @@ Osterferien:<br>
 <b>Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017</b> jeweils von 14:00 bis 16:00 Uhr. <br><br>
 Sommerferien:<br>
 <p><b>Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
-<b>Mo. 10.7.2017 bis Fr. 14.7.2017</b> jeweils 10:00 bis 12:00 Uhr.<br>
-Anmeldung hierzu an der VHS-MTK.<br>
+<b>Mo. 10.7.2017 bis Fr. 14.7.2017</b> jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der VHS-MTK.<br>
 
 </p>
 
@@ -123,7 +122,7 @@ Anmeldung hierzu an der VHS-MTK.<br>
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
 Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
-<a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. Diese Schüler besuchen heute unseren Workshop "Physical-Computing & Robotics" (s.u.) um sich auf den nächsten Event vorzubereiten.</p>
+<a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. </p>
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">

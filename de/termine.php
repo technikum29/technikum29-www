@@ -87,7 +87,7 @@
 		
 		<tr>
 		<td>So, <b>13. August</b><br>14:00 Uhr
-		<td>Klänge, Bilder,<br> Kommunikation ***)
+		<td>Die Urahnen des Smartphones ***)
 		<td>Interaktive Führung
 		<td>Neugierige Menschen ab ca. 12 Jahre
 
@@ -102,8 +102,8 @@
 		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
 		Maximale Teilnehmerzahl: 16
 		<br><br>
-		***) Musik- und Bildwiedergabe begannen mit sehr einfachen, teils verblüffenden technischen Geräten. Wie sahen sie aus, die ersten Rundfunkempfänger von 1923, die ersten Fernsehgeräte von 1952, Video-Projektionsanlagen ab 1956, die ersten Faxgeräte, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr.<br>
-		Eine spannende Zeitreise durch die Welt der Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>
+		***) Wie sah sie aus, die lange Zeit vor Smartphones & Co.? Die Musik- und Bildwiedergabe begann mit sehr einfachen, teils verblüffenden technischen Geräten. Wie war das mit den ersten Rundfunkempfängern ab 1923, den ersten Fernsehgeräte von 1952, Video-Projektionsanlagen ab 1956, den ersten Faxgeräte, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr?<br>
+		Eine spannende Zeitreise durch die Welt der frühen technischen Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>
 		Auch für Kids ab ca. 12 Jahre bestens geeignet.<br>
 		Maximale Teilnehmerzahl: 14
 		<br>

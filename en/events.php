@@ -11,6 +11,7 @@
 	$seiten_id = 'termine';
 	$version = '$Id: index.php 387 2013-05-08 09:58:11Z heribert $';
 	$titel = 'Events and guided tours';
+	$dynamischer_inhalt = true; /* in order that page updates whenever included german page updates */
 	
 	require "../lib/technikum29.php";
 ?>

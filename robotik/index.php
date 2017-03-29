@@ -92,7 +92,9 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
 <li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
 </ul>
-<p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.</p>
+<p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
+Hier einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a href="/robotik/blatt4.pdf">Aufgabenblatt 4 (PDF)</a> <br>
+Keine Angst, das wird ja alles besprochen....</p>
 
 <h3>Voraussetzungen</h3>
 <p>Im Einsteigerkurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>

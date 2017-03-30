@@ -15,9 +15,8 @@
 <?php
 
 if(isset($_GET['wipe'])) {
-	$command = "rm -r $cache_dir/* 2>&1";
 	print "<h3>Cache-Leerung</h3>";
-	print shell_exec($command);
+	rrmdir_sub($cache_dir);
 	print "Fertig";
 	print "<h3>Erneut Cache leeren?</h3>";
 }
@@ -34,7 +33,7 @@ gecacht.</p>
 
 
 
-<h3>Details</h3>
+<h3>Zum Cache-System</h3>
 
 <p>Die technikum29-Website wird seit Version 6 mit PHP und einem mehrstufigen
 Cache-System unterstützt, sodass Seiten nur bei Änderungen gecacht werden müssen.
@@ -46,10 +45,33 @@ folgende Dateien:
 <tr><th>Datei<th>Letzte Änderung
 <?php
 foreach($page_cache->test_files as $file) {
-	print "<tr><td class='left'><tt>$file</tt><td>".date ("F d Y H:i:s", filemtime($file));
+	print "<tr><td class='left'><tt>$file</tt><td>".(file_exists($file) ?
+		date ("F d Y H:i:s", filemtime($file))
+	:	"<i>does not exist</i>");
 }
 ?>
 </table>
+
+<h3>Im Cache befindliche Dateien</h3>
+<?php
+$all_cache_files = getDirContents($cache_dir);
+?>
+
+<p>Im <a href="/shared/cache">t29-Cache</a> auf diesem Host (<tt><?php print $host; ?></tt>)
+befinden sich derzeit folgende
+<strong><?php print count($all_cache_files); ?> Dateien und Ordner</strong>:</p>
+
+<table class="t29-details">
+<tr><th>Datei<th>Letzte Änderung
+<?php
+foreach($all_cache_files as $file) {
+	print "<tr><td class='left'><tt>$file</tt><td>".(file_exists($file) ?
+		date ("F d Y H:i:s", filemtime($file))
+	:	"<i>does not exist</i>");
+}
+?>
+</table>
+<?php>
 
 <?php
 // lib:
@@ -68,4 +90,46 @@ function getFileCount($path) {
         }   
     }
     return $size;
+}
+
+// Delete from $path, including $path, using an recursive iterator
+function rrmdir($path) {
+	if(is_file($path)) {
+		unlink($path);
+		return;
+	}
+
+	$i = new DirectoryIterator($path);
+	foreach($i as $f) {
+		if($f->isFile()) {
+			unlink($f->getRealPath());
+		} else if(!$f->isDot() && $f->isDir()) {
+			rrmdir($f->getRealPath());
+		}
+	}
+	rmdir($path);
+}
+
+// delete everything *below* path, but keep $path
+function rrmdir_sub($path) {
+	array_map('rrmdir', glob("$path/*"));
+#	print "Would delete:<pre> ";
+#	var_dump(glob("$path/*"));
+}
+
+// get a list of all files below $dir, recursively.
+function getDirContents($dir, &$results = array()){
+    $files = scandir($dir);
+
+    foreach($files as $key => $value){
+        $path = realpath($dir.DIRECTORY_SEPARATOR.$value);
+        if(!is_dir($path)) {
+            $results[] = $path;
+        } else if($value != "." && $value != "..") {
+            getDirContents($path, $results);
+            $results[] = $path;
+        }
+    }
+
+    return $results;
 }

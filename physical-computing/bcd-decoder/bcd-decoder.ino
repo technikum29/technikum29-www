@@ -1,40 +1,41 @@
 
  
-//Declaration of Arduino pins used as CA3161E (BCD-Decoder) inputs
+// 7-Segment-Ziffernanzeige, aufgebaut mit Hilfe des CA3161E BCD-Decoders, Aufg. 2 Blatt 4
 
-const int A=4;    // wir ordnen der Variablen A die Zahl 4 zu
-const int B=5;    // wir koennten auch ueberall fuer A,B,C,D die Zahlen 4,5,6,7 verwenden
+const int A=4;    // wir benoetigen 4 Ausgaenge fuer den Decoder (A=2^0 bis D=2^3)
+const int B=5;    // diesen Ausgaengen werden die Pins 4,5,6,7 zugeordnet
 const int C=6;
 const int D=7;    
 
 const int TASTE = 8;  // gedrueckt: LOW
  
 void setup() {
-  pinMode(TASTE, INPUT_PULLUP);
+  pinMode(TASTE, INPUT_PULLUP);   // erklaere, warum hier ein PULLUP notwendig ist 
   pinMode(A, OUTPUT); // 2^0     
   pinMode(B, OUTPUT);
   pinMode(C, OUTPUT);
   pinMode(D, OUTPUT); // 2^3
 
-  Serial.begin(9600);
+  Serial.begin(9600);       // Initialisieren des Seriellen Monitors
  
 }
  
-int count = 0;     //the variable used to show the number
+int count = 0;     // Zaehlvariable (= angezeigte Ziffer)
  
 void loop() {
-  if (digitalRead(TASTE) == LOW)   //if button is pressed
+  if (digitalRead(TASTE) == LOW)   // Abfrage, ob die Taste gedrueckt ist
     {
     count++;                    // ausfuehrlich:  c=c+1
-    delay(500);           //the delay prevent from button bouncing
-    if (count == 10)      //we want to count from 0 to 9!
+    delay(300);           // erklaere, warum hier ein delay() stehen muss
+    if (count == 10)      // wir wollen ja nur bis 9 zaehlen!
       count = 0;
 
 /*{  alternativ mit C++ :
-  Setzten der vier oberen PINs des Ports D und beibehalten der Zustände der unteren vier PINs 
+  Setzten der vier oberen PINs des Ports D und beibehalten der Zustaende der unteren vier PINs 
   PORTD = (count << 4) & 0xf0 | (PORTD & 0xf)  ;
-  return ;  //diese 2 Zeilen bewirken das Gleiche, wie der Rest unten. Sie sind aber "deaktiviert" 
-            //weil wir sie noch nicht verstehen! } 
+  return ;  
+  diese 2 Zeilen bewirken das Gleiche, wie der Rest unten. Sie sind aber "deaktiviert" 
+  weil wir sie noch nicht verstehen! } 
   */
 
     if (count == 0) //write 0000   ab hier steht die Umsetzung des BCD Codes
@@ -80,46 +81,9 @@ void loop() {
       digitalWrite(C, HIGH);
       digitalWrite(D, LOW);
     }
-     
-    if (count == 5) //write 0101
-    {
-      digitalWrite(A, HIGH);
-      digitalWrite(B, LOW);
-      digitalWrite(C, HIGH);
-      digitalWrite(D, LOW);
-    }
-     
-    if (count == 6) //write 0110
-    {
-      digitalWrite(A, LOW);
-      digitalWrite(B, HIGH);
-      digitalWrite(C, HIGH);
-      digitalWrite(D, LOW);
-    }
-     
-    if (count == 7) //write 0111
-    {
-      digitalWrite(A, HIGH);
-      digitalWrite(B, HIGH);
-      digitalWrite(C, HIGH);
-      digitalWrite(D, LOW);
-    }
-     
-    if (count == 8) //write 1000
-    {
-      digitalWrite(A, LOW);
-      digitalWrite(B, LOW);
-      digitalWrite(C, LOW);
-      digitalWrite(D, HIGH);
-    }
-     
-    if (count == 9) //write 1001
-    {
-      digitalWrite(A, HIGH);
-      digitalWrite(B, LOW);
-      digitalWrite(C, LOW);
-      digitalWrite(D, HIGH);
-    }
+
+     //  den Rest kannst du sicher selbst machen  :-)
+   
     } 
     
 }

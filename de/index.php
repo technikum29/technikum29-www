@@ -72,7 +72,7 @@
 				Maximum ca. 20 Personen<br><br>
 				<a href="/de/termine.php"><b>Termine</b></a> an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen und Kleingruppen können ihr Interesse per E-Mail kundtun. Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>
-				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für einzelne Schüler und Studenten ist der Eintritt frei. Schülergruppen "zahlen" als symbolische Anerkennung eine Fl. Rotwein für die komplette Gruppe.<br>
+				Eine lebendige Führung kostet eine Fl. Rotwein der unteren Preisklasse pro Person. Gruppenführungen können auch zu einem Pauschalpreis gebucht werden. Für Schüler und Studenten ist der Eintritt frei.<br>
 				
 					</li>
             </ul>
@@ -83,7 +83,7 @@
 		<div class="flyer left mobile">
 			<a href="/shared/flyer/november2016.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
-			<p>Betrachten Sie unseren <a href="/shared/flyer/november2016.pdf">aktuellen Flyer</a> als PDF (November 2016)</p>
+			<p>Betrachten Sie unseren <a href="/shared/flyer/november2016.pdf">aktuellen Flyer</a> als PDF</p>
 		</div>
 		
 </div><!--cools-->

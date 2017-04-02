@@ -25,7 +25,7 @@ int count = 0;     // Zaehlvariable (= angezeigte Ziffer)
 void loop() {
   if (digitalRead(TASTE) == LOW)   // Abfrage, ob die Taste gedrueckt ist
     {
-    count++;                    // ausfuehrlich:  c=c+1
+    count++;                    // ausfuehrlich:  count=count + 1
     delay(300);           // erklaere, warum hier ein delay() stehen muss
     if (count == 10)      // wir wollen ja nur bis 9 zaehlen!
       count = 0;

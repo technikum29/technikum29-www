@@ -213,8 +213,8 @@ More information about this interesting and rare system will follow.</p>
  </div>
  
 			<p>The PDP-12 was released in 1969. Just 755 units were sold worldwide. It was the last series that
-			could operate in LINC-Mode (it could be switched to either LINC-8
-			or PDP-8). This is a laboratory computer, equipped with AD and DA
+			could operate in LINC-Mode (it could be switched to either LINC
+			or PDP-8 Mode). This is a laboratory computer, equipped with AD and DA
 			converter as standard. Such computers were usually kept up to date
 			with hardware updates. The memory of this device was gradually
 			increased from 8kB up to 32kB (DW 08E storage extension).

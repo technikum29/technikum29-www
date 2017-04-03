@@ -37,7 +37,7 @@ Arduino microcontroller with sensors and moving components. We work with the
 the Arduino dialect of C/C++. Previous knowledge is not needed.
 
 <div class="box left">
-	<img src="/physical-computing/yannik.jpg" width="180"  height="230"/> 
+<img src="/physical-computing/sketch.jpg" width="220"  height="145"/> 
 </div>
 
 <p>Workshops are structured by worksheets which contain tasks and partial
@@ -52,7 +52,7 @@ suitable to demonstrate basic programming principles.
 
 <p>
 <div class="box left" style="margin-top:0">
-	<img src="/physical-computing/aes-2.jpg" width="220"  height="262"/> 
+	<img src="/physical-computing/eds-2.jpg" width="220"  height="223"/>
 
 It's astonishing how quickly robots seem to behave in an intelligent way.
 Programming is fun and success guaranteed. We use our website to publish

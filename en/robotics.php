@@ -27,8 +27,8 @@ Programmers could be the new pop stars. At technikum29, we join this movement by
 inspiring youths to build robots. It's fun and supports creativity.
 
 <div class="box center">
-<img src="/robotik/aes-gruppe-2016.jpg" width="405"  height="221"/> 
-<div class="small">One students' group</div>
+<img src="/robotik/aes-gruppe-2017.jpg" width="405"  height="221"/> 
+<div class="small">Students' group</div>
 </div>
 
 
@@ -75,8 +75,8 @@ In our course, students learn:
 </ul>
 
 <div class="box center">
-<img src="/robotik/eds-2016-17.jpg" width="405"  height="223"/> 
-<div class="small">Another students' group</div>
+<img src="/robotik/4-schueler.jpg" width="405"  height="152"/>
+
 </div>
 
 
@@ -89,8 +89,6 @@ In our course, students learn:
 
 	<p>Two years ago, they started from the scratch here in technikum29. Today, they
 	are in 8th grade and succeeded at the <a href="http://www.wroboto.org/">World Robot Olympiad</a>
-	in New Delhi. A respectable fifth place goes to our alumni. Today they take part on
-	our followup-workshop "Digitale Welten & Roboter" to prepare for their next
-	breakthrought.
+	in New Delhi. A respectable fifth place goes to our alumni. 
 </div>
 

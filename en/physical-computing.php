@@ -59,10 +59,13 @@ Programming is fun and success guaranteed. We use our website to publish
 scripts, worksheets and solutions for preparation and homework.
 </div>
 
+<div class="box left">
+<a href="/physical-computing/robo.jpg">
+	<img src="/physical-computing/robo.jpg" width="250"  height="156"/> 
+	<small>Robot car <br></a>(not yet finished)</small>
 
-<div class="box right">
-	<img src="/physical-computing/arduino.jpg" width="220"  height="171"/> 
 </div>
+
 
 <p>With the <a href="robotics.php">Lego Robotics</a> workshop we gained quite
 some experience in hosting workshops at technikum29. For pupils, it's always

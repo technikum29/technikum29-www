@@ -84,10 +84,12 @@ Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können
 Falls noch genügend Zeit vorhanden ist, werden wir uns auch mit einem vorhandenen 3D-Drucker sowie dessen Programmierung beschäftigen. Dann lassen sich u.a. zusätzliche Teile für unsere Roboter-Fahrzeuge herstellen.
 
 <div class="box left">
-	<img src="robo-1.jpg" width="250"  height="155"/> 
-	<small>Roboter-Fahrzeug (noch nicht fertig!)</small>
-</div>
+<a href="/physical-computing/robo.jpg">
+	<img src="robo.jpg" width="250"  height="156"/> 
+	<small>Roboter-Fahrzeug<br></a>(noch nicht fertig!)</small>
 
+</div>
+		
 Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten geeignet sind.<br>
 Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase ist. Noch ist nicht alles perfekt.<br>
 

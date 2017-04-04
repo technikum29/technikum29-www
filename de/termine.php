@@ -46,7 +46,13 @@
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
 		<th style="width:9em;">Typ
-		<th>Teilnehmer   
+		<th>Teilnehmer 
+
+		<tr>
+		<td>Di, <b>11. April</b><br>9:30 Uhr
+		<td>Computer-History 
+		<td>Interaktive Führung
+		<td>14-16-Jährige Schüler <br>ausgebucht!
 
 		<tr>
 		<td>Mo, <b>4. April</b>  bis<br> Fr, <b>14. April</b>

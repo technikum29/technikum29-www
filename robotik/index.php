@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>3.4.2017
+	<br>7.4.2017
 </div>
 
 <div class="spacing"></div>
@@ -110,7 +110,7 @@ Osterferien:<br>
 Mo. 3.4.2017 bis Fr. 7.4.2017 jeweils 14:00 bis 16:00 Uhr. Dieser Kurs ist ausgebucht!<br><br>
 
 2. Einführungskurs im technikum29 (Kelkheim): <br>
-Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Durch eine Absage gibt es aktuell wieder einen freien Platz. <br><br>
+Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Wegen eine Absage gibt es aktuell noch einen freien Platz. <br><br>
 Sommerferien:<br>
 1. Einführungskurs an der Volkshochschule des MTK in Hofheim: <br>
 Mo. 10.7.2017 bis Fr. 14.7.2017 jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der VHS-MTK.<br>
@@ -125,7 +125,7 @@ Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr, Anmeldung nebenstehe
 <div class="clear cols">
 
 <p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Es nahmen Schüler aus 50 Nationen teil, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Schüler aus 50 Nationen hatten teilgenommen, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
 <a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. </p>
 
 

@@ -110,7 +110,7 @@ Osterferien:<br>
 Mo. 3.4.2017 bis Fr. 7.4.2017 jeweils 14:00 bis 16:00 Uhr. Dieser Kurs ist ausgebucht!<br><br>
 
 2. Einführungskurs im technikum29 (Kelkheim): <br>
-Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Dieser Kurs ist ebenfalls ausgebucht! <br><br>
+Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Durch eine Absage gibt es aktuell wieder einen freien Platz. <br><br>
 Sommerferien:<br>
 1. Einführungskurs an der Volkshochschule des MTK in Hofheim: <br>
 Mo. 10.7.2017 bis Fr. 14.7.2017 jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der VHS-MTK.<br>

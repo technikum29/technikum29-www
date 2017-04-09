@@ -62,7 +62,8 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
           <p> Man könnte die P 101 auch als ersten Personal-Computer der Welt bezeichnen. Aber eigentlich ist es mühsam, darüber zu philosophieren, welcher Rechner der "erste" PC war.<br/>
            In der Mitte ist die Magnet-Programmkarte zu sehen. Das Speichern von Programmen ist bei dem P101 gegenüber der Combitron sehr komfortabel.<br>
            Der eingebaute magnetostriktive Laufzeitspeicher ist in 10 Register aufgeteilt, wobei jedes Register aus 24 Speicherzellen zu je 8 Bit besteht. Das entspricht ca. 240 Byte Speicherkapazität. Der folgende Link führt auf eine kurze Erläuterung des hier verwendeten Speichermediums, dem <a class="go" name="backlink-olivetti" href="speichermedien.php#magnetostriktion">Laufzeitspeicher</a><br>
-		   Heute ist dieser Rechner vor allem wegen seines ungewöhnlich schönen und preisgekrönten Designs gesucht. Die Reparatur ist aufwändig, da sich alle Kunststoff-Rollen des Magnetkartenantriebs "verflüssigt" haben und der kleine Trommeldrucker Probleme bereitet. Dennoch: Unsere P 101 ist voll funktionsfähig.
+		   Heute ist dieser Rechner vor allem wegen seines ungewöhnlich schönen und preisgekrönten Designs gesucht. Die Reparatur ist aufwändig, da sich alle Kunststoff-Rollen des Magnetkartenantriebs "verflüssigt" haben und der kleine Trommeldrucker Probleme bereitet. Dennoch: Unsere P 101 ist voll funktionsfähig.<br>
+		   Diese schöne Maschine wurde weiter entwickelt, so dass 1967 die <a class="go" href="/de/rechnertechnik/kommerzielle.php#olivetti-p203"> PROGRAMMA P203</a> in Kombination mit einer elektrischen Schreibmaschine auf den Markt kam.
        </p>
 	<br>
 	

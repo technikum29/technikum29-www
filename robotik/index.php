@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>7.4.2017
+	<br>9.4.2017
 </div>
 
 <div class="spacing"></div>
@@ -106,14 +106,12 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro a
 
 <h3><font color="#FF0000">Termine in den Ferien</font></h3>
 Osterferien:<br>
-1. Einführungskurs an der Volkshochschule des MTK in Hofheim: <br>
-Mo. 3.4.2017 bis Fr. 7.4.2017 jeweils 14:00 bis 16:00 Uhr. Dieser Kurs ist ausgebucht!<br><br>
 
 2. Einführungskurs im technikum29 (Kelkheim): <br>
-Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr. Wegen eine Absage gibt es aktuell noch einen freien Platz. <br><br>
+Mo. 10.4.2017 bis (Kar-)Freitag, den 14.4.2017 jeweils von 14:00 bis 16:00 Uhr.<br><br>
 Sommerferien:<br>
 1. Einführungskurs an der Volkshochschule des MTK in Hofheim: <br>
-Mo. 10.7.2017 bis Fr. 14.7.2017 jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der VHS-MTK.<br>
+Mo. 10.7.2017 bis Fr. 14.7.2017 jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der VHS-MTK.<br><br>
 2. Einführungskurs im technikum29, voraussichtlich<br>
 Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr, Anmeldung nebenstehend.<br><br>
 

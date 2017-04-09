@@ -67,7 +67,7 @@
 		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
 		
 		<tr>
-		<td>So, <b>7. Mai</b><br>14:00 Uhr
+		<td>So, <b>7. Mai</b><br>14:15 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>UKW-Kelkheim <br>

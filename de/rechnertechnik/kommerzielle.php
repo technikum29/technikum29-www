@@ -17,9 +17,20 @@
         <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
         <div class="bildtext">
             <b>Olivetti P 203</b>
-			<p>Im Jahre 1968 wurde die P 101 (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner unmittelbar übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen.<br>
-			Dieser "Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.</p>
-		</div>
+			<p>Im Jahre 1967 wurde die <a href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner unmittelbar übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen. Die Elektrische Schreibmaschine konnte man auch separat verwenden.<br>
+			Der <a href="/de/rechnertechnik/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
+			Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
+			Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
+			<div class="clear-after">
+		<a href="/shared/photos/rechnertechnik/p203-1.jpg">	
+        <img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
+		<a href="/shared/photos/rechnertechnik/p203-2.jpg">
+		<img src="/shared/photos/rechnertechnik/p203-2.jpg" alt="Olivetti P203" width="240" height="180" /></a>
+		<a href="/shared/photos/rechnertechnik/p203-3.jpg">
+		<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a></div>
+		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner sind voll funktionsfähig.
+			
+	</div>
 	</div>
 	
 	 

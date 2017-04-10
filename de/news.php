@@ -15,6 +15,12 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">
+	<h3>April 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/p203-2.jpg" width="153" height="115" /><br>
+	Zweite Programma P203 im Museum. Die Seite wurde erweitert.
+</a></li>
+
 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">
 
 	<h3>März 2017</h3><br>
@@ -46,20 +52,6 @@
     <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="153" height="115" /><br>
 	Die letzten rechneneden Maschinenmonster
 	
-</a></li>
-
-<li><a href="/de/rechnertechnik/lgp30.php#lgp30">
-	<h3>Oktober 2015</h3><br>
-    <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>
-	Die LGP-30-Anlage ist jetzt im Museum
-	
-</a></li>
-
-<li><a href="/de/rechnertechnik/univac9200.php#u9200">
-	<h3>September 2015</h3><br>
-    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>
-	Eine keline Sensation:<br>
-	Die zweite UNIVAC 9200 im technikum29!
 </a></li>
 
 </ul>

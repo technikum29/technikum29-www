@@ -60,7 +60,7 @@
 		<td>So, <b>23. April</b><br>14:00 Uhr
 		<td>Klänge, Bilder,<br> Kommunikation 
 		<td>Führung
-		<td>Einzelpersonen und Gruppen <br><a class="email" href="mailto:info@vhs-mtk.de">Anmeldung nur über die VHS-Main-Taunus</a>
+		<td>Einzelpersonen und Gruppen <br><a class="email" href="https://www.vhs-mtk.de/index.php?id=37&kathaupt=11&knr=G0100111&kursname=Klnge+Bilder+Kommunikation+Faszinierende+Entwicklung+ab+1900">Anmeldung nur über die VHS-Main-Taunus</a>
 		
 		<tr>
 		<td>So, <b>7. Mai</b><br>14:15 Uhr

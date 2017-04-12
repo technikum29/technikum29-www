@@ -48,17 +48,13 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 
-		<tr>
-		<td>Di, <b>11. April</b><br>9:30 Uhr
-		<td>Computer-History 
-		<td>Interaktive Führung
-		<td>14-16-Jährige Schüler <br>ausgebucht!
+	
 
 		<tr>
-		<td>Mo, <b>4. April</b>  bis<br> Fr, <b>14. April</b>
-		<td>Zwei Robotik-Workshops
+		<td>Mo, <b>10. April</b>  bis<br> Fr, <b>14. April</b>
+		<td>Robotik-Workshop
 		<td>Roboter programmieren
-		<td>Kids von 11-13 Jahren <br>
+		<td>Kids 11-13 Jahre <br>
 		
 		<tr>
 		<td>So, <b>23. April</b><br>14:00 Uhr

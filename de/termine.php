@@ -48,13 +48,6 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 
-	
-
-		<tr>
-		<td>Mo, <b>10. April</b>  bis<br> Fr, <b>14. April</b>
-		<td>Robotik-Workshop
-		<td>Roboter programmieren
-		<td>Kids 11-13 Jahre <br>
 		
 		<tr>
 		<td>So, <b>23. April</b><br>14:00 Uhr

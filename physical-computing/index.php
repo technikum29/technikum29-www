@@ -73,7 +73,7 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop, den man auch mit <b>Arduino-Labor</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse mit dieser Programmiersprache werden nicht erwartet, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
+In diesem Workshop, den man auch mit <b>Arduino-Labor</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse in dieser Programmiersprache sind nicht erforderlich, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
 Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können, selbst das Sprechen werden wir ihm beibringen.<br>
 <div class="box left">
 	<img src="eds-2.jpg" width="220"  height="223"/> 
@@ -120,13 +120,16 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	
 	
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 1.4.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.4.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Hier die Lösungen von Aufg. 1 + 2 aus Blatt 4.  Es macht sehr viel Sinn, sich das nochmal genau anzuschauen.<br><br>
+	Hier die Lösungen von Aufg. 1 + 2 aus Blatt 4.  Es macht sehr viel Sinn, sich das nochmal genau anzuschauen.<br>
+	Auf Blatt 5 werden wir am 27.4. das <b>Schieberegister</b> (Shift-Register) einführen. Da das nicht ganz einfach ist, sollte man schon mal vorab <b>die erste Seite</b> der PDF (s. unten) überfliegen.<br>
+	Verstehen muss man das zunächst noch nicht. Aber so kennst du bereits einige Begriffe.<br><br>
 	<a href="/physical-computing/zweidim-array"> Ziffernanzeige mit zweidimensionalem Array</a><br>
 	<a href="/physical-computing/bcd-decoder"> Ziffernanzeige mit BCD-Decoder</a><br><br>
+	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister</a><br><br>
 	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br>
 	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>

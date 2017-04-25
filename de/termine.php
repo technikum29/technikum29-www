@@ -55,7 +55,7 @@
 		<td>UKW-Kelkheim <br>
 		
 		<tr>
-		<td>Di, <b>16. Mai</b><br>10:00 Uhr
+		<td>Di, <b>23. Mai</b><br>10:30 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>IBM-Techniker<br>

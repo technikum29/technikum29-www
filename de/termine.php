@@ -55,6 +55,13 @@
 		<td>UKW-Kelkheim <br>
 		
 		<tr>
+		<td>So, <b>21. Mai</b><br>14:00 Uhr
+		<td>Computer-History 
+		<td>Führung
+		<td>Einzelpersonen und Kleingruppen <br>
+		Es gibt noch ein paar Plätze!
+		
+		<tr>
 		<td>Di, <b>23. Mai</b><br>10:30 Uhr
 		<td>Computer-History 
 		<td>Führung

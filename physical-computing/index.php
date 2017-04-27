@@ -113,26 +113,24 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 <div class="rightcol">	
 		
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a><br>
-	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>
+	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version</small>
 	 <br><br>
 	 </div>
 	 </div>
 	
 	
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.4.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 27.4.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Hier die Lösungen von Aufg. 1 + 2 aus Blatt 4.  Es macht sehr viel Sinn, sich das nochmal genau anzuschauen.<br>
-	Auf Blatt 5 werden wir am 27.4. das <b>Schieberegister</b> (Shift-Register) einführen. Da das nicht ganz einfach ist, sollte man schon mal vorab <b>die erste Seite</b> der PDF (s. unten) überfliegen.<br>
-	Verstehen muss man das zunächst noch nicht. Aber so kennst du bereits einige Begriffe.<br><br>
-	<a href="/physical-computing/zweidim-array"> Ziffernanzeige mit zweidimensionalem Array</a><br>
-	<a href="/physical-computing/bcd-decoder"> Ziffernanzeige mit BCD-Decoder</a><br><br>
+	Wer am 27.4. gefehlt hat, kann selbst testen, ob er die Aufgabe 5 von Blatt 5 lösen könnte. Wir werden diese aber nicht mehr besprechen.<br>
+	Am 4.5. wird das <b>Schieberegister</b> (Shift-Register) experimentell eingeführt. Da das nicht ganz einfach ist, solltes du ausnahmsweise schon mal vorab <b>die erste Seite</b> der PDF (s. unten) überfliegen.<br>
+	Verstehen musst du das zunächst noch nicht komplett. Aber so kennst du bereits einige Begriffe und musst am 4.5. nur noch ein "Refresh" machen :-)<br><br>
 	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister</a><br><br>
 	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br>
 	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
-	Die Aufgabenblätter sind nicht passwortgeschützt und stehen oben.<br>
+	
 	
 	
 	<?php $zaun_eds->end(); ?>

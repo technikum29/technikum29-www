@@ -49,6 +49,12 @@
 		<th>Teilnehmer 
 		
 		<tr>
+		<td>Di, <b>2. Mai</b><br>9:00 Uhr
+		<td>Computer-History-Workshop 
+		<td>Interaktive Führung
+		<td>Mathe-LK Weiterstadt<br>
+		
+		<tr>
 		<td>So, <b>7. Mai</b><br>14:15 Uhr
 		<td>Computer-History 
 		<td>Führung
@@ -113,7 +119,7 @@
 		<th>Teilnehmer   
 	
 	<tr>
-		<td>Fr, <b>15. Dez.</b><br>ab 14:00 Uhr
+		<td>Fr, <b>15. Dez.</b><br>ab 15:00 Uhr
 		<td>Computer-History<br>Workshop 
 		<td>Geburtstags-Event<br>
 			Finley wird 12 !

@@ -59,22 +59,22 @@
 		<td>Computer-History 
 		<td>Führung
 		<td>Einzelpersonen und Kleingruppen <br>
-		Es gibt noch ein paar Plätze!
+		Es gibt noch ein paar freie Plätze!
 		
 		<tr>
 		<td>Di, <b>23. Mai</b><br>10:30 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>IBM-Techniker<br>
-
+		
 		</table>
 		</div> <br>
 		
-		<b><font color="#FF0000">Tage der Industriekultur Rhein-Main 2017. Wir sind dabei (Anmeldung erforderlich, freier Eintritt):</font></b><br><br>
+		<b><font color="#a52a2a">Tage der Industriekultur Rhein-Main 2017. Wir sind dabei (Anmeldung erforderlich, freier Eintritt):</b><br><br>
 	
 		<div class="termine">
-	<table class="termine">
-	<tr class="title">
+		<table class="termine">
+		<tr class="title">
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
 		<th style="width:9em;">Typ
@@ -97,9 +97,31 @@
 		<td>Die Urahnen des Smartphones ***)
 		<td>Interaktive Führung
 		<td>Neugierige Menschen ab ca. 12 Jahre
-
+		
+		</font>
 		</table>
 		</div> <br>
+		
+		<font color="#000000">
+		
+		<div class="termine">
+	<table class="termine">
+	<tr class="title">
+	<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:9em;">Typ
+		<th>Teilnehmer   
+	
+	<tr>
+		<td>Fr, <b>15. Dez.</b><br>ab 14:00 Uhr
+		<td>Computer-History<br>Workshop 
+		<td>Geburtstags-Event<br>
+			Finley wird 12 !
+		<td>Finley´s Freunde<br>
+		
+		</table>
+		</div> <br>
+	
 		Tage der Industiekultur, ergänzende Informationen:<br><br>
 		*) Mathematik - für die Einen eines der wohl unbeliebtesten Schulfächer, für andere der Schlüssel zum Verständnis der Welt.<br> 
 		Das Thema beleuchtet sowohl aus mathematischer als auch aus philosophischer Sicht, was Mathematik leisten kann, und wo sie an ihre Grenzen stößt. Ein unterhaltsamer, spannender Event-Vortrag von Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Dr. Patrick Hedfeld (Philosoph). Alle, welche die Referenten bereits
@@ -128,7 +150,7 @@
 	<div class="box termin clear-after">
 		<h4>Physical-Computing & Robotics für Jugendliche ab ca. 14 Jahre</h4>
 		
-		<p>Micro-Controller programmieren und intelligente Roboter bauen, siehe <a href="/physical-computing" class="go">Physical-Computing</a><br>
+		<p>Micro-Controller programmieren und intelligente Roboter bauen, siehe <a href="/physical-computing" class="go">Physical-Computing & Robotics</a><br>
 		Die digitale Welt von heute und morgen verstehen.....</p>
 		
 	</div>

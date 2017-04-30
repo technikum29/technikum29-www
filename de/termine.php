@@ -75,20 +75,19 @@
 		
 		</table>
 		</div> <br>
+		<div class="rightcol">
 		
+	  <div class="foto left mobile">
+                <img src="/shared/photos/start/rdik.png" width="140" height="63" />
+				</div>
 		<b><font color="#a52a2a">Tage der Industriekultur Rhein-Main 2017. Wir sind dabei (Anmeldung erforderlich, freier Eintritt):</b><br><br>
 	
 		<div class="termine">
 		<table class="termine">
-		<tr class="title">
-		<th style="width:9em">Datum
-		<th style="width:13em;">Titel
-		<th style="width:9em;">Typ
-		<th>Teilnehmer   
 		
 		<tr>
 		<td>Sa, <b>5. August</b><br>19:00 Uhr
-		<td>Mathematik, Sprache der Natur *)
+		<td>Mathematik, Sprache der Natur *) 
 		<td>Event-Vortrag
 		<td>Mathematisch-technisch-philosopisch interessierte Menschen <br>
 
@@ -100,7 +99,7 @@
 		
 		<tr>
 		<td>So, <b>13. August</b><br>14:00 Uhr
-		<td>Die Urahnen des Smartphones ***)
+		<td>Die Urahnen des Smartphones ***) s.u.
 		<td>Interaktive Führung
 		<td>Neugierige Menschen ab ca. 12 Jahre
 		
@@ -112,11 +111,6 @@
 		
 		<div class="termine">
 	<table class="termine">
-	<tr class="title">
-	<th style="width:9em">Datum
-		<th style="width:13em;">Titel
-		<th style="width:9em;">Typ
-		<th>Teilnehmer   
 	
 	<tr>
 		<td>Fr, <b>15. Dez.</b><br>ab 15:00 Uhr

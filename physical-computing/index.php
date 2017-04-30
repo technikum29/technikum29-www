@@ -128,6 +128,7 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 	Am 4.5. wird das <b>Schieberegister</b> (Shift-Register) experimentell eingeführt. Da das nicht ganz einfach ist, solltes du ausnahmsweise schon mal vorab <b>die erste Seite</b> der PDF (s. unten) überfliegen.<br>
 	Verstehen musst du das zunächst noch nicht komplett. Aber so kennst du bereits einige Begriffe und musst am 4.5. nur noch ein "Refresh" machen :-)<br><br>
 	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister</a><br><br>
+	Noch ein Tipp: "Wer den schnellen Erfolg sucht, sollte nicht programmieren, sondern Holz hacken." (unbekannte Quelle aber zutreffend!).<br><br>
 	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br>
 	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	

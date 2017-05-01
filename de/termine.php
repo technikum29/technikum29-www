@@ -84,6 +84,11 @@
 	
 		<div class="termine">
 		<table class="termine">
+		<tr class="title">
+		<th style="width:9em">
+		<th style="width:13em;">
+		<th style="width:9em;">
+		<th>
 		
 		<tr>
 		<td>Sa, <b>5. August</b><br>19:00 Uhr
@@ -111,7 +116,11 @@
 		
 		<div class="termine">
 	<table class="termine">
-	
+	<tr class="title">
+		<th style="width:9em">
+		<th style="width:13em;">
+		<th style="width:9em;">
+		<th>
 	<tr>
 		<td>Fr, <b>15. Dez.</b><br>ab 15:00 Uhr
 		<td>Computer-History<br>Workshop 

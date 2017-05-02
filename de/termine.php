@@ -48,11 +48,7 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-		<tr>
-		<td>Di, <b>2. Mai</b><br>9:00 Uhr
-		<td>Computer-History-Workshop 
-		<td>Interaktive Führung
-		<td>Mathe-LK Weiterstadt<br>
+	
 		
 		<tr>
 		<td>So, <b>7. Mai</b><br>14:15 Uhr

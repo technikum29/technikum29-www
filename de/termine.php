@@ -64,7 +64,7 @@
 		Es gibt noch ein paar freie Plätze!
 		
 		<tr>
-		<td>Di, <b>23. Mai</b><br>10:30 Uhr
+		<td>Mo, <b>22. Mai</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Führung
 		<td>IBM-Techniker<br>

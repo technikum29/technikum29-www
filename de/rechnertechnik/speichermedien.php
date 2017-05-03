@@ -54,7 +54,7 @@
 	<p class="bildtext"><i>Bild 4:<br>Laufzeitkette, hier nur drei der 120 LC-Pässe</i></p></div>
 		
 		<p>Das abgebildete Speichermodul kann gerade mal <b>eine</b> 12-stellige Dezimalzahl speichern. Binär entspricht dies einer Speicherkapazität von ca. 6 Byte!! Sie lesen richtig: 6 Byte, nicht KB oder gar MB! In dieser frühen Phase der "Elektronischen Rechengeräte" war Speicherplatz extrem teuer und sehr voluminös. Bei der Programmierung musste man darauf sehr viel Rücksicht nehmen.
-		Dies ist ein wirklich seltener Speicher, der vor der Zeit von Kernspeichern zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet. Im BULL-Gamma-3 Rechner sind 7 Stück dieser Laufzeitspeicher eingebaut. Das entspricht 58 kg Elektronik für 42 Byte Arbeitsspeicher.</p>
+		Dies ist ein wirklich seltener Speicher, der vor der Zeit von Kernspeichern zum Einsatz kam. Er wurde auch mit "Verzögerungsspeicher" oder "Verzögerungslinie" bezeichnet. In unserem BULL-Gamma-3 Rechner sind 7 Stück dieser Laufzeitspeicher eingebaut. Das entspricht 58 kg Elektronik für 42 Byte Arbeitsspeicher.</p>
 		
 	<!-- Ende der Laufzeitspeicher-Box, Speicherausschnitt-Detailfoto -->
 

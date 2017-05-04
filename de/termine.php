@@ -69,6 +69,12 @@
 		<td>Führung
 		<td>IBM-Techniker<br>
 		
+		<tr>
+		<td>Fr, <b>2. Juni</b><br>15:00 Uhr
+		<td>Computer-History 
+		<td>Führung
+		<td>IfKom Landesverband Hessen<br>
+		
 		</table>
 		</div> <br>
 		<div class="rightcol">

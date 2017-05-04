@@ -105,13 +105,14 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 <div class="cols clear-after">
 
 <div class="leftcol">
+Materialien zum Workshop in der Schule: <br>
 
 	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
-	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><br>
-	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br><br>
+	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><br><br>
+	
 	</div>
 <div class="rightcol">	
-		
+	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br>
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a><br>
 	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version</small>
 	 <br><br>

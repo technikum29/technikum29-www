@@ -59,9 +59,9 @@
 		<tr>
 		<td>So, <b>21. Mai</b><br>14:00 Uhr
 		<td>Computer-History 
-		<td>Führung
-		<td>Einzelpersonen und Kleingruppen <br>
-		Es gibt noch ein paar freie Plätze!
+		<td>Interaktive<br> Führung
+		<td>Einzelpersonen und Kleingruppen. 
+		Es gibt aktuell noch zwei freie Plätze!
 		
 		<tr>
 		<td>Mo, <b>22. Mai</b><br>14:00 Uhr

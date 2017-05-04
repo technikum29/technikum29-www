@@ -114,24 +114,23 @@ Materialien zum Workshop in der Schule: <br>
 <div class="rightcol">	
 	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br>
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a><br>
-	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version</small>
+	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version 5.5</small>
 	 <br><br>
 	 </div>
 	 </div>
 	
 	
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 27.4.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 4.5.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Wer am 27.4. gefehlt hat, kann selbst testen, ob er die Aufgabe 5 von Blatt 5 lösen könnte. Wir werden diese aber nicht mehr besprechen.<br>
-	Am 4.5. wird das <b>Schieberegister</b> (Shift-Register) experimentell eingeführt. Da das nicht ganz einfach ist, solltes du ausnahmsweise schon mal vorab <b>die erste Seite</b> der PDF (s. unten) überfliegen.<br>
-	Verstehen musst du das zunächst noch nicht komplett. Aber so kennst du bereits einige Begriffe und musst am 4.5. nur noch ein "Refresh" machen :-)<br><br>
+	Sorry, dass die Panne mit dem Steckboard aufgetreten ist. Die Serie wurde verändert und die Stromschienen (blau/rot) sind nun in der Mitte unterbrochen. Aber das ist die
+	Realität: Solche Pannen muss man auch mal durchhalten.<br>
+	Die schwierigen Aufgabenteile aus Blatt 5 habe ich gestrichen (neue Version 5.5).<br><br>
+	
 	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister</a><br><br>
 	Noch ein Tipp: "Wer den schnellen Erfolg sucht, sollte nicht programmieren, sondern Holz hacken." (unbekannte Quelle aber zutreffend!).<br><br>
-	Für alle Schüler, die Zuhause selbst mit Arduino experimentieren möchten befinden sich hier ein paar Tipps:<br>
-	<a href="/physical-computing/zuhause.pdf"> Infos, Bezugsquellen, Preise usw. für Arduino Zuhause.....</a><br><br>
 	
 	
 	

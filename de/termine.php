@@ -60,8 +60,9 @@
 		<td>So, <b>21. Mai</b><br>14:00 Uhr
 		<td>Computer-History 
 		<td>Interaktive<br> Führung
-		<td>Einzelpersonen und Kleingruppen. 
-		Es gibt aktuell noch zwei freie Plätze!
+		<td>Einzelpersonen und Kleingruppen<br>
+		<font color="#FF0000">>>ausgebucht!</font>
+	
 		
 		<tr>
 		<td>Mo, <b>22. Mai</b><br>14:00 Uhr

@@ -126,10 +126,10 @@ Materialien zum Workshop in der Schule: <br>
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
 	Sorry, dass die Panne mit dem Steckboard aufgetreten ist. Die Serie wurde verändert und die Stromschienen (blau/rot) sind nun in der Mitte unterbrochen. Aber das ist die
-	Realität: Solche Pannen muss man auch mal durchhalten.<br>
+	Realität: Solche Pannen und den damit verbundenen Frust muss man auch mal durchhalten.<br>
 	Die schwierigen Aufgabenteile aus Blatt 5 habe ich gestrichen (neue Version 5.5).<br><br>
 	
-	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister</a><br><br>
+	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister, Erläuterungen und Sketche</a><br><br>
 	Noch ein Tipp: "Wer den schnellen Erfolg sucht, sollte nicht programmieren, sondern Holz hacken." (unbekannte Quelle aber zutreffend!).<br><br>
 	
 	

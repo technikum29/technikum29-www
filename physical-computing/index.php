@@ -114,7 +114,7 @@ Materialien zum Workshop in der Schule: <br>
 <div class="rightcol">	
 	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br>
 	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a><br>
-	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version 5.5</small>
+	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a>  <small>Neue Version 5.6</small>
 	 <br><br>
 	 </div>
 	 </div>
@@ -125,9 +125,9 @@ Materialien zum Workshop in der Schule: <br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Sorry, dass die Panne mit dem Steckboard aufgetreten ist. Die Serie wurde verändert und die Stromschienen (blau/rot) sind nun in der Mitte unterbrochen. Aber das ist die
-	Realität: Solche Pannen und den damit verbundenen Frust muss man auch mal durchhalten.<br>
-	Die schwierigen Aufgabenteile aus Blatt 5 habe ich gestrichen (neue Version 5.5).<br><br>
+	Sorry, dass die Panne mit dem Steckboard aufgetreten ist. Die Serie wurde verändert und die Stromschienen (blau/rot) sind nun in der Mitte unterbrochen. Aber das ist das
+	reale Leben: Solche Pannen und den damit verbundenen Frust muss man auch mal durchhalten.<br>
+	Die schwierigen Aufgabenteile aus Blatt 5 habe ich gestrichen (neue Version 5.6).<br><br>
 	
 	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister, Erläuterungen und Sketche</a><br><br>
 	Noch ein Tipp: "Wer den schnellen Erfolg sucht, sollte nicht programmieren, sondern Holz hacken." (unbekannte Quelle aber zutreffend!).<br><br>

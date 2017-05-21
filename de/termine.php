@@ -34,9 +34,8 @@
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
-
 	Die folgende Tabelle listet Gruppenanmeldungen auf.
-	Falls dort noch Plätze frei sind können Sie sich hierzu anmelden. </p>
+ </p>
 	<br>
 	</div><!-- Ende nur-auf-deutscher-seite -->
 
@@ -48,12 +47,8 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-		<tr>
-		<td>So, <b>21. Mai</b><br>14:00 Uhr
-		<td>Computer-History 
-		<td>Interaktive<br> Führung
-		<td>Einzelpersonen und Kleingruppen<br>
-		<font color="#FF0000">>>ausgebucht!</font>
+	
+	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
 		
 		<tr>

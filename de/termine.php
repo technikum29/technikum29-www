@@ -52,12 +52,6 @@
 	
 		
 		<tr>
-		<td>Mo, <b>22. Mai</b><br>14:00 Uhr
-		<td>Computer-History 
-		<td>Führung
-		<td>IBM-Techniker<br>
-		
-		<tr>
 		<td>Fr, <b>2. Juni</b><br>15:00 Uhr
 		<td>Computer-History 
 		<td>Führung
@@ -121,7 +115,7 @@
 		</table>
 		</div> <br>
 	
-		Tage der Industiekultur, ergänzende Informationen:<br><br>
+		<font color="#a52a2a"><b>Tage der Industiekultur, ergänzende Informationen:</b></font><br><br>
 		*) Mathematik - für die Einen eines der wohl unbeliebtesten Schulfächer, für andere der Schlüssel zum Verständnis der Welt.<br> 
 		Das Thema beleuchtet sowohl aus mathematischer als auch aus philosophischer Sicht, was Mathematik leisten kann, und wo sie an ihre Grenzen stößt. Ein unterhaltsamer, spannender Event-Vortrag von Prof. Dr. Bernd Ulmann (Mathematiker/Informatiker) und Dr. Patrick Hedfeld (Philosoph). Alle, welche die Referenten bereits
 		mehrfach im technikum29 erlebt haben wissen es: Das darf man nicht versäumen!<br> 

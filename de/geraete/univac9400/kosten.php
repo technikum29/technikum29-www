@@ -7,7 +7,7 @@
 ?>
 <h2><?php print $titel; ?></h2>
 
-    <p>Es ist unglaublich, wie teuer Computer noch vor ca. 45 Jahren waren.
+    <p>Es ist unglaublich, wie teuer Computer noch vor ca. 47 Jahren waren.
        Wir stellen hier die Preise (in DM, für Euro-Preise ist der
        Wert jeweils durch 2 zu teilen) unserer Anlage zusammen, die aus
        der UNIVAC-Preisliste aus den Jahren 1968-1970 entnommen wurden.</p>

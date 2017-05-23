@@ -72,8 +72,8 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <div class="box center">
-<img src="2-schueler.jpg" width="320"  height="301"/> 
-<div class="small">Endlich: Der Roboter tut was man ihm beibringt....</small></div>
+<img src="alp.jpg" width="405"  height="280"/> 
+<div class="small">Das müsste doch passen und: Endlich, er Roboter tut was man ihm beibringt....</small></div>
 </div>
 
 <h3>Anmeldung und Vormerkung</h3>  

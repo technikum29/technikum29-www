@@ -73,7 +73,7 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 
 <div class="box center">
 <img src="alp.jpg" width="405"  height="280"/> 
-<div class="small">Das müsste doch passen und: Endlich, er Roboter tut was man ihm beibringt....</small></div>
+<div class="small">"Das müsste doch passen" und: "Endlich, der Roboter tut was man ihm beibringt...."</small></div>
 </div>
 
 <h3>Anmeldung und Vormerkung</h3>  

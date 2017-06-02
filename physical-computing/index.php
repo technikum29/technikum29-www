@@ -107,29 +107,29 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 <div class="leftcol">
 Materialien zum Workshop in der Schule: <br>
 
-	<a href="/physical-computing/ph1.pdf"> Physical-Computing Blatt 1 (PDF)</a><br>
-	<a href="/physical-computing/ph2.pdf"> Physical-Computing Blatt 2 (PDF)</a><br>
-	<a href="/physical-computing/ph3.pdf"> Physical-Computing Blatt 3 (PDF)</a><br><br>
+	<a href="/physical-computing/ph1.pdf" target="blank"> Physical-Computing Blatt 1 (PDF)</a><br>
+	<a href="/physical-computing/ph2.pdf" target="blank"> Physical-Computing Blatt 2 (PDF)</a><br>
+	<a href="/physical-computing/ph3.pdf" target="blank"> Physical-Computing Blatt 3 (PDF)</a><br><br>
 	</div>
 <div class="rightcol">	
 	
-	<a href="/physical-computing/ph4.pdf"> Physical-Computing Blatt 4 (PDF)</a><br>
-	<a href="/physical-computing/ph5.pdf"> Physical-Computing Blatt 5 (PDF)</a><small> Neue Version 5.6</small><br>
-	<a href="/physical-computing/ph6.pdf"> Physical-Computing Blatt 6 (PDF)</a>
+	<a href="/physical-computing/ph4.pdf" target="blank"> Physical-Computing Blatt 4 (PDF)</a><br>
+	<a href="/physical-computing/ph5.pdf" target="blank"> Physical-Computing Blatt 5 (PDF)</a><br>
+	<a href="/physical-computing/ph6.pdf" target="blank"> Physical-Computing Blatt 6 (PDF)</a>
 	 <br><br>
 	 </div>
 	 </div>
 	
 	
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.5.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.6.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Die Beispiele mit dem 8-LED-Schieberegister werden wir zusammen besprechen, da bei dem Steckbrett-Aufbau zu viele "Wackelkontakte" entstehen. Danach befassen wir uns mit der Anwendung der 4x7-Segment-Anzeige und eventuell schon mit dem Ultraschall-Modul, siehe Blatt 6 (PDF).<br><br>
+	Wer am 1.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br><br>
 	
-	<a href="/physical-computing/schieberegister.pdf"> 8 Bit Schieberegister, Erläuterungen und Sketche</a><br><br>
-	Noch ein Tipp: "Wer den schnellen Erfolg sucht, sollte nicht programmieren, sondern Holz hacken." (unbekannte Quelle aber zutreffend!).<br><br>
+	<a href="/physical-computing/Sonar-1637-tone" target="blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
+	
 	
 	
 	

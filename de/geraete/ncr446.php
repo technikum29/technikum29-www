@@ -10,6 +10,6 @@
 <div class="box center">
    <img src="/shared/photos/rechnertechnik/ncr-446,detail.jpg" alt="NCR Detailaufnahme" width="670" height="502" />
    <div class="bildtext-bildbreite" style="width: 670px">
-      <p>Links befindet sich die Lesestation für den Programmlochstreifen, rechts der Stanzer und ganz rechts ein Datenlochstreifenleser. </p>
+      <p>Links befindet sich die Lesestation für den Programmlochstreifen, in der Mitte der Stanzer und rechts ein Datenlochstreifenleser. </p>
    </div>
 </div>

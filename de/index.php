@@ -81,9 +81,9 @@
 		
 		
 		<div class="flyer left mobile">
-			<a href="/shared/flyer/november2016.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
+			<a href="/shared/flyer/november2016.pdf" target="blank"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
-			<p>Betrachten Sie unseren <a href="/shared/flyer/november2016.pdf">aktuellen Flyer</a> als PDF</p>
+			<p>Betrachten Sie unseren <a href="/shared/flyer/november2016.pdf" target="blank">aktuellen Flyer</a> als PDF</p>
 		</div>
 		
 </div><!--cools-->

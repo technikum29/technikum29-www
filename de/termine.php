@@ -34,7 +34,7 @@
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
-	Die folgende Tabelle listet Gruppenanmeldungen auf.
+	Die folgende Tabelle listet Gruppenanmeldungen und Events auf.
  </p>
 	<br>
 	</div><!-- Ende nur-auf-deutscher-seite -->
@@ -50,12 +50,6 @@
 	
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
-		
-		<tr>
-		<td>Fr, <b>2. Juni</b><br>15:00 Uhr
-		<td>Computer-History 
-		<td>Führung
-		<td>IfKom Landesverband Hessen<br>
 		
 		</table>
 		</div> <br>

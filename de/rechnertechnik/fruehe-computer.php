@@ -70,8 +70,8 @@
 	</p> 
 
 
-		<p>Aufgebaut ist der Computer mit einer Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen realisiert. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a href="http://de.wikipedia.org/wiki/Wickelverbindung">Wikipedia</a> nachzulesen ist. <br/>
-		Diese Wire-Wrap-Verbindungen wurden bis in die 80er Jahre bei allen größeren Rechnern angewendet. Es ist eine einfache Möglichkeit, räumlich beliebig liegende Modulanschlüsse miteinander zu verbinden. Anfangs erfolgte das "Wrappen" noch per Hand und wurde später von Automaten ausgeführt. Auch heute gibt es bei Versuchsschaltungen noch solche Verbindungen.<br>
+		<p>Aufgebaut ist der Computer mit einer Vielzahl verschiedener Logik- und Register-Module. Die logischen Entscheidungen werden im Prinzip durch eine intelligente Kombination von NANDs und NORs realisiert. Register, also schnelle Zwischenspeicher, werden mit Hilfe von Flip-Flop-Schaltungen realisiert. Die umfangreiche Verdrahtung der Module erfolgt durch die sogenannte "Wire-Wrap"-Technik (Wickelverbindung), deren Funktion in <a class="go" href="http://de.wikipedia.org/wiki/Wickelverbindung" target="blank">Wikipedia</a> nachzulesen ist. <br/>
+		Diese Wire-Wrap-Verbindungen wurden bis in die 80er Jahre bei allen größeren Rechnern angewendet. Es ist eine einfache Möglichkeit, räumlich beliebig liegende Modulanschlüsse miteinander zu verbinden. Anfangs erfolgte das "Wrappen" noch per Hand und wurde später von Automaten ausgeführt. Auch heute gibt es vereinzelnd bei Versuchsschaltungen noch solche Verbindungen.<br>
 		Rechner der 2. Computer-Generation haben einen entscheidenden Vorteil: Fehler lassen sich einfacher auffinden, da jeder einzelne Transistor frei zugänglich ist.
 		 </p>
 		 
@@ -92,7 +92,7 @@
 		</div>
 	</div>
 
-            <p>Im Jahre 1967 waren die ersten TTL-ICs (Transistor-Transistor-Logik) der Serie 74xx lieferbar. DEC war mit dem Rechner 8i damit ganz vorne in der Entwicklung [die Bezeichnung "8/I" begründet sich mit: "With <b><u>I</u></b>ntegrated Circuits"]. Man hatte mit dem Langzeitverhalten (spätere Defekte) solcher integrierten Schaltungen noch keine Erfahrung. UNIVAC hat daher selbst 1969 lieber noch auf die immerhin 2 Jahre bewährte DTL-Technik gesetzt. Zum Glück erwiesen sich die TTL-ICs als genauso stabil wie die DTL-Serie. Doch der Integrationsgrad war wesentlich höher, so dass der Platzbedarf schrumfte. <br>
+            <p>Im Jahre 1967 waren die ersten TTL-ICs (Transistor-Transistor-Logik) der Serie 74xx lieferbar. DEC war mit dem Rechner 8i damit ganz vorne in der Entwicklung [die Bezeichnung "8/I" begründet sich mit: "With <b><u>I</u></b>ntegrated Circuits"]. Man hatte mit dem Langzeitverhalten (spätere Defekte) solcher integrierten Schaltungen noch keine Erfahrung. UNIVAC hat daher selbst 1969 lieber noch auf die immerhin 2 Jahre bewährte DTL-Technik gesetzt. Zum Glück erwiesen sich die TTL-ICs als fast genauso stabil wie die DTL-Serie. Doch der Integrationsgrad war wesentlich höher, so dass der Platzbedarf schrumfte. <br>
 			Dieser erste Rechner mit integrierten Schaltungen von DEC war nicht gerade billig. Alleine die CPU (im Bild links, Mitte) ohne Peripherie kostete damals 27000 $. Bei dem Umrechnungskurs der 60iger Jahre entspricht das ca. 55000 Euro. <br/>Der Arbeitsspeicher (Ringkerne) hatte eine Kapazität von 8 kB. Während der Bearbeitung eines "größeren" Problems müssen eventuell fortwährend Files (Programme, Daten) auf ein Tape (Magnetband) ausgelagert und später wieder eingelesen werden. Um mit sowenig Arbeitsspeicher dennoch erstaunlich effektiv arbeiten zu können, wurde schon in diesen frühen Jahren ein ausgesprochen intelligentes Betriebssystem (PS/8 bzw. OS/8) entwickelt!  Es ist sehr interessant, dem Rechner bei seiner Arbeit zuzuschauen.</p>
             <p>Für alle, die einen solchen Computer noch nie gesehen haben, sei angemerkt, dass dieser mit Plotter über 2m hoch ist und ein Gewicht von ca. 300 kg hat.</p>
            
@@ -269,7 +269,7 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
  
 	<h3 id="wang2200"><b>WANG 2200</b> mit umfangreicher Peripherie</h3>
     <p>Weiterhin ist das erste System angeschlossen, was schon so ähnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.php">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
-    <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen LED-Anzeige.</p>
+    <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen Matrix-LED-Anzeige.</p>
 
     <div class="box center">
        <a href="/de/geraete/wang2200.php"><img src="/shared/photos/rechnertechnik/wang2200.jpg" alt="Wang 2200" width="592" height="402" /></a>

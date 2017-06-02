@@ -55,7 +55,7 @@
         <img src="/shared/photos/rechnertechnik/friden130.jpg" alt="Friden 130" width="694" height="497" />
         <p class="bildtext"><b>FRIDEN 130</b></p>
 	</div>
-		<p>Die amerikanische <b>Friden Calculating Machine Company</b> war schon einmal Vorreiter im Hinblick auf Tischrechner: In den fünfziger Jahren bauten sie den einzigen serienmäßigen mechanischen Rechner, der auch Wurzeln ziehen konnte. </p>
+		<p>Die amerikanische <b>Friden Calculating Machine Company</b> war schon einmal Vorreiter im Hinblick auf Tischrechner: In den fünfziger Jahren bauten sie den einzigen serienmäßigen mechanischen Rechner, mit dem man auch radizieren konnte. </p>
 		<div class="box left">
         <img src="/shared/photos/rechnertechnik/friden-display.jpg" alt="Display des Friden 130" width="274" height="134" /></div> 
 		<p>Im Jahre 1964 kam der <b>FRIDEN 130</b> auf den Markt. Es war der erste "Bildschirmrechner" der auf einer Oszilloskopröhre den Inhalt von 4 Registern anzeigt. Als Speichermedium dient ein <a href="speichermedien.php#magnetostriktion">Laufzeitspeicher</a>. <br/>Das Aussehen erinnert an die Zeit der damaligen Fernsehsendung "Raumschiff Enterprise"... Er hat etwas Futuristisches.<br/> Unter der Bezeichnung<b> FRIDEN 132</b> wurde er als Rechner mit Wurzelprogramm verkauft. Mit den 4 Grundrechenarten kostete er ca. 5000,- DM (ca. 2500 Euro), mit der Wurzeloption war er ca. 1700 DM teurer.<br>

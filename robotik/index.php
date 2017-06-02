@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>19.4.2017
+	<br>2.6.2017
 </div>
 
 <div class="spacing"></div>
@@ -93,7 +93,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
 </ul>
 <p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
-Hier einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a href="/robotik/blatt4.pdf">Aufgabenblatt 4 (PDF)</a> <br>
+Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="blank">Aufgabenblatt 4 (PDF)</a> <br>
 Keine Angst, das wird ja alles besprochen....</p>
 
 <h3>Voraussetzungen</h3>

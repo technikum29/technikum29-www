@@ -22,11 +22,11 @@
 			Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
 			Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
 			<div class="clear-after">
-		<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="blank">	
+		<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="_blank">	
         <img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
-		<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="blank">
+		<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/p203-2.jpg" alt="Olivetti P203" width="240" height="180" /></a>
-		<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="blank">
+		<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a></div>
 		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner sind voll funktionsfähig.
 			

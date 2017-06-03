@@ -107,15 +107,15 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 <div class="leftcol">
 Materialien zum Workshop in der Schule: <br>
 
-	<a href="/physical-computing/ph1.pdf" target="blank"> Physical-Computing Blatt 1 (PDF)</a><br>
-	<a href="/physical-computing/ph2.pdf" target="blank"> Physical-Computing Blatt 2 (PDF)</a><br>
-	<a href="/physical-computing/ph3.pdf" target="blank"> Physical-Computing Blatt 3 (PDF)</a><br><br>
+	<a href="/physical-computing/ph1.pdf" target="_blank"> Physical-Computing Blatt 1 (PDF)</a><br>
+	<a href="/physical-computing/ph2.pdf" target="_blank"> Physical-Computing Blatt 2 (PDF)</a><br>
+	<a href="/physical-computing/ph3.pdf" target="_blank"> Physical-Computing Blatt 3 (PDF)</a><br><br>
 	</div>
 <div class="rightcol">	
 	
-	<a href="/physical-computing/ph4.pdf" target="blank"> Physical-Computing Blatt 4 (PDF)</a><br>
-	<a href="/physical-computing/ph5.pdf" target="blank"> Physical-Computing Blatt 5 (PDF)</a><br>
-	<a href="/physical-computing/ph6.pdf" target="blank"> Physical-Computing Blatt 6 (PDF)</a>
+	<a href="/physical-computing/ph4.pdf" target="_blank"> Physical-Computing Blatt 4 (PDF)</a><br>
+	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
+	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a>
 	 <br><br>
 	 </div>
 	 </div>
@@ -128,7 +128,7 @@ Materialien zum Workshop in der Schule: <br>
 	<br><hr>
 	Wer am 1.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br><br>
 	
-	<a href="/physical-computing/Sonar-1637-tone" target="blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
+	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
 	
 	
 	

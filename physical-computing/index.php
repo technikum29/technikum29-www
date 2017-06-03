@@ -115,7 +115,7 @@ Materialien zum Workshop in der Schule: <br>
 	
 	<a href="/physical-computing/ph4.pdf" target="_blank"> Physical-Computing Blatt 4 (PDF)</a><br>
 	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
-	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a>
+	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a> <small>Version 6.1</small>
 	 <br><br>
 	 </div>
 	 </div>
@@ -126,7 +126,7 @@ Materialien zum Workshop in der Schule: <br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Wer am 1.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br><br>
+	Wer am 1.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br><br>
 	
 	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
 	

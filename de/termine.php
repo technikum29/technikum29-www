@@ -47,7 +47,12 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-	
+	<tr>
+		<td>Mo, <b>26. Juni</b><br>15:00 Uhr
+		<td>Computer-Dinosaurier
+		<td>Interaktive Führung
+		<td>Rossertschule <br>
+		
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
 		

@@ -55,8 +55,9 @@
         <div class="wann">
             <h2>Opening hours</h2>
             <ul>
-			
-                <li>We currently accept only group bookings (at least 8 people). Requests are accepted until five days before the favored date. </li>
+		<li>Guides are available only in German language.
+                <li>We accept only group bookings. Minimum number of participants 8, maximum 20, ideal 10-16.
+                    Students have free admission.
                 </li>
             </ul>
         </div>

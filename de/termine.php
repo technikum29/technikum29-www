@@ -49,7 +49,7 @@
 		
 	<tr>
 		<td>Mo, <b>26. Juni</b><br>15:00 Uhr
-		<td>Computer-Dinosaurier
+		<td>Computer-Dinosaurier<br>und mehr....
 		<td>Interaktive Führung
 		<td>Rossertschule <br>
 		

@@ -18,14 +18,12 @@
                    museums. The operation of our devices are always demonstrated
                    during the guided tours. Visitors
                    get a completely different impression of the circumstances of
-                   that time. Most likely, this is unique worldwide.
+                   that time. 
                <li>We concentrate on the first devices which were called "computers",
-                   i.e. a time span of roughly 1880 until 1970. We do not cover
+                   i.e. a time span of roughly 1927 until 1972. We do not cover
                    personal computers (late 1970s and beyond) at all. On principle,
                    almost all of our machines are big and bulky, they can be opened
-                   and one can watch the machine do computational steps. From our
-                   best knowledge, we are the only living computer museum covering
-                   this early period of rising electric computing.
+                   and one can watch the machine do computational steps. 
            </ul>
           </div>
 
@@ -35,7 +33,7 @@
                 <li>Naturally, our museum attracks "veterans" who worked with
                     these machines in the past. We recognize the knowledge and
                     work together to restore the machines.
-                <li>Our most pleasant target group are young kids, school classes
+                <li>Our most pleasant target group are kids, school classes
                     and students.
                     We organize workshops to build and program both old and new
                     technology.

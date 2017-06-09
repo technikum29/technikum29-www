@@ -115,18 +115,20 @@ Materialien zum Workshop in der Schule: <br>
 	
 	<a href="/physical-computing/ph4.pdf" target="_blank"> Physical-Computing Blatt 4 (PDF)</a><br>
 	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
-	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a> <small>Version 6.1</small>
+	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a> <small>Version 6.1</small><br>
+	<a href="/physical-computing/ph7.pdf" target="_blank"> Physical-Computing Blatt 7 (PDF, LED&KEY))</a>
 	 <br><br>
 	 </div>
 	 </div>
 	
 	
 	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.6.2017)</small><br>
+	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 9.6.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 	<br><hr>
-	Wer am 1.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br><br>
+	Wer am 1.6. bzw. 8.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br>
+	Mit dem Anzeigemodul TM1638 (LED&KEY) haben wir begonnen (siehe Blatt 7).<br>
 	
 	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
 	

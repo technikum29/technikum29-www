@@ -53,6 +53,12 @@
 		<td>Interaktive Führung
 		<td>Rossertschule <br>
 		
+		<tr>
+		<td>Do, <b>29. Juni</b><br>9:00 + 10:15 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung
+		<td>Eichendorffschule G5b<br>
+		
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
 		

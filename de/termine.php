@@ -111,6 +111,14 @@
 		<th style="width:9em;">
 		<th>
 	<tr>
+	
+		<td>Do, <b>19. Okt.</b><br>10:00 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Kinder Akademie Fulda<br>
+		
+	<tr>
+	
 		<td>Fr, <b>15. Dez.</b><br>ab 15:00 Uhr
 		<td>Computer-History<br>Workshop 
 		<td>Geburtstags-Event<br>

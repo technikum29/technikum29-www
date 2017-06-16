@@ -11,7 +11,7 @@
 	
     <p>We are looking for:</p>
    
-      Manuals for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
+      Manuals (Copy) for the <b>AMPEX TMZ</b> Digital Tape Memory System (Look at IBM1130)
 	  <br>
 	  <hr>
 	   <div class="left">

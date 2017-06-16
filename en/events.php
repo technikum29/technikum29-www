@@ -28,7 +28,7 @@ international publicum. Currently we can offer guided tours only in German langu
 <a href="/en/education.php">educational courses and workshops for children</a>, "research"-like
 <a href="/en/study-projects.php">school projects</a>, artistic
 <a href="/en/miscellaneous.php#music">music projects</a> and
-<a href="/en/miscellaneous.php#leander">art projects</a>. We also frequently host public evening
+<a href="/en/miscellaneous.php#leander">art projects</a>. We also host public evening
 talks for general purpose outreach.
 
 <p>The following information is merely a copy of our <a href="/de/termine.php">calender of tours and

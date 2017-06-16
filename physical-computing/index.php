@@ -73,7 +73,8 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 <div class="rightcol">
 
 <h3>Für Schüler</h3> <br>
-In diesem Workshop, den man auch mit <b>Arduino-Labor</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Vorkenntnisse in dieser Programmiersprache sind nicht erforderlich, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
+In diesem Workshop, den man auch mit <b>Arduino-Labor</b> oder <b>Wie tickt unsere digitale Welt?</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache.
+<br>Vorkenntnisse in dieser Programmiersprache sind nicht erforderlich, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
 Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können, selbst das Sprechen werden wir ihm beibringen.<br>
 <div class="box left">
 	<img src="eds-2.jpg" width="220"  height="223"/> 
@@ -91,7 +92,7 @@ Falls noch genügend Zeit vorhanden ist, werden wir uns auch mit einem vorhanden
 </div>
 		
 Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du hier Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten geeignet sind.<br>
-Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase ist. Noch ist nicht alles perfekt.<br>
+<br>
 
 
 
@@ -102,8 +103,12 @@ Für alle "Fremdleser" sei angemerkt, dass dieser Kurs in der Entstehungsphase i
 </div><!-- /cols -->
 
 <hr>
-<div class="cols clear-after">
+<div class="cols clear-after"><br>
 
+<?php $zaun_eds->printAnchor(); ?>
+	Materialien speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.6.2017)</small><br>
+
+	<?php $zaun_eds->start(); ?>
 <div class="leftcol">
 Materialien zum Workshop in der Schule: <br>
 
@@ -122,10 +127,7 @@ Materialien zum Workshop in der Schule: <br>
 	 </div>
 	
 	
-	<?php $zaun_eds->printAnchor(); ?>
-	Speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 9.6.2017)</small><br>
-
-	<?php $zaun_eds->start(); ?>
+	
 	<br><hr>
 	Wer am 1.6. bzw. 8.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br>
 	Mit dem Anzeigemodul TM1638 (LED&KEY) haben wir begonnen (siehe Blatt 7).<br>

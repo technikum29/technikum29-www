@@ -26,7 +26,8 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
-	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Eichendorffschule (EDS) in Kelkheim. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten.
+	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Eichendorffschule (EDS) in Kelkheim. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten.<br>
+	Ab August startet dieser Workshop auch an der Albert-Einstein-Schule (AES) in Schwalbach.
 	
 </div>
 

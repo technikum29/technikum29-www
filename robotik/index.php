@@ -123,7 +123,7 @@ Termin: Entweder vom 9. bis 13.10. oder vom 16. bis 20.10.2017, je nach dem, fü
 <div class="clear cols">
 
 <p><b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz. Weitere Einzelheiten siehe: 
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz und haben sich damit für das Weltfinale in Costa Rica qualifiziert. Weitere Einzelheiten siehe: 
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 

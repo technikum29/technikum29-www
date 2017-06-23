@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>2.6.2017
+	<br>23.6.2017
 </div>
 
 <div class="spacing"></div>
@@ -122,9 +122,9 @@ Termin: Entweder vom 9. bis 13.10. oder vom 16. bis 20.10.2017, je nach dem, fü
 </div><!-- /cols -->
 <div class="clear cols">
 
-<p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei der "World Robot Olympiad" (WRO) in Neu-Delhi gewannen sie nun den 5. Platz. Schüler aus 50 Nationen hatten teilgenommen, dabei belegten asiatische Schüler die ersten 4. Plätze. Weitere Einzelheiten siehe: <br>
-<a class="go" href= "http://www.themindfactory.net" target="_blank">THE MINDFACTORY</a> oder <a class="go" href= "http://blog.themindfactory.net" target="_blank">THE MINDFACTORY Blog</a>. </p>
+<p><b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
+Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz. Weitere Einzelheiten siehe: 
+<a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">

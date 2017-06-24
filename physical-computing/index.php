@@ -106,20 +106,26 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 <hr>
 <div class="cols clear-after"><br>
 
+Beispielseite:<br>
+<a href="/physical-computing/ph1.pdf" target="_blank"> Physical-Computing Blatt 1 (PDF)</a><br><br>
 <?php $zaun_eds->printAnchor(); ?>
-	Materialien speziell für Schüler der EDS: &nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.6.2017)</small><br>
+
+	Materialien speziell für Schüler der EDS: 
+	
+	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 16.6.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 <div class="leftcol">
-Materialien zum Workshop in der Schule: <br>
 
-	<a href="/physical-computing/ph1.pdf" target="_blank"> Physical-Computing Blatt 1 (PDF)</a><br>
+<br>
+
 	<a href="/physical-computing/ph2.pdf" target="_blank"> Physical-Computing Blatt 2 (PDF)</a><br>
-	<a href="/physical-computing/ph3.pdf" target="_blank"> Physical-Computing Blatt 3 (PDF)</a><br><br>
-	</div>
-<div class="rightcol">	
-	
+	<a href="/physical-computing/ph3.pdf" target="_blank"> Physical-Computing Blatt 3 (PDF)</a><br>
 	<a href="/physical-computing/ph4.pdf" target="_blank"> Physical-Computing Blatt 4 (PDF)</a><br>
+	</div>
+	
+<div class="rightcol"><br>	
+	
 	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
 	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a> <small>Version 6.1</small><br>
 	<a href="/physical-computing/ph7.pdf" target="_blank"> Physical-Computing Blatt 7 (PDF, LED&KEY))</a>

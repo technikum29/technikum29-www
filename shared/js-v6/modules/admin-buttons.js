@@ -33,15 +33,21 @@ t29.admin.bodyclass_button = function(className, label, afterClick) { /* this is
 t29.admin.setup = function() {
 	// poor mans check if the admin buttons should load
 	// (should be coupled to t29Host)
-
+	
 	if(!location.hostname.match(/^design|localhost|heribert/i))
 		return;
+	
+	// Disable for the moment, no more needed
+	return;
 
 	t29.admin.section = $("<section id='admin-buttons'></section>").appendTo('body');
-	
+
+	// Disabble this one, currently no more needed
+	/*
 	t29.admin.b1 = new t29.admin.bodyclass_button('bg-test1-design',
 		'Neuer Hintergrund März 2016', function(button){
 			$(window).scrollTop(0);
 			t29.log.info('Neues Design ist <b>'+(button.isActive()?"eingeschaltet":"ausgeschaltet")+'</b> für alle weiteren Seitenbesuche auf <a href="'+location.hostname+'">'+location.hostname+'</a>.');
 	});
+	*/
 };

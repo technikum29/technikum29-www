@@ -124,6 +124,9 @@ class t29Template {
 		// (added quite lately in dec 2016 as a patchy way to tag pages)
 		$this->body_classes = array_merge($this->current_link_classes, $this->body_classes);
 		
+		// 2017-06-26: Another design review, this time by switching between CSS classes.
+		$this->body_classes[] = "design-2017-06-26";
+		
 		// check and load additional css.
 		// #51: This is now checked by the site caching in technikum29.php.
 		$this->conf['pagecss'] = $this->conf['host']->ressources_get_pagestyle($this->conf['seiten_id']);

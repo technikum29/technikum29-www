@@ -253,12 +253,21 @@ footer .right .icons a:hover, footer .right .icons a:focus { opacity: 1; }
 
 /* Post-Footer */
 footer.attached {
-	/* @embed */ background: #307588 url("/shared/img-v6/bg-v2.body-footer.png") top left repeat-x;
 	margin-top: -122px;
 	padding: 130px 0 30px;
 	
 	color: white;
 	font-size: 14px;
+}
+
+body.design-v2 {
+	/* old */
+	/* @embed */ background: #307588 url("/shared/img-v6/bg-v2.body-footer.png") top left repeat-x;
+}
+
+body.design-2017-06-26 footer.attached {
+	/* @embed */ background: #7c949c url("/shared/img-v6/bg2017-06-26.body-footer.svg") top left repeat-x;
+	color: white;
 }
 
 footer.attached div.legacy {
@@ -312,6 +321,16 @@ footer div.bigfooter .block:visited {
 	text-decoration: none;
 	color: inherit;
 }
+
+/* Versuch, zu schauen ob die Teile sich mit Hintergrundfarbe abheben lassen.
+   Sieht kastig aus.  */
+/*
+body.design-2017-06-26 footer div.bigfooter .block,
+body.design-2017-06-26 footer div.bigfooter .block:link,
+body.design-2017-06-26 footer div.bigfooter .block:visited {
+	background-color: #53676f;
+}
+*/
 
 footer.attached div.bigfooter .block:hover {
 	background-color: rgba(255,255,255,.1);

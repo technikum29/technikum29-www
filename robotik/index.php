@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>23.6.2017
+	<br>27.6.2017
 </div>
 
 <div class="spacing"></div>
@@ -35,7 +35,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 </div>
 
 Neueste Presseberichte:<br><br>
-<a href="FAZ-24.6.2017.jpg"> Tüfteln, bis der Robo spurt, FAZ vom 24.6.2017</a>
+<a href="FAZ-24.6.2017.jpg"> Tüfteln, bis der Robo spurt</a> FAZ vom 24.6.2017
 
 
 SIDEBAR_ENDE;

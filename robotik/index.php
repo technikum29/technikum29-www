@@ -34,6 +34,9 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a> </p>
 </div>
 
+Neueste Presseberichte:<br><br>
+<a href="FAZ-24.6.2017.jpg"> Tüfteln, bis der Robo spurt, FAZ vom 24.6.2017</a>
+
 
 SIDEBAR_ENDE;
 	
@@ -128,7 +131,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big><b>Das Arduino-Labor: Physical-Computing & Robotics </b></big></big> 
+	<p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big> 
 	
 	<div class="box left">
 	<img src="arduino.jpg" width="220"  height="171"/> 
@@ -140,7 +143,7 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
-	<p class="bildtext"><big><big><b>Geburtstags-Event für Kids ab 10</b></big></big> <br><br>
+	<p class="bildtext"><big><big>Geburtstags-Event für Kids ab 10</big></big> <br><br>
 	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen. Dabei passen wir den "Tiefgang" dem Alter der Teilnehmer an.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. Für den Workshop sollten die Teilnehmer jedoch mindestens 11 Jahre alt sein.<br>

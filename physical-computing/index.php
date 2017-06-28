@@ -136,7 +136,7 @@ Beispielseite:<br>
 	
 	
 	<br><hr>
-	Am 29.6.2017 findet die AG nicht statt (fast-Ferien!). Wenn kein Hitzefrei ist, gibt es zu diesem Termin jedoch ein Info-Treffen für weitere Interessenten an der AG.
+	Am 29.6.2017 findet die AG nicht statt (fast-Ferien!). 
 	<br><br>
 	Wer am 1.6. bzw. 8.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br>
 	Mit dem Anzeigemodul TM1638 (LED&KEY) haben wir begonnen (siehe Blatt 7).<br>

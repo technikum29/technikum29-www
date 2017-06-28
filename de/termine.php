@@ -47,11 +47,6 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-	<tr>
-		<td>Mo, <b>26. Juni</b><br>15:00 Uhr
-		<td>Computer-Dinosaurier<br>und mehr....
-		<td>Interaktive Führung
-		<td>Rossertschule <br>
 		
 		<tr>
 		<td>Do, <b>29. Juni</b><br>9:00 + 10:15 Uhr

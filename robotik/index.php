@@ -35,7 +35,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 </div>
 
 Neueste Presseberichte:<br><br>
-<a href="FAZ-24.6.2017.jpg"> Tüfteln, bis der Robo spurt</a> FAZ vom 24.6.2017
+<a href="FAZ-24.6.2017.pdf"> Tüfteln, bis der Robo spurt</a> FAZ vom 24.6.2017
 
 
 SIDEBAR_ENDE;

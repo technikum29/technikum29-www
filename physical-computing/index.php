@@ -112,7 +112,7 @@ Beispielseite:<br>
 
 	Materialien speziell für Schüler der EDS: 
 	
-	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 25.6.2017)</small><br>
+	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.7.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 <div class="leftcol">
@@ -127,7 +127,7 @@ Beispielseite:<br>
 <div class="rightcol"><br>	
 	
 	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
-	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a> <small>Version 6.1</small><br>
+	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a><br>
 	<a href="/physical-computing/ph7.pdf" target="_blank"> Physical-Computing Blatt 7 (PDF, LED&KEY))</a>
 	 <br><br>
 	 </div>
@@ -136,10 +136,13 @@ Beispielseite:<br>
 	
 	
 	<br><hr>
-	Am 29.6.2017 findet die AG nicht statt (fast-Ferien!). 
-	<br><br>
+	Nach den Ferien wird zunächst eine Info für interessierte Schüler der 8. Klassen stattfinden. Wenn hier genügend zusammenkommen, könnte man diese in ca.
+3-4 Monaten an unseren Stand heranführen. In dieser Zeit würde die AG für euch ausfallen. Ihr steigt dann wieder ein, wenn der Rest beim Thema "Einparkhilfe programmieren" ist.
+Wir besprechen das alles zu Beginn des neuen Schuljahres.<br>
+Bis dahin: Schöne Ferien!	
+	<br><hr>
 	Wer am 1.6. bzw. 8.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br>
-	Mit dem Anzeigemodul TM1638 (LED&KEY) haben wir begonnen (siehe Blatt 7).<br>
+	<br>
 	
 	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
 	

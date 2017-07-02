@@ -15,7 +15,7 @@
        <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg" width="872" height="414" alt="LGP 21 Computeranlage" />
 </div>
         <div style="height: 443px;">&nbsp;</div>
-		<p class="bildtext small">Von links nach rechts: Magnetbandlaufwerk, 1. LGP-21, Tally Leser und Stanzer, 2. Tally Leser, zwei zusätzliche Festplatten, 2. LGP-21, Flexowriter</p>
+		<p class="bildtext small">Von links nach rechts: Magnetbandlaufwerk, erster LGP-21, Tally Leser und Stanzer, zweiter Tally Leser, zwei zusätzliche Festplatten, zweiter LGP-21, Flexowriter</p>
 		
     </div>
 	
@@ -28,7 +28,7 @@
 		<p class="bildtext">Externe Speicher des LGP-21 sind Lochstreifen, welche durch die Tally-Lochstreifenleser noch mechanisch abtastet werden. Das Bandlaufwerk und weitere externe Platten mit je ca. 8000 32-Bit-Worte Kapazität kamen erst Ende der 60er Jahre hinzu.</p>
 	</div>
 
-	<p>Der LGP21-Rechner ist sehr selten. Nur ca. 100 Stück wurden davon gebaut. Eine absolute Rarität ist das Magnetband-Laufwerk von dem etwa fünf Stück hergestellt wurden. Unser Gerät hat die Seriennummer 4.</p>
+	<p>Der LGP21-Rechner ist sehr selten. Nur ca. 100 Stück wurden davon gebaut. Eine absolute Rarität ist das Magnetband-Laufwerk von dem nur etwa fünf Stück hergestellt wurden. Unser Gerät hat die Seriennummer 4.</p>
 	
 	
 	

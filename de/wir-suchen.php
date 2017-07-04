@@ -14,6 +14,8 @@
 
 		
 	<h3>Geräte, Manuals und Bauteile</h3>
+	
+	<h4>Wir suchen dringend die Elektronenröhren E 182 CC sowie E 180 CC für unseren LGP-30 Rechner</h4>
 
 	<h4>Schaltpläne für AMPEX Magnetbandlaufwerk</h4>
 	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe <a class="go" href="/de/rechnertechnik/ibm1130.php">IBM 1130</a>

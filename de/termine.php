@@ -29,8 +29,7 @@
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
 	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
-	Folgender Hinweis: Ab Februar 2017 sind folgende Zeiten bereits fest an Schulen vergeben:
-	Montags bis 13:00 Uhr, dienstags und donnerstags je ab 12:00 Uhr. Diese Zeiten stehen nur in Ausnahmefällen für andere Schulen zur Verfügung.<br>
+	
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 	
@@ -47,7 +46,11 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-		
+		<tr>
+		<td>Mi, <b>19. Juli</b><br>11:30 Uhr
+		<td>Computer-History 
+		<td>Dreharbeiten des Hessischen Rundfunks
+		<td>nur für HR-Mitarbeiter <br>
 		
 		
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->

@@ -52,6 +52,12 @@
 		<td>Dreharbeiten des Hessischen Rundfunks
 		<td>nur für HR-Mitarbeiter <br>
 		
+		<tr>
+		<td>So, <b>23. Juli</b><br>14:00 Uhr
+		<td>Computer-History 
+		<td>Interaktive Führung
+		<td>Gruppe Gräf <br>
+		
 		
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
@@ -83,13 +89,13 @@
 		<td>Sa, <b>12. August</b><br>14:00 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
 		<td>Interaktive Führung
-		<td>Neugierige Menschen ab 11 Jahre <br>
+		<td>Neugierige Menschen<br>
 		
 		<tr>
 		<td>So, <b>13. August</b><br>14:00 Uhr
 		<td>Die Urahnen des Smartphones ***) s.u.
 		<td>Interaktive Führung
-		<td>Neugierige Menschen ab ca. 12 Jahre
+		<td>Neugierige Menschen
 		
 		</font>
 		</table>

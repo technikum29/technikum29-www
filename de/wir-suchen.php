@@ -13,9 +13,10 @@
   Immer gesucht aber schwerlich zu finden sind Leute mit starkem technischem Interesse, die hier mitmachen möchten. Arbeiten Sie sich in eines unserer Computer-Systeme ein, es macht wirklich Spaß und ist ein ungewöhnliches und anspruchsvolles Hobby. Dabei könnten Sie Schwerpunkte im Software- oder Hardware-Bereich setzen. Sie sollten jedoch im näheren Umkreis des Museums wohnen. 
 
 		
-	<h3>Geräte, Manuals und Bauteile</h3>
+	<h3>Geräte, Manuals und Bauteile</h3><br>
 	
-	<h4>Wir suchen dringend die Elektronenröhren E 182 CC (=7119) sowie E 180 CC für unseren LGP-30 Rechner</h4>
+	Wir suchen dringend die Elektronenröhren <b>E 182 CC (=7119)</b> sowie <b>E 180 CC (=5965)</b> für unseren LGP-30 Rechner. <br>
+	Ein Tausch gegen andere gesuchte Röhren ist ebenfalls denkbar.
 
 	<h4>Schaltpläne für AMPEX Magnetbandlaufwerk</h4>
 	Gesucht werden Manuals (Schaltpläne) für das <b>AMPEX TMZ</b> Magnetbandlaufwerk (Digital Tape Memory System) sowie Unterlagen zum Interface von WDV (München), siehe <a class="go" href="/de/rechnertechnik/ibm1130.php">IBM 1130</a>

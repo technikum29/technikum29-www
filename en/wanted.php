@@ -5,9 +5,10 @@
 	
 	require "../lib/technikum29.php";
 ?>
-    <h2>We are looking for...</h2>
+    <h2>We are looking for...</h2><br>
 	
-	<h4>We are urgently looking for the tubes E 182 CC (=7119) and E 180 CC (=7062) for our LGP-30 computer</h4>
+	We are urgently looking for the tubes <b>E 182 CC (=7119)</b> and <b>E 180 CC (=5965)</b> for our LGP-30 computer.<br>
+	Exchange for other searched tubes is also possible.<br>
 
 	<h3>Devices and Manuals</h3>
 	

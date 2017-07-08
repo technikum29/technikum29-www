@@ -109,10 +109,9 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro a
 
 <h3><font color="#FF0000">Termine</h3>
 Sommerferien:</font><br>
-<b>1. Einführungskurs</b> an der Volkshochschule des MTK in Hofheim: <br>
-Mo. 10.7.2017 bis Fr. 14.7.2017 jeweils 10:00 bis 12:00 Uhr. Anmeldung hierzu an der <a class="go" href="https://www.vhs-mtk.de/index.php?id=37&kathaupt=11&knr=G7505111"> VHS-MTK.</a><br>
-<b>2. Einführungskurs</b> im technikum29: <br>
-Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr, Anmeldung nebenstehend. Aktuell gibt es noch 2 freie Plätze.<br>
+
+<b>Einführungskurs</b> im technikum29: <br>
+Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr, Anmeldung nebenstehend.<br>
 
 <font color="#FF0000">Herbstferien:</font><br>
 Hier bieten wir einen <b>Fortsetzungskurs</b> in unseren Räumen an. Er setzt die grundlegenden Kenntnisse der EV3-Programmierung voraus.<br>

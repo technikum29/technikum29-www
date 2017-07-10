@@ -23,17 +23,17 @@ Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein
 
 		
 	<div style="width: 350px;" class="desc-left borderless no-copyright">
-    <a class="popup" href="/shared/photos/rechnertechnik/lgp30-2.jpg">
+    <a href="/shared/photos/rechnertechnik/lgp30-2.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/lgp30-2.jpg" alt="Frontansicht, offen" height="266" width="350"></a>	
 		<div class="bildtext">	
-			<p><b>Vorderansicht, ohne Verkleidung</b></p> <a class="popup" href="/shared/photos/rechnertechnik/lgp30-2.jpg"> Bild vergrößern</a> 
+			<p><b>Vorderansicht, ohne Verkleidung</b></p> 
 		</div></div>	
 				
 		<div style="width: 350px;" class="desc-right borderless no-copyright">
-    <a class="popup" href="/shared/photos/rechnertechnik/lgp30-3.jpg">
+    <a href="/shared/photos/rechnertechnik/lgp30-3.jpg"target="_blank" >
 		<img src="/shared/photos/rechnertechnik/lgp30-3.jpg" alt="Rückansicht, offen" height="262" width="350"></a>	
 		<div class="bildtext">	
-			<p><b>Rückansicht, ohne Verkleidung</b></p> <a class="popup" href="/shared/photos/rechnertechnik/lgp30-3.jpg"> Bild vergrößern</a> 
+			<p><b>Rückansicht, ohne Verkleidung</b></p> Die Bilder lassen sich vergrößern</p> 
 		</div></div>	
 
 <p class="clear">Bei so einem historischen Rechner sind die technischen Daten durchaus interessant:<br>
@@ -51,5 +51,27 @@ Das Gewicht des LGP30 beträgt stolze 365 kg (ohne Peripherie).
 </ol>
 
 Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, wobei z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
-Der Versuch der Instandsetzung des LGP-30 erfolgt in den nächsten Monaten. Wir berichten dann weiter.
+<div class="desc-right borderless">
+<a href="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" target="_blank">
+		<img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" alt="Trommelspeicher" height="325" width="420"></a>	
+		<div class="bildtext">	</a>
+			<p>Trommelspeicher. Die Magnetschicht hat einige Defekte.<br>Das Bild lässt sich vergrößern.</p>  
+		</div>	</div>
+
+<b>Beginn der Restauration</b><br>
+Nach zwei Jahren endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrechners (Juli 2017). Das größte Problem stellt der Trommelspeicher dar. Hierfür gibt es 4 Lösungsvarianten:<br>
+1. Neubeschichtung der Trommel. Das wäre die beste Methode aber die Durchführung ist extrem schwierig.<br>
+2. Simulation durch einen Micro-Controller. Bei einer Taktfrequenz von ca. 135 KHz gerät ein solcher Controller an seine Grenzen. Die Anbindung an die Röhrenpotenziale wäre auch zu meistern.<br>
+3. "Diskrete" Elektronik mit RAM, EPROM und TTL´s: Aufwändige Schaltung mit den gleichen Potenzialproblemen.<br>
+4. Induktive Ankopplung, jeder Kopf erhält einen Gegenkopf der an ein Umlaufregister angeschlossen ist. Extrem aufwändig. Diese Idee wurde wieder verworfen.<br><br>
+Im Vergleich zur Trommel-Emulation ist die Herstellung aller fehlenden Verbindungskabel eine Kleinigkeit.<br>
+Erfreulicherweise haben sich 4 Experten bereit erklärt, an dieser Herausforderung mitzuarbeiten. Insbesondere gilt unser Dank Herrn Klemens Krause vom <a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.
+
+
+
+
+
+
+
+
 

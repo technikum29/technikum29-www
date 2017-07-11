@@ -57,12 +57,13 @@ Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgefüh
 		<div class="bildtext">	</a>
 			<p>Trommelspeicher. Die Magnetschicht hat einige Defekte.<br>Das Bild lässt sich vergrößern.</p>  
 		</div>	</div>
-
-<b>Beginn der Restauration</b><br>
-Nach zwei Jahren endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrechners (Juli 2017). Das größte Problem stellt der Trommelspeicher dar. Hierfür gibt es 4 Lösungsvarianten:<br>
+		
+<div id="trommel"></div>
+<b>Beginn der Restauration</b><br><br>
+Nun endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrechners (Juli 2017). Das größte Problem stellt der Trommelspeicher dar. Hierfür gibt es 4 Lösungsvarianten:<br>
 1. Neubeschichtung der Trommel. Das wäre die beste Methode aber die Durchführung ist extrem schwierig.<br>
 2. Simulation durch einen Micro-Controller. Bei einer Taktfrequenz von ca. 135 KHz gerät ein solcher Controller an seine Grenzen. Die Anbindung an die Röhrenpotenziale wäre auch zu meistern.<br>
-3. "Diskrete" Elektronik mit RAM, EPROM und TTL´s: Aufwändige Schaltung mit den gleichen Potenzialproblemen.<br>
+3. "Diskrete" Elektronik mit RAM, EPROM, OP´s und TTL´s: Aufwändige Schaltung mit den gleichen Potenzialproblemen.<br>
 4. Induktive Ankopplung, jeder Kopf erhält einen Gegenkopf der an ein Umlaufregister angeschlossen ist. Extrem aufwändig. Diese Idee wurde wieder verworfen.<br><br>
 Im Vergleich zur Trommel-Emulation ist die Herstellung aller fehlenden Verbindungskabel eine Kleinigkeit.<br>
 Erfreulicherweise haben sich 4 Experten bereit erklärt, an dieser Herausforderung mitzuarbeiten. Insbesondere gilt unser Dank Herrn Klemens Krause vom <a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.

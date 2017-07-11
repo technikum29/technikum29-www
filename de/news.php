@@ -15,6 +15,14 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/lgp30.php#trommel">
+	<h3>Juli 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" width="153" height="118" /><br>
+	Das Abenteuer beginnt: Restauration des Röhrenrechners LGP-30
+</a></li>
+
+
+
 <li><a href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">
 	<h3>April 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/p203-2.jpg" width="153" height="115" /><br>

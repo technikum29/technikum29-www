@@ -15,7 +15,7 @@
 		
 	<h3>Geräte, Manuals und Bauteile</h3><br>
 	
-	Wir suchen dringend die Elektronenröhren <b>E 182 CC (=7119)</b> sowie <b>E 180 CC (=5965)</b> für unseren LGP-30 Rechner. <br>
+	Wir suchen die Elektronenröhren <b>E 182 CC (=7119)</b> sowie <b>E 180 CC (=5965)</b> für unseren LGP-30 Rechner. <br>
 	Ein Tausch gegen andere gesuchte Röhren ist ebenfalls denkbar.
 
 	<h4>Schaltpläne für AMPEX Magnetbandlaufwerk</h4>

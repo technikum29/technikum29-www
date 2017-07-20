@@ -104,7 +104,7 @@ Keine Angst, das wird ja alles besprochen....</p>
 
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Schüler teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>
-Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro (45 Euro an der VHS).</p>
+Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 
 <h3><font color="#FF0000">Termine</h3>

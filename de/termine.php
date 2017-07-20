@@ -46,16 +46,11 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer 
 		
-		<tr>
-		<td>Mi, <b>19. Juli</b><br>11:30 Uhr
-		<td>Computer-History 
-		<td>Dreharbeiten des Hessischen Rundfunks
-		<td>nur für HR-Mitarbeiter <br>
 		
 		<tr>
 		<td>So, <b>23. Juli</b><br>14:00 Uhr
 		<td>Computer-History 
-		<td>Interaktive Führung
+		<td>Spezial-Führung
 		<td>Gruppe Gräf <br>
 		
 		

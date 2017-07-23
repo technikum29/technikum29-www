@@ -53,7 +53,7 @@ Wer sich für den Aufbau und die Programmierung des Rechners interessiert, kann 
 		<p>Lochkartenleser <a class="popup" href="/shared/photos/rechnertechnik/leser617.jpg">Bild vergrößern</a><br> </p>
 		</div></div>
 Im Bild links ist der Lochkartenleser des GE55 zu sehen (ohne Abdeckung). Alles was mechanisch lösbar war, hat BULL auch so gelöst: Die Lochkarte zieht ein Lochband mit, welches den Lesetakt zur Lesung der Spalten erzeugt! Ein problematisches Verschleißteil aber eine originelle, simple Lösung für das spaltenrichtige Lesen der Karte. <br> 
-Deutlich ist auch die Projektionsanzeige zu erkennen. 10 Ziffern und zwei Sonderzeichen werden durch Lämpchen und Linsen auf je eine Mattscheibe projiziert. Über diese Anzeige findet die Kommunikation mit dem Rechner statt. Sie steht sozusagen für den heutigen Bildschirm.<br>
+Deutlich ist auch die Projektionsanzeige zu erkennen. 10 Ziffern und zwei Sonderzeichen werden durch Lämpchen und Linsen auf je eine Mattscheibe projiziert. Über diese Anzeige findet die Kommunikation mit dem Rechner statt. Sie steht sozusagen für das heutige Display.<br>
 Im unteren Bild sieht man den ausgebauten Festwertspeicher für 1024 Worte. Groß und schwer, dafür jedoch immer reparierbar! Beide Bilder lassen sich auch vergrößert darstellen.
 		
 		

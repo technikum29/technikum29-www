@@ -39,26 +39,19 @@
 	</div><!-- Ende nur-auf-deutscher-seite -->
 
 	<div class="termine">
-	<table class="termine">
+<!--	<table class="termine">
 	<tr class="title">
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
 		<th style="width:9em;">Typ
-		<th>Teilnehmer 
-		
-		
-		<tr>
-		<td>So, <b>23. Juli</b><br>14:00 Uhr
-		<td>Computer-History 
-		<td>Spezial-Führung
-		<td>Gruppe Gräf <br>
+		<th>Teilnehmer     
 		
 		
 	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
 	
 		
-		</table>
-		</div> <br>
+		</table> 
+		</div> <br>   
 		<div class="rightcol">
 		
 	  <div class="foto left mobile">
@@ -69,10 +62,13 @@
 		<div class="termine">
 		<table class="termine">
 		<tr class="title">
-		<th style="width:9em">
-		<th style="width:13em;">
-		<th style="width:9em;">
-		<th>
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:9em;">Typ
+		<th>Teilnehmer
+		
+		
+		
 		
 		<tr>
 		<td>Sa, <b>5. August</b><br>19:00 Uhr
@@ -130,7 +126,7 @@
 		Maximale Teilnehmerzahl: 50
 		<br><br>
 		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
-		Maximale Teilnehmerzahl: 16
+		Maximale Teilnehmerzahl: 16  
 		<br><br>
 		***) Was war lange vor der Zeit von Smartphones & Co.? Die Musik- und Bildwiedergabe begann mit sehr einfachen, teils verblüffenden technischen Geräten. Wie war das mit den ersten Rundfunkempfängern ab 1923, den ersten Fernsehgeräten von 1952, Video-Projektionsanlagen ab 1956, den ersten Faxgeräten, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr?<br>
 		Eine spannende Zeitreise durch die Welt der frühen technischen Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>

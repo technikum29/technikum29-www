@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>3.7.2017
+	<br>26.7.2017
 </div>
 
 <div class="spacing"></div>
@@ -111,9 +111,9 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 Sommerferien:</font><br>
 
 <b>Einführungskurs</b> im technikum29: <br>
-Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr, Anmeldung nebenstehend.<br>
+Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr. <font color="#FF0000">>>ausgebucht!</font><br>
 
-<font color="#FF0000">Herbstferien:</font><br>
+<b>Herbstferien:</b><br>
 Hier bieten wir einen <b>Fortsetzungskurs</b> in unseren Räumen an. Er setzt die grundlegenden Kenntnisse der EV3-Programmierung voraus.<br>
 Termin: Entweder vom 9. bis 13.10. oder vom 16. bis 20.10.2017, je nach dem, für welchen Termin mehr Anmeldungen eingehen (min. 8, max. 10). Uhrzeit: 14:00 bis 16:00 Uhr.
 

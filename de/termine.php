@@ -88,7 +88,6 @@
 		<td>So, <b>13. August</b><br>14:00 Uhr
 		<td>Die Urahnen des Smartphones ***) s.u.
 		<td>Interaktive Führung<br>
-		<font color="#000000">ausgebucht!!</font>
 		<td>Neugierige Menschen
 		
 		</font>
@@ -134,7 +133,7 @@
 		***) Was war lange vor der Zeit von Smartphones & Co.? Die Musik- und Bildwiedergabe begann mit sehr einfachen, teils verblüffenden technischen Geräten. Wie war das mit den ersten Rundfunkempfängern ab 1923, den ersten Fernsehgeräten von 1952, Video-Projektionsanlagen ab 1956, den ersten Faxgeräten, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr?<br>
 		Eine spannende Zeitreise durch die Welt der frühen technischen Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>
 		Auch für Kids ab ca. 12 Jahre bestens geeignet.<br>
-		Maximale Teilnehmerzahl: 14 <font color="#FF0000">>>ausgebucht!</font>
+		Maximale Teilnehmerzahl: 14 
 		<br>
 	
 	

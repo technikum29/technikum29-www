@@ -81,13 +81,14 @@
 		<td>Sa, <b>12. August</b><br>14:00 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
 		<td>Interaktive Führung<br>
-		<font color="#000000">ausgebucht, wird wiederholt</font>
+		<font color="#000000">ausgebucht, wird wiederholt, s.u.</font>
 		<td>Neugierige Menschen<br>
 		
 		<tr>
 		<td>So, <b>13. August</b><br>14:00 Uhr
 		<td>Die Urahnen des Smartphones ***) s.u.
 		<td>Interaktive Führung<br>
+		<font color="#000000">ausgebucht!!</font>
 		<td>Neugierige Menschen
 		
 		</font>
@@ -128,12 +129,12 @@
 		Maximale Teilnehmerzahl: 50 <font color="#FF0000">>>ausgebucht!</font>
 		<br><br>
 		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
-		Maximale Teilnehmerzahl: 16  <font color="#FF0000">>>ausgebucht! Es gibt eine zweite Führung im August/September.</font>
+		Maximale Teilnehmerzahl: 16  <font color="#FF0000">>>ausgebucht! Es gibt eine zweite Führung im August/September. Anmeldungen hierfür sind noch möglich.</font>
 		<br><br>
 		***) Was war lange vor der Zeit von Smartphones & Co.? Die Musik- und Bildwiedergabe begann mit sehr einfachen, teils verblüffenden technischen Geräten. Wie war das mit den ersten Rundfunkempfängern ab 1923, den ersten Fernsehgeräten von 1952, Video-Projektionsanlagen ab 1956, den ersten Faxgeräten, Telegraphie, Tonaufzeichnung, Fernschreibtechnik.......und viel mehr?<br>
 		Eine spannende Zeitreise durch die Welt der frühen technischen Kommunikation mit vielen Vorführungen und ungewöhnlichen Experimenten. <br>
 		Auch für Kids ab ca. 12 Jahre bestens geeignet.<br>
-		Maximale Teilnehmerzahl: 14 
+		Maximale Teilnehmerzahl: 14 <font color="#FF0000">>>ausgebucht!</font>
 		<br>
 	
 	

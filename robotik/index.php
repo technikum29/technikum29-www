@@ -114,8 +114,8 @@ Einführungskurs:
 Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr. <font color="#FF0000">>>ausgebucht!</font><br>
 
 <font color="#FF0000"><b>Herbstferien:</b></font><br>
-Hier bieten wir einen <b>Fortsetzungskurs</b> in unseren Räumen an. Er setzt die grundlegenden Kenntnisse der EV3-Programmierung voraus.<br>
-Termin: Entweder vom 9. bis 13.10. oder vom 16. bis 20.10.2017, je nach dem, für welchen Termin mehr Anmeldungen eingehen (min. 8, max. 10). Uhrzeit: 14:00 bis 16:00 Uhr.<br>
+Bei genügend großer Nachfrage können wir vom 9.10. bis 13.10. einen <b>Einführungskurs</b> und vom 16.10. bis zum 20.10. einen <b>Fortsetzungskurs</b> anbieten. Dieser setzt die Kenntnisse des Einführungskurses voraus. Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
+Teilen Sie uns gegebenenfalls ihr Interesse mit.<br>
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
 In Planung ist ein Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr.

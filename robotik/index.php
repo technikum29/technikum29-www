@@ -114,7 +114,7 @@ Einführungskurs:
 Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr. <font color="#FF0000">>>ausgebucht!</font><br>
 
 <font color="#FF0000"><b>Herbstferien:</b></font><br>
-Wenn jeweils sich mindestens 8 Interessenten anmelden, können wir vom 9.10. bis 13.10. einen <b>Einführungskurs</b> und vom 16.10. bis zum 20.10. einen <b>Fortsetzungskurs</b> anbieten. Dieser setzt die Kenntnisse des Einführungskurses voraus. Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
+Wenn sich jeweils mindestens 8 Interessenten anmelden, können wir vom 9.10. bis 13.10. einen <b>Einführungskurs</b> und vom 16.10. bis zum 20.10. einen <b>Fortsetzungskurs</b> anbieten. Dieser setzt die Kenntnisse des Einführungskurses voraus. Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
 Teilen Sie uns gegebenenfalls ihr Interesse mit.<br>
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>

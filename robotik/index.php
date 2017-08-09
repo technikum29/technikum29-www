@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>6.8.2017
+	<br>9.8.2017
 </div>
 
 <div class="spacing"></div>
@@ -64,40 +64,42 @@ Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringe
 <div class="small">Die AES-Robotik-Gruppe</small></div>
 
 <p>
-In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!</p><br>
+In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
 
-<img src="4-schueler.jpg" width="405"  height="152"/> 
-<div class="small">Programmier-Probleme lösen</small></div>
-
-<p>
 Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intelligent" zu machen.<br><br>
 
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <div class="box center">
-<img src="alp.jpg" width="405"  height="280"/> 
-<div class="small">"Das müsste doch passen" und: "Endlich, der Roboter tut was man ihm beibringt...."</small></div>
+<img  src="aug.2017-1.jpg" width="300"   height="275"/> 
+<div class="small">"Kein simples Programm...."</small></div>
 </div>
 
-<h3>Anmeldung und Vormerkung</h3>  
-<p>
-per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p>
-</div><!--/leftcol -->
 
-<div class="rightcol">
 
 <h3>Inhalt</h3>
 <ul>
-
 <li>Erklärung der Sensoren. Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
 <li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
 <li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
 <li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
 </ul>
+
+
+
+
+</div><!--/leftcol -->
+
+<div class="rightcol">
+
 <p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
 Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="_blank">Aufgabenblatt 4 (PDF)</a> <br>
 Keine Angst, das wird ja alles besprochen....</p>
+
+<div class="box center">
+<img src="aug.2017-3.jpg" width="300"  height="224"/> 
+<div class="small">"Macht einfach Spaß...."</small></div>
+</div>
 
 <h3>Voraussetzungen</h3>
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
@@ -118,9 +120,12 @@ Wenn sich jeweils mindestens 8 Interessenten anmelden, können wir vom 9.10. bis
 Teilen Sie uns gegebenenfalls ihr Interesse mit.<br>
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
-In Planung ist ein Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr.
+In Planung ist ein Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr.<br>
 
-
+<h3>Anmeldung und Vormerkung</h3>  
+<p>
+per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</p>
 
 
 </div><!-- /rightcol -->

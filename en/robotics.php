@@ -75,7 +75,7 @@ In our course, students learn:
 </ul>
 
 <div class="box center">
-<img src="/robotik/4-schueler.jpg" width="405"  height="152"/>
+<img src="/robotik/aug.2017-1.jpg" width="300"  height="275"/>
 
 </div>
 

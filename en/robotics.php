@@ -76,7 +76,7 @@ In our course, students learn:
 
 <div class="box center">
 <img src="/robotik/aug.2017-1.jpg" width="300"  height="275"/>
-
+<div class="small">It is not a simple program ....</div>
 </div>
 
 

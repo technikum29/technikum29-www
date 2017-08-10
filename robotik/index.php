@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>9.8.2017
+	<br>10.8.2017
 </div>
 
 <div class="spacing"></div>
@@ -57,8 +57,8 @@ SIDEBAR_ENDE;
 <div class="leftcol">
 
 <h3>Fun for Future:</h3>
-<p>
-Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren. </p><br>
+
+<p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> <br>
 
 <img src="aes-gruppe-2017.jpg" width="405"  height="205"/> 
 <div class="small">Die AES-Robotik-Gruppe</small></div>
@@ -81,9 +81,11 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <ul>
 <li>Erklärung der Sensoren. Selbstständiges lineares Programmieren nach Vorgaben. Einführung von Schleifen. Eigenes Planen und Testen von Programmen.
 <li>Programmverzweigungen, Unterprogramme und parallel laufende Programme (Multitasking), spezielle Programmiertechniken. Interrupts.
-<li>Linie fahren. Programmierte Navigation, Mars-Rover sucht Objekte, Farben erkennen, Sprachaufzeichnung, Linien zählen, Roboter zeichnet Figuren (Grafik-Roboter).
-<li> Datenleitungen, Variablen speichern und verwenden, Mathe-Block. Zählen, Vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw.
+<li>Linie fahren. Programmierte Navigation, Farben erkennen, Linien zählen mit Sprachwiedergabe. Zufallsgeneratoren einbinden, gewürfelte Töne.
+<li>Datenleitungen, Variable speichern und verwenden, Mathe-Block. Sensorwerte anpassen, Zählen, vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw. 
+
 </ul>
+
 
 
 
@@ -94,26 +96,22 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 
 <p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
 Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="_blank">Aufgabenblatt 4 (PDF)</a> <br>
-Keine Angst, das wird ja alles besprochen....</p>
+Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wieder Wettbewerbe mit Schoklolade als Gewinn.</p>
 
-<div class="box center">
-<img src="aug.2017-3.jpg" width="300"  height="224"/> 
-<div class="small">"Macht einfach Spaß...."</small></div>
-</div>
+
 
 <h3>Voraussetzungen</h3>
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
-
+<div class="box center">
+<img src="aug.2017-3.jpg" width="330"  height="246"/> 
+<div class="small">"Macht einfach Spaß...."</small></div>
+</div>
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Schüler teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 
 <h3>Termine</h3><br>
-<font color="#FF0000"><b>Sommerferien:</b></font><br>
-
-Einführungskurs: 
-Mo. 7.8. bis Fr. 11.8.2017 jeweils von 10:00 bis 12:00 Uhr. <font color="#FF0000">>>ausgebucht!</font><br>
 
 <font color="#FF0000"><b>Herbstferien:</b></font><br>
 Wenn sich jeweils mindestens 8 Interessenten anmelden, können wir vom 9.10. bis 13.10. einen <b>Einführungskurs</b> und vom 16.10. bis zum 20.10. einen <b>Fortsetzungskurs</b> anbieten. Dieser setzt die Kenntnisse des Einführungskurses voraus. Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
@@ -138,15 +136,16 @@ Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 
 
 	<div  class="box bordered nomargin-bottom" id="3D">
-	<p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big> 
+	
 	
 	<div class="box left">
 	<img src="arduino.jpg" width="220"  height="171"/> 
-<small>Arduino-Zähler, Einführungsbeispiel</small></div>
+<div class="small">Arduino-Zähler, Einführungsbeispiel</div></div>
 
-</p>
-<p>	Neu im technikum29: Für Schüler ab Klasse 8 (in Ausnahmefällen ab Klasse 7) bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="_blank"> Physical-Computing & Robotics </a>.
-</p>
+<p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big> </p>
+
+	Neu im technikum29: Für Schüler ab Klasse 8 bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="_blank"> Physical-Computing & Robotics </a>.
+
 </div>
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">

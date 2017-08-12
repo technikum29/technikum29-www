@@ -60,8 +60,10 @@ SIDEBAR_ENDE;
 
 <p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> <br>
 
+<div class="box center nomargin-bttom">
 <img src="aes-gruppe-2017.jpg" width="405"  height="205"/> 
-<div class="small">Die AES-Robotik-Gruppe</small></div>
+<div class="small">Die AES-Robotik-Gruppe</div>
+</div>
 
 <p>
 In dem Workshop lernst du mit einer <b>grafischen Methode</b>, wie man Programme erstellt. Du erfährst, wie der Roboter exakt deine Anweisungen ausführt. Wenn alle Sensoren im Einsatz sind, kann sich der Roboter mühelos in einem fremden Umfeld bewegen. Er findet sich sogar in einem Labyrinth zurecht!<br>
@@ -70,9 +72,9 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
-<div class="box center">
+<div class="box center nomargin-bottom">
 <img  src="aug.2017-1.jpg" width="300"   height="275"/> 
-<div class="small">"Kein simples Programm...."</small></div>
+<div class="small">"Kein simples Programm...."</div>
 </div>
 
 
@@ -102,9 +104,9 @@ Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wie
 
 <h3>Voraussetzungen</h3>
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
-<div class="box center">
+<div class="box center nomargin-bottom">
 <img src="aug.2017-3.jpg" width="330"  height="246"/> 
-<div class="small">"Macht einfach Spaß...."</small></div>
+<div class="small">"Macht einfach Spaß...."</div>
 </div>
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Schüler teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits zum Teil aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>

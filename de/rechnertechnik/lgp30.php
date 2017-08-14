@@ -44,13 +44,13 @@ Peripherie:<br>
 Der Lochstreifenleser liest 200 Zeichen/Sek. der Lochstreifenstanzer kann 50 Zeichen/Sek. stanzen und der Flexowriter schafft 10 Zeichen/Sek.<br>
 Das Gewicht des LGP30 beträgt stolze 365 kg (ohne Peripherie).	
 
-<p class="clear">Hier ein paar Daten zu unserem LGP-30. Der Verbleib bis 1962 ist nicht geklärt. Von 1962 bis 1980 wurde er im Landesvermessungsamt wie folgt eingesetzt:
+<p class="clear">Hier ein paar Daten zu unserem LGP-30. Der Verbleib bis 1962 ist nicht geklärt. Von 1962 bis 1980 (!!) wurde er im Landesvermessungsamt wie folgt eingesetzt:
 <ol>
 <li> Kataster: Zur Koordinatenberechnung und Herstellung von Steuerlochstreifen für die automatische Kartierung (ZUSE Graphomat Z64), Umrechnung alter Polygonierungen durch Polygonzugberechnungen, Affin- oder Helmert-Transformationen.<br>
 <li> Landesvermessung: Ausgleich trigonometrischer Netze, Auswertung von Aerotriangulationen.
 </ol>
 
-Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, wobei z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahmen.<br><br>
+Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, wobei z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahm.<br><br>
 <div class="desc-right borderless">
 <a href="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" alt="Trommelspeicher" height="325" width="420"></a>	

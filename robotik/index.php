@@ -58,7 +58,7 @@ SIDEBAR_ENDE;
 
 <h3>Fun for Future:</h3>
 
-<p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> <br>
+<p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> 
 
 <div class="box center nomargin-bttom">
 <img src="aes-gruppe-2017.jpg" width="405"  height="205"/> 
@@ -89,9 +89,6 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 </ul>
 
 
-
-
-
 </div><!--/leftcol -->
 
 <div class="rightcol">
@@ -99,8 +96,6 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
 Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="_blank">Aufgabenblatt 4 (PDF)</a> <br>
 Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wieder Wettbewerbe mit Schoklolade als Gewinn.</p>
-
-
 
 <h3>Voraussetzungen</h3>
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
@@ -126,7 +121,6 @@ In Planung ist ein Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14
 <p>
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
 </p>
-
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

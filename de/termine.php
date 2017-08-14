@@ -21,7 +21,7 @@
 
 	<!-- Bereiche "nur-auf-deutscher-seite" werden im Englischen nicht angezeigt -->
 	<div class="nur-auf-deutscher-seite">
-	<h2>Termine und Führungen</h2>
+	<h2>Termine, Führungen und Events</h2>
 	
 	<p>Für allgemeine Informationen über Führungen und Gruppenanmeldungen
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
@@ -89,6 +89,21 @@
 		<th style="width:13em;">
 		<th style="width:9em;">
 		<th>
+		
+	<tr>
+	
+		<td><b>9.10. bis 13.10.</b>
+		<td>Robotik-Workshop<br>
+		<td>Einführungskurs<br>
+		siehe <a href="/robotik" target="_blank"> "Robotik"</a>	
+		<td>11 bis 13-Jährige<br>
+	<tr>
+		
+		<td><b>16.10. bis 20.10.</b>
+		<td>Robotik-Workshop<br>
+		<td>Fortsetzungskurs<br>
+		siehe <a href="/robotik" target="_blank"> "Robotik"</a>
+		<td>11 bis 13-Jährige<br>
 	<tr>
 	
 		<td>Do, <b>19. Okt.</b><br>10:00 Uhr

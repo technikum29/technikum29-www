@@ -32,6 +32,7 @@
 	
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
+		<!--	<font color="#FF0000">>>ausgebucht!</font> -->
 	
 	Die folgende Tabelle listet Gruppenanmeldungen und Events auf.
  </p>
@@ -39,57 +40,29 @@
 	</div><!-- Ende nur-auf-deutscher-seite -->
 
 	<div class="termine">
-<!--	<table class="termine">
+	<table class="termine">
 	<tr class="title">
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
 		<th style="width:9em;">Typ
 		<th>Teilnehmer     
 		
-		
-	<!--	<font color="#FF0000">>>ausgebucht!</font>  -->
-	
-		
-		</table> 
-		</div> <br>   
-		<div class="rightcol">
-		
-	  <div class="foto left mobile">
-                <img src="/shared/photos/start/rdik.png" width="140" height="63" />
-				</div>
-		<b><font color="#a52a2a">Tage der Industriekultur Rhein-Main 2017. </b><br><br>
-	
-		<div class="termine">
-		<table class="termine">
-		<tr class="title">
-		<th style="width:9em">Datum
-		<th style="width:13em;">Titel
-		<th style="width:9em;">Typ
-		<th>Teilnehmer
+			
+		<tr>
+		<td>Fr, <b>25. August</b><br>16:30 Uhr
+		<td>Computer der Stunde Null, wie alles begann **)
+		<td>Interaktive Führung
+		<td>Gruppe Brox<br>
+			es gibt noch ein paar freie Plätze<br>
 		
 		
 		<tr>
 		<td>So, <b>27. August</b><br>14:00 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
 		<td>Interaktive Führung<br>
-		<font color="#000000">Wiederholung</font><br>
+		Wiederholung<br>
 		<font color="#FF0000">>>ausgebucht!</font>
 		<td>Neugierige Menschen<br>
-		
-		</font>
-		</table>
-		</div> <br>
-		
-		<font color="#000000">
-		
-		<div class="termine">
-	<table class="termine">
-	<tr class="title">
-		<th style="width:9em">
-		<th style="width:13em;">
-		<th style="width:9em;">
-		<th>
-		
 	<tr>
 	
 	<td>Mo, <b>9. Okt.</b><br>17:00 Uhr		
@@ -98,20 +71,20 @@
 		<td>Interne Gruppe<br>
 	<tr>
 	
-		<td><b>9.10.</b> bis <b>13.10.</b><br>
+		<td><b><font color="#a52a2a">9.10.</b> bis <b>13.10.</b><br>
 		14 bis 16 Uhr
-		<td>Robotik-Workshop<br>
-		<td>Einführungskurs<br>
+		<td><font color="#a52a2a">Robotik-Workshop<br>
+		<td><font color="#a52a2a">Einführungskurs<br>
 		siehe <a href="/robotik" target="_blank"> "Robotik"</a>	
-		<td>11 bis 13-Jährige<br>
+		<td><font color="#a52a2a">11 bis 13-Jährige<br>
 	<tr>
 		
-		<td><b>16.10.</b> bis <b>20.10.</b><br>
+		<td><b><font color="#a52a2a">16.10.</b> bis <b>20.10.</b><br>
 		14 bis 16 Uhr
-		<td>Robotik-Workshop<br>
-		<td>Fortsetzungskurs<br>
+		<td><font color="#a52a2a">Robotik-Workshop<br>
+		<td><font color="#a52a2a">Fortsetzungskurs<br>
 		siehe <a href="/robotik" target="_blank"> "Robotik"</a>
-		<td>11 bis 13-Jährige<br>
+		<td><font color="#a52a2a">11 bis 13-Jährige<br></font>
 	<tr>
 	
 		<td>Do, <b>19. Okt.</b><br>10:00 Uhr
@@ -131,7 +104,7 @@
 		</div> <br>
 	
 		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
-		Maximale Teilnehmerzahl: 16  <font color="#FF0000">>>ausgebucht!</font>. Melden Sie Ihr Interesse dennoch an. Es werden weitere Führungen folgen.
+		Maximale Teilnehmerzahl: 16  
 		<br><br>
 	
 	<h3>Weitere Angebote</h3>

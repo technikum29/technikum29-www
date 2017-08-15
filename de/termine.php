@@ -92,14 +92,22 @@
 		
 	<tr>
 	
-		<td><b>9.10. bis 13.10.</b>
+	<td>Mo, <b>9. Okt.</b><br>17:00 Uhr		
+		<td>Computer-History<br>
+		<td>Spezial-Führung<br>
+		<td>Interne Gruppe<br>
+	<tr>
+	
+		<td><b>9.10.</b> bis <b>13.10.</b><br>
+		14 bis 16 Uhr
 		<td>Robotik-Workshop<br>
 		<td>Einführungskurs<br>
 		siehe <a href="/robotik" target="_blank"> "Robotik"</a>	
 		<td>11 bis 13-Jährige<br>
 	<tr>
 		
-		<td><b>16.10. bis 20.10.</b>
+		<td><b>16.10.</b> bis <b>20.10.</b><br>
+		14 bis 16 Uhr
 		<td>Robotik-Workshop<br>
 		<td>Fortsetzungskurs<br>
 		siehe <a href="/robotik" target="_blank"> "Robotik"</a>

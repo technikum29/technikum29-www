@@ -135,7 +135,7 @@ table.termine {
 /* Termine: Jede Zeile mit Mindesthöhe */
 table.termine tbody td {
 	/* min-height funktioniert bei Tabellen scheinbar nicht */
-	height: 8em;
+	height: 5em;
 }
 
 table.termine td, table.termine th {

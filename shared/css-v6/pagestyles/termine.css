@@ -132,6 +132,12 @@ table.termine {
 	line-height: 140%;
 }
 
+/* Termine: Jede Zeile mit Mindesthöhe */
+table.termine tbody td {
+	/* min-height funktioniert bei Tabellen scheinbar nicht */
+	height: 8em;
+}
+
 table.termine td, table.termine th {
 	padding: .3em;
 	vertical-align: middle;

@@ -132,6 +132,11 @@ table.termine {
 	line-height: 140%;
 }
 
+/* Tabelle horizontal scrollen bei Ueberbreite (Mobile) */
+div.termine {
+	overflow: auto;
+}
+
 /* Termine: Jede Zeile mit Mindesthöhe */
 table.termine tbody td {
 	/* min-height funktioniert bei Tabellen scheinbar nicht */

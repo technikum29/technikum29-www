@@ -65,7 +65,7 @@
 		<td>Neugierige Menschen<br>
 	<tr>
 	
-	<td>Mo, <b>9. Okt.</b><br>17:00 Uhr		
+	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
 		<td>Computer-History<br>
 		<td>Spezial-Führung<br>
 		<td>Interne Gruppe<br>
@@ -87,14 +87,14 @@
 		<td><font color="#a52a2a">11 bis 13-Jährige<br></font>
 	<tr>
 	
-		<td>Do, <b>19. Okt.</b><br>10:00 Uhr
+		<td>Do, <b>19. Oktober</b><br>10:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kinder Akademie Fulda<br>
 		
 	<tr>
 	
-		<td>Fr, <b>15. Dez.</b><br>ab 15:00 Uhr
+		<td>Fr, <b>15. Dezember</b><br>ab 15:00 Uhr
 		<td>Computer-History<br>Workshop 
 		<td>Geburtstags-Event<br>
 			Finley wird 12 !

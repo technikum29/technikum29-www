@@ -112,7 +112,7 @@ Beispielseite:<br>
 
 	Materialien speziell für Schüler der EDS: 
 	
-	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.7.2017)</small><br>
+	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.8.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
 <div class="leftcol">
@@ -133,18 +133,14 @@ Beispielseite:<br>
 	 </div>
 	 </div>
 	
-	
-	
 	<br><hr>
-	Nach den Ferien wird zunächst eine Info für interessierte Schüler der 8. Klassen stattfinden. Wenn hier genügend zusammenkommen, könnte man diese in ca.
-3-4 Monaten an unseren Stand heranführen. In dieser Zeit würde die AG für euch ausfallen. Ihr steigt dann wieder ein, wenn der Rest beim Thema "Einparkhilfe programmieren" ist.
+	Nach den Ferien wird zunächst eine Info für interessierte Schüler der 8. Klassen stattfinden. Wenn hier genügend geeignete Schüler teilnehmen, könnte man diese in ca.
+3 Monaten an unseren Stand heranführen. In dieser Zeit würde die AG für euch ausfallen. Ihr steigt dann wieder ein, wenn der Rest beim Thema "Einparkhilfe programmieren" ist.
 Wir besprechen das alles zu Beginn des neuen Schuljahres.<br>
-Bis dahin: Schöne Ferien!	
-	<br><hr>
-	Wer am 1.6. bzw. 8.6. gefehlt hat und dennoch "am Ball" bleiben möchte sollte versuchen, eine mögliche Lösung der Aufgabe 5a/b, Blatt 6 (s.u.) zu verstehen. Fragen ist ausdrücklich erwünscht, falls etwas unklar bleibt.<br>
-	<br>
 	
-	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
+	
+<!--	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
+-->
 	
 	
 	

@@ -10,7 +10,7 @@
 
 <p>Ein interessanter Neuzugang im Oktober 2015:<br><br>
 Der "Elektronenrechner" LGP-30 der 1. Generation wurde in den USA Mitte der fünfziger Jahre von den Firmen <b>L</b>IBRASCOP und <b>G</b>erneral-<b>P</b>recision entwickelt. Etwa 40 Stück dieser Anlagen wurden ab 1958 in Minden von der Firma Schoppe & Faeser in Lizenz gebaut. Der LGP war als wissenschaftlicher Rechner konzipiert. Im Jahre 1962 wurde er schließlich vom <a class="go" href="/de/rechnertechnik/fruehe-computer.php#lgp21"> <b>LGP-21</b></a> abgelöst.<br>
-Zum Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein Schnell-Leser bzw. -Stanzer verarbeitet. Als Ein-/Ausgabegerät dient der "Flexowriter" von FRIDEN, im Prinzip eine elektrische Schreibmaschine mit Lochstreifenzusatz.</p><br>
+Zum externen Speichern von Programmen und Daten werden 1"-Lochstreifen verwendet, die ein Schnell-Leser bzw. -Stanzer verarbeitet. Als Ein-/Ausgabegerät dient der "Flexowriter" von FRIDEN, im Prinzip eine elektrische Schreibmaschine mit Lochstreifenzusatz.</p><br>
 
 <div class="center">
 		<img src="/shared/photos/rechnertechnik/lgp30-1.jpg" alt="LGP 30 Anlage" width="850" height="380" />
@@ -51,6 +51,7 @@ Das Gewicht des LGP30 beträgt stolze 365 kg (ohne Peripherie).
 </ol>
 
 Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgeführt, wobei z.B. eine trigonometrische Punktausgleichung mit 3 Punkten 3-4 Minuten Rechenzeit in Anspruch nahm.<br><br>
+
 <div class="desc-right borderless">
 <a href="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" alt="Trommelspeicher" height="325" width="420"></a>	
@@ -62,7 +63,7 @@ Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgefüh
 <b>Beginn der Restauration</b><br><br>
 Nun endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrechners (Juli 2017). Das größte Problem stellt der Trommelspeicher dar. Hierfür gibt es 4 Lösungsvarianten:<br>
 1. Neubeschichtung der Trommel. Das wäre die beste Methode aber die Durchführung ist extrem schwierig.<br>
-2. Simulation durch einen Micro-Controller. Die Anbindung an die Röhrenpotenziale wäre auch zu meistern.<br>
+2. Simulation durch einen Micro-Controller. Die Anbindung an die Röhrenpotenziale (0V und -20V) wäre auch zu meistern.<br>
 3. "Diskrete" Elektronik mit RAM, EPROM, OP´s und TTL´s: Aufwändige Schaltung mit den gleichen Potenzialproblemen.<br>
 4. Induktive Ankopplung, jeder Kopf erhält einen Gegenkopf der an ein Umlaufregister angeschlossen ist. Extrem aufwändig. Diese Idee wurde zunächst wieder verworfen.<br><br>
 Im Vergleich zur Trommel-Emulation ist die Herstellung aller fehlenden Verbindungskabel eine Kleinigkeit.<br>

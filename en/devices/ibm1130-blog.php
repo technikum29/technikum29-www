@@ -100,7 +100,18 @@ could not be replaced). <br><br>
 the console printer and adjusting both of them, the overall system is now fully
 working as a punched card computer.<br> 
 The next project will be the restauration of the 2310 disk drive. Unfortunately we have no spare hard sectored removeable disks with eight sectors for this drive. All we have are hard sectored disks with 16 sectors. Accordingly we will try to convert one of these to eight
-sectors by masking every second index slot.
+sectors by masking every second index slot.<br><br>
 
-<p><b><em>This section will be gradually continued.</em></b></p>
+<b>10.07.2016:</b> Finally we found time to repair the 2310 disk drive. After
+replacing a 16 bit buffer register it works like a charm. We already compiled
+some FORTRAN programs which ran flawlessly. This completes the restoration of
+this unique machine which is now fully operational again.<br><br>
+
+<b>29.01.2017:</b> We managed to repair the paper tape readers for the 1130. By now
+we can load the ASCII picture "SNOOPY" from paper tape and print it. The
+machine can also punch arbitrary data to tape with by means of a program
+written in FORTRAN and assembly language. This program occupies 392 punch
+cards. Now only the plotter needs to be connected to the machine.<br><br>
+
+</p>
 

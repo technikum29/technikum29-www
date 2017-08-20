@@ -77,6 +77,38 @@ basic tasks for land surveying etc.<br>
 Those tasks were quite demanding and even a rather simple fit through 
 three points determined by triangulation took about 3 to 4 minutes of
 computer time.<br><br>
-The restauration will commence in the following months. Stay tuned as
-we will write about this work in progress.
+
+
+<div class="desc-right borderless">
+<a href="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" target="_blank">
+		<img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" alt="Trommelspeicher" height="325" width="420"></a>	
+		<div class="bildtext">	
+			<p>LGP-30 Magnetic Drum. The magnetic layer has some defects. <br> The photo can be enlarge.</p>  
+		</div>	</div>
+		
+<div id="trommel"></div>
+
+<p>Now the restoration of this vaccum tube based computer started. The biggest
+problem is the magnetic drum memory. Currently four options are under
+consideration:<br>
+
+1. Applying a new magnetic coating to the damaged drum. This approach would
+be ideal but also the most complex solution.<br>
+
+2. Simulating the complete drum assembly by a modern microcontroller.
+Attaching this to the vacuum tube electronics would be feasible by means of
+level shifters (0V and -20V are required for operation).<br>
+
+3. A discrete approach emplying RAMs, EPROMs, operational amplifiers and lots
+of glue logic. This does not have any advantages over approach 2.<br>
+
+4. Replacing the rotating drum by a fixed assembly holding magnetic
+read/write heads, one for each head of the drum. This approach has been
+abandoned due to its complexity.<br><br>
+
+Compared with the complexity of emulating the drum assembly, the missing
+cables are only a minor problem. Fortunately four experts will support the
+restoration effort. We would especially like to thank Mr. Klemens Krause
+<a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.
+
 

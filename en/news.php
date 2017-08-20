@@ -18,6 +18,22 @@
        posts are on top.</p><br><br>
 	   
 	   <ul class="news-feed news-ng">
+	   
+	   <li><a href="/en/computer/lgp30.php">
+	<h3>July 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" width="153" height="118" /><br>
+	The adventure begins: restoration of the tube calculator LGP-30
+</a></li>
+
+<li><a href="/en/computer/commercial.php">
+	<h3>April 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/p203-2.jpg" width="153" height="115" /><br>
+	Second Programma P203 in the museum. The page has been extended.
+</a></li>
+	   
+	   
+	   
+	   
 	 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">  
 	  <h3>March 2017</h3><br> 
 	<b><big>"… technikum29 is the most exciting computer museum in Europe",</big></b> <br> <br>
@@ -45,23 +61,6 @@
 	<h3>March 2016</h3><br>
     <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="153" height="115" /><br>
 	The last calculating machine monster: Olivetti Logos 27-2
-	
-	
-	
-<li><a href="/en/computer/lgp30.php">
-	<h3>October 2015</h3><br>
-    <img src="/shared/photos/rechnertechnik/lgp30-1.jpg" width="153" height="68" /><br><br>
-	The LGP-30 computer is now in the museum.
-	
-</a></li>
-
-	
-	<li><a href="/en/computer/univac9200.php#u9200">
-	<h3>September 2015</h3><br>
-    <img src="/shared/photos/rechnertechnik/u9200-1.jpg" width="153" height="73" /><br><br>
-	A little sensation:<br>
-	The second UNIVAC 9200 in the technikum29!
-</a></li>
 	
 	
 </ul>

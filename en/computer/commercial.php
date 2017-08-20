@@ -13,17 +13,41 @@
     <div class="box right clear-after">
        <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
        <div class="bildtext">
-          <p>In 1968, P101 which has been extended with more memory, was coupled to a
-typewriter. This made it possible to print tables and the like automatically.
-It is interesting to note that the computer was only capable to print numbers -
-text data had to be typed manually on the keyboard.<br>
- One of the most remarkable features of this 'computer' is its enclosure. It
-was designed by the Italian designer 'Mario Bellini' and got quite some awards.
-Even today the style of the machine is admired by many. <br>
- Unfortunately, Olivetti dropped this design and later machines were just plain
-cubes in the style of the 1970s.</p>
-        </div>
-    </div>
+          <p>
+
+1967 the <a class="go" href="/en/computer/programmable.php#101">PROGRAMMA 101</a> was not only
+extended with respect to memory but also coupled to an electric typewriter.
+This made it possible to print the results of a computation. Nevertheless,
+this combination was restricted to printing numeric values only. If text was
+required on a printout it had to be typed manually.<br><br>
+The typewriter could also be used standalone without control be the PROGRAMMA 101. 
+The memory system, which is based on the magnetostrictive effect, has an overall capacity of 320
+bytes organized as 10 registers with 30 digits each.<br><br>
+
+This early "personal computer" was designed by the italien artist Mario
+Bellini. Its unique design won several avards. Even today it is admired for
+its aesthetics. Following Olivetty computers were just plain cubes. Moving
+this unique piece of computing history is quite a feat at 130 kg.
+</p>
+<br><br>
+
+<div class="clear-after">
+		<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="_blank">	
+        <img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
+		<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="_blank">
+		<img src="/shared/photos/rechnertechnik/p203-2.jpg" alt="Olivetti P203" width="240" height="180" /></a>
+		<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="_blank">
+		<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a></div>
+		
+		The pictures above can be enlarged by clicking on them. The first picture
+shows the first model of this machine as well as its successor system with a
+faster typewriter (on the right). The second picture is a detail photograph.
+The third picture shows the incredibly amount of mechanical parts in this
+system. Both machines in the museum are fully operational.
+			
+	</div>
+	</div>
+       
 
     <h3>NCR 446</h3>    
     <div class="box center">

@@ -51,9 +51,10 @@
 		<tr>
 		<td>Fr, <b>25. August</b><br>16:30 Uhr
 		<td>Computer der Stunde Null, wie alles begann **)
-		<td>Interaktive Führung
+		<td>Interaktive Führung<br>
+		<font color="#FF0000">>>ausgebucht!</font>
 		<td>Gruppe Brox<br>
-			es gibt noch ein paar freie Plätze<br>
+			+ Einzelpersonen<br>
 		
 		
 		<tr>

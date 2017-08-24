@@ -26,8 +26,8 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
-	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Eichendorffschule (EDS) in Kelkheim. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten.<br>
-	Ab August startet dieser Workshop auch an der Albert-Einstein-Schule (AES) in Schwalbach.
+	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Albert-Einstein-Schule (AES) in Schwalbach. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten und mit Begeisterung angenommen.<br>
+	
 	
 </div>
 
@@ -106,16 +106,16 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 <hr>
 <div class="cols clear-after"><br>
 
-Beispielseite:<br>
+Aktuelle Materialien:<br>
 <a href="/physical-computing/ph1.pdf" target="_blank"> Physical-Computing Blatt 1 (PDF)</a><br><br>
 <?php $zaun_eds->printAnchor(); ?>
 
-	Materialien speziell für Schüler der EDS: 
+	Infos speziell für Schüler der EDS: 
 	
-	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.8.2017)</small><br>
+	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.8.2017)</small><br>
 
 	<?php $zaun_eds->start(); ?>
-<div class="leftcol">
+<!--     <div class="leftcol">
 
 <br>
 
@@ -132,11 +132,9 @@ Beispielseite:<br>
 	 <br><br>
 	 </div>
 	 </div>
-	
+	-->
 	<br><hr>
-	Nach den Ferien wird zunächst eine Info für interessierte Schüler der 8. Klassen stattfinden. Wenn hier genügend geeignete Schüler teilnehmen, könnte man diese in ca.
-3 Monaten an unseren Stand heranführen. In dieser Zeit würde die AG für euch ausfallen. Ihr steigt dann wieder ein, wenn der Rest beim Thema "Einparkhilfe programmieren" ist.
-Wir besprechen das alles zu Beginn des neuen Schuljahres.<br>
+	Während an der AES ein Run auf "Physical-Computing" ist, interessiert sich an der EDS aus der 8. Klasse niemand hierfür. Die restlichen Teilnehmer der "alten" Gruppe können donnerstags nicht mehr. Es wird sehr schwierig, hier einen neuen Termin zu finden. Ich könnte nur noch den Mittwoch anbieten, wenn die Gruppe als untere Schmerzgrenze aus mind. 4-5 Schülern bestehen würde. Bitte weiter sagen und mir eine Mail schicken!
 	
 	
 <!--	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>

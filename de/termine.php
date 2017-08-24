@@ -91,7 +91,7 @@
 		<td>Do, <b>19. Oktober</b><br>10:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
-		<td>Kinder Akademie Fulda<br>
+		<td>Kinder Akademie<br>Fulda<br>
 		
 	<tr>
 	
@@ -100,6 +100,13 @@
 		<td>Geburtstags-Event<br>
 			Finley wird 12 !
 		<td>Finley´s Freunde<br>
+		
+	<tr>
+	
+		<td>Mi, <b>21. März 2018</b><br>14:00 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Kursfabrik<br>Wiesbaden<br>
 		
 		</table>
 		</div> <br>

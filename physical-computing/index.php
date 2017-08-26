@@ -6,7 +6,7 @@
 	$dynamischer_inhalt = true;
 	require "../lib/simplepassword.php";
 	$zaun_aes = new t29FencedContent('Schulgeheimnisse-AES');
-	$zaun_aes->password = "pcr";
+	$zaun_aes->password = "+aes+";
 	$zaun_eds = new t29FencedContent('Schulgeheimnisse-EDS');
 	$zaun_eds->password = "1eds2";
 
@@ -108,6 +108,23 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 
 Aktuelle Materialien:<br>
 <a href="/physical-computing/ph1.pdf" target="_blank"> Physical-Computing Blatt 1 (PDF)</a><br><br>
+
+<?php $zaun_aes->printAnchor(); ?>
+
+	Infos speziell für Schüler der AES: 
+	
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 26.8.2017)</small><br>
+
+	<?php $zaun_aes->start(); ?>
+	
+	<br>Dies ist nur ein Text zum Testen!!
+	<hr>
+	
+	<?php $zaun_aes->end(); ?>
+	
+<br>	
+	
+
 <?php $zaun_eds->printAnchor(); ?>
 
 	Infos speziell für Schüler der EDS: 
@@ -133,16 +150,9 @@ Aktuelle Materialien:<br>
 	 </div>
 	 </div>
 	-->
-	<br><hr>
+	<br>
 	Während an der AES ein Run auf "Physical-Computing" ist, interessiert sich an der EDS aus der 8. Klasse niemand hierfür. Die restlichen Teilnehmer der "alten" Gruppe können donnerstags nicht mehr. Es wird sehr schwierig, hier einen neuen Termin zu finden. Ich könnte nur noch den Mittwoch anbieten, wenn die Gruppe als untere Schmerzgrenze aus mind. 4-5 Schülern bestehen würde. Bitte weiter sagen und mir eine Mail schicken!
-	
-	
-<!--	<a href="/physical-computing/Sonar-1637-tone" target="_blank"> Eine mögliche Lösung der Aufg. 5a/b, Blatt 6</a><br><br>
--->
-	
-	
-	
-	
+	<hr>
 	<?php $zaun_eds->end(); ?>
 	
 

@@ -47,15 +47,6 @@
 		<th style="width:9em;">Typ
 		<th>Teilnehmer     
 		
-			
-		<tr>
-		<td>Fr, <b>25. August</b><br>16:30 Uhr
-		<td>Computer der Stunde Null, wie alles begann **)
-		<td>Interaktive Führung<br>
-		<font color="#FF0000">>>ausgebucht!</font>
-		<td>Gruppe Brox<br>
-			+ Einzelpersonen<br>
-		
 		
 		<tr>
 		<td>So, <b>27. August</b><br>14:00 Uhr

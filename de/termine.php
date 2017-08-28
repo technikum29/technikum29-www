@@ -46,15 +46,6 @@
 		<th style="width:13em;">Titel
 		<th style="width:9em;">Typ
 		<th>Teilnehmer     
-		
-		
-		<tr>
-		<td>So, <b>27. August</b><br>14:00 Uhr
-		<td>Computer der Stunde Null, wie alles begann **)
-		<td>Interaktive Führung<br>
-		Wiederholung<br>
-		<font color="#FF0000">>>ausgebucht!</font>
-		<td>Neugierige Menschen<br>
 	<tr>
 	
 	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
@@ -102,9 +93,9 @@
 		</table>
 		</div> <br>
 	
-		**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
-		Maximale Teilnehmerzahl: 16  
-		<br><br>
+	<!--	**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
+		Maximale Teilnehmerzahl: 16  -->
+		
 	
 	<h3>Weitere Angebote</h3>
 	

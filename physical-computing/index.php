@@ -121,7 +121,8 @@ Aktuelle Materialien:<br>
 	Du hast die Infos für eure AG (Club der digitalen Denker) aufgerufen und bist daran interessiert, die Aufgaben aus der letzten Stunde noch mal durchzugehen.
 	Dazu empfehle ich dir die Arduino-Software auf deinen PC zu laden. Dann kannst du auch ohne Arduino-Microcontroller "Trockenübungen" machen.<br>
 	Lies dir die Infos aus Blatt 1 nochmal durch. Falls was unklar ist, stelle Fragen hierzu. Über die Baudrate sprechen wir in der nächsten Stunde.
-	Ansonsten solltest du die Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen. Programmieren ist eine exakte Wissenschaft :-), macht aber dennoch wirklich Spaß!
+	Ansonsten solltest du die Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen und den Seriellen Monitor anwenden können.<br>
+	Programmieren ist eine exakte Wissenschaft :-), macht aber dennoch wirklich Spaß....aber nur, wenn man´s kapiert.
 	<br><br><hr>
 	
 	<?php $zaun_aes->end(); ?>

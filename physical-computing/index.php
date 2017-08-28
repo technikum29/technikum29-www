@@ -113,12 +113,16 @@ Aktuelle Materialien:<br>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 26.8.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 28.8.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?>
 	
-	<br>Dies ist nur ein Text zum Testen!!
-	<hr>
+	<br><b>S u p e r !</b><br>
+	Du hast die Infos für eure AG (Club der digitalen Denker) aufgerufen und bist daran interessiert, die Aufgaben aus der letzten Stunde noch mal durchzugehen.
+	Dazu empfehle ich dir die Arduino-Software auf deinen PC zu laden. Dann kannst du auch ohne Arduino-Microcontroller "Trockenübungen" machen.<br>
+	Lies dir die Infos aus Blatt 1 nochmal durch. Falls was unklar ist, stelle Fragen hierzu. Über die Baudrate sprechen wir in der nächsten Stunde.
+	Ansonsten solltest du die Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen. Programmieren ist eine exakte Wissenschaft :-), macht aber dennoch wirklich Spaß!
+	<br><br><hr>
 	
 	<?php $zaun_aes->end(); ?>
 	

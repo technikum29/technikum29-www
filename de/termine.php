@@ -48,6 +48,13 @@
 		<th>Teilnehmer     
 	<tr>
 	
+	<td>So, <b>24. Sept.</b><br>ab 13:00 Uhr	
+		<td>Computer-History-Workshop<br>
+		<td>Geburtstags-Event<br>
+		Marlon wird 13 !
+		<td>Marlons Freunde<br>
+	<tr>
+	
 	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
 		<td>Computer-History<br>
 		<td>Spezial-Führung<br>
@@ -78,7 +85,7 @@
 	<tr>
 	
 		<td>Fr, <b>15. Dezember</b><br>ab 15:00 Uhr
-		<td>Computer-History<br>Workshop 
+		<td>Computer-History-Workshop 
 		<td>Geburtstags-Event<br>
 			Finley wird 12 !
 		<td>Finley´s Freunde<br>

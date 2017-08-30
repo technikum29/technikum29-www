@@ -95,15 +95,13 @@ Falls noch genügend Zeit vorhanden ist, werden wir uns auch mit einem vorhanden
 Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten geeignet sind.<br>
 <br>
 
-
-
-
 </p>
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 
 <hr>
+
 <div class="cols clear-after"><br>
 
 Aktuelle Materialien:<br>
@@ -117,11 +115,11 @@ Aktuelle Materialien:<br>
 
 	<?php $zaun_aes->start(); ?>
 	
-	<br><b>S u p e r !</b><br>
+	<br><b><big><big>S u p e r !</big></big></b><br>
 	Du hast die Infos für eure AG (Club der digitalen Denker) aufgerufen und bist daran interessiert, die Aufgaben aus der letzten Stunde noch mal durchzugehen.
 	Dazu empfehle ich dir die Arduino-Software auf deinen PC zu laden. Dann kannst du auch ohne Arduino-Microcontroller "Trockenübungen" machen.<br>
 	Lies dir die Infos aus Blatt 1 nochmal durch. Falls was unklar ist, stelle Fragen hierzu. Über die Baudrate sprechen wir in der nächsten Stunde.
-	Ansonsten solltest du die Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen und den Seriellen Monitor anwenden können.<br>
+	Ansonsten solltest du die Bedeutung der Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen und den Seriellen Monitor anwenden können.<br>
 	Programmieren ist eine exakte Wissenschaft :-), macht aber dennoch wirklich Spaß....aber nur, wenn man´s kapiert.
 	<br><br><hr>
 	
@@ -156,7 +154,7 @@ Aktuelle Materialien:<br>
 	 </div>
 	-->
 	<br>
-	Während an der AES ein Run auf "Physical-Computing" ist, interessiert sich an der EDS aus der 8. Klasse niemand hierfür. Die restlichen Teilnehmer der "alten" Gruppe können donnerstags nicht mehr. Es wird sehr schwierig, hier einen neuen Termin zu finden. Ich könnte nur noch den Mittwoch anbieten, wenn die Gruppe als untere Schmerzgrenze aus mind. 4-5 Schülern bestehen würde. Bitte weiter sagen und mir eine Mail schicken!
+	Während an der AES ein Run auf "Physical-Computing" ist, interessiert sich an der EDS aus der 8. Klasse niemand hierfür. Die restlichen Teilnehmer der "alten" Gruppe können donnerstags nicht mehr. Es wird sehr schwierig, hier einen neuen Termin zu finden. Ich könnte nur noch den Mittwoch anbieten, wenn die Gruppe als untere Schmerzgrenze aus mind. 4-5 Schülern bestehen würde. Bitte weiter sagen und mir gegebenenfalls eine Mail schicken!
 	<hr>
 	<?php $zaun_eds->end(); ?>
 	

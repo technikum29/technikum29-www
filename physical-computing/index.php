@@ -105,13 +105,14 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 <div class="cols clear-after"><br>
 
 Aktuelle Materialien:<br>
-<a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br><br>
+<a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
+<a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br><br>
 
 <?php $zaun_aes->printAnchor(); ?>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 28.8.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 3.9.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?>
 	

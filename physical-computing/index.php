@@ -112,10 +112,15 @@ Aktuelle Materialien:<br>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 3.9.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 5.9.2017)</small><br>
 
-	<?php $zaun_aes->start(); ?>
+	<?php $zaun_aes->start(); ?><br><hr>
 	
+	4.9.2017:  ....läuft bisher ganz gut, dennoch sollte sich <b>jeder</b> wenigstens 15 Minuten Zeit nehmen um alles Zuhause nochmal durchzugehen.
+	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
+	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br>
+	
+	<hr>
 	<br><b><big><big>S u p e r !</big></big></b><br>
 	Du hast die Infos für eure AG (Club der digitalen Denker) aufgerufen und bist daran interessiert, die Aufgaben aus der letzten Stunde noch mal durchzugehen.
 	Dazu empfehle ich dir die Arduino-Software auf deinen PC zu laden. Dann kannst du auch ohne Arduino-Microcontroller "Trockenübungen" machen.<br>

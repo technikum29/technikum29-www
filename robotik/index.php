@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>10.8.2017
+	<br>6.9.2017
 </div>
 
 <div class="spacing"></div>
@@ -128,7 +128,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <div class="clear cols">
 
 <p><b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor zwei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 8. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz und haben sich damit für das Weltfinale in Costa Rica qualifiziert. Weitere Einzelheiten siehe: 
+Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz und haben sich damit für das Weltfinale in Costa Rica qualifiziert. Weitere Einzelheiten siehe: 
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 

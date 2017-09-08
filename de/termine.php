@@ -81,7 +81,14 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kinder Akademie<br>Fulda<br>
-		
+		<tr>
+	
+		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr
+		<td>Computer-History-Workshop 
+		<td>Geburtstags-Event<br>
+			Jan wird 12 !
+		<td>Jan´s Freunde<br>
+
 	<tr>
 	
 		<td>Fr, <b>15. Dezember</b><br>ab 15:00 Uhr

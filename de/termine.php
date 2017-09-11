@@ -55,7 +55,7 @@
 		<td>Marlons Freunde<br>
 	<tr>
 	
-	<td>Sa, <b>7. Okt.</b><br>ab 15:00 Uhr	
+	<td>Sa, <b>7. Oktober</b><br>ab 15:00 Uhr	
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>
 		Lucas wird 11 !
@@ -90,6 +90,12 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kinder Akademie<br>Fulda<br>
+		<tr>
+		
+	<td>So, <b>12. November</b><br>15:00 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Gruppe Dähne<br>
 		<tr>
 	
 		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr

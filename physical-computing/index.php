@@ -54,7 +54,8 @@ SIDEBAR_ENDE;
 Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese Faszination sollte man nutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird real erfahrbar.<br>
 <div class="box center">
-	<img src="eds-4.jpg" width="402"  height="179"/> 
+	<img src="aes-1.jpg" width="402"  height="268"/> 
+	Kniffeliger Sketch....
 </div>
 
 Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der physikalischen Außenwelt durch Sensoren und Aktoren verbunden. Diese Controller steuern z.B. intelligent einen Roboter. Bei der Roboter-Programmierung hat man sofort ein greifbares Feedback an dem Jugendliche erkennen können, ob das implementierte Programm läuft oder nicht. Da kann schon mal ein Roboter sprichwörtlich "gegen die Wand fahren".
@@ -102,6 +103,8 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 
 <hr>
 
+
+
 <div class="cols clear-after"><br>
 
 Aktuelle Materialien:<br>
@@ -112,13 +115,21 @@ Aktuelle Materialien:<br>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 5.9.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 11.9.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
+	<b>11.9.2017:</b> So wie es aussieht, wird sich die Gruppe auf 10 Schüler stabilisieren. Das wäre dann auch die ideale Größe.<br>
+	Dieser 5-mal-Blinken-Sketch mit 32 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
+	hier erklären. Dann hast du die Möglichkeit, diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement. Aber nun hast du zwei Wochen Zeit,
+	also investiere vielleicht sogar 30 Minuten? O.k., einigen wir uns auf 20 Minuten! Wie dem auch sei: <b>Mach was!</b> Öffne die PDF und versuche den Inhalt zu verstehen.<br>
+	<a href="/physical-computing/5-mal-blinken.pdf" target="_blank"><b> 5-mal Blinken (PDF)</b></a><br>
+	
+	<br><hr>
+	
 	4.9.2017:  ....läuft bisher ganz gut, dennoch sollte sich <b>jeder</b> wenigstens 15 Minuten Zeit nehmen um alles Zuhause nochmal durchzugehen.
 	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
-	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br>
+	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br><br>
 	
 	<hr>
 	<br><b><big><big>S u p e r !</big></big></b><br>

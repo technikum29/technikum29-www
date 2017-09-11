@@ -44,7 +44,7 @@ Das folgende Gerät konnte man schon an den Haushaltsstrom anschließen. Damit e
         <p class="bildtext"><b>SIGNALBAU-HUTH</b> (Modell E72): Dies ist ein preiswertes Ger&auml;t aus dem Jahre 1928 f&uuml;r die "kleinen Leute". Die Empfangsqualit&auml;t des kleinen R&uuml;ckkopplungsger&auml;tes ist sehr d&uuml;rftig. Der angeschlossene Trichterlautsprecher aus Metall rundete durch einen sprichw&ouml;rtlich blechernen Klang das Bild ab. Radioh&ouml;ren war durchaus eine Sensation; aber kein H&ouml;rgenuss.</p>
     </div>
 
-    <p>Es gab in der technischen Entwicklungsgeschichte immer Ästheten, die Geräte bauten, deren Innenleben herrlich anzusehen ist. Oben konnten Sie schon das Saba Gerät bewundern. Auch das nicht ganz seltene Gerät von Telefunken  <b>T 40W</b>  gehört zu dieser Kategorie. Auf einer Extraseite können Sie ungewöhnliche Einblicke in den Aufbau dieses Gerätes nehmen.</p>
+    <p>Es gab in der technischen Entwicklungsgeschichte immer Ästheten, die Geräte bauten, deren Innenleben herrlich anzusehen ist. Oben konnten Sie schon das Saba Gerät bewundern. Auch das nicht ganz seltene Gerät von Telefunken  <b>T40W</b>  gehört zu dieser Kategorie. Auf einer Extraseite können Sie ungewöhnliche Einblicke in den Aufbau dieses Gerätes nehmen.</p>
 
     <div class="box left clear-after">
         <a href="/de/geraete/telefunken_t40w.php"><img src="/shared/photos/kommunikationstechnik/telefunken_t40w/klein.jpg" alt="Fotografie des Telefunken T40W" class="nomargin-bottom" /></a>

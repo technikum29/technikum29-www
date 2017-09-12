@@ -61,29 +61,18 @@
 		<td>Physik-LK<br>Main-Taunus-Schule, Hofheim
 	<tr>
 	
-	<td>Sa, <b>7. Oktober</b><br>ab 15:00 Uhr	
+	<td>Sa, <b>7. Oktober</b><br>ab 14:30 Uhr	
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>
 		Lucas wird 11 !
 		<td>Freunde von Lucas<br>
 	<tr>
 	
-	
-	
-	
 	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
 		<td>Computer-History<br>
 		<td>Spezial-Führung<br>
 		<td>Interne Gruppe<br>
 	<tr>
-	
-	<td>So, <b>5. November</b><br>ab 15:00 Uhr	
-		<td>Computer-History-Workshop<br>
-		<td>Geburtstags-Event<br>
-		Linus wird 12 !
-		<td>Freunde von Linus<br>
-	<tr>
-	
 	
 		<td><b><font color="#a52a2a">9.10.</b> bis <b>13.10.</b><br>
 		14 bis 16 Uhr
@@ -107,6 +96,13 @@
 		<td>Kinder Akademie<br>Fulda<br>
 		<tr>
 		
+		<td>So, <b>5. November</b><br>ab 15:00 Uhr	
+		<td>Computer-History-Workshop<br>
+		<td>Geburtstags-Event<br>
+		Linus wird 12 !
+		<td>Freunde von Linus<br>
+	<tr>
+	
 	<td>So, <b>12. November</b><br>15:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

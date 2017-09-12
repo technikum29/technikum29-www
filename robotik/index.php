@@ -147,7 +147,7 @@ Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für Kids ab 10</big></big> <br><br>
-	Das technikum29 bietet für Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>
+	Das technikum29 bietet für 8 bis 12 Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen. Dabei passen wir den "Tiefgang" dem Alter der Teilnehmer an.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. Für den Workshop sollten die Teilnehmer jedoch mindestens 11 Jahre alt sein.<br>
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 3 Stunden.</p>

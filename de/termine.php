@@ -52,7 +52,7 @@
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>
 		Marlon wird 13 !
-		<td>Marlons Freunde<br>
+		<td>Marlon´s Freunde<br>
 	<tr>
 	
 	<td>Mi, <b>4. Oktober</b><br>10:00 Uhr		
@@ -76,6 +76,14 @@
 		<td>Spezial-Führung<br>
 		<td>Interne Gruppe<br>
 	<tr>
+	
+	<td>So, <b>5. November</b><br>ab 15:00 Uhr	
+		<td>Computer-History-Workshop<br>
+		<td>Geburtstags-Event<br>
+		Linus wird 12 !
+		<td>Freunde von Linus<br>
+	<tr>
+	
 	
 		<td><b><font color="#a52a2a">9.10.</b> bis <b>13.10.</b><br>
 		14 bis 16 Uhr

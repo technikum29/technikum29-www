@@ -55,7 +55,7 @@ Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird real erfahrbar.<br>
 <div class="box center">
 	<img src="aes-1.jpg" width="402"  height="268"/> 
-	Kniffeliger Sketch....
+	Kniffliger Sketch....
 </div>
 
 Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der physikalischen Außenwelt durch Sensoren und Aktoren verbunden. Diese Controller steuern z.B. intelligent einen Roboter. Bei der Roboter-Programmierung hat man sofort ein greifbares Feedback an dem Jugendliche erkennen können, ob das implementierte Programm läuft oder nicht. Da kann schon mal ein Roboter sprichwörtlich "gegen die Wand fahren".
@@ -121,7 +121,7 @@ Aktuelle Materialien:<br>
 	
 	<b>11.9.2017:</b> So wie es aussieht, wird sich die Gruppe auf 10 Schüler stabilisieren. Das wäre dann auch die ideale Größe.<br>
 	Dieser 5-mal-Blinken-Sketch mit 32 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
-	hier erklären. Dann hast du die Möglichkeit, diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement. Aber nun hast du zwei Wochen Zeit,
+	hier erklären. Dann hast du die Möglichkeit diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement. Aber nun hast du zwei Wochen Zeit,
 	also investiere vielleicht sogar 30 Minuten? O.k., einigen wir uns auf 20 Minuten! Wie dem auch sei: <b>Mach was!</b> Öffne die PDF und versuche den Inhalt zu verstehen.<br>
 	<a href="/physical-computing/5-mal-blinken.pdf" target="_blank"><b> 5-mal Blinken (PDF)</b></a><br>
 	
@@ -142,38 +142,6 @@ Aktuelle Materialien:<br>
 	
 	<?php $zaun_aes->end(); ?>
 	
-<br>	
-	
-
-<?php $zaun_eds->printAnchor(); ?>
-
-	Infos speziell für Schüler der EDS: 
-	
-	&nbsp;   <?php $zaun_eds->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.8.2017)</small><br>
-
-	<?php $zaun_eds->start(); ?>
-<!--     <div class="leftcol">
-
-<br>
-
-	<a href="/physical-computing/ph2.pdf" target="_blank"> Physical-Computing Blatt 2 (PDF)</a><br>
-	<a href="/physical-computing/ph3.pdf" target="_blank"> Physical-Computing Blatt 3 (PDF)</a><br>
-	<a href="/physical-computing/ph4.pdf" target="_blank"> Physical-Computing Blatt 4 (PDF)</a><br>
-	</div>
-	
-<div class="rightcol"><br>	
-	
-	<a href="/physical-computing/ph5.pdf" target="_blank"> Physical-Computing Blatt 5 (PDF)</a><br>
-	<a href="/physical-computing/ph6.pdf" target="_blank"> Physical-Computing Blatt 6 (PDF)</a><br>
-	<a href="/physical-computing/ph7.pdf" target="_blank"> Physical-Computing Blatt 7 (PDF, LED&KEY))</a>
-	 <br><br>
-	 </div>
-	 </div>
-	-->
-	<br>
-	Während an der AES ein Run auf "Physical-Computing" ist, interessiert sich an der EDS aus der 8. Klasse niemand hierfür. Die restlichen Teilnehmer der "alten" Gruppe können donnerstags nicht mehr. Es wird sehr schwierig, hier einen neuen Termin zu finden. Ich könnte nur noch den Mittwoch anbieten, wenn die Gruppe als untere Schmerzgrenze aus mind. 4-5 Schülern bestehen würde. Bitte weiter sagen und mir gegebenenfalls eine Mail schicken!
-	<hr>
-	<?php $zaun_eds->end(); ?>
 	
 
 

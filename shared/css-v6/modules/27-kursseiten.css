@@ -26,10 +26,17 @@ body.kursseite section.sidebar a.termine {
 
 /* teaser, von devzone kopiert */
 body.kursseite header.teaser {
-	margin: -60px -40px 40px;
 	position: relative;
 	overflow: hidden;
+	margin: 30px -40px 30px;
 }
+
+/* Wenn mehrere dieser Teaser auf einer Seite (eine verrueckte Sache, die Berti
+   im Sept 2017 ploetzlich wollte: Nur den ersten mit dem fancigen Margin aussatten) */
+body.kursseite header.teaser.seitenstart {
+	margin: -60px -40px 40px;
+}
+
 
 body.kursseite header.teaser h2,    /*Robotik*/
 body.kursseite #content header.teaser h2 {
@@ -56,19 +63,20 @@ body.kursseite header.teaser h2 span.subtext {
 
 /* Physical-Computing */
 body.kursseite #content header.teaser.physical-computing h2 {
-	
 	color: #0006ff;
-
 	background-color: rgba(224, 242, 254, .7);/*vorher .8*/
-	
 }
 
-body.kursseite header.teaser img {
-
+body.kursseite #content header.teaser.digitale-denker h2 {
+	font-size: 180%;
+	color: white;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 0%,rgba(0,0,0,1) 100%);
 }
 
+body.kursseite header.teaser img {}
 
-body.kursseite header.teaser::before {
+
+body.kursseite header.teaser.physical-computing::before {
 	/* css3 hack to get img inset box-shadow */
 	display:block;
 	content:'';

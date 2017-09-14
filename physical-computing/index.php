@@ -37,7 +37,7 @@ SIDEBAR_ENDE;
 	require "../lib/technikum29.php";
 ?>
 
-<header class="teaser physical-computing">
+<header class="teaser physical-computing seitenstart">
 	<h2>
 	Physical-Computing &amp; Robotics
 	</h2>
@@ -54,7 +54,7 @@ SIDEBAR_ENDE;
 Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese Faszination sollte man nutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird real erfahrbar.<br>
 <div class="box center">
-	<img src="aes-1.jpg" width="402"  height="268"/> 
+	<img src="aes-1.JPG" width="402"  height="268"/> 
 	Kniffliger Sketch....
 </div>
 
@@ -101,11 +101,12 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 
-<hr>
+<div class="clear"></div>
 
-
-
-<div class="cols clear-after"><br>
+<header class="teaser digitale-denker">
+	<h2>Digitale Denker</h2>
+	<img class="no-copyright" src="vorlage-1.jpg">
+</header>
 
 Aktuelle Materialien:<br>
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>

@@ -54,7 +54,7 @@ SIDEBAR_ENDE;
 Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese Faszination sollte man nutzen, um einen altersgerechten Einstieg in die Programmierung zu ermöglichen.
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird real erfahrbar.<br>
 <div class="box center">
-	<img src="aes-1.jpg" width="402"  height="268"/> 
+	<img src="aes-1.JPG" width="402"  height="268"/> 
 	Kniffliger Sketch....
 </div>
 

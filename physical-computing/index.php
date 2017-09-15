@@ -104,8 +104,8 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 <div class="clear"></div>
 
 <header class="teaser digitale-denker">
-	<h2>Digitale Denker</h2>
-	<img class="no-copyright" src="vorlage-1.jpg">
+	<h2>Club der digitalen Denker</h2>
+	<img class="no-copyright" src="vorlage-2.jpg">
 </header>
 
 Aktuelle Materialien:<br>

@@ -28,7 +28,7 @@ physical objects. That's why we headline our workshops <strong>Physical Computin
 It's by definition the construction of systems which interact with the physical world.
 
 <div class="box center">
-	<img src="/physical-computing/eds-4.jpg" width="402"  height="179"/>
+	<img src="/physical-computing/aes-1.jpg" width="402"  height="268"/>
 </div>
 
 <p>We also call this workshop <strong>Arduino lab</strong>. This is as we equip an

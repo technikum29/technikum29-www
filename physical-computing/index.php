@@ -107,7 +107,7 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 	<h2><big>Club der digitalen Denker</big></h2>
 	<img class="no-copyright" src="vorlage-2.jpg">
 </header>
-Hier werden aktuelle Materialien eingestellt, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
+Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
 
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br><br>

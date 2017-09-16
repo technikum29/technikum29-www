@@ -29,14 +29,14 @@
 	<h4 id="stecker">Cannon-Verbindungsstecker</h4>
 	<div class="left clear-after">
 		<img src="/shared/photos/rechnertechnik/cannon-stecker.jpg" alt="Cannon-Steckverbindung" width="313" height="169" />
-		<p class="bildtext">Wir sind nunmehr im Besitz eines <b>LGP 30</b> Röhrenrechners Bj. 1958-61. Leider fehlen einige Verbindungskabel. Daher suchen wir 37-polige Rundstecker(-buchsen) die von Cannon gebaut wurden, vgl. <a href="/shared/photos/rechnertechnik/cannon-stecker.jpg">das abgebildete Foto im Großformat</a>.
+		<p class="bildtext">Wir sind nunmehr im Besitz eines <b>LGP 30</b> Röhrenrechners Bj. 1958-61. Leider fehlen einige Verbindungskabel. Daher suchen die 37-polige Rundsteckerbuchse die von Cannon (Teile-Nr. FKD-37-21C 5/8) gebaut wurden, vgl. <a href="/shared/photos/rechnertechnik/cannon-stecker.jpg">das abgebildete Foto im Großformat</a>.
 	</div>
-	<p> Der Durchmesser der Rundstecker beträgt ca. 40mm. Auch andere alte 40-polige Steckverbindungen würden uns eventuell weiter helfen.</p>
+	<p> Der Durchmesser der Rundstecker beträgt ca. 40mm.</p>
 	<br>
 	
 	<div class="left">
 		<img src="/shared/photos/rechnertechnik/cannon-40polig.jpg" alt="Cannon-Steckverbindung" width="249" height="283" />
-		<p>Die links abgebildete Steckverbindung wird ebenfalls gesucht: 40-polig von Cannon. Foto <a href="/shared/photos/rechnertechnik/cannon-40polig.jpg">im Großformat.
+		<p>Die links abgebildete Steckverbindung wird ebenfalls gesucht: 40-polig von Cannon (Teile-Nr. DPX-40-34P). Foto <a href="/shared/photos/rechnertechnik/cannon-40polig.jpg">im Großformat.
 	</div>
 	
 	

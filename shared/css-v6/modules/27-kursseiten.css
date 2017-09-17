@@ -67,9 +67,20 @@ body.kursseite #content header.teaser.physical-computing h2 {
 	background-color: rgba(224, 242, 254, .7);/*vorher .8*/
 }
 
-body.kursseite #content header.teaser.digitale-denker h2 {
+/* Zwischenueberschrift: "Club der digitalen Denker" */
+body.kursseite #content header.teaser-like.digitale-denker {
+	overflow: hidden;
+	margin: 30px -40px 30px;
+	background-color: rgba(255,255,255,.6); 
+}
+
+body.kursseite #content header.teaser-like.digitale-denker h2 {
 	font-size: 180%;
 	color: white;
+	text-align: center;
+	padding: 20px 30px;
+	margin: 0;
+	border: none !important;
 	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 0%,rgba(0,0,0,1) 100%);
 }
 

@@ -116,30 +116,20 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 11.9.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.9.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
+	<b>Ganz aktuell</b>:<br>
+	am 25.9. findet die AG wegen des Sozial-Praktikums auch nicht statt! Am 2.10. treffen wir uns mal wieder, danach sind Ferien. Wir sollten ügberlegen, die AG dreistündig zu machen, sonst kommen wir nicht weit <big>&#9786;</big> <br><br>
 	
 	<b>11.9.2017:</b> So wie es aussieht, wird sich die Gruppe auf 10 Schüler stabilisieren. Das wäre dann auch die ideale Größe.<br>
-	Dieser 5-mal-Blinken-Sketch mit 32 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
+	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
 	hier erklären. Dann hast du die Möglichkeit diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement. Aber nun hast du zwei Wochen Zeit,
 	also investiere vielleicht sogar 30 Minuten? O.k., einigen wir uns auf 20 Minuten! Wie dem auch sei: <b>Mach was!</b> Öffne die PDF und versuche den Inhalt zu verstehen.<br>
 	<a href="/physical-computing/5-mal-blinken.pdf" target="_blank"><b> 5-mal Blinken (PDF)</b></a><br>
-	
-	<br><hr>
-	
-	4.9.2017:  ....läuft bisher ganz gut, dennoch sollte sich <b>jeder</b> wenigstens 15 Minuten Zeit nehmen um alles Zuhause nochmal durchzugehen.
 	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
 	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br><br>
 	
-	<hr>
-	<br><b><big><big>S u p e r !</big></big></b><br>
-	Du hast die Infos für eure AG (Club der digitalen Denker) aufgerufen und bist daran interessiert, die Aufgaben aus der letzten Stunde noch mal durchzugehen.
-	Dazu empfehle ich dir die Arduino-Software auf deinen PC zu laden. Dann kannst du auch ohne Arduino-Microcontroller "Trockenübungen" machen.<br>
-	Lies dir die Infos aus Blatt 1 nochmal durch. Falls was unklar ist, stelle Fragen hierzu. Über die Baudrate sprechen wir in der nächsten Stunde.
-	Ansonsten solltest du die Bedeutung der Begriffe "Deklaration", "Initialisierung" und "Datentyp" kennen und den Seriellen Monitor anwenden können.<br>
-	Programmieren ist eine exakte Wissenschaft :-), macht dennoch wirklich Spaß....aber nur, wenn man´s kapiert.
-	<br><br><hr>
 	
 	<?php $zaun_aes->end(); ?>
 	

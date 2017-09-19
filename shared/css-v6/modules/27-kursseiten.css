@@ -61,41 +61,58 @@ body.kursseite header.teaser h2 span.subtext {
 	
 }
 
-/* Physical-Computing */
-body.kursseite #content header.teaser.physical-computing h2 {
-	color: #0006ff;
-	background-color: rgba(224, 242, 254, .7);/*vorher .8*/
+@media all and (min-width: 940px) {
+	body.kursseite header.teaser-nicht-mobil {
+		position: relative;
+		overflow: hidden;
+		margin: 30px -40px 30px;
+	}
+
+	body.kursseite header.teaser-nicht-mobil h2,    /*Robotik*/
+	body.kursseite #content header.teaser-nicht-mobil h2 {
+		border: none !important;
+		position: absolute;
+		bottom: 0; left: 0;
+		width: 80%;      
+		padding: 0.3em 10%;
+		margin: 0;
+		background-color: rgba(255,255,255,.6); 
+		color: #0006ff;     
+	
+	
+		font-size: 280%;    /* vorher 250%;*/
+		text-align: center;
+	}
+
+	/* Physical-Computing */
+	body.kursseite #content header.teaser-nicht-mobil.physical-computing h2 {
+		color: #0006ff;
+		background-color: rgba(224, 242, 254, .7);/*vorher .8*/
+	}
+
+	/* Zwischenueberschrift: "Club der digitalen Denker" */
+	body.kursseite #content header.teaser-nicht-mobil.digitale-denker h2 { 
+		font-size: 180%;
+		color: white;
+		background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 0%,rgba(0,0,0,1) 100%);
+	}
+
+	body.kursseite header.teaser-nicht-mobil.physical-computing::before {
+		/* css3 hack to get img inset box-shadow */
+		display:block;
+		content:'';
+		position:absolute;
+		width:100%;
+		height:100%;
+		box-shadow: 0 -20px 59px -4px rgba(0, 0, 0, 0.35) inset;
+	}
+}/* media min-width: mobile */
+@media all and (max-width: 940px) {
+	body.kursseite header.teaser-nicht-mobil img {
+		display: none;
+	}
 }
 
-/* Zwischenueberschrift: "Club der digitalen Denker" */
-body.kursseite #content header.teaser-like.digitale-denker {
-	overflow: hidden;
-	margin: 30px -40px 30px;
-	background-color: rgba(255,255,255,.6); 
-}
-
-body.kursseite #content header.teaser-like.digitale-denker h2 {
-	font-size: 180%;
-	color: white;
-	text-align: center;
-	padding: 20px 30px;
-	margin: 0;
-	border: none !important;
-	background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 0%,rgba(0,0,0,1) 100%);
-}
-
-body.kursseite header.teaser img {}
-
-
-body.kursseite header.teaser.physical-computing::before {
-	/* css3 hack to get img inset box-shadow */
-	display:block;
-	content:'';
-	position:absolute;
-	width:100%;
-	height:100%;
-	box-shadow: 0 -20px 59px -4px rgba(0, 0, 0, 0.35) inset;
-}
 
 /* sidebar */
 body.kursseite section.sidebar div.text-block,

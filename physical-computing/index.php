@@ -103,8 +103,9 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 
 <div class="clear"></div>
 
-<header class="teaser-like digitale-denker" style="background-image:url(vorlage-2.jpg)">
+<header class="teaser-nicht-mobil digitale-denker">
 	<h2><big>Club der digitalen Denker</big></h2>
+	<img class="no-copyright" src="vorlage-2.jpg"> 
 </header>
 
 Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>

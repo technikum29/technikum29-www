@@ -111,8 +111,8 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine</h3><br>
 
 <font color="#FF0000"><b>Herbstferien:</b></font><br>
-<b>Einführungskurs</b>: 9.10. bis 13.10.<br> 
-<b>Fortsetzungskurs</b>: 16.10. bis 20.10. Dieser setzt die Kenntnisse des Einführungskurses voraus. Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
+<b>Einführungskurs</b>: 9.10. bis 13.10. Teilnehmer:<br> <i> Jasper, Carl, Marc, Amelie, Meryem, Geron, Julian, Simon, Sebastian und Patrick.</i><br>
+<b>Fortsetzungskurs</b>: 16.10. bis 20.10. Dieser setzt die Kenntnisse des Einführungskurses voraus.  Teilnehmer: <i>3-mal Maximilian, David, Bjarne, Joel, Finley, Tobias, Julian und Yash.</i><br>Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
 
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>

@@ -27,8 +27,8 @@
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
 	
 
-	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung nötig! Kontaktieren Sie uns
-	dafür bitte per E-Mail an <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
+	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung notwendig! Kontaktieren Sie uns
+	bitte rechtzeitig per E-Mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
 	
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->

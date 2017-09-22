@@ -117,13 +117,13 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 18.9.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 22.9.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Ganz aktuell</b>:<br>
 	am 25.9. findet die AG wegen des Sozial-Praktikums auch nicht statt! Am 2.10. treffen wir uns mal wieder, danach sind Ferien. Wir sollten ügberlegen, die AG dreistündig zu machen, sonst kommen wir nicht weit <big>&#9786;</big> <br><br>
 	
-	<b>11.9.2017:</b> So wie es aussieht, wird sich die Gruppe auf 10 Schüler stabilisieren. Das wäre dann auch die ideale Größe.<br>
+	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
 	hier erklären. Dann hast du die Möglichkeit diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement.  Also: <b>Mach was!</b> Öffne die PDF und versuche den Inhalt zu verstehen.<br>
 	<a href="/physical-computing/5-mal-blinken.pdf" target="_blank"><b> 5-mal Blinken (PDF)</b></a><br>

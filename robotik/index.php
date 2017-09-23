@@ -43,7 +43,7 @@ SIDEBAR_ENDE;
 	require "../lib/technikum29.php";
 ?>
 
-<header class="teaser">
+<header class="teaser seitenstart">
 	<h2>
 	<span class="subtext">Spaßig-intelligente Alternative für die Ferien:</span>
 	Roboter programmieren

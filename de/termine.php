@@ -48,12 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	<td>So, <b>24. Sept.</b><br>ab 13:00 Uhr	
-		<td>Computer-History-Workshop<br>
-		<td>Geburtstags-Event<br>
-		Marlon wird 13 !
-		<td>Marlon´s Freunde<br>
-	<tr>
 	
 	<td>Mi, <b>4. Oktober</b><br>10:00 Uhr		
 		<td>Computer-History<br>
@@ -94,7 +88,7 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kinder Akademie<br>Fulda<br>
-		<tr>
+	<tr>
 		
 		<td>So, <b>5. November</b><br>ab 15:00 Uhr	
 		<td>Computer-History-Workshop<br>
@@ -107,7 +101,14 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Gruppe Dähne<br>
-		<tr>
+	<tr>
+	
+	<td>Sa, <b>25. November</b><br>14:00 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Für Einzelpersonen und Klein-<br>
+		gruppen. <br><font color="#FF0000">Es gibt noch ein paar freie Plätze</font><br>
+	<tr>
 	
 		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr
 		<td>Computer-History-Workshop 

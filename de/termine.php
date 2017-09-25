@@ -89,6 +89,12 @@
 		<td>Interaktive Führung<br>			
 		<td>Kinder Akademie<br>Fulda<br>
 	<tr>
+	
+	<td>Mi, <b>25. Oktober</b><br>10:00 Uhr
+		<td>Dreharbeiten des Hessischen Rundfunks<br>
+		<td><br>			
+		<td>HR-Mitarbeiter<br>
+	<tr>
 		
 		<td>So, <b>5. November</b><br>ab 15:00 Uhr	
 		<td>Computer-History-Workshop<br>

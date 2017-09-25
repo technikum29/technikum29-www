@@ -115,6 +115,14 @@
 		<td>Geburtstags-Event<br>
 			Jan wird 12 !
 		<td>Jan´s Freunde<br>
+		
+		
+	<tr>
+	
+		<td>Mi, <b>6. Dezember</b><br>15:00 Uhr
+		<td>Computer-History 
+		<td>Interaktive Führung<br>
+		<td>Gruppe Koch<br>
 
 	<tr>
 	

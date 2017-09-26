@@ -44,7 +44,7 @@
 	<tr class="title">
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
-		<th style="width:9em;">Typ
+		<th style="width:11em;">Typ
 		<th>Teilnehmer     
 	<tr>
 	
@@ -113,7 +113,7 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Für Einzelpersonen und Klein-<br>
-		gruppen. <br><font color="#FF0000">Es gibt noch ein paar freie Plätze</font><br>
+		gruppen. <font color="#FF0000">Es gibt noch ein paar freie Plätze</font><br>
 	<tr>
 	
 		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr
@@ -125,7 +125,7 @@
 		
 	<tr>
 	
-		<td>Mi, <b>6. Dezember</b><br>15:00 Uhr
+		<td>Mi, <b>6. Dezember</b><br>15:30 Uhr
 		<td>Computer-History 
 		<td>Interaktive Führung<br>
 		<td>Gruppe Koch<br>

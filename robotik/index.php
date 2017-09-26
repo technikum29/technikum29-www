@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>20.9.2017
+	<br>26.9.2017
 </div>
 
 <div class="spacing"></div>
@@ -73,8 +73,8 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <div class="box center nomargin-bottom">
-<img  src="aug.2017-1.jpg" width="300"   height="275"/> 
-<div class="small">"Kein simples Programm...."</div>
+<img  src="sept.2017.jpg" width="405"   height="293"/> 
+<div class="small">Vergleich der beiden Robo´s</div>
 </div>
 
 
@@ -101,7 +101,7 @@ Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wie
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>
 <div class="box center nomargin-bottom">
 <img src="aug.2017-3.jpg" width="330"  height="246"/> 
-<div class="small">"Macht einfach Spaß...."</div>
+<div class="small">Macht einfach Spaß....</div>
 </div>
 <h3>Bedingungen und Kosten</h3>
 <p>Pro Kurs können 10 Schüler teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits zum Teil aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>

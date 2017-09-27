@@ -74,9 +74,9 @@ In our course, students learn:
   pupils' age.
 </ul>
 
-<div class="box center">
-<img src="/robotik/aug.2017-1.jpg" width="300"  height="275"/>
-<div class="small">It is not a simple program ....</div>
+<div class="box center nomargin-bottom">
+<img  src="/robotik/sept.2017.jpg" width="405"   height="293"/> 
+
 </div>
 
 

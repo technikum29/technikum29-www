@@ -121,7 +121,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Ganz aktuell</b>:<br>
-	am 25.9. findet die AG wegen des Sozial-Praktikums auch nicht statt! Am 2.10. treffen wir uns mal wieder, danach sind Ferien. Wir sollten ügberlegen, die AG dreistündig zu machen, sonst kommen wir nicht weit <big>&#9786;</big> <br><br>
+	am 25.9. findet die AG wegen des Sozial-Praktikums auch nicht statt! Am 2.10. treffen wir uns mal wieder, danach sind Ferien. Wir sollten überlegen, die AG dreistündig zu machen, sonst kommen wir nicht weit <big>&#9786;</big> <br><br>
 	
 	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse

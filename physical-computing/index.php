@@ -111,17 +111,18 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
 
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
-<a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br><br>
+<a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
+<a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br><br>
 
 <?php $zaun_aes->printAnchor(); ?>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 22.9.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.10.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
-	<b>Ganz aktuell</b>:<br>
-	am 25.9. findet die AG wegen des Sozial-Praktikums auch nicht statt! Am 2.10. treffen wir uns mal wieder, danach sind Ferien. Wir sollten überlegen, die AG dreistündig zu machen, sonst kommen wir nicht weit <big>&#9786;</big> <br><br>
+	<b>Aktuell</b>:<br>
+	 Wir sollten überlegen, die AG mehr als 90 Minuten laufen zu lassen, sonst kommen wir nicht weit. <br><br>
 	
 	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse

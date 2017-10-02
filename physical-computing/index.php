@@ -122,7 +122,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	 Wir sollten überlegen, die AG mehr als 90 Minuten laufen zu lassen, sonst kommen wir nicht weit. <br><br>
+	 Wir sollten überlegen die AG mehr als 90 Minuten laufen zu lassen, sonst kommen wir nicht weit. <br><br>
 	
 	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse

@@ -28,7 +28,7 @@ physical objects. That's why we headline our workshops <strong>Physical Computin
 It's by definition the construction of systems which interact with the physical world.
 
 <div class="box center">
-	<img src="/physical-computing/aes-1.JPG" width="402"  height="268"/>
+	<img src="/physical-computing/aes-2.jpg" width="402"  height="301"/>
 </div>
 
 <p>We also call this workshop <strong>Arduino lab</strong>. This is as we equip an
@@ -51,21 +51,20 @@ suitable to demonstrate basic programming principles.
 <h3>Emerging intelligence</h3>
 
 <p>
-<div class="box left" style="margin-top:0">
-	<img src="/physical-computing/eds-2.jpg" width="220"  height="223"/>
+<div class="box center">
+	<img src="/physical-computing/pcr-4.jpg" width="402"  height="150"/>
+</div>	
 
 It's astonishing how quickly robots seem to behave in an intelligent way.
 Programming is fun and success guaranteed. We use our website to publish
 scripts, worksheets and solutions for preparation and homework.
+
+
+<div class="box center">
+
+	<img src="/physical-computing/robo.jpg" width="320"  height="200"/> 
+	<div class="small">Robot car (not yet finished)</div>
 </div>
-
-<div class="box left">
-<a href="/physical-computing/robo.jpg">
-	<img src="/physical-computing/robo.jpg" width="250"  height="156"/> 
-	<small>Robot car <br></a>(not yet finished)</small>
-
-</div>
-
 
 <p>With the <a href="robotics.php">Lego Robotics</a> workshop we gained quite
 some experience in hosting workshops at technikum29. For pupils, it's always

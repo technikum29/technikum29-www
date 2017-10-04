@@ -49,12 +49,6 @@
 	<tr>
 	
 	
-	<td>Mi, <b>4. Oktober</b><br>10:00 Uhr		
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>
-		<td>Physik-LK<br>Main-Taunus-Schule, Hofheim
-	<tr>
-	
 	<td>Sa, <b>7. Oktober</b><br>ab 14:30 Uhr	
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>

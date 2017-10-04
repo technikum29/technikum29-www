@@ -118,11 +118,11 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.10.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 4.10.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	 Wir sollten überlegen die AG mehr als 90 Minuten laufen zu lassen, sonst kommen wir nicht weit. <br><br>
+	 In der Woche nach den Herbstferien findet unsere AG am 23.10. statt auch wenn irgendwo steht, dass alle AG´s ausfallen! <br><br>
 	
 	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse

@@ -27,7 +27,7 @@ Programmers could be the new pop stars. At technikum29, we join this movement by
 inspiring youths to build robots. It's fun and supports creativity.
 
 <div class="box center">
-<img src="/robotik/aes-gruppe-2017.jpg" width="405"  height="221"/> 
+<img src="/robotik/aes-2017-18.jpg" width="402"  height="231"/> 
 <div class="small">Students' group</div>
 </div>
 

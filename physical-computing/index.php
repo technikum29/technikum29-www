@@ -122,7 +122,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	 In der Woche nach den Herbstferien findet unsere AG am 23.10. statt auch wenn irgendwo steht, dass alle AG´s ausfallen! <br><br>
+	 In der Woche nach den Herbstferien findet unsere AG am 23.10. statt auch wenn der Nachmittagsunterricht ausfällt! <br><br>
 	
 	<b>11.9.2017:</b> 
 	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse

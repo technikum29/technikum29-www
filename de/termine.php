@@ -103,6 +103,16 @@
 		<td>Freunde von Linus<br>
 	<tr>
 	
+		
+		<td>Sa, <b>11. November</b><br>ab 15:00 Uhr	
+		<td>Computer-History-Workshop<br>
+		<td>Geburtstags-Event<br>
+		
+		<td><br>
+	<tr>
+	
+	
+	
 	<td>So, <b>12. November</b><br>15:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

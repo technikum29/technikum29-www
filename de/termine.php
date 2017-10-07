@@ -49,13 +49,6 @@
 	<tr>
 	
 	
-	<td>Sa, <b>7. Oktober</b><br>ab 14:30 Uhr	
-		<td>Computer-History-Workshop<br>
-		<td>Geburtstags-Event<br>
-		Lucas wird 11 !
-		<td>Freunde von Lucas<br>
-	<tr>
-	
 	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
 		<td>Computer-History<br>
 		<td>Spezial-Führung<br>
@@ -107,8 +100,9 @@
 		<td>Sa, <b>11. November</b><br>ab 15:00 Uhr	
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>
+		Alexander wird 11 !
 		
-		<td><br>
+		<td>Freunde von Alexander<br>
 	<tr>
 	
 	

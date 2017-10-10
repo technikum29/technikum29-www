@@ -49,12 +49,6 @@
 	<tr>
 	
 	
-	<td>Mo, <b>9. Oktober</b><br>17:00 Uhr		
-		<td>Computer-History<br>
-		<td>Spezial-Führung<br>
-		<td>Interne Gruppe<br>
-	<tr>
-	
 		<td><b><font color="#a52a2a">9.10.</b> bis <b>13.10.</b><br>
 		14 bis 16 Uhr
 		<td><font color="#a52a2a">Robotik-Workshop<br>
@@ -111,6 +105,12 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Gruppe Dähne<br>
+	<tr>
+	
+	<td>Fr, <b>17. November</b><br>18:30 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Gruppe Briehl<br>
 	<tr>
 	
 	<td>Sa, <b>25. November</b><br>14:00 Uhr

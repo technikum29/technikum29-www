@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>5.10.2017
+	<br>10.10.2017
 </div>
 
 <div class="spacing"></div>
@@ -111,17 +111,20 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 <h3>Termine</h3><br>
 
 <font color="#FF0000"><b>Herbstferien:</b></font><br>
-<b>Einführungskurs</b>: 9.10. bis 13.10. Teilnehmer:<br> <i> Jasper, Carl, Marc, Amelie, Meryem, Gereon, Julian, Simon, Sebastian</i> und<i> Patrick.</i><br>
-<b>Fortsetzungskurs</b>: 16.10. bis 20.10. Dieser setzt die Kenntnisse des Einführungskurses voraus.  Teilnehmer: 3-mal<i> Maximilian, David, Bjarne, Finley, Tobias,</i> 2-mal<i> Julian</i> sowie<i> Yash.</i><br>Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br>
-
+<b>Einführungskurs</b>: 9.10. bis 13.10. Teilnehmer:<br> <i> Jasper, Carl, Marc, Meryem, Gereon, Julian, Simon, Sebastian</i> und<i> Patrick.</i><br>
+<b>Fortsetzungskurs</b>: 16.10. bis 20.10. Dieser setzt die Kenntnisse des Einführungskurses voraus.  Teilnehmer: 3-mal<i> Maximilian, David, Bjarne, Finley, Tobias,</i> 2-mal<i> Julian</i> sowie<i> Yash.</i><br>Die Kurse laufen jeweils von 14:00 bis 16:00 Uhr.<br><br>
+In Planung:<br>
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
-In Planung ist ein Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr.<br>
+Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a><br><br>
+
+<font color="#FF0000"><b>Sommerferien 2018:</b></font><br>
+Einführungskurs von Mo. 25.6. bis Fr. 29.6.2018 jeweils von 10:00 bis 12:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a> <br>
 
 <h3>Anmeldung und Vormerkung</h3>  
-<p>
+
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</p>
+
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->

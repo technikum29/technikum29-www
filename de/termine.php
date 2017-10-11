@@ -110,7 +110,7 @@
 	<td>Fr, <b>17. November</b><br>18:30 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
-		<td>Gruppe Briehl<br>
+		<td>Gruppe Biehl<br>
 	<tr>
 	
 	<td>Sa, <b>25. November</b><br>14:00 Uhr

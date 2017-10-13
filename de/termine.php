@@ -48,14 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	
-		<td><b><font color="#a52a2a">9.10.</b> bis <b>13.10.</b><br>
-		14 bis 16 Uhr
-		<td><font color="#a52a2a">Robotik-Workshop<br>
-		<td><font color="#a52a2a">Einführungskurs<br>
-		siehe <a href="/robotik" target="_blank"> "Robotik"</a>	
-		<td><font color="#a52a2a">11 bis 13-Jährige<br>
-	<tr>
 		
 		<td><b><font color="#a52a2a">16.10.</b> bis <b>20.10.</b><br>
 		14 bis 16 Uhr
@@ -117,7 +109,7 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Für Einzelpersonen und Klein-<br>
-		gruppen. <font color="#FF0000">Es gibt noch ein paar freie Plätze</font><br>
+		gruppen. <font color="#FF0000"><br>Es gibt noch 2 freie Plätze</font><br>
 	<tr>
 	
 		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr

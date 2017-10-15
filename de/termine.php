@@ -65,7 +65,7 @@
 	
 	<td>Mi, <b>25. Oktober</b><br>10:00 Uhr
 		<td>Dreharbeiten des Hessischen Rundfunks<br>
-		<td><br>			
+		<td>10:00 Uhr<br>			
 		<td>HR-Mitarbeiter<br>
 	<tr>
 		

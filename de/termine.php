@@ -48,20 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-		
-		<td><b><font color="#a52a2a">16.10.</b> bis <b>20.10.</b><br>
-		14 bis 16 Uhr
-		<td><font color="#a52a2a">Robotik-Workshop<br>
-		<td><font color="#a52a2a">Fortsetzungskurs<br>
-		siehe <a href="/robotik" target="_blank"> "Robotik"</a>
-		<td><font color="#a52a2a">11 bis 13-Jährige<br></font>
-	<tr>
-	
-		<td>Do, <b>19. Oktober</b><br>10:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>			
-		<td>Kinder Akademie<br>Fulda<br>
-	<tr>
 	
 	<td>Mi, <b>25. Oktober</b><br>10:00 Uhr
 		<td>Dreharbeiten des Hessischen Rundfunks<br>

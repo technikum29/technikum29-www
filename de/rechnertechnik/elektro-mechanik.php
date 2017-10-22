@@ -73,7 +73,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 		<img src="/shared/photos/rechnertechnik/logos-innen-rechts.jpg" width="196" height="147"/>
 		</a>
 		<p>Doch die Zeiten des mechanischen Rechnens waren längst vorüber. Es scheint als ob die genialen Büromaschinen-Mechaniker noch eine fulminante "Endzeitmaschine" bauen wollten um zu zeigen wozu reine Mechanik in der Lage ist.<br>
-		Man muss jedoch Olivetti zugutehalten, bereits 1966 den sehr fortschrittlichen programmierbaren elektronischen Rechner <a class="go" href="/de/rechnertechnik/programmierbare.php#101"><b>PROGRAMMA 101</b></a>  auf den Markt gebracht zu haben. <br>
+		Man muss jedoch Olivetti zugutehalten bereits 1966 den sehr fortschrittlichen programmierbaren elektronischen Rechner <a class="go" href="/de/rechnertechnik/programmierbare.php#101"><b>PROGRAMMA 101</b></a>  auf den Markt gebracht zu haben. <br>
 		Wenn eine mechanische Maschine einmal mit falschem Öl oder Fett behandelt wurde ist ihr Leben nach ein paar Jahren ausgehaucht. So sind in unserer Logos-27-2 so viele Gelenke total verharzt, so dass eine Reparatur leider nicht mehr möglich ist. Einblicke in die mechanische Wunderwelt erhält man durch Anklicken der kleinen Bilder. </p>
 		
 	</div>

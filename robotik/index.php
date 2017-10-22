@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>10.10.2017
+	<br>21.10.2017
 </div>
 
 <div class="spacing"></div>
@@ -110,8 +110,6 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 Euro.</p>
 
 <h3>Termine</h3><br>
 
-
-In Planung:<br>
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
 Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a><br><br>

@@ -119,16 +119,14 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 4.10.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 23.10.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	 In der Woche nach den Herbstferien findet unsere AG am 23.10. statt auch wenn der Nachmittagsunterricht ausfällt! <br><br>
+	Bitte daran denken und weitersagen: Wir haben beschlossen, die AG schon um 13:50 Uhr starten zu lassen, da der Unterricht so oft ausfällt. <br>
+	In Kürze stelle ich noch eine PDF über analoge Eingänge und PWM hier ein. Die solltest du dir anschauen um den Überblick zu behalten!<br><br>
 	
-	<b>11.9.2017:</b> 
-	Dieser 5-mal-Blinken-Sketch mit 33 Sekunden Aussetzen war schon recht merkwürdig. Schwierige Programme werde ich immer mit einer ausführlichen Analyse
-	hier erklären. Dann hast du die Möglichkeit diese in aller Ruhe anzuschauen.......die berühmten 15 Minuten Engagement.  Also: <b>Mach was!</b> Öffne die PDF und versuche den Inhalt zu verstehen.<br>
-	<a href="/physical-computing/5-mal-blinken.pdf" target="_blank"><b> 5-mal Blinken (PDF)</b></a><br>
+	
 	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
 	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br><br>
 	

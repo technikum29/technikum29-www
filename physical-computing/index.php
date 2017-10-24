@@ -110,11 +110,22 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 
 Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
 
+<div class="cols clear-after">
+<div class="leftcol">
+
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
 <a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
-<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"><b> Info über analoge Eingänge und PWM (PDF)</b><br><br>
+
+</div>
+<div class="rightcol">
+
+<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"><b> Info über analoge Eingänge und PWM (PDF)</b>
+
+</div>
+</div>
+<br>
 
 <?php $zaun_aes->printAnchor(); ?>
 

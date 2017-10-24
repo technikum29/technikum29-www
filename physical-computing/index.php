@@ -113,18 +113,19 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
-<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br><br>
+<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
+<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"><b> Info über analoge Eingänge und PWM (PDF)</b><br><br>
 
 <?php $zaun_aes->printAnchor(); ?>
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 23.10.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.10.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
 	Bitte daran denken und weitersagen: Wir haben beschlossen, die AG schon um 13:50 Uhr starten zu lassen, da der Unterricht so oft ausfällt. <br>
-	In Kürze stelle ich noch eine PDF über analoge Eingänge und PWM hier ein. Die solltest du dir anschauen um den Überblick zu behalten!<br><br>
+	Öffne den oben stehenden Link über anloge Eingänge und PWM. Versuche den Inhalt zu verstehen.<br><br>
 	
 	
 	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>

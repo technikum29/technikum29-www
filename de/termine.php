@@ -48,12 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	
-	<td>Mi, <b>25. Oktober</b><br>10:00 Uhr
-		<td>Dreharbeiten des Hessischen Rundfunks<br>
-		<td>10:00 Uhr<br>			
-		<td>HR-Mitarbeiter<br>
-	<tr>
 		
 			<td>Sa, <b>4. November</b><br>
 		<td>LGP-30 Restauration<br>

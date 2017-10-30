@@ -131,14 +131,13 @@ Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 
-	<div  class="box bordered nomargin-bottom" id="3D">
-	
-	
-	<div class="box left">
+<div  class="box bordered nomargin-bottom clear-after" id="3D">
+  <div class="desc-left borderless auto-bildbreite" style="padding-bottom: 0; margin-bottom: 0;">
 	<img src="arduino.jpg" width="220"  height="171"/> 
-<div class="small">Arduino-Zähler, Einführungsbeispiel</div></div>
+	<div class="small">Arduino-Zähler, Einführungsbeispiel</div>
+  </div>
 
-<p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big></p> 
+  <p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big></p> 
 
 	Neu im technikum29: Für Schüler ab Klasse 8 bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="_blank"> Physical-Computing & Robotics </a>.
 

@@ -137,7 +137,7 @@ Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kid
 	<div class="small">Arduino-Zähler, Einführungsbeispiel</div>
   </div>
 
-  <p class="bildtext"><big><big>Das Arduino-Labor: Physical-Computing & Robotics</big></big></p> 
+  <p class="bildtext"><big><big>Das Arduino-Labor:<br>Physical-Computing & Robotics</big></big></p> 
 
 	Neu im technikum29: Für Schüler ab Klasse 8 bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="_blank"> Physical-Computing & Robotics </a>.
 

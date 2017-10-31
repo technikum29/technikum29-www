@@ -116,7 +116,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
-<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
+<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a> neue Version<br>
 
 </div>
 <div class="rightcol">
@@ -131,12 +131,14 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 24.10.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 1.11.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	Bitte daran denken und weitersagen: Wir haben beschlossen, die AG schon um 13:50 Uhr starten zu lassen, da der Unterricht so oft ausfällt. <br>
-	Öffne den oben stehenden Link über anloge Eingänge und PWM. Versuche den Inhalt zu verstehen.<br><br>
+	Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
+	<a href="/physical-computing/Analyse_Keyb.3-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>
+	<br>
+	Öffne auch den oben rechts stehenden Link über anloge Eingänge und PWM. Versuche den Inhalt zu verstehen.<br><br>
 	
 	
 	Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>

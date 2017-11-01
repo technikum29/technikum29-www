@@ -127,7 +127,7 @@ Lange, who donated the machine to the museum.</small>
 	    "printer error" message. Data integrity was the most important consideration at the
 		time. If only one of the 140 printer columns is not working correctly, the whole
 		printer goes offline to avoid any wrong output.
-	<br>><br><b>10.05.2010:</b> We managed to get the plated wire storage online. We
+	<br><br><b>10.05.2010:</b> We managed to get the plated wire storage online. We
 	    can even start some small test programs via the input switches, but there are
 		bugs while running. This is perhaps the only device that still uses the old
 		plated wire storage. Anyway, we are planing a replacement.

@@ -104,16 +104,16 @@
             <ul>
               <li>In the center there is the HP 9100 (see
                   <a href="/en/computer/programmable.php#Hewlett_Packard_HP_9100">Programmable
-                  second-generation calculators</a> for description)</li>
+                  second-generation calculators</a> for description)</li><br>
               <li>Above the successor model HP 9810 (same logic like the HP 9100
                   but uses TTL-ICs), uses the very first LED displays that are
-                  still very small and have only three rows.</li>
+                  still very small and have only three rows.</li><br>
               <li>At the bottom the next model, HP 9820 (year of manufacture 1971)
                   with alphanumerical 7x5 pixel LED display.
-              </li>
+              </li><br>
               <li>At the top the best known computer from HP: HP 9830, year of manufacture 1972
                   with paper tape reader, puncher and plotter. This is the world's first desk
-                  calculator that can be programmed with BASIC.</li>
+                  calculator that can be programmed with BASIC.</li><br>
             </ul>
           </div>
       </div>

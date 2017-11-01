@@ -6,7 +6,7 @@
 	require "../lib/technikum29.php";
 ?>
 
-<header class="teaser physical-computing">
+<header class="teaser physical-computing seitenstart">
 	<h2>
 	<span class="subtext">Workshops for children and teenagers at technikum29</span>
 	Physical computing workshops

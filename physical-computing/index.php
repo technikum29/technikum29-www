@@ -136,7 +136,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
 	Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
-	<a href="/physical-computing/Analyse_Keyb.3-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>
+	<a href="/physical-computing/Analyse-Keyboard-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>
 	<br>
 	Öffne auch den oben rechts stehenden Link über anloge Eingänge und PWM. Versuche den Inhalt zu verstehen.<br><br>
 	

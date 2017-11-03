@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>21.10.2017
+	<br>3.11.2017
 </div>
 
 <div class="spacing"></div>
@@ -61,7 +61,7 @@ SIDEBAR_ENDE;
 <p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> 
 
 <div class="box center nomargin-bttom">
-<img src="aes-2017-18.jpg" width="402"  height="231"/> 
+<img src="aes2017-18.jpg" width="402"  height="191"/> 
 <div class="small">Die AES-Robotik-Gruppe</div>
 </div>
 

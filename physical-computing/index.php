@@ -131,11 +131,18 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 1.11.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 6.11.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
+	Der Beginn um 13:50 Uhr hat sich nicht bewährt. Also bleibt es bei 14:00 Uhr (super-pünktlich!).<br>
+	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="http://www.chip.de/downloads/Arduino-Software-IDE_90789714.html" target="_blank"> Arduino-Software-Download.</a><br>
+	
+	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
+	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> Sketch für die Ziffernanzeige</a><br>
+	Versuche noch einmal, diesen Sketch zu verstehen.<br><br>
+	
+	Vom 30.10.: Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
 	<a href="/physical-computing/Analyse-Keyboard-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>
 	<br>
 	Öffne auch den oben rechts stehenden Link über anloge Eingänge und PWM. Versuche den Inhalt zu verstehen.<br><br>

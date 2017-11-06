@@ -49,20 +49,6 @@
 	<tr>
 	
 		
-			<td>Sa, <b>4. November</b><br>
-		<td>LGP-30 Restauration<br>
-		<td>Spezial-Event<br>
-		<td>Projekt-Mitarbeiter<br>
-	<tr>
-		
-		<td>So, <b>5. November</b><br>ab 15:00 Uhr	
-		<td>Computer-History-Workshop<br>
-		<td>Geburtstags-Event<br>
-		Linus wird 12 !
-		<td>Freunde von Linus<br>
-	<tr>
-	
-		
 		<td>Sa, <b>11. November</b><br>ab 15:00 Uhr	
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>

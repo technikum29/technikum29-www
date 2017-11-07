@@ -136,7 +136,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
 	Der Beginn um 13:50 Uhr hat sich nicht bewährt. Also bleibt es bei 14:00 Uhr (super-pünktlich!).<br>
-	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="http://www.chip.de/downloads/Arduino-Software-IDE_90789714.html" target="_blank"> Arduino-Software-Download.</a><br>
+	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
 	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> Sketch für die Ziffernanzeige</a><br>

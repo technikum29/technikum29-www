@@ -55,7 +55,7 @@ Schon immer üben Roboter eine Faszination auf Kinder und Jugendliche aus. Diese
 Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simulationen, wie sie im üblichen Informatikunterricht ablaufen, werden hier physikalisch anfassbare Objekte bewegt. Diese interessanten Anwendungen sind für Jugendliche äußerst motivierend. Spielerisches Lernen wird real erfahrbar.<br>
 <div class="box center">
 	<img src="aes-2.jpg" width="402"  height="301"/> 
-	"Ton-Melodie?"
+	Ob der Sketch läuft?
 </div>
 
 Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der physikalischen Außenwelt durch Sensoren und Aktoren verbunden. Diese Controller steuern z.B. intelligent einen Roboter. Bei der Roboter-Programmierung hat man sofort ein greifbares Feedback an dem Jugendliche erkennen können, ob das implementierte Programm läuft oder nicht. Da kann schon mal ein Roboter sprichwörtlich "gegen die Wand fahren".
@@ -140,7 +140,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
 	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> Sketch für die Ziffernanzeige</a><br>
-	Versuche noch einmal, diesen Sketch zu verstehen.<br><br>
+	Versuche noch einmal, diesen Sketch zu verstehen. Schreibe dir Fragen auf und stelle diese in der nächsten Stunde.<br><br>
 	
 	Vom 30.10.: Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
 	<a href="/physical-computing/Analyse-Keyboard-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>

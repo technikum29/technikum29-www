@@ -48,23 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-		
-		<td>Sa, <b>11. November</b><br>ab 15:00 Uhr	
-		<td>Computer-History-Workshop<br>
-		<td>Geburtstags-Event<br>
-		Alexander wird 11 !
-		
-		<td>Freunde von Alexander<br>
-	<tr>
-	
-	
-	
-	<td>So, <b>12. November</b><br>15:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>			
-		<td>Gruppe Dähne<br>
-	<tr>
-	
 	<td>Fr, <b>17. November</b><br>18:30 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

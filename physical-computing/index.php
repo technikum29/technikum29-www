@@ -116,8 +116,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph1.pdf" target="_blank"><b> Physical-Computing Blatt 1 (PDF)</b></a><br>
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
-<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a> neue Version<br>
-
+<a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
+<a href="/physical-computing/ph5.pdf" target="_blank"><b> Physical-Computing Blatt 5 (PDF)</b></a><br><br>
 </div>
 <div class="rightcol">
 
@@ -140,7 +140,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
 	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> Sketch für die Ziffernanzeige</a><br>
-	Versuche noch einmal, diesen Sketch zu verstehen. Schreibe dir Fragen auf und stelle diese in der nächsten Stunde.<br><br>
+	Versuche noch einmal diesen Sketch zu verstehen. Schreibe dir Fragen auf und stelle diese in der nächsten Stunde.<br><br>
 	
 	Vom 30.10.: Die Aufgabe 2 von Blatt 4 (Keyboard) ist vollkommen neu formuliert worden. Hierzu gibt es auch eine Sketch-Analyse inklusive einiger Aufgaben die du behandeln solltest, wenn dir am Inhalt der AG wirklich was liegt:<br><br>
 	<a href="/physical-computing/Analyse-Keyboard-Button.pdf" target="_blank"><b> Sketch-Analyse + Aufgabe Keyboard (PDF)</b></a><br>

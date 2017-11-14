@@ -48,7 +48,7 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	<td>Fr, <b>17. November</b><br>18:30 Uhr
+	<td>Fr, <b>17. November</b><br>19:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Gruppe Biehl<br>
@@ -66,7 +66,6 @@
 		<td>Geburtstags-Event<br>
 			Jan wird 12 !
 		<td>Jan´s Freunde<br>
-		
 		
 	<tr>
 	
@@ -89,6 +88,14 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kursfabrik<br>Wiesbaden<br>
+		
+	<tr>
+	
+		<td>Fr, <b>25. Mai 2018</b><br>
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>			
+		<td>Absint GmbH<br>Saarbrücken<br>
+		
 		
 		</table>
 		</div> <br>

@@ -136,7 +136,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
 	Wir werden die AG umstrukturieren müssen. Zurzeit läuft es ineffizient. Bedenke, wie (wenig) weit wir in der letzten Stunde gekommen sind!<br>
-	Verhaltensauffällige Schüler werden den Kurs verlassen müssen. In kleinerer Runde werden wir komplett anders "arbeiten". Näheres erfährst du in der nächsten Stunde.<br>
+	Verhaltensauffällige Schüler werden den Kurs verlassen müssen. In kleinerer Runde werden wir komplett anders "arbeiten". Näheres erfährst du in der nächsten Stunde.<br><br>
 	Das Aufgabenblatt 4 ist um die Info "busy-waiting" erweitert worden. Wäre toll, wenn du dir das mal anschauen würdest.<hr>
 	
 	

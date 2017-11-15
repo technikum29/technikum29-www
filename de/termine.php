@@ -73,6 +73,14 @@
 		<td>Computer-History 
 		<td>Interaktive Führung<br>
 		<td>Gruppe Koch<br>
+		
+	<tr>
+	
+		<td>So, <b>10. Dezember</b><br>ab 15:00 Uhr
+		<td>Die Urahnen des Smartphones 
+		<td>Geburtstags-Event<br>
+			Philipp wird 11 !
+		<td>Philipp´s Freunde<br>
 
 	<tr>
 	

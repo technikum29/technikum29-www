@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>12.11.2017
+	<br>17.11.2017
 </div>
 
 <div class="spacing"></div>
@@ -60,7 +60,7 @@ SIDEBAR_ENDE;
 
 <p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> 
 
-<div class="box center nomargin-bttom">
+<div class="box center nomargin-bottom">
 <img src="aes2017-18.jpg" width="402"  height="191"/> 
 <div class="small">Die AES-Robotik-Gruppe</div>
 </div>
@@ -127,7 +127,12 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <div class="clear cols">
 
 <p><b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Bei dem Deutschlandfinale der WRO (World Robot Olympiad) gewannen sie am 17./18. Juni 2017 den 2. Platz und haben sich damit für das Weltfinale in Costa Rica qualifiziert. Weitere Einzelheiten siehe: 
+
+<div class="box left nomargin-bottom"> 
+<img src="wro2017.jpg" width="214"  height="240"/> 
+</div>
+Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Beim Weltfinale der World Robot Olympiad (WRO) in Costa Rica bekamen Ben Luca Huber (15) und Martin Vekony (15) mit ihrer Roboter-unterstützten Akku-Wechsel-Station den 2. Preis.<br> Insgesamt über 59 Nationen stellten sich in mehreren Runden vom 10.-12. November 2017 den kritischen Augen der internationalen Juroren. Dabei konnte sich "The Mindfactory 2.0" in der Junior-Open-Kategorie  in Costa Rica von 33 internationalen Teams an die Spitze durchsetzen und kam somit auf das Siegertreppchen. Weltweit haben über 1.296 gestarteten Teams für die Kategorie "Open Junior" teilgenommen.<br>    
+ Weitere Einzelheiten siehe: 
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 

@@ -126,13 +126,14 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 </div><!-- /cols -->
 <div class="clear cols">
 
-<p><b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
+<b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
 
 <div class="box left nomargin-bottom"> 
 <img src="wro2017.jpg" width="214"  height="240"/> 
 </div>
-Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Beim Weltfinale der World Robot Olympiad (WRO) in Costa Rica bekamen Ben Luca Huber (15) und Martin Vekony (15) mit ihrer Roboter-unterstützten Akku-Wechsel-Station den 2. Preis.<br> Insgesamt über 59 Nationen stellten sich in mehreren Runden vom 10.-12. November 2017 den kritischen Augen der internationalen Juroren. Dabei konnte sich "The Mindfactory 2.0" in der Junior-Open-Kategorie  in Costa Rica von 33 internationalen Teams an die Spitze durchsetzen und kam somit auf das Siegertreppchen. Weltweit haben über 1.296 gestarteten Teams für die Kategorie "Open Junior" teilgenommen.<br>    
- Weitere Einzelheiten siehe: 
+
+<p>Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Beim Weltfinale der World Robot Olympiad (WRO) in Costa Rica bekamen Ben Huber (15) und Martin Vekony (15) mit ihrer Roboter-unterstützten Akku-Wechsel-Station den 2. Preis.<br> Insgesamt über 59 Nationen stellten sich in mehreren Runden vom 10.-12. November 2017 den kritischen Augen der internationalen Juroren. Dabei konnte sich "The Mindfactory 2.0" in der Junior-Open-Kategorie  in Costa Rica von 33 internationalen Teams an die Spitze durchsetzen und kam somit auf das Siegertreppchen. Weltweit haben über 1.296 gestarteten Teams für die Kategorie "Open Junior" teilgenommen.<br>    
+ Weitere Einzelheiten siehe:
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 

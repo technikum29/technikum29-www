@@ -6,7 +6,7 @@
 	require "../lib/technikum29.php";
 ?>
 
-<header class="teaser">
+<header class="teaser seitenstart">
 	<h2>
 	<span class="subtext">Workshops for children and teenagers at technikum29</span>
 	Lego Robotic workshops
@@ -27,7 +27,7 @@ Programmers could be the new pop stars. At technikum29, we join this movement by
 inspiring youths to build robots. It's fun and supports creativity.
 
 <div class="box center">
-<img src="/robotik/aes-2017-18.jpg" width="402"  height="231"/> 
+<img src="/robotik/aes2017-18.jpg" width="402"  height="191"/> 
 <div class="small">Students' group</div>
 </div>
 
@@ -85,10 +85,14 @@ In our course, students learn:
 
 <div class="box bordered nomargin-bottom" id="3D">
 	<!--<p><b>Sensationeller Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>-->
-	<h3>Our alumni won the World Robotic Olympiad (WRO)!</h3>
+	<b>Astonishing success of former participants in the robotic workshop::</b>
 
-	<p>Two years ago, they started from the scratch here in technikum29. Today, they
-	are in 8th grade and succeeded at the <a href="http://www.wroboto.org/">World Robot Olympiad</a>
-	in New Delhi. A respectable fifth place goes to our alumni. 
+<div class="box left nomargin-bottom"> 
+<img src="/robotik/wro2017.jpg" width="214"  height="240"/> 
+</div>
+
+<p>Three years ago, the "foundation" was laid here in the <i> technikum29 </i>. The kids, now 9th graders, discovered their enthusiasm for robotics. Ben Huber (15) and Martin Vekony (15) won the 2nd prize in the world finale of the World Robot Olympiad (WRO) in Costa Rica with their robot-supported battery replacement station. <br> A total of over 59 nations competed in several Rounds from 10.-12. November 2017 the critical eyes of international jurors. It was "The Mindfactory 2.0" in the Junior Open category in Costa Rica by 33 international teams to prevail at the top and thus came on the winner's podium. More than 1,296 teams started participating in the Open Junior category worldwide.<br>    
+ For more details see:
+<a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 </div>
 

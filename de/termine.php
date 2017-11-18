@@ -48,12 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	<td>Fr, <b>17. November</b><br>19:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>			
-		<td>Gruppe Biehl<br>
-	<tr>
-	
 	<td>Sa, <b>25. November</b><br>14:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

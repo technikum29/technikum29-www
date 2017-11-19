@@ -131,13 +131,13 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 15.11.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 19.11.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
 	Wir werden die AG umstrukturieren müssen. Zurzeit läuft es ineffizient. Bedenke, wie (wenig) weit wir in der letzten Stunde gekommen sind!<br>
 	Verhaltensauffällige Schüler werden den Kurs verlassen müssen. In kleinerer Runde werden wir komplett anders "arbeiten". Näheres erfährst du in der nächsten Stunde.<br><br>
-	Das Aufgabenblatt 4 ist um die Info "busy-waiting" erweitert worden. Wäre toll, wenn du dir das mal anschauen würdest.<hr>
+	Das Aufgabenblatt 4 (neue Version bezüglich Aufgabe 3e,f) ist um die Info "busy-waiting" erweitert worden. Wäre toll, wenn du dir das mal anschauen würdest.<hr>
 	
 	
 	Vom 13.11.: Der Beginn um 13:50 Uhr hat sich nicht bewährt. Also bleibt es bei 14:00 Uhr.<br>

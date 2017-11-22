@@ -117,11 +117,14 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
 <a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
-<a href="/physical-computing/ph5.pdf" target="_blank"><b> Physical-Computing Blatt 5 (PDF)</b></a><br><br>
+
 </div>
 <div class="rightcol">
 
-<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"><b> Info über analoge Eingänge und PWM (PDF)</b>
+<a href="/physical-computing/ph5.pdf" target="_blank"><b> Physical-Computing Blatt 5 (PDF)</b></a><br>
+<a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
+<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> info über analoge Eingänge und PWM (PDF)</a><br>
+<a href="/physical-computing/Ziffernanzeige_mit_button-library"> Ziffernanzeige mit Button-Library (ino)</a><br>
 
 </div>
 </div>
@@ -131,20 +134,18 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 19.11.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 22.11.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	Wir werden die AG umstrukturieren müssen. Zurzeit läuft es ineffizient. Bedenke, wie (wenig) weit wir in der letzten Stunde gekommen sind!<br>
-	Verhaltensauffällige Schüler werden den Kurs verlassen müssen. In kleinerer Runde werden wir komplett anders "arbeiten". Näheres erfährst du in der nächsten Stunde.<br><br>
-	Das Aufgabenblatt 4 (neue Version bezüglich Aufgabe 3e,f) ist um die Info "busy-waiting" erweitert worden. Wäre toll, wenn du dir das mal anschauen würdest.<hr>
+	Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes getaltet wird.<br>
+	Ferner steht oben der Link zur Ziffernanzeige (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br><br>
 	
-	
-	Vom 13.11.: Der Beginn um 13:50 Uhr hat sich nicht bewährt. Also bleibt es bei 14:00 Uhr.<br>
+	Vom 13.11.: <br>
 	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
-	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige</b></a><br>
+	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige (ino)</b></a><br>
 	<hr>
 	
 	

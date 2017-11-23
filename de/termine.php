@@ -70,6 +70,13 @@
 		
 	<tr>
 	
+	<td>Sa, <b>9. Dezember</b><br>10:00 Uhr
+		<td>LGP-30 Restauration 
+		<td>Spezial-Event<br>
+		<td>Arbeitsgruppe LGP<br>
+		
+	<tr>
+	
 		<td>So, <b>10. Dezember</b><br>ab 15:00 Uhr
 		<td>Die Urahnen des Smartphones 
 		<td>Geburtstags-Event<br>

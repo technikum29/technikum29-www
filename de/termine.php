@@ -73,7 +73,7 @@
 	<td>Sa, <b>9. Dezember</b><br>10:00 Uhr
 		<td>LGP-30 Restauration 
 		<td>Spezial-Event<br>
-		<td>Arbeitsgruppe LGP<br>
+		<td>LGP-Projektgruppe<br>
 		
 	<tr>
 	
@@ -92,6 +92,14 @@
 		<td>Finley´s Freunde<br>
 		
 	<tr>
+	
+	<td>Mi, <b>27. Dezember</b><br>14:00 Uhr
+		<td>Computer-History
+		<td>Fam.-Event<br>	
+		<td>Gruppe Jacubowsky<br>
+		
+	<tr>
+	
 	
 		<td>Mi, <b>21. März 2018</b><br>14:00 Uhr
 		<td>Computer-History<br>

@@ -134,11 +134,12 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 22.11.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 27.11.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes gestaltet wird.<br>
+	Die Umgestaltung der AG wird so geschehen, wie ich angedeutet habe: Reduktion der Anzahl der Teilnehmer auf ca. 6 Schüler und das "Arbeiten" am "runden" Tisch mit VGA-Beamer-Switch. Eine neue Zeit bricht an....(die Eltern einiger Schüler erhalten entsprechende Post).<br><br>
+	Vom 20.11.:<br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes gestaltet wird.<br>
 	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br><br>
 	
 	Vom 13.11.: <br>

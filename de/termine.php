@@ -48,12 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	<td>Sa, <b>25. November</b><br>14:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>			
-		<td>Für Einzelpersonen und Klein-<br>
-		gruppen. <font color="#FF0000"><br>Ausgebucht!</font><br>
-	<tr>
 	
 		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr
 		<td>Computer-History-Workshop 

@@ -62,7 +62,7 @@ SIDEBAR_ENDE;
 
 <div class="box center nomargin-bottom">
 <img src="aes2017-18.jpg" width="402"  height="191"/> 
-<div class="small">Die AES-Robotik-Gruppe</div>
+<div class="small">Die aktuelle AES-Robotik-Gruppe</div>
 </div>
 
 <p>
@@ -73,8 +73,8 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
 <div class="box center nomargin-bottom">
-<img  src="sept.2017.jpg" width="405"   height="293"/> 
-<div class="small">Vergleich der beiden Robo´s</div>
+<img  src="eds-2017-18.jpg" width="405"   height="201"/> 
+<div class="small">Die aktuelle EDS-Robotik-Gruppe</div>
 </div>
 
 

@@ -132,11 +132,14 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 27.11.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	Die Umgestaltung der AG wird so geschehen, wie ich angedeutet habe: Reduktion der Anzahl der Teilnehmer auf ca. 6 Schüler und das "Arbeiten" am "runden" Tisch mit VGA-Beamer-Switch. Eine neue Zeit bricht an....(die Eltern einiger Schüler erhalten entsprechende Post).<br><br>
+	<b>Neu:</b>
+	Aufgabe für Montag: Löse aus Blatt 5 die Aufgabe 3 mit Zusatz. Zweiter Zusatz: Erweitere das Programm, so dass du dort einstellen kannst, nach wie vielen verschiedenen Tönen das Programm beendet wird (Beispiel: 100). <br>
+	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten). Das von dir erstellte Programm lädst du dann auf einen Stick und bringst diesen am Montag mit. Dann schauen wir mal, ob der Sketch läuft! Prüfe vorab, ob der Compiler dein Programm akzeptiert. Bei allen, die das nicht schaffen sollten die Alarmglocken läuten! Du bist gerade dabei, den Boden unter den Füßen zu verlieren!. Siehe 13.11.<br>
+	.......Die Umgestaltung der AG wird so geschehen, wie ich angedeutet habe: Reduktion der Anzahl der Teilnehmer auf ca. 6 Schüler und das "Arbeiten" am "runden" Tisch mit VGA-Beamer-Switch. Eine neue Zeit bricht an....(die Eltern einiger Schüler erhalten entsprechende Post).<br><br>
 	Vom 20.11.:<br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes gestaltet wird.<br>
 	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br><br>
 	

@@ -48,15 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 	
-	
-		<td>Sa, <b>2. Dezember</b><br>ab 15:00 Uhr
-		<td>Computer-History-Workshop 
-		<td>Geburtstags-Event<br>
-			Jan wird 12 !
-		<td>Jan´s Freunde<br>
-		
-	<tr>
-	
 		<td>Mi, <b>6. Dezember</b><br>15:30 Uhr
 		<td>Computer-History 
 		<td>Interaktive Führung<br>

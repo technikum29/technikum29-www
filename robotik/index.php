@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>17.11.2017
+	<br>2.12.2017
 </div>
 
 <div class="spacing"></div>

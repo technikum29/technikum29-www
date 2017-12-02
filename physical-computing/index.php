@@ -146,7 +146,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	Vom 13.11.: <br>
 	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
-	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen (möglicherweise geht es auch ohne die Arduino-Software):<br>
+	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen:<br>
 	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige (ino)</b></a><br>
 	<hr>
 	

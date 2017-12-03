@@ -66,7 +66,7 @@
 		<td>Die Urahnen des Smartphones 
 		<td>Geburtstags-Event<br>
 			Philipp wird 11 !
-		<td>Philipp´s Freunde<br>
+		<td>Philipps Freunde<br>
 
 	<tr>
 	
@@ -74,7 +74,7 @@
 		<td>Computer-History-Workshop 
 		<td>Geburtstags-Event<br>
 			Finley wird 12 !
-		<td>Finley´s Freunde<br>
+		<td>Finleys Freunde<br>
 		
 	<tr>
 	

@@ -115,15 +115,15 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph2.pdf" target="_blank"><b> Physical-Computing Blatt 2 (PDF)</b></a><br>
 <a href="/physical-computing/ph3.pdf" target="_blank"><b> Physical-Computing Blatt 3 (PDF)</b></a><br>
 <a href="/physical-computing/ph4.pdf" target="_blank"><b> Physical-Computing Blatt 4 (PDF)</b></a><br>
-
+<a href="/physical-computing/ph5.pdf" target="_blank"><b> Physical-Computing Blatt 5 (PDF)</b></a><br>
 </div>
 <div class="rightcol">
 
-<a href="/physical-computing/ph5.pdf" target="_blank"><b> Physical-Computing Blatt 5 (PDF)</b></a><br>
+
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> info über analoge Eingänge und PWM (PDF)</a><br>
 <a href="/physical-computing/Ziffernanzeige_mit_button-library"> Ziffernanzeige mit Button-Library (ino)</a><br>
-
+<a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
 </div>
 </div>
 <br>
@@ -132,14 +132,16 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 2.12.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 5.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<b>Aktuell</b>:<br>
-	<b>Neu:</b>
-	Aufgabe für Montag: Löse aus Blatt 5 die Aufgabe 3 mit Zusatz. Zweiter Zusatz: Erweitere das Programm, so dass du dort einstellen kannst, nach wie vielen verschiedenen Tönen das Programm beendet wird (Beispiel: 100). <br>
-	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten). Das von dir erstellte Programm lädst du dann auf einen Stick und bringst diesen am Montag mit. Dann schauen wir mal, ob der Sketch läuft! Prüfe vorab, ob der Compiler dein Programm akzeptiert. Bei allen, die das nicht schaffen sollten die Alarmglocken läuten! Du bist gerade dabei, den Boden unter den Füßen zu verlieren!. Siehe 13.11.<br>
-	.......Die Umgestaltung der AG wird so geschehen, wie ich angedeutet habe: Reduktion der Anzahl der Teilnehmer auf ca. 6 Schüler und das "Arbeiten" am "runden" Tisch mit VGA-Beamer-Switch. Eine neue Zeit bricht an....(die Eltern einiger Schüler erhalten entsprechende Post).<br><br>
+	
+	Oben findest du die kommentierte Lösung zur Aufgabe 3 von Blatt 5 (Zufallstöne). Die solltest du dir noch mal anschauen.<br>
+	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot, gelb. grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Falls du das nicht schaffst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe den Sketch auf Compilierbarkeit. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
+	
+	Vom 4.12.:<br> 
+	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten). Siehe 13.11.<br>
 	Vom 20.11.:<br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes gestaltet wird.<br>
 	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br><br>
 	
@@ -147,7 +149,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen:<br>
-	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige (ino)</b></a><br>
+	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige (ino)</b></a><br><br>
 	<hr>
 	
 	

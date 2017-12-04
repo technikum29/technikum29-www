@@ -277,6 +277,14 @@ class t29Template {
 		}
 	}
   ?>
+	
+  <!-- bigger favicons -->
+  <link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon.png" />
+  <!--
+  <link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon-76.png" sizes="76x76" />
+  <link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon-120.png" sizes="120x120" />
+  <link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon-152.png" sizes="152x152" />
+  -->
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
   

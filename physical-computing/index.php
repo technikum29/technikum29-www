@@ -140,17 +140,16 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 5.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
-	<b>Aktuell</b>:<br>
+	<font color="#FF0000"><b>Aktuell:</b></font><br>
 	
 	Oben findest du die kommentierte Lösung zur Aufgabe 3 von Blatt 5 (Zufallstöne). Die solltest du dir noch mal anschauen.<br>
-	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot, gelb, grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Falls du das nicht schaffst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe den Sketch auf Compilierbarkeit. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
+	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot/gelb/grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Wenn du das nicht wenigstens versuchst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe ob sich der Sketch compilieren lässt. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
 	
-	Vom 4.12.:<br> 
-	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten). Siehe 13.11.<br>
-	Vom 20.11.:<br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt. Wir werden den Fade-Sketch mit 3 Farben kurz besprechen. Bedenke: Das Verständnis eines Programms ist umso einfacher, je besser die Gliederung des Textes gestaltet wird.<br>
-	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br><br>
+	<font color="#FF0000"><b>4.12.:</b></font><br> 
+	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten vom 13.11.)<br>
+	<font color="#FF0000"><b>20.11.:</b></font><br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt.	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br>
 	
-	Vom 13.11.: <br>
+	<font color="#FF0000"><b>13.11.:</b></font><br>
 	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen:<br>

@@ -62,7 +62,12 @@ Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der phy
 	 
  Im Laufe des Kurses werden die Aufgaben immer freier lösbar, dadurch wird das eigenverantwortliche Lernen adressiert.<br>
  Erfahrungsgemäß macht den meisten das Lösen der recht offen gestalteten Gesamtaufgaben großen Spaß, da sie hier ihrer Kreativität freien Lauf lassen können.<br>
- Für besonders begabte Schülerinnen und Schüler ergibt sich immer die Möglichkeit zusätzlich schwierigere Programmteile einzubauen. Das erhöht das Selbstwertgefühl und schafft eine natürliche ungezwungene Binnendifferenzierung.<br>
+ Für besonders begabte Schülerinnen und Schüler ergibt sich immer die Möglichkeit zusätzlich schwierigere Programmteile einzubauen. Das erhöht das Selbstwertgefühl und schafft eine natürliche ungezwungene Binnendifferenzierung.
+ 
+ <div class="box left">
+	<img src="pcr-2.jpg" width="210"  height="150"/> 
+</div>
+ 
 Ein weiterer Vorteil ist, dass Schüler sowohl mit Hard- als auch Software konfrontiert werden, wobei die Grenzen dieser beiden Welten zunehmend verschwimmen.<br>
 Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, einen kreativen Freiraum sowie das Erlernen von Teamplaying (Zweierteams) bietet und zudem absolut "up-to-date" ist, eben ein HIGHLIGHT einer Schule.<br>
 "Digitale Alphabetisierung ist ein Projekt moderner Aufklärung." [GEO Magazin 12/14: Digital macht schlau!]<br></p>
@@ -138,7 +143,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	<b>Aktuell</b>:<br>
 	
 	Oben findest du die kommentierte Lösung zur Aufgabe 3 von Blatt 5 (Zufallstöne). Die solltest du dir noch mal anschauen.<br>
-	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot, gelb. grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Falls du das nicht schaffst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe den Sketch auf Compilierbarkeit. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
+	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot, gelb, grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Falls du das nicht schaffst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe den Sketch auf Compilierbarkeit. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
 	
 	Vom 4.12.:<br> 
 	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten). Siehe 13.11.<br>

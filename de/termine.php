@@ -47,13 +47,7 @@
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
 	<tr>
-	
-		<td>Mi, <b>6. Dezember</b><br>15:30 Uhr
-		<td>Computer-History 
-		<td>Interaktive Führung<br>
-		<td>Gruppe Koch<br>
-		
-	<tr>
+
 	
 	<td>Sa, <b>9. Dezember</b><br>10:00 Uhr
 		<td>LGP-30 Restauration 

@@ -6,10 +6,12 @@
 	require "../../lib/technikum29.php";
 ?>
 <header class="teaser seitenstart">
-	<img class="no-copyright" src="/shared/photos/rechnertechnik/speichermedien/header-memory+text.jpg" >
+	<img src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="860"  height="274" >
 	</header>
 
-<br>
+<br><br>
+
+<h2>Historische Speichermedien</h2>
 <p>
 	Wir beschreiben hier ein paar Speichertypen, die in den Rechnern des technikum29 verwendet werden. Es handelt sich um Arbeits- bzw. Festwertspeicher, die aufgrund ihrer Größe sehr anschaulich sind. Allgemein ist zu bemerken, dass das Problem des Speicherns von Daten und Programmen in der Frühzeit der Computer sehr viel größer war als der Bau leistungsfähiger diskreter Prozessoren. Hier war viel Phantasie gefragt; so kam es zu sehr originellen Lösungen.<br>
 	Heute wie vor 60 Jahren waren (sind) folgende charakteristische Größen wichtig:

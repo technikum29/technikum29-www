@@ -47,20 +47,5 @@
 </a></li>
 
 
-<li><a href="/de/kommunikationstechnik/faxtechnik.php#t32">
-	<h3>Dezember 2016</h3><br>
-    <img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" width="153" height="146" /><br>
-	Sehr seltener Springschreiber (Fernschreiber), Siemens T32
-	
-</a></li>
-
-
-<li><a href="/de/rechnertechnik/elektro-mechanik.php#logos">
-	<h3>März 2016</h3><br>
-    <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="153" height="115" /><br>
-	Die letzten rechneneden Maschinenmonster
-	
-</a></li>
-
 </ul>
 

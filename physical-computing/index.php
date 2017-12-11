@@ -127,8 +127,9 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> info über analoge Eingänge und PWM (PDF)</a><br>
-<a href="/physical-computing/Ziffernanzeige_mit_button-library"> Ziffernanzeige mit Button-Library (ino)</a><br>
-<a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
+<a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
+<a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
+<a href="/physical-computing/henry_ampel_korrigiert" target="_blank">  Ampelsketch, Aufgabe 6 von Blatt 5 (ino)</a><br>
 </div>
 </div>
 <br>
@@ -137,13 +138,19 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 5.12.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 12.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	<font color="#FF0000"><b>Aktuell:</b></font><br>
 	
-	Oben findest du die kommentierte Lösung zur Aufgabe 3 von Blatt 5 (Zufallstöne). Die solltest du dir noch mal anschauen.<br>
-	Aufgabe zum 11.12.: Stelle den Sketch zur Aufgabe 6 von Baltt 5 fertig. Annahme: Bei Dunkelheit ist analogRead(A0) ca. 100 und bei maximaler Helligkeit beträgt der Wert ca. 700. Nun kannst du mit Hilfe von if-Abfragen die entsprechende LED (rot/gelb/grün) ein- und die Anderen ausschalten. Beispiel: (helligkeit < 250) Rot ein- und Gelb + Grün ausschalten, (251 < helligkeit < 500) Gelb ein- sowie Rot + Grün ausschalten usw. Wenn du das nicht wenigstens versuchst, bist wieder dabei den Boden unter den Füßen zu verlieren! Prüfe ob sich der Sketch compilieren lässt. Wir testen diesen am 11.12. und können dann mit dem Shift-Register beginnen. Das ist eine größere Sache!<br><br>
+	.....immer das alte Problem: Die Meisten tun nix und geben sich (noch) damit zufrieden, "einfach nur dabei zu sein".<br>
+	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben (Link). Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. Henrys Lösungsvorschlag hatte ja noch so seine Tücken.<br>
+	Die PDF zum Arbeitsblatt für das Shift-Register ist unten abrufbar. Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir (nicht-träumend) anschauen. Bedenke, dass man schwierige Themen mehrfach angehen muss, um sie zu begreifen. Dann kommt der "aha-Effekt". Tust du nix, kommt auch nix und du bleibst in PCR "dumm" &#9785; , wäre schade, wo du doch so ein heller Kopf bist.<br>
+	Versuche die Aufgaben 1b,c) von Blatt 6 zu lösen (auf Stick mitbringen).<br><br>
+	
+	
+	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
+	<br>
 	
 	<font color="#FF0000"><b>4.12.:</b></font><br> 
 	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten vom 13.11.)<br>

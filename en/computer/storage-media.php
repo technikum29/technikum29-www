@@ -4,7 +4,15 @@
 	$title = 'Historic internal storage media';
 	
 	require "../../lib/technikum29.php";
-?>
+?>	
+
+	<div class="box-center">
+	<img src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="860"  height="274" >
+	</div>
+
+<br><br>
+	
+
     <h2>Historic internal storage media</h2>
 
     <p>

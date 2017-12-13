@@ -72,7 +72,11 @@ More information about this interesting and rare system will follow.</p>
 
 
 	
-	<h3>Mini-Computers</h3>
+	<h3>Mini-Computers</h3><br>
+	
+	<header class="teaser seitenstart">
+	<img src="/shared/photos/rechnertechnik/pdp-941x270.jpg" width="860"  height="245" >
+	</header>
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers".
 	   In contrast, in the 1960s and the early 70s, a computer was always huge (like our

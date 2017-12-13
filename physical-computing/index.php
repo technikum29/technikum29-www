@@ -141,10 +141,11 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 12.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
+	
 	<font color="#FF0000"><b>Aktuell:</b></font><br>
 	
 	.....immer das alte Problem: Die Meisten tun nix und geben sich (noch) damit zufrieden, "einfach nur dabei zu sein".<br>
-	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben (Link). Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. Henrys Lösungsvorschlag hatte ja noch so seine Tücken.<br>
+	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. Henrys Lösungsvorschlag hatte ja noch so seine Tücken.<br>
 	Die PDF zum Arbeitsblatt für das Shift-Register ist unten abrufbar. Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir (nicht-träumend) anschauen. Bedenke, dass man schwierige Themen mehrfach angehen muss, um sie zu begreifen. Dann kommt der "aha-Effekt". Tust du nix, kommt auch nix und du bleibst in PCR "dumm" &#9785; , wäre schade, wo du doch so ein heller Kopf bist.<br>
 	Versuche die Aufgaben 1b,c) von Blatt 6 zu lösen (auf Stick mitbringen).<br><br>
 	

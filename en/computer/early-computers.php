@@ -71,11 +71,9 @@ of this type helps a lot.
 More information about this interesting and rare system will follow.</p>		
 
 
-	
-	<h3>Mini-Computers</h3><br>
-	
-	<header class="teaser seitenstart">
-	<img src="/shared/photos/rechnertechnik/pdp-941x270.jpg" width="860"  height="245" >
+	<header class="teaser">
+		<h2>Mini-computers</b></h2>
+		<img src="/shared/photos/rechnertechnik/pdp-941x270.jpg" width="941"  height="270" >
 	</header>
 
     <p>Today's kids think of the latest mobile devices when talking about "mini computers".

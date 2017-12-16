@@ -5,15 +5,10 @@
 	
 	require "../../lib/technikum29.php";
 ?>	
-
-	<div class="box-center">
-	<img src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="860"  height="274" >
-	</div>
-
-<br><br>
-	
-
-    <h2>Historic internal storage media</h2>
+<header class="teaser seitenstart">
+	<img src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="941"  height="270">
+	<h2>Historic internal storage media</h2>
+</header>
 
     <p>
       In the following some types of memory are described which are found in the computers on display at the technikum29. These devices may be classified as either RAM (random access memory) or ROM (read only memory). Due to their respective size these are very demonstrative examples.

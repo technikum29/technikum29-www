@@ -43,11 +43,9 @@
 	<p>Der LGP-21 verfügt über 23 verschiedene Befehle. Das reicht aus, um die üblichen wissenschaftlichen Aufgaben programmieren zu können.  <br>
 	Die Reparatur des Rechners gestaltet sich als große Herausforderung. Da wir jedoch die Grundausstattung doppelt haben, ist die Chance für eine erfolgreiche Reparatur groß.	Weitere Informationen zu diesem interessanten Rechner folgen später.</p>
 
-	
-	<h3><b>Minicomputer</b></h3><br>
-	
-	<header class="teaser seitenstart">
-	<img src="/shared/photos/rechnertechnik/pdp-941x270.jpg" width="860"  height="245" >
+	<header class="teaser">
+		<h2>Minicomputer</b></h2>
+		<img src="/shared/photos/rechnertechnik/pdp-941x270.jpg" width="941"  height="270" >
 	</header>
 	
 	   <p> Unter "Minicomputer" würden sich die Kids heute einen Computer im Handy- oder Armbanduhrformat vorstellen. In den 60er und frühen 70er Jahre war das anders. Ein Computer war prinzipiell riesig (siehe UNIVAC), so dass ein 300kg-Rechner zu den "Minis" gehörte, insbesondere war die CPU sehr klein. Frühe Computer sind wegen ihrer stattlichen Größe und der sehr schönen transparenten Peripheriegeräten vor allem in ihrer Funktion sehenswert.

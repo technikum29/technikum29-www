@@ -11,6 +11,8 @@
 	<h2>Historische Personalcomputer</h2>
 </header>
 
+<br>.....diese Seite befindet sich im Aufbau.......<br><br>
+
 <h3 id="wang2200"><b>WANG 2200</b> mit umfangreicher Peripherie</h3>
     <p>Weiterhin ist das erste System angeschlossen, was schon so ähnlich wie heutige Computer aussieht: <a class="go" name="backlink-wang2200" href="/de/geraete/wang2200.php">WANG 2200</a>, Bj. 1973. Vermutlich einmalig in Deutschland ist dieser Computer mit so vielen peripheren Ger&auml;ten. So z.B. Lochstreifenleser, Stapelkartenleser, 8-Zoll dreifach Diskettenlaufwerk, Plattensystem mit 38cm gro&szlig;en Scheiben (alleine 100kg schwer und 24.000,-DM teuer speichert es gerade 5 MB), spezial BASIC-Tastatur usw.</p>
     <p>WANG erkannte schon sehr früh, dass die Zukunft der Computer nur mit Bildschirm denkbar ist. Bis 1975 baute dagegen der Konkurrent HP seine Rechner nur mit einer einzeiligen Matrix-LED-Anzeige.</p>

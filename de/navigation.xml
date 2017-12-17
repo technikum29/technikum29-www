@@ -147,12 +147,10 @@
 					<li><a href="/de/rechnertechnik/fruehe-computer.php#pdp12">PDP 12</a></li>
 					<li><a href="/de/rechnertechnik/fruehe-computer.php#lab8e">LAB 8e</a></li>
 					<li><a href="/de/rechnertechnik/fruehe-computer.php#nova">NOVA 2</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="dec-history" href="/de/geraete/dec-geschichte.php">Aufstieg und Ende von DIGITAL (Equipment Corporation)</a></li>
 					<li><a seiten_id="lab8e" href="/de/geraete/lab_8e.php">Lab 8e</a></li>
-					<li><a seiten_id="wang2200" href="/de/geraete/wang2200.php">Wang 2200</a></li>
 					<li><a seiten_id="details2" href="/de/details2.php">Mittlere Datentechnik und professionelle Früh-Computer aus dem Museumsbestand</a></li>
 				</ul>
 			</li>
@@ -178,6 +176,14 @@
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="details1" href="/de/details1.php">Besonders interessante Tischrechner und Kleinanlagen aus dem Museumsbestand</a></li>
+				</ul>
+			</li>
+			<li><a href="/de/rechnertechnik/personalcomputer.php" title="Historische Personalcomputer: Die ersten PCs">Historische Personalcomputer</a>
+				<ul class="u3">
+					<li><a href="/de/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
+				</ul>
+				<ul class="u3 geraete">
+					<li><a seiten_id="wang2200" href="/de/geraete/wang2200.php">Wang 2200</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="analogrechner" href="/de/rechnertechnik/analogrechner.php">Analog u. Hybridrechner</a>

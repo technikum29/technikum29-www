@@ -41,7 +41,7 @@
 	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-laufzeitspeicher.jpg" alt="Bull Laufzeitspeicher" width="720" height="559" />
 	<p class="bildtext"><i>Bild 1: Verzögerungs- bzw. Laufzeitspeicher</i></p></div>
 	
-	In Bild 2 ist die Rückseite des Speichers zu sehen. Die Weinflasche dient zum Größenvergleich. Die eigentlichen Laufzeitglieder bestehen aus 120 Stück LC-Kombinationen, die in Tiefpassschaltung eine geringe Verzögerung beim Durchlaufen bewirken. Es handelt sich hier um einen sogenannten "Rechenspeicher M1". 
+	In Bild 2 ist die Rückseite des Speichers zu sehen. Die Weinflasche dient zum Größenvergleich. Die eigentlichen Laufzeitglieder bestehen aus 120 Stück LC-Kombinationen, die in Tiefpassschaltung eine geringe Impulsverzögerung beim Durchlaufen bewirken. Es handelt sich hier um einen sogenannten "Rechenspeicher M1". 
 	
 	<div class="box left">
 	<img src="/shared/photos/rechnertechnik/speichermedien/bull-gamma3-speicher.jpg" alt="Bull Laufzeitspeicher" width="478" height="380" />
@@ -51,7 +51,7 @@
 <img src="/shared/photos/rechnertechnik/speichermedien/speicherausschnitt.jpg" alt="Details des Laufzeitspeicherfotos" width="225" height="233" />
 <p class="bildtext"><i>Bild 3: Ausschnitt</i></p></div>
 	 
-		<p>Nach dem Durchlaufen von je 12 Tiefpässen ist sind die Signale stark geschwächt, so dass eine Regeneration notwendig ist. Dazu dienen 10 Röhrenverstärker. Am Ende der Laufzeitkette werden die  Informationen nochmals verstärkt und wieder am Beginn der Kette eingelesen. Sie laufen permanent durch die Verzögerungsleitung und sind damit gespeichert.</p>
+		<p>Nach dem Durchlaufen von je 12 Tiefpässen sind die Signale stark geschwächt, so dass eine Regeneration notwendig ist. Dazu dienen 10 Röhrenverstärker. Am Ende der Laufzeitkette werden die  Informationen nochmals verstärkt und wieder am Beginn der Kette eingelesen. Sie laufen permanent durch die Verzögerungsleitung und sind damit gespeichert.</p>
 		
 		<div class="box left">
 	<img src="/shared/photos/rechnertechnik/speichermedien/laufzeitkette.jpg" alt="LC-Kette" width="478" height="119" />

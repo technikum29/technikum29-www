@@ -48,15 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 
-	<tr>
-	
-		<td>Fr, <b>15. Dezember</b><br>ab 15:00 Uhr
-		<td>Computer-History-Workshop 
-		<td>Geburtstags-Event<br>
-			Finley wird 12 !
-		<td>Finleys Freunde<br>
-		
-	<tr>
 	
 	<td>Mi, <b>27. Dezember</b><br>14:00 Uhr
 		<td>Computer-History

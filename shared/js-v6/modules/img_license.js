@@ -33,7 +33,7 @@ t29.img_license.settings = {
 	treshold_size : [255,100], // [w,h]
 	
 	// selector to exclude images from being license tagged
-	exclude : "img.no-copyright, .no-copyright img, body.page-startseite img, body.page-impressum img"
+	exclude : "img.no-copyright, .no-copyright img, body.page-startseite img, body.page-impressum img, header.teaser img"
 };
 
 // configuration end

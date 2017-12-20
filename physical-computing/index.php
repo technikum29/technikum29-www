@@ -138,32 +138,23 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 12.12.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.12.2017)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:</b></font><br>
 	
-	.....immer das alte Problem: Die Meisten tun nix und geben sich (noch) damit zufrieden, "einfach nur dabei zu sein".<br>
-	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. Henrys Lösungsvorschlag hatte ja noch so seine Tücken.<br>
-	Die PDF zum Arbeitsblatt für das Shift-Register ist unten abrufbar. Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir (nicht-träumend) anschauen. Bedenke, dass man schwierige Themen mehrfach angehen muss, um sie zu begreifen. Dann kommt der "aha-Effekt". Tust du nix, kommt auch nix und du bleibst in PCR "dumm" &#9785; , wäre schade, wo du doch so ein heller Kopf bist.<br>
-	Versuche die Aufgaben 1b,c) von Blatt 6 zu lösen (auf Stick mitbringen).<br><br>
+	In den Ferien werde ich noch die Lösungen für Aufgabe 2 von Blatt 6, sowie eine Theoriezusammenfassung hier einstellen.<br>
+	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. 
+	Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir (nicht-träumend) anschauen. Bedenke, dass man schwierige Themen mehrfach angehen muss, um sie zu begreifen. Dann kommt der "aha-Effekt". Tust du nix, kommt auch nix und du bleibst in PCR "dumm" &#9785; , wäre schade, wo du doch so ein heller Kopf bist.
+	<br><br>
 	
 	
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>
 	
-	<font color="#FF0000"><b>4.12.:</b></font><br> 
-	Du musst nun endlich die Arduino-Software auf deinen PC laden (siehe Link unten vom 13.11.)<br>
-	<font color="#FF0000"><b>20.11.:</b></font><br>Zum Blatt 5, 1. Aufgabe wurden weitere Erläuterungen hinzugefügt.	Ferner steht oben der Link zum Ziffernanzeige-Sketch (vorwärts, rückwärts, auf Null stellen) mit der Button-Library. Das solltest du auch mit wachem Verstand mal lesen.<br>
 	
-	<font color="#FF0000"><b>13.11.:</b></font><br>
-	Nach wie vor der Appell: Tu´was! Die 90 Minuten in der AES reichen nicht! Nur mit Durchblick macht die AG Spaß. Du musst dir zunächst die Arduino-Software installieren. Die erhältst du kostenlos z.B. hier: <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
-	
-	Damit kannst du den erläuterten Sketch für das Hochzählen unserer Ziffernanzeige öffnen:<br>
-	<a href="/physical-computing/Ziffernanzeige_mit_zweidim_Array"> <b>Sketch für die Ziffernanzeige (ino)</b></a><br><br>
-	<hr>
-	
+ <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	<br>Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
 	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br><br>

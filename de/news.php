@@ -15,6 +15,12 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/personalcomputer.php">
+	<h3>Dezember 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/header-wang2200.jpg" width="153" height="89" /><br>
+	Eine neue Rubrik enrsteht: Historische Personal-Computer
+</a></li>
+
 <li><a href="/de/rechnertechnik/lgp30.php#trommel">
 	<h3>Juli 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" width="153" height="118" /><br>

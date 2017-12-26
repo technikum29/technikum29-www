@@ -178,7 +178,7 @@
 					<li><a seiten_id="details1" href="/de/details1.php">Besonders interessante Tischrechner und Kleinanlagen aus dem Museumsbestand</a></li>
 				</ul>
 			</li>
-			<li><a href="/de/rechnertechnik/personalcomputer.php" title="Historische Personalcomputer: Die ersten PCs">Historische Personalcomputer</a>
+			<li><a seiten_id="personalcomputer" href="/de/rechnertechnik/personalcomputer.php" title="Historische Personalcomputer: Die ersten PCs">Historische Personalcomputer</a>
 				<ul class="u3">
 					<li><a href="/de/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
 				</ul>

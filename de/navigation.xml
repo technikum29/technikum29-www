@@ -180,7 +180,8 @@
 			</li>
 			<li><a seiten_id="personalcomputer" href="/de/rechnertechnik/personalcomputer.php" title="Historische Personalcomputer: Die ersten PCs">Historische Personalcomputer</a>
 				<ul class="u3">
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#wang2200">WANG 2200</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200" title="WANG 2200, mit umfangreicher Peripherie">WANG 2200B</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200s">WANG 2200S</a></li>
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="wang2200" href="/de/geraete/wang2200.php">Wang 2200</a></li>
@@ -196,7 +197,6 @@
 					<li><a href="/de/rechnertechnik/analogrechner.php#do240">DO 240</a></li>
 				</ul>
 			</li>
-			<!-- die wurden vergessen: -->
 			<li><a seiten_id="speichermedien" href="/de/rechnertechnik/speichermedien.php">Speichermedien</a>
 				<ul class="u3">
 					<li><a href="/de/rechnertechnik/speichermedien.php#laufzeitspeicher">Verzögerungsspeicher</a></li>

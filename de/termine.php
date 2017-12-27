@@ -49,22 +49,23 @@
 	<tr>
 
 	
-	<td>Mi, <b>27. Dezember</b><br>14:00 Uhr
+	<td>So, <b>4. Februar</b><br>14:00 Uhr
 		<td>Computer-History
-		<td>Fam.-Event<br>	
-		<td>Gruppe Jacubowsky<br>
+		<td>Interaktive Führung<br>	
+		<td>Einzelpersonen und Kleingruppen<br>
+		<font color="#FF0000">Anmeldungen sind noch möglich</font>
 		
 	<tr>
 	
 	
-		<td>Mi, <b>21. März 2018</b><br>14:00 Uhr
+		<td>Mi, <b>21. März</b><br>14:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Kursfabrik<br>Wiesbaden<br>
 		
 	<tr>
 	
-		<td>Fr, <b>25. Mai 2018</b><br>
+		<td>Fr, <b>25. Mai</b><br>
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Absint GmbH<br>Saarbrücken<br>

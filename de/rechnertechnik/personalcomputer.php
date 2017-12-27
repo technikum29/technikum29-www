@@ -31,9 +31,9 @@
 	<img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="429"  height="304" />
 	</div>
 	
-	<p>Der Neuzugang (12.2017) zeigt die etwas verkleinerte Ausführung des 2200 aus dem Jahre 1974/75. "S" steht wohl für "small". Mit dem zusätzlichen Kassettenlaufwerk 2217 lassen sich pro Meter Magnetband 1,7 KB speichern bei einem Transfer von 326 Zeichen/Sekunde. Es ist mit drei Motoren ausgestattet und kann in beide Laufrichtungen lesen/schreiben. Dabei werden immer Blöcke mit 256 Bytes gelesen/geschrieben. Dieses langsame Speichermedium war damals halt konkurrenzlos preiswert.<br>
+	<p>Der Neuzugang (12.2017) zeigt die etwas verkleinerte Ausführung (Bauj. 1974/75) des 2200B, dabei steht "S" wohl für "small". Mit dem zusätzlichen Kassettenlaufwerk 2217 lassen sich pro Meter Magnetband 1,7 KB speichern bei einem Transfer von 326 Zeichen/Sekunde. Es ist mit drei Motoren ausgestattet und kann in beide Laufrichtungen lesen/schreiben. Dabei werden immer Blöcke mit 256 Bytes gelesen/geschrieben. Dieses langsame Speichermedium war damals halt konkurrenzlos preiswert.<br>
 	Interessant ist auch die dazugehörige Kugelkopfmaschine als Ausgabegerät. Ausgestattet mit Schrittschaltmotoren kann die Maschine auch plotten. Das Modell 2202 ist identisch mit dem des am <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700" target="_blank">WANG 700 Rechner</a> angeschlossenen Modells "702".</p>
-	 <p class="small">Wir bedanken uns bei der Westfälischen Wilhelms-Universität Münster für die Überlassung der Anlage.</p> 
+	 <p class="small">Wir bedanken uns bei der Westfälischen "Wilhelm-Universität Münster" für die Überlassung der Anlage.</p> 
 	 <br>
 	
 	Fortsetzung folgt.....

@@ -16,14 +16,15 @@
 computer". We would answer like this: "A personal computer is a single-user
 system with attached display (back then typically a CRT) and a suitable 
 complement of peripherals to store and retrieve data and for input/output of
-data and programs. It is also easily transportable."
+data and programs. It is also easily transportable."<br>
 
 One of the first personal computers, PC for short, is the WANG 2200 A/B dating
 back to 1973. Wang realized pretty early that a key component for such a device
 was an electronic display capable of displaying multiple lines at once.
 Comparable HP systems from that time only had a single line LED-display. A nice
 comparison between these two types of machines can be found here:
-<a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> HP competitive Analysis 9830 vs WANG 2200B (PDF)</a> 
+<a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> HP competitive Analysis 9830 vs WANG 2200B (PDF)</a>.
+<br> 
 This is, in fact, a comparison performed by HP and was suited to aid the
 salesperson when he or she faced a situation where HP had to compete agains a
 Wang offer. HP and WANG were THE opponents in these days when it came to
@@ -35,7 +36,7 @@ The system was programmed in a BASIC dialect.<br>
 	
   The system on display here is unique in Germany with its set of peripheral
 devices: Paper tape reader (2203), card reader (2234), marker card reader
-(2214), triple 8 inch diskette drive (2270.3) and a disk subsystem (2230-1)
+(2214), triple 8 inch diskette drive (2270-3) and a disk subsystem (2230-1)
 with 14 inch disks. The weight of the disk subsystem alone is about 100 kg, and
 it cost a whopping 24 000 DM back in its days. Its total capacity is 5 MB for
 programs and data.</p>
@@ -60,7 +61,7 @@ storage media more than compensated for that. <br>
 Also interesting is the golf-ball typewriter as output device. Thanks to the
 unique stepper motor driven mechanics, the system can also be used to plot
 graphs.  The model 2202 is identical with the model 702 typically used in
-conjunction with a WANG 700 system.</p>
+conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" target="_blank">WANG 700 system.</a> </p>
 
 	 <p class="small">We would like to express our thanks to the "Westfaelische Wilhelms-Universitaet
 Muenster" who donated this system.</p> 

@@ -164,6 +164,12 @@
 					<li><a seiten_id="details1" href="/en/details1.php">Tabular list of desk calculators</a></li>
 				</ul>
 			</li>
+			<li><a seiten_id="personalcomputer" href="/en/computer/personal-computer.php" title="Historical Personal Computers: The first PCs">Historical Personal Computers</a>
+				<ul class="u3">
+					<li><a href="/en/computer/personal-computer.php#wang2200" title="WANG 2200, with extensive peripherals">WANG 2200B</a></li>
+					<li><a href="/en/computer/personal-computer.php#wang2200s">WANG 2200S</a></li>
+				</ul>
+			</li>
 			<li><a seiten_id="analogrechner" href="/en/computer/analog.php">Analog- and hybrid -computers</a>
 				<ul class="u3">
 					<li><a href="/en/computer/analog.php#heathkit-h1">Heathkit H1</a></li>

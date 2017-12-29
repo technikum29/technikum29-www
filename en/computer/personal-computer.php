@@ -1,7 +1,7 @@
 <?php
-	$seiten_id = 'programmierbare';
-	$version = '$Id: programmable.php 914 2016-03-12 20:54:26Z heribert $';
-	$title = 'Exemplary programmable second-generation calculators';
+	$seiten_id = 'personalcomputer';
+	$version = '$Id$';
+	$titel = 'Historical Personal Computers: The first PCs';
 	
 	require "../../lib/technikum29.php";
 ?>

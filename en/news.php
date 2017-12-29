@@ -19,6 +19,12 @@
 	   
 	   <ul class="news-feed news-ng">
 	   
+	   <li><a href="/en/computer/personal-computer.php">
+	<h3>December 2017</h3><br>
+    <img src="/shared/photos/rechnertechnik/header-wang2200.jpg" width="153" height="89" /><br>
+	A new section introduces itself: Historical Personal Computers
+</a></li>
+	   
 	   <li><a href="/en/computer/lgp30.php">
 	<h3>July 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" width="153" height="118" /><br>

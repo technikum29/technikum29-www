@@ -63,7 +63,7 @@ unique stepper motor driven mechanics, the system can also be used to plot
 graphs.  The model 2202 is identical with the model 702 typically used in
 conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" target="_blank">WANG 700 system.</a> </p>
 
-	 <p class="small">We would like to express our thanks to the University of Münster who donated this system.</p> 
+	 <p class="small">We would like to express our thanks to the University of Muenster who donated this system.</p> 
 	
 	 
 	 <h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK</b></h3><br>
@@ -90,7 +90,7 @@ conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" 
 	<p>In the beginning, the PET offered 7kB RAM and the very slow "datasette". This long term storage medium was nothing
 	more than a standard 1970s compact cassette recorder. The PET was programmed in BASIC.
 	<br>Soon it was obvious that this general purpose computer was also suitable for games. In our
-	<a href="/en/education">birthday workshops</a> we observe that today's pupils are fascinated by these classical computer games
+	birthday workshops we observe that today's pupils are fascinated by these classical computer games
 	with their high level of abstraction and apparently no attempt to recreate reality.
 	
 	<p>The successor model replaced the miniature keyboard (actually quite suitable for children) by a regular one.

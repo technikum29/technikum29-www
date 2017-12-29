@@ -11,9 +11,7 @@
 	<h2>Historische Personal-Computer</h2>
 </header>
 
-<br>.....Diese Seite befindet sich im Aufbau und wird fortlaufend erweitert.<br>
-
-<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3>
+<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
 
 <p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
 	Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.<br>
@@ -38,7 +36,7 @@
 	 
 	 <h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK u.a.</b></h3><br>
 	 
-	 Auch wenn man über Commodore PCs viele Informationen im Netz findet, haben wir einige Geräte aus unserem Bestand dennoch aufgenommen.<br>
+	 <p>Auch wenn man über Commodore PCs viele Informationen im Netz findet, haben wir einige Geräte aus unserem Bestand dennoch aufgenommen.<br>
 	 Es war im Jahre 1977 als die meisten Kids an Schulen schon von dem neuen Medium "Computer" hörten und recht gierig darauf warteten, hier endlich loslegen zu können. 
 	 <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/ur-pet.jpg" width="300"  height="266" />
@@ -52,9 +50,11 @@
 	 <br>Schon zu Beginn war klar: Der Computer ist auch zum Spielen geeignet. In unseren Geburtstags-Workshops kommen sogar die alten Computerspiele der Anfangszeit gut an. Die bescheidenen Möglichkeiten faszinieren die hightec-Kids erstaunlicherweise. Hier spritzt kein Blut und die Distanz zur Realität ist noch riesig groß.<br>
 	 
 	 Im nächsten Modell wurde die "Micky-Maus-Tastatur", gerade gut für Kinderhände, durch eine ordentliche Tastatur ersetzt. Wer genügend Geld hatte investierte dies in ein 5,25" Doppelfloppy-Laufwerk das genauso teuer wie der PC selbst war. Hiermit konnte man jedoch endlich "vernünftig" arbeiten, so dass die Anlage auch für Kleinbetriebe interessant wurde.
+	 
 	 <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/commodore-8096.jpg" width="300"  height="276" />
 	</div>
+	
 	 Im folgenden Entwicklungsschritt war u.a. das Design an der Reihe. Computer sollten nun auch elegant und "schön" sein, wie das Modell 8096-SK aus dem Jahre 1980, auch "Ei" genannt, zeigt. "80" steht für 80 Zeichen pro Zeile, "96" für 96 KB RAM und SK für "Separate Keyboard", die Tastatur ist abnehmbar. Der Bildschirm lässt sich kippen sowie drehen und der PC kann große und kleine Buchstaben generieren. Mit angeschlossenem Nadeldrucker hatte man so einen "richtigen" Arbeitsplatz.<br>
 	 Hilfreich waren spezielle Software-Pakete, welche die einfache Anwendung auch für relative Laien ermöglichte.
 	 Hier ein paar technische Daten:<br>
@@ -62,7 +62,7 @@
 	 Taktfrequenz: 1 MHz<br>
 	 RAM: 96 KByte, ROM: 18 KByte<br>
 	
-	 Doch jetzt beginnt die Massenproduktion von PCs, weshalb wir auf die weitere Entwicklung hier nicht eingehen. Wir möchten unsere Besucher nur mit seltenen Raritäten der Computer-Frühzeit beglücken.
+	 Doch jetzt beginnt die Massenproduktion von PCs, weshalb wir auf die weitere Entwicklung hier nicht eingehen. Wir möchten unsere Besucher nur mit seltenen Raritäten der Computer-Frühzeit beglücken.</p>
 	 
 	
     

@@ -63,39 +63,60 @@ unique stepper motor driven mechanics, the system can also be used to plot
 graphs.  The model 2202 is identical with the model 702 typically used in
 conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" target="_blank">WANG 700 system.</a> </p>
 
-	 <p class="small">We would like to express our thanks to the "Westfaelische Wilhelms-Universitaet
-Muenster" who donated this system.</p> 
+	 <p class="small">We would like to express our thanks to the University of Münster who donated this system.</p> 
 	
 	 
 	 <h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK</b></h3><br>
 	 
-	 ......excuse, further translation will follow shortly....<br><br>
+	The Commodore computers are popular amongst the vintage computing community and thus not too interesting for our exhibition.
+	Anyway, for completeness, we have some devices in our collection.
+	
+	<br>
 	 
-	 Auch wenn man über Commodore PCs viele Informationen im Netz findet, haben wir einige Geräte aus unserem Bestand dennoch aufgenommen.<br>
-	 Es war im Jahre 1977 als die meisten Kids an Schulen schon von dem neuen Medium "Computer" hörten und recht gierig darauf warteten, hier endlich loslegen zu können. 
+	In 1977, most pupils already heard about the new computer technology and wanted to gain experience.
+	
 	 <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/ur-pet.jpg" width="300"  height="266" />
 	</div>
 	 <div class="box right"> 
 	<img src="/shared/photos/rechnertechnik/pet+floppy.jpg" width="500"  height="266" />
 	</div>
-	 Der PET 2001 wurde damals von Commodore für ganze 2000 DM angeboten und war damit auch für Schulen finanzierbar. Blitzschnell entstanden dort "Computerräume" die so stark belegt waren, dass man sich Tage vorher in Listen eintragen musste oder alternativ nur zu unüblichen Zeiten (nach 18 Uhr) Einlass bekam.<br><br>
-	 
-	 Mit anfangs ca. 7KB RAM und der sehr langsam arbeitenden "Datasette", im Prinzip ein simpler Kassettenrecorder der 70er Jahre, war das Programmieren in BASIC zwar etwas mühsam aber immerhin möglich. 
-	 <br>Schon zu Beginn war klar: Der Computer ist auch zum Spielen geeignet. In unseren Geburtstags-Workshops kommen sogar die alten Computerspiele der Anfangszeit gut an. Die bescheidenen Möglichkeiten faszinieren die hightec-Kids erstaunlicherweise. Hier spritzt kein Blut und die Distanz zur Realität ist noch riesig groß.<br>
-	 
-	 Im nächsten Modell wurde die "Micky-Maus-Tastatur", gerade gut für Kinderhände, durch eine ordentliche Tastatur ersetzt. Wer genügend Geld hatte investierte dies in ein 5,25" Doppelfloppy-Laufwerk das genauso teuer wie der PC selbst war. Hiermit konnte man jedoch endlich "vernünftig" arbeiten, so dass die Anlage auch für Kleinbetriebe interessant wurde.
+	
+	<p>
+	The PET 2001 is a 2000 DM (~1000 US $) device by Commodore and thus was also affordable by schools. Virtually overnight
+	computer pool rooms were created where one had to sign up in a waiting list in order to get entry -- or to wait up to
+	late in the evenings (after 6pm) to enter.
+	
+	<p>In the beginning, the PET offered 7kB RAM and the very slow "datasette". This long term storage medium was nothing
+	more than a standard 1970s compact cassette recorder. The PET was programmed in BASIC.
+	<br>Soon it was obvious that this general purpose computer was also suitable for games. In our
+	<a href="/en/education">birthday workshops</a> we observe that today's pupils are fascinated by these classical computer games
+	with their high level of abstraction and apparently no attempt to recreate reality.
+	
+	<p>The successor model replaced the miniature keyboard (actually quite suitable for children) by a regular one.
+	Given the money, it was possible to upgrade the machine with a 5,25" floppy disk drive which was as expensive as the
+	computer itself. However, with the disk drive it was possible to solve real world problems which made the computer
+	attractive for small buisnesses.
 	 <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/commodore-8096.jpg" width="300"  height="276" />
 	</div>
-	 Im folgenden Entwicklungsschritt war u.a. das Design an der Reihe. Computer sollten nun auch elegant und "schön" sein, wie das Modell 8096-SK aus dem Jahre 1980, auch "Ei" genannt, zeigt. "80" steht für 80 Zeichen pro Zeile, "96" für 96 KB RAM und SK für "Separate Keyboard", die Tastatur ist abnehmbar. Der Bildschirm lässt sich kippen sowie drehen und der PC kann große und kleine Buchstaben generieren. Mit angeschlossenem Nadeldrucker hatte man so einen "richtigen" Arbeitsplatz.<br>
-	 Hilfreich waren spezielle Software-Pakete, welche die einfache Anwendung auch für relative Laien ermöglichte.
-	 Hier ein paar technische Daten:<br>
-	 Prozessor: MOS 6502<br>
-	 Taktfrequenz: 1 MHz<br>
-	 RAM: 96 KByte, ROM: 18 KByte<br>
 	
-	 Doch jetzt beginnt die Massenproduktion von PCs, weshalb wir auf die weitere Entwicklung hier nicht eingehen. Wir möchten unsere Besucher nur mit seltenen Raritäten der Computer-Frühzeit beglücken.
+	<p>In the subsequent models, the design was revised. Personal computers shall look elegant and beautiful, as demonstrated
+	by the 19080s model 8096-SK (also nicknamed "the egg"). 80 means 80 characters per row, 96 means 96 kB RAM and SK means
+	seperate keyboard -- the keyboard is removable. The monitor can be leant and rotated and can display big and small letters.
+	The workspace was completed with a dot matrix printer.
+	<br>Special software allowed to operate the computer without further knowledge.
+	<br>Some technical data:
+	
+	<ul>
+	<li>Central processor: MOS 6502
+	<li>Processor frequency: 1 MHz
+	<li>RAM: 96 kByte
+	<li>ROM: 18 kByte
+	</ul>
+	
+	<p>At this time, the mass production of personal computers started and our exhibition ends, since we concentrate on
+	rarities and early computing in the 20th century.
 	 
 	
     

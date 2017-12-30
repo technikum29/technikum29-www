@@ -22,10 +22,8 @@
 	
 	<h3 id="wang2200s"><b>WANG 2200S</b></h3>
 	
-	<div class="box left"> 
+	<div class="box center"> 
 	<img src="/shared/photos/rechnertechnik/wang-2200s.jpg" width="350"  height="304" />
-	</div>
-	<div class="box right clear-after"> 
 	<img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="429"  height="304" />
 	</div>
 	

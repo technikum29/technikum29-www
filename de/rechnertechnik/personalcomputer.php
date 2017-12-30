@@ -42,7 +42,7 @@
 	<img src="/shared/photos/rechnertechnik/ur-pet.jpg" width="300"  height="266" />
 	</div>
 	 <div class="box right"> 
-	<img src="/shared/photos/rechnertechnik/pet+floppy.jpg" width="500"  height="266" />
+	<img src="/shared/photos/rechnertechnik/pet+floppy.jpg" width="500"  height="266" style="margin-top:1em" />
 	</div>
 	 Der PET 2001 wurde damals von Commodore für ganze 2000 DM angeboten und war damit auch für Schulen finanzierbar. Blitzschnell entstanden dort "Computerräume" die so stark belegt waren, dass man sich Tage vorher in Listen eintragen musste oder alternativ nur zu unüblichen Zeiten (nach 18 Uhr) Einlass bekam.<br><br>
 	 

@@ -43,10 +43,8 @@ programs and data.</p>
 	
 	<h3 id="wang2200s"><b>WANG 2200S</b></h3>
 	
-	<div class="box left"> 
+	<div class="box center"> 
 	<img src="/shared/photos/rechnertechnik/wang-2200s.jpg" width="350"  height="304" />
-	</div>
-	<div class="box right clear-after"> 
 	<img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="429"  height="304" />
 	</div>
 	
@@ -75,11 +73,11 @@ conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" 
 	 
 	In 1977, most pupils already heard about the new computer technology and wanted to gain experience.
 	
-	 <div class="box left"> 
+	  <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/ur-pet.jpg" width="300"  height="266" />
 	</div>
 	 <div class="box right"> 
-	<img src="/shared/photos/rechnertechnik/pet+floppy.jpg" width="500"  height="266" />
+	<img src="/shared/photos/rechnertechnik/pet+floppy.jpg" width="500"  height="266" style="margin-top:1em" />
 	</div>
 	
 	<p>
@@ -116,7 +114,7 @@ conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" 
 	</ul>
 	
 	<p>At this time, the mass production of personal computers started and our exhibition ends, since we concentrate on
-	rarities and early computing in the 20th century.
+	rarities and very early computing in the 20th century.
 	 
 	
     

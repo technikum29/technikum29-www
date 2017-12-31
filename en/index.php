@@ -6,6 +6,15 @@
 	require "../lib/technikum29.php";
 ?>
 
+<header class="teaser seitenstart">
+	<h2>
+	Understanding the past<br>
+	<span class="subtext">shaping the future</span>
+	</h2>
+	<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
+</header>
+
+
     <div class="cols startseiten-boxen">
        <div class="leftcol">
          <div class="besonderes">
@@ -49,10 +58,7 @@
       </div><!--leftcol-->
 
       <div class="rightcol">
-        <div class="foto">
-                <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />
-                <p>The Museum</p>
-        </div>
+       
 
         <div class="wo">
             <h2>Location</h2>
@@ -73,6 +79,12 @@
                 <li>Students have free admission.
                 </li>
             </ul>
+        </div>
+		<br>
+		
+		 <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />
+                <p>The Museum</p>
         </div>
 
       </div><!--rightcol-->

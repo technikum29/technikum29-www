@@ -104,14 +104,12 @@ conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" 
 	seperate keyboard -- the keyboard is removable. The monitor can be leant and rotated and can display big and small letters.
 	The workspace was completed with a dot matrix printer.
 	<br>Special software allowed to operate the computer without further knowledge.
-	<br>Some technical data:
+	<br>Some technical data:<br>
 	
-	<ul>
-	<li>Central processor: MOS 6502
-	<li>Processor frequency: 1 MHz
-	<li>RAM: 96 kByte
-	<li>ROM: 18 kByte
-	</ul>
+	Central processor: MOS 6502<br>
+	Processor frequency: 1 MHz<br>
+	RAM: 96 kByte,	ROM: 18 kByte<br>
+	
 	
 	<p>At this time, the mass production of personal computers started and our exhibition ends, since we concentrate on
 	rarities and very early computing in the 20th century.

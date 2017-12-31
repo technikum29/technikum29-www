@@ -6,6 +6,16 @@
 	require "../lib/technikum29.php";
 ?>
 
+<header class="teaser seitenstart">
+	<h2>
+	Vergangenheit verstehen <br>
+	<span class="subtext">Zukunft gestalten</span>
+	</h2>
+	<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="302">
+</header>
+
+
+
     <div class="cols clear-after startseiten-boxen">
        <div class="leftcol">
 	     <a href="/de/termine.php" class="smooth-scroll div left mobile clear-after termine oben">

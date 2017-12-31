@@ -33,16 +33,16 @@
 	
 	<h3 id="wang-pcs"><b>WANG PCS II</b></h3><br>
 	
-	Im Jahre 1977 stellte WANG den neuen Computer PCS-II vor, der im Gegensatz zur 2200-Serie kompakt gebaut war. Der Prozessor, noch in herkömmlicher Weise mit TTL-Logik aufgebaut, die Interface-Anschlüsse und das Netzteil befinden sich in einem Gehäuse. Eine zweifach 5,25" Floppy wurde einfach oben aufgebaut, so dass man nur noch einen Drucker anschließen musste. Der Speicher war bis zu 32 KB ausbaubar und damit auch nicht grösser als der Maximal-Ausbau des deutlich preiswerteren PET 2001.
+	Im Jahre 1977 stellte WANG den neuen Computer PCS-II vor der im Gegensatz zur 2200-Serie kompakt gebaut war. Der Prozessor, noch in herkömmlicher Weise mit TTL-Logik aufgebaut, die Interface-Anschlüsse und das Netzteil befinden sich in einem Gehäuse. Eine zweifach 5,25" Floppy wurde einfach oben aufgebaut, so dass man nur noch einen Drucker anschließen musste. Der Speicher war bis zu 32 KB ausbaubar und damit auch nicht grösser als der Maximal-Ausbau des deutlich preiswerteren PET 2001.
 	<div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/wang-pcs-2.jpg" width="241"  height="202"/>
 	<img src="/shared/photos/rechnertechnik/wang-pcs-2-innen.jpg" width="268"  height="202"/>
 	</div>
 	Die Aufnahme des Innenlebens zeigt 4 Platinen, voll mit ICs bestückt, damals auch "IC-Gräber" genannt. Eine Reparatur kann dann schon zum Alptraum werden.
 	<br>
-	Für Privatleute war dieser Rechner fast unerschwinglich: 1978 lag der Preis bei über 20.000 DM, ein FORD Capri war schon für knapp 12.000 DM zu haben.<br>
+	Für Privatleute war dieser Rechner fast unerschwinglich: 1978 lag der Preis bei über 20.000 DM, ein FORD Capri Sportcoupè war dagegen schon für knapp 12.000 DM zu haben.<br>
 	
-	<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit, ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
+	<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
 	
 
 	<h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK u.a.</b></h3><br>

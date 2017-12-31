@@ -5,21 +5,16 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2 id="pdp8L">Wissenschaftliche Rechner und Minicomputer</h2>
-	
-	<h3 id="lpg21">Schoppe & Faeser:  <b>LGP-21</b> </h3>
+   
+	<header class="teaser seitenstart">
+	<h2>Schoppe & Faeser: LGP-21</h2>
+	<img class="no-copyright" src="/shared/photos/rechnertechnik/lgp-21.jpg" width="940" height="446">
+	</header>
 
-	<!-- Bild über ganze Breite (geht bei schmalen Monitoren ins Menü rein) -->
-	<!-- Implementierung dafür steht im common.css, Zeile 300ff. -->
-    <div class="box center" style="position:relative;">
-       <div style="position:absolute; top:0px;"><img src="/shared/photos/rechnertechnik/lgp-21.jpg" width="872" height="414" alt="LGP 21 Computeranlage" />
-</div>
-        <div style="height: 443px;">&nbsp;</div>
-		<p class="bildtext small">Von links nach rechts: Magnetbandlaufwerk, erster LGP-21, Tally Leser und Stanzer, zweiter Tally Leser, zwei zusätzliche Festplatten, zweiter LGP-21, Flexowriter</p>
-		
-    </div>
+
+	<h2 id="pdp8L">Wissenschaftliche Rechner und Minicomputer</h2>
 	
-    <p>Dieser Rechner ist aus vieler Hinsicht historisch hochinteressant: 1.  Der Hardware-Aufwand ist extrem gering. 2. Im Wesentlichen arbeitet der Rechner mit einem BUS-System. 3. Er hat eine Festplatte, die alle Register und Taktspuren enthält. Wie auf obigem Bild zu erkennen ist, haben wir zwei komplette Anlagen, was die Reparatur bei Defekten erheblich erleichtert.<br>
+    <p>Im Bild von links nach rechts: Magnetbandlaufwerk, erster LGP-21, Tally Leser und Stanzer, zweiter Tally Leser, zwei zusätzliche Festplatten, zweiter LGP-21, Flexowriter.<br>Dieser Rechner ist aus vieler Hinsicht historisch hochinteressant: 1.  Der Hardware-Aufwand ist extrem gering. 2. Im Wesentlichen arbeitet der Rechner mit einem BUS-System. 3. Er hat eine Festplatte, die alle Register und Taktspuren enthält. Wie auf obigem Bild zu erkennen ist, haben wir zwei komplette Anlagen, was die Reparatur bei Defekten erheblich erleichtert.<br>
 	Aus dem Original-Prospekt von 1964: <q>"Der <b>LGP-21</b> wird von der Firma Schoppe & Faeser GmbH im Lizenzbau für Europa hergestellt und von der <b>EUROCOMP</b> GmbH vertrieben."</q>
 	<p>Entwickelt wurde der LGP-21 von Librascope Division -GPI- (USA), die damals zu den größten Rechenmaschinenherstellern der Welt gehörte. In den USA wurde der Rechner ab 1962 von "General Precision" verkauft.
 	Es handelt sich um einen ausgesprochen kleinen Computer, der aber dennoch als <b>"Der erste vollständige programmgesteuerte Digitalrechner unter 60.000,- DM für die Grundausstattung"</b> angeboten wurde. Das war natürlich nur der Preis für die nackte CPU und einem "Flexowriter". Dieser Rechner war der Nachfolger des <a class="go" href="/de/rechnertechnik/lgp30.php#lgp30"> <b>LGP-30</b> (1. Computergeneration, ab 1956)</a>, der ebenfalls von Schoppe & Faeser unter Lizenz hergestellt wurde.</p>

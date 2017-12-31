@@ -11,7 +11,7 @@
 	Vergangenheit verstehen <br>
 	<span class="subtext">Zukunft gestalten</span>
 	</h2>
-	<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="302">
+	<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
 </header>
 
 
@@ -54,25 +54,26 @@
       </div><!--leftcol-->
 
       <div class="rightcol">
-	  <div class="foto">
-                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
-                <p>Das Museumsgebäude</p>
-        </div>
+	 
 	  
 	  <div class="erwartung">
             <h2>Was wird geboten ?</h2>
             <ul>
                 <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst vorwiegend funktionsfähige, großformatige Technik.<br>
 				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.
-								
-				</li>
+			</li>
             </ul>
 	  </div>
+	  <br>
 	  
+	   <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
+                <p>Das Museumsgebäude</p>
+        </div>
 	  
         
         
-        <div class="wann"><br>
+        <div class="wann">
             <h2>Wann&nbsp;?</h2>
             <ul>
 			

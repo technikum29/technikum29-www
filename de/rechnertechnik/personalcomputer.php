@@ -66,7 +66,7 @@
 	<img src="/shared/photos/rechnertechnik/commodore-8096.jpg" width="300"  height="276"/>
 	</div>
 	
-	 Im folgenden Entwicklungsschritt war u.a. das Design an der Reihe. Computer sollten nun auch elegant und "schön" sein, wie das Modell 8096-SK aus dem Jahre 1980, auch "Ei" genannt, zeigt. "80" steht für 80 Zeichen pro Zeile, "96" für 96 KB RAM und SK für "Separate Keyboard", die Tastatur ist abnehmbar. Der Bildschirm lässt sich kippen sowie drehen und der PC kann große und kleine Buchstaben generieren. Mit angeschlossenem Nadeldrucker hatte man so einen "richtigen" Arbeitsplatz.<br>
+	 Im folgenden Entwicklungsschritt war u.a. das Design an der Reihe. Computer sollten nun auch elegant und "schön" sein, wie das Modell 8096-SK aus dem Jahre 1980, auch "Ei" genannt, zeigt. "80" steht für 80 Zeichen pro Zeile, "96" für 96 KB RAM und SK für "Separate Keyboard", die Tastatur ist abnehmbar. Der Bildschirm lässt sich kippen sowie drehen und der PC kann große und kleine Buchstaben generieren. Mit angeschlossenem Nadel- oder Typenraddrucker hatte man so einen "richtigen" Arbeitsplatz.<br>
 	 Hilfreich waren spezielle Software-Pakete, welche die einfache Anwendung auch für relative Laien ermöglichte.
 	 Hier ein paar technische Daten:<br>
 	 Prozessor: MOS 6502<br>

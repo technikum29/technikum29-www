@@ -5,6 +5,14 @@
 	
 	require "../../lib/technikum29.php";
 ?>
+
+<header class="teaser seitenstart">
+	<img src="/shared/photos/rechnertechnik/header-mechanik.jpg" width="940"  height="250">
+	<h2>Mechanical computing</h2>
+</header>
+
+
+
     <h2>Mechanical Adding Machines</h2>
 
 	<div class="box left clear-after">

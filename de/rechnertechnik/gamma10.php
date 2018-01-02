@@ -49,19 +49,17 @@
 
     <div class="box left clear-after">
 		<img src="/shared/photos/rechnertechnik/modul-gamma10.jpg" alt="Typisches Modul" width="485" height="344" />
-		<div class="bildtext">
 		    <p>
 		        Unten ist das Bild eines typischen Moduls (insges. 570 Stück, ohne Drucker!) zu sehen. Auf der Grundplatine laufen die Leiterbahnen in Längsrichtung, auf den kleinen Platinen (Flip-Flop, Verstärker usw.) laufen die Leiterbahnen vorwiegend quer dazu. Fast alle Transistoren sind noch Germanium-Typen.
 		        <br/>Die langsame Logik (u.a. der Kartensteuerung) wird von 573 Relais übernommen. Es war mutig, in einen Computer eine so große Menge Verschleißteile einzubeziehen.
 				
-			</p>
-		    <p>
+			<br><br>
+		    
 			    Der GAMMA 10 wurde als relativ preiswerte EDV-Anlage offeriert. Wie bei der UNIVAC 9400 haben wir auch für den Gamma 10 eine originale Preisliste aus den Jahren 1968/69, einer Zeit, zu welcher das Modell bereits überholt war und mit Preisnachlass quasi "ausverkauft" wurde.
 		        Zentraleinheit mit 4 k Kernspeicher:  267.000,- DM  (ca. 133.000,- €), Drucker 105.000,- DM  (ca. 50.000,- €).
 			</p>
 		</div>
-	</div>
-
+	
     <p>Während unser GAMMA 10 Rechner in einem sehr gutem Zustand ist, war jedoch der Drucker wegen der fehlenden Elektronik nicht mehr verwendbar. Doch wir hatten Glück: Ein original Drucker ist uns vom F.E.B. (Federation des Equipes Bull) aus Frankreich überlassen worden. Zwar fehlen die gesamte Verkleidung, sowie einige Teile, doch konnten wir aus den beiden Fragmenten einen voll funktionsfähigen Drucker aufbauen. Das Ergebnis kann sich sehen lassen (s.u.).</p>
 	<p class="small">Es gibt noch einige bemerkenswerte technische Daten: Der Computer hat über 4000 Transistoren, ca. 10.000 Dioden und mehr als 2500 Messpunkte, an welchen man im (nicht gerade seltenen) Servicefall Messungen im logischen Ablauf der Zyklen vornehmen konnte.<br>
 	Eine Fehlersuche durch Austausch von einzelnen Platinen war bzw. ist nicht möglich, da die kausalen Verknüpfungen wild über das gesamte Chassis gestreut sind. So verfolgt man einen Fehler dessen logische Kette z.B. von Board 17 auf 95 geht, dann zurück auf 43 und schließlich im Board 293 endet, weil just dort noch ein Flip-Flop frei war. Man muss daher den Fehler konsequent bis zum defekten Bauteil mittels Schaltpläne und Zyklenablauf verfolgen.</p>

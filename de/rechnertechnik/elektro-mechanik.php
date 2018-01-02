@@ -48,8 +48,10 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/rheinmetall.jpg" width="600" height="499" alt="Rheinmetall Superautomat" />
-        <p class="bildtext"><b>Rheinmetall</b> erweiterte 1932 eine Addiermaschine durch einen "Anbau", so dass ein 4-Spezies Rechenautomat entstand. Die komfortable Anwendung beflügelte wohl zu dem Namen "Superautomat".<br>
-		Wenn ein solcher Koloss rechnet, ist das schon ein Erlebnis.</p>
+        <p class="bildtext"><b>Rheinmetall</b><br> 
+		erweiterte 1932 eine Addiermaschine durch einen "Anbau", so dass ein 4-Spezies Rechenautomat entstand. Die komfortable Anwendung beflügelte wohl zu dem Namen "Superautomat".<br>
+		Wenn ein solcher Koloss rechnet, ist das schon ein Erlebnis.<br>
+		Bei Führungen in unseren Räumen ist diese Maschine immer dabei.</p>
     </div>
 <div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/curta.jpg" width="500" height="489" alt="Curta I und Curta II" />
@@ -62,13 +64,13 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 	</div>
 	<div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/diehl-vsr18.jpg" width="500" height="375" alt="DIEHL VSR-18" />
-        <p class="bildtext"><b>DIEHL VSR-18</b>,  eine von vielen zwischen 1955 und 1965 gebauten mechanischen Rechenmaschinen.
+        <p class="bildtext"><b>DIEHL VSR-18</b>,<br>  eine von vielen zwischen 1955 und 1965 gebauten mechanischen Rechenmaschinen.
         <br>Die Ingenieure wurden angetrieben, immer komfortablere Maschinen zu konstruieren, oft bis an die Grenze des Machbaren. So hei&szlig;t es in der Bedienungsanleitung: "Das vor ihnen stehende DIEHL-Modell VSR leistet &Uuml;berdurchschnittliches". Das ist wohl wahr: Man konnte z.B. Ergebnisse zwischenspeichern und das Resultat jederzeit r&uuml;ck&uuml;bertragen. So waren oft auftretende Rechnungen wie  25 + 12 x 7 - 17 x 6  l&ouml;sbar ohne dass man etwas notieren musste. Doch der Luxus von 5 Rechenwerken und vielem sonstigen "Schnickschnack" zollte ein Attribut: Die Ger&auml;te waren sehr empfindlich bez&uuml;glich einer Fehlbedienung.</p>
 	
    </div>
 <div id="logos" class="box right clear-after">
 	 <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="500" height="362" alt="Oivetti Logos 27-2" />
-        <p class="bildtext"><b>Olivetti Logos 27-2</b>,
+        <p class="bildtext"><b>Olivetti Logos 27-2</b>,<br>
 		ein mechanisches Monstrum als letzter Versuch gegen die aufkommenden elektronischen Rechner anzugehen. Ende 1965 kam die erste Version auf den Markt. Schließlich folgte 1967 dieses gewichtige zweite Logos27-Modell (über 27 kg schwer) mit drei unterschiedlichen Speichern, Komma-Automatik und vielen anderen Features. Stolz präsentierte Olivetti diesen druckenden "Schnellrechner" als gut für die Wissenschaft geeignet. Mit der Aussage "dass verschiedene Automatiken selbst ganze Rechenvorgänge steuern" wurde das wahre mechanische Wunderwerk angepriesen. Olivetti zeigte wie man damit Quadrat- und Kubikwurzeln, Kugel-Berechnungen, lineare Gleichungssysteme, Determinanten, Polynome, Reihenentwicklungen und vieles mehr berechnen kann. Das ging natürlich nicht mit einem Tastendruck sondern durch eine Abfolge von Rechenschritten und gegebenenfalls der Eingabe von Näherungswerten. So benötigte man zur Berechnung der 3. Wurzel aus 2993582,625 satte 25 Tastendrücke und drei Eingaben. Wer sich an die vorgegebenen Abfolgen hielt konnte ohne Programmierkenntnisse "wissenschaftlich rechnen". Da man diese Abfolgen (=Programm) aber nicht speichern konnte, war die Anwendung recht mühsam.</p>
 	
 		<a href="/shared/photos/rechnertechnik/logos-innen-links.jpg">

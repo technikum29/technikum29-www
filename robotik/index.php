@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>2.12.2017
+	<br>2.1.2018
 </div>
 
 <div class="spacing"></div>
@@ -112,7 +112,7 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 und an der VHS 
 
 
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
-Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a><br><br>
+Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/index.php?id=37&kathaupt=11&knr=I7505111&kursname=Robotik-Workshop+fr+Kids+11-13+J&wbt3_redirect=warenkorb" target="_blank">VHS Hofheim</a><br><br>
 
 <font color="#FF0000"><b>Sommerferien 2018:</b></font><br>
 Einführungskurs von Mo. 25.6. bis Fr. 29.6.2018 jeweils von 10:00 bis 12:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a> <br>

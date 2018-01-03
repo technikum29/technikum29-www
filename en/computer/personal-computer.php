@@ -62,6 +62,35 @@ graphs.  The model 2202 is identical with the model 702 typically used in
 conjunction with a <a class="go" href="/en/computer/ic-technology.php#WANG_700" target="_blank">WANG 700 system.</a> </p>
 
 	 <p class="small">We would like to express our thanks to the University of Muenster who donated this system.</p> 
+	 
+	 
+	 <h3 id="wang-pcs"><b>WANG PCS II</b></h3><br>
+	
+	1977 WANG introduced the new computer PCS-II, a much more compact system than
+the 2200-series. The central processor was still implemented with discrete TTL
+ICs and shared a common enclosure with all necessary interface connectors and
+the power supply. A dual 5.25" diskette drive was attached at the top, so the
+only other peripheral device was a printer. Memory could be expanded up to 32
+kB, as small as the memory featured by the much cheaper PET made by Commodore.
+
+	<div class="box left"> 
+	<img src="/shared/photos/rechnertechnik/wang-pcs-2.jpg" width="241"  height="202"/>
+	<img src="/shared/photos/rechnertechnik/wang-pcs-2-innen.jpg" width="268"  height="202"/>
+	</div>
+	
+	The picture shows the implementation of the machine. All in all, four printed
+circuit boards (PCBs for short) crammed with ICs, were required. Repairing a
+machine like this can easily turn out to be a veritable nightmare.
+	<br>
+	The machine was much too expensive for private citizens: In 1978, one would
+have had to pay 20 000 DM for a machine like this. A reasonable car like a 
+FORD Capri Sportcoupe would have cost only 12 000 DM in comparison! 
+	<br>
+	
+	<p class="bildtext small">This beautifully preserved machine is currently not functional. We would trade
+it for another, equally valuable system suitable for our museum. If you are
+interested, please do not hesitate to contact us.</p>
+	
 	
 	 
 	 <h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK</b></h3><br>

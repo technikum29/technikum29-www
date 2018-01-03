@@ -19,6 +19,12 @@
 	   
 	   <ul class="news-feed news-ng">
 	   
+	    <li><a href="/en/computer/personal-computer.php#wang2200s">
+	<h3>January 2018</h3><br>
+    <img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="153"  height="108"/><br>
+	A new Computer:  WANG 2200S
+</a></li>
+	   
 	   <li><a href="/en/computer/personal-computer.php">
 	<h3>December 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/header-wang2200.jpg" width="153" height="89" /><br>

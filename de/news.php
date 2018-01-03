@@ -15,6 +15,12 @@
 	
 <ul class="news-feed news-ng">
 
+ <li><a href="/de/rechnertechnik/personalcomputer.php#wang2200s">
+	<h3>Januar 2018</h3><br>
+    <img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="153"  height="108"/><br>
+	Ein neuer Personal-Computer:  WANG 2200S
+</a></li>
+
 <li><a href="/de/rechnertechnik/personalcomputer.php">
 	<h3>Dezember 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/header-wang2200.jpg" width="153" height="89" /><br>

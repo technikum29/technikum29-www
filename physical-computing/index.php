@@ -138,18 +138,21 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 20.12.2017)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 4.1.2018)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:</b></font><br>
 	
-	In den Ferien werde ich noch die Lösungen für Aufgabe 2 von Blatt 6, sowie eine Theoriezusammenfassung hier einstellen.<br>
+	Unten findest du die Zusammenfassung der bisherigen Theorie. Das ist kein Lehrbuch, sondern dient dazu, dich schnell und kompakt über die Inhalte zu informieren, die du "drauf" haben solltest. Es ist empfehlenswert, das hin und wieder mal durchzulesen. Dann bist du hoffentlich "im Thema". Richtig lernen kann man nur durch eigenes Tun, d.h. versuchen Aufgaben zu lösen und die Sketche testen. Aus den Fehlern lernst du.<br><br>
+	
+	In den Ferien werde ich noch die Lösungen für Aufgabe 2 von Blatt 6 einstellen.<br>
 	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. 
-	Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir (nicht-träumend) anschauen. Bedenke, dass man schwierige Themen mehrfach angehen muss, um sie zu begreifen. Dann kommt der "aha-Effekt". Tust du nix, kommt auch nix und du bleibst in PCR "dumm" &#9785; , wäre schade, wo du doch so ein heller Kopf bist.
+	Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir ebenfalls anschauen. 
 	<br><br>
 	
-	
+	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
+	<br>
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>
 	

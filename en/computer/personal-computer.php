@@ -83,7 +83,7 @@ circuit boards (PCBs for short) crammed with ICs, were required. Repairing a
 machine like this can easily turn out to be a veritable nightmare.
 	<br>
 	The machine was much too expensive for private citizens: In 1978, one would
-have had to pay 20 000 DM for a machine like this. A reasonable car like a 
+have had to pay 20 000 DM ($ 7500) for a machine like this. A reasonable car like a 
 FORD Capri Sportcoupe would have cost only 12 000 DM in comparison! 
 	<br>
 	

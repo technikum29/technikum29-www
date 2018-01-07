@@ -41,6 +41,7 @@ body #content header.teaser h2 {
 	
 	font-size: 280%;    /* vorher 250%;*/
 	text-align: center;
+	font-weight: inherit;
 }
 
 body header.teaser h2 span.subtext {

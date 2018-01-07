@@ -7,13 +7,35 @@
 ?>
 
 <header class="teaser seitenstart">
-	<h2>
-	Vergangenheit verstehen <br>
-	<span class="subtext">Zukunft gestalten</span>
-	</h2>
-	<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
-</header>
+<div class="slider-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
+	<!-- Erstes Bild (Noscript: Default) -->
+	<div class="slide">
+		<h2>
+		Vergangenheit verstehen <br>
+		<span class="subtext">Zukunft gestalten</span>
+		</h2>
+		<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
+	</div>
 
+	<!-- Zweites Bild (nur mit JavaScript) -->
+	<div class="slide js">
+		<h2>
+		Mit Mechanischer Rechnertechnik<br>
+		<span class="subtext">und weiter</span>
+		</h2>
+		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-mechanik.jpg" width="940" height="289">
+	</div>
+
+	<!-- Zweites Bild (nur mit JavaScript) -->
+	<div class="slide js">
+		<h2>
+		Und Speichermedien<br>
+		<span class="subtext">und weiter</span>
+		</h2>
+		<img class="no-copyright" src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="940" height="289">
+	</div>
+</div>
+</header>
 
 
     <div class="cols clear-after startseiten-boxen">

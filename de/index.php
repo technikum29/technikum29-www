@@ -17,25 +17,23 @@
 		<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
 	</div>
 
-	<!-- Zweites Bild (nur mit JavaScript) 
+
 	<div class="slide js">
 		<h2>
-		Mit Mechanischer Rechnertechnik<br>
-		<span class="subtext">und weiter</span>
+		Der Beginn der EDV<br>
 		</h2>
-		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-mechanik.jpg" width="940" height="289">
+		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-2.jpg" width="940" height="290">
 	</div>
 
-	<!-- Zweites Bild (nur mit JavaScript) 
+	 
 	<div class="slide js">
 		<h2>
-		Und Speichermedien<br>
-		<span class="subtext">und weiter</span>
+		Die Zeit der Lochkarten<br>
 		</h2>
-		<img class="no-copyright" src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="940" height="289">
+		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-3.jpg" width="940" height="290">
 	</div>
 	
-	--> 
+ 
 </div>
 </header>
 

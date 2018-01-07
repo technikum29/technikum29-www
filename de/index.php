@@ -17,7 +17,7 @@
 		<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
 	</div>
 
-	<!-- Zweites Bild (nur mit JavaScript) -->
+	<!-- Zweites Bild (nur mit JavaScript) 
 	<div class="slide js">
 		<h2>
 		Mit Mechanischer Rechnertechnik<br>
@@ -26,7 +26,7 @@
 		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-mechanik.jpg" width="940" height="289">
 	</div>
 
-	<!-- Zweites Bild (nur mit JavaScript) -->
+	<!-- Zweites Bild (nur mit JavaScript) 
 	<div class="slide js">
 		<h2>
 		Und Speichermedien<br>
@@ -34,6 +34,8 @@
 		</h2>
 		<img class="no-copyright" src="/shared/photos/rechnertechnik/speichermedien/header-memory.jpg" width="940" height="289">
 	</div>
+	
+	--> 
 </div>
 </header>
 

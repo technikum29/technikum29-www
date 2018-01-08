@@ -51,7 +51,6 @@
 	
 	<td>So, <b>18. Februar</b><br>14:00 Uhr
 		<td>Computer-History<br>
-		<font color="#FF0000">Termin geändert!</font>
 		<td>Interaktive Führung<br>	
 		<td>Einzelpersonen und Kleingruppen<br>
 		<font color="#FF0000">Anmeldungen sind noch möglich</font>

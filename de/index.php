@@ -7,10 +7,9 @@
 ?>
 
 <header class="teaser seitenstart">
-<!-- Autoplay: 5000ms Pause zwischen jedem Bild. -->
-<div class="slider-carousel" data-flickity='{ "autoPlay": 5000, "wrapAround": true, "cellAlign": "left", "contain": true }'>
+<div class="slider play">
 	<!-- Erstes Bild (Noscript: Default) -->
-	<div class="slide">
+	<div class="slide slide1">
 		<h2>
 		Vergangenheit verstehen <br>
 		<span class="subtext">Zukunft gestalten</span>
@@ -19,7 +18,7 @@
 	</div>
 
 
-	<div class="slide js">
+	<div class="slide slide2">
 		<h2>
 		Der Beginn der EDV<br>
 		</h2>
@@ -27,15 +26,14 @@
 	</div>
 
 	 
-	<div class="slide js">
+	<div class="slide slide3">
 		<h2>
 		Die Zeit der Lochkarten<br>
 		</h2>
 		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-3.jpg" width="940" height="290">
 	</div>
 	
- 
-</div>
+ </div>
 </header>
 
 

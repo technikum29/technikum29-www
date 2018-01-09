@@ -7,9 +7,9 @@
 ?>
 
 <header class="teaser seitenstart">
-<div class="slider play">
+<div class="slider-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
 	<!-- Erstes Bild (Noscript: Default) -->
-	<div class="slide slide1">
+	<div class="slide">
 		<h2>
 		Vergangenheit verstehen <br>
 		<span class="subtext">Zukunft gestalten</span>
@@ -18,7 +18,7 @@
 	</div>
 
 
-	<div class="slide slide2">
+	<div class="slide js">
 		<h2>
 		Der Beginn der EDV<br>
 		</h2>
@@ -26,14 +26,15 @@
 	</div>
 
 	 
-	<div class="slide slide3">
+	<div class="slide js">
 		<h2>
 		Die Zeit der Lochkarten<br>
 		</h2>
 		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-3.jpg" width="940" height="290">
 	</div>
 	
- </div>
+ 
+</div>
 </header>
 
 

@@ -208,6 +208,9 @@ class t29JavaScriptRessourceLoader extends t29RessourceLoader {
 			case 'impressum':
 				$urls[] = 'http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw';
 				break;
+			case 'startseite':
+				$urls[] = '/shared/js-v6/libs/flickity.pkgd.min.js'; // Caroussel-Slider
+				break;
 		}
 		return $urls;
 	}

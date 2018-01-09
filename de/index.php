@@ -7,7 +7,8 @@
 ?>
 
 <header class="teaser seitenstart">
-<div class="slider-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
+<!-- Autoplay: 5000ms Pause zwischen jedem Bild. -->
+<div class="slider-carousel" data-flickity='{ "autoPlay": 5000, "wrapAround": true, "cellAlign": "left", "contain": true }'>
 	<!-- Erstes Bild (Noscript: Default) -->
 	<div class="slide">
 		<h2>

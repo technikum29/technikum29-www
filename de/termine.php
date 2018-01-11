@@ -53,7 +53,7 @@
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>	
 		<td>Einzelpersonen und Kleingruppen<br>
-		<font color="#FF0000">Anmeldungen sind noch möglich</font>
+		<font color="#FF0000">ausgebucht!</font>
 		
 	<tr>
 	

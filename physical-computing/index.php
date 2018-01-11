@@ -26,7 +26,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
-	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Albert-Einstein-Schule (AES) in Schwalbach. Hier werden für die 8. Klassen zwei Stunden pro Woche angeboten.<br>
+	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Albert-Einstein-Schule (AES) in Schwalbach. Hier werden für Schüler ab Klasse 8 zwei Stunden pro Woche angeboten.<br>
 	
 	
 </div>

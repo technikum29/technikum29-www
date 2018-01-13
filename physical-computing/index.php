@@ -138,7 +138,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 4.1.2018)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.1.2018)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
@@ -146,7 +146,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	Unten findest du die Zusammenfassung der bisherigen Theorie. Das ist kein Lehrbuch, sondern dient dazu, dich schnell und kompakt über die Inhalte zu informieren, die du "drauf" haben solltest. Es ist empfehlenswert, das hin und wieder mal durchzulesen. Dann bist du hoffentlich "im Thema". Richtig lernen kann man nur durch eigenes Tun, d.h. versuchen Aufgaben zu lösen und die Sketche testen. Aus den Fehlern lernst du.<br><br>
 	
-	In den Ferien werde ich noch die Lösungen für Aufgabe 2 von Blatt 6 einstellen.<br>
+	Um am Montag möglichst schnell wieder in die Materie einsteigen zu können, werden wir die Aufgabe Nr.3 aus Blatt 6 gemeinsam besprechen und lösen.<br>
 	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. 
 	Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir ebenfalls anschauen. 
 	<br><br>

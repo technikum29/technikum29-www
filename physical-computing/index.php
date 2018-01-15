@@ -127,9 +127,10 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> info über analoge Eingänge und PWM (PDF)</a><br>
-<a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
+<!-- <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
 <a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
-<a href="/physical-computing/henry_ampel_korrigiert" target="_blank">  Ampelsketch, Aufgabe 6 von Blatt 5 (ino)</a><br>
+<a href="/physical-computing/henry_ampel_korrigiert" target="_blank">  Ampelsketch, Aufgabe 6 von Blatt 5 (ino)</a><br>  -->
+
 </div>
 </div>
 <br>
@@ -138,20 +139,21 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am 13.1.2018)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>15.1.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
-	<font color="#FF0000"><b>Aktuell:</b></font><br>
+	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
 	
-	Unten findest du die Zusammenfassung der bisherigen Theorie. Das ist kein Lehrbuch, sondern dient dazu, dich schnell und kompakt über die Inhalte zu informieren, die du "drauf" haben solltest. Es ist empfehlenswert, das hin und wieder mal durchzulesen. Dann bist du hoffentlich "im Thema". Richtig lernen kann man nur durch eigenes Tun, d.h. versuchen Aufgaben zu lösen und die Sketche testen. Aus den Fehlern lernst du.<br><br>
+	S o r r y ....<br>
+	war nicht so gut heute (13.1.). Wollte eigentlich mit dem 8-Bit Shift-Register-Modul weiter arbeiten, habe dann aber erkannt, dass hier die Luft schon draussen ist. Die 4-Ziffern-Anzeige TM1637 war noch nicht vorbereitet. Die entsprechenden Files fehlten auf den Sticks.<br> 
+	Ich werde die Library hierfür vereinfachen und die Erläuterungen auf das für uns Wichtige kürzen. Wir werden in der nächsten Stunde darauf zurück kommen.<br>
+	Dann führen wir noch eine 8-Ziffern-Anzeige ein und experimentieren mit rotierenden Lichtquellen. Danach kommen Ultraschall-Distanz-Messungen......
+	schöne Physik, realisiert mit Micro-Controllern, alles up-to-date.
 	
-	Um am Montag möglichst schnell wieder in die Materie einsteigen zu können, werden wir die Aufgabe Nr.3 aus Blatt 6 gemeinsam besprechen und lösen.<br>
-	Die Lösung von Aufgabe 6 aus Blatt 5 findest du oben. Du solltest aber vorher versuchen diese selbst zu schreiben, damit du weißt was dir noch an Kenntnissen fehlt. 
-	Das, sowie die ersten Aufgaben von Blatt 6 solltest du dir ebenfalls anschauen. 
 	<br><br>
 	
-	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
+	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a>, wird demnächst erweitert!<br>
 	<br>
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>

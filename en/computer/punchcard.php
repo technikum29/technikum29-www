@@ -5,7 +5,12 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Punch-card equipment and Peripherals</h2>
+
+<header class="teaser seitenstart">
+	<img src="/shared/photos/start/header-lochkarten.jpg" width="940"  height="176">
+	<h2>Punch-card equipment and Peripherals</h2>
+</header>
+    
 
     <p>Punch cards are used since the beginnings of the 20th century
        as storage media. They are handy, can be labeled automatically or by

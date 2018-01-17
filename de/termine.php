@@ -48,6 +48,12 @@
 		<th>Teilnehmer     
 	<tr>
 
+	<td>So, <b>28. Januar</b><br>15:00 Uhr
+		<td>Computer-History-Workshop<br>
+		<td>Geburtstags-Event<br>	
+		<td>Simon wird 12 Jahre alt<br>
+		
+	<tr>
 	
 	<td>So, <b>18. Februar</b><br>14:00 Uhr
 		<td>Computer-History<br>

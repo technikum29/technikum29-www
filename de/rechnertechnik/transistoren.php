@@ -7,7 +7,7 @@
 ?>
     <h2>Rechner der 2. Generation</h2>
     <p>Aufgeschreckt durch den Röhrenrechner "ANITA" begann nun ein stürmischer Wettlauf der Entwicklung von transistorisierten Rechnern der 2. Generation. Die Zeit dafür war einfach reif und die vielen Anwender mechanischer Maschinen versprachen ein großes Potenzial von möglichen Käufern zu werden.<br>
-	Jede Firma, die sich mit hohen Entwicklungskosten an die Produktion wagte, entwarf eine andere Architektur der Rechner. So entstand eine große Vielfalt sehr unterschiedlicher Konzepte. Wir stellen einige der sehr frühen Geräte (Bj. 1964-1965) aus unserem Bestand vor.</p><br>
+	Jede Firma, die sich mit hohen Entwicklungskosten an die Produktion wagte, entwarf eine andere Architektur der Rechner. So entstand eine große Vielfalt sehr unterschiedlicher Konzepte. Wir stellen einige der sehr frühen Geräte (Bj. 1964-1968) aus unserem Bestand vor.</p><br>
 
 <h3>IME 84:  Erster Tischrechner mit Transistoren (1964)</h3>	
 
@@ -48,9 +48,6 @@
 	
 	<h3>FRIDEN 130 (132)</h3>
 	
-	
-
-
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/friden130.jpg" alt="Friden 130" width="694" height="497" />
         <p class="bildtext"><b>FRIDEN 130</b></p>
@@ -60,4 +57,33 @@
         <img src="/shared/photos/rechnertechnik/friden-display.jpg" alt="Display des Friden 130" width="274" height="134" /></div> 
 		<p>Im Jahre 1964 kam der <b>FRIDEN 130</b> auf den Markt. Es war der erste "Bildschirmrechner" der auf einer Oszilloskopröhre den Inhalt von 4 Registern anzeigt. Als Speichermedium dient ein <a href="speichermedien.php#magnetostriktion">Laufzeitspeicher</a>. <br/>Das Aussehen erinnert an die Zeit der damaligen Fernsehsendung "Raumschiff Enterprise"... Er hat etwas Futuristisches.<br/> Unter der Bezeichnung<b> FRIDEN 132</b> wurde er als Rechner mit Wurzelprogramm verkauft. Mit den 4 Grundrechenarten kostete er ca. 5000,- DM (ca. 2500 Euro), mit der Wurzeloption war er ca. 1700 DM teurer.<br>
 		Einen schönen Werbeprospekt findet man hier: <a class="go" href="http://archive.computerhistory.org/resources/text/Friden/Friden.130.1964.102646292.pdf" target="_blank">"Mathematics for the Space Age"</a> 
+		
+		
+	<h3>Olivetti Logos 328</h3><br>
+	
+	
+	1968 kam diese abgespeckte Version der legendären Programma 101 auf den Markt. Er war nicht programmierbar. Trotz Wurzel- und Quadratautomatik war das für diese Zeit kein großer Wurf. Da der Rechner teuer und schwer war, wurde er zum Flop für Olivetti. Heute ist dieser Rechner nur sehr selten zu finden.<br>
+	Der Trommeldrucker wurde direkt vom Vorgänger (P101) übernommen. Leider jedoch nicht das Design. Das Kunststoff-Gehäuse, was zur Vergilbung neigt, schmälerte die Wertigkeit insgesamt.<br>
+	Hier der originale Werbetext aus einer Anzeige in New-York (1968):<br>
+	<div class="box left">
+        <img src="/shared/photos/rechnertechnik/olivetti-logos-328.jpg" alt="Olivetti Logos 328" width="461" height="360" />
+	</div>
+	
+
+"Compare it with any printing calculator. The fewest control keys.
+Automatic square root. Squaring and percentage keys.
+The most registers. Six in all. The highest capacity.
+Prints up to 22 digits. The Logos 328.
+It does a lot more than just print."<br><br>
+
+Dazu eine freie Übersetzung:<br>
+"Vergleichen Sie ihn mit jedem Tischrechner, der drucken kann. Die wenigsten Steuertasten.
+Automatische Quadratwurzel. Quadrat- und Prozenttasten.
+Die meisten Register. Insgesamt sechs. Die höchste Kapazität.
+Druckt bis zu 22 Ziffern. Der Logos 328.
+Er kann viel mehr als nur drucken."<br><br>
+Auch diesen Rechner werden wir zur vollen Funktion bringen. Dazu müssen jedoch erst zwei komplizierte Zahnräder nachgebaut werden.
+
+
+
 		

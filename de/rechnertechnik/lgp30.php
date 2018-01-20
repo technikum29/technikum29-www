@@ -67,7 +67,7 @@ Nun endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrech
 3. "Diskrete" Elektronik mit RAM, EPROM, OP´s und TTL´s: Aufwändige Schaltung mit den gleichen Potenzialproblemen.<br>
 4. Induktive Ankopplung, jeder Kopf erhält einen Gegenkopf der an ein Umlaufregister angeschlossen ist. Extrem aufwändig. Diese Idee wurde zunächst wieder verworfen.<br><br>
 Im Vergleich zur Trommel-Emulation ist die Herstellung aller fehlenden Verbindungskabel eine Kleinigkeit.<br>
-Erfreulicherweise haben sich 4 Experten bereit erklärt, an dieser Herausforderung mitzuarbeiten. Insbesondere gilt unser Dank Herrn Klemens Krause vom <a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.
+Erfreulicherweise haben sich 4 Experten bereit erklärt, an dieser Herausforderung mitzuwirken. Insbesondere gilt unser Dank Herrn Klemens Krause vom <a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.
 
 
 

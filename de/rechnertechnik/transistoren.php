@@ -37,7 +37,7 @@
         <img src="/shared/photos/rechnertechnik/canola-elektronik.jpg" alt="Elektronik der Canola 130" width="184" height="138" />
 		</div>
 		
-		Bemerkenswert ist die Anzeige. 143 Glühlampen sind notwendig um mittels Lichtleitung und Streulicht die Ziffern und den Dezimalpunkt zu erzeugen. Manchmal wird diese Art der Anzeige auch mit "Flutlichtanzeige" bezeichnet. Der Vorteil gegenüber den Nixieröhren war die ansprechendere Leuchtfarbe der Ziffern und man benötigte keine höheren Spannungen für die Anzeige.</p>	
+		Bemerkenswert ist die Anzeige. 143 Glühlampen sind notwendig um mittels Lichtleitung und Streulicht die Ziffern und den Dezimalpunkt zu erzeugen. Manchmal wird diese Art der Anzeige auch mit "Flutlichtanzeige" bezeichnet. Der Vorteil gegenüber den Nixieröhren war die ansprechendere Leuchtfarbe der Ziffern und man benötigte keine höheren Spannungen für die Anzeige wie bei den Nixie-Röhren.</p>	
 		<br>
 	
 		<h3>Olympia RAE 4/30-3 und Wanderer Conti</h3>
@@ -65,8 +65,8 @@
 		
 	<h3 id="328">Olivetti Logos 328</h3><br>	
 	
-	1968 kam diese abgespeckte Version der legendären Programma 101 auf den Markt. Er war nicht programmierbar. Trotz Wurzel- und Quadratautomatik war das für diese Zeit kein großer Wurf. Da der Rechner teuer und schwer war (22kg), wurde er zum Flop für Olivetti. Heute ist dieser Rechner nur sehr selten zu finden.<br>
-	Der Trommeldrucker wurde direkt vom Vorgänger (P101) übernommen. Leider jedoch nicht das Design. Das Kunststoff-Gehäuse, was zur Vergilbung neigt, schmälerte die Wertigkeit insgesamt.<br>
+	1968 kam diese abgespeckte Version der legendären Programma 101 auf den Markt. Er war nicht programmierbar. Trotz Wurzel- und Quadratautomatik war das für diese Zeit kein großer Wurf mehr. Da der Rechner teuer und schwer war (22kg), wurde er zum Flop für Olivetti. Heute ist dieser Rechner nur noch sehr selten zu finden.<br>
+	Der Trommeldrucker sowie die Tastatur mitsamt der mechanischen Decodierung wurden direkt vom Vorgänger (P101) übernommen. Das Kunststoff-Gehäuse, das zur Vergilbung neigt, konnte mit der Ästhetik des P101 nicht mithalten.<br>
 	Hier der originale Werbetext aus einer Anzeige in New-York (1968):<br>
 	<div class="box left">
         <img src="/shared/photos/rechnertechnik/olivetti-logos-328.jpg" alt="Olivetti Logos 328" width="461" height="360" />

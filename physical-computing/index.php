@@ -126,7 +126,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
-<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> info über analoge Eingänge und PWM (PDF)</a><br>
+<a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> Info über analoge Eingänge und PWM (PDF)</a><br>
+<a href="/physical-computing/Clock-Fan-Frequenz" target="_blank"> Rotationsgeschwindigkeit der USB-Clock (ino)</a><br>
 <!-- <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
 <a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
 <a href="/physical-computing/henry_ampel_korrigiert" target="_blank">  Ampelsketch, Aufgabe 6 von Blatt 5 (ino)</a><br>  -->

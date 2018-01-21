@@ -24,17 +24,21 @@
         <p class="bildtext clear-after">Dieser frühe elektronische Rechner hatte links eine merkwürdige Schnittstelle. Daran war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
 	
 <h3>Canon Canola 130</h3>
-<div class="box left">
-        <img src="/shared/photos/rechnertechnik/canola-130.jpg" alt="Canola 130" width="380" height="575" /></div>
+
+<div class="box center">
+        <img src="/shared/photos/rechnertechnik/canola-130.jpg" alt="Canola 130" width="347" height="272" />
+		<img src="/shared/photos/rechnertechnik/canola-130-innen.jpg" alt="Canola 130, offen" width="368" height="272" />
+		</div>
 		
+		<p>Auch in Japan entstand 1964 ein elektronischer Tischrechner mit Germanium-Transistoren und Flip-Flop Elementen als Speicher.
+		Das Gerät zeichnet sich im Innern durch große Platinen aus. Optisch wirkt es wie ein Prototyp. Die Platinen sind nicht gesteckt, sondern die Kabel sind angelötet. Damit verbunden ist eine geringe Servicefreundlichkeit. Gerade im Jahre 1964 ging es darum, möglichst schnell einen elektronischen Tischrechner auf den Markt zu bringen, um unter den Ersten zu sein. <br>
+		<div class="box left">
+        <img src="/shared/photos/rechnertechnik/canola-130-display.jpg" alt="Display der Canola 130" width="184" height="62" />
+        <img src="/shared/photos/rechnertechnik/canola-elektronik.jpg" alt="Elektronik der Canola 130" width="184" height="138" />
+		</div>
 		
-		<div class="left clear-after">
-        <img src="/shared/photos/rechnertechnik/canola-display.jpg" alt="Display der Canola 130" width="148" height="138" />
-		<div class="bildtext">
-		<p>Auch in Japan entstand 1964 ein elektronischer Tischrechner mit Germanium-Transistoren und Flip-Flop Elemente als Speicher.
-		Das Gerät zeichnet sich im Innern durch große Platinen aus. Optisch wirkt es wie ein Prototyp. Die Platinen sind nicht gesteckt, sondern angelötet. Damit verbunden ist eine geringe Servicefreundlichkeit. Gerade im Jahre 1964 ging es darum, möglichst schnell einen elektronischen Tischrechner auf den Markt zu bringen, um unter den Ersten zu sein. <br>
-		Bemerkenswert ist die Anzeige. 143 Glühlampen sind notwendig, um mittels Lichtleitung und Streulicht die Ziffern und den Dezimalpunkt zu erzeugen. Manchmal wird diese Art der Anzeige auch mit "Flutlichtanzeige" bezeichnet. Der einzige Vorteil gegenüber den Nixieröhren war die ansprechendere Leuchtfarbe der Ziffern.</p>	
-		</div></div><br>
+		Bemerkenswert ist die Anzeige. 143 Glühlampen sind notwendig um mittels Lichtleitung und Streulicht die Ziffern und den Dezimalpunkt zu erzeugen. Manchmal wird diese Art der Anzeige auch mit "Flutlichtanzeige" bezeichnet. Der Vorteil gegenüber den Nixieröhren war die ansprechendere Leuchtfarbe der Ziffern und man benötigte keine höheren Spannungen für die Anzeige.</p>	
+		<br>
 	
 		<h3>Olympia RAE 4/30-3 und Wanderer Conti</h3>
 		
@@ -59,10 +63,9 @@
 		Einen schönen Werbeprospekt findet man hier: <a class="go" href="http://archive.computerhistory.org/resources/text/Friden/Friden.130.1964.102646292.pdf" target="_blank">"Mathematics for the Space Age"</a> 
 		
 		
-	<h3>Olivetti Logos 328</h3><br>
+	<h3 id="328">Olivetti Logos 328</h3><br>	
 	
-	
-	1968 kam diese abgespeckte Version der legendären Programma 101 auf den Markt. Er war nicht programmierbar. Trotz Wurzel- und Quadratautomatik war das für diese Zeit kein großer Wurf. Da der Rechner teuer und schwer war, wurde er zum Flop für Olivetti. Heute ist dieser Rechner nur sehr selten zu finden.<br>
+	1968 kam diese abgespeckte Version der legendären Programma 101 auf den Markt. Er war nicht programmierbar. Trotz Wurzel- und Quadratautomatik war das für diese Zeit kein großer Wurf. Da der Rechner teuer und schwer war (22kg), wurde er zum Flop für Olivetti. Heute ist dieser Rechner nur sehr selten zu finden.<br>
 	Der Trommeldrucker wurde direkt vom Vorgänger (P101) übernommen. Leider jedoch nicht das Design. Das Kunststoff-Gehäuse, was zur Vergilbung neigt, schmälerte die Wertigkeit insgesamt.<br>
 	Hier der originale Werbetext aus einer Anzeige in New-York (1968):<br>
 	<div class="box left">

@@ -15,6 +15,12 @@
 	
 <ul class="news-feed news-ng">
 
+<li><a href="/de/rechnertechnik/transistoren.php#Olivetti_Logos_328">
+	<h3>Januar 2018</h3><br>
+    <img src="/shared/photos/rechnertechnik/olivetti-logos-328.jpg" alt="Olivetti Logos 328" width="153" height="119" /><br>
+	Seltener Rechner der 2. Generation:  Olivetti Logos 328
+</a></li>
+
  <li><a href="/de/rechnertechnik/personalcomputer.php#wang2200s">
 	<h3>Januar 2018</h3><br>
     <img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="153"  height="108"/><br>

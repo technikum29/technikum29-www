@@ -144,7 +144,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
-	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
+	<font color="#FF0000"><b>Aktuell: Die AG muss heute (22.1.) leider ausfallen!</b></font><br><br>
 	
 	S o r r y ....<br>
 	war nicht so gut heute (13.1.). Wollte eigentlich mit dem 8-Bit Shift-Register-Modul weiter arbeiten, habe dann aber erkannt, dass hier die Luft schon draussen ist. Die 4-Ziffern-Anzeige TM1637 war noch nicht vorbereitet. Die entsprechenden Files fehlten auf den Sticks.<br> 

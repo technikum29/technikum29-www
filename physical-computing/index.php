@@ -140,17 +140,17 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>25.1.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>26.1.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
 	
-	S o r r y ....<br>
-	war nicht so gut heute (13.1.). Wollte eigentlich mit dem 8-Bit Shift-Register-Modul weiter arbeiten, habe dann aber erkannt, dass hier die Luft schon draussen ist. Die 4-Ziffern-Anzeige TM1637 war noch nicht vorbereitet. Die entsprechenden Files fehlten auf den Sticks.<br> 
-	Ich werde die Library hierfür vereinfachen und die Erläuterungen auf das für uns Wichtige kürzen. Wir werden in der nächsten Stunde darauf zurück kommen.<br>
-	Dann führen wir noch eine 8-Ziffern-Anzeige ein und experimentieren mit rotierenden Lichtquellen. Danach kommen Ultraschall-Distanz-Messungen......
-	schöne Physik, realisiert mit Micro-Controllern, alles up-to-date.
+	Im nächsten Halbjahr werde ich wegen anderer zusätzlicher Tätigkeiten ich nicht mehr so viel Zeit in diese AG investieren können. Eine Fortsetzung ist nur mit folgenden Änderungen denkbar:<br>
+	Die AG wird mehr frei gestaltet, nicht mehr wie konventioneller Unterricht. Das bedeutet auch, dass nunmehr die Teilnehmerzahl auf Schüler beschränkt werden muss, die sich damit auch mal "von selbst" beschäftigen möchten und können. Ihr müsstet dann eigenständiger denken und "arbeiten" mit allen Vor- und Nachteilen. Natürlich werde ich immer dabei sein.<br>
+	Einigen wird das besser gefallen, andere werden damit (große) Probleme bekommen.
+	Im schlimmsten Fall würde die AG aufgelöst, was ich aber vermeiden möchte.<br>
+	Wir reden am Montag darüber.....
 	
 	<br><br>
 	

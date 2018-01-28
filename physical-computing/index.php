@@ -140,21 +140,18 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>26.1.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>28.1.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
 	
-	Im nächsten Halbjahr werde ich wegen anderer zusätzlicher Tätigkeiten ich nicht mehr so viel Zeit in diese AG investieren können. Eine Fortsetzung ist nur mit folgenden Änderungen denkbar:<br>
-	Die AG wird mehr frei gestaltet, nicht mehr wie konventioneller Unterricht. Das bedeutet auch, dass nunmehr die Teilnehmerzahl auf Schüler beschränkt werden muss, die sich damit auch mal "von selbst" beschäftigen möchten und können. Ihr müsstet dann eigenständiger denken und "arbeiten" mit allen Vor- und Nachteilen. Natürlich werde ich immer dabei sein.<br>
-	Einigen wird das besser gefallen, andere werden damit (große) Probleme bekommen.
-	Im schlimmsten Fall würde die AG aufgelöst, was ich aber vermeiden möchte.<br>
+	Im nächsten Halbjahr werde ich wegen anderer zusätzlicher Tätigkeiten die AG vermutlich nicht fortführen können. <br>
 	Wir reden am Montag darüber.....
 	
 	<br><br>
 	
-	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a>, wird demnächst erweitert!<br>
+	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
 	<br>
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>

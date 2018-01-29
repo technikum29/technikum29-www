@@ -127,8 +127,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> Info über analoge Eingänge und PWM (PDF)</a><br>
-<a href="/physical-computing/Clock-Fan-Frequenz" target="_blank"> Rotationsgeschwindigkeit der USB-Clock (ino)</a><br>
-<!-- <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
+<!--<a href="/physical-computing/Clock-Fan-Frequenz" target="_blank"> Rotationsgeschwindigkeit der USB-Clock (ino)</a><br>
+ <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
 <a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
 <a href="/physical-computing/henry_ampel_korrigiert" target="_blank">  Ampelsketch, Aufgabe 6 von Blatt 5 (ino)</a><br>  -->
 
@@ -140,14 +140,19 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>28.1.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>29.1.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
 	
-	Im nächsten Halbjahr werde ich wegen anderer zusätzlicher Tätigkeiten die AG vermutlich nicht fortführen können. <br>
-	Wir reden am Montag darüber.....
+	Zukunft der AG:<br>
+	Diese AG einfach zu schließen wurde erst einmal verworfen. Es besteht allgemein ein Interesse an einer Fortführung in einer reduzierten Gruppe wirklich interessierter und engagierter Schüler.
+	Die Schwerpunkte werden anders gesetzt: Mehr eigenverantwortliches Handeln durch gegenseitige Hilfe. Nur noch selten frontal-"Unterricht" und wenn, dann nur sehr kurze Phasen.<br>
+	Ich stelle euch das Material zur Verfügung und entwerfe das Gerippe für die Inhalte. Ich weise auf Libraries und Lösungsideen im Netz hin und versuche unter eurer Mitsprache Zielsetzungen zu finden. In spontanen Gruppen werden experimentelle Lösungen erarbeitet.<br>
+	Vorteil für euch: Mehr Dynamik, eigenverantwortliches, weitgehend selbstbestimmtes Lernen.<br>
+	Nachteil: Ihr müsst mehr selbst denken und handeln. Tipps wird es weiterhin geben aber komplette Lösungen zu den "Aufgaben" werdet ihr gemeinschaftlich erarbeiten. Das muss dann natürlich von jemanden zusammengestellt werden. Du bestimmst, wie viel und schnell du lernst. Bedenke aber: Inhaltlich müssen wir schon in etwa parallel laufen.<br>
+	Es ist ein Experiment: Kann gelingen, kann aber auch total in die Hose gehen. Du bist selbst verantwortlich!! Es kann spannend werden, ist aber nix für Faulies.
 	
 	<br><br>
 	

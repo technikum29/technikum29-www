@@ -143,8 +143,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	<font color="#FF0000"><b>Aktuell:<br><br>
 	Neu:</font></b><br>
-	Die geschrumpfte AG bietet auch neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit haben wir ganz neue Möglichkeiten und könnten die AG auch mit dem Ableger "3-D-Kunstobjekte" o.ä. erweitern.<br>
-	Die Einarbeitung in den 3D-Druck ist nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzungen dafür sind jedoch top-engagierte Schüler!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
+	Die geschrumpfte AG bietet auch neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit haben wir ganz neue Möglichkeiten und könnten die AG auch mit dem Ableger "3D-Kunstobjekte" o.ä. erweitern.<br>
+	Die Einarbeitung in den 3D-Druck ist zwar aufwändig aber nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzung dafür sind jedoch <b>top-engagierte Schüler</b>!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
 	<br>
 	
 	Zukunft der AG:<br>
@@ -157,7 +157,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	<br><br>
 	
-	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
+	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b> (wird laufend erweitert)</a><br>
 	<br>
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>

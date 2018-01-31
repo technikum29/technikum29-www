@@ -44,9 +44,7 @@ SIDEBAR_ENDE;
 	<img class="no-copyright" src="robotics.jpg">
 </header>
 
-
 <div class="cols clear-after">
-
 <div class="leftcol">
 
 <h3>Grundsätzliches (Didaktik)</h3> 
@@ -59,22 +57,21 @@ Im Vergleich zu den ausschließlich am Bildschirm dargestellten virtuellen Simul
 </div>
 
 Im Workshop "Physical-Computing & Robotics" wird ein Microcontroller mit der physikalischen Außenwelt durch Sensoren und Aktoren verbunden. Diese Controller steuern z.B. intelligent einen Roboter. Bei der Roboter-Programmierung hat man sofort ein greifbares Feedback an dem Jugendliche erkennen können, ob das implementierte Programm läuft oder nicht. Da kann schon mal ein Roboter sprichwörtlich "gegen die Wand fahren".
-	 
  Im Laufe des Kurses werden die Aufgaben immer freier lösbar, dadurch wird das eigenverantwortliche Lernen adressiert.<br>
  Erfahrungsgemäß macht den meisten das Lösen der recht offen gestalteten Gesamtaufgaben großen Spaß, da sie hier ihrer Kreativität freien Lauf lassen können.<br>
- Für besonders begabte Schülerinnen und Schüler ergibt sich immer die Möglichkeit zusätzlich schwierigere Programmteile einzubauen. Das erhöht das Selbstwertgefühl und schafft eine natürliche ungezwungene Binnendifferenzierung.
  
- <div class="box left">
-	<img src="pcr-2.jpg" width="210"  height="150"/> 
+ <div class="box center">
+	<img src="t29-3d-drucker.jpg" width="301"  height="286"/> 
+	3D-Drucker
 </div>
+ Für besonders begabte Schülerinnen und Schüler ergibt sich immer die Möglichkeit zusätzlich schwierigere Programmteile einzubauen. Das erhöht das Selbstwertgefühl und schafft eine natürliche ungezwungene Binnendifferenzierung.<br>
  
-Ein weiterer Vorteil ist, dass Schüler sowohl mit Hard- als auch Software konfrontiert werden, wobei die Grenzen dieser beiden Welten zunehmend verschwimmen.<br>
-Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, einen kreativen Freiraum sowie das Erlernen von Teamplaying (Zweierteams) bietet und zudem absolut "up-to-date" ist, eben ein HIGHLIGHT einer Schule.<br>
-"Digitale Alphabetisierung ist ein Projekt moderner Aufklärung." [GEO Magazin 12/14: Digital macht schlau!]<br></p>
-
-</div><!--/leftcol -->
+Ein weiterer Vorteil ist, dass Schüler sowohl mit Hard- als auch Software konfrontiert werden, wobei die Grenzen dieser beiden Welten zunehmend verschwimmen.<br></div><!--/leftcol -->
 
 <div class="rightcol">
+<br><br>
+Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, einen kreativen Freiraum sowie das Erlernen von Teamplaying (Zweierteams) bietet und zudem absolut "up-to-date" ist, eben ein HIGHLIGHT einer Schule.<br>
+"Digitale Alphabetisierung ist ein Projekt moderner Aufklärung." [GEO Magazin 12/14: Digital macht schlau!]<br></p>
 
 <h3>Für Schüler</h3> 
 <p>
@@ -89,14 +86,14 @@ Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode).
 </div> 
 
 Durch die Einbindung von sogenannten "Libraries" (Programm-Bibliotheken) können wir verblüffende Effekte erzielen, der Spaßfaktor steigt kontinuierlich an. Wer immer mit Erfolg daran teilnimmt, kann von sich behaupten, in der Entwicklung unserer digitalen Welt als Schüler ganz vorne zu stehen. Du leistest etwas Besonderes und setzt eventuell den Grundstein für ein tolles, anspruchsvolles Hobby oder gar für ein späteres Studium.<br>
-Falls noch genügend Zeit vorhanden ist, werden wir uns auch mit einem vorhandenen 3D-Drucker sowie dessen Programmierung beschäftigen. Dann lassen sich u.a. zusätzliche Teile für unsere Roboter-Fahrzeuge herstellen.</p>
+Wir werden uns auch mit einem vorhandenen <b>3D-Drucker</b> sowie dessen Programmierung beschäftigen. Dann lassen sich u.a. zusätzliche Teile für unsere Roboter-Fahrzeuge herstellen.</p>
 
 <div class="box center">
 	<img src="robo.jpg" width="320"  height="200"/> 
-<div class="small">Roboter-Fahrzeug (noch nicht fertig!)</div>
+<div class="small">Roboter-Fahrzeug (Version 1.0)</div>
 </div>
 	
-Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht. Ferner findest du Links auf andere Seiten, die gegebenenfalls zur Vertiefung oder zum Nacharbeiten geeignet sind.<br>
+Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht.<br>
 <br>
 
 </p>
@@ -146,8 +143,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	
 	<font color="#FF0000"><b>Aktuell:<br><br>
 	Neu:</font></b><br>
-	Die geschrumpfte AG bietet auch ganz neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit hat man ganz neue Möglichkeiten und könnte die AG auch mit dem Ableger "3-D-Kunstobjekte" o.ä. erweitern.<br>
-	Die Einarbeitung in den 3D-Druck ist gar nicht soooo schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzungen dafür: Top-Engagierte Schüler!! Nur mal hingehen und gucken reicht nicht für eine Teilnahme.<br>
+	Die geschrumpfte AG bietet auch neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit haben wir ganz neue Möglichkeiten und könnten die AG auch mit dem Ableger "3-D-Kunstobjekte" o.ä. erweitern.<br>
+	Die Einarbeitung in den 3D-Druck ist nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzungen dafür sind jedoch top-engagierte Schüler!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
 	<br>
 	
 	Zukunft der AG:<br>

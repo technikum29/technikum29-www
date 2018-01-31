@@ -140,11 +140,15 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>29.1.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>31.1.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
-	<font color="#FF0000"><b>Aktuell:</b></font><br><br>
+	<font color="#FF0000"><b>Aktuell:<br><br>
+	Neu:</font></b><br>
+	Die geschrumpfte AG bietet auch ganz neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit hat man ganz neue Möglichkeiten und könnte die AG auch mit dem Ableger "3-D-Kunstobjekte" o.ä. erweitern.<br>
+	Die Einarbeitung in den 3D-Druck ist gar nicht soooo schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzungen dafür: Top-Engagierte Schüler!! Nur mal hingehen und gucken reicht nicht für eine Teilnahme.<br>
+	<br>
 	
 	Zukunft der AG:<br>
 	Diese AG einfach zu schließen wurde erst einmal verworfen. Es besteht allgemein ein Interesse an einer Fortführung in einer reduzierten Gruppe wirklich interessierter und engagierter Schüler.

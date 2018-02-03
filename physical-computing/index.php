@@ -137,23 +137,24 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>31.1.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>3.2.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:<br><br>
 	Neu:</font></b><br>
 	Die geschrumpfte AG bietet auch neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit haben wir ganz neue Möglichkeiten und könnten die AG auch mit dem Ableger "3D-Kunstobjekte" o.ä. erweitern.<br>
-	Die Einarbeitung in den 3D-Druck ist zwar aufwändig aber nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Wenn es gut läuft, könnte man eventuell noch einen zweiten oder 3. Drucker anschaffen. Voraussetzung dafür sind jedoch <b>top-engagierte Schüler</b>!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
+	Die Einarbeitung in den 3D-Druck ist zwar aufwändig aber nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Voraussetzung sind jedoch <b>top-engagierte Schüler</b>!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
 	<br>
 	
-	Zukunft der AG:<br>
-	Diese AG einfach zu schließen wurde erst einmal verworfen. Es besteht allgemein ein Interesse an einer Fortführung in einer reduzierten Gruppe wirklich interessierter und engagierter Schüler.
-	Die Schwerpunkte werden anders gesetzt: Mehr eigenverantwortliches Handeln durch gegenseitige Hilfe. Nur noch selten frontal-"Unterricht" und wenn, dann nur sehr kurze Phasen.<br>
-	Ich stelle euch das Material zur Verfügung und entwerfe das Gerippe für die Inhalte. Ich weise auf Libraries und Lösungsideen im Netz hin und versuche unter eurer Mitsprache Zielsetzungen zu finden. In spontanen Gruppen werden experimentelle Lösungen erarbeitet.<br>
-	Vorteil für euch: Mehr Dynamik, eigenverantwortliches, weitgehend selbstbestimmtes Lernen.<br>
-	Nachteil: Ihr müsst mehr selbst denken und handeln. Tipps wird es weiterhin geben aber komplette Lösungen zu den "Aufgaben" werdet ihr gemeinschaftlich erarbeiten. Das muss dann natürlich von jemanden zusammengestellt werden. Du bestimmst, wie viel und schnell du lernst. Bedenke aber: Inhaltlich müssen wir schon in etwa parallel laufen.<br>
-	Es ist ein Experiment: Kann gelingen, kann aber auch total in die Hose gehen. Du bist selbst verantwortlich!! Es kann spannend werden, ist aber nix für Faulies.
+	<font color="#FF0000"><b>Zukunft der AG:</b></font><br>
+	Es besteht allgemein ein Interesse an einer Fortführung in einer reduzierten Gruppe wirklich interessierter und engagierter Schüler.<br>
+	Wir werden zweigleisig fahren: Fortführung der Arduino Software mit neuen Bauteilen und parallel das Experimentieren mit dem 3D-Drucker.<br>
+	Die Schwerpunkte werden etwas anders gesetzt: Mehr eigenverantwortliches Handeln durch gegenseitige Hilfe.<br>
+	Ich stelle euch das Material zur Verfügung und entwerfe das Gerippe für die Inhalte. Ich weise auf Libraries und Lösungsideen im Netz hin und versuche unter eurer Mitsprache Zielsetzungen zu finden.<br>
+	Vorteil für euch: Mehr Dynamik, eigenverantwortliches und phasenweise selbstbestimmtes Lernen.<br>
+	Nachteil: Ihr müsst mehr selbst denken und handeln. Tipps wird es weiterhin geben aber komplette Lösungen zu den "Aufgaben" werdet ihr gemeinschaftlich erarbeiten.<br>
+	Das ist ein Experiment: Es kann gelingen, kann aber auch total in die Hose gehen. Es ist alles nix für bequeme Faulies sondern etwas für aktive "Mitdenker".
 	
 	<br><br>
 	

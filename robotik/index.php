@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>2.1.2018
+	<br>2.2.2018
 </div>
 
 <div class="spacing"></div>
@@ -29,7 +29,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	<strong>Robotik in der Schule:</strong>
-	<p>Das technikum29 sponsert je einen Robotik-Workshop an folgenden Schulen: Eichendorffschule (EDS), Kelkheim sowie Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 6. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
+	<p>Das technikum29 sponsert einen Robotik-Workshop an der Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 6. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
 	<br><br>
 	Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a> </p>
 </div>

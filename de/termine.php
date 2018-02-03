@@ -58,6 +58,14 @@
 	<tr>
 	
 	
+		<td>So, <b>4. März</b><br>14:00 Uhr
+		<td>Computer-History<br>
+		<td>Interaktive Führung<br>	
+		<td>Einzelpersonen und Kleingruppen<br>
+		<font color="#FF0000">Es gibt noch freie Plätze!</font>
+		
+		
+	<tr>
 		<td>Mi, <b>21. März</b><br>14:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

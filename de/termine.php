@@ -55,14 +55,6 @@
 		<td>Einzelpersonen und Kleingruppen<br>
 		<font color="#FF0000">ausgebucht!</font>
 		
-	<tr>
-	
-	
-		<td>So, <b>4. März</b><br>14:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>	
-		<td>Einzelpersonen und Kleingruppen<br>
-		<font color="#FF0000">Es gibt noch freie Plätze!</font>
 		
 		
 	<tr>

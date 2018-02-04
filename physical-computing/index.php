@@ -125,6 +125,8 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph6.pdf" target="_blank"><b> Physical-Computing Blatt 6 (PDF)</b></a><br>
 <a href="/physical-computing/ph7.pdf" target="_blank"><b> Physical-Computing Blatt 7 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> Info über analoge Eingänge und PWM (PDF)</a><br>
+
+<br><b>Bitte den Text im passwortgeschützten Bereich lesen! </b>
 <!--<a href="/physical-computing/Clock-Fan-Frequenz" target="_blank"> Rotationsgeschwindigkeit der USB-Clock (ino)</a><br>
  <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
 <a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
@@ -138,28 +140,20 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>3.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>4.2.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:<br><br>
-	Neu:</font></b><br>
-	Die geschrumpfte AG bietet auch neue Chancen: Ich werde am Montag einen 3D-Drucker mitbringen, der erst einmal an der Schule bleiben kann. Damit haben wir ganz neue Möglichkeiten und könnten die AG auch mit dem Ableger "3D-Kunstobjekte" o.ä. erweitern.<br>
-	Die Einarbeitung in den 3D-Druck ist zwar aufwändig aber nicht übermäßig schwer und erweitert unsere Möglichkeiten stark. Voraussetzung sind jedoch <b>top-engagierte Schüler</b>!! Nur mal hingehen und gucken reicht bei weitem nicht.<br>
-	<br>
+	</font></b><br>
+	Sorry, so wie es aussieht werde ich den Kurs aus Zeitgründen nicht mehr anbieten können.  :-(  <br>
+	Wir können am Montag darüber reden, welche eventuellen Möglichkeiten es gibt.<br>
+	Den 3D-Drucker bringe ich dennoch mal als Anschauungsobjekt mit.
 	
-	<font color="#FF0000"><b>Zukunft der AG:</b></font><br>
-	Es besteht allgemein ein Interesse an einer Fortführung in einer reduzierten Gruppe wirklich interessierter und engagierter Schüler.<br>
-	Wir werden zweigleisig fahren: Fortführung der Arduino Software mit neuen Bauteilen und parallel das Experimentieren mit dem 3D-Drucker.<br>
-	Die Schwerpunkte werden etwas anders gesetzt: Mehr eigenverantwortliches Handeln durch gegenseitige Hilfe.<br>
-	Ich stelle euch das Material zur Verfügung und entwerfe das Gerippe für die Inhalte. Ich weise auf Libraries und Lösungsideen im Netz hin und versuche unter eurer Mitsprache Zielsetzungen zu finden.<br>
-	Vorteil für euch: Mehr Dynamik, eigenverantwortliches und phasenweise selbstbestimmtes Lernen.<br>
-	Nachteil: Ihr müsst mehr selbst denken und handeln. Tipps wird es weiterhin geben aber komplette Lösungen zu den "Aufgaben" werdet ihr gemeinschaftlich erarbeiten.<br>
-	Das ist ein Experiment: Es kann gelingen, kann aber auch total in die Hose gehen. Es ist alles nix für bequeme Faulies sondern etwas für aktive "Mitdenker".
 	
 	<br><br>
 	
-	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b> (wird laufend erweitert)</a><br>
+	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
 	<br>
 	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
 	<br>

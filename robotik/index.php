@@ -137,6 +137,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
 
+<!--
 <div  class="box bordered nomargin-bottom clear-after" id="3D">
   <div class="desc-left borderless auto-bildbreite" style="padding-bottom: 0; margin-bottom: 0;">
 	<img src="arduino.jpg" width="220"  height="171"/> 
@@ -148,7 +149,7 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 	Neu im technikum29: Für Schüler ab Klasse 8 bieten wir quasi eine Fortsetzung des Robotik-Workshops auf deutlich höherem Niveau an, siehe <a href="/physical-computing" target="_blank"> Physical-Computing & Robotics </a>.
 
 </div>
-
+-->
 		<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für Kids ab 10</big></big> <br><br>
 	Das technikum29 bietet für 8 bis 12 Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>

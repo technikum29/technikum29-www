@@ -55,7 +55,11 @@
 		<td>Einzelpersonen und Kleingruppen<br>
 		<font color="#FF0000">ausgebucht!</font>
 		
-		
+	<tr>
+		<td>Fr, <b>16. März</b><br>14:00 Uhr
+		<td>Computer-History und mehr...<br>
+		<td>Geburtstags-Event<br>			
+		<td>Florian wird 12!<br>
 		
 	<tr>
 		<td>Mi, <b>21. März</b><br>14:00 Uhr
@@ -87,6 +91,7 @@
 		
 	</div>
 	
+	<!--
 	<div class="box termin clear-after">
 		<h4>Physical-Computing & Robotics für Jugendliche ab ca. 14 Jahre</h4>
 		
@@ -94,6 +99,7 @@
 		Die digitale Welt von heute und morgen verstehen.....</p>
 		
 	</div>
+	-->
 	
 	<div class="box termin clear-after">
 		<h4>Geburtstags-Event für Kids ab ca. 10 Jahren.</h4>

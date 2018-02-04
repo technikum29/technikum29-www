@@ -145,7 +145,7 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 	<?php $zaun_aes->start(); ?><br><hr>
 	
 	<font color="#FF0000"><b>Aktuell:<br><br>
-	</font></b><br>
+	</font></b>
 	Sorry, so wie es aussieht werde ich den Kurs aus Zeitgründen nicht mehr anbieten können.  :-(  <br>
 	Wir können am Montag darüber reden, welche eventuellen Möglichkeiten es gibt.<br>
 	Den 3D-Drucker bringe ich dennoch mal als Anschauungsobjekt mit.

@@ -93,7 +93,6 @@ Wir werden uns auch mit einem vorhandenen <b>3D-Drucker</b> sowie dessen Program
 <div class="small">Roboter-Fahrzeug (Version 1.0)</div>
 </div>
 	
-Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche aus dem Unterricht nachlesen zu können, werden diese hier mit einem Link veröffentlicht.<br>
 <br>
 
 </p>
@@ -108,7 +107,7 @@ Um dir die Möglichkeiten zu geben, auch Zuhause Aufgaben, Analysen und Sketche 
 	<img class="no-copyright" src="vorlage-2.jpg"> 
 </header>
 
-Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen, die laufend erweitert werden. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
+Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
 
 <div class="cols clear-after">
 <div class="leftcol">
@@ -126,7 +125,6 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 <a href="/physical-computing/ph7.pdf" target="_blank"><b> Physical-Computing Blatt 7 (PDF)</b></a><br>
 <a href="/physical-computing/A-D_und_PWM.pdf" target="_blank"> Info über analoge Eingänge und PWM (PDF)</a><br>
 
-<br><b>Bitte den Text im passwortgeschützten Bereich lesen! </b>
 <!--<a href="/physical-computing/Clock-Fan-Frequenz" target="_blank"> Rotationsgeschwindigkeit der USB-Clock (ino)</a><br>
  <a href="/physical-computing/Ziffernanzeige_mit_button-library" target="_blank"> Ziffernanzeige mit Button-Library (ino)</a><br>
 <a href="/physical-computing/Zufallstoene_Bl.5_Aufg.3" target="_blank"> Zufallstöne, Aufgabe 3 von Blatt 5 (ino)</a><br>
@@ -140,29 +138,24 @@ Hier sind aktuelle (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen 
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>4.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>7.2.2018</b>)</small><br>
 
-	<?php $zaun_aes->start(); ?><br><hr>
+	<?php $zaun_aes->start(); ?><br><hr><br>
 	
-	<font color="#FF0000"><b>Aktuell:<br><br>
-	</font></b>
-	Sorry, so wie es aussieht werde ich den Kurs aus Zeitgründen nicht mehr anbieten können.  :-(  <br>
-	Wir können am Montag darüber reden, welche eventuellen Möglichkeiten es gibt.<br>
-	Den 3D-Drucker bringe ich dennoch mal als Anschauungsobjekt mit.
-	
+	<b>Der nächste 3D-Treff findet voraussichtlich am 19.2. statt.</b> Aktuelle Infos stehen immer hier.
 	
 	<br><br>
 	
-	<a href="/physical-computing/theorie.pdf" target="_blank"> <b>Zusammenfassung der Theorie</b></a><br>
+	<a href="/physical-computing/theorie.pdf" target="_blank"> Zusammenfassung der Theorie</a><br>
 	<br>
-	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> <b>Shift-Register mit Latch (PDF)</b></a><br>
+	<a href="/physical-computing/74HC595_shiftregister_mit_latch.pdf" target="_blank"> Shift-Register mit Latch (PDF)</a><br>
 	<br>
 	
 	
  <a href="https://www.heise.de/download/product/arduino-ide-84057/download" target="_blank"> Arduino-Software-Download.</a><br>
 	
 	<br>Hier die Liste mit Arduino Bauteilen falls du selbst basteln möchtest:<br>
-	<a href="/physical-computing/zuhause.pdf" target="_blank"><b> Bezugsquellen (PDF)</b></a><br><br>
+	<a href="/physical-computing/zuhause.pdf" target="_blank"> Bezugsquellen (PDF)</a><br><br>
 	
 	
 	<?php $zaun_aes->end(); ?>

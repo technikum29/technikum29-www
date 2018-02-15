@@ -24,13 +24,12 @@ $sidebar_content = <<<SIDEBAR_ENDE
 	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
 </div>
 
+<!--
 <div class="text-block">
 	<strong>Physical-Computing in der Schule:</strong>
 	<p>Das technikum29 sponsert zur Zeit einen Physical-Computing-Workshop an der Albert-Einstein-Schule (AES) in Schwalbach. Hier werden für Schüler ab Klasse 8 zwei Stunden pro Woche angeboten.<br>
-	
-	
 </div>
-
+<--
 
 SIDEBAR_ENDE;
 	
@@ -107,7 +106,7 @@ Wir werden uns auch mit einem vorhandenen <b>3D-Drucker</b> sowie dessen Program
 	<img class="no-copyright" src="vorlage-2.jpg"> 
 </header>
 
-Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen. Jeder, der sich dafür interessiert, kann darauf zugreifen. Spezielle Infos, Analysen und Lösungen für Schüler des Clubs sind nur mit Passwort zugänglich.<br><br>
+Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwendeten Begriffe und insbesondere Aufgabenstellungen. Jeder, der sich dafür interessiert, kann darauf zugreifen. <br><br>
 
 <div class="cols clear-after">
 <div class="leftcol">
@@ -138,11 +137,14 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>7.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>15.2.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
-	
-	<b>Der nächste 3D-Treff findet voraussichtlich am 19.2. statt.</b> Aktuelle Infos stehen immer hier.
+	<font color="#FF0000">
+	<b>Da notwendiges Filament-Material bis Montag 19.2. nicht geliefert werden kann müssen wir den 3D-Beginn auf Montag, den 26.2. verschieben.<br>
+	Bitte weitersagen!</b></font>
+	<br><br>
+	Aktuelle Infos stehen immer hier.
 	
 	<br><br>
 	

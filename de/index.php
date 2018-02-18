@@ -101,7 +101,7 @@
 			
                 <li> Gruppenanmeldungen (Führungen):<br><br>
 				Minimum 8 Personen<br>
-				Ideal 12-16 Personen<br>
+				Ideal 12-15 Personen<br>
 				Maximum ca. 20 Personen<br><br>
 				<a href="/de/termine.php"><b>Termine</b></a> an beliebigen Tagen und Zeiten nach Absprache.
 				<br>Einzelpersonen und Kleingruppen können ihr Interesse per E-Mail kundtun. Wenn genügend zusammen kommen wird ein Termin angeboten und ausgeschrieben (meistens Sonntags um 14 Uhr). <br>

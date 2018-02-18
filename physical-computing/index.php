@@ -141,8 +141,8 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
 	<font color="#FF0000">
-	<b>Da notwendiges Filament-Material bis Montag 19.2. nicht geliefert werden kann müssen wir den 3D-Beginn auf Montag, den 26.2. verschieben.<br>
-	Bitte weitersagen!</b></font>
+	<b>Da notwendiges Filament-Material bis Montag 19.2. nicht geliefert werden kann müssen wir den 3D-Beginn auf Montag, den 26.2. verschieben. Am 19.2. findet die AG also nicht statt.<br>
+	</b></font>
 	<br><br>
 	Aktuelle Infos stehen immer hier.
 	

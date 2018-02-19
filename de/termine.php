@@ -48,14 +48,6 @@
 		<th>Teilnehmer     
 	<tr>
 
-	
-	<td>So, <b>18. Februar</b><br>14:00 Uhr
-		<td>Computer-History<br>
-		<td>Interaktive Führung<br>	
-		<td>Einzelpersonen und Kleingruppen<br>
-		<font color="#FF0000">ausgebucht!</font>
-		
-	<tr>
 		<td>Fr, <b>16. März</b><br>15:00 Uhr
 		<td>Computer-History und mehr...<br>
 		<td>Geburtstags-Event<br>			

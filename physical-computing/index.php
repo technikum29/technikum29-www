@@ -137,15 +137,15 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>15.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>24.2.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
-	<font color="#FF0000">
-	<b>Da notwendiges Filament-Material bis Montag 19.2. nicht geliefert werden kann müssen wir den 3D-Beginn auf Montag, den 26.2. verschieben. Am 19.2. findet die AG also nicht statt.<br>
-	</b></font>
-	<br><br>
-	Aktuelle Infos stehen immer hier.
 	
+	<b>Wir werden am Montag (26.2.) mal was praktisches machen: Einbau und anschließen der Motoren für unser Roboter-Fahrzeug. Bringt bitte einen Fein-Lötkolben mit, falls vorhanden. Kleine Schraubendreher, Mini-Sechskantschlüssel und Feinwerkzeug wären für den Zusammenbau auch hilfreich. <br>
+	Dann beschäftigen wir uns mit den verschiedenen Motor-Typen: Gleichstrommotor, Stepper, Servo-Motoren usw.<br>
+	<br>
+	
+	</b>Links hierzu stelle ich noch ein. Wer Bastel-Material hat, sollte es mitbringen.
 	<br><br>
 	
 	<a href="/physical-computing/theorie.pdf" target="_blank"> Zusammenfassung der Theorie</a><br>

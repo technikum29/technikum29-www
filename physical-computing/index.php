@@ -141,11 +141,15 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
 	
-	<b>Wir werden am Montag (26.2.) mal was praktisches machen: Einbau und anschließen der Motoren für unser Roboter-Fahrzeug. Bringt bitte einen Fein-Lötkolben mit, falls vorhanden. Kleine Schraubendreher, Mini-Sechskantschlüssel und Feinwerkzeug wären für den Zusammenbau auch hilfreich. <br>
-	Dann beschäftigen wir uns mit den verschiedenen Motor-Typen: Gleichstrommotor, Stepper, Servo-Motoren usw.<br>
-	<br>
+	Liebe Schüler!<br>
+	Wie ihr vielleicht wisst befasse ich mich im Rahmen des "technikum29" auch mit historischen Computern und deren Software.<br>
+	Hier ist nun ein Wunsch aus der Uni in Hamburg an mich gerichtet worden das weltweit einzig verbliebene Magnetband einer historischen Computeranlage (RPG 4000) wieder auszulesen um Programmcodes zu identifizieren. Das ist natürlich eine spannende Aufgabe die ich zusammen mit anderen Experten übernehmen möchte. Dazu müssen Magnetbandlaufwerke umgebaut werden usw.<br>
+	Das kostet natürlich Zeit, die ich irgendwo her zaubern muss. Um es kurz zu machen: Leider muss ich daher den "Physical-Computing-Kurs" aufgeben.   :-( <br>
+	Falls mir irgend etwas einfällt um diesen Kurs zu retten, werde ich es hier mitteilen. Vielleicht finden wir ja einen Schüler aus der Oberstufe, der die AG übernehmen könnte. Wenn das gelingt, werde ich es auch hier mitteilen und alle betroffenen Schüler benachrichtigen. Macht euch aber bitte nicht zu viel Hoffnung.<br>
+	Ansonsten bin ich am Montag (26.2.) um 14 Uhr sowieso in Raum 17 um das Experimentiermaterial zu sortieren. Wer sich Experimentiermaterial für Physical-Computing ausleihen möchte um Zuhause damit zu arbeiten, kann gerne vorbei schauen. Das macht aber nur Sinn, wenn du dich <b>ernsthaft</b> damit befassen möchtest. Ich empfehle jedoch hierfür noch ein Jahr zu warten. Dann fällt dir das alles etwas leichter :-). Eigenständiges Arbeiten in Klasse 8 ist eigentlich noch zu früh. So ein Kurs gehört in die Jahrgangsstufen 9-11.
 	
-	</b>Links hierzu stelle ich noch ein. Wer Bastel-Material hat, sollte es mitbringen.
+	<!--
+	
 	<br><br>
 	
 	<a href="/physical-computing/theorie.pdf" target="_blank"> Zusammenfassung der Theorie</a><br>

@@ -50,18 +50,10 @@
 <li><a href="http://forum.atari-home.de/index.php?PHPSESSID=o1odlfnjtr4u1fju575fsjuai3&topic=13450.msg215211#msg215211">
 
 	<h3>März 2017</h3><br>
-   <big><b>"… technikum29 ist das spannenste Computer-Museum Europas"</b>, </big> <br><br>
+   <big><b>"… technikum29 ist das spannenste Computer-Museum Europas"</b> </big> <br><br>
       so sieht man es in einem Forum der Computer-History-Szene.<br>
    
    <div class="small">Kleine Korrektur: Der Besucher bediente einen PDP12 (nicht 11) und die max. Teilnehmerzahl bei Führungen beträgt ca. 16 Personen, nicht 10.</div>
-</a></li>
-
-<li><a href="/physical-computing">
-	<h3>Januar 2017</h3><br>
-    <img src="/shared/photos/start/arduino-1.jpg" width="153" height="144" /><br>
-	Eine neue Seite wurde angefügt:
-	<b>Physical-Computing & Robotics</b> für Jugendliche ab 14 Jahre
-	
 </a></li>
 
 

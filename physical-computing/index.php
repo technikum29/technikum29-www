@@ -74,9 +74,9 @@ Es ist unübersehbar, dass dieser Themenbereich ein hohes Maß an Abwechslung, e
 
 <h3>Für Schüler</h3> 
 <p>
-In diesem Workshop, den man auch mit <b>Arduino-Labor</b> oder <b>Wie tickt unsere digitale Welt?</b> bezeichnen könnte, lernst du das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Geeignet ist der Kurs für Schüler/innen ab der 8. Klasse.
+In diesem Workshop, den man auch mit <b>Arduino-Labor</b> oder <b>Wie tickt unsere digitale Welt?</b> bezeichnen könnte, lernst du u.a. das Programmieren von Arduino-Microcontrollern. Wir arbeiten zunächst mit dem "UNO" und später mit dem größeren "MEGA". Im Gegensatz zur grafischen Programmierung im Robotik-Workshop (Klasse 6) erfolgt hier die Programmierung in C/C++ bzw. einer stark daran angelehnten Sprache. Geeignet ist der Kurs für Schüler/innen ab der 8./9. Klasse.
 
-Vorkenntnisse in dieser Programmiersprache sind nicht erforderlich, jedoch solltest du gerne logisch denken, teamfähig und neugierig sein.
+Du solltest gerne logisch denken, teamfähig und neugierig sein.
 Wie in dieser Materie üblich beginnen wir mit der blinkenden LED (Leuchtdiode). Anhand solcher einfachen Sketche (Arduino-Programme) versteht man schnell die Methoden dieser Programmierung. Die Aufgabenstellungen werden durch die Einführung vieler neuer Sensoren immer interessanter, schließlich soll unser Roboter intelligent interagieren können, selbst das Sprechen werden wir ihm beibringen.<br>
 
 <div class="box left">
@@ -137,16 +137,17 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>24.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>26.2.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
+	<b>The Show must go on.....</b><br>
+	Euer Ehrgeiz mit "Physical-Computing" weiter zu machen überzeugt mich. Ich lasse mich gerne auf neue Unterrichtsmethoden ein: u.a. Lehrer lernt von Schülern! .....und bin gespannt.<br>
+	Ihr bestimmt die Inhalte und ich lediglich den Rahmen in welchem diese vermittelt werden. Einfach nur so mal ein bisschen schwätzen reicht mir jedoch nicht. Wir benötigen zumindest Ziele und müssen "kontrollieren" ob diese (ansatzweise) auch erreicht werden.
+	<br><br>
+	Also bitte diesbezüglich Wünsche mitteilen. Ich werde diese hier veröffentlichen (nur für euch sichtbar) und auf dieser Website evtl. ein Portal für direkte Schüler-Kommunikation einrichten.<br>
+	Vielleicht brechen ja doch noch ganz neue Zeiten an.......
 	
-	Liebe Schüler!<br>
-	Wie ihr vielleicht wisst befasse ich mich im Rahmen des "technikum29" auch mit historischen Computern und deren Software.<br>
-	Hier ist nun ein Wunsch aus der Uni in Hamburg an mich gerichtet worden das weltweit einzig verbliebene Magnetband einer historischen Computeranlage (RPG 4000) wieder auszulesen um Programmcodes zu identifizieren. Das ist natürlich eine spannende Aufgabe die ich zusammen mit anderen Experten übernehmen möchte. Dazu müssen Magnetbandlaufwerke umgebaut werden usw.<br>
-	Das kostet natürlich Zeit, die ich irgendwo her zaubern muss. Um es kurz zu machen: Leider muss ich daher den "Physical-Computing-Kurs" aufgeben.   :-( <br>
-	Falls mir irgend etwas einfällt um diesen Kurs zu retten, werde ich es hier mitteilen. Vielleicht finden wir ja einen Schüler aus der Oberstufe, der die AG übernehmen könnte. Wenn das gelingt, werde ich es auch hier mitteilen und alle betroffenen Schüler benachrichtigen. Macht euch aber bitte nicht zu viel Hoffnung.<br>
-	Ansonsten bin ich am Montag (26.2.) um 14 Uhr sowieso in Raum 17 um das Experimentiermaterial zu sortieren. Wer sich Experimentiermaterial für Physical-Computing ausleihen möchte um Zuhause damit zu arbeiten, kann gerne vorbei schauen. Das macht aber nur Sinn, wenn du dich <b>ernsthaft</b> damit befassen möchtest. Ich empfehle jedoch hierfür noch ein Jahr zu warten. Dann fällt dir das alles etwas leichter :-). Eigenständiges Arbeiten in Klasse 8 ist eigentlich noch zu früh. So ein Kurs gehört in die Jahrgangsstufen 9-11.
+	
 	
 	<!--
 	

@@ -10,7 +10,7 @@ $sidebar_content = <<<SIDEBAR_ENDE
 
 <div class="text-block">
 	Seite zuletzt aktualisiert:
-	<br>2.2.2018
+	<br>28.2.2018
 </div>
 
 <div class="spacing"></div>
@@ -56,12 +56,12 @@ SIDEBAR_ENDE;
 
 <div class="leftcol">
 
-<h3>Fun for Future:</h3>
+<h3>Fun for Future</h3>
 
 <p>Es sind nicht die Pop- oder Sportstars, welche unsere Zivilisation weiter bringen sondern Menschen die sich mit den intelligenten MINT-Fächern beschäftigen. Roboter zu bauen und programmieren macht Spaß, da man hier richtig kreativ "spielen" kann. Ganz nebenbei wirken diese Fähigkeiten in Zukunft als Jobmotoren.</p> 
 
 <div class="box center nomargin-bottom">
-<img src="aes2017-18.jpg" width="402"  height="191"/> 
+<img src="robotik-2018.jpg" width="405"  height="185"/> 
 <div class="small">Die aktuelle AES-Robotik-Gruppe</div>
 </div>
 
@@ -72,11 +72,6 @@ Es gibt per Programmierung unendlich viele Möglichkeiten, den Roboter "intellig
 
 Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alter von <b>11 bis 13 Jahren</b>. Es gibt Kurse für Anfänger und welche für Fortgeschrittene.</p>
 
-<div class="box center nomargin-bottom">
-<img  src="eds-2017-18.jpg" width="405"   height="201"/> 
-<div class="small">Die aktuelle EDS-Robotik-Gruppe</div>
-</div>
-
 
 
 <h3>Inhalt</h3>
@@ -86,6 +81,9 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 <li>Linie fahren. Programmierte Navigation, Farben erkennen, Linien zählen mit Sprachwiedergabe. Zufallsgeneratoren einbinden, gewürfelte Töne.
 <li>Datenleitungen, Variable speichern und verwenden, Mathe-Block. Sensorwerte anpassen, Zählen, vergleichen, logische Entscheidungen Treffen, im Raum navigieren, Spiele entwickeln usw. 
 
+<p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
+Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="_blank">Aufgabenblatt 4 (PDF)</a> <br>
+Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wieder Wettbewerbe mit Schoklolade als Gewinn.</p>
 </ul>
 
 
@@ -93,9 +91,7 @@ Der Workshop richtet sich an <b>technikinteressierte Schüler(innen)</b> im Alte
 
 <div class="rightcol">
 
-<p>Das Grundprinzip lautet: Es soll auch Spaß machen! Das Niveau wird dem Alter der Schüler angepasst.<br>
-Hier beispielhaft einige Aufgaben, die man nach ca. 5-6 Unterrichtsstunden lösen kann: <a class="go" href="/robotik/blatt4.pdf" target="_blank">Aufgabenblatt 4 (PDF)</a> <br>
-Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wieder Wettbewerbe mit Schoklolade als Gewinn.</p>
+
 
 <h3>Voraussetzungen</h3>
 <p>Im Einführungskurs sind keine Programmierkenntnisse erforderlich. Du erfährst und lernst alles hier. Du benötigst allerdings Geduld, auch mal Durchhaltevermögen, musst <b>teamfähig sein</b> und solltest <b>Spaß am logischen Denken haben</b>! Im Kurs für Fortgeschrittene sind die grundlegenden Kenntnisse der EV3-Programmierung erforderlich. Er baut auf unsere Einführungskurse auf.</p>

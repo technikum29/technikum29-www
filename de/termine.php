@@ -66,7 +66,16 @@
 		<td>Interaktive Führung<br>			
 		<td>Absint GmbH<br>Saarbrücken<br>
 		
+	<tr>
+	
+	<td>Sa, <b>26. Mai</b><br>10:20 Uhr
+		<td>Computer-History<br>
+		<td>Workshop<br>			
+		<td>St. Lioba Schule, Bad Nauheim<br>
 		
+	<tr>
+	
+	
 		</table>
 		</div> <br>
 	

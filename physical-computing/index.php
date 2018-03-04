@@ -137,15 +137,13 @@ Hier sind (Unterrichts-)Materialien abrufbar, wie kurze Erläuterungen der verwe
 
 	Infos speziell für Schüler der AES: 
 	
-	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>26.2.2018</b>)</small><br>
+	&nbsp;   <?php $zaun_aes->printMiniForm(); ?> &nbsp; <small>(Zuletzt aktualisiert am <b>4.3.2018</b>)</small><br>
 
 	<?php $zaun_aes->start(); ?><br><hr><br>
-	<b>The Show must go on.....</b><br>
-	Euer Ehrgeiz mit "Physical-Computing" weiter zu machen überzeugt mich. Ich lasse mich gerne auf neue Unterrichtsmethoden ein: u.a. Lehrer lernt von Schülern! .....und bin gespannt.<br>
-	Ihr bestimmt die Inhalte und ich lediglich den Rahmen in welchem diese vermittelt werden. Einfach nur so mal ein bisschen schwätzen reicht mir jedoch nicht. Wir benötigen zumindest Ziele und müssen "kontrollieren" ob diese (ansatzweise) auch erreicht werden.
-	<br><br>
-	Also bitte diesbezüglich Wünsche mitteilen. Ich werde diese hier veröffentlichen (nur für euch sichtbar) und auf dieser Website evtl. ein Portal für direkte Schüler-Kommunikation einrichten.<br>
-	Vielleicht brechen ja doch noch ganz neue Zeiten an.......
+	<b>The Show must go on.....???</b><br>
+	Wir können am Montag (5.3.) darüber sprechen, wie es weitergehen könnte.<br>
+	Realistisch betrachtet sehe ich jedoch kaum Chancen. Mit einem "Selbststudium" seit ihr einfach überfordert.<br>
+	Ich bin dennoch am Montag um 14 Uhr in Raum 17 da ich ein paar Dinge in Physik aufräumen möchte.
 	
 	
 	

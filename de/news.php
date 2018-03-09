@@ -44,7 +44,7 @@
 <li><a href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">
 	<h3>April 2017</h3><br>
     <img src="/shared/photos/rechnertechnik/p203-2.jpg" width="153" height="115" /><br>
-	Zweite Programma P203 im Museum. Die Seite wurde erweitert.
+	Zweite Programma P203 im Museum. 
 </a></li>
 
 

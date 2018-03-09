@@ -82,7 +82,7 @@
 	<!--	**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
 		Maximale Teilnehmerzahl: 16  -->
 		
-	
+	<!--
 	<h3>Weitere Angebote</h3>
 	
 	<div class="box termin clear-after">
@@ -92,7 +92,7 @@
 		
 	</div>
 	
-	<!--
+	
 	<div class="box termin clear-after">
 		<h4>Physical-Computing & Robotics für Jugendliche ab ca. 14 Jahre</h4>
 		
@@ -100,7 +100,7 @@
 		Die digitale Welt von heute und morgen verstehen.....</p>
 		
 	</div>
-	-->
+	
 	
 	<div class="box termin clear-after">
 		<h4>Geburtstags-Event für Kids ab ca. 10 Jahren.</h4>
@@ -111,4 +111,5 @@
 		<p><b>Weitere Informationen</b> <a class="go" href="/robotik/#geburtstag">Die intelligente Geburtstagsalternative!</a>
 		<br><b>Termine</b> nach Absprache</p>
 	</div>
+	-->
 	

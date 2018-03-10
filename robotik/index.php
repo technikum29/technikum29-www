@@ -51,6 +51,12 @@ SIDEBAR_ENDE;
 	<img class="no-copyright" src="header-bild.jpg">
 </header>
 
+<div style="border: 1px solid red; background-color: #fff7f7; padding: 1em">
+  <h3 style="margin:0; color:#b42727">Robotik-Kurse eingestellt</h3>
+  <p>Die Robotik-Kurse sind derzeit bis auf weiteres eingestellt. Die Inhalte dieser Seite
+  bezeugen daher eine vergangene Situation und sind als historisch anzusehen.
+</div>
+
 
 <div class="cols">
 
@@ -106,7 +112,13 @@ Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 und an der VHS 
 
 <h3>Termine</h3><br>
 
+<div style="border: 1px solid red; background-color: #fff7f7; padding: 1em">
+  <h3 style="margin:0; color:#b42727">Robotik-Kurse eingestellt</h3>
+  <p>Die Robotik-Kurse für 2018 wurden abgesagt.
+</div>
+<p></p>
 
+<del>
 <font color="#FF0000"><b>Osterferien 2018:</b></font><br>
 Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/index.php?id=37&kathaupt=11&knr=I7505111&kursname=Robotik-Workshop+fr+Kids+11-13+J&wbt3_redirect=warenkorb" target="_blank">VHS Hofheim</a><br><br>
 
@@ -116,6 +128,7 @@ Einführungskurs von Mo. 25.6. bis Fr. 29.6.2018 jeweils von 10:00 bis 12:00 Uhr
 <h3>Anmeldung und Vormerkung</h3>  
 
 per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
+</del>
 
 
 </div><!-- /rightcol -->

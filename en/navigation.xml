@@ -33,13 +33,14 @@
 			</li>
 		</ul>
 	</li>
+	<!--
 	<li class="has-submenu open-to-left"><a href="/en/education.php">Didactics and Workshops</a>
 		<ul class="u2">
 			<li><a href="/en/education.php" seiten_id="lehrerinfo" class="show-rel-next">Museum education</a></li>
-			<li><a href="/en/robotics.php" class="kursseite show-rel-next show-rel-prev" seiten_id="robotik">LEGO Robotic workshop</a></li>
+			<li><a href="/en/robotics.php" class="kursseite show-rel-next show-rel-prev" seiten_id="robotik">LEGO Robotic workshop</a></li> -->
 			<!--<li><a href="/en/physical-computing.php" seiten_id="physical-computing" class="show-rel-prev kursseite">Physical computing workshop</a></li>-->
-		</ul>
-	</li>
+		<!-- </ul>
+	</li>-->
 	<li><a seiten_id="wir-suchen" href="/en/wanted.php">Wanted</a></li>
 	<li><a seiten_id="impressum" href="/en/contact.php">Contact</a></li>
 	<!-- Don't show sitemap here -->
@@ -233,7 +234,7 @@
 					<li><a seiten_id="pianola-funktionserklaerung" href="/en/devices/functional-explanation-pianola.php">Functional explanation of the pianola</a></li>
 				</ul>
 			</li>
-			<li><a href="/en/robotics.php">Robotic workshop</a></li>
+			<!-- <li><a href="/en/robotics.php">Robotic workshop</a></li> -->
 			<!--<li><a href="/en/physical-computing.php">Physical computing workshop</a></li>-->
 			
 		</ul>

@@ -23,13 +23,14 @@
 	<div class="nur-auf-deutscher-seite">
 	<h2>Termine, Führungen und Events</h2>
 	
-	<p>Für allgemeine Informationen über Führungen und Gruppenanmeldungen
+	<!--
+	allgemeine Informationen über Führungen und Gruppenanmeldungen
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
 	
 
 	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung notwendig! Kontaktieren Sie uns
 	bitte rechtzeitig per E-Mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
-	
+	-->
 	
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 		<!--	<font color="#FF0000">>>ausgebucht!</font> -->

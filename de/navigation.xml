@@ -45,6 +45,7 @@
 			</li>
 		</ul>
 	</li>
+	<!--
 	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" class="show-rel-next" href="/de/lehrerinfo.php">Didaktik+Workshop</a>
 		<ul class="u2">
 			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
@@ -53,6 +54,7 @@
 			<!--<li><a href="/physical-computing/" seiten_id="physical-computing" class="show-rel-prev kursseite">Physical Computing &amp; Robotics</a></li>-->
 		</ul>
 	</li>
+	-->
 	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
 	<li><a seiten_id="impressum" href="/de/impressum.php">Kontakt</a></li>
 	<!-- Sitemap derzeit nicht anzeigen -->

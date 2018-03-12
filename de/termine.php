@@ -63,7 +63,8 @@
 		<td>Mi, <b>21. März</b><br>14:00 Uhr
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
-		<td>Kursfabrik<br>Wiesbaden<br>
+		<td>Kursfabrik Wiesbaden<br>
+		<span style="color:#E90015">Termin leider gestrichen</span>
 		
 	<tr>
 	

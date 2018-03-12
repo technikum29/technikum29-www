@@ -23,6 +23,10 @@
 	<div class="nur-auf-deutscher-seite">
 	<h2>Termine, Führungen und Events</h2>
 	
+	<!-- ggf. folgender Hinweis: -->
+	<!--<span style="color:#E90015">Hinweis in eigener Sache: Bitte sehen Sie von Anfragen ab, da wir aus privaten Gründen keine Termine anbieten können.</span>-->
+
+	
 	<!--
 	allgemeine Informationen über Führungen und Gruppenanmeldungen
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
@@ -53,6 +57,7 @@
 		<td>Computer-History und mehr...<br>
 		<td>Geburtstags-Event<br>			
 		<td>Florian wird 12!<br>
+		<span style="color:#E90015">Termin leider gestrichen</span>
 		
 	<tr>
 		<td>Mi, <b>21. März</b><br>14:00 Uhr

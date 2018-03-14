@@ -24,7 +24,7 @@
 	<h2>Termine, Führungen und Events</h2>
 	
 	<!-- ggf. folgender Hinweis: -->
-	<!--<span style="color:#E90015">Hinweis in eigener Sache: Bitte sehen Sie von Anfragen ab, da wir aus privaten Gründen keine Termine anbieten können.</span>-->
+	<span style="color:#E90015; font-size:120%">Hinweis in eigener Sache: Bitte sehen Sie von Anfragen ab, da wir aus privaten Gründen keine Termine mehr anbieten können.</span>
 
 	
 	<!--
@@ -39,11 +39,11 @@
 		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
 		<!--	<font color="#FF0000">>>ausgebucht!</font> -->
 	
-	Die folgende Tabelle listet Gruppenanmeldungen und Events auf.
+	<!--Die folgende Tabelle listet Gruppenanmeldungen und Events auf.-->
  </p>
 	<br>
 	</div><!-- Ende nur-auf-deutscher-seite -->
-
+<!--
 	<div class="termine">
 	<table class="termine">
 	<tr class="title">
@@ -85,6 +85,7 @@
 	
 		</table>
 		</div> <br>
+		-->
 	
 	<!--	**) Von der Rechenmaschine zum Rechenzentrum: Nichts hat sich je so rasant entwickelt wie die Computer- und EDV-Technik. Bei dieser interaktiven "Computer-History"-Führung erleben Sie als Besucher den Beginn dieser Ära anhand von tonnenschweren, noch funktionierenden Computer-Dinosauriern. Das ist einmalig in Deutschland und auch für Kids ab ca. 11 Jahre hochinteressant.<br> 
 		Maximale Teilnehmerzahl: 16  -->

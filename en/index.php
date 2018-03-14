@@ -68,7 +68,7 @@
                 <li>For details, see <a class="go" href="contact.php">contact data</a></li>
             </ul>
         </div>
-
+<!--
         <div class="wann">
             <h2>Opening hours</h2>
             <ul>
@@ -81,6 +81,7 @@
             </ul>
         </div>
 		<br>
+		-->
 		
 		 <div class="foto">
                 <img src="/shared/photos/start/museum.jpg" alt="Photo of the museum building" width="338" height="228" />

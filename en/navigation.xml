@@ -20,7 +20,7 @@
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li><a seiten_id="termine" href="/en/events.php">Events</a></li>
+	<!--<li><a seiten_id="termine" href="/en/events.php">Events</a></li>-->
 	<li class="has-submenu"><a href="/en/development-projects.php">Projects</a>
 		<ul class="u2">
 			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en/study-projects.php">Study projects</a></li>

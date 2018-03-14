@@ -40,10 +40,12 @@
 
     <div class="cols clear-after startseiten-boxen">
        <div class="leftcol">
+	   <!--
 	     <a href="/de/termine.php" class="smooth-scroll div left mobile clear-after termine oben">
 		   <img src="/shared/img-v6/date.png" class="kalender">
 		   <span class="h2">Termine <br> Führungen <br> Events</span>
 		 </a>
+		 -->
 	   
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
@@ -53,7 +55,7 @@
               <li>Computer und Kommunikation beherrschen unsere Gegenwart und Zukunft in einem extremen Maß. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
-
+<!--
         <div class="wen"><br>
             <h2>Für wen&nbsp;?</h2>
             <ul>
@@ -71,13 +73,13 @@
                 <li>Westlich von Frankfurt/Main (ca. 15&nbsp;Minuten), <a class="go" href="impressum.php">siehe Impressum</a>.</li>
             </ul>
         </div>
-            
+    -->        
         
       </div><!--leftcol-->
 
       <div class="rightcol">
 	 
-	  
+	  <!--
 	  <div class="erwartung">
             <h2>Was wird geboten ?</h2>
             <ul>
@@ -87,13 +89,14 @@
             </ul>
 	  </div>
 	  <br>
+	  -->
 	  
 	   <div class="foto">
                 <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
                 <p>Das Museumsgebäude</p>
         </div>
 	  
-        
+        <!--
         
         <div class="wann">
             <h2>Wann&nbsp;?</h2>
@@ -111,7 +114,7 @@
             </ul>
         </div>
 		
-		
+		-->
 		
 		<div class="flyer left mobile">
 			<a href="/shared/flyer/november2016.pdf" target="_blank"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
@@ -124,11 +127,13 @@
 <div class="clear">&nbsp;</div>  
 
 <!-- Beginn Link zu Terminspezialseite -->
+<!--
 <a href="/de/termine.php" class="termine div left oben" style="width: auto;">
    <img src="/shared/img-v6/date.png" class="kalender">
    <span class="h2">Termine, Führungen und Events</span>
    <span style="display: block; clear: left"></span>
  </a>
+ -->
 <!-- Ende Link zu Terminspezialseite -->
 
 

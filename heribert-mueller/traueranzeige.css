@@ -1,0 +1,105 @@
+/* Desktop */
+
+body {
+	background-color: white;
+	margin: 0;
+	padding: 2%;
+	
+	/*font-family: Arial,sans-serif;*/
+	font-family: Garamond,Georgia,"Times New Roman",Times,Palatino,serif;
+	line-height: 140%;
+	
+	/* Centering content horizontally */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/* General links */
+a:link, a:visited {
+	color: #555;
+}
+
+a:hover, a:focus, a:active {
+	color: green;
+	background-color: yellow;
+	outline: .2em solid yellow;
+}
+
+main.schwarz {
+	border: 1em solid black;
+	/*outline: .5em solid black;*/
+	
+	/*margin: 0 auto;*/
+	margin: .5em;
+	padding: 3em;
+	
+	max-width: 60em;
+	
+	display: flex;
+	flex-flow: row wrap;
+}
+
+main > section {
+	flex-direction: row;
+}
+
+section.picture { flex-grow: 1; margin-bottom: 3em; }
+section.teaser { flex-grow: 2; }
+
+section.picture {
+	padding: 2%;
+	text-align: center;
+}
+
+section.picture img {
+	max-width: 100%;
+}
+
+section.teaser {
+	/* sollte css tabelle verwenden stattedessen */
+	/*padding-left: 460px;*/
+	
+	/*
+	padding-bottom: 2em;
+	border-bottom: .5em solid black;
+	margin-bottom: 1em;
+	*/
+}
+
+/* teaser: clear-after */
+
+blockquote {
+	display: none; /* small screens */
+	
+	font-style: oblique;
+	width: 70%;
+	margin-left: 10%;
+	
+	margin-bottom: 3em;
+}
+
+blockquote span { color: #555; }
+/*
+img.baum {
+	float: left;
+}
+*/
+
+heading {
+	text-align: center;
+}
+
+heading h1 {
+	font-size: 180%;
+	margin: 0;
+}
+
+
+@media (min-width: 900px) {
+	main.schwarz { flex-flow: nowrap; border-width: 1.8em; }
+	blockquote { display: block; }
+	
+	heading { text-align: left; }
+	
+} /* media query: min-width: 500em; */

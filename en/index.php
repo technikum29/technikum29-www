@@ -17,6 +17,13 @@
 
     <div class="cols startseiten-boxen">
        <div class="leftcol">
+       
+        <div style="border: .75em double black; margin-bottom: 2em">
+	   <h2>✝ Heribert Müller</h2>
+	   <p>In April 2018, the founder of the computer museum,
+	      <a href="/heribert-mueller/">Heribert Müller</a>, has died.
+	 </div>
+       
          <div class="besonderes">
            <h2>Operational computer history</h2>
            <ul>

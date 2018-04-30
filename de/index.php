@@ -46,6 +46,15 @@
 		   <span class="h2">Termine <br> Führungen <br> Events</span>
 		 </a>
 		 -->
+
+
+		 
+	 <div style="border: .75em double black; margin-bottom: 2em">
+	   <h2>✝ Heribert Müller</h2>
+	   <p>Der Gründer des Computermuseums,
+	      <a href="/heribert-mueller">Heribert Müller</a>, ist im April 2018
+	      gestorben.
+	 </div>
 	   
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>

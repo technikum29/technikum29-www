@@ -8,6 +8,11 @@
 
    <h2>Was (wen) das Museum noch sucht</h2>
 
+	<span style="color:#E90015; font-size:120%">Hinweis in eigener Sache:
+		Aufgrund des <a href="/heribert-mueller/">Verlustes von Heribert Müller</a>
+		sind derzeit alle Museumstätigkeiten eingestellt. Wir sind daher im Moment
+		an keinerlei Gerätespenden oder -Käufen interessiert.</span>
+
 	<h3>Menschen</h3>
    
   Immer gesucht aber schwerlich zu finden sind Leute mit starkem technischem Interesse, die hier mitmachen möchten. Arbeiten Sie sich in eines unserer Computer-Systeme ein, es macht wirklich Spaß und ist ein ungewöhnliches und anspruchsvolles Hobby. Dabei könnten Sie Schwerpunkte im Software- oder Hardware-Bereich setzen. Sie sollten jedoch im näheren Umkreis des Museums wohnen. 

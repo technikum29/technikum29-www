@@ -21,6 +21,8 @@
 		<div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29 Logo (black on white)" /></div>
     </div>
 
+    <!-- Broken since June 2018 since Google changed its policies and wants to have money. TODO: Switch to another maps provider -->
+    <!--
 	<h3>Location</h3>
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
         <div style="padding: 1em; color: gray">Please stand by while maps is loading ...</div>
@@ -28,6 +30,7 @@
 			<p>Sorry, your browser doesn't understand javascript. See the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Am+Flachsland+29,+65779+Kelkheim,+Deutschland&sll=50.275299,8.745117&sspn=7.598462,15.930176&ie=UTF8&hq=&hnear=Am+Flachsland+29,+65779+Kelkheim+(Taunus),+Main-Taunus-Kreis,+Hessen,+Deutschland&ll=50.373496,6.855469&spn=15.17797,31.860352&z=5" class="go">Our location at Google Maps</a>
 		</noscript>
     </div>
+    -->
 
     <h3 id="image-copyright">Image use policy and information about reusing technikum29 website contents</h3>
     <p>Since we received a great number of image usage requests, the following information

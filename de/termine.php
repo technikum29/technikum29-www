@@ -24,9 +24,11 @@
 	<h2>Termine, Führungen und Events</h2>
 	
 	<!-- ggf. folgender Hinweis: -->
-	<span style="color:#E90015; font-size:120%">Hinweis in eigener Sache: Bitte sehen Sie von Anfragen ab, da wir aus privaten Gründen keine Termine mehr anbieten können.</span>
+	<span style="color:#E90015; font-size:120%">Hinweis in eigener Sache:
+		Bitte sehen Sie von Anfragen ab, da wir durch den
+		<a href="/heribert-mueller/">Verlust von Heribert Müller</a>
+		derzeit keine Termine anbieten können.</span>
 
-	
 	<!--
 	allgemeine Informationen über Führungen und Gruppenanmeldungen
 	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>

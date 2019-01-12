@@ -11,30 +11,33 @@
 ?>
     <h2>Impressum</h2>
 
-    <p><span style="color:#E90015;">
-	Bitte sehen Sie von Anrufen oder Angeboten per E-Mail ab, da wir durch den
-	<a href="/heribert-mueller/">Verlust von Heribert Müller</a>
-	derzeit alle Museumstätigkeiten eingestellt sind.</span></p>
+    <p>Seit dem plötzlichen <a href="/heribert-mueller/">Verlust von Heribert Müller</a>
+       im April 2018 unterliegt das Museum der kommissarisch Leitung der Erbengemeinschaft sowie
+       dem Museum nahestehenden Freunden und Helfern. Diese sind erreichbar unter:
+    </p>
 
     <!-- Maschinenlesbare Visitenkarte: -->
     <div class="vcard" id="address">
-       <div class="org hidden">technikum29 Computermuseum</div>
-       <div class="fn">Dipl. Phys. H. Müller</div>
+       <div class="org">technikum29 Computermuseum</div>
+       <div class="fn">Erbengemeinschaft Dipl. Phys. H. Müller</div>
        <div class="adr">
            <div class="street-address">Am Flachsland 29</div>
-           <span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
+           <span class="postal-code">65779</span> <span class="locality">Kelkheim (Taunus)</span>
            <span class="country-name hidden">Deutschland</span>
        </div>
-       <div>Telefon: <span class="tel">06195/2170</span></div>
-       <div>E-Mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></div>
+       <div>Telefon: <a href="tel:00496195805777" class="tel">06195/805777</a></div>
+       <div>E-Mail: <a class="email" href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a></div>
        <div>Internet: <a class="url" href="http://www.technikum29.de">www.technikum29.de</a></div>
        <div class="hidden">Foto: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Foto des Museums" /></div>
        <div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29-Logo" /></div>
     </div>
 
-     <p>Wir sind Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a> (Frankfurt).</p>
+     <p>Heribert Müller war Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im Frankfurter <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a>.</p>
 
-	<h3>Lage / Anfahrt</h3>
+     <h3>Lage / Anfahrt</h3>
+     <p>Das Museum befindet sich mitten im Rhein-Main-Gebiet. Über die A66 und B8 ist es 20 Autominuten, mit der
+     Königsteiner Bahn 40 Zugminuten vom Frankfurter Hauptbahnhof zum Bahnhof Kelkheim-Hornau.
+     </p>
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
         <div style="padding: 1em; color: gray"><span class="js">Karte wird geladen ...</span></div>
 		<noscript>

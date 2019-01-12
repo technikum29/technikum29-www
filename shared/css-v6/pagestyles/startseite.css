@@ -11,13 +11,24 @@
 \**********************************************************************/
 
 
+/* only in english, old design */
 #content div.startseiten-boxen,
 #content div.startseiten-boxen div,
 #content div.startseiten-boxen a.div {
-    padding: 1em;
+    padding:  1em;
     margin: 0;
-    /*border: 1px solid blue;*/
 }
+
+body.lang-de div.startseiten-boxen,
+body.lang-de div.startseiten-boxen div,
+body.lang-de div.startseiten-boxen a.div {
+    padding: 0 !important;
+}
+
+/* german, new design */
+body.lang-de #content .cols {  margin-top: 2em; }
+body.lang-de #content .cols .leftcol,
+body.lang-de #content .cols .rightcol { padding: 0; }
 
 #content div h2, /* id zur Bedeutungssteigerung */
 #content a.div span.h2 {

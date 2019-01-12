@@ -37,25 +37,54 @@
 </div>
 </header>
 
+   <p>Das technikum29 ist ein privates Technikmuseum im <a href="/de/impressum.php">Rhein-Main-Gebiet</a>
+      mit Schwerpunkt auf der Computergeschichte zwischen den 1920er und 1980er Jahren.
+      Diese Zeitspanne umfasst den Übergang zwischen
+      <a href="/de/rechnertechnik/elektro-mechanik.php">mechanischen Rechenmaschinen</a>
+      über <a href="/de/rechnertechnik/lochkarten-edv.php">Lochkarten-EDV</a> bis hin zu
+      <a href="/de/rechnertechnik/ic-technik.php">Rechnern mit integrierten Schaltkreisen
+      (ICs)</a>. Darüberhinaus umfasst die Sammlung einige andere Themen, etwa die Entwicklung von
+      <a href="/de/kommunikationstechnik/rundfunk.php">Radios</a>
+      und <a href="/de/kommunikationstechnik/fernsehen.php">Fernsehern</a> dieser Zeit.
+      Die <a href="/de/sitemap.php">virtuelle Führung durch das Museum</a> deckt alle Themen
+      ab, die auf 250 Quadratmetern Ausstellung behandelt werden.
+
 
     <div class="cols clear-after startseiten-boxen">
-       <div class="leftcol">
-	   <!--
-	     <a href="/de/termine.php" class="smooth-scroll div left mobile clear-after termine oben">
-		   <img src="/shared/img-v6/date.png" class="kalender">
-		   <span class="h2">Termine <br> Führungen <br> Events</span>
-		 </a>
-		 -->
+    <div class="leftcol">
+      <h2>Deutschlandweit einmalig</h2>
+      <p>Alle Exponate im technikum29 sind funktionsfähig. Es gibt keine Schaukästen
+         und -Tafeln, stattdessen werden ausgewählte Geräte im Rahmen einer Führung
+         von Fachkundigen vorgeführt.
+      <p>Dies ist mindestens deutschlandweit einmalig,
+         ähnliche Konzepte finden sich weltweit nur im
+         <a href="http://www.computinghistory.org.uk/">UK Copmuter Museum</a>,
+         dem <a href="https://livingcomputers.org/">Seattle Living Computer Museum</a>
+         und natürlich dem <a href="https://www.computerhistory.org/">Kalifornischen
+         Computer History Museum</a>. In allen drei Museen bildet die Restauration von
+         Computern aber die Ausnahme, nicht die Regel.
+         
+      <p>Die Ausstellung ist (tatsächlich aus Platzgründen) auf außergewöhnliche
+         Raritäten ihrer Zeit beschränkt, dies macht sie auch unter Liebhabern und
+         Sammlern sehr beliebt.
 
 
-		 
-	 <div style="border: .75em double black; margin-bottom: 2em">
-	   <h2>✝ Heribert Müller</h2>
-	   <p>Der Gründer des Computermuseums,
-	      <a href="/heribert-mueller">Heribert Müller</a>, ist im April 2018
-	      gestorben.
-	 </div>
-	   
+      <h2>✝ Heribert Müller</h2>
+      <p>Der Gründer des Computermuseums, <a href="/heribert-mueller">Heribert Müller</a>,
+         ist im April 2018 gestorben. Er gründete 2005 in einer ehemaligen Sparkassenfiliale
+         das technikum-Computermuseum, die <em>29</em> ist dabei der Hausnummer entnommen.
+         Der Begriff <em>technikum</em> hingegen bezeichnete einst eine Ingeneursschule.
+         Heribert Müller war Studienrat für Mathematik und Physik, eine umfassende
+         elektrotechnische Ausbildung aufbauend auf der Geschichte der Kommunikations-
+         und Rechnertechnik war für ihn ein Ideal. Als Kind des Nachkriegsdeutschlands
+         hatte Heribert Müller ein Faible für die Röhrentechnik, die seine Zeit bereits seit
+         dem frühen zwanzigsten Jahrhundert prägte. Allerdings endet sein Interesse für
+         Computertechnik mit zunehmender Minitarisierung und Intransparenz, welche mit
+         dem Aufkommen der Personalcomputer Anfang der 1980er Jahre Überhand nahm.
+         
+         
+      
+      <!--
          <div class="besonderes">
            <h2>Was ist das Besondere&nbsp;?</h2>
            <ul>
@@ -64,6 +93,7 @@
               <li>Computer und Kommunikation beherrschen unsere Gegenwart und Zukunft in einem extremen Maß. Wie ist es dazu gekommen? Wie hat sich die Entwicklung vollzogen? Darüber gibt die lebendige Präsentation anhand von ausgesucht interessanten Exponaten Auskunft.</li>
            </ul>
           </div>
+       -->
 <!--
         <div class="wen"><br>
             <h2>Für wen&nbsp;?</h2>
@@ -75,35 +105,24 @@
 				<li>Auch für Studenten, Firmengruppen und die besondere Geburtstagsüberraschung ist dieser Event bestens geeignet.</li>
             </ul>
         </div>
-		
-		        <div class="wo"><br>
-            <h2>Wo&nbsp;?</h2>
-            <ul>
-                <li>Westlich von Frankfurt/Main (ca. 15&nbsp;Minuten), <a class="go" href="impressum.php">siehe Impressum</a>.</li>
-            </ul>
-        </div>
     -->        
         
       </div><!--leftcol-->
 
       <div class="rightcol">
-	 
-	  <!--
-	  <div class="erwartung">
-            <h2>Was wird geboten ?</h2>
-            <ul>
-                <li>Alle Führungen werden so gestaltet, dass sie auch für "Laien" unterhaltend und informativ sind. Eine Führung dauert in der Regel ca. 90 spannende Minuten und umfasst vorwiegend funktionsfähige, großformatige Technik.<br>
-				Der Besuch des technikum29 ohne Führung macht keinen Sinn, deshalb sind Einzelbesuche nur in Ausnahmefällen möglich.
-			</li>
-            </ul>
-	  </div>
-	  <br>
-	  -->
-	  
-	   <div class="foto">
-                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" />
+        <div class="foto">
+                <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" style="width:100%" />
                 <p>Das Museumsgebäude</p>
         </div>
+      
+        <h2>Führungen und Öffnungszeiten</h2>
+        <p>Das technikum29 ist ein privat geführtes Museum. Aufgrund des Todes des Betreibers im April 2018
+           wurde der Museumsbetrieb bislang eingestellt. Zu seinen Lebzeiten wurden regelmäßig 90-minütige
+           Führungen angeboten, reguläre Öffnungszeiten gab es nicht. Der Eintritt war in der Regel frei.
+        <p>Seit 2019 möchten die Freunde und Förderer des Museums das Gebäude wieder öffnen, um über gemeinsam
+           über <a href="/zukunft">eine Zukunft</a> nachzudenken. Bitte <a href="/de/impressum.php">kontaktieren Sie uns</a>, wenn
+           Sie an einer Führung Interesse haben.
+
 	  
         <!--
         
@@ -128,7 +147,7 @@
 		<div class="flyer left mobile">
 			<a href="/shared/flyer/november2016.pdf" target="_blank"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
 			<h2>Flyer-Download</h2>
-			<p>Betrachten Sie unseren <a href="/shared/flyer/november2016.pdf" target="_blank">aktuellen Flyer</a> als PDF</p>
+			<p>Betrachten Sie den <a href="/shared/flyer/november2016.pdf" target="_blank">Flyer von 2016</a> als PDF</p>
 		</div>
 		
 </div><!--cools-->

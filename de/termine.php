@@ -23,12 +23,10 @@
 	<div class="nur-auf-deutscher-seite">
 	<h2>Termine, Führungen und Events</h2>
 	
-	<!-- ggf. folgender Hinweis: -->
-	<span style="color:#E90015; font-size:120%">
-		Bitte sehen Sie von Anfragen zu Besuchen oder Führungen ab, da der Museumsbetrieb durch den
-		<a href="/heribert-mueller/">Verlust von Heribert Müller</a>
-		derzeit (Ende 2018) eingestellt ist.</span>
-		
+	Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> ist der reguläre Museumsbetrieb
+	seit April 2018 eingestellt. Tatsächlich möchten die Freunde und Förderer des Museums seit 2019 aber
+	wieder die Tore des Museums öffnen. Dabei wird es sich in erster Linie um Führungen handeln. Bei
+	Interesse <a href="/de/impressum.php">schreiben Sie uns bitte eine E-Mail</a>.	
 		
 
 	<!--
@@ -44,15 +42,12 @@
 		<!--	>>ausgebucht! -->
 	
 	<!--Die folgende Tabelle listet Gruppenanmeldungen und Events auf.-->
- </p>
-	<br>
 	</div><!-- Ende nur-auf-deutscher-seite -->
 	
 	
 	<h3>Archiv alter Führungen</h3>
-	Es folgt eine unvollständige Liste aller Termine, die jemals auf der Homepage des Museums
+	<p>Es folgt eine unvollständige Liste aller Termine, die jemals auf der Homepage des Museums
 	angekündigt wurden.
-	
 	
 	<!--
 	  Effizient Termin-Geschichte durchgehen:

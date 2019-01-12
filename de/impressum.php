@@ -2,9 +2,9 @@
 	$seiten_id = 'impressum';
 	$version = '$Id$';
 	$titel = 'Impressum';
-	$header_scripte = array(
-		'http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAraTKZ5cINardZ8ITNVssKhRcOoEBtCgYLJRQznXYEV8m1M3fRRRT9wMSvFwhyo62fD3KyiwQxe5ruw',
-		'/shared/js/gmaps-impressum.js'
+	$header_prepend = array( # Open Source https://leafletjs.com library for OpenStreetMaps
+		'<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />',
+		'<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>'
 	);
 	
 	require "../lib/technikum29.php";
@@ -34,16 +34,13 @@
 
      <p>Wir sind Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a> (Frankfurt).</p>
 
-     <!-- Lage Anfahrt: Google Maps deaktiviert, weil das Einbetten der Karte mittlerweile Geld kostet; https://cloud.google.com/maps-platform/user-guide/account-changes?utm_source=maps_js&utm_medium=degraded&utm_campaign=keyless -->
-     <!--
 	<h3>Lage / Anfahrt</h3>
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
-        <div style="padding: 1em; color: gray">Karte wird geladen ...</div>
+        <div style="padding: 1em; color: gray"><span class="js">Karte wird geladen ...</span></div>
 		<noscript>
 			<p>Zur <a href="http://maps.google.de/maps?f=q&hl=de&q=Flachsland+29,+Kelkheim&layer=&sll=50.092393,10.195313&sspn=38.370164,57.392578&ie=UTF8&z=16&om=1&iwloc=addr" class="go">Wegbeschreibung bei Google Maps</a>
 		</noscript>
         </div>
-      -->
 
 	<h3 id="image-copyright">Hinweise für die Nutzung von Bildern aus der Website des  technikum29</h3>
 

@@ -23,10 +23,10 @@
 </div>
 
 <p>Here we go &mdash; <a href="/heribert-mueller/">Heribert Müller</a>, our father,
-is dead leaves behind the <a href="/">technikum29 computer museum</a>. We, that's
+is dead and leaves behind the <a href="/">technikum29 computer museum</a>. We, that's
 his three children, grown-ups with their own occupations, lifes, partly their
 own families. The museum was largely a “one-man-show”, with Heribert Müller as
-the single head with the passion for reparing a broad range of devices, from the
+the single head. He had a passion for reparing a broad range of devices, from the
 old <a href="en/communication/broadcasting.php">tube radio</a>
 to the <a href="/en/computer/univac9400.php">data center</a>. Despite having a
 broad network of friends, there is only a handful of real supporters, an “inner
@@ -57,15 +57,15 @@ current situation of the museum and to work out a decision on its future.
 <p>One of the blessings of the museum is Heribert Müllers lifelong urge for
 independence. One of the consequences is the fact that the whole collection is
 located in private property and there is no need to rush. In fact, already almost
-one year passed since his sudden decease and still little happened. We are in
-the comfortable situation of not having a need to clear the floors and to
+one year passed since his sudden decease and still (unfortunately) little happened.
+We are in the comfortable situation of not having a need to clear the floors and to
 close the collection as fast as possible. There is no rent which has to be paid,
 instead current expenses can be covered by rental incomes of the mixed use of
 the museum building.
 
-<p>What I did in a couple of days in the Summrt 2018 was a first approximation
+<p>What I did in a couple of days in the Summer 2018 was a first approximation
 of the collection by walking off all storage rooms as well as the exhibition
-and doing a first, very coarse inventory. Having printed 900 fine inventory cards
+and doing a first &mdash; very coarse &mdash; inventory. Having printed 900 fine inventory cards
 (their <a href="https://github.com/technikum29/t29-inventory-cards">code is
 open sourced on github</a>), I used up almost all of them! In this first inventory,
 which resulted in a decent table/database which is supposed to be released in
@@ -89,10 +89,10 @@ attention and technical knowledge to archive a good price on the highly
 specialized and small marketplaces.
 We would have to pay experts to do so, which of course reduces
 the overall gain. For some large blocks, such as our
-<a href="/de/rechnertechnik/gamma10.php">Bull</a> or
-<a href="/de/rechnertechnik/univac9200.php">Univac</a>, there will be hardly
-any interests and we would have to pay the dispose of tons of electronic
-waste. In total, we estimated the weight of these cabinets as around 20-30
+<a href="/de/rechnertechnik/gamma10.php">Bull's</a> or
+<a href="/de/rechnertechnik/univac9200.php">Univac's</a>, there will be hardly
+any interests and we would have to pay a disposal company to come with a truck.
+In total, we estimated the weight of these cabinets as around 20-30
 metric tonnes. The disposal of so much metal would cost hundreds of Euros.
 
 <h3>Future: A Living Computer History Museum for Germany?</h3>

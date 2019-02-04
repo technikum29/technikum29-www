@@ -36,11 +36,15 @@ class t29Menu {
 		// libxml: don't raise errors while parsing.
 		// will fetch them with libxml_get_errors later.
 		//libxml_use_internal_errors(true);
-
-		// load xml file
-		$this->xml = simplexml_load_file($this->conf['webroot'].$this->conf['lang_path'] . '/' . self::navigation_file);
-		if($this->xml_is_defective()) {
-			trigger_error("Kann Navigationsdatei nicht verwenden, da das XML nicht sauber ist. Bitte reparieren!");
+		
+		if(!function_exists("simplexml_load_file")) {
+			trigger_error("t29Menu: Require SimpleXML PHP extension to load menu.");
+		} else {
+			// load xml file
+			$this->xml = simplexml_load_file($this->conf['webroot'].$this->conf['lang_path'] . '/' . self::navigation_file);
+			if($this->xml_is_defective()) {
+				trigger_error("Kann Navigationsdatei nicht verwenden, da das XML nicht sauber ist. Bitte reparieren!");
+			}
 		}
 	}
 

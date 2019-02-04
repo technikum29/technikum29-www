@@ -10,16 +10,20 @@
 	require "../lib/technikum29.php";
 ?>
     <h2>Contact</h2>
+    <p>Since the sudden <a href="/heribert-mueller/">pass away of Heribert Müller</a> in April
+    2018, the provisional lead of the museum is up to the community of heirs as well as
+    friends and volunteers of the museum. We are reachable via:
 
     <div class="vcard" id="address">
 		<div class="org hidden">technikum29 Computer Museum</div>
-		<div class="fn">Dipl. Phys. H. M&uuml;ller</div>
+		<div class="fn">Dipl. Phys. H. M&uuml;ller, Community of Heirs</div>
 		<div class="adr">
 			<div class="street-address hidden">Am Flachsland 29</div>
 			<span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
 			<span class="country-name">Germany</span>
 		</div>
-		<div>e-mail: <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a></div>
+		<div>e-mail: <a class="email" href="mailto:contact@technikum29.de">contact@technikum29.de</a></div>
+		<div>phone (mail box): <a href="tel:00496195805777">0049-6195-805777</a></div>
 		<div>internet: <a class="url" href="http://www.technikum29.de/">www.technikum29.de</a></div>
 		<div class="hidden">Photo: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Photography of the museum building" /></div>
 		<div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29 Logo (black on white)" /></div>

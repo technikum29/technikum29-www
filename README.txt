@@ -14,3 +14,10 @@ Seit Version 6 (2012) ist die Website PHP-basiert. Es wird erwartet, dass die
 Website im DocumentRoot eines Webservers entpackt ist.
 
 Das Verzeichnis /shared/cache muss fuer den Webserver writable sein.
+
+Benoetigte PHP-Packete
+----------------------
+
+* SimpleXML (php-xml)
+
+

@@ -22,7 +22,7 @@ require "../lib/technikum29.php";
 	<header class="teaser seitenstart blog">
 		<span id="blog-heading">
 			<a class="title" href="/blog/">Tubes</a>
-			<span class="subtext">A technikum29 computer museum blog</span>
+			<span class="subtext">A <a href="/">computer museum</a> blog</span>
 		</span>
 		<img class="no-copyright" src="/shared/photos/blog/blog-teaser-background-tubes.jpg" width="940" height="243">
 	</header>

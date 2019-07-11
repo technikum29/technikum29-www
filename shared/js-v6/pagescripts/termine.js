@@ -6,12 +6,13 @@
 
 $(function() {
 	// Archiv-Button
-	$("a.archiv-btn").toggle(function(){
-		$('#termine .archiv').slideDown();
+	$("div.termine").hide();
+	$("a.archiv-toggle").toggle(function(){
+		$('div.termine').slideDown();
 		//$(this).slideUp();
 		$(this).text("Vergangene Termine ausblenden");
 	}, function() {
-		$('#termine .archiv').slideUp();
+		$('div.termine').slideUp();
 		$(this).text("Vergangene Termine einblenden");
 	});
 	

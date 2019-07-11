@@ -23,10 +23,11 @@
 	<div class="nur-auf-deutscher-seite">
 	<h2>Termine, Führungen und Events</h2>
 	
-	Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> ist der reguläre Museumsbetrieb
-	seit April 2018 eingestellt. Tatsächlich möchten die Freunde und Förderer des Museums seit 2019 aber
-	wieder die Tore des Museums öffnen. Dabei wird es sich in erster Linie um Führungen handeln. Bei
-	Interesse <a href="/de/impressum.php">schreiben Sie uns bitte eine E-Mail</a>.	
+	Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
+	<strong>ist der öffentliche Museumsbetrieb derzeit eingestellt</strong>.
+	Die Freunde und Förderer des Museums möchten aber wieder die Tore des Museums öffnen.
+	Dabei wird es sich in erster Linie um Führungen handeln. Sobald dies möglich sein
+	wird, werden wir an dieser Stelle berichten.
 		
 
 	<!--
@@ -46,9 +47,11 @@
 	
 	
 	<h3>Archiv alter Führungen</h3>
-	<p>Es folgt eine unvollständige Liste aller Termine, die jemals auf der Homepage des Museums
-	angekündigt wurden.
-	
+	<p>Zu chronologischen Zwecken existiert 
+	hier eine (unvollständige) Liste aller Termine, die zumindest auf der Homepage
+	des Museums zwischen 2013 und 2018 angekündigt wurden.
+	<a class="archiv-toggle js-only go" href="#termine">Archiv anzeigen</a>
+
 	<!--
 	  Effizient Termin-Geschichte durchgehen:
 	    * Git-Version des Homepage-Repositories mit gitk oeffnen
@@ -57,6 +60,8 @@
 	-->
 
 	<div class="termine">
+
+	<h2>2018</h2>
 	<table class="termine">
 	<tr class="title">
 		<th style="width:9em">Datum
@@ -95,9 +100,16 @@
 		<td>Computer-History-Workshop<br>
 		<td>Geburtstags-Event<br>	
 		<td>Simon wird 12 Jahre alt<br>
-		
-	<tr>	<th colspan="4">2017
-		
+	</table>
+	
+	<h2>2017</h1>
+	
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
 	<tr>	<td>So, 10.12.2017
 		<td>Die Urahnen des Smartphones 
 		<td>Geburtstags-Event
@@ -292,10 +304,15 @@
 	<tr>	<td>Donnerstag<br><b>5.Januar</b><br>
 		<td>Computer-History <td>Filmaufnahmen
 		<td>DOCUBYTE   
+	</table>
 	
-	
-	<tr>	<th colspan="4">2016
-	
+	<h2>2016</h2>	
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
 	<tr>	<td>Dienstag<br><b>27.Dezember</b><br>16:30 Uhr
 		<td>Computer-History <td>Geburtstags-Event
 		<td>für H.   
@@ -449,7 +466,6 @@ Täglich von 10:00 bis 12:00 Uhr können hier technikinteressierte Schüler/inne
 		<td>Für Kid`s + Eltern (ausgebucht!)
 		
 	</table>
-	</div> <br>
 	
 	<h2>2015</h2>
 	

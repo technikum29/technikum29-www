@@ -36,32 +36,20 @@
 			<p>See <a href="http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Am+Flachsland+29,+65779+Kelkheim,+Deutschland&sll=50.275299,8.745117&sspn=7.598462,15.930176&ie=UTF8&hq=&hnear=Am+Flachsland+29,+65779+Kelkheim+(Taunus),+Main-Taunus-Kreis,+Hessen,+Deutschland&ll=50.373496,6.855469&spn=15.17797,31.860352&z=5" class="go">our location at Google Maps</a>
 		</noscript>
         </div>
+        
 
     <h3 id="image-copyright">Image use policy and information about reusing technikum29 website contents</h3>
-    <p>Since we received a great number of image usage requests, the following information
-       may give you an overview how you can resue the contents, especially the pictures,
-       of the museum website.</p>
-    <p>Basically, everything on this website is protected by international copyright
-       law. On the other hand, there are useful limitations and exceptions to copyright
-       law. To create clarification, please distinguish:</p>
-
-    <ol>
-       <li>If you want to use one or multiple pictures in the private domain, e.g. for
-           presentations, you can take any pictures without request.</li>
-
-       <li>If you want to publish our pictures within your document, but without any
-           view to profit (e.g. on private websites, company-internal publications,
-           anything in the educational and scientifical domain like lectures, papers,
-           books, presentations, etc.), we can grant you free authorization on request
-           if it is clearly evident that your work is for non-profit.</li>
-
-       <li>If you want to publish our pictures within your document and you want
-           to make profit with that document (e.g. commercial magazines, books, web
-           sites, stock image usage, etc.) you must make a request. We usually grant
-           permissions for royalty. Prices vary heavily depending on the intended
-           usage, picture size, print run, etc.</li>
-    </ol>
-
-    <p>We can send you partially high resolution pictures. If the situations #2 or #3
-       apply in your case, please get in touch with us.</p>
+	<!-- Stattdessen endlich ein richtiger Text: -->
+	<p>
+	<a href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" style="float:right; margin: 0 0 1em 1em;"></a>
+	All selfmade photographies on our website are relased under the 
+	<a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons (CC BY-NC 4.0)</a>
+	license. This means you can use these pictures for any noncommercial purpose. You
+	also may share and modify them as you like. The only condition is that you mention the source of these
+	pictures, i.e. our name: <em>technikum29 computer museum</em>. We also would like to see a link to our
+	website <a href="http://technikum29.de">technikum29.de</a>.
+	
+	<p>In case you want to publish pictures in a commercial project, for instance within a magazine
+	or book which is supposed to monetary compensate it's author, we offer an alternative licensing
+	model. If this applies, please contact us.
 

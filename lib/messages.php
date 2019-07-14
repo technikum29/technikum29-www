@@ -9,9 +9,11 @@
 // See also /shared/js/modules/msg.js and js.php.
 if(realpath($_SERVER['SCRIPT_FILENAME']) == __FILE__) {
 	header('Content-Type: application/json');
-	if(isset($_GET['pre'])) echo $_GET['pre'];
+	// NB: ?pre and ?post were XSS entry doors. Commented
+	//     these lines. Observe if it breaks something.
+	// if(isset($_GET['pre'])) echo $_GET['pre'];
 	echo t29Messages::create_json();
-	if(isset($_GET['post'])) echo ";\n".$_GET['post'];
+	// if(isset($_GET['post'])) echo ";\n".$_GET['post'];
 }
 
 class t29Messages {

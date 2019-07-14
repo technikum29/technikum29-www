@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<team>
+<!--
+  technikum29: Teammitglieder (deutsch)
+  Diese XML-Datei wird von PHP/SimpeXML eingelesen und verarbeitet.
+  ACHTUNG! Diese Datei muss wohlgeformtes XML sein: Alle Tags, die
+  aufgehen müssen auch wieder zugehen.
+-->
+
+	<member identifier="sven" full_name="Sven Köppel" is_active_blog_author="Yes">
+		<img class="thumbnail" src="/shared/photos/blog/blog-author-sven.jpg" />
+		<img class="photo" src="/shared/photos/blog/blog-author-sven.jpg" />
+		<abstract>
+			<!-- todo: deutsch -->
+			<a href="http://svenk.org">Sven Köppel</a> is theoretical physicist with
+			a focus on elementary particle and gravitational physics and a strong background
+			in computational science. He is contributing to the <a href="/">technikum29
+			computer museum</a> since more then 15 years.
+		</abstract>
+		<biography>
+			Bla bla bla bla
+		</biography>
+	</member>
+	
+
+	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
+		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />
+		<abstract>
+			<!-- todo: deutsch -->
+			<em>Probably you?</em>
+			If you want to write something, you are very welcome to send
+			us texts <a href="/en/contact.php">by mail</a> or to contribute directly
+			<a href="https://github.com/technikum29/technikum29-www">via Github</a>
+			(it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
+		</abstract>
+	</member>
+ </team>

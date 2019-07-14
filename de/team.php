@@ -3,57 +3,35 @@
 	$version = '$Id$';
 	$titel = 'Team';
 	
-	$team_mitglieder_structured = <<<YAML
-	
-- full_name: Sven Köppel
-  identifier: sven
-  is_active_blog_author: Yes
-  biography:
-    de: |
-       Blablabla
-       und blablabla
-    en: |
-       Bio Text comes here.
-
-- full_name: Roland Langfeld
-  identifier: roland
-  is_active_blog_author: No
-  biography:
-    de: |
-        Beschreibung auf Deutsch
-    en: |
-         asdasd
-	
-YAML;
-
+	$dynamischer_inhalt = true; // for dev
 	require "../lib/technikum29.php";
 	
-	// Idea: this is expensive, call only once
-	function get_team_mitglieder() {
-		global $team_mitglieder_structured;
-		global $lib; // defined by lib/technikum29.php
-		require_once $lib.'/spyc.php';
-		$team = Spyc::YAMLLoad($team_mitglieder_structured);
-
-		// enrich
-		global $webroot; // defined by lib/technikum29.php
-		foreach($team as $i => $author) {
-			$candidates = glob("$webroot/shared/photos/blog/blog-author-${author['identifier']}.*");
-			$team[$i]["photo"] = ($candidates && isset($candidates[0])) ?
-				substr($candidates[0], strlen($webroot)) : Null;
-		}
-		
-		return $team;
-	}
-	
-	$team_mitglieder = get_team_mitglieder();
+	$team = simplexml_load_file("team.xml");
+	if(!$team) trigger_error("team.xml: XML-Datei ist nicht wohlgeformt.");
+	// it follows poor man's XSLT
 ?>
   <h2>Team</h2>
 
-  Bla Bla BLa
+  <p>Das technikum29-Team, blubb blubb</p>
   
-  <pre><?php
+  <!-- For a short overview: -->
+  <!--
+  <ul class="thumbs">
+    <?php
+      foreach($team as $member) {
+         echo "<li><a href='#$member[identifier]'>";
+         echo $member->xpath("./img[@class='thumbnail']")[0]->asXML();
+         echo "<span>$member[full_name]</span></a>";
+      }
+    ?>
+  </ul>
+  -->
   
-  print_r($team_mitglieder);
-  
-  ?></pre>
+  <!-- For a longer list -->
+  <?php
+     foreach($team->xpath("member[not(@is_dummy)]") as $member) {
+         echo "<h3>$member[full_name]</h3>";
+         echo $member->xpath("./img[@class='photo']")[0]->asXML();
+         echo '<p>' . $member->biography->asXML() . '</p>';
+     }
+  ?>

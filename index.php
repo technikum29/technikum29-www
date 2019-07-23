@@ -18,11 +18,13 @@ if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
  // this is not implemented in the HTML below, since actually
  // there is no browser who see's that HTML.
  
+ $suffix = isset($_GET["suffix"]) ? $_GET["suffix"] : "";
+ 
  if( ($en !== false && $de !== false && $de < $en) ||
      ($en === false && $de !== false)              )
-        header("Location: {$host->web_prefix}/de/");
+        header("Location: {$host->web_prefix}/de/$suffix");
  else
-        header("Location: {$host->web_prefix}/en/");
+        header("Location: {$host->web_prefix}/en/$suffix");
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">

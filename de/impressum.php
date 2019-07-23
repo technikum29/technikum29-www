@@ -13,7 +13,8 @@
 
     <p>Seit dem plötzlichen <a href="/heribert-mueller/">Verlust von Heribert Müller</a>
        im April 2018 unterliegt das Museum der kommissarisch Leitung der Erbengemeinschaft sowie
-       dem Museum nahestehenden Freunden und Helfern. Diese sind erreichbar unter:
+       dem Museum nahestehenden Freunden und Helfern. Das
+       <a href="team.php">Museums-Team</a> ist erreichbar unter:
     </p>
 
     <!-- Maschinenlesbare Visitenkarte: -->
@@ -75,6 +76,11 @@
 	Fall setzen Sie sich bitte mit uns in Verbindung.
 
 
+    <h3>Über die Website</h3>
+    Wir freuen uns jederzeit über Korrekturen zu unserer Website.
+    Die Website wird gemeinschaftlich betrieben. Jeder kann in unserem
+    <a href="https://github.com/technikum29/technikum29-www">öffentlichen Github-Repository</a> Änderungen
+    vorschlagen (es <a href="https://github.blog/2012-12-05-creating-files-on-github/">ist einfach</a>).
 
 
 

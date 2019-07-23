@@ -14,6 +14,18 @@
 	<img class="no-copyright" src="/robotik/header-bild.jpg">
 </header>
 
+<div style="border: 2px solid #a40000; background-color: #fff7f7; padding: 1em">
+  <h3 style="margin:0; color: #a40000">
+     <img src="/shared/img-v6/warning.svg" style="max-width: 3em;">
+     There are no more robotics courses at the technikum.
+  </h3>
+  <p>The courses presented on this page were given between the years 2016 and 2017 at
+  high schools in the regional district as well as on education centers for youths.
+  Since the sudden <a href="/heribert-mueller">death of eribert Müller</a>, they are
+  canceled. Most likely, they will never take place in the same way. This page
+  exists only in order to show what has happened at the technikum in former days.
+</div>
+
 
 <div class="cols clear-after">
 
@@ -27,7 +39,7 @@ Programmers could be the new pop stars. At technikum29, we join this movement by
 inspiring youths to build robots. It's fun and supports creativity.
 
 <div class="box center">
-<img src="/robotik/aes2017-18.jpg" width="402"  height="191"/> 
+<img src="/robotik/robotik-2018.jpg" width="402"  height="191"/> 
 <div class="small">Students' group</div>
 </div>
 
@@ -75,7 +87,7 @@ In our course, students learn:
 </ul>
 
 <div class="box center nomargin-bottom">
-<img  src="/robotik/sept.2017.jpg" width="405"   height="293"/> 
+<img  src="/robotik/aug.2017-3.jpg"/>
 
 </div>
 

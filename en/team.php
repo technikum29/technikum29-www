@@ -7,15 +7,15 @@
 	require "../lib/technikum29.php";
 	
 	$team = simplexml_load_file("team.xml");
-	if(!$team) trigger_error("team.xml: XML-Datei ist nicht wohlgeformt.");
+	if(!$team) trigger_error("team.xml: XML file is not well formed");
 	// it follows poor man's XSLT
 ?>
   <h2>Team</h2>
-
-  <p>Das technikum29 befindet sich seit dem <a href="/heribert-mueller/">Tod des Gründers Heribert Müller</a>
-  in einer Übergangsphase, in dem es von einigen Freiwilligen betrieben wird, die sich auf dieser Seite
-  vorstellen. Unerwähnt bleibt dabei das große Netzwerk an Freunden und Förderern, die an dieser Stelle
-  (noch) nicht genannt sind.</p>
+  
+  <p>Since the  <a href="/heribert-mueller/">sudden death of the founder and maintainer Heribert Müller</a>,
+  the technikum29 computer museum is still in an interim phase. It is currently maintained by a group of
+  volunteers, which are presented on this page. This doesn't display the full picture, since
+  the big network of friends and supporters is not (yet) listed.</p>
   
   <!-- For a short overview: -->
   <!--

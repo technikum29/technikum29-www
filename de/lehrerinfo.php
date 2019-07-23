@@ -5,11 +5,25 @@
 	
 	require "../lib/technikum29.php";
 ?>
+
+<div style="border: 2px solid #a40000; background-color: #fff7f7; padding: 1em; margin-bottom: 2em">
+  <h3 style="margin:0; color: #a40000; border: none;">
+     <img src="/shared/img-v6/warning.svg" style="max-width: 3em;">
+     Das Museum ist derzeit geschlossen.
+  </h3>
+  <p>Durch den plötzlichen <a href="/heribert-mueller">Tod von Heribert Müller</a>
+  sind bis auf weiteres alle Museumsführungen abgesagt. Bei einer Neueröffnung wird
+  es auch zu einer Neuausrichtung der Museumspädagogik kommen. Beachten Sie daher
+  die folgenden Informationen bitte als historisch.
+</div>
+
 	<h2>Didaktische Konzeption, Informationen für Lehrer</h2>
 	<p>
 		Prinzipiell bieten wir je einen Workshop mit dem Themenbereich "<b>Computer History</b>" oder "<b>Kommunikationstechnik</b>" an. Diese eignen sich für technisch interessierte Gruppen und Menschen, die einfach nur neugierig sind und sich in der Kulturgeschichte der intelligentesten und wichtigsten Werkzeuge, wie Computer und Kommunikationstechniken, weiter bilden möchten. Sie müssen sich zwischen diesen Themen entscheiden, da beide Gebiete in einer Führung mental überfordern würden und zeitlich nicht realisierbar sind.<br>
 		Lassen Sie sich nicht durch die speziellen Themen (rechte Navigation) einschüchtern! Wir gestalten Führungen und Workshop´s so, dass auch relative Laien Spaß daran haben. Sie werden nicht durch Fachwissen erschlagen.
 		
+		
+		<!--
 		<div class="box bordered nomargin-bottom">
 	<p class="bildtext"><big><big>Geburtstags-Event für Kid´s und Jugendliche ab ca. 10 Jahren</big></big> <br><br>
 	Das technikum29 bietet einen Geburtstags-Event der besonderen Art an: <br>
@@ -17,6 +31,7 @@
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. Für den Workshop sollten die Teilnehmer jedoch mindestens 11 Jahre alt sein.<br>
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys.</p>
 </div>
+-->
 		
 		
 		

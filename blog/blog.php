@@ -4,15 +4,21 @@
  * no to little infrastructure).
  *
  * Include this instead of "lib/technikum29.php"
+ *
+ * It can also be used as a blog-related library from other places, in case
+ * they have lib/technikum29.php included or the constant T29 defined,
+ * respectively.
+ *
  */
+
+if(!defined('T29')) {
 
 // The "seiten_id" should always be "blog" in order to trick the navigation
 // system for the time being. It's a workaround because I don't want to
 // touch the t29 navigation system but keep the "blog" link active.
+
 $seiten_id = 'blog';
 $titel = $blog_title . " &mdash; in the Tube, a technikum29 blog";
-
-$lang = "en"; // for the time being
 
 $dynamischer_inhalt = true; // at least during development
 
@@ -28,6 +34,40 @@ require "../lib/technikum29.php";
 	</header>
 <?php
 
+}/* end ifdef T29 */
+
+
+function slurp_blog_postings() {
+	/**
+	 * For abusing the "include hack", as in the old news system, it would require
+	 * each blog posting to include blog.php conditionally, such as with the cryptical
+	 * if(!require("blog.php")) return; That's not so nice, so we don't include...
+	 **/
+	/*
+	$pwd = realpath(getcwd()); chdir("../blog/"); // for includes in the including files
+	$posting_files = glob("201*.php");
+	$postings = array();
+	if(!defined('T29_BLOG_SLURPING')) define('T29_BLOG_SLURPING', true); // for the hack
+	foreach($posting_files as $posting) {
+		echo "INCLUDING $posting\n";
+		include $posting;
+		$postings[$posting] = compact($blog_title, $blog_author, $blog_date);
+	}
+	chdir($pwd);
+	return $postings;
+	*/
+	// but instead, for the time being, just slurp the interesting stuff with regexpes :(
+	// That's of course not super stable at all.
+	$posting_files = glob("../blog/201*.php");
+	$postings = array();
+	foreach($posting_files as $posting) {
+		$posting_text = file_get_contents($posting);
+		preg_match_all('/^\s*\$blog_(?P<key>[a-z]+)\s*=\s*("|\')(?P<value>.+)\2/m', $posting_text, $matches);
+		$postings[$posting] = array_combine($matches['key'], $matches['value']);
+	}
+	return $postings;
+}
+
 function print_blog_title() {
 	global $blog_title, $blog_date, $blog_author;
 ?>
@@ -35,6 +75,24 @@ function print_blog_title() {
 	    <span class="blog_subline">on <?php print $blog_date; ?> by <a href="#author-<?php print strtolower($blog_author); ?>"><?php print $blog_author; ?></a></span>
 	</h2>
 <?php
+}
+
+function load_team() {
+	global $webroot, $lang_path; // defined by technikum29.php
+	$team_filename = "$webroot/$lang_path/team.xml";
+	$team = simplexml_load_file($team_filename);
+	if(!$team) trigger_error("$team_filename is not well formed XML.");
+	return $team;
+}
+
+function load_author($blog_author) {
+	if(is_string($blog_author)) {
+		$blog_author = strtolower($blog_author);
+		$team = load_team();
+		$candidates = $team->xpath("member[@identifier='$blog_author']");
+		if(!$candidates) trigger_error("team.xml: Missing author '$blog_author'");
+		else return $candidates[0];
+	} else return $blog_author; // assume XMLElement or so
 }
 
 function print_author_info() {
@@ -47,41 +105,20 @@ function print_author_info() {
 	);
 }
 
-function get_author_picture_filename($blog_author) {
-	global $webroot; // lib/technikum29.php
-	$candidates = glob("$webroot/shared/photos/blog/blog-author-$blog_author.*");
-	return ($candidates && isset($candidates[0])) ?
-		substr($candidates[0], strlen($webroot)) : Null;
+function print_author_box($blog_author, $prepend_text="", $append_text="") {
+	$author = load_author($blog_author);
+
+	echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";
+	print $prepend_text;
+	foreach($author->xpath("./img[@class='thumbnail']") as $pic)
+		echo "<a href='$pic[src]' class='popup'>".$pic->asXML().'</a>';
+	echo $author->abstract->asXML();
+	print $append_text;
+	echo "</section>";
 }
 
-function print_author_box($blog_author, $prepend_text="", $append_text="") {
-	print "<section class='blog author_info left clear-after' id='author-$blog_author'>";
-	$author_picture = get_author_picture_filename($blog_author);
-	if($author_picture)
-		print "<a href='$author_picture' class='popup'><img src='$author_picture' alt='Photo of blog author' class='photo'></a>";
-	print $prepend_text;
-	
-	switch($blog_author) {
-	case "sven": ?>
-		<a href="http://svenk.org">Sven K&ouml;ppel</a> is theoretical physicist with
-		a focus on elementary particle and gravitational physics and a strong background
-		in computational science. He is contributing to the <a href="/">technikum29
-		computer museum</a> since more then 15 years.
-		<?php
-		break;
-	case "you": ?>
-		<em>Probably you?</em>
-		If you want to write something, you are very welcome to send
-		us texts <a href="/en/contact.php">by mail</a> or to contribute directly
-		<a href="https://github.com/technikum29/technikum29-www">via Github</a>
-		(it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
-		<?php
-		break;
-	default:
-		print "<em>Error: Missing author name, please provide as <tt>blog_author</tt>.</em>";
-	}
-	
-	print $append_text;
-	?>
-	</section><?php
+function print_all_blog_authors() {
+	$team = load_team();
+	foreach($team->xpath("member[@is_active_blog_author='Yes']") as $author)
+		print_author_box($author);
 }

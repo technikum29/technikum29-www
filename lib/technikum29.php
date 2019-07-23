@@ -51,7 +51,20 @@ else $titel = $title = false; // to be determined by navigation seiten_id.
 
 // try to determine the language from the file path
 if(!isset($lang)) $lang = substr($file, 1, 2);
-if(!in_array($lang, array_keys($languages))) $lang = "de"; # check if language exists
+if(!in_array($lang, array_keys($languages))) {
+	# if language does not exist, examine client preference.
+	if(isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
+		$de = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'de');
+		$en = strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'en');
+	} else {
+		# no client information available. Make our personal default.
+		$de = true; $en = false;
+	}
+
+	$lang = ( ($en !== false && $de !== false && $de < $en) ||
+	          ($en === false && $de !== false)              )
+	        ? "de" : "en";
+}
 $lang_path = $languages[$lang][1]; # shorthand, relative to webroot. use "$webroot$lang_path" for local.
 
 // "AJAX" calls are our meaning for pages without chrome

@@ -1,2 +1,6 @@
 # A cache directory which shall be writable by the PHP process.
 shared/cache/
+
+# Temporary files and thelike
+.directory
+*~

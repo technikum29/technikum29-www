@@ -4,21 +4,35 @@
   technikum29: Teammitglieder (deutsch)
   Diese XML-Datei wird von PHP/SimpeXML eingelesen und verarbeitet.
   ACHTUNG! Diese Datei muss wohlgeformtes XML sein: Alle Tags, die
-  aufgehen müssen auch wieder zugehen.
+  aufgehen müssen auch wieder zugehen.  HTML-Entities (&usw;) werden nicht unterstützt.
+  Bitte richtige Sonderzeichen (UTF-8 üöäÜÖÄß) verwenden.
 -->
 
 	<member identifier="sven" full_name="Sven Köppel" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-sven.jpg" />
 		<img class="photo" src="/shared/photos/blog/blog-author-sven.jpg" />
 		<abstract>
-			<!-- todo: deutsch -->
-			<a href="http://svenk.org">Sven Köppel</a> is theoretical physicist with
-			a focus on elementary particle and gravitational physics and a strong background
-			in computational science. He is contributing to the <a href="/">technikum29
-			computer museum</a> since more then 15 years.
+			<a href="https://svenk.org">Sven Köppel</a>
+			ist eines der drei Kinder des Museumsgründers
+			<a href="/heribert-mueller/">Heribert Müller</a>. Er ist promovierter
+			theoretischer Physiker und hat sich die letzten Jahre mit Gravitations-
+			und Computerphysik beschäftigt. Im <a href="/">Rechner- und
+			Kommunikationsmuseum technikum29</a> arbeitet er seit mehr als 15
+			Jahren mit.
 		</abstract>
 		<biography>
-			Bla bla bla bla
+			Sven Köppel (Jahrgang 1989) ist eines der drei Kinder vom Museumsgründer
+			<a href="/heribert-mueller/">Heribert Müller</a>. Er hat sich seit über
+			15 Jahren an der Museumsarbeit beteiligt. Der Fokus seiner Arbeit lag
+			dabei bei der Anbindung von Lese- und Schreibeinheiten papierbasierter
+			Speichermedien (Lochstreifen und Lochkarten) an "moderne" Computer. Dies
+			war die Grundlage, um Programme über das Internet austauschen zu können
+			und Maschinen damit effektiv von der Ferne zu programmieren. Außerdem
+			war Sven Köppel aktiv in organisatorischen Dingen, etwa der
+			Öffentlichkeitsarbeit des Museums. Er verbrachte mehrere Jahre in
+			Frankfurt am Main, wo er an der Goethe-Universität 2019 mit einer Promotion
+			als theoretischer Astrophysiker abschloss. Mit seiner Familie wohnt er
+			in Münster (Westfalen).			
 		</biography>
 	</member>
 	
@@ -26,12 +40,10 @@
 	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />
 		<abstract>
-			<!-- todo: deutsch -->
-			<em>Probably you?</em>
-			If you want to write something, you are very welcome to send
-			us texts <a href="/en/contact.php">by mail</a> or to contribute directly
-			<a href="https://github.com/technikum29/technikum29-www">via Github</a>
-			(it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
+			<em>Vielleicht Sie?</em>
+			Wir laden unsere Besucher und Freunde des Museums ein, uns Texte
+			oder Beiträge in sozialen Netzwerken
+			<a href="/en/contact.php">per Mail</a> zu schicken.
 		</abstract>
 	</member>
  </team>

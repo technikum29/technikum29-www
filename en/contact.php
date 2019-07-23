@@ -15,12 +15,12 @@
     friends and volunteers of the museum. We are reachable via:
 
     <div class="vcard" id="address">
-		<div class="org hidden">technikum29 Computer Museum</div>
-		<div class="fn">Dipl. Phys. H. M&uuml;ller, Community of Heirs</div>
+		<!--<div class="org hidden">technikum29 Computer Museum</div>-->
+		<div class="fn">technikum29 Computer Museum</div>
 		<div class="adr">
-			<div class="street-address hidden">Am Flachsland 29</div>
+			<div class="street-address">Am Flachsland 29</div>
 			<span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
-			<span class="country-name">Germany</span>
+			<div class="country-name">Germany</div>
 		</div>
 		<div>e-mail: <a class="email" href="mailto:contact@technikum29.de">contact@technikum29.de</a></div>
 		<div>phone (mail box): <a href="tel:00496195805777">0049-6195-805777</a></div>

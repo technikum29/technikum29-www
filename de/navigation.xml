@@ -16,48 +16,21 @@
 -->
 <nav class="horizontal">
 <ul class="u1">
-	<li><a seiten_id="startseite" href="/de/">Start</a></li>
+	<li><a seiten_id="startseite" href="/de/">Besuchen</a></li>
+	<!--
 	<li><a seiten_id="termine" href="/de/termine.php">Termine</a></li>
-	<li><a seiten_id="news" href="/de/news.php">Neues</a>
+	<li><a seiten_id="news" href="/de/news.php">Neues</a></li>
+	-->
+	<li><a seiten_id="blog" href="/de/blog.php">Neues</a>
 		<ul class="u2 rich-text hidden">
 			<!-- Letzte Neuigkeiten werden hier automatisch eingesetzt -->
+			<!-- News-Menu-Infrastruktur von Neues zu Blog verschoben ("geklaut") -->
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li><a seiten_id="blog" href="/blog/">Blog</a></li>
-	<li class="has-submenu"><a href="/de/lernprojekte/">Projekte</a>
-		<ul class="u2">
-			<li class="has-submenu"><a seiten_id="lernprojekte" class="show-rel-next" href="/de/lernprojekte/">Lernprojekte</a>
-				<!-- Pfeil-Symbol: ↔ -->
-				<ul class="u3">
-					<li><a href="/de/lernprojekte/#aes">Fax ↔ Computer</a></li>
-					<li><a href="/de/lernprojekte/#demo">Lerncomputer</a></li>
-					<li><a href="/de/geraete/pianola-funktionserklaerung/">Pianola</a></li>
-					<li><a href="/de/lernprojekte/schach/">Schach</a></li>
-				</ul>
-			</li>
-			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" class="show-rel-prev" href="/de/entwicklungsprojekte.php">Entwicklungsprojekte</a>
-				<ul class="u3">
-					<li><a href="/de/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
-					<li><a href="/de/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
-					<li><a href="/de/entwicklungsprojekte.php#anelex">Anelex-Drucker</a></li>
-					
-				</ul>
-			</li>
-		</ul>
-	</li>
-	<!---
-	<li class="has-submenu open-to-left"><a seiten_id="lehrerinfo" class="show-rel-next" href="/de/lehrerinfo.php">Didaktik+Workshop</a>
-		<ul class="u2">
-			<li><a href="/de/lehrerinfo.php#Konzeption">Konzeption</a></li>
-			<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
-			<li><a href="/robotik/" seiten_id="robotik" class="show-rel-prev show-rel-next kursseite">Robotik-Kurse</a></li> -->
-			<!--<li><a href="/physical-computing/" seiten_id="physical-computing" class="show-rel-prev kursseite">Physical Computing &amp; Robotics</a></li>-->
-			<!--
-		</ul>
-	</li>
-	-->
-	<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>
+	<li><a seiten_id="team" href="/de/team.php">Team</a></li>
+	<!-- ist derzeit einfach nicht relevant: -->
+	<!--<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>-->
 	<li><a seiten_id="impressum" href="/de/impressum.php">Kontakt</a></li>
 	<!-- Sitemap derzeit nicht anzeigen -->
 	<li><a seiten_id="sitemap" class="hidden-in-nav" href="/de/sitemap.php">Sitemap</a></li>
@@ -94,7 +67,7 @@
 
 			<li><a href="/de/rechnertechnik/gamma3.php">Rechner mit Elektronenröhren</a>
 				<ul class="u3">
-				
+
 			<li><a seiten_id="gamma3" href="/de/rechnertechnik/gamma3.php" title="Röhrenrechner der 1. Generation: BULL Gamma 3">BULL Gamma 3</a></li>
 			<li><a seiten_id="lgp30" href="/de/rechnertechnik/lgp30.php" title="Röhrenrechner der 1. Generation: LGP 30">LGP 30</a></li>
 			</ul>
@@ -249,20 +222,41 @@
 	<li><a href="/de/kommunikationstechnik/messtechnik.php">Weitere Themen</a>
 		<ul class="u2">
 			<li><a seiten_id="messtechnik" href="/de/kommunikationstechnik/messtechnik.php">Mess- und Experimentaltechnik</a></li>
-			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola, Kunst und mehr</a>
+			<li><a seiten_id="sonstiges" href="/de/sonstiges.php">Pianola, Musik und Kunst</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="pianola-funktionserklaerung" href="/de/geraete/pianola-funktionserklaerung/">Funktionserklärung der Pianola</a></li>
 				</ul>
 			</li>
 			
-			<!--
-				<li><a href="/de/lehrerinfo.php">Informationen für Lehrer</a></li>
-				<li><a href="/robotik/">Robotik-Workshop</a></li>
-			-->
-				<!--<li><a href="/physical-computing/">Physical Computing &amp; Robotics</a></li>-->
+			<li><a seiten_id="lernprojekte" href="/de/lernprojekte/">Lernprojekte</a>
+				<ul class="u3">
+					<li><a href="/de/lernprojekte/#aes">Fax ↔ Computer</a></li>
+					<li><a href="/de/lernprojekte/#demo">Lerncomputer</a></li>
+					<li><a href="/de/geraete/pianola-funktionserklaerung/">Pianola</a></li>
+					<li><a href="/de/lernprojekte/schach/">Schach</a></li>
+				</ul>
+			</li>
+			<li><a seiten_id="entwicklungsprojekte" href="/de/entwicklungsprojekte.php">Hardware-Entwicklung</a>
+				<ul class="u3">
+					<li><a href="/de/entwicklungsprojekte.php#papertape">Lochstreifen ↔ Computer</a></li>
+					<li><a href="/de/entwicklungsprojekte.php#punchcard">Lochkarten ↔ Computer</a></li>
+					<li><a href="/de/entwicklungsprojekte.php#anelex">Anelex-Drucker</a></li>
+				</ul>
+			</li>
+			
 
+			<li><a seiten_id="lehrerinfo" href="/de/lehrerinfo.php">Museumsdidaktik</a>
+				<ul class="u3">
+					<li><a href="/de/lehrerinfo.php#Lehrerinfo">Information für Lehrer</a></li>
+					<li><a href="/de/lehrerinfo.php#experimente">Experimente</a></li>
+					<li><a seiten_id="robotik" class="kursseite" href="/robotik/">Roboter-Kurse</a></li>
+					<!--<li><a href="/physical-computing/" seiten_id="physical-computing">Physical Computing &amp; Robotics</a></li>-->
+				</ul>
+			</li>
+		
 		</ul>
 	</li>
+
 	<li class="guide-only end"><a href="/de/impressum.php">Ende</a></li>
 </ul>
 </nav><!-- class=side -->

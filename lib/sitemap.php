@@ -51,11 +51,12 @@
 					<li><a href="http://labs.technikum29.de/wiki/DevelopmentProjects/Papers"><span class="de">Papers und Veröffentlichungen</span><span class="en">Papers and publications</span></a>
 					
 				</ul>
-			<li><a href="http://dev.technikum29.de/"><span class="de">Weitere Websites</span><span class="en">Website managament and design</span></a>
-				<!--<ul class="u1">
+			<li><a href="http://dev.technikum29.de/"><span class="de">Weitere Websites</span><span class="en">Website managament</span></a>
+				<ul class="u1">
 					<li><a href="http://labs.technikum29.de/wiki/Website/Geschichte"><span class="de">historische Entwicklung</span><span class="en">historical evolution</span></a>
 					<li><a href="http://old.technikum29.de/"><span class="de">historischer Einblick</span><span class="en">Zeitgeist-like archives</span></a>
-				</ul>-->
+					<li><a href="https://github.com/technikum29"><span class="en">technikum29 projects at Github (such as the website source code)</span><span class="de">technikum29-Projekte bei Github (wie der Quelltext der Website)</span></a>
+				</ul>
 			<!--<li><a href="http://lists.technikum29.de/"><span class="de">technikum29-Mailinglisten</span><span class="en">technikum29 mailing lists</span></a>-->
 		</ul>
 	</li>

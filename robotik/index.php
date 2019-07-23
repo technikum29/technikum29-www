@@ -6,40 +6,6 @@
 	/* Der Titel wird im Browserfenster angezeigt */
 	$titel = 'Robotik Workshop im technikum29 und an Schulen';
 
-$sidebar_content = <<<SIDEBAR_ENDE
-
-<div class="text-block">
-	Seite zuletzt aktualisiert:
-	<br>28.2.2018
-</div>
-
-<div class="spacing"></div>
-
-<div class="bild-block">
-	<a href="https://goo.gl/maps/Rq4Ep" title="5min Fußweg vom Bahnhof Kelkheim-Hornau"><img src="wegskizze-bahnhof.png" style="width:100%"></a>
-	<p class="bildtext">Das technikum29 ist 4 Minuten vom <a href="http://www.rmv.de/auskunft/bin/jp/stboard.exe/dn?input=3004295&time=00:56&maxJourneys=10&dateBegin=28.06.15&dateEnd=12.12.15&selectDate=&productsFilter=1111111111111111&start=yes&dirInput=&view=STATIONINFO">Bahnhof Kelkheim-Hornau</a> entfernt und auch mit Bus 263 gut erreichbar.</p>
-</div>
-
-<div class="bild-block">
-	<a class="popup" href="2-roboter.jpg">
-		<img src="2-roboter.jpg" />
-	</a>
-	<p class="bildtext">Roboter bestückt mit 3 Motoren und bis zu 5 Sensoren.</p>
-</div>
-
-<div class="text-block">
-	<strong>Robotik in der Schule:</strong>
-	<p>Das technikum29 sponsert einen Robotik-Workshop an der Albert-Einstein-Schule (AES), Schwalbach. Hier werden für die 6. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen! 
-	<br><br>
-	Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a> </p>
-</div>
-
-Neueste Presseberichte:<br><br>
-<a href="FAZ-24.6.2017.pdf"> Tüfteln, bis der Robo spurt</a> FAZ vom 24.6.2017
-
-
-SIDEBAR_ENDE;
-	
 	require "../lib/technikum29.php";
 ?>
 
@@ -51,10 +17,16 @@ SIDEBAR_ENDE;
 	<img class="no-copyright" src="header-bild.jpg">
 </header>
 
-<div style="border: 1px solid red; background-color: #fff7f7; padding: 1em">
-  <h3 style="margin:0; color:#b42727">Robotik-Kurse eingestellt</h3>
-  <p>Die Robotik-Kurse sind derzeit bis auf weiteres eingestellt. Die Inhalte dieser Seite
-  bezeugen daher eine vergangene Situation und sind als historisch anzusehen.
+<div style="border: 2px solid #a40000; background-color: #fff7f7; padding: 1em">
+  <h3 style="margin:0; color: #a40000">
+     <img src="/shared/img-v6/warning.svg" style="max-width: 3em;">
+     Die Robotik-Kurse gibt es nicht mehr.
+  </h3>
+  <p>Die Robotik-Kurse wurden zwischen 2016-2017 an Schulen im Main-Taunus-Kreis sowie an der
+  <a href="https://www.vhs-mtk.de/">Volkshochschule</a> für Jugendliche angeboten. Seit dem
+  <a href="/heribert-mueller">Tod von Heribert Müller</a> sind sie bis auf weiteres abgesagt
+  und werden in dieser Form nie mehr stattfinden. Diese Seite existiert nur noch, um auf
+  frühere Angebote hinzuweisen.
 </div>
 
 
@@ -109,42 +81,33 @@ Keine Angst, das wird ja alles besprochen....und zwischendurch gibt es immer wie
 <p>Pro Kurs können 10 Schüler teilnehmen. Je zwei Teilnehmer programmieren einen Roboter mit dem System LEGO MINDSTORMS Education EV3. Das Material wird während der Kurszeit zur Verfügung gestellt. Die Roboter sind eventuell bereits zum Teil aufgebaut, so dass dann mehr Zeit für die Programmierung vorhanden ist.<br>
 Die Kursgebühr für den Ferienkurs (10 Zeitstunden) beträgt 40 und an der VHS 45 Euro.</p>
 
-
-<h3>Termine</h3><br>
-
-<div style="border: 1px solid red; background-color: #fff7f7; padding: 1em">
-  <h3 style="margin:0; color:#b42727">Robotik-Kurse eingestellt</h3>
-  <p>Die Robotik-Kurse für 2018 wurden abgesagt.
+<div class="bild-block">
+	<a class="popup" href="2-roboter.jpg">
+		<img src="2-roboter.jpg" style="width:100%" />
+	</a>
+	<p class="bildtext">Roboter bestückt mit 3 Motoren und bis zu 5 Sensoren.</p>
 </div>
-<p></p>
 
-<del>
-<font color="#FF0000"><b>Osterferien 2018:</b></font><br>
-Einführungskurs von Di. 3.4. bis Sa. 7.4.2018 jeweils von 14:00 bis 16:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/index.php?id=37&kathaupt=11&knr=I7505111&kursname=Robotik-Workshop+fr+Kids+11-13+J&wbt3_redirect=warenkorb" target="_blank">VHS Hofheim</a><br><br>
+<h3>Presse-Feedback</h3>
 
-<font color="#FF0000"><b>Sommerferien 2018:</b></font><br>
-Einführungskurs von Mo. 25.6. bis Fr. 29.6.2018 jeweils von 10:00 bis 12:00 Uhr an der <a class="go" href= "https://www.vhs-mtk.de/https://www.vhs-mtk.de/" target="_blank">VHS Hofheim</a> <br>
+<p>Das technikum29 sponserte mehrere Robotik-Workshops an der Albert-Einstein-Schule (AES) in Schwalbach. Hier wurden für die 6. Klassen zwei Stunden pro Woche angeboten und von den Schülern mit Begeisterung angenommen.
+Siehe auch: <a href="http://www.aesmtk.de/cms/index.php/49-ueber-uns/mint/765-robotik-workshop-begeistert-sechstklaessler-der-aes"> Robotik-Workshop begeistert Sechstklässler der AES</a>.</p>
 
-<h3>Anmeldung und Vormerkung</h3>  
-
-per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum29.de</a>
-</del>
-
+<p>Pressebericht der FAZ vom 24.06.2017:
+<a href="FAZ-24.6.2017.pdf">Tüfteln, bis der Robo spurt</a>.
 
 </div><!-- /rightcol -->
 </div><!-- /cols -->
 <div class="clear cols">
 
-<b>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops:</b>
-
-<div class="box left nomargin-bottom"> 
+<div class="box bordered left nomargin-bottom" id="3D">
+<h3>Erstaunlicherer Erfolg ehemaliger Teilnehmer des Robotik-Workshops</h3>
 <img src="wro2017.jpg" width="214"  height="240"/> 
-</div>
-
 <p>Vor drei Jahren wurde das "Fundament" hier im <i>technikum29</i> gelegt. Die Kids, mittlerweile Jugendliche der 9. Klasse, entdeckten ihre Begeisterung für die Robotik. Beim Weltfinale der World Robot Olympiad (WRO) in Costa Rica bekamen Ben Huber (15) und Martin Vekony (15) mit ihrer Roboter-unterstützten Akku-Wechsel-Station den 2. Preis.<br> Insgesamt über 59 Nationen stellten sich in mehreren Runden vom 10.-12. November 2017 den kritischen Augen der internationalen Juroren. Dabei konnte sich "The Mindfactory 2.0" in der Junior-Open-Kategorie  in Costa Rica von 33 internationalen Teams an die Spitze durchsetzen und kam somit auf das Siegertreppchen. Weltweit haben über 1.296 gestarteten Teams für die Kategorie "Open Junior" teilgenommen.<br>    
  Weitere Einzelheiten siehe:
 <a class="go" href= "http://www.themindfactory.de" target="_blank">THE MINDFACTORY 2.0</a>. </p>
 
+</div>
 
 <!--
 <div  class="box bordered nomargin-bottom clear-after" id="3D">
@@ -159,14 +122,16 @@ per E-Mail an <a class="email" href="mailto:post@technikum29.de">post@technikum2
 
 </div>
 -->
-		<div  class="box bordered nomargin-bottom" id="geburtstag">
+<!--
+	<div  class="box bordered nomargin-bottom" id="geburtstag">
 	<p class="bildtext"><big><big>Geburtstags-Event für Kids ab 10</big></big> <br><br>
 	Das technikum29 bietet für 8 bis 12 Kinder und Jugendliche ab dem Alter von ca. 10 Jahren einen Geburtstags-Event der besonderen Art an: <br>
 	Zunächst erfolgt eine altersgemäße interaktive Führung durch die Epochen der Computerwelten. Hier werden die Kids immer mit einbezogen und können die Computer-Dinosaurier selbst bedienen. Dabei passen wir den "Tiefgang" dem Alter der Teilnehmer an.<br>
 	Nach einer kleinen Pause experimentieren die Kids in Gruppen an wirklich interessanten Projekten die so viel Spaß machen, dass das Ende der "Feier" schwer fällt. Für den Workshop sollten die Teilnehmer jedoch mindestens die 5. Klasse besuchen.<br>
 	Eine abwechslungsreiche und intelligente Alternative zu den sonst üblichen Geburtstagspartys. Dauer ca. 2 bis 3 Stunden.<br>
 	Informationen und detaillierte Anleitungen der Workshop-Projekte erhalten Sie gerne auf Anfrage.
-	<!-- <a href="/de/lernprojekte/workshop-info.pdf"> Info für Eltern </a>  --></p>
+	<a href="/de/lernprojekte/workshop-info.pdf"> Info für Eltern </a>
+-->
 </div>
 
 

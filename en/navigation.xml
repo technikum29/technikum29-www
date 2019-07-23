@@ -14,26 +14,15 @@
 <nav class="horizontal">
 <ul class="u1">
 	<li><a seiten_id="startseite" href="/en/">Start</a></li>
-	<li><a seiten_id="news" href="/en/news.php">News</a>
+	<!--<li><a seiten_id="news" href="/en/news.php">News</a>-->
+	<li><a seiten_id="blog" href="/en/blog.php">Blog</a>
 		<ul class="u2 rich-text hidden">
 			<!-- magic comment (do not replace): -->
 			<!--# INSERT_NEWS #-->
 		</ul>
 	</li>
-	<li><a seiten_id="blog" href="/blog/">Blog</a></li>
+	<li><a seiten_id="team" href="/en/team.php">Team</a></li>
 	<!--<li><a seiten_id="termine" href="/en/events.php">Events</a></li>-->
-	<li class="has-submenu"><a href="/en/development-projects.php">Projects</a>
-		<ul class="u2">
-			<li class="has-submenu"><a seiten_id="lernprojekte" href="/en/study-projects.php">Study projects</a></li>
-			<li class="has-submenu"><a seiten_id="entwicklungsprojekte" href="/en/development-projects.php">development projects</a>
-				<ul class="u3">
-					<li><a href="/en/development-projects.php#papertape">Paper tape ↔ Computer</a></li>
-					<li><a href="/en/development-projects.php#punchcard">Punch card ↔ Computer</a></li>
-					
-				</ul>
-			</li>
-		</ul>
-	</li>
 	<!--
 	<li class="has-submenu open-to-left"><a href="/en/education.php">Didactics and Workshops</a>
 		<ul class="u2">
@@ -42,7 +31,7 @@
 			<!--<li><a href="/en/physical-computing.php" seiten_id="physical-computing" class="show-rel-prev kursseite">Physical computing workshop</a></li>-->
 		<!-- </ul>
 	</li>-->
-	<li><a seiten_id="wir-suchen" href="/en/wanted.php">Wanted</a></li>
+	<!--<li><a seiten_id="wir-suchen" href="/en/wanted.php">Wanted</a></li>-->
 	<li><a seiten_id="impressum" href="/en/contact.php">Contact</a></li>
 	<!-- Don't show sitemap here -->
 	<li><a seiten_id="sitemap" class="hidden-in-nav" href="/en/sitemap.php">Sitemap</a></li>
@@ -235,9 +224,19 @@
 					<li><a seiten_id="pianola-funktionserklaerung" href="/en/devices/functional-explanation-pianola.php">Functional explanation of the pianola</a></li>
 				</ul>
 			</li>
-			<!-- <li><a href="/en/robotics.php">Robotic workshop</a></li> -->
+			<li><a href="/en/development-projects.php">Development</a>
+				<ul class="u3">
+					<li><a seiten_id="lernprojekte" href="/en/study-projects.php">Study projects</a></li>
+					<li><a seiten_id="entwicklungsprojekte" href="/en/development-projects.php">Hardware IO</a>
+						<ul class="u4">
+							<li><a href="/en/development-projects.php#papertape">Paper tape ↔ Computer</a></li>
+							<li><a href="/en/development-projects.php#punchcard">Punch card ↔ Computer</a></li>
+						</ul>
+					</li>
+					<li><a seiten_id="robotik" class="kursseite" href="/en/robotics.php">Robotic workshops</a></li>
+				</ul>
+			</li>
 			<!--<li><a href="/en/physical-computing.php">Physical computing workshop</a></li>-->
-			
 		</ul>
 	</li>
 	<li class="guide-only end"><a href="/en/contact.php">End</a></li>

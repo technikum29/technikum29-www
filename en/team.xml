@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<team>
+<!--
+  technikum29: team members (english)
+	This XML file is read by PHP/SimpleXML.
+  ATTENTION! This file has to be wellformed XML. All opening tags
+	have to close again or use the syntax <img/>. HTML entitites are not supported,
+	use special characters (UTF-8) instead.
+-->
+
+	<member identifier="sven" full_name="Sven Köppel" is_active_blog_author="Yes">
+		<img class="thumbnail" src="/shared/photos/blog/blog-author-sven.jpg" />
+		<img class="photo" src="/shared/photos/blog/blog-author-sven.jpg" />
+		<abstract>
+			<a href="http://svenk.org">Sven Köppel</a> is one of the three children of
+			the founder of the museum, <a href="/heribert-mueller/">Heribert Müller</a>.
+			He is a researcher in theoretical and computational physics.
+			Sven is contributing to the <a href="/">technikum29
+			computer museum</a> since more then 15 years.
+		</abstract>
+		<biography>
+			Sven Köppel (born 1989) is one of the three children of the museum founder
+			<a href="/heribert-mueller/">Heribert Müller</a>. He is contributing to the
+			museum since more then 15 years. The focus of his work was the interfacing
+			of legacy paper based storage media (paper tapes and punch cards) to the
+			contemporary computer world. This was the foundation of exchanging
+			program codes over the internet and to effectively allow collaborators to
+			write (contribute) codes from remote. Furthermore, Sven was active in
+			all kind of organizational topics, such as the museum outreach and
+			paedagocical topics. Personally, he was living for half a decade in Frankfurt
+			am Main, where he obtained a physics degree in 2019. In his research, he
+			got an expert in high enery physics and computational physics. Since
+			some time, he is living with his daughter and wife in the north of
+			Germany (city of Münster/Westfalia; close to Hamburg).
+		</biography>
+	</member>
+	
+
+	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
+		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />
+		<abstract>
+			<em>Probably you?</em>
+			If you want to write something, you are very welcome to send
+			us texts <a href="/en/contact.php">by mail</a> or to contribute directly
+			<a href="https://github.com/technikum29/technikum29-www">via Github</a>
+			(it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
+		</abstract>
+	</member>
+ </team>

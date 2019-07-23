@@ -79,7 +79,7 @@ function print_blog_title() {
 
 function load_team() {
 	global $webroot, $lang_path; // defined by technikum29.php
-	$team_filename = "$webroot/$lang_path/team.xml";
+	$team_filename = "$webroot/$lang_path/team-list.xml";
 	$team = simplexml_load_file($team_filename);
 	if(!$team) trigger_error("$team_filename is not well formed XML.");
 	return $team;
@@ -90,7 +90,7 @@ function load_author($blog_author) {
 		$blog_author = strtolower($blog_author);
 		$team = load_team();
 		$candidates = $team->xpath("member[@identifier='$blog_author']");
-		if(!$candidates) trigger_error("team.xml: Missing author '$blog_author'");
+		if(!$candidates) trigger_error("team-list.xml: Missing author '$blog_author'");
 		else return $candidates[0];
 	} else return $blog_author; // assume XMLElement or so
 }

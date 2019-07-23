@@ -3,11 +3,11 @@
 	$version = '$Id$';
 	$titel = 'Team';
 	
-	$dynamischer_inhalt = true; // for dev
+	$test_files = array("team-list.xml");
 	require "../lib/technikum29.php";
 	
-	$team = simplexml_load_file("team.xml");
-	if(!$team) trigger_error("team.xml: XML-Datei ist nicht wohlgeformt.");
+	$team = simplexml_load_file("team-list.xml");
+	if(!$team) trigger_error("team-list.xml: XML-Datei ist nicht wohlgeformt.");
 	// it follows poor man's XSLT
 ?>
   <h2>Team</h2>

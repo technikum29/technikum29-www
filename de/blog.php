@@ -2,7 +2,7 @@
 	$seiten_id = 'blog';
 	$version = '$Id$';
 	$titel = 'technikum29-Blog';
-	$test_files = array("team.xml", "../blog/");
+	$test_files = array("team-list.xml", "../blog/");
 	
 	require "../lib/technikum29.php";
 ?>
@@ -38,8 +38,8 @@ willkommen.
 <p>Die folgenden Autoren waren bislang aktiv:
 
 <?php
-	$team = simplexml_load_file("team.xml");
-	if(!$team) trigger_error("team.xml: XML-Datei ist nicht wohlgeformt.");
+	$team = simplexml_load_file("team-list.xml");
+	if(!$team) trigger_error("team-list.xml: XML-Datei ist nicht wohlgeformt.");
 	
 	foreach($team as $author) {
 		echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";

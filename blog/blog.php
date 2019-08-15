@@ -69,9 +69,9 @@ function slurp_blog_postings() {
 }
 
 function print_blog_title() {
-	global $blog_title, $blog_date, $blog_author;
+	global $blog_title, $blog_date, $blog_author, $blog_title_kurz;
 ?>
-	<h2><?php print $blog_title; ?>
+	<h2><?php print isset($blog_title_kurz) ? $blog_title_kurz : $blog_title; ?>
 	    <span class="blog_subline">on <?php print $blog_date; ?> by <a href="#author-<?php print strtolower($blog_author); ?>"><?php print $blog_author; ?></a></span>
 	</h2>
 <?php

@@ -36,6 +36,16 @@
 		</biography>
 	</member>
 	
+	<member identifier="roland" full_name="Sven Köppel" is_active_blog_author="Not yet...">
+		<img class="thumbnail" src="/shared/photos/blog/photo-rl.jpg" />
+		<img class="photo" src="/shared/photos/blog/photo-rl.jpg" />
+		<abstract>
+			Roland Langfeld ist ... <!-- zu sehen im Blog, hier irrelevant -->
+		</abstract>
+		<biography>
+			Roland Langfeld ist ... <!-- zu sehen auf Teamseite -->
+		</biography>
+	</member>	
 
 	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />

@@ -3,3 +3,7 @@
 	border: none;
 	margin-top: 0;
 }
+
+#content img.photo {
+	width: 200px;
+}

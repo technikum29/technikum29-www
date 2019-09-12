@@ -11,7 +11,7 @@
 	<member identifier="sven" full_name="Sven Köppel" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-sven.jpg" />
 		<img class="photo" src="/shared/photos/blog/blog-author-sven.jpg" />
-		<abstract>
+		<abstract> <!-- Kurzsform, zu sehen im Blog -->
 			<a href="https://svenk.org">Sven Köppel</a>
 			ist eines der drei Kinder des Museumsgründers
 			<a href="/heribert-mueller/">Heribert Müller</a>. Er ist promovierter
@@ -20,7 +20,7 @@
 			Kommunikationsmuseum technikum29</a> arbeitet er seit mehr als 15
 			Jahren mit.
 		</abstract>
-		<biography>
+		<biography> <!-- Langform, zu sehen in Teamliste -->
 			Sven Köppel (Jahrgang 1989) ist eines der drei Kinder vom Museumsgründer
 			<a href="/heribert-mueller/">Heribert Müller</a>. Er hat sich seit über
 			15 Jahren an der Museumsarbeit beteiligt. Der Fokus seiner Arbeit lag
@@ -36,12 +36,9 @@
 		</biography>
 	</member>
 	
-	<member identifier="roland" full_name="Roland Langfeld" is_active_blog_author="Not yet...">
+	<member identifier="roland" full_name="Roland Langfeld">
 		<img class="thumbnail" src="/shared/photos/blog/photo-rl.jpg" />
 		<img class="photo" src="/shared/photos/blog/photo-rl.jpg" />
-		<abstract>
-			Roland Langfeld ist ... <!-- zu sehen im Blog, hier irrelevant -->
-		</abstract>
 		<biography>
 			Dr. Roland Langfeld (Jahrgang 1957) ist Physiker und arbeitet bei der 
 			SCHOTT AG in Mainz in verschiedenen Positionen in der Zentralforschung, 
@@ -53,9 +50,32 @@
                         Seit 2016 arbeitete er mit Heribert Müller im technikum29 an der 
 			Programmierung div. Rechner und Interfaceschaltungen.
                         Roland Langfeld ist verheiratet, hat 2 Kinder und wohnt in Frankfurt (Main).
- <!-- zu sehen auf Teamseite -->
 		</biography>
-	</member>	
+	</member>
+	
+	<member identifier="bernd" full_name="Jürgen Müller">
+		<img class="thumbnail" src="...." />
+		<img class="photo" src="..." />
+		<biography>
+			Jürgen Müller ist ...
+		</biography>
+	</member>
+	
+	<member identifier="bernd" full_name="Bernd Ulmann">
+		<img class="thumbnail" src="http://vaxman.de/about_me/ich_klein.jpg" />
+		<img class="photo" src="http://vaxman.de/about_me/ich_klein.jpg" />
+		<biography>
+			Dr. Bernd Ulmann ist ...
+		</biography>
+	</member>
+	
+	<member identifier="bernd" full_name="X Y">
+		<img class="thumbnail" src="..." />
+		<img class="photo" src="..." />
+		<biography>
+			X Y ist ...
+		</biography>
+	</member>
 
 	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />

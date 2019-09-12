@@ -42,6 +42,7 @@ willkommen.
 	if(!$team) trigger_error("team-list.xml: XML-Datei ist nicht wohlgeformt.");
 	
 	foreach($team as $author) {
+		if(!isset($author['is_active_blog_author'])) continue; // dafuq
 		echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";
 		foreach($author->xpath("./img[@class='thumbnail']") as $pic)
 			echo "<a href='$pic[src]' class='popup'>".$pic->asXML().'</a>';

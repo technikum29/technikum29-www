@@ -35,6 +35,40 @@
 		</biography>
 	</member>
 	
+	<member identifier="roland" full_name="Roland Langfeld">
+		<img class="thumbnail" src="/shared/photos/blog/photo-rl.jpg" />
+		<img class="photo" src="/shared/photos/blog/photo-rl.jpg" />
+		<biography>
+			Dr. Roland Langfeld (born 1957) is physicist and holds several leading
+			positions at
+			<a href="https://www.us.schott.com/english/">Schott AG</a>, such
+			as the head of R&amp;D, research fellow and consultant. Since early
+			childhood, he is interested in all kind of technology. In 1977 he
+			built up his first micro processor system. He collects old computers,
+			pocket calculators and chess computers. He is a passionate programmer
+			for all architectures.
+			Since 2016, he is working with Heribert Müller in the technikum29
+			for programming various computers and interfaces. Roland Langfeld
+			is married, has two children and lives in Frankfurt.
+		</biography>
+	</member>
+	
+	<member identifier="bernd" full_name="Bernd Ulmann">
+		<img class="thumbnail" src="/shared/photos/blog/bernd-ulmann.thumb.jpg" />
+		<img class="photo" src="/shared/photos/blog/bernd-ulmann.jpg" />
+		<biography>
+			Bernd Ulmann (born 1970) was a collector friend of the museum's founder
+			Heribert Müller. He also delivered several talks at the museum during the
+			"Woche der Industriekultur" in recent years. His main interest are analog and
+			hybrid computers but he is also fond of early DEC machines such as PDP8/12/12
+			and early VAX systems. Other areas of interest are classic oscilloscopes etc.
+
+			He lives in Hettenhain with his wife, cats and analog computers and develops
+			modern analog and hybrid computers. He has a professorship for business
+			informatics at the FOM in Frankfurt/Main.
+		</biography>
+	</member>
+	
 
 	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />

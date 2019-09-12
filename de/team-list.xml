@@ -47,13 +47,13 @@
 			bereits 1977 sein erstes Mikroprozessorsystem auf, sammelt alte Computer, 
 			Taschenrechner und Schachcomputer und programmiert nahezu alles, was Bits 
 			und Bytes hat.
-                        Seit 2016 arbeitete er mit Heribert Müller im technikum29 an der 
+			<br/>Seit 2016 arbeitete er mit Heribert Müller im technikum29 an der 
 			Programmierung div. Rechner und Interfaceschaltungen.
                         Roland Langfeld ist verheiratet, hat 2 Kinder und wohnt in Frankfurt (Main).
 		</biography>
 	</member>
 	
-	<member identifier="bernd" full_name="Jürgen Müller">
+	<member identifier="juergen" full_name="Jürgen Müller">
 		<img class="thumbnail" src="...." />
 		<img class="photo" src="..." />
 		<biography>
@@ -62,22 +62,23 @@
 	</member>
 	
 	<member identifier="bernd" full_name="Bernd Ulmann">
-		<img class="thumbnail" src="http://vaxman.de/about_me/ich_klein.jpg" />
-		<img class="photo" src="http://vaxman.de/about_me/ich_klein.jpg" />
+		<img class="thumbnail" src="/shared/photos/blog/bernd-ulmann.thumb.jpg" />
+		<img class="photo" src="/shared/photos/blog/bernd-ulmann.jpg" />
 		<biography>
-			Bernd Ulmann (born 1970) was a collector friend of the museum's founder
-Heribert Mueller. He also delivered several talks at the museum during the
-"Woche der Industriekultur" in recent years. His main interest are analog and
-hybrid computers but he is also fond of early DEC machines such as PDP8/12/12
-and early VAX systems. Other areas of interest are classic oscilloscopes etc.
-
-He lives in Hettenhain with his wife, cats and analog computers and develops
-modern analog and hybrid computers. He has a professorship for business
-informatics at the FOM in Frankfurt/Main.
+			Bernd Ulmann (Jahrgang 1970) war ein Sammlungsfreund des Museumsgründers
+			Heribert Müller. Er hat auch im Rahmen der "Wochen der Industriekultur"
+			in den vergangenen Jahren mehrere Vorträge gehalten. Seine Hauptinteresse
+			gilt Analogen und Hybridcomputern, aber er ist auch sehr an frühen
+			DEC-Maschinen wie den PDP8/12 und frühen VAX-Systemen interessiert.
+			Außerdem fasziniert er sich für klassische Oszilloskope uvm.
+			<br/>Bernd Ulmann wohnt mit seiner Frau, Katzen und Analogen Computern
+			zusammen in Hettenheim. Beruflich entwickelt er moderne Analog- und
+			Hybridrechner. Außerdem hält er an der FOM in Frankfurt eine
+			Professur für Buisness-Informatik inne.
 		</biography>
 	</member>
 	
-	<member identifier="bernd" full_name="X Y">
+	<member identifier="xyz" full_name="X Y">
 		<img class="thumbnail" src="..." />
 		<img class="photo" src="..." />
 		<biography>

@@ -34,7 +34,12 @@
   <?php
      foreach($team->xpath("member[not(@is_dummy)]") as $member) {
          echo '<div class="box left clear-after">';
-         echo $member->xpath("./img[@class='photo']")[0]->asXML();
+		$thumb = $member->xpath("./img[@class='thumbnail']");
+		$photo = $member->xpath("./img[@class='photo']");
+		$thumb = $thumb ? $thumb[0]->asXML() : '';
+		$photo = $photo ? $photo[0]['src'] : '';
+		echo "<a href='$photo' class='popup thumbnail'>$thumb</a>";
+         
          echo "<h4>$member[full_name]</h4>";
          echo '<p>' . $member->biography->asXML() . '</p>';
          echo '</div>';

@@ -44,10 +44,13 @@ willkommen.
 	foreach($team as $author) {
 		if(!isset($author['is_active_blog_author'])) continue; // dafuq
 		echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";
-		foreach($author->xpath("./img[@class='thumbnail']") as $pic)
-			echo "<a href='$pic[src]' class='popup'>".$pic->asXML().'</a>';
+		$thumb = $author->xpath("./img[@class='thumbnail']");
+		$photo = $author->xpath("./img[@class='photo']");
+		$thumb = $thumb ? $thumb[0]->asXML() : '';
+		$photo = $photo ? $photo[0]['src'] : '';
+		echo "<a href='$photo' class='popup'>$thumb</a>";
 		echo $author->abstract->asXML();
-		#echo "<div class='more'><a class='go' href='team.php#$author[identifier]'>Biografie lesen</a></div>";
+		echo "<div class='more'><a class='go' href='team.php#$author[identifier]'>Biografie lesen</a></div>";
 		echo "</section>";
 	}
 ?>

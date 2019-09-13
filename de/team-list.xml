@@ -54,12 +54,12 @@
 	</member>
 	
 	<member identifier="juergen" full_name="Jürgen Müller">
-		<img class="thumbnail" src="...." />
-		<img class="photo" src="..." />
+		<img class="thumbnail" src="/shared/photos/blog/juergen-mueller.jpg" />
+		<img class="photo" src="/shared/photos/blog/juergen-mueller.jpg" />
 		<biography>
 			Dr. Jürgen Müller (Jahrgang 1963) ist ebenfalls Physiker. Bei PerkinElmer in Hamburg leitet er die Entwicklung optischer Analysegeräte für die biologische und pharmazeutische Forschung. In seiner Freizeit faszinieren ihn alte Mechanik, Elektronik und Rechentechnik. 
-
-Die seriellen Rechnerarchitekturen der 40er und 50er Jahre mit ihren Trommel- und Laufzeitspeichern fand er so spannend, dass er sie in bit-genauen Funktionsmodellen auf FPGA-Basis nachgebaut hat. Als er dann im Technikum29 einem der wenigen erhaltenen Originale in Röhrentechnik begegnete, war sofort klar, dass er mithilft, diesen Computer und seine jüngeren, transistorbasierten "Geschwister" wieder betriebsbereit zu machen.
+			<br/>
+			Die seriellen Rechnerarchitekturen der 40er und 50er Jahre mit ihren Trommel- und Laufzeitspeichern fand er so spannend, dass er sie in bit-genauen Funktionsmodellen auf FPGA-Basis nachgebaut hat. Als er dann im Technikum29 einem der wenigen erhaltenen Originale in Röhrentechnik begegnete, war sofort klar, dass er mithilft, diesen Computer und seine jüngeren, transistorbasierten "Geschwister" wieder betriebsbereit zu machen.
 		</biography>
 	</member>
 	
@@ -77,14 +77,6 @@ Die seriellen Rechnerarchitekturen der 40er und 50er Jahre mit ihren Trommel- un
 			zusammen in Hettenheim. Beruflich entwickelt er moderne Analog- und
 			Hybridrechner. Außerdem hält er an der FOM in Frankfurt eine
 			Professur für Buisness-Informatik inne.
-		</biography>
-	</member>
-	
-	<member identifier="xyz" full_name="X Y">
-		<img class="thumbnail" src="..." />
-		<img class="photo" src="..." />
-		<biography>
-			X Y ist ...
 		</biography>
 	</member>
 

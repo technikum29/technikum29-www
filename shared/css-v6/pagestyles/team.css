@@ -7,3 +7,10 @@
 #content img.thumbnail {
 	width: 200px;
 }
+
+@media all and (max-width: 1250px) { /* mobile */
+	#content h4 {
+		margin-top: 1em;
+		text-align: center;
+	}
+}

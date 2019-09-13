@@ -57,7 +57,9 @@
 		<img class="thumbnail" src="...." />
 		<img class="photo" src="..." />
 		<biography>
-			Jürgen Müller ist ...
+			Dr. Jürgen Müller (Jahrgang 1963) ist ebenfalls Physiker. Bei PerkinElmer in Hamburg leitet er die Entwicklung optischer Analysegeräte für die biologische und pharmazeutische Forschung. In seiner Freizeit faszinieren ihn alte Mechanik, Elektronik und Rechentechnik. 
+
+Die seriellen Rechnerarchitekturen der 40er und 50er Jahre mit ihren Trommel- und Laufzeitspeichern fand er so spannend, dass er sie in bit-genauen Funktionsmodellen auf FPGA-Basis nachgebaut hat. Als er dann im Technikum29 einem der wenigen erhaltenen Originale in Röhrentechnik begegnete, war sofort klar, dass er mithilft, diesen Computer und seine jüngeren, transistorbasierten "Geschwister" wieder betriebsbereit zu machen.
 		</biography>
 	</member>
 	

@@ -53,6 +53,24 @@
 		</biography>
 	</member>
 	
+	<member identifier="juergen" full_name="Jürgen Müller">
+		<img class="thumbnail" src="/shared/photos/blog/juergen-mueller.jpg" />
+		<img class="photo" src="/shared/photos/blog/juergen-mueller.jpg" />
+		<biography>
+			Dr. Jürgen Müller (born 1963) is also physicist. He is leading the
+			development of optical analysers for biological and pharmaceutical
+			research at <a href="https://www.perkinelmer.com/">PerkinElmer</a>.
+			He spends his spare time with any kind of vintage mechanics,
+			electronics and computer technology.
+			<br/>One of his archivements in the museum is the FPGA rebuild of the
+			exact curcuit of the serial computer architectures of the 40s and
+			50s with its drum and runtime storages. At the moment he encountered
+			one of the few original tube computers in the technikum29, it was
+			immediately obvious that he will be helping to restore this
+			computer.
+		</biography>
+	</member>
+	
 	<member identifier="bernd" full_name="Bernd Ulmann">
 		<img class="thumbnail" src="/shared/photos/blog/bernd-ulmann.thumb.jpg" />
 		<img class="photo" src="/shared/photos/blog/bernd-ulmann.jpg" />

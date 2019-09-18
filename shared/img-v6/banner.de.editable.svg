@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 109.36111 29.633333"
+   height="29.633333mm"
+   width="109.36111mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-153.20634,-196.00476)"
+     id="layer1">
+    <flowRoot
+       transform="matrix(0.38616026,0,0,0.38616026,575.82488,118.65467)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:81.09999895%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot815"
+       xml:space="preserve"><flowRegion
+         id="flowRegion817"><rect
+           y="213.94826"
+           x="-1031.4286"
+           height="491.42856"
+           width="1040"
+           id="rect819" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Std';-inkscape-font-specification:'Futura Std'"
+         id="flowPara821">technikum29</flowPara></flowRoot>    <g
+       id="layer1-4"
+       transform="matrix(0.32484146,0,0,0.32484146,250.26857,239.65125)">
+      <path
+         id="path68"
+         style="fill:none;stroke:#000000;stroke-width:2.05023098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -264.18245,-127.92856 -29.56094,79.406425 h 18.87829 c 0,-0.09276 -0.008,-0.185612 -0.008,-0.278468 0,-17.253313 10.86055,-31.959189 26.12176,-37.686746 z" />
+      <path
+         id="path76"
+         style="fill:none;stroke:#000000;stroke-width:2.05023098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -247.00929,-81.812589 c -13.36196,5.023732 -22.8592,17.903005 -22.8592,33.012024 v 0.278468 h 11.86727 c -0.007,-0.09286 0,-0.185612 0,-0.278468 0,-10.00814 6.28299,-18.554198 15.12913,-21.90432 z" />
+      <path
+         id="path84"
+         style="fill:none;stroke:#000000;stroke-width:2.05023098;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -241.18365,-66.162322 c -7.00173,2.662607 -11.98313,9.42819 -11.98313,17.361778 0,0.09276 0.008,0.185612 0.008,0.278469 h 18.53709 z" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:81.09999895%;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.21028221,0,0,0.21028221,395.16081,171.21108)"><flowRegion
+         id="flowRegion949"><rect
+           id="rect947"
+           width="1040"
+           height="491.42856"
+           x="-1031.4286"
+           y="213.94826" /></flowRegion><flowPara
+         id="flowPara951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Std';-inkscape-font-specification:'Futura Std';letter-spacing:2.91909313px">Lebendiges Museum</flowPara></flowRoot>  </g>
+</svg>

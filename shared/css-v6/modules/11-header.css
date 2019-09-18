@@ -29,8 +29,8 @@ h1 a {
 	width: 310px; height: 84px;
 }
 
-body.lang-de h1 a { background-image: url("/shared/img-v6/banner.de.png"); }
-body.lang-en h1 a { background-image: url("/shared/img-v6/banner.en.png"); }
+body.lang-de h1 a { background-image: url("/shared/img-v6/banner.de.svg"); }
+body.lang-en h1 a { background-image: url("/shared/img-v6/banner.en.svg"); }
 
 /* Horizontal Navigation (Hauptnavigation) */
 nav.horizontal {

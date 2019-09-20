@@ -80,13 +80,33 @@
 		</biography>
 	</member>
 
-	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
+	<!--
+	  Füge an dieser Stelle neue Teammitglieder hinzu (oder sortiere
+	  sie alphabetisch ein.
+	
+	  Das Format ist einfach:
+	
+	<member identifier="vorname" full_name="Vorname Nachname">
+	  <img class="thumbnail" src="/shared/photos/blog/photo-falls-vorhanden.jpg">
+	  <biography>
+	    Text der in der Team-Liste erscheint
+	  </biography>
+	</member>
+	-->
+
+	<member is_dummy="Yes" identifier="you" full_name="Du?" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />
 		<abstract>
-			<em>Vielleicht Sie?</em>
+			<!-- angezeigt im Blog -->
+			<em>Vielleicht Du?</em>
 			Wir laden unsere Besucher und Freunde des Museums ein, uns Texte
 			oder Beiträge in sozialen Netzwerken
-			<a href="/en/contact.php">per Mail</a> zu schicken.
+			<a href="/de/impressum.php">per Mail</a> zu schicken.
 		</abstract>
+		<biography>
+			<!-- angezeigt in Team-Liste -->
+			Wir sammeln derzeit Kurz-Biographien von unseren Mitarbeitern und
+			Unterstützern. Beiträge bitte <a href="/de/impressum.php">per Mail</a>.
+		</biography>
 	</member>
  </team>

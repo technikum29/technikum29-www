@@ -1,4 +1,46 @@
 
+/* Group listing */
+
+ul.thumbs, ul.thumbs li {
+	list-style: none;
+	margin: 0; padding: 0;
+}
+
+ul.thumbs:after { /* clearfix */
+	content: ".";
+	clear: both;
+	display: block;
+	visibility: hidden;
+	height: 0px;
+}
+
+ul.thumbs {
+	margin: 1em 0;
+}
+
+ul.thumbs a {
+	display: block;
+	text-align: center;
+	width: 8em;
+	float: left;
+	margin: .5em;
+}
+
+ul.thumbs span {
+	text-decoration: none;
+	display: block;
+	margin: .2em 0;
+}
+
+ul.thumbs a img {
+	display: block;
+	width: 100% !important;
+	border-radius: 50%;
+}
+
+
+/* Particular listing */
+
 #content h4 {
 	border: none;
 	margin-top: 0;

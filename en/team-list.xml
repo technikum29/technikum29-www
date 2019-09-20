@@ -88,7 +88,7 @@
 	</member>
 	
 
-	<member is_dummy="Yes" identifier="you" is_active_blog_author="Yes">
+	<member is_dummy="Yes" identifier="you" full_name="You?" is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/blog-author-you.svg" />
 		<abstract>
 			<em>Probably you?</em>
@@ -97,5 +97,8 @@
 			<a href="https://github.com/technikum29/technikum29-www">via Github</a>
 			(it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
 		</abstract>
+		<biography>
+			Please send us a short bio if you want to appear here.
+		</biography>
 	</member>
  </team>

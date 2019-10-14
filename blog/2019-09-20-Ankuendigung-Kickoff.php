@@ -1,5 +1,5 @@
 <?php
-	$blog_title = "Auftakttreffen im technikum29";
+	$blog_title = "Ankündigung: Auftakttreffen im technikum29";
 	$blog_title_kurz = "Aufakttreffen im technikum29";
 	$blog_author = "Sven";
 	$blog_date = "2019-09-20";
@@ -16,9 +16,13 @@ unsere Pforten, und zwar für ein Auftakttreffen. Das könnte man auch
 "Kick-Off-Treffen" oder "Tag der offenen Tür" nennen, wenngleich wir aus organisatorischen
 Gründen dringend um eine <a href="/de/impressum.php">Anmeldung per E-Mail</a> bitten.
 
-<p>Es folgt der Text  <a rel="nofollow" href="http://www.technikum29.de/auftakt/Einladung Auftakttreffen.pdf">unserer
-Einladung</a>:
+<p>Weitere Dokumente:
 
+<ul>
+  <li><a rel="nofollow" href="http://www.technikum29.de/auftakt/Einladung Auftakttreffen.pdf">Einladungsschreiben</a>
+</ul>
+
+<!--
 <p>Wir laden für
 <strong>Sonntag, dem 27. Oktober 2019 um 15 Uhr</strong> in das technikum29 in
 Kelkheim ein, um die Fortschritte seit dem Tod von Heribert Müller zu präsentieren,
@@ -92,6 +96,7 @@ wir eine Vorstellung bekommen, wie viele Teilnehmer uns erwarten.
 
 <p>Viele Grüße, <a href="/de/team">Sven und Roland</a>
 </blockquote>
+-->
 
 
 <?php print_author_info(); ?>

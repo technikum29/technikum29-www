@@ -59,6 +59,7 @@ function slurp_blog_postings() {
 	// but instead, for the time being, just slurp the interesting stuff with regexpes :(
 	// That's of course not super stable at all.
 	$posting_files = glob("../blog/201*.php");
+	arsort($posting_files); // newest to oldest
 	$postings = array();
 	foreach($posting_files as $posting) {
 		$posting_text = file_get_contents($posting);

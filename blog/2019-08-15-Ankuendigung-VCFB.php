@@ -1,6 +1,6 @@
 <?php
-	$blog_title = "technikum29 auf dem Vintage Computing Festival Berlin";
-	$blog_title_kurz ="technikum29 auf dem VCFB";
+	$blog_title = "Ankündigung: technikum29 auf dem Vintage Computing Festival Berlin";
+	$blog_title_kurz ="Das technikum29 kommt zum VCFB 2019";
 	$blog_author = "Sven";
 	$blog_date = "2019-08-15";
 
@@ -28,6 +28,8 @@ auf der Konferenzwebsite:
 <a href="https://media.ccc.de/b/conferences/vcfb/">media.ccc.de</a> veröffentlicht.
 Geplant ist womöglich auch ein Poster.
 
+<p><em>Nachtrag: Wir waren dort und haben
+<a href="2019-10-14-VCFB-Nachlese.php">eine Nachlese</a> geschrieben.</em>
 
 
 <?php print_author_info(); ?>

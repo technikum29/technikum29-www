@@ -7,7 +7,9 @@ Disallow: /logs/
 Allow: /de/
 Allow: /en/
 Allow: /shared/
+Allow: /download/
+Allow: /blog/
 
 # kurzfristig:
-Disallow: /klima-laerm/
-Disallow: /schule/
+Disallow: /inv/
+Disallow: /auftakt/

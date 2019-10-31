@@ -29,6 +29,7 @@
 		</ul>
 	</li>
 	<li><a seiten_id="team" href="/de/team.php">Team</a></li>
+	<li><a seiten_id="faq" href="/de/faq.php">FAQ</a></li>
 	<!-- ist derzeit einfach nicht relevant: -->
 	<!--<li><a seiten_id="wir-suchen" href="/de/wir-suchen.php">Gesucht</a></li>-->
 	<li><a seiten_id="impressum" href="/de/impressum.php">Kontakt</a></li>

@@ -58,7 +58,7 @@
          von Fachkundigen vorgeführt.
       <p>Dies ist mindestens deutschlandweit einmalig,
          ähnliche Konzepte finden sich weltweit nur im
-         <a href="http://www.computinghistory.org.uk/">UK Copmuter Museum</a>,
+         <a href="http://www.computinghistory.org.uk/">UK Computer Museum</a>,
          dem <a href="https://livingcomputers.org/">Seattle Living Computer Museum</a>
          und natürlich dem <a href="https://www.computerhistory.org/">Kalifornischen
          Computer History Museum</a>. In allen drei Museen bildet die Restauration von
@@ -73,7 +73,7 @@
       <p>Der Gründer des Computermuseums, <a href="/heribert-mueller">Heribert Müller</a>,
          ist im April 2018 gestorben. Er gründete 2005 in einer ehemaligen Sparkassenfiliale
          das technikum-Computermuseum, die <em>29</em> ist dabei der Hausnummer entnommen.
-         Der Begriff <em>technikum</em> hingegen bezeichnete einst eine Ingeneursschule.
+         Der Begriff <em>technikum</em> hingegen bezeichnete einst eine Ingenieursschule.
          Heribert Müller war Studienrat für Mathematik und Physik, eine umfassende
          elektrotechnische Ausbildung aufbauend auf der Geschichte der Kommunikations-
          und Rechnertechnik war für ihn ein Ideal. Als Kind des Nachkriegsdeutschlands

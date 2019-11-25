@@ -58,7 +58,14 @@
         font-size: 150%;
         margin: 10px 0 10px 0;
         padding: 0;
-        page-break-after: avoid;  /* auch wenn's nur Opera rafft ;) */
+    }
+    
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    header.teaser h2 {
+        background-color: white !important;
     }
     
     header.banner, section.sidebar, footer.in-sheet {
@@ -77,6 +84,11 @@
         margin: 1em 0;
         font-size: 80%;
         text-align: center;
+    }
+    
+    
+    #content .box {
+       page-break-inside: avoid;
     }
     
     /***** TEXT *****/

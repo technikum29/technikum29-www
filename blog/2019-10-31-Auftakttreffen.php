@@ -81,6 +81,7 @@ per Forum in Berührung. Wir probieren's auch als
 der Vereinsmodalitäten.
 
 
+<?php print_author_info(); ?>
 
 
 

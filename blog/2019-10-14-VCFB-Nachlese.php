@@ -52,3 +52,5 @@ href="https://media.ccc.de/v/vcfb19_-_107_-_de_-_201910121215_-_technikum29_-_ro
   src="https://media.ccc.de/v/vcfb19_-_107_-_de_-_201910121215_-_technikum29_-_roland_langfeld_-_sven_koeppel/oembed"
   frameborder="0" allowfullscreen
 ></iframe>
+
+<?php print_author_info(); ?>

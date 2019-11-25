@@ -25,3 +25,5 @@ Wochenende keine öffentliche Veranstaltung und keine Führung statt.
      Symbolbild: Trommelsimulator an der LPG30 (an einem vergangenen Arbeitswochenende).
    </div>
 </div>
+
+<?php print_author_info(); ?>

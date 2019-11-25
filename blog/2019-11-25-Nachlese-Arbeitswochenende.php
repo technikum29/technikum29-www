@@ -39,5 +39,4 @@ und Notebook ausgestattet).
 
 <p>Allen Beteiligten ein Riesen-Dankeschön!
 
-
-
+<?php print_author_info(); ?>

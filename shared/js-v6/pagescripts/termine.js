@@ -59,9 +59,9 @@ $(function() {
 				// nur ein Termin angeboten:
 				// statt chooser einfach fixe Vorgabe machen (keine Auswahlmoeglichkeit)
 				$anmeldebox.find("input[name='veranstaltung']").val(
-					(called_with_termin ? $termin : veranstaltungen).find('h4').text());
+					(called_with_termin ? $termin : veranstaltungen).find('h4').text()).prop('readonly', true);
 				$anmeldebox.find("input[name='termin']").val(
-					(called_with_termin ? $termin : veranstaltungen).find('dd.termin').text());
+					(called_with_termin ? $termin : veranstaltungen).find('dd.termin').text()).prop('readonly', true);
 			}
 			
 			// Abbrechen-Button mit Funktion befüllen
@@ -134,5 +134,5 @@ $(function() {
 		return false;
 	};
 	//$("a.anmeldung-btn, a.anmeldung").click(anmeldung_zeigen);
-	$("dd.anmelden button").click(anmeldung_zeigen);
+	$("dd.anmelden .button").click(anmeldung_zeigen);
 });

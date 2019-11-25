@@ -1,33 +1,84 @@
 <?php
-/**
- * Die Termine-Seite wurde im Mai 2013 überlegt und von Sven vorgeschlagen.
- * Durch folgende Anweisung ist sie deaktiviert, ein Aufruf leitet zur
- * Startseite weiter (dort zum Anker "Termine"):
- **/
- 
-#	header("Location: /de/#Termine"); exit;
-
-/**
- * Wenn obige "header(...)"-Zeile auskommentiert bzw entfernt wird, ist diese
- * Seite wieder aufrufbar.
- **/
-
 	$seiten_id = 'termine';
 	$version = '$Id: index.php 387 2013-05-08 09:58:11Z heribert $';
-	$titel = 'Termine für Führungen';
+	$titel = 'Kalender und Termine';
 	
 	require "../lib/technikum29.php";
 ?>
 
-	<!-- Bereiche "nur-auf-deutscher-seite" werden im Englischen nicht angezeigt -->
-	<div class="nur-auf-deutscher-seite">
-	<h2>Termine, Führungen und Events</h2>
-	
-	Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
-	<strong>ist der öffentliche Museumsbetrieb derzeit eingestellt</strong>.
-	Die Freunde und Förderer des Museums möchten aber wieder die Tore des Museums öffnen.
-	Dabei wird es sich in erster Linie um Führungen handeln. Sobald dies möglich sein
-	wird, werden wir an dieser Stelle berichten.
+
+<h2>Kalender und Termine</h2>
+
+<p>Es folgt ist eine Auflistung aktueller und jüngerer ehemaliger Termine im technikum29.
+Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
+kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir planen ab
+Januar 2020 wieder Führungen anzubieten.
+
+<div id="termine">
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 18. Jan.</p>
+	<h4>Erste öffentliche Führung 2020</h4> 
+	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 18. Januar 2020
+		<dt>Uhrzeit
+		<dd>Wird noch bekannt gegeben (vorraussichtlich um 15:00 Uhr)
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Peron
+		<dt>Anmeldung
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+	</dl>
+</div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 19. Jan.</p>
+	<h4>Führung "Computergeschichte"</h4> 
+	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 19. Januar 2020
+		<dt>Uhrzeit
+		<dd>Wird noch bekannt gegeben (vorraussichtlich um 15:00 Uhr)
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Peron
+		<dt>Anmeldung
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+	</dl>
+</div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<h4>First tour in English 2020</h4> 
+	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
+	The focus will be given on computer technology.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 25. Januar 2020
+		<dt>Uhrzeit
+		<dd>9:00 Uhr
+		<dt>Sprache
+		<dd>Englisch
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Peron
+		<dt>Anmeldung
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+	</dl>
+</div><!--/.termin -->
+
+</div><!--/#termine -->
+
+<div style="margin-top:3em">
 		
 
 	<!--
@@ -43,9 +94,6 @@
 		<!--	>>ausgebucht! -->
 	
 	<!--Die folgende Tabelle listet Gruppenanmeldungen und Events auf.-->
-	</div><!-- Ende nur-auf-deutscher-seite -->
-	
-	
 	<h3>Archiv alter Führungen</h3>
 	<p>Zu chronologischen Zwecken existiert 
 	hier eine (unvollständige) Liste aller Termine, die zumindest auf der Homepage

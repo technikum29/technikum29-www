@@ -8,46 +8,74 @@
 	require "../lib/mail/mailer.php";
 
 	// Captcha-Sicherung gegen Spam hier an- oder ausschalten
-	$spamschutz_aktiv = false;
+	$spamschutz_aktiv = true;
 	
 	// Bestätigungsmail hier ein- oder ausschalten
-	$bestaetigungsmail_senden = false;
+	$bestaetigungsmail_senden = true;
 	
-	if(empty($_POST)) { // Wenn noch keine Formulardaten vorhanden sind, eigentliches Formular anzeigen
+	$pflicht = array('veranstaltung', 'termin', 'anmelder_name', 'email_adresse');
+	$passable = array('veranstaltung', 'termin');
+
+	
+	$form_errnous = false;
+	if(!empty($_POST)) { // checken ob alle Pflichtfelder vorhanden sind
+		foreach($pflicht as $feld) {
+			if(isset($_POST[$feld]) && !empty($_POST[$feld])) continue;
+			$form_errnous = true; break;
+		}
+	}
+	
+	$captcha_failed = $spamschutz_aktiv && !empty($_POST) && 
+	  (!isset($_POST['captcha']) || !isset($_POST['captcha_challenge'])
+	   || sha1($_POST['captcha']) != $_POST['captcha_challenge']);
+        $form_errnous |= $captcha_failed;
+
+	
+	if(empty($_POST) || $form_errnous) { // Wenn noch keine Formulardaten vorhanden sind, eigentliches Formular anzeigen
 	?>
 
 	<h2>Termine und Führungen - Anmeldung</h2>
 	
+	<?php
+	if($form_errnous) {
+		// Richtig hässliche Fehlerseite anzeigen
+		?><div style='background-color: #d9534f; color:white; padding: 1em;'><h4>Bitte füllen Sie das Anmeldeformular vollständig aus</h4>
+			<p>Die Angabe von Name, Termin, Veranstaltung und E-Mail-Adresse ist zwingend erforderlich.
+			Auch das Captcha muss richtig ausgefüllt werden. Falls das Formular für Sie nicht ausfüllbar
+			ist, verschwenden Sie keine Zeit, sondern senden Sie uns eine E-Mail an die im
+			<a href="/de/impressum.php">Impressum</a> angegebenen Kontaktdaten.
+		</div><?php
+	} ?>
+		
 	<p>Siehe die <a href="/de/termine.php">Terminübersicht</a> für verfügbare Termine.</p>
 	
 	<?php
-		$veranstaltung = isset($_GET['veranstaltung']) ? $_GET['veranstaltung'] : '';
+		$passable_element = array();
+		foreach($passable as $k) {
+			if(isset($_REQUEST[$k]) && !empty($_REQUEST[$k])) {
+				$val = htmlentities($_REQUEST[$k], ENT_QUOTES);
+				$r = $val . '<input type="hidden" name="'.$k.'" name="'.$val.'">';
+			} else  $r = '<input type="text" name="'.$k.'" required>';
+			$passable_element[$k] = $r;
+		}
 	?>
 	
 	<div class="anmelde-maske">
 	    <form id="anmeldung" action="<?=$host->rewrite_link('/de/anmeldung.php'); ?>" method="POST">
 			<dl>
 				<dt>Veranstaltung</dt>
-				<dd><?php if($veranstaltung) {
-					echo $veranstaltung;
-					echo '<input type="hidden" name="veranstaltung" name="'.$veranstaltung.'">';
-				} else { ?>
-					<input type="text" name="veranstaltung" required>
-				
-				<?php } /* if */ ?>
+				<dd><?php print $passable_element['veranstaltung'] ; ?>
 				</dd>
 				
 				<dt>Termin</dt>
-				<!--<dd><%=termin%>
-				<input type="hidden" name="termin" value="<%=termin%>">-->
-				<dd class="termin"><input type="text" name="termin" required>
+				<dd class="termin"><?php print $passable_element['termin'] ; ?>
 				</dd>
 
 				<dt>Name</dt>
 				<dd><input type="text" name="anmelder_name" required></dd>
 
-				<dt>Anzahl der Personen</dt>
-				<dd><input type="number" min="0" name="personenanzahl"></dd>
+				<dt>Anzahl</dt>
+				<dd><input type="number" min="1" value="1" name="personenanzahl"> Teilnehmer</dd>
 				
 				<dt>E-Mail-Adresse</dt>
 				<dd><input type="email" name="email_adresse" required></dd>
@@ -62,23 +90,53 @@
 				
 				<?php if($spamschutz_aktiv) { ?>
 				<dt>Captcha</dt>
-				<dd>Bitte bestätigen Sie, dass Sie menschlich sind:
+				<dd><div class="captcha">
+				Bitte demonstrieren Sie, dass Sie kein Roboter sind. Tippen Sie
+				dazu bitte im folgenden Feld "Computer" ein:
+				<input type="hidden" value="<?php print sha1('Computer'); ?>" name="captcha_challenge">
+				<br><input type="text" name="captcha" required>
+				
+				
 				<?php
+				 /*
 					if($ajax) {
 						$pubkey = t29Mailer::recaptcha_get_publickey();
 						echo "<span class='t29-recaptcha' data-publickey='$pubkey'></span>";
 					} else
 						echo t29Mailer::recaptcha_get_html();
+					*/
 				?>
-				<p>Vielen Dank für Ihre Mithilfe gegen Spam.
-				</dd>
+				</div><!--/.captcha -->
 				<?php } /* $spamschutz_aktiv */ ?>
 				
-				<dd><input type="submit" value="Abschicken" class="submit">
+				<dt>Unterweisung</dt>
+				<dd>
+				<!--
+				<label for="sicherheitsunterweisung" class="checkbox">
+				  <input type="checkbox" id="sicherheitsunterweisung" required>
+				   <span>
+				   Die
+				   <a href="https://www.technikum29.de/download/Sicherheitsunterweisung.pdf">Sicherheitsunterweisung</a>
+				   habe ich mir durchgelesen.  Mir ist bewusst, dass ich das Museum auf eigenes
+				   Risiko besuche.
+				   </span>
+				</label>
+				-->
+				Aus Haftungsgründen findet zu Beginn des Besuches eine Sicherheitsunterweisung
+				statt. Die
+				<a target="_blank" href="https://www.technikum29.de/download/Sicherheitsunterweisung.pdf">Unterweisung
+				können Sie sich vorher durchlesen</a> und damit Zeit sparen.
+				<br>
+				<select name="sicherheitsunterweisung">
+					<option>Die Unterweisung lese ich mir erst bei Besuch durch</option>
+					<option>Ich habe die Unterweisung durchgelesen</option>
+					<option>Ich bringe einen unterschriebenen Ausdruck der Unterzeichnung mit</option>
+				</select>
+				
+				<dd><input type="submit" value="Anmelden" class="submit">
 
-				<!-- Heribert will das Abbrechen-Button nicht -->
-				<!-- ist aber noch mit jquery-Funktion besehen -->
-				<!--<input type="reset" value="Abbrechen">-->
+				<!-- ist mit jquery-Funktion besehen -->
+				<!-- <input type="reset" value="Abbrechen"> -->
 				</dd>
 			</dl>
 	    </form>
@@ -91,7 +149,7 @@
 		$mailer = new t29Mailer($_POST);
 		
 		// fill up form data
-		$mailer->to = "team"; // team@t29 geht an Mailingliste (und damit Heribert, Sven)
+		$mailer->to = "kontakt";
 		$mailer->subject = "Webanmeldung für Führung \"{veranstaltung}\"";
 		$from = 'dev'; // Spamschutz (webSVN)
 		$mailer->header = array(
@@ -107,11 +165,12 @@ auf der Anmeldungsseite der Homepage www.technikum29.de ging eine neue Anmeldung
 
 Veranstaltung: {veranstaltung}
 Termin: {termin}
-(Vgl. Termine auf Startseite: http://www.technikum29.de/de/#termine
+Vgl. angekündigte Termine: https://www.technikum29.de/de/termine
 
 Name: {anmelder_name}
 Anzahl der Personen: {personenanzahl}
 E-Mail-Adresse: {email_adresse}
+Unterweisung: {sicherheitsunterweisung}
 
 Ggf. weitere Anmerkungen, die angegeben wurden:
 {weitere_anmerkungen}
@@ -119,7 +178,7 @@ Ggf. weitere Anmerkungen, die angegeben wurden:
 $mailer_ack_text
 
 Viele Grüße,
-deine Website
+die technikum29-Website
 
 PS: Wenn im Rahmen dieser Mail auch Spam ankommt, wird das System missbraucht. Dann bitte
 bescheid sagen.
@@ -136,11 +195,11 @@ MAIL_BODY;
 		$mailer->ack_body = <<<ACK_MAIL_BODY
 Hallo {anmelder_name},
 
-vielen Dank für Ihre Web-Anmeldung zu einer Führung im technikum29-Computermuseum (http://www.technikum29.de/).
+vielen Dank für Ihre Web-Anmeldung zu einer Führung im technikum29-Computermuseum (https://www.technikum29.de/).
 
-Sie haben sich mit {personenanzahl} zu der Führung "{veranstaltung}" am {termin} angemeldet.
+Sie haben sich mit {personenanzahl} Personen zu der Führung "{veranstaltung}" am {termin} angemeldet.
 
-Diese Mail bestätigt den Eingang ihrer Anmeldung. Bitte setzen Sie sich bei weiteren Fragen mit der Museumsführung in Kontakt, schreiben Sie dazu eien Mail an post@technikum29.de, siehe auch Kontaktdaten auf http://www.technikum29.de/de/impressum .
+Diese Mail bestätigt nur den Eingang ihrer Anmeldung. Bitte setzen Sie sich bei weiteren Fragen mit der Museumsführung in Kontakt, schreiben Sie dazu eien Mail an kontakt@technikum29.de, siehe auch Kontaktdaten auf https://www.technikum29.de/de/impressum .
 
 Mit freundlichen Grüßen,
 das technikum29-Computermuseum
@@ -163,9 +222,9 @@ ACK_MAIL_BODY;
 			?><h2>Ihre Anmeldung wurde eingereicht</h2>
 			
 			<p>Vielen Dank für ihre Anmeldung zur Veranstaltung <strong><?=$mailer->veranstaltung; ?></strong> am
-			<strong><?=$mailer->termin; ?></strong>. <!--Sie erhielten eine Bestätigungsmail an ihre Mail-Adresse
+			<strong><?=$mailer->termin; ?></strong>. Sie erhielten eine Bestätigungsmail an ihre Mail-Adresse
 			<em><?=$mailer->email_adresse; ?></em>. Bei Fragen wenden Sie sich bitte an die Museumsführung, siehe
-			Kontaktdaten im <a href="/de/impressum">Impressum</a>.-->
+			Kontaktdaten im <a href="/de/impressum">Impressum</a>.
 			
 			<!--
 			Innerhalb von zwei Tagen erhalten Sie eine persönliche Bestätigungsmail. Sollte die Antwort ausbleiben,-->
@@ -174,24 +233,18 @@ ACK_MAIL_BODY;
 			herstellen.
 			</p>
 			
-			<p><a class="go" href="/de/">Zurück zur Startseite</a></p>
+			<p>Falls die Führung, an der Sie teilnehmen wollen, mit Eintrittsgeldern verbunden ist, können Sie diese auch vorab
+			per Überweisung oder Paypal leisten, siehe dazu
+			<a href="/de/unterstuetzen.php#Finanziell_helfen:_Spende">Übersicht für Spenden</a>. Ansonsten bitten wir
+			um wenn möglich passende Barzahlung beim Besuch.
+			
+			<p>Wir freuen uns auf Ihren Besuch!
+			
+			<p><a class="go" href="/de/">Zur Startseite des Museums</a></p>
 			
 			<?php
 		};
-		
-		// checken ob alle Pflichtfelder vorhanden sind
-		$pflicht = array('veranstaltung', 'termin', 'anmelder_name', 'email_adresse');
-		foreach($pflicht as $feld) {
-			if(isset($mailer->_values[$feld]) && !empty($mailer->_values[$feld])) continue;
-			
-			// Richtig hässliche Fehlerseite anzeigen
-			?><h2>Bitte füllen Sie das Anmeldeformular vollständig aus</h2>
-			<p>Die Angabe von Name, Termin, Veranstaltung und E-Mail-Adresse ist zwingend erforderlich.
-			<a class="go" href="javascript:history.go();">Zurückgehen und korrigieren</a> oder 
-			<a href="/de/anmeldung.php">Neu ausfüllen</a>.
-			<?php
-			return; // end of script
-		}	
+
 		
 		// mailer starten
 		if(!$mailer->run()) {

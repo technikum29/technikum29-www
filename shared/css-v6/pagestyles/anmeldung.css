@@ -24,9 +24,13 @@
 
 #anmeldung input[type=text],
 #anmeldung input[type=email],
-#anmeldung input[type=number],
+#anmeldung select,
 #anmeldung textarea {
 	width: 70%;
+}
+
+#anmeldung input[type=number] {
+	width: 3em;
 }
 
 #anmeldung textarea {
@@ -39,4 +43,23 @@
 
 #recaptcha_table {
 	background-color: white;
+}
+
+div.captcha {
+	width: 70%;
+	border: 1px solid  #aaa;
+	padding: 1em;
+	box-sizing: border-box;
+	font-size: 80%;
+	background-color: #eee;
+}
+
+label.checkbox {
+	width: 70%;
+	display: inline-flex;
+}
+
+label.checkbox span {
+	display: block;
+	margin-left: 1em;
 }

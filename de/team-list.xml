@@ -36,9 +36,15 @@
 		</biography>
 	</member>
 	
-	<member identifier="roland" full_name="Roland Langfeld">
+	<member identifier="roland" full_name="Roland Langfeld"  is_active_blog_author="Yes">
 		<img class="thumbnail" src="/shared/photos/blog/photo-rl.jpg" />
 		<img class="photo" src="/shared/photos/blog/photo-rl.jpg" />
+		<abstract> <!-- Kurzsform, zu sehen im Blog -->
+			Dr. Roland Langfeld ist seit 2016, damals noch zusammen mit Museumsgründer
+			Heribert Müller, im technikum29 aktiv. Er ist promovierter Physiker
+			und arbeitet bei der SCHOTT AG in verschiedenen leitenden Positionen.
+			Im Musem arbeitet er an diversen Rechnern und entwickelt Interfaceschaltungen.
+		</abstract>
 		<biography>
 			Dr. Roland Langfeld (Jahrgang 1957) ist Physiker und arbeitet bei der 
 			SCHOTT AG in Mainz in verschiedenen Positionen in der Zentralforschung, 

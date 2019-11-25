@@ -20,14 +20,22 @@ Wir befinden uns derzeit in einer Neugründungsphase und haben daher weder regel
 Öffnungszeiten, noch bieten wir Führungen an. In Einzelfällen führen wir derzeit in
 den Museumsräumen Gespräche mit Menschen, die beim technikum29 mitmachen möchten.
 
+<dd><em>Update:</em> Wir bieten im Januar 2019 einige Führungen an. 
+
 
 <dt>
-Ich habe etwas, was ich dem <a href="/">technikum29</a>
+Ich habe einen Gegenstand, den ich dem <a href="/">technikum29</a>
    verkaufen oder verschenken möchte.
 <dd>
 Wir befinden uns derzeit in einer Neugründungsphase und können daher im Allgemeinen
-   nichts annehmen.
+  nichts annehmen.
+
+<dt>
+Ich habe Zeit oder Geld, welches ich dem technikum29 schenken/spenden möchte.
+
+<dd>
+Siehe hierzu Informationen auf unserer neuen Seite
+<a href="/de/unterstuetzen.php">Wir suchen Unterstützer und Spender</a>.
 
 </dl>
-
 <em>Wird ergänzt...</em>

@@ -36,13 +36,13 @@ Januar 2020 wieder Führungen anzubieten.
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 19. Jan.</p>
+	<p class="date left"><em>2020</em> 25. Jan.</p>
 	<h4>Führung "Computergeschichte"</h4> 
 	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 19. Januar 2020
+		<dd class="termin">Samstag, 25. Januar 2020
 		<dt>Uhrzeit
 		<dd>Wird noch bekannt gegeben (vorraussichtlich um 15:00 Uhr)
 		<dt>Leitung
@@ -55,24 +55,24 @@ Januar 2020 wieder Führungen anzubieten.
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<p class="date left"><em>2020</em> 25. Feb.</p>
 	<h4>First tour in English 2020</h4> 
 	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
 	The focus will be given on computer technology.
 
 	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 25. Januar 2020
-		<dt>Uhrzeit
-		<dd>9:00 Uhr
-		<dt>Sprache
-		<dd>Englisch
-		<dt>Leitung
+		<dt>Day
+		<dd class="termin">Tuesday, February 25th, 2020
+		<dt>Time
+		<dd>9 AM
+		<dt>Language
+		<dd>English
+		<dt>Guide
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Peron
-		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+		<dt>Fee
+		<dd>8€ per person
+		<dt>Signup
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>
 	</dl>
 </div><!--/.termin -->
 

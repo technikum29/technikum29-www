@@ -77,10 +77,15 @@
 
 
     <h3>Über die Website</h3>
+    <p>
     Wir freuen uns jederzeit über Korrekturen zu unserer Website.
     Die Website wird gemeinschaftlich betrieben. Jeder kann in unserem
     <a href="https://github.com/technikum29/technikum29-www">öffentlichen Github-Repository</a> Änderungen
     vorschlagen (es <a href="https://github.blog/2012-12-05-creating-files-on-github/">ist einfach</a>).
+    
+    <p>
+    Unsere <a href="/de/datenschutz.php">Datenschutzhinweise</a> gemäß DSGVO beinhalten naheligende Informationen
+    zur Informationsverarbeitung auf unserer Website.
 
 
 

@@ -517,6 +517,7 @@ class t29Template {
 				<span class="p"><?php $p('footer-copyright-tag'); ?>
 				<br><a class="u" href="<?php print $href($_('footer-legal-file')); ?>"><?php $p('footer-legal-link'); ?></a>
 				<br><a class="u" href="<?php print $href($_('footer-sitemap-link')); ?>"><?php $p('footer-sitemap-text'); ?></a>
+				<br><a class="u" href="<?php print $href($_('footer-privacy-link')); ?>"><?php $p('footer-privacy-text'); ?></a>
 				</span>
 			</span></li>
 

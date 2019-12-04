@@ -37,8 +37,9 @@ class t29Menu {
 		// will fetch them with libxml_get_errors later.
 		//libxml_use_internal_errors(true);
 		
-		if(!function_exists("simplexml_load_file")) {
-			trigger_error("t29Menu: Require SimpleXML PHP extension to load menu.");
+		if(!function_exists("dom_import_simplexml") ||
+		   !function_exists("simplexml_load_file")) {
+			trigger_error("t29Menu: Require  PHP extensions to load menu (SimpleXML and DOM).");
 		} else {
 			// load xml file
 			$this->xml = simplexml_load_file($this->conf['webroot'].$this->conf['lang_path'] . '/' . self::navigation_file);

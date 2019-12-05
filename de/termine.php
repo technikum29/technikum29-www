@@ -57,7 +57,7 @@ Januar 2020 wieder Führungen anzubieten.
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. Jan.</p>
 	<h4>Führung "Computergeschichte"</h4> 
-	<p>AUSGEBUCHT !In dieser Führung wird die Computertechnik des Museums vorgestellt.
+	<p>AUSGEBUCHT ! In dieser Führung wird die Computertechnik des Museums vorgestellt.
 
 	<dl class="daten">
 		<dt>Tag
@@ -68,7 +68,7 @@ Januar 2020 wieder Führungen anzubieten.
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
 		<dd>8€ pro Peron
-		<dt>keine Anmeldung mehr möglich !
+		<dt>ausgebucht
 		
 	</dl>
 </div><!--/.termin -->

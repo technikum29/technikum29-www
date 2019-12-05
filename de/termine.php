@@ -77,7 +77,48 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		
 	</dl>
 </div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<h4>Führung "Computergeschichte"</h4> 
+	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 15. Februar 2020
+		<dt>Uhrzeit
+		<dd>14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Person
+		<dt>
+		<dd>noch 15 freie Plätze
+		<dt>Anmeldung
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+	</dl>
+</div><!--/.termin -->
 	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<h4>Führung "Computergeschichte"</h4> 
+	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Sonntag, 16. Februar 2020
+		<dt>Uhrzeit
+		<dd>14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Person
+		<dt>
+		<dd>noch 15 freie Plätze
+		<dt>Anmeldung
+		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+	</dl>
+</div><!--/.termin -->
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. Feb.</p>

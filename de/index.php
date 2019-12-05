@@ -118,7 +118,7 @@
         <h2>Führungen und Öffnungszeiten</h2>
         <p>Das technikum29 ist ein privat geführtes Museum. Aufgrund des Todes des Betreibers im April 2018
            wurde der Museumsbetrieb bislang eingestellt. Zu seinen Lebzeiten wurden regelmäßig 90-minütige
-           Führungen angeboten, reguläre Öffnungszeiten gab es nicht. <!--Der Eintritt war in der Regel frei.-->
+           Führungen angeboten, reguläre Öffnungszeiten gab es nicht.
 
         <p>Ab Januar 2020 öffnen die Freunde und Förderer des Museums das Gebäude wieder und
            <a href="/de/termine.php">bieten wieder Führungen an</a>.

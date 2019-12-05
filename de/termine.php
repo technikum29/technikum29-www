@@ -11,8 +11,8 @@
 
 <p>Es folgt ist eine Auflistung aktueller und jüngerer ehemaliger Termine im technikum29.
 Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
-kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir planen ab
-Januar 2020 wieder Führungen anzubieten.
+kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir bieten ab
+Januar 2020 wieder Führungen an.
 
 <div id="termine">
 

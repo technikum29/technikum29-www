@@ -30,7 +30,7 @@ Januar 2020 wieder Führungen anzubieten.
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
 		<dd>8€ pro Peron
-		<dt>Anmeldung
+		<dt>nur noch 4 freie Plätze ! Anmeldung
 		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
 	</dl>
 </div><!--/.termin -->

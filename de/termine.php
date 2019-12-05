@@ -29,7 +29,7 @@ Januar 2020 wieder Führungen anzubieten.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
-		<dd>8€ pro Peron
+		<dd>8€ pro Person
 		<dt>
 		<dd>nur noch 4 freie Plätze !
 		<dt>Anmeldung
@@ -50,7 +50,9 @@ Januar 2020 wieder Führungen anzubieten.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
-		<dd>8€ pro Peron
+		<dd>8€ pro Person
+		<dt>
+		<dd>noch 15 freie Plätze
 		<dt>Anmeldung
 		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
 	</dl>
@@ -59,7 +61,7 @@ Januar 2020 wieder Führungen anzubieten.
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. Jan.</p>
 	<h4>Führung "Computergeschichte"</h4> 
-	<p>AUSGEBUCHT ! In dieser Führung wird die Computertechnik des Museums vorgestellt.
+	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
 
 	<dl class="daten">
 		<dt>Tag
@@ -69,8 +71,9 @@ Januar 2020 wieder Führungen anzubieten.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
-		<dd>8€ pro Peron
-		<dt>ausgebucht
+		<dd>8€ pro Person
+		<dt>
+		<dd>ausgebucht
 		
 	</dl>
 </div><!--/.termin -->
@@ -93,6 +96,8 @@ Januar 2020 wieder Führungen anzubieten.
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Fee
 		<dd>8€ per person
+		<dt>
+		<dd>10 seats available
 		<dt>Signup
 		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>
 	</dl>

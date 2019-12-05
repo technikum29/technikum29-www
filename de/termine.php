@@ -25,7 +25,7 @@ Januar 2020 wieder Führungen anzubieten.
 		<dt>Tag
 		<dd class="termin">Samstag, 18. Januar 2020
 		<dt>Uhrzeit
-		<dd>Wird noch bekannt gegeben (vorraussichtlich um 15:00 Uhr)
+		<dd>14:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
@@ -44,7 +44,7 @@ Januar 2020 wieder Führungen anzubieten.
 		<dt>Tag
 		<dd class="termin">Samstag, 25. Januar 2020
 		<dt>Uhrzeit
-		<dd>Wird noch bekannt gegeben (vorraussichtlich um 15:00 Uhr)
+		<dd>14:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>Eintritt
@@ -54,6 +54,26 @@ Januar 2020 wieder Führungen anzubieten.
 	</dl>
 </div><!--/.termin -->
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<h4>Führung "Computergeschichte"</h4> 
+	<p>AUSGEBUCHT !In dieser Führung wird die Computertechnik des Museums vorgestellt.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 28. Januar 2020
+		<dt>Uhrzeit
+		<dd>9:30 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Peron
+		<dt>keine Anmeldung mehr möglich !
+		
+	</dl>
+</div><!--/.termin -->
+	
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. Feb.</p>
 	<h4>First tour in English 2020</h4> 

@@ -120,8 +120,8 @@
            wurde der Museumsbetrieb bislang eingestellt. Zu seinen Lebzeiten wurden regelmäßig 90-minütige
            Führungen angeboten, reguläre Öffnungszeiten gab es nicht. <!--Der Eintritt war in der Regel frei.-->
 
-        <p>Ab 2020 möchten die Freunde und Förderer des Museums das Gebäude wieder öffnen und
-           <a href="/de/termine.php">wieder Führungen anbieten</a>.
+        <p>Ab Januar 2020 öffnen die Freunde und Förderer des Museums das Gebäude wieder und
+           <a href="/de/termine.php">bieten wieder Führungen an</a>.
 	  
         <!--
         

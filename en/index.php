@@ -95,8 +95,9 @@
            in April 2018, we currently (still) do not offer any public openings. When
            he was still alive, guided tours in German language
            were given on a quite regular level, which typically lasted for about 90 minutes.
-           Usually, there was no entrance fee.
-        <p>We plan to reopen the museum in 2019 or 2020.
+          
+        <p>In January 2020 friends and supporters of technikum29 re-open the museum
+           <a href="/de/termine.php">and offer guided tours</a>.
 
 		
 </div><!--cools-->

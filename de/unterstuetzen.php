@@ -40,7 +40,7 @@ oder Museumsbetrieb. Unsere Mitstreiter arbeiten hingegen ehrenamtlich und zahle
 auch Fahrtkosten zum Museum oder zu anderen Orten aus eigener Tasche.
 
 <p>Da wir bislang bereits oft gefragt wurden, ob man uns etwas <strong>spenden</strong>
-kann, haben wir vorab ein Konto eingerichtet. Wir empfangen Zahlungen bei derzeit
+kann, haben wir vorab ein Konto eingerichtet. Wir empfangen Zahlungen
 auf folgendem Bankkonto:
 
 <blockquote>

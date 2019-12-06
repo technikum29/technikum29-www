@@ -52,7 +52,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>noch 15 freie Plätze
+		<dd>noch 13 freie Plätze
 		<dt>Anmeldung
 		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
 	</dl>
@@ -93,9 +93,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>noch 15 freie Plätze
-		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+		<dd>ausgebucht
+		
 	</dl>
 </div><!--/.termin -->
 	
@@ -114,7 +113,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>noch 15 freie Plätze
+		<dd>noch 11 freie Plätze
 		<dt>Anmeldung
 		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
 	</dl>

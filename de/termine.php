@@ -59,7 +59,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<p class="date left"><em>2020</em> 28. Jan.</p>
 	<h4>Führung "Computergeschichte"</h4> 
 	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
 
@@ -79,7 +79,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<p class="date left"><em>2020</em> 15. Feb.</p>
 	<h4>Führung "Computergeschichte"</h4> 
 	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
 
@@ -99,7 +99,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 </div><!--/.termin -->
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Jan.</p>
+	<p class="date left"><em>2020</em> 16. Feb.</p>
 	<h4>Führung "Computergeschichte"</h4> 
 	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
 

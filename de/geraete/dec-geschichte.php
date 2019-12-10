@@ -5,7 +5,7 @@
 	
 	require '../../lib/technikum29.php';
 ?>
-<h2><? print $title; ?></h2>
+<h2><? print $titel; ?></h2>
 
 <div class="cols">
 

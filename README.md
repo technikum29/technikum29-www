@@ -40,6 +40,11 @@ git clone --depth=1 https://github.com/technikum29/technikum29-www.git
 
 and open http://localhost in your browser. Happy editing!
 
+Tip: If you made a shallow copy with the above instructions and want to
+commit your changes, you first need to download the whole repository,
+for instance with `git fetch --unshallow origin`. This will download
+~300MB of data.
+
 
 Manual Installation
 -------------------

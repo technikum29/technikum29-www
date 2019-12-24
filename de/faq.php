@@ -20,7 +20,7 @@ Wir befinden uns derzeit in einer Neugründungsphase und haben daher weder regel
 Öffnungszeiten, noch bieten wir Führungen an. In Einzelfällen führen wir derzeit in
 den Museumsräumen Gespräche mit Menschen, die beim technikum29 mitmachen möchten.
 
-<dd><em>Update:</em> Wir bieten im Januar 2019 einige Führungen an. 
+<dd><em>Update:</em> Wir <a href="/de/termine">bieten ab Januar 2020 wieder Führungen</a> an. 
 
 
 <dt>

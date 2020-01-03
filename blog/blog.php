@@ -45,7 +45,7 @@ function slurp_blog_postings() {
 	 **/
 	/*
 	$pwd = realpath(getcwd()); chdir("../blog/"); // for includes in the including files
-	$posting_files = glob("201*.php");
+	$posting_files = glob("20*.php");
 	$postings = array();
 	if(!defined('T29_BLOG_SLURPING')) define('T29_BLOG_SLURPING', true); // for the hack
 	foreach($posting_files as $posting) {
@@ -58,7 +58,7 @@ function slurp_blog_postings() {
 	*/
 	// but instead, for the time being, just slurp the interesting stuff with regexpes :(
 	// That's of course not super stable at all.
-	$posting_files = glob("../blog/201*.php");
+	$posting_files = glob("../blog/20*.php");
 	arsort($posting_files); // newest to oldest
 	$postings = array();
 	foreach($posting_files as $posting) {

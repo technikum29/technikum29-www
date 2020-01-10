@@ -13,12 +13,17 @@
 <p>
 Im neuen Jahr 2020 möchten wir für Interessierte wieder Termine für <strong>gemeinsame Arbeit an Geräten im Museum</strong> anbieten: 
 
-<p>   
+<!--
+<p>
 Der nächste Termin könnte Samstag, der 8. oder Samstag, der 29. Februar sein. Entscheidend ist, welcher Termin in unserer
 Doodle-Teamumfrage auf größere Resonanz stößt. <em>Das Ergebnis wird dann hier bekanntgegeben</em>.
 
 <p>
-Das Museum ist an dem gewählten Tag <strong>von 9:00 bis 18:00</strong> offen, für Speis und Trank werden wir uns kümmern.
+Das Museum ist an dem gewählten Tag <strong>von 9:00 bis 18:00</strong> offen
+-->
+
+<p>Am <strong>Samstag, dem 29. Februar 2020</strong> werden wir mit knapp 10 Mitarbeitern im Museum sein. Das Museum
+ist an dem Tag <strong>von 9:00 bis 18:00</strong> offen, für Speis und Trank werden wir uns kümmern.
 Wichtig: An dem Tag findet <strong>keine Führung</strong> statt. Einzelpersonen, die aber mal bei den Restaurationsarbeiten
 zuschauen möchten oder selbst Hand anlegen möchten, können sich gerne <a href="/de/impressum.php">per Mail an uns wenden</a>.
 

@@ -17,14 +17,15 @@
     <div class="vcard" id="address">
 		<!--<div class="org hidden">technikum29 Computer Museum</div>-->
 		<div class="fn">technikum29 Computer Museum</div>
+		<div class="fn">Provisional managament: Dr. Sven Köppel</div>
 		<div class="adr">
 			<div class="street-address">Am Flachsland 29</div>
 			<span class="postal-code">65779</span> <span class="locality">Kelkheim/Taunus</span>
 			<div class="country-name">Germany</div>
 		</div>
 		<div>e-mail: <a class="email" href="mailto:contact@technikum29.de">contact@technikum29.de</a></div>
-		<div>phone (mail box): <a href="tel:00496195805777">0049-6195-805777</a></div>
-		<div>internet: <a class="url" href="http://www.technikum29.de/">www.technikum29.de</a></div>
+		<!--<div>phone (mail box): <a href="tel:00496195805777">0049-6195-805777</a></div>-->
+		<div>website: <a class="url" href="http://www.technikum29.de/">www.technikum29.de</a></div>
 		<div class="hidden">Photo: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Photography of the museum building" /></div>
 		<div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29 Logo (black on white)" /></div>
     </div>

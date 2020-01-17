@@ -12,21 +12,20 @@
     <h2>Impressum</h2>
 
     <p>Seit dem plötzlichen <a href="/heribert-mueller/">Verlust von Heribert Müller</a>
-       im April 2018 unterliegt das Museum der kommissarisch Leitung der Erbengemeinschaft sowie
-       dem Museum nahestehenden Freunden und Helfern. Das
-       <a href="team.php">Museums-Team</a> ist erreichbar unter:
+       im April 2018 unterliegt das Museum der Leitung durch dem Museum nahestehenden
+       Freunden und Helfern. Das <a href="team.php">Museums-Team</a> ist erreichbar unter:
     </p>
 
     <!-- Maschinenlesbare Visitenkarte: -->
     <div class="vcard" id="address">
        <div class="org">technikum29 Computermuseum</div>
-       <div class="fn">Erbengemeinschaft Dipl. Phys. H. Müller</div>
+       <div class="fn">Kommissarische Leitung: Dr. Sven Köppel</div>
        <div class="adr">
            <div class="street-address">Am Flachsland 29</div>
            <span class="postal-code">65779</span> <span class="locality">Kelkheim (Taunus)</span>
            <span class="country-name hidden">Deutschland</span>
        </div>
-       <div>Telefon: <a href="tel:00496195805777" class="tel">06195/805777</a></div>
+       <div>Telefon: <del>06195/805777</del> (derzeit nicht tel. erreichbar)</div><!-- class tel -->
        <div>E-Mail: <a class="email" href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a></div>
        <div>Internet: <a class="url" href="http://www.technikum29.de">www.technikum29.de</a></div>
        <div class="hidden">Foto: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Foto des Museums" /></div>

@@ -92,7 +92,7 @@
     In <a href="/de/transparenz.php">unserem Transparenzbericht</a> legen wir unsere Struktur und Ziele offen.
     Regionale und überregionale Zeitungen berichten regelmäßig:
 
-    <ul>
+    <ul style="text-align:left">
       <li>1999: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/1999-12-02 FR als A4.pdf">Lebendiges Museum mit Computer-Opas und anderen Veteranen</a> (Frankfurter Rundschau)
       <li>1999: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/1999-12-08 Kelkheimer-Zeitung.pdf">Ein Haus am Mainblick voller technier Raritäten</a> (Kelkheimer Zeitung)
       <li>2000: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2000-01-04 FAZ besser.pdf">Aus alten Kästen tönen moderne Klänge: Privates Technikmuseum in Kelkheim / Funktionstüchtige Exponate vom Radio bis zum Rechner</a> (Frankfurter Allgemeine Zeitung/FAZ)

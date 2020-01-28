@@ -69,7 +69,7 @@ von 2005 eine Grundsteuerreduktion (ca. 100 EUR weniger im Quartal).
 
 <h3>4. Name und Funktion wesentlicher Entscheidungsträger</h3>
 Hier haben wir auf <a href="/de/team.php">unserer Teamseite</a> viele Mitarbeiter aufgelistet.
-Wesentliche Entscheidungsträger sind derzeit Roland Langfeld und Sven Köppel.unterstützt
+Wesentliche Entscheidungsträger sind derzeit Roland Langfeld und Sven Köppel.
 
 <h3>5. Tätigkeitsbericht</h3>
 <p>Im Jahr 2019 haben wir intensiv an der Aufarbeitung gearbeitet. Viele unserer Tätigkeiten

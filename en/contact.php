@@ -31,6 +31,13 @@
     </div>
 
         <h3>Location</h3>
+        <p>The museum is located close to Frankfurt airport and the city Frankfurt am Main in Germany.
+        It is a 20 minutes travel by car/taxi from the airport or Frankfurt downtown. There is a direct
+        train connection from Frankfurt main station (travel time 35 minutes, commuter line 
+        <a href="https://en.wikipedia.org/wiki/K%C3%B6nigstein_Railway">RB12</a>). You can exit either at
+        <a href="https://en.wikipedia.org/wiki/Kelkheim_station">Kelkheim station</a> or, even closer, at
+        <em>Kelkheim (Hornau) station</em>. It is a five minute walk from the station.
+
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
         <div style="padding: 1em; color: gray"><span class="js">Map is being loaded ...</span></div>
 		<noscript>

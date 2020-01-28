@@ -13,3 +13,4 @@ Allow: /blog/
 # kurzfristig:
 Disallow: /inv/
 Disallow: /auftakt/
+Disallow: /privat/

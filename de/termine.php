@@ -53,7 +53,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>
 		<dd>noch 4 freie Plätze
 		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 	</dl>
 </div><!--/.termin -->
 
@@ -114,7 +115,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>
 		<dd>noch 4 freie Plätze
 		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 	</dl>
 </div><!--/.termin -->
 	
@@ -138,7 +140,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>
 		<dd>10 seats available
 		<dt>Signup
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 	</dl>
 </div><!--/.termin -->
 

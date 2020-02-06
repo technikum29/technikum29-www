@@ -25,7 +25,7 @@
            <span class="postal-code">65779</span> <span class="locality">Kelkheim (Taunus)</span>
            <span class="country-name hidden">Deutschland</span>
        </div>
-       <div>Telefon: <del>06195/805777</del> (derzeit nicht tel. erreichbar)</div><!-- class tel -->
+       <div>Telefon: <a href="tel:004925159067255" class="tel">0251/59067255</a> (Anrufbeantworter)</div>
        <div>E-Mail: <a class="email" href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a></div>
        <div>Internet: <a class="url" href="http://www.technikum29.de">www.technikum29.de</a></div>
        <div class="hidden">Foto: <img class="photo" src="/shared/photos/start/museum.jpg" alt="Foto des Museums" /></div>

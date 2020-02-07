@@ -178,6 +178,36 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 	<div class="termine">
 
+	<h2>2020</h2>
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
+	<tr>	<td>Mi, 5.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Privatführung<br>
+	<tr>	<td>Di, 28.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Fachschule Keramik Höhr-Grenzhausen<br>
+	<tr>	<td>Sa, 25.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Einzelpersonen<br>
+	<tr>	<td>Sa, 18.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Einzelpersonen<br>
+	<tr>	<td>Do, 2.1.2020
+		<td>Computer-History<br>
+		<td>Generalprobe Führung<br>			
+		<td>Einzelpersonen<br></table>
+		
+		
+		
 	<h2>2018</h2>
 	<table class="termine">
 	<tr class="title">

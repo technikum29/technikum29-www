@@ -113,7 +113,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>noch 4 freie Plätze
+		<dd>nur noch ein freier Platz !
 		<dt>Anmeldung
 		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>-->
 		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>

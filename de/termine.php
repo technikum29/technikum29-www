@@ -104,7 +104,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	<h3>Archiv alter Führungen</h3>
 	<p>Zu chronologischen Zwecken existiert 
 	hier eine (unvollständige) Liste aller Termine, die zumindest auf der Homepage
-	des Museums zwischen 2013 und 2018 angekündigt wurden.
+	des Museums zwischen 2013 bis heute angekündigt wurden.
 	<a class="archiv-toggle js-only go" href="#termine">Archiv anzeigen</a>
 
 	<!--

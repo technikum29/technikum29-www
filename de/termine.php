@@ -16,6 +16,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 
 	Rechenmaschinen, Computer der 50 - 70er Jahre und vieles "drum-herum". Lassen sie sich überraschen !
+<p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
+	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 <p>Sie möchten als Gruppe (aus Sicherheitsgründen max 15 Teilnehmer) einen eigenen Termin vereinbaren ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 

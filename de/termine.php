@@ -80,6 +80,55 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 	</dl>
 </div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 21. März.</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über
+	<p>mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 21. März 2020
+		<dt>Uhrzeit
+		<dd>14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Person
+		<dt>
+		<dd>15 freie Plätze
+		<dt>Signup
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. April.</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über
+	<p>mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Sonntag, 25. April 2020
+		<dt>Uhrzeit
+		<dd>14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Person
+		<dt>
+		<dd>15 freie Plätze
+		<dt>Signup
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
+</div><!--/.termin -->
 
 </div><!--/#termine -->
 

@@ -9,8 +9,7 @@
 
 <h2>Kalender und Termine</h2>
 
-<p>Es folgt ist eine Auflistung aktueller und jüngerer ehemaliger Termine im technikum29.
-Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
+<pDurch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
 kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir bieten ab
 Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 <p>Sie möchten als Gruppe (aus Sicherheitsgründen max 15 Teilnehmer) einen eigenen Termin vereinbaren ? Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>

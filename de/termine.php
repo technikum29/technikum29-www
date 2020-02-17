@@ -22,46 +22,6 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 15. Feb.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 15. Februar 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>ausgebucht
-		
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 16. Feb.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Sonntag, 16. Februar 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>ausgebucht
-		
-	</dl>
-</div><!--/.termin -->
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. Feb.</p>
@@ -175,6 +135,14 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<th style="width:13em;">Titel
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
+	<tr>	<td>So, 16.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Einzelpersonen<br>
+	<tr>	<td>Sa, 15.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Privatführung<br>
 	<tr>	<td>Mi, 5.2.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			

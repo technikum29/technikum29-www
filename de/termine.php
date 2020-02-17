@@ -138,7 +138,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	<tr>	<td>So, 16.2.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			
-		<td>Einzelpersonen<br>
+		<td>gemischte Gruppe<br>
 	<tr>	<td>Sa, 15.2.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			
@@ -154,15 +154,15 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	<tr>	<td>Sa, 25.1.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			
-		<td>Einzelpersonen<br>
+		<td>gemischte Gruppe<br>
 	<tr>	<td>Sa, 18.1.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			
-		<td>Einzelpersonen<br>
+		<td>gemischte Gruppe<br>
 	<tr>	<td>Do, 2.1.2020
 		<td>Computer-History<br>
 		<td>Generalprobe Führung<br>			
-		<td>Einzelpersonen<br></table>
+		<td>gemischte Gruppe<br></table>
 		
 		
 		

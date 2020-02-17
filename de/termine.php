@@ -70,6 +70,30 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		
 	</dl>
 </div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. Feb.</p>
+	<h4>Computer History at technikum29</h4> 
+	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
+	The focus will be given on computer technology.
+
+	<dl class="daten">
+		<dt>Day
+		<dd class="termin">Tuesday, Friday April 17th, 2020
+		<dt>Time
+		<dd>10 AM and 2 pm
+		<dt>Language
+		<dd>English
+		<dt>Guide
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Fee
+		<dd>8€ per person
+		<dt>
+		<dd>reserved for Students Union Middleburg (NL)
+		
+	</dl>
+</div><!--/.termin -->
+	
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 25. April.</p>

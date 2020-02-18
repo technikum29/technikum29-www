@@ -55,7 +55,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 21. März 2020
+		<dd class="termin">Samstag, 14. März 2020
 		<dt>Uhrzeit
 		<dd>14:00 Uhr
 		<dt>Leitung
@@ -63,7 +63,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>15 freie Plätze
+		<dd>noch 11 freie Plätze
 		<dt>Signup
 		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
 		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>

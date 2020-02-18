@@ -55,7 +55,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 14. März 2020
+		<dd class="termin">**geändert** Samstag, 14. März 2020
 		<dt>Uhrzeit
 		<dd>14:00 Uhr
 		<dt>Leitung

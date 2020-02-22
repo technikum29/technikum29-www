@@ -82,7 +82,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Day
 		<dd class="termin">Tuesday, Friday April 17th, 2020
 		<dt>Time
-		<dd>10 AM and 2 pm
+		<dd>10:00 am and 2:00 pm
 		<dt>Language
 		<dd>English
 		<dt>Guide

@@ -208,7 +208,11 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<td>Computer-History<br>
 		<td>Generalprobe Führung<br>			
 		<td>gemischte Gruppe<br></table>
-		
+	</table>
+	
+	<h2>2019</h2>
+	<p>2019 gab es keine Führungen, weil das Museum in einer Umstrukturierungsphase war.
+	</p>
 		
 		
 	<h2>2018</h2>
@@ -222,10 +226,12 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<td>Computer-History<br>
 		<td>Workshop<br>			
 		<td>St. Lioba Schule, Bad Nauheim<br>
+		<span style="color:#E90015">Termin gestrichen</span>
 	<tr>	<td>Fr, 25.05.2018
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Absint GmbH<br>Saarbrücken<br>
+		<span style="color:#E90015">Termin gestrichen</span>
 	<tr>	<td>Mi, 21.03.2018
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

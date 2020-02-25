@@ -23,32 +23,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Feb.</p>
-	<h4>First tour in English 2020</h4> 
-	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
-	The focus will be given on computer technology.
-
-	<dl class="daten">
-		<dt>Day
-		<dd class="termin">Tuesday, February 25th, 2020
-		<dt>Time
-		<dd>9 AM
-		<dt>Language
-		<dd>English
-		<dt>Guide
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Fee
-		<dd>8€ per person
-		<dt>
-		<dd>10 seats available
-		<dt>Signup
-		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
-		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
-	</dl>
-</div><!--/.termin -->
-	
+		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 21. März.</p>
 	<h4>Führung "Computergeschichte im technikum29"</h4> 
@@ -56,7 +31,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">**geändert** Samstag, 14. März 2020
+		<dd class="termin">Samstag, 14. März 2020
 		<dt>Uhrzeit
 		<dd>14:00 Uhr
 		<dt>Leitung
@@ -180,6 +155,10 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<th style="width:13em;">Titel
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
+	<tr>	<td>So, 25.2.2020
+		<td>Computer-History<br>
+		<td>international tour<br>			
+		<td>Students from the Netherlands<br>
 	<tr>	<td>So, 16.2.2020
 		<td>Computer-History<br>
 		<td>Führung<br>			

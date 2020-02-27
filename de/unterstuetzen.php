@@ -8,10 +8,13 @@
 
 <h2>Wir suchen Unterstützer</h2>
 
-<p>Das technikum29 befindet sich derzeit in der Neugründung, die mit der
-Gründung eines gemeinnützigen eingetragenen Vereins einen vorläufigen
-Höhepunkt erreichen soll. Wir suchen Unterstützer jeder Art: Ob persönlich
-vor Ort, über das Netz, ideell oder auch finanziell.
+<p>Das technikum29 befindet sich derzeit in privater Hand. Der Aufbau und die 
+Instandhaltung der Sammlung sowie der Erwerb und Ausbau des Museumsgebäudes
+geschah ausschließlich durch private Mittel <strong>ohne jegliche öffentliche Unterstützung</strong>.
+Aktuell befindet sich technikum29 in einer Neuorientierungsphase bzgl. der 
+Trägerschaft (z.B. durch einen gemeinnützigen eingetragenen Verein).  Wir 
+suchen Unterstützer jeder Art: Ob persönlich vor Ort, über das Netz, ideell 
+oder auch finanziell.
 
 <h3>Persönlich aushelfen: Mitarbeit</h3>
 <p>Wer Zeit zur Verfügung hat und im Rhein-Main-Gebiet wohnt, kann schnell

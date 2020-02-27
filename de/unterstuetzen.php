@@ -10,7 +10,7 @@
 
 <p>Das technikum29 befindet sich derzeit in privater Hand. Der Aufbau und die 
 Instandhaltung der Sammlung sowie der Erwerb und Ausbau des Museumsgebäudes
-geschah ausschließlich durch private Mittel <strong>ohne jegliche öffentliche Unterstützung</strong>.
+geschahen ausschließlich durch private Mittel <strong>ohne jegliche öffentliche Unterstützung</strong>.
 Aktuell befindet sich technikum29 in einer Neuorientierungsphase bzgl. der 
 Trägerschaft (z.B. durch einen gemeinnützigen eingetragenen Verein).  Wir 
 suchen Unterstützer jeder Art: Ob persönlich vor Ort, über das Netz, ideell 

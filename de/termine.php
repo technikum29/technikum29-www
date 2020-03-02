@@ -9,21 +9,29 @@
 
 <h2>Kalender und Termine</h2>
 
-<p>Es folgt ist eine Auflistung aktueller und jüngerer ehemaliger Termine im technikum29.
-Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
+<p>Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
 kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir bieten ab
 Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
+<p>Unsere Führungen dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
+	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
+	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 
+	Rechenmaschinen, Computer der 50 - 70er Jahre und vieles "drum-herum". Lassen sie sich überraschen !
+<p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
+	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
+	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 15 Teilnehmer) einen eigenen Termin vereinbaren ? 
+	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
-
+		
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 18. Jan.</p>
-	<h4>Erste öffentliche Führung 2020</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
+	<p class="date left"><em>2020</em> 14. März.</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 18. Januar 2020
+		<dd class="termin">Samstag, 14. März 2020
 		<dt>Uhrzeit
 		<dd>14:00 Uhr
 		<dt>Leitung
@@ -31,106 +39,25 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Eintritt
 		<dd>8€ pro Person
 		<dt>
-		<dd>nur noch ein freier Platz !!
-		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
+		<dd>noch 10 freie Plätze
+		<dt>Signup
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 		
 	</dl>
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Jan.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 25. Januar 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>noch 4 freie Plätze
-		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
-	</dl>
-</div><!--/.termin -->
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 28. Jan.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Dienstag, 28. Januar 2020
-		<dt>Uhrzeit
-		<dd>9:30 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>ausgebucht
-		
-	</dl>
-</div><!--/.termin -->
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 15. Feb.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 15. Februar 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>ausgebucht
-		
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 16. Feb.</p>
-	<h4>Führung "Computergeschichte"</h4> 
-	<p>In dieser Führung wird die Computertechnik des Museums vorgestellt.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Sonntag, 16. Februar 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd>noch 8 freie Plätze
-		<dt>Anmeldung
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Bitte zum Termin anmelden</a>
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Feb.</p>
-	<h4>First tour in English 2020</h4> 
+	<p class="date left"><em>2020</em> 18. April</p>
+	<h4>Computer History at technikum29</h4> 
 	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
 	The focus will be given on computer technology.
 
 	<dl class="daten">
 		<dt>Day
-		<dd class="termin">Tuesday, February 25th, 2020
+		<dd class="termin">Tuesday, Saturday April 18th, 2020
 		<dt>Time
-		<dd>9 AM
+		<dd>10:00 am and 2:00 pm
 		<dt>Language
 		<dd>English
 		<dt>Guide
@@ -138,9 +65,53 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Fee
 		<dd>8€ per person
 		<dt>
-		<dd>10 seats available
+		<dd>reserved for Students Union Middleburg (NL)
+		
+	</dl>
+</div><!--/.termin -->
+	
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 25. April</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 25. April 2020
+		<dt>Uhrzeit
+		<dd>14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>Eintritt
+		<dd>8€ pro Person
+		<dt>
+		<dd>13 freie Plätze
 		<dt>Signup
-		<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 16. Sept.</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 16. September 2020
+		<dt>Uhrzeit
+		<dd>10:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>
+		<dd>geschlossene Gesellschaft - Kursfabrik Wiesbaden
+		
+		
 	</dl>
 </div><!--/.termin -->
 
@@ -165,7 +136,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	<h3>Archiv alter Führungen</h3>
 	<p>Zu chronologischen Zwecken existiert 
 	hier eine (unvollständige) Liste aller Termine, die zumindest auf der Homepage
-	des Museums zwischen 2013 und 2018 angekündigt wurden.
+	des Museums zwischen 2013 bis heute angekündigt wurden.
 	<a class="archiv-toggle js-only go" href="#termine">Archiv anzeigen</a>
 
 	<!--
@@ -177,6 +148,52 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 	<div class="termine">
 
+	<h2>2020</h2>
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
+	<tr>	<td>So, 25.2.2020
+		<td>Computer-History<br>
+		<td>international tour<br>			
+		<td>Students from the Netherlands<br>
+	<tr>	<td>So, 16.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>gemischte Gruppe<br>
+	<tr>	<td>Sa, 15.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Privatführung<br>
+	<tr>	<td>Mi, 5.2.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Privatführung<br>
+	<tr>	<td>Di, 28.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>Fachschule Keramik Höhr-Grenzhausen<br>
+	<tr>	<td>Sa, 25.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>gemischte Gruppe<br>
+	<tr>	<td>Sa, 18.1.2020
+		<td>Computer-History<br>
+		<td>Führung<br>			
+		<td>gemischte Gruppe<br>
+	<tr>	<td>Do, 2.1.2020
+		<td>Computer-History<br>
+		<td>Generalprobe Führung<br>			
+		<td>gemischte Gruppe<br></table>
+	</table>
+	
+	<h2>2019</h2>
+	<p>2019 gab es keine Führungen, weil das Museum in einer Umstrukturierungsphase war.
+	</p>
+		
+		
 	<h2>2018</h2>
 	<table class="termine">
 	<tr class="title">
@@ -188,10 +205,12 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<td>Computer-History<br>
 		<td>Workshop<br>			
 		<td>St. Lioba Schule, Bad Nauheim<br>
+		<span style="color:#E90015">Termin gestrichen</span>
 	<tr>	<td>Fr, 25.05.2018
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			
 		<td>Absint GmbH<br>Saarbrücken<br>
+		<span style="color:#E90015">Termin gestrichen</span>
 	<tr>	<td>Mi, 21.03.2018
 		<td>Computer-History<br>
 		<td>Interaktive Führung<br>			

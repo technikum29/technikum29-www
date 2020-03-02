@@ -369,7 +369,7 @@ class t29ExternalHost extends t29Host {
 	
 		if($also_rewrite_prefix) {
 			// check if link has host part
-			if(!preg_match('#^http:#i', $link_target)) {
+			if(!preg_match('#^https?:#i', $link_target)) {
 				$sep = ($link_target{0} == '/') ? '' : '/';
 				$link_target = $this->target_host . $sep . $link_target;
 			}

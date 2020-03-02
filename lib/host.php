@@ -362,7 +362,7 @@ class t29HeribertHost extends t29Host {
  **/
 class t29ExternalHost extends t29Host {
 	public $hostname = "external";
-	public $target_host = 'http://www.technikum29.de';
+	public $target_host = 'https://www.technikum29.de';
 
 	function rewrite_link($link_target, $also_rewrite_prefix=false) {
 		$link_target = parent::rewrite_link($link_target, $also_rewrite_prefix);

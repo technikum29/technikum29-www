@@ -25,7 +25,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 <div id="termine">
 		
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 14. März.</p>
+	<p class="date left"><em>2020</em> 14. März</p>
 	<h4>Führung "Computergeschichte im technikum29"</h4> 
 	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
 
@@ -47,6 +47,27 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 	</dl>
 </div><!--/.termin -->
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 21. März</p>
+	<h4>Helfertag im technikum29"</h4> 
+	<p>Am Helfertag ist in der Kernzeit 10:00 - 16:00 ein Museumsverantwortlicher vor Ort. Unterstützer
+		können nach Anmeldung gerne dazukommen, um an ihren Projekten/Geräten zu arbeiten. Bitte
+		unbedingt anmelden, damit wir zB von kurzfristigen Änderungen informieren können !
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 21. März 2020
+		<dt>Uhrzeit (bei Bedarf auch länger)
+		<dd>10:00 - 16:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		
+		<dt>Signup
+		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
+		<dd>Teilnahme bitte per Mail ankündigen <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
+</div><!--/.termin -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 18. April</p>
 	<h4>Computer History at technikum29</h4> 

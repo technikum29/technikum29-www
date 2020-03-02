@@ -49,15 +49,15 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 21. März</p>
-	<h4>Helfertag im technikum29"</h4> 
+	<h4>Helfertag im technikum29</h4> 
 	<p>Am Helfertag ist in der Kernzeit 10:00 - 16:00 ein Museumsverantwortlicher vor Ort. Unterstützer
 		können nach Anmeldung gerne dazukommen, um an ihren Projekten/Geräten zu arbeiten. Bitte
 		unbedingt anmelden, damit wir zB von kurzfristigen Änderungen informieren können !
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 21. März 2020
-		<dt>Uhrzeit (bei Bedarf auch länger)
-		<dd>10:00 - 16:00 Uhr
+		<dt>Uhrzeit
+		<dd>10:00 - 16:00 Uhr (Kernzeit)
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		

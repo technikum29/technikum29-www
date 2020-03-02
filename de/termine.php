@@ -25,7 +25,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 <div id="termine">
 		
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 21. März.</p>
+	<p class="date left"><em>2020</em> 14. März.</p>
 	<h4>Führung "Computergeschichte im technikum29"</h4> 
 	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
 
@@ -48,7 +48,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 </div><!--/.termin -->
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. Feb.</p>
+	<p class="date left"><em>2020</em> 18. April.</p>
 	<h4>Computer History at technikum29</h4> 
 	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
 	The focus will be given on computer technology.
@@ -96,7 +96,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 </div><!--/.termin -->
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. April.</p>
+	<p class="date left"><em>2020</em> 16. September.</p>
 	<h4>Führung "Computergeschichte im technikum29"</h4> 
 	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
 

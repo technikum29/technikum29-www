@@ -11,8 +11,9 @@
 
 <p><dd><font color=red>WICHTIGER HINWEIS:</font>
 <p><dd><font color=red>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in 
-	Gefahr bringen ! Aus diesem Grund sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</font>
-<p><dd><font color=red>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten
+	Gefahr bringen ! 
+<p>Aus diesem Grund sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</font>
+	<dd><font color=red>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten,
 	melden sich bitte per Mail.</font>
 	
 	

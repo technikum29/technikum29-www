@@ -9,6 +9,13 @@
 
 <h2>Kalender und Termine</h2>
 
+<p><dd><font color=red>WICHTIGER HINWEIS:</font>
+<p><dd><font color=red>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in 
+	Gefahr bringen ! Aus diesem Grund sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</font>
+<p><dd><font color=red>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten
+	melden sich bitte per Mail.</font>
+	
+	
 <p>Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
 kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir bieten ab
 Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
@@ -60,9 +67,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
-		<dt>Signup
-		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
-		<dd>Teilnahme bitte per Mail ankündigen <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		<dd><font color=red>ACHTUNG: dieser Termin entfällt</font>
 		
 	</dl>
 </div><!--/.termin -->
@@ -82,9 +87,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
-		<dt>Signup
-		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
-		<dd>Teilnahme bitte per Mail ankündigen <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		<dd><font color=red>ACHTUNG: dieser Termin entfällt</font>
 		
 	</dl>
 </div><!--/.termin -->
@@ -109,6 +112,8 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dd>8€ per person
 		<dt>
 		<dd>reserved for Students Union Middleburg (NL)
+		<dd><font color=red>*** Attention ! *** both tours are set on hold due to the critical
+			situation concerning Covid19</font>
 		
 	</dl>
 </div><!--/.termin -->

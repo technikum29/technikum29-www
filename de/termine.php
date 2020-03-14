@@ -113,8 +113,7 @@ Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
 		<dd>8€ per person
 		<dt>
 		<dd>reserved for Students Union Middleburg (NL)
-		<dd><font color=red>*** Attention ! *** both tours are set on hold due to the critical
-			situation concerning Covid19</font>
+		<dd><font color=red>*** Attention ! *** both tours are cancelled !</font>
 		
 	</dl>
 </div><!--/.termin -->

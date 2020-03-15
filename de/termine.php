@@ -9,17 +9,22 @@
 
 <h2>Kalender und Termine</h2>
 
-<p><dd><font color=red>WICHTIGER HINWEIS:</font>
-<p><dd><font color=red>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in 
-	Gefahr bringen ! 
-<p>Aus diesem Grund sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</font>
-	<dd><font color=red>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten,
-	melden sich bitte per Mail.</font>
-	
-	
-<p>Durch den <a href="/heribert-mueller/">Verlust von Heribert Müller</a> im April 2018
-kam der öffentliche Museumsbetrieb über ein Jahr lang zum Erliegen. Wir bieten ab
-Januar 2020 wieder Führungen an. Die Liste der Termine wird ständig ergänzt.
+<div class="box termin" style="background-color: #f2eded; color: red";>
+  <h4 style="color: #8e1b1b">Ausfall aller geplanter Termine wegen Covid-19-Epidemie</h4>
+
+  <p>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in Gefahr bringen! 
+  <p>Aus diesem Grund <strong>sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</strong>
+  <p>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten,
+	melden sich bitte per Mail.
+</div>
+
+<!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
+<h3>Informationen zum regulären Museumsbesuch (außerhalb Krise)</h3>
+
+<p>Seit Januar 2020 bieten wir erstmals seit dem 
+<a href="/heribert-mueller/">Verlust von Heribert Müller</a> (April 2018) wieder Führungen
+an. Die Liste der Termine wird fortlaufend ergänzt.
+
 <p>Unsere Führungen dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 

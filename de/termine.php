@@ -101,9 +101,8 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dd>8€ pro Person
 		<dt>
 		<dd><font color=red>ACHTUNG: wegen der aktuellen Covid19-Situation entfällt der Termin !</font>
-		<dt>Signup
-		<!--<dd class="anmelden"><a class="button anmeldung-btn" href="#">Please sign up here</a>-->
-		<dd>Bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+		
 		
 	</dl>
 </div><!--/.termin -->

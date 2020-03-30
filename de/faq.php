@@ -27,8 +27,11 @@ den Museumsräumen Gespräche mit Menschen, die beim technikum29 mitmachen möch
 Ich habe einen Gegenstand, den ich dem <a href="/">technikum29</a>
    verkaufen oder verschenken möchte.
 <dd>
-Wir befinden uns derzeit in einer Neugründungsphase und können daher im Allgemeinen
-  nichts annehmen.
+Das technikum29 befindet sich in einer Neuorientierungsphase und muss sich zudem 
+räumlich stark verkleinern. Von daher können wir Gerätespenden nur in Ausnahmefällen 
+annehmen, z.B. wenn es sich um eine Ergänzung/Erweiterung zu einem vorhandenen
+Exponat handelt oder um Ersatz- oder Verschleißteile zu unseren Maschinen. Für
+"Neues" haben wir leider im Augenblick keinen Platz.
 
 <dt>
 Ich habe Zeit oder Geld, welches ich dem technikum29 schenken/spenden möchte.

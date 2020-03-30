@@ -34,6 +34,13 @@ erledigen, auch Verkäufe, Öffentlichkeitsarbeit oder E-Mails gehen von überal
 Museumsthemen oder die Idee des technikum29 begeistern können, dann
 <a href="/de/kontakt.php">schreiben Sie uns</a>.
 
+<h3>Materiell helfen: Geräte-Spende</h3>
+<p>Das technikum29 befindet sich in einer Neuorientierungsphase und muss sich zudem 
+räumlich stark verkleinern. Von daher können wir Gerätespenden nur in Ausnahmefällen 
+annehmen, z.B. wenn es sich um eine Ergänzung/Erweiterung zu einem vorhandenen
+Exponat handelt oder um Ersatz- oder Verschleißteile zu unseren Maschinen. Für
+"Neues" haben wir leider im Augenblick keinen Platz.
+	
 <h3>Finanziell helfen: Spende</h3>
 <p>Das technikum29 bewohnt derzeit eigene Räume, die aber trotzdem unterhalten
 werden müssen. Pro Monat fallen alleine mehrere Hundert Euro Nebenkosten (Strom, Heizung)

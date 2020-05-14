@@ -14,8 +14,11 @@
 
   <p>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in Gefahr bringen! 
   <p>Aus diesem Grund <strong>sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</strong>
-  <p>Helfer und Unterstützer, die Zugang zu Geräten benötigen oder Material bringen/abholen möchten,
-	melden sich bitte per Mail.
+  <p>Update 14.5.2020: Einige Museen in Hessen öffnen wieder unter Auflagen aus einem strengen Hygienekonzept: 
+	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
+	  unter diesen Bedingungen nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
+	  Gruppen und dem "Begreifen" der Exponate. Von daher bieten wir vorerst weiterhin keine Führungen
+	  an und bitten um Verständnis.
 </div>
 
 <!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->

@@ -14,11 +14,12 @@
 
   <p>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in Gefahr bringen! 
   <p>Aus diesem Grund <strong>sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</strong>
-  <p>Update 14.5.2020: Einige Museen in Hessen öffnen wieder unter Auflagen aus einem strengen Hygienekonzept: 
+  <p>Update 14.5.2020: 
+  <p>Einige Museen in Hessen öffnen wieder unter Auflagen aus einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
-	  Gruppen und dem "Begreifen" der Exponate. Von daher bieten wir vorerst weiterhin keine Führungen
-	  an und bitten um Verständnis.
+	  Gruppen und dem "Begreifen" der Exponate. 
+  <p>Von daher bieten wir vorerst weiterhin keine Führungen an und bitten um Verständnis.
 </div>
 
 <!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
@@ -41,73 +42,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 <div id="termine">
 		
 
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 4. April</p>
-	<h4>Helfertag im technikum29</h4> 
-	<p>Am Helfertag ist in der Kernzeit 10:00 - 16:00 ein Museumsverantwortlicher vor Ort. Unterstützer
-		können nach Anmeldung gerne dazukommen, um an ihren Projekten/Geräten zu arbeiten. Bitte
-		unbedingt anmelden, damit wir zB über kurzfristige Änderungen informieren können und gemeinsame
-		Arbeiten abstimmen können !
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 4. April 2020
-		<dt>Uhrzeit
-		<dd>10:00 - 16:00 Uhr (Kernzeit)
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		
-		<dd><font color=red>ACHTUNG: dieser Termin entfällt</font>
-		
-	</dl>
-</div><!--/.termin -->
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 18. April</p>
-	<h4>Computer History at technikum29</h4> 
-	<p>This is a guided tour throught the museum in English language (suitable for international visitors).
-	The focus will be given on computer technology.
 
-	<dl class="daten">
-		<dt>Day
-		<dd class="termin">Tuesday, Saturday April 18th, 2020
-		<dt>Time
-		<dd>10:00 am and 2:00 pm
-		<dt>Language
-		<dd>English
-		<dt>Guide
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Fee
-		<dd>8€ per person
-		<dt>
-		<dd>reserved for Students Union Middleburg (NL)
-		<dd><font color=red>*** Attention ! *** both tours are cancelled !</font>
-		
-	</dl>
-</div><!--/.termin -->
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 25. April</p>
-	<h4>Führung "Computergeschichte im technikum29"</h4> 
-	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
-
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 25. April 2020
-		<dt>Uhrzeit
-		<dd>14:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>Eintritt
-		<dd>8€ pro Person
-		<dt>
-		<dd><font color=red>ACHTUNG: wegen der aktuellen Covid19-Situation entfällt der Termin !</font>
-		
-		
-		
-	</dl>
 </div><!--/.termin -->
 	
 <div class="box termin clear-after">		

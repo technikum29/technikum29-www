@@ -10,11 +10,9 @@
 <h2>Kalender und Termine</h2>
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
-  <h4 style="color: #8e1b1b">Ausfall aller geplanter Termine wegen Covid-19-Epidemie</h4>
+  <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
 
-  <p>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in Gefahr bringen! 
-  <p>Aus diesem Grund <strong>sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</strong>
-  <p>Update 14.5.2020 & 15.6.2020: 
+  <p>Update 15.6.2020: 
   <p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in

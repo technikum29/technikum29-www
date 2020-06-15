@@ -14,7 +14,7 @@
 
   <p>Kein Hobby kann so wichtig sein, daß wir unsere Gesundheit oder die anderer in Gefahr bringen! 
   <p>Aus diesem Grund <strong>sagen wir alle geplanten Touren und Helfertage im Museum vorerst ab</strong>
-  <p>Update 14.5.2020: 
+  <p>Update 14.5.2020 & 15.6.2020: 
   <p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
@@ -42,8 +42,48 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 <div id="termine">
 		
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 27. Juni</p>
+	<h4>Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !
 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 27. Juni 2020
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		
+		<dt>Signup
+		<dd>per Mail anmelden ! <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
 </div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 4. Juli</p>
+	<h4>Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 4. Juli 2020
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		
+		<dt>Signup
+		<dd>per Mail anmelden ! <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		
+	</dl>
+</div><!--/.termin -->
+
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2020</em> 16. Sept.</p>

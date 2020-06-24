@@ -56,7 +56,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
 		<dd>*** ACHTUNG: wegen mangelnder Beteiligung enftällt dieser Termin ! ***
-		<dd>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+		<dd>**********************************************************************
 		
 	</dl>
 </div><!--/.termin -->

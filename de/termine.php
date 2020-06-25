@@ -76,7 +76,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
-		<dd>bislang 3 Anmeldungen - Durchführung noch offen !
+		<dd>bislang 7 Anmeldungen, 3 weitere Zusagen noch offen
 		<dt>Signup
 		<dd>per Mail anmelden ! <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 		

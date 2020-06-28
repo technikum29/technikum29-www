@@ -54,9 +54,10 @@ kann, haben wir vorab ein Konto eingerichtet. Wir empfangen Zahlungen
 auf folgendem Bankkonto:
 
 <blockquote>
-   IBAN: <tt>DE82 5001 0517 5430 0710 38</tt>
-   <br>BIC: <tt>INGDDEFFXXX</tt>
-   <br>Kreditinstitut: ING-Diba
+   IBAN: <tt>DE10 1203 0000 1071 8532 51</tt>
+   <br>BIC: <tt>BYLADEM1001</tt>
+   <br>Kreditinstitut: Deutsche Kreditbank (DKB)
+   <br>(Gültig seit Juni 2020; unsere alten Kontoverbindungen bei der ING-Diba gelten nicht mehr)
 </blockquote>
 
 Außerdem kann man uns <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Spende+zum+Museumsbetrieb&currency_code=EUR&source=url">auf unser Paypal-Konto Geld spenden</a>:

@@ -44,9 +44,9 @@ do a <strong>donation</strong>, we opened a bank account for the museum. Current
 we can recieve payments at this account:
 
 <blockquote>
-   IBAN: <tt>DE82 5001 0517 5430 0710 38</tt>
-   <br>BIC: <tt>INGDDEFFXXX</tt>
-   <br>Credit institute: ING bank
+   IBAN: <tt>DE10 1203 0000 1071 8532 51</tt>
+   <br>BIC: <tt>BYLADEM1001</tt>
+   <br>Credit institute: Deutsche Kreditbank (DKB)
 </blockquote>
 
 Furthermore, you can use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Donation+to+keep+the+museum+running&currency_code=EUR&source=url">PayPal (and credit card) to transfer money to our account</a>:

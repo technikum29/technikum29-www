@@ -57,7 +57,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
-		<dd>***    ACHTUNG: wegen mangelnder Beteiligung enftällt dieser Termin !     ***
+		<dd>***    ACHTUNG: Termin entfällt !     ***
 		<dd>**************************************************************
 		
 	</dl>
@@ -78,9 +78,8 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		
-		<dd>bislang 7 Anmeldungen, 3 weitere Zusagen noch offen
-		<dt>Signup
-		<dd>per Mail anmelden ! <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+		<dd>***    ACHTUNG: Termin entfällt !     ***
+		<dd>**************************************************************
 		
 	</dl>
 </div><!--/.termin -->
@@ -100,7 +99,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>
-		<dd>*** entfällt wegen der aktuellen Corona-Situation *** geschlossene Gesellschaft - Kursfabrik Wiesbaden
+		<dd>*** Termin entfällt wegen der aktuellen Corona-Situation *** geschlossene Gesellschaft - Kursfabrik Wiesbaden
 		
 		
 	</dl>

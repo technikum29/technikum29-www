@@ -12,12 +12,14 @@
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
 
-  <p>Update 15.6.2020: 
+  <p>Update 24.7.2020: 
   <p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
 	  Gruppen und dem "Begreifen" der Exponate. 
   <p>Von daher bieten wir vorerst weiterhin keine Führungen an und bitten um Verständnis.
+	  
+  <p>Reparaturtermine für Helfer bitte nur nach Absprache !
 </div>
 
 <!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
@@ -98,7 +100,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>
-		<dd>geschlossene Gesellschaft - Kursfabrik Wiesbaden
+		<dd>*** entfällt wegen der aktuellen Corona-Situation *** geschlossene Gesellschaft - Kursfabrik Wiesbaden
 		
 		
 	</dl>

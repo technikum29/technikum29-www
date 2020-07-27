@@ -23,9 +23,15 @@ verbunden waren, bereit für den Anschluss an das
 <a href="https://www.i-telex.net/" class="go">i-Telex-System</a>. Das i-Telex funktioniert
 wie eine Telefonanlage für Fernschreiber und simuliert eine Fernschreibvermittlungsstelle.
 Die Bedienung und die Anwahl mit Wählscheibe funktionieren genau so, wie es lange Zeit in
-den richtigen Fernschreibnetzen Standard war.
-<br>
-Und da es mit dem i-Telex möglich ist, mehr als zwei Fernschreiber anzuschließen, wurde das
+den richtigen Fernschreibnetzen Standard war. Über das Internet sind viele TeilnehmerInnen
+mit ihren Fernschreibern angebunden, es gibt ein
+<a href="http://tlnserv3.teleprinter.net/">Telefonbuch</a> in dem nun auch zwei der
+technikum29-Fernschreibern mit den Telex-Nummern <em>622936</em> und
+<em>4188848</em> aufgelistet sind (Unsere Fernschreiber sind aber nicht immer erreichbar,
+sondern nur wenn wir sie anmachen).
+
+<p>
+Da es mit dem i-Telex möglich ist, mehr als zwei Fernschreiber anzuschließen, wurde das
 lokale Fernschreibnetz gleich noch um einen bereits zuvor instand gesetzten Siemens T68
 Streifenschreiber ergänzt.
 
@@ -50,8 +56,9 @@ Todo-Liste.
    <p class="bildtext">
      Der Vermittlungskasten im i-Telex-System hat nur noch die Größe eines Schuhkartons.
      Hierin befinden sich auf Baugruppenträger (Frontpanels im 3D-Druck hergestellt)
-     von links nach rechts der Internet-Uplink sowie bis zu fünf Anschlüsse für
-     Fernschreiber.
+     von links nach rechts der Internet-Uplink sowie bis zu vier Anschlüsse für
+     Fernschreiber sowie die Spannungsversorgung, die auch die 80 Volt
+     Linienspannung erzeugt.
    </p>
 </div>
 

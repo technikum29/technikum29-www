@@ -49,6 +49,9 @@ $redirects = array(
 	'/de/geraete/univac9400/univac_9300' => '/de/rechnertechnik/univac9200',
 	'/en/devices/univac9400/univac_9300' => '/en/computer/univac9200',
 	'/de/geraete/bull-bs-pr' => '/de/rechnertechnik/tabelliermaschine',
+
+	# Inserat 2020-09-03
+	'/lagersuche' => '/blog/2020-09-03-Lagersuche.php',
 );
 
 foreach($redirects as $source => $target) {

@@ -58,7 +58,11 @@ foreach($redirects as $source => $target) {
 	if(strcasecmp($source, $wanted_page) == 0) {
 		# we got a match
 		header('HTTP/1.1 301 Moved Permanently');
-		header('Location: '.$target);
+		header('Location: '
+			. ($_SERVER["HTTPS"] == "on" ? 'https' : 'http')
+			. '//'
+			. $_SERVER["HTTP_HOST"]
+			. $target);
 		exit;
 	}
 }

@@ -24,7 +24,7 @@ neu sortieren. Dafür brauchen wir <b>Platz zum Lagern und Rangieren</b>.
 
 <p>Wir sind ein nicht gewinnorientiertes Computermuseum im Main-Taunus-Kreis, eine
 Raummiete müssen wir durch Spenden aufbringen. Daher sind wir an möglichst günstigen
-Räumlichkeiten interessiert. Unsere Schmerzgrenze würde derzeit bei einer Jahresmiete
-(nicht Monatsmiete) von der Größenordnung von 1000€ liegen.
+Räumlichkeiten interessiert. Wir könnten dabei eine monatliche Warmmiete von
+etwa 1-2 Euro/Quadratmeter bezahlen.
 
 <?php print_author_info(); ?>

@@ -115,14 +115,12 @@
                 <p>Das Museumsgebäude</p>
         </div>
       
-        <h2>Führungen und Öffnungszeiten</h2>
-        <p>Das technikum29 ist ein privat geführtes Museum. Aufgrund des Todes des Betreibers im April 2018
-           wurde der Museumsbetrieb bislang eingestellt. Zu seinen Lebzeiten wurden regelmäßig 90-minütige
-           Führungen angeboten, reguläre Öffnungszeiten gab es nicht.
-
-        <p>Ab Januar 2020 öffnen die Freunde und Förderer des Museums das Gebäude wieder und
-           <a href="/de/termine.php">bieten wieder Führungen an</a>.
-	  
+        <h2>Betrieb und Öffnungszeiten</h2>
+        <p>Das technikum29 lebt von einem Netzwerk Ehrenamtlicher, die sich um alle
+        Aufgaben von der Restauration bis zur Führung kümmern. Es gibt regelmäßig
+        Helfertage sowie Führungen, die auf unserer <a href="/de/termine.php" class="go">Terminübersicht</a>
+        angekündigt werden.
+        
         <!--
         
         <div class="wann">
@@ -140,13 +138,21 @@
 					</li>
             </ul>
         </div>
-		
 		-->
 		
+		<h2>Mitmachen</h2>
+		<p><a href="/de/unterstuetzen.php">Wir suchen Unterstützung</a> und freuen uns
+		über jedes neue Gesicht. Der schnellste Weg zur Kontaktaufnahme ist
+		<a href="/de/impressum.php">eine E-Mail</a>.
+		
+		
 		<div class="flyer left mobile">
-			<a href="/shared/flyer/november2016.pdf" target="_blank"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
-			<h2>Flyer-Download</h2>
-			<p>Betrachten Sie den <a href="/shared/flyer/november2016.pdf" target="_blank">Flyer von 2016</a> als PDF</p>
+            <h2>Zum Weiterlesen</h2>
+			<a href="/shared/flyer/november2016.pdf"><img src="/shared/photos/start/flyer.jpg" width="120" height="210" alt="Photografie des Flyers" /></a>
+			<p>Unser <a href="/de/blog.php" class="go">Neuigkeiten-Blog</a>.			
+			<p>Das <a class="go" href="/shared/flyer/november2016.pdf">Museumsprofil als Faltblatt</a> (2016, PDF).
+			<p>Folge <a class="go" href="https://twitter.com/technikum29">@technikum29 bei Twitter</a>.
+			<p>Code/Projekte vom <a class="go" href="https://github.com/technikum29">technikum29 bei Github</a>.
 		</div>
 		
 </div><!--cools-->

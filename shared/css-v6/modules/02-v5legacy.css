@@ -22,7 +22,8 @@ a.go:before {
 }
 
 /* TODO: Dafuer sorgen dass Pfeile nicht abgeschnitten werden vom Linktext bei Zeilenumbruch! */
-#content a.go { white-space: nowrap; }
+/* #content a.go { white-space: nowrap; } */
+/* -> 2021 entfernt, scheint nicht wirklich noetig zu sein. */
 
 /* a.go old style */
 /*

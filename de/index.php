@@ -52,10 +52,22 @@
 
     <div class="cols clear-after startseiten-boxen">
     <div class="leftcol">
+      <h2>Computergeschichte zum Anfassen</h2>
+      <p>Im technikum29 gibt es keine Besucherabsperrungen. Geräte sollen angefasst und
+         benutzt werden. Das Verstehen ihrer Funktionsweise steht immer im
+         Vordergrund. Deswegen liegt der Fokus des technikum29 auf einer Zeit, in
+         der man in Computern in der Regel mehr sah als nur eine Hauptplatine oder
+         eine Hand voll Chips.  Zu den Highlights gehört etwa der
+         Lochkarten-Gerätepark, bei dem jeder einzelne Verarbeitungsschritt durch
+         eine schrankgroße Maschine bewerkstelligt wurde, die selbstverständlich auch
+         aufgeklappt werden kann.
+      <p>Die Sammlung endet vor dem Durchbruch der Personalcomputer in den 1980er-Jahren.
+         Gezeigt wird also insbesondere keine Unterhaltungselektronik.
+    
       <h2>Deutschlandweit einmalig</h2>
-      <p>Alle Exponate im technikum29 sind funktionsfähig. Es gibt keine Schaukästen
-         und -Tafeln, stattdessen werden ausgewählte Geräte im Rahmen einer Führung
-         von Fachkundigen vorgeführt.
+      <p>Wir legen größten Wert darauf, die Exponate im technikum29 funktionsfähig zu
+         präsentieren. Es gibt keine Schaukästen und -Tafeln, stattdessen werden
+         ausgewählte Geräte im Rahmen einer Führung von Fachkundigen vorgeführt.
       <p>Dies ist mindestens deutschlandweit einmalig,
          ähnliche Konzepte finden sich weltweit nur im
          <a href="http://www.computinghistory.org.uk/">UK Computer Museum</a>,
@@ -68,21 +80,6 @@
          Raritäten ihrer Zeit beschränkt, dies macht sie auch unter Liebhabern und
          Sammlern sehr beliebt.
 
-
-      <h2>✝ Heribert Müller</h2>
-      <p>Der Gründer des Computermuseums, <a href="/heribert-mueller">Heribert Müller</a>,
-         ist im April 2018 gestorben. Er gründete 2005 in einer ehemaligen Sparkassenfiliale
-         das technikum-Computermuseum, die <em>29</em> ist dabei der Hausnummer entnommen.
-         Der Begriff <em>technikum</em> hingegen bezeichnete einst eine Ingenieursschule.
-         Heribert Müller war Studienrat für Mathematik und Physik, eine umfassende
-         elektrotechnische Ausbildung aufbauend auf der Geschichte der Kommunikations-
-         und Rechnertechnik war für ihn ein Ideal. Als Kind des Nachkriegsdeutschlands
-         hatte Heribert Müller ein Faible für die Röhrentechnik, die seine Zeit bereits seit
-         dem frühen zwanzigsten Jahrhundert prägte. Allerdings endet sein Interesse für
-         Computertechnik mit zunehmender Minitarisierung und Intransparenz, welche mit
-         dem Aufkommen der Personalcomputer Anfang der 1980er Jahre Überhand nahm.
-         
-         
       
       <!--
          <div class="besonderes">
@@ -158,6 +155,47 @@
 </div><!--cools-->
 
 <div class="clear">&nbsp;</div>  
+
+
+      <h2>Wir trauern um den Museumsgründer Dipl. Phys. Heribert Müller</h2>
+      <p>Der Gründer des Computermuseums, <a href="/heribert-mueller">Heribert Müller</a>,
+         ist im April 2018 gestorben. Er gründete 2005 in einer ehemaligen Sparkassenfiliale
+         in Kelkheim (Taunus)
+         das technikum-Computermuseum, die <em>29</em> ist dabei der Hausnummer entnommen.
+         Der Begriff <em>technikum</em> hingegen bezeichnete einst eine Ingenieursschule.
+         Heribert Müller war Studienrat für Mathematik und Physik, eine umfassende
+         elektrotechnische Ausbildung aufbauend auf der Geschichte der Kommunikations-
+         und Rechnertechnik stellte für ihn das Ideal einer polytechnischen Ausbildung dar.
+         Als Kind des mittellosen Nachkriegsdeutschlands wuchs Heribert Müller also
+         Kind auf, dass sich Röhrenradios selber zusammenbaute und später als Jugendlicher eine
+         Ausbildung im Radioreperaturladen absolvierte. Die Faible für Röhrentechnik übertrug
+         er in Retrospektive auf die Computertechnik seiner Lebenszeit. Er kritisierte
+         die Intransparenz und Obsoleszenz, die mit dem Boom der Elektronikindustrie
+         und dem Aufkommen der Personalcomputer Anfang der 1980-Jahre einsetzte.
+      <p>Das Tüfteln an »Vintage Computing« war ein Eigenbrötlerhobby war, das technikum29
+         führte er als »One Man Show« stets unter Verweigerung regelmäßiger Hilfen von
+         Außen. Trotzdem arbeitete H. Müller auch mit anderen Experten aus aller Welt
+         an Geräten zusammen. Außerdem legte er viel Wert auf Wissenskommunikation: So
+         führte er regelmäßig Kleingruppen durch die Ausstellung und verweigerte dabei
+         prinzipiell die Annahme von Eintrittsgeldern. Zu den weiteren Museumsaktivitäten
+         gehörte die Teilnahme an Großevents wie der 
+         <a href="https://www.krfrm.de/projekte/route-der-industriekultur/">Route der
+         Industriekultur Rhein-Main</a> mit Gastrednern, die Förderung von
+         <a href="/de/sonstiges.php#leander">Kunst</a>, Film und 
+         <a href="/de/sonstiges.php#music">Musik</a>. Mit speziellen
+         <a href="de/lehrerinfo.php">Führungen für Schulklassen</a> sprach er
+         Kinder an, wobei er insbesondere MittelstufenschülerInnen versuchte mit
+         <a href="/robotik/">Roboter-Kurse</a> zu begeistern, die nicht musealen
+         Anspruch hatten, sondern in der zeitgenössische Bastlertechnik (LEGO,
+         Arduino, »Tinker Toys«) verwendete.
+         Für tiefergehende Informationen sei auf die
+         vielfältigen <a href="/de/impressum.php#Über_das_Museum" class="go">Zeitungsberichte</a>
+         dieser Zeit verwiesen.
+      <p>Seit dem Tod von H. Müller wurde das Museum von EnthusiastInnen, die an
+         die Prinzipien glauben, im Geiste Müllers fortgeführt. Der seit 2019
+         geführte <a href="/de/blog.php" class="go">Blog</a> dokumentiert die
+         ersten Erfolge.
+         
 
 <!-- Beginn Link zu Terminspezialseite -->
 <!--

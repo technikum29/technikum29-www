@@ -11,15 +11,20 @@
 ?>
     <h2>Impressum</h2>
 
+    <!--
     <p>Seit dem plötzlichen <a href="/heribert-mueller/">Verlust von Heribert Müller</a>
        im April 2018 unterliegt das Museum der Leitung durch dem Museum nahestehenden
        Freunden und Helfern. Das <a href="team.php">Museums-Team</a> ist erreichbar unter:
     </p>
+    -->
+    
+    <p>Das technikum29 ist ein (derzeit) privates Computermuseum im Rhein-Main-Gebiet.
+    In <a href="/de/transparenz.php">unserem Transparenzbericht</a> legen wir unsere Struktur und Ziele offen. 
 
     <!-- Maschinenlesbare Visitenkarte: -->
     <div class="vcard" id="address">
        <div class="org">technikum29 Computermuseum</div>
-       <div class="fn">Kommissarische Leitung: Dr. Sven Köppel</div>
+       <div class="fn">Kommissarische Leitung: Dr. Roland Langfeld und  Dr. Sven Köppel</div>
        <div class="adr">
            <div class="street-address">Am Flachsland 29</div>
            <span class="postal-code">65779</span> <span class="locality">Kelkheim (Taunus)</span>
@@ -32,11 +37,22 @@
        <div class="hidden">Logo: <img class="logo" src="/shared/img/banner/light.png" alt="technikum29-Logo" /></div>
     </div>
 
+    <!--
      <p>Heribert Müller war Mitglied in der <a class="arrow" href="http://www.gfgf.org" title="www.gfgf.org">Gesellschaft der Freunde der Geschichte des Funkwesens e.V.</a> und im Frankfurter <a class="arrow" href="http://www.fitg.de" title="www.fitg.de">Förderkreis für Industrie- und Technikgeschichte e.V.</a>.</p>
+     -->
+     
+     <p>Verantwortlich gemäß §5 TMG ist Dr. Sven Köppel, direkt erreichbar unter
+        <a href="mailto:koeppel@technikum29.de">koeppel@technikum29.de</a>.
 
      <h3>Lage / Anfahrt</h3>
-     <p>Das Museum befindet sich mitten im Rhein-Main-Gebiet. Über die A66 und B8 ist es 20 Autominuten, mit der
-     Königsteiner Bahn 40 Zugminuten vom Frankfurter Hauptbahnhof zum Bahnhof Kelkheim-Hornau.
+     <p>Das Museum befindet sich mitten im Rhein-Main-Gebiet. Über die A66 und B8 ist das
+     Museum 20 Autominuten sowohl von der <a href="https://www.zeilffm.de/die-zeil/">Frankfurter Innenstadt</a> als auch vom <a href="https://www.frankfurt-airport.com">Frankfurter
+     Flughafen</a> entfernt Es verfügt über eigene Parkplätze in ausreichender Zahl.
+     <p>Mit dem Zug (RMV-Linie <a href="https://www.rmv.de/c/fileadmin/import/timetable/RMV_Linienfahrplan_RB12_ab_13.12.20_bis_11.12.21.pdf">RB12</a>) ist es ohne Umsteigen vom Frankfurter Hauptbahnhof in 40
+     Minuten erreichbar, einschließlich des 5-minütigen Fußweges von der nahegelegenen
+     Haltestelle <em>Kelkheim-Hornau</em>. Zur Verbindungssuche siehe
+     <a href="https://www.rmv.de/">RMV Nahverkehrsbund</a> oder die Reiseauskunft der
+     <a href="https://www.bahn.de/">Deutschen Bahn</a>.
      </p>
 	<div id="map" style="border: 1px solid #979797; background-color: #e5e3df; height: 320px;">
         <div style="padding: 1em; color: gray"><span class="js">Karte wird geladen ...</span></div>
@@ -87,10 +103,8 @@
     zur Informationsverarbeitung auf unserer Website.
 
 
-    <h2>Über das Museum</h2>
-    <p>Das technikum29 ist ein privates Computermuseum im Rhein-Main-Gebiet.
-    In <a href="/de/transparenz.php">unserem Transparenzbericht</a> legen wir unsere Struktur und Ziele offen.
-    Regionale und überregionale Zeitungen berichten regelmäßig:
+    <h3>Zeitungsecho zum Museum</h3>
+    <p>Regionale und überregionale Zeitungen berichten regelmäßig:
 
     <ul style="text-align:left">
       <li>1999: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/1999-12-02 FR als A4.pdf">Lebendiges Museum mit Computer-Opas und anderen Veteranen</a> (Frankfurter Rundschau)
@@ -113,5 +127,7 @@
       <li>2014: <a href="/download/zeitungsartikel/Kelkheimer Zeitung 2014/nachrichtenartikel.pdf">Roboter in den Ferien programmieren</a> (Kelkheimer Zeitung)
       <li>2019: <a href="/download/zeitungsartikel/Kelkheimer Zeitung 2019.pdf">Das technikum29 soll erhalten bleiben - Gemeinnütziger Verein</a> (Kelkheimer Zeitung)
       <li>2019: <a href="/download/zeitungsartikel/Höchster Kreisblatt 2019.jpg">Die Rettung für das Technikum29: Viele Interessenten wollen bei Wiederbelebung helfen - Verein soll gegründet werden</a> (Frankfurter Neue Presse)
+      <li>2020: <a href="https://www.fnp.de/lokales/main-taunus/kelkheim-ort95937/kelkheim-die-retter-der-technik-spielwiese-90153095.html">Die Retter
+      der Technik-Spielwiese: Im privaten "technikum29" tut sich weiterhin einiges, aber Lagerräume werden gesucht</a> (Frankfurter Neue Presse, <a href="/download/zeitungsartikel/FNP 2020 Silvester (Website).pdf">PDF</a>)
     </ul>
 

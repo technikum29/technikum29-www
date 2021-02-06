@@ -9,7 +9,9 @@
 offen. Es handelt sich um eine Auflistung im Sinne der
 <a href="https://www.transparency.de/mitmachen/initiative-transparente-zivilgesellschaft/">Initiative transparente Zivilgesellschaft</a>. Wir hoffen
 durch die Transparenz <a href="/de/unterstuetzen.php">UnterstützerInnen</a> zu finden.
-  
+
+<p>Die auf dieser Seite genannten Zahlen sind als »Jahresabschluss« zu verstehen,
+entsprechend sind die vorliegenden Zahlen über das vergangene Kalenderjahr 2020.  
   
 <h3>1. Name, Sitz, Anschrift und Gründungsjahr</h3>
 <p>Wir sind das <strong>technikum Computermuseum</strong> (eigentlich <em>technikum29</em>),
@@ -17,8 +19,8 @@ mit Sitz in Kelkheim/Taunus, die genaue Anschrift steht in unserem <a href="/de/
 Das Museum wurde unter diesem Namen 2005 privat gegründet.
 
 <h3>2. Vollständige Satzung sowie Angaben zu den Organisationszielen</h3>
-<p>Derzeit sind wir immernoch ein <em>privat</em> geführtes Museum. Es gibt aber bereits einen Satzungsentwurf
-für einen gemeinnützigen Verein, der gegründet werden soll; außerdem Kandidaten für die Vorstandspositionen.
+<p>Derzeit sind wir (immernoch) ein <em>privat</em> geführtes Museum. Es gibt aber bereits einen Satzungsentwurf
+für einen gemeinnützigen Verein, der gegründet werden soll; außerdem KandidatInnen für die Vorstandspositionen.
 In diesem Sinn ist das Museum möglicherweise im Zustand eines <em>Vorvereins</em>.
 
 <p>Das Organisationziel liest sich in der Präambel so:
@@ -58,10 +60,11 @@ Exponaten, Austausch von Dokumenten und wissenschaftliche Veröffentlichungen.
 </blockquote>
 
 <h3>3. Angaben zur Steuerbegünstigung</h3>
-<p>Das Museum ist derzeit in Privathand. Deswegen können wir <strong>keine</strong>
+<p>Das Museum ist derzeit in Privathand. Deswegen können wir noch <strong>keine</strong>
 steuerbegünstigten Spendenquittungen ausstellen.
 
-Die Museumsräume genießen gemäß Beschluss des hessischen Ministeriums für Wissenschaft und Kunst
+Die Museumsräume genießen gemäß Beschluss des
+<a href="https://wissenschaft.hessen.de/">hessischen Ministeriums für Wissenschaft und Kunst</a>
 von 2005 eine Grundsteuerreduktion (ca. 100 EUR weniger im Quartal).
 
 <!--Der zu gründende Verein wird ausschließlich und unmittelbar gemeinnützige Zwecke verfolgen
@@ -73,43 +76,56 @@ Wesentliche Entscheidungsträger sind derzeit Roland Langfeld und Sven Köppel.
 
 <h3>5. Tätigkeitsbericht</h3>
 <p>Im Jahr 2019 haben wir intensiv an der Aufarbeitung gearbeitet. Viele unserer Tätigkeiten
-<a href="/blog">sind im Blog beschrieben</a>.
+<a href="/blog">sind im Blog beschrieben</a>. Unsere Erfolge im Jahr 2020
+sind im <a href="/blog/2020-12-10-Jahresabschluss.php">Blogartikel »Jahresabschluss 2020«</a>
+zusammengefasst.
 
 <h3>6. Personalstruktur</h3>
-<p>Unsere Helfer arbeiten alle Ehrenamtlich. Viele Mitarbeiter kommen von weit her.
+<p>Unsere HelferInnen arbeiten alle ehrenamtlich. Viele MitarbeiterInnen kommen von weit her.
 Derzeit besitzen nur wenige Personen eine Schließberechtigung für die Räumlichkeiten, daher
 muss man sich zum Mitmachen immer an uns wenden.
 <br>Die Erbengemeinschaft Heribert Müller unterstützt das Museum durch <em>Duldung</em>, also
 Verfügungstellung von Räumen.
 
 <h3>7. Angaben zur Mittelherkunft</h3>
-<p>Derzeit finanziert sich das Museum auf folgende Weise:
+<p>Das abgelaufene Kalenderjahr 2020 war das erste Jahr, in dem das Museum seine Betriebskosten
+selbst stämmte. Um dies zu erreichen, wurde im Vorfeld ein Anfangskontostand von 3.500 Euro
+durch mittelgebundene Spenden (zur Aufrechterhaltung des Museumsbetriebes) eingeworben.
+
+<p>Im abgelaufenen Kalenderjahr 2020 hatte das Museum dann Einahmen folgenden Types:
 <ul>
-  <li>Geldspenden: Wir haben bislang Zuwendungen in Höhe von ca. 300 EUR erhalten.
+  <li>Geldspenden von Freunden des Museums (höchster Einzelbetrag: 200 Euro).
   <li>Sachspenden: Wir haben verschiedene Geräte erhalten (siehe Blog).
-  <li>Verkäufe: Wir haben restaurierte Geräte aus Depots an interessierte Sammler abgetreten und
-      dabei bislang Einnahmen von knapp 2.000 EUR erzielt.
-  <li>Miet- und Nebenkostennachlass: Im Jahr 2019 wurden sämtliche Kosten das letzte mal von der
-      Erbengemeinschaft getragen. Ab 2020 soll das Museum zumindest durch den Betrieb enstehende
-      laufende Kosten (Heizung, Strom, Umlagen) begleichen können.
+  <li>Lizenzrechte: Wir hatten 2020 zwei Anfragen zu Bildrechten (in beiden Fällen von Stiftungen),
+      aus denen wir Jahreseinnahmen in Höhe von 170 Euro generieren konnten.
+  <li>Verkäufe: Wir haben ein paar Geräte aus Depots restauriert und für kleinen Gewinn an interessierte
+      Sammler abgetreten. Die ehrenamtlich investierte Arbeitszeit wurde mit einer
+      Aufwandsentschädigung vergütet, die 30% des Verkaufspreises entsprach.
+      Der dem Museum verbleibende Jahresgewinn ist in Höhe von ca. 5TEuro.
 </ul>
 
-<p>Wir versuchen derzeit, ein erstes Jahresbudget von etwa 6.000 EUR zu erwirtschaften.
+<p>Der buchhalterische Kontostand im abgeschlossenen Kalenderjahr beträgt abzüglich Ausgaben
+ca. 6.000 Euro. Dieser Betrag bildet zum Jahreswechsel die Rücklagen für die museale 
+Beteiligung an der Gebäudeerhaltung.
 
 <h3>8. Angaben zur Mittelverwendung</h3>
-<p>Die <strong>jährlichen Ausgaben des Museums</strong> erwarten wir für 2020 wie folgt:
+<p>Im abgelaufenen Kalenderjahr 2020 hatte das Museum folgende Ausgaben:
 
 <ul>
-  <li>Sachmittel (Putzmittel, Verpflegung bei öffentlichen Veranstaltungen): ca. 2.000 EUR
-  <li>Betriebsmittel für Restaurationstätigkeiten (Werkzeug, Bauteile, usw): ca. 3.000 EUR
-  <li>Nebenkosten (Heizung, Strom, Umlagen) ca. 3.000 EUR
-  <li>Symbolische Kaltmiete für die Museumsräume ab 3.000 EUR
+  <li>Sachmittel (Putzmittel, Verpflegung bei öffentlichen Veranstaltungen): ca. 500 EUR
+  <li>Betriebsmittel für Restaurationstätigkeiten (Werkzeug, Bauteile, Batterien, usw): ca. 1.500 EUR
+  <li>Betriebsnebenkosten (Heizung, Strom, Internetanschluss, Umlagen) laut Abrechnung 2.134 EUR
+  <li>Auf eine kostendeckende Kaltmiete für die Ausstellungsräume (entspräche ca. 23.000 EUR)
+      wurde verzichtet (Spende des Eigentümers).
 </ul>
 
-<p>Zur reinen Bewirtung der Museumsräume werden wir jährlich ca. 6.000 EUR aufbringen müssen.
-Für den Museumsbetrieb erwarten wir Kosten um etwa 5.000 EUR pro Jahr. Ohne Mitgliedsbeiträge
-eines Vereines gehen wir davon aus, dass Sach- und Betriebsmittel weiterhin vom Museumsteam
-getragen werden müssen.
+<p>Ein finanzielles Ziel für 2021 ist es, zum Gebäudeerhalt anfallende
+Kosten vermehrt vom Museumsbudget tragen zu können. Eine Aufgabe im anlaufenden Kalenderjahr 2021 ist allerdings
+die Miete von Lagerräumen, bei der wir monatliche Kaltmieten bis zu 1.000 Euro erwarten.
+
+<!--
+<p>Ohne Mitgliedsbeiträge eines Vereines gehen wir davon aus, dass Sach- und Betriebsmittel weiterhin
+vom Museumsteam getragen werden müssen.-->
 
 <h3>9. Gesellschaftsrechtliche Verbundenheit mit Dritten</h3>
 <p>Das Museum war stets stolz darauf, unabhängig und in eigenen Räumlichkeiten seine
@@ -121,6 +137,6 @@ gedankt wird.
 Industrie- und Technikgeschichte e.V.</a> aus, einem gemeinnützigen Verein in Frankfurt am Main.
 
 <h3>10. Namen von Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen</h3>
-<p>Keine
-
-
+<p>Letztlich wird der überwiegende Teil der Kosten von Sven Köppel privat getragen. Gleichzeitig
+ist der Museumsbetrieb rein organisatorisch eine Privatätigkeit von Sven Köppel. Das Museumskonto
+läuft mangels Gesellschaftsform auch auf seinen Namen.

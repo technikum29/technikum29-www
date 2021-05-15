@@ -121,7 +121,9 @@ Jetzt blieb nur noch die Inbetriebnahme des Matrixdruckers übrig: nach gründli
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/kaputte-Farbband-Transportrollen.jpg" width="400">
    </a>
 </div>
-
+<p>
+<strong>Abb: </strong>Blick in die Farbbandcassette, links Detail der defekten Transportrollen
+<p>
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle.jpg" class="popup">
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle.jpg" width="400">
@@ -130,7 +132,9 @@ Jetzt blieb nur noch die Inbetriebnahme des Matrixdruckers übrig: nach gründli
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle-2.jpg" width="400">
    </a>
 </div>
-
+<p>
+<strong>Abb: </strong>Details der Reparatur, rechts die überholten Transportrollen
+<p>
 
 <p>
 Unsere Maschine ist mit einem Plattenbetriebssystem ausgestattet sowie einer Reihe von Hilfsprogrammen (heute würde man Editor und File-Utilities dazu sagen). Als Programmiersprache wird RPGII eingesetzt. Einige Hilfs- und Diagnoseprogramme auf Diskette liegen auch vor.

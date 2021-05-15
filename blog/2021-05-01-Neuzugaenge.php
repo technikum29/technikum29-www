@@ -74,9 +74,9 @@ Präsentation von DEC-Rechnern ergänzen (im Bild vorne rechts)!
   
 <p>
 Herr Simon Gleissner (Bad Homburg) vermittelte uns als Vermächtnis eine <strong>DEC PDP8E</strong>, die wir im Raum Hannover abholen 
-durften. Das technikum29 zeigt zwar eine Reihe von PDP-8-Rechnern, eine vorzeigbare 8E fehlt uns aber noch. Zunächst 
+	durften. Das technikum29 zeigt zwar <a href="/de/rechnertechnik/fruehe-computer.php#pdp8">eine Reihe von PDP-8-Rechnern</a>, eine vorzeigbare 8E fehlt uns aber noch. Zunächst 
 war der Schreck groß: die Maschine wurde lange Zeit kopfüber in einem feuten Keller gelagert, eine erste Inspektion 
-zeigte aber, dass dies wohl nur kosmetische Spuren auf dem Gehäusedeckel hinterlassen hat. Die Elektronikist komplett 
+zeigte aber, dass dies wohl nur kosmetische Spuren auf dem Gehäusedeckel hinterlassen hat. Die Elektronik ist komplett 
 und optisch in gutem Zustand - mehr wird eine vorsichtige Inbetriebnahme zeigen.
 
 
@@ -95,7 +95,7 @@ Tischrechner <strong>Olympia CD401</strong> von 1972 - dafür nochmals vielen Da
 </div>
 
 <p>
-Und schließlich erhielten wir aus einem größeren Platinenfundus 4 Ersatzplatinen für unsere BULL Gamma 10 - hier geht 
+Und schließlich erhielten wir aus einem größeren Platinenfundus <strong>4 Ersatzplatinen</strong> für unsere <strong>BULL Gamma 10</strong> - hier geht 
 der Dank an Frank Kabjoll (Siegen).
   
 <?php print_author_info(); ?>

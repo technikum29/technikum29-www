@@ -50,7 +50,7 @@ vermietet) wurde.
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Abtransport.jpg" width="400">
    </a>
 </div>
-<strong>Abb:</strong>Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
+<strong>Abb:</strong> Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
 
 
 <p>
@@ -73,7 +73,7 @@ Präsentation von DEC-Rechnern ergänzen (im Bild vorne rechts)!
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/PDP8E-Neuzugang.jpg" width="400">
    </a>
 </div>
-<strong>Abb:</strong>links der DEC-Writer II im Museum, rechts die neue PDP8E
+<strong>Abb:</strong> links der DEC-Writer II im Museum, rechts die neue PDP8E
 
 <p>
 Herr Simon Gleissner (Bad Homburg) vermittelte uns als Vermächtnis eine <strong>DEC PDP8E</strong>, die wir im Raum Hannover abholen 
@@ -96,6 +96,7 @@ Tischrechner <strong>Olympia CD401</strong> von 1972 - dafür nochmals vielen Da
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/CD401-Neuzugang.jpg" width="400">
    </a>
 </div>
+<strong>Abb: </strong>links der neue hp5325B-Zähler mit leuchtender Nixie-Anzeige, rechts die Olympia CD401
 
 <p>
 Und schließlich erhielten wir aus einem größeren Platinenfundus <strong>4 Ersatzplatinen</strong> für unsere <strong>BULL Gamma 10</strong> - hier geht 

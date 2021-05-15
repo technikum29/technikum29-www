@@ -20,7 +20,7 @@ um die Tür zu öffnen.
 Zufälligerweise fanden wir eines Tages beim Aufräumen die Schlüssel für die Revisionstür ! Die 
 Schlösser liessen sich öffnen, doch die Revisionstür ging nur ca 1 cm weit auf. Irgend etwas verhinderte
 das Aufschwenken. Letztlich fanden wir den entscheidenden Trick: Der Tresor muss mit der richtigen
-Kombination geöffnet sein und auf halben weg zwischen "Riegel zu" und "Riegel auf" wird die 
+Kombination geöffnet sein und auf halben Weg zwischen "Riegel zu" und "Riegel auf" wird die 
 Revisionstür freigegeben ! Damit hat sich unsere Anfrage erledigt, hier der Blick auf die Rückseite
 der Tresortür mit geöffneter Revisionstür:.
 

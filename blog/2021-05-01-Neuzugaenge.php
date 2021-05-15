@@ -55,7 +55,8 @@ vermietet) wurde.
 Das Gerät ist nicht zerlegbar und mußte mit seinen 290 kg durch das Zimmerfenster im ersten Stock mit Hilfe eines 
 Hubwagens abtransportiert werden. Fleißige Helfer halfen dann in Kelkheim, das gute Stück in das Museum zu bringen. 
 Zu dem Gerät erhielten wir mehrere Kisten voller technischer Dokumentation und Software, so dass wir zuversichtlich 
-sind, die IBM/32 bald wieder in Betrieb nehmen zu können - wir werden berichten !.
+sind, die IBM/32 bald wieder in Betrieb nehmen zu können - wir werden berichten. Soviel sei verraten: sie funktioniert
+wie am ersten Tag !
 
 <p>
 Beim Transport der IBM/32 führte der Weg unseres Museumstransporters noch in Neckargemünd vorbei, wo wir eine Schenkung 
@@ -72,7 +73,7 @@ Präsentation von DEC-Rechnern ergänzen (im Bild vorne rechts)!
 </div>
   
 <p>
-Herr Simon Gleissner (Bad Homburg) vermittelte uns als Vermächtnis eine <strong>DEC PDP8E<strong>, die wir im Raum Hannover abholen 
+Herr Simon Gleissner (Bad Homburg) vermittelte uns als Vermächtnis eine <strong>DEC PDP8E</strong>, die wir im Raum Hannover abholen 
 durften. Das technikum29 zeigt zwar eine Reihe von PDP-8-Rechnern, eine vorzeigbare 8E fehlt uns aber noch. Zunächst 
 war der Schreck groß: die Maschine wurde lange Zeit kopfüber in einem feuten Keller gelagert, eine erste Inspektion 
 zeigte aber, dass dies wohl nur kosmetische Spuren auf dem Gehäusedeckel hinterlassen hat. Die Elektronikist komplett 
@@ -81,8 +82,8 @@ und optisch in gutem Zustand - mehr wird eine vorsichtige Inbetriebnahme zeigen.
 
 <p>
 Anläßlich eines Besuchs im Museum überließ uns Bernd Nagel (Frankfurt) zwei wunderschöne Exponate mit den herrlichen 
-Nixie-Röhrenanzeigen: einen 20 MHz-Universalzähler der Firma Hewlett Packard Typ hp5325B von 1969 und einen wunderschönen 
-Tischrechner Olympia CD401 von 1972 - dafür nochmals vielen Dank !
+Nixie-Röhrenanzeigen: einen 20 MHz-Universalzähler der Firma Hewlett Packard Typ <strong>hp5325B</strong> von 1969 und einen wunderschönen 
+Tischrechner <strong>Olympia CD401</strong> von 1972 - dafür nochmals vielen Dank !
   
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-01-Neuzugaenge/hp5325B-Neuzugang.jpg" class="popup">

@@ -50,7 +50,9 @@ vermietet) wurde.
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Abtransport.jpg" width="400">
    </a>
 </div>
-   
+>string>Abb:</strong>Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
+
+
 <p>
 Das Gerät ist nicht zerlegbar und mußte mit seinen 290 kg durch das Zimmerfenster im ersten Stock mit Hilfe eines 
 Hubwagens abtransportiert werden. Fleißige Helfer halfen dann in Kelkheim, das gute Stück in das Museum zu bringen. 
@@ -71,7 +73,8 @@ Präsentation von DEC-Rechnern ergänzen (im Bild vorne rechts)!
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/PDP8E-Neuzugang.jpg" width="400">
    </a>
 </div>
-  
+<strong>Abb:</strong>links der DEC-Writer II im Museum, rechts die neue PDP8E
+
 <p>
 Herr Simon Gleissner (Bad Homburg) vermittelte uns als Vermächtnis eine <strong>DEC PDP8E</strong>, die wir im Raum Hannover abholen 
 	durften. Das technikum29 zeigt zwar <a href="/de/rechnertechnik/fruehe-computer.php#pdp8">eine Reihe von PDP-8-Rechnern</a>, eine vorzeigbare 8E fehlt uns aber noch. Zunächst 

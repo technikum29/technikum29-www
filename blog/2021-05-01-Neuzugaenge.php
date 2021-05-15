@@ -19,6 +19,15 @@ Das älteste Exponat übereignete uns freundlicherweise Frau Sigrun Schuster aus
 Rechenmaschine Typ <strong> „XxX“ von Seidel und Naumann</strong> (Dresden). Dieses Modell wurde von 1906 bis 1927 hergestellt, 
 eine genauere Zuordnung des Herstelljahrs zu unserer Maschine ist uns im Augenblick nicht möglich.
 
+<div class="box center">
+   <a  href="/shared/photos/blog/2021-05-01-Neuzugaenge/XxX-Neuzugang.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/XxX-Neuzugang.jpg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/2021-05-01-Neuzugaenge/XxX-Detail.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/XxX-Detail.jpg" width="400">
+   </a>
+</div>
+ 
 <p>
 Nach oberflächlicher Reinigung und etwas Ölen funktionierte die Maschine auf Anhieb in ihren Grundfunktionen. 
 Einige Details sind noch im Zuge einer späteren Komplettüberholung zu erledigen. Einige fehlende Tastenkappen 

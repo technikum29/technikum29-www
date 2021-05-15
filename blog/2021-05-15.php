@@ -11,7 +11,10 @@
 ?>
 
 <p>
-Anfang des Jahres erhielt das technikum29 eine komplette <a href="/blog/2021-05-01-Neuzugaenge.php">IBM5320 System/32 als Geschenk</a>. Der Vorbesitzer hatte sie vor vielen Jahren von einem IBM-Mitarbeiter geschenkt bekommen. Er hatte sie hie und da angeschaltet, bis dann vor kurzem die Gerätesicherung durchbrannte, in dem Zustand übergab er sie uns.
+Anfang des Jahres erhielt das technikum29 eine komplette <a href="/blog/2021-05-01-Neuzugaenge.php">IBM5320 System/32 
+	als Geschenk</a>. Der Vorbesitzer hatte sie vor vielen Jahren von einem IBM-Mitarbeiter geschenkt bekommen. 
+	Er hatte sie hie und da angeschaltet, bis dann vor kurzem die Gerätesicherung durchbrannte, in dem Zustand 
+	übergab er sie uns.
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Im-Museum-angekommen.jpg" class="popup">
@@ -23,7 +26,11 @@ Anfang des Jahres erhielt das technikum29 eine komplette <a href="/blog/2021-05-
 </div>
 
 <p>
-Bei der IBM5320 handelt es sich um einen für die damalige Zeit kleinen Einzelplatzrechner für den Einsatz in kleineren Betrieben. Vorgestellt wurde die 5320 1975 und wurde bis 1984 vertrieben, zumeist vermietet. Vorrangig wurden solche Maschinen in der Buchhaltung u.ä. eingesetzt. Die 5320 hat eine 16Bit-CPU, unser Modell ist mit 24 kByte Speicher in Halbleitertechnik, einer 8Zoll Floppy-Disk-Station (singe sided, single density), einem Matrixdrucker mit 120 cps und einer 9 MByte großen Festplatte ausgestattet. 
+Bei der IBM5320 handelt es sich um einen für die damalige Zeit kleinen Einzelplatzrechner für den Einsatz in 
+	kleineren Betrieben. Vorgestellt wurde die 5320 1975 und wurde bis 1984 vertrieben, zumeist vermietet. 
+	Vorrangig wurden solche Maschinen in der Buchhaltung u.ä. eingesetzt. Die 5320 hat eine 16Bit-CPU, unser 
+	Modell ist mit 24 kByte Speicher in Halbleitertechnik, einer 8Zoll Floppy-Disk-Station (singe sided, 
+	single density), einem Matrixdrucker mit 120 cps und einer 9 MByte großen Festplatte ausgestattet. 
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Festplatte.jpg" class="popup">
@@ -39,41 +46,51 @@ Bei der IBM5320 handelt es sich um einen für die damalige Zeit kleinen Einzelpl
 
 
 <p>
-Als Anzeige dient ein Bildschirm mit 6 Zeilen zu 40 Zeichen, der über eine Spiegeloptik in einer Art Guckkasten (links vom Drucker) betrachtet wird
+Als Anzeige dient ein Bildschirm mit 6 Zeilen zu 40 Zeichen, der über eine Spiegeloptik in einer Art Guckkasten 
+	(links vom Drucker) betrachtet wird
 
 
 
 
 
 <p> 
-Im Museum wurde die Maschine erstmal sorgfältig inspiziert und von dem Staub der Jahre befreit. Der Zustand war erstaunlich gut, es waren keine offenkundigen Fehler zu erkennen. In der Tat war eine kleinere von 2 Sicherungen durchgebrannt. Sie wurde erstmal sorgfältig ersetzt und die Maschine eingeschaltet. Es passierte - nichts " Aber die Sicherung blieb immerhin intakt.
+Im Museum wurde die Maschine erstmal sorgfältig inspiziert und von dem Staub der Jahre befreit. Der Zustand war erstaunlich 
+	gut, es waren keine offenkundigen Fehler zu erkennen. In der Tat war eine kleinere von 2 Sicherungen durchgebrannt. 
+	Sie wurde erstmal sorgfältig ersetzt und die Maschine eingeschaltet. Es passierte - nichts. Aber die Sicherung blieb 
+	immerhin intakt.
 
 <p>
-Dank der umfangreichen Dokumentation mit allen technischen Unterlagen und Schaltplänen konnte der Fehler schnell eingekreist werden: eines der vier (!) Netzteile der Maschine war defekt. Seine Aufgabe besteht einzig darin, eine Logikplatine zu versorgen, die  die Spannungen der drei anderen Netzteile überwachen und diese in geordneter Reihenfolge ein- und auszuschalten.
+Dank der umfangreichen Dokumentation mit allen technischen Unterlagen und Schaltplänen konnte der Fehler schnell eingekreist 
+	werden: eines der vier (!) Netzteile der Maschine war defekt. Seine Aufgabe besteht einzig darin, eine Logikplatine 
+	zu versorgen, die  die Spannungen der drei anderen Netzteile zu überwachen und diese in geordneter Reihenfolge ein- 
+	und auszuschalten hatte.
 
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-vorne.jpg" class="popup">
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-vorne.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile.jpg" width="400">
+   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-offen.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-offen.jpg" width="400">
    </a>
 </div>
 
 <p>
-<strong>Abb: </strong>Blick auf die Netzteile von vorne und hinten
+<strong>Abb: </strong>Blick auf die Netzteile von vorne und hinten (ohne Abdeckungen)
 
 
 <p>
-Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IBM-spezifische Bauteile verwendet. Wir schlossen probeweise eine Reihe von Labornetzteilen an, um zu sehen, ob noch weitere Fehler vorliegen: Mit Hilfe dieser "Notstromversorgung" konnte der Rechner gestartet werden und auf dem Bildschirm erschien eine Fehlermeldung: Anzeige, Tastatur und CPU waren also schon einmal in Ordnung !
+Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IBM-spezifische Bauteile verwendet. Wir schlossen 
+	probeweise eine Reihe von Labornetzteilen an, um zu sehen, ob noch weitere Fehler vorliegen: Mit Hilfe dieser 
+	"Notstromversorgung" konnte der Rechner gestartet werden und auf dem Bildschirm erschien eine Fehlermeldung: 
+	Anzeige, Tastatur und CPU waren also schon einmal in Ordnung !
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Notstromversorgung.jpg" class="popup">
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Notstromversorgung.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/neues-Netzteil.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/neues-Netzteil.jpg" width="400">
+   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatznetzteil.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatznetzteil.jpg" width="400">
    </a>
 </div>
 
@@ -87,7 +104,8 @@ Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf ver
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="400">
+      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="600"
+   </a>
 </div>
 
 <p>

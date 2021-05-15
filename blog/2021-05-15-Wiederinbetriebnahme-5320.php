@@ -27,7 +27,7 @@ Anfang des Jahres erhielt das technikum29 eine komplette <a href="/blog/2021-05-
 
 <p>
 Bei der IBM5320 handelt es sich um einen für die damalige Zeit kleinen Einzelplatzrechner für den Einsatz in 
-	kleineren Betrieben. Vorgestellt wurde die 5320 1975 und wurde bis 1984 vertrieben, zumeist vermietet. 
+	kleineren Betrieben. Vorgestellt wurde die IBM5320 1975 und wurde bis 1984 vertrieben, zumeist vermietet. 
 	Vorrangig wurden solche Maschinen in der Buchhaltung u.ä. eingesetzt. Die 5320 hat eine 16Bit-CPU, unser 
 	Modell ist mit 24 kByte Speicher in Halbleitertechnik, einer 8Zoll Floppy-Disk-Station (singe sided, 
 	single density), einem Matrixdrucker mit 120 cps und einer 9 MByte großen Festplatte ausgestattet. 

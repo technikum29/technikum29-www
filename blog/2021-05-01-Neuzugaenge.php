@@ -50,7 +50,7 @@ vermietet) wurde.
       <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Abtransport.jpg" width="400">
    </a>
 </div>
->string>Abb:</strong>Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
+<strong>Abb:</strong>Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
 
 
 <p>

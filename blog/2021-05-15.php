@@ -139,8 +139,8 @@ Jetzt blieb nur noch die Inbetriebnahme des Matrixdruckers übrig: nach gründli
 <p>
 Unsere Maschine ist mit einem Plattenbetriebssystem ausgestattet sowie einer Reihe von Hilfsprogrammen (heute würde man Editor und File-Utilities dazu sagen). Als Programmiersprache wird RPGII eingesetzt. Einige Hilfs- und Diagnoseprogramme auf Diskette liegen auch vor.
 
-<p>
+<p><strong>
 Als Aufgabe bleibt, ein typisches Anwendungsprogramm für die Maschine in RPG für Vorführungen zu schreiben - wer Kenntnisse und Lust darauf hat möge sich bitte melden !
-
+</strong>
 
 <?php print_author_info(); ?>

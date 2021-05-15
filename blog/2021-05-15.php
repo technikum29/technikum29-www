@@ -78,7 +78,7 @@ Dank der umfangreichen Dokumentation mit allen technischen Unterlagen und Schalt
 <p>
 <strong>Abb: </strong>Blick auf die Netzteile von vorne und hinten (ohne Abdeckungen)
 
-
+<p>
 <p>
 Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IBM-spezifische Bauteile verwendet. Wir schlossen 
 	probeweise eine Reihe von Labornetzteilen an, um zu sehen, ob noch weitere Fehler vorliegen: Mit Hilfe dieser 
@@ -98,7 +98,7 @@ Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IB
 <strong>Abb: </strong>Versuchsaufbau zur Notversorgung und Ersatznetzteile fertig zum Einbau
 
 
-
+<p>
 <p>
 Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf verschiedenen Hilfsspannungen zu erzeugen und das Provisorium wurde in der Maschine untergebracht. Jetzt ließ sich die Anlage wie vorgesehen ein- und ausschalten. Nach Beseitigung eines Fehlers in der Freigabelogik zur Festplatte konnte dann zum ersten Mal das System von der Platte hochgefahren werden - IBM nannte das IMPL (initial micro program loading). Der Bildschirm zeigte, dass dies das erste ordentliche Booten seit dem 26.9.1989 war - ein voller Erfolg !!
 
@@ -107,7 +107,9 @@ Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf ver
       <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="600"
    </a>
 </div>
-
+<p>
+<strong>Abb: </strong>Erfolgreiches Booten (IMPL) von Platte !
+<p>
 <p>
 Jetzt blieb nur noch die Inbetriebnahme des Matrixdruckers übrig: nach gründlicher Reinigung und sorgfältigem Ölen und Fetten war er wieder soweit betriebsbereit. Eine Schwachstelle blieb noch zu beseitigen: die Transportrollen der Farbbandführung hatten sich in eine klebrige Masse zersetzt. Ersatz brachten 6 Gummidichtungen aus einem Reparatursatz für Wasserhähne. Das alte Farbband, ein endlos-Band, wurde mit Stempelfarbe aufgefrischt, jetzt ist auch eine Druckausgabe wieder möglich.
 

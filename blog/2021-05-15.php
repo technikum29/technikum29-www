@@ -104,7 +104,7 @@ Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf ver
 
 <div class="box center">
    <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="600"
+      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="600">
    </a>
 </div>
 <p>

@@ -12,6 +12,9 @@
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
 
+  <p>Update 17.5.2021: leider ist dem Stand vom 24.7.2020 nichts Neues hinzuzufügen:
+	  
+  <p>   
   <p>Update 24.7.2020: 
   <p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann

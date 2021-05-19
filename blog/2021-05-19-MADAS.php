@@ -12,11 +12,11 @@
 
 <p>
 Wer in den letzten Jahren das technikum29 besucht hat, kennt unsere mechanische Rechenmaschine
-	<a href="/de/rechnertechnik/elektro-mechanik.php"> MADAS VII eTA</a>. Die Maschine muss 
-	vor langer defekt geworden sein, sie blockiert, deshalb 
-	war sie auf einem Gestell montiert und diente als Schaustück für den Stand
-	der mechanischen Rechentechnik der 30er Jahre des letzten Jahrhunderts: ein Vollautomat,
-	der die 4 Grundrechenarten eigenständig durchführen konnte. 
+	<a href="/de/rechnertechnik/elektro-mechanik.php"> MADAS VII eTA</a>. So wie auf unserer
+	Webseite war sie nicht im Museum zu sehen. Die Maschine muss vor langer Zeit defekt geworden 
+	sein, sie blockierte, deshalb war sie auf einem Gestell montiert. So diente sie als Schaustück 
+	für den Stand der mechanischen Rechentechnik der 30er Jahre des letzten Jahrhunderts: 
+	ein Vollautomat, der die 4 Grundrechenarten eigenständig durchführen konnte. 
 	
 <p>
 Mittlerweile haben wir in unseren Depots das Gehäuse mit Motor wiedergefunden. Deshalb lag es nahe,

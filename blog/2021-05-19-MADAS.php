@@ -12,18 +12,23 @@
 
 <p>
 Wer in den letzten Jahren das technikum29 besucht hat, kennt unsere mechanische Rechenmaschine
-	MADAS VII eTA. Die Maschine muss vor langer defekt geworden sein, sie blockiert, deshalb 
+	<a href="/de/rechnertechnik/elektro-mechanik.php"> MADAS VII eTA</a>. Die Maschine muss 
+	vor langer defekt geworden sein, sie blockiert, deshalb 
 	war sie auf einem Gestell montiert und diente als Schaustück für den Stand
 	der mechanischen Rechentechnik der 30er Jahre des letzten Jahrhunderts: ein Vollautomat,
-	der die 4 Grundrechenarten vollautomatisch durchführen konnte. 
+	der die 4 Grundrechenarten eigenständig durchführen konnte. 
 	
 <p>
-Mittlerweile haben wir in unseren depots das Gehäuse mit Motor wiedergefunden. Deshalb lag es nahe,
+Mittlerweile haben wir in unseren Depots das Gehäuse mit Motor wiedergefunden. Deshalb lag es nahe,
 	die Maschine wieder instand zu setzen. Sie läuft jetzt wieder, nur bei der Multiplikation
-	"hakt" es noch etwas. Hier in dem kleinen Filmchen sieht man, wie sie die Rechnung "1 geteilt 
-	durch 7" vollautomatisch auf Knopfdruck abarbeitet und am Schluß das Ergebnis auf 6 Stellen 
-	anzeigt: 0,142857 !
+	"hakt" es noch etwas, aber das bekommen wir auch noch hin. 
 	
+<p>
+	Hier in dem kleinen Filmchen sieht man, wie sie die Rechnung "1 geteilt 
+	durch 7" vollautomatisch auf Knopfdruck abarbeitet und am Schluß ein Glöckchen läutet und 
+	das Ergebnis auf 6 Stellen anzeigt: 0,142857 !
+	
+<p>
 BAUSTELLE: Film folgt in Kürze ...
 
 

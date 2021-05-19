@@ -17,7 +17,21 @@ Wer in den letzten Jahren das technikum29 besucht hat, kennt unsere mechanische 
 	sein, sie blockierte, deshalb war sie auf einem Gestell montiert. So diente sie als Schaustück 
 	für den Stand der mechanischen Rechentechnik der 30er Jahre des letzten Jahrhunderts: 
 	ein Vollautomat, der die 4 Grundrechenarten eigenständig durchführen konnte. 
+
 	
+	
+<div class="box center">
+   <a  href="/shared/photos/blog/2021-05-19-MADAS/MADAS_oben.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-19-MADAS/MADAS_oben.jpg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/2021-05-19-MADAS/MADAS_unten.jpg" class="popup">
+      <img src="/shared/photos/blog/2021-05-19-MADAS/MADAS_unten.jpg" width="400">
+   </a>
+</div>
+ 
+<p>
+	<strong>Abb: </strong>unsere MADAS in Draufsicht und ein Blick von unten in die Mechanik
+<p>	
 <p>
 Mittlerweile haben wir in unseren Depots das Gehäuse mit Motor wiedergefunden. Deshalb lag es nahe,
 	die Maschine wieder instand zu setzen. Sie läuft jetzt wieder, nur bei der Multiplikation

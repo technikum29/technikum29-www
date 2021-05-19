@@ -1,6 +1,6 @@
 <?php
 	$blog_title = "Unsere MADAS VII eTA rechnet wieder !";
-	$blog_title_kurz = "MADAS rechnet";
+	$blog_title_kurz = "Unsere MADAS VII eTA rechnet wieder !";
 	$blog_author = "Roland";
 	$blog_date = "2021-05-19";
 	$blog_lang = "de";

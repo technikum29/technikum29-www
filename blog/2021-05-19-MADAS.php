@@ -41,9 +41,15 @@ Mittlerweile haben wir in unseren Depots das Gehäuse mit Motor wiedergefunden. 
 	Hier in dem kleinen Filmchen sieht man, wie sie die Rechnung "1 geteilt 
 	durch 7" vollautomatisch auf Knopfdruck abarbeitet und am Schluß ein Glöckchen läutet und 
 	das Ergebnis auf 6 Stellen anzeigt: 0,142857 !
-	
+
 <p>
-BAUSTELLE: Film folgt in Kürze ...
+<video width="1280" height="720" controls style="width:100%;height:auto;">
+  <source src="/shared/photos/blog/2021-05-19-MADAS/MADAS_rechnet.m4v" type="video/mp4">
+  <source src="/shared/photos/blog/2021-05-19-MADAS/MADAS_rechnet.mkv" type="video/x-matroska">
+  <source src="/shared/photos/blog/2021-05-19-MADAS/MADAS_rechnet.mov" type="video/quicktime">
+  <em>Leider unterstützt Ihr Browser keines der angebotenen Videoformate.
+  Probieren Sie doch einmal <a href="/shared/photos/blog/2021-05-19-MADAS/">den Download der Videofiles</a>.
+</video>
 
 
 <?php print_author_info(); ?>

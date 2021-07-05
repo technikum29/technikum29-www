@@ -28,6 +28,8 @@
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen vorerst nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
 	  Gruppen und dem "Begreifen" der Exponate. 
+	
+<p><strong>Wir bitten hierfür um Verständnis.</strong>
 
 </div>
 

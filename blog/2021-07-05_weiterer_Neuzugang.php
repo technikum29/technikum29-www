@@ -26,7 +26,8 @@ Seit Juni 2021 ist unsere <a href="https://technikum29.de/de/rechnertechnik/loch
 An dieser Stelle ein herzliches Dankeschön an die Fa. Wälzholz und an Frau Leifert, die die reibungslose Übergabe organisiert hat !
 	
 <p>
-Bei genauem Hinsehen wird klar, dass NCR hier einen JUKI-Stanzer vermarktet hat, der wiederum ein Lizenznachbaus des IBM 029 ist. Deshalb präsentieren wir den Neuzugang auch im Ensemble:
+Bei genauem Hinsehen wird klar, dass NCR hier einen JUKI-Stanzer vermarktet hat, der wiederum ein Lizenznachbau des IBM 029 ist. Deshalb präsentieren wir 
+	den Neuzugang auch im Ensemble:
 
 <p>
 <div class="box center">

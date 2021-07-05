@@ -12,19 +12,19 @@
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
 
-  <p>Update 5.7.2021: 
-<p>Mittlerweile entspannt sich die Corona-Situation. Wir möchten aber von Veranstaltungen mit einer
-	  größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen. Auf besonderen Wunsch bieten wir nur
+<p><strong>Update 5.7.2021:</strong> 
+<p>Mittlerweile entspannt sich die Corona-Situation. <strong>Wir möchten aber von Veranstaltungen mit einer
+	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Auf besonderen Wunsch bieten wir nur
 	  Kleinstgruppen (max 5 Teilnehmer) nach Absprache über unsere Mailadresse reduzierte Führungen an.
 	  
 <p>Öffnung des Museums für kleine <strong>Helfergruppen</strong> (max 5 Teilnehmer) ist ebenfalls nach Absprache möglich.
 	
-<p>>strong>Regeln:</strong>
+<p><strong>Regeln:</strong>
 <p>In unseren Räumlichkeiten gelten Maskenpflicht bei Abständen < 1.5 m, Erfassung mit Namen und Adresse zwecks Nachverfolgung im
 	Falle einer Infektion und die Corona-üblichen Hygieneregeln.
 	  
-  <p>Hintergrund:    
-  <p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
+<p><strong>Hintergrund:</strong>    
+<p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
 	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
 	  unter diesen Bedingungen vorerst nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
 	  Gruppen und dem "Begreifen" der Exponate. 

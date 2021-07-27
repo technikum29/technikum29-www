@@ -46,7 +46,8 @@ Heute <a href="https://www.heise.de/newsticker/meldung/36C3-Congress-wie-1984-mi
  
 
 <p>
-Abb.: unsere beiden BTX-Terminals im Betrieb: links das Siemens T3210 von 1983, rechts das Post Multitel 2 von 1987.
+Abb.: unsere beiden BTX-Terminals im Betrieb: links das Siemens T3210 von 1983, verbunden wie früher über Modem DBT03 (kleiner Kasten zwischen den 
+	Terminals), rechts das Post Multitel 2 von 1987, angeschlossen über den DBT03-Emulator (nicht sichtbar).
 
 <p>
 	Und eine <strong>eigene BTX-Adresse</strong> hat das technikum29 jetzt auch: unter 8092529 erreichen uns Mitteilungen !

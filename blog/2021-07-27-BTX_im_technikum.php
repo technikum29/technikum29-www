@@ -1,4 +1,4 @@
-<?aphp
+<?php
 	$blog_title = "Neu im technikum29: BTX";
 	$blog_title_kurz = "Neu im technikum29: BTX";
 	$blog_author = "Roland";

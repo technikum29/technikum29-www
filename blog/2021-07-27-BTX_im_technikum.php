@@ -12,17 +12,21 @@
 
 <p>
 Vor einiger Zeit berichteten wir, dass Unterstützer unsere Fernschreiber 
-wieder über eine Vermittlungsstelle miteinander verbunden hatten und dass damit sogar eine 
-Einwahl in das <a href="/blog/2020-07-27-iTelex.php"> weltweite i-telex-Netz </a> möglich ist. Damit können diese schönen Fernschreiber 
+ über eine Vermittlungsstelle miteinander verbunden hatten und dass damit sogar eine 
+Einwahl in das <a href="/blog/2020-07-27-iTelex.php"> weltweite i-telex-Netz </a> möglich ist. Damit können unsere Fernschreiber 
 wieder in ihrer ursprünglichen Bestimmung vorgeführt werden.
 
 <p>
-Im Depot fand sich eines der ersten postzugelassenen BTX-Terminals: ein Siemens T3210. 
-Damit konnte man zum Start in 1983 des neuen BTX-Services der Post an diesem Dienst teilnehmen und zum 
-Beispiel erstmals Dienste wie "Online-Banking", die elektronische Fahrplanauskunft, einen Mitteilungsdienst (Vorläufer des e-Mail) und vieles andere mehr nutzen. Und das zu einer Zeit, in der das Internet noch nicht erfunden war. 
+Thematisch dazu passt das Thema Bildschirmtext (BTX): Im Depot fand sich eines der ersten postzugelassenen BTX-Terminals: ein Siemens T3210. 
+Damit konnte man 1983 zum Start des neuen BTX-Services der Post an diesem Angebot teilnehmen und zum 
+Beispiel erstmals Dienste wie "Online-Banking", die elektronische Fahrplanauskunft, einen Mitteilungsdienst (Vorläufer des e-Mail) und 
+	vieles andere mehr nutzen. Und das zu einer Zeit, in der das Internet noch nicht erfunden war. 
 
 <p>
-Als Anschluß zur großen weiten BTX-Welt diente ein Post-Modem DBT03 (die Deutsche Bundespost erlaubte in ihrer Hoheit über das Telefonnetz keine anderen Anschlüsse) und mit 75 bd hin / 1200 bd zurück war die Datenübertragung ein Geduldsspiel. Die Hochzeit des BTX waren die 1990er-Jahre, danach flaute das Interesse merklich ab. Der Dienst war einfach zu unflexibel und zu teuer und wurde um die Jahrtausendwende vom Internet eingeholt.
+Als Anschluß zur großen weiten BTX-Welt diente ein Post-Modem DBT03 (die Deutsche Bundespost erlaubte in ihrer Hoheit über das Telefonnetz 
+	keine anderen Anschlüsse) und mit 75 bd hin / 1200 bd zurück war die Datenübertragung ein Geduldsspiel. Die Hochzeit des BTX waren 
+	die 1990er-Jahre, danach flaute das Interesse merklich ab. Der Dienst war einfach zu unflexibel und zu teuer und wurde um die 
+	Jahrtausendwende vom Internet eingeholt.
 
 
 <p>

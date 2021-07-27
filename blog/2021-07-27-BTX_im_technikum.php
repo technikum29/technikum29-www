@@ -20,7 +20,7 @@ wieder in ihrer ursprünglichen Bestimmung vorgeführt werden.
 	Thematisch dazu passt das Thema <strong>Bildschirmtext (BTX)</strong>: Im Depot fand sich eines der ersten postzugelassenen BTX-Terminals: ein Siemens T3210. 
 Damit konnte man 1983 zum Start des neuen BTX-Services der Post an diesem Angebot teilnehmen und zum 
 Beispiel erstmals Dienste wie "Online-Banking", die elektronische Fahrplanauskunft, einen Mitteilungsdienst (Vorläufer des e-Mail) und 
-	vieles andere mehr nutzen. Und das zu einer Zeit, in der das Internet noch nicht erfunden war. 
+	vieles andere mehr nutzen. Und das zu einer Zeit, in der das Internet noch in seinen Anfängen steckte und nicht allgemein verfügbar war. 
 
 <p>
 Als Anschluß zur großen weiten BTX-Welt diente ein Post-Modem DBT03 (die Deutsche Bundespost erlaubte in ihrer Hoheit über das Telefonnetz 

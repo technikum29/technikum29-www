@@ -32,7 +32,7 @@ Heute <a href="https://www.heise.de/newsticker/meldung/36C3-Congress-wie-1984-mi
 
 <div class="box center">
    <a  href="/shared/photos/blog/BTX%20im%20technikum29.jpg.JPG" class="popup">
-      <img src="/shared/photos/blog/BTX%20im%20technikum29.jpg.JPG" width="800">
+      <img src="/shared/photos/blog/BTX%20im%20technikum29.jpg.JPG" width="600">
    </a>
 </div>
  

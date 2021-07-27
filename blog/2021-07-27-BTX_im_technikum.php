@@ -17,7 +17,7 @@ Einwahl in das <a href="/blog/2020-07-27-iTelex.php"> weltweite i-telex-Netz </a
 wieder in ihrer ursprünglichen Bestimmung vorgeführt werden.
 
 <p>
-Thematisch dazu passt das Thema Bildschirmtext (BTX): Im Depot fand sich eines der ersten postzugelassenen BTX-Terminals: ein Siemens T3210. 
+	Thematisch dazu passt das Thema <strong>Bildschirmtext (BTX)</strong>: Im Depot fand sich eines der ersten postzugelassenen BTX-Terminals: ein Siemens T3210. 
 Damit konnte man 1983 zum Start des neuen BTX-Services der Post an diesem Angebot teilnehmen und zum 
 Beispiel erstmals Dienste wie "Online-Banking", die elektronische Fahrplanauskunft, einen Mitteilungsdienst (Vorläufer des e-Mail) und 
 	vieles andere mehr nutzen. Und das zu einer Zeit, in der das Internet noch nicht erfunden war. 
@@ -30,8 +30,12 @@ Als Anschluß zur großen weiten BTX-Welt diente ein Post-Modem DBT03 (die Deuts
 
 
 <p>
-Heute <a href="https://www.heise.de/newsticker/meldung/36C3-Congress-wie-1984-mit-BTX-und-Originalarchiven-4624507.html"> betreiben Liebhaber </a> des alten BTX einen Server und halten den Dienst mit einigen der alten Angebote wieder bereit. Und man kann sich sogar über Telefonmodem, aber auch ganz fortschrittlich über das Internet in den Dienst einwählen. Von einem unserer Unterstützer, Christian aus Bayreuth, bekamen wir einen <a href="https://btx-museum.de/2020/02/29/der-neue-dbt-03-emulator/"> DBT03-Emulator </a>
- geschenkt, mit dem man sich bequem via Internet auf den neuen BTX-Server einwählen kann. So können wir mit einem 2. Terminal den BTX-Dienst etwas flotter auf einem Farb-BTX-Terminal der Post von 1997 (Multitel 2) nutzen. Und eine eigene BTX-Adresse hat das technikum29 jetzt auch: unter 8092529 erreichen uns Mitteilungen !
+Heute <a href="https://www.heise.de/newsticker/meldung/36C3-Congress-wie-1984-mit-BTX-und-Originalarchiven-4624507.html"> betreiben Liebhaber </a> 
+	des alten BTX einen Server und halten den Dienst mit einigen der alten Angebote wieder bereit. Und man kann sich sogar über Telefonmodem, 
+	aber auch ganz fortschrittlich über das Internet in den Dienst einwählen. Von einem unserer Unterstützer, Christian aus Bayreuth, bekamen 
+	wir einen <a href="https://btx-museum.de/2020/02/29/der-neue-dbt-03-emulator/"> DBT03-Emulator </a>
+ geschenkt, mit dem man sich bequem via Internet auf den neuen BTX-Server einwählen kann. So können wir mit einem 2. Terminal den BTX-Dienst 
+	etwas flotter auf einem Farb-BTX-Terminal der Post von 1997 (Multitel 2) nutzen. 
 <p>
 
 <div class="box center">
@@ -42,7 +46,8 @@ Heute <a href="https://www.heise.de/newsticker/meldung/36C3-Congress-wie-1984-mi
  
 
 <p>
-Abb.: unsere beiden BTX-Terminals im Betrieb !
+Abb.: unsere beiden BTX-Terminals im Betrieb: links das Siemens T3210 von 1983, rechts das Post Multitel 2 von 1987.
 
-  
+<p>
+	Und eine <strong>eigene BTX-Adresse</strong> hat das technikum29 jetzt auch: unter 8092529 erreichen uns Mitteilungen !
 <?php print_author_info(); ?>

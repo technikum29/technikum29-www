@@ -38,7 +38,7 @@ Der 5100 basiert auf einer diskret aufgebauten CPU (PALM). PALM ist eine 16-Bit 
 
 	
 <p>
-Der Drucker IBM5100 ist ein Nadeldrucker (8 Nadeln) mit 80 Zeichen/s Druckgeschwindigkeit und einem bidirektionalen Traktor 
+Der Drucker IBM5103 ist ein Nadeldrucker (8 Nadeln) mit 80 Zeichen/s Druckgeschwindigkeit und einem bidirektionalen Traktor 
 	für Endlospapier.
 
 <p>

@@ -11,7 +11,8 @@
 ?>
 
 <p>
-In unserem Depot fand sich ein Tischcomputer IBM5100 mit Drucker 5103, leider ohne Funktion. Nach einer Reinigung machten die Geräte schon einmal einen sehr gut erhaltenen Eindruck und wir setzten alles daran, die Geräte wieder zum Leben zu erwecken:
+In unserem Depot fand sich ein Tischcomputer IBM5100 mit Drucker 5103, leider ohne Funktion. Nach einer Reinigung machten 
+	die Geräte schon einmal einen sehr gut erhaltenen Eindruck und wir setzten alles daran, sie wieder zum Leben zu erwecken:
 
 <div class="box center">
    <a  href="/shared/photos/blog/IBM5100/5100vorne.jpg" class="popup">

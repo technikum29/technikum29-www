@@ -26,18 +26,29 @@ In unserem Depot fand sich ein Tischcomputer IBM5100 mit Drucker 5103, leider oh
 
 
 <p>
-Die IBM5100 ist ein technisch hoch interessantes Gerät. 1975 von IBM als "erster tragbarer Computer" vorgestellt ist dieses Gerät der Vor-Vorläufer des IBM PC (IBM 5150) von 1981. Wobei "tragbar" relativ ist: mit einem Gewicht von 28 kg ist das Tragen nicht jedermanns Sache und auch der Preis von seinerzeit bis zu 20.000 USD war nur für wenige erschwinglich. 
+Die IBM5100 ist ein technisch hoch interessantes Gerät. 1975 von IBM als "erster tragbarer Computer" vorgestellt ist dieses Gerät der 
+	Vor-Vorläufer des IBM PC (IBM 5150) von 1981. Wobei "tragbar" relativ ist: mit einem Gewicht von 28 kg ist das Tragen nicht 
+	jedermanns Sache und auch der Preis von seinerzeit bis zu 20.000 USD war nur für wenige erschwinglich.
 
 <p>
-Der 5100 basiert auf einer diskret aufgebauten CPU (PALM). PALM ist eine 16-Bit CPU mit 1,9 MHz Taktfrequenz. Sie emuliert per Mikrocode (im ROM, bei IBM ROS genannt) eine IBM/360 (resp. eine IBM/3), um darauf ein /360 APL auszuführen (resp. ein /3 BASIC). Das Betriebssystem wird per Schalter eingestellt, der Arbeitsspeicher beträgt bei unserer Maschine 48 kB (max 64 kB möglich), ein 5"-sw-Monitor, eine Tastatur und ein Bandlaufwerk runden die Ausstattung ab.
+Der 5100 basiert auf einer diskret aufgebauten CPU (PALM). PALM ist eine 16-Bit CPU mit 1,9 MHz Taktfrequenz. Sie emuliert per Mikrocode 
+	(im ROM, bei IBM ROS genannt) eine IBM/360 (resp. eine IBM/3), um darauf ein /360 APL auszuführen (resp. ein /3 BASIC). Das 
+	Betriebssystem wird per Schalter eingestellt, der Arbeitsspeicher beträgt bei unserer Maschine 48 kB (max 64 kB möglich), ein 
+	5"-sw-Monitor, eine Tastatur und ein Bandlaufwerk runden die Ausstattung ab.
 
-
+	
+<p>
+Der Drucker IBM5100 ist ein Nadeldrucker (8 Nadeln) mit 80 Zeichen/s Druckgeschwindigkeit und einem bidirektionalen Traktor 
+	für Endlospapier.
 
 <p>
-Unsere Maschine hatte eine Reihe von Fehlern: das Schaltnetzteil war defekt und hatte noch einige Platinen mit in den Tod gerissen. Bei der Reparatur half uns das IBM-Museum Böblingen, hier sei Horst Ruffner besonderer Dank gewidmet. Einige Fehler konnten repariert werden, einige Platinen wurden vom IBM-Museum getauscht, andere wurden von uns über eBay in USA aufgetrieben. 
+Unsere Maschine hatte eine Reihe von Fehlern: das Schaltnetzteil war defekt und hatte noch einige Platinen mit in den Tod gerissen. 
+	Bei der Reparatur half uns das IBM-Museum Böblingen, hier sei Horst Ruffner besonderer Dank gewidmet. Einige Fehler konnten 
+	repariert werden, einige Platinen wurden vom IBM-Museum getauscht, andere wurden von uns über eBay in USA aufgetrieben. 
 
 <p>
-Hier hängt unsere IBM 5100 in den Labors des IBM-Museums nach dem Auswechseln einiger Boards noch an einem Spendernetzteil. Sie zeigt immerhin schon einmal eine Fehlermeldung der eingebauten Selbsttestroutine (Defektes ROS-Controller Board).
+Hier hängt unsere IBM 5100 in den Labors des IBM-Museums nach dem Auswechseln einiger Boards noch an einem Spendernetzteil. Sie zeigt 
+	immerhin schon einmal eine Fehlermeldung der eingebauten Selbsttestroutine (Defektes ROS-Controller Board).
 
 
 <div class="box center">
@@ -50,11 +61,14 @@ Hier hängt unsere IBM 5100 in den Labors des IBM-Museums nach dem Auswechseln e
 </div>
 
 <p>
-Am Drucker 5103 ist ein Nadeldrucker (8-Nadeln) mit 80 cps. Es musste der Farbbandtransport repariert werden und das Farbband wurde ersetzt (es ist ein spezielles Endlos-Farbband). <strong>Nach über 1 ½ Jahren laufen der Rechner und Drucker nun wieder !</strong>
+Am Drucker musste der Farbbandtransport repariert werden. Ferner wurde das Farbband  ersetzt (es ist ein spezielles Endlos-Farbband). 
+	
+<p>
+<strong>Nach über 1 ½ Jahren laufen der Rechner und Drucker nun wieder !</strong>
 
 
 <p>
-Hier ein Blick in das Innere des Gerätes:
+Hier ein Blick in das Innere des Computers:
 
 <div class="box center">
    <a  href="/shared/photos/blog/IBM5100/OffenOben.jpg" class="popup">

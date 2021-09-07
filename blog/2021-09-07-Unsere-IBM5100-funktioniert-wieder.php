@@ -78,7 +78,7 @@ Der Computer ist sehr solide und sehr wartungsfreundlich in Modulen aufgebaut.
 </div>
 
 <p>
-Hier ein Blick auf eines der 16kB RAM-Boards (Halbleiterspeicher).
+Oben rechts ein Blick auf eines der 16kB RAM-Boards (Halbleiterspeicher).
 
 
 

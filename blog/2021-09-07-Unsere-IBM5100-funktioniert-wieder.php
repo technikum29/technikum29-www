@@ -67,9 +67,13 @@ Hier ein Blick in das Innere des Gerätes:
 <p>
 Der Computer ist sehr solide und sehr wartungsfreundlich in Modulen aufgebaut.
 
+	
+	/shared/photos/blog/IBM5100/Module.jpg
 <p>
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/RAM.jpg" class="popup">
+    <a  href="/shared/photos/blog/IBM5100/Module.jpg" class="popup">
+      <img src="/shared/photos/blog/IBM5100/Module.jpg" width="400">
+   </a><a  href="/shared/photos/blog/IBM5100/RAM.jpg" class="popup">
       <img src="/shared/photos/blog/IBM5100/RAM.jpg" width="400">
    </a>
 </div>

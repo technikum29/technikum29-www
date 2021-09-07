@@ -109,7 +109,8 @@ Daneben ein Screenshot eines kleinen Spieleprogramms "StarWars", das wir auf den
    </a>
 </div>
 
-
+<p>
+	Mit der IBM5100 haben wir neben der IBM5320 und der IBM1130 jetzt 3 vorführbereite IBM-Computer der 60er/70er Jahre im technikum29 !
 
 
 

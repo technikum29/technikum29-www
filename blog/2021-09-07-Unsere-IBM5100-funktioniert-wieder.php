@@ -1,4 +1,4 @@
-<?aphp
+<?php
 	$blog_title = "Unsere IBM5100 funktioniert wieder !";
 	$blog_title_kurz = "Unsere IBM5100 funktioniert wieder !";
 	$blog_author = "Roland";

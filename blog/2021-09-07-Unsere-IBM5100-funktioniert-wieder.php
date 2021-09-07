@@ -57,10 +57,10 @@ Hier ein Blick in das Innere des Gerätes:
 
 <div class="box center">
    <a  href="/shared/photos/blog/IBM5100/OffenOben.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/OffenOben.jpg" width="400">
+      <img src="/shared/photos/blog/IBM5100/OffenOben.jpg" width="300">
    </a>
    <a  href="/shared/photos/blog/IBM5100/offenBreit.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/offenBreit.jpg" width="400">
+      <img src="/shared/photos/blog/IBM5100/offenBreit.jpg" width="500">
    </a>
 </div>
 

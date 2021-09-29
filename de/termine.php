@@ -20,14 +20,9 @@
 <p>Öffnung des Museums für kleine <strong>Helfergruppen</strong> (max 5 Teilnehmer) ist ebenfalls nach Absprache möglich.
 	
 <p><strong>Regeln:</strong>
-<p>In unseren Räumlichkeiten gelten Maskenpflicht bei Abständen < 1.5 m, Erfassung mit Namen und Adresse zwecks Nachverfolgung im
+<p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 
+	< 1.5 m, Erfassung mit Namen und Adresse zwecks Nachverfolgung im
 	Falle einer Infektion und die Corona-üblichen Hygieneregeln.
-	  
-<p><strong>Hintergrund:</strong>    
-<p>Einige Museen in Hessen öffnen wieder unter Auflagen nach einem strengen Hygienekonzept: 
-	  keine Gruppenführungen, es darf nichts  angefasst werden u.a. Das Konzept des technikum29 kann
-	  unter diesen Bedingungen vorerst nicht fortgesetzt werden, unser Ansatz lebt von der Interaktivität in
-	  Gruppen und dem "Begreifen" der Exponate. 
 	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
 

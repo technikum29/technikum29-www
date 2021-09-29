@@ -12,7 +12,7 @@
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
 
-<p><strong>Update 5.7.2021:</strong> 
+<p><strong>Update 29.9.2021:</strong> 
 <p>Mittlerweile entspannt sich die Corona-Situation. <strong>Wir möchten aber von Veranstaltungen mit einer
 	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Auf besonderen Wunsch bieten wir nur
 	  Kleinstgruppen (max 5 Teilnehmer) nach Absprache über unsere Mailadresse reduzierte Führungen an.

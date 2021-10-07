@@ -97,8 +97,8 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 				</description>
 				<author>Heribert Müller</author>
 				<?php
-					if($e['link']{0} == '#') $link = $news_url . $e['link'];
-					else if($e['link']{0} == '/') $link = 'http://www.technikum29.de' . $e['link'];
+					if($e['link'][0] == '#') $link = $news_url . $e['link'];
+					else if($e['link'][0] == '/') $link = 'http://www.technikum29.de' . $e['link'];
 					else $link = $e['link'];
 				?>
 				<link><?=$link; ?></link>

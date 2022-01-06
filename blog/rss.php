@@ -34,7 +34,7 @@ require "../blog/blog.php";
 $postings = slurp_blog_postings();
 
 header("Content-Type: application/rss+xml");
-#header("Last-Modified: " . gmdate("D, d M Y H:i:s", $pubdate) . " GMT"); # seriously we don't have this
+#header("Last-Modified: " . gmdate("D, d M Y H:i:s", $pubdate) . " GMT"); # could extract from $postings, but too lazy
 echo '<?xml version="1.0" encoding="utf-8"?>';
 
     
@@ -49,7 +49,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 	<link>http://www.technikum29.de</link>
 	<description>A blog about news from the technikum29 computer museum</description>
 	<language><?php print $lang; ?></language>
-	<copyright>&#x2117; &amp; &#xA9; 2003-<?=date('Y'); ?> Sven K&ouml;ppel and the technikum29 team</copyright>
+	<copyright>&#x2117; &amp; &#xA9; 2003-<?=date('Y'); ?> Sven K&#245;ppel and the technikum29 team</copyright>
 	<pubDate><?=date('r'); ?></pubDate>
 	<image>
 		<url>https://www.technikum29.de/shared/img-v6/banner.<?php print $lang; ?>.png</url>

@@ -1,5 +1,5 @@
 <?php
-	$blog_title = "technikum29 wünscht schöne Feiertage &mdash; wir fassen zusammen, was 2019 geschah.";
+	$blog_title = "technikum29 wünscht schöne Feiertage — wir fassen zusammen, was 2019 geschah.";
 	$blog_title_kurz = "technikum29 wünscht frohe Feiertage";
 	$blog_author = "Roland";
 	$blog_date = "2019-12-21";

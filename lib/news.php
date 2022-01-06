@@ -3,6 +3,10 @@
  * Main include for news pages, comparable to
  * /lib/search.php, used only by /{de,en}/news.php
  *
+ * 
+ * 2022: This is known not to work any more, because a YAML based menu
+ *       is no longer part of the news since a long time.
+ *       Instead, see blog RSS feed.
  *
  **/
  

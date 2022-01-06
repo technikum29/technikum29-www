@@ -34,7 +34,7 @@ require "../blog/blog.php";
 $postings = slurp_blog_postings();
 
 header("Content-Type: application/rss+xml");
-header("Last-Modified: " . gmdate("D, d M Y H:i:s", $pubdate) . " GMT");
+#header("Last-Modified: " . gmdate("D, d M Y H:i:s", $pubdate) . " GMT"); # seriously we don't have this
 echo '<?xml version="1.0" encoding="utf-8"?>';
 
     

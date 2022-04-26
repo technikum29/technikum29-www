@@ -33,11 +33,11 @@ im Mai/Juni einige schöne Exponate als Dauerleihgaben - wir werden berichten !
 <p>Auch im <strong> Keller </strong> hat sich einiges getan:
 
 <div class="box center">
-   <a  href=" - Bildlink - " class="popup">
-      <img src="- Bildlink -" width="400">
+   <a  href="/shared/photos/blog/FS-Raum_1.jpg" class="popup">
+      <img src="/shared/photos/blog/FS-Raum_1.jpg" width="400">
    </a>
-   <a  href="- weiterer Bildlink -" class="popup">
-      <img src="- weiterer Bildlink -" width="400">
+   <a  href="/shared/photos/blog/FS-Raum_2.jpg" class="popup">
+      <img src="/shared/photos/blog/FS-Raum_2.jpg" width="400">
    </a>
 </div>
 
@@ -49,11 +49,11 @@ es (noch) nicht in die Ausstellung geschafft haben.
 <p>Um Platz für wertvolle Stücke aus den Depots zu schaffen, haben wir den <strong> Tresorraum </strong>"verdichtet":
 
 <div class="box center">
-   <a  href=" - Bildlink - " class="popup">
-      <img src="- Bildlink -" width="400">
+   <a  href="/shared/photos/blog/Tresor_1.jpg" class="popup">
+      <img src="/shared/photos/blog/Tresor_1.jpg" width="400">
    </a>
-   <a  href="- weiterer Bildlink -" class="popup">
-      <img src="- weiterer Bildlink -" width="400">
+   <a  href="/shared/photos/blog/Tresor_2.jpg" class="popup">
+      <img src="/shared/photos/blog/Tresor_2.jpg" width="400">
    </a>
 </div>
 

@@ -33,11 +33,11 @@ im Mai/Juni einige schöne Exponate als Dauerleihgaben - wir werden berichten !
 <p>Auch im <strong> Keller </strong> hat sich einiges getan:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/FS-Raum_1.jpg" class="popup">
-      <img src="/shared/photos/blog/FS-Raum_1.jpg" width="400">
-   </a>
    <a  href="/shared/photos/blog/FS-Raum_2.jpg" class="popup">
       <img src="/shared/photos/blog/FS-Raum_2.jpg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/FS-Raum_1.jpg" class="popup">
+      <img src="/shared/photos/blog/FS-Raum_1.jpg" width="400">
    </a>
 </div>
 

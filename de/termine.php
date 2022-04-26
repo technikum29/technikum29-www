@@ -64,7 +64,11 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		
+				
+		<dd>Nachdem der Fernschreiberraum beim letzten Mal mit Regalen neu eingerichtet wurde,
+		<dd>steht nun die Positionierung und Verkabelung der Fernschreiber an.
+		<dd>Wenn noch Zeit verbleibt kümmern wir uns auch um die technische Bestandsaufnahme der
+		<dd>HELL-Schreiber.
 	</dl>
 </div><!--/.termin -->
 	

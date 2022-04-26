@@ -17,11 +17,11 @@ Radios, Tonband- und Videotechnik sofern Fernsehgeräte, einst der Beginn von He
 Sammlung, wurden in eingelagert bzw. an interessierte Sammler weitergegeben.
 
 <div class="box center">
-   <a  href=" - Bildlink - " class="popup">
-      <img src="- Bildlink -" width="400">
+   <a  href="/photos/blog/Ausstellung_1.jpg" class="popup">
+      <img src="/photos/blog/Ausstellung_1.jpg" width="400">
    </a>
-   <a  href="- weiterer Bildlink -" class="popup">
-      <img src="- weiterer Bildlink -" width="400">
+   <a  href="/photos/blog/Ausstellung_2.jpg" class="popup">
+      <img src="/photos/blog/Ausstellung_2.jpg" width="400">
    </a>
 </div>
 

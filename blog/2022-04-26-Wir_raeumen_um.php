@@ -17,11 +17,11 @@ Radios, Tonband- und Videotechnik sofern Fernsehgeräte, einst der Beginn von He
 Sammlung, wurden in eingelagert bzw. an interessierte Sammler weitergegeben.
 
 <div class="box center">
-   <a  href="/shared/photos/blog/Ausstellung_1.jpg" class="popup">
-      <img src="/shared/photos/blog/Ausstellung_1.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/Ausstellung_1.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/Ausstellung_1.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/Ausstellung_2.jpg" class="popup">
-      <img src="/shared/photos/blog/Ausstellung_2.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/Ausstellung_2.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/Ausstellung_2.jpg" width="400">
    </a>
 </div>
 
@@ -33,11 +33,11 @@ im Mai/Juni einige schöne Exponate als Dauerleihgaben - wir werden berichten !
 <p>Auch im <strong> Keller </strong> hat sich einiges getan:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/FS-Raum_2.jpg" class="popup">
-      <img src="/shared/photos/blog/FS-Raum_2.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/FS-Raum_2.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/FS-Raum_2.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/FS-Raum_1.jpg" class="popup">
-      <img src="/shared/photos/blog/FS-Raum_1.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/FS-Raum_1.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/FS-Raum_1.jpg" width="400">
    </a>
 </div>
 
@@ -49,11 +49,11 @@ es (noch) nicht in die Ausstellung geschafft haben.
 <p>Um Platz für wertvolle Stücke aus den Depots zu schaffen, haben wir den <strong> Tresorraum </strong>"verdichtet":
 
 <div class="box center">
-   <a  href="/shared/photos/blog/Tresor_2.jpg" class="popup">
-      <img src="/shared/photos/blog/Tresor_2.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/Tresor_2.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/Tresor_2.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/Tresor_1.jpg" class="popup">
-      <img src="/shared/photos/blog/Tresor_1.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-26-Neues/Tresor_1.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-26-Neues/Tresor_1.jpg" width="400">
    </a>
 </div>
 

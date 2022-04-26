@@ -42,18 +42,18 @@ im Mai/Juni einige schöne Exponate als Dauerleihgaben - wir werden berichten !
 </div>
 
 
-Der <strong> Fernschreibraum </strong> wurde aufgeräumt und Platz geschaffen für unsere neugestaltete Telegrahie-
-Abteilung (Danke an die fleissigen Helfer !). Im Hintergrund einige Regale mit Exponaten, die
+Der <strong> Fernschreibraum </strong> wurde aufgeräumt und Platz geschaffen für unsere neugestaltete Telegraphie-Abteilung 
+(Danke an die fleissigen Helfer !). Im Hintergrund einige Regale mit Exponaten, die
 es (noch) nicht in die Ausstellung geschafft haben.
 
 <p>Um Platz für wertvolle Stücke aus den Depots zu schaffen, haben wir den <strong> Tresorraum </strong>"verdichtet":
 
 <div class="box center">
-   <a  href="/shared/photos/blog/Tresor_1.jpg" class="popup">
-      <img src="/shared/photos/blog/Tresor_1.jpg" width="400">
-   </a>
    <a  href="/shared/photos/blog/Tresor_2.jpg" class="popup">
       <img src="/shared/photos/blog/Tresor_2.jpg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/Tresor_1.jpg" class="popup">
+      <img src="/shared/photos/blog/Tresor_1.jpg" width="400">
    </a>
 </div>
 

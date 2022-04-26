@@ -17,11 +17,11 @@ Radios, Tonband- und Videotechnik sofern Fernsehgeräte, einst der Beginn von He
 Sammlung, wurden in eingelagert bzw. an interessierte Sammler weitergegeben.
 
 <div class="box center">
-   <a  href="https://github.com/technikum29/technikum29-www/blob/master/shared/photos/blog/Ausstellung_1.jpgg" class="popup">
-      <img src="phttps://github.com/technikum29/technikum29-www/blob/master/shared/photos/blog/Ausstellung_1.jpg" width="400">
+   <a  href="/shared/photos/blog/Ausstellung_1.jpg" class="popup">
+      <img src="/shared/photos/blog/Ausstellung_1.jpg" width="400">
    </a>
-   <a  href="https://github.com/technikum29/technikum29-www/blob/master/shared/photos/blog/Ausstellung_2.jpg" class="popup">
-      <img src="https://github.com/technikum29/technikum29-www/blob/master/shared/photos/blog/Ausstellung_2.jpg" width="400">
+   <a  href="/shared/photos/blog/Ausstellung_2.jpg" class="popup">
+      <img src="/shared/photos/blog/Ausstellung_2.jpg" width="400">
    </a>
 </div>
 

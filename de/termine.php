@@ -10,20 +10,21 @@
 <h2>Kalender und Termine</h2>
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
-  <h4 style="color: #8e1b1b">vorerst weiterhin keine Führungen wegen Covid-19-Epidemie</h4>
+  <h4 style="color: #8e1b1b">Wir räumen um - reduzierter Betrieb im technikum29</h4>
 
-<p><strong>Update 17.10.2021:</strong> 
+<p><strong>Update 26.4.2022:</strong> 
 <p>Mittlerweile entspannt sich die Corona-Situation. <strong>Wir möchten aber von Veranstaltungen mit einer
-	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Aus aktuellem Anlass (wir müssen einige
-	Depoträume aufgeben und Geräte im Museum zwischenparken) entfällt bis auf weiteres auch das Angebot,
-	für Kleinstgruppen (max 5 Teilnehmer) nach Absprache Führungen anzubieten.
+	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Wir räumen zur Zeit im
+	technikum29 um und schaffen Platz für einige erwartete Neuzugänge im Mai/Juni. Danach werden wir unsere
+	Gruppen-Führungen wieder aufnehmen und dies hier ankündigen.
+	Für Kleinstgruppen (max 5 Teilnehmer) bieten wir nach Absprache unter den gegebenen Randbedingungen
+	Führungen an, wenn es die aktuelle Umräumaktion zuläßt.
 	  
 <p>Öffnung des Museums für kleine <strong>Helfergruppen</strong> (max 5 Teilnehmer) ist nach wie vor nach Absprache möglich.
 	
 <p><strong>Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 
-	< 1.5 m, Erfassung mit Namen und Adresse zwecks Nachverfolgung im
-	Falle einer Infektion und die Corona-üblichen Hygieneregeln.
+	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.
 	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
 
@@ -43,7 +44,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 <p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
 	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 15 Teilnehmer) einen eigenen Termin vereinbaren ? 
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 10 Teilnehmer) einen eigenen Termin vereinbaren ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">

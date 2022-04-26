@@ -10,17 +10,60 @@
 	print_blog_title();
 ?>
 
-<p>
+<p>Bereits letztes Jahr haben wir mit der Hilfe einiger Freunde des technikum29 begonnen, unsere
+Depots zu räumen und die Ausstellung im technikum29 neu zu organisieren. Wir werden uns im 
+technikum29 auf Rechner- und Computertechnik bis ca der 70er Jahre des letzten Jhds. konzentrieren.
+Radios, Tonband- und Videotechnik sofern Fernsehgeräte, einst der Beginn von Heribert Müllers
+Sammlung, wurden in eingelagert bzw. an interessierte Sammler weitergegeben.
 
-<p>
+<div class="box center">
+   <a  href=" - Bildlink - " class="popup">
+      <img src="- Bildlink -" width="400">
+   </a>
+   <a  href="- weiterer Bildlink -" class="popup">
+      <img src="- weiterer Bildlink -" width="400">
+   </a>
+</div>
 
-<p>
+Der Blick in die <strong> Ausstellung </strong> zeigt es: nun ist Platz für unsere LGP21 und einige Lücken zeigen
+an, dass wir sogar noch Platz für Neuzugänge haben. Von einem hessischen Museum erwarten wir ca.
+im Mai/Juni einige schöne Exponate als Dauerleihgaben - wir werden berichten !
 
-<p>
 
-<p>
+<p>Auch im <strong> Keller </strong> hat sich einiges getan:
 
-<p>
+<div class="box center">
+   <a  href=" - Bildlink - " class="popup">
+      <img src="- Bildlink -" width="400">
+   </a>
+   <a  href="- weiterer Bildlink -" class="popup">
+      <img src="- weiterer Bildlink -" width="400">
+   </a>
+</div>
+
+
+Der <strong> Fernschreibraum </strong> wurde aufgeräumt und Platz geschaffen für unsere neugestaltete Telegrahie-
+Abteilung (Danke an die fleissigen Helfer !). Im Hintergrund einige Regale mit Exponaten, die
+es (noch) nicht in die Ausstellung geschafft haben.
+
+<p>Um Platz für wertvolle Stücke aus den Depots zu schaffen, haben wir den <strong> Tresorraum </strong>"verdichtet":
+
+<div class="box center">
+   <a  href=" - Bildlink - " class="popup">
+      <img src="- Bildlink -" width="400">
+   </a>
+   <a  href="- weiterer Bildlink -" class="popup">
+      <img src="- weiterer Bildlink -" width="400">
+   </a>
+</div>
+
+Auf Schwerlastregalen stehen Tischrechner und Computer, die noch auf die Wiederinbetriebnahme
+warten oder als Ersatzteilspender dienen können.
+
+<p>Wir hoffen, bis Ende Juni die Umräumaktionen abgeschlossen zu haben. Dann werden wir uns wieder verstärkt der Pflege der Sammlung und öffentlichen Führungen widmen können.
+
+
+
 
   
 <?php print_author_info(); ?>

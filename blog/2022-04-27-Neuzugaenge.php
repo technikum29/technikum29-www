@@ -2,7 +2,7 @@
 	$blog_title = "Wir erwarten neue Exponate";
 	$blog_title_kurz = "Wir erwarten neue Exponate";
 	$blog_author = "Roland";
-	$blog_date = "2027-04-26";
+	$blog_date = "2022-04-27";
 	$blog_lang = "de";
 
 	require "blog.php";

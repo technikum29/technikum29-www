@@ -11,7 +11,7 @@
 ?>
 
 <p>Das <a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> 
-  Astronomisch-Physikalisches Kabinett </a>in Kassel muß einige seiner Depoträume räumen und bot uns an, uns einige seltene Exponate 
+  Astronomisch-Physikalisches Kabinett </a>in Kassel muß einige seiner Depoträume räumen und bot an, uns einige seltene Exponate 
   zu überlassen. Die Wahl fiel auf das technikum29, weil unser Konzept, historische Computertechnik möglich betriebsbereit und 
   "zum Anfassen" zu präsentieren, ganz im Sinne des Kasseler Museums ist. Wir besprechen im Augenblick noch Details des 
   Überlassungsvertrages und des Transports, möchten aber schon einmal die guten Stücke zeigen, wie sie im Kasseler Depot auf 

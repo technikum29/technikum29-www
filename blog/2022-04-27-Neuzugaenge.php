@@ -20,22 +20,22 @@
 <p>Hier eine MAEL 4000 und eine Triumpf Adler TA1000:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2022-04-26-Neuzugaenge/MAEL4000.jpg" class="popup">
-      <img src="/shared/photos/blog/2022-04-26-Neuzugaenge/MAEL4000.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/MAEL4000.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-27-Neuzugaenge/MAEL4000.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2022-04-26-Neuzugaenge/TA1000.jpg" class="popup">
-      <img src="/shared/photos/blog/2022-04-26-Neuzugaenge/TA1000.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/TA1000.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-27-Neuzugaenge/TA1000.jpg" width="400">
    </a>
 </div>
 
 <p>Ferner einen UNIVAC 1710-Stanzer und ein elektromechanischer Buchungsautomat Mercedes Addelektra:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2022-04-26-Neuzugaenge/UNIVAC1710.jpg" class="popup">
-      <img src="/shared/photos/blog/2022-04-26-Neuzugaenge/UNIVAC1710.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/UNIVAC1710.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-27-Neuzugaenge/UNIVAC1710.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2022-04-26-Neuzugaenge/Addelektra.jpg" class="popup">
-      <img src="/shared/photos/blog/2022-04-26-Neuzugaenge/Addelektra.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/Addelektra.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-27-Neuzugaenge/Addelektra.jpg" width="400">
    </a>
 </div>
 
@@ -43,8 +43,8 @@
 <p>Zuguterletzt ein für uns recht neuer Computer: ein Q1 der Firma Q1 Inc:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2022-04-26-Neuzugaenge/Q1.jpg" class="popup">
-      <img src="/shared/photos/blog/2022-04-26-Neuzugaenge/Q1.jpg" width="400">
+   <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/Q1.jpg" class="popup">
+      <img src="/shared/photos/blog/2022-04-27-Neuzugaenge/Q1.jpg" width="400">
    </a>
   
 </div>

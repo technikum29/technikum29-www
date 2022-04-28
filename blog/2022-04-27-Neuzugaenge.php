@@ -17,7 +17,7 @@
   Überlassungsvertrages und des Transports, möchten aber schon einmal die guten Stücke zeigen, wie sie im Kasseler Depot auf 
   den Transfer warten:
 
-<p>Hier eine MAEL 4000 und eine Triumpf Adler TA1000:
+<p>Hier eine <strong>MAEL 4000</strong> und eine <strong>Triumpf Adler TA1000</strong>:
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/MAEL4000.jpg" class="popup">
@@ -28,7 +28,7 @@
    </a>
 </div>
 
-<p>Ferner ein UNIVAC 1710-Stanzer und ein elektromechanischer Buchungsautomat Mercedes Addelektra:
+<p>Ferner ein <strong>UNIVAC 1710-Stanzer</strong> und ein elektromechanischer Buchungsautomat <strong>Mercedes Addelektra</strong>:
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/UNIVAC1710.jpg" class="popup">
@@ -40,7 +40,7 @@
 </div>
 
 
-<p>Zuguterletzt ein für uns recht neuer Computer: ein Q1 der Firma Q1 Inc:
+<p>Zuguterletzt ein für uns recht neuer Computer: ein <strong>Q1-lite</strong> der Firma Q1 Inc:
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-04-27-Neuzugaenge/Q1.jpg" class="popup">

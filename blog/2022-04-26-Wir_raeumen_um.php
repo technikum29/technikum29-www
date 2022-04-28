@@ -13,7 +13,7 @@
 <p>Bereits letztes Jahr haben wir mit der Hilfe einiger Freunde des technikum29 begonnen, unsere
 Depots zu räumen und die Ausstellung im technikum29 neu zu organisieren. Wir werden uns im 
 technikum29 auf Rechner- und Computertechnik bis ca der 70er Jahre des letzten Jhds. konzentrieren.
-Radios, Tonband- und Videotechnik sofern Fernsehgeräte, einst der Beginn von Heribert Müllers
+Radios, Tonband- und Videotechnik sowie Fernsehgeräte, einst der Beginn von Heribert Müllers
 Sammlung, wurden eingelagert bzw. an interessierte Sammler weitergegeben.
 
 <div class="box center">

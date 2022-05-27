@@ -48,7 +48,26 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
+
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 2. Juni</p>
+	<h4>Umzugs-Helfertag</h4> 
+	<p>An diesem Termin werden wir 5 neue Geräte aus Kassel bekommen ! Ab 17:00 laden wir ab und rangieren
+		die Exponate ins technikum29.
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 2. Juni 2022
+		<dt>Uhrzeit
+		<dd>17:00 - 20:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
 		
+	</dl>
+</div><!--/.termin -->
+	
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 21. Mai</p>

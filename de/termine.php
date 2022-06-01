@@ -12,15 +12,15 @@
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">Wir räumen um - reduzierter Betrieb im technikum29</h4>
 
-<p><strong>Update 26.4.2022:</strong> 
+<p><strong>Update 1.6.2022:</strong> 
 <p>Mittlerweile entspannt sich die Corona-Situation. <strong>Wir möchten aber von Veranstaltungen mit einer
 	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Wir räumen zur Zeit im
-	technikum29 um und schaffen Platz für einige erwartete Neuzugänge im Mai/Juni. Danach werden wir unsere
+	technikum29 um und schaffen Platz für die am 2.6. erwarteten Neuzugänge. Ca. August 2022 werden wir unsere
 	Gruppen-Führungen wieder aufnehmen und dies hier ankündigen.
 	Für Kleinstgruppen (max 5 Teilnehmer) bieten wir nach Absprache unter den gegebenen Randbedingungen
 	Führungen an, wenn es die aktuelle Umräumaktion zuläßt.
 	  
-<p>Öffnung des Museums für kleine <strong>Helfergruppen</strong> (max 5 Teilnehmer) ist nach wie vor nach Absprache möglich.
+<p>Wir bieten wieder regelmäßige Helfertage an (s. Kalender weiter unten).
 	
 <p><strong>Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 

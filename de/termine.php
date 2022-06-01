@@ -20,7 +20,7 @@
 	Für Kleinstgruppen (max 5 Teilnehmer) bieten wir nach Absprache unter den gegebenen Randbedingungen
 	Führungen an, wenn es die aktuelle Umräumaktion zuläßt.
 	  
-<p>Wir bieten wieder regelmäßige Helfertage an (s. Kalender weiter unten).
+	<p><strong>NEU:</strong> Wir bieten wieder regelmäßige <strong>Helfertage</strong> an (s. Kalender weiter unten).
 	
 <p><strong>Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 

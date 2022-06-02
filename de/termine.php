@@ -49,10 +49,10 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 <div id="termine">
 
-
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 25. Juni</p>
-	<h4>allgemeiner Helfertag</h4> 
+	<h4>Fernschreiber-Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !
@@ -65,14 +65,15 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 				
-		<dd>u.a. Insbetriebnahme der Neuzugänge vom 2.6.2022
+		<dd>Wir arbeiten weiter an der neuen Telegrafie-/Fernschreiberausstellung
+		<dd>Ziel ist es, ab ca Aug./Sept. die Ausstellung vorführbereit zu haben !
 	</dl>
 </div><!--/.termin -->
-		
+
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 11. Juni</p>
-	<h4>Fernschreiber-Helfertag</h4> 
+	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !
@@ -85,10 +86,11 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 				
-		<dd>Wir arbeiten weiter an der neuen Telegrafie-/Fernschreiberausstellung
-		<dd>Ziel ist es, ab ca Aug./Sept. die Ausstellung vorführbereit zu haben !
+		<dd>u.a. Insbetriebnahme der Neuzugänge vom 2.6.2022
 	</dl>
 </div><!--/.termin -->
+		
+
 	
 	
 <div class="box termin clear-after">		

@@ -20,10 +20,10 @@ das uns die seltenen Stücke als Schenkung überließ.
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel1.jpeg" class="popup">
-      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel1.jpeg" width="400">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel1.jpeg" width="300">
    </a>
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel2.jpeg" class="popup">
-      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel2.jpeg" width="400">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel2.jpeg" width="500">
    </a>
 </div>
 <p>

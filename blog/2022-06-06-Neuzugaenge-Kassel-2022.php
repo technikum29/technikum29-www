@@ -29,8 +29,8 @@
 </div>
 <p>
 <p>	
-<p><strong>Foto rechts:</strong> alles ist wohlbehalten in Kelkheim angekommen !
-
+<p><strong>Foto rechts:</strong> Sven ist zufrieden: alles ist wohlbehalten in Kelkheim angekommen !
+<p>
 <p>Mit vereinten Kräften wurden die Teile recht zügig in den Ausstellungsraum gebracht.
 <p>
 <div class="box center">
@@ -41,7 +41,7 @@
       <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel4.jpeg" width="400">
    </a>
 </div>
-<p><strong>links:</strong> Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
+<strong>links:</strong> Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
 <p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard,Thomas und Sven)
 heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p>

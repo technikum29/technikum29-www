@@ -42,7 +42,7 @@
    </a>
 </div>
 <strong>links:</strong> Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
-<p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard,Thomas und Sven)
+<p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard, Thomas und Sven)
 heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p>
 <p>
@@ -57,7 +57,7 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 </div>
 <p>
 <p><strong>links:</strong> Die MAEL4000 wird an ihrer Position in der Ausstellung abgeladen. Im Hintergrund die TA1000
-<p><strong>rechts:</strong> nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li.) und MAEL400  (mitte re.) zentral in der Ausstellung. Ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
+<p><strong>rechts:</strong> nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li.) und MAEL4000 (mitte re.) zentral in der Ausstellung. Ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
 
 <p>Damit waren die großen Brocken erfolgreich an ihren Plätzen. Der Rest war schnell getan:
 
@@ -74,7 +74,7 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 
 </div>
 
-<p><strong>links:</strong> der neue Buchungsautomat Addelektra (unten) zusammen mit Rechenmaschine XxX von Seidel&Naumann und Madas VIIeTA (oben)
+<p><strong>links:</strong> der neue Buchungsautomat Addelektra (im Bild unten) zusammen mit Rechenmaschine XxX von Seidel&Naumann (mi.) und Madas VIIeTA (oben)
 <p><strong>mitte:</strong> der neue Lochkartenstanzer UNIVAC 1710 (ganz li.) neben "unserer" 1710: die "neue" ist mit ihrem Tisch im Originalzustand, "unsere" funktioniert -
 	mal sehen, in welcher Kombination wir den Kartenlocher zukünftig präsentieren
 <p><strong>rechts:</strong> vielversprechend: Die Q1 begrüßt uns schon mal mal mit "Q1/Lite at Your Service"

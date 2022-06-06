@@ -26,7 +26,7 @@
    </a>
 </div>
 <p>	
-<p><strong>Foto rechts:</strong> Sven ist zufrieden: alles ist wohlbehalten in Kelkheim angekommen !
+<p><strong>Foto rechts:</strong> Einige Stunden später nach 200 km Fahrt: Sven ist zufrieden, alles ist wohlbehalten in Kelkheim angekommen !
 <p>
 <p>Mit vereinten Kräften wurden die Teile recht zügig in den Ausstellungsraum gebracht.
 <p>

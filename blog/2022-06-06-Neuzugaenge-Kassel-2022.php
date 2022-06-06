@@ -10,12 +10,13 @@
 	print_blog_title();
 ?>
 
+
 <p>wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
 	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Es sind Schenkungen des 
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalischen Kabinetts  </a> in Kassel,
 das uns die seltenen Stücke als Schenkung überließ. 
 
-<p>Foto links: Teile der TA1000 auf der Hebebühne in Kassel...
+<p><strong>Foto links:</strong> Teile der TA1000 auf der Hebebühne in Kassel...
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel1.jpeg" class="popup">
@@ -27,10 +28,9 @@ das uns die seltenen Stücke als Schenkung überließ.
 </div>
 <p>
 <p>	
-<p>Foto rechts: alles ist wohlbehalten in Kelkheim angekommen !
+<p><strong>Foto rechts:</strong> alles ist wohlbehalten in Kelkheim angekommen !
 
-	
-<p>Mit vereinten Kräften würden die Teile recht zügig in den Ausstellungsraum gebracht.
+<p>Mit vereinten Kräften wurden die Teile recht zügig in den Ausstellungsraum gebracht.
 <p>
 <div class="box center">
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel3.jpeg" class="popup">
@@ -40,9 +40,8 @@ das uns die seltenen Stücke als Schenkung überließ.
       <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel4.jpeg" width="400">
    </a>
 </div>
-<p>
-<p>links: Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
-<p>rechts: ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard,Thomas und Sven)
+<p><strong>links:</strong> Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
+<p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard,Thomas und Sven)
 heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p>
 <p>
@@ -56,8 +55,9 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
    </a>
 </div>
 <p>
-<p>links: Die MAEL4000 wird an ihrer Position in der Ausstellung abgeladen. Im Hintergrund die TA1000
-<p>rechts: nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li) und MAEL400  (mitte re.)zentral in der Ausstellung. ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
+<p><strong>links:</strong> Die MAEL4000 wird an ihrer Position in der Ausstellung abgeladen. Im Hintergrund die TA1000
+<p><strong>rechts:</strong> nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li.) und MAEL400  (mitte re.) zentral in der Ausstellung. Ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
+
 
 <p>... wird fortgesetzt ....
 

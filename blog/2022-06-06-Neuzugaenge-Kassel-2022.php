@@ -11,7 +11,7 @@
 ?>
 
 <p>wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
-	angekündigt, dass wir erwarten. Es sind Schenkungen des 
+	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Es sind Schenkungen des 
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalischen Kabinetts  </a> in Kassel,
 das uns die seltenen Stücke als Schenkung überließ. 
 

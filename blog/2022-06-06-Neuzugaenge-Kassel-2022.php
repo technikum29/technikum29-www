@@ -27,9 +27,9 @@ das uns die seltenen Stücke als Schenkung überließ.
 </div>
 <p>
 <p>	
-<p>Teile der TA1000 auf der Hebebühne		Blick in den Sprinter bei der
-<p>in Kassel					Ankunft in Kelkheim: alles wohl-
-<p>
+<p>Teile der TA1000 auf der Hebebühne                        Blick in den Sprinter bei der
+<p>in Kassel                                                 Ankunft in Kelkheim: alles wohl-
+<p>                                                          behalten angekommen !
 
 <p>... wird fortgesetzt ....
 

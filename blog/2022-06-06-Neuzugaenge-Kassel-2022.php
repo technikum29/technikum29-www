@@ -11,10 +11,10 @@
 ?>
 
 
-<p>wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
-	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Es sind Schenkungen des 
-	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalischen Kabinetts  </a> in Kassel,
-das uns die seltenen Stücke als Schenkung überließ. 
+<p>Wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
+	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Das 
+	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalische Kabinett  </a> in Kassel 
+überließ uns die seltenen Stücke als Schenkung. 
 
 <p><strong>Foto links:</strong> Teile der TA1000 auf der Hebebühne in Kassel...
 

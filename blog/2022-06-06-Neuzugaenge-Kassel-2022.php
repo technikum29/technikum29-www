@@ -1,6 +1,6 @@
 <?php
-	$blog_title = "5 neue Exponate im technikum29 eingetroffen";
-	$blog_title_kurz = "5 neue Exponate im technikum29 eingetroffen";
+	$blog_title = "Fünf neue Exponate im technikum29 eingetroffen";
+	$blog_title_kurz = "Fünf neue Exponate im technikum29 eingetroffen";
 	$blog_author = "Roland";
 	$blog_date = "2022-06-06";
 	$blog_lang = "de";
@@ -10,10 +10,10 @@
 	print_blog_title();
 ?>
 <p>Wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
-	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Das 
+	angekündigt, dass wir fünf neue Geräte für unsere Ausstellung erwarten. Das 
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalische Kabinett  </a> in Kassel 
-überließ uns die seltenen Stücke als Schenkung. Am 2.6. machte sich Sven mit einem Kollegen mit einem geliehenen Sprinter auf nach Kassel, um die Geräte abzuholen. 
-	Vor Ort wurden sie vom Sammlungsleiter, Herrn Dr. Gaulke und Helfern beim Verladen unterstützt.
+überließ uns die seltenen Stücke als Schenkung. Am 2.6.2022 machte sich Sven mit Kollege und Helfer Nick mit einem geliehenen Sprinter mit Ladebordwand auf nach Kassel, um die Geräte abzuholen. 
+	Vor Ort wurden sie vom Sammlungsleiter, Herrn Dr. Gaulke und Mitarbeitern der <a href="https://museum-kassel.de/">Museumslandschaft Hessen Kassel</a> beim Verladen unterstützt.
 
 <p><strong>Foto links:</strong> Teile der TA1000 auf der Hebebühne in Kassel...
 
@@ -76,7 +76,7 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 	mal sehen, in welcher Kombination wir den Kartenlocher zukünftig präsentieren
 <p><strong>rechts:</strong> vielversprechend: Der Tischrechner Q1 mit Drucker begrüßt uns schon mal mal mit "Q1/Lite at Your Service"
 
-<p><strong>Wir werden die Neuerungen in den nächsten Wochen sorgfältig durchsehen und über die Wiederinbetriebnahme der Geräte berichten !</strong>
+<p><strong>Wir werden die Neuerungen in den nächsten Wochen sorgfältig durchsehen und über die Wiederinbetriebnahme der Geräte berichten!</strong>
 
 
   

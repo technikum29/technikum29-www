@@ -39,7 +39,7 @@
    </a>
 </div>
 <strong>links:</strong> Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
-<p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard, Thomas und Sven)
+<p><strong>rechts:</strong> ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Bernhard, Roland, Thomas und Sven)
 heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p>
 <p>

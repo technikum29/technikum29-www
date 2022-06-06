@@ -25,7 +25,11 @@ das uns die seltenen Stücke als Schenkung überließ.
       <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel2.jpeg" width="400">
    </a>
 </div>
-
+<p>
+<p>	
+<p>Teile der TA1000 auf der Hebebühne		Blick in den Sprinter bei der
+<p>in Kassel					Ankunft in Kelkheim: alles wohl-
+<p>
 
 <p>... wird fortgesetzt ....
 

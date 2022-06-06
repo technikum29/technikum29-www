@@ -62,13 +62,13 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel7.jpeg" class="popup">
-      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel7.jpeg" width="266">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel7.jpeg" width="220">
    </a>
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel8.jpeg" class="popup">
-      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel8.jpeg" width="266">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel8.jpeg" width="360">
    </a>
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel9.jpeg" class="popup">
-      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel9.jpeg" width="266">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel9.jpeg" width="220">
    </a>
 
 </div>

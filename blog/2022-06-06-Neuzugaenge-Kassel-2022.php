@@ -14,7 +14,8 @@
 <p>Wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
 	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Das 
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalische Kabinett  </a> in Kassel 
-überließ uns die seltenen Stücke als Schenkung. 
+überließ uns die seltenen Stücke als Schenkung. Am 2.6. machte sich Sven mit einem Kollegen mit einem geliehenen Sprinter auf nach Kassel, um die Geräte abzuholen. 
+	Vor Ort wurden sie vom Sammlungsleiter, Herrn Dr. Gaulke und Helfern beim Verladen unterstützt.
 
 <p><strong>Foto links:</strong> Teile der TA1000 auf der Hebebühne in Kassel...
 

@@ -29,6 +29,36 @@ das uns die seltenen Stücke als Schenkung überließ.
 <p>	
 <p>Foto rechts: alles ist wohlbehalten in Kelkheim angekommen !
 
+	
+<p>Mit vereinten Kräften würden die Teile recht zügig in den Ausstellungsraum gebracht.
+<p>
+<div class="box center">
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel3.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel3.jpeg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel4.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel4.jpeg" width="400">
+   </a>
+</div>
+<p>
+<p>links: Roland, Sven und Bernhard (v. li. n re) verladen die MAEL4000
+<p>rechts: ganz zum Schluß ist die TA1000 dran. 4 kräftige Helfer (Roland, Bernhard,Thomas und Sven)
+heben sie vorsichtig von der Hebebühne auf Rollwagen.
+<p>
+<p>
+<p>
+<div class="box center">
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel5.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel5.jpeg" width="400">
+   </a>
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel6.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel6.jpeg" width="400">
+   </a>
+</div>
+<p>
+<p>links: Die MAEL4000 wird an ihrer Position in der Ausstellung abgeladen. Im Hintergrund die TA1000
+<p>rechts: nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li) und MAEL400  (mitte re.)zentral in der Ausstellung. ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
+
 <p>... wird fortgesetzt ....
 
 <p>

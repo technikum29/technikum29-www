@@ -15,7 +15,7 @@
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalischen Kabinetts  </a> in Kassel,
 das uns die seltenen Stücke als Schenkung überließ. 
 
-<p>
+<p>Foto links: Teile der TA1000 auf der Hebebühne in Kassel...
 
 <div class="box center">
    <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel1.jpeg" class="popup">
@@ -27,9 +27,7 @@ das uns die seltenen Stücke als Schenkung überließ.
 </div>
 <p>
 <p>	
-<p>Teile der TA1000 auf der Hebebühne                        Blick in den Sprinter bei der
-<p>in Kassel                                                 Ankunft in Kelkheim: alles wohl-
-<p>                                                          behalten angekommen !
+<p>Foto rechts: alles ist wohlbehalten in Kelkheim angekommen !
 
 <p>... wird fortgesetzt ....
 

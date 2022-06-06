@@ -73,11 +73,14 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 
 </div>
 
-<p>... wird fortgesetzt ....
-
+<p><strong>links:</strong> der neue Buchungsautomat Addelektra (unten) zusammen mit Rechenmaschine XxX von Seidel&Naumann und Madas VIIeTA (oben)
+<p><strong>mitte:</strong> die neue UNIVAX 1710 (ganz li.) neben "unserer" 1710: die "neue" ist mt ihrem Tisch in Originalzustand, "unsere" funktioniert -
+	mal sehen, in welcher Kombination wir den Kartenlocher zukünftig präsentieren
+<p><strong>rechts:</strong> Vielversprechend: Die Q1 begrüßt uns schon mal mal mit "Q1/Lite at Your Service"
 <p>
 
-<p>
+<p>Wir werden die Neuerungen in den nächsten Wochen sorgfältig durchsehen und über die Wiederinbetriebnahme der Geräte berichten !
+
 
 <p>
 

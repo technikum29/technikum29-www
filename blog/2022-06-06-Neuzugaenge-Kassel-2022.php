@@ -9,8 +9,6 @@
 	
 	print_blog_title();
 ?>
-
-
 <p>Wir hatten <a href="https://technikum29.de/blog/2022-04-27-Neuzugaenge.php"> im April </a>
 	angekündigt, dass wir 5 neue Geräte für unsere Ausstellung erwarten. Das 
 	<a href="https://museum-kassel.de/de/museen-schloesser-parks/staatspark-karlsaue/astronomisch-physikalisches-kabinett"> Astronomisch-Physikalische Kabinett  </a> in Kassel 
@@ -27,7 +25,6 @@
       <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel2.jpeg" width="300">
    </a>
 </div>
-<p>
 <p>	
 <p><strong>Foto rechts:</strong> Sven ist zufrieden: alles ist wohlbehalten in Kelkheim angekommen !
 <p>
@@ -77,13 +74,10 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p><strong>links:</strong> der neue Buchungsautomat Addelektra (im Bild unten) zusammen mit Rechenmaschine XxX von Seidel&Naumann (mi.) und Madas VIIeTA (oben)
 <p><strong>mitte:</strong> der neue Lochkartenstanzer UNIVAC 1710 (ganz li.) neben "unserer" 1710: die "neue" ist mit ihrem Tisch im Originalzustand, "unsere" funktioniert -
 	mal sehen, in welcher Kombination wir den Kartenlocher zukünftig präsentieren
-<p><strong>rechts:</strong> vielversprechend: Die Q1 begrüßt uns schon mal mal mit "Q1/Lite at Your Service"
-<p>
+<p><strong>rechts:</strong> vielversprechend: Der Tischrechner Q1 mit Drucker begrüßt uns schon mal mal mit "Q1/Lite at Your Service"
 
-<p>Wir werden die Neuerungen in den nächsten Wochen sorgfältig durchsehen und über die Wiederinbetriebnahme der Geräte berichten !
+<p><strong>Wir werden die Neuerungen in den nächsten Wochen sorgfältig durchsehen und über die Wiederinbetriebnahme der Geräte berichten !</strong>
 
-
-<p>
 
   
 <?php print_author_info(); ?>

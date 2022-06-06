@@ -58,6 +58,20 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 <p><strong>links:</strong> Die MAEL4000 wird an ihrer Position in der Ausstellung abgeladen. Im Hintergrund die TA1000
 <p><strong>rechts:</strong> nach ein wenig Saubermachen und Aufräumen präsentieren sich TA1000 (mitte li.) und MAEL400  (mitte re.) zentral in der Ausstellung. Ganz li. hinten unsere IBM 1130, hinter den neuen Exponaten unsere UNIVAC 9300.
 
+<p>Damit waren die großen Brocken erfolgreich an ihren Plätzen. Der Rest war schnell getan:
+
+<div class="box center">
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel7.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel7.jpeg" width="266">
+   </a>
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel8.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel8.jpeg" width="266">
+   </a>
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel9.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kassel9.jpeg" width="266">
+   </a>
+
+</div>
 
 <p>... wird fortgesetzt ....
 

@@ -72,7 +72,7 @@ heben sie vorsichtig von der Hebebühne auf Rollwagen.
 </div>
 
 <p><strong>links:</strong> der neue Buchungsautomat Addelektra (im Bild unten) zusammen mit Rechenmaschine XxX von Seidel&Naumann (mi.) und Madas VIIeTA (oben)
-<p><strong>mitte:</strong> der neue Lochkartenstanzer UNIVAC 1710 (ganz li.) neben "unserer" 1710: die "neue" ist mit ihrem Tisch im Originalzustand, "unsere" funktioniert -
+<p><strong>mitte:</strong> der neue Lochkartenstanzer UNIVAC 1710 (ganz li.) neben "unserer" 1710: die "Neue" ist mit ihrem Tisch im Originalzustand, "Unsere" funktioniert -
 	mal sehen, in welcher Kombination wir den Kartenlocher zukünftig präsentieren
 <p><strong>rechts:</strong> vielversprechend: Der Tischrechner Q1 mit Drucker begrüßt uns schon mal mal mit "Q1/Lite at Your Service"
 

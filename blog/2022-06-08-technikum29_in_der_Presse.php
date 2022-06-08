@@ -15,8 +15,8 @@
   
 
 <div class="box center">
-   <a  href="/shared/photos/blog/Presse_2022.jpeg" class="popup">
-      <img src="/shared/photos/blog/Presse_2022.jpeg" width="800">
+   <a  href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kasselp2.jpeg" class="popup">
+      <img src="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kasselp2.jpeg" width="800">
    </a>
    
 </div>

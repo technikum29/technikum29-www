@@ -16,7 +16,7 @@
 
 <div class="box center">
    <a  href="/shared/photos/blog/Presse_2022.jpeg" class="popup">
-      <img src="/shared/photos/blog/Presse_2022.jpeg" width="1000">
+      <img src="/shared/photos/blog/Presse_2022.jpeg" width="800">
    </a>
    
 </div>

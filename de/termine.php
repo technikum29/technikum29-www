@@ -74,7 +74,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 22. Juni 2022</p>
+	<p class="date left"><em>2022</em> 22. Juni </p>
 	<h4>Führung "Computergeschichte im technikum29"</h4> 
 	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den 
 		frühen Computern der 50er - 70er Jahre vorgestellt 

@@ -74,6 +74,36 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 	
 <div class="box termin clear-after">		
+	<p class="date left"><em>2020</em> 22. Juni 2022</p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den 
+		frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 22. Juni 2022
+		<dt>Uhrzeit
+		<dd>18:00 Uhr - 21:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>
+		<dd>geschlossene Gesellschaft - Markus R.
+		
+		
+	</dl>
+</div><!--/.termin -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 11. Juni</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit

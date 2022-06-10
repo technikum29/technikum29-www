@@ -53,6 +53,46 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 	
 <div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 25. Juli</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 25. Juli 2022
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+		
+<div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 9. Juli</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 9. Juli 2022
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+	
+	
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 25. Juni</p>
 	<h4>Fernschreiber-Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit

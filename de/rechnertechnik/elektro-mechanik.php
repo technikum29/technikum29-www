@@ -57,11 +57,13 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
     </div>
 
     <div class="box right clear-after">
-        <img src="/shared/photos/dummy.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
-        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-	et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-	ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-	At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <img src="/shared/photos/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
+        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> 2022 erhielten wir diesen elektromechanischen Buchungsautomaten "Addelektra SR22" der Firma Mercedes
+	     (Mella-Zehlis, Thüringen, D). Im Prinzip eine elektrische Schreibmaschine mit 60 cm breitem Wagen. Zum Buchungsautomaten machen sie die kleinen Zählwerke, 
+	    mit deren Hilfe Spalten- und Zeilensummen über Zahleneingaben gebildet werden können - eine wahre Hilfe für die Buchhaltung. Wenn man möchte ein mechanischer 
+	    Vorläufer der heutigen Tabellenkalkulationsprogramme !</p>
+	    <p>Der Typ SR22 wurde 1938 erstmals vorgestellt. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Sie wird
+		    zur Zeit restauriert und ist hoffentlich bald einsatzbereit.</p>
     </div>
 
     <div class="box left clear-after">

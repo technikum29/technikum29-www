@@ -62,7 +62,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 	     (Mella-Zehlis, Thüringen, D). Im Prinzip eine elektrische Schreibmaschine mit 60 cm breitem Wagen. Zum Buchungsautomaten machen sie die kleinen Zählwerke, 
 	    mit deren Hilfe Spalten- und Zeilensummen über Zahleneingaben gebildet werden können - eine wahre Hilfe für die Buchhaltung. Wenn man möchte ein mechanischer 
 	    Vorläufer der heutigen Tabellenkalkulationsprogramme !</p>
-	    <p>Der Typ SR22 wurde 1938 erstmals vorgestellt. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Sie wird
+	    <p>Der Typ SR22 wurde 1938 erstmals vorge-stellt. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Sie wird
 		    zur Zeit restauriert und ist hoffentlich bald einsatzbereit.</p>
     </div>
 

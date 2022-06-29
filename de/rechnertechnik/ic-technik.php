@@ -26,11 +26,9 @@
 			Schreibmaschine zur Datenausgabe und als alternatives Eingabeterminal. Lochstreifenleser und -stanzer auf der rechten Seite komplettieren
 			die Anlage. Die Rechnerelektronik verbirgt sich im rechten Unterschrank, in den linken Schubladen zeugen Dutzende von Lochstreifen mit
 			Programmen von ihrem letzten Einsatz in einem Ingenieurbüro in den 70er Jahren.</p>
-
-		<p>Der Rechner beherrscht die 4 Grundrechenarten und die Quadratwurzel mit 14stelliger Genauigkeit. Alles was darüber hinausgeht muss man durch Programme realisieren,
+<p>Der Rechner beherrscht die 4 Grundrechenarten und die Quadratwurzel mit 14stelliger Genauigkeit. Alles was darüber hinausgeht muss man durch Programme realisieren,
  hierfür stehen 1000 Programmschritte und 112 Speicherregister in einem Kernspeicher zur Verfügung. </p>
-<p>Der Name MAEL leitet sich von den Vornamen des Firmengründers und seiner Frau ab (MAssimo und ELiana Rinaldi)
- </p>
+<p>Der Name MAEL leitet sich von den Vornamen des Firmengründers und seiner Frau ab (MAssimo und ELiana Rinaldi)</p>
 <p>Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
 Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vorführbereit.</p>
 

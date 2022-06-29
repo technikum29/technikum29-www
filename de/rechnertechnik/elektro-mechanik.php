@@ -58,7 +58,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
     <div class="box right clear-after">
         <img src="/shared/photos/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
-        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> 2022 erhielten wir diesen elektro-mechanischen Buchungsautomaten "Addelektra SR22" der Firma Mercedes
+        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> 2022 erhielten wir diesen elektro-mechanischen Buchungsautomaten "Addelek-tra SR22" der Firma Mercedes
 	     (Mella-Zehlis, Thüringen, D). Im Prinzip eine elektrische Schreibmaschine mit 60 cm breitem Wagen. Zum Buchungsautomaten machen sie die kleinen Zählwerke, 
 	    mit deren Hilfe Spalten- und Zeilensummen über Zahleneingaben gebildet werden können - eine wahre Hilfe für die Buchhaltung. Wenn man möchte ein mechanischer 
 	    Vorläufer der heutigen Tabellenkalkulationsprogramme !</p>

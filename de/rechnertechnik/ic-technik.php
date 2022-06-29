@@ -21,10 +21,15 @@
         <img src="/shared/photos/MAEL4000_Display.jpg" alt="MAEL 4000" height="320" width="400">
         <p class="bildtext"><b>MAEL 4000</b></p></div>
 
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-		accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
-		elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-		kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Die Tischrechenmaschine MAEL 4000 wurde 1970 von der italienischen Firma Industria Sistemi Elettronici S.p.A. (Rom) vorgestellt. Unsere MAEL 
+			zeigt sich als komplettes Büromöbel: in der Mitte der Arbeitsplatte die Rechneranzeige und die Bedientastatur, links eine elektrische
+			Schreibmaschine zur Datenausgabe und als alternatives Eingabeterminal. Lochstreifenleser und -stanzer auf der rechten Seite komplettieren
+			die Anlage. Die Rechnerelektronik verbirgt sich im rechten Unterschrank, in den linken Schubladen zeugen Dutzende von Lochstreifen mit
+			Programmen von ihrem letzten EInsatz in einem Ingenieurbüro in den 70er Jahren</p>
+
+		<p>Der Rechner beherrscht die 4 Grundrechenarten und die Quadratwurzel mit 14stelliger Genauigkeit. Alles was darüber hinausgeht muss man durch Programme realisieren,
+ hierfür stehen 1000 Programmschritte und 112 Speicherregister zur Verfügung. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
+Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vorführbereit.</p>
 
 	<h3 id="wang700">WANG 700</h3>
 		<div style="width: 600px;" class="box center auto-bildbreite">

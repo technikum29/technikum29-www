@@ -25,10 +25,10 @@
 			zeigt sich als komplettes Büromöbel: in der Mitte der Arbeitsplatte die Rechneranzeige und die Bedientastatur, links eine elektrische
 			Schreibmaschine zur Datenausgabe und als alternatives Eingabeterminal. Lochstreifenleser und -stanzer auf der rechten Seite komplettieren
 			die Anlage. Die Rechnerelektronik verbirgt sich im rechten Unterschrank, in den linken Schubladen zeugen Dutzende von Lochstreifen mit
-			Programmen von ihrem letzten EInsatz in einem Ingenieurbüro in den 70er Jahren</p>
+			Programmen von ihrem letzten Einsatz in einem Ingenieurbüro in den 70er Jahren.</p>
 
 		<p>Der Rechner beherrscht die 4 Grundrechenarten und die Quadratwurzel mit 14stelliger Genauigkeit. Alles was darüber hinausgeht muss man durch Programme realisieren,
- hierfür stehen 1000 Programmschritte und 112 Speicherregister zur Verfügung. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
+ hierfür stehen 1000 Programmschritte und 112 Speicherregister in einem Kernspeicher zur Verfügung. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
 Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vorführbereit.</p>
 
 	<h3 id="wang700">WANG 700</h3>

@@ -118,15 +118,15 @@
 					<li><a seiten_id="nixdorf820" href="/de/geraete/nixdorf820.php">Nixdorf 820 Konsole</a></li>
 				</ul>
 			</li>
-			<li><a seiten_id="fruehe-computer" href="/de/rechnertechnik/fruehe-computer.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
+			<li><a seiten_id="wissenschaftliche-rechner" href="/de/rechnertechnik/wissenschaftliche-rechner.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
 				<ul class="u3">
 					<li><a seiten_id="lgp21" href="/de/rechnertechnik/lgp21.php">LGP 21</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#pdp8">PDP 8</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#pdp8i">PDP 8i</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#pdp8l">PDP 8L</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#pdp12">PDP 12</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#lab8e">LAB 8e</a></li>
-					<li><a href="/de/rechnertechnik/fruehe-computer.php#nova">NOVA 2</a></li>
+					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8">PDP 8</a></li>
+					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8i">PDP 8i</a></li>
+					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8l">PDP 8L</a></li>
+					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp12">PDP 12</a></li>
+					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#lab8e">LAB 8e</a></li>
+					<!-- <li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#nova">NOVA 2</a></li> -->
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="dec-history" href="/de/geraete/dec-geschichte.php">Aufstieg und Ende von DIGITAL (Equipment Corporation)</a></li>

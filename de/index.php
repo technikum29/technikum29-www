@@ -67,19 +67,18 @@
       <h2>Deutschlandweit einmalig</h2>
       <p>Wir legen größten Wert darauf, die Exponate im technikum29 funktionsfähig zu
          präsentieren. Es gibt keine Schaukästen und -Tafeln, stattdessen werden
-         ausgewählte Geräte im Rahmen einer Führung von Fachkundigen vorgeführt.
+         ausgewählte Geräte im Rahmen einer Führung von Fachkundigen vorgeführt.</p>
       <p>Dies ist mindestens deutschlandweit einmalig,
          ähnliche Konzepte finden sich weltweit nur im
          <a href="http://www.computinghistory.org.uk/">UK Computer Museum</a>,
          dem <a href="https://livingcomputers.org/">Seattle Living Computer Museum</a>
          und natürlich dem <a href="https://www.computerhistory.org/">Kalifornischen
          Computer History Museum</a>. In allen drei Museen bildet die Restauration von
-         Computern aber die Ausnahme, nicht die Regel.
+         Computern aber die Ausnahme, nicht die Regel.</p>
          
       <p>Die Ausstellung ist (tatsächlich aus Platzgründen) auf außergewöhnliche
          Raritäten ihrer Zeit beschränkt, dies macht sie auch unter Liebhabern und
-         Sammlern sehr beliebt.
-
+         Sammlern sehr beliebt.</p>
       
       <!--
          <div class="besonderes">
@@ -111,6 +110,10 @@
                 <img src="/shared/photos/start/museum.jpg" alt="Photo des Museums" width="338" height="228" style="width:100%" />
                 <p>Das Museumsgebäude</p>
         </div>
+		 
+	  <p>Das technikum29 ist Mitglied im <a href="https://www.fitg.de/index" target="_blank">FITG</a> und
+	     im <a href="https://www.classic-computing.org" target="_blank">VzEhC e.V.</a></p>
+
       
         <h2>Betrieb und Öffnungszeiten</h2>
         <p>Das technikum29 lebt von einem Netzwerk Ehrenamtlicher, die sich um alle

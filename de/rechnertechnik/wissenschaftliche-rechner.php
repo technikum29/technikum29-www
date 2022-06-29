@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'fruehe-computer';
+	$seiten_id = 'wissenschaftliche-rechner';
 	$version = '$Id$';
 	$titel = 'Wissenschaftliche Rechner und Minicomputer';
 	
@@ -203,6 +203,7 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 	</div>
    
    
+   <!--
    <h3 id="nova">Data General: <b>NOVA 2</b></h3>
    
    <div class="box left">
@@ -227,8 +228,7 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 	  <dd>Rechts befindet sich das Terminal "<b>DASHER 1</b>", Mod. 6052 von Data General.
 	  </dl>
 	  </small>
-	  
-	  
- </div>
+	</div>
+	-->
 
  

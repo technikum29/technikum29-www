@@ -11,39 +11,71 @@
 	<h2>Historische Personal-Computer</h2>
 </header>
 
-<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
+	<h3 id="ibm5100"><b>IBM 5100</b></h3><br>
 
-<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
-	Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.<br>
-	Einer der allerersten PCs ist der WANG 2200 A/B aus dem Jahre 1973. WANG hat sehr früh erkannt, dass nur ein mehrzeiliger Monitor zukunftsweisend ist. Zu dieser Zeit arbeiteten die HP-Rechner noch mit einem einzeiligen LED-Display. Hier gibt es einen schönen <a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> Vergleich zwischen HP 9830 WANG 2200 (PDF)</a> als Verkaufsargumente für HP-Händler aus dem Jahre 1974, 15 Seiten in engl. Sprache. WANG und HP waren <u>die</u> Konkurrenten der 70er Jahre im Bereich der wissenschaftlichen Tischrechner und der ersten PCs.  <br> 
-	Für das System 2200 und dessen Nachfolger gab es eine Unzahl von Peripheriegeräte und Programmbeispielen, welche jeweils den Bedürfnissen der kommerziellen und vor allem der wissenschaftlichen Anwendung gerecht wurden. Eine Maschinensprache bzw. einen Assembler gab es nicht. Der Rechner arbeitet unmittelbar in der einfach erlernbaren Programmiersprache <b>BASIC</b>.<br>
-	
-    Einmalig in Deutschland ist diese funktionsfähige Computer-Anlage mit so vielen peripheren Geräten: Lochstreifenleser (2203), Stapelkartenleser (2234), Markierungskartenleser (2214), 8-Zoll dreifach Diskettenlaufwerk (2270-3) und einem Plattensystem (2230-1) mit 38cm großen Scheiben. Das Gewicht des Plattensystems (eine Festplatte und eine Wechselplatte) beträgt ca. 100kg und der Preis damals stolze 24.000,- DM. Damit konnte man immerhin bereits komfortable 5 MB Daten/Programme speichern.</p>
+		<div class="box center"> 
+		<img src="/shared/photos/dummy.jpg" width="500"  height="275"/>
+		</div>
+
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+		et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+		nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+		takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+	<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
+
+		<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
+			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.<br>
+			Einer der allerersten PCs ist der WANG 2200 A/B aus dem Jahre 1973. WANG hat sehr früh erkannt, dass nur ein mehrzeiliger Monitor zukunftsweisend ist. Zu dieser Zeit arbeiteten die HP-Rechner noch mit einem einzeiligen LED-Display. Hier gibt es einen schönen <a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> Vergleich zwischen HP 9830 WANG 2200 (PDF)</a> als Verkaufsargumente für HP-Händler aus dem Jahre 1974, 15 Seiten in engl. Sprache. WANG und HP waren <u>die</u> Konkurrenten der 70er Jahre im Bereich der wissenschaftlichen Tischrechner und der ersten PCs.  <br> 
+			Für das System 2200 und dessen Nachfolger gab es eine Unzahl von Peripheriegeräte und Programmbeispielen, welche jeweils den Bedürfnissen der kommerziellen und vor allem der wissenschaftlichen Anwendung gerecht wurden. Eine Maschinensprache bzw. einen Assembler gab es nicht. Der Rechner arbeitet unmittelbar in der einfach erlernbaren Programmiersprache <b>BASIC</b>.<br>
+			
+			Einmalig in Deutschland ist diese funktionsfähige Computer-Anlage mit so vielen peripheren Geräten: Lochstreifenleser (2203), Stapelkartenleser (2234), Markierungskartenleser (2214), 8-Zoll dreifach Diskettenlaufwerk (2270-3) und einem Plattensystem (2230-1) mit 38cm großen Scheiben. Das Gewicht des Plattensystems (eine Festplatte und eine Wechselplatte) beträgt ca. 100kg und der Preis damals stolze 24.000,- DM. Damit konnte man immerhin bereits komfortable 5 MB Daten/Programme speichern.</p>
 	
 	<h3 id="wang2200s"><b>WANG 2200S</b></h3>
 	
-	<div class="box center"> 
-	<img src="/shared/photos/rechnertechnik/wang-2200s.jpg" width="350"  height="304"/>
-	<img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="429"  height="304"/>
-	</div>
-	
-	<p>Der Neuzugang (12.2017) zeigt die etwas verkleinerte Ausführung (Bauj. 1974/75) des 2200B, dabei steht "S" wohl für "small". Mit dem zusätzlichen Kassettenlaufwerk 2217 lassen sich pro Meter Magnetband 1,7 KB speichern bei einem Transfer von 326 Zeichen/Sekunde. Es ist mit drei Motoren ausgestattet und kann in beide Laufrichtungen lesen/schreiben. Dabei werden immer Blöcke mit 256 Bytes gelesen/geschrieben. Dieses langsame Speichermedium war damals halt konkurrenzlos preiswert.<br>
-	Interessant ist auch die dazugehörige Kugelkopfmaschine als Ausgabegerät. Ausgestattet mit Schrittschaltmotoren kann die Maschine auch plotten. Das Modell 2202 ist identisch mit dem des am <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700" target="_blank">WANG 700 Rechner</a> angeschlossenen Modells "702".</p>
-	 <p class="small">Wir bedanken uns bei der Westfälischen "Wilhelm-Universität Münster" für die Überlassung der Anlage.</p> 
+		<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/wang-2200s.jpg" width="350"  height="304"/>
+		<img src="/shared/photos/rechnertechnik/wang-2200s-detail.jpg" width="429"  height="304"/>
+		</div>
+		
+		<p>Der Neuzugang (12.2017) zeigt die etwas verkleinerte Ausführung (Bauj. 1974/75) des 2200B, dabei steht "S" wohl für "small". Mit dem zusätzlichen Kassettenlaufwerk 2217 lassen sich pro Meter Magnetband 1,7 KB speichern bei einem Transfer von 326 Zeichen/Sekunde. Es ist mit drei Motoren ausgestattet und kann in beide Laufrichtungen lesen/schreiben. Dabei werden immer Blöcke mit 256 Bytes gelesen/geschrieben. Dieses langsame Speichermedium war damals halt konkurrenzlos preiswert.<br>
+		Interessant ist auch die dazugehörige Kugelkopfmaschine als Ausgabegerät. Ausgestattet mit Schrittschaltmotoren kann die Maschine auch plotten. Das Modell 2202 ist identisch mit dem des am <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700" target="_blank">WANG 700 Rechner</a> angeschlossenen Modells "702".</p>
+		 <p class="small">Wir bedanken uns bei der Westfälischen "Wilhelm-Universität Münster" für die Überlassung der Anlage.</p> 
 	
 	<h3 id="wang-pcs"><b>WANG PCS II</b></h3><br>
 	
-	Im Jahre 1977 stellte WANG den neuen Computer PCS-II vor der im Gegensatz zur 2200-Serie kompakt gebaut war. Der Prozessor, noch in herkömmlicher Weise mit TTL-Logik aufgebaut, die Interface-Anschlüsse und das Netzteil befinden sich in einem Gehäuse. Eine zweifach 5,25" Floppy wurde einfach oben aufgebaut, so dass man nur noch einen Drucker anschließen musste. Der Speicher war bis zu 32 KB ausbaubar und damit auch nicht grösser als der Maximal-Ausbau des deutlich preiswerteren PET 2001.
-	<div class="box left"> 
-	<img src="/shared/photos/rechnertechnik/wang-pcs-2.jpg" width="241"  height="202"/>
-	<img src="/shared/photos/rechnertechnik/wang-pcs-2-innen.jpg" width="268"  height="202"/>
+		Im Jahre 1977 stellte WANG den neuen Computer PCS-II vor der im Gegensatz zur 2200-Serie kompakt gebaut war. Der Prozessor, noch in herkömmlicher Weise mit TTL-Logik aufgebaut, die Interface-Anschlüsse und das Netzteil befinden sich in einem Gehäuse. Eine zweifach 5,25" Floppy wurde einfach oben aufgebaut, so dass man nur noch einen Drucker anschließen musste. Der Speicher war bis zu 32 KB ausbaubar und damit auch nicht grösser als der Maximal-Ausbau des deutlich preiswerteren PET 2001.
+		<div class="box left"> 
+		<img src="/shared/photos/rechnertechnik/wang-pcs-2.jpg" width="241"  height="202"/>
+		<img src="/shared/photos/rechnertechnik/wang-pcs-2-innen.jpg" width="268"  height="202"/>
+		</div>
+		Die Aufnahme des Innenlebens zeigt 4 Platinen, voll mit ICs bestückt, damals auch "IC-Gräber" genannt. Eine Reparatur kann dann schon zum Alptraum werden.
+		<br>
+		Für Privatleute war dieser Rechner fast unerschwinglich: 1978 lag der Preis bei über 20.000 DM, ein FORD Capri Sportcoupè war dagegen schon für knapp 12.000 DM zu haben.<br>
+		
+		<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
+	
+	<h3 id="kim1"><b>KIM 1</b></h3><br>
+
+	<div class="box center"> 
+	<img src="/shared/photos/dummy.jpg" width="500" height="275"/>
 	</div>
-	Die Aufnahme des Innenlebens zeigt 4 Platinen, voll mit ICs bestückt, damals auch "IC-Gräber" genannt. Eine Reparatur kann dann schon zum Alptraum werden.
-	<br>
-	Für Privatleute war dieser Rechner fast unerschwinglich: 1978 lag der Preis bei über 20.000 DM, ein FORD Capri Sportcoupè war dagegen schon für knapp 12.000 DM zu haben.<br>
-	
-	<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
-	
+
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+	takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+	<h3 id="ibm5100"><b>AIM 65</b></h3><br>
+
+	<div class="box center"> 
+	<img src="/shared/photos/dummy.jpg" width="500"  height="275"/>
+	</div>
+
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+	takimata sanctus est Lorem ipsum dolor sit amet.</p>
 
 	<h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK u.a.</b></h3><br>
 	 

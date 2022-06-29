@@ -8,32 +8,30 @@
     <h2>Frühe kommerzielle Rechner</h2>
 
     <p>
-       Kommerzielle Rechner haben keine oder kaum wissenschaftliche Funktionen und sind speziell auf die Verarbeitung von "großen" Datenmengen ausgelegt. Manchmal ist die Unterscheidung zwischen kommerziellen und wissenschaftlichen Rechnern schwer und die unten stehenden Exemplare sind auch nur kleine kommerzielle Rechner.
-	   <br/>Schöne vorwiegend kommerziell eingesetzte EDV-Anlagen (BULL GAMMA 10, GAMMA 55) werden in der Rubrik "Lochkarten-EDV" beschrieben. Ebenso finden Sie unter dieser Rubrik die UNIVAC 9200, welche ebenfalls hauptsächlich für kommerzielle Anwendungen angeboten wurde.</br>
-    </p>
+		Kommerzielle Rechner haben keine oder kaum wissenschaftliche Funktionen und sind speziell auf die Verarbeitung von "großen" Datenmengen ausgelegt. Manchmal ist die Unterscheidung zwischen kommerziellen und wissenschaftlichen Rechnern schwer und die unten stehenden Exemplare sind auch nur kleine kommerzielle Rechner.
+		<br/>Schöne vorwiegend kommerziell eingesetzte EDV-Anlagen (BULL GAMMA 10, GAMMA 55) werden in der Rubrik "Lochkarten-EDV" beschrieben. Ebenso finden Sie unter dieser Rubrik die UNIVAC 9200, welche ebenfalls hauptsächlich für kommerzielle Anwendungen angeboten wurde.</br>
+	</p>
 	
-    <h3 id="olivetti-p203">Olivetti P 203</h3>
-    <div class="box left clear-after">
-        <img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
-        <div class="bildtext">
-            <b>Olivetti P 203</b>
-			<p>Im Jahre 1967 wurde die <a class="go" href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen. Die elektrische Schreibmaschine konnte man auch separat verwenden.<br>
-			Der <a class="go" href="/de/rechnertechnik/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
-			Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
-			Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
-			
-			<div class="clear-after">
-		<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="_blank">	
-        <img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
-		<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="_blank">
-		<img src="/shared/photos/rechnertechnik/p203-2.jpg" alt="Olivetti P203" width="240" height="180" /></a>
-		<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="_blank">
-		<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a></div>
-		
+	<h3 id="olivetti-p203">Olivetti P 203</h3>
+	<div class="box left clear-after">
+		<img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
+		<div class="bildtext">
+			<b>Olivetti P 203</b>
+		<p>Im Jahre 1967 wurde die <a class="go" href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen. Die elektrische Schreibmaschine konnte man auch separat verwenden.<br>
+		Der <a class="go" href="/de/rechnertechnik/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
+		Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
+		Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
+		<div class="clear-after">
+			<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="_blank">	
+			<img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
+			<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="_blank">
+			<img src="/shared/photos/rechnertechnik/p203-2.jpg" alt="Olivetti P203" width="240" height="180" /></a>
+			<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="_blank">
+			<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a>
+		</div>
 		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner sind voll funktionsfähig.
-			
 	</div>
-	</div>
+   </div>
 	
 	 
    <h3 id="ncr446">NCR 446</h3>
@@ -66,13 +64,40 @@
 		Mit der oben abgebildeten NCR-446 Maschine konnten Programme und Daten direkt auf der Schreibmaschinentastatur eingeben und simultan im Lochstreifenstanzer ausgestanzt werden. Dieser "Komfort" kostete jedoch zusätzlich ca. 20.000,- DM (10.000 Euro)!<br>
 		Beim Wechsel des Programmlochstreifens ergab sich das Problem, den oft sehr langen Streifen per Hand aufzuwickeln um ihn in einer kleinen Dose verstauen zu können. Dazu gab es von HP einen handlichen akkubetriebenen "Tapewinder". So dauerte das Aufwickeln nur wenige Sekunden.</p>
 		
-		 
-		
-		
-  <h3 id="nixdorf820">NIXDORF 820</h3> 
+	<h3 id="nixdorf820">NIXDORF 820</h3>
+  
+		<div class="box center auto-bildbreite">
+			<a href="/de/geraete/nixdorf820.php" title="Zur Detailaufnahme der Nixdorf 820-Anlage">
+			<img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
+			<p class="bildtext"><b>Nixdorf 820</b> mit Lochkartenstanzer und Drucker</p>
+		</div>
+		<p>Eine Komplettanlage der mittleren Datentechnik: NIXDORF 820 Computer Bj. 1969/70. Einige Besonderheiten machen die Anlage interessant: Konsequente Modultechnik, Magnetkontenleser
+		sowie "<a class="go" href="speichermedien.php#staebchenspeicher">Stäbchenspeicher</a>" als ROM, mit welchem man sich sein Programm selbst fädeln konnte. Die Konsole (Mitte) besteht
+		aus Kugelkopfmaschine, Magnetkontenleser und 2 Lochkartenlesern. Zur Peripherie gehören ein Lochkartenstanzer (links), ein High-Speed-Nadeldrucker (rechts),
+		2 Magnetband-Kassettenlaufwerke (ohne Abb.) und ein manueller Lochkartenstanzer IBM oder YUKI (siehe oben). Durch Anklicken des Bildes erhält man einen Ausschnitt. 
+		</p>
 
-     <div class="box center auto-bildbreite">
-         <a href="/de/geraete/nixdorf820.php" title="Zur Detailaufnahme der Nixdorf 820-Anlage"><img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
-         <p class="bildtext"><b>Nixdorf 820</b> mit Lochkartenstanzer und Drucker</p></div>
-              <p>Eine Komplettanlage der mittleren Datentechnik: NIXDORF 820 Computer Bj. 1969/70. Einige Besonderheiten machen die Anlage interessant: Konsequente Modultechnik, Magnetkontenleser sowie "<a class="go" href="speichermedien.php#staebchenspeicher">Stäbchenspeicher</a>" als ROM, mit welchem man sich sein Programm selbst fädeln konnte. Die Konsole (Mitte) besteht aus Kugelkopfmaschine, Magnetkontenleser und 2 Lochkartenlesern. Zur Peripherie gehören ein Lochkartenstanzer (links), ein High-Speed-Nadeldrucker (rechts), 2 Magnetband-Kassettenlaufwerke (ohne Abb.) und ein manueller Lochkartenstanzer IBM oder YUKI (siehe oben). Durch Anklicken des Bildes erhält man einen Ausschnitt. 
-         </p>
+	<h3 id="ta1000">TA1000</h3>
+	
+		<div class="box center auto-bildbreite">
+			<a href="" title="Zur Detailaufnahme der TA1000-Anlage">
+			<img src="/shared/photos/dummy.jpg" alt="TA1000" width="670" height="270" /></a>
+			<p class="bildtext"><b>TA1000</b> ...</p>
+		</div>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+	<h3 id="ibm5320">IBM 5320 /32</h3>
+	
+		<div class="box center auto-bildbreite">
+			<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">
+			<img src="/shared/photos/dummy.jpg" alt="IBM 5320 /32" width="670" height="270" /></a>
+			<p class="bildtext"><b>IBM 5320 /32</b> ...</p>
+		</div>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+

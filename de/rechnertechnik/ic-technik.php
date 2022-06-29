@@ -29,6 +29,8 @@
 
 		<p>Der Rechner beherrscht die 4 Grundrechenarten und die Quadratwurzel mit 14stelliger Genauigkeit. Alles was darüber hinausgeht muss man durch Programme realisieren,
  hierfür stehen 1000 Programmschritte und 112 Speicherregister in einem Kernspeicher zur Verfügung. </p>
+<p>Der Name MAEL leitet sich von den Vornamen des Firmengründers und seiner Frau ab (MAssimo und ELiana Rinaldi)
+ </p>
 <p>Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
 Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vorführbereit.</p>
 

@@ -17,8 +17,8 @@
 	<h3 id="mael4000">MAEL 4000</h3>
 	
 		<div class="box center"> 
-        <img src="/shared/photos/dummy.jpg" alt="MAEL 4000" height="338" width="350">
-        <img src="/shared/photos/dummy.jpg" alt="MAEL 4000" height="338" width="350">
+        <img src="/shared/photos/MAEL4000.jpg" alt="MAEL 4000" height="338" width="350">
+        <img src="/shared/photos/MAEL4000_Display.jpg" alt="MAEL 4000" height="338" width="350">
         <p class="bildtext"><b>MAEL 4000</b></p></div>
 
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et

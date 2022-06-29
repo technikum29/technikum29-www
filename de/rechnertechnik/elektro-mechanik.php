@@ -46,7 +46,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 		bis ca 1927, genau datieren lässt sich unsere Maschine nicht. Sie ist eine Staffelwalzen-maschine mit manueller Bedienung, man kann
 		auf ihr die 4 Grundrechenarten durchführen. Das Ergebniswerk umfasst 13 Stellen. Unsere XxX ist voll funktionsfähig.</p>
 		
-		<p> Diese sehr frühe mechanische Rechenmaschine verdankt das technikum29 2021 einer Schenkung von Sigrun Schuster (Kronberg). </p>
+		<p> Diese sehr frühe mechanische Rechen-maschine verdankt das technikum29 2021 einer Schenkung von Sigrun Schuster (Kronberg). </p>
 	    <p> Einige Tastenkappen gingen im Lauf der Zeit verloren, mittels 3D-Druck erhielten wir Ersatz durch Florian Ehmann (Darmstadt). </p>
     </div>
     

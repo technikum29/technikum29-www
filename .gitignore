@@ -4,3 +4,4 @@ shared/cache/
 # Temporary files and thelike
 .directory
 *~
+*.icloud

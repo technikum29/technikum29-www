@@ -84,7 +84,7 @@
 					<li><a seiten_id="gamma55" href="/de/rechnertechnik/gamma55.php" title="Gamma 55 (GE 55)">BULL Gamma 55 (GE-55)</a></li>
 					<li><a seiten_id="ibm1130" href="/de/rechnertechnik/ibm1130.php" title="IBM 1130">IBM 1130</a>
 						<ul class="u4 geraete">
-							<li><a seiten_id="ibm1130-blog" href="/de/geraete/ibm1130-blog.php">IBM 1130-Reperaturblog</a></li>
+							<li><a seiten_id="ibm1130-blog" href="/de/geraete/ibm1130-blog.php">IBM 1130-Reparaturblog</a></li>
 							<li><a seiten_id="ibm1130-hochschule" href="/de/geraete/ibm1130-hochschule.php">IBM 1130 an der Hochschule</a></li>
 						</ul>
 					</li>
@@ -111,11 +111,17 @@
 					<li><a href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">Olivetti P203</a></li>
 					<li><a href="/de/rechnertechnik/kommerzielle.php#ncr446">NCR 446</a></li>
 					<li><a href="/de/rechnertechnik/kommerzielle.php#nixdorf820">Nixdorf 820</a></li>
+					<li><a href="/de/rechnertechnik/kommerzielle.php#ta1000">TA1000</a></li>
+					<li><a href="/de/rechnertechnik/kommerzielle.php#ibm5320_32">IBM 5320 /32</a></li>
+					<li><a href="/de/rechnertechnik/kommerzielle.php#siemens6610">Siemens System 6610</a></li>
 				</ul>
 				<ul class="u3 geraete">
-					<li><a seiten_id="ncr" href="/de/geraete/details-ncr446.php">Reperatur der NCR 446</a></li>
+					<li><a seiten_id="ncr" href="/de/geraete/details-ncr446.php">Reparatur der NCR 446</a></li>
 					<li><a seiten_id="ncr446" href="/de/geraete/ncr446.php">NCR 446 Lochstreifenverarbeitung</a></li>
 					<li><a seiten_id="nixdorf820" href="/de/geraete/nixdorf820.php">Nixdorf 820 Konsole</a></li>
+					<li><a seiten_id="ta1000" href="/de/geraete/ta1000.php">TA1000</a></li>
+					<li><a seiten_id="ibm5320_32" href="/de/geraete/ibm5320_32.php">IBM 5320 /32</a></li>
+					<li><a seiten_id="siemens6610" href="/de/geraete/siemens6610.php">Siemens System 6610</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="wissenschaftliche-rechner" href="/de/rechnertechnik/wissenschaftliche-rechner.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
@@ -160,11 +166,23 @@
 			</li>
 			<li><a seiten_id="personalcomputer" href="/de/rechnertechnik/personalcomputer.php" title="Historische Personalcomputer: Die ersten PCs">Historische Personalcomputer</a>
 				<ul class="u3">
+					<li><a href="/de/rechnertechnik/personalcomputer.php#ibm5100">IBM 5100</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200" title="WANG 2200, mit umfangreicher Peripherie">WANG 2200B</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200s">WANG 2200S</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#wang_pcsii">WANG PCS II</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#aim65">AIM 65</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#kim1">KIM 1</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#cbm">CBM</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#q1">Q1</a></li>
 				</ul>
 				<ul class="u3 geraete">
+					<li><a seiten_id="ibm5100" href="/de/geraete/ibm5100.php">IBM 5100</a></li>
 					<li><a seiten_id="wang2200" href="/de/geraete/wang2200.php">Wang 2200</a></li>
+					<li><a seiten_id="wang_pcsii" href="/de/geraete/wang_pcsii.php">Wang PCS II</a></li>
+					<li><a seiten_id="aim65" href="/de/geraete/aim65.php">AIM 65</a></li>
+					<li><a seiten_id="kim1" href="/de/geraete/kim1.php">KIM 1</a></li>
+					<li><a seiten_id="cbm" href="/de/geraete/cbm.php">CBM</a></li>
+					<li><a seiten_id="q1" href="/de/geraete/cbm.php">Q1</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="analogrechner" href="/de/rechnertechnik/analogrechner.php">Analog u. Hybridrechner</a>
@@ -257,6 +275,14 @@
 				</ul>
 			</li>
 		
+		</ul>
+	</li>
+
+	<li><a href="/de/kommunikationstechnik/rundfunk.php">Archiv</a>
+		<ul class="u2">
+			<li><a seiten_id="rundfunk2" href="/de/kommunikationstechnik/rundfunk.php">Rundfunk</a></li>
+			<li><a seiten_id="tontechnik2" href="/de/kommunikationstechnik/tontechnik.php">Tontechnik</a></li>
+			<li><a seiten_id="fernsehen2" href="/de/kommunikationstechnik/fernsehen.php">Fernsehen</a></li>
 		</ul>
 	</li>
 

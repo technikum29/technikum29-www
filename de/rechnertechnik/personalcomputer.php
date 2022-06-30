@@ -42,7 +42,7 @@
 		Interessant ist auch die dazugehörige Kugelkopfmaschine als Ausgabegerät. Ausgestattet mit Schrittschaltmotoren kann die Maschine auch plotten. Das Modell 2202 ist identisch mit dem des am <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700" target="_blank">WANG 700 Rechner</a> angeschlossenen Modells "702".</p>
 		 <p class="small">Wir bedanken uns bei der Westfälischen "Wilhelm-Universität Münster" für die Überlassung der Anlage.</p> 
 	
-	<h3 id="wang-pcs"><b>WANG PCS II</b></h3><br>
+	<h3 id="wang-pcsii"><b>WANG PCS II</b></h3><br>
 	
 		Im Jahre 1977 stellte WANG den neuen Computer PCS-II vor der im Gegensatz zur 2200-Serie kompakt gebaut war. Der Prozessor, noch in herkömmlicher Weise mit TTL-Logik aufgebaut, die Interface-Anschlüsse und das Netzteil befinden sich in einem Gehäuse. Eine zweifach 5,25" Floppy wurde einfach oben aufgebaut, so dass man nur noch einen Drucker anschließen musste. Der Speicher war bis zu 32 KB ausbaubar und damit auch nicht grösser als der Maximal-Ausbau des deutlich preiswerteren PET 2001.
 		<div class="box left"> 
@@ -66,7 +66,7 @@
 	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
 	takimata sanctus est Lorem ipsum dolor sit amet.</p>
 
-	<h3 id="ibm5100"><b>AIM 65</b></h3><br>
+	<h3 id="aim65"><b>AIM 65</b></h3><br>
 
 	<div class="box center"> 
 	<img src="/shared/photos/dummy.jpg" width="500"  height="275"/>
@@ -107,5 +107,13 @@
 	
 	 Doch jetzt beginnt die Massenproduktion von PCs, weshalb wir auf die weitere Entwicklung hier nicht eingehen. Wir möchten unsere Besucher nur mit seltenen Raritäten der Computer-Frühzeit beglücken.</p>
 	 
-	
-    
+	<h3 id="q1"><b>Q1</b></h3><br>
+
+	<div class="box center"> 
+	<img src="/shared/photos/dummy.jpg" width="500" height="275"/>
+	</div>
+
+	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+	takimata sanctus est Lorem ipsum dolor sit amet.</p>

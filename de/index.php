@@ -169,15 +169,15 @@
          Heribert Müller war Studienrat für Mathematik und Physik, eine umfassende
          elektrotechnische Ausbildung aufbauend auf der Geschichte der Kommunikations-
          und Rechnertechnik stellte für ihn das Ideal einer polytechnischen Ausbildung dar.
-         Als Kind des mittellosen Nachkriegsdeutschlands wuchs Heribert Müller also
-         Kind auf, dass sich Röhrenradios selber zusammenbaute und später als Jugendlicher eine
-         Ausbildung im Radioreperaturladen absolvierte. Die Faible für Röhrentechnik übertrug
+         Im mittellosen Nachkriegsdeutschlands wuchs Heribert Müller als
+         Kind auf, das sich Röhrenradios selber zusammenbaute und später als Jugendlicher eine
+         Ausbildung im Radioreparaturladen absolvierte. Das Faible für Röhrentechnik übertrug
          er in Retrospektive auf die Computertechnik seiner Lebenszeit. Er kritisierte
          die Intransparenz und Obsoleszenz, die mit dem Boom der Elektronikindustrie
-         und dem Aufkommen der Personalcomputer Anfang der 1980-Jahre einsetzte.
-      <p>Das Tüfteln an »Vintage Computing« war ein Eigenbrötlerhobby war, das technikum29
+         und dem Aufkommen der Personalcomputer Anfang der 1980er Jahre einsetzte.
+      <p>Das Tüfteln an »Vintage Computing« war ein Eigenbrötlerhobby, das technikum29
          führte er als »One Man Show« stets unter Verweigerung regelmäßiger Hilfen von
-         Außen. Trotzdem arbeitete H. Müller auch mit anderen Experten aus aller Welt
+         außen. Trotzdem arbeitete H. Müller auch mit anderen Experten aus aller Welt
          an Geräten zusammen. Außerdem legte er viel Wert auf Wissenskommunikation: So
          führte er regelmäßig Kleingruppen durch die Ausstellung und verweigerte dabei
          prinzipiell die Annahme von Eintrittsgeldern. Zu den weiteren Museumsaktivitäten

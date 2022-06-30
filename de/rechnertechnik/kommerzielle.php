@@ -89,12 +89,24 @@
 		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
 		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 
-	<h3 id="ibm5320">IBM 5320 /32</h3>
+	<h3 id="ibm5320_32">IBM 5320 /32</h3>
 	
 		<div class="box center auto-bildbreite">
 			<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">
 			<img src="/shared/photos/dummy.jpg" alt="IBM 5320 /32" width="670" height="270" /></a>
 			<p class="bildtext"><b>IBM 5320 /32</b> ...</p>
+		</div>
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+	<h3 id="siemens6610">Siemens System 6610</h3>
+	
+		<div class="box center auto-bildbreite">
+			<!--<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">-->
+			<img src="/shared/photos/dummy.jpg" alt="Siemens System 6610" width="670" height="270" /></a>
+			<p class="bildtext"><b>Siemens System 6610</b></p>
 		</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
 		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem

@@ -1,0 +1,222 @@
+/**
+ * t29v6 Design sidebar.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   section.sidebar = Sidebar-Bereiche (.top, .botom)
+ *   nav.side = Inhaltsnavigation (Tour),
+ *              JavaScript-Menue (static, fixed, stick-*, ...),
+ *              Sidebar-Buttons
+ *
+ **/
+
+/* Rechtsnavi */
+section.sidebar {
+	width: 210px;
+	padding: 25px; padding-top: 35px;
+	/*background-color: #dfeaf0;*/  /* Die uebernimmt der Container*/
+	float: left;
+}
+
+/* Navigationsleiste */
+nav.side .guide-only { display: none; } /* Nur in nav.guide anzeigen */
+
+nav.side .u1 > li > a {
+	/*font: 18px "Futura Std Book";*/
+	font-size: 23px; /* font-weight: bold; */
+	/*text-transform: uppercase; */
+	/*color: #124b6b;*/
+	margin: 0 -25px;
+	padding: 5px 25px;
+}
+
+/* 25.12.2013: Kapitel durch Linien abtrennen */
+nav.side .u1 > li > a {
+	padding-top: 19px;
+	border-top: 2px solid /*#A07F60;*/ rgba(173,148,125,.8);
+}
+nav.side .u1 > li.first > a {
+	border-top: none; /* Nicht ueber erstem Eintrag (Computer History) */ 
+}
+
+nav.side .u2 {
+	margin: 0 0 20px 0;
+}
+
+nav.side .u2 > li > a {
+	/*text-transform: uppercase; */
+	font-size: 17px;
+	margin: 0 -25px;
+	padding: 5px 25px;
+}
+
+nav.side .u2 > li.active > a {
+	color: #E90015; /* hellblau:  #40a8e2; */
+	/*font-weight: bold;*/
+}
+
+nav.side .u3 {
+	margin-left: 12px;
+	margin-bottom: 12px;
+}
+
+nav.side .u3 { display: none; }
+nav.side .u2 > li.active .u3 { display: block; }
+
+nav.side .u3 > li > a {
+	font-size: 14px;
+	margin: 0 -25px 0 -40px;
+	padding: 1px 25px 1px 40px;
+	opacity: .9;
+	/*text-transform: uppercase;*/
+}
+
+nav.side .u3 > li.active > a,
+nav.side .u4 > li.active > a {
+	color: #e90015;
+	/*font-weight: bold;*/
+}
+
+/* 4. Ebene, wird derzeit nicht aktiv verwendet (nur fuer .u4.geraete) */
+nav.side .u4 {
+	margin-left: 8px;
+	margin-bottom: 8px;
+}
+
+nav.side .u4 > li > a {
+	font-size: 12px;
+	margin: 0 -32px 0 -48px;
+	padding: 1px 32px 1px 48px;
+}
+
+/* nav.side .geraete-Listen */
+nav.side .geraete a {
+	text-transform: none !important;
+	opacity: .5 !important;
+}
+
+nav a:hover, nav ul.rich-text li:hover a, nav a:focus, nav ul.rich-text li:focus a {
+	color: #A12A40;
+	background-color: white;
+}
+
+/* Nav-Hover-Transistions */
+nav a, nav a:link, nav a:visited, nav a:hover, nav a:focus {
+	/*-webkit-transition: color,background-color .18s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-moz-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-ms-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	-o-transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	transition: color,background-color .25s cubic-bezier(0.420, 0.000, 0.580, 1.000);
+	*/
+}
+
+
+/* Scroll-Zustände der Navigationsleiste
+ * Siehe Script, es gibt:
+ *   html.no-js             - Ausgangslage ohne Javascript
+ *   html.mini-menu         - Anzeige nur der aktiven Komponenten
+ *   html.static-menu       - Default mit Javascript
+ *   html.fixed-menu        - Umgeschaltet auf fix
+ *   html.stick-top-menu    - Zwischensituation wenn fix und ganz hochgescrollt (wie static-menu)
+ *   html.stick-bottom-menu - Zwischensituation wenn fix und ganz runtergescrollt (absolut positioniert)
+ */
+html.static-menu nav.side, html.stick-top-menu nav.side {
+	/* Ein/Ausblendeffekt fuer .get-menu-Button erzeugen  */
+	/* http://www.colorzilla.com/gradient-editor */
+	background: -moz-linear-gradient(top,  rgba(223,234,240,1) 0%, rgba(223,234,240,1) 82%, rgba(223,234,240,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(223,234,240,1)), color-stop(82%,rgba(223,234,240,1)), color-stop(100%,rgba(223,234,240,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* IE10+ */
+	background: linear-gradient(top,  rgba(223,234,240,1) 0%,rgba(223,234,240,1) 82%,rgba(223,234,240,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dfeaf0', endColorstr='#00dfeaf0',GradientType=0 ); /* IE6-9 */
+
+	padding-bottom: 200%; /* sic! die 82% aus dem gradient muessen unterhalb der Navi anfangen*/
+	position: relative; z-index: 10;
+}
+
+html.fixed-menu nav.side {
+	position: fixed;
+	width: 210px;
+	top: 15px;
+}
+
+html.stick-bottom-menu nav.side {
+	position: absolute;
+	width: 210px;
+	/* Top-Wert durch JS gesetzt. */
+}
+
+html.mini-menu nav.side li { display: none; }
+html.mini-menu nav.side li.active,
+html.mini-menu nav.side li.active > ul.u3 > li,
+html.mini-menu nav.side li.active > ul.u4 > li {
+	display: inline;
+}
+
+
+/* Buttons in Navigationsleiste */
+section.sidebar .button {
+	display: block;
+	cursor: pointer;
+
+	/*font: 14px "Myriad Pro Light";*/
+	font-size: 17px; /*  25.12.2013: .button.collapsed-menu in Navigation drinnnen */
+	/*text-transform: uppercase; */
+	color: #a07f60;
+	/*font-weight: bold;*/
+}
+
+section.sidebar .button:hover {
+	background-color: white;
+}
+
+section.sidebar .button.get-menu {
+	/* Menü-runterhol-Button */
+	position: fixed; z-index: 1;
+	bottom: 0; margin: 0 -25px;
+	padding: 15px 25px;
+	text-align: center; width: 210px;
+}
+
+section.sidebar .button.collapse-menu {
+	/* Ein/Ausklapp-Button */
+	/* Seit 25.12.2013 direkt zwischen den Navigationselemten, jeweils
+       nach li.collapsible-button-after. */
+	/*margin: 3em -25px 0 -25px;
+	padding: 5px 25px;*/
+	padding: 5px 25px;
+	margin: 0 -25px;
+	margin-top:  -10px;
+	margin-bottom: 20px;
+}
+
+html.fixed-menu nav.side .button.collapse-menu,
+html.stick-bottom-menu nav.side .button.collapse-menu {
+	display: none;
+}
+
+
+section.sidebar .button.for-geraete {
+	/* Geraete content collapse button */
+	position: relative;
+	top: -27px; right: -140px;
+	width: 70px; margin-top: 0;
+}
+
+body.collapsed-menu-u3 section.sidebar .button.for-geraete { display: none; }
+
+/* Untere Sidebar */
+section.sidebar.bottom {
+	position: absolute;
+	bottom: 0; left: 0;
+}
+
+section.sidebar.bottom .button.get-menu {
+	position: static;
+	margin-bottom: -25px;
+}
+
+html.button-stick-bottom section.sidebar.top .button.get-menu {
+	display: none;
+}

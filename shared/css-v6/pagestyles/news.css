@@ -1,0 +1,103 @@
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 "Was gibt es neues?"-Seite, komisches Listen-   |
+|                      Aussehen.                                       |
+|                         /de/news.shtm                                |
+|                         /en/news.shtm                                |
+| In Benutzung seit:   Juli 2009                                       |
+| Besonderheiten:      Nicht sonderlich originell, nur eben etwas      |
+|                      spezifisch.                                     |
+|                                                                      |
+\**********************************************************************/
+
+ul.news-feed li {
+    margin-bottom: 1.2em;
+}
+
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
+   margin: 0; padding: 0; border: none;
+   font-family: inherit;
+   font-weight: normal;
+   font-size: 100%;
+   font-style: italic;
+}
+
+/* Seit Juni 2014 neu: */
+/**
+ * "Standarisiertere" Darstellung der t29-News.
+ * Nach http://lists.technikum29.de/pipermail/t29-archive/2014-May/000152.html
+ * Bild: http://lists.technikum29.de/pipermail/t29-archive/attachments/20140510/04e638bc/attachment-0002.png
+ *
+ * Format:
+
+	<li class="news-box"><a href="/de/rechnertechnik/ibm1130.php#1130">
+	    <h3>Januar 2014</h3>
+	    <img src="/shared/photos/rechnertechnik/ibm-1130.jpg" alt="IBM 1130" width="225" height="194" />
+	    IBM 1130, eine neue Herausforderung.
+	</a></li>
+
+ **/
+/* Bislang erst in deutscher Sprache, daher Klasse .news-ng fuer Next Generation */
+
+ul.news-feed, ul.news-feed li {
+	list-style: none;
+	margin: 0; padding: 0;
+}
+
+ul.news-ng li {
+	float: left;
+}
+
+ul.news-feed li {
+	width: 30%;
+	margin-right: 3%;
+	margin-bottom: 3%;
+	padding: 1px;
+}
+
+@media all and (max-width: 600px) {
+	/* Mobile fixes, einspaltiger Inhalt: Kein Floating! */
+	ul.news-ng li { float: none; }
+	ul.news-feed li { width: 100%; }
+}
+
+ul.news-feed li > a {
+	display: block;
+
+	min-height: 20em;
+
+	font-size: 90%;
+	text-align: left;
+	padding: 2em;
+}
+
+#content ul.news-feed a:link,
+#content ul.news-feed a:visited { /* Id zur Bedeutungssteigerung */
+	text-decoration: none;
+	color: inherit;
+	background-color: #DFEAF0;
+}
+
+#content ul.news-feed a:hover,
+#content ul.news-feed a:focus {
+	background-color: #EDF0F2;
+	box-shadow: 0 1px 4px #B2B6B7;
+}
+
+ul.news-feed img {
+	width: 100%; height: auto;
+	margin: .5em 0;
+}
+
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
+   margin: 0; padding: 0; border: none;
+   font-family: inherit;
+   font-weight: bold;
+   font-size: 100%;
+   font-style: italic;
+   color: #474747;
+}
+
+

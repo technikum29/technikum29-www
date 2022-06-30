@@ -1,0 +1,146 @@
+/**
+ * Layout in diesem Modul wird auf den Seiten
+ *  - robotik-ferienkurs
+ *  - physical-computing
+ * verwendet. Das war bis Dez 2016 als pagestyle umgesetzt,
+ * da es aber jetzt mehrere Seiten sind, als Modul.
+ *
+ **/
+
+/*section.sidebar a.button.termine {
+	display: none !important;
+}*/
+
+/* Ein Logo ohne */
+body.kursseite h1 a {
+	background-image: url("/shared/img-v6/banner.svg");
+}
+
+
+/* Neues Design ab Juni 2015, Experiment-Styles */
+
+body.kursseite section.sidebar a.termine {
+	/* zugehoerig zur normalen Homepage */
+	display: none;
+}
+
+@media all and (min-width: 940px) {
+	body.kursseite header.teaser-nicht-mobil {
+		position: relative;
+		overflow: hidden;
+		margin: 30px -40px 30px;
+	}
+
+	body.kursseite header.teaser-nicht-mobil h2,    /*Robotik*/
+	body.kursseite #content header.teaser-nicht-mobil h2 {
+		border: none !important;
+		position: absolute;
+		bottom: 0; left: 0;
+		width: 80%;      
+		padding: 0.3em 10%;
+		margin: 0;
+		background-color: rgba(255,255,255,.6); 
+		color: #0006ff;     
+	
+	
+		font-size: 280%;    /* vorher 250%;*/
+		text-align: center;
+	}
+
+	/* Physical-Computing */
+	body.kursseite #content header.teaser-nicht-mobil.physical-computing h2 {
+		color: #0006ff;
+		background-color: rgba(224, 242, 254, .7);/*vorher .8*/
+	}
+
+	/* Zwischenueberschrift: "Club der digitalen Denker" */
+	body.kursseite #content header.teaser-nicht-mobil.digitale-denker h2 { 
+		font-size: 180%;
+		color: white;
+		background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08) 0%,rgba(0,0,0,1) 100%);
+	}
+
+	body.kursseite header.teaser-nicht-mobil.physical-computing::before {
+		/* css3 hack to get img inset box-shadow */
+		display:block;
+		content:'';
+		position:absolute;
+		width:100%;
+		height:100%;
+		box-shadow: 0 -20px 59px -4px rgba(0, 0, 0, 0.35) inset;
+	}
+}/* media min-width: mobile */
+@media all and (max-width: 940px) {
+	body.kursseite header.teaser-nicht-mobil img {
+		display: none;
+	}
+}
+
+
+/* sidebar */
+body.kursseite section.sidebar div.text-block,
+body.kursseite section.sidebar div.bild-block {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+body.kursseite section.sidebar div.text-block a,
+body.kursseite section.sidebar div.bild-block a {
+	display: inline !important;
+}
+
+body.kursseite section.sidebar div.text-block {
+	margin: -15px -25px 15px;
+	padding: 35px 25px;
+}
+
+body.kursseite section.sidebar div.bild-block img {
+	width: 100%;
+	max-width: 300px; /* tablet */
+}
+
+body.kursseite section.sidebar div.bild-block .bildtext {
+	margin-top: .5em;
+}
+
+body.kursseite section.sidebar div.alertbox {
+	background-color: #edf0f2;
+	margin: -35px -25px 15px;
+}
+
+body.kursseite section.sidebar div.text-block li {
+	display: block;
+	margin: .4em 0;
+}
+
+/* Auf Wunsch von Heribert sollen Kursseiten-Floatbilder weniger Abstand
+   drumherum haben. Das liegt daran, weil sie so klein sind. Ist ein
+   ziemlich kruder Design-Fix */
+body.kursseite #content .left img,
+body.kursseite #content .right img {
+	margin-bottom: 1em; /* Standard in Bildboxen sind 2em */
+}
+
+/* Mobile Sidebar, nur auf senkrechtem Tablet... */
+@media all and (max-width: 940px) and (min-width: 600px) {
+	body.kursseite section.sidebar div.text-block,
+	body.kursseite section.sidebar div.bild-block {
+		margin: .5em;
+		padding: .5em;
+		width: 300px;
+		/*outline: 1px solid red;*/
+
+		display: inline-block;
+		vertical-align: top;
+	}
+}
+
+/* Wie auf Startseite */
+body.kursseite #content h3 {
+    border: medium none;
+    color: #1a5160;
+    font-family: inherit;
+    font-size: 113%;
+    font-weight: bold;
+}
+

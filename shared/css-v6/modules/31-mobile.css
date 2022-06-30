@@ -1,0 +1,237 @@
+/**
+ * Media Queries for responsive webdesign
+ * Fuer kleine Browserfenster sowie mobile Endgeraete.
+ **/
+
+/**
+ * Schmaler als die "Blattmetapher" 1200px: Blattmetapher aufgeben und Ueberbleibsel
+ * des Seitenhintergrundes ausblenden. Zur Ladezeitoptimierung braucht der auch gar
+ * nicht mehr geladen werden.
+ * Experimentell den Footer auch nicht mit der dunkeln Hintergrundfarbe machen, weil
+ * er sonst sehr aufdringlich ist.
+ *
+ **/
+@media all and (max-width: 1250px) { /* was: 1199px */
+	body {
+		background: #F4F4F4; /* BG von footer.attached */
+	}
+
+	#container {
+		margin-top: 0;
+		box-shadow: none;
+	}
+	
+	footer.in-sheet.empty-footer {
+		height: 2px; /* Nur Linie anzeigen, keine weisse Flaeche */
+	}
+	
+	/* If we have a Javascript capable browser, display the cloned footer as the
+	   in-sheet footer looks ugly. */
+	html.js footer.in-sheet div.bigfooter {
+		display: none;
+	}
+	html.js footer.attached.for-mobile {
+		display: block;
+	}
+
+	/* mache Eintraege schmaler. Das hier sollte eigentlich gemeinsam bei footer.css stehen... */
+	footer div.bigfooter li.haus {
+		width: 300px;
+	}
+	footer div.bigfooter li.copy {
+		width: 290px;
+	}
+	footer div.bigfooter li.logo {
+		width: 240px;
+	}
+
+	footer div.bigfooter li.haus img {
+		width: 100px;
+	}
+	footer div.bigfooter li.haus span.p {
+		margin-left: 118px;
+	}
+}
+
+/**
+ * Schmaler als 940px: Tablet-Design. Menue unten darstellen, keine Menuescrollfunktionen,
+ * Menuepunkte nebeneinander (sieht huebsch aus).
+ *
+ **/
+@media all and (max-width: 940px) {
+	/* menue unten darstellen, Menuescrollfunktionen deaktivieren */
+	#container {
+		width: 940px;
+	}
+
+	/* Header-Navigation */
+	header.banner {
+		height: auto;
+		background: none;
+		text-align: left;
+	}
+
+	nav.horizontal {
+		position: relative;
+		top: auto; bottom: auto;
+		margin: 105px 0 0 0;
+		text-align: center;
+
+		/* testweise: */
+		background-color: #f1f1f1;
+		border-bottom: 2px solid #d2d2d2;
+		border-top: 2px solid #d2d2d2;
+	}
+	nav.horizontal .u1 > li > a {
+		margin-bottom: 0; /* kein Abstand zu nav.horizontal */
+		padding: 9px; /* groessere Klickflaechen */
+	}
+
+	li.small-screen-only {
+		display: inline-block !important;
+	}
+	
+	#background-color-container, #content, section.sidebar {
+		float: none;
+		left: auto;
+		background-color: transparent;
+	}
+
+	section.sidebar {
+		width: 100%;
+		background-color: #dfeaf0;
+	}
+	section.sidebar nav.side .u1 > li > a {
+		/* u1-Trenner abschalten */
+		border-top: none;
+		padding-top: 0;
+	}
+	
+	/* clearfix */
+	#content:after, section.sidebar:after { content: ""; display: table; clear: both; }
+	
+	nav.side { /* Quick and dirty */
+		padding-bottom: 15px !important;
+	}
+	
+	.button { display: none !important; } /* Quick and dirty */
+	
+	/* Spalten */
+	section.sidebar ul.u1 > li {
+		float: left;
+		padding: 24px;
+		width: 250px;
+	}
+	
+	/* ist nicht mehr empty wg bigfooter */
+	/* footer.in-sheet.empty-footer { display: none; } */
+}
+
+/**
+ * Schmaller als 600px: Handy-Design, alles einspaltig!
+ *
+ **/
+@media all and (max-width: 600px) {
+	#container {
+		padding-top: 240px; /* wg grossem Header, to be fixed */
+	}
+	#container, #content, section.sidebar, #background-color-container {
+		width: inherit;
+	}
+	#content {
+		padding: 1.5em 1em;
+	}
+
+	#container h1 {
+		display: block;
+		position: absolute;
+		top: 0; left: 0; width: 100%;
+	}
+
+	#container h1 a {
+		/* Banner in der Mitte anzeigen */
+		display: block;
+		position: relative; top: 0; left: 0;
+		width: 80%; max-width: 310px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: 100% auto;
+		margin: 0 auto;
+	}
+
+	nav.horizontal {
+		/* Less distance to logo */
+		margin: 90px 0 0 0;
+		border-bottom: none;
+	}
+
+	nav.top {
+		position: relative;
+		margin: 0; padding: .5em 0;
+		border-bottom: 2px solid #d2d2d2;
+		background-color: #ebebeb;
+		text-align: center;
+	}
+
+	nav.rel {
+		width: 100%;
+		margin: 26px 0 0;
+		text-align: center;
+	}
+	nav.rel li {
+		position: relative;
+	}
+
+	footer.in-sheet {
+		height: auto;
+		min-height: 100px; /* wenn Vorherige/Nächste umbricht */
+	}
+
+	footer.attached div.bigfooter ul,
+	footer div.bigfooter li {
+		padding: 0;
+		width: 100% !important;
+	}
+
+	footer.in-sheet div.bigfooter {
+		padding-left: .4em;
+	}
+
+
+	/* Mehrspaltige Contents. Overwrite dank #container */
+	#container div.startseiten-boxen,
+	#container div.startseiten-boxen .cols,
+	#container div.startseiten-boxen .leftcol, 
+	#container div.startseiten-boxen .rightcol,
+	#content div.cols,
+	#content div.cols .leftcol,
+	#content div.cols .rightcol,
+	#content div.desc-left,
+	#content div.desc-right  {
+		float: none;
+		width: inherit;
+		padding: 0 !important;
+	}
+
+	/* Box-System einspaltig machen, aber NUR wo
+	   nicht "mobile-keep" steht! */
+	#content .auto-bildbreite:not(.mobile) img,
+	#content .center:not(.mobile) img,
+	#content .left:not(.mobile) img,
+	#content .right:not(.mobile) img,
+	#content div.desc-left:not(.mobile) img,
+	#content div.desc-right:not(.mobile) img {
+		float: none;
+		display: block; margin: 0 auto; /* for small images */
+		max-width: 100%;
+		height: auto;
+	}
+
+	#content div.desc-left,
+	#content div.desc-right,
+	#content .auto-bildbreite {
+		width: 100% !important;
+		margin: 1em 0;
+	}
+
+}

@@ -1,0 +1,38 @@
+/*
+ * Diese CSS-File sammelt Styles, die vermutlich keinen langen Bestand
+ * haben. Sie gehoeren eigentlich an andere Stelle und sind vor allem
+ * angelegt worden, um mit heisser Nadel gestrickten Designvorstellungen
+ * Heriberts gerecht zu werden. Damit ist die Wahrscheinlichkeit gross,
+ * dass sie bald nicht mehr zur Anwendung kommen.
+ */
+
+/*
+  Logobild statt Textueberschrift am 26.12.2013 fuer IBM 1130,
+  nicht in ibm1130.css da Heribert in Univac ausprobieren will.
+ */
+
+.text-ersatz {
+    border-bottom: 3px double #AAAAAA;
+    /*height: 21px;*/
+    overflow: visible;
+    text-align: center;
+}
+
+
+/*
+ * Termine in der Seiten-Navigationsleiste, am 22.04.2014
+ * auf allen Seiten.
+ */
+section.sidebar a.alertbox {
+	background-color: #EDF0F2;
+	margin: -35px -25px 15px;
+	padding: 35px 25px;
+	
+	text-decoration: none;
+}
+
+section.sidebar a.alertbox span {
+	display: block;
+	margin-top: 8px;
+	color: #696969;
+}

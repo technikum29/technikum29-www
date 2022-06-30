@@ -197,7 +197,7 @@
       <p>Seit dem Tod von H. Müller wurde das Museum von EnthusiastInnen, die an
          die Prinzipien glauben, im Geiste Müllers fortgeführt. Der seit 2019
          geführte <a href="/de/blog.php" class="go">Blog</a> dokumentiert die
-         ersten Erfolge.
+         ersten Erfolge.</p>
          
 
 <!-- Beginn Link zu Terminspezialseite -->

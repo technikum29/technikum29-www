@@ -1,0 +1,215 @@
+/**
+ * t29v6 Design bildboxen.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content .box, #content .left, .right, .center, .auto-bildbreite,
+ *   .clear-after, .bordered, .desc-left, .desc-right =
+ *       Vielleicht der wichtigste Teil aller Styles: Das Bildboxen-
+ *       Konzept von v5.
+ *
+ **/
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |
++----------------------------------------------------------------------+
+|
+** Bildboxen ("Imageboxen")
+** Das Bildboxen-Konzept wird auf ausnahmslos allen Inhalts- und Extraseiten
+** genutzt. Aufbau eines .right/.left/.center-Bildbeschreibungs-Gebildes:
+** <div class="[box] [links|rechts|center]"> (box für fakultativen Abstand oben/unten)
+**    <img ... />
+**    <[div|p] class="bildtext"> (Bildtextklasse nicht mehr zwingend nötig)
+**       <p>Viel Text...</p>
+**    </[div|p]>
+**    <div class="clear">&nbsp;</div> (Damit das Bild nicht weitergeht)
+** </div>
+** Dazu existieren Erweiterungen: img.nomargin-bottom bei weniger Text als Bild,
+** .center .bildtext-bildbreite, damit zentrale Texte genauso breit wie die
+** Bilder werden.
+|
+\**********************************************************************/
+
+#content .box, .content .box {
+    /* .box als allgemeine Klasse fuer abstandswuerdige */
+    /* Objekte (.center/.right/.left zum Beispiel) */
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+#content .left img,
+.content .left img,
+.content .left-img img /* fuer mehr klarheit bei vielen klassen */ {
+    /* Links ausgerichtetes Bild mit Abstand drumherum */
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
+#content .right img,
+.content .right img,
+.content .right-img img /* fuer mehr klarheit bei vielen klassen */ {
+    /* Rechts ausgerichtetes Bild mit Abstand drumherum */
+    float: right;
+    margin: 0 0 2em 2em;
+}
+
+#content .center img,
+.content .center img,
+.content .center-img img /* fuer mehr klarheit bei vielen klassen */ {
+    /* Mittig ausgerichtetes Bild mit Abstand drunter */
+    margin: 0 0 0.3em 0;
+}
+
+#content img.nomargin, .content img.nomargin {
+    /* Links/rechts/mittig ausgerichtetes Bild mit exiplit keinem Abstand */
+    margin: 0;
+}
+
+#content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
+.content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
+#content .nomargin-bottom {
+    /* Zur absoluten Perfektion: Kein Abstand unter dem Bild bei links/rechts-fliessendem
+       (nur machbar, wenn der Text nicht umbrechen wird, weil er einfach zu kurz ist).
+       Dadurch wird der viel zu grosse Abstand unter einer .box verhindert, den ein
+       .clear dann erzeugt. */
+    margin-bottom: 0;
+}
+
+#content .left .bildtext, .content .left .bildtext,
+#content .right .bildtext, .content .right .bildtext {
+    /* p.bildtext oder div.bildtext: Kein Abstand! */
+    text-align: justify;
+    /* Im Endeffekt ist .bildtext hier unnoetig! */
+}
+
+#content .center .bildtext, .content .center .bildtext {
+    /* p.bildtext oder div.bildtext im center = Abgrenzung links/rechts */
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#content .center .bildtext-bildbreite, .content .center .bildtext-bildbreite {
+    /* Text zentriert unter dem Bild in der Breite des Bildes */
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 
+    28. April 2013: Linksausgerichteter Text, Blocksatz in Bereichen bewusst durchbrechen
+*/
+
+.content .no-blocksatz, .content .no-blocksatz p {
+	text-align: left;
+}
+
+/*
+    03. Januar 2010: Erweiterung des Konzeptes um automatische Bildbreiten (fuer .box.center),
+    Breiten der Bilder werden zur Laufzeit durch /shared/js/auto-bildbreite.js ausgelesen.
+*/
+
+#content .auto-bildbreite, #content .manuelle-bildbreite {
+	/* manuell etwa auf der Gamma 10 Seite, wo mehrere Bilder nebeneinandergepfuscht sind */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content .auto-bildbreite  p.bildtext, #content .manuelle-bildbreite  p.bildtext,
+#content .auto-bildbreite  div.bildtext , #content .manuelle-bildbreite div.bildtext {
+	/* Saemtliche Abstaende abschalten, weil Breite des gesamten <div class="box">-Elements
+       durch ein JavaScript geregelt wird */
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/*
+    03. Januar 2010: In Konstrukten wie
+	  <div class="box left">
+	     <img ... />
+		 <p class="bildtext">foo bar</p>
+		 <div class="clear">&nbsp;</div>
+	  </div>
+	kann ab sofort das clear-Element weggelassen werden zugunsten einer einfachen Klasse
+	  <div class="box left clear-after">
+	     <img .../>
+		 <p class="bildtext">foo bar</p>
+	  </div>
+	Realisiert wird das ueber einen kruden CSS-Hack. Muss noch getestet werden, ob der ueberall
+	laeuft.
+*/
+
+#content .clear-after {
+	display: inline-table;
+	/* CSS-Hack to hide from IE-mac \*/
+	height: 1%;
+	display: block;
+	/* IE mac is wayne, isn't it!? */
+}
+
+html>body #content .clear-after {
+	height: auto;
+}
+
+#content .clear-after:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+#content .inline-block { display: inline-block; }
+
+
+
+
+
+/*
+   Mehr oder weniger "halboffizielle" Rahmen um class="box [right|left|center]"-Bilder.
+   Verwendung als Zusatzklasse zu box.
+   
+   Feststellung 04.10.2009: Box-Modell zu speziell, um Rahmen hinzuzufuegen
+*/
+
+#content .bordered, .content .bordered {
+    border: 1px solid #094099;
+	padding: 2em;
+}
+
+#content .bordered img, .content .bordered img {
+}
+
+/* ehemaliger Spezialstyle auf der Startseite,
+   jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
+#content div.desc-right, #content div.desc-left,
+#content div.desc-right.auto-bildbreite, #content div.desc-left.auto-bildbreite {
+    /* rechts gefloatetes thumbnail mit Beschreibungstext */
+    float: right;
+    margin: 0pt 0pt 2em 2em;
+/*  width: 236px; */
+/*  border: 1px solid #7090C0;
+    background-color: #EBEBEB; */
+    border: 1px solid #094099;
+    padding: 1em;
+}
+
+#content div.desc-left, #content  div.desc-left.auto-bildbreite {
+	float: left;
+	margin: 0pt 2em 2em 0pt;
+}
+
+div.desc-right img {
+}
+
+div.desc-right p, div.desc-left p {
+    /* Damit der Text nicht über die ganze Fensterbreite geht,
+       <p style="width: Bildbreite;"> nötig. */
+    margin: 1em 0 0 0; padding: 0;
+    font-size: 90%;
+    text-align: left;
+}
+
+#content div.desc-right.borderless, #content div.desc-left.borderless {
+	border: none; /* ja, ziemlich bescheuert sorum */
+}

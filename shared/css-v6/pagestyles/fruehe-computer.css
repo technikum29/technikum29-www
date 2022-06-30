@@ -1,0 +1,25 @@
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Wissenschaftliche Rechner                       |
+|                         /de/rechnertechnik/fruehe-computer.shtm      |
+| In Benutzung seit:   29.01.2011                                      |
+| Besonderheiten:      Sieht beschissen aus                            |
+|                                                                      |
+\**********************************************************************/
+
+#content .small,
+#content dl {
+	font-size: 80%;
+	line-height: 130%;
+}
+
+#content dt {
+	/* folgende Zeile nicht auskommentieren, wenn die Definitionsterme (dt)
+		nicht dick erscheinen sollen */
+	/* font-weight: normal; */
+}
+
+#content dd {
+	margin-left: 2em;
+}

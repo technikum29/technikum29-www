@@ -1,0 +1,52 @@
+/**
+ * Dieses CSS sammelt die neuen Teaser-Klassen fuer Überschriften, die von überbreiten Bildern
+ * begleitet werden.
+ * 
+ * Es sollte im ursprünglichen t29-v6-Design von 2011 auf jeder Seite ganz oben *einen* Teaser
+ * geben. Dazu kam es aber nie.
+ * 
+ * Ich habe sie dann irgendwann auf der t29-Devzone http://www.technikum29.de/dev/ aktiviert.
+ * 
+ * Später wollte Heribert sie dann auf den Kursseiten (Robotik usw.) haben.
+ * 
+ * Von dort sind sie Ende 2017 doch wieder auf die restliche Website übergegangen.
+ **/
+
+
+/* teaser, von devzone kopiert */
+body header.teaser {
+	position: relative;
+	overflow: hidden;
+	margin: 30px -40px 30px;
+}
+
+/* Wenn mehrere dieser Teaser auf einer Seite (eine verrueckte Sache, die Berti
+   im Sept 2017 ploetzlich wollte: Nur den ersten mit dem fancigen Margin aussatten) */
+body header.teaser.seitenstart {
+	margin: -60px -40px 40px;
+}
+
+
+body header.teaser h2,    /*Robotik*/
+body #content header.teaser h2 {
+	border: none !important;
+	position: absolute;
+	bottom: 0; left: 0;
+	width: 80%;      
+	padding: 0.3em 10%;
+	margin: 0;
+	background-color: rgba(255,255,255,.6); 
+	color: #0006ff;     
+	
+	
+	font-size: 280%;    /* vorher 250%;*/
+	text-align: center;
+	font-weight: inherit;
+}
+
+body header.teaser h2 span.subtext {
+	display: block;
+	font-size: 60%;
+	line-height: 100%;
+	
+}

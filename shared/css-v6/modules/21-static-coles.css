@@ -1,0 +1,59 @@
+/**
+ * t29v6 Design static-coles.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content .cols = Statische Zweispaltigkeit (wird vllt noch durch
+ *                    ein Column Framework ersetzt)
+ *
+ **/
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Fax- und Schreibtechnik, Startseite,            |
+|                      DEC-Geschichte                                  |
+|                         /de/kommunikationstechnik/faxtechnik.shtm    |
+|                         /de/index.shtml                              |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
+| In Benutzung seit:   Prinzipiell seit Ewigkeiten (v5.0?)             |
+|                      Startseite nutzt Stil mit seit v5.7             |
+| Besonderheiten:      Mehrspaltiger Inhalt (Originalzitat), nach      |
+|                      dem simplen Schema:                             |
+|                                                                      |
+|   <div class="cols">                                                 |
+|       <div class="leftcol">linke spalte</div>                        |
+|       <div class="rightcol">rechte spalte</div>                      |
+|   </div>                                                             |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
+
+#content .cols {
+    /* Mehrspaltiger Inhalt. */
+}
+
+#content .cols .leftcol, #content .cols .rightcol {
+    padding: 5px 7px;
+/*  border: 3px dashed red;*/
+}
+
+#content .cols .leftcol {
+    float: left; width: 47%;
+}
+
+#content .cols .rightcol {
+    float: right; width: 47%;
+}
+
+#content blockquote, .content blockquote {
+    /* bis jetzt nur genutzt in <faxtechnik> */
+    /* Und <blockquote> auf einer WANG-Extraseite, Bedienungsanleitung */
+    margin: 5px 0px;
+    padding: 0px;
+    color: #2F319D;
+    text-align: justify;
+}

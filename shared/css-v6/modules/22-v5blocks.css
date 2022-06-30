@@ -1,0 +1,108 @@
+/**
+ * t29v6 Design v5blocks.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content table, #content dl = 
+ *              Legacy-Blockelemente-Layout von v5 und vorher.
+ *
+ **/
+
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: TABLE LAYOUT FROM details.css                 |
++----------------------------------------------------------------------+
+| Hier ist das Tabellenlayout der ehemaligen details.css. Es wird      |
+| (basismäßig) mittlerweile auch auf anderen Seiten genutzt, unter     |
+| anderem die Univac9400-Kosten-Seite (seit v5.8).                     |
+|                                                                      |
+| Begrenzt auf #content, damit andere Seiten in dev.t29.de oder        |
+| ähnlichem verschont bleiben.                                         |
+|                                                                      |
+| Das CSS ist uralt (stammt wohl noch von v5.0 und vorher) und wurde   |
+| seit dem nie verändert (wie die Details-Seiten ;-) )                 |
+|                                                                      |
+\**********************************************************************/
+
+
+#content table.t29-details td,
+#content table.t29-details,
+#content table.t29-details tr {
+    font: 12px Verdana;
+}
+
+#content table.t29-details {
+    border-spacing: 1px;
+    border-collapse: separate;
+}
+
+#content table.t29-details p {
+    text-align: justify;
+    line-height: 120%;
+}
+
+#content table.t29-details p.center {
+    margin: 5px 0px;
+    text-align: center;
+}
+
+#content table.t29-details td b {
+    display: block;
+}
+
+#content table.t29-details td.b, #content table.t29-details td.b a {
+    font-weight: bold;
+}
+
+#content table.t29-details {
+    background-color: #7090C0;
+}
+
+#content table.t29-details td {
+    padding: 2px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #F7FDFF;
+}
+
+#content table.t29-details td.left { text-align: left; }
+
+#content table.t29-details th {
+    padding: 2px;
+    text-align: center;
+    background-color: #BED0E5;
+}
+
+#content table.t29-details .bemerkungen {
+    vertical-align: middle;
+    text-align: justify;
+}
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 DEC-Geschichte                                  |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
+| In Benutzung seit:   Wohl schon recht lange.     (v5.0?)             |
+| Besonderheiten:      Definitionslisten ohne Einschub und mit dick-   |
+|                      gedrucktem <dt>.                                |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
+
+#content dt {
+    margin-top: 1.2em;
+    font-weight: bold;
+    display: block;
+}
+
+#content dd {
+    text-align: justify;
+    margin: 0; padding: 0;
+}
+
+
+

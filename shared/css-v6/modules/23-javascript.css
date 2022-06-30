@@ -1,0 +1,66 @@
+/**
+ * t29v6 Design javascript.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #img-license-tag, h2 a.anchor = 
+ *        Elemente, die dynamisch per JavaScript eingebunden werden.
+ *
+ * Natuerlich gibt es noch vielen anderen dynamischen Inhalt. Z.B. das 
+ * v6-Menue (sidebar.css) oder das t29.tr-Translation System. Oder
+ * seitenspezifische Sachen, siehe unter pagestyles/.
+ *
+ * Diese Datei dient als Sammelplatz fuer dynamische Elemente, die auf
+ * der ganzen Seite Verwendung finden.
+ *
+ **/
+ 
+/**********************************************************************\
+| CENTRAL COMMON STYLES: Copyright boxes for pictures                  |
++----------------------------------------------------------------------+
+| Diese CSS-Anweidungen formatieren dynamisch erzeugten HTML-Code      |
+| durch das neue copyright-boxes-system (licensing.js)                 |
+| Eingefuehrt August 2010.                                             |
+\**********************************************************************/
+
+#img-license-tag  {
+	display: none;
+	position: absolute;
+	/*background-color: rgba(0,0,0, 0.5);*//* Fuer CSS3 ist die Zeit noch nicht reif */
+	background-image: url(/shared/img/fresh.design/bg.copyright-box.png);
+	color: white;
+}
+
+#img-license-tag p {
+	margin: 0;
+	padding: 1em;
+	text-align: center;
+}
+
+#img-license-tag:hover {
+	display: block;
+	background-color: black;
+}
+
+#img-license-tag a:link, #img-license-tag a:visited {
+	color: #eee;
+}
+
+#img-license-tag a:hover, #img-license-tag a:active {
+	color: white;
+}
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: Heading anchors (Javascript driven)           |
++----------------------------------------------------------------------+
+| Eingefuehrt August 2010.                                             |
+\**********************************************************************/
+#content h2 a.anchor, #content h3 a.anchor {
+	text-decoration: none;
+	color: #ddd;
+	visibility: hidden;
+}
+
+#content h2:hover a.anchor, #content h3:hover a.anchor {
+	visibility: visible;
+}

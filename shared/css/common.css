@@ -1,0 +1,947 @@
+/**********************************************************************\
+|       _         _         _                                          |
+|      /\ \     /\ \      / /\          technikum29.de  Common Styles  |
+|      \_\ \   /  \ \    / /  \         Version 5.8                    |
+|      /\__ \ / /\ \ \  / / /\ \                                       |
+|     / /_ \ \\/_/\ \ \/_/ /\ \ \       Diese CSS-Datei implementiert  |
+|    / / /\ \ \   / / /\ \ \_\ \ \      das Konzept, alle "Spezial-    |
+|   / / /  \/_/  / / /  \ \/__\ \ \     styles" von alen Seiten an     |
+|  / / /        / / /  _ \_____\ \ \    einer Stelle zu sammeln. Das   |
+| / / /        / / /_/\_\       \ \ \   erhöht die Ladezeit der Seiten |
+|/_/ /        / /_____/ /        \ \ \  nur minimal, vermindert den    |
+|\_\/         \________/          \_\/  Wartungsaufwand aber enorm.    |
+|                                       Dieses Konzept wurde seit      |
+| Version 5.7 erfolgreich angewandt. Mittlerweile sind alle anderen    |
+| Zusatz-Stylesheets hier migriert, und zwar extra.css, details.css    |
+| sowie print.css.                                                     |
+|                                                                      |
+| $Id::                                                              $ |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+| Changelog seit v5.7:                                                 |
+|                                                                      |
+|   v5.7FINAL: eingeführt                                              |
+|   v5.7.11:   Univac-Spezialstyle neu                                 |
+|   v5.7.14:   .desc-right zurück ins Leben gerufen                    |
+|   v5.7.15:   .bordered zum allgemeineren Rahmenelement               |
+|   v5.8.0:    Erheblich aufgeräumt, details.css migriert, umgestellt. |
+|              Zu jedem Spezialstyle gibt es jetzt einen Pflicht-      |
+|              kasten, der ausgefüllt werden soll, der Übersicht       |
+|              halber.                                                 |
+|                                                                      |
+\**********************************************************************/
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Neue Startseiten, (de|en)/index.shtml           |
+| In Benutzung seit:   v5.7 (Redesign)                                 |
+| Besonderheiten:      Zweispaltiges Design mit Boxen                  |
+| Zuletzt geändert:    v5.7                                            |
+|     08.04.2011: Startseitendesign noch mal geändert in so einen      |
+|                 grauen Hintergrund und so                            |
+|                                                                      |
+\**********************************************************************/
+
+
+/* Spezialstyle der neuen Startseite: */
+.body-wrapper.start {
+    background-image: url(../img/fresh.design/sidebar-stripe.gif);
+}
+
+.start #wrapper { background-image: url("../img/fresh.design/menu-bg/binary-transparent.png"); }
+
+.startseiten-design div {
+    padding: 1em;
+    margin: 0;
+    /*border: 1px solid blue;*/
+}
+
+#content .startseiten-design div h2, /* id zur Bedeutungssteigerung */
+.startseiten-design div h2 {
+    font-weight: bold;
+    font-size: 113%;
+    font-family: inherit; /* 04.01.10: Neue Header-Styles */
+    border: none;         /*           neutralisieren     */
+    color: #224B88; /* gleiche Farbe wie Navilinks rechts */
+}
+
+.startseiten-design div ul {
+    text-align: justify;
+    margin: 0;
+    padding-left: 1em;
+}
+
+.startseiten-design div.foto,
+#startseitenfoto-en {
+    /* #startseitenfoto-en für /en, da gibts kein .startseiten-design */
+    border: none;
+    padding: 0;
+	margin: 2em auto;
+    background: none;
+    width: 338px; height: 228px; /* Bildgrößen */
+    position: relative;
+}
+
+.startseiten-design .foto p {
+    position: absolute;
+    bottom: 0; right: 0;
+    margin: 0 3px 2px 0; 
+    text-align: right;
+    color: #fff;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+/* Spezialstyle auf der Startseite: */
+/* "Neuzugaenge" (wurde aufgeloest zugunsten eigener Seite)  */
+/* (d.h. die folgenden Styles werden nicht mehr gebraucht!) */
+div.aktuell {
+    /* "Aktuelle Bilder"-Bereich */
+    border: 1px solid #7090C0;
+    /*margin-top: 2em;*/
+    padding: 1.5em;
+    clear: both;
+    /**  fuer rechts floatende Aktuell-Box: */
+    /* float: right; width: 300px; margin: 10px 0 20px 20px;*/
+}
+
+/* gegen kaputte Rahmen bei IEs, danke an Jeena */
+* html div.aktuell { position: relative;  }
+/* geht doch nicht --> er sieht es ploetzlich relativ zu der "Ausgansbrowsergroesse"  */
+
+div.aktuell h2 {
+    margin: 1px;
+    padding: 0;
+    color: #224B88; /* gleiche Farbe wie die ganzen anderen Boxen */
+    font-size: 126%;
+}
+
+div.aktuell .stand {
+    font-size: 80%;
+    text-align: center;
+    margin-top: 1px;
+}
+
+div.aktuell p {
+    margin: 20px 4px;
+/*  clear: both;*/
+}
+
+
+/* Ursprüngliches völlig freies Spezialstyle der neuen Startseite,
+   letzendlich doch nicht mehr genutzt
+   weil nicht völlig unabhängig von der Schriftgröße.
+*/
+/*
+@media screen,projection { \* nicht drucken *\
+
+.startseite-freely {
+    position: relative;
+    height: 71em;
+    \*border: 1px solid red;*\
+}
+
+
+.startseite-freely .besonderes {
+    top: 0;
+    right: 35.3%; \* Damit Position von rechts fix ist, entspricht left: -1"em" *\
+    width: 60%;
+    max-width: 27em; \* Damit Zusammenhang mit .wo gegeben ist auf großem Monitor *\
+}
+
+.startseite-freely .wann {
+    right: -1%;
+    top: 6em;
+    width: 30%;
+}
+
+.startseite-freely .wo {
+    right: -1%;
+    top: 28.7em;
+    width: 77%;
+    height: 228px; \* Um bild zu fassen *\
+}
+
+.startseite-freely .wo h2, .startseite-freely .wo ul {
+    margin-right: 338px; \* Bild *\
+    padding-right: 1em;
+}
+
+.startseite-freely .wo .foto {
+    \* wird realtiv zu Vater .wo positioniert *\
+    right: 0;
+    top: 0;
+    background: none;
+    border: none;
+    z-index: 10;
+}
+
+.startseite-freely .wo .foto p {
+    position: absolute;
+    bottom: 2em;  \* kompensiert genau den .foto-padding *\
+    left: 2em;    \* und kommt (fast) direkt ins Foto *\
+    margin: 0 0 6px 0; \* ums nicht an die Bildkante zu packen *\
+    width: 329px; \* fast die bildbreite... *\
+    text-align: right; \* ...ergo nicht an den rechten Rand gepatscht *\
+    color: #fff;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+.startseite-freely .wen {
+    top: 41em;
+    left: -4.5%;
+    width: 53%;
+}
+
+.startseite-freely .erwartung {
+    top: 46em;
+    right: -21.15%;
+    width: 57%;
+    z-index: 1; \* um über .homepage zu stehen *\
+}
+
+.startseite-freely .homepage {
+    top: 59em;
+    right: -28.2%;
+    width: 57%;
+}
+*\
+
+} \* media -> printausschluss *\
+*/
+
+/* Ende aller Spezialstyles der Startseite */
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 IC-Technik, /de/rechnertechnik/ic-technik.shtm  |
+| In Benutzung seit:   v5.7 oder so (quick and dirty)                  |
+| Besonderheiten:      Floatendes Bild links und <ul> daneben, das     |
+|                      macht haessliche Effekte. Diese Quick & Dirt-   |
+|                      Lösung sollte eigentlich gar nicht mehr in      |
+|                      Benutzung sein, ist es aber trotzdem irgendwie  |
+|                      noch.                                           |
+| Zuletzt geändert:    v5.7 oder so.                                   |
+|                                                                      |
+\**********************************************************************/
+
+p.h-ul  { text-align: left; }
+ul.h-ul { margin: 0; margin-left: 380px; }
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 UNIVAC 9400-Gebiet:                             |
+|                         /de/rechnertechnik/univac9400.shtm           |
+|                         /de/geraete/univac9400/                      |
+| In Benutzung seit:   v5.5.2 wegen Designkorrektur, Spezialisierung   |
+|                      auf der Univac-Seite                            |
+|                      Teile später in v5.7 und v5.8 hinzugekommen     |
+| Besonderheiten:      Auf der Univac-Hauptseite:                      |
+|                      Links floatende Bildergalerie, einfache Listen- |
+|                      struktur gebraucht, zudem einmalig.             |
+|                      Außerdem: Panoramabildmenüverschiebung.         |
+| Zuletzt geändert:    v5.7.11                                         |
+|                                                                      |
+\**********************************************************************/
+
+ul.univac-thumbs, ul.univac-thumbs li {
+   list-style: none;
+   margin: 0; padding: 0;
+   float: left; /* beseitigt Bug mit class="box left/right" im Text. */
+}
+
+ul.univac-thumbs li {
+   float: left;
+   margin: 10px 50px 20px 0;
+   clear: left;
+}
+
+ul.univac-thumbs li img {
+   width: 238px; /* um unschönen textreinfließeffekt zu umgehen */
+}
+
+/* Univac-Seite seit 5.7.11: Menü unter Panoramabild
+   Quick&Dirty-Lösung, angelehnt an Navigationsleistenhintergrundrealisierungen */
+.univac #wrapper #menu {
+    margin-top: 520px; /* circa... */
+}
+
+/* Seit 08.08.2010: Per Javascript-Anpassung */
+body.greater1280 .univac #wrapper #menu { margin-top: 0; }
+
+/* Univac-Kosten-Seite seit v5.8.0: Ein absolut positioniertes Bild
+   (Illustration, soll an Seitennavigation klatschen) am Ende der
+   #content-Box, daher dieser künstliche Rand: */
+.univac-kosten #content {
+    min-height: inherit;
+    margin-bottom: 5px;
+    padding-bottom: 348px;
+}
+
+/* Rand links, damit Liste im Univac-Artikel ordentlich aussieht (Jan 2010) */
+.univac li {
+	margin-left: 270px;
+}
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Frühe Computer                                  |
+\**********************************************************************/
+
+.fruehe-computer #wrapper #menu {
+    margin-top: 670px; /* circa... */
+}
+
+/* Seit 08.08.2010: Per Javascript-Anpassung */
+body.greater1280 .fruehe-computer #wrapper #menu { margin-top: 0; }
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Fax- und Schreibtechnik, Startseite,            |
+|                      DEC-Geschichte                                  |
+|                         /de/kommunikationstechnik/faxtechnik.shtm    |
+|                         /de/index.shtml                              |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
+| In Benutzung seit:   Prinzipiell seit Ewigkeiten (v5.0?)             |
+|                      Startseite nutzt Stil mit seit v5.7             |
+| Besonderheiten:      Mehrspaltiger Inhalt (Originalzitat), nach      |
+|                      dem simplen Schema:                             |
+|                                                                      |
+|   <div class="cols">                                                 |
+|       <div class="leftcol">linke spalte</div>                        |
+|       <div class="rightcol">rechte spalte</div>                      |
+|   </div>                                                             |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
+
+#content .cols {
+    /* Mehrspaltiger Inhalt. */
+}
+
+#content .cols .leftcol, #content .cols .rightcol {
+    padding: 5px 7px;
+/*  border: 3px dashed red;*/
+}
+
+#content .cols .leftcol {
+    float: left; width: 47%;
+}
+
+#content .cols .rightcol {
+    float: right; width: 47%;
+}
+
+#content blockquote, .content blockquote {
+    /* bis jetzt nur genutzt in <faxtechnik> */
+    /* Und <blockquote> auf einer WANG-Extraseite, Bedienungsanleitung */
+    margin: 5px 0px;
+    padding: 0px;
+    color: #2F319D;
+    text-align: justify;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 DEC-Geschichte                                  |
+|                         /de/geraete/dec-geschichte.shtm              |
+|                         /en/devices/dec-history.shtm                 |
+| In Benutzung seit:   Wohl schon recht lange.     (v5.0?)             |
+| Besonderheiten:      Definitionslisten ohne Einschub und mit dick-   |
+|                      gedrucktem <dt>.                                |
+|                                                                      |
+| Zuletzt geändert:    zur v5.7 vielleicht                             |
+|                                                                      |
+\**********************************************************************/
+
+#content dt {
+    margin-top: 1.2em;
+    font-weight: bold;
+    display: block;
+}
+
+#content dd {
+    text-align: justify;
+    margin: 0; padding: 0;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Telefunken T40W-Extraseite, die Javascript-     |
+|                      Einblendeffekt bietet - Absolute Positionierung |
+|                      von Bildern uebereinander mit dynamischer       |
+|                      opacity.                                        |
+|                         /de/geraete/telefunken_t40w.shtm             |
+|                         /en/devices/telefunken_t40w.shtm             |
+| In Benutzung seit:   Maerz 2009                                      |
+| Besonderheiten:      Absolut spezifisch fuer die aktuellen           |
+|                      Gegebenheiten.                                  |
+|                                                                      |
+\**********************************************************************/
+
+.telefunkent40w #rel,
+.telefunkent40w #zu,
+.telefunkent40w #offen {
+    position: absolute;
+    width: 930px;
+    height: 569px;
+    top: 0; left: 0;
+}
+
+.telefunkent40w #beschriftung {
+    position: absolute;
+    top: -53px;
+    left: -36px;
+}
+
+.telefunkent40w #zu           { z-index: 3 }
+.telefunkent40w #beschriftung { z-index: 2; }
+.telefunkent40w #offen        { z-index: 1; }
+.telefunkent40w #rel          {
+     position: relative;
+     margin-bottom: 80px;
+     margin-top: 60px;
+}
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 "Was gibt es neues?"-Seite, komisches Listen-   |
+|                      Aussehen.                                       |
+|                         /de/news.shtm                                |
+|                         /en/news.shtm                                |
+| In Benutzung seit:   Juli 2009                                       |
+| Besonderheiten:      Nicht sonderlich originell, nur eben etwas      |
+|                      spezifisch.                                     |
+|                                                                      |
+\**********************************************************************/
+
+ul.news-feed li {
+    margin-bottom: 1.2em;
+}
+
+#content ul.news-feed h3 { /* Id zur Bedeutungssteigerung */
+   margin: 0; padding: 0; border: none;
+   font-family: inherit;
+   font-weight: normal;
+   font-size: 100%;
+   font-style: italic;
+}
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: TABLE LAYOUT FROM details.css                 |
++----------------------------------------------------------------------+
+| Hier ist das Tabellenlayout der ehemaligen details.css. Es wird      |
+| (basismäßig) mittlerweile auch auf anderen Seiten genutzt, unter     |
+| anderem die Univac9400-Kosten-Seite (seit v5.8).                     |
+|                                                                      |
+| Begrenzt auf #content, damit andere Seiten in dev.t29.de oder        |
+| ähnlichem verschont bleiben.                                         |
+|                                                                      |
+| Das CSS ist uralt (stammt wohl noch von v5.0 und vorher) und wurde   |
+| seit dem nie verändert (wie die Details-Seiten ;-) )                 |
+|                                                                      |
+\**********************************************************************/
+
+
+#content td, #content table, #content tr {
+    font: 12px Verdana;
+}
+
+#content table p {
+    text-align: justify;
+    line-height: 120%;
+}
+
+#content table p.center {
+    margin: 5px 0px;
+    text-align: center;
+}
+
+#content td b {
+    display: block;
+}
+
+#content td.b, #content td.b a {
+    font-weight: bold;
+}
+
+#content table {
+    background-color: #7090C0;
+}
+
+#content td {
+    padding: 2px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #F7FDFF;
+}
+
+#content th {
+    padding: 2px;
+    text-align: center;
+    background-color: #BED0E5;
+}
+
+#content .bemerkungen {
+    vertical-align: middle;
+    text-align: justify;
+}
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Lernprojekte-Uebersichtsseite                   |
+|                         /de/lernprojekte/index.shtml                 |
+| In Benutzung seit:   04.10.2009 (Einbindung der Seite in die         |
+|                      Homepage)
+| Besonderheiten:      Spezialisierung des allgemeinen Tabellen-       |
+|                      designs mit sehr grosser Schrift.               |
+|                                                                      |
+\**********************************************************************/
+
+
+.lernprojekte #content table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 1.5em;
+}
+
+.lernprojekte #content td,
+.lernprojekte #content th {
+	font-size: 130%;
+	border: 1px solid #888;
+	line-height: 150%;
+	padding: 11px;
+	text-align: left !important;
+}
+
+.lernprojekte #content th { width: 20%; }
+.lernprojekte #content td { color: #555; }
+
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Efzet-Bildergalerie                             |
+|                         /de/geraete/efzet.shtm                       |
+| In Benutzung seit:   30.07.2010                                      |
+| Besonderheiten:      Erste jQuery-Anwendung in der Homepage          |
+|                                                                      |
+\**********************************************************************/
+
+.efzet #content .gallery {
+	width: 830px;
+	margin: 0px auto;
+}
+
+.efzet #content .thumbnails a {
+	display: block;
+	float: right;
+	margin: 15px; padding: 0;
+	clear: right;
+	outline: none;
+}
+
+.efzet #content .thumbnails img {
+	width: 120px;
+	display: block; /* um keinen komischen weissen rand drunter zu kriegen */
+}
+
+.efzet #content .thumbnails a:hover {
+	border: 3px solid #7090C0;
+	margin: 12px;
+}
+
+.efzet #content .thumbnails a.active,
+.efzet #content .thumbnails a.active:hover {
+	border: 5px solid #7090C0;
+	margin: 10px;
+}
+
+.efzet #content .full {
+	text-align: center;
+	padding-top: 13px;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Wissenschaftliche Rechner                       |
+|                         /de/rechnertechnik/fruehe-computer.shtm      |
+| In Benutzung seit:   29.01.2011                                      |
+| Besonderheiten:      Sieht beschissen aus                            |
+|                                                                      |
+\**********************************************************************/
+
+#content .small,
+#content dl {
+	font-size: 80%;
+	line-height: 130%;
+}
+
+.fruehe-computer #content dt {
+	/* folgende Zeile nicht auskommentieren, wenn die Definitionsterme (dt)
+		nicht dick erscheinen sollen */
+	/* font-weight: normal; */
+}
+
+.fruehe-computer #content dd {
+	margin-left: 2em;
+}
+
+/**********************************************************************\
+| SPEZIAL STYLE                                                        |
++----------------------------------------------------------------------+
+| Für:                 Impressum                                       |
+| In Benutzung seit:   September 2010                                  |
+| Besonderheiten:      Frueher einfach address{font-style:italic;},    |
+|                      jetzt Formatierung mit vcard                    |
+|                                                                      |
+\**********************************************************************/
+
+.impressum #content .vcard {
+	font-style: italic;
+}
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: Copyright boxes for pictures                  |
++----------------------------------------------------------------------+
+| Diese CSS-Anweidungen formatieren dynamisch erzeugten HTML-Code      |
+| durch das neue copyright-boxes-system (licensing.js)                 |
+| Eingefuehrt August 2010.                                             |
+\**********************************************************************/
+
+#img-license-tag  {
+	display: none;
+	position: absolute;
+	/*background-color: rgba(0,0,0, 0.5);*//* Fuer CSS3 ist die Zeit noch nicht reif */
+	background-image: url(/shared/img/fresh.design/bg.copyright-box.png);
+	color: white;
+}
+
+#img-license-tag p {
+	margin: 0;
+	padding: 1em;
+	text-align: center;
+}
+
+#img-license-tag:hover {
+	display: block;
+	background-color: black;
+}
+
+#img-license-tag a:link, #img-license-tag a:visited {
+	color: #eee;
+}
+
+#img-license-tag a:hover, #img-license-tag a:active {
+	color: white;
+}
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: Heading anchors (Javascript driven)           |
++----------------------------------------------------------------------+
+| Eingefuehrt August 2010.                                             |
+\**********************************************************************/
+#content h2 a.anchor, #content h3 a.anchor {
+	text-decoration: none;
+	color: #ddd;
+	visibility: hidden;
+}
+
+#content h2:hover a.anchor, #content h3:hover a.anchor {
+	visibility: visible;
+}
+
+/**********************************************************************\
+| CENTRAL COMMON STYLES: BILDBOXEN ("Imageboxen")                      |
++----------------------------------------------------------------------+
+|
+** Bildboxen ("Imageboxen")
+** Das Bildboxen-Konzept wird auf ausnahmslos allen Inhalts- und Extraseiten
+** genutzt. Aufbau eines .right/.left/.center-Bildbeschreibungs-Gebildes:
+** <div class="[box] [links|rechts|center]"> (box für fakultativen Abstand oben/unten)
+**    <img ... />
+**    <[div|p] class="bildtext"> (Bildtextklasse nicht mehr zwingend nötig)
+**       <p>Viel Text...</p>
+**    </[div|p]>
+**    <div class="clear">&nbsp;</div> (Damit das Bild nicht weitergeht)
+** </div>
+** Dazu existieren Erweiterungen: img.nomargin-bottom bei weniger Text als Bild,
+** .center .bildtext-bildbreite, damit zentrale Texte genauso breit wie die
+** Bilder werden.
+|
+\**********************************************************************/
+
+#content .box, .content .box {
+    /* .box als allgemeine Klasse fuer abstandswuerdige */
+    /* Objekte (.center/.right/.left zum Beispiel) */
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+#content .left img, .content .left img {
+    /* Links ausgerichtetes Bild mit Abstand drumherum */
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
+#content .right img, .content .right img {
+    /* Rechts ausgerichtetes Bild mit Abstand drumherum */
+    float: right;
+    margin: 0 0 2em 2em;
+}
+
+#content .center img, .content .center img {
+    /* Mittig ausgerichtetes Bild mit Abstand drunter */
+    margin: 0 0 0.3em 0;
+}
+
+#content img.nomargin, .content img.nomargin {
+    /* Links/rechts/mittig ausgerichtetes Bild mit exiplit keinem Abstand */
+    margin: 0;
+}
+
+#content .left img.nomargin-bottom, #content .right img.nomargin-bottom,
+.content .left img.nomargin-bottom, #content .right img.nomargin-bottom {
+    /* Zur absoluten Perfektion: Kein Abstand unter dem Bild bei links/rechts-fliessendem
+       (nur machbar, wenn der Text nicht umbrechen wird, weil er einfach zu kurz ist).
+       Dadurch wird der viel zu grosse Abstand unter einer .box verhindert, den ein
+       .clear dann erzeugt. */
+    margin-bottom: 0;
+}
+
+#content .left .bildtext, .content .left .bildtext,
+#content .right .bildtext, .content .right .bildtext {
+    /* p.bildtext oder div.bildtext: Kein Abstand! */
+    text-align: justify;
+    /* Im Endeffekt ist .bildtext hier unnoetig! */
+}
+
+#content .center .bildtext, .content .center .bildtext {
+    /* p.bildtext oder div.bildtext im center = Abgrenzung links/rechts */
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#content .center .bildtext-bildbreite, .content .center .bildtext-bildbreite {
+    /* Text zentriert unter dem Bild in der Breite des Bildes */
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+    03. Januar 2010: Erweiterung des Konzeptes um automatische Bildbreiten (fuer .box.center),
+    Breiten der Bilder werden zur Laufzeit durch /shared/js/auto-bildbreite.js ausgelesen.
+*/
+
+#content .auto-bildbreite, #content .manuelle-bildbreite {
+	/* manuell etwa auf der Gamma 10 Seite, wo mehrere Bilder nebeneinandergepfuscht sind */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content .auto-bildbreite  p.bildtext, #content .manuelle-bildbreite  p.bildtext,
+#content .auto-bildbreite  div.bildtext , #content .manuelle-bildbreite div.bildtext {
+	/* Saemtliche Abstaende abschalten, weil Breite des gesamten <div class="box">-Elements
+       durch ein JavaScript geregelt wird */
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/*
+    03. Januar 2010: In Konstrukten wie
+	  <div class="box left">
+	     <img ... />
+		 <p class="bildtext">foo bar</p>
+		 <div class="clear">&nbsp;</div>
+	  </div>
+	kann ab sofort das clear-Element weggelassen werden zugunsten einer einfachen Klasse
+	  <div class="box left clear-after">
+	     <img .../>
+		 <p class="bildtext">foo bar</p>
+	  </div>
+	Realisiert wird das ueber einen kruden CSS-Hack. Muss noch getestet werden, ob der ueberall
+	laeuft.
+*/
+
+#content .clear-after {
+	display: inline-table;
+	/* CSS-Hack to hide from IE-mac \*/
+	height: 1%;
+	display: block;
+	/* IE mac is wayne, isn't it!? */
+}
+
+html>body #content .clear-after {
+	height: auto;
+}
+
+#content .clear-after:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+
+
+
+
+
+/*
+   Mehr oder weniger "halboffizielle" Rahmen um class="box [right|left|center]"-Bilder.
+   Verwendung als Zusatzklasse zu box.
+   
+   Feststellung 04.10.2009: Box-Modell zu speziell, um Rahmen hinzuzufuegen
+*/
+
+#content .bordered, .content .bordered {
+    border: 1px solid #094099;
+	padding: 2em;
+}
+
+#content .bordered img, .content .bordered img {
+}
+
+/* ehemaliger Spezialstyle auf der Startseite,
+   jetzt genutzt nur auf der Lehrerinfo-Seite fuer Bildunterschrift. */
+div.desc-right, div.desc-left {
+    /* rechts gefloatetes thumbnail mit Beschreibungstext */
+    float: right;
+    margin: 0pt 0pt 2em 2em;
+/*  width: 236px; */
+/*  border: 1px solid #7090C0;
+    background-color: #EBEBEB; */
+    border: 1px solid #094099;
+    padding: 1em;
+}
+
+div.desc-left {
+	float: left;
+	margin: 0pt 2em 2em 0pt;
+}
+
+div.desc-right img {
+}
+
+div.desc-right p, div.desc-left p {
+    /* Damit der Text nicht über die ganze Fensterbreite geht,
+       <p style="width: Bildbreite;"> nötig. */
+    margin: 1em 0 0 0; padding: 0;
+    font-size: 90%;
+    text-align: left;
+}
+
+div.desc-right.borderless, div.desc-left.borderless {
+	border: none; /* ja, ziemlich bescheuert sorum */
+}
+
+
+@media print {
+     /**************************************************************\
+    *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+    *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+    *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+    *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+    *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+    *                                                                *
+    *                        P R I N T    C S S                      *
+    *  ehemals in eigener print.css, jetzt aus perfomancegruenden    *
+    *              (ladezeit) in commons.css intigriert              *
+     \**************************************************************/
+
+    body {
+        margin: 1em; padding: 0;
+        color: #000;
+        font: 100% "Times New Roman",Times,serif;
+    }
+    
+    .hidden {
+        display: none;
+    }
+    
+    img {
+        border: none;
+        page-break-after: avoid; /* weil Bildtexte fast immer hinterm Bild stehen */
+    }
+    
+    h1 {
+        margin: 0; padding: 6px 0;
+        text-align: center;
+    
+        font: 180% Arial,Verdana,Helvetica,sans-serif;
+    }
+    
+    h1 a, h1 a span {
+        display: inline !important; /* falls screen/fresh versehentlich angewandtfalls screen/fresh versehentlich angewandt */
+        color: #AAA !important;
+        text-decoration: none !important;
+    }
+    
+    /*h1 span.old:after {
+        * jetzt durch #h1-subtitle auch im IE moeglich *
+        content: "Museum für Rechner-, Computer- und Kommunikationstechnik";
+    }*/
+    
+    #h1-subtitle {
+        display: block;
+        font-size: 108%;
+        border-bottom: 1px solid #AAA;
+        margin-bottom: 10px; margin-top: 0;
+        text-align: center;
+    }
+    
+    h2 {
+        font-size: 150%;
+        margin: 10px 0 10px 0;
+        padding: 0;
+        page-break-after: avoid;  /* auch wenn's nur Opera rafft ;) */
+    }
+    
+    #sidebar, #footer, #sidebar-footnote {
+        display: none;
+    }
+    
+    #copyright {
+        margin: 2em 0;
+        font-size: 80%;
+        text-align: center;
+    }
+    
+    /***** TEXT *****/
+    
+    p {
+        text-align: justify;
+        line-height: 110%;
+    }
+    
+    a:link, a:visited {
+        color: #000;
+        text-decoration: none;
+    }
+} /* end of @media print */
+
+/* EOF */

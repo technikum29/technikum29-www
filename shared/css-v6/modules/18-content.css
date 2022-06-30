@@ -1,0 +1,215 @@
+/**
+ * t29v6 Design content.css
+ * $Id$
+ * In dieser Datei:
+ *
+ *   #content = Inhaltsbereich
+ *              h2, h3, h4 Ueberschriften
+ *              Blockdesign, etc.
+ *
+ *   .messages = Logging, zentralisiert (siehe logging.php, template.php und log.js)
+ **/
+
+#content {
+	font-family: "Tahoma", "Trebuchet MS", Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 130%;
+	text-align: justify;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 160%;
+    line-height: 125%; /* wird sonst relativ zu falscher schriftgroesse vererbt */
+    margin: 0 0 0.7em 0;
+    padding: 0;
+}
+
+#content h2, #content h3, #content h4 {
+    /* Seit 04.01.2010: Neues Ueberschriftenlayout. Soll aber nur
+       auf Homepage genutzt werden, nicht etwa auf dev. oder so...! */
+    font-weight: normal;
+    font-family: "Tahoma", "Trebuchet MS", , Verdana, "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
+    font-size: 180%;
+    border-bottom: 3px double #aaa;
+    text-align: left; /* irgendwie meinen browser sonst `justify` */
+}
+
+/* Seit 18.02.2014: "Quirks", Heribert will Linien haben, die aussehen
+   wie Ueberschriften, um eine Art Rahmung zu erhalten. */
+#content hr.h3-like {
+	border: none;
+	border-bottom: 3px double #aaa;
+}
+
+#content h3 {
+    /* Und das gleiche auch fuer Unter-Ueberschriften */
+    font-size: 140%;
+	margin: 1em 0 0.3em;
+	padding-top: 1em; /* Padding damit Direktlink zu h3 nach oben Luft hat */
+}
+
+#content h4 {
+	font-weight: bold;
+	font-size: 100%;
+	border-bottom: 1px solid #aaa;
+	margin: 2.3em 0 1em;
+}
+
+#content h5 {
+	font-weight: bold;
+	font-size: 100%;
+	border: none;
+	margin: 0;
+}
+
+#content a:link, #content a:visited {
+	color: #205b6b;
+	text-decoration: underline;
+}
+
+#content a:hover, #content a:focus {
+	color: #882224;
+}
+
+/**
+ *  Logging
+ **/
+
+.messages.panel.empty {
+	/* Hide empty message boxes */
+	display: none;
+}
+
+.messages.panel {
+	margin-bottom: 20px;
+	/* Sometimes there is stuff with margin-top: -...; at the top.
+	   Make sure we overlay. (Example: Robotik, english translation) */
+	position: relative;
+	z-index: 100;
+}
+
+.messages.panel > li {
+	margin-bottom: 5px;
+	background-color: #FCF8E3;
+	border: 1px solid #FBEED5;
+	border-radius: 4px 4px 4px 4px;
+	margin-bottom: 20px;
+	padding: 8px 35px 8px 14px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.messages.panel p { margin: 2px 0; }
+.messages.panel button.close {
+	float: right;
+}
+
+.messages.panel .panel-hide { display: none; }
+
+.messages.panel h2, #content .messages.panel h2 {
+	font-size: 120%;
+	font-weight: bold;
+	font-family: inherit;
+	border: none;
+	border-bottom: 1px solid #aaa;
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.messages.footer {
+	/* sollte eigentlich gar nicht dargestellt werden, sondern von log.js
+	   in den .messages.panel-Bereich verschoben werden. */
+	opacity: .8;
+}
+
+/**
+ * CSS-basierte Icons und Pikotgramme, die auf der Website Verwendung finden
+ **/
+
+/**
+ * Date Icon, Mai 2013 vor allem fuer Startseite, Termine
+ * 
+ * Usage:
+ *   <p class="date"><em>2013</em> 15. Mai</p>
+ * 
+ * Nutze <p class="date rot"> fuer rotes Emblem.
+ *
+ **/
+
+p.date {
+	margin: 0; padding: 0;
+	background: url(/shared/img-v6/date.sprite.png);
+	background-repeat: no-repeat;
+	height: 45px;
+	text-align: center !important; /* Yes this is bad praxise, but it must be centered under all conditions. */
+	width: 32px;
+	padding-left: 5px; padding-right: 5px;
+	font: 11px/11px "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
+	color: #333333;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+p.date.rot {
+	background-position: 0 -49px;
+}
+
+p.date em {
+	/* Jahr/Text im gruenen bzw. roten Bereich oben */
+	color: white;
+	font-style: normal;
+	display: block;
+	line-height: 15px;
+	margin-bottom: 3px;
+}
+
+p.date.left {
+	float: left;
+	margin-right: 10px;
+}
+
+/*
+   Allgemeine Hinweisboxen, zB. fuer das /lib/simplepassword.php-Sytem
+   genutzt. Den pagestyles/termine.css abgeschaut. Von der HTML-Struktur
+   den bootstrap div.panel's abgeschaut.
+   -- Sven, 2017-01-17
+ */
+
+#content div.panel {
+	border: .5em solid #edf0f2;
+	margin: 2em 0;
+}
+
+#content div.panel div.panel-heading {
+	background-color: #edf0f2;
+}
+
+#content div.panel div.panel-heading {
+	padding: .2em 1em;
+}
+
+#content div.panel div.panel-body {
+	padding: 1em;
+}
+
+#content div.alert h4 {
+    font-weight: bold;
+    font-size: 113%;
+    font-family: inherit;
+    border: none;
+    color: #1A5160;    
+    margin-top: 0;
+}
+
+#content div.alert-success,
+#content div.alert-success h4 {
+	color: #3c763d;
+	background-color: #dff0d8;
+/*	border: #d6e9c6;*/
+}
+
+
+form.inline {
+    display: inline;
+}
+

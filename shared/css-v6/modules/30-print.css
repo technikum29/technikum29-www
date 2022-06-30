@@ -1,0 +1,105 @@
+@media print {
+     /**************************************************************\
+    *  TTTTT EEEE CCCC H  H N   N III K  K U  U M   M    222   999   *
+    *    T   E    C    H  H NN  N  I  K K  U  U MM MM   2   2 9   9  *
+    *    T   EEE  C    HHHH N N N  I  KK   U  U M M M      2  99999  *
+    *    T   E    C    H  H N  NN  I  K K  U  U M   M     2      9   *
+    *    T   EEEE CCCC H  H N   N III K  K UUUU M   M   22222   9    *
+    *                                                                *
+    *                        P R I N T    C S S                      *
+     \**************************************************************/
+     
+   /**
+    * Die print.css gibts schon seit v5. Erst 2013 wurde sie auf v6
+    * portiert. Im HTML5 01-boilerplate werden bereits viele Print-Styles
+    * gemacht, die hier ueberschrieben werden muessen.
+    * 
+    **/
+
+    body, #content {
+        color: #000;
+        font: 100% "Times New Roman",Times,serif;
+    }
+    
+    .hidden {
+        display: none;
+    }
+    
+    img {
+        border: none;
+        page-break-after: avoid; /* weil Bildtexte fast immer hinterm Bild stehen */
+    }
+    
+    h1, h1 a {
+        margin: 0; padding: 6px 0;
+	width: 100%;
+        text-align: center;
+    
+        font: 180% Arial,Verdana,Helvetica,sans-serif;
+    }
+    
+    h1 a {
+        text-indent: 0;
+        color: #AAA !important;
+        text-decoration: none !important;
+    }
+    
+    h1 a:after {
+        content: "Museum für Rechner-, Computer- und Kommunikationstechnik" !important;
+	display: block;
+	
+	font-size: 40%;
+        border-bottom: 1px solid #AAA;
+        margin-bottom: 10px; margin-top: 0;
+        text-align: center;
+    }
+    
+    h2 {
+        font-size: 150%;
+        margin: 10px 0 10px 0;
+        padding: 0;
+    }
+    
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    header.teaser h2 {
+        background-color: white !important;
+    }
+    
+    header.banner, section.sidebar, footer.in-sheet {
+        display: none;
+    }
+    
+    #background-color-container, #content, section.sidebar {
+       float: none; left: auto;
+    }
+    
+    #content {
+	padding: 0;
+    }
+    
+    #copyright {
+        margin: 1em 0;
+        font-size: 80%;
+        text-align: center;
+    }
+    
+    
+    #content .box {
+       page-break-inside: avoid;
+    }
+    
+    /***** TEXT *****/
+    
+    p {
+        text-align: justify;
+        line-height: 110%;
+    }
+    
+    a:link, a:visited {
+        color: #000;
+        text-decoration: none;
+    }
+} /* end of @media print */

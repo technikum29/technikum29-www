@@ -41,25 +41,30 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
 
     <div class="box right clear-after">
-        <img src="/shared/photos/dummy.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
-        <p class="bildtext"><b>XxX von Seidel und Naumann</b>,<br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-	et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-	ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-	At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <img src="/shared/photos/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
+        <p class="bildtext"><b>XxX von Seidel und Naumann</b>,<br> Die Firma Seidel & Naumann produzierte diese Version der XxX im Zeitraum von 1906
+		bis ca 1927, genau datieren lässt sich unsere Maschine nicht. Sie ist eine Staffelwalzen-maschine mit manueller Bedienung, man kann
+		auf ihr die 4 Grundrechenarten durchführen. Das Ergebniswerk umfasst 13 Stellen. Unsere XxX ist voll funktionsfähig.</p>
+		
+		<p> Diese sehr frühe mechanische Rechen-maschine verdankt das technikum29 2021 einer Schenkung von Sigrun Schuster (Kronberg). </p>
+	    <p> Einige Tastenkappen gingen im Lauf der Zeit verloren, mittels 3D-Druck erhielten wir Ersatz durch Florian Ehmann (Darmstadt). </p>
     </div>
     
     <div class="box left clear-after">
         <img src="/shared/photos/rechnertechnik/madas1.jpg" width="600" height="373" alt="Madas Rechenmaschiene" />
         <p class="bildtext"><b>MADAS VII e TA "Tomis"</b>,<br> ein elektromechanischer Rechenautomat aus dem Jahre 1927 von der Rechenmaschinenfabrik "Egli AG" aus Z&uuml;rich. <br>
 		Für die Multiplikation und Division benötigt sie schon etwas Zeit, daher haben die Konstrukteure ein Glöckchen eingebaut (oben links im Bild), welches nach der Vollendung der Rechnung läutet!</p>
+	    <p><a href="https://technikum29.de/blog/2021-05-19-MADAS.php">Hier </a>kann man unserer MADAS beim Rechnen zuschauen !</p>
     </div>
 
     <div class="box right clear-after">
-        <img src="/shared/photos/dummy.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
-        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-	et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-	ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-	At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <img src="/shared/photos/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
+        <p class="bildtext"><b>Mercedes Addelektra SR22 von 1938</b>,<br> 2022 erhielten wir diesen elektro-mechanischen Buchungsautomaten "Addelek-tra SR22" der Firma Mercedes
+	     (Mella-Zehlis, Thüringen, D). Im Prinzip eine elektrische Schreibmaschine mit 60 cm breitem Wagen. Zum Buchungsautomaten machen sie die kleinen Zählwerke, 
+	    mit deren Hilfe Spalten- und Zeilensummen über Zahleneingaben gebildet werden können - eine wahre Hilfe für die Buchhaltung. Wenn man möchte ein mechanischer 
+	    Vorläufer der heutigen Tabellenkalkulationsprogramme !</p>
+	    <p>Der Typ SR22 wurde 1938 erstmals vorge-stellt. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Sie wird
+		    zur Zeit restauriert und ist hoffentlich bald einsatzbereit.</p>
     </div>
 
     <div class="box left clear-after">

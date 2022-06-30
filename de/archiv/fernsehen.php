@@ -1,11 +1,11 @@
 <?php
-	$seiten_id = 'fernsehen';
+	$seiten_id = 'archiv_fernsehen';
 	$version = '$Id$';
 	$titel = 'Fernsehen';
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Fernsehen</h2>
+    <h2>Archiv - Fernsehen</h2>
 
     <div class="box left clear-after">
         <img src="/shared/photos/kommunikationstechnik/ausschnitt-fernsehraum.jpg" alt="Foto aus dem Museum: Ausschnitt aus dem Fernsehraum" height="297" width="396" class="nomargin-bottom" />

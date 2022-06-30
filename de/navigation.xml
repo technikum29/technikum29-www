@@ -114,6 +114,7 @@
 					<li><a href="/de/rechnertechnik/kommerzielle.php#ta1000">TA1000</a></li>
 					<li><a href="/de/rechnertechnik/kommerzielle.php#ibm5320_32">IBM 5320 /32</a></li>
 					<li><a href="/de/rechnertechnik/kommerzielle.php#siemens6610">Siemens System 6610</a></li>
+					<li><a href="/de/rechnertechnik/kommerzielle.php#cpt8800">CPT 8800</a></li>
 				</ul>
 				<ul class="u3 geraete">
 					<li><a seiten_id="ncr" href="/de/geraete/details-ncr446.php">Reparatur der NCR 446</a></li>
@@ -122,6 +123,7 @@
 					<li><a seiten_id="ta1000" href="/de/geraete/ta1000.php">TA1000</a></li>
 					<li><a seiten_id="ibm5320_32" href="/de/geraete/ibm5320_32.php">IBM 5320 /32</a></li>
 					<li><a seiten_id="siemens6610" href="/de/geraete/siemens6610.php">Siemens System 6610</a></li>
+					<li><a seiten_id="cpt8800" href="/de/geraete/cpt8800.php">CPT 8800</a></li>
 				</ul>
 			</li>
 			<li><a seiten_id="wissenschaftliche-rechner" href="/de/rechnertechnik/wissenschaftliche-rechner.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
@@ -213,8 +215,9 @@
 			</li>
 		</ul>
 	</li>
-	<li><a href="/de/kommunikationstechnik/rundfunk.php">Kommunikations-technik</a>
+	<li><a href="/de/kommunikationstechnik/telegraphie.php">Kommunikations-technik</a>
 		<ul class="u2">
+			<!--
 			<li><a seiten_id="rundfunk" href="/de/kommunikationstechnik/rundfunk.php">Rundfunk</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="telefunken650" href="/de/geraete/telefunken_650.php">Telefunken 650</a></li>
@@ -232,12 +235,23 @@
 					<li><a seiten_id="saba-telerama" href="/de/geraete/saba-telerama.php">Saba Telerama: Schmitt-Optik</a></li>
 				</ul>
 			</li>
+			-->
+			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegraphie</a></li>
+			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreiber</a></li>
+			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile</a></li>
+			<!--
+				<ul class="u3 geraete">
+					<li><a seiten_id="saba-telerama" href="/de/geraete/saba-telerama.php">Saba Telerama: Schmitt-Optik</a></li>
+				</ul>
+			</li>
 			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Telegraphie und Faksimile</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="hellfax" href="/de/geraete/hellfax-funktionsschema.php">Funktionsschema des Hell-Fax</a></li>
 					<li><a seiten_id="morse-telegraph" href="/de/geraete/morsetelegraf.php">TELEGRAPH von S.-A. HASLER, Bern</a></li>
+					<li><a seiten_id="fernschreiber" href="/de/geraete/fernschreiber.php">Fernschreiber</a></li>
 				</ul>
 			</li>
+			-->
 		</ul>
 	</li>
 	<li><a href="/de/kommunikationstechnik/messtechnik.php">Weitere Themen</a>
@@ -278,11 +292,12 @@
 		</ul>
 	</li>
 
-	<li><a href="/de/kommunikationstechnik/rundfunk.php">Archiv</a>
+	<li><a href="/de/archiv/rundfunk.php">Archiv</a>
 		<ul class="u2">
-			<li><a seiten_id="rundfunk2" href="/de/kommunikationstechnik/rundfunk.php">Rundfunk</a></li>
-			<li><a seiten_id="tontechnik2" href="/de/kommunikationstechnik/tontechnik.php">Tontechnik</a></li>
-			<li><a seiten_id="fernsehen2" href="/de/kommunikationstechnik/fernsehen.php">Fernsehen</a></li>
+			<li><a seiten_id="archiv_rundfunk" href="/de/archiv/rundfunk.php">Rundfunk</a></li>
+			<li><a seiten_id="archiv_tontechnik" href="/de/archiv/tontechnik.php">Tontechnik</a></li>
+			<li><a seiten_id="archiv_fernsehen" href="/de/archiv/fernsehen.php">Fernsehen</a></li>
+			<li><a seiten_id="archiv_computertechnik" href="/de/archiv/fernsehen.php">Computertechnik</a></li>
 		</ul>
 	</li>
 

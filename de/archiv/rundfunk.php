@@ -1,11 +1,11 @@
 <?php
-	$seiten_id = 'rundfunk';
+	$seiten_id = 'archiv_rundfunk';
 	$version = '$Id$';
 	$titel = 'Rundfunk';
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Rundfunk</h2>
+    <h2>Archiv - Rundfunk</h2>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/neuer-ausschnitt-rundfunkecke.jpg" alt="Foto aus dem Museum: Ein Teil der Rundfunkgeräte" width="594" height="418" />

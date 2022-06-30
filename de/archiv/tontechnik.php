@@ -1,11 +1,11 @@
 <?php
-	$seiten_id = 'tontechnik';
+	$seiten_id = 'archiv_tontechnik';
 	$version = '$Id$';
 	$titel = 'Tonaufnahme- und Wiedergabetechnik';
 	
 	require "../../lib/technikum29.php";
 ?>
-    <h2>Tonaufnahme- und Wiedergabetechnik</h2>
+    <h2>Archiv - Tonaufnahme- und Wiedergabetechnik</h2>
 
     <p>Zur heutigen CD war es ein weiter Weg mit vielen kuriosen und interessanten Varianten. (Trichter-) Grammophone, Wachsplattendiktiergeräte (1935), Tonbandgeräte in ihrer Entwicklungsgeschichte (u.a. AEG, 39 kg schwere Vollspur-Technik von 1938, Optaphon, das erste mit mechanisch gesteuertem Autoreverse (1952) bis zu Studiogeräten von 1960. Des Weiteren: Tondrahtgeräte, automatische Anrufbeantworter (1954), Schallbandgeräte (Tefifon) und vieles mehr.</p>
 	

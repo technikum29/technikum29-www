@@ -117,7 +117,7 @@
 	
 		<div class="box center auto-bildbreite">
 			<!--<a href="" title="Zur Detailaufnahme der CPT 8800">-->
-			<img src="/shared/photos/rechentechnik/CPT8800.jpg" alt="CPT 8800" width="640" height="387" /></a>
+			<img src="/shared/photos/rechnertechnik/CPT8800.jpg" alt="CPT 8800" width="640" height="387" /></a>
 			<p class="bildtext"><b>CPT 8800</b></p>
 		</div>
 		<p>Die Firma CPT Corp. in Minneapolis (MN, USA) wurde 1971 gegründet. Sie entwickelte Zubehör für IBM Selectrix Schreibmaschinen und brachte

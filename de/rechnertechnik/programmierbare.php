@@ -82,10 +82,10 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 
     <div class="box center">
    <a  href="/shared/photos/hp9100A.jpg" class="popup">
-      <img src="/shared/photos/hp9100A.jpg" width="363" title="HP 9100A">
+      <img src="/shared/photos/hp9100A.jpg" width="363" alt="HP 9100A">
    </a>
    <a  href="/shared/photos/rechnertechnik/hp-9100.jpg" class="popup">
-      <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="350" title="HP 9100B mit Drucker 9120">
+      <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="350" alt="HP 9100B mit Drucker 9120">
    </a>
 </div>
  <p><b>HP 9100A                              hp9100B mit Drucker hp9120</b></p>

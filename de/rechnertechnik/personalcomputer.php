@@ -92,7 +92,7 @@
 		Zur Technik nur so viel: zum Einsatz kam die CPU 6502 (1 MHz Takt), 2 kB ROM für den Monitor und 1 kB (!) RAM. 6 LED-7-Segmentanzeigen dienten der Ausgabe,
 		eine kleine Tastatur für die Eingabe der Hexadezimalzahlen 0 - F und einiger Steuerbefehle und Schnittstellen für einen Cassettenrecorder zur 
 		Datenspeicherung und optinal ein Anschluß für eine Fernschreibmaschine - mehr gab es nicht.<br>
-		Die Firma MOS wurde 1976 von Commodore übernommen. Damit wurde der KIM-1 zum Vorläufer des PET 2000.</p>
+		Die Firma MOS wurde 1976 von Commodore übernommen. Damit wurde der KIM-1 zum Vorläufer des PET 2001 (s.u.).</p>
 
 	<h3 id="aim65"><b>AIM-65</b></h3><br>
 

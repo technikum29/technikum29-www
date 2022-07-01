@@ -87,7 +87,8 @@
 	<h3 id="aim65"><b>AIM 65</b></h3><br>
 
 	<div class="box center"> 
-	<img src="/shared/photos/dummy.jpg" width="500"  height="275"/>
+		<img src="/shared/photos/rechnertechnik/AIM65.jpg" width="427"  height="364"/>
+		<img src="/shared/photos/rechnertechnik/AIM65_Board.jpg" width="427"  height="364"/>
 	</div>
 
 	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam

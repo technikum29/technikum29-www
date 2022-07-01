@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'wang_pcsii';
+	$seiten_id = 'wang-pcsii';
 	$version = '$Id';
 	$titel = 'Wang PCS II';
 	

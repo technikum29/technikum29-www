@@ -171,7 +171,7 @@
 					<li><a href="/de/rechnertechnik/personalcomputer.php#ibm5100">IBM 5100</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200" title="WANG 2200, mit umfangreicher Peripherie">WANG 2200B</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#wang2200s">WANG 2200S</a></li>
-					<li><a href="/de/rechnertechnik/personalcomputer.php#wang_pcsii">WANG PCS II</a></li>
+					<li><a href="/de/rechnertechnik/personalcomputer.php#wang-pcsii">WANG PCS II</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#aim65">AIM 65</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#kim1">KIM 1</a></li>
 					<li><a href="/de/rechnertechnik/personalcomputer.php#cbm">CBM</a></li>
@@ -180,7 +180,7 @@
 				<ul class="u3 geraete">
 					<li><a seiten_id="ibm5100" href="/de/geraete/ibm5100.php">IBM 5100</a></li>
 					<li><a seiten_id="wang2200" href="/de/geraete/wang2200.php">Wang 2200</a></li>
-					<li><a seiten_id="wang_pcsii" href="/de/geraete/wang_pcsii.php">Wang PCS II</a></li>
+					<li><a seiten_id="wang-pcsii" href="/de/geraete/wang-pcsii.php">Wang PCS II</a></li>
 					<li><a seiten_id="aim65" href="/de/geraete/aim65.php">AIM 65</a></li>
 					<li><a seiten_id="kim1" href="/de/geraete/kim1.php">KIM 1</a></li>
 					<li><a seiten_id="cbm" href="/de/geraete/cbm.php">CBM</a></li>

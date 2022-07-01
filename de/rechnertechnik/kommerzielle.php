@@ -81,7 +81,7 @@
 	
 		<div class="box center auto-bildbreite">
 			<a href="" title="Zur Detailaufnahme der TA1000-Anlage">
-			<img src="/shared/photos/dummy.jpg" alt="TA1000" width="670" height="270" /></a>
+			<img src="/shared/photos/rechnertechnik/TA1000.jpg" alt="TA1000" width="640" height="480" /></a>
 			<p class="bildtext"><b>TA1000</b> ...</p>
 		</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
@@ -91,11 +91,10 @@
 
 	<h3 id="ibm5320_32">IBM 5320 /32</h3>
 	
-		<div class="box center auto-bildbreite">
-			<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">
-			<img src="/shared/photos/IBM5320.jpg" alt="IBM 5320 /32" width="640" height="480" /></a>
-			<p class="bildtext"><b>IBM 5320 /32</b> </p>
-		</div>
+	<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/IBM5320.jpg" width="427"  height="320"/>
+		<img src="/shared/photos/rechnertechnik/IBM5320_Display.jpg" width="427"  height="320"/>
+	</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
 		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
 		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -105,7 +104,7 @@
 	
 		<div class="box center auto-bildbreite">
 			<!--<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">-->
-			<img src="/shared/photos/dummy.jpg" alt="Siemens System 6610" width="670" height="270" /></a>
+			<img src="/shared/photos/rechnertechnik/Siemens6610.jpg" alt="Siemens System 6610" width="640" height="517" /></a>
 			<p class="bildtext"><b>Siemens System 6610</b></p>
 		</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore

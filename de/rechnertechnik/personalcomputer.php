@@ -125,6 +125,8 @@
 	 ROM: 18 KByte<br>
 	<br>
 	<br>
+	<br>
+	<br>
 	
 	 
 	<h3 id="q1"><b>Q1 Lite</b></h3><br>

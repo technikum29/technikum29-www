@@ -89,7 +89,7 @@
 			Die TA1000 wurde ab 1973 produziert, zu unserer Maschine haben wir leider keine weiteren Unterlagen. In dem Beistellschrank links befindet sich die gesamte Elektronik und 2 8"-Floppylaufwerke.
 			Die CPU, eine Entwicklung von Otto Müller (Fa. CTM), basiert auf ca 100 TTL-Bausteinen. Darüber ein Monochrommonitor (22 Zeilen zu 48 Zeichen). Zentral in der Mitte
 			die Bedientastatur und die Druckeinheit für die Magnetkontokarten und die Protokollausdrucke.<br>
-			Seit dem Eintreffen im technikum29 konnten wir uns um den Erhaltungszustand der Maschine nicht kümmern, wir werden über dieInbetriebnahme zu gegebener Zeit berichten !</p>
+			Seit dem Eintreffen im technikum29 im Juni 2022 konnten wir uns um den Erhaltungszustand der Maschine noch nicht kümmern, wir werden über die Inbetriebnahme zu gegebener Zeit berichten !</p>
 
 	<h3 id="ibm5320_32">IBM 5320 /32</h3>
 	

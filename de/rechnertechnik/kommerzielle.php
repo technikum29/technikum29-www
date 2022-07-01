@@ -108,10 +108,12 @@
 			<img src="/shared/photos/rechnertechnik/Siemens6610.jpg" alt="Siemens System 6610" width="640" height="517" /></a>
 			<p class="bildtext"><b>Siemens System 6610</b></p>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Gemeinsam mit Tandberg stellte Siemens 1979 diesen Bürorechner vor: Er basiert auf einer CPU 8080A mit 2 MHz takz, hat 56 kB RAM und 7 kB ROM 
+			für ein Monitorprogramm. Ein Monochrombildschirm mit 24 Zeilen uzu je 80 Zeichen und eine 8"-Floppystation sind in das Gehäuse
+			integriert. Als Betriebssystem wird AMBOSS (BS1S Rev 4.09/D) von Floppy geladen.<b>
+			Zu unserem Rechner haben wir umfangreiche Softaware und Handbücher, u.a. COBOL, BASIC, Assembler und Programme für die Finanzbuchghaltung, das 
+			Personalwesen und zur Datenkommunikation mit Großrechnern. Ein besobderer Glücksfall ist auch , dass wir einen Servicekoffer für den Außendienstservice
+			zu dem Gerät haben, er enthält alle Steckkarten und Baugruppen nochmal als Ersatzteile !</p>
 
 	<h3 id="cpt8800">CPT 8800</h3>
 	

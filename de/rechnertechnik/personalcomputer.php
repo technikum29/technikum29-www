@@ -76,7 +76,7 @@
 	<h3 id="kim1"><b>KIM 1</b></h3><br>
 
 	<div class="box center"> 
-	<img src="/shared/photos/dummy.jpg" width="500" height="275"/>
+	<img src="/shared/photos/rechnertechnik/KIM.jpg" width="321" height="427"/>
 	</div>
 
 	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam

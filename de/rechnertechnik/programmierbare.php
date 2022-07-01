@@ -80,7 +80,7 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
     
 <h3>Hewlett Packard HP 9100</h3>
 
-    <div class="box center">
+  <div class="box center">
    <a  href="/shared/photos/hp9100A.jpg" class="popup">
       <img src="/shared/photos/hp9100A.jpg" width="363" alt="HP 9100A">
 	
@@ -88,8 +88,9 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
    <a  href="/shared/photos/rechnertechnik/hp-9100.jpg" class="popup">
       <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="350" alt="HP 9100B mit Drucker 9120">
    </a>
-</div>
+  </div>
 
+<p class="center"><b>HP 9100A und HP 9100B mit Drucker HP 9120</b></p>
 
 
 	<p>1968 brachte der erste Tischrechner von HP die Wissenschaftler zum staunen. Er ist ohne ICs aufgebaut und beherrscht alle wesentlichen 

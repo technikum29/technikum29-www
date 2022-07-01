@@ -17,20 +17,32 @@
 		<img src="/shared/photos/IBM5100WT.jpg" width="400"  height="300"/>
 		<img src="/shared/photos/IBM5103.jpg" width="400"  height="300"/>
 		</div>
-
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-		et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-		nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-		takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		
+		<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
+			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter 
+			Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.<br>
+		1975 stellte die Firma IBM den "ersten tragbaren Computer" vor: das Modell 5100. Der Begriff "tragbar" war relativ, das Gerät 
+			wog 28 kg, war aber dennoch revolutionär für seine Zeit. In einem kompakten Gehäuse war die CPU, eine Tastatur, ein kleiner 
+			Bildschirm zur Anzeige von 16 Zeilen a 64 Zeichen (monochrom)sowie ein Bandlaufwerk mit 204 kB Kapazität untergebracht. Zur 
+			Ausgabe konnte ein Nadeldrucker Mod. 5103 angeschlossen werden.<br>
+		Der verwendete Prozessor "PALM" war eine 16 Bit Mehrchip-CPU (1.9 MHz Takt). Er emuliert per Mikrocode eine IBM 1130 bzw. eine/360 
+			CPU, um darauf entweder die Programmiersprache APL oder BASIC laufen zu lassen.</p>
 
 	<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
 
-		<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
-			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.<br>
-			Einer der allerersten PCs ist der WANG 2200 A/B aus dem Jahre 1973. WANG hat sehr früh erkannt, dass nur ein mehrzeiliger Monitor zukunftsweisend ist. Zu dieser Zeit arbeiteten die HP-Rechner noch mit einem einzeiligen LED-Display. Hier gibt es einen schönen <a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> Vergleich zwischen HP 9830 WANG 2200 (PDF)</a> als Verkaufsargumente für HP-Händler aus dem Jahre 1974, 15 Seiten in engl. Sprache. WANG und HP waren <u>die</u> Konkurrenten der 70er Jahre im Bereich der wissenschaftlichen Tischrechner und der ersten PCs.  <br> 
-			Für das System 2200 und dessen Nachfolger gab es eine Unzahl von Peripheriegeräte und Programmbeispielen, welche jeweils den Bedürfnissen der kommerziellen und vor allem der wissenschaftlichen Anwendung gerecht wurden. Eine Maschinensprache bzw. einen Assembler gab es nicht. Der Rechner arbeitet unmittelbar in der einfach erlernbaren Programmiersprache <b>BASIC</b>.<br>
+		<p>Einer der allerersten PCs ist der WANG 2200 A/B aus dem Jahre 1973. WANG hat sehr früh erkannt, dass nur ein mehrzeiliger Monitor 
+			zukunftsweisend ist. Zu dieser Zeit arbeiteten die HP-Rechner noch mit einem einzeiligen LED-Display. Hier gibt es einen 
+			schönen <a href="http://www.wang2200.org/docs/internal/HP_Competitive_Analysis_9830_vs_Wang_2200B_Mar_1974.pdf" target="_blank"> 
+			Vergleich zwischen HP 9830 WANG 2200 (PDF)</a> als Verkaufsargumente für HP-Händler aus dem Jahre 1974, 15 Seiten in engl. Sprache. 
+			WANG und HP waren <u>die</u> Konkurrenten der 70er Jahre im Bereich der wissenschaftlichen Tischrechner und der ersten PCs.  <br> 
+			Für das System 2200 und dessen Nachfolger gab es eine Unzahl von Peripheriegeräte und Programmbeispielen, welche jeweils den 
+			Bedürfnissen der kommerziellen und vor allem der wissenschaftlichen Anwendung gerecht wurden. Eine Maschinensprache bzw. einen 
+			Assembler gab es nicht. Der Rechner arbeitet unmittelbar in der einfach erlernbaren Programmiersprache <b>BASIC</b>.<br>
 			
-			Einmalig in Deutschland ist diese funktionsfähige Computer-Anlage mit so vielen peripheren Geräten: Lochstreifenleser (2203), Stapelkartenleser (2234), Markierungskartenleser (2214), 8-Zoll dreifach Diskettenlaufwerk (2270-3) und einem Plattensystem (2230-1) mit 38cm großen Scheiben. Das Gewicht des Plattensystems (eine Festplatte und eine Wechselplatte) beträgt ca. 100kg und der Preis damals stolze 24.000,- DM. Damit konnte man immerhin bereits komfortable 5 MB Daten/Programme speichern.</p>
+			Einmalig in Deutschland ist diese funktionsfähige Computer-Anlage mit so vielen peripheren Geräten: Lochstreifenleser (2203), 
+			Stapelkartenleser (2234), Markierungskartenleser (2214), 8-Zoll dreifach Diskettenlaufwerk (2270-3) und einem Plattensystem 
+			(2230-1) mit 38cm großen Scheiben. Das Gewicht des Plattensystems (eine Festplatte und eine Wechselplatte) beträgt ca. 100kg 
+			und der Preis damals stolze 24.000,- DM. Damit konnte man immerhin bereits komfortable 5 MB Daten/Programme speichern.</p>
 	
 	<h3 id="wang2200s"><b>WANG 2200S</b></h3>
 	

@@ -82,10 +82,10 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 
     <div class="box center">
    <a  href="/shared/photos/hp9100A.jpg" class="popup">
-      <img src="/shared/photos/hp9100A.jpg" width="400">
+      <img src="/shared/photos/hp9100A.jpg" width="350">
    </a>
    <a  href="/shared/photos/rechnertechnik/hp-9100.jpg" class="popup">
-      <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="400">
+      <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="350">
    </a>
 </div>
 

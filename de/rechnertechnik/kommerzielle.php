@@ -84,10 +84,12 @@
 			<img src="/shared/photos/rechnertechnik/TA1000.jpg" alt="TA1000" width="640" height="480" /></a>
 			<p class="bildtext"><b>TA1000</b></p>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-		ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-		At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+		<p>Dieser Magnetkontenbuchungsautomat Triumph Adler TA1000 wurde bis 1989 in der Haushaltsabteilung der TU Darmstadt zur Verwaltung des gesamten jährlichen Haushaltsvolumen (250 Mio. DM) 
+			plus der Personalausgaben für 3.000 Hochschulangestellte genutzt. Die Anlage erreichte uns als Schenkung des Astronomisch Physikalischen Kabinetts (Kassel) in 2022.<br>
+			Die TA1000 wurde ab 1973 produziert, zu unserer Maschine haben wir leider keine weiteren Unterlagen. In dem Beistellschrank links befindet sich die gesamte Elektronik und 2 8"-Floppylaufwerke.
+			Die CPU, eine Entwicklung von Otto Müller (Fa. CTM), basiert auf ca 100 TTL-Bausteinen. Darüber ein Monochrommonitor (22 Zeilen zu 48 Zeichen). Zentral in der Mitte
+			die Bedientastatur und die Druckeinheit für die Magnetkontokarten und die Protokollausdrucke.<br>
+			Seit dem Eintreffen im technikum29 konnten wir uns um den Erhaltungszustand der Maschine nicht kümmern, wir werden über dieInbetriebnahme zu gegebener Zeit berichten !</p>
 
 	<h3 id="ibm5320_32">IBM 5320 /32</h3>
 	

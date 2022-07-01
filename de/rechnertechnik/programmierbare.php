@@ -83,7 +83,15 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="557" height="432" />
         <p>
-		    <b>HP 9100</b></p></div>
+		    <b>HP 9100</b></p>
+	 <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="557" height="432" />
+        <p>
+		    <b>HP 9100</b></p>
+
+
+    </div>
+
+
 			<p>1968 brachte der erste Tischrechner von HP die Wissenschaftler zum staunen. Er ist ohne ICs aufgebaut und beherrscht alle wesentlichen wissenschaftlichen Funktionen. Als interner Speicher dient ein Kernspeicher, bei dem auch nach dem Abschalten Programme und Daten nicht verloren gehen. Als externer Speicher werden Magnetkarten (kleiner als die von Olivetti) verwendet. Der aufgesetzte Drucker war optional. Als Anzeigemedium dient eine Oszilloskopröhre, mit welcher der Inhalt von 3 Registern abgebildet wird. Die Zeichengenerierung wird von einem gefädelten ROM übernommen. Mit diesem relativ kompakten Rechner hat HP Maßstäbe gesetzt. Billig war ein solcher Rechner nicht: Er kostete anfangs 23.000,- DM  (etwa 12.000 Euro) und war daher für Privatpersonen praktisch unerschwinglich. <br/>
             Der Hauptkonkurrent WANG konnte erst 2 Jahre später mit dem WANG 700 (s.u.) nachziehen.</p>
         </p>

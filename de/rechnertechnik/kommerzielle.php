@@ -82,7 +82,7 @@
 		<div class="box center auto-bildbreite">
 			<a href="" title="Zur Detailaufnahme der TA1000-Anlage">
 			<img src="/shared/photos/rechnertechnik/TA1000.jpg" alt="TA1000" width="640" height="480" /></a>
-			<p class="bildtext"><b>TA1000</b> ...</p>
+			<p class="bildtext"><b>TA1000</b></p>
 		</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
 		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
@@ -94,6 +94,7 @@
 	<div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/IBM5320.jpg" width="427"  height="320"/>
 		<img src="/shared/photos/rechnertechnik/IBM5320_Display.jpg" width="427"  height="320"/>
+		<p class="bildtext"><b>IBM 5320</b></p>
 	</div>
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
 		et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem

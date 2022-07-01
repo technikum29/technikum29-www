@@ -29,7 +29,7 @@
 			CPU, um darauf entweder die Programmiersprache APL oder BASIC laufen zu lassen. Dieser technische Kniff ersparte eine eigene
 			Softwareentwicklung für den Rechner. Je nach Ausbaustufe kostete die Maschine ca 9.000 - 20.000 USD.<br>
 			Wenn man will, ist die 5100 der (Ur)Großvater des ersten IBM-PC: auf die 5100 von 1975 folgten verbesserte Modelle 5110 und 5120, 
-			um dann mit dem Modell 5150 in 1981 den ersten IBM-PCvorzustellen</p>
+			um dann mit dem Modell 5150 in 1981 den ersten IBM-PC vorzustellen</p>
 			<p>Unser Exponat hat beide Sprachoptionen eingebaut und verfügt über 48 kB RAM. Die Maschine wurde 2020/21 von Helfern des
 			IBM-Museums (Sindelfingen) überholt und ist vorführbereit</p>
 

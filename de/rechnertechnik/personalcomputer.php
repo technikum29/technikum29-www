@@ -22,11 +22,14 @@
 			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter 
 			Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.</p>
 		<p>1975 stellte die Firma IBM den "ersten tragbaren Computer" vor: das Modell 5100. Der Begriff "tragbar" war relativ, das Gerät 
-			wog 28 kg, war aber dennoch revolutionär für seine Zeit. In einem kompakten Gehäuse war die CPU, eine Tastatur, ein kleiner 
-			Bildschirm zur Anzeige von 16 Zeilen a 64 Zeichen (monochrom)sowie ein Bandlaufwerk mit 204 kB Kapazität untergebracht. Zur 
-			Ausgabe konnte ein Nadeldrucker Mod. 5103 angeschlossen werden.<br>
-		Der verwendete Prozessor "PALM" war eine 16 Bit Mehrchip-CPU (1.9 MHz Takt). Er emuliert per Mikrocode eine IBM 1130 bzw. eine/360 
-			CPU, um darauf entweder die Programmiersprache APL oder BASIC laufen zu lassen.</p>
+			wog 28 kg, war aber dennoch revolutionär für seine Zeit. In einem kompakten Gehäuse war die CPU, 16 - 64 kB RAM, bis zu 64 kB 
+			ROM, eine Tastatur, ein kleiner Bildschirm zur Anzeige von 16 Zeilen a 64 Zeichen (monochrom) sowie ein Bandlaufwerk mit 204 kB 
+			Kapazität untergebracht. Zur Ausgabe konnte ein Nadeldrucker Mod. 5103 angeschlossen werden.<br>
+		Der verwendete Prozessor "PALM" war eine 16 Bit Mehrchip-CPU (1.9 MHz Takt). Er emuliert per Mikrocode eine IBM 1130 bzw. eine IBM/360 
+			CPU, um darauf entweder die Programmiersprache APL oder BASIC laufen zu lassen. Dieser technische Kniff ersparte eine eigene
+			Softwareentwicklung für den Rechner. Je nach Ausbaustufe kostete die Maschine ca 9.000 - 20.000 USD.<br>
+			Unser Exponat hat beide Sprachoptionen eingebaut und verfügt über 48 kB RAM. Die MAschine wurde 2020/21 von Helfern des
+			IBM-Museums (Sindelfingen) überholt und ist vorführbereit</p>
 
 	<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
 

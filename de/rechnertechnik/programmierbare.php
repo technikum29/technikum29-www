@@ -89,7 +89,6 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
       <img src="/shared/photos/rechnertechnik/hp-9100.jpg" width="350" alt="HP 9100B mit Drucker 9120">
    </a>
 </div>
-<p class="center"><b>HP 9100A                              hp9100B mit Drucker hp9120</b></p>
 
 
 

@@ -81,10 +81,10 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 <h3>Hewlett Packard HP 9100</h3>
 
     <div class="box center auto-bildbreite">
-        <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="557" height="432" />
+        <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="400" height="300" />
         <p>
 		    <b>HP 9100</b></p>
-	 <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="557" height="432" />
+	 <img src="/shared/photos/rechnertechnik/hp-9100.jpg" alt="HP-9100" width="400" height="300" />
         <p>
 		    <b>HP 9100</b></p>
 

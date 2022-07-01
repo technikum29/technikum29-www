@@ -122,14 +122,14 @@
 		</div>
 		<p>Die Firma CPT Corp. in Minneapolis (MN, USA) wurde 1971 gegründet. Sie entwickelte Zubehör für IBM Selectrix Schreibmaschinen und brachte
 			1976 mit der Serie 8000 mikroprozessorbasierte Textsysteme auf den Markt. Unsere CPT 8800 ist ein voluminöses Kompaktsystem mit
-			Tastatur und eingebauter 8" Doppelfloppystation. Für hochqualitative Ausdrucke wurde ein Typenraddrucker angeschlossen. Eine besonderheit
+			Tastatur und eingebauter 8" Doppelfloppystation. Für hochqualitative Ausdrucke wurde ein Typenraddrucker angeschlossen. Eine Besonderheit
 			stellt der eingebaute Bildschirm dar: die Bildröhre ist hochkant eingebaut, um eine Schreibmaschinenseite komplett darstellen zu können. 
-			Aus Ergonomiegründen stellte dieser Computer den Text schwar auf weiss mit hoher Bildfrequenz (67 Hz) dar, um ermüdungsfreies Arbeiten
+			Aus Ergonomiegründen stellt dieser Computer den Text schwarz auf weiss mit hoher Bildfrequenz (67 Hz) dar, um ermüdungsfreies Arbeiten
 			zu ermöglichen.<br>
 			Auf dem Rechner lief ausschließlich die Software CPT-Videotyper 8800. Alternativ konnte die Maschine auch ein CP/M-Betriebssystem
-			booten. Preislich lagen die Systeme bei 15.000 USD, ihre Anwendung war im professionellen bereich, weshalb wir diesen Computer hier in der
-			Kategorie der kommerziellen Rechner vorstellen.<br>
-			Unser Exemplar ist voll funktionsfähig. Die Textverarbeitungssoftware ist für die Zeit erstaunlich umfangreich, sie beherrscht Seriendruck, 
+			booten. Preislich lagen die Systeme bei 15.000 USD, ihre Anwendung war im professionellen Bereich, weshalb wir diesen Computer hier in der
+			Kategorie der kommerziellen Rechner vorstellen.</p>
+			<p>Unser Exemplar ist voll funktionsfähig. Die Textverarbeitungssoftware ist für die Zeit erstaunlich umfangreich, sie beherrscht Seriendruck, 
 			kann mit vorgegebenen Textbausteinen umgehen und erlaubt es, Rechnungen im Text vorzunehmen.
 			</p>
 

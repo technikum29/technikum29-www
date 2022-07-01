@@ -94,18 +94,20 @@
 		Datenspeicherung und optinal ein Anschluß für eine Fernschreibmaschine - mehr gab es nicht.<br>
 		Die Firma MOS wurde 1976 von Commodore übernommen. Damit wurde der KIM-1 zum Vorläufer des PET 2000.</p>
 
-	<h3 id="aim65"><b>AIM 65</b></h3><br>
+	<h3 id="aim65"><b>AIM-65</b></h3><br>
 
 	<div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/AIM65.jpg" width="427"  height="364"/>
 		<img src="/shared/photos/rechnertechnik/AIM65_Board.jpg" width="427"  height="364"/>
-		<p class="bildtext"><b>Rockwell AIM 65 im Gehäuse </b>, rechts die AIM65-Platine</p>
+		<p class="bildtext"><b>Rockwell AIM-65 im Gehäuse </b>, rechts die AIM-65-Platine</p>
 	</div>
 
-	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-	takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	<p>Die Firma Rockwell stellte 1978 eine verbesserte Version des Einplatinencomputers KIM-1 vor: den AIM-65. Verbesserungen gegenüber dem KIM-1 ware
+		eine 20stellige alphanumerische LED-Anzeige, die Anschlußmöglichkeit einer "richtigen" Tastatur, ein Thermodrucker und 5 Sockel für je 4 kB ROM
+		füer BASIC, einen Editor, einen Assembler u.a.<br>
+		Verschieden Firmen bauten den AIM-65 in eigene Gehäuse mit Netzteil ein, z.B. Siemens mit ihrem PC100.</p>
+		
+</p>
 
 	<h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK u.a.</b></h3><br>
 	 

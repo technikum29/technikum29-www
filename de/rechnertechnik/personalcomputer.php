@@ -121,9 +121,10 @@
 	 Hier ein paar technische Daten:<br>
 	 Prozessor: MOS 6502<br>
 	 Taktfrequenz: 1 MHz<br>
-	 RAM: 96 KByte, ROM: 18 KByte<br>
-	<p>  </p>
-	<p>  </p>
+	 RAM: 96 KByte, <br>
+	 ROM: 18 KByte<br>
+	<br>
+	<br>
 	
 	 
 	<h3 id="q1"><b>Q1</b></h3><br>

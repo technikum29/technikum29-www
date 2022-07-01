@@ -121,8 +121,8 @@
 			<p class="bildtext"><b>CPT 8800</b></p>
 		</div>
 		<p>Die Firma CPT Corp. in Minneapolis (MN, USA) wurde 1971 gegründet. Sie entwickelte Zubehör für IBM Selectrix Schreibmaschinen und brachte
-			1976 mit der Serie 8000 mikroprozessorbasierte Textsysteme auf den Markt. Unsere CPT 8800 ist ein voluminöses Kompaktsystem mit
-			Tastatur und eingebauter 8" Doppelfloppystation. Für hochqualitative Ausdrucke wurde ein Typenraddrucker angeschlossen. Eine Besonderheit
+			1976 mit der Serie 8000 mikroprozessorbasierte Textsysteme auf den Markt. Unsere CPT 8800 ist ein voluminöses Kompaktsystem, CPU 8080, 64 
+			kB RAM, eigener Videoprozessor, mit Tastatur und eingebauter 8" Doppelfloppystation. Für hochqualitative Ausdrucke wurde ein Typenraddrucker angeschlossen. Eine Besonderheit
 			stellt der eingebaute Bildschirm dar: die Bildröhre ist hochkant eingebaut, um eine Schreibmaschinenseite komplett darstellen zu können. 
 			Aus Ergonomiegründen stellt dieser Computer den Text schwarz auf weiss mit hoher Bildfrequenz (67 Hz) dar, um ermüdungsfreies Arbeiten
 			zu ermöglichen.<br>

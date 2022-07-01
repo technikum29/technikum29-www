@@ -105,14 +105,15 @@
 	<p>Die Firma Rockwell stellte 1978 eine verbesserte Version des Einplatinencomputers KIM-1 vor: den AIM-65. Verbesserungen gegenüber dem KIM-1 ware
 		eine 20-stellige alphanumerische LED-Anzeige, die Anschlußmöglichkeit einer "richtigen" Tastatur, ein Thermodrucker und 5 Sockel für je 4 kB ROM
 		für BASIC, einen Editor, einen Assembler u.a.<br>
-		Verschieden Firmen bauten den AIM-65 in eigene Gehäuse mit Netzteil ein, z.B. Siemens mit ihrem PC100.</p>
+		Verschieden Firmen bauten den AIM-65 in eigene Gehäuse mit Netzteil ein, z.B. Siemens mit ihrem PC100. Unser Exponat von Rockwell
+		kommt einem Personalcomputer schon recht nahe.</p>
 		
 </p>
 
 	<h3 id="cbm"><b>Commodore (CBM) PET 2001, 8096-SK u.a.</b></h3><br>
 	 
 	 <p>Auch wenn man über Commodore PCs viele Informationen im Netz findet, haben wir einige Geräte aus unserem Bestand der Vollständigkeit halber aufgenommen.<br>
-	 Es war im Jahre 1977 als die meisten Kids an Schulen schon von dem neuen Medium "Computer" hörten und recht gierig darauf warteten, hier endlich loslegen zu können. 
+	1977 stellte die Firma Commodore den PET 2001 vor: er war der erste für Privatleute erschwingliche Personalcomputer, kein Bausatz, sondern ein betriebsbereites Komplettgerät.
 	 <div class="box left"> 
 	<img src="/shared/photos/rechnertechnik/ur-pet.jpg" width="300"  height="266" />
 	</div>

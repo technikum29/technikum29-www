@@ -96,10 +96,9 @@
 		<img src="/shared/photos/rechnertechnik/IBM5320_Display.jpg" width="427"  height="320"/>
 		<p class="bildtext"><b>IBM 5320 </b>, rechts die Bildschirmanzeige</p>
 	</div>
-		<p>Von 1975 - 1984 produzierte IBM das Modell 5329 System /32. Es ist ein Einzelbenutzersystem für den kommerziellen Einsatz z.B.
-			für die Buchhaltung in kleinen Firmen. Zum Einsatz kommt ein IBM-eigene Mehrchip-Prozessor. Unser System hat 24 kB Halbleiterspeicher, eine 9 MB Festplatte 
-			und eine 8" Floppystation. Dem Bediener steht eine Schreibmaschinen-ähnliche Tastatur und ein Drucker für die Ein- und Ausgabe zur Verfügung. Betriebs-
-			systemsmeldungen können auch über einen kleinen Bildschirm mit 6 Zeilen zu je 40 Zeichen ausgegeben werden. Die Bildröhre ist senkrecht links neben dem Drucker
+		<p>Von 1975 - 1984 produzierte IBM das Modell 5320 System /32. Es ist ein Einzelbenutzersystem für den kommerziellen Einsatz z.B.
+			für die Buchhaltung in kleinen Firmen. Zum Einsatz kommt ein IBM-eigener Mehrchip-Prozessor. Unser System hat 24 kB Halbleiterspeicher, eine 9 MB Festplatte 
+			und eine 8" Floppystation. Dem Bediener stehen eine Schreibmaschinen-ähnliche Tastatur und ein Drucker für die Ein- und Ausgabe zur Verfügung. Betriebssystemsmeldungen können auch über einen kleinen Bildschirm mit 6 Zeilen zu je 40 Zeichen ausgegeben werden. Die Bildröhre ist senkrecht links neben dem Drucker
 			eingebaut, das Bild wird über eine Spiegeloptik betrachtet !<br>
 			Unser Exponat, eine Schenkung von Edwin Miller (Rammingen), ist betriebsbereit. Auf der Harddisk befindet sich das Betriebssystem u.a. mit einem Texteditor und
 			einer einfachen Datenbank mit Reportgenerator.</p>

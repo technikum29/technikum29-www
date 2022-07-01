@@ -123,15 +123,17 @@
 	 Taktfrequenz: 1 MHz<br>
 	 RAM: 96 KByte, ROM: 18 KByte<br>
 	
-	 Doch jetzt beginnt die Massenproduktion von PCs, weshalb wir auf die weitere Entwicklung hier nicht eingehen. Wir möchten unsere Besucher nur mit seltenen Raritäten der Computer-Frühzeit beglücken.</p>
 	 
 	<h3 id="q1"><b>Q1</b></h3><br>
 
 	<div class="box center"> 
-	<img src="/shared/photos/dummy.jpg" width="500" height="275"/>
+	<img src="/shared/photos/Q1.jpg" width="500" height="275"/>
 	</div>
 
-	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-	takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	<p>Die Firma Q1 Corp. (N.Y, USA) war ein Pionier im Bereich mikroprozessorbasierter Computersysteme. Bereits 1972 statteten sie kompakte
+		Business-Computer mit dem Intel 8008-Prozessor aus. Ab 1974 nutzten sie die Nachfolge-CPU 8080, später dann den Z80.<br>
+	</p>Unser Exponat ist eine Q1 Lite von 1979, eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Die technischen Details: z80 CPU, 48 kB RAM, 7 kB 
+		ROM, Tastatur, Plasmabildschirm mit 12 Zeilen zu 40 Zeichen, serielle und parallele Schnittstelle. Als Zubehör haben wir noch einen
+		Q1 Typenraddrucker.Leider ohne weitere Dokumentation und Software. Der Computer startet mit einer Begrüßungsmeldung und reagiert ansonsten 
+		nicht, wegen der Seltenheit der Maschine wird eine vollständige Instandsetzung schwierig werden, da auch im Web keinerlei Unterlagen
+		mehr verfügbar sind.</p>

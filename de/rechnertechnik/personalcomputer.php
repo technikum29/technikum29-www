@@ -83,7 +83,7 @@
 	<p>Mit dem Aufkommen der Mikroprozessoren in den 70er Jahren boten die Hersteller sogenannte Einplatinencomputer an, damit sich die industrielle
 		Kundschaft mit dem Prozessor vertraut machen konnte, bevor sie ihre Systeme damit entwickelten. Auf diesen Platinen befanden sich die 
 		CPU, ein minimaler RAM-Speicher, eine einfache Anzeige mit ebenso einfacher Eingabemöglichkeit, einfache Schnittstellen sowie ein Monitor-
-		Programm. Mit dessen Hilfe konnte das System recht rudimentär in Maschinensprache programmiert werden. >br>
+		Programm. Mit dessen Hilfe konnte das System recht rudimentär in Maschinensprache programmiert werden. <br>
 		Der Einplatinencomputer KIM-1 wurde von der Firma MOS Technology Inc. in Audubon (Pa, USA) auf dem Markt gebracht. Über die industrielle Anwendung
 		hinaus nutzten viele ELektronikbastler dieses System, um sich ihr eigenes Computersystem aufzubauen, 1976 gab es noch keine fertigen Personalcomputer 
 		auf dem Markt ! Ein Netzteil und Gehäuse musste man sich selber bauen, und es entstand recht schnell eine eigene Industrie für Erweiterungen.<br>

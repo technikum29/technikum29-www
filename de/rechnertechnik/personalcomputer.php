@@ -134,7 +134,8 @@
 	<h3 id="q1"><b>Q1 Lite</b></h3><br>
 
 	<div class="box center"> 
-	<img src="/shared/photos/rechnertechnik/Q1.jpg" width="394" height="427"/>
+		<img src="/shared/photos/rechnertechnik/Q1.jpg" width="394" height="427"/>
+		<p class="bildtext"><b>Q1 Lite </b></p>
 	</div>
 
 	<p>Die Firma Q1 Corp. (N.Y, USA) war ein Pionier im Bereich mikroprozessorbasierter Computersysteme für Büroanwendungen. Bereits 1972 statteten sie kompakte

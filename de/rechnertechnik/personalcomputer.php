@@ -80,10 +80,19 @@
 		<p class="bildtext"><b>KIM-1 </b></p>
 	</div>
 
-	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-	et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-	nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-	takimata sanctus est Lorem ipsum dolor sit amet.</p>
+	<p>Mit dem Aufkommen der Mikroprozessoren in den 70er Jahren boten die Hersteller sogenannte Einplatinencomputer an, damit sich die industrielle
+		Kundschaft mit dem Prozessor vertraut machen konnte, bevor sie ihre Systeme damit entwickelten. Auf diesen Platinen befanden sich die 
+		CPU, ein minimaler RAM-Speicher, eine einfache Anzeige mit ebenso einfacher Eingabemöglichkeit, einfache Schnittstellen sowie ein Monitor-
+		Programm. Mit dessen Hilfe konnte das System recht rudimentär in Maschinensprache programmiert werden. >br>
+		Der Einplatinencomputer KIM-1 wurde von der Firma MOS Technology Inc. in Audubon (Pa, USA) auf dem Markt gebracht. Über die industrielle Anwendung
+		hinaus nutzten viele ELektronikbastler dieses System, um sich ihr eigenes Computersystem aufzubauen, 1976 gab es noch keine fertigen Personalcomputer 
+		auf dem Markt ! Ein Netzteil und Gehäuse musste man sich selber bauen, und es entstand recht schnell eine eigene Industrie für Erweiterungen.<br>
+		Unser Exemplar wurde an einer Fachhochschule für Ausbildungszwecke genutzt. Es hat ein transparentes Selbstbaugehäuse und  Erweiterungen, um
+		die Schnittstellen z.B. für Versuche zu nutzen.<br>
+		Zur Technik nur so viel: zum Einsatz kam die CPU 6502, 2 kB ROM für den Monitor und 1 kB (!) RAM. 6 LED-7-Segmentanzeigen dienten der Ausgabe,
+		eine kleine Tastatur für die Eingabe der Hexadezimalzahlen 0 - F und einiger Steuerbefehle und Schnittstellen für einen Cassettenrecorder zur Daten-
+		speicherung und optinal ein Anschluß für eine Fernschreibmaschine - mehr gab es nicht.<br>
+		Die Firma MOS wurde 1976 von Commodore übernommen. Damit wurde der KIM-1 zum Vorläufer des PET 2000.</p>
 
 	<h3 id="aim65"><b>AIM 65</b></h3><br>
 

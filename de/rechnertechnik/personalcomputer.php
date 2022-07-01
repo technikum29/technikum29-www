@@ -14,7 +14,8 @@
 	<h3 id="ibm5100"><b>IBM 5100</b></h3><br>
 
 		<div class="box center"> 
-		<img src="/shared/photos/dummy.jpg" width="500"  height="275"/>
+		<img src="/shared/photos/IBM5100WT.jpg" width="400"  height="300"/>
+		<img src="/shared/photos/IBM5103.jpg" width="400"  height="300"/>
 		</div>
 
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam

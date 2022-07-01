@@ -73,10 +73,11 @@
 		
 		<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
 	
-	<h3 id="kim1"><b>KIM 1</b></h3><br>
+	<h3 id="kim1"><b>KIM-1</b></h3><br>
 
 	<div class="box center"> 
-	<img src="/shared/photos/rechnertechnik/KIM.jpg" width="428" height="640"/>
+		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="428" height="640"/>
+		<p class="bildtext"><b>KIM-1 </b></p>
 	</div>
 
 	<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam

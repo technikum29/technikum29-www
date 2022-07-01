@@ -127,13 +127,13 @@
 	<br>
 	
 	 
-	<h3 id="q1"><b>Q1</b></h3><br>
+	<h3 id="q1"><b>Q1 Lite</b></h3><br>
 
 	<div class="box center"> 
 	<img src="/shared/photos/Q1.jpg" width="500" height="275"/>
 	</div>
 
-	<p>Die Firma Q1 Corp. (N.Y, USA) war ein Pionier im Bereich mikroprozessorbasierter Computersysteme. Bereits 1972 statteten sie kompakte
+	<p>Die Firma Q1 Corp. (N.Y, USA) war ein Pionier im Bereich mikroprozessorbasierter Computersysteme für Büroanwendungen. Bereits 1972 statteten sie kompakte
 		Business-Computer mit dem Intel 8008-Prozessor aus. Ab 1974 nutzten sie die Nachfolge-CPU 8080, später dann den Z80.<br>
 	</p>Unser Exponat ist eine Q1 Lite von 1979, eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Die technischen Details: Z80 CPU, 48 kB RAM, 7 kB 
 		ROM, Tastatur, Plasmabildschirm mit 12 Zeilen zu 40 Zeichen, serielle und parallele Schnittstelle. Als Zubehör haben wir noch einen

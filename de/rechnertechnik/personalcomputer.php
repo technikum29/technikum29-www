@@ -122,6 +122,8 @@
 	 Prozessor: MOS 6502<br>
 	 Taktfrequenz: 1 MHz<br>
 	 RAM: 96 KByte, ROM: 18 KByte<br>
+	<p>  </p>
+	<p>  </p>
 	
 	 
 	<h3 id="q1"><b>Q1</b></h3><br>
@@ -132,8 +134,8 @@
 
 	<p>Die Firma Q1 Corp. (N.Y, USA) war ein Pionier im Bereich mikroprozessorbasierter Computersysteme. Bereits 1972 statteten sie kompakte
 		Business-Computer mit dem Intel 8008-Prozessor aus. Ab 1974 nutzten sie die Nachfolge-CPU 8080, später dann den Z80.<br>
-	</p>Unser Exponat ist eine Q1 Lite von 1979, eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Die technischen Details: z80 CPU, 48 kB RAM, 7 kB 
+	</p>Unser Exponat ist eine Q1 Lite von 1979, eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Die technischen Details: Z80 CPU, 48 kB RAM, 7 kB 
 		ROM, Tastatur, Plasmabildschirm mit 12 Zeilen zu 40 Zeichen, serielle und parallele Schnittstelle. Als Zubehör haben wir noch einen
-		Q1 Typenraddrucker.Leider ohne weitere Dokumentation und Software. Der Computer startet mit einer Begrüßungsmeldung und reagiert ansonsten 
-		nicht, wegen der Seltenheit der Maschine wird eine vollständige Instandsetzung schwierig werden, da auch im Web keinerlei Unterlagen
-		mehr verfügbar sind.</p>
+		Q1 Typenraddrucker. Leider kam das Exponat ohne weitere Dokumentation und Software. <br>
+		Der Computer startet mit einer Begrüßungsmeldung und reagiert ansonsten nicht, wegen der Seltenheit der Maschine wird eine vollständige 
+		Instandsetzung schwierig werden, da auch im Web keinerlei Unterlagen mehr verfügbar sind.</p>

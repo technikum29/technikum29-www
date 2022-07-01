@@ -103,8 +103,8 @@
 	</div>
 
 	<p>Die Firma Rockwell stellte 1978 eine verbesserte Version des Einplatinencomputers KIM-1 vor: den AIM-65. Verbesserungen gegenüber dem KIM-1 ware
-		eine 20stellige alphanumerische LED-Anzeige, die Anschlußmöglichkeit einer "richtigen" Tastatur, ein Thermodrucker und 5 Sockel für je 4 kB ROM
-		füer BASIC, einen Editor, einen Assembler u.a.<br>
+		eine 20-stellige alphanumerische LED-Anzeige, die Anschlußmöglichkeit einer "richtigen" Tastatur, ein Thermodrucker und 5 Sockel für je 4 kB ROM
+		für BASIC, einen Editor, einen Assembler u.a.<br>
 		Verschieden Firmen bauten den AIM-65 in eigene Gehäuse mit Netzteil ein, z.B. Siemens mit ihrem PC100.</p>
 		
 </p>

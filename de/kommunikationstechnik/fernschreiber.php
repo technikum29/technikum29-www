@@ -56,13 +56,16 @@
 	        <b>Siemens Fernschreiber ca. Bj. 1952</b> 
 		</div>
 	 </div>
-	<div>Im Gegensatz zur Firma Lorenz, die zunächst auf lizenzierte Nachbauten des Teletype Model 15 setzen, entwickelte Siemens eigene Springschreiber, darunter auch den 
+	<div><p>Im Gegensatz zur Firma Lorenz, die zunächst auf lizenzierte Nachbauten des Teletype Model 15 setzen, entwickelte Siemens eigene Springschreiber, darunter auch den 
     Blattschreiber T37, der ab ca. 1933 gebaut wurde.
-    Unser T37 im schicken Holzgehäuse ist Baujahr 1952 und war laut Kennungsgeber bis ca. 1986 bei der Staab Textilvertretung in Hösbach im Einsatz.</div>
+    Unser T37 im schicken Holzgehäuse ist Baujahr 1952 und war laut Kennungsgeber bis ca. 1986 bei einer Textilvertretung in Hösbach im Einsatz.</p>
+    <p>Auch dieser Fernschreiber besitzt ein FSG mit Lokalmodus und einen eingebauten Lochstreifenempänger bzw. -stanzer. Der Lochstreifensender ist separat im Standgehäuse auf der
+    rechten Seite unterhalb des FSGs untergebracht.</p>
+    </div>
     <br/>
 
     <!--
-    Nachdem die Firma Lo Dieser Siemensfernschreiber ebenfalls sehr gut erhaltene Fernschreiber  Gerät war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene
+    Dieser ebenfalls sehr gut erhaltene Fernschreiber war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene
     Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig.</p>
     <!-- Im Rahmen des <a href="/de/lehrerinfo.php#experimente">Experimental-Workshop</a> kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p> -->
 	 

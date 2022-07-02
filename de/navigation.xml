@@ -237,8 +237,8 @@
 			</li>
 			-->
 			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegraphie</a></li>
-			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreiber</a></li>
-			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile</a></li>
+			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreibtechnik</a></li>
+			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile und Hellschreiber</a></li>
 			<!--
 				<ul class="u3 geraete">
 					<li><a seiten_id="saba-telerama" href="/de/geraete/saba-telerama.php">Saba Telerama: Schmitt-Optik</a></li>

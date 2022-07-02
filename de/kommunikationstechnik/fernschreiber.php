@@ -88,7 +88,7 @@
     <h2 id="itelex">Das i-Telex</h2>
     
 	<div class="box center clear-after">
-	    <img src="/shared/photos/kommunikationstechnik/itelex.jpg" width="342" height="262" />
+	    <img src="/shared/photos/kommunikationstechnik/i-telex.jpg" width="342" height="262" />
 		<div class="bildtext"><b>Unsere i-Telex-Anlage</b><br/>Links die Netzwerkkarte zur Verbindung mit dem Internetrouter, in der Mitte zwei TW39-Steckkarten für 4 TW39-Schnittstellen
         und rechts daneben das Netzteilmodul, das die Elektronik versorgt und die benötigte Linienspannung von ca. 85 Volt liefert (einige Fernschaltgeräte benötigen diese hohe Spannung).
         Der Linienstrom bei bestehender Verbindung beträgt ca. 40 mA.</div>

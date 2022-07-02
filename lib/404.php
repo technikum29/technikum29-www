@@ -44,26 +44,36 @@ $redirects = array(
 	'/de/geraete/ibm_77' => '/de/rechnertechnik/lochkarten-edv#ibm77',
 	'/de/geraete/kernspeicher' => '/de/rechnertechnik/speichermedien#kernspeicher',
 	'/de/geraete/laufzeitspeicher' => '/de/rechnertechnik/speichermedien#laufzeitspeicher',
-	'/de/geraete/pdp_8I' => '/de/rechnertechnik/fruehe-computer#pdp8i',
+	'/de/geraete/pdp_8I' => '/de/rechnertechnik/wissenschaftliche-rechner#pdp8i',
 	'/de/geraete/univac9400' => '/de/rechnertechnik/univac9400',
 	'/de/geraete/univac9400/univac_9300' => '/de/rechnertechnik/univac9200',
 	'/en/devices/univac9400/univac_9300' => '/en/computer/univac9200',
 	'/de/geraete/bull-bs-pr' => '/de/rechnertechnik/tabelliermaschine',
+	'/de/kommunikationstechnik/fernsehen.php' => '/de/archiv/fernsehen.php',
+	'/de/kommunikationstechnik/rundfunk.php' => '/de/archiv/rundfunk.php',
+	'/de/kommunikationstechnik/tontechnik.php' => '/de/archiv/tontechnik.php',
+	'/de/rechnertechnik/fruehe-computer.php' => '/de/rechnertechnik/wissenschaftliche-rechner.php',
+	'/en/computer/early-computers.php' => '/en/computer/scientific-computers.php',
 
 	# Inserat 2020-09-03
 	'/lagersuche' => '/blog/2020-09-03-Lagersuche.php',
 );
 
 foreach($redirects as $source => $target) {
-	if(strcasecmp($source, $wanted_page) == 0) {
+	if(strcasecmp($wanted_page, $source) == 0) {
 		# we got a match
+        $newurl = ($_SERVER["HTTPS"] == "on" ? 'https' : 'http').'://'.$_SERVER["HTTP_HOST"].$target;
+        echo "<script type=\"text/javascript\"> window.location.href=\"$newurl\";</script>";
+        exit;
+        /* das kann eigentlich nie funktioniert haben *dg* 02.07.2022
 		header('HTTP/1.1 301 Moved Permanently');
 		header('Location: '
 			. ($_SERVER["HTTPS"] == "on" ? 'https' : 'http')
 			. '//'
 			. $_SERVER["HTTP_HOST"]
 			. $target);
-		exit;
+        exit;
+        */
 	}
 }
 

@@ -297,7 +297,7 @@
 			<li><a seiten_id="archiv_rundfunk" href="/de/archiv/rundfunk.php">Rundfunk</a></li>
 			<li><a seiten_id="archiv_tontechnik" href="/de/archiv/tontechnik.php">Tontechnik</a></li>
 			<li><a seiten_id="archiv_fernsehen" href="/de/archiv/fernsehen.php">Fernsehen</a></li>
-			<li><a seiten_id="archiv_computertechnik" href="/de/archiv/fernsehen.php">Computertechnik</a></li>
+			<li><a seiten_id="archiv_computertechnik" href="/de/archiv/computertechnik.php">Computertechnik</a></li>
 		</ul>
 	</li>
 

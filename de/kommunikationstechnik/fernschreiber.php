@@ -11,8 +11,7 @@
     <div class="box center clear-after">
         <a class="popup" href="/shared/photos/kommunikationstechnik/siemens-t32.jpg" title="Siemens">
         <img src="/shared/photos/kommunikationstechnik/siemens-t32.jpg" alt="Siemens T32" width="326" height="312" /></a>
-        <p class="bildtext"><b>Siemens Springschreiber T32</b><br/>(zum Vergrößern anklicken)</p>
-        <div class="clear">&nbsp;</div>
+        <div class="bildtext"><b>Siemens Springschreiber T32</b><br/>(zum Vergrößern anklicken)</div>
     </div>
 
 	<p>Der ratternde Fernschreiber bestimmte Jahrzehnte das Bild der schnellen Nachrichtenübermittlung. 1930 erstmals von Siemens & Halske vorgestellt, wurde der hier abgebildete T32 

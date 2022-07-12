@@ -53,7 +53,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 20. August</p>
+	<p class="date left"><em>2022</em> 20. Aug</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
@@ -72,7 +72,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 </div><!--/.termin -->
 		
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 6. August</p>
+	<p class="date left"><em>2022</em> 6. Aug</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt

@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>technikum29.de /shared/photos/kommunikationstechnik</title>
+    <meta name="t29.SVN" content="$Id$">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/header.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="Januar 2011" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+<h2>Photos zum BULL-BS-PR</h2>
+
+<p>Fotos für die <a href="/de/rechnertechnik/tabelliermaschine.shtm">BULL Tabelliermaschine</a>.
+</p>
+
+<!--#include virtual="/src/templates/photo-copyright.txt" -->
+
+
+<!--#include virtual="/src/templates/autoindex.shtm" -->

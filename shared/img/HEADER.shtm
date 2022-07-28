@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+    <title>technikum29.de: /shared/img/</title>
+    <link rel="stylesheet" href="/src/css/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <script type="text/javascript" src="/src/js/silk.iconset.js"></script>
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/header.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="29.08.2008 19:00" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+
+<h2>Verzeichnis <a href="/shared/img/">/shared/img/</a></h2>
+<p>In diesem Verzeichnis befinden sich sämtliche Grafiken, die für das technikum29-Seitendesign nötig sind. Dieses Verzeichnis enthält <b>keine inhaltlichen Bilder</b> wie z.B. Fotografien von Geräten oder Funktionsschmata &ndash; solche Bilder sind ausschliesslich im Verzeichnis <a href="/shared/photos/">/shared/photos/</a> anzutreffen. Stattdessen sind typische Inhalte dieses Verzeichnis z.B. die Banner (wie auf dieser Seite oben auch der "technikum29"-Schriftzug), Hintergrundbilder für Navigationsleisten, Pfeile für Links, usw.</p>
+
+<h3>Struktur des Verzeichnisses</h3>
+<p>Seit <a href="/CHANGELOG.txt">Version 5.7</a> sind für die beiden gleichberechtigten alternierenden Seitendesigns <b>fresh.design</b> und <b>screen.design</b> Unterordner angelegt. Es finden sich daher in diesem Verzeichnis die Dateien:</p>
+
+<ul class="icons">
+    <li class="folder_image">Alle <a href="fresh.design/">Grafiken des Fresh-Designs</a></li>
+    <li class="folder_image">Alle <a href="screen.design/">Grafiken des Screen-Designs</a></li>
+    <li class="folder_picture">Alle <a href="banner/">Banner der technikum29-Homepage</a></li>
+    <li class="picture">Hintergrundgrafik der <a href="/">absoluten Startseite</a>: <a href="startseite.jpg">startseite.jpg</a> und <a href="startseite-v2.jpg">startseite-v2.jpg</a></li>
+</ul>
+
+<p>Im Zusammenhang zu den Design-Ordnern siehe auch die zugehörigen CSS-Dateien, im Verzeichnis <a href="/shared/css">/shared/css</a>:</p>
+
+<ul class="icons">
+    <li class="layout_content"><a href="/shared/css/screen.css">Screen-Design</a>. Die zentrale CSS-Datei für das ehemalige Bildschirmdesign der technikum29.de-Seite.</li>
+    <li class="layout_content"><a href="/shared/css/fresh.css">Fresh-Design</a>. Die zentrale CSS-Datei für das neue Bildschirmdesign der technikum29.de-Seite (seit Version 5.7)</li>
+</ul>
+
+<h3>Rechtliches: Verwendung der Designgrafiken außerhalb der Homepage</h3>
+<p>Die technikum29-Designs basieren maßgeblich auf den Grafiken in diesem Verzeichnis. Daher sind sie das zentrale Element für den Wiedererkennungswert der Website und zeichnen zudem den Charakter der Organisation aus. Ihre Benutzung auf anderen Webseiten ist ohne ausdrückliche Genehmigung untersagt.</p>
+<!--#include virtual="/src/templates/copyright.txt" -->
+
+</div>
+<!--#include virtual="/src/templates/autoindex.shtm" -->

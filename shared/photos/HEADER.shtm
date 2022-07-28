@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>technikum29.de /shared/photos</title>
+    <meta name="t29.SVN" content="$Id$">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/header.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="15.10.2007 18:30<br>Januar 2011" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+<h2>Das Photoverzeichnis von technikum29</h2>
+<p>In diesem Verzeichnis befinden sich, auf Unterverzeichnisse verteilt, sämtliche inhaltliche
+Bilder der technikum29.de-Webpräsenz. Im Wesentlichen sind das JPG-komprimierte Photographien.</p>
+
+<p>This directory contains all photos from the <a href="/">technikum29.de homepage</a>. See
+<a href="http://dev.technikum29.de">The development portal</a> for further details.</p>
+
+
+<p>Seit Version 5.5. sind diese in drei Ordner unterteilt, die bei größeren Themenkomplexen nochmals in Unterordner untergliedert sind:</p>
+<ul>
+    <li><a href="start/">Photos für die Startseite</a> &ndash; meistens genutzt im aktuellen Bereich</li>
+    <li><a href="kommunikationstechnik/">Photos der Kommunikationstechnik</a></li>
+    <li><a href="rechnertechnik/">Photos der Rechnertechnik</a></li>
+</ul>
+
+<!--#include virtual="/src/templates/photo-copyright.txt" -->
+
+<h3>Dateinamenrichtlinien seit <a href="/etc/txt/v5">v5.5</a></h3>
+<pre>
+   Umgestaltung des Photoverzeichnisses mit Version 5.5
+
+   * Bilder werden nach Kategorien in Ordner eingeteilt (z.B. Start, Rechnertechnik,
+     Kommunikationstechnik)
+
+   * Für Hersteller/Bildergalerien/etc., die viele Bilder umfassen, sollten
+     Unterordner geschaffen werden (z.B. UNIVAC, DEC, ...)
+
+   * einheitliches Format von Dateinamen:
+        (hersteller)_nameNummer.jpg  oder ...-nameNummer.jpg
+        maximale Informationen und trotzdem kürzester Name
+
+        z.B.  dec_pdp8.jpg  telefunken_rat800.jpg   eai180.jpg
+              wang2200.jpg  hellfax_bs110.jpg       loewe_ferrofon.jpg
+        aber auch           funktionsschema.gif     galvanometer.jpg
+                            anita-anzeige.jpg
+
+   * einheitliches Format von Dateinamen zur Speicherung von Vorschaubildern
+     (Thumbnails):
+       (dateiname)<b>.thumb</b>.jpg      oder    (dateiname).klein.jpg
+
+   * einheitlichs Format von Dateinamen zur Archivierung:
+       (dateiname)<b>.old</b>.jpg    (dateiname).old[X].jpg
+       wenn nötig auch:    old.(dateiname).jpg
+
+
+   * prinzipiell natürlich:
+     * nur Kleinschreibung
+     * keine Leerzeichen, keine Sonderzeichen
+
+   * vor allem gilt auch:
+     * Niemals alte Versionen wegschmeißen, falls sie nicht trivial sind!
+
+
+  13.04.2006/17:30 für Version 5.5
+</pre>
+</div>
+<!--#include virtual="/src/templates/autoindex.shtm" -->

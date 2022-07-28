@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>technikum29.de Navigationsleistenhintergründe</title>
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <style>
+        .box img { border: 1px solid #888; }
+        
+        /* kleiner Missbrauch des allgemeinen "box"-Containers */
+        .box {
+            width: 210px; /* Bildbreite 230px - 2*padding */
+            padding: 10px;
+            margin: 1em !important;
+            border: 1px solid #888;
+            float: left;
+            background-repeat: repeat-y;
+            height: 500px;
+        }
+
+        .box p, .box h4 {
+            margin: 5px;
+        }
+    </style>
+    <script type="text/javascript">
+       /* kleiner Scrolleffekt */
+       var interval;  var box;
+       var box_x = 0;
+      function initHover() {
+            bla = document.getElementsByName("hoverbox");
+            for(var x=0; x<bla.length; x++) {
+                bla[x].onmouseover = scrollbox;
+                bla[x].onmouseout = blurbox;
+            }
+        }
+
+        function scrollbox() {
+            box = this; // box_x = 0;
+            this.style.border = "1px solid red";
+            interval = window.setInterval(scrollit, 100);
+        }
+
+        function blurbox() {
+            window.clearInterval(interval);
+            this.style.border = "1px solid #888";
+            //box.style.backgroundPosition = "0px 0px"; // zuruecksetzen
+        }
+
+        function scrollit() {
+            box_x += 5;
+            box.style.backgroundPosition = "0px "+box_x+"px";
+        }
+
+        window.onload = initHover;
+    </script>
+</head>
+<body>
+<h1 class="none"><a href="/"><span>technikum29</span></a></h1>
+
+<div id="page" class="content">
+<!--#set var="TEMPLATE:lastmod" value="07.01.2008, 20.08.2008" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+<h2>Navigationsleitenhintergründe</h2>
+
+<p>Die Dateien in diesem Verzeichnis werden im <a href="/shared/css/fresh.css">neuen Fresh-Design</a>
+(seit <a href="/etc/txt/v5.7">Version 5.7</a>)
+als Hintergründe für die Seitenleiste auf der rechten Seite verwendet. Für fast jeden Themenbereich/jede Inhaltsseite
+gibt es einen eigenen Hintergrund, der immer in einem Bezug zum Thema steht.</p>
+
+<p>Jeder einzelne Hintergrund wurde in mühevoller Kleinarbeit erstellt. Entsprechend gilt der folgende
+Hinweis auch hier:</p>
+<!--#include virtual="/src/templates/copyright.txt" -->
+<p>Originalquellen sind vorhanden.</p>
+
+<h3>Übersicht der fehlenden Grafiken</h3>
+<p>Seit der Einführung des allgemeinen Seitendesigns auch für Extraseiten mit der
+   <a href="/etc/txt/v5.8">Version 5.8</a> bekamen auch diese Seitenleisten, die sich
+   anboten, mit etwas anderem als den standardmäßigen Nullen und Einsen gefüllt zu
+   werden. Da jede Extraseite üblicherweise von einer Inhaltsseite verlinkt ist,
+   bot sich an, die zugehörigen Bilder der Inhaltsseiten auch auf den Extraseiten zu
+   verwenden. Für folgende Inhaltsseiten (und damit auch Extraseiten) gibt es allerdings
+   (noch) keine passenden Grafiken:</p>
+
+<ul>
+  <li><b>Schreib- und Faxtechnik</b> sowie die Extraseiten <i>Morse-Telegraph</i>, <i>Hellfax</i></li>
+  <li><b>Programmierbare Rechner der 2. Generation</b> swie die Extraseite <i>wang320</i></li>
+  <li><b>Programmierbare Rechner der 3. Generation</b> sowie die Extraseite <i>wang700</i></li>
+  <li><b>Kommerzielle Rechner</b> sowie die Extraseite <i>ncr446</i>, <i>nixdorf820</i></li>
+  <li><b>Univac 9400</b> sowie <i>11</i> zugehörige Extraseiten</li>
+  <li>Die Extraseiten zu den <b>Speichermedien</b>, und zwar <i>Threaded ROM</i>, <i>Magnetic Stick Memory</i>
+      sowie <i>Plated Wire Storage</i>.</li>
+</ul>
+
+<p><b>Stand: $Date$</b></p>
+
+<h3>Übersicht der vorhandenen Grafiken</h3>
+<div class="box" name="hoverbox" style="background-image:url(binary.png);">
+    <h4><a name="binary.png" href="binary.png">binary.png</a></h4>
+    <p>Allgemeine Fallback-Grafik, wird bei Seiten wie Start/Suche/Impressum verwendet. Dargestellt sind kleine
+       Nullen und Einsen, die in einem Vektorgrafikprogramm (<a href="http://www.inkscape.org">Inkscape</a>)
+       gezeichnet wurden. In den dargestellten Oktetts ist eine Botschaft des Künstlers enthalten
+       (durch die nachträgliche Ausgrauung nach rechts kann diese allerdings vermutlich nicht mehr gelesen werden)
+       ;-)
+    </p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image: url(analogrechner.png);">
+    <h4><a name="analogrechner.png" href="analogrechner.png">analogrechner.png</a></h4>
+    <p>Typische Logikschaltung von analogen Computern. Eingescannt und Nachbearbeitet mit
+       <a href="http://www.gimp.org">GIMP</a> (einzelne Elemente wurden umgestellt/umverkabelt).
+    </p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image: url(elektro-mechanik.jpg);">
+    <h4><a name="elektro-mechanik.jpg" href="elektro-mechanik.jpg">elektro-mechanik.jpg</a></h4>
+    <p>Selbsterstellte Fotografie einer Sprossenradmaschine. Mit GIMP Kontrast und Farben
+       rausgeholt sowie Kachelübergang geglättet.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image: url(fernsehen.jpg);">
+    <h4><a name="fernsehen.jpg" href="fernsehen.jpg">fernsehen.jpg</a></h4>
+    <p>Drei eingescannte Bilder, wobei die antike Fernsehkamera freigestellt wurde. Untendrunter
+       ist ein Testbild abgebildet (farblos) und ein selbsterklärendes Bild ("3 Minuten Pause").</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image: url(elektronenroehren.jpg);">
+    <h4><a name="elektronenroehren.jpg" href="elektronenroehren.jpg">elektronenroehren.jpg</a></h4>
+    <p>Typische Schaltung von Rechnern mit Elektronenröhren. Die Röhren in dem Schaltbild wurden
+       mit GIMP besonders hervorgehoben und die restliche Schaltung leicht abgewandelt.
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(fruehe-computer.png);">
+    <h4><a name="fruehe-computer.png" href="fruehe-computer.png">fruehe-computer.png</a></h4>
+    <p>Eingescanntes Schaltbild, in der das IC besonders hervorgehoben wurde.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(lochkarte.jpg);">
+    <h4><a name="lochkarte.jpg" href="lochkarte.jpg">lochkarte.jpg</a></h4>
+    <p>Eingescannte Lochkarte, freigestellt auf schwarzen Hintergrund. Mit etwas Anstrengung
+    kann man sogar die Beschriftung lesen oder den Text anhand der Lochungen erschließen (ASCII).</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(messtechnik.jpg);">
+    <h4><a name="messtechnik.jpg" href="messtechnik.jpg">messtechnik.jpg</a></h4>
+    <p>Eingescannt und freigestellt.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(speichermedien.png);">
+    <h4><a name="speichermedien.png" href="speichermedien.png">speichermedien.png</a></h4>
+    <p>Gezeigt sind Ringe des Kernspeichers. Die Grafik basiert auf einem Scan, wurde aber fast
+       komplett mit GIMP nachgezeichnet.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(rundfunk.jpg);">
+    <h4><a name="rundfunk.jpg" href="rundfunk.jpg">rundfunk.jpg</a></h4>
+    <p>Es handelt sich hier um Noten von Richard Strauss
+       <a class="wiki" href="http://de.wikipedia.org/wiki/Till_Eulenspiegels_lustige_Streiche">Till Eulenspiegels lustige Streiche</a>, Opus 28,
+       einer sinfonischen Dichtung für Orchester. Das Bild zeigt Takt 531 (das komplette System) und ist
+       eingescannt von Seite 83 aus einer Studienpatitur, erschienen in Edition Eulenburg Nr. 443, EE 3502.
+       <br>Es wird verwendet auf den Seiten Rundfunk und Tonaufnahme- und Wiedergabetechnik.
+    </p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(tabelliermaschine.png);">
+    <h4><a name="tabelliermaschine.png" href="tabelliermaschine.png">tabelliermaschine.png</a></h4>
+    <p>Diese Grafik basiert auf einer Abbildung von Typenrädern (eingescannt). Diese wurde
+       zwecks Kachelung entzerrt (Photoshop) und dann freigestellt/sterilisiert (GIMP).
+       Dadurch sind auch einzelne Verzerrungen und Ungleichheiten (an den Ziffern) zu sehen.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(transistoren.png);">
+    <h4><a name="transistoren.png" href="transistoren.png">transistoren.png</a></h4>
+    <p>Auch hier ein Scan eines Schaltplans, anschließend mit GIMP modifiziert, sodass die
+       zwei Transistoren besonders zur Geltung kommen und eine Kachelung möglich ist.</p>
+</div>
+
+<div class="box" name="hoverbox" style="background-image:url(autos.png);">
+    <h4><a name="autos.png" href="autos.png">autos.png</a></h4>
+    <p>Diese VW-Beetles, genutzt auf der <a href="/de/geraete/univac9400/kosten.shtm">Univac-Kosten</a>-Seite,
+       basieren auf einer
+       <a href="http://openclipart.org/media/files/Chrisdesign/3732">OpenClipart-Vektorgrafik</a>. Sie wurden
+       so dimensioniert, dass sie auf der Univac-Kosten-Seite etwa 500 Stück ergeben. Grafik erstellt
+       mit Inkscape und zum technikum29-Blau verfärbt mit GIMP.</p>
+</div>
+
+<div class="clear">&nbsp;</div>
+</div><!--page -->
+<!--#include virtual="/src/templates/autoindex.shtm" -->

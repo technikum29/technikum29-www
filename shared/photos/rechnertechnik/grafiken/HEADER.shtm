@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>technikum29.de Photos</title>
+    <meta name="t29.SVN" content="$Id$">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <link rel="stylesheet" href="/src/fresh.design/full-fresh.css" type="text/css" title="technikum29.de">
+</head>
+<body>
+<!--#set var="lang" value="none" -->
+<!--#include virtual="/src/inc/header.shtm" -->
+
+<div id="page">
+<!--#set var="TEMPLATE:lastmod" value="02.12.2007 01:00" -->
+<!--#include virtual="/src/templates/lastmod.shtm" -->
+
+<h2>Verzeichnis <a href="/shared/photos/rechnertechnik/grafiken/">/shared/photos/rechnertechnik/grafiken/</a></h2>
+<p>In diesem Verzeichnis befinden sich selbsterstellte Grafiken, die Themen der Kategorie
+<a href="/de/rechnertechnik">Rechnertechnik</a> betreffen.</p>
+
+<h3>Zur Erstellung</h3>
+<p>Diese Grafiken wurden als Vektorgrafiken (<a class="wiki" href="http://de.wikipedia.org/wiki/SVG">SVG</a>)
+mit dem Open Source-Programm <a href="http://www.inkscape.org">Inkscape</a> erzeugt und anschließend
+gerendert und als stark komprimierte <a class="wiki" href="http://de.wikipedia.org/wiki/GIF">GIF</a>-Dateien
+veröffentlicht. Die Quelldateien sind <a href="/de/impressum" class="go">auf Anfrage</a> erhältlich.</p>
+
+<p>Verwendet wurden folgende Schriften:</p>
+<ul>
+   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Trebuchet_MS">Trebuchet MS</a> für Überschriften</li>
+   <li><a class="wiki" href="http://en.wikipedia.org/wiki/Calibri">Calibri</a> für den Text (einzelne Beschriftungen, etc.)</li>
+
+<!--#include virtual="/src/templates/photo-copyright.txt" -->
+</div>
+<!--#include virtual="/src/templates/autoindex.shtm" -->

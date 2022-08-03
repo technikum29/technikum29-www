@@ -32,37 +32,48 @@
 		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner sind voll funktionsfähig.
 	</div>
    </div>
-	
+
+	<h3 id="olivetti-p652">Olivetti P 652</h3>
+    
+	<div class="box center auto-bildbreite">
+		<img src="/shared/photos/dummy.jpg" alt="Olivetti P652" width="406" height="378" />
+        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+        consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+        dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+    </div>
 	 
    <h3 id="ncr446">NCR 446</h3>
     
     <div class="box center auto-bildbreite">
         <a href="/de/geraete/ncr446.php"><img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="NCR 446 Rechner" width="694" height="520" /></a>
-        </div>
-     		<p>Der<b> NCR 446 </b> ist ein Rechner der 2. Generation (Transistortechnik). Er wurde ab 1966/67 in Deutschland (National Registrier Kassen GmbH, Augsburg) von 4 Ingenieuren entwickelt, die gerade ihr Examen an der Universität absolviert hatten. Im Jahre 1967/68 war er marktreif. Die Architektur ist ungewöhnlich. Das gesamte Programm befindet sich auf dem Lochstreifen im Programmleser. Verknüpfungen werden in einem gefädeltem ROM ausgeführt. Die Anlage wurde als "Elektronische Fakturiermaschine" angeboten, weil das ihr Hauptanwendungsgebiet war. Dennoch verwendeten auch Statiker den Rechner, da er praktisch beliebig programmierbar war (und natürlich immer noch ist!). 
-			<br> Die Anlage beinhaltet neben dem Programmleser noch zwei Daten-Lochstreifenleser, einen Lochstreifenstanzer, die Eingabetastatur und eine IBM Kugelkopfmaschine als Drucker.
-			Durch Anklicken des Bildes erhält man eine Detailaufnahme.<br>
-			Billig war ein Einstieg in die bisher unbekannte Welt des elektronischen Rechnens nebst Textausgabe nicht: Das einfachste Modell ohne Lochstreifenstanzer und ohne zusätzliche Lochstreifen-Datenleser kostete satte 35.000,- DM (ca. 18.000 Euro); das entsprach damals dem Gegenwert von ca. 3 Mittelklasse Autos.<br>
-			Dafür war die NCR446 der erste "kleine" kommerzielle Rechner, der Text und integrierte mathematische Berechnungen gleichzeitig ausdrucken konnte. Eine solche "Maschine" befähigte z.B. Statiker, textlich dokumentierte Berechnungen unmittelbar versandfertig aufzulisten. Der Konkurrent von Olivetti (Programma 101, 203) konnte dagegen nur Zahlen auf einem kleinen Streifen bzw. auf der Schreibmaschine ausgeben. 
-	     	
-		    <br>Es ist herrlich, dem Rechner z.B. bei der Berechnung der Wurzel einer Zahl zuzuschauen. Spätestens dann versteht man, was ein Algorithmus ist! Da sich das Programm auf dem Lochstreifen befindet, kann man jeden Rechenschritt und alle Programmsprünge anhand der Bewegung des Lochstreifens verfolgen.</br>
-		    <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: <a class="go" href="/de/geraete/details-ncr446.php">Reparatureinblicke</a>
+        <p>Der<b> NCR 446 </b> ist ein Rechner der 2. Generation (Transistortechnik). Er wurde ab 1966/67 in Deutschland (National Registrier Kassen GmbH, Augsburg) von 4 Ingenieuren entwickelt, die gerade ihr Examen an der Universität absolviert hatten. Im Jahre 1967/68 war er marktreif. Die Architektur ist ungewöhnlich. Das gesamte Programm befindet sich auf dem Lochstreifen im Programmleser. Verknüpfungen werden in einem gefädeltem ROM ausgeführt. Die Anlage wurde als "Elektronische Fakturiermaschine" angeboten, weil das ihr Hauptanwendungsgebiet war. Dennoch verwendeten auch Statiker den Rechner, da er praktisch beliebig programmierbar war (und natürlich immer noch ist!). 
+        <br> Die Anlage beinhaltet neben dem Programmleser noch zwei Daten-Lochstreifenleser, einen Lochstreifenstanzer, die Eingabetastatur und eine IBM Kugelkopfmaschine als Drucker.
+        Durch Anklicken des Bildes erhält man eine Detailaufnahme.<br>
+        Billig war ein Einstieg in die bisher unbekannte Welt des elektronischen Rechnens nebst Textausgabe nicht: Das einfachste Modell ohne Lochstreifenstanzer und ohne zusätzliche Lochstreifen-Datenleser kostete satte 35.000,- DM (ca. 18.000 Euro); das entsprach damals dem Gegenwert von ca. 3 Mittelklasse Autos.<br>
+        Dafür war die NCR446 der erste "kleine" kommerzielle Rechner, der Text und integrierte mathematische Berechnungen gleichzeitig ausdrucken konnte. Eine solche "Maschine" befähigte z.B. Statiker, textlich dokumentierte Berechnungen unmittelbar versandfertig aufzulisten. Der Konkurrent von Olivetti (Programma 101, 203) konnte dagegen nur Zahlen auf einem kleinen Streifen bzw. auf der Schreibmaschine ausgeben. 
+        
+        <br>Es ist herrlich, dem Rechner z.B. bei der Berechnung der Wurzel einer Zahl zuzuschauen. Spätestens dann versteht man, was ein Algorithmus ist! Da sich das Programm auf dem Lochstreifen befindet, kann man jeden Rechenschritt und alle Programmsprünge anhand der Bewegung des Lochstreifens verfolgen.</br>
+        <br>Wenn Sie einen kleinen Einblick in das Innenleben des Rechners während der Reparatur sehen möchten, klicken Sie bitte hier: <a class="go" href="/de/geraete/details-ncr446.php">Reparatureinblicke</a>
 		</p>
 		
 		<h5 id="stanzer">Lochstreifen-Zubehör</h5>
 		
 		<p>Auch Zubehörteile aus der Zeit der Lochstreifen als Daten- und Programmträger sind recht interessant, verraten sie doch wie man zu Beginn des programmierten Rechnens arbeiten musste.<br>
 		In der untenstehenden Abbildung ist links ein "Handlocher" zu sehen, der es erlaubte, 1-Zoll Lochstreifen nach selbstentworfenen Programmen oder Daten zu lochen. Wer den NCR-Rechner in einer abgespeckten Version hatte, verfügte nicht über den Lochstreifenstanzer (rechts im Bild oben)!<br>
+		</p>
 		
 		<div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/handlocher.jpg"  width="682" height="428" />
         <div class="bildtext"><b>Handlocher für Lochstreifen</b> (links) und <b> Tapewinder</b> (rechts)</div>
-		</div>
+        
 		<p>Nach einer Erläuterung des Inhabers eines Ingenieurbüros für Baustatik lief die Prozedur dann etwa wie folgt ab:<br>
 		Zunächst erstellt man das Programm und den dazu gehörigen Text in Reinschrift. Dann musste jedes Zeichen per NCR-Codetabelle in einen 8-Bit-Code für den Lochstreifen übersetzt werden. Sodann durfte die Sekrekärin die vom "Chef" diktierten Ziffernkombination (1 bis 8) eintippen und danach jeweils den Hebel herunterdrücken. Per Handkraft wurden so die Löcher Sprosse für Sprosse hergestellt wobei jede Sprosse (Zeile) genau einem Zeichen entspricht. Das war eine mühsame und zeitraubende Arbeit, insbesondere wenn man sich aus Versehen "verlocht" hat. <br>
 	
 		Mit der oben abgebildeten NCR-446 Maschine konnten Programme und Daten direkt auf der Schreibmaschinentastatur eingeben und simultan im Lochstreifenstanzer ausgestanzt werden. Dieser "Komfort" kostete jedoch zusätzlich ca. 20.000,- DM (10.000 Euro)!<br>
-		Beim Wechsel des Programmlochstreifens ergab sich das Problem, den oft sehr langen Streifen per Hand aufzuwickeln um ihn in einer kleinen Dose verstauen zu können. Dazu gab es von HP einen handlichen akkubetriebenen "Tapewinder". So dauerte das Aufwickeln nur wenige Sekunden.</p>
+		Beim Wechsel des Programmlochstreifens ergab sich das Problem, den oft sehr langen Streifen per Hand aufzuwickeln um ihn in einer kleinen Dose verstauen zu können. Dazu gab es von HP einen handlichen akkubetriebenen "Tapewinder". So dauerte das Aufwickeln nur wenige Sekunden.
+        </p>
+	</div>
 		
 	<h3 id="nixdorf820">NIXDORF 820</h3>
   

@@ -249,7 +249,7 @@ abstract class t29Host {
 		
 		# Bug when DOCUMENT_ROOT ends with trailing slash: make sure $file begins with /:
 		$this->slash_filename = $this->script_filename;
-		if($this->slash_filename{0} != '/') $this->slash_filename = '/'.$this->slash_filename;
+		if($this->slash_filename[0] != '/') $this->slash_filename = '/'.$this->slash_filename;
 	
 		//phpinfo(); exit;
 		return $this; // Chaining
@@ -370,7 +370,7 @@ class t29ExternalHost extends t29Host {
 		if($also_rewrite_prefix) {
 			// check if link has host part
 			if(!preg_match('#^https?:#i', $link_target)) {
-				$sep = ($link_target{0} == '/') ? '' : '/';
+				$sep = ($link_target[0] == '/') ? '' : '/';
 				$link_target = $this->target_host . $sep . $link_target;
 			}
 		}

@@ -52,7 +52,8 @@
 <p>In unserer Ausstellung zeigen wir eine betriebsbereite <b>P 652</b> zusammen mit der elektrischen Schreibmaschine 
 	<b>ST4</b> und einem Doppel-Cassettenlaufwerk <b>CTU1000</b>. Letztere bedürfen noch der Überholung. Im Depot haben wir 
 	noch Magnetbandeinheiten <b>MLU600</b>, eine Festplatte <b>DAS600</b> und einen Lochstreifenstanzer <b>PN20</b>. Wir werden
-	    sie nach und nach inspizieren und wieder in Betrieb nehmen. Über den Fortschritt in der Reparatur unseres P 652er-Systems
+	sie nach und nach inspizieren und wieder in Betrieb nehmen. </p>
+<p>Über den Fortschritt in der Reparatur unseres P 652er-Systems
 	    werden wir im <a class="go" href="/de/geraete/p652-details.php">P652-Reparaturblog</a> berichten.</p>
 	 
    <h3 id="ncr446">NCR 446</h3>

@@ -18,7 +18,7 @@
 		<div class="bildtext">
 			<b>Olivetti P 203</b>
 		<p>Im Jahre 1967 wurde die <a class="go" href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen. Die elektrische Schreibmaschine konnte man auch separat verwenden.<br>
-		Der <a class="go" href="/de/rechnertechnik/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
+		Der <a class="go" href="/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
 		Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
 		Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
 		<div class="clear-after">

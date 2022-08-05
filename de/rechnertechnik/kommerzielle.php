@@ -35,9 +35,11 @@
 
 	<h3 id="olivetti-p652">Olivetti P 652</h3>
     
-	<div class="box center auto-bildbreite">
-		<img src="/shared/photos/dummy.jpg" alt="Olivetti P652" width="406" height="378" />
-    </div>
+	<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/P652_gesamt.jpg" width="427"  height="320"/>
+		<img src="/shared/photos/rechnertechnik/P652.jpg" width="427"  height="320"/>
+		<p class="bildtext"><b>IBM 5320 </b>, rechts die Bildschirmanzeige</p>
+	</div>
     <p>In Arbeit...</p>
     <p><a class="go" href="/de/geraete/p652-details.php">Weitere Details</a></p>
 	 

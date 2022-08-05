@@ -42,7 +42,7 @@
 	</div>
 <p>1973 stellte Olivetti die <b>P 652</b> der Öffentlichkeit vor. Sie stellte die Weiterentwicklung der Linie der
 	    programmierbaren Tischrechner dar, die mit der <a class="go" href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> 
-	    begann und über die <a class="go" href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">P 203</a> und die <b>P 602</b> nun zur <b>P 652</b>
+	    begann und über die <a class="go" href="/de/rechnertechnik/kommerzielle.php#olivetti-p203">P 203</a> und die P 602 nun zur <b>P 652</b>
 	führte. Statt <a class="go" name="backlink-olivetti" href="speichermedien.php#magnetostriktion">Laufzeitspeicher</a> wurden erstmals LSI-Halbleiter-Speicherbausteine verwendet, und statt
 	    <a class="go" name="backlink-olivetti" href="speichermedien.php#threaded-rom">gefädelter ROMs</a> kamen ebenfalls LSI-Chips zum Einsatz. Die Zahl der Register wuchs auf über 240, die der
 	    Programmschritte auf über 1000. Trigonometrische und logarithmische und Exponentialfunktionen waren nun 

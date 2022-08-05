@@ -22,10 +22,11 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
 </div>
 
 <div class="box center">
-	<img src="/shared/photos/rechnertechnik/P652_MLU600_Option.jpg" width="594" height="424" alt="MLU600 Erweiterung" />
+	<img src="/shared/photos/rechnertechnik/P652_MLU600_Option.jpg" width="320" height="240" alt="MLU600 Erweiterung" />
 	<img src="/shared/photos/rechnertechnik/MLU600_Cassette.jpg" width="320" height="240" alt="MLU600 Cassette" />
-	<p>Eine der Ersatz-P652en hat eine Erweiterung "GOLU MLU600" eingebaut, sie ist Voraussetzung, um eines der Magnetlaufwerke MLU600
-		in Betrieb nehmen zu können. Leider suchen wir noch nach den passenden Magnetbandcassetten.
+	<p>Eine der Ersatz-P652en hat eine Erweiterung "GOLU MLU600" eingebaut (links), sie ist Voraussetzung, um eines der Magnetlaufwerke MLU600
+		in Betrieb nehmen zu können. Leider suchen wir noch nach den passenden Magnetbandcassetten. Wie sie aussehen muß wissen wir
+		aus einer Abbling unserer P652-Betriebsanleitung (rechts).
     </p>
 </div>
 

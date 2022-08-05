@@ -29,7 +29,7 @@
 			<a href="/shared/photos/rechnertechnik/p203-3.jpg" target="_blank">
 			<img src="/shared/photos/rechnertechnik/p203-3.jpg" alt="Olivetti P203" width="240" height="180" /></a>
 		</div>
-		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner sind voll funktionsfähig.
+		Die oben stehende Bilder lassen sich vergrößern. Bild 1 zeigt das erste Modell (links) offen und das zweite Modell mit einer schnelleren Schreibmaschine (rechts). Bild 2 ist eine Nahaufnahme. Bild 3 zeigt den gewaltigen Anteil an Mechanik in diesen Computern. Beide Rechner bedürfen der Überholung.
 	</div>
    </div>
 

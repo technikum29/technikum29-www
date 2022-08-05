@@ -40,17 +40,17 @@
 		<img src="/shared/photos/rechnertechnik/P652.jpg" width="427"  height="320"/>
 		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
 	</div>
-    <p>1973 stellte Olivetti die P 652 der Öffentlichkeit vor. Sie stellte die Weiterentwicklung der Linie der
+<p>1973 stellte Olivetti die <b>P 652</b> der Öffentlichkeit vor. Sie stellte die Weiterentwicklung der Linie der
 	    programmierbaren Tischrechner dar, die mit der P 101 begann und über die P 203 und die P 602 nun zur P 652
 	    führte. Statt magneto-striktivem Speicher wurden erstmals LSI-Halbleiter-Speicherbausteine verwendet, und statt
 	    gefädelter ROMs kamen ebenfalls LSI-Chips zum Einsatz. Die Zahl der Register wuchs auf über 240, die der
 	    Programmschritte auf über 1000. Trigonometrische und logarithmische und Exponentialfunktionen waren nun 
-	    (im gegensatz zur P 602)auch per Tastatur aus dem ROM abrufbar. Über den IPSO-Bus konnte eine Vielzahl an 
+	    (im Gegensatz zur P 602) auch per Tastatur aus dem ROM abrufbar. Über den IPSO-Bus konnte eine Vielzahl an 
 	    Peripherie angeschlossen werden. </p>
 
-    <p>In unserer Ausstellung zeigen wir eine betriebsbereite P 652 zusammen mit der elektrischen Schreibmaschine 
-	    ST4 und einem Doppel-Cassettenlaufwerk CTU1000. Letztere bedürfen noch der Überholung. Im Depot haben wir 
-	    noch Magnetbandeinheiten MLU600, eine Festplatte DAS600 und einen Lochstreifenstanzer PN20. Wir werden
+<p>In unserer Ausstellung zeigen wir eine betriebsbereite <b>P 652</b> zusammen mit der elektrischen Schreibmaschine 
+	<b>ST4</b> und einem Doppel-Cassettenlaufwerk <b>CTU1000</b>. Letztere bedürfen noch der Überholung. Im Depot haben wir 
+	noch Magnetbandeinheiten <b>MLU600</b>, eine Festplatte <b>DAS600</b> und einen Lochstreifenstanzer <b>PN20</b>. Wir werden
 	    sie nach und nach inspizieren und wieder in Betrieb nehmen. Über den Fortschritt in der Reparatur unseres P 652er-Systems
 	    werden wir im <a class="go" href="/de/geraete/p652-details.php">P652-Reparaturblog</a> berichten.</p>
 	 

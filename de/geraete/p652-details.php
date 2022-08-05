@@ -16,7 +16,7 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
 
 
 <div class="box center">
-    <img src="/shared/photos/rechnertechnik/P652_offen.jpg" width="594" height="446" alt="P652 Details 1" />
+    <img src="/shared/photos/rechnertechnik/P652_offen.jpeg" width="594" height="446" alt="P652 Details 1" />
     <p>Unsere erste P652 ist in sehr gutem Zustand, sie rechnet und druckt. Die Magnetkarteneinheit muss noch überprüft werden.
     </p>
 </div>

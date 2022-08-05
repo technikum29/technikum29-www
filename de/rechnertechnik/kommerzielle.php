@@ -38,7 +38,7 @@
 	<div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/P652_gesamt.jpg" width="427"  height="320"/>
 		<img src="/shared/photos/rechnertechnik/P652.jpg" width="427"  height="320"/>
-		<p class="bildtext"><b>IBM 5320 </b>, rechts die Bildschirmanzeige</p>
+		<p class="bildtext"><b>Olivetti P652 </b> in unserer Ausstellung, rechts ein Detail</p>
 	</div>
     <p>In Arbeit...</p>
     <p><a class="go" href="/de/geraete/p652-details.php">Weitere Details</a></p>

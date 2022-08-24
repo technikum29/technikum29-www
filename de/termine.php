@@ -10,19 +10,9 @@
 <h2>Kalender und Termine</h2>
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
-  <h4 style="color: #8e1b1b">Wir räumen um - reduzierter Betrieb im technikum29</h4>
-
-<p><strong>Update 1.6.2022:</strong> 
-<p>Mittlerweile entspannt sich die Corona-Situation. <strong>Wir möchten aber von Veranstaltungen mit einer
-	größeren Zahl von Teilnehmern in unseren Räumen weiterhin absehen.</strong> Wir räumen zur Zeit im
-	technikum29 um und schaffen Platz für die am 2.6. erwarteten Neuzugänge. Ca. August 2022 werden wir unsere
-	Gruppen-Führungen wieder aufnehmen und dies hier ankündigen.
-	Für Kleinstgruppen (max 5 Teilnehmer) bieten wir nach Absprache unter den gegebenen Randbedingungen
-	Führungen an, wenn es die aktuelle Umräumaktion zuläßt.
-	  
-	<p><strong>NEU:</strong> Wir bieten wieder regelmäßige <strong>Helfertage</strong> an (s. Kalender weiter unten).
+  <h4 style="color: #8e1b1b">Hier stellen wir unsere Aktivitäten vor</h4>
 	
-<p><strong>Regeln:</strong>
+<p><strong>Corona-Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 
 	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.
 	
@@ -46,7 +36,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 <p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
 	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 10 Teilnehmer) einen eigenen Termin vereinbaren ? 
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen Termin vereinbaren ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">

@@ -23,12 +23,6 @@
 <!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
 <h3>Informationen zum regulären Museumsbesuch</h3>
 
-<!--
-<p>Seit Januar 2020 bieten wir erstmals seit dem 
-<a href="/heribert-mueller/">Verlust von Heribert Müller</a> (April 2018) wieder Führungen
-an. Die Liste der Termine wird fortlaufend ergänzt.
--->
-
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 

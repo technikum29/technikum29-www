@@ -38,7 +38,7 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
 <p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen Termin vereinbaren ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
-<p>>strong>Helfertage</strong> sind termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
+<p><strong>Helfertage</strong> sind termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
 	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 

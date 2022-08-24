@@ -21,7 +21,7 @@
 </div>
 
 <!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
-<h3>Informationen zum regulären Museumsbesuch (außerhalb Krise)</h3>
+<h3>Informationen zum regulären Museumsbesuch</h3>
 
 <!--
 <p>Seit Januar 2020 bieten wir erstmals seit dem 

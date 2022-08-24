@@ -29,7 +29,7 @@
 an. Die Liste der Termine wird fortlaufend ergänzt.
 -->
 
-<p>Unsere Führungen dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
+<p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 
 	Rechenmaschinen, Computer der 50 - 70er Jahre und vieles "drum-herum". Lassen sie sich überraschen !
@@ -38,6 +38,9 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
 <p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen Termin vereinbaren ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+<p>>strong>Helfertage</strong> sind termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
+	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
+	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
 

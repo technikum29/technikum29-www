@@ -10,7 +10,7 @@
 <h2>Kalender und Termine</h2>
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
-  <h4 style="color: #8e1b1b">Hier stellen wir unsere Aktivitäten vor</h4>
+  <h4 style="color: #8e1b1b">Stand 24.8.2022</h4>
 	
 <p><strong>Corona-Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 

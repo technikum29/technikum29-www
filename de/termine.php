@@ -14,15 +14,11 @@
 	
 <p><strong>Corona-Regeln:</strong>
 <p>Einlass zu Führungen und Helfertage nur für vollständig Geimpfte (1G-Regel). In unseren Räumlichkeiten gilt Maskenpflicht bei Abständen 
-	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.
-	
+	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
-
 </div>
 
-<!-- Überschrift löschen, wenn Corona-Nachricht entfernt wird -->
 <h3>Informationen zum regulären Museumsbesuch</h3>
-
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 

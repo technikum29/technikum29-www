@@ -355,6 +355,11 @@
 
 	<div class="termine">
 
+		
+	<h2>2021</h2>
+	<p>2021 ruhte der öffentliche Museumsbetrieb wg. der Corona-Epidemie
+	</p>
+	
 	<h2>2020</h2>
 	<table class="termine">
 	<tr class="title">

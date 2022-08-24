@@ -257,14 +257,6 @@
 </div><!--/.termin -->
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 11. Juni</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -327,69 +319,8 @@
 		<dd>HELL-Schreiber.
 	</dl>
 </div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 27. Juni</p>
-	<h4>Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 27. Juni 2020
-		<dt>Uhrzeit
-		<dd>9:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		
-		<dd>***    ACHTUNG: Termin entfällt !     ***
-		<dd>**************************************************************
-		
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 4. Juli</p>
-	<h4>Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 4. Juli 2020
-		<dt>Uhrzeit
-		<dd>9:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		
-		<dd>***    ACHTUNG: Termin entfällt !     ***
-		<dd>**************************************************************
-		
-	</dl>
-</div><!--/.termin -->
-
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2020</em> 16. Sept.</p>
-	<h4>Führung "Computergeschichte im technikum29"</h4> 
-	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den frühen Computern der 50er - 70er Jahre vorgestellt 
 
 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Mittwoch, 16. September 2020
-		<dt>Uhrzeit
-		<dd>10:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>
-		<dd>*** Termin entfällt wegen der aktuellen Corona-Situation *** geschlossene Gesellschaft - Kursfabrik Wiesbaden
-		
-		
-	</dl>
-</div><!--/.termin -->
 
 </div><!--/#termine -->
 

@@ -108,7 +108,8 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dt>
 		<dd>geschlossene Gesellschaft - Ludwig K.
-
+	</dl>
+</div><!--/.termin -->
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 17. Sep</p>

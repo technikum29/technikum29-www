@@ -51,6 +51,25 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 
 <div id="termine">
 
+			
+<div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 24. Okt </p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den 
+		frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 24. Oktober 2022
+		<dt>Uhrzeit
+		<dd>14:00 Uhr - 17:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>
+		<dd>geschlossene Gesellschaft - Ludwig K.
+
+	
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 1. Okt</p>
@@ -70,7 +89,25 @@ an. Die Liste der Termine wird fortlaufend ergänzt.
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div><!--/.termin -->
+
 		
+<div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 17. Sep </p>
+	<h4>Führung "Computergeschichte im technikum29"</h4> 
+	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den 
+		frühen Computern der 50er - 70er Jahre vorgestellt 
+
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 17. September 2022
+		<dt>Uhrzeit
+		<dd>14:00 Uhr - 17:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dt>
+		<dd>geschlossene Gesellschaft - Ludwig K.
+
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 17. Sep</p>

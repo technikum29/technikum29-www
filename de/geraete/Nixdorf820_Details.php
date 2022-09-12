@@ -30,9 +30,10 @@
 </p>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820_Stand_2022.jpg" width="400"  height="300"/>
-		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820_Stanzer_Stand_2022.jpg" width="400"  height="300"/>
-		</div>
+		<img src="/shared/photos/rechnertechnik/P652_gesamt.jpg" width="427"  height="320"/>
+		<img src="/shared/photos/rechnertechnik/P652.jpg" width="427"  height="320"/>
+		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
+	</div>
 
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos
 		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen

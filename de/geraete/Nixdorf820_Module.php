@@ -37,6 +37,9 @@
 		<td>LFI 186</td>   <td>EA-Karte (D9) für Magnetkonten</td>
 	</tr>	
 	<tr>
+		<td>0191</td>   <td>Netzteil</td>
+	</tr>
+	<tr>
 		<td>201, 202</td>   <td>batteriegepufferte Halbleiterspeicher RAM</td>
 	</tr>
 	<tr>

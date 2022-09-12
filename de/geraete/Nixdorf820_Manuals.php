@@ -15,7 +15,7 @@
 		<p class="bildtext">Magnetkontencomputer Systembeschreibung Teil 1 - 3</p>
 	</div>
 
-<div class="box center"> 
+<div class="box left"> 
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_15_Service_Manual.jpg" width="148"  height="205"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_25_35_Service_Manual.jpg" width="148"  height="205"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_30_tech_Handbuch.jpg" width="140"  height="205"/>

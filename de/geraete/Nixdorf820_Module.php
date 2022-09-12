@@ -13,7 +13,7 @@
 
 <table>
 	<tr>
-		<th>Modul-Bezeichnung          </th>   <th>Funktion</th>
+		<th>Modul-Bezeichnung             </th>     <th>Funktion</th>
 	</tr>
 	<tr>
 		<td>LFI 17</td>   <td>?</td>

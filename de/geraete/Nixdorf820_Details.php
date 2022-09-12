@@ -42,8 +42,8 @@
 	<p/>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="573"  height="325"/>
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="218"  height="325"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Geraeteschrank_1.jpg" width="427"  height="320"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Geraeteschrank_2.jpg" width="427"  height="320"/>
 		<p class="bildtext">Zwei <b>Nixdorf 820 </b> Modulschränke 0753 mit Netzteilen und Modulen</p>
 	</div>
 

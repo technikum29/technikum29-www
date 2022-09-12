@@ -30,8 +30,8 @@
 </p>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820%20Stand%202022.jpeg" width="400"  height="300"/>
-		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820%20Stanzer%20Stand%202022.jpeg" width="400"  height="300"/>
+		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820_Stand_2022.jpg" width="400"  height="300"/>
+		<img src="/shared/photos/rechnertechnik/820%20Gerätebilder/820_Stanzer_Stand_2022.jpg" width="400"  height="300"/>
 		</div>
 
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos

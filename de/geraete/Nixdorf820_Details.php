@@ -8,6 +8,10 @@
 
 <h2><?php print $titel; ?></h2>
 
-<p>
+	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-</p>
+	</p>
+
+	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer Nixdorf 820 und die Wiederinbetriebnahme der Maschine.
+	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
+	</p>

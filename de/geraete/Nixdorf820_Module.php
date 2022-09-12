@@ -42,11 +42,11 @@
 	</tr>	
 	<tr>
 		<td>LFI 184</td>           
-		<td>EA-Karte (D10) für Drucker, Lochkarten und Lochstreifen</td>
+		<td>EA-Karte (D10, 7, 8) für Drucker, Lochkarten und Lochstreifen</td>
 	</tr>	
 	<tr>
 		<td>LFI 186</td>           
-		<td>EA-Karte (D9) für Magnetkonten</td>
+		<td>EA-Karte (D9) für Magnetkonten Vorsteckeinrichtung</td>
 	</tr>	
 	<tr>
 		<td>LFI 0191</td>          
@@ -62,7 +62,7 @@
 	</tr>	
 	<tr>
 		<td>LFI 310</td>          
-		<td>EA-Karte (D5) </td>
+		<td>EA-Karte (D5) 2*MBC 20732</td>
 	</tr>	
 	<tr>
 		<td>LFI 318</td>          

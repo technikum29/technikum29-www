@@ -9,10 +9,10 @@
 <h3>Im technikum29 vorhandene Manuals zur Nixdorf 820</h3>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2.jpg" width="400"  height="256"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2_Inhalt.jpg" width="365"  height="256"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_3.jpg" width="175"  height="256"/>
-		<p class="bildtext"><b>Nixdorf 820 </b> in unserer Ausstellung (links), rechts der Lochkartenstanzer im Depot</p>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2.jpg" width="300"  height="205"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2_Inhalt.jpg" width="293"  height="205"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_3.jpg" width="140"  height="205"/>
+		<p class="bildtext"><b>Magnetkontencomputer</b> Systembeschreibung Teil 1 - 3</p>
 	</div>
 
 <div class="box center"> 

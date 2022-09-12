@@ -30,8 +30,8 @@
 </p>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="427"  height="320"/>
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="427"  height="320"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="500"  height="284"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="250"  height="373"/>
 		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
 	</div>
 

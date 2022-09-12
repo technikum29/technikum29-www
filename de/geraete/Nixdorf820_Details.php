@@ -47,13 +47,13 @@
 		<p class="bildtext">Zwei <b>Nixdorf 820 </b> Modulschränke 0753 mit Netzteilen und Modulen</p>
 	</div>
 
-	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos
+<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu <b>100 Module</b>. Zur Bestandsaufnahme und einigen Fotos
 		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen
-		Verbindungskabel für div. Peripherie noch erhalten.
+	<b>Verbindungskabel</b> für div. Peripherie noch erhalten.
 </p>
 
 
-	<p>Zur Hardware besitzen wir umfangreiche technische Unterlagen und Serviceanleitungen, die wir 
+<p>Zur Hardware besitzen wir umfangreiche <b>technische Unterlagen und Serviceanleitungen</b>, die wir 
 		<a class="go" href="/de/geraete/Nixdorf820_Manuals.php">hier</a> auflisten und zukünftig zum Download anbieten werden.
 </p>
 

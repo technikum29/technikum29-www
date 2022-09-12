@@ -22,6 +22,8 @@
 		<p class="bildtext">Service Manual 820/15 und 820/25/35 sowie techn. Handbuch 820/30</p>
 	</div>
 
+<h3>     </h3>
+
 <div class="box left"> 
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenleser_0043_44_Service_Manual.jpg" width="146"  height="205"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_009x.jpg" width="151"  height="205"/>

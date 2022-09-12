@@ -30,9 +30,9 @@
 </p>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="500"  height="284"/>
-		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="250"  height="373"/>
-		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="573"  height="325"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="218"  height="325"/>
+		<p class="bildtext"><b>Nixdorf 820 </b> in unserer Ausstellung (links), rechts der Lochkartenstanzer im Depot</p>
 	</div>
 
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos

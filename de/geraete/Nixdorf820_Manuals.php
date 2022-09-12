@@ -22,11 +22,16 @@
 		<p class="bildtext">Service Manual 820/15 und 820/25/35 sowie techn. Handbuch 820/30</p>
 	</div>
 
-<div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/" width="573"  height="325"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/" width="218"  height="325"/>
-		<p class="bildtext"><b>Nixdorf 820 </b> in unserer Ausstellung (links), rechts der Lochkartenstanzer im Depot</p>
+<div class="box left"> 
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenleser_0043_44_Service_Manual.jpg" width="146"  height="205"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_009x.jpg" width="151"  height="205"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_0091_92_Aufbaulehrgang.jpg" width="147"  height="205"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Magnetbandkassette_0733.jpg" width="134"  height="205"/>
+		<p class="bildtext">Service Manual Lochkartenleser 0043 und 0044, "Mechanik und Elektronik" sowie "Aufbaulehrgang" Lochkartenstan
+		zer 0091/92/94, techn. Unterlagen zur Magnetbandkassette 0733</p>
 	</div>
+
+<h3>Eingescannte Manuals als PDF:</h3>
 
 	<p>zum Download unserer Scans geht es <a href="/de/geraete/Nixdorf820_Manuals_PDFs">hier</a>
 </p>

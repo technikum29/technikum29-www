@@ -39,3 +39,9 @@
 	<p>Zur Hardware besitzen wir umfangreiche technische Unterlagen und Serviceanleitungen, die wir 
 		<a class="go" href="/de/geraete/Nixdorf820_Manuals.php">hier</a> auflisten und zukünftig zum Download anbieten werden.
 </p>
+
+<h3>Wiederinbetriebnahme der Anlage</h3>
+
+	<p> *** wird fortgesetzt *** 
+</p>
+

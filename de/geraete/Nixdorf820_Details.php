@@ -35,8 +35,8 @@
 		<p class="bildtext"><b>Nixdorf 820 </b> in unserer Ausstellung (links), rechts der Lochkartenstanzer im Depot</p>
 	</div>
 
-	<p>In der Mitte die SChreibeinheit mit Magnetkarten-Einzug, rechts davon die numerische Tastatur, darüber der Lochkartenleser. 
-		hinten rechts 2 Magnetbandkassetteneinheiten (eingebaut) und rechts hinter dem Magnetkarteneinzug ein e externe Magnetbandkassetteneinheit.
+	<p>In der Mitte die Schreibeinheit mit Magnetkarten-Einzug, rechts davon die numerische Tastatur, darüber der Lochkartenleser. 
+		Hinten rechts 2 Magnetbandkassetteneinheiten (eingebaut) und rechts hinter dem Magnetkarteneinzug eine externe Magnetbandkassetteneinheit.
 		<p/>
 <p>Links und recht je ein blaues Gehäuse mit Netzteilmodulen 119 und einem Rahmen 0753 zur Aufnahme von Rechnermodulen:
 	<p/>

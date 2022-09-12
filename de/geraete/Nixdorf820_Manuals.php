@@ -8,3 +8,5 @@
 
 <h3>Im technikum29 vorhandene Manuals zur Nixdorf 820</h3>
 
+	<p>zum Download unserer Scans geht es <a href="lerncomputer">hier</a>
+</p>

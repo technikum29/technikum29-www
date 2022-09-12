@@ -7,3 +7,7 @@
 ?>
 
 <h2><?php print $titel; ?></h2>
+
+<p>
+	*** ACHTUNG BAUSTELLE ! ***
+</p>

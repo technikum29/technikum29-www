@@ -30,8 +30,8 @@
 </p>
 
 <div class="box center"> 
-		<img src="/shared/photos/IBM5100WT.jpg" width="400"  height="300"/>
-		<img src="/shared/photos/IBM5103.jpg" width="400"  height="300"/>
+		<img src="/shared/photos/rechnertechnik/820%20Manuals%20Bilder/820%20Stand%202022.jpeg" width="400"  height="300"/>
+		<img src="/shared/photos/rechnertechnik/820%20Manuals%20Bilder/820%20Stanzer%20Stand%202022.jpeg" width="400"  height="300"/>
 		</div>
 
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos

@@ -28,8 +28,8 @@
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_009x.jpg" width="184"  height="250"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_0091_92_Aufbaulehrgang.jpg" width="180"  height="250"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Magnetbandkassette_0733.jpg" width="164"  height="250"/>
-		<p class="bildtext">Service Manual Lochkartenleser 0043 und 0044, "Mechanik und Elektronik" sowie "Aufbaulehrgang" Lochkartenstan
-		zer 0091/92/94, techn. Unterlagen zur Magnetbandkassette 0733</p>
+		<p class="bildtext">Service Manual Lochkartenleser 0043 und 0044, "Mechanik und Elektronik" sowie "Aufbaulehrgang" Lochkartenstanzer 
+		0091/92/94, Service-Unterlagen zur Magnetbandkassette 0733</p>
 	</div>
 
 <h3>Eingescannte Manuals als PDF:</h3>

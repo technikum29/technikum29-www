@@ -13,7 +13,7 @@
 
 <table>
 	<tr>
-		<th>Bezeichnung          </th>   <th>Funktion</th>
+		<th>Modul-Bezeichnung          </th>   <th>Funktion</th>
 	</tr>
 	<tr>
 		<td>LFI 17</td>   <td>?</td>
@@ -38,5 +38,26 @@
 	</tr>	
 	<tr>
 		<td>201, 202</td>   <td>batteriegepufferte Halbleiterspeicher RAM</td>
+	</tr>
+	<tr>
+		<td>LFI 037</td>   <td>?</td>
+	</tr>	
+	<tr>
+		<td>LFI 310</td>   <td>EA-Karte (D5) </td>
+	</tr>	
+	<tr>
+		<td>LFI 318</td>   <td>EA-Karte für 2. Magnetbandcassette MBC</td>
+	</tr>	
+	<tr>
+		<td>LFI 333</td>   <td>Recheneinheit für den Centronix-Drucker</td>
+	</tr>
+	<tr>
+		<td>LFI 402</td>   <td>Umschaltplatte</td>
+	</tr>	
+	<tr>
+		<td>LFI 5200, 571</td>   <td>?</td>
+	</tr>	
+	<tr>
+		<td>LFI 972,973,974,978</td>   <td>?</td>
 	</tr>
 </table>

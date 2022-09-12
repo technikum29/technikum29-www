@@ -24,10 +24,10 @@
 
 
 <div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenleser_0043_44_Service_Manual.jpg" width="189"  height="266"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_009x.jpg" width="196"  height="266"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_0091_92_Aufbaulehrgang.jpg" width="191"  height="266"/>
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Magnetbandkassette_0733.jpg" width="174"  height="266"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenleser_0043_44_Service_Manual.jpg" width="178"  height="250"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_009x.jpg" width="184"  height="250"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Lochkartenstanzer_0091_92_Aufbaulehrgang.jpg" width="180"  height="250"/>
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_Magnetbandkassette_0733.jpg" width="164"  height="250"/>
 		<p class="bildtext">Service Manual Lochkartenleser 0043 und 0044, "Mechanik und Elektronik" sowie "Aufbaulehrgang" Lochkartenstan
 		zer 0091/92/94, techn. Unterlagen zur Magnetbandkassette 0733</p>
 	</div>

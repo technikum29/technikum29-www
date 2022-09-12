@@ -25,6 +25,17 @@
 
 <h3>aktueller Bestand zur Nixdorf 820</h3>
 
+	<p>Leider entspricht der aktuelle Bestand an 820er Hardware nicht mehr dem auf der Hauptseite gezeigten Foto. Nach dem Tod Heriberts 
+		fanden wir bei der Durchsicht des Bestandes folgende Hardware vor:
+</p>
+
+
+	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos
+		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen
+		Verbindungskabel für div. Peripherie noch erhalten.
+</p>
+
+
 	<p>Zur Hardware besitzen wir umfangreiche technische Unterlagen und Serviceanleitungen, die wir 
 		<a class="go" href="/de/geraete/Nixdorf820_Manuals.php">hier</a> auflisten und zukünftig zum Download anbieten werden.
 </p>

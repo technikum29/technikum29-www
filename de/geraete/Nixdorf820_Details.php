@@ -29,6 +29,10 @@
 		fanden wir bei der Durchsicht des Bestandes folgende Hardware vor:
 </p>
 
+<div class="box center"> 
+		<img src="/shared/photos/IBM5100WT.jpg" width="400"  height="300"/>
+		<img src="/shared/photos/IBM5103.jpg" width="400"  height="300"/>
+		</div>
 
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos
 		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen

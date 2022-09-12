@@ -13,7 +13,7 @@
 
 <table>
 	<tr>
-		<th>Modul - Bezeichnung</th>     
+		<th>Modul - Bezeichnung   </th>     
 		<th>Funktion</th>
 	</tr>
 	<tr>

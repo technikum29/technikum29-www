@@ -8,7 +8,7 @@
 
 <h3>Im technikum29 vorhandene Manuals zur Nixdorf 820</h3>
 
-<div class="box center"> 
+<div class="box left"> 
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2.jpg" width="300"  height="205"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_1_und_2_Inhalt.jpg" width="293"  height="205"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_MKC_Teil_3.jpg" width="140"  height="205"/>

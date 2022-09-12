@@ -35,6 +35,18 @@
 		<p class="bildtext"><b>Nixdorf 820 </b> in unserer Ausstellung (links), rechts der Lochkartenstanzer im Depot</p>
 	</div>
 
+	<p>In der Mitte die SChreibeinheit mit Magnetkarten-Einzug, rechts davon die numerische Tastatur, darüber der Lochkartenleser. 
+		hinten rechts 2 Magnetbandkassetteneinheiten (eingebaut) und rechts hinter dem Magnetkarteneinzug ein e externe Magnetbandkassetteneinheit.
+		<p/>
+<p>Links und recht je ein blaues Gehäuse mit Netzteilmodulen 119 und einem Rahmen 0753 zur Aufnahme von Rechnermodulen:
+	<p/>
+
+<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stand_2022.jpg" width="573"  height="325"/>
+		<img src="/shared/photos/rechnertechnik/820_Geraetebilder/820_Stanzer_Stand_2022.jpg" width="218"  height="325"/>
+		<p class="bildtext">Zwei <b>Nixdorf 820 </b> Modulschränke 0753 mit Netzteilen und Modulen</p>
+	</div>
+
 	<p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu 100 Module. Zur Bestandsaufnahme und einigen Fotos
 		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen
 		Verbindungskabel für div. Peripherie noch erhalten.

@@ -138,7 +138,7 @@
 
 <div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_202/202_3.jpg" width="200"  height="72"/>
-		<img src="/shared/photos/rechnertechnik/LFI_202/202_1.jpg" width="146"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_202/202_1.jpg" width="294"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_202/202_2.jpg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
 	</div>

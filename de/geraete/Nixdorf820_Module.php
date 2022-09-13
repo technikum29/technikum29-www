@@ -90,14 +90,14 @@
 
 <h3>Prozessormodul <b>LFI 152</b> komplett diskrete Technologie</h3>
 
-<div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="270"  height="105"/>
+<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="100"  height="36"/>
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_1.jpg" width="146"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_2.jpg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
 	</div>
 
-<div class="box left"> 
+<div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_3.jpg" width="280"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_4.jpg" width="285"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_5.jpg" width="141"  height="210"/>
@@ -107,8 +107,8 @@
 <h3>Prozessormodul <b>LFI 154-02</b></h3>
 
 
-<div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_5.jpg" width="270"  height="105"/>
+<div class="box center"> 
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_5.jpg" width="100"  height="36"/>
 		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_1.jpg" width="146"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_2.jpg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
@@ -125,7 +125,7 @@
 <h3>Kernspeicher <b>LFI 166</b> </h3>
 
 
-<div class="box left"> 
+<div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_4.jpg" width="100"  height="36"/>
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_1.jpg" width="146"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_2.jpg" width="285"  height="210"/>

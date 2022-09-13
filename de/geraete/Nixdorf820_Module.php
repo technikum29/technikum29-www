@@ -99,7 +99,7 @@
 <div class="box left"> 
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_4.jpg" width="285"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_5.jpg" width="141"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="77"  height="30"/>
+		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="270"  height="105"/>
 	<p class="bildtext"><b>Prozessormodul LFI 152</b> komplett diskrete Technologie !</p>
 	</div>
 

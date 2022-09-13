@@ -88,7 +88,7 @@
 
 <h3>Fotos einiger Module:</h3>
 
-<p>Es folgen Fotos ausgesuchter Module aus unserer Nixdorf 820. Ausnahme ist der Prozessor LFI 152, noch in komplett diskreter Technologie.
+<p>Es folgen Fotos ausgesuchter Module aus unserer Nixdorf 820. Ausnahme ist der Prozessor LFI 152, noch in komplett diskreter Technologie,
 	der nicht in unserer Maschine im Einsatz war.</p>
 <p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 

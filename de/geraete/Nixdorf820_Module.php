@@ -147,6 +147,6 @@
 	<p class="bildtext">  </p>
 	</div>
 
-<p>*** im Aufbau ***</p>
+<p>*** wird fortgeführt ***</p>
 
 

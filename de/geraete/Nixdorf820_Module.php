@@ -92,7 +92,7 @@
 	der nicht in unserer Maschine im Einsatz war.</p>
 <p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
-<h3>Prozessormodul <b>LFI 152</b> komplett diskrete Technologie</h3>
+<h3>Prozessormodul <b>LFI 152</b>, noch in komplett diskreter Technologie ohne ICs aufgebaut !</h3>
 
 <div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="200"  height="72"/>

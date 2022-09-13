@@ -90,9 +90,9 @@
 
 
 <div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/LFI_152/LAFI_152_1.jpg" width="146"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_152/LAFI_152_2.jpg" width="294"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_152/LAFI_152_3.jpg" width="280"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_1.jpg" width="146"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_2.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_3.jpg" width="280"  height="210"/>
 	<p class="bildtext"><b>Prozessormodul LFI 152</b> komplett diskrete Technologie !</p>
 	</div>
 

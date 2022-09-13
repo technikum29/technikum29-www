@@ -104,7 +104,23 @@
 	<p class="bildtext"></p>
 	</div>
 
-<h3>Prozessormodul <b>LFI 152</b> komplett diskrete Technologie</h3>
+<h3>Prozessormodul <b>LFI 154-02</b></h3>
+
+
+<div class="box left"> 
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_5.jpg" width="270"  height="105"/>
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_1.jpg" width="146"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_2.jpg" width="294"  height="210"/>
+	<p class="bildtext">  </p>
+	</div>
+
+<div class="box left"> 
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_3.jpg" width="280"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_154_02/LFI_154_02_4.jpg" width="146"  height="210"/>
+	<p class="bildtext"></p>
+	</div>
+
+
 
 <h3>Kernspeicher <b>LFI 166</b> </h3>
 

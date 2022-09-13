@@ -110,7 +110,7 @@
 
 
 <div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_4.jpg" width="135"  height="52"/>
+		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_4.jpg" width="100"  height="36"/>
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_1.jpg" width="146"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_2.jpg" width="285"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_3.jpg" width="146"  height="210"/>

@@ -88,7 +88,7 @@
 
 <h3>Fotos einiger Module:</h3>
 
-<h3><b>Prozessormodul LFI 152</b> komplett diskrete Technologie</h3>
+<h3>Prozessormodul <b>LFI 152</b> komplett diskrete Technologie</h3>
 
 <div class="box left"> 
 		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6.jpg" width="270"  height="105"/>
@@ -104,9 +104,9 @@
 	<p class="bildtext"></p>
 	</div>
 
+<h3>Prozessormodul <b>LFI 152</b> komplett diskrete Technologie</h3>
 
-
-<h3><b>Kernspeicher LFI 166</b> </h3>
+<h3>Kernspeicher <b>LFI 166</b> </h3>
 
 
 <div class="box left"> 
@@ -117,13 +117,8 @@
 	<p class="bildtext">  </p>
 	</div>
 
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
 
+<h3>Batteriegepufferter Halbleiterspeicher <b>Nr. 202</b> </h3>
 
 
 <p>*** im Aufbau ***</p>

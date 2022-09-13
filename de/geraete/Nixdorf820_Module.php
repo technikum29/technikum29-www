@@ -104,6 +104,9 @@
 	<p class="bildtext"></p>
 	</div>
 
+<p> </p>
+<p> </p>
+<p> </p>
 
 <h3><b>Kernspeicher LFI 166</b> </h3>
 

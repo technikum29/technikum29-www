@@ -109,6 +109,17 @@
 <h3><b>Kernspeicher LFI 166</b> </h3>
 
 
+<div class="box left"> 
+		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_4.jpg" width="270"  height="105"/>
+		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_1.jpg" width="146"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_2.jpg" width="285"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_166/LFI_166_3.jpg" width="146"  height="210"/>
+	<p class="bildtext">  </p>
+	</div>
+
+
+
+
 
 
 <p>*** im Aufbau ***</p>

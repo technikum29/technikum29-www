@@ -16,10 +16,7 @@
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
-<h3>Herkunft der Q1 lite</h3>
 
-	<p> _____________________________________
-</p>
 
 <h3>einige Detailbilder unserer Q1</h3>
 
@@ -27,24 +24,16 @@
 </p>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jp" width="573"  height="325"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="218"  height="325"/>
-		<p class="bildtext"><b>Q1 lite</b> ___________</p>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" width="700"  height="434"/>
+		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
 	</div>
 
-	<p>______________________
-		<p/>
-<p>__________________________________-
-	<p/>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="427"  height="320"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jp" width="427"  height="320"/>
-		<p class="bildtext">Q1 lite</b> ____________________________</p>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
+		<p class="bildtext">Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
 	</div>
-
-<p>_____________________
-</p>
 
 
 

@@ -3,7 +3,7 @@
 	$version = '$Id';
 	$titel = 'Q1 lite';
 	
-	require '../../lib/technikum29.php';
+	require '../../../lib/technikum29.php';
 ?>
 
 <h2><?php print $titel; ?></h2>

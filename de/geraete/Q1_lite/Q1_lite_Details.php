@@ -41,6 +41,13 @@
 	</div>
 
 
+<div class="box center"> 
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
+		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansitz und Nahaufnahme</p>
+	</div>
+
+
 
 <h3>Wiederinbetriebnahme der Anlage</h3>
 

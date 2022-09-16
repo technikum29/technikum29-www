@@ -11,16 +11,18 @@
 	<h2>Historische Personal-Computer</h2>
 </header>
 
+
+		
+		<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
+			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter 
+			Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.</p>
+
 	<h3 id="ibm5100"><b>IBM 5100</b></h3><br>
 
 		<div class="box center"> 
 		<img src="/shared/photos/IBM5100WT.jpg" width="400"  height="300"/>
 		<img src="/shared/photos/IBM5103.jpg" width="400"  height="300"/>
 		</div>
-		
-		<p>"Wie definiert man einen Personal-Computer?", eine oft gestellte Frage, die wir so beantworten würden:<br>
-			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals ein Röhren-Monitor) sowie geeigneter 
-			Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.</p>
 		<p>1975 stellte die Firma IBM den "ersten tragbaren Computer" vor: das Modell 5100. Der Begriff "tragbar" war relativ, das Gerät 
 			wog 28 kg, war aber dennoch revolutionär für seine Zeit. In einem kompakten Gehäuse war die CPU, 16 - 64 kB RAM, bis zu 64 kB 
 			ROM, eine Tastatur, ein kleiner Bildschirm zur Anzeige von 16 Zeilen a 64 Zeichen (monochrom) sowie ein Bandlaufwerk mit 204 kB 

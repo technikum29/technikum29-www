@@ -158,3 +158,6 @@
 		Q1 Typenraddrucker. Leider kam das Exponat ohne weitere Dokumentation und Software. <br>
 		Der Computer startet mit einer Begrüßungsmeldung und reagiert ansonsten nicht, wegen der Seltenheit der Maschine wird eine vollständige 
 		Instandsetzung schwierig werden, da auch im Web keinerlei Unterlagen mehr verfügbar sind.</p>
+
+<p>Über Details und die Wiederinbetriebnahme unserer Q1 lite berichten wir  <a class="go" href="/de/geraete/Q1_lite/Q1_lite_Details.php">hier</a>.
+    <p/>

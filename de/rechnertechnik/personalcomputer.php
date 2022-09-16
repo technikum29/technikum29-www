@@ -159,5 +159,5 @@
 		Der Computer startet mit einer Begrüßungsmeldung und reagiert ansonsten nicht, wegen der Seltenheit der Maschine wird eine vollständige 
 		Instandsetzung schwierig werden, da auch im Web keinerlei Unterlagen mehr verfügbar sind.</p>
 
-<p>Über Details und die Wiederinbetriebnahme unserer Q1 lite berichten wir  <a class="go" href="/de/geraete/Q1_lite/Q1_lite_Details.php">hier</a>.
+<p>Über Details und die Wiederinbetriebnahme unserer Q1 lite berichten wir  <a class="go" href="/de/geraete/Nixdorf820_Details.php">hier</a>.
     <p/>

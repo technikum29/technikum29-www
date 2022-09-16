@@ -31,13 +31,13 @@
 <div class="box center"> 
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
-		<p class="bildtext">Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
+		<p class="bildtext"><b>Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
 	</div>
 
 <div class="box center"> 
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
-		<p class="bildtext">Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
+		<p class="bildtext"><b>Q1 lite</b> Netzteilplatine linke und rechte Seite</p>
 	</div>
 
 

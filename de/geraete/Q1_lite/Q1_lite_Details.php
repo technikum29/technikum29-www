@@ -44,7 +44,7 @@
 <div class="box center"> 
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
-		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansitz und Nahaufnahme</p>
+		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansicht und Nahaufnahme</p>
 	</div>
 
 
@@ -52,15 +52,17 @@
 <h3>Wiederinbetriebnahme der Anlage</h3>
 
 
-	<p>______________________
+	<p>Nach allen Unterlagen, die uns zugänglich sind, ist ein Betrieb der Q1 ohne Diskettenstation nicht möglich. Von
+		daher wird unsere Q1 ein "ruhendes" Expemplar bleiben. Ob in ROMs ein Monitorprogramm steckt, das evtl.
+		einen rudimentären Betrieb zulässt, kann erst geprüft werden, wenn die Maschine nach dem Einschalten auf
+		Tastendrücke reagiert (was sie im Augenblick noch nicht tut).
 		<p/>
-<p>__________________________________-
-	<p/>
+	<p> *** wird fortgesetzt *** 
+		</p>
 
 <h3>Broschüren und Manuals zum Download</h3>
 
 <p>zum Download unserer Scans geht es <a href="/de/geraete/Q1_lite/Q1_PDFs">hier</a>
 </p>
 
-	<p> *** wird fortgesetzt *** 
-</p>
+

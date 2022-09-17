@@ -18,15 +18,15 @@
 	</tr>
 	<tr>
 		<td>LFI 17</td>   
-		<td>?</td>
+		<td>FädelROM</td>
 	</tr>	
 	<tr>
 		<td>LFI 170</td>   
-		<td>Fädel-ROM</td>
+		<td>ROM</td>
 	</tr>		
 	<tr>
 		<td>LFI 177</td>   
-		<td>Fädel-ROM</td>
+		<td>Stäbchen-ROM</td>
 	</tr>	
 	<tr>
 		<td>LFI 152,154,158</td>   

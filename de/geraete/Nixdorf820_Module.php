@@ -162,7 +162,7 @@
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpeg" width="200"  height="72"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpeg" width="294"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpeg" width="294"  height="210"/>
-	<p class="bildtext">mitte: Draufsicht auf das Stäbchen-ROM <b>LFI 177</b>, rechts mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
+	<p class="bildtext">mitte: Draufsicht auf Stäbchen-ROM <b>LFI 177</b>, re.: mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
 	</div>
 
 
@@ -170,7 +170,7 @@
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_4.jpeg" width="200"  height="170"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_5.jpeg" width="203"  height="170"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_6.jpeg" width="320"  height="226"/>
-	<p class="bildtext">links und mitte: <b>LFI 381</b> Einschübe mit Fädelprogramm, rechts Rückseite<b>LFI 177</b> </p>
+	<p class="bildtext">links und mitte: <b>LFI 381</b> Programmträger mit Fädelprogramm, rechts Rückseite <b>LFI 177</b> </p>
 	</div>
 
 <p>*** wird fortgeführt ***</p>

@@ -150,9 +150,9 @@
 <h3>Fädel-ROM <b>LFI 017</b> </h3>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/LFI_017/017_3.jpg" width="200"  height="72"/>
-		<img src="/shared/photos/rechnertechnik/LFI_017/017_1.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_017/017_1.jpg" width="200"  height="72"/>
 		<img src="/shared/photos/rechnertechnik/LFI_017/017_2.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_017/017_3.jpg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
 	</div>
 

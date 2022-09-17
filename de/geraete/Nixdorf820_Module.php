@@ -156,12 +156,12 @@
 	<p class="bildtext">  </p>
 	</div>
 
-<h3>Stäbchen-ROM <b>LFI 117</b> </h3>
+<h3>Stäbchen-ROM <b>LFI 177</b> </h3>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/LFI_117/117_1.jpg" width="200"  height="72"/>
-		<img src="/shared/photos/rechnertechnik/LFI_117/117_2.jpg" width="294"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_117/117_3.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpg" width="200"  height="72"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
 	</div>
 

@@ -162,7 +162,7 @@
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpeg" width="200"  height="72"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpeg" width="294"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpeg" width="294"  height="210"/>
-	<p class="bildtext">  </p>
+	<p class="bildtext">links: Draufsicht auf das Stäbchen-ROM <b>LFI 177</b>, rechts mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
 	</div>
 
 

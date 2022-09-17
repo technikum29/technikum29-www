@@ -167,10 +167,10 @@
 
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpeg" width="200"  height="170"/>
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpeg" width="203"  height="170"/>
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpeg" width="320"  height="226"/>
-	<p class="bildtext">  </p>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_4.jpeg" width="200"  height="170"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_5.jpeg" width="203"  height="170"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_6.jpeg" width="320"  height="226"/>
+	<p class="bildtext">links und mitte: <b>LFI 381</b> Einschübe mit Fädelprogramm </p>
 	</div>
 
 <p>*** wird fortgeführt ***</p>

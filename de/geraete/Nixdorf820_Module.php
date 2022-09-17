@@ -159,9 +159,9 @@
 <h3>Stäbchen-ROM <b>LFI 177</b> </h3>
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpg" width="200"  height="72"/>
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpg" width="294"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpeg" width="200"  height="72"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpeg" width="294"  height="210"/>
+		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpeg" width="294"  height="210"/>
 	<p class="bildtext">  </p>
 	</div>
 

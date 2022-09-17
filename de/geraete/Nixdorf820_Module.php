@@ -73,6 +73,10 @@
 		<td>Recheneinheit für den Centronix-Drucker</td>
 	</tr>
 	<tr>
+		<td>LFI 381</td>          
+		<td>Programmeinschub für LFI 177</td>
+	</tr>
+	<tr>
 		<td>LFI 402</td>          
 		<td>Umschaltplatte</td>
 	</tr>	

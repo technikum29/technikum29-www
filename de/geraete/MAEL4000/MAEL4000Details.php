@@ -19,7 +19,7 @@
 <h3>Aufbau unserer MAEL</h3>
 
 <p>Unsere MAEL Zentraleinheit besteht aus einer MAEL 4000 Calculating Unit 4000 SerNo 21403. In diesem Rack befinden sich neben dem Netzteil
-	10 Platinen:</p>
+	und dem Kernspeicher (11R 1000) 10 Platinen:</p>
 <p>
 </p>
 <table>
@@ -54,6 +54,22 @@
 		<td>ARU</td>		<td>P026 A</td>
 		</tr>
 
+</table>
+
+In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben dem Netzteil noch 4 weitere Platinen:
+<table>
+	<tr>
+		<td>HSR329</td>	<td>P054 I</td>
+		</tr>
+	<tr>
+		<td>FPR</td>		<td>P052 B</td>
+		</tr>
+	<tr>
+		<td>DRV</td>		<td>P039 A</td>
+		</tr>
+	<tr>
+		<td>TIM</td>		<td>P055 A</td>
+		</td>
 </table>
 
 

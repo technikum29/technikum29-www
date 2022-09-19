@@ -21,10 +21,6 @@
 		<td>FädelROM</td>
 	</tr>	
 	<tr>
-		<td>LFI 170</td>   
-		<td>ROM</td>
-	</tr>		
-	<tr>
 		<td>LFI 177</td>   
 		<td>Stäbchen-ROM</td>
 	</tr>	

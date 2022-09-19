@@ -84,23 +84,10 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" width="700"  height="434"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" width="302"  height="118"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" width="320"  height="118"/>
 		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
 	</div>
-
-
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
-		<p class="bildtext"><b>Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
-	</div>
-
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
-		<p class="bildtext"><b>Q1 lite</b> Netzteilplatine linke und rechte Seite</p>
-	</div>
-
 
 
 <h3>Wiederinbetriebnahme der Anlage</h3>

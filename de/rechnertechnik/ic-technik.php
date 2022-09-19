@@ -32,7 +32,7 @@
 <p>Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel).
 Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vorführbereit.</p>
 
-<p>Über Details und die Wiederinbetriebnahme unserer MAEL 4000 lite berichten wir  <a class="go" href="/de/geraete/MAEL4000/MAEL4000_Details.php">hier</a>.
+<p>Über Details und die Wiederinbetriebnahme unserer MAEL 4000 lite berichten wir  <a class="go" href="/de/geraete/MAEL4000/MAEL4000Details.php">hier</a>.
     <p/>
 
 	<h3 id="wang700">WANG 700</h3>

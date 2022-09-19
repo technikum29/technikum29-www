@@ -19,7 +19,7 @@
 <h3>Aufbau unserer MAEL</h3>
 
 <p>Unsere MAEL Zentraleinheit besteht aus einer MAEL 4000 Calculating Unit 4000 SerNo 21403. In diesem Rack befinden sich neben dem Netzteil
-	und dem Kernspeicher (11R 1000) 10 Platinen:</p>
+	und dem Kernspeicher (100R 1000) 10 Platinen:</p>
 <p>
 </p>
 <table>

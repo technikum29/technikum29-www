@@ -116,6 +116,18 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 </p>
 <p>
 </p>
+<div class="box center"> 
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_COD.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_JMP.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SRG.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_CLK.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_ARU.jpeg" width="150"  height="77"/>
+		<p class="bildtext"><b>MAEL 4000</b> Platinen der Zentraleinheit: COD, JMP, SRG, CLK und ARU</p>
+	</div>
+<p>
+</p>
+<p>
+</p>
 <h3>Wiederinbetriebnahme der Anlage</h3>
 
 

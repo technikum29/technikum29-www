@@ -16,6 +16,45 @@
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+<h3>Aufbau unserer MAEL</h3>
+
+<p>Unsere MAEL Zentraleinheit besteht aus einer MAEL 4000 Calculating Unit 4000 SerNo 21403. In diesem Rack befinden sich neben dem Netzteil
+	10 Platinen:</p>
+<p>
+</p>
+<table>
+	<tr>
+		<td>SQR</td>		<td>P050 A</td>
+		</tr>
+	<tr>
+		<td>DIV</td>		<td>P049 A</td>
+		</tr>
+	<tr>
+		<td>MTP2</td>		<td>P044 A</td>
+		</tr>
+	<tr>
+		<td>AOP</td>		<td>P042 B</td>
+		</tr>
+	<tr>
+		<td>PRT</td>		<td>P040 B</td>
+		</tr>
+	<tr>
+		<td>COD</td>		<td>P031 B</td>
+		</tr>
+	<tr>
+		<td>JMP</td>		<td>P030 B</td>
+		</tr>
+	<tr>
+		<td>SRG</td>		<td>P041 C</td>
+		</tr>
+	<tr>
+		<td>CLK</td>		<td>51-001-14</td>
+		</tr>
+	<tr>
+		<td>ARU</td>		<td>P026 A</td>
+		</tr>
+
+</table>
 
 
 <h3>einige Detailbilder unserer MAEL</h3>

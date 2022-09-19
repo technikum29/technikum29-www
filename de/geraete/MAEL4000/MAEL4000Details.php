@@ -84,10 +84,10 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" width="240"  height="320"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" width="200"  height="267"/>
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" width="302"  height="118"/>
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" width="320"  height="118"/>
-		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
+		<p class="bildtext"><b>MAEL 4000</b> Zentral- und Erweiterungseinheit im Tischkabinett</p>
 	</div>
 
 

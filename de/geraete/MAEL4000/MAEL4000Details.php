@@ -55,8 +55,11 @@
 		</tr>
 
 </table>
-
+<p>
+</p>
 In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben dem Netzteil noch 4 weitere Platinen:
+<p>
+</p>
 <table>
 	<tr>
 		<td>HSR329</td>	<td>P054 I</td>
@@ -71,7 +74,10 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 		<td>TIM</td>		<td>P055 A</td>
 		</td>
 </table>
-
+<p>
+</p>
+<p>
+</p>
 
 <h3>einige Detailbilder unserer MAEL</h3>
 

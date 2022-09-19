@@ -139,6 +139,17 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 </p>
 <p>
 </p>
+<div class="box center"> 
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_HSR.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_FPR.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DRV.jpeg" width="150"  height="77"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_TIM.jpeg" width="150"  height="77"/>
+		<p class="bildtext"><b>MAEL 4001</b> Platinen der Erweiterungseinheiteinheit: HSR329, FPR, DRV, TIM</p>
+	</div>
+<p>
+</p>
+<p>
+</p>
 <h3>Wiederinbetriebnahme der Anlage</h3>
 
 

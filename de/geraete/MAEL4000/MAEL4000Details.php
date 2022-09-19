@@ -90,7 +90,20 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 		<p class="bildtext"><b>MAEL 4000</b> Zentral- und Erweiterungseinheit im Tischkabinett</p>
 	</div>
 
-
+<p>
+</p>
+<p>
+</p>
+<div class="box center"> 
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen.jpeg" width="213"  height="194"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen2.jpeg" width="342"  height="194"/>
+		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen3.jpeg" width="225"  height="194"/>
+		<p class="bildtext"><b>MAEL 4000</b> Blick in die Zentraleinheit</p>
+	</div>
+<p>
+</p>
+<p>
+</p>
 <h3>Wiederinbetriebnahme der Anlage</h3>
 
 

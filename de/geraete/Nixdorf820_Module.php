@@ -21,6 +21,10 @@
 		<td>Ringkernspeicher-ROM für max 2048 Befehlsworte zu 12 Bit</td>
 	</tr>	
 	<tr>
+		<td>LFI 0119</td>          
+		<td>Netzteil</td>
+	</tr>
+	<tr>
 		<td>LFI 177</td>   
 		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 12 Bit</td>
 	</tr>	
@@ -44,10 +48,6 @@
 		<td>LFI 186</td>           
 		<td>EA-Karte (D9) für Magnetkonten-Vorsteckeinrichtung MKE</td>
 	</tr>	
-	<tr>
-		<td>LFI 0191</td>          
-		<td>Netzteil</td>
-	</tr>
 	<tr>
 		<td>201, 202</td>          
 		<td>batteriegepufferter Halbleiterspeicher RAM 48 kBit aus 48*IM6508</td>

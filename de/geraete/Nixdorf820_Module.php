@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'Nixdorf 820 Module';
 	$version = '$Id';
-	$titel = 'Nixdorf 802 Module';
+	$titel = 'Nixdorf 820 Module';
 	
 	require '../../lib/technikum29.php';
 ?>

@@ -18,11 +18,11 @@
 	</tr>
 	<tr>
 		<td>LFI 17</td>   
-		<td>FädelROM</td>
+		<td>Ringkernspeicher-ROM für max 2048 Befehlsworte (zu 18 Bit)</td>
 	</tr>	
 	<tr>
 		<td>LFI 177</td>   
-		<td>Stäbchen-ROM</td>
+		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte</td>
 	</tr>	
 	<tr>
 		<td>LFI 152,154,158</td>   
@@ -69,8 +69,12 @@
 		<td>Recheneinheit für den Centronix-Drucker</td>
 	</tr>
 	<tr>
+		<td>LFI 388</td>          
+		<td>Programmträger (2048 Befehlsworte) für LFI 177</td>
+	</tr>
+	<tr>
 		<td>LFI 381</td>          
-		<td>Programmeinschub für LFI 177</td>
+		<td>Programmträger (2048 Befehlsworte) für LFI 177</td>
 	</tr>
 	<tr>
 		<td>LFI 402</td>          
@@ -147,7 +151,7 @@
 	<p class="bildtext">  </p>
 	</div>
 
-<h3>Fädel-ROM <b>LFI 017</b> </h3>
+<h3>Ringkernspeicher-ROM <b>LFI 017</b> </h3>
 
 <div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_017/017_1.jpg" width="200"  height="72"/>
@@ -156,13 +160,13 @@
 	<p class="bildtext">  </p>
 	</div>
 
-<h3>Stäbchen-ROM <b>LFI 177</b> </h3>
+<h3>Stäbchenspeicher-ROM <b>LFI 177</b> </h3>
 
 <div class="box center"> 
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_1.jpeg" width="200"  height="72"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_2.jpeg" width="294"  height="210"/>
 		<img src="/shared/photos/rechnertechnik/LFI_177/177_3.jpeg" width="294"  height="210"/>
-	<p class="bildtext">mitte: Draufsicht auf das Stäbchen-ROM <b>LFI 177</b>, rechts: mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
+	<p class="bildtext">mitte: Draufsicht auf den Stäbchenspeicher <b>LFI 177</b>, rechts: mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
 	</div>
 
 

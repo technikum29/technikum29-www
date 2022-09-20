@@ -16,7 +16,7 @@
 	</div>
 
 <div class="box left"> 
-		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/Nixdorf820_Programmierhandbuch_T29.jpg" width="177"  height="250"/>	
+		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/Nixdorf820_Programmierhandbuch_T29.jpeg" width="177"  height="250"/>	
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_15_Service_Manual.jpg" width="181"  height="250"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_25_35_Service_Manual.jpg" width="181"  height="250"/>
 		<img src="/shared/photos/rechnertechnik/820_Manuals_Bilder/820_30_tech_Handbuch.jpg" width="171"  height="250"/>

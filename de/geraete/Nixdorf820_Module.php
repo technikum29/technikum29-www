@@ -38,11 +38,11 @@
 	</tr>	
 	<tr>
 		<td>LFI 184</td>           
-		<td>EA-Karte (D10, 7, 8) für Drucker, Lochkarten und Lochstreifen</td>
+		<td>EA-Karte (D10, 7, 8) für Drucker, Lochkarten und Lochstreifen Erst- und Zweitgeräte</td>
 	</tr>	
 	<tr>
 		<td>LFI 186</td>           
-		<td>EA-Karte (D9) für Magnetkonten Vorsteckeinrichtung</td>
+		<td>EA-Karte (D9) für Magnetkonten-Vorsteckeinrichtung MKE</td>
 	</tr>	
 	<tr>
 		<td>LFI 0191</td>          
@@ -50,7 +50,7 @@
 	</tr>
 	<tr>
 		<td>201, 202</td>          
-		<td>batteriegepufferte Halbleiterspeicher RAM</td>
+		<td>batteriegepufferter Halbleiterspeicher RAM 48 kBit aus 48*IM6508</td>
 	</tr>
 	<tr>
 		<td>LFI 037</td>           
@@ -78,7 +78,7 @@
 	</tr>
 	<tr>
 		<td>LFI 402</td>          
-		<td>Umschaltplatte</td>
+		<td>Umschaltplatte für Chassis 540 für Modell 820/35</td>
 	</tr>	
 	<tr>
 		<td>LFI 5200, 571</td>    

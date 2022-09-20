@@ -18,11 +18,11 @@
 	</tr>
 	<tr>
 		<td>LFI 17</td>   
-		<td>Ringkernspeicher-ROM für max 2048 Befehlsworte zu 18 Bit</td>
+		<td>Ringkernspeicher-ROM für max 2048 Befehlsworte zu 12 Bit</td>
 	</tr>	
 	<tr>
 		<td>LFI 177</td>   
-		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 18 Bit</td>
+		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 12 Bit</td>
 	</tr>	
 	<tr>
 		<td>LFI 152,154,158</td>   
@@ -70,11 +70,11 @@
 	</tr>
 	<tr>
 		<td>LFI 388</td>          
-		<td>Programmträger (2048 Befehlsworte zu 18 Bit) für LFI 177</td>
+		<td>Programmträger (2048 Befehlsworte zu 12 Bit) für LFI 177</td>
 	</tr>
 	<tr>
 		<td>LFI 381</td>          
-		<td>Programmträger (2048 Befehlsworte zu 18 Bit) für LFI 177</td>
+		<td>Programmträger (2048 Befehlsworte zu 12 Bit) für LFI 177</td>
 	</tr>
 	<tr>
 		<td>LFI 402</td>          

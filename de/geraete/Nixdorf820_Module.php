@@ -30,11 +30,11 @@
 	</tr>	
 	<tr>
 		<td>LFI 161,162,163,166</td>   
-		<td>Kernspeichermodule</td>
+		<td>Kernspeichermodule mit 128, 64, 32 bzw. 512 Speicherworten (zu 16 Bit)</td>
 	</tr>		
 	<tr>
 		<td>LFI 1607</td>          
-		<td>Kernspeichermodule</td>
+		<td>Kernspeichermodul</td>
 	</tr>	
 	<tr>
 		<td>LFI 184</td>           

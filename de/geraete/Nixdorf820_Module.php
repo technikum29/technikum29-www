@@ -17,8 +17,12 @@
 		<th>Funktion</th>
 	</tr>
 	<tr>
-		<td>LFI 17</td>   
+		<td>LFI 017</td>   
 		<td>Ringkernspeicher-ROM für max 2048 Befehlsworte zu 12 Bit</td>
+	</tr>	
+	<tr>
+		<td>LFI 037</td>   
+		<td>Ringkernspeicher-ROM </td>
 	</tr>	
 	<tr>
 		<td>LFI 0119</td>          
@@ -51,10 +55,6 @@
 	<tr>
 		<td>201, 202</td>          
 		<td>batteriegepufferter Halbleiterspeicher RAM 48 kBit aus 48*IM6508</td>
-	</tr>
-	<tr>
-		<td>LFI 037</td>           
-		<td>?</td>
 	</tr>	
 	<tr>
 		<td>LFI 310</td>          
@@ -69,7 +69,7 @@
 		<td>Recheneinheit für den Centronix-Drucker</td>
 	</tr>
 	<tr>
-		<td>LFI 388</td>          
+		<td>LFI 380</td>          
 		<td>Programmträger (2048 Befehlsworte zu 12 Bit) für LFI 177</td>
 	</tr>
 	<tr>
@@ -77,16 +77,20 @@
 		<td>Programmträger (2048 Befehlsworte zu 12 Bit) für LFI 177</td>
 	</tr>
 	<tr>
-		<td>LFI 402</td>          
+		<td>LFI 420</td>          
 		<td>Umschaltplatte für Chassis 540 für Modell 820/35</td>
-	</tr>	
+	</tr>		
 	<tr>
-		<td>LFI 5200, 571</td>    
-		<td>?</td>
-	</tr>	
+		<td>LFI 972</td>   
+		<td>Nadeldrucker SE 1</td>
+	</tr>
 	<tr>
-		<td>LFI 972,973,974,978</td>   
-		<td>?</td>
+		<td>LFI 973</td>   
+		<td>Nadeldrucker Steuerelektronik SE 2</td>
+	</tr>
+	<tr>
+		<td>LFI 974</td>   
+		<td>Nadeldrucker Verstärkerelektronik</td>
 	</tr>
 </table>
 

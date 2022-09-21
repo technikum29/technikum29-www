@@ -31,15 +31,15 @@
 	<tr>
 		<td>LFI 152,154,158</td>   
 		<td>Prozessoren</td>
-	</tr>	
-	<tr>
-		<td>LFI 161,162,163,166</td>   
-		<td>Kernspeichermodule mit 128, 64, 32 bzw. 512 Speicherworten</td>
-	</tr>		
+	</tr>
 	<tr>
 		<td>LFI 1607</td>          
 		<td>Kernspeichermodul 4 K</td>
 	</tr>
+	<tr>
+		<td>LFI 161,162,163,166</td>   
+		<td>Kernspeichermodule mit 128, 64, 32 bzw. 512 Speicherworten</td>
+	</tr>		
 	<tr>
 		<td>LFI 177</td>   
 		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 12 Bit</td>

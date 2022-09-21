@@ -29,10 +29,6 @@
 		<td>Netzteil</td>
 	</tr>
 	<tr>
-		<td>LFI 177</td>   
-		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 12 Bit</td>
-	</tr>	
-	<tr>
 		<td>LFI 152,154,158</td>   
 		<td>Prozessoren</td>
 	</tr>	
@@ -42,7 +38,11 @@
 	</tr>		
 	<tr>
 		<td>LFI 1607</td>          
-		<td>Kernspeichermodul</td>
+		<td>Kernspeichermodul 4 K</td>
+	</tr>
+	<tr>
+		<td>LFI 177</td>   
+		<td>Stäbchenspeicher-ROM für max 4096 Befehlsworte zu 12 Bit</td>
 	</tr>	
 	<tr>
 		<td>LFI 184</td>           

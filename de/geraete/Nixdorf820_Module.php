@@ -25,7 +25,7 @@
 		<td>Ringkernspeicher-ROM </td>
 	</tr>	
 	<tr>
-		<td>LFI 0119</td>          
+		<td>LFI 119</td>          
 		<td>Netzteil</td>
 	</tr>
 	<tr>

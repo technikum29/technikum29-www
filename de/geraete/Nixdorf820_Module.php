@@ -82,7 +82,7 @@
 	</tr>		
 	<tr>
 		<td>LFI 972</td>   
-		<td>Nadeldrucker SE 1</td>
+		<td>Nadeldrucker Steuerelektronik SE 1</td>
 	</tr>
 	<tr>
 		<td>LFI 973</td>   

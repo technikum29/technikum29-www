@@ -49,8 +49,8 @@
 
 <div class="box center"> 
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" width="281"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/q1_Printer_Typschild.jpeg" width="340"  height="225"/>
-		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansicht und Nahaufnahme</p>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" width="340"  height="225"/>
+		<p class="bildtext"><b>Q1 lite</b> Typenschild Computer und Drucker</p>
 	</div>
 
 

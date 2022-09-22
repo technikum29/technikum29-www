@@ -70,5 +70,7 @@
 
 <p>zum Download unserer Scans geht es <a href="/de/geraete/Q1_lite/Q1_PDFs">hier</a>
 </p>
+<p>Besonderer Dank geht an Robin Vowels, der uns mit Scans einiger seltener Manuals versorgt hat !
+</p>
 
 

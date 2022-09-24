@@ -38,9 +38,7 @@
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 1. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
+	<p>*** ACHTUNG *** Termin muss leider entfallen !! ***
 
 	<dl class="daten">
 		<dt>Tag

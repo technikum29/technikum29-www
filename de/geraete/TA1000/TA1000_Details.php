@@ -30,7 +30,7 @@
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Typschild.jpeg" width="150"  height="130"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Typschild.jpeg" width="200"  height="173"/>
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Module.jpeg" width="271"  height="300"/>
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Gehaeuse_innen.jpeg" width="225"  height="300"/>
 		<p class="bildtext"><b>TA1000</b> Typschild und Blick ins Gehäuse von vorn und hinten</p>

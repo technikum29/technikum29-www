@@ -30,35 +30,13 @@
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassisx.jpg" width="700"  height="434"/>
-		<p class="bildtext"><b>TA1000</b> ___________</p>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Typschild.jpeg" width="150"  height="130"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Module.jpeg" width="271"  height="300"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Gehaeuse_innen.jpeg" width="225"  height="300"/>
+		<p class="bildtext"><b>TA1000</b> Typschild und Blick ins Gehäuse von vorn und hinten</p>
 	</div>
 
 
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatinex.jpg" width="300"  height="200"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Displayx.jpg" width="382"  height="200"/>
-		<p class="bildtext"><b>TA1000</b> ___________</p>
-	</div>
-
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_linksx.jpg" width="350"  height="216"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechtsx.jpg" width="352"  height="216"/>
-		<p class="bildtext"><b>TA1000</b> ___________</p>
-	</div>
-
-
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Displayx.jpg" width="300"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Displayx_nah.jpg" width="372"  height="225"/>
-		<p class="bildtext"><b>TA1000</b> ___________</p>
-	</div>
-
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschildx.jpeg" width="281"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschildx.jpeg" width="340"  height="225"/>
-		<p class="bildtext"><b>TA1000</b> ___________</p>
-	</div>
 
 
 

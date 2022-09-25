@@ -67,10 +67,13 @@
 
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_6x.jpg" width="200"  height="72"/>
-		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_1x.jpg" width="146"  height="210"/>
-		<img src="/shared/photos/rechnertechnik/LFI_152/LFI_152_2x.jpg" width="294"  height="210"/>
-	<p class="bildtext">  </p>
+		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_AAB01_CPU.jpeg" width="150"  height="137"/>
+		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_AAD03_AAW02_ROM.jpeg" width="149"  height="137"/>
+		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher1.jpeg" width="161"  height="137"/>
+		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher2.jpeg" width="130"  height="137"/>
+		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_AAN11_DFUE.jpeg" width="152"  height="137"/>
+		
+	<p class="bildtext"><b>TA1000</b>CPU, ROM, Kernspeicher (2*) und DFÜ-Platine  </p>
 	</div>
 
 

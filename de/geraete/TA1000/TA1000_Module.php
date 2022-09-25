@@ -8,7 +8,7 @@
 
 <h3>Im technikum29 vorhandene Module zur TA1000</h3>
 
-<p>In unserem Fundus befinden sich folgende Module für die Nixdorf 820:
+<p>In unserem Fundus befinden sich folgende Module für die TA1000:
 </p>
 
 <table>

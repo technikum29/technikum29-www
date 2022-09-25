@@ -67,7 +67,7 @@
 
 
 <div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_AAB01_CPU.jpeg" width="150"  height="137"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAB01_CPU.jpeg" width="150"  height="137"/>
 		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_AAD03_AAW02_ROM.jpeg" width="149"  height="137"/>
 		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher1.jpeg" width="161"  height="137"/>
 		<img src="/shared/photos/rechnertechnik/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher2.jpeg" width="130"  height="137"/>

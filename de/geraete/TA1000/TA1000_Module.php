@@ -13,39 +13,48 @@
 
 <table>
 	<tr>
-		<th>Modul - Bezeichnung   </th>     
+		<th>Modul - Bezeichnung   </th>   
+		<th>Position</th
 		<th>Funktion</th>
 	</tr>
 	<tr>
-		<td>AAB01</td>   
+		<td>AAB01</td>  
+		<td>2</td>
 		<td>CPU</td>
 	</tr>	
 	<tr>
-		<td>AAD03, AAE02</td>   
+		<td>AAD03, AAE02</td>
+		<td>5</td>
 		<td>ROM-Platine</td>
 	</tr>	
 	<tr>
-		<td>FAD02</td>          
+		<td>FAD02</td>
+		<td>9,10</td>
 		<td>16k * 8 Kernspeichermodul</td>
 	</tr>
 	<tr>
-		<td>AAN11</td>   
+		<td>AAN11</td>  
+		<td>12</td>
 		<td>DFÜ-Modul</td>
 	</tr>
 	<tr>
-		<td>AAJ21</td>          
+		<td>AAJ21</td>
+		<td>13</td>
 		<td>Videoplatine</td>
 	</tr>
 	<tr>
-		<td>AAS02</td>   
+		<td>AAS02</td>
+		<td>14,15</td>
 		<td>I/O-Platine</td>
 	</tr>		
 	<tr>
-		<td>AAM31</td>   
+		<td>AAM31</td>
+		<td>16</td>
 		<td>I/O-Platine</td>
 	</tr>	
 	<tr>
-		<td>AAG31</td>           
+		<td>AAG31</td>
+		<td>17</td>
 		<td>I/O-Platine</td>
 	</tr>	
 	

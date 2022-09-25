@@ -13,8 +13,8 @@
 
 <table>
 	<tr>
-		<th>Modul - Bezeichnung   </th>   
-		<th>Position</th
+		<th>Modul - Bezeichnung_   </th>   
+		<th>Position_</th>
 		<th>Funktion</th>
 	</tr>
 	<tr>

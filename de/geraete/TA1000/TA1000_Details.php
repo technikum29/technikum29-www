@@ -35,21 +35,21 @@
 	</div>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_linksx.jpg" width="350"  height="216"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechtsx.jpg" width="352"  height="216"/>
 		<p class="bildtext"><b>TA1000</b> ___________</p>
 	</div>
 
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Displayx.jpg" width="300"  height="225"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Displayx_nah.jpg" width="372"  height="225"/>
 		<p class="bildtext"><b>TA1000</b> ___________</p>
 	</div>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" width="281"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" width="340"  height="225"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschildx.jpeg" width="281"  height="225"/>
+		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschildx.jpeg" width="340"  height="225"/>
 		<p class="bildtext"><b>TA1000</b> ___________</p>
 	</div>
 

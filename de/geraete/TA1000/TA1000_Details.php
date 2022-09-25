@@ -36,7 +36,13 @@
 		<p class="bildtext"><b>TA1000</b> Typschild und Blick ins Gehäuse von vorn und hinten</p>
 	</div>
 
-
+<div class="box center"> 
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppies.jpeg" width="200"  height="252"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppy.jpeg" width="189"  height="252"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil1.jpeg" width="150"  height="113"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil2.jpeg" width="150"  height="113"/>
+		<p class="bildtext"><b>TA1000</b> Draufsicht mit Floppies, Floppy einzeln und Netzteile</p>
+	</div>
 
 
 
@@ -44,7 +50,8 @@
 <h3>Wiederinbetriebnahme der Anlage</h3>
 
 
-	<p>______________________________________
+	<p>Ohne Software auf Disketten, ohne Manuals und Schaltpläne wird die Inbetriebnahme "herausfordernd" werden. Evtl. 
+		findet der Gerätespender ja noch Unterlagen in seinen Depots.
 		<p/>
 	<p> *** wird fortgesetzt *** 
 		</p>

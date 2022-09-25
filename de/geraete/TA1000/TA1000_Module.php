@@ -3,7 +3,7 @@
 	$version = '$Id';
 	$titel = 'TA1000 Module';
 	
-	require '../../lib/technikum29.php';
+	require '../../../lib/technikum29.php';
 ?>
 
 <h3>Im technikum29 vorhandene Module zur TA1000</h3>

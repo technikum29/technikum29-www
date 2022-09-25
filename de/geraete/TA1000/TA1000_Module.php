@@ -77,5 +77,14 @@
 	</div>
 
 
+<div class="box center"> 
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAJ21_Video.jpeg" width="161"  height="137"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAS02_IO.jpeg" width="153"  height="137"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAM31_IO.jpeg" width="154"  height="137"/>
+		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAG31_IO.jpeg" width="149"  height="137"/>
+		
+	<p class="bildtext"><b>TA1000</b> Videoplatine und die drei I/O-Platinen AAS02, AAM31 und AAG31  </p>
+	</div>
+
 
 <p>*** wird fortgeführt ***</p>

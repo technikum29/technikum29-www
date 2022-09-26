@@ -30,7 +30,7 @@
 <div class="box center"> 
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Teilekatalog_Cover.jpeg" width="250"  height="360"/>
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Schema_Rechenwerk.jpeg" width="531"  height="360"/>
-		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
+		<p class="bildtext"><b>Addelektra SR22</b> Teile-Katalog von 1960 und Schemazeichnung des Rechenwerkes</p>
 	</div>
 
 <h3>einige Detailbilder Addelektra SR22</h3>
@@ -38,13 +38,13 @@
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" width="700"  height="434"/>
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_innen.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" width="450"  height="353"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_innen.jpeg" width="280"  height="353"/>
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 <div class="box center"> 
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Senkrechtzaehlwerke.jpeg" width="700"  height="434"/>
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Rueckseite.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Senkrechtzaehlwerke.jpeg" width="360"  height="270"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Rueckseite.jpeg" width="400"  height="270"/>
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 <div class="box center"> 

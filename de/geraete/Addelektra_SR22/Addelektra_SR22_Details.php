@@ -23,35 +23,26 @@
 	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" width="700"  height="434"/>
-		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_innen.jpeg" width="700"  height="434"/>
+		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
-
-
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
-		<p class="bildtext"><b>Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Senkrechtzaehlwerke.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Rueckseite.jpeg" width="700"  height="434"/>
+		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
-
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
-		<p class="bildtext"><b>Q1 lite</b> Netzteilplatine linke und rechte Seite</p>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Zaehlwerke_Detail.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Querzaehlwerke.jpeg" width="700"  height="434"/>
+		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
-
-
 <div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
-		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansicht und Nahaufnahme</p>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Seriennummer.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_rechts.jpeg" width="700"  height="434"/>
+		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 
-<div class="box center"> 
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" width="281"  height="225"/>
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" width="340"  height="225"/>
-		<p class="bildtext"><b>Q1 lite</b> Typenschild Computer und Drucker</p>
-	</div>
 
 
 
@@ -63,8 +54,7 @@
 		einen rudimentären Betrieb zulässt, kann erst geprüft werden, wenn die Maschine nach dem Einschalten auf
 		Tastendrücke reagiert (was sie im Augenblick noch nicht tut).
 		<p/>
-	<p> *** wird fortgesetzt *** 
-		</p>
+	
 
 <h3>Broschüren und Manuals zum Download</h3>
 

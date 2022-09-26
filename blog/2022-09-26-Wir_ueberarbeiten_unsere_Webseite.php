@@ -17,8 +17,8 @@
 
 <p>Wir haben die letzten Jahre genutzt, dem technikum29 einen neuen Sammlungsschwerpunkt zu geben: wir werden uns ausschließlich auf 
 	Rechen- und Rechnertechnik bis ca 1980 konzentrieren. Dazu kommt die Telegrafie, die Fernschreib- und FAXtechnik sowie das BTX: 
-	alles Techniken, die in einem direkten Bezug zur Entwicklung der Computertechnik stehen. Nicht mehr im Fokus steht die Rundfunk- 
-	Magnetton und Fernsehtechnik. Aus Platzgründen musste sie aus der Ausstellung weichen.</p>
+	alles Techniken, die in einem direkten Bezug zur Entwicklung der Computertechnik stehen. Nicht mehr im Fokus stehen die Rundfunk- 
+	Magnetton- und Fernsehtechnik. Aus Platzgründen mussten sie aus der Ausstellung weichen.</p>
 
 <p>Um diese Veränderungen auch auf der Webseite zu dokumentieren, haben wir begonnen, diese sukzessive anzupassen. Obwohl von manchem 
 	Seitenbesucher gedrängt, doch auf eine ganz neue Webpräsenz mit modernster Technik zu setzen, haben wir beschlossen, das jetzige 

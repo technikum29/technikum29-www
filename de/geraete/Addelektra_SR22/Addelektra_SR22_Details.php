@@ -25,7 +25,7 @@
 	zur SR22/SR34/SR42 mit herrlichen Detailzeichnungen:
 </p>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+	
 
 <div class="box center"> 
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Teilekatalog_Cover.jpeg" width="250"  height="360"/>
@@ -33,9 +33,9 @@
 		<p class="bildtext"><b>Addelektra SR22</b> Teile-Katalog von 1960 und Schemazeichnung des Rechenwerkes</p>
 	</div>
 
-<h3>einige Detailbilder Addelektra SR22</h3>
+<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+<h3>einige Detailbilder Addelektra SR22</h3>
 
 <div class="box center"> 
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" width="450"  height="353"/>

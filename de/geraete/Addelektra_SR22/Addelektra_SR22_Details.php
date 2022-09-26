@@ -13,7 +13,7 @@
 
 <p>Die elektrische Volltext-Buchungsmaschine wurde uns 2022 vom Astronomisch Physikalischen Kabinett (Kassel) übereignet. Sie trägt
 	die Seriennummer 20183. Anhand der Serien-Nr. dürfte das Herstelldatum unserer SR22 bei 1947/48 liegen (Dank an Detlef Zerfowski vom 
-	<a href="https://www.ifhb.de">IFHB Int. Forum Historische Bürowelt e.V.</a>.
+	<a href="https://www.ifhb.de">IFHB Int. Forum Historische Bürowelt e.V.</a>).
 </p>
 <p>Die Maschine ist komplett und im Originalszustand. Einziges Fehlteil ist die Querstange im Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
 	der auswechselbaren Senkrechtzählwerke mit 6 - 9 Stellen. 

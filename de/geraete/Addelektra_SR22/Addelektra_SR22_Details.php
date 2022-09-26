@@ -48,13 +48,13 @@
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 <div class="box center"> 
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Zaehlwerke_Detail.jpeg" width="700"  height="434"/>
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Querzaehlwerke.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Zaehlwerke_Detail.jpeg" width="400"  height="256"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Querzaehlwerke.jpeg" width="346"  height="256"/>
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 <div class="box center"> 
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Seriennummer.jpeg" width="700"  height="434"/>
-		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_rechts.jpeg" width="700"  height="434"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Seriennummer.jpeg" width="370"  height="278"/>
+		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_rechts.jpeg" width="370"  height="278"/>
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 

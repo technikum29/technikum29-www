@@ -61,7 +61,7 @@
 
 
 
-<h3>Broschüren und Manuals zum Download</h3>
+<h3>Broschüren und Manuals zum Download (im Aufbau)</h3>
 
 <p>zum Download unserer Scans geht es <a href="/de/geraete/Addelektra_SR22/Addelektra_SR22_PDFs">hier</a>
 </p>

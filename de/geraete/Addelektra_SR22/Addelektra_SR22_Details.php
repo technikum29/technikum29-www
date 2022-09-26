@@ -12,7 +12,8 @@
 <h3>Die Addelektra SR22 im technikum29</h3>
 
 <p>Die elektrische Volltext-Buchungsmaschine wurde uns 2022 vom Astronomisch Physikalischen Kabinett (Kassel) übereignet. Sie trägt
-	die Seriennummer 20183. Ein Herstelldatum lässt sich nicht zuordnen, in den Markt wurde dieses Modell 1938 eingeführt.
+	die Seriennummer 20183. Anhand der Serien-Nr. dürfte das Herstelldatum unserer SR22 bei 1947/48 liegen (Dank an Detlef Zerfowski vom 
+	<a href="https://www.ifhb.de">IFHB Int. Forum Historische Bürowelt e.V.</a>.
 </p>
 <p>Die Maschine ist komplett und im Originalszustand. Einziges Fehlteil ist die Querstange im Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
 	der auswechselbaren Senkrechtzählwerke mit 6 - 9 Stellen. 
@@ -63,7 +64,7 @@
 
 <h3>Broschüren und Manuals zum Download (im Aufbau)</h3>
 
-<p>zum Download unserer Scans geht es <a href="/de/geraete/Addelektra_SR22/Addelektra_SR22_PDFs">hier</a>
+<p>zum Download unserer Scans geht es <a href="/de/geraete/Addelektra_SR22/Addelektra_SR22_PDFs">hier</a>.
 </p>
 
 

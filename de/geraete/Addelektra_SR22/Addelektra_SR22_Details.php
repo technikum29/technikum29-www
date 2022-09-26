@@ -8,14 +8,22 @@
 
 <h2><?php print $titel; ?></h2>
 
-	<p>
-	*** ACHTUNG BAUSTELLE ! ***
-</p>
 
-	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer Addelektra SR22 und die Wiederinbetriebnahme der Maschine.
-	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
-</p>
+<h3>Die Addelektra SR22 im technikum29</h3>
 
+<p>Die elektrische Volltext-Buchungsmaschine wurde uns 2022 vom Astronomisch Physikalischen Kabinett (Kassel) übereignet. Sie trägt
+	die Seriennummer 20183. Ein Herstelldatum lässt sich nicht zuordnen, in den Markt wurde dieses Modell 1938 eingeführt.
+</p>
+<p>Die Maschine ist komplett und im Originalszustand. Einziges Fehlteil ist der Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
+	der auswechselbaren Senkrechtzählwerke mit 6 - 9 Stellen. 
+</p>
+<p>Die Maschine kam in blockiertem Zustand zu uns. Nach einer gründlichen Reinigung und Schmierung wurde die Mechanik wieder gangbar
+	gemacht. Der Motor wurde sicherheitshalber komplett zerlegt und überholt, um die Maschine wieder für Vorführungen betriebssicher zu
+	machen. Überholung und Inbetriebnahme waren nicht ganz einfach, da wir keine Unterlagen zur Maschine hatten. Zur Reparatur griffen
+	wir auf Patentschriften der Firma Mercedes zurück, aus denen die Funktionsweise sehr gut abgeleitet werden konnte. Die Anleitung zu dem
+	späteren Modell SR42 half uns, sich mit der Bedienung vertraut zu machen. Mittlerweile besitzen wir einen original Mercedes Teile-Katalog
+	zur SR22/SR34/SR42 mit herrlichen Detailzeichnungen:
+</p>
 
 
 <h3>einige Detailbilder Addelektra SR22</h3>

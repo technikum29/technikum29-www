@@ -61,16 +61,6 @@
 
 
 
-<h3>Wiederinbetriebnahme der Anlage</h3>
-
-
-	<p>Nach allen Unterlagen, die uns zugänglich sind, ist ein Betrieb der Q1 ohne Diskettenstation nicht möglich. Von
-		daher wird unsere Q1 ein "ruhendes" Expemplar bleiben. Ob in ROMs ein Monitorprogramm steckt, das evtl.
-		einen rudimentären Betrieb zulässt, kann erst geprüft werden, wenn die Maschine nach dem Einschalten auf
-		Tastendrücke reagiert (was sie im Augenblick noch nicht tut).
-		<p/>
-	
-
 <h3>Broschüren und Manuals zum Download</h3>
 
 <p>zum Download unserer Scans geht es <a href="/de/geraete/Addelektra_SR22/Addelektra_SR22_PDFs">hier</a>

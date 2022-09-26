@@ -14,7 +14,7 @@
 <p>Die elektrische Volltext-Buchungsmaschine wurde uns 2022 vom Astronomisch Physikalischen Kabinett (Kassel) übereignet. Sie trägt
 	die Seriennummer 20183. Ein Herstelldatum lässt sich nicht zuordnen, in den Markt wurde dieses Modell 1938 eingeführt.
 </p>
-<p>Die Maschine ist komplett und im Originalszustand. Einziges Fehlteil ist der Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
+<p>Die Maschine ist komplett und im Originalszustand. Einziges Fehlteil ist die Querstange im Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
 	der auswechselbaren Senkrechtzählwerke mit 6 - 9 Stellen. 
 </p>
 <p>Die Maschine kam in blockiertem Zustand zu uns. Nach einer gründlichen Reinigung und Schmierung wurde die Mechanik wieder gangbar

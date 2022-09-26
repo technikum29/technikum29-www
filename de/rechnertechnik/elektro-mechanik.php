@@ -64,7 +64,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 	    mit deren Hilfe Spalten- und Zeilensummen über Zahleneingaben gebildet werden können - eine wahre Hilfe für die Buchhaltung. Wenn man möchte ein mechanischer 
 	    Vorläufer der heutigen Tabellenkalkulationsprogramme !</p>
 	    <p>Der Typ SR22 wurde 1938 erstmals vorge-stellt. Unsere Maschine ist eine Schenkung des Astronomisch Physikalischen Kabinetts (Kassel). Wir haben
-	    sie mittlerweile überholt, sie ist wieder voll vorführbereit !</p>
+	    sie mittlerweile überholt, sie ist wieder voll vorführbereit, mehr zur SR22 siehe <a class="go" href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Details.php">hier</a> !</p>
     </div>
 
     <div class="box left clear-after">

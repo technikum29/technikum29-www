@@ -6,3 +6,5 @@ shared/cache/
 *~
 # ignore specific Mac files (RL 20220927)
 ._*
+.DS_Store
+

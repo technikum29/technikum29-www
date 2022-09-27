@@ -4,7 +4,9 @@ shared/cache/
 # Temporary files and thelike
 .directory
 *~
+#
 # ignore specific Mac files (RL 20220927), im Web gefunden
+#
 # General
 .DS_Store
 .AppleDouble

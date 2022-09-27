@@ -4,3 +4,5 @@ shared/cache/
 # Temporary files and thelike
 .directory
 *~
+# ignore specific Mac files (RL 20220927)
+._*

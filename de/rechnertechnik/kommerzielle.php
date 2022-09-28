@@ -36,8 +36,8 @@
 	<h3 id="olivetti-p652">Olivetti P 652</h3>
     
 	<div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/P652_gesamt.jpg" width="427"  height="320"/>
-		<img src="/shared/photos/rechnertechnik/P652.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652_gesamt.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652.jpg" width="427"  height="320"/>
 		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
 	</div>
 <p>1973 stellte Olivetti die <b>P 652</b> der Öffentlichkeit vor. Sie stellte die Weiterentwicklung der Linie der
@@ -54,7 +54,7 @@
 	noch Magnetbandeinheiten <b>MLU600</b>, eine Festplatte <b>DAS600</b> und einen Lochstreifenstanzer <b>PN20</b>. Wir werden
 	sie nach und nach inspizieren und wieder in Betrieb nehmen. </p>
 <p>Über den Fortschritt in der Reparatur unseres P 652er-Systems
-	    werden wir im <a class="go" href="/de/geraete/p652-details.php">P652-Reparaturblog</a> berichten.</p>
+	    werden wir im <a class="go" href="/de/geraete/Olivetti_P652/p652-details.php">P652-Reparaturblog</a> berichten.</p>
 	 
    <h3 id="ncr446">NCR 446</h3>
     

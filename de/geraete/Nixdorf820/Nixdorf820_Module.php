@@ -3,7 +3,7 @@
 	$version = '$Id';
 	$titel = 'Nixdorf 820 Module';
 	
-	require '../../lib/technikum29.php';
+	require '../../../lib/technikum29.php';
 ?>
 
 <h3>Im technikum29 vorhandene Module zur Nixdorf 820</h3>

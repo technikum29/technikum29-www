@@ -100,7 +100,7 @@
     aus Kugelkopfmaschine, Magnetkontenleser und 2 Lochkartenlesern. Zur Peripherie gehören ein Lochkartenstanzer (links), ein High-Speed-Nadeldrucker (rechts),
     2 Magnetband-Kassettenlaufwerke (ohne Abb.) und ein manueller Lochkartenstanzer IBM oder YUKI (siehe oben). Durch Anklicken des Bildes erhält man einen Ausschnitt. 
     </p>
-    <p>Über die Wiederinbetriebnahme unserer Nixdorf 820 berichten wir  <a class="go" href="/de/geraete/Nixdorf820_Details.php">hier</a>.
+    <p>Über die Wiederinbetriebnahme unserer Nixdorf 820 berichten wir  <a class="go" href="/de/geraete/Nixdorf820/Nixdorf820_Details.php">hier</a>.
     <p/>
 
 	<h3 id="ta1000">TA1000</h3>

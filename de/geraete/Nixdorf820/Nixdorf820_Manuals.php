@@ -35,5 +35,5 @@
 
 <h3>Eingescannte Manuals als PDF:</h3>
 
-	<p>zum Download unserer Scans geht es <a href="/de/geraete/Nixdorf820_Manuals_PDFs">hier</a>
+	<p>zum Download unserer Scans geht es <a href="/de/geraete/Nixdorf820/Nixdorf820_Manuals_PDFs">hier</a>
 </p>

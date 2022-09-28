@@ -48,13 +48,13 @@
 	</div>
 
 <p>Zusätzlich zu den 2 Schränken und der Schreibeinheit verfügen wir über nahezu <b>100 Module</b>. Zur Bestandsaufnahme und einigen Fotos
-		geht es <a class="go" href="/de/geraete/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen
+		geht es <a class="go" href="/de/geraete/Nixdorf820/Nixdorf820_Module.php">hier</a>. Glücklicherweise sind auch Dutzende der notwendigen
 	<b>Verbindungskabel</b> für div. Peripherie noch erhalten.
 </p>
 
 
 <p>Zur Hardware besitzen wir umfangreiche <b>technische Unterlagen und Serviceanleitungen</b>, die wir 
-		<a class="go" href="/de/geraete/Nixdorf820_Manuals.php">hier</a> auflisten und zukünftig zum Download anbieten werden.
+		<a class="go" href="/de/geraete/Nixdorf820/Nixdorf820_Manuals.php">hier</a> auflisten und zukünftig zum Download anbieten werden.
 </p>
 
 <h3>Wiederinbetriebnahme der Anlage</h3>

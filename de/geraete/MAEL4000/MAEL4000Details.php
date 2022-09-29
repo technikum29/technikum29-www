@@ -15,6 +15,7 @@
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer MAEL und die Wiederinbetriebnahme der Maschine.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
+<h3>Herkunft unserer MAEL</h3>
 
 <p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 
 	<a href="/blog/2022-06-06-Neuzugaenge-Kassel-2022.php">Ankunft im technikum29</a>.

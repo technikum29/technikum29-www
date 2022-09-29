@@ -29,7 +29,7 @@
 <p>Seiten, die nicht mehr zur Ausstellung gehören, wandern in die Rubrik <a href="/de/archiv/rundfunk.php">Archiv</a>.</p>
 <p>Die aktuellen Neuzugänge wurden in die bestehende Seitenstruktur eingepflegt wie zB <a href="/de/rechnertechnik/personalcomputer.php#ibm5100">unsere IBM5100</a></p>
 <p>Viele Exponate bekamen in der Vorstellung einen weiterführenden Link wie zB. 
- <a href="/de/geraete/Q1_lite/Q1_lite_Details.php">unsere Q1</a> oder <a href="/de/geraete/Nixdorf820_Details.php">die Nixdorf 820</a>. 
+ <a href="/de/geraete/Q1_lite/Q1_lite_Details.php">unsere Q1</a> oder <a href="/de/geraete/Nixdorf820/Nixdorf820_Details.php">die Nixdorf 820</a>. 
 	Diese Detailseiten zu den Geräten zeigen Bilder, berichten über die Instandsetzung und enthalten einen Downloadbereich für Scans von 
 	Unterlagen aus dem Museum. Neben den o.g. Maschinen ist das bereits auch bei der  <a href="/de/geraete/MAEL4000/MAEL4000Details.php">MAEL4000</a>, der 
 	 <a href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Details.php">Addelektra SR22</a> und der  <a href="/de/geraete/TA1000/TA1000_Details.php">TA1000</a> 

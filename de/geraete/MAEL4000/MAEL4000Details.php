@@ -16,6 +16,10 @@
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+<p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 
+	<a href="/blog/2022-06-06-Neuzugaenge-Kassel-2022.php">Ankunft im technikum29</a>.
+</p>
+
 <h3>Aufbau unserer MAEL</h3>
 
 <p>Unsere MAEL Zentraleinheit besteht aus einer MAEL 4000 Calculating Unit 4000 SerNo 21403. In diesem Rack befinden sich neben dem Netzteil

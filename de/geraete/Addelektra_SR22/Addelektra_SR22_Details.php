@@ -15,6 +15,10 @@
 	die Seriennummer 20183. Anhand der Serien-Nr. dürfte das Herstelldatum unserer SR22 bei 1947/48 liegen (Dank an Detlef Zerfowski vom 
 	<a href="https://www.ifhb.de">IFHB Int. Forum Historische Bürowelt e.V.</a>).
 </p>
+<p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 
+	<a href="/blog/2022-06-06-Neuzugaenge-Kassel-2022.php">Ankunft im technikum29</a>.
+</p>
+
 <p>Die Maschine ist komplett und im Originalzustand. Einziges Fehlteil ist die Querstange im Papierrollenhalter auf der Rückseite. Zur Maschine besitzen wir ca 20 
 	der auswechselbaren Senkrechtzählwerke mit 6 - 9 Stellen. 
 </p>

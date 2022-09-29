@@ -145,8 +145,8 @@
 			integriert. Als Betriebssystem wird AMBOSS (BS1S Rev 4.09/D) von Floppy geladen.<br>
 			Zu unserem Rechner haben wir umfangreiche Schulungshandbücher, Serviceunterlagen und Software, u.a. COBOL, BASIC, Assembler und Programme für die Finanzbuchhaltung, das 
 			Personalwesen und zur Datenkommunikation mit Großrechnern. Ein besonderer Glücksfall ist auch , dass wir einen Koffer für den Außendienstservice
-			zu dem Gerät haben, er enthält alle Steckkarten und Baugruppen nochmal als Ersatzteile ! Details dazu findet sich
-			<a class="go" href="/de/geraete/Siemens_6610/Siemens_gg10_Details.php">hier</a>.</p>
+			zu dem Gerät haben, er enthält alle Steckkarten und Baugruppen nochmal als Ersatzteile ! Details dazu finden sich
+			<a class="go" href="/de/geraete/Siemens_6610/Siemens_6610_Details.php">hier</a>.</p>
 </p>
 
 	<h3 id="cpt8800">CPT 8800</h3>

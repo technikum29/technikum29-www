@@ -31,13 +31,13 @@
 <div class="box center"> 
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_1.jpeg" width="307"  height="250"/>
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_2.jpeg" width="165"  height="250"/>
-		<p class="bildtext"><b> Siemens 6610</b>Start- und Systemmeldungen </p>
+		<p class="bildtext"><b>Siemens 6610</b> Start- und Systemmeldungen </p>
 	</div>
 
 <div class="box center"> 
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_3.jpeg" width="308"  height="250"/>
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_4.jpeg" width="417"  height="250"/>
-		<p class="bildtext"><b> Siemens 6610</b>Start- und Systemmeldungen </p>
+		<p class="bildtext"><b>Siemens 6610</b> Start- und Systemmeldungen </p>
 	</div>
 <p>
 </p>

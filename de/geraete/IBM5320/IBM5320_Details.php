@@ -19,8 +19,8 @@
 	<h3>Herkunft</h3>
 </p>
 <p>
-Mit Sicherheit das schwerste der Neuzugänge in den letzten Jahren ist eine komplette <strong>IBM5320 System/32</strong>. Sie wurde uns von Edwin Miller 
-(Rammingen) gespendet. Die 5320 ist ein 16-Bit-Einzelplatzcomputer, der von 1975-1984 von IBM vertrieben (bzw. 
+Mit Sicherheit einer der schwersten der Neuzugänge in den letzten Jahren war eine komplette <strong>IBM5320 System/32</strong>. Sie wurde uns von 
+	Edwin Miller (Rammingen) gespendet. Die 5320 ist ein 16-Bit-Einzelplatzcomputer, der von 1975-1984 von IBM vertrieben (bzw. 
 	vermietet) wurde.</p>
 
 <div class="box center">

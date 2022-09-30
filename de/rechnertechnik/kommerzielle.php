@@ -132,6 +132,8 @@
 			eingebaut, das Bild wird über eine Spiegeloptik betrachtet !<br>
 			Unser Exponat, eine Schenkung von Edwin Miller (Rammingen), ist betriebsbereit. Auf der Harddisk befindet sich das Betriebssystem u.a. mit einem Texteditor und
 			einer einfachen Datenbank mit Reportgenerator.</p>
+		<p>Über die Wiederinbetriebnahme unserer IBM 5320 berichten wir  <a class="go" href="/de/geraete/IBM5320/IBM5320_Details.php">hier</a>.
+    		<p/>
 
 	<h3 id="siemens6610">Siemens System 6610</h3>
 	

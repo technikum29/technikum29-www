@@ -17,11 +17,11 @@ Anfang des Jahres erhielt das technikum29 eine komplette <a href="/blog/2021-05-
 	übergab er sie uns.
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Im-Museum-angekommen.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Im-Museum-angekommen.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Im-Museum-angekommen.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Im-Museum-angekommen.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Detail.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Detail.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Detail.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Detail.jpg" width="400">
    </a>
 </div>
 
@@ -33,11 +33,11 @@ Bei der IBM5320 handelt es sich um einen für die damalige Zeit kleinen Einzelpl
 	single density), einem Matrixdrucker mit 120 cps und einer 9 MByte großen Festplatte ausgestattet. 
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Festplatte.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Festplatte.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Festplatte.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Festplatte.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Inneres.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Inneres.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Inneres.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Inneres.jpg" width="400">
    </a>
 </div>
 
@@ -67,11 +67,11 @@ Dank der umfangreichen Dokumentation mit allen technischen Unterlagen und Schalt
 
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-vorne.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-vorne.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Netzteile-vorne.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Netzteile-vorne.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-offen.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Netzteile-offen.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Netzteile-offen.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Netzteile-offen.jpg" width="400">
    </a>
 </div>
 
@@ -86,11 +86,11 @@ Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IB
 	Anzeige, Tastatur und CPU waren also schon einmal in Ordnung !
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Notstromversorgung.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Notstromversorgung.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Notstromversorgung.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Notstromversorgung.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatznetzteil.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatznetzteil.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Ersatznetzteil.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Ersatznetzteil.jpg" width="400">
    </a>
 </div>
 
@@ -103,8 +103,8 @@ Eine Reparatur dieses Netzteils ist nahezu ausgeschlossen, es werden zu viele IB
 Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf verschiedenen Hilfsspannungen zu erzeugen und das Provisorium wurde in der Maschine untergebracht. Jetzt ließ sich die Anlage wie vorgesehen ein- und ausschalten. Nach Beseitigung eines Fehlers in der Freigabelogik zur Festplatte konnte dann zum ersten Mal das System von der Platte hochgefahren werden - IBM nannte das IMPL (initial micro program loading). Der Bildschirm zeigte, dass dies das erste ordentliche Booten seit dem 26.9.1989 war - ein voller Erfolg !!
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/erstes-IMPL.jpg" width="600">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/erstes-IMPL.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/erstes-IMPL.jpg" width="600">
    </a>
 </div>
 <p>
@@ -114,22 +114,22 @@ Aus div. modernen Schaltnetzteilen wurde ein Ersatz geschaffen, um die fünf ver
 Jetzt blieb nur noch die Inbetriebnahme des Matrixdruckers übrig: nach gründlicher Reinigung und sorgfältigem Ölen und Fetten war er wieder soweit betriebsbereit. Eine Schwachstelle blieb noch zu beseitigen: die Transportrollen der Farbbandführung hatten sich in eine klebrige Masse zersetzt. Ersatz brachten 6 Gummidichtungen aus einem Reparatursatz für Wasserhähne. Das alte Farbband, ein endlos-Band, wurde mit Stempelfarbe aufgefrischt, jetzt ist auch eine Druckausgabe wieder möglich.
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Farbbandcassette.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Farbbandcassette.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Farbbandcassette.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Farbbandcassette.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/kaputte-Farbband-Transportrollen.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/kaputte-Farbband-Transportrollen.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/kaputte-Farbband-Transportrollen.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/kaputte-Farbband-Transportrollen.jpg" width="400">
    </a>
 </div>
 <p>
 <strong>Abb: </strong>Blick in die Farbbandcassette, links Detail der defekten Transportrollen
 <p>
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Ersatzrolle.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Ersatzrolle.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle-2.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/Ersatzrolle-2.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/Ersatzrolle-2.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/Ersatzrolle-2.jpg" width="400">
    </a>
 </div>
 <p>

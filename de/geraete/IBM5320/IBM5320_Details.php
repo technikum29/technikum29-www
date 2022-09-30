@@ -44,8 +44,7 @@ Mit Sicherheit das schwerste der Neuzugänge in den letzten Jahren ist eine komp
 
 
 	<p>Über die Instandsetzung der Anlage haben wir <a href="/blog/2021-05-15-Wiederinbetriebnahme-5320.php">hier</a> und 
-		<a href="/blog/2021-07-05_UPDATE_IBM5320.php">hier</a> berichtet. Einige Bilder vom Transport der IBM 5320 ins technikum29
-		sind in <a href="/blog/2021-05-01-Neuzugaenge.php">diesem Bericht</a> aus 2021 enthalten.
+		<a href="/blog/2021-07-05_UPDATE_IBM5320.php">hier</a> berichtet. 
 		<p/>
 
 

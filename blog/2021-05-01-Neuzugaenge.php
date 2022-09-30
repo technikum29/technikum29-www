@@ -43,11 +43,11 @@ Mit Sicherheit das schwerste der Neuzugänge ist eine komplette <strong>IBM5320 
 vermietet) wurde.
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Herkunft.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Herkunft.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Herkunft.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Herkunft.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Abtransport.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-01-Neuzugaenge/IBM5320-Abtransport.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Abtransport.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Abtransport.jpg" width="400">
    </a>
 </div>
 <strong>Abb:</strong> Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)

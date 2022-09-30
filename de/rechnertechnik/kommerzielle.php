@@ -122,8 +122,8 @@
 	<h3 id="ibm5320_32">IBM 5320 /32</h3>
 	
 	<div class="box center"> 
-		<img src="/shared/photos/rechnertechnik/IBM5320.jpg" width="427"  height="320"/>
-		<img src="/shared/photos/rechnertechnik/IBM5320_Display.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320_Display.jpg" width="427"  height="320"/>
 		<p class="bildtext"><b>IBM 5320 </b>, rechts die Bildschirmanzeige</p>
 	</div>
 		<p>Von 1975 - 1984 produzierte IBM das Modell 5320 System /32. Es ist ein Einzelbenutzersystem für den kommerziellen Einsatz z.B.

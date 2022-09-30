@@ -15,11 +15,11 @@ In unserem Depot fand sich ein Tischcomputer IBM5100 mit Drucker 5103, leider oh
 	die Geräte schon einmal einen sehr gut erhaltenen Eindruck und wir setzten alles daran, sie wieder zum Leben zu erwecken:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/5100vorne.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/5100vorne.jpg" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/5100vorne.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/5100vorne.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/IBM5100/5103.JPG" class="popup">
-      <img src="/shared/photos/blog/IBM5100/5103.JPG" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/5103.JPG" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/5103.JPG" width="400">
    </a>
 </div>
 
@@ -52,11 +52,11 @@ Hier hängt unsere IBM 5100 in den Labors des IBM-Museums nach dem Auswechseln e
 
 
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/ImLabor.JPG" class="popup">
-      <img src="/shared/photos/blog/IBM5100/ImLabor.JPG" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/ImLabor.JPG" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/ImLabor.JPG" width="400">
    </a>
-   <a  href="/shared/photos/blog/IBM5100/Fehlermeldung.JPG" class="popup">
-      <img src="/shared/photos/blog/IBM5100/Fehlermeldung.JPG" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/Fehlermeldung.JPG" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/Fehlermeldung.JPG" width="400">
    </a>
 </div>
 
@@ -71,11 +71,11 @@ Am Drucker musste der Farbbandtransport repariert werden. Ferner wurde das Farbb
 Hier ein Blick in das Innere des Computers:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/OffenOben.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/OffenOben.jpg" width="300">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/OffenOben.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/OffenOben.jpg" width="300">
    </a>
-   <a  href="/shared/photos/blog/IBM5100/offenBreit.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/offenBreit.jpg" width="500">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/offenBreit.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/offenBreit.jpg" width="500">
    </a>
 </div>
 
@@ -85,10 +85,10 @@ Der Computer ist sehr solide und sehr wartungsfreundlich in Modulen aufgebaut.
 
 <p>
 <div class="box center">
-    <a  href="/shared/photos/blog/IBM5100/Module.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/Module.jpg" width="400">
-   </a><a  href="/shared/photos/blog/IBM5100/RAM.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/RAM.jpg" width="400">
+    <a  href="/de/geraete/IBM5100/IBM5100_Bilder/Module.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/Module.jpg" width="400">
+   </a><a  href="/de/geraete/IBM5100/IBM5100_Bilder/RAM.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/RAM.jpg" width="400">
    </a>
 </div>
 
@@ -101,11 +101,11 @@ Oben rechts ein Blick auf eines der 16kB RAM-Boards (Halbleiterspeicher).
 Der Bildschirm zeigt ein kleines BASIC-Programm. Dank eines Ausgangs für einen externen Monitor kann der interne Bildschirm zB für Vorführungen auf einem zweiten Monitor gespiegelt werden (bei uns nicht ganz stilecht ein alter Apple sw-Monitor):
 
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/BASIC.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/BASIC.jpg" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/BASIC.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/BASIC.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/IBM5100/extMonitor.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/extMonitor.jpg" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/extMonitor.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/extMonitor.jpg" width="400">
    </a>
 </div>
 
@@ -119,11 +119,11 @@ Die IBM 5100 hat eine hilfreiche Einrichtung zum Debuggen: per Schalter können 
 Daneben ein Screenshot eines kleinen Spieleprogramms "StarWars", das wir auf den vielen Bändern, die wir zu dem Computer bekamen, fanden:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/IBM5100/Debugging.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/Debugging.jpg" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/Debugging.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/Debugging.jpg" width="400">
    </a>
-   <a  href="/shared/photos/blog/IBM5100/Starwars.jpg" class="popup">
-      <img src="/shared/photos/blog/IBM5100/Starwars.jpg" width="400">
+   <a  href="/de/geraete/IBM5100/IBM5100_Bilder/Starwars.jpg" class="popup">
+      <img src="/de/geraete/IBM5100/IBM5100_Bilder/Starwars.jpg" width="400">
    </a>
 </div>
 

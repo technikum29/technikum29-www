@@ -18,7 +18,7 @@
 
 <h3>Zur Herkunft unserer CPT 8800</h3>
 
-<p>Wie die CPT 8800 ins technikum29 kam haben wir <a href="/blog/2019-12-05-cpt-8800.php">hier</a> berichtet.
+<p>Wie die CPT 8800 ins technikum29 kam und was sie kann haben wir <a href="/blog/2019-12-05-cpt-8800.php">hier</a> berichtet.
 </p>
 
 <h3>Broschüren und Manuals zum Download</h3>

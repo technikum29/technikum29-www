@@ -170,4 +170,6 @@
 			<p>Unser Exemplar ist voll funktionsfähig. Die Textverarbeitungssoftware ist für die Zeit erstaunlich umfangreich, sie beherrscht Seriendruck, 
 			kann mit vorgegebenen Textbausteinen umgehen und erlaubt es, Rechnungen im Text vorzunehmen.
 			</p>
+<p>Weitere Informationen zur CPT 8800 finden sich <a class="go" href="/de/geraete/CPT8800/CPT8800_Details.php">hier</a>.
+</p>
 

@@ -40,8 +40,8 @@ stand das gute Stück in Teilen im technikum29.
 
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-Auseinandergebaut.jpg" class="popup">
-      <img src="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-Auseinandergebaut.jpg" width="860">
+   <a  href="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-Auseinandergebaut.jpg" class="popup">
+      <img src="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-Auseinandergebaut.jpg" width="860">
    </a>
 </div>
 
@@ -52,8 +52,8 @@ Zusammenbau des Gerätes ein erstes Einschalten, und siehe da, mit Piepsen verla
 System nach einer Diskette! Die CPU und der Bildschirm laufen schon einmal!
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-Broken-Disk.jpg" class="popup">
-      <img src="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-Broken-Disk.jpg" width="400">
+   <a  href="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-Broken-Disk.jpg" class="popup">
+      <img src="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-Broken-Disk.jpg" width="400">
    </a>
 </div>
 
@@ -66,8 +66,8 @@ Textsystem geladen und eine stark an eine mechanische Schreibmaschine angelehnte
 Bedieneroberfläche begrüßt den Nutzer:
 
 <div class="box center">
-   <a  href="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-laeuft.jpg" class="popup">
-      <img src="/shared/photos/blog/2019-12-05-CPT-8800/CPT8800-laeuft.jpg" width="860">
+   <a  href="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-laeuft.jpg" class="popup">
+      <img src="/de/geraete/CPT8800/CPT8800_Bilder/CPT8800-laeuft.jpg" width="860">
    </a>
 </div>
 

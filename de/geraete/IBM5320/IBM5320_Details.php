@@ -16,7 +16,28 @@
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 <p>
+	<h3>Herkunft</h3>
 </p>
+<p>
+Mit Sicherheit das schwerste der Neuzugänge in den letzten Jahren ist eine komplette <strong>IBM5320 System/32</strong>. Sie wurde uns von Edwin Miller 
+(Rammingen) gespendet. Die 5320 ist ein 16-Bit-Einzelplatzcomputer, der von 1975-1984 von IBM vertrieben (bzw. 
+	vermietet) wurde.</p>
+
+<div class="box center">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Herkunft.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Herkunft.jpg" width="400">
+   </a>
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Abtransport.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320-Abtransport.jpg" width="400">
+   </a>
+</div>
+<strong>Abb:</strong> Die IBM5320 noch beim Spender (li), Abtransport durch das Fenster (re)
+
+
+<p>Das Gerät ist nicht zerlegbar und mußte mit seinen 290 kg durch das Zimmerfenster im ersten Stock mit Hilfe eines 
+	Hubwagens abtransportiert werden. Fleißige Helfer halfen dann in Kelkheim, das gute Stück in das Museum zu bringen. 
+	Zu dem Gerät erhielten wir mehrere Kisten voller technischer Dokumentation und Software, so dass wir zuversichtlich 
+	waren, die IBM/32 bald wieder in Betrieb nehmen zu können.</p>
 
 
 <h3>Wiederinbetriebnahme der Anlage</h3>

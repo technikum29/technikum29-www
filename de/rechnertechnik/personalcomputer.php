@@ -34,7 +34,7 @@
 			um dann mit dem Modell 5150 in 1981 den ersten IBM-PC vorzustellen</p>
 		<p>Unser Exponat hat beide Sprachoptionen fest im ROM eingebaut und verfügt über 48 kB RAM. Die Maschine wurde 2020/21 von Helfern 
 			des IBM-Museums (Sindelfingen) überholt und ist vorführbereit</p>
-		<p>Weitere Infos zu der Maschine findet man <a class="go" href="/de/geraete/IBM5100/IBM5100_Details.php">überholt</a>
+		<p>Weitere Infos zu der Maschine findet man <a class="go" href="/de/geraete/IBM5100/IBM5100_Details.php">hier</a>
 
 	<h3 id="wang2200"><b>WANG 2200B</b> mit umfangreicher Peripherie</h3><br>
 

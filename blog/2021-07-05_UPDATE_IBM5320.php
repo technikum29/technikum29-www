@@ -22,8 +22,8 @@ Ein alter IBM-kompatibler PC, ein Shugart SA800 8"-Floppylaufwerk, etwas Bastela
 
 <p>
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/IBM5320%20liesst%20Floppy.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/IBM5320%20liesst%20Floppy.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320%20liesst%20Floppy.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320%20liesst%20Floppy.jpg" width="400">
    </a>
 </div>
 
@@ -33,8 +33,8 @@ Die Diskette enthält ein Würfelspiel, ein simples Ratespiel sowie die Möglich
 
 <p>
 <div class="box center">
-   <a  href="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/IBM5320%20druckt%20Snoopy.jpg" class="popup">
-      <img src="/shared/photos/blog/2021-05-15-IBM5320-Restaurierung/IBM5320%20druckt%20Snoopy.jpg" width="400">
+   <a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320%20druckt%20Snoopy.jpg" class="popup">
+      <img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320%20druckt%20Snoopy.jpg" width="400">
    </a>
 </div>
 

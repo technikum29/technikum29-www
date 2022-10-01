@@ -17,9 +17,13 @@
 	<h3 id="mael4000">MAEL 4000</h3>
 	
 		<div class="box center"> 
-        <img src="/shared/photos/MAEL4000.jpg" alt="MAEL 4000" height="320" width="400">
-        <img src="/shared/photos/MAEL4000_Display.jpg" alt="MAEL 4000" height="320" width="400">
-        <p class="bildtext"><b>MAEL 4000</b></p></div>
+         <a  href="/shared/photos/MAEL4000.jpg" class="popup">
+	<img src="/shared/photos/MAEL4000.jpg" alt="MAEL 4000" height="320" width="400">
+			</a>
+         <a  href="/shared/photos/MAEL4000_Display.jpg" class="popup">
+	<img src="/shared/photos/MAEL4000_Display.jpg" alt="MAEL 4000" height="320" width="400">
+			</a>
+        <p class="bildtext"><b>MAEL 4000</b> Zum Vergrößern bitte Bild anklicken !</p></div>
 
 		<p>Die Tischrechenmaschine MAEL 4000 wurde 1970 von der italienischen Firma Industria Sistemi Elettronici S.p.A. (Rom) vorgestellt. Unsere MAEL 
 			zeigt sich als komplettes Büromöbel: in der Mitte der Arbeitsplatte die Rechneranzeige und die Bedientastatur, links eine elektrische

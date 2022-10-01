@@ -26,7 +26,7 @@
 <p>Die Zentraleinheit unserer TA1000 besteht aus dem Rack mit Netzteil, div Module (CPU, ROM, ...) in einem Montagerahmen und zwei 8" 
 	Diskettenstationen. Daneben ein sw-Monitor und die große Druckeinheit für Magnetkontenkarten und Protokollausdrucke
 </p>
-<p>Details zu den einzelnen Rechnermodulen finden sich <a href="/de/geraete/TA1000/TA1000_Module.php">hier</a>
+<p>Details zu den einzelnen <b>Rechnermodulen</b> finden sich <a href="/de/geraete/TA1000/TA1000_Module.php">hier</a>
 </p>
 
 <h3>einige Detailbilder unserer TA1000</h3>

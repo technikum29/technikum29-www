@@ -106,7 +106,7 @@
 	<h3 id="ta1000">TA1000</h3>
 	
 		<div class="box center auto-bildbreite">
-			<img src="/shared/photos/rechnertechnik/TA1000.jpg" alt="TA1000" width="640" height="480" />
+			<img src="/shared/photos/rechnertechnik/TA1000.jpg" width="640" height="480" />
 			<p class="bildtext"><b>TA1000</b></p>
 		</div>
 		<p>Dieser Magnetkontenbuchungsautomat Triumph Adler TA1000 wurde bis 1989 in der Haushaltsabteilung der TU Darmstadt zur Verwaltung des gesamten jährlichen Haushaltsvolumen (250 Mio. DM) 

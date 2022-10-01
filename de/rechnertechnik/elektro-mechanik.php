@@ -44,8 +44,8 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
          <a  href="/shared/photos/XxX.jpg" class="popup">
 		<img src="/shared/photos/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
 	    </a>
-	    <p class="bildtext"><b>XxX</b> von Seidel und Naumann</p>
-	<p> Die Firma Seidel & Naumann (Dresden, D) produzierte diese Version der XxX im Zeitraum von 1906
+	    <p class="bildtext"><b>XxX</b> von Seidel und Naumann<br>
+		Die Firma Seidel & Naumann (Dresden, D) produzierte diese Version der XxX im Zeitraum von 1906
 		bis ca 1927, genau datieren lässt sich unsere Maschine nicht. Sie ist eine Staffelwalzenmaschine mit manueller Bedienung, man kann
 		auf ihr die 4 Grundrechenarten durchführen. Das Ergebniswerk umfasst 13 Stellen. Unsere XxX ist voll funktionsfähig.</p>
 		
@@ -61,7 +61,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
     </div>
 
     <div class="box right clear-after">
-         <a  href="Bilddatei" class="popup">
+         <a  href="/shared/photos/Mercedes_Addelektra.jpg" class="popup">
 	<img src="/shared/photos/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
 	    </a>
         <p class="bildtext"><b>Mercedes Addelektra SR22</b><br> 2022 erhielten wir diesen elektro-mechanischen Buchungsautomaten "Addelek-tra SR22" der Firma Mercedes

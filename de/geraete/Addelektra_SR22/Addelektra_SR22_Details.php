@@ -33,8 +33,12 @@
 	
 
 <div class="box center"> 
+		<a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Teilekatalog_Cover.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Teilekatalog_Cover.jpeg" width="250"  height="360"/>
+		<a/>
+		<a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Schema_Rechenwerk.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Schema_Rechenwerk.jpeg" width="531"  height="360"/>
+		</a>
 		<p class="bildtext"><b>Addelektra SR22</b> Teile-Katalog von 1960 und Schemazeichnung des Rechenwerkes</p>
 	</div>
 

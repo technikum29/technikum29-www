@@ -63,25 +63,43 @@
 <h3>Fotos einiger Module:</h3>
 
 <p>Es folgen Fotos ausgesuchter Module aus unserer TA1000. </p>
-<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+<p>Zum Vergrößern der Bilderitte anklicken</p>
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAB01_CPU.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAB01_CPU.jpeg" width="150"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAD03_AAW02_ROM.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAD03_AAW02_ROM.jpeg" width="149"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher1.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher1.jpeg" width="161"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher2.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_FAD02_Kernspeicher2.jpeg" width="130"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAN11_DFUE.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAN11_DFUE.jpeg" width="152"  height="137"/>
+	</a>
 		
 	<p class="bildtext"><b>TA1000</b> CPU, ROM, Kernspeicher (2*) und DFÜ-Platine  </p>
 	</div>
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAJ21_Video.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAJ21_Video.jpeg" width="161"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAS02_IO.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAS02_IO.jpeg" width="153"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAM31_IO.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAM31_IO.jpeg" width="154"  height="137"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAG31_IO.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_AAG31_IO.jpeg" width="149"  height="137"/>
+	</a>
 		
 	<p class="bildtext"><b>TA1000</b> Videoplatine und die drei I/O-Platinen AAS02, AAM31 und AAG31  </p>
 	</div>

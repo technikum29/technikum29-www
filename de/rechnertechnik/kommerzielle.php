@@ -91,7 +91,7 @@
 	<h3 id="nixdorf820">NIXDORF 820</h3>
   
     <div class="box center auto-bildbreite">
-        <a href="/de/geraete/Nixdorf820_Detailbild.php" title="Zur Detailaufnahme der Nixdorf 820-Anlage">
+        <a href="/de/geraete/Nixdorf820/Nixdorf820_Detailbild.php" title="Zur Detailaufnahme der Nixdorf 820-Anlage">
         <img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="670" height="270" /></a>
         <p class="bildtext"><b>Nixdorf 820</b> mit Lochkartenstanzer und Drucker</p>
     </div>

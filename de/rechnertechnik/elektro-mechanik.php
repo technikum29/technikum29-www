@@ -41,8 +41,10 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
 
     <div class="box right clear-after">
-        <img src="/shared/photos/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
-        <p class="bildtext"><b>XxX von Seidel und Naumann</b>,<br> Die Firma Seidel & Naumann (Dresden, D) produzierte diese Version der XxX im Zeitraum von 1906
+         <a  href="/shared/photos/XxX.jpg" class="popup">
+		<img src="/shared/photos/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
+        <p class="bildtext"><b>XxX von Seidel und Naumann</b>,
+	<br> Die Firma Seidel & Naumann (Dresden, D) produzierte diese Version der XxX im Zeitraum von 1906
 		bis ca 1927, genau datieren lässt sich unsere Maschine nicht. Sie ist eine Staffelwalzenmaschine mit manueller Bedienung, man kann
 		auf ihr die 4 Grundrechenarten durchführen. Das Ergebniswerk umfasst 13 Stellen. Unsere XxX ist voll funktionsfähig.</p>
 		

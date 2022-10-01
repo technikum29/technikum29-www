@@ -82,7 +82,7 @@
 		<a  href="/shared/photos/rechnertechnik/KIM.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="214" height="320"/>
 		</a>
-		<p class="bildtext"><b>KIM-1 </b></p>
+		<p class="bildtext"><b>KIM-1 </b>, zum Vergrößern bitte anklicken !</p>
 	</div>
 
 	<p>Mit dem Aufkommen der Mikroprozessoren in den 70er Jahren boten die Hersteller sogenannte Einplatinencomputer an, damit sich die industrielle

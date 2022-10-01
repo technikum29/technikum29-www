@@ -42,28 +42,44 @@
 		<p class="bildtext"><b>Addelektra SR22</b> Teile-Katalog von 1960 und Schemazeichnung des Rechenwerkes</p>
 	</div>
 
-<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
-
 <h3>einige Detailbilder Addelektra SR22</h3>
 
+	<p>Zum Vergrößern anklicken !</p>
+	
 <div class="box center"> 
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Tastatur.jpeg" width="450"  height="353"/>
+		</a>
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_innen.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_innen.jpeg" width="280"  height="353"/>
+		</a>
 		<p class="bildtext"><b>Addelektra SR22</b> Blick auf und unter die Tastatur</p>
 	</div>
 <div class="box center"> 
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Senkrechtzaehlwerke.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Senkrechtzaehlwerke.jpeg" width="360"  height="270"/>
+		</a>
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Rueckseite.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Rueckseite.jpeg" width="400"  height="270"/>
+		</a>
 		<p class="bildtext"><b>Addelektra SR22</b> Senkrechtzählwerke und Rückseite der Maschine</p>
 	</div>
 <div class="box center"> 
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Zaehlwerke_Detail.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Zaehlwerke_Detail.jpeg" width="400"  height="256"/>
+		</a>
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Querzaehlwerke.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Querzaehlwerke.jpeg" width="346"  height="256"/>
+		</a>
 		<p class="bildtext"><b>Addelektra SR22</b> Senkrechtzählwerk-Detail und Querzählwerke</p>
 	</div>
 <div class="box center"> 
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Seriennummer.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_Seriennummer.jpeg" width="370"  height="278"/>
+		</a>
+		 <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_rechts.jpeg" class="popup">
 		<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/SR22_rechts.jpeg" width="370"  height="278"/>
+		</a>
 		<p class="bildtext"><b>Addelektra SR22</b> Seriennummer und rechte Seite der SR22</p>
 	</div>
 

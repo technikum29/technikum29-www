@@ -3,7 +3,7 @@
 	$version = '$Id';
 	$titel = 'Nixdorf 820 Konsole';
 	
-	require '../../lib/technikum29.php';
+	require '../../../lib/technikum29.php';
 ?>
 <h2><?php print $titel; ?></h2>
 

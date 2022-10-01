@@ -20,36 +20,54 @@
 
 <h3>einige Detailbilder unserer Q1</h3>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+	<p>Zum Vergrößern der Bilder bitte anklicken !</p>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" width="700"  height="434"/>
+	</a>
 		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
 	</div>
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
+	</a>
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
+	</a>
 		<p class="bildtext"><b>Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
+	</a>
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
+	</a>
 		<p class="bildtext"><b>Q1 lite</b> Netzteilplatine linke und rechte Seite</p>
 	</div>
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
+	</a>
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
+	</a>
 		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansicht und Nahaufnahme</p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" width="281"  height="225"/>
+	</a>
+		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" class="popup">
 		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" width="340"  height="225"/>
+	</a>
 		<p class="bildtext"><b>Q1 lite</b> Typenschild Computer und Drucker</p>
 	</div>
 

@@ -20,8 +20,12 @@
 	<h3 id="ibm5100"><b>IBM 5100</b></h3><br>
 
 		<div class="box center"> 
+		 <a  href="/de/geraete/IBM5100/IBM5100_Bilder/IBM5100WT.jpg" class="popup">
 		<img src="/de/geraete/IBM5100/IBM5100_Bilder/IBM5100WT.jpg" width="400"  height="300"/>
+			</a>
+		 <a  href="/de/geraete/IBM5100/IBM5100_Bilder/IBM5103.jpg" class="popup">
 		<img src="/de/geraete/IBM5100/IBM5100_Bilder/IBM5103.jpg" width="400"  height="300"/>
+			</a>
 		</div>
 		<p>1975 stellte die Firma IBM den "ersten tragbaren Computer" vor: das Modell 5100. Der Begriff "tragbar" war relativ, das Gerät 
 			wog 28 kg, war aber dennoch revolutionär für seine Zeit. In einem kompakten Gehäuse war die CPU, 16 - 64 kB RAM, bis zu 64 kB 

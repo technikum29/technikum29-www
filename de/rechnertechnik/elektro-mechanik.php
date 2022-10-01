@@ -41,8 +41,8 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 
 
     <div class="box right clear-after">
-         <a  href="/shared/photos/XxX.jpg" class="popup">
-		<img src="/shared/photos/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
+         <a  href="/shared/photos/rechnertechnik/XxX.jpg" class="popup">
+		<img src="/shared/photos/rechnertechnik/XxX.jpg" width="500" height="375" alt="XxX von Seidel und Naumann" />
 	    </a>
 	    <p class="bildtext"><b>XxX von Seidel und Naumann</b><br>
 		Die Firma Seidel & Naumann (Dresden, D) produzierte diese Version der XxX im Zeitraum von 1906
@@ -61,8 +61,8 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
     </div>
 
     <div class="box right clear-after">
-         <a  href="/shared/photos/Mercedes_Addelektra.jpg" class="popup">
-	<img src="/shared/photos/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
+         <a  href="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/Mercedes_Addelektra.jpg" class="popup">
+	<img src="/de/geraete/Addelektra_SR22/Addelektra_SR22_Bilder/Mercedes_Addelektra.jpg" width="500" height="373" alt="Madas Rechenmaschiene" />
 	    </a>
         <p class="bildtext"><b>Mercedes Addelektra SR22</b><br> 2022 erhielten wir diesen elektro-mechanischen Buchungsautomaten "Addelek-tra SR22" der Firma Mercedes
 	     (Mella-Zehlis, Thüringen, D). Im Prinzip eine elektrische Schreibmaschine mit 60 cm breitem Wagen. Zum Buchungsautomaten machen sie die kleinen Zählwerke, 

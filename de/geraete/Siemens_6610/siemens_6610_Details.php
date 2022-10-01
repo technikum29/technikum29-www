@@ -19,24 +19,36 @@
 
 <h3>einige Detailbilder</h3>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+	<p>Zum Vergrößern der Bilderbitte anklicken !</p>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_offen_hinten.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_offen_hinten.jpeg" width="467"  height="350"/>
+	</a>
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_offen_hochgeklappt.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_offen_hochgeklappt.jpeg" width="362"  height="350"/>
+	</a>
 		<p class="bildtext"><b>Siemens 6610</b> Blick in die geöffnete Maschine. Das Chassis ist sehr reparaturfreundlich aufgebaut, 
 			das Gerät ist im aufgeklappten Zustand betriebsfähig !</p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_1.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_1.jpeg" width="307"  height="250"/>
+	</a>
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_2.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_2.jpeg" width="165"  height="250"/>
+	</a>
 		<p class="bildtext"><b>Siemens 6610</b> Start- und Systemmeldungen </p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_3.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_3.jpeg" width="308"  height="250"/>
+	</a>
+		<a  href="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_4.jpeg" class="popup">
 		<img src="/de/geraete/Siemens_6610/Siemens_6610_Bilder/6610_Meldung_4.jpeg" width="417"  height="250"/>
+	</a>
 		<p class="bildtext"><b>Siemens 6610</b> Start- und Systemmeldungen </p>
 	</div>
 <p>

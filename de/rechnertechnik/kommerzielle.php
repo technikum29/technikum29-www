@@ -130,10 +130,10 @@
 	
 	<div class="box center"> 
 		<a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320.jpg" class="popup">>
-		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320.jpg" width="370"  height="277"/>
 			</a>
 		<a  href="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320_Display.jpg" class="popup">
-		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320_Display.jpg" width="427"  height="320"/>
+		<img src="/de/geraete/IBM5320/IBM5320_Bilder/IBM5320_Display.jpg" width="370"  height="277"/>
 			</a>
 		<p class="bildtext"><b>IBM 5320 </b>, rechts die Bildschirmanzeige</p>
 	</div>

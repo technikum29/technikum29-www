@@ -94,7 +94,7 @@
 		
 	<h3 id="nixdorf820">NIXDORF 820</h3>
   
-    <div class="box center">
+    <div class="box center auto-bildbreite">
         <a  href="/shared/photos/start/nixdorf_820.jpg" class="popup">
 		<img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="500" height="201" />
 	    </a>

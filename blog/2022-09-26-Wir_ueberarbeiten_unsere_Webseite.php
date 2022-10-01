@@ -38,7 +38,7 @@
 <p><b>UPDATE 1.10.2022</b></p>
 <p>Neu hinzu gekommen sind jetzt noch die Seiten für die  <a href="/de/geraete/IBM5320/IBM5320_Details.php">IBM 5320</a>, die
 	 <a href="/de/geraete/CPT8800/CPT8800_Details.php">CPT 8800</a>, die  <a href="/de/geraete/Olivetti_P652/p652-details.php">Olivetti P652</a> und
-	die  <a href="/de/geraete/Siemens_6610/Siemens_6610_Details.php">Siemens 6610</a>.
+	die  <a href="/de/geraete/Siemens_6610/siemens_6610_Details.php">Siemens 6610</a>.
 </p>
 <p>Viele Bilder auf den Webseiten lassen sich durch Anklicken vergrößern, sofern wir die Bilder mit hoher Auflösung haben.</p>
 

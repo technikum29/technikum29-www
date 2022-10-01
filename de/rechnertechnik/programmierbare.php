@@ -81,8 +81,8 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 <h3>Hewlett Packard HP 9100</h3>
 
   <div class="box center">
-   <a  href="/shared/photos/hp9100A.jpg" class="popup">
-      <img src="/shared/photos/hp9100A.jpg" width="363" alt="HP 9100A">
+   <a  href="/shared/photos/rechnertechnik/hp9100A.jpg" class="popup">
+      <img src="/shared/photos/rechnertechnik/hp9100A.jpg" width="363" alt="HP 9100A">
 	
    </a>
    <a  href="/shared/photos/rechnertechnik/hp-9100.jpg" class="popup">

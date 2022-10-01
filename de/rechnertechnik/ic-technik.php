@@ -17,11 +17,11 @@
 	<h3 id="mael4000">MAEL 4000</h3>
 	
 		<div class="box center"> 
-         <a  href="/shared/photos/MAEL4000.jpg" class="popup">
-	<img src="/shared/photos/MAEL4000.jpg" alt="MAEL 4000" height="320" width="400">
+         <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000.jpg" class="popup">
+	<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000.jpg" alt="MAEL 4000" height="320" width="400">
 			</a>
-         <a  href="/shared/photos/MAEL4000_Display.jpg" class="popup">
-	<img src="/shared/photos/MAEL4000_Display.jpg" alt="MAEL 4000" height="320" width="400">
+         <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_Display.jpg" class="popup">
+	<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_Display.jpg" alt="MAEL 4000" height="320" width="400">
 			</a>
         <p class="bildtext"><b>MAEL 4000</b> Zum Vergrößern bitte Bild anklicken !</p></div>
 

@@ -91,8 +91,8 @@
 	<h3 id="nixdorf820">NIXDORF 820</h3>
   
     <div class="box center auto-bildbreite">
-        <img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="510" height="205" />
-	<img src="/shared/photos/rechnertechnik/nixdorf_820-konsole.jpg" alt="Nixdorf 820 Konsole" width="274" height="205" />
+        <img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="500" height="201" />
+	<img src="/shared/photos/rechnertechnik/nixdorf_820-konsole.jpg" alt="Nixdorf 820 Konsole" width="269" height="201" />
         <p class="bildtext"><b>Nixdorf 820</b> mit Lochkartenstanzer und Drucker sowie Blick auf die Konsole</p>
     </div>
     <p>Eine Komplettanlage der mittleren Datentechnik: NIXDORF 820 Computer Bj. 1969/70. Einige Besonderheiten machen die Anlage interessant: Konsequente Modultechnik, Magnetkontenleser

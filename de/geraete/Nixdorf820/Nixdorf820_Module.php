@@ -98,21 +98,34 @@
 
 <p>Es folgen Fotos ausgesuchter Module aus unserer Nixdorf 820. Ausnahme ist der Prozessor LFI 152, noch in komplett diskreter Technologie,
 	der nicht in unserer Maschine im Einsatz war.</p>
-<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+<p>Zum Vergrößern der Bilder bitte anklicken<a  href="Bilddatei" class="popup">
+</p>
 
 <h3>Prozessormodul <b>LFI 152</b>, noch in komplett diskreter Technologie ohne ICs aufgebaut !</h3>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_6.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_6.jpg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_1.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_1.jpg" width="146"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_2.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_2.jpg" width="294"  height="210"/>
+	</a>
 	<p class="bildtext">  </p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_3.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_3.jpg" width="280"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_4.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_4.jpg" width="285"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_5.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_152_5.jpg" width="141"  height="210"/>
+	</a>
 	<p class="bildtext"></p>
 	</div>
 
@@ -120,15 +133,25 @@
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_5.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_5.jpg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_1.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_1.jpg" width="146"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_2.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_2.jpg" width="294"  height="210"/>
+	</a>
 	<p class="bildtext">  </p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_3.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_3.jpg" width="280"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_4.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_154_02_4.jpg" width="146"  height="210"/>
+	</a>
 	<p class="bildtext"></p>
 	</div>
 
@@ -138,10 +161,18 @@
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_4.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_4.jpg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_1.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_1.jpg" width="146"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_2.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_2.jpg" width="285"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_3.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/LFI_166_3.jpg" width="146"  height="210"/>
+	</a>
 	<p class="bildtext">  </p>
 	</div>
 
@@ -149,35 +180,59 @@
 <h3>Batteriegepufferter Halbleiterspeicher <b>Nr. 202</b> </h3>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_3.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_3.jpg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_1.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_1.jpg" width="294"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_2.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/202_2.jpg" width="294"  height="210"/>
+	</a>
 	<p class="bildtext">  </p>
 	</div>
 
 <h3>Ringkernspeicher-ROM <b>LFI 017</b> </h3>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_1.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_1.jpg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_2.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_2.jpg" width="294"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_3.jpg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/017_3.jpg" width="294"  height="210"/>
+	</a>
 	<p class="bildtext">  </p>
 	</div>
 
 <h3>Stäbchenspeicher-ROM <b>LFI 177</b> </h3>
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_1.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_1.jpeg" width="200"  height="72"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_2.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_2.jpeg" width="294"  height="210"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_3.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_3.jpeg" width="294"  height="210"/>
+	</a>
 	<p class="bildtext">mitte: Draufsicht auf den Stäbchenspeicher <b>LFI 177</b>, rechts: mit hochgeklapptem Programmträger <b>LFI 381</b> </p>
 	</div>
 
 
 <div class="box center"> 
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_4.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_4.jpeg" width="200"  height="170"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_5.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_5.jpeg" width="203"  height="170"/>
+	</a>
+		<a  href="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_6.jpeg" class="popup">
 		<img src="/de/geraete/Nixdorf820/Nixdorf820_Bilder/177_6.jpeg" width="320"  height="226"/>
+	</a>
 	<p class="bildtext">links und mitte: <b>LFI 381</b> Programmträger mit Fädelprogramm, rechts: Rückseite <b>LFI 177</b> </p>
 	</div>
 

@@ -149,8 +149,9 @@
 	<h3 id="siemens6610">Siemens System 6610</h3>
 	
 		<div class="box center auto-bildbreite">
-			<!--<a href="" title="Zur Detailaufnahme der IBM 5320 /32-Anlage">-->
-			<img src="/shared/photos/rechnertechnik/Siemens6610.jpg" alt="Siemens System 6610" width="640" height="517" /></a>
+			<a  href="/shared/photos/rechnertechnik/Siemens6610.jpg" class="popup">
+			<img src="/shared/photos/rechnertechnik/Siemens6610.jpg" alt="Siemens System 6610" width="640" height="517" />
+			</a>
 			<p class="bildtext"><b>Siemens System 6610</b></p>
 		</div>
 		<p>Gemeinsam mit Tandberg stellte Siemens 1979 diesen Bürorechner vor: Er basiert auf einer CPU 8080A mit 2 MHz Takt, hat 56 kB RAM und 7 kB ROM 

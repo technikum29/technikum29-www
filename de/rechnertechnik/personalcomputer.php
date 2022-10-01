@@ -79,7 +79,9 @@
 	<h3 id="kim1"><b>KIM-1</b></h3><br>
 
 	<div class="box center"> 
+		<a  href="/shared/photos/rechnertechnik/KIM.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="428" height="640"/>
+		</a>
 		<p class="bildtext"><b>KIM-1 </b></p>
 	</div>
 
@@ -100,8 +102,12 @@
 	<h3 id="aim65"><b>AIM-65</b></h3><br>
 
 	<div class="box center"> 
+		<a  href="/shared/photos/rechnertechnik/AIM65.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/AIM65.jpg" width="427"  height="364"/>
+		</a>
+		<a  href="/shared/photos/rechnertechnik/AIM65_Board.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/AIM65_Board.jpg" width="427"  height="364"/>
+		</a>
 		<p class="bildtext"><b>Rockwell AIM-65 im Gehäuse </b>, rechts die AIM-65-Platine</p>
 	</div>
 
@@ -150,7 +156,9 @@
 	<h3 id="q1"><b>Q1 Lite</b></h3><br>
 
 	<div class="box center"> 
+		<a  href="/shared/photos/rechnertechnik/Q1.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/Q1.jpg" width="394" height="427"/>
+		</a>
 		<p class="bildtext"><b>Q1 Lite </b></p>
 	</div>
 

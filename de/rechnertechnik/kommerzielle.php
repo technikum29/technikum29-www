@@ -21,7 +21,7 @@
 		Der <a class="go" href="https://technikum29.de/de/rechnertechnik/speichermedien.php#magnetostriktion">magnetostriktive Speicher</a> hat eine Kapazität von 320 Bytes. Hier wurden u.a. 10 Register mit je 30 Ziffern realisiert.<br>
 		Dieser "Personal-Computer" besticht durch seine außergewöhnliche Form und wurde vom berühmten italienischen Designer "Mario Bellini" gestylt. Für das Design hat Olivetti seinerzeit Preise erhalten. Auch heute wird das ästhetische Äußere bewundert. Die nachfolgenden Olivetti Rechner wurden dagegen im Stil der 70er Jahre als schmucklose kantige Würfel präsentiert.<br>
 		Der Transport des "Bürorechners" ist allerdings eine echte Herausforderung: 130kg Gewicht am Stück.</p><br>
-		<div class="clear-after">
+		<div class="box center">
 			<a href="/shared/photos/rechnertechnik/p203-1.jpg" target="_blank">	
 			<img src="/shared/photos/rechnertechnik/p203-1.jpg" alt="Olivetti P203" width="258" height="180" /></a>
 			<a href="/shared/photos/rechnertechnik/p203-2.jpg" target="_blank">

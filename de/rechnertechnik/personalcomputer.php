@@ -17,6 +17,8 @@
 			Ein Personal-Computer (PC) ist ein Einzelplatzsystem mit einem Datensichtgerät (damals meist ein Röhren-Monitor) sowie geeigneter 
 			Peripherie zum Speichern und zur Ausgabe von Daten/Programmen. Es ist mühelos transportabel.</p>
 
+<p>Viele Bilder auf dieser Seite lassen sich durch Anklicken vergrößern !</p>
+
 	<h3 id="ibm5100"><b>IBM 5100</b></h3><br>
 
 		<div class="box center"> 
@@ -86,7 +88,7 @@
 		<a  href="/shared/photos/rechnertechnik/KIM.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="214" height="320"/>
 		</a>
-		<p class="bildtext"><b>KIM-1 </b>, zum Vergrößern bitte anklicken !</p>
+		<p class="bildtext"><b>KIM-1 </b></p>
 	</div>
 
 	<p>Mit dem Aufkommen der Mikroprozessoren in den 70er Jahren boten die Hersteller sogenannte Einplatinencomputer an, damit sich die industrielle

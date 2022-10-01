@@ -86,12 +86,18 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 
 <h3>einige Detailbilder unserer MAEL</h3>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+	<p>Zum Vergrößern der Bilder bitte anklicken</p>
 
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" width="200"  height="267"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" width="302"  height="118"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" width="320"  height="118"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4000</b> Zentral- und Erweiterungseinheit im Tischkabinett</p>
 	</div>
 
@@ -100,9 +106,15 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 <p>
 </p>
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen.jpeg" width="213"  height="194"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen2.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen2.jpeg" width="342"  height="194"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen3.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen3.jpeg" width="225"  height="194"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4000</b> Blick in die Zentraleinheit</p>
 	</div>
 <p>
@@ -110,11 +122,21 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 <p>
 </p>
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SQR.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SQR.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DIV.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DIV.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_MTP2.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_MTP2.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_AOP.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_AOP.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_PRT.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_PRT.jpeg" width="150"  height="77"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4000</b> Platinen der Zentraleinheit: SQR, DIV, MTP2, AOP und PRT</p>
 	</div>
 <p>
@@ -122,11 +144,21 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 <p>
 </p>
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_COD.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_COD.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_JMP.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_JMP.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SRG.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SRG.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_CLK.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_CLK.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_ARU.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_ARU.jpeg" width="150"  height="77"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4000</b> Platinen der Zentraleinheit: COD, JMP, SRG, CLK und ARU</p>
 	</div>
 <p>
@@ -135,8 +167,12 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 </p>
 
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen2.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen2.jpeg" width="180"  height="150"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen3.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen3.jpeg" width="570"  height="150"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4001</b> Blick in die Erweiterungseinheit</p>
 	</div>
 
@@ -145,10 +181,18 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 <p>
 </p>
 <div class="box center"> 
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_HSR.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_HSR.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_FPR.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_FPR.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DRV.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DRV.jpeg" width="150"  height="77"/>
+	</a>
+		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_TIM.jpeg" class="popup">
 		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_TIM.jpeg" width="150"  height="77"/>
+	</a>
 		<p class="bildtext"><b>MAEL 4001</b> Platinen der Erweiterungseinheiteinheit: HSR329, FPR, DRV, TIM</p>
 	</div>
 <p>

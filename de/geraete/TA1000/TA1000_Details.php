@@ -31,20 +31,34 @@
 
 <h3>einige Detailbilder unserer TA1000</h3>
 
-	<p>Zum Vergrößern der Bilder "Rechtsklick", dann "in neuem Tab öffnen" wählen</p>
+	<p>Zum Vergrößern der Bilder bitte anklicken !</p>
 
 <div class="box center"> 
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_Typschild.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Typschild.jpeg" width="200"  height="173"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_Module.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Module.jpeg" width="271"  height="300"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_Gehaeuse_innen.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Gehaeuse_innen.jpeg" width="225"  height="300"/>
+	</a>
 		<p class="bildtext"><b>TA1000</b> Typschild und Blick ins Gehäuse von vorn und hinten</p>
 	</div>
 
 <div class="box center"> 
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppies.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppies.jpeg" width="200"  height="252"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppy.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_Draufsicht_Floppy.jpeg" width="189"  height="252"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil1.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil1.jpeg" width="150"  height="113"/>
+	</a>
+		<a  href="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil2.jpeg" class="popup">
 		<img src="/de/geraete/TA1000/TA1000_Bilder/TA1000_front_Netzteil2.jpeg" width="150"  height="113"/>
+	</a>
 		<p class="bildtext"><b>TA1000</b> Draufsicht mit Floppies, Floppy einzeln und Netzteile</p>
 	</div>
 

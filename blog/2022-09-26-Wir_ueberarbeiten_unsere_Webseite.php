@@ -1,6 +1,6 @@
 <?php
-	$blog_title = "Wir überarbeiten unsere Webseite";
-	$blog_title_kurz = "Wir überarbeiten unsere Webseite";
+	$blog_title = "UPDATE Wir überarbeiten unsere Webseite";
+	$blog_title_kurz = "UPDATE Wir überarbeiten unsere Webseite";
 	$blog_author = "Roland";
 	$blog_date = "2022-09-26";
 	$blog_lang = "de";

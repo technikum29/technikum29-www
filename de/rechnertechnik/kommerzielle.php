@@ -36,8 +36,12 @@
 	<h3 id="olivetti-p652">Olivetti P 652</h3>
     
 	<div class="box center"> 
+		 <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652_gesamt.jpg" class="popup">
 		<img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652_gesamt.jpg" width="427"  height="320"/>
+		</a>
+		 <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652.jpg" class="popup">
 		<img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/P652.jpg" width="427"  height="320"/>
+		</a>
 		<p class="bildtext"><b>Olivetti P 652 </b> in unserer Ausstellung, rechts ein Detail</p>
 	</div>
 <p>1973 stellte Olivetti die <b>P 652</b> der Öffentlichkeit vor. Sie stellte die Weiterentwicklung der Linie der
@@ -91,8 +95,12 @@
 	<h3 id="nixdorf820">NIXDORF 820</h3>
   
     <div class="box center">
-        <img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="500" height="201" />
-	<img src="/shared/photos/rechnertechnik/nixdorf_820-konsole.jpg" alt="Nixdorf 820 Konsole" width="269" height="201" />
+        <a  href="/shared/photos/start/nixdorf_820.jpg" class="popup">
+		<img src="/shared/photos/start/nixdorf_820.jpg" alt="Nixdorf 820 Computer" width="500" height="201" />
+	    </a>
+	<a  href="/shared/photos/rechnertechnik/nixdorf_820-konsole.jpg" class="popup">
+		<img src="/shared/photos/rechnertechnik/nixdorf_820-konsole.jpg" alt="Nixdorf 820 Konsole" width="269" height="201" />
+	    </a>
         <p class="bildtext"><b>Nixdorf 820</b> mit Lochkartenstanzer und Drucker sowie Blick auf die Konsole</p>
     </div>
     <p>Eine Komplettanlage der mittleren Datentechnik: NIXDORF 820 Computer Bj. 1969/70. Einige Besonderheiten machen die Anlage interessant: Konsequente Modultechnik, Magnetkontenleser

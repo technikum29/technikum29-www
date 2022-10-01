@@ -63,7 +63,8 @@
    <h3 id="ncr446">NCR 446</h3>
     
     <div class="box center auto-bildbreite">
-        <a href="/de/geraete/ncr446.php"><img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="NCR 446 Rechner" width="694" height="520" /></a>
+        <a href="/de/geraete/ncr446.php" title="für Detailbild klicken !">
+		<img src="/shared/photos/rechnertechnik/ncr-446.jpg" alt="NCR 446 Rechner" width="694" height="520" /></a>
     </div>
     <p>Der<b> NCR 446 </b> ist ein Rechner der 2. Generation (Transistortechnik). Er wurde ab 1966/67 in Deutschland (National Registrier Kassen GmbH, Augsburg) von 4 Ingenieuren entwickelt, die gerade ihr Examen an der Universität absolviert hatten. Im Jahre 1967/68 war er marktreif. Die Architektur ist ungewöhnlich. Das gesamte Programm befindet sich auf dem Lochstreifen im Programmleser. Verknüpfungen werden in einem gefädeltem ROM ausgeführt. Die Anlage wurde als "Elektronische Fakturiermaschine" angeboten, weil das ihr Hauptanwendungsgebiet war. Dennoch verwendeten auch Statiker den Rechner, da er praktisch beliebig programmierbar war (und natürlich immer noch ist!). 
     <br> Die Anlage beinhaltet neben dem Programmleser noch zwei Daten-Lochstreifenleser, einen Lochstreifenstanzer, die Eingabetastatur und eine IBM Kugelkopfmaschine als Drucker.

@@ -16,7 +16,9 @@
 	
 	<h3 id="olivetti-p203">Olivetti P 203</h3>
 	<div class="box left clear-after">
+		 <a  href="/shared/photos/rechnertechnik/olivetti_p203.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/olivetti_p203.jpg" alt="Olivetti P203" width="406" height="378" />
+		</a>
 		<div class="bildtext">
 			<b>Olivetti P 203</b>
 		<p>Im Jahre 1967 wurde die <a class="go" href="/de/rechnertechnik/programmierbare.php#101">PROGRAMMA 101</a> (mit etwas vergrößerter Speicherkapazität) mit einer elektrischen Schreibmaschine gekoppelt. So war es möglich, z.B. tabellarische Rechnungen unmittelbar auszudrucken. Jedoch konnten nur Zahlen vom Rechner übernommen werden. Texte musste man nach wie vor manuell auf der Tastatur einfügen. Die elektrische Schreibmaschine konnte man auch separat verwenden.<br>

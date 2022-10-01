@@ -63,7 +63,7 @@
 <h3>Fotos einiger Module:</h3>
 
 <p>Es folgen Fotos ausgesuchter Module aus unserer TA1000. </p>
-<p>Zum Vergrößern der Bilderitte anklicken</p>
+<p>Zum Vergrößern der Bilder bitte anklicken</p>
 
 
 <div class="box center"> 

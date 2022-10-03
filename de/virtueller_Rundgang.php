@@ -12,7 +12,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_1.jpeg" width="940" height="705">
-		<p class="bildtext">Im Zentrum der Austellung unsere UNIVAC 9400</p>
+		<p class="bildtext">   Im Zentrum der Austellung unsere UNIVAC 9400</p>
 	</div>
 	<div class="slide">
 		

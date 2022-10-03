@@ -8,6 +8,8 @@
 
 <h2><?php print $title; ?></h2>
 
+	Stand: Sept. 2022
+
 <p>Im Bestand des technikum29 haben wir 3 Olivetti P652, 2 Schreibsysteme ST4, 2 Magnetbandeinheiten MLU600, eine Festplatte DAS600, 2 Doppel-Cassettenlaufwerke
 CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Material eine funktionsfähige Komplettanlage zusammenzustellen. 
 Über den Fortschritt bei der Restaurierung werden wir hier berichten.</p>

@@ -60,7 +60,7 @@
       (ICs)</a>. Darüberhinaus umfasst die Sammlung einige andere Themen, etwa die Entwicklung von
       <a href="/de/kommunikationstechnik/rundfunk.php">Radios</a>
       und <a href="/de/kommunikationstechnik/fernsehen.php">Fernsehern</a> dieser Zeit.
-      Die <a href="/de/sitemap.php">virtuelle Führung durch das Museum</a> deckt alle Themen
+      Die <a href="/de/sitemap.php">Übersicht über unsere Webseite</a> deckt alle Themen
       ab, die auf 250 Quadratmetern Ausstellung behandelt werden.
 
 

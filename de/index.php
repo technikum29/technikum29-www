@@ -25,6 +25,13 @@
 		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-2.jpg" width="940" height="290">
 	</div>
 
+	<div class="slide js">
+		<h2>
+		Minicomputer<br>
+		</h2>
+		<img class="no-copyright" src="/shared/photos/rechnertechnik/header-start-4.jpg" width="940" height="290">
+	</div>
+
 	 
 	<div class="slide js">
 		<h2>

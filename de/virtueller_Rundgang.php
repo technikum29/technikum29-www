@@ -1,12 +1,10 @@
 <?php
-	$seiten_id = 'virtuell';
-	$version = '$Id';
-	$titel = 'Virtueller Museumsrundgang';
+	$seiten_id = 'startseite';
+	$version = '$Id$';
+	$titel = 'technikum29 Computer-Museum, historische Computerwelten: Lebendige Zeitreise';
 	
-	require '../lib/technikum29.php';
+	require "../lib/technikum29.php";
 ?>
-
-<h2><?php print $titel; ?></h2>
 
 <header class="teaser seitenstart">
 <div class="slider-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>

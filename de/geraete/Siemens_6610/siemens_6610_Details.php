@@ -11,6 +11,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
+	Stand: Sept. 2022
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserem Siemens System 6610 und die Wiederinbetriebnahme der Maschine.

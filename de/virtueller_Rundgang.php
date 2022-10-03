@@ -12,22 +12,22 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_1.jpeg" width="940" height="705">
-		<p class="bildtext">   Im Zentrum der Austellung unsere UNIVAC 9400</p>
+		<p class="bildtext">.         Im Zentrum der Austellung unsere UNIVAC 9400</p>
 	</div>
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_2.jpeg" width="940" height="705">
-		<p class="bildtext">TA 1000, MAEL 4000 und UNIVAC 9400</p>
+		<p class="bildtext">.         TA 1000, MAEL 4000 und UNIVAC 9400</p>
 	</div>
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_3.jpeg" width="940" height="705">
-		<p class="bildtext">LGP30, IBM 1130 und TA 1000</p>
+		<p class="bildtext">.         LGP30, IBM 1130 und TA 1000</p>
 	</div>
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_4.jpeg" width="940" height="705">
-		<p class="bildtext">LGP21 (mitte) und LGP 30 (re)</p>
+		<p class="bildtext">.         LGP21 (mitte) und LGP 30 (re)</p>
 	</div>
 	<div class="slide">
 		

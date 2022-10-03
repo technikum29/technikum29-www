@@ -42,6 +42,9 @@
 </p>
 <p>Viele Bilder auf den Webseiten lassen sich durch Anklicken vergrößern, sofern wir die Bilder mit hoher Auflösung haben.</p>
 
+<p>Nach und nach fügen wir kleine Videos zu unseren Geräten ein, begonnen haben wir mit <a href="/de/geraete/JUKI/JUKI_Video.php"> dem JUKI-Stanzer</a> 
+	und dem <a href="/de/geraete/IBM083/IBM_Video.php">dem IBM 083 Lochkartensortierer</a>
+
 <p>Viel Spass beim Stöbern !! </p>
 
 

@@ -12,6 +12,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/start/startseite.jpg" width="940" height="289">
+		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
 	</div>
 
 

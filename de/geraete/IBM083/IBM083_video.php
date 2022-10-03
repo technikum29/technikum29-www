@@ -12,8 +12,8 @@
 
 <p>
 <video width="1280" height="720" controls style="width:100%;height:auto;">
-  <source src="/de/geraete/IBM083/IBM083_Videos/Stanzer_in_Aktion.m4v" type="video/mp4">
-  <source src="/de/geraete/IBM083/IBM083_Videos/Stanzer_in_Aktion.mov" type="video/quicktime">
+  <source src="/de/geraete/IBM083/IBM083_Videos/Sortierer_in_Aktion.m4v" type="video/mp4">
+  <source src="/de/geraete/IBM083/IBM083_Videos/Sortierer_in_Aktion.mov" type="video/quicktime">
   <em>Leider unterstützt Ihr Browser keines der angebotenen Videoformate.
   Probieren Sie doch einmal <a href="/de/geraete/IBM083/IBM083_Videos/">den Download der Videofiles</a>.
 </video>

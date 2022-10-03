@@ -8,6 +8,7 @@
 
 <h2><?php print $titel; ?></h2>
 
+<header class="teaser seitenstart">
 <div class="slider-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
 	<!-- Erstes Bild (Noscript: Default) -->
 	<div class="slide">
@@ -50,3 +51,4 @@
 	</div>
 	
 </div>
+</header>

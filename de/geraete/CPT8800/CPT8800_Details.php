@@ -10,6 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
+	Stand: Sept. 2022
 </p>
 
 	<p> An dieser Stelle berichten wir über den Textcomputer CPT 8800.

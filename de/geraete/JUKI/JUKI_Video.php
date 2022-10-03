@@ -8,12 +8,12 @@
 
 <h2><?php print $titel; ?></h2>
 <p>
-	Hier in dem kleinen Filmchen sieht man unseren Lochkarten-Sortierer IBM 083 in Aktion: </p>
+	Hier in dem kleinen Filmchen sieht man den JUKI Lochkartenstanzer in Aktion: </p>
 
 <p>
 <video width="1280" height="720" controls style="width:100%;height:auto;">
-  <source src="/de/geraete/IBM083/IBM083_Videos/Sortierer_in_Aktion.m4v" type="video/mp4">
-  <source src="/de/geraete/IBM083/IBM083_Videos/Sortierer_in_Aktion.mov" type="video/quicktime">
+  <source src="/de/geraete/JUKI/JUKI_Videos/Stanzer_in_Aktion.m4v" type="video/mp4">
+  <source src="/de/geraete/JUKI/JUKI_Videos/Stanzer_in_Aktion.mov" type="video/quicktime">
   <em>Leider unterstützt Ihr Browser keines der angebotenen Videoformate.
-  Probieren Sie doch einmal <a href="/de/geraete/IBM083/IBM083_Videos/">den Download der Videofiles</a>.
+  Probieren Sie doch einmal <a href="/de/geraete/JUKI/JUKI_Videos/">den Download der Videofiles</a>.
 </video>

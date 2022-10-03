@@ -36,7 +36,11 @@
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ibm029+juki.jpg" alt="IBM 029 und Juki" width="580" height="340" />
         <p class="bildtext"><b>IBM 029 und JUKI Lochkartenstanzer.</b></p></div>
-		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte zunächst speichert und dann erst stanzt. So sind vor dem Stanzen Korrekturen beliebig möglich. Daher vergab IBM die Lizenz zum Nachbau des Erfolgmodells 029. 1970 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+		<p>Links im Bild ist der legendäre IBM 029 zu sehen (gebaut ab 1964), rechts der praktisch identische JUKI Stanzer (Made in Japan). 
+			Die Ähnlichkeit ist nicht zufällig: 1971 brachte IBM den Lochkartenstanzer Typ 129 heraus, der den Inhalt einer gesamten Lochkarte 
+			zunächst speichert und dann erst stanzt. So sind vor dem Stanzen Korrekturen beliebig möglich. Daher vergab IBM die Lizenz zum Nachbau 
+			des Erfolgmodells 029. 1970 kostete der IBM 029 ca. stolze 15.500 DM  (ca.8000 €).</p>
+		<p>Ein Video unseres JUKI-Stanzers in Aktion findet sich <a href="/de/geraete/JUKI/JUKI_Video.php">hier</a>.</p>
 
      <div class="box center auto-bildbreite" id="129">
         <img src="/shared/photos/rechnertechnik/ibm129.jpg" alt="IBM 129" width="580" height="375" />
@@ -75,9 +79,13 @@
         <a href="/de/geraete/lochkartensortierer-funktion.php"><img src="/shared/photos/rechnertechnik/ibm083.jpg" alt="IBM 083 Sortiermaschine" width="602" height="630" /></a>
         <p class="bildtext">
             <b>IBM 083 Sortiermaschine</b><br/>
-            Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung bei Mehrfachsortierungen.
+            Gegenüber dem Modell 082 wurde die Sortiermechanik wesentlich verbessert. Die Maschine kann 1000 Karten pro Minute sortieren. Das sind ca. 
+		16 Stück pro Sekunde. Sehr viel mehr ist wegen der Trägheit der Mechanik auch nicht möglich. Dieser Typ wurde ab ca. 1958 gebaut. 
+		Dahinter steht ein Sortiergestell mit viel Glas, welches genau so viele Sortierstellen wie die Maschine hat. Es dient zur Zwischenlagerung 
+		bei Mehrfachsortierungen.
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
+	    <p>Ein Video des IBM 083-Sortierers in Aktion findet sich <a href="/de/geraete/IBM083/IBM083_Video.php">hier</a>.</p>
     </div>
 	
 	<h3 id="doppler">Lochkartendoppler</h3>

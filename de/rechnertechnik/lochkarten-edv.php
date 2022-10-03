@@ -85,7 +85,7 @@
 		bei Mehrfachsortierungen.
 	        <br/><a class="go" href="/de/geraete/lochkartensortierer-funktion.php">Funktionsweise des Lochkartensortierers</a>
         </p>
-	    <p>Ein Video des IBM 083-Sortierers in Aktion findet sich <a href="/de/geraete/IBM083/IBM083_Video.php">hier</a>.</p>
+	    <p>Ein Video des IBM 083-Sortierers in Aktion findet sich <a href="/de/geraete/IBM083/IBM083_video.php">hier</a>.</p>
     </div>
 	
 	<h3 id="doppler">Lochkartendoppler</h3>

@@ -74,7 +74,8 @@
          eine Hand voll Chips.  Zu den Highlights gehört etwa der
          Lochkarten-Gerätepark, bei dem jeder einzelne Verarbeitungsschritt durch
          eine schrankgroße Maschine bewerkstelligt wurde, die selbstverständlich auch
-         aufgeklappt werden kann.
+         aufgeklappt werden kann. Schauen sie sich die Sammlung in einem
+	 <a href="/de/virtueller_Rundgang.php">virtuellen Rundgang</a> an.
       <p>Die Sammlung endet vor dem Durchbruch der Personalcomputer in den 1980er-Jahren.
          Gezeigt wird also insbesondere keine Unterhaltungselektronik.
     

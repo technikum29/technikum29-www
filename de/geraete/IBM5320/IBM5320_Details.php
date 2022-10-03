@@ -10,6 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
+	Stand: Sept. 2022
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer IBM 5320 /32 und die Wiederinbetriebnahme der Maschine.

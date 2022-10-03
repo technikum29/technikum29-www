@@ -1,7 +1,7 @@
 <?php
-	$seiten_id = 'IBM083_Video';
+	$seiten_id = 'JUKI_Video';
 	$version = '$Id';
-	$titel = 'IBM 083 Sortierer in Aktion';
+	$titel = 'JUKI Lochkartenstanzer in Aktion';
 	
 	require '../../../lib/technikum29.php';
 ?>

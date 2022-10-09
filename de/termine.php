@@ -41,7 +41,7 @@
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 25. November 2022
+		<dd class="termin">Freitag, 25. November 2022
 		<dt>Uhrzeit
 		<dd>14:00 - 18:00 Uhr
 		<dt>Leitung

@@ -35,6 +35,23 @@
 <div id="termine">
 		
 <div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 25. Nov</p>
+	<h4>Privatführung 70ster Geburtstag Wolfgang D.</h4> 
+	
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 25. November 2022
+		<dt>Uhrzeit
+		<dd>14:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+
+	<div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 12. Nov</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit

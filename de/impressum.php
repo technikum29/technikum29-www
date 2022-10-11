@@ -129,5 +129,7 @@
       <li>2019: <a href="/download/zeitungsartikel/Höchster Kreisblatt 2019.jpg">Die Rettung für das Technikum29: Viele Interessenten wollen bei Wiederbelebung helfen - Verein soll gegründet werden</a> (Frankfurter Neue Presse)
       <li>2020: <a href="https://www.fnp.de/lokales/main-taunus/kelkheim-ort95937/kelkheim-die-retter-der-technik-spielwiese-90153095.html">Die Retter
       der Technik-Spielwiese: Im privaten "technikum29" tut sich weiterhin einiges, aber Lagerräume werden gesucht</a> (Frankfurter Neue Presse, <a href="/download/zeitungsartikel/FNP 2020 Silvester (Website).pdf">PDF</a>)
+      <li>2022: <a href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kasselp2.jpeg">Technikum setzt mit Zugängen nun auf Computergeschichte</a> (Höchster Kreisblatt)
+     
     </ul>
 

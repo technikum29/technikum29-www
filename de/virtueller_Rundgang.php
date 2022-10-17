@@ -27,7 +27,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_4.jpeg" width="940" height="705">
-		<p class="bildtext">. LGP21 (mitte) und LGP 30 (re)</p>
+		<p class="bildtext">. TA1000 (links), LGP21 (mitte hinten) und LGP 30 (rechts)</p>
 	</div>
 	<div class="slide">
 		

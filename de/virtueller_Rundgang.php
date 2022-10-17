@@ -52,7 +52,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_9.jpeg" width="940" height="705">
-		<p class="bildtext">. elektronische Tischrechner (hi. mitte), IBM 5100 und IBM 5320</p>
+		<p class="bildtext">. elektronische Tischrechner (hi. mitte), davor Teile der UNIVAC 9200, IBM 5100 und IBM 5320</p>
 	</div>
 	<div class="slide">
 		

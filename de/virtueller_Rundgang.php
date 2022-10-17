@@ -47,7 +47,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_8.jpeg" width="940" height="705">
-		<p class="bildtext">. DEC PDP "straight 8" und lab8e</p>
+		<p class="bildtext">. DEC PDP "straight 8" und lab8e mit Teletype ASR33</p>
 	</div>
 	<div class="slide">
 		

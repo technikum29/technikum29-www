@@ -42,7 +42,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_7.jpeg" width="940" height="705">
-		<p class="bildtext">. Anelex-Drucker (li.), div. DEC - PDP Minicomputer mit ASR33, DEC-WriterI und II</p>
+		<p class="bildtext">. Anelex-Drucker (li.), div. DEC - PDP Minicomputer mit ASR33, DEC-Writer I und II und VT05-Terminal</p>
 	</div>
 	<div class="slide">
 		

@@ -82,7 +82,7 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_15.jpeg" width="940" height="705">
-		<p class="bildtext">. frühe Rechner mit Mikroprozessoren: Q1 lite (mitte hinten), nach rechts Siemens 6610 und CPT 8800</p>
+		<p class="bildtext">. frühe Rechner mit Mikroprozessoren: Q1 lite (mitte hinten), nach rechts Siemens 6610 und CPT 8800 (vorne rechts)</p>
 	</div>
 	<div class="slide">
 		

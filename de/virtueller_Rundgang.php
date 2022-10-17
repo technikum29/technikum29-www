@@ -57,12 +57,12 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_10.jpeg" width="940" height="705">
-		<p class="bildtext">. BULL Tabelliermaschine, div. Lochkartenstanzer, IBM 083 Sortiermaschine</p>
+		<p class="bildtext">. BULL Tabelliermaschine, div. Lochkartenstanzer, IBM 083 Sortiermaschine, ganz rechts Lochkartenduplizierer IBM 514</p>
 	</div>
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_11.jpeg" width="940" height="705">
-		<p class="bildtext">. JUKI Lochkartenstanzer und IBM 083 Lochkarten-Sortiermaschine, ganz rechts Lochkartenduplizierer IBM 514</p>
+		<p class="bildtext">. JUKI Lochkartenstanzer und IBM 083 Lochkarten-Sortiermaschine</p>
 	</div>
 	<div class="slide">
 		

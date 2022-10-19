@@ -50,6 +50,9 @@
 	<p>Der LGP-21 verfügt über 23 verschiedene Befehle. Das reicht aus, um die üblichen wissenschaftlichen Aufgaben programmieren zu können.  <br>
 	Die Reparatur des Rechners gestaltet sich als große Herausforderung. Da wir jedoch die Grundausstattung doppelt haben, ist die Chance für eine erfolgreiche Reparatur groß.	Weitere Informationen zu diesem interessanten Rechner folgen später.</p>
 
+<p>Über die Reparatur unseres LGP 21 - Systems
+	    berichten wir im <a class="go" href="/de/geraete/LGP21/LGP21_Details.php">LGP21-Reparaturblog</a>. Dort findet man auch PDFs der Manuals und über 100 
+	    digitalisierte Lochstreifen aus unserer Sammlung !</p>
 
 
 

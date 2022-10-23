@@ -158,10 +158,17 @@ Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran
 	<a href="/de/geraete/magnetdrahtspeicher.php"><img src="/shared/photos/rechnertechnik/speichermedien/magnetdrahtspeicher.jpg" alt="Beschriftetes Photo: Aufbau des Magnetdrahtspeichers" width="340" height="303" /></a>
 	<p class="bildtext"><i>Univac Magnetdrahtspeicher</i></p>
 	
-		<p>Dieser Speicher sollte den Kernspeicher ablösen. Mit Ankündigung der UNIVAC Serie 9000 (ca. 1965/66) stellte UNIVAC "eine technische Neuerung ersten Ranges" vor: Den Magnetdrahtspeicher, so der Text in der UNIVAC-Zeitschrift "Die Lochkarte" von 1967.</p><p>
-		Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA erhielt UNIVAC 1964 den Auftrag ein Speichersystem zu entwickeln, das weniger als 1 Watt Leistung benötigt (ein Kernspeicher benötigt dafür 10-15 Watt), nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br>
-		Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und für Satelliten und Raumschiffe eingesetzt werden. Doch schon nach relativ kurzer Zeit kam die Ernüchterung: Der Speicher war sehr störanfällig.</br></p>
-		<p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des Magnetdrahtspeichers</a></p></div>
+		<p>Dieser Speicher sollte den Kernspeicher ablösen. Mit Ankündigung der UNIVAC Serie 9000 (ca. 1965/66) stellte UNIVAC "eine technische 
+			Neuerung ersten Ranges" vor: Den Magnetdrahtspeicher, so der Text in der UNIVAC-Zeitschrift "Die Lochkarte" von 1967.</p>
+	<p>
+		Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA erhielt UNIVAC 1964 
+		den Auftrag ein Speichersystem zu entwickeln, das weniger als 1 Watt Leistung benötigt (ein Kernspeicher benötigt dafür 10-15 Watt), 
+		nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie 
+		Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br>
+		Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und z.B. für Satelliten eingesetzt 
+		werden. So wurden die Raumsonden Voyager I und II mit Magnetdrahtspeicher ausgerüstet.</br></p>
+		<p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des 
+			Magnetdrahtspeichers</a></p></div>
 
 
 <h3 id="lochband">Lochband</h3>

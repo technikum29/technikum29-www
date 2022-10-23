@@ -164,8 +164,8 @@ Die Werkstätten der Hochschule müssen in mühsamer Handarbeit wochenlang daran
 		Im Rahmen eines Forschungs- und Entwicklungsauftrages des Goddard Space Flight Centers der Raumfahrtbehörde NASA erhielt UNIVAC 1964 
 		den Auftrag ein Speichersystem zu entwickeln, das weniger als 1 Watt Leistung benötigt (ein Kernspeicher benötigt dafür 10-15 Watt), 
 		nicht zerstörendem Lesen (d.h. kein Wiedereinschreiben der gelesenen Information), hoher Speicherkapazität, kleiner Zykluszeit, sowie 
-		Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br>
-		Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und z.B. für Satelliten eingesetzt 
+		Funktionsfähigkeit bei Temperaturen von -20 bis +100 Grad Celsius.<br></p>
+		<p>Schon ein Jahr später (1965) konnte ein solches Speichersystem mit genialen Ideen entwickelt, gebaut und z.B. für Satelliten eingesetzt 
 		werden. So wurden die Raumsonden Voyager I und II mit Magnetdrahtspeicher ausgerüstet.</br></p>
 		<p>Interessante Einzelheiten sind hier zu lesen: <a class="go" href="/de/geraete/magnetdrahtspeicher.php">Aufbau und Funktion des 
 			Magnetdrahtspeichers</a></p></div>

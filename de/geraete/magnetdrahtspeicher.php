@@ -36,12 +36,14 @@ Zum Lesen der Information wird durch die Leseleitungen, die vertikal zum Magnetd
 <p style="clear:both;">Im Prinzip war das eine geniale Idee, kein Fädeln der Ringkerne, kurze Zykluszeit, preiswert und maschinell herzustellen. 
 	Doch in der Praxis gab es Probleme: Der Aufbau war recht empfindlich, Korrosion der Magnetschichten war eine der Ursachen für Ausfälle. 
 	Eine Reparatur im Feld war schwierig und aufwändig, es gab Reparaturprozeduren, um einzelne fehlerhafte Drähte zu identifizieren und 
-	auszuwechseln, was mit steigender Miniaturisierung immer schwieriger wurde. 
+	auszuwechseln, was mit steigender Miniaturisierung immer schwieriger wurde. </p>
 
-Anfang der 70er Jahre kamen glücklicherweise die ersten Halbleiterspeicher auf den Markt, so dass die meisten Rechner mit Magnetdrahtspeicher auf 
+<p>Anfang der 70er Jahre kamen glücklicherweise die ersten Halbleiterspeicher auf den Markt, so dass die meisten Rechner mit Magnetdrahtspeicher auf 
 	Halbleiterspeicher mit INTEL-Chip´s umgerüstet wurden, so auch unsere UNIVAC 9400.
  Dagegen laufen unsere beiden UNIVAC 9200 noch mit dem originalen Drahtspeicher, vermutlich die letzten noch funktionsfähigen Magnetdrahtspeicher 
-	der Erde ! Im Weltall, am Rande unseres Sonnensystems, tun Magnetdrahtspeicher seit 1977 immer noch ihren Dienst: in den Kommando- und 
+	der <b>Erde</b> ! </p>
+	
+<p>Im <b>Weltall</b>, am Rande unseres Sonnensystems, tun Magnetdrahtspeicher seit 1977 immer noch ihren Dienst: in den Kommando- und 
 	Lageregelungs-Rechnern (CCS + AACS) der beiden Voyagersonden 1 und 2 arbeiten sie fehlerfrei bis heute (2022) und spielen einen 
-	weiteren Vorteil gegen Halbleiterspeicher aus, sie sind widerstandsfähiger gegenüber der kosmischen Strahlung.
+	weiteren Vorteil gegen Halbleiterspeicher aus, sie sind widerstandsfähiger gegenüber der kosmischen Strahlung.</p>
 </p>

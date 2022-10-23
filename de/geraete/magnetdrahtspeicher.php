@@ -33,6 +33,15 @@ Zum Lesen der Information wird durch die Leseleitungen, die vertikal zum Magnetd
 
 <p>Will man einen Zustand ändern (Schreiben), so wird zusätzlich zum Leseimpuls ein Stromimpuls durch den Draht geschickt. Wo beide Magnetfelder in zeitlicher Koninzidenz zusammentreffen wird die Richtung des Magnetfeldvektors geändert (oder auch nicht, wenn er vorher schon "richtig" stand). Eine neue Information (hier ein Bit) wurde abgespeichert.</p></p>
 
-<p style="clear:both;">Im Prinzip war das eine geniale Idee, kein Fädeln der Ringkerne, kurze Zykluszeit, preiswert und maschinell herzustellen...
-<br/>Doch man ahnt es schon: Der Aufbau war so empfindlich, dass schon bald viele Probleme auftraten; ein Horror für jede Firma, die diesen Speicher verwendete. Bei ganz alten Speichern konnte man die Drähte noch einzeln auswechseln, später wurde alles verklebt und eine Reparatur ist unmöglich. Anfang der 70er Jahre kamen glücklicherweise die ersten Halbleiterspeicher auf den Markt, so dass die meisten Rechner mit Magnetdrahtspeicher auf Halbleiterspeicher mit INTEL-Chip´s umgerüstet wurden, so auch unsere UNIVAC 9400.<br>
-Dagegen laufen unsere beiden UNIVAC 9200 noch mit dem originalen Drahtspeicher, vermutlich die letzten noch funktionsfähigen Magnetdrahtspeicher der Welt!</p>
+<p style="clear:both;">Im Prinzip war das eine geniale Idee, kein Fädeln der Ringkerne, kurze Zykluszeit, preiswert und maschinell herzustellen. 
+	Doch in der Praxis gab es Probleme: Der Aufbau war recht empfindlich, Korrosion der Magnetschichten war eine der Ursachen für Ausfälle. 
+	Eine Reparatur im Feld war schwierig und aufwändig, es gab Reparaturprozeduren, um einzelne fehlerhafte Drähte zu identifizieren und 
+	auszuwechseln, was mit steigender Miniaturisierung immer schwieriger wurde. 
+
+Anfang der 70er Jahre kamen glücklicherweise die ersten Halbleiterspeicher auf den Markt, so dass die meisten Rechner mit Magnetdrahtspeicher auf 
+	Halbleiterspeicher mit INTEL-Chip´s umgerüstet wurden, so auch unsere UNIVAC 9400.
+ Dagegen laufen unsere beiden UNIVAC 9200 noch mit dem originalen Drahtspeicher, vermutlich die letzten noch funktionsfähigen Magnetdrahtspeicher 
+	der Erde ! Im Weltall, am Rande unseres Sonnensystems, tun Magnetdrahtspeicher seit 1977 immer noch ihren Dienst: in den Kommando- und 
+	Lageregelungs-Rechnern (CCS + AACS) der beiden Voyagersonden 1 und 2 arbeiten sie fehlerfrei bis heute (2022) und spielen einen 
+	weiteren Vorteil gegen Halbleiterspeicher aus, sie sind widerstandsfähiger gegenüber der kosmischen Strahlung.
+</p>

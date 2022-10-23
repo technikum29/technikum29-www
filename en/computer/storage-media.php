@@ -207,7 +207,8 @@ time. Having a look at this <a class="popup" href="/shared/photos/rechnertechnik
           (that is, no more neccessarity to write the informations after reading them),
           high capacity, low cycle time and functionality in a temperature range from
           -20° C to +50°C (-4°F to 122°F).
-          <br/>In this way the plated wire storage was developed, based on a couple of
+          <br></p>
+	       <p>In this way the plated wire storage was developed, based on a couple of
           ingenious ideas. It found its application, among others, in space probes. Voyager I and II
 	       are equipped with plated wire memory.</p>
        <p>Clicking on the photography will yield further informations about the

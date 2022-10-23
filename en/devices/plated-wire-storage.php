@@ -40,8 +40,17 @@ and falls back to the former position. This libration induces a small voltage. T
 <p>To change a bit, its the same procedure, but in addition to the raised word current, there is also a current in the plated wire (bit current). The affecting magnetic field can change the direction of a domain (binary storage cell). Therewith a new information was saved.</p>
 
 <p style="clear:both;">
-  In principle this was an ingenius idea: No need to thread the cores, fast cycle time, very cheap to produce...
-  <br/>But there is a rub; the construction was very sensitive and error-prone. While the wires could be replaced in the former storage systems, typical plated wire storages were completely stuck together so they could not be repared later on. This was a disaster for the companies which made use of this storage.
-  <br/>Fortunately, the first semiconductor memories were mass-produced in the early 1970s, so most of the computers featuring plated wire storage could be upgraded to semiconductor memories made by INTEL.<br>
-  Other hand our UNIVAC 9200 is still running with the original wire-memory, probably the last remaining functional magnetic wire store in the world!</p>
+  In principle it was a brilliant idea, no threading of the ring cores, short cycle times, inexpensive and machine-made. But there were problems 
+	in practice: the structure was quite sensitive, corrosion of the magnetic layers was one of the causes of failures. A repair in the field 
+	was difficult and time-consuming, there were repair procedures to identify and replace individual faulty wires, which became more and more 
+	difficult with increasing miniaturization.</p>
+
+<p>Fortunately, the first semiconductor memories came onto the market at the beginning of the 1970s, so that most computers with magnet wire 
+	memories were converted to semiconductor memories with INTEL chips, including our UNIVAC 9400.</p>
+
+<p>On the other hand, our two UNIVAC 9200 are still running with the original wire storage, probably the last functional magnetic wire 
+	storage on <b>earth</b>! </p>
+<p>In <b>space</b>, on the outer boarder of our solar system, magnetic wire storage has been doing its job since 1977: in the command 
+	and attitude control computers (CCS + AACS) of the two Voyager probes 1 and 2, they have been working error-free to this day 
+	(2022) and play another advantage Semiconductor memory, they are more resistant to cosmic rays.</p>
 

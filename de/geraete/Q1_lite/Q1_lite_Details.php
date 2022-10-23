@@ -91,5 +91,6 @@
 </p>
 <p>Besonderer Dank geht an Robin Vowels, der uns mit Scans einiger seltener Manuals versorgt hat !
 </p>
-
+<p>Ein weitere Dank geht an Karl Wacker für die Scans der Schaltpläne !
+</p>
 

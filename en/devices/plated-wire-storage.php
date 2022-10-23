@@ -52,5 +52,5 @@ and falls back to the former position. This libration induces a small voltage. T
 	storage on <b>earth</b>! </p>
 <p>In <b>space</b>, on the outer boarder of our solar system, plated wire storage has been doing its job since 1977: in the command 
 	and attitude control computers (CCS + AACS) of the two Voyager probes 1 and 2, they have been working error-free to this day 
-	(2022) and play another advantage Semiconductor memory, they are more resistant to cosmic rays.</p>
+	(2022) and have another advantage over semiconductor memory, they are more resistant to cosmic rays.</p>
 

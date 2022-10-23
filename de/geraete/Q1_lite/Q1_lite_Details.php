@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Sept. 2022
+	Stand: 23. Okt. 2022
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer Q1 lite und die Wiederinbetriebnahme der Maschine.
@@ -82,7 +82,27 @@
 		einen rudimentären Betrieb zulässt, kann erst geprüft werden, wenn die Maschine nach dem Einschalten auf
 		Tastendrücke reagiert (was sie im Augenblick noch nicht tut).
 		<p/>
+	<p><b>Update 23.10.2022:</b>
+		<p/>	
+	<p>Mittlerweile haben wir Kontakt zu einigen Q1-Besitzern aufgenommen. Zusammen verfügen wir über die notwendigen 
+		Gerätschaften und sogar Floppys mit Software. Gemeinsam sollten wir die eine oder andere Q1 wieder zum Leben
+		erwecken können ! </p>
+	<p><a href="https://www.thebyteattic.com/p/q1.html">Bernardo</a> besitzt eine Q1 mit Floppylaufwerk, er möchte die
+		gesamte Hardware reengineeren</p>
+	<p>Bart von dem <a href="https://www.homecomputermuseum.nl/#intro">Niederländischen Home Computer Museum</a> bietet uns an, 
+		ihre Q1-Floppy zu leihen für Tests</p>
+	<p>Auf einer <a href="http://www.peel.dk/Q1/"> Dänischen Webseite</a> werden gleich 2 (!!) Q1en präsentiert.</p>
+	<p>Mattis vom  <a href="http://www.datormuseum.se/available.html"> Schwedischen "Datormuseum""</a> hat diverse Q1 Hardware im 
+		Bestand. Er hat Versuche unternommen, seine Q1-Floppysammlung zu digitalisieren.</p>
+	<p>Karl and Robin unterstützten uns mit Scans seltener Handbücher und Schaltpläne  !</p>
+	<p>
+		</p>
+	<p>
+		</p>
+	
 	<p> *** wird fortgesetzt *** 
+		</p>
+	<p>
 		</p>
 
 <h3>Broschüren und Manuals zum Download</h3>

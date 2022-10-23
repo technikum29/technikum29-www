@@ -45,12 +45,12 @@ and falls back to the former position. This libration induces a small voltage. T
 	was difficult and time-consuming, there were repair procedures to identify and replace individual faulty wires, which became more and more 
 	difficult with increasing miniaturization.</p>
 
-<p>Fortunately, the first semiconductor memories came onto the market at the beginning of the 1970s, so that most computers with magnet wire 
+<p>Fortunately, the first semiconductor memories came onto the market at the beginning of the 1970s, so that most computers with plated wire 
 	memories were converted to semiconductor memories with INTEL chips, including our UNIVAC 9400.</p>
 
-<p>On the other hand, our two UNIVAC 9200 are still running with the original wire storage, probably the last functional magnetic wire 
+<p>On the other hand, our two UNIVAC 9200 are still running with the original wire storage, probably the last functional plated wire 
 	storage on <b>earth</b>! </p>
-<p>In <b>space</b>, on the outer boarder of our solar system, magnetic wire storage has been doing its job since 1977: in the command 
+<p>In <b>space</b>, on the outer boarder of our solar system, plated wire storage has been doing its job since 1977: in the command 
 	and attitude control computers (CCS + AACS) of the two Voyager probes 1 and 2, they have been working error-free to this day 
 	(2022) and play another advantage Semiconductor memory, they are more resistant to cosmic rays.</p>
 

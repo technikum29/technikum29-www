@@ -42,12 +42,12 @@
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_7.jpeg" width="940" height="705">
-		<p class="bildtext">. Anelex-Drucker (li.), div. DEC - PDP Minicomputer mit ASR33, DEC-Writer I und II und VT05-Terminal</p>
+		<p class="bildtext">. Anelex-Drucker (li.), div. DEC - PDP Minicomputer mit Modell 33ASR, DEC-Writer I und II und VT05-Terminal</p>
 	</div>
 	<div class="slide">
 		
 		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_8.jpeg" width="940" height="705">
-		<p class="bildtext">. DEC PDP "straight 8" und lab8e mit Teletype ASR33</p>
+		<p class="bildtext">. DEC PDP "straight 8" und lab8e mit Teletype Modell 33ASR</p>
 	</div>
 	<div class="slide">
 		

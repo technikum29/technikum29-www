@@ -52,7 +52,7 @@
 </div><!--/.termin -->
 
 	<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 12. Nov</p>
+	<p class="date left"><em>2022</em> 19. Nov</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
@@ -60,13 +60,15 @@
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 12. November 2022
+		<dd class="termin">Samstag, 19. November 2022
 		<dt>Uhrzeit
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 				
-		<dd>Instandsetzung div. Geräte nach Absprache
+		<dd>*** Der Termin vom 12.11. wurde um eine Woche verschoben ***
+		<dd>Letzter Helfertag in diesem Jahr !! Instandsetzung div. Geräte nach Absprache
+		
 	</dl>
 </div><!--/.termin -->
 

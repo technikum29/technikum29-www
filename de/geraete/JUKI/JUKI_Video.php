@@ -8,7 +8,7 @@
 
 <h2><?php print $titel; ?></h2>
 <p>
-	Hier in dem kleinen Filmchen sieht man den JUKI Lochkartenstanzer in Aktion: </p>
+	Hier in dem kleinen Filmchen sieht man den JUKI Lochkartenstanzer in Aktion : </p>
 
 <p>
 <video width="1280" height="720" controls style="width:100%;height:auto;">

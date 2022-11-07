@@ -56,7 +56,7 @@ Es wurden durchaus anspruchsvolle Berechnungen mit dem kleinen Rechner ausgefüh
 <a href="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" target="_blank">
 		<img src="/shared/photos/rechnertechnik/lgp-trommelspeicher.jpg" alt="Trommelspeicher" height="325" width="420"></a>	
 		<div class="bildtext">	
-			<p>LGP-30 Trommelspeicher. Die Magnetschicht hat einige Defekte.<br>Das Bild lässt sich vergrößern.</p>  
+			<p>LGP-30 Trommelspeicher. Die Magnetschicht hat gravierende Defekte.<br>Das Bild lässt sich vergrößern.</p>  
 		</div>	</div>
 		
 <div id="trommel"></div>
@@ -68,7 +68,14 @@ Nun endlich stürzen wir uns in das Abenteuer der Instandsetzung des Röhrenrech
 4. Induktive Ankopplung, jeder Kopf erhält einen Gegenkopf der an ein Umlaufregister angeschlossen ist. Extrem aufwändig. Diese Idee wurde zunächst wieder verworfen.<br><br>
 Im Vergleich zur Trommel-Emulation ist die Herstellung aller fehlenden Verbindungskabel eine Kleinigkeit.<br>
 Erfreulicherweise haben sich 4 Experten bereit erklärt, an dieser Herausforderung mitzuwirken. Insbesondere gilt unser Dank Herrn Klemens Krause vom <a href="http://computermuseum.informatik.uni-stuttgart.de/"target="_blank">Computermuseum-Stuttgart</a>.
-
+<p>
+<b>UPDATE 2022:</b></p>
+<p>
+Noch zu Lebzeiten von Heribert Müller entschieden wir uns, Option 2 zu verfolgen und  einen
+FPGA als Ersatz für die Trommel zu programmieren. Das Hard- und Softwaredesigns übernahm
+Jürgen Müller. Wie es in den letzten Jahren trotz Unterbrechungen durch die Corona -Beschränkungen 
+weiterging berichten wir <a href="/de/geraete/LGP30/LGP30_Details.php">hier</a>.
+</p>
 
 
 

@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-	Stand: Sept. 2022
+	Stand: Nov. 2022
 
 <p>Im Bestand des technikum29 haben wir 3 Olivetti P652, 2 Schreibsysteme ST4, 2 Magnetbandeinheiten MLU600, eine Festplatte DAS600, 2 Doppel-Cassettenlaufwerke
 CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Material eine funktionsfähige Komplettanlage zusammenzustellen. 
@@ -33,10 +33,34 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
 	<a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/MLU600_Cassette.jpg" class="popup">
 	<img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/MLU600_Cassette.jpg" width="320" height="240" alt="MLU600 Cassette" />
 	</a>
-	<p>Eine der Ersatz-P652en hat eine Erweiterung "GOLU MLU600" eingebaut <b>(links)</b>, sie ist Voraussetzung, um eines der Magnetlaufwerke MLU600
-		in Betrieb nehmen zu können. Leider suchen wir noch nach den passenden Magnetbandcassetten. Wie sie aussehen müssen wissen wir
+	<p>Eine der Ersatz-P652en hat eine Erweiterung "GOLU MLU600" eingebaut <b>(links)</b>, sie ist 
+	Voraussetzung, um eines der Magnetlaufwerke MLU600 in Betrieb nehmen zu können. Leider suchen 
+	wir noch nach den passenden Magnetbandcassetten. Wie sie aussehen müssen wissen wir
 		aus einer Abbildung in unserer P652-Betriebsanleitung <b>(rechts)</b>.
     </p>
 </div>
+
+ <p>6.11.2022: Philipp aus dem Forum VzEhC hat uns Bilder einer MLU-Cassette geschickt, vielen Dank !
+ </p>
+<div class="box center">
+   <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_1.jpeg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_1.jpeg" width="180"/>
+      </a>
+	<a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_2.jpeg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_2.jpeg" width="180"/>
+      </a>
+    <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_3.jpeg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_3.jpeg" width="160"/>
+      </a>
+    <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_4.jpeg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_4.jpeg" width="180"/>
+      </a>
+    <p class="bildtext">Zum Vergrößern der Bilder diese bitte anklicken !</p>
+</div>
+<br>
+
+
+
+
 
 <p> wird fortgesetzt ... </p>

@@ -40,7 +40,7 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
     </p>
 </div>
 
- <p>6.11.2022: Über das Forum des VzEhC haben uns Bilder einer MLU-Cassette erreicht, vielen Dank !
+ <p>6.11.2022: Über das Forum des VzEhC haben uns Bilder einer MLU-Cassette erreicht, vielen Dank an Franz Reitmeier !
  </p>
 <div class="box center">
    <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_1.jpeg" class="popup">

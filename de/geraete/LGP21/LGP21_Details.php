@@ -26,14 +26,14 @@
 	LGP 21, darunter der ACT I und der ACT V Compiler, viele Hilfsprogramme und einige Spiele (Black Jack).
 	Wir haben ca 100 der wichtigsten Lochstreifen digitalisiert, weitere werden folgen.</p>
 
-<p>Zum Download der digitalisierten Papertapes (mit einer Übersicht über alle Papertapes im technikum29) geht
+<p>Zum Download der von uns digitalisierten Papertapes (mit einer Übersicht über alle Papertapes im technikum29) geht
 es  <a href="/de/geraete/LGP21/LGP21_papertapes">hier</a>
 </p>
 
 
 <h3>Broschüren und Manuals zum Download</h3>
 
-<p>zum Download unserer Scans geht es <a href="/de/geraete/LGP21/LGP21_PDFs">hier</a>
+<p>zum Download der von uns gesammelten Scans geht es <a href="/de/geraete/LGP21/LGP21_PDFs">hier</a>
 </p>
 
 

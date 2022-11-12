@@ -33,7 +33,7 @@ es  <a href="/de/geraete/LGP21/LGP21_papertapes">hier</a>
 
 <h3>Broschüren und Manuals zum Download</h3>
 
-<p>zum Download unserer (und einiger im Web gefundener) Scans geht es <a href="/de/geraete/LGP21/LGP21_PDFs">hier</a>
+<p>Zum Download unserer (und einiger im Web gefundener) Scans geht es <a href="/de/geraete/LGP21/LGP21_PDFs">hier</a>
 </p>
 
 

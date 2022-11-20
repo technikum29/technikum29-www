@@ -104,8 +104,9 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
 <p>Beide Cassetten wurden zerlegt, von den Resten der aufgelösten Andruckrollen befreit und gereinigt.
 	Das Magnetband der einen Cassette war nur gering verschutzt und konnte vorsichtig mit Ethanol 
 	gereinigt werden. Das Band der zweiten Cassette war auf ca 5 cm zerknittert und die Magnetschicht 
-	begann sich abzulösen. Nach der Reinigung wurde das Stück rausgeschnitten. Ob das Band so noch 
-	funktioniert ist fraglich, aber so haben wir eine 2. Democassette !</p>
+	begann sich abzulösen. Nach der Reinigung wurde das Stück rausgeschnitten und das Band wie früher bei
+	Tonbändern üblich wieder zusammengeklebt. Ob das Band so noch funktioniert ist fraglich, aber so haben 
+	wir eine 2. Democassette !</p>
 <p> Der Körper der Andruckrolle ist hantelförmig, die Gummierung saß an den Enden, in der Mitte muss
 	Platz für eine Bandführungszunge gelassen werden. Als Ersatz für die Gummierung wurden zwei Gummiringe 
 	12 * 3 mm aufgesetzt, siehe Foto ! Nach dem vorsichtigen Einlegen des Endlosbandes und Verschließen

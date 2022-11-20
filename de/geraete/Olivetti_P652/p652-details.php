@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-	Stand: 12. Nov. 2022
+	Stand: 19. Nov. 2022
 
 <p>Im Bestand des technikum29 haben wir 3 Olivetti P652, 2 Schreibsysteme ST4, 2 Magnetbandeinheiten MLU600, eine Festplatte DAS600, 2 Doppel-Cassettenlaufwerke
 CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Material eine funktionsfähige Komplettanlage zusammenzustellen. 
@@ -98,9 +98,31 @@ CTU1000 sowie einen Lochstreifenstanzer PN20. Wir werden versuchen, aus dem Mate
     <p class="bildtext">weitere Bilder, zum Vergrößern der Bilder diese bitte anklicken !</p>
 </div>
 <br>
- <p>Als nächstes steht der Ersatz der Andruckrolle und das vorsichtige Reinigen des Bandes an.
+ <p><b>Update 19.11.2022</b>
  </p
  <br>
-
+<p>Beide Cassetten wurden zerlegt, von den Resten der aufgelösten Andruckrollen befreit und gereinigt.
+	Das Magnetband der einen Cassette war nur gering verschutzt und konnte vorsichtig mit Ethanol 
+	gereinigt werden. Das Band der zweiten Cassette war auf ca 5 cm zerknittert und die Magnetschicht 
+	begann sich abzulösen. Nach der Reinigung wurde das Stück rausgeschnitten. Ob das Band so noch 
+	funktioniert ist fraglich, aber so haben wir eine 2. Democassette !</p>
+<p> Der Körper der Andruckrolle ist hantelförmig, die Gummierung saß an den Enden, in der Mitte muss
+	Platz für eine Bandführungszunge gelassen werden. Als Ersatz für die Gummierung wurden zwei Gummiringe 
+	12 * 3 mm aufgesetzt, siehe Foto ! Nach dem vorsichtigen Einlegen des Endlosbandes und Verschließen
+	der Cassette ein Test: das Band lässt sich problemlos durch Drehen an der Antriebskupplung transportieren. 
+	Der Antrieb hat einen Ratschenmechanismus, das Band kann nur vorwärts transportiert werden. </p>
+<p>Damit besitzen wir 2 mechanisch funktionierende Cassetten für die MLU, zumindest eine sollte 
+	sich auch problemlos beschreiben/lesen lassen.</p>
+	
+<div class="box center">
+   <a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_repariert_1.jpg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_repariert_1.jpg" width="350"/>
+      </a>
+	<a  href="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_repariert_2.jpg" class="popup">
+      <img src="/de/geraete/Olivetti_P652/Olivetti_P652_Bilder/Olivetti_MLU600_Cassette_repariert_2.jpg" width="380"/>
+      </a>
+    <p class="bildtext"><b>links:</b> gereinigte Cassette vor dem Zusammenbau, <b>rechts:</b> 2 Ersatz-Gummiringe auf der Andruckrolle</p>
+</div>
+<br>
 
 <p> wird fortgesetzt ... </p>

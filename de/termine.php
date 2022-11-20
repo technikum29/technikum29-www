@@ -33,7 +33,24 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">
-		
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2022</em> 8. Apr</p>
+	<h4>Privatführung Thomas A.</h4> 
+	
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 8. April 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2022</em> 25. Nov</p>
 	<h4>Privatführung 70ster Geburtstag Wolfgang D.</h4> 

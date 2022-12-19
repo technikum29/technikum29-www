@@ -35,7 +35,7 @@
 <div id="termine">
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 8. Apr</p>
+	<p class="date left"><em>2023</em> 8. Apr</p>
 	<h4>Privatführung Thomas A.</h4> 
 	
 
@@ -44,6 +44,24 @@
 		<dd class="termin">Samstag, 8. April 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 14:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
+		
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 2. Feb</p>
+	<h4>Privatführung Felix Z.</h4> 
+	
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 2. Feb. 2023
+		<dt>Uhrzeit
+		<dd>15:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 				

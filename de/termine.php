@@ -8,7 +8,7 @@
 
 
 <h2>Kalender und Termine</h2>
-
+<!--
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">Stand 24.8.2022</h4>
 	
@@ -17,6 +17,7 @@
 	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
 </div>
+-->
 
 
 <h3>Informationen zum regulären Museumsbesuch</h3>

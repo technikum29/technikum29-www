@@ -207,6 +207,8 @@
 		<td>Helfertag<br>	
 	<tr>	<td>Sa, 25.6.2022
 		<td>Helfertag<br>
+	<tr>	<td>Sa, 11.6.2022
+		<td>Helfertag<br>
 	<tr>	<td>Mi, 22.6.2022
 		<td>Computer-History<br>
 		<td>Privatführung Markus R.<br>			

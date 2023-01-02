@@ -174,8 +174,8 @@
 	<div class="termine">
 
 	<h2>2022</h2>
-	<p>2022 stand der Museumsbetrieb im Zeichen der Auflösung der Außendepots. Mit dem Abflauen der Coronapandemie
-		fanden am Ende des Jahres auch wieder erste Führungen statt.
+	<p>2022 stand der Museumsbetrieb im Zeichen der Auflösung verschiedener Außendepots und der Neuausrichtung der Ausstellung.
+		Mit dem Abflauen der Coronapandemie fanden in der zweiten Hälfte des Jahres auch wieder Führungen statt.
 	</p>
 		</br>
 	<table class="termine">

@@ -496,6 +496,22 @@
 
 	<div class="termine">
 
+	<h2>2022</h2>
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
+	<tr>	<td>Fr, 25.11.2022
+		<td>Computer-History<br>
+		<td>Privatführung<br>			
+		<td>70. Geburtstag Wolfgang D.<br>
+	<tr>	<td>Sa, 19.11.2022
+		<td>Computer-History<br>
+		<td>Privatführung<br>			
+		<td>20. Geburtstag Lorenz R.<br>	
+	</table>
 		
 	<h2>2021</h2>
 	<p>2021 ruhte der öffentliche Museumsbetrieb wg. der Corona-Epidemie

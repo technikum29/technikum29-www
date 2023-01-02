@@ -17,7 +17,7 @@
 	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
 </div>
-<!
+</
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 

@@ -28,7 +28,7 @@
 <p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
 	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen Termin vereinbaren ? 
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 <p><strong>Helfertage</strong> sind Termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
 	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
@@ -53,6 +53,27 @@
 	</dl>
 </div><!--/.termin -->
 	
+	
+	<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 11. Feb</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 11. Februar 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+			
+		<dd>Instandsetzung div. Geräte nach Absprache
+		
+	</dl>
+</div><!--/.termin -->
+
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 2. Feb</p>

@@ -140,7 +140,7 @@
 	
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 25.Nov</p>
+	<p class="date left"><em>2022</em> 25. Nov</p>
 	<h4>Privatführung 70ster Geburtstag Wolfgang D.</h4> 
 	
 

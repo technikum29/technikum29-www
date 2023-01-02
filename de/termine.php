@@ -195,7 +195,8 @@
 	<tr>	<td>Sa, 5.11.2022
 		<td>Helfertag<br>
 	<tr>	<td>Sa, 17.9.2022
-		<td>Helfertag<br>	
+		<td>Helfertag/Führung<br>	
+		<td>Privatführung Ludwig K.<br>
 	<tr>	<td>Sa, 3.9.2022
 		<td>Helfertag<br>
 	<tr>	<td>Sa, 6.8.2022
@@ -206,6 +207,9 @@
 		<td>Helfertag<br>	
 	<tr>	<td>Sa, 25.6.2022
 		<td>Helfertag<br>
+	<tr>	<td>Mi, 22.6.2022
+		<td>Computer-History<br>
+		<td>Privatführung Markus R.<br>			
 	<tr>	<td>Do, 2.6.2022
 		<td>Helfertag<br>
 		<td>Umzug Depots<br>

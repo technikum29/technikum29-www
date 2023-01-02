@@ -497,6 +497,10 @@
 	<div class="termine">
 
 	<h2>2022</h2>
+	<p>2022 stand der Museumsbetrieb im Zeichen der Auflösung der Außendepots. Mit dem Abflauen der Coronapandemie
+		fanden am Ende des Jahres auch wieder erste Führungen statt.
+	</p>
+		</br>
 	<table class="termine">
 	<tr class="title">
 		<th style="width:9em">Datum
@@ -510,7 +514,26 @@
 	<tr>	<td>Sa, 19.11.2022
 		<td>Computer-History<br>
 		<td>Privatführung<br>			
-		<td>20. Geburtstag Lorenz R.<br>	
+		<td>20. Geburtstag Lorenz R.<br>
+	<tr>	<td>Sa, 5.11.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 17.9.2022
+		<td>Helfertag<br>	
+	<tr>	<td>Sa, 3.9.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 6.8.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 23.7.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 9.7.2022
+		<td>Helfertag<br>	
+	<tr>	<td>Sa, 25.6.2022
+		<td>Helfertag<br>
+	<tr>	<td>Do, 2.6.2022
+		<td>Helfertag<br>
+		<td>Umzug Depots<br>
+	<tr>	<td>Sa, 21.5.2022
+		<td>Helfertag<br>
 	</table>
 		
 	<h2>2021</h2>

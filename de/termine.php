@@ -8,7 +8,7 @@
 
 
 <h2>Kalender und Termine</h2>
-
+<!--
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">Stand 24.8.2022</h4>
 	
@@ -17,6 +17,8 @@
 	< 1.5 m, es gelten die Corona-üblichen Hygieneregeln.	
 <p><strong>Wir bitten hierfür um Verständnis.</strong>
 </div>
+-->
+
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
@@ -26,7 +28,7 @@
 <p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
 	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen Termin vereinbaren ? 
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
 	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 <p><strong>Helfertage</strong> sind Termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
 	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
@@ -35,7 +37,7 @@
 <div id="termine">
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 8. Apr</p>
+	<p class="date left"><em>2023</em> 8. Apr</p>
 	<h4>Privatführung Thomas A.</h4> 
 	
 
@@ -51,42 +53,9 @@
 	</dl>
 </div><!--/.termin -->
 	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 25. Nov</p>
-	<h4>Privatführung 70ster Geburtstag Wolfgang D.</h4> 
-	
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Freitag, 25. November 2022
-		<dt>Uhrzeit
-		<dd>14:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
-
-	<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 19. Nov</p>
-	<h4>Privatführung 20ster Geburtstag Lorenz R.</h4> 
-	
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 19. November 2022
-		<dt>Uhrzeit
-		<dd>13:00 - 16:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
 	
 	<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 19. Nov</p>
+	<p class="date left"><em>2023</em> 11. Feb</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
@@ -94,21 +63,38 @@
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 19. November 2022
+		<dd class="termin">Samstag, 11. Februar 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>*** Der Termin vom 12.11. wurde um eine Woche verschoben ***
-		<dd>Letzter Helfertag in diesem Jahr !! Instandsetzung div. Geräte nach Absprache
+			
+		<dd>Instandsetzung div. Geräte nach Absprache
 		
 	</dl>
 </div><!--/.termin -->
 
 		
 <div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 5. Nov</p>
+	<p class="date left"><em>2023</em> 2. Feb</p>
+	<h4>Privatführung Felix Z.</h4> 
+	
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 2. Feb. 2023
+		<dt>Uhrzeit
+		<dd>15:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
+	
+	<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 28. Jan</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
@@ -116,262 +102,41 @@
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 5. November 2022
+		<dd class="termin">Samstag, 28. Januar 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+			
 		<dd>Instandsetzung div. Geräte nach Absprache
+		
 	</dl>
 </div><!--/.termin -->
 
 	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 1. Okt</p>
+	<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 14. Jan</p>
 	<h4>allgemeiner Helfertag</h4> 
-	<p>*** ACHTUNG *** Termin muss leider entfallen !! ***
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 1. Oktober 2022
+		<dd class="termin">Samstag, 14. Januar 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+			
 		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-
-		
-
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 17. Sep</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 17. September 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 3. Sep</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 3. September 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 20. Aug</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 20. August 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 6. Aug</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 6. August 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 23. Juli</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 23. Juli 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 9. Juli</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 9. Juli 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 25. Juni</p>
-	<h4>Fernschreiber-Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 25. Juni 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Wir arbeiten weiter an der neuen Telegrafie-/Fernschreiberausstellung
-		<dd>Ziel ist es, ab ca Aug./Sept. die Ausstellung vorführbereit zu haben !
-	</dl>
-</div><!--/.termin -->
-
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 22. Juni </p>
-	<h4>Führung "Computergeschichte im technikum29"</h4> 
-	<p>In dieser Führung werden die Anfänge der Computertechnik von der Lochkartentechnik über mechanische Rechenmaschinen zu den 
-		frühen Computern der 50er - 70er Jahre vorgestellt 
-
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Mittwoch, 22. Juni 2022
-		<dt>Uhrzeit
-		<dd>18:00 Uhr - 21:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dt>
-		<dd>geschlossene Gesellschaft - Markus R.
-		
 		
 	</dl>
 </div><!--/.termin -->
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 11. Juni</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 11. Juni 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>u.a. Insbetriebnahme der Neuzugänge vom 2.6.2022
-	</dl>
-</div><!--/.termin -->
-		
 
 	
 	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 2. Juni</p>
-	<h4>Umzugs-Helfertag</h4> 
-	<p>An diesem Termin werden wir 5 neue Geräte aus Kassel bekommen ! Ab 17:00 laden wir ab und rangieren
-		die Exponate ins technikum29.
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Donnerstag, 2. Juni 2022
-		<dt>Uhrzeit
-		<dd>17:00 - 20:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		
-	</dl>
-</div><!--/.termin -->
 	
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2022</em> 21. Mai</p>
-	<h4>Fernschreiber-Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 21. Mai 2022
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
-		<dd>Nachdem der Fernschreiberraum beim letzten Mal mit Regalen neu eingerichtet wurde,
-		<dd>steht nun die Positionierung und Verkabelung der Fernschreiber an.
-		<dd>Wenn noch Zeit verbleibt kümmern wir uns auch um die technische Bestandsaufnahme der
-		<dd>HELL-Schreiber.
-	</dl>
-</div><!--/.termin -->
 
 
 
@@ -408,6 +173,51 @@
 
 	<div class="termine">
 
+	<h2>2022</h2>
+	<p>2022 stand der Museumsbetrieb im Zeichen der Auflösung verschiedener Außendepots und der Neuausrichtung der Ausstellung.
+		Mit dem Abflauen der Coronapandemie fanden in der zweiten Hälfte des Jahres auch wieder Führungen statt.
+	</p>
+		</br>
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
+	<tr>	<td>Fr, 25.11.2022
+		<td>Computer-History<br>
+		<td>Privatführung<br>			
+		<td>70. Geburtstag Wolfgang D.<br>
+	<tr>	<td>Sa, 19.11.2022
+		<td>Computer-History<br>
+		<td>Privatführung<br>			
+		<td>20. Geburtstag Lorenz R.<br>
+	<tr>	<td>Sa, 5.11.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 17.9.2022
+		<td>Helfertag/Führung<br>	
+		<td>Privatführung Ludwig K.<br>
+	<tr>	<td>Sa, 3.9.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 6.8.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 23.7.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 9.7.2022
+		<td>Helfertag<br>	
+	<tr>	<td>Sa, 25.6.2022
+		<td>Helfertag<br>
+	<tr>	<td>Sa, 11.6.2022
+		<td>Helfertag<br>
+	<tr>	<td>Mi, 22.6.2022
+		<td>Computer-History<br>
+		<td>Privatführung Markus R.<br>			
+	<tr>	<td>Do, 2.6.2022
+		<td>Helfertag<br>
+		<td>Umzug Depots<br>
+	<tr>	<td>Sa, 21.5.2022
+		<td>Helfertag<br>
+	</table>
 		
 	<h2>2021</h2>
 	<p>2021 ruhte der öffentliche Museumsbetrieb wg. der Corona-Epidemie

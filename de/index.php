@@ -127,7 +127,7 @@
         </div>
 		 
 	  <p>Das technikum29 ist Mitglied im <a href="https://www.fitg.de/index" target="_blank">FITG</a> und
-	     im <a href="https://www.classic-computing.org" target="_blank">VzEhC e.V.</a></p>
+	     im <a href="https://www.classic-computing.org" target="_blank">VzEkC e.V.</a></p>
 
       
         <h2>Betrieb und Öffnungszeiten</h2>

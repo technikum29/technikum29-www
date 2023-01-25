@@ -104,11 +104,11 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 28. Januar 2023
 		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
+		<dd>entfällt
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 			
-		<dd>Instandsetzung div. Geräte nach Absprache
+		<dd><b>*** ACHTUNG: wegen Krankheit entfällt dieser Termin ! ***</b>
 		
 	</dl>
 </div><!--/.termin -->

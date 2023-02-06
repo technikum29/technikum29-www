@@ -28,7 +28,7 @@
 		 <a  href="/de/geraete/Olympia_RAE/Bilder_RAE/Bilder_RAE_415_Ser1619/IMG_1950.jpeg" class="popup">
 		<img src="/de/geraete/Olympia_RAE/Bilder_RAE/Bilder_RAE_415_Ser1619/IMG_1950kl.jpeg" width="427"  height="320"/>
 	</a>
-		<p class="bildtext">Zwei <b>RAE 4/15-2 </b> mit Unterschieden im Aufbau der Netzteile</p>
+		<p class="bildtext">Zwei <b>RAE 4/15-2 </b> mit Unterschieden im Aufbau der Netzteile.</p>
 	</div>
 
 

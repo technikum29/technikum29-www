@@ -43,7 +43,7 @@
 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 30. April 2023
+		<dd class="termin">Sonntag, 30. April 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 14:00 Uhr
 		<dt>Leitung

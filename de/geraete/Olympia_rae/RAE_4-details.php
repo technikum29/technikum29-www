@@ -52,11 +52,12 @@
 
 <h3>Reparatur unserer 4/15-2</h3>
 
-<p>Als erste Maschine haben wir uns die RAE 4/15-2 Ser. Nr. 4692 vorgenommen. Mutiges Einschalten über Regel-Trenntrafo
-	resultierte in einem Kurzschluß des Netzeingangs-Filterkondensators. Nach dem Auswechseln desselben lief der Lüfter an und alle 
-	Nixies zeigten eine "0" nach dem Einschalten. Auch die 3 Anzeigelampen leuchteten. Sie konnten über die Tasten I, IV 
-	und V ausgeschaltet werden, ansonsten reagierte die Maschine auf keine Tasteneingabe. Nach kurzer Betriebszeit erlosch 
-	die Anzeige - die Maschine war "tot". Die Fehlersuche begann...</p>
+<p>Als erste Maschine haben wir uns die RAE 4/15-2 Ser. Nr. 4692 vorgenommen. Laut Stempel im Gehäuse und auf dem Lüfter ist sie Baujahr 1967. 
+	Mutiges Einschalten über Regel-Trenntrafo resultierte in einem Kurzschluß des Netzeingangs-Filterkondensators. Nach dem Auswechseln 
+	desselben lief der Lüfter an und alle Nixies zeigten eine "0" nach dem Einschalten. Auch die 3 Anzeigelampen leuchteten. Sie konnten 
+	über die Tasten I, IV und V ausgeschaltet werden, ansonsten reagierte die Maschine auf keine Tasteneingabe. Nach kurzer Betriebszeit 
+	erlosch die Anzeige - die Maschine war "tot". Die Fehlersuche begann...</p>
+
 <p> Nach dem Lösen von 4 Schrauben auf der Unterseite (*nicht* die 4 Schrauben in den Standfüßen !) kann das Oberteil 
 	abgehoben werden. Achtung: die 4 Kabel vom Netzschalter lösen (Reihenfolge aufschreiben !), dann kann das Oberteil weggelegt 
 	werden. Dann kann die Maschine aus dem Unterteil rausgehoben werden. Dabei darauf achten, dass keiner der 8 Gummipuffer 

@@ -172,7 +172,20 @@
 
 	</div>
 	
-	
+<p><b>Die Platinen-Nummern und die Bedeutung der einzelnen Platinen:</b></p>
+<p>Pos 02: 95,5050-110.2   Stellenausgabe<br>
+Pos 04: 94.5055-110.2   Ziffernausgabe<br>
+Pos 06: 94.5030-110.2   Zwischenregister<br>
+Pos 08: 94.5020-110.2   Verknüpfung<br>
+Pos 10: 94.5060-110.2   Taktverteiler<br>
+Pos 12: 94.5010-110.2   Speicherschalter<br>
+Pos 14: 94.5005-110.2   Speicherzähler<br>
+Pos 16: 94.5025-110.2   Treiberschalter<br>
+Pos 18: 94.5065-110.2   Programmschlüssel<br>
+Pos 20: 94.5040-110.2   Funktionsprogramm<br>
+Pos 22: 94.5070-110.2   Sonderfunktion<br>
+Pos 24: 95.5045-110.2   Kommaprogramm<br>
+Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	
 	<p>Wir nutzen dazu einen Komponententester, wie er zB im Oszilloskop Hameg 604 eingebaut ist. Nach dem Ersatz von 6 defekten AA132-Dioden 
 	(alle hatten keinen Duchgang mehr) haben wir mittlerweile einen Zwischenstand erreicht, dass die Maschine in allen Registern speichert 

@@ -23,7 +23,7 @@
 
 
 <p>1965 stellte Olympia die Tischrechner der RAE-Serie vor. Die Elektronik basiert auf Germanium-Transistoren, 
-	für die Anzeige werden Nixie-Röhren benutzt. Ein Kernspeicher dient der Speicherung der verschiebenen Rechen- 
+	für die Anzeige werden Nixie-Röhren benutzt. Ein Kernspeicher dient der Speicherung der verschiedenen Rechen- 
 	bzw Speicherregister. Die einzelnen Modellbezeichnungen der Form X/YY-Z bedeuten:</p>
 	<p>X = 4 steht für die 4 Grundrechenarten</p>
 	<p>Y = 15 oder 30 gibt die maximale Stellenanzahl für Ergebnisse an</p>

@@ -165,12 +165,6 @@
 		<p class="bildtext">Die 13 Logikplatinen der <b>RAE 4/15-2 </b> mit Serien-Nr 04692. Für große Bilder bitte klicken !</p>
 	</div>
 	
-	<div class="box right"> 
-	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Anzeige.jpeg" class="popup">
-		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Anzeige_kl.jpeg" width="200"  height="150"/>
-	</a>
-
-	</div>
 	
 <p><b>Die Platinen-Nummern und die Bedeutung der einzelnen Platinen:</b></p>
 <p>Pos 02: 95,5050-110.2   Stellenausgabe<br>
@@ -186,6 +180,14 @@ Pos 20: 94.5040-110.2   Funktionsprogramm<br>
 Pos 22: 94.5070-110.2   Sonderfunktion<br>
 Pos 24: 95.5045-110.2   Kommaprogramm<br>
 Pos 26: 94.5035-110.2   Funktionsregister<br></p>
+
+<div class="box right"> 
+	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Anzeige.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Anzeige_kl.jpeg" width="200"  height="150"/>
+	</a>
+
+	</div>
+	
 	
 	<p>Wir nutzen dazu einen Komponententester, wie er zB im Oszilloskop Hameg 604 eingebaut ist. Nach dem Ersatz von 6 defekten AA132-Dioden 
 	(alle hatten keinen Duchgang mehr) haben wir mittlerweile einen Zwischenstand erreicht, dass die Maschine in allen Registern speichert 

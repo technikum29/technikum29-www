@@ -158,6 +158,9 @@
 		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/IMG_1898.jpeg" class="popup">
 		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/IMG_1898kl.jpeg" width="160"  height="120"/>
 	</a>
+	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/IMG_1899.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/IMG_1899kl.jpeg" width="160"  height="120"/>
+	</a>
 	
 		<p class="bildtext">Die 13 Logikplatinen der <b>RAE 4/15-2 </b> mit Serien-Nr 04692. Für große Bilder bitte klicken !</p>
 	</div>

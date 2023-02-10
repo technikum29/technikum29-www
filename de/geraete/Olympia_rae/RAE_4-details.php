@@ -100,7 +100,7 @@
 	<p>Die einzelnen Spannungen können rechts hinten an der Steckverbindung 28 abgegriffen werden: Pin 1 = 0V, Pin 3 = +12V, Pin 5 
 	= -12V, Pin 6 = +80 V, Pin 7 = +200V. </p>
 	<p>Wenn wie bei unserer Maschine weder die Nixies leuchten noch die Anzeigelampen, ist die +12 V 
-	verdächtig: die 4A Schmelzsicherung war ganz, aber es wurde nur < 1 V auf der 12 V gemessen. Offenkundig greift die elektronische 
+	verdächtig: die 4A Schmelzsicherung war ganz, aber es wurde nur < 1 V auf der 12 V-Versorgung gemessen. Offenkundig greift die elektronische 
 	Strombegrenzung ein. Abziehen des Steckers 28 von der Maschine brachte keine Änderung, also liegt der Kurzschluß nicht auf
 	einer der 13 Rechenplatinen. Prüfung aller Elkos ergab auch keinen Hinweis. Verbleiben als Ursache der Taktgenerator ("Treiberwandler") 
 	und die 80/200V-Versorgung (beide vorne links). Beide werden durch Gegentakt-Zerhacker (2 * AC124) betrieben, in unserem Fall 

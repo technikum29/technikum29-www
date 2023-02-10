@@ -189,10 +189,10 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	</div>
 	
 	
-	<p>Wir nutzen dazu einen Komponententester, wie er zB im Oszilloskop Hameg 604 eingebaut ist. Nach dem Ersatz von 6 defekten AA132-Dioden 
-	(alle hatten keinen Duchgang mehr) haben wir mittlerweile einen Zwischenstand erreicht, dass die Maschine in allen Registern speichert 
-	und alle Grundrechenarten durchführt. Rechts das Ergebnis der Division 10.000.000 : 7.</p>
-	<p>Es verbleiben noch einzelne kleine Fehler, die Suche auf den Platinen geht weiter...</p>
+<p>Wir nutzen zur Prüfung der Bauteile auf den Platinen einen Komponententester, wie er zB im Oszilloskop Hameg 604 eingebaut ist. 
+	Nach dem Ersatz von 6 defekten AA132-Dioden (alle hatten keinen Duchgang mehr) haben wir mittlerweile einen Zwischenstand erreicht, 
+	dass die Maschine in allen Registern speichert und alle Grundrechenarten durchführt. Rechts das Ergebnis der Division 10.000.000 : 7.</p>
+<p>Es verbleiben noch einzelne kleine Fehler, die Suche auf den Platinen geht weiter...</p>
 	
 	<br>
 	<br>

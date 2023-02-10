@@ -58,7 +58,7 @@
 	und V ausgeschaltet werden, ansonsten reagierte die Maschine auf keine Tasteneingabe. Nach kurzer Betriebszeit erlosch 
 	die Anzeige - die Maschine war "tot". Die Fehlersuche begann...</p>
 <p> Nach dem Lösen von 4 Schrauben auf der Unterseite (*nicht* die 4 Schrauben in den Standfüßen !) kann das Oberteil 
-	abgehoben werden. Achtung: die 4 Kabel vom Netzschalter lösen (Reihenfolge aufschreiben !), dann kann es weggelegt 
+	abgehoben werden. Achtung: die 4 Kabel vom Netzschalter lösen (Reihenfolge aufschreiben !), dann kann das Oberteil weggelegt 
 	werden. Dann kann die Maschine aus dem Unterteil rausgehoben werden. Dabei darauf achten, dass keiner der 8 Gummipuffer 
 	in den 4 Montagewinkeln verloren geht. <b>Dann zeigt sich die Maschine so:</b></p>
 	

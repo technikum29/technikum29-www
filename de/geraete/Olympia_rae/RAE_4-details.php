@@ -169,7 +169,7 @@
 	</div>
 	
 	
-<p><b>Die Platinen-Nummern und die Bedeutung der einzelnen Platinen:</b></p>
+<p><b>Position, Ersatzteil-Nr. und  Funktion der einzelnen Platinen:</b></p>
 <p>Pos 02: 95,5050-110.2   Stellenausgabe<br>
 Pos 04: 94.5055-110.2   Ziffernausgabe<br>
 Pos 06: 94.5030-110.2   Zwischenregister<br>

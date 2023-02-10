@@ -124,7 +124,7 @@
 
 <p>Jetzt konzentrierte sich die weitere Fehlersuche auf die <b>13 Logikplatinen</b>. Tipps zum Ausbau siehe auf dem Bild ganz rechts. 
 	Durch Tauschen mit Platinen aus einer zweiten Maschine konnte unsere RAE zumindest ansatzweise wieder zur Arbeit bewegt werden. 
-	Da der Status der Tauschplatinen unklar ist, müssen aufbauend auf dem Status nun alle Platinen überprüft werden. </p>
+	Da der Status der Tauschplatinen unklar ist, müssen aufbauend auf dem Ergebnis nun alle Platinen überprüft werden. </p>
 	
 	<div class="box center"> 
 

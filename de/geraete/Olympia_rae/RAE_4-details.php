@@ -94,19 +94,20 @@
 	</a>
 
 	</div>
-	<p>Zunächst muss die korrekte Spannungsversorgung sichergestellt werden. Die Maschine benötigt +12 V, -12 V, +80V und +200V. 
+<p>Zunächst muss die korrekte <b>Spannungsversorgung</b> sichergestellt werden. Die Maschine benötigt +12 V, -12 V, +80V und +200V. 
 	Die Lage der einzelnen Bauteile ist über die gesamte Maschine verstreut (s. Bild rechts). Wichtig für das Verständnis der Funktion der 
 	Stromversorgung ist, dass aus den +12V auch die +80/+200V generiert werden. Die + 12V sind sowohl über eine 4A Schmelzsicherung 
 	als auch über eine elektronische Strombegrenzung abgesichert. </p>
 	<p>Die einzelnen Spannungen können rechts hinten an der Steckverbindung 28 abgegriffen werden: Pin 1 = 0V, Pin 3 = +12V, Pin 5 
 	= -12V, Pin 6 = +80 V, Pin 7 = +200V. </p>
-	<p>Wenn wie bei unserer Maschine weder die Nixies leuchten noch die Anzeigelampen, ist die +12 V 
+	
+<p>Wenn wie bei unserer Maschine weder die Nixies leuchten noch die Anzeigelampen, ist die +12 V 
 	verdächtig: die 4A Schmelzsicherung war ganz, aber es wurde nur < 1 V auf der 12 V-Versorgung gemessen. Offenkundig greift die elektronische 
 	Strombegrenzung ein. Abziehen des Steckers 28 von der Maschine brachte keine Änderung, also liegt der Kurzschluß nicht auf
 	einer der 13 Rechenplatinen. Prüfung aller Elkos ergab auch keinen Hinweis. Verbleiben als Ursache der Taktgenerator ("Treiberwandler") 
 	und die 80/200V-Versorgung (beide vorne links). Beide werden durch Gegentakt-Zerhacker (2 * AC124) betrieben, in unserem Fall 
 	war der Taktgenerator defekt. Auswechseln der AC124 <b>und schon sind alle Spannungen im Soll und die Maschine begrüßt mit 15 
-	leuchtenden Nixies !</b> Sie reagierte aber noch nicht bzw. nur erratisch auf Tasteneingaben.<p>
+	leuchtenden Nixies !</b> Sie reagierte aber noch nicht bzw. nur erratisch auf Tasteneingaben.</p>
 	
 	<div class="box right"> 
 
@@ -118,9 +119,10 @@
 	</a>
 	</div>
 	
-	<p>Der Treiberwandler erzeugt zwei ca 25 kHz gegenphasige Rechtecksignale, die für den Betrieb der RAE essentiell sind. 
+<p>Der <b>Treiberwandler</b> erzeugt zwei ca 25 kHz gegenphasige Rechtecksignale, die für den Betrieb der RAE essentiell sind. 
 	Fehlen sie, so zeigt die Maschine nur einzelne statische Ziffern und reagiert nicht auf Tasteneingaben.</p>
-	Jetzt konzentrierte sich die weitere Fehlersuche auf die 13 Logikplatinen. Tipps zum Ausbau siehe auf dem Bild ganz rechts. 
+
+<p>Jetzt konzentrierte sich die weitere Fehlersuche auf die <b>13 Logikplatinen</b>. Tipps zum Ausbau siehe auf dem Bild ganz rechts. 
 	Durch Tauschen mit Platinen aus einer zweiten Maschine konnte unsere RAE zumindest ansatzweise wieder zur Arbeit bewegt werden. 
 	Da der Status der Tauschplatinen unklar ist, müssen aufbauend auf dem Status nun alle Platinen überprüft werden. </p>
 	

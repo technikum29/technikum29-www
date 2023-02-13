@@ -1,8 +1,8 @@
 <?php
-	$blog_title = "technikum29 wünscht schöne Feiertage — wir fassen zusammen, was 2022 geschah";
-	$blog_title_kurz = "technikum29 wünscht schöne Feiertage";
-	$blog_author = "Sven";
-	$blog_date = "2022-12-13";
+	$blog_title = "Neuzugänge aus unseren Depots: Olympia Tischrechner RAE 4/15 und 4/30";
+	$blog_title_kurz = "Neuzugänge aus unseren Depots: Olympia Tischrechner RAE 4/15 und 4/30";
+	$blog_author = "Roland";
+	$blog_date = "2023-02-23";
 
 	require "blog.php";
 	

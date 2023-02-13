@@ -236,7 +236,7 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	von der Messung an Platine 16 symmetrische Rechteckpulse mit idealerweise 2* 0.95 V Pulshöhe (oben Bild rechts mit +0.875 V und -0.968 V Pulshöhe).</p>
 <p>In den Unterlagen sind keine Angaben zu den Toleranzen bzgl. der Einstellung der 185 mA zu finden. Der Kernspeicher funktioniert ja soweit, er 
 	"vergisst" keine Ziffern. Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir daher erstmal ab und setzen die Überprüfung aller Komponenten 
-	auf allen Platinen fort.</p>
+	auf den Platinen fort.</p>
 
 
 

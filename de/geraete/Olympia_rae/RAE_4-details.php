@@ -212,27 +212,30 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 
 
 	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/185mA_Stromregelung.jpg" class="popup">
-		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/185mA_Stromregelung.jpg" width="205"  height="100"/>
-	</a>
-		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16__Verdrahtung.jpeg" class="popup">
-		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16__Verdrahtung.jpeg" width="340"  height="100"/>
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/185mA_Stromregelung.jpg" width="340"  height="165"/>
 	</a>
 		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16_bl.jpeg" class="popup">
-		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16_bl.jpeg" width="133"  height="100"/>
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16_bl.jpeg" width="220"  height="165"/>
+	</a>
+		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_12_bl.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_12_bl.jpeg" width="220"  height="165"/>
 	</a>
 
 	
-		<p class="bildtext">Schaltung der 185 mA Stromregelstufen (li), fliegende Verdrahtung zur Messung der Ströme (mi) und
-		Beispiel-Kurvenverlauf eines 185 mA-Steuerstroms (re). Klicken zum Vergrößern !</p>
+		<p class="bildtext">Schaltung der 185 mA Stromregelstufen (li), typ. Strompulse von Platine 16 (mi) und
+		von Platine 12 (re). Bitte klicken zum Vergrößern !</p>
 	</div>
 	
 	
 <p>Die Funktionsbeschreibung zur RAE 4/15 gibt an, dass der Spannungsabfall über dem 5.1 Ω Widerstand auf 0.95 V einzustellen ist. Das ergibt zwar 
 	rechnerisch 0.944 V, vernachlässigt aber den Parallelstrom durch das 50 Ω Trimmpoti... Versuchsweise haben wir die Anschlüsse der 5.1 Ω 
-	Widerstände mal nach außen gelegt und die Spannungen am Oszi angesehen (Bilder oben mitte und rechts). Prinzipiell lassen sich auf Platine 16 alle Strompulse
-	erfassen, die gemessenen Spannungen liegen im Bereich 0.82 - 1.08 V, weichen also von den geforderten 0.95 V deutlich ab.</p>
-<p>Die vier Strompfade auf Platine 12 ergeben abweichend davon kein passendes Signal, die Pulshöhen liegen bei 0.1 V und damit viel zu niedrig, evtl.
-liegt hier noch ein Verständnisproblem der Schaltung zugrunde. Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir erstmal ab...</p>
+	Widerstände mal nach außen gelegt und die Spannungen am Oszi angesehen. Prinzipiell lassen sich auf Platine 16 alle fünf Strompulse
+	erfassen, die gemessenen Spannungen liegen im Bereich 0.82 - 1.08 V, weichen also von den geforderten 0.95 V deutlich ab (s. Beispiel oben Bild
+	mitte mit Pulshöhe 0.962V).</p>
+<p>Die Stromregelstufen auf Platine 12 sind etwas anders aufgebaut, sie stabilisieren sowohl positive und negative Ströme. Daher ergeben sich abweichend 
+	von der Messung an Platine 16 symmetrische Rechteckpulse mit idealerweise 2* 0.95 V Pulshöhe (oben Bild rechts mit +0.875 V und -0.968 V Pulshöhe).</p>
+	
+<p>Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir erstmal ab...</p>
 
 
 

@@ -11,32 +11,35 @@
 
 
 <p>
-Liebe Helfer, Freunde und Unterstützer des technikum29,
+In unseren Depots befinden sich einige Tischrechner Olympia RAE 4/15 und 4/30, sie wurden bislang auf unserer Webseite nur kurz 
+<a href="/de/rechnertechnik/transistoren.php#Olympia_RAE_4/30-3_und_Wanderer_Conti">vorgestellt</a>. Hier eine kleine Galerie
+mit den verschiedenen Maschinen im technikum29:</p>
+
+
+<div class="box center"> 
+		 <a  href="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_15_2_front.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_15_2_front_kl.jpeg" width="200"  height="166"/>
+	</a>
+		 <a  href="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_1_front.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_1_front_kl.jpeg" width="200"  height="166"/>
+	</a>
+			 <a  href="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_2_front.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_2_front_kl.jpeg" width="200"  height="166"/>
+	</a>
+		 <a  href="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_3_front.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/RAE_4_30_3_front_kl.jpeg" width="200"  height="166"/>
+	</a>
+	
+	
+	
+		<p class="bildtext">Verschiedene <b>Olympia RAE 4</b> in einer Reihe: RAE 4/15-2, 4/30-1, 4/30-2 und 4/30-3.<br>
+		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
+	</div>
 
 <p>
-2022 war ein spannendes Jahr für technikum29: wir haben die <strong>Neuordnung aller Neben-Depots</strong> erfolgreich abgeschlossen und die Ausstellung im technikum29 neu geordnet. <strong>Technikum29 konzentriert sich nun in seiner Ausstellung ausschließlich auf Rechen- und Computertechnik der 1920er bis hin zum Ende der 70er Jahre.</strong> Von der Rundfunk-, Tonband- und Videotechnik haben wir uns (leider) trennen müssen. Ein 
-<a href="/de/virtueller_Rundgang.php">virtueller Museumsrundgang</a> wurde in unsere Webseite eingebaut und 
-zeigt sehr schön unsere neue Ausstellung.
+Mittlerweile haben wir die Reparatur der Maschinen begonnen, in unserem <a href="/de/geraete/Olympia_rae/RAE_4-details.php">Reparatur-Blog</a> 
+erfährt berichten wir über die Fortschritte bei der Arbeit !</p>
 
-<p>
-2022 haben wir auch genutzt, <a href="/">unsere Webseite</a>zu überarbeiten. Viele <strong>Neuzugänge</strong> wurden neu eingepflegt (ein Dank an alle Spender!), Hintergrundinformationen zu einzelnen Geräten angelegt und die Rubrik „Neues“ wurde regelmäßig aufgefrischt, so dass man 
-<a href="/de/blog.php">in unserem Blog</a> einen guten Überblick über die Aktivitäten des Jahres erhält.
-
-<p>
-Mit der Entschärfung der Corona-Lage haben wir auch wieder kleinere Führungen veranstaltet.
-
-<p>
-Nachdem die Auf- und Umräumarbeiten beendet sind, werden wir uns im Jahr 2023 voll und ganz der <strong>Pflege und Präsentation der Sammlung</strong> widmen: wir werden wieder vermehrt Führungen anbieten und uns an regelmäßigen Helfertagen der Überholung und Dokumentation unserer Geräte widmen. 
-
-<p>
-Der Betrieb des technikum29 als private Sammlung ist vorläufig gesichert, wenngleich uns Gas- und Strompreiserhöhungen für 2023 ganz schön zu schaffen machen. In dem Zusammenhang sei auf unseren <a href="https://technikum29.de/de/unterstuetzen.php">Spenden-Button</a>
-hingewiesen ;-)
-
-<p>
-An dieser Stelle möchten wir uns bei euch allen für eure Unterstützung in 2022 bedanken! Wir wünschen euch ruhige Festtage, etwas Erholung im Kreis eurer Lieben und einen guten Start ins Neue Jahr! 
-
-<p>
-Wir hoffen, möglichst viele von euch z.B. bei Helfertagen oder Führungen wieder im technikum29 zu gemeinsamer Aktivität zu treffen! Termine werden in Kürze auf der Webseite bekannt gegeben.
 
 <p>
 <a href="/de/team.php#roland">Roland</a> &amp; <a href="/de/team.php#sven">Sven</a>

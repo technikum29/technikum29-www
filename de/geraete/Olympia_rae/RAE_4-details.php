@@ -234,8 +234,9 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	mitte mit Pulshöhe 0.962V).</p>
 <p>Die Stromregelstufen auf Platine 12 sind etwas anders aufgebaut, sie stabilisieren sowohl positive und negative Ströme. Daher ergeben sich abweichend 
 	von der Messung an Platine 16 symmetrische Rechteckpulse mit idealerweise 2* 0.95 V Pulshöhe (oben Bild rechts mit +0.875 V und -0.968 V Pulshöhe).</p>
-	
-<p>Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir erstmal ab...</p>
+<p>In den Unterlagen sind keine Angaben zu den Toleranzen bzgl. der Einstellung der 185 mA zu finden. Der Kernspeicher funktioniert ja soweit, er 
+	"vergisst" keine Ziffern. Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir daher erstmal ab und setzen die Überprüfung aller Komponenten 
+	auf allen Platinen fort.</p>
 
 
 

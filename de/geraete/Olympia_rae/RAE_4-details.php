@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-	Stand: 10. Feb. 2023
+	Stand: 13. Feb. 2023
 
 <p>Im Bestand des technikum29 haben wir 8 Olympia RAE- Tischrechner, darunter die Modelle RAE 4/15-2, 4/30-1, -2 und -3. 
 Über technische Details und den Fortschritt bei der Restaurierung werden wir hier berichten.</p>
@@ -195,7 +195,47 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 <p>Wir nutzen zur Prüfung der Bauteile auf den Platinen einen Komponententester, wie er zB im Oszilloskop Hameg 604 eingebaut ist. 
 	Nach dem Ersatz von 6 defekten AA132-Dioden (alle hatten keinen Duchgang mehr) haben wir mittlerweile einen Zwischenstand erreicht, 
 	dass die Maschine in allen Registern speichert und alle Grundrechenarten durchführt. Rechts das Ergebnis der Division 10.000.000 : 7.</p>
-<p>Es verbleiben noch einzelne kleine Fehler, die Suche auf den Platinen geht weiter...</p>
+<p>Es verbleiben noch einzelne kleine Fehler, u.a. werden manche Rechnungen mit bestimmten Eingabewerten mit falschem Ergebnis ausgegeben,
+	zumeist sind einzelne Ziffern falsch. Von daher war die Überlegung, <b>die korrekte Funktion des Kernspeichers zu prüfen</b></p>
+
+
+<br>
+<p><b>Überprüfung des Kernspeichers</b></p>
+
+<p>Die RAE 4/15 hat 3 Rechenregister und 3 Speicherregister. Je Register werden 15 Dezimalstellen (a 4 Bit) und die Kommaposition (4 Bit)
+	abgespeichert, also 6 * 16 * 4 Bit. Der Kernspeicher ist in 6 Matrtizen mit 8 * 8 Bit realisiert und Sitzt auf auf Platine 12 (genannt 
+	"Speicherschalter"). Alle Schreib-, Lese- und Blockierströme, die durch die Ferritkerne geleitet werden, müssen auf exakt 185 mA eingestellt
+	werden. Hierzu dienen 9 Stromregelstufen, 5 davon sitzen auf Platine 16 "Treiberschalter" und die restlichen 4 auf der Platine 12 "Taktverteiler".
+	Aufgebaut sind die wie im Schaltbild unten links angegeben:</p>
+	
+	<div class="box center"> 
+
+
+	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/185mA_Stromregelung.jpg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/185mA_Stromregelung.jpg" width="205"  height="100"/>
+	</a>
+		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16__Verdrahtung.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16__Verdrahtung.jpeg" width="340"  height="100"/>
+	</a>
+		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16_bl.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/Platine_16_bl.jpeg" width="133"  height="100"/>
+	</a>
+
+	
+		<p class="bildtext">Schaltung der 185 mA Stromregelstufen (li), fliegende Verdrahtung zur Messung der Ströme (mi) und
+		Beispiel-Kurvenverlauf eines 185 mA-Steuerstroms (re). Klicken zum Vergrößern !</p>
+	</div>
+	
+	
+<p>Die Funktionsbeschreibung zur RAE 4/15 gibt an, dass der Spannungsabfall über dem 5.1 Ω Widerstand auf 0.95 V einzustellen ist. Das ergibt zwar 
+	rechnerisch 0.944 V, vernachlässigt aber den Parallelstrom durch das 50 Ω Trimmpoti... Versuchsweise haben wir die Anschlüsse der 5.1 Ω 
+	Widerstände mal nach außen gelegt und die Spannungen am Oszi angesehen (Bilder oben mitte und rechts). Prinzipiell lassen sich auf Platine 16 alle Strompulse
+	erfassen, die gemessenen Spannungen liegen im Bereich 0.82 - 1.08 V, weichen also von den geforderten 0.95 V deutlich ab.</p>
+<p>Die vier Strompfade auf Platine 12 ergeben abweichend davon kein passendes Signal, die Pulshöhen liegen bei 0.1 V und damit viel zu niedrig, evtl.
+liegt hier noch ein Verständnisproblem der Schaltung zugrunde. Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir erstmal ab...</p>
+
+
+
 	
 	<br>
 	<br>

@@ -36,15 +36,11 @@ mit den verschiedenen Maschinen im technikum29:</p>
 		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
 	</div>
 
-<p>
-Mittlerweile haben wir die Reparatur der Maschinen begonnen, in unserem <a href="/de/geraete/Olympia_rae/RAE_4-details.php">Reparatur-Blog</a> 
-erfährt berichten wir über die Fortschritte bei der Arbeit !</p>
+<p>In der Ausstellung haben wir bislang noch keine Olympia RAE, leider ist keine der Maschinen z. Zt. funktionsfähig. Das soll sich ändern: 
+mittlerweile haben wir mit der Reparatur der Maschinen begonnen, in unserem <a href="/de/geraete/Olympia_rae/RAE_4-details.php">Reparatur-Blog</a> 
+ berichten wir über die Fortschritte bei der Arbeit !</p>
 
 
-<p>
-<a href="/de/team.php#roland">Roland</a> &amp; <a href="/de/team.php#sven">Sven</a>
 
-
-<?php //print_author_info();
-?>
+<?php print_author_info(); ?>
 

@@ -125,7 +125,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 25. Februar 2023
 		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
+		<dd>10:00 - <b>16:00 Uhr</b> *** ACHTUNG ! wg. Folgetermin muss ich um 16:00 zumachen !! ***
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 			

@@ -227,8 +227,9 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	</div>
 	
 	
-<p>Die Funktionsbeschreibung zur RAE 4/15 gibt an, dass der Spannungsabfall über dem 5.1 Ω Widerstand auf 0.95 V einzustellen ist. Das ergibt zwar 
-	rechnerisch 0.944 V, vernachlässigt aber den Parallelstrom durch das 50 Ω Trimmpoti... Versuchsweise haben wir die Anschlüsse der 5.1 Ω 
+<p>Die Funktionsbeschreibung zur RAE 4/15 gibt an, dass der Spannungsabfall über dem 5.1 Ω Widerstand auf 0.95 V einzustellen ist. 185 mA Stromfluss
+	durch 5.1 Ω ergibt zwar rechnerisch 0.944 V, vernachlässigt aber den Parallelstrom durch das 50 Ω Trimmpoti. </p>
+<p>Versuchsweise haben wir die Anschlüsse der 5.1 Ω 
 	Widerstände mal nach außen gelegt und die Spannungen am Oszi angesehen. Prinzipiell lassen sich auf Platine 16 alle fünf Strompulse
 	erfassen, die gemessenen Spannungen liegen im Bereich 0.82 - 1.08 V, weichen also von den geforderten 0.95 V deutlich ab (s. Beispiel oben Bild
 	mitte mit Pulshöhe 0.962V).</p>

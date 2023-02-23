@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-	Stand: 13. Feb. 2023
+	Stand: 23. Feb. 2023
 
 <p>Im Bestand des technikum29 haben wir 8 Olympia RAE- Tischrechner, darunter die Modelle RAE 4/15-2, 4/30-1, -2 und -3. 
 Über technische Details und den Fortschritt bei der Restaurierung werden wir hier berichten.</p>
@@ -239,14 +239,32 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	auf den Platinen fort.</p>
 
 
+<br>
+<p><b>Erfolgreicher Abschluss der Reparatur</b></p>
+
+<p>Die Überprüfung aller 13 Logikplatinen beider RAE 4/15 ergab ca ein Dutzend defekte Ge-Dioden (ohne Durchgang) und ca 2 Dutzend defekte Klein-Elkos 
+	(0.5 - 2 µF, alle ausgetrocknet), die ausgewechselt wurden. Mit jeder Platine, die überholt wurde, verschwanden einzelne der verbliebenen Fehler. </p>
+	
 
 	
-	<br>
-	<br>
+	<div class="box center"> 
+
+
+	<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/RAE_4_15_ersetzte_Bauteile.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/RAE_4_15_ersetzte_Bauteile_kl.jpeg" width="336"  height="240"/>
+	</a>
+		<a  href="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/RAE_4_15_in_Funktion.jpeg" class="popup">
+		<img src="/de/geraete/Olympia_rae/Bilder_RAE/Bilder_RAE_415_Ser4692/RAE_4_15_in_Funktion_kl.jpeg" width="380"  height="240"/>
+	</a>
+
+	
+		<p class="bildtext">gefundene defekte Bauteile (li), eine voll funktionstüchtige RAE 4/15-2 (re). Bitte klicken zum Vergrößern !</p>
+	</div>
+		
+	
+<p><b>Das Resultat ist jetzt eine voll funktionsfähige RAE 4/15-2 und ein fast kompletter überholter und funktionstüchtiger Ersatz-Platinensatz !</b></p>
 	
 
-	<p>... in Arbeit ...
-</p>
 <br>
 <br>
 

@@ -39,17 +39,26 @@ hundreds of Euro per month. At some point, the museum must be able to cover thes
 costs in order to sustain its rooms. This is something where we also depend on
 external donations.
 
-<p>Since we were already asked so many times about whether it is possible to 
-do a <strong>donation</strong>, we opened a bank account for the museum. Currently,
-we can recieve payments at this account:
+<p>We can recieve donation payments in various ways:
+
+
+<ul>
+<li>Traditional bank account (SEPA/SWIFT transfer within European) is the cheapest
+    way for us to recieve payments:
 
 <blockquote>
    IBAN: <tt>DE10 1203 0000 1071 8532 51</tt>
-   <br>BIC: <tt>BYLADEM1001</tt>
-   <br>Credit institute: Deutsche Kreditbank (DKB)
+   <br>BIC/SWIFT: <tt>BYLADEM1001</tt>
+   <br>Name of Bank: Deutsche Kreditbank (DKB)
 </blockquote>
 
-Furthermore, you can use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Donation+to+keep+the+museum+running&currency_code=EUR&source=url">PayPal (and credit card) to transfer money to our account</a>:
+<li>We have a <a href="https://github.com/sponsors/technikum29">Github sponsorship</a> profile
+   (suitable for recurring payments)
+   
+<li>We have a <a href="https://patreon.com/technikum29">pateron profile technikum29</a>
+    (suitable for recurring payments)
+
+<li>Furthermore, you can use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Donation+to+keep+the+museum+running&currency_code=EUR&source=url">PayPal (and credit card) to transfer money to our account</a>:
 
 <p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -60,6 +69,11 @@ Furthermore, you can use <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_don
 <input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+</ul>
+
+
+
 
 
 

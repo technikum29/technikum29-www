@@ -49,18 +49,24 @@ derzeit noch komplett. Auch entstehen Kosten für Material, Öffentlichkeitsarbe
 oder Museumsbetrieb. Unsere Mitstreiter arbeiten hingegen ehrenamtlich und zahlen
 auch Fahrtkosten zum Museum oder zu anderen Orten aus eigener Tasche.
 
-<p>Da wir bislang bereits oft gefragt wurden, ob man uns etwas <strong>spenden</strong>
-kann, haben wir vorab ein Konto eingerichtet. Wir empfangen Zahlungen
-auf folgendem Bankkonto:
+<p>Spenden können wir auf vielfältigen Wegen empfangen:
+
+<ul>
+<li>Per Überweisung auf das Bankkonto des Museums (auch geeignet für wiederholende Zahlungen):
 
 <blockquote>
    IBAN: <tt>DE10 1203 0000 1071 8532 51</tt>
    <br>BIC: <tt>BYLADEM1001</tt>
    <br>Kreditinstitut: Deutsche Kreditbank (DKB)
-   <br>(Gültig seit Juni 2020; unsere alten Kontoverbindungen bei der ING-Diba gelten nicht mehr)
 </blockquote>
 
-Außerdem kann man uns <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Spende+zum+Museumsbetrieb&currency_code=EUR&source=url">auf unser Paypal-Konto Geld spenden</a>:
+<li>Per <a href="https://github.com/sponsors/technikum29">Github sponsorship</a>
+   (auch geeignet für regelmäßige Zahlungen)
+   
+<li>Über unser <a href="https://patreon.com/technikum29">Patreon-Account technikum29</a>
+    (auch geeignet für wiederholende Zahlungen)
+
+<li>Mittels Paypal: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=kontakt%40technikum29.de&item_name=Spende+zum+Museumsbetrieb&currency_code=EUR&source=url">auf unser Paypal-Konto Geld spenden</a>:
 
 <p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -71,6 +77,12 @@ Außerdem kann man uns <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donat
 <input type="image" src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Spenden mit dem PayPal-Button" />
 <img alt="" border="0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+</ul>
+
+<p>Wiederkehrende Spenden helfen uns, unsere laufenden Kosten planbar zu decken. Bitte haben
+Sie Verständnis, dass wir derzeit noch keine in Deutschland steuerlich absetzbaren Spendenquittungen erstellen
+können.
 
 
 

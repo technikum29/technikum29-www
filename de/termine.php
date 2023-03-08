@@ -111,7 +111,7 @@
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 25. Mrz</p>
 	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von <b>13:00 (!) </b> vor Ort, Unterstützer und Interessierte können gerne jederzeit
+	<p>An diesem Termin ist ein Betreuer von 10:00-<b>13:00 (!) </b> vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !</b>
 

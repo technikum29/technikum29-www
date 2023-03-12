@@ -88,6 +88,25 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
+
+	
+		
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 2. Apr</p>
+	<h4>Privatführung Stephanie P.</h4> 
+	
+
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Sonntag, 2. April 2023
+		<dt>Uhrzeit
+		<dd>14:00 - 17:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+				
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
 	
 		
 <div class="box termin clear-after">		

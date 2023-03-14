@@ -96,7 +96,7 @@
 			
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 8. Apr</p>
-	<h4>Privatführung Thomas A.</h4> 
+	<h4>Privatführung Thomas A. und Kerstin R.</h4> 
 	
 
 	<dl class="daten">

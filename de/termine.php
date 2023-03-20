@@ -179,7 +179,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag,25. März 2023
 		<dt>Uhrzeit
-		<dd><b>ACHTUNG: der Termin muss leider entfallen !!!</b> 
+		<dd><b>ACHTUNG: der Termin muss leider entfallen  !!!</b> 
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 			

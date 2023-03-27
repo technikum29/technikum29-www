@@ -44,12 +44,28 @@
 		<dt>Uhrzeit
 		<dd>10:00 - 14:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
+		
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 22. Apr</p>
+	<h4>allgemeiner Helfertag und Führung Gruppe Stephan S.</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag,22. April 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+	
 <div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Apr</p>
@@ -60,33 +76,11 @@
 		<dt>Uhrzeit
 		<dd>16:00 - 19:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
 
-
-		
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 22. Apr</p>
-	<h4>allgemeiner Helfertag und Führung Gruppe Stephan S.</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag,22. April 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-			
-		<dd>Instandsetzung div. Geräte nach Absprache
-		
-	</dl>
-</div><!--/.termin -->
 	
 		
 <div class="box termin clear-after">		

@@ -80,100 +80,76 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
-	
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 8. Apr</p>
 	<h4>Privatführung Josef Brix Str. WI</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 8. April 2023
 		<dt>Uhrzeit
 		<dd>15:00 - 18:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-	
-			
+				
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 8. Apr</p>
 	<h4>Privatführung Thomas A. und Kerstin R.</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 8. April 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 14:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
-	
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 2. Apr</p>
 	<h4>Privatführung Stephanie P.</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Sonntag, 2. April 2023
 		<dt>Uhrzeit
 		<dd>14:00 - 17:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-	
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 31. Mrz</p>
 	<h4>Privatführung Karin L.</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Freitag, 31. März 2023
 		<dt>Uhrzeit
 		<dd>15:00 - 18:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
 	
-	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 29. Mrz</p>
 	<h4>Privatführung Ingo B.</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Mittwoch, 29. März 2023
 		<dt>Uhrzeit
 		<dd>15:30 - 18:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-	
-	
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 25. Mrz</p>
@@ -181,7 +157,6 @@
 	<p>An diesem Termin ist ein Betreuer von 10:00-<b>13:00 (!) </b> vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !</b>
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag,25. März 2023
@@ -189,31 +164,23 @@
 		<dd><b>ACHTUNG: der Termin muss leider entfallen  !!!</b> 
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-			
 		<dd>Instandsetzung div. Geräte nach Absprache
-		
 	</dl>
 </div><!--/.termin -->
-	
 			
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 13. Mrz</p>
 	<h4>Privatführung Sanofi ICF ENG</h4> 
-	
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Montag, 13. März 2023
 		<dt>Uhrzeit
 		<dd>15:00 - 18:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-				
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>		
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-	
-	
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 11. Mrz</p>
@@ -221,7 +188,6 @@
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !</b>
-
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag,11. März 2023
@@ -229,9 +195,7 @@
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-			
 		<dd>Instandsetzung div. Geräte nach Absprache
-		
 	</dl>
 </div><!--/.termin -->
 	

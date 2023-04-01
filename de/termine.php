@@ -108,7 +108,22 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-		
+
+				
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 4. Apr</p>
+	<h4>Privatführung Sanofi ICF ENG</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 4. April 2023
+		<dt>Uhrzeit
+		<dd>17:00 -20:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>		
+		<dd>Führung in Englisch, geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 2. Apr</p>
 	<h4>Privatführung Stephanie P.</h4> 
@@ -147,7 +162,7 @@
 		<dd>15:30 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
+		<dd>Führung in Englisch, geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
 	

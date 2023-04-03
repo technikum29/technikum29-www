@@ -117,7 +117,7 @@
 		<dt>Tag
 		<dd class="termin">Dienstag, 4. April 2023
 		<dt>Uhrzeit
-		<dd>17:00 -20:00 Uhr
+		<dd>18:00 -20:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>		
 		<dd>Führung in Englisch, geschlossene Gesellschaft

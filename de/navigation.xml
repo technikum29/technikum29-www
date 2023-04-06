@@ -237,7 +237,12 @@
 				</ul>
 			</li>
 			-->
-			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegrafie</a></li>
+			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegrafie</a>
+                                <ul class="u3">
+					<li><a href="/de/kommunikationstechnik/telegraphie.php#hell-mg12">Hell MG12</a></li>
+					<li><a href="/de/kommunikationstechnik/telegraphie.php#lorenz-ml-t36">Lorenz ML T36</a></li>
+                                </ul>
+                        </li>
 			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreibtechnik</a>
                                 <ul class="u3">
 					<li><a href="/de/kommunikationstechnik/fernschreiber.php#lorenz-lo15b">Lorenz Lo15b</a></li>

@@ -59,10 +59,10 @@
         kodiert und können mit einem Handlocher mit Schreibmaschinentastatur erstellt werden. Der Einsatz der Morsegeber hatte zwei Vorteile:
         Zum einen konnten die Lochstreifen von Personal erstellt werden, die den Morsecode nicht beherrschten und zum anderen erfolgte
         die Aussendung absolut gleichmäßig. Außerdem konnten die Sendungen beliebig wiederholt werden. Auch für die Ausbildung wurden solche Morsegeber eingesetzt.
-        Kombinationen aus Handlocher und Morsegeber waren zum Beispiel bei Radio Norddeich im Einsatz. Dabei lief der Lochstreifen nach dem Stanzen direkt
+        Kombinationen aus Handlocher und Morsegeber waren zum Beispiel bei Radio Norddeich im Einsatz. Dabei lief der Lochstreifen nach dem Handloch direkt
         in den Morsegeber und wurde direkt gesendet.</p>
 
-    <h3 id="lorenz-hell-mg12">Lorenz Morsehandlocher ML T36</h3>
+    <h3 id="lorenz-ml-t36">Lorenz Morsehandlocher ML T36</h3>
     
 	<div class="box center"> 
 		<img src="/shared/photos/kommunikationstechnik/lorenz-ml-t36.jpg" width="427"  height="320"/>

@@ -59,14 +59,12 @@
         </p>
     </div>
     
-    <!--
-    <h2>Hellschreiber</h2>
-    
-	<div class="box center auto-bildbreite">
-	    <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245"  />
-		<p class="bildtext">
-		    "Ohne Worte". Was es mit dieser merkwürdigen Anordnung auf sich hat können wir Ihnen nur im technikum29 vorführen!
-		</p>
-	</div>
-    -->
- 
+    <div class="box center auto-bildbreite">
+        <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
+        <p class="bildtext">
+            Der <b>Hellschreiber GL 72</b> gebaut 1952.
+            Dieses Gerät überträgt den Text als Punktmatrix, wobei schwarzen und weißen Punkten unterschiedliche Frequenzen zugeordnet sind.
+            Die Übertragung erfolgt über Telefonleitungen, wie bei den späteren Telefaxgeräten. Der Empfänger druckte die empfangene Matrix auf
+            einen Papierstrteifen. Diese Art der Nachrichtenübermittlung war besonders störsicher.
+        </p>
+    </div>

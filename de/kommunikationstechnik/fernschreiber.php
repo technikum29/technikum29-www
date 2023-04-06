@@ -77,14 +77,12 @@
             <b id="decoder">5-Bit-Fernschreibcode </b> <a class="popup" href="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg"> Bild vergrößern</a>
         </div>
 	</div>
-    <div><p>Diesen sehr großen (70cm x 60cm) und schönen "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet übersetzt, haben wir vor der Entsorgung an einer
-    Technischen Universität gerettet.<br/>
+    <div><p>Diesen sehr großen (70cm x 60cm) und schönen "Decoder", der den 5-Bit-Code in das internationale Telegrafenalphabet (umgangssprachlich auch Baudot-Code genannt)
+    übersetzt, haben wir vor der Entsorgung an einer Technischen Universität gerettet.<br/>
     Er ist von den dortigen Werkstätten ca. in der Zeit zwischen 1937 und 1949 als aufwändiges Demonstrationsgerät für Vorlesungen und Praktika gebaut worden.<br/>
-    Man stellt einen beliebigen 5-Bit-Code an den groß dimensionierten Schaltern ein, dreht die Kodierscheibe und erhält an einer bestimmten Stelle das dazugehörige, oben aufleuchtende
-    Zeichen. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
+    Man stellt einen beliebigen 5-Bit-Code an den groß dimensionierten Schaltern ein, dreht die Kodierscheibe und erhält an einer bestimmten Stelle das dazugehörige, 
+    oben aufleuchtende Zeichen. Hier würde z.B. bei der Einstellung 10101 der Buchstabe "Y" leuchten.<br>
     Was damals fortschrittliche Nachrichtentechnik war, dient heute im technikum29 als sogenannte "Dechiffriermaschine".</p></div>
-    <!-- In unserem <a href="/de/lehrerinfo.php#experimente">Experimental-Workshop</a> können Kids und Jugendliche damit Binärtexte entschlüsseln und weiter verarbeiten.</p> -->
-    <!--<div class="clear"></div>-->
     <br/>
 
     <h2 id="itelex">Das i-Telex</h2>

@@ -48,4 +48,19 @@
         <img src="/shared/photos/kommunikationstechnik/morseempfaenger.jpg" width="439" height="254" alt="Fotografie eines Morseempfängers" />
         <p class="bildtext">Hier die seitliche Ansicht des Morse-Empfängers. Die Anlage ist im Museum an einen Lochstreifen-Morsesender der 60er Jahre angeschlossen.</p>
     </div>
+    
+    <h3 id="hell-mg12">Hell Morsegeber MG12</h3>
+    
+	<div class="box center"> 
+		<img src="/shared/photos/kommunikationstechnik/hell-mg12.jpg" width="427"  height="320"/>
+		<p class="bildtext"><b>Hell Morsegeber MG12</b></p>
+	</div>
+        <p>Beschreibunbgstext zum Hell MG12</p>
 
+    <h3 id="lorenz-hell-mg12">Lorenz Morsehandloch ML T36</h3>
+    
+	<div class="box center"> 
+		<img src="/shared/photos/kommunikationstechnik/lorenz-ml-t36.jpg" width="427"  height="320"/>
+		<p class="bildtext"><b>Hell Morsegeber MG12</b></p>
+	</div>
+        <p>Beschreibunbgstext zum Lorenz ML T36</p>

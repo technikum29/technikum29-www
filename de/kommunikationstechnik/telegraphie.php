@@ -58,7 +58,7 @@
         <p>Der Morsegeber ermöglichte das Senden von auf Lochstreifen vorgestanzten Morsenachrichten. Die Daten sind nach dem Wheatstone-Verfahren
         kodiert und können mit einem Handlocher mit Schreibmaschinentastatur erstellt werden. Der Einsatz der Morsegeber hatte zwei Vorteile:
         Zum einen konnten die Lochstreifen von Personal erstellt werden, die den Morsecode nicht beherrschten und zum anderen erfolgte
-        die Aussendung absolut gleichmäßig. Außerdem konnten die Sendung beliebig wiederholt werden. Auch für die Ausbildung wurden solche Morsegeber eingesetzt.
+        die Aussendung absolut gleichmäßig. Außerdem konnten die Sendungen beliebig wiederholt werden. Auch für die Ausbildung wurden solche Morsegeber eingesetzt.
         Kombinationen aus Handlocher und Morsegeber waren zum Beispiel bei Radio Norddeich im Einsatz. Dabei lief der Lochstreifen nach dem Stanzen direkt
         in den Morsegeber und wurde direkt gesendet.</p>
 
@@ -69,5 +69,5 @@
 		<p class="bildtext"><b>Lorenz Morsehandloch ML T36</b></p>
 	</div>
         <p>Mit dem Morsehandlocher wurden die Wheatstone-Lochstreifen für den Morsegeber erstellt. Da die Texte einfach über eine Schreibmaschinentastatur
-        eingegeben werden konnten, musste man zum Erstellen keine Morsecode können. Der Speziallochstreifen hat eine Breite von 12 mm und der Code
+        eingegeben werden konnten, musste man zum Erstellen keinen Morsecode können. Der Speziallochstreifen hat eine Breite von 12 mm und der Code
         verwendet zwei Kanäle, ein Kanal zum Einschalten des Signals und einen zum Ausschalten. Zusätzlich gibt es noch das Transportloch.</p>

@@ -239,6 +239,7 @@
 			-->
 			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegrafie</a>
                                 <ul class="u3">
+					<li><a href="/de/kommunikationstechnik/telegraphie.php#telegraphen">Telegraphen</a></li>
 					<li><a href="/de/kommunikationstechnik/telegraphie.php#hell-mg12">Hell MG12</a></li>
 					<li><a href="/de/kommunikationstechnik/telegraphie.php#lorenz-ml-t36">Lorenz ML T36</a></li>
                                 </ul>

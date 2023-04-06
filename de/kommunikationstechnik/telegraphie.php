@@ -20,6 +20,8 @@
 		</div>
     </div>
 
+    <h3 id="telegraphen">Telegraphen</h3>
+
     <!--
 	Auskommentierte Texte und Effekte zur Telegrafenstation von Hasler.
 	Ueber die angekuendigten Einzelheiten wurde nie berichtet...

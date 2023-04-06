@@ -53,7 +53,7 @@
         </p>
 
 
-    <h3 id="Wetterfax-BS100">Wetterfax BS 110</h3>
+    <h3 id="wetterfax-bs110">Wetterfax BS 110</h3>
 
     <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender
     die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril
@@ -70,7 +70,7 @@
     </div>
     <div class="clear">&nbsp;</div>
     
-    <h3 id="Hellschreiber-GL72">Hellschreiber GL 72</h3>
+    <h3 id="hellschreiber-gl72">Hellschreiber GL 72</h3>
 
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />

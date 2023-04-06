@@ -76,8 +76,9 @@
         <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
         <p class="bildtext">
             Der <b>Hellschreiber GL 72</b> gebaut 1952.
-            Dieses Gerät überträgt den Text als Punktmatrix, wobei schwarzen und weißen Punkten unterschiedliche Frequenzen zugeordnet sind.
-            Die Übertragung erfolgt über Telefonleitungen, wie bei den späteren Telefaxgeräten. Der Empfänger druckte die empfangene Matrix auf
-            einen Papierstrteifen. Diese Art der Nachrichtenübermittlung war besonders störsicher.
+            Dieses Gerät überträgt Texte als Punktmatrix im Eintonverfahren (bei schwarz wird ein Ton gesendet, bei weiß wird kein Ton gesendet).
+            Die Übertragung erfolgt über Telefonleitungen, wie bei den späteren Telefaxgeräten. Der Empfänger druckte die empfangenen Zeichen auf
+            einen Papierstreifen. Diese Art der Nachrichtenübermittlung war besonders störsicher, weil bei kurzen Störungen immer nur einzelne Punkte und keine ganzen Zeichen
+            verloren gingen.
         </p>
     </div>

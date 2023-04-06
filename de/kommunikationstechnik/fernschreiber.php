@@ -66,10 +66,26 @@
 
     <!--
     Dieser ebenfalls sehr gut erhaltene Fernschreiber war authentisch der erste Fernschreiber des Zeitungsverlages "Darmstädter Echo". Unten ist ein Lochstreifen-Sender zu sehen. Mit ihm konnte man vorher langsam geschriebene
-    Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig.</p>
-    <!-- Im Rahmen des <a href="/de/lehrerinfo.php#experimente">Experimental-Workshop</a> kann man mit diesem Gerät und einem Lorenz-Fernschreiber Chatten.</p> -->
+    Texte schnell versenden, ähnlich wie heute eine SMS erzeugt und gesendet wird. Die Anlage ist natürlich noch voll funktionsfähig.</p> -->
+
+    <h2 id="siemens-t100s">Siemens T100S</h2>
+       
+	<div class="box center clear-after">
+		<img src="/shared/photos/kommunikationstechnik/siemens-t100s.jpg" width="390" height="402" alt="Siemens T100S" />		
+		<div class="bildtext">
+	        <b>Siemens Fernschreiber T100S Bj. 1971</b> 
+		</div>
+	 </div>
+	<div><p>Der Siemens T100S gehört zur letzten Generation der mechanischen Fernschreiber und wurde bis 1976 gebaut. Obwohl diese Fernschreiber immer noch
+        auf der gleichen Technik wie die ersten Springschreiber der 1930er Jahre basiert, wurden inzwischen doch einige Komfortfunktionen eingebauten.
+        Die Umschaltung zwischen der Buchstaben- und der Zifferneben erfolgt nun automatisch und es ist ein mechanischer 20-Zeichen-Pufferspeicher vorhanden,
+        damit Schnellschreiber (größer 400 Anschläge pro Minute) durch die langsame Übertragung nicht aus dem Tritt gebracht wurden.
+        Wie die frühen Fernschreiber verfügt das Gerät über einen 5-Kanal-Lochstreifen Sender- und Empfänger. Das Fernschaltgerät mit der Wählscheibe wurde ins
+        Gehäuse integriert.</p>
+    </div>
+    <br/>
 	 
-	<h2 id="fernschreibcode">Der 5-Bit-Fernschreibcode</h2>
+    <h2 id="fernschreibcode">Der 5-Bit-Fernschreibcode</h2>
 
 	<div class="box center clear-after">
         <img src="/shared/photos/kommunikationstechnik/telegrafenalphabet.jpg" width="414" height="391" alt="Fernschreiber" />

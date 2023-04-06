@@ -8,6 +8,9 @@
 	 <h2>Faxtechnik, Bildtelegraphie und Hellschreiber</h2>
          
 	<p>Die Faksimile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
+        
+    <h3 id="fultograph">Fultograph</h3>
+
     <p>Der erste in Serie hergestellte Bildtelegraph (Fultograph) kam bereits 1929 auf den Markt. Dieses Gerät wäre allerdings nur mit erheblichem Aufwand noch zu betreiben. </br>
         Die ersten praktikablen Faxgeräte waren eine deutsche Erfindung: Das Normalpapierfax von Siemens-Hell, Bj. 1956 mit Röhrentechnik, ist noch voll funktionsfähig. Gemächlich und durchschaubar dauert eine Faxübertragung (DIN A5) etwa 4 Minuten. Mit ihm könnte man theoretisch sogar mit Hilfe einiger Tricks ein Fax in Farbe übertragen!</p>
 
@@ -29,6 +32,7 @@
         <div class="clear">&nbsp;</div>
     </div>
 
+    <h3 id="Siemens-KF106">Siemens/Hell Faxgerät KF 106</h3>
 	<div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="Fotografie des SIEMENS Faxgerät KF 106" />
         <p class="bildtext">
@@ -36,6 +40,8 @@
 			<p>Dieser "Fernkopierer" wurde ca. 1954/55 hergestellt. Das Tinten-Schreibsystem war schon ausgereift und wurde unverändert im Nachfolgemodell übernommen. Die Übertragungsfläche ist etwas kleiner als DIN A5. Doch die Servicefreundlichkeit des gewichtigen Gerätes (27 kg) entsprach nicht dem Niveau von Siemens. 
 		    Das KF 106 war ein "Lehrstück" denn schon 1956 folgte eine wesentliche Verbesserung mit dem Modell KF 108.
      	</p>
+
+    <h3 id="Siemens-KF108">Siemens/Hell Faxgerät KF 108</h3>
 	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="Fotografie des SIEMENS Faxgerät KF 108" />
@@ -48,7 +54,12 @@
         </p>
 
 
-    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.php">Funktionsweise des HELLfax</a>.
+    <h3 id="Wetterfax-BS100">Wetterfax BS 110</h3>
+
+    <p>Ein weiteres Wetterkartenfax von 1963 besteht aus 90 kg schöner Technik mit Elektronenröhren. Wetterämter konnten in den 60igern über einen Langwellensender
+    die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril
+    die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise
+    des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.php">Funktionsweise des HELLfax</a>.
 	</p>
 
     <div class="box center auto-bildbreite">
@@ -60,6 +71,8 @@
     </div>
     <div class="clear">&nbsp;</div>
     
+    <h3 id="Hellschreiber-GL72">Hellschreiber GL 72</h3>
+
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />
         <p class="bildtext">

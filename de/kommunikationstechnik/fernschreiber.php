@@ -88,7 +88,7 @@
     <h2 id="siemens-t68d">Siemens Streifenschreiber T68d</h2>
        
 	<div class="box center clear-after">
-		<img src="/shared/photos/kommunikationstechnik/siemens-t68d.jpg" width="420" height="336" alt="Siemens T68d" />		
+		<img src="/shared/photos/kommunikationstechnik/siemens-t68d.jpg" width="420" height="310" alt="Siemens T68d" />		
 		<div class="bildtext"><b>Siemens Streifenschreiber T68d Bj. 1957</b></div>
 	 </div>
 	<p>Mit dem Aufkommen der Blattschreiber in den 1920er und 1930er Jahren, war die Zeit der Streifenschreiber noch lange nicht vorbei. Die Streifenschreiber

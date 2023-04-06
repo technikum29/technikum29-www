@@ -62,11 +62,11 @@
         Kombinationen aus Handlocher und Morsegeber waren zum Beispiel bei Radio Norddeich im Einsatz. Dabei lief der Lochstreifen nach dem Stanzen direkt
         in den Morsegeber und wurde direkt gesendet.</p>
 
-    <h3 id="lorenz-hell-mg12">Lorenz Morsehandloch ML T36</h3>
+    <h3 id="lorenz-hell-mg12">Lorenz Morsehandlocher ML T36</h3>
     
 	<div class="box center"> 
 		<img src="/shared/photos/kommunikationstechnik/lorenz-ml-t36.jpg" width="427"  height="320"/>
-		<p class="bildtext"><b>Lorenz Morsehandloch ML T36</b></p>
+		<p class="bildtext"><b>Lorenz Morsehandlocher ML T36</b></p>
 	</div>
         <p>Mit dem Morsehandlocher wurden die Wheatstone-Lochstreifen für den Morsegeber erstellt. Da die Texte einfach über eine Schreibmaschinentastatur
         eingegeben werden konnten, musste man zum Erstellen keinen Morsecode können. Der Speziallochstreifen hat eine Breite von 12 mm und der Code

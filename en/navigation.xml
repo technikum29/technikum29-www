@@ -209,12 +209,17 @@
 					<li><a seiten_id="saba-telerama" href="/en/devices/saba-telerama.php">Saba Telerama: Schmitt lenses</a></li>
 				</ul>
 			</li>
+      			<li><a seiten_id="telegraphie" href="/en/communication/telegraphy.php">Telegraphy</a></li>
+			<li><a seiten_id="fernschreiber" href="/en/communication/telex.php">Telex machines</a></li>
+			<li><a seiten_id="faxtechnik" href="/de/communication/fax.php">Facsimile and Hell writer</a></li>
+                        <!--
 			<li><a seiten_id="faxtechnik" href="/en/communication/fax.php">Telegraphy and Fax engineering</a>
 				<ul class="u3 geraete">
 					<li><a seiten_id="hellfax" href="/en/devices/hellfax-functionality.php">Hellfax functional diagram</a></li>
 					<li><a seiten_id="morse-telegraph" href="/en/devices/morse_telegraph.php">TELEGRAPH made by S.-A. HASLER, Bern</a></li>
 				</ul>
 			</li>
+                        -->
 		</ul>
 	</li>
 	<li><a href="/en/communication/measurement.php">Miscellaneous</a>

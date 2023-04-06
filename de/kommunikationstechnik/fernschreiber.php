@@ -28,15 +28,15 @@
     den Zeitraum bis 1980 abdecken.</p>
     <br/>
 
-    <h2 id="lorenz-lo15b">Lorenz Springschreiber Lo15b</h2>
+    <h2 id="lorenz-lo15b">Lorenz Fernschreiber Lo15b</h2>
 		
 	<div class="box center clear-after">
-		<img src="/shared/photos/dummy.jpg" width="420" height="336" alt="Lorenz Lo15b" />		
+		<img src="/shared/photos/kommunikationstechnik/Lorenz-Lo15b.jpg" width="420" height="336" alt="Lorenz Lo15b" />		
 		<div class="bildtext">
-            <b>Lorenz Springschreiber Lo15b Bj. ca. 1960</b> 
+            <b>Lorenz Fernschreiber Lo15b Bj. ca. 1960</b> 
 		</div>
 	</div>
-    <div><p>Der Springschreiber Lo15b gehört zur zweiten Generation von Fernschreibern der Lo15-Serie, die von der Firma Lorenz seit 1930 als Lizenzbau des Teletype Model 15 gebaut wurden.
+    <div><p>Der Fernschreiber Lo15b gehört zur zweiten Generation von Fernschreibern der Lo15-Serie, die von der Firma Lorenz seit 1930 als Lizenzbau des Teletype Model 15 gebaut wurden.
     Unser Modell stammt von ca. 1960 und war laut dem original erhaltenen Kennungsgeber noch bis 1983 bei der Firma Rudolf Hoffmann in Nürnberg im Einsatz.
     Die mechanischen Fernschreiber aus dieser Zeit waren bei regelmäßiger Wartung nahezu unverwüstlich und über viele Jahre im Einsatz.<br/>
     Der grundsätzliche mechanische Aufbau des Lo15 wurde über alle Gerätegenerationen kaum verändert. Wie auch die Siemens Fernschreiber wurde der Lo15 in den unterschiedlichsten
@@ -48,10 +48,10 @@
     Das FSG diente ansonten der Anwahl anderer Teilnehmer (Wählscheibe) und schaltete bei eingehenden Verbindungen den Fernschreiber automatisch ein.</p></div>
     <br/>
 
-	<h2 id="siemens-t37">Siemens Blattschreiber T37</h2>
+	<h2 id="siemens-t37">Siemens Fernschreiber T37</h2>
        
 	<div class="box center clear-after">
-		<img src="/shared/photos/kommunikationstechnik/fernschreiber.jpg" width="390" height="402" alt="Fernschreiber" />		
+		<img src="/shared/photos/kommunikationstechnik/siemens-t37.jpg" width="390" height="402" alt="Siemens T37" />		
 		<div class="bildtext">
 	        <b>Siemens Fernschreiber ca. Bj. 1952</b> 
 		</div>

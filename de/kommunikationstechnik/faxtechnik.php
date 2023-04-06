@@ -58,6 +58,7 @@
              <b>Hellfax-Blattschreiber BS 110</b>. 
         </p>
     </div>
+    <div class="clear">&nbsp;</div>
     
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellschreiber.jpg" width="629" height="245" alt="Hellschreiber GL 72" />

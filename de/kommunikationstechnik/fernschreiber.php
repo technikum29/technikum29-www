@@ -79,7 +79,10 @@
         Die Umschaltung zwischen der Buchstaben- und der Zifferneben erfolgt nun automatisch und es ist ein mechanischer 20-Zeichen-Pufferspeicher vorhanden,
         damit Schnellschreiber (größer 400 Anschläge pro Minute) durch die langsame Übertragung nicht aus dem Tritt gebracht wurden.
         Wie die frühen Fernschreiber verfügt das Gerät über einen 5-Kanal-Lochstreifen Sender- und Empfänger. Das Fernschaltgerät mit der Wählscheibe wurde ins
-        Gehäuse integriert.</p>
+        Gehäuse integriert.</br>
+        Unser T100S besaß spezielle Zusatzausstattungen (Faltpapierzuführung mit eingelegtem Telegrammpapier, Anrufsignalisierung), die darauf schließen lassen,
+        dass er im internen Telegramm-Netz (Gentex) der Deutschen Post im Einsatz. Der Originalkennungsgeber war leider nicht mehr vorhanden.
+        </p>
         <br/>
 
     <h2 id="siemens-t68d">Siemens Streifenschreiber T68d</h2>

@@ -82,6 +82,20 @@
         Gehäuse integriert.</p>
         <br/>
 
+    <h2 id="siemens-t68d">Siemens Streifenschreiber T68d</h2>
+       
+	<div class="box center clear-after">
+		<img src="/shared/photos/kommunikationstechnik/siemens-t100s.jpg" width="390" height="402" alt="Siemens T68d" />		
+		<div class="bildtext"><b>Siemens Streifenschreiber T68d Bj. 1957</b></div>
+	 </div>
+	<p>Mit dem Aufkommen der Blattschreiber in den 1920er und 1930er Jahren, war die Zeit der Streifenschreiber noch lange nicht vorbei. Die Streifenschreiber
+        waren kompakter, leichter und günstiger als die Blattschreiber und waren daher noch bis in die 1960er Jahre im Einsatz. Als mobile Fernschreiber beim Militär
+        und technischen Hilfdiensten, bei Behörden und als günstige Alternative auch bei Firmen. Im Telegrammdienst waren sie bis zum Ende der mechanischen Fernschreiber
+        im Einsatz und prägten mit den aufgeklebten Papierstreifen das typische Erscheinungsbild eines Telegramms.
+        Der T68d ist ein Wunderwerk der Mechanik. Auf kleinstem Raum wurden Empfangs- und Sendeeinheit, Lochstreifensender- und -empfänger und das
+        Fernschaltgerät untergebracht. Die Papier- und Lochstreifenrollen befinden sich in den Schubladen unter der Tastatur.</p>
+        <br/>
+
     <h2 id="fernschreibcode">Der 5-Bit-Fernschreibcode</h2>
 
 	<div class="box center clear-after">

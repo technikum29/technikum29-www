@@ -101,7 +101,7 @@
     die im i-Telex-Netzwerk vergebenen Telexnummern in Internetadressen um, so dass empfangsbereite Fernschreiber weltweit von anderen i-Telex-Teilnehmern direkt angewählt werden können
     (ca. 300 Geräte weltweit).<br/>
     Lokal simuliert das i-Telex wahlweise eine TW39- oder die modernere ED1000-Vermittlungsstelle, an die Fernschreiber direkt angeschlossen werden.
-    Die Anwahl eines anderen Teilnehmers funtioniert genau wie bei einem echten Fernschreibanschluss über die Wählscheibe. Auch die Behandlung von eingehenden Verbindungen mit dem automatischen
+    Die Anwahl eines anderen Teilnehmers funtioniert genau wie bei einem echten Fernschreibanschluss über die Wählscheibe oder Tastaturwahl. Auch die Behandlung von eingehenden Verbindungen mit dem automatischen
     Einschalten des Fernschreibers über das Fernschaltgerät funktioniert originalgetreu.
     Zusätzlich kann über das i-Telex auch eine Wählverbindung zuwischen den angeschlossenen lokalen Fernschreibern aufgebaut werden.</p>
     <p>Einige unserer Fernschreiber sind mit einer solchen i-Telex-Anlage verbunden, so dass die Besucher selbst den Verbindungsaufbau und die Nachrichtenübermittlung
@@ -111,11 +111,13 @@
     <br/>
 
     <h2>Schreibautomaten</h2>
-	 
+
     <div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/olympia-schreibautomat.jpg" width="629" height="242" alt="Schreibautomat" />
 		<p class="bildtext">
-            Ein "Abfallprodukt" der Fernschreiber waren die elektromechanischen "Textverarbeitungssysteme" (1962-64), die mit Lochstreifen und -karten als Datenträger Texte duplizieren und automatisch schreiben konnte. Eine aufwändige Technik deutscher Gründlichkeit, die sich damals nur große Firmen leisten konnten. Hier ist ein Olympia Schreibautomat mit zwei Lochstreifenlesern und einem Lochstreifenstanzer aus dem Jahre 1962 abgebildet.
+            Ein "Abfallprodukt" der Fernschreiber waren die elektromechanischen "Textverarbeitungssysteme" (1962-64), die mit Lochstreifen und -karten als
+            Datenträger Texte duplizieren und automatisch schreiben konnte. Eine aufwändige Technik deutscher Gründlichkeit, die sich damals nur große Firmen
+            leisten konnten. Hier ist ein Olympia Schreibautomat mit zwei Lochstreifenlesern und einem Lochstreifenstanzer aus dem Jahre 1962 abgebildet.
         </p>
 	</div>
 

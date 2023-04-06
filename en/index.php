@@ -37,7 +37,7 @@
 </div>
 </header>
 
-   <p><b>This website has not been updated since 2018 ! Work is in progress. You can find our current
+   <p><b>This website has not been updated since 2018 ! You can find our current
 	   page in German <a href="/de/">here</b></a>.
    <p>technikum29 is a private science museum in Germany, close to Frankfurt am Main.
       It has a focus on computer history between the 1920s and 1980s. The unique property

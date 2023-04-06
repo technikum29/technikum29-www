@@ -5,7 +5,7 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-	 <h2>Faxtechnik, Bildtelegraphie und Hellschreiber</h2>
+	 <h2>Faxtechnik, Bildtelegrafie und Hellschreiber</h2>
          
 	<p>Die Faksimile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
         
@@ -42,7 +42,6 @@
      	</p>
 
     <h3 id="Siemens-KF108">Siemens/Hell Faxgerät KF 108</h3>
-	
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="Fotografie des SIEMENS Faxgerät KF 108" />
         <p class="bildtext">

@@ -237,7 +237,7 @@
 				</ul>
 			</li>
 			-->
-			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegraphie</a></li>
+			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegrafie</a></li>
 			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreibtechnik</a>
                                 <ul class="u3">
 					<li><a href="/de/kommunikationstechnik/fernschreiber.php#lorenz-lo15b">Lorenz Lo15b</a></li>
@@ -245,8 +245,6 @@
                                 </ul>
                         </li>
 			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile und Hellschreiber</a></li>
-                        
-                        
                         
 			<!--
 				<ul class="u3 geraete">

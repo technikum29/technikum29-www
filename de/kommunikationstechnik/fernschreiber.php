@@ -48,7 +48,7 @@
     Das FSG diente ansonten der Anwahl anderer Teilnehmer (Wählscheibe) und schaltete bei eingehenden Verbindungen den Fernschreiber automatisch ein.</p></div>
     <br/>
 
-	<h2 id="siemens-t37">Siemens Fernschreiber T37</h2>
+    <h2 id="siemens-t37">Siemens T37</h2>
        
 	<div class="box center clear-after">
 		<img src="/shared/photos/kommunikationstechnik/siemens-t37.jpg" width="390" height="402" alt="Siemens T37" />		

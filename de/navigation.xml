@@ -252,7 +252,15 @@
 					<li><a href="/de/kommunikationstechnik/fernschreiber.php#siemens-t68d">Siemens T68d</a></li>
                                 </ul>
                         </li>
-			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile und Hellschreiber</a></li>
+			<li><a seiten_id="faxtechnik" href="/de/kommunikationstechnik/faxtechnik.php">Faksimile und Hellschreiber</a>
+                                <ul class="u3">
+					<li><a href="/de/kommunikationstechnik/faxtechnik.php#Fultograph">Fultograph</a></li>
+					<li><a href="/de/kommunikationstechnik/faxtechnik.php#siemens-kf106">Siemens KF106</a></li>
+					<li><a href="/de/kommunikationstechnik/faxtechnik.php#siemens-kf108">Siemens KF108</a></li>
+					<li><a href="/de/kommunikationstechnik/faxtechnik.php#wetterfax-bs100">Wetterfax BS100</a></li>
+					<li><a href="/de/kommunikationstechnik/faxtechnik.php#hellschreiber-gl72">Hellschreiber GL72</a></li>
+                                </ul>
+                        </li>
                         
 			<!--
 				<ul class="u3 geraete">

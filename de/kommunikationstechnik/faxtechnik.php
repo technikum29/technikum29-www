@@ -32,7 +32,7 @@
         <div class="clear">&nbsp;</div>
     </div>
 
-    <h3 id="Siemens-KF106">Siemens/Hell Faxgerät KF 106</h3>
+    <h3 id="siemens-kf106">Siemens/Hell Faxgerät KF 106</h3>
 	<div class="box center auto-bildbreite">
 	    <img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="Fotografie des SIEMENS Faxgerät KF 106" />
         <p class="bildtext">
@@ -41,7 +41,7 @@
 		    Das KF 106 war ein "Lehrstück" denn schon 1956 folgte eine wesentliche Verbesserung mit dem Modell KF 108.
      	</p>
 
-    <h3 id="Siemens-KF108">Siemens/Hell Faxgerät KF 108</h3>
+    <h3 id="siemens-kf108">Siemens/Hell Faxgerät KF 108</h3>
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="Fotografie des SIEMENS Faxgerät KF 108" />
         <p class="bildtext">

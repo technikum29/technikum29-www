@@ -239,7 +239,7 @@
 			-->
 			<li><a seiten_id="telegraphie" href="/de/kommunikationstechnik/telegraphie.php">Telegraphie</a></li>
 			<li><a seiten_id="fernschreiber" href="/de/kommunikationstechnik/fernschreiber.php">Fernschreibtechnik</a>
-                                <ul class="u3 geraete">
+                                <ul class="u3">
 					<li><a href="/de/kommunikationstechnik/fernschreiber.php#lorenz-lo15b">Lorenz Lo15b</a></li>
 					<li><a href="/de/kommunikationstechnik/fernschreiber.php#siemens-t37">Siemens T37</a></li>
                                 </ul>

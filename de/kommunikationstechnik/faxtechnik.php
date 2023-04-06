@@ -5,9 +5,9 @@
 	
 	require "../../lib/technikum29.php";
 ?>
-	 <h2>Faxtechnik, Bildtelegrafie und Hellschreiber</h2>
+    <h2>Faxtechnik, Bildtelegrafie und Hellschreiber</h2>
          
-	<p>Die Faksimile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
+    <p>Die Faksimile-Telegrafie zählt zu den ältesten Telegrafietechniken. Von der Faszination, Bilder, Zeichnungen und Schriftstücke zu versenden begeistert, wurde bereits 1843, 33 Jahre vor Einführung des Telefons, von Alexander Bain ein Vorschlag für einen "Kopiertelegraphen" gemacht. Im Jahre 1865 kam es zu der ersten praktischen Anwendung. Zwischen Paris und Lyon wurde über eine Entfernung von 400 km "fernkopiert".</p>  
         
     <h3 id="fultograph">Fultograph</h3>
 
@@ -33,24 +33,28 @@
     </div>
 
     <h3 id="siemens-kf106">Siemens/Hell Faxgerät KF 106</h3>
-	<div class="box center auto-bildbreite">
-	    <img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="Fotografie des SIEMENS Faxgerät KF 106" />
-        <p class="bildtext">
-		    Sehr seltenes <b>Siemens (HELL) Faxgerät KF 106</b>. </p></div>
-			<p>Dieser "Fernkopierer" wurde ca. 1954/55 hergestellt. Das Tinten-Schreibsystem war schon ausgereift und wurde unverändert im Nachfolgemodell übernommen. Die Übertragungsfläche ist etwas kleiner als DIN A5. Doch die Servicefreundlichkeit des gewichtigen Gerätes (27 kg) entsprach nicht dem Niveau von Siemens. 
-		    Das KF 106 war ein "Lehrstück" denn schon 1956 folgte eine wesentliche Verbesserung mit dem Modell KF 108.
-     	</p>
+
+    <div class="box center auto-bildbreite">
+	<img src="/shared/photos/kommunikationstechnik/siemens_kf106.jpg" width="513" height="416" alt="Fotografie des SIEMENS Faxgerät KF 106" />
+        <p class="bildtext">Sehr seltenes <b>Siemens (HELL) Faxgerät KF 106</b>.</p>
+    </div>
+    <p>Dieser "Fernkopierer" wurde ca. 1954/55 hergestellt. Das Tinten-Schreibsystem war schon ausgereift und wurde unverändert im Nachfolgemodell übernommen. Die Übertragungsfläche ist
+    etwas kleiner als DIN A5. Doch die Servicefreundlichkeit des gewichtigen Gerätes (27 kg) entsprach nicht dem Niveau von Siemens. Das KF 106 war ein "Lehrstück" denn schon 1956 folgte
+    eine wesentliche Verbesserung mit dem Modell KF 108.
+    </p>
+
 
     <h3 id="siemens-kf108">Siemens/Hell Faxgerät KF 108</h3>
+    
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/siemens_kf108-gross.jpg" width="520" height="363" alt="Fotografie des SIEMENS Faxgerät KF 108" />
-        <p class="bildtext">
-          <b>SIEMENS Faxgerät KF 108</b> (Bj. 1956).</p></div>
-		  
-            <p>Das Faximlie-Gerät KF 108 arbeitet nach dem ähnlichen Prinzip wie der Fultograph. Anstelle der elektrochemischen Aufzeichnung wird hier über eine aufwendige Mechanik mit Hilfe eines rotierenden Saphirröllchens Tinte auf das gewöhnliche Schreibpapier gebracht.
-            <br/>Ein KF 108 wird selbst dann noch Faxe übertragen können, wenn die Geräte der Neuzeit längst funktionslos im Sondermüll entsorgt werden. Es ist aber nicht kompatibel zu heutigen Faxgeräten. Siemens baute das Gerät in einer typisch deutschen Solidität: Alles kugelgelagert verwindungssteif und reichlich überdimensioniert. Die Wegwerfmentalität hatte sich noch nicht etabliert.<br>
-			Wie man die Information auf der Walze mit einem PC abbilden kann, erfahren Sie <a href="/de/lernprojekte/#aes"><b>hier</b></a>. 
-        </p>
+        <p class="bildtext"><b>SIEMENS Faxgerät KF 108</b> (Bj. 1956).</p>
+    </div>
+    <p>Das Faximlie-Gerät KF 108 arbeitet nach dem ähnlichen Prinzip wie der Fultograph. Anstelle der elektrochemischen Aufzeichnung wird hier über eine aufwendige Mechanik mit Hilfe
+    eines rotierenden Saphirröllchens Tinte auf das gewöhnliche Schreibpapier gebracht.<br/>
+    Ein KF 108 wird selbst dann noch Faxe übertragen können, wenn die Geräte der Neuzeit längst funktionslos im Sondermüll entsorgt werden. Es ist aber nicht kompatibel zu heutigen Faxgeräten. Siemens baute das Gerät in einer typisch deutschen Solidität: Alles kugelgelagert verwindungssteif und reichlich überdimensioniert. Die Wegwerfmentalität hatte sich noch nicht etabliert.<br>
+    Wie man die Information auf der Walze mit einem PC abbilden kann, erfahren Sie <a href="/de/lernprojekte/#aes"><b>hier</b></a>. 
+    </p>
 
 
     <h3 id="wetterfax-bs110">Wetterfax BS 110</h3>
@@ -59,17 +63,15 @@
     die aktuelle Wetterkarte (größer als DIN A 3) empfangen.<br>Wie mühsam es in den 60iger Jahren war, Fax-Zeichnungen in der Größe DIN A2 zu erzeugen und wie skurril
     die Realisierung ist, zeigt der Hellfax-Blattschreiber BS 110. Dieses Gerät wurde zum Empfang von Wetterkarten per Funk verwendet. Aufschluss über die Arbeitsweise
     des HELLfax bietet die Grafik zur <a class="go" name="backlink-hellfax" href="/de/geraete/hellfax-funktionsschema.php">Funktionsweise des HELLfax</a>.
-	</p>
-
+    </p>
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geschlossen.jpg"  alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geschlossen)" width="550" height="334" id="hellfax-zu" />
 		<img src="/shared/photos/kommunikationstechnik/hellfax_bs110-geoeffnet.jpg" alt="Fotografie vom Hellfax-Blattschreiber BS 110 (geöffnet)" id="hellfax-offen" />
-        <p class="bildtext">
-             <b>Hellfax-Blattschreiber BS 110</b>. 
-        </p>
+        <p class="bildtext"><b>Hellfax-Blattschreiber BS 110</b>.</p>
     </div>
     <div class="clear">&nbsp;</div>
-    
+
+
     <h3 id="hellschreiber-gl72">Hellschreiber GL 72</h3>
 
     <div class="box center auto-bildbreite">
@@ -78,7 +80,7 @@
             Der <b>Hellschreiber GL 72</b> gebaut 1952.
             Dieses Gerät überträgt Texte als Punktmatrix im Eintonverfahren (bei schwarz wird ein Ton gesendet, bei weiß wird kein Ton gesendet).
             Die Übertragung erfolgt über Telefonleitungen, wie bei den späteren Telefaxgeräten. Der Empfänger druckte die empfangenen Zeichen auf
-            einen Papierstreifen. Diese Art der Nachrichtenübermittlung war besonders störsicher, weil bei kurzen Störungen immer nur einzelne Punkte und keine ganzen Zeichen
+            einen Papierstreifen. Diese Art der Nachrichtenübermittlung war besonders störsicher, weil bei kurzen Störungen immer nur einzelne Punkte und nicht gleich mehrere Zeichen
             verloren gingen.
         </p>
     </div>

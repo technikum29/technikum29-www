@@ -69,7 +69,6 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div><!--/.termin -->
-
 	
 <div id="termine">	
 <div class="box termin clear-after">		
@@ -86,8 +85,6 @@
 	</dl>
 </div><!--/.termin -->
 	
-	
-	
 <div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 30. Apr</p>
@@ -103,7 +100,6 @@
 	</dl>
 </div><!--/.termin -->
 	
-	
 <div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 28. Apr</p>
@@ -118,14 +114,6 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-	
-	
-	
-	
-	
-	
-	
-	
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 22. Apr</p>

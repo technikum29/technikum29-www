@@ -35,10 +35,6 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 	
-<?php
-
-	
-	
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Mai</p>

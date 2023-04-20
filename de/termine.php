@@ -34,7 +34,7 @@
 	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
-	
+<div id="termine">	
 		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Mai</p>
@@ -69,8 +69,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div><!--/.termin -->
-	
-<div id="termine">	
+		
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 3. Mai</p>
 	<h4>Privatführung Mohanad R.</h4> 
@@ -85,7 +84,6 @@
 	</dl>
 </div><!--/.termin -->
 	
-<div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 30. Apr</p>
 	<h4>Privatführung Stephen P.</h4> 
@@ -100,7 +98,6 @@
 	</dl>
 </div><!--/.termin -->
 	
-<div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 28. Apr</p>
 	<h4>Privatführung Karl W. (Q1)</h4> 
@@ -132,7 +129,6 @@
 	</dl>
 </div><!--/.termin -->
 	
-<div id="termine">
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Apr</p>
 	<h4>Privatführung Julia R.</h4> 
@@ -174,7 +170,6 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
 				
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 4. Apr</p>

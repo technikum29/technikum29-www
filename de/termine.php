@@ -113,6 +113,20 @@
 </div><!--/.termin -->
 	
 <div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 27. Apr</p>
+	<h4>PrivatführungIngo B. (Q1)</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 27. April 2023
+		<dt>Uhrzeit
+		<dd>18:30 - 20:30
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>Führung in Englisch - geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 22. Apr</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit

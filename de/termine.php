@@ -114,7 +114,7 @@
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 27. Apr</p>
-	<h4>Privatführung Ingo B. (Q1)</h4> 
+	<h4>Privatführung Ingo B.</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Donnerstag, 27. April 2023

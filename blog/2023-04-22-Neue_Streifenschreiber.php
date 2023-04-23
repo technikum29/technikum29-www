@@ -13,12 +13,12 @@
 Ein sehr seltener Siemens Streifenschreiber T32 aus der Zeit von 1932 bis 1934, der zuvor im Depot lag. Und ein Lorenz Streifenschreiber T36Lo, den Detlef vor etwa einem Jahr bei dem Youtuber "Meister Jambo" abgeholt hatte.
 Beide Geräte wurden von Jochen instand gesetzt. Zu dem Lorenz Streifenschreiber fehlt jetzt noch ein passendes Fernschaltgerät.</p>
 
-<div class="box left">
-   <a  href="/shared/photos/blog/sammelordner/neue_streifenschreiber.jpg" class="popup">
-      <img src="/shared/photos/blog/sammelordner/neue_streifenschreiber.jpg" width="470"/>
+<div class="box center auto-bildbreite">
+   <a  href="/shared/photos/blog/2023-04-22_Neue_Streifenschreiber.jpg" class="popup">
+      <img src="/shared/photos/blog/2023-04-22_Neue_Streifenschreiber.jpg" width="470"/>
    </a>
    <p class="bildtext">
-     Das Bild zeigt unser Streifenschreiberregal mit dem neuen Siemens T32 in der Mitte, dem Lorenz Lo36Lo unten und dem "modernen" Siemens T68d von 1957 oben.
+     Das Bild zeigt unser Streifenschreiberregal mit dem neuen Siemens T32 in der Mitte, dem Lorenz T36Lo unten und dem "modernen" Siemens T68d von 1957 oben.
      Der Lorenz Handloch rechts oben gehört thematisch nicht dazu.
    </p>
 </div>

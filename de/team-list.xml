@@ -89,6 +89,12 @@
 	<member identifier="detlef" full_name="Detlef Gerhardt">
 		<img class="thumbnail" src="/shared/photos/blog/detlef-gerhardt.thumb.jpg" />
 		<img class="photo" src="/shared/photos/blog/detlef-gerhardt.jpg" />
+		<abstract> <!-- Kurzsform, zu sehen im Blog -->
+			Detlef Gerhardt ist seit 2020 im technikum29 aktiv und kümmert sich 
+			schwerpunktmäßig (gemeinsam mit weiteren Fernschreib-Liebhabern) um die 
+			Geräte im Kommunikationsraum (Morse- und Fernschreibtechnik, Anschluss 
+			ans i-Telex-Netzwerk). Beruflich ist er als Softwareentwickler tätig.
+		</abstract>
 		<biography>
 			Detlef Gerhardt ist seit 2020 im technikum29 aktiv und kümmert sich 
 			schwerpunktmäßig (gemeinsam mit weiteren Fernschreib-Liebhabern) um die 

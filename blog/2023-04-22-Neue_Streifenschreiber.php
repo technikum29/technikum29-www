@@ -3,7 +3,7 @@
 	$blog_title_kurz = "Siemens T32 und Lorenz T36Lo neu in der Ausstellung";
 	$blog_author = "Detlef";
 	$blog_date = "2023-04-22";
-s
+
 	require "blog.php";
 	
 	print_blog_title();
@@ -18,7 +18,7 @@ Beide Geräte wurden von Jochen instand gesetzt. Zu dem Lorenz Streifenschreiber
       <img src="/shared/photos/blog/sammelordner/neue_streifenschreiber.jpg" width="470"/>
    </a>
    <p class="bildtext">
-     Das Bild zeigt unser Streifenschreiberregal mit dem neuen Siemens T32 in der Mitte, dem Lorenz Lo36Lo ganz unten und dem "modernen" Siemens T68d von 1957 ganz oben.
+     Das Bild zeigt unser Streifenschreiberregal mit dem neuen Siemens T32 in der Mitte, dem Lorenz Lo36Lo unten und dem "modernen" Siemens T68d von 1957 oben.
      Der Lorenz Handloch rechts oben gehört thematisch nicht dazu.
    </p>
 </div>

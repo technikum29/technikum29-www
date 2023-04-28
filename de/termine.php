@@ -35,7 +35,24 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">	
-		
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 1. JUN</p>
+	<h4>Führung Hochschule Fulda</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 1. Juni 2023
+		<dt>Uhrzeit
+		<dd>tbd
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>2 Besuchergruppen
+	</dl>
+</div><!--/.termin -->
+
+	
+	
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Mai</p>
 	<h4>allgemeiner Helfertag</h4> 

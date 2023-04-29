@@ -37,6 +37,20 @@
 <div id="termine">	
 	
 <div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 19. Jul</p>
+	<h4>Führung Peter R. UNIVAC 9400</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 19. Juli 2023
+		<dt>Uhrzeit
+		<dd>tbd
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 1. JUN</p>
 	<h4>Führung Hochschule Fulda</h4> 
 	<dl class="daten">

@@ -43,7 +43,7 @@
 		<dt>Tag
 		<dd class="termin">Mittwoch, 19. Juli 2023
 		<dt>Uhrzeit
-		<dd>tbd
+		<dd>10:00 - 13:00
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft

@@ -100,20 +100,6 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div><!--/.termin -->
-		
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 3. Mai</p>
-	<h4>Privatführung Mohanad R.</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Mittwoch, 3. Mai 2023
-		<dt>Uhrzeit
-		<dd>14:00 - 16:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 30. Apr</p>

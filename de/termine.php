@@ -57,7 +57,7 @@
 		<dt>Tag
 		<dd class="termin">Donnerstag, 1. Juni 2023
 		<dt>Uhrzeit
-		<dd>tbd
+		<dd>10:30 - 12:00 und 12:00 - 13:30
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>2 Besuchergruppen

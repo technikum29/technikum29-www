@@ -57,7 +57,7 @@
 		<dt>Tag
 		<dd class="termin">Montag, 12. Juni 2023
 		<dt>Uhrzeit
-		<dd>tbd
+		<dd>17:30 - 19:30
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft

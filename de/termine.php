@@ -49,9 +49,24 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 12. Jun</p>
+	<h4>Führung BDIS Team</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Montag, 12. Juni 2023
+		<dt>Uhrzeit
+		<dd>tbd
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 1. JUN</p>
+	<p class="date left"><em>2023</em> 1. Jun</p>
 	<h4>Führung Hochschule Fulda</h4> 
 	<dl class="daten">
 		<dt>Tag

@@ -82,7 +82,7 @@
 </div><!--/.termin -->
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 3.Jun</p>
+	<p class="date left"><em>2023</em> 3. Jun</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt

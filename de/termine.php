@@ -120,7 +120,7 @@
 		um eine Anmeldung per Mail !</b>
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag,20. Mai 2023
+		<dd class="termin">Samstag, 20. Mai 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung

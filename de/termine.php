@@ -35,7 +35,11 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">	
+<<<<<<< Updated upstream
 	
+=======
+
+>>>>>>> Stashed changes
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 19. Jul</p>
 	<h4>Führung Peter R. UNIVAC 9400</h4> 
@@ -98,7 +102,10 @@
 	</dl>
 </div><!--/.termin -->
 
+<<<<<<< Updated upstream
 	
+=======
+>>>>>>> Stashed changes
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 1. Jun</p>
 	<h4>Führung Hochschule Fulda</h4> 
@@ -112,7 +119,11 @@
 		<dd>2 Besuchergruppen
 	</dl>
 </div><!--/.termin -->
+<<<<<<< Updated upstream
 	
+=======
+
+>>>>>>> Stashed changes
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 20. Mai</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -130,6 +141,7 @@
 	</dl>
 </div><!--/.termin -->
 		
+<<<<<<< Updated upstream
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 6. Mai</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -445,6 +457,8 @@
 
 
 
+=======
+>>>>>>> Stashed changes
 </div><!--/#termine -->
 
 <div style="margin-top:3em">
@@ -477,6 +491,84 @@
 	-->
 
 	<div class="termine">
+	
+	<h2>2023</h2>
+	<p>2023 konnte endlich wieder ein regulärer Museumsbetrieb aufrecht erhalten werden mit einer Vielzahl von Führungen
+		und vielen erfolgreichen Instandsetzungen. Wir verzeichneten auch einen Zulauf an neuen Geräten.
+	</p>
+		</br>
+	<table class="termine">
+	<tr class="title">
+		<th style="width:9em">Datum
+		<th style="width:13em;">Titel
+		<th style="width:11em;">Typ
+		<th>Teilnehmer     
+	<tr>	
+		<td>Sa. 6.5.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Mo. 30.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Stephen P.<br>
+	<tr>	
+		<td>Fr. 28.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Karl W. (Q1)<br>
+	<tr>	
+		<td>Sa. 22.4.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Do. 20.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Julia R.<br>
+	<tr>	
+		<td>Sa. 8.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Joseph Brix Str. Wi<br>
+	<tr>	
+		<td>Sa. 8.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Thomas A. und Kerstin R.G<br>
+	<tr>	
+		<td>Di. 4.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Sanofi ICF ENG<br>
+	<tr>	
+		<td>So. 2.4.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Stephanie P.<br>
+	<tr>	
+		<td>Fr. 31.3.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Karin L.<br>
+	<tr>	
+		<td>Mi. 29.3.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Sanofi Ingo B.<br>
+	<tr>	
+		<td>Sa. 25.3.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Mo. 13.3.2023
+		<td>Computer-History<br>	
+		<td>Privatführung Sanofi ICF ENG<br>
+	<tr>	
+		<td>Sa. 11.3.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Sa. 25.2.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Sa. 11.2.2023
+		<td>Helfertag<br>		
+	<tr>	
+		<td>Do. 2.3.2023
+		<td>Computer-History<br>
+		<td>Privatführung Felix Z.<br>
+	<tr>	
+		<td>Sa. 14.1.2023
+		<td>Helfertag<br>
+	</table>
 
 	<h2>2022</h2>
 	<p>2022 stand der Museumsbetrieb im Zeichen der Auflösung verschiedener Außendepots und der Neuausrichtung der Ausstellung.

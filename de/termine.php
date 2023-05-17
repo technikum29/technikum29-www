@@ -49,7 +49,22 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-		
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 4. Jul</p>
+	<h4>Führung Heinz Nixdorf MuseumsForum</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 4. Juli 2023
+		<dt>Uhrzeit
+		<dd>13:00 - 16:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 17. Jun</p>
 	<h4>allgemeiner Helfertag</h4> 

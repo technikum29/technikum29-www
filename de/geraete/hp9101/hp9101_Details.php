@@ -10,217 +10,136 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Juni 2023
+	Stand: 5. Juni 2023
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zur hp9101 Speichererweiterung und die Wiederinbetriebnahme der Maschine.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+<h3>Herkunft unserer hp9101-Speichererweiterung</h3>
 
-	<p> *** wird fortgesetzt *** 
-		</p>
-
-
-
-
-<!--
-
-<h3>Herkunft unserer MAEL</h3>
-
-<p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 
-	<a href="/blog/2022-06-06-Neuzugaenge-Kassel-2022.php">Ankunft im technikum29</a>.
+<p>Im Juni 2023 kam die hp9101 als Leihgabe ins Museum. Der Leihgeber erwarb sie auf einer Kleinanzeigenplattform.
 </p>
 
-<h3>Aufbau unserer MAEL</h3>
 
-<p>Unsere MAEL Zentraleinheit besteht aus einer MAEL 4000 Calculating Unit 4000 SerNo 21403. In diesem Rack befinden sich neben dem Netzteil
-	und dem Kernspeicher (100R 1000) 10 Platinen:</p>
-<p>
-</p>
-<table>
-	<tr>
-		<td>SQR</td>		<td>P050 A</td>
-		</tr>
-	<tr>
-		<td>DIV</td>		<td>P049 A</td>
-		</tr>
-	<tr>
-		<td>MTP2</td>		<td>P044 A</td>
-		</tr>
-	<tr>
-		<td>AOP</td>		<td>P042 B</td>
-		</tr>
-	<tr>
-		<td>PRT</td>		<td>P040 B</td>
-		</tr>
-	<tr>
-		<td>COD</td>		<td>P031 B</td>
-		</tr>
-	<tr>
-		<td>JMP</td>		<td>P030 B</td>
-		</tr>
-	<tr>
-		<td>SRG</td>		<td>P041 C</td>
-		</tr>
-	<tr>
-		<td>CLK</td>		<td>51-001-14</td>
-		</tr>
-	<tr>
-		<td>ARU</td>		<td>P026 A</td>
-		</tr>
+<h3>Aufbau und Funktion der hp9101-Speichererweiterung</h3>
 
-</table>
-<p>
-</p>
-In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben dem Netzteil noch 4 weitere Platinen:
-<p>
-</p>
-<table>
-	<tr>
-		<td>HSR329</td>	<td>P054 I</td>
-		</tr>
-	<tr>
-		<td>FPR</td>		<td>P052 B</td>
-		</tr>
-	<tr>
-		<td>DRV</td>		<td>P039 A</td>
-		</tr>
-	<tr>
-		<td>TIM</td>		<td>P055 A</td>
-		</td>
-</table>
-<p>
-</p>
-<p>
+<p>1970 brachte Hewlett Packard diese Speichererweiterung für die Tischrechner 9100A und B heraus. Sie enthält einen Kernspeicher mit 
+	20832 Bit, ausreichend für 248 zusätzliche Datenregister oder 3472 zusätzliche Programmschritte. Auf die Datenregister kann durch FMT-Befehle von dem 9100-Rechner 
+	zugegriffen werden, alle 248 Register stehen auch für direkte Speicherarithmetik (+ - * / ) zur Verfügung und sie können auch indirekt adressiert 
+	werden. <br>
+	Da Programme nur im Kernspeicher des 9100A/B ausgeführt werden können, werden Programme und Unterprogramme dort erstellt und als Programmmodule 
+	in die Speichererweiterung ausgelagert. Bei Bedarf läd die 9101 Unterprogramme in den Hauptrechner und erlaubt bis zu 14 Ebenen für Unterprogramme. 
+	Ferner können Speicherbereiche in der 9101 gegen Änderung geschützt werden. Alles in allem eine mächtige Erweiterung der Fähigkeiten der 9100er Rechner !<br>
+	Unsere Maschine ist Baujahr 1971 (Datum-Codes auf den ICs) und hat die Serien-Nr 0980A00880.
 </p>
 
-<h3>einige Detailbilder unserer MAEL</h3>
+<h3>einige Detailbilder unserer 9101</h3>
 
 	<p>Zum Vergrößern der Bilder bitte anklicken</p>
 
 <div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_innen2.jpeg" width="200"  height="267"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_total_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_total.jpeg" width="230"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_Rueckseite.jpeg" width="302"  height="118"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="230"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_Rueckseite.jpeg" width="320"  height="118"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_rueck_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_rueck.jpeg" width="230"  />
 	</a>
-		<p class="bildtext"><b>MAEL 4000</b> Zentral- und Erweiterungseinheit im Tischkabinett</p>
+		<p class="bildtext"><b>hp9101</b> Gesamtansicht (li), Front (mi) und Rückansicht (re)</p>
 	</div>
 
-<p>
-</p>
-<p>
-</p>
 <div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen.jpeg" width="213"  height="194"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_Chassis_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_Chassis.jpeg" width="200"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen2.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen2.jpeg" width="342"  height="194"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_Chassis_leer_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_Chassis_leer.jpeg" width="184"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen3.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4000_innen3.jpeg" width="225"  height="194"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_manuals_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_manuals.jpeg" width="300"  />
 	</a>
-		<p class="bildtext"><b>MAEL 4000</b> Blick in die Zentraleinheit</p>
-	</div>
-<p>
-</p>
-<p>
-</p>
-<div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SQR.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SQR.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DIV.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DIV.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_MTP2.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_MTP2.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_AOP.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_AOP.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_PRT.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_PRT.jpeg" width="150"  height="77"/>
-	</a>
-		<p class="bildtext"><b>MAEL 4000</b> Platinen der Zentraleinheit: SQR, DIV, MTP2, AOP und PRT</p>
-	</div>
-<p>
-</p>
-<p>
-</p>
-<div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_COD.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_COD.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_JMP.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_JMP.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SRG.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_SRG.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_CLK.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_CLK.jpeg" width="150"  height="77"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_ARU.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_ARU.jpeg" width="150"  height="77"/>
-	</a>
-		<p class="bildtext"><b>MAEL 4000</b> Platinen der Zentraleinheit: COD, JMP, SRG, CLK und ARU</p>
-	</div>
-<p>
-</p>
-<p>
-</p>
-
-<div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen2.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen2.jpeg" width="180"  height="150"/>
-	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen3.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_4001_innen3.jpeg" width="570"  height="150"/>
-	</a>
-		<p class="bildtext"><b>MAEL 4001</b> Blick in die Erweiterungseinheit</p>
+		<p class="bildtext"><b>hp9101</b> Chassis mit Platinen (li), Chassis leer (mi) und Manuals (re)</p>
 	</div>
 
-<p>
-</p>
-<p>
-</p>
 <div class="box center"> 
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_HSR.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_HSR.jpeg" width="150"  height="77"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_1f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_1f.jpeg" width="80"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_FPR.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_FPR.jpeg" width="150"  height="77"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_2f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_2f.jpeg" width="80"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DRV.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_DRV.jpeg" width="150"  height="77"/>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_3f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_3f.jpeg" width="80"  />
 	</a>
-		 <a  href="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_TIM.jpeg" class="popup">
-		<img src="/de/geraete/MAEL4000/MAEL4000_Bilder/MAEL4000_TIM.jpeg" width="150"  height="77"/>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_4f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_4f.jpeg" width="80"  />
 	</a>
-		<p class="bildtext"><b>MAEL 4001</b> Platinen der Erweiterungseinheiteinheit: HSR329, FPR, DRV, TIM</p>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_5f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_5f.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_6f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_6f.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_7f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_7f.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_8f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_8f.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_9f_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_9f.jpeg" width="80"  />
+	</a>
+		<p class="bildtext"><b>hp9101</b> Bestückungsseiten der einzelnen Platinen (von li nach re im Chassis), KLICK für grosses Bild !</p>
 	</div>
-<p>
-</p>
-<p>
-</p>
-<h3>Wiederinbetriebnahme der Anlage</h3>
+
+<div class="box center"> 
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_1r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_1r.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_2r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_2r.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_3r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_3r.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_4r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_4r.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_5r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_5r.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_6r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_6r.jpeg" width="80"  />
+	</a>
+		<a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_7r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_7r.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_8r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_8r.jpeg" width="80"  />
+	</a>
+		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_9r_gr.jpeg" class="popup">
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_PCB_9r.jpeg" width="80"  />
+	</a>
+		<p class="bildtext"><b>hp9101</b> Lotseiten der einzelnen Platinen (von li nach re im Chassis), KLICK für grosses Bild !</p>
+	</div>
 
 
-	<p>______________________
-		<p/>
+<h3>Status der 9101</h3>
+	<p>Die 9101 war in optisch sehr gutem Zustand. Sie wurde vom Staub der Jahrzehnte gereinigt, dann wurde das Chassis ohne Platinen über Regel-Trenntrafo 
+	in Betrieb genommen. Die 4 Versorgungsspannungen waren im Soll: +15V (15.28V), -2.4 V (-2.436 V), -5 V (-5.027 V) und -15 V (-15.19 V). Mit eingebauten 
+	Platinen an einen 9100A angeschlossen: Es konnten ohne Probleme Register angesprochen und geändert/ausgelesen werden. <b>In den Grundfunktionen ist das 
+	Gerät betriebsbereit.</b><br>
+	Weitere Tests mit Programmein- und -auslagerung stehen noch an, ebenso die Durchführung des 9101er-Testprogramms aus der Program Library. Es muss leider 
+	eingetippt werden, da die zum 9101 gehörende Magnetkarte mit dem Diagnoseprogramm fehlt.
+	</p>
+
+
 	<p> *** wird fortgesetzt *** 
 		</p>
 
-<h3>Broschüren und Manuals zum Download</h3>
 
-<p>zum Download unserer Scans geht es <a href="/de/geraete/MAEL4000/MAEL4000_PDFs">hier</a>
-</p>
--->
 

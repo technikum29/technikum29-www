@@ -47,7 +47,7 @@
 		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="230"  />
 	</a>
 		 <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_rueck_gr.jpeg" class="popup">
-		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_rueck.jpeg" width="260"  />
+		<img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_rueck.jpeg" width="255"  />
 	</a>
 		<p class="bildtext"><b>hp9101</b> Gesamtansicht (li), Front (mi) und Rückansicht (re)</p>
 	</div>

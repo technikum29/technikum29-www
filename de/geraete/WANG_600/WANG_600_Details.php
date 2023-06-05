@@ -10,13 +10,41 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Juni 2023
+	Stand: 5. Juni 2023
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer WANG 600 und die Wiederinbetriebnahme der Maschine.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+<h3>ROM-Module für den WANG 600 Rechner</h3>
+
+<p>Wir haben im Museum 2 ROM-Module für den 600er: ein Statistik-ROM und ein Advanced Statistik-ROM. Der Schutzdeckel über dem ROM-Port und die 
+	ROMs werden mit großen Druckknöpfen befestigt, zum Abnehmen muß man "beherzt" zupacken ! Details zeigen die Bilder:
+</p>
+
+	<p>Zum Vergrößern der Bilder bitte anklicken</p>
+
+<div class="box center"> 
+		 <a  href="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_ROM_Steckplatz_gr.jpeg" class="popup">
+		<img src="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_ROM_Steckplatz.jpeg" width="230"  />
+	</a>
+		 <a  href="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_ext_ROMs_gr.jpeg" class="popup">
+		<img src="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_ext_ROMs.jpeg" width="150"  />
+	</a>
+			 <a  href="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_Stat_ROM_pcb_gr.jpeg" class="popup">
+		<img src="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_Stat_ROM_pcb.jpeg" width="180"  />
+	</a>
+			 <a  href="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_Adv_Stat_ROM_pcb_gr.jpeg" class="popup">
+		<img src="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_Adv_Stat_ROM_pcb.jpeg" width="180"  />
+	</a>
+		<p class="bildtext"><b>WANG 600 </b>ROM-Steckplatz, ROMs, Platine des Stat ROMs und des Adv Stat ROMs</p>
+	</div>
+
+<p>Die ROMs waren auf der Stecker/Platinenseite offen und mit schwarzen Schaumgummistreifen versehen. Diese hatten sich im Lauf der 
+	Zeit zu einem Schmier aufgelöst. Die Bilder zeigen den Zustand nach der Reinigung mit Seifenlauge und Isopropanol. Beim Adv. Stat. 
+	ROM hatte ein Vorbesitzer eine Pappkarte vor die Platine gesetzt, wahrscheinlich, um den Rechner nicht zu verschmutzen.
+	</p>
 
 	<p> *** wird fortgesetzt *** 
 		</p>

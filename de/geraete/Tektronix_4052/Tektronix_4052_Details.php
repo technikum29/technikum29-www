@@ -1,7 +1,7 @@
 <?php
-	$seiten_id = 'TA1000';
+	$seiten_id = 'Tektronix 4052';
 	$version = '$Id';
-	$titel = 'TA1000';
+	$titel = 'Tektronix 4052';
 	
 	require '../../../lib/technikum29.php';
 ?>
@@ -10,13 +10,22 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Sept. 2022
+	Stand: Juni 2023
 </p>
 
-	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer TA1000 und die Wiederinbetriebnahme der Maschine.
+	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu dem Basic-Computer Tektronix 4052 und der zugehörigen 
+	Hardcopyeinheit Tektronix 4631 und die Wiederinbetriebnahme der Maschine.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+
+
+	<p> *** wird fortgesetzt *** 
+		</p>
+		
+		
+
+<!--
 <h3>Wie kam die TA1000 ins technikum29?</h3>
 <p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 
 	<a href="/blog/2022-06-06-Neuzugaenge-Kassel-2022.php">Ankunft im technikum29</a>.
@@ -79,3 +88,4 @@
 
 <p>zum Download unserer Scans zur TA1000 geht es <a href="/de/geraete/TA1000/TA1000_PDFs">hier</a>
 </p>
+-->

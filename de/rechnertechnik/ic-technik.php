@@ -44,10 +44,19 @@ Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vo
         <img src="/shared/photos/rechnertechnik/wang700-anlage.jpg" alt="WANG 700" height="438" width="600">
         <p class="bildtext">Komplettanlage<b> WANG 700</b></p></div>
 			
-		<p>Diese Anlage mit umfangreicher Peripherie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.<br>
-        Links befindet sich der Rechner mit einem zweizeiligen gro&szlig;en Nixier&ouml;hren-Display, 2 kB Kernspeicher und eingebautem Kassettentape zur Programmaufzeichnung. Dieser Rechner war für Jahre der schnellste Tischrechner der Welt.
-        <a class="go popup" href="/shared/photos/rechnertechnik/wang700-detail.jpg">Großaufnahme des Rechners betrachten</a>
-        <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umst&auml;ndlich. Das Plotterprogramm z.B. beinhaltet 794 (!) Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre sp&auml;ter ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 36 Schritten bew&auml;ltigen.
+	<p>1970 brachte die Firma WANG das Modell 700 als Antwort auf den 1968 eingeführten Tischrechner 
+		<a class="go" href="/de/rechnertechnik/programmierbare.php#Hewlett_Packard_HP_9100"> hp9100</a> auf den Markt.<br>
+		Unsere Anlage mit umfangreicher Peripherie ist ein Einzelstück, welches 1970 für den Fachbereich "Didaktik der Mathematik" einer Universität in 
+		dieser Form zusammengestellt wurde. Die Studenten der "reinen" Mathematik mussten sich mit der knapp bemessenen Rechenzeit im Rechenzentrum begnügen, 
+		während ausgerechnet die Didaktikstudenten einen "Personalcomputer" benutzen durften. Das gab natürlich Ärger.<br>
+        Links befindet sich der Rechner<a class="go popup" href="/shared/photos/rechnertechnik/wang700-detail.jpg">WANG 700B</a> mit einem zweizeiligen großen Nixieröhren-Display, 1 kB Kernspeicher und eingebautem Kassettentape zur 
+        Programmaufzeichnung. Dieser Rechner war für Jahre der schnellste Tischrechner der Welt.
+        <br/> In der Mitte ist der Markierungskartenleser zu sehen, dahinter steht (nicht sichtbar) der manuelle Lochkartenleser. Ganz rechts ist eine von 
+        WANG erweiterte IBM Kugelkopfmaschine mit Schrittschaltmotoren eingebaut, die auch plotten kann. Unter dem Rechner befindet sich eine alphanumerische 
+        Tastatur, mit welcher auch Text eingegeben und gespeichert werden kann. Ganz unten ist ein zusätzliches Kassetten-Doppellaufwerk mit formatierten 
+        Bändern eingebaut. Die Programmierung, eine numerische Assemblersprache, war sehr umständlich. Das Plotterprogramm z.B. beinhaltet 794 (!) 
+        Programmschritte. Ein HP-Rechner (z.B. 9830) konnte zwei Jahre später ein wesentlich komfortableres Plotterprogramm (HP-Basic) mit ganzen 
+        36 Schritten bewältigen.
         </p>
          
 	<h3 id="wang500">WANG 500</h3>
@@ -55,11 +64,57 @@ Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vo
 		 <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/wang500.jpg" alt="WANG 500 mit Markierungskartenleser" width="650" height="388"/>
 		<p class="bildtext"><b>WANG 500</b> mit Markierungskartenleser</p></div>
+		
 		<p>Die Typenbezeichnungen von WANG sind etwas gewöhnungsbedürftig. Die Rechner erschienen in folgender Reihenfolge: 700, 500, 600, 400.<br>
-		Der Wang 500 (Baujahr 1971) ist ein abgespeckter 700. Die wichtigsten wissenschaftlichen Funktionen standen hardwaremäßig per gefädeltem ROM zur Verfügung und mussten nicht, wie beim Typ 700 mit Kassette geladen werden. Oben links wurde ein kleiner Trommeldrucker eingebaut (Olivetti P 101 hatte diesen schon 1966). Das Kassettenlaufwerk zum Aufzeichnen von Programmen entspricht dem des Typs 700.
-		Mit dem angeschlossenen Markierungskartenleser (anstelle ausgestanzter Löcher werden Felder per Hand geschwärzt) war der Rechner auch für Schulen und Universitäten ideal nutzbar. Offline konnten beliebig viele Anwender Programme auf Karten markieren und dann mit einem einzigen Rechner testen.<br>
-		Wang bot den Rechner als "The World´s Second Most Powerful Calculator" an (der erste war Wang 700). Dies kann sich nur auf die Rechengeschwindigkeit bezogen haben, denn der HP 9100 war universeller einsetzbar.	Das Modell ist sehr selten, da es schon nach kurzer Zeit vom Wang 600 abgelöst wurde. Der abgebildete Rechner ist neu und unbenutzt. Er wurde vor vielen Jahren im Keller eines ursprünglichen Verkaufslagers von Wang entdeckt und fand schließlich den Weg "unberührt" von der Herstellung ins Museum. Daher sieht er aus wie aus dem Ei gepellt, eben nagelneu und doch über 45 Jahre alt.<br>
+		Der Wang 500 (Baujahr 1971) ist ein abgespeckter 700. Die wichtigsten wissenschaftlichen Funktionen standen hardwaremäßig per gefädeltem ROM zur 
+		Verfügung und mussten nicht, wie beim Typ 700 mit Kassette geladen werden. Oben links wurde ein kleiner Trommeldrucker eingebaut (Olivetti P 101 
+		hatte diesen schon 1966). Das Kassettenlaufwerk zum Aufzeichnen von Programmen entspricht dem des Typs 700.
+		Mit dem angeschlossenen Markierungskartenleser (anstelle ausgestanzter Löcher werden Felder per Hand geschwärzt) war der Rechner auch für Schulen 
+		und Universitäten ideal nutzbar. Offline konnten beliebig viele Anwender Programme auf Karten markieren und dann mit einem einzigen Rechner testen.<br>
+		Wang bot den Rechner als "The World´s Second Most Powerful Calculator" an (der erste war Wang 700). Dies kann sich nur auf die Rechengeschwindigkeit 
+		bezogen haben, denn der HP 9100 war universeller einsetzbar.	Das Modell ist sehr selten, da es schon nach kurzer Zeit vom Wang 600 abgelöst wurde. 
+		Der abgebildete Rechner ist neu und unbenutzt. Er wurde vor vielen Jahren im Keller eines ursprünglichen Verkaufslagers von Wang entdeckt und fand 
+		schließlich den Weg "unberührt" von der Herstellung ins Museum. Daher sieht er aus wie aus dem Ei gepellt, eben nagelneu und doch über 45 Jahre alt.<br>
+		<b>Nachtrag 2023: </b>im Depot des technikum29 befinden sich 2 andere WANG 500. Der Verbleib des oben beschriebenen Rechners konnte nach dem Tod von Heribert leider 
+		nicht geklärt werden. Wir lassen diesen Beitrag dennoch hier stehen.
 		</p>
+		
+		
+	<h3 id="wang600">WANG 600</h3>
+		 
+		 <div class="box center auto-bildbreite">
+		 <a  href="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_front_gr.jpeg" class="popup">
+        <img src="/de/geraete/WANG_600/WANG_600_Bilder/WANG_600_front_mi.jpeg" alt="WANG 600" width="500" height="511"/>
+		<p class="bildtext"><b>WANG 600</b> </p></div>
+		 </a>
+		<p>Der WANG 600 von 1971 stellt eine überarbeitete WANG 700 dar: im gleichen Grundgehäuse konnte dank höherer Integration der Bauelemente nun ein Drucker 
+		eingebaut werden. Moderner Halbleiterspeicher ersetzte den Kernspeicher, die Nixieröhren wurden durch eine kompakte einzeilige Anzeige ersetzt. Der Speicher für 
+		Daten und Programme betrug je nach gewählter Option 1, 2 oder 4 kB.<br>
+		Der WANG 600 blieb kompatibel zu allen Peripheriegeräten der 700ter Serie. Auf der Gehäuseoberseite (rechts hinten) befindet sich ein Steckplatz für zusätzliche 
+		ROM-Module. Details dazu stellen wir  <a class="go" href="/de/geraete/WANG_600/WANG_600_Details.php">hier</a> vor.
+		</p>
+		
+	
+		<h3 id="wang450">WANG 450</h3>
+		 
+		 <div class="box center auto-bildbreite">
+		  <a  href="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_gr.jpeg" class="popup">
+        <img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_mi.jpeg" alt="WANG 450" width="300" height="405"/>
+		<p class="bildtext"><b>WANG 450</b></p></div>
+		  </a>
+		  
+		<p>Mit der Serie 400 brachte WANG 1972 die letzte Generation seiner Tischrechner auf den Markt. Der rasante technische Fortschritt der letzten Jahre
+		ermöglichte es, die Architektur der WANG 600 in wesentlich kompakterer Form anzubieten. Technische Neuerungen wie LSI-MOS Halbleiterspeicher ersetzten 
+		Kernspeicher und Fädel-ROMs. Über eine Schnittstelle an der Geräterückseite konnte ein Markierungskartenleser oder ein Lochkartenleser zur Daten- bzw. 
+		Programmeingabe eingesetzt werden.<br>
+		Unser Modell 450-1 Scientific stellt umfangreiche wiss. Funktionen bereit, hat 56 Speicherregister und ist mit bis zu 320 Programmschritte programmierbar.<br>
+		Details zu diesem Modell finden sie  <a class="go" href="/de/geraete/WANG_450/WANG_450_Details.php">hier</a>
+		</p>
+		
+			
+		
+		
+		
 		
          
     <h3 id="diehl">Diehl Combitronic</h3>

@@ -1,5 +1,5 @@
 <?php
-	$seiten_id = 'WANG 450;
+	$seiten_id = 'WANG 450';
 	$version = '$Id';
 	$titel = 'WANG 450';
 	
@@ -19,9 +19,10 @@
 
 
 
+	<p> *** wird fortgesetzt *** 
+		</p>
 
-
-
+<!--
 
 
 <h3>Herkunft unserer MAEL</h3>
@@ -221,4 +222,4 @@ In einem 2. Rack, der MAEL Interface Unit 4001 SerNo 22735 befinden sich neben d
 <p>zum Download unserer Scans geht es <a href="/de/geraete/MAEL4000/MAEL4000_PDFs">hier</a>
 </p>
 
-
+-->

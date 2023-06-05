@@ -80,7 +80,36 @@
 		<br>
 		Für Privatleute war dieser Rechner fast unerschwinglich: 1978 lag der Preis bei über 20.000 DM, ein FORD Capri Sportcoupè war dagegen schon für knapp 12.000 DM zu haben.<br>
 		
-		<p class="bildtext small">Dieser sehr gut erhaltene Computer ist Zurzeit nicht funktionsfähig. Wir sind bereit ihn gegen ein anderes Exponat zu tauschen, welches zu unserem Museum passt und in etwa gleichwertig ist. Bitte setzen Sie sich bei Interesse mit uns in Verbindung. </p><br>
+		
+		<h3 id="Tektronix4052"><b>Tektronix 4052</b></h3><br>
+
+	<div class="box center"> 
+		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_gr.jpeg" class="popup">
+		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_kl.jpeg" width="400" height="345"/>
+		</a>
+		<p class="bildtext"><b>Basic-Computer Tektronix 4052</b></p>
+	</div>
+	
+	<p>1978 brachte die Firma Tektronix einen Tischcomputer auf den Markt, den wir wegen seiner interessanten technischen Details
+		hier aufführen möchten.<br>
+		Das <b>Modell 4052</b> nutzte zur Ausgabe eine
+		Speicherbildröhre. Die Technologie hierfür hatte Tektronix schon früher für Speicheroszilloskope eingesetzt. Bei einer herkömmlichen Bildröhre 
+		regt der Elektronenstrahl einen Leuchtstoff zum Leuchten an. Die Nachleuchtdauer des Leuchstoffs liegt im ms-Bereich, das Bild muss also periodisch immer 
+		wieder geschrieben werden. Bei einer Speicherbildröhre schreibt der Elektronenstrahl einmalig ein Ladungsbild auf den Schirm, das durch eine besondere Konfiguration 
+		der Bildröhrenelektroden den Schirm zu dauerhaftem Leuchten anregt und bei Bedarf wieder gelöscht werden kann. Der Vorteil dieser Technik war, das kein extra Bildspeicher 
+		für die Ausgabe benötigt wird. In einer Zeit, als Halbleiterspeicher teuer war, war die Einsparung von ca 3/4 MBit Speicher (für 
+		1024*780 s/w-Bildpunkte) von froßer Bedeutung !<br>
+		Statt wie beim Vorgänger 4051 nutzt die 4052 keine 6800 CPU, sondern simuliert diese mittels Bit-Slice-Technologie, was dem Gerät einen 
+		deutlichen Geschwindigkeitsvorteil einbrachte.<br>
+		Die hervorragenden Grafikfähigkeiten, die bequeme Programmierung mittels BASIC, die Möglichkeit der Programmerweiterung mittels ROM-Steckmodule, die eingebaute 
+		Magnetbandcassette zur Datenspeicherung und eine integrierte Schnittstelle zur Ansteuerung von Messgeräten und Peripherie machten das Gerät sehr attraktiv für den
+		technischen Einsatz<br>
+		Zu dem Rechner haben wir auch eine <b>Hardcopyeinheit Modell 4631</b>, mit der Kopien des Speicherbildröhreninhalts auf Spezialpapier erstellt werden konnten. Details hierzu 
+		und zum 4052 werden wir  <a class="go" href="/de/geraete/Tektronix_4052/Tektronix_4052_Details.php">hier</a> vorstellen.
+		</p>
+	
+	
+	
 	
 	<h3 id="kim1"><b>KIM-1</b></h3><br>
 

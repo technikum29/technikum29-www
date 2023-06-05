@@ -27,7 +27,7 @@
 
 <p>1970 brachte Hewlett Packard diese Speichererweiterung für die Tischrechner 9100A und B heraus. Sie enthält einen Kernspeicher mit 
 	20832 Bit, ausreichend für 248 zusätzliche Datenregister oder 3472 zusätzliche Programmschritte. Auf die Datenregister kann durch FMT-Befehle von dem 9100-Rechner 
-	zugegriffen werden, alle 248 Register stehen auch für direkte Speicherarithmetik (+ - * / ) zur Verfügung und sie können auch indirekt adressiert 
+	aus zugegriffen werden, alle 248 Register stehen auch für direkte Speicherarithmetik (+ - * / ) zur Verfügung und sie können auch indirekt adressiert 
 	werden. <br>
 	Da Programme nur im Kernspeicher des 9100A/B ausgeführt werden können, werden Programme und Unterprogramme dort erstellt und als Programmmodule 
 	in die Speichererweiterung ausgelagert. Bei Bedarf läd die 9101 Unterprogramme in den Hauptrechner und erlaubt bis zu 14 Ebenen für Unterprogramme. 

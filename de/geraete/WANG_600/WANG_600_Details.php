@@ -1,7 +1,7 @@
 <?php
-	$seiten_id = 'MAEL 4000';
+	$seiten_id = 'WANG 600';
 	$version = '$Id';
-	$titel = 'MAEL 4000';
+	$titel = 'WANG 600';
 	
 	require '../../../lib/technikum29.php';
 ?>
@@ -10,12 +10,19 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Sept. 2022
+	Stand: Juni 2023
 </p>
 
-	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer MAEL und die Wiederinbetriebnahme der Maschine.
+	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer WANG 600 und die Wiederinbetriebnahme der Maschine.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
+
+
+
+
+
+
+
 <h3>Herkunft unserer MAEL</h3>
 
 <p>Hier Links zur <a href="/blog/2022-04-27-Neuzugaenge.php">Herkunft</a> und zur 

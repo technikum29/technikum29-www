@@ -41,11 +41,11 @@
 	Ein DC300 Bandlaufwerk dient der Datenspeicherung.<br>
 	Mit der komfortablen Programmierung in BASIC, dem GPIB-Anschluß für z.B. Meßgeräte und der hohen Grafikauflösung war der
 	Rechner ideal für den Einsatz in Labor und Fertigung.<br><br>
-	Due Hardcopy-Einheit 4361 ermöglicht die Ausgabe des Bildschirminhalts des 4052 auf einem Spezialpapier. Das Gerät enthält 
+	Due Hardcopy-Einheit 4631 ermöglicht die Ausgabe des Bildschirminhalts des 4052 auf einem Spezialpapier. Das Gerät enthält 
 	eine Bildröhre mit nur einer Zeile. Das Computerbild wird zeilenweise abgetastet und auf dieser "eindimensionalen" Bildröhre 
 	wiedergegeben. An dieser Bildröhre wird ein silberhaltiges Spezialpapier vorbei geführt, dabei entsteht ein latentes Abbild des 
 	Computerbildschirms. Das Papier wird in einer anschließenden Heizstation entwickelt und fixiert.<br>
-	Das Spezialpapier ist schon lange nicht mehr lieferbar. In unser 4361 befindet sich noch eine angefangene Rolle hiervon. Und 
+	Das Spezialpapier ist schon lange nicht mehr lieferbar. In unser 4631 befindet sich noch eine angefangene Rolle hiervon. Und 
 	wir erhielten eine noch ungeöffnete Ersatzrolle. Tektronix gab für dieses Papier eine max. Lagerzeit von 6 Monaten an, 
 	damit schwindet die Hoffnung, dass wir noch Kopien werden erstellen können.
 </p>
@@ -64,7 +64,7 @@
 		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_hinten_gr.jpeg" class="popup">
 		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_hinten_kl.jpeg" width="240" />
 	</a>
-		<p class="bildtext"><b>4052</b> Rechner mit Hardcopy-Einheit 4361 (li), Front 4052 (mi), Rückseite 4052 (re)</p>
+		<p class="bildtext"><b>4052</b> Rechner mit Hardcopy-Einheit 4631 (li), Front 4052 (mi), Rückseite 4052 (re)</p>
 	</div>
 
 <div class="box center"> 

@@ -12,7 +12,7 @@
 
 <p>In den letzten Monaten erreichten uns einige Neuzugänge im technikum29, die wir hier kurz vorstellen möchten. <br><br>
 	Von Firma Hammann (Hassloch, Pfalz) erhielten wir neben Ersatzteilen und viel Dokumentation zu alten BULL-Lochkartengeräten einen Rechner <a href="/de/rechnertechnik/personalcomputer.php#Tektronix4052">Tektronix 4052</a>  (der Link 
-	führt zu Gerätedetails auf unserer Webseite) zusammen mit einer zugehörigen Hardcopy-Einheit Typ 4361:
+	führt zu Gerätedetails auf unserer Webseite) zusammen mit einer zugehörigen Hardcopy-Einheit Typ 4631:
 	</p>
 	
 	
@@ -26,7 +26,7 @@
 		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_Zubehoer_gr.jpeg" class="popup">
 		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_Zubehoer_kl.jpeg" width="230"  "/>
 	</a>
-		<p class="bildtext"><b>4052</b> Rechner mit Hardcopy-Einheit 4361 (li), Front 4052 (mi), Zubehör und Dokumentation (re)<br>Zum Vergrößern bitte das Bild anklicken !</p>
+		<p class="bildtext"><b>4052</b> Rechner mit Hardcopy-Einheit 4631 (li), Front 4052 (mi), Zubehör und Dokumentation (re)<br>Zum Vergrößern bitte das Bild anklicken !</p>
 	</div>
 
 <p>Über den Verein FITG eV erhielten wir einen funktionstüchtigen Tischrechner  <a href="/de/rechnertechnik/ic-technik.php#wang450">WANG 450-1</a>:

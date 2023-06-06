@@ -34,7 +34,7 @@
 		<img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_komplett.jpeg" width="290"  />
 	</a>
 	 	 <a  href="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_gr.jpeg" class="popup">
-		<img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front.jpeg" width="160"  />
+		<img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_kl.jpeg" width="160" />
 	</a>
 		 <a  href="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_offen_gr.jpeg" class="popup">
 		<img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_offen.jpeg" width="150"  />

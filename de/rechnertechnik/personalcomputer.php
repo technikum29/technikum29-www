@@ -85,7 +85,7 @@
 
 	<div class="box center"> 
 		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_gr.jpeg" class="popup">
-		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_kl.jpeg" width="400" height="345"/>
+		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_kl.jpeg" width="400" />
 		</a>
 		<p class="bildtext"><b>Basic-Computer Tektronix 4052</b></p>
 	</div>

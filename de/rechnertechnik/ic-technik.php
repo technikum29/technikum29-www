@@ -99,7 +99,7 @@ Zur Zeit wird sie restauriert, Recheneinheit und Schreibmaschine sind bereits vo
 		 
 		 <div class="box center auto-bildbreite">
 		  <a  href="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_gr.jpeg" class="popup">
-        <img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_mi.jpeg" alt="WANG 450" width="300" height="405"/>
+        <img src="/de/geraete/WANG_450/WANG_450_Bilder/WANG_450_front_mi.jpeg" alt="WANG 450" width="300" />
 		<p class="bildtext"><b>WANG 450</b></p></div>
 		  </a>
 		  

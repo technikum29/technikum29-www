@@ -114,7 +114,7 @@
 
 	<div class="box center"> 
 		<a  href="/shared/photos/rechnertechnik/KIM.jpg" class="popup">
-		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="214" height="320"/>
+		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="300" />
 		</a>
 	</div>
 

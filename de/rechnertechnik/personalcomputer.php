@@ -104,7 +104,7 @@
 		Die hervorragenden Grafikfähigkeiten, die bequeme Programmierung mittels BASIC, die Möglichkeit der Programmerweiterung mittels ROM-Steckmodule, die eingebaute 
 		Magnetbandcassette zur Datenspeicherung und eine integrierte Schnittstelle zur Ansteuerung von Messgeräten und Peripherie machten das Gerät sehr attraktiv für den
 		technischen Einsatz<br>
-		Zu dem Rechner haben wir auch eine <b>Hardcopyeinheit Modell 4631</b>, mit der Kopien des Speicherbildröhreninhalts auf Spezialpapier erstellt werden konnten. Details hierzu 
+		Zu dem Rechner haben wir auch eine <a class="go popup" href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_4631_gr.jpeg"><b>Hardcopy-Einheit 4631</b></a> , mit der Kopien des Speicherbildröhreninhalts auf Spezialpapier erstellt werden konnten. Details hierzu 
 		und zum 4052 werden wir  <a class="go" href="/de/geraete/Tektronix_4052/Tektronix_4052_Details.php">hier</a> vorstellen.
 		</p>
 	

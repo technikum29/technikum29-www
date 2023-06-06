@@ -87,7 +87,6 @@
 		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_gross.jpeg" class="popup">
 		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_mi.jpeg" width="400" />
 		</a>
-		<p class="bildtext"><b>Basic-Computer Tektronix 4052</b></p>
 	</div>
 	
 	<p>1978 brachte die Firma Tektronix einen Tischcomputer auf den Markt, den wir wegen seiner interessanten technischen Details
@@ -98,7 +97,7 @@
 		wieder geschrieben werden. Bei einer Speicherbildröhre schreibt der Elektronenstrahl einmalig ein Ladungsbild auf den Schirm, das durch eine besondere Konfiguration 
 		der Bildröhrenelektroden den Schirm zu dauerhaftem Leuchten anregt und bei Bedarf wieder gelöscht werden kann. Der Vorteil dieser Technik war, das kein extra Bildspeicher 
 		für die Ausgabe benötigt wird. In einer Zeit, als Halbleiterspeicher teuer war, war die Einsparung von ca 3/4 MBit Speicher (für 
-		1024*780 s/w-Bildpunkte) von froßer Bedeutung !<br>
+		1024*780 s/w-Bildpunkte) von großer Bedeutung !<br>
 		Statt wie beim Vorgänger 4051 nutzt die 4052 keine 6800 CPU, sondern simuliert diese mittels Bit-Slice-Technologie, was dem Gerät einen 
 		deutlichen Geschwindigkeitsvorteil einbrachte.<br>
 		Die hervorragenden Grafikfähigkeiten, die bequeme Programmierung mittels BASIC, die Möglichkeit der Programmerweiterung mittels ROM-Steckmodule, die eingebaute 
@@ -117,7 +116,6 @@
 		<a  href="/shared/photos/rechnertechnik/KIM.jpg" class="popup">
 		<img src="/shared/photos/rechnertechnik/KIM.jpg" width="214" height="320"/>
 		</a>
-		<p class="bildtext"><b>KIM-1 </b></p>
 	</div>
 
 	<p>Mit dem Aufkommen der Mikroprozessoren in den 70er Jahren boten die Hersteller sogenannte Einplatinencomputer an, damit sich die industrielle

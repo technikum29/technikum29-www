@@ -40,7 +40,14 @@
 	serielle Schnittstelle ist optional. Diese verwandelt die 4052 bei Bedarf in ein 4012-kompatibles Terminal.<br>
 	Ein DC300 Bandlaufwerk dient der Datenspeicherung.<br>
 	Mit der komfortablen Programmierung in BASIC, dem GPIB-Anschluß für z.B. Meßgeräte und der hohen Grafikauflösung war der
-	Rechner ideal für den Einsatz in Labor und Fertigung.
+	Rechner ideal für den Einsatz in Labor und Fertigung.<br><br>
+	Due Hardcopy-Einheit 4361 ermöglicht die Ausgabe des Bildschirminhalts des 4052 auf einem Spezialpapier. Das Gerät enthält 
+	eine Bildröhre mit nur einer Zeile. Das Computerbild wird zeilenweise abgetastet und auf dieser "eindimensionalen" Bildröhre 
+	wiedergegeben. An dieser Bildröhre wird ein silberhaltiges Spezialpapier vorbei geführt, dabei entsteht ein latentes Abbild des 
+	Computerbildschirms. Das Papier wird in einer anschließenden Heizstation entwickelt und fixiert.<br>
+	Das Spezialpapier ist schon lange nicht mehr lieferbar. In unser 4361 befindet sich noch eine angefangene Rolle hiervon. Und 
+	wir erhielten eine noch ungeöffnete Ersatzrolle. Tektronix gab für dieses Papier eine max. Lagerzeit von 6 Monaten an, 
+	damit schwindet die Hoffnung, dass wir noch Kopien werden erstellen können.
 </p>
 
 <h3>einige Detailbilder</h3>
@@ -88,7 +95,7 @@
 		kann die Funktion der CPU, der RAMs und der ROMs im Detail geprüft werden.<br>
 		Nach diesen Reparaturen lief der Rechner wieder. <br>
 		Das Magnetband-Laufwerk spult Bänder zwar vor und zurück, versagt aber beim Lesen. Darum müssen wir uns noch 
-		kümmern.<br>
+		kümmern.</p>
 	
 	
 	<div class="box center"> 
@@ -98,6 +105,8 @@
 		
 		<p class="bildtext">Bildschirmausgabe des Diagnostic-Moduls: CRC-Test der ROMs<br>Die Ausgabe zeigt den defekten ROM-Zustand an (falsche CRC-Werte in der 3. und 8. Zeile)</p>
 	</div>
+<p>Die Hardcopystation hat noch einen Fehler im Netzteil und wartet auf die Reparatur ...
+	</p>
 		
 		<p/>
 	<p> *** wird fortgesetzt *** 

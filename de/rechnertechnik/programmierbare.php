@@ -109,15 +109,18 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 
 	<div class="box center">
    <a  href="/shared/photos/rechnertechnik/hp9100-display.jpg" class="popup">
-      <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" width="300">
-	
+      <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" width="250">
+   </a>
+    <a  href="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_kl.jpeg" width="200
+      " ">
    </a>
    <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="410
+      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="310
       " ">
    </a>
   </div>
-  <p class="center"><b>HP 9100 Bildröhrendisplay (li), Speicherweiterung hp9101 (re)</b></p>
+  <p class="center"><b>HP 9100 Bildröhrendisplay (li), Ausdruck auf 9120 (mi), Speicherweiterung hp9101 (re)</b></p>
 
 
 

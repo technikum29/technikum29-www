@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 6. Juni 2023
+	Stand: 12. Juni 2023
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu dem Tektronix 4052 und der zugehörigen 
@@ -100,14 +100,35 @@
 	
 	<div class="box center"> 
 		<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_CRC_Test_gr.jpeg" class="popup">
-		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_CRC_Test_kl.jpeg" width="400"  "/>
+		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_CRC_Test_kl.jpeg" width="300"  "/>
+	</a>
+	<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_gross.jpeg" class="popup">
+		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_vorne_mi.jpeg" width="370"  "/>
 	</a>
 		
-		<p class="bildtext">Bildschirmausgabe des Diagnostic-Moduls: CRC-Test der ROMs<br>Die Ausgabe zeigt den defekten ROM-Zustand an (falsche CRC-Werte in der 3. und 8. Zeile)</p>
+		<p class="bildtext"><b>links: </b>Bildschirmausgabe des Diagnostic-Moduls: CRC-Test der ROMs. Die Ausgabe zeigt den defekten ROM-Zustand an (falsche CRC-Werte in der 3. und 8. Zeile)
+		<br><b>rechts: </b>Tektronix 4052 im BASIC-Modus mit gemischter Text- und Grafikdarstellung</p>
 	</div>
 <p>Die Hardcopystation hat noch einen Fehler im Netzteil und wartet auf die Reparatur ...
 	</p>
+	
+<h3>Option 01: serielle Schnittstelle</h3>
+	
+	<p>Unser Gerät hat die Option 01 "serielle Schnittstelle" eingebaut. In den Terminallmodus gelangt man mit dem BASIC-Befehl 'CALL "TERMIN" '.
+	Wenn keine Gegenstelle angeschlossen ist, leuchten die BUSY und die IO Lampe im Wechsel und das Gerät gibt ein Klacken von sich. Der Zustand ist nur
+	durch ein RESET (an dem Diagnosemodul) zu beenden oder durch Ausschalten. Für den Betrieb ist es wichtig, an der Buchse der ser. Schnittstelle die 
+	Leitungen 4-5 und 8-20 zu verbinden. Damit wird der Schnittstelle Sende-/Empfangsbereitschaft angezeigt. Jetzt kann man mit 3 Leitungen verbinden: 
+	2-Empfangsdaten, 3-Sendedaten und 7-Ground.</p>
+	<p><br></p>
+	
+	<div class="box center"> 
 		
+	<a  href="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_shuttle_gr.jpeg" class="popup">
+		<img src="/de/geraete/Tektronix_4052/Tektronix_4052_Bilder/Tektronix_4052_shuttle_kl.jpeg" width="370"  "/>
+	</a>
+		
+		<p class="bildtext">Tektronix 4052 im Terminalmodus empfängt Grafikdaten</p>
+	</div>	
 		<p/>
 	<p> *** wird fortgesetzt *** 
 		</p>

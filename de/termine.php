@@ -37,6 +37,22 @@
 <div id="termine">	
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 22. Jul</p>
+	<h4>Sommerfest des technikum29 Museums</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 22. Juli 2023
+		<dt>Uhrzeit
+		<dd>15:00 - 20:00
+		<dt>Ausführende
+		<dd><a href="/de/team.php#sven">Dr. Sven Köppel</a> und 
+		    <a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Vorherige Anmeldung per E-Mail gerne gesehen zwecks Einschätzung der Besucheranzahl. Ansonsten
+		    gilt: Tag der offenen Tür!
+	</dl>
+</div><!--/.termin -->
+
+<div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 19. Jul</p>
 	<h4>Führung Peter R. UNIVAC 9400</h4> 
 	<dl class="daten">

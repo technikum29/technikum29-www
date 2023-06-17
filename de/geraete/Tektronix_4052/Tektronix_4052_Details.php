@@ -139,7 +139,7 @@
 	Zeit für Syntaxüberprüfung und Abspeichern zu lassen.<br>
 	Auf diese Weise können wir Programme speichern und laden, obwohl unser Magnetband-Laufwerk noch defekt ist.<br>
 	<br>
-</p>p>
+</p>
 
 
 <p> *** wird fortgesetzt *** 

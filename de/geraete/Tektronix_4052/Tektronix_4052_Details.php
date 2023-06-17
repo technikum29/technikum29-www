@@ -134,10 +134,10 @@
 	werden: Der Befehl "SAVE @40:" schreibt das aktuelle BASIC-Programm als ASCII über die serielle Schnittstelle 
 	raus. Mit "OLD @40:" kann der ASCII-String wieder eingelesen werden, wobei ein evtl. im Speicher vorhandenes 
 	Programm überschrieben wird. Die Terminalemulation am anderen Ende der seriellen Leitung muss mit dem 
-	verwendeten Zeilenendezeichen (CR) ohne das übliche zusätzliche "LF" zurechtkommen. Beim Wiedereinlesen 
-	muss das Terminalprogramm nach jeder Zeile eine kurze Pause (ca 0.1s reicht) einlegen, um dem Tektronix-BASIC-Editor 
+	verwendeten Zeilenendezeichen (CR) ohne das übliche zusätzliche (LF) zurechtkommen. Beim Wiedereinlesen 
+	muss das Terminalprogramm nach jeder Zeile eine kurze Pause einlegen (ca 0.1s reicht), um dem Tektronix-BASIC-Editor 
 	Zeit für Syntaxüberprüfung und Abspeichern zu lassen.<br>
-	Auf diese Weise können wir Demoprogramme laden, obwohl unser Magnetband-Laufwerk noch defekt ist.<br>
+	Auf diese Weise können wir Programme speichern und laden, obwohl unser Magnetband-Laufwerk noch defekt ist.<br>
 	<br>
 </p>p>
 

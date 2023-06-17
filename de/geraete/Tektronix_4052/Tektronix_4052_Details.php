@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 12. Juni 2023
+	Stand: 17. Juni 2023
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu dem Tektronix 4052 und der zugehörigen 
@@ -130,7 +130,19 @@
 		<p class="bildtext">Tektronix 4052 im Terminalmodus empfängt Grafikdaten</p>
 	</div>	
 		<p/>
-	<p> *** wird fortgesetzt *** 
+<p>Die serielle Schnittstelle kann von BASIC aus auch zum Abspeichern und Wiedereinlesen von Programmen	genutzt
+	werden: Der Befehl "SAVE @40:" schreibt das aktuelle BASIC-Programm als ASCII über die serielle Schnittstelle 
+	raus. Mit "OLD @40:" kann der ASCII-String wieder eingelesen werden, wobei ein evtl. im Speicher vorhandenes 
+	Programm überschrieben wird. Die Terminalemulation am anderen Ende der seriellen Leitung muss mit dem 
+	verwendeten Zeilenendezeichen (CR) ohne das übliche zusätzliche "LF" zurechtkommen. Beim Wiedereinlesen 
+	muss das Terminalprogramm nach jeder Zeile eine kurze Pause (ca 0.1s reicht) einlegen, um dem Tektronix-BASIC-Editor 
+	Zeit für Syntaxüberprüfung und Abspeichern zu lassen.<br>
+	Auf diese Weise können wir Demoprogramme laden, obwohl unser Magnetband-Laufwerk noch defekt ist.<br>
+	<br>
+</p>p>
+
+
+<p> *** wird fortgesetzt *** 
 		</p>
 		
 

@@ -133,7 +133,7 @@
 <p>Die serielle Schnittstelle kann von BASIC aus auch zum Abspeichern und Wiedereinlesen von Programmen	genutzt
 	werden: Der Befehl "SAVE @40:" schreibt das aktuelle BASIC-Programm als ASCII über die serielle Schnittstelle 
 	raus. Mit "OLD @40:" kann der ASCII-String wieder eingelesen werden, wobei ein evtl. im Speicher vorhandenes 
-	Programm überschrieben wird. Die Terminalemulation am anderen Ende der seriellen Leitung muss mit dem 
+	Programm überschrieben wird. <br>Die Terminalemulation am anderen Ende der seriellen Leitung muss mit dem 
 	verwendeten Zeilenendezeichen (CR) ohne das übliche zusätzliche (LF) zurechtkommen. Beim Wiedereinlesen 
 	muss das Terminalprogramm nach jeder Zeile eine kurze Pause einlegen (ca 0.1s reicht), um dem Tektronix-BASIC-Editor 
 	Zeit für Syntaxüberprüfung und Abspeichern zu lassen.<br>

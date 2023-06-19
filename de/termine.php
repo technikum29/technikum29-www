@@ -43,7 +43,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 22. Juli 2023
 		<dt>Uhrzeit
-		<dd>15:00 - 20:00
+		<dd>14:00 - 20:00
 		<dt>Ausführende
 		<dd><a href="/de/team.php#sven">Dr. Sven Köppel</a> und 
 		    <a href="/de/team.php#roland">Dr. Roland Langfeld</a>

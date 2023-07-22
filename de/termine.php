@@ -13,10 +13,10 @@
   <h4 style="color: #8e1b1b">Stand 22.7.2023</h4>
 	
 <p><strong>Wir machen Ferien !</strong>
-<p>Jeder muss mal Ferien machen, so auch wir: nach einem arbeitsreichen ersten halben Jahr bieten wir erstmal keine
+<p>Jeder muss mal Ferien machen, so auch wir: nach einem arbeitsreichen ersten halben Jahr bieten wir die nächsten Wochen keine
 	Führungen an, auch die Helfertage entfallen. Helfer mit konkreten Projekten können gerne per Mail
 	einen Einzeltermin vereinbaren. Ab Mitte September sind wir wieder präsent !
-<p><strong>Bitte behaltet diese Webseite im Auge, neue termine für den September werden hier zu gg. Zt. veröffentlicht.</strong>
+<p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für den September werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
 
 

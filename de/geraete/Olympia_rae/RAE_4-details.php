@@ -205,7 +205,7 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 <p>Die RAE 4/15 hat 3 Rechenregister und 3 Speicherregister. Je Register werden 15 Dezimalstellen (a 4 Bit) und die Kommaposition (4 Bit)
 	abgespeichert, also 6 * 16 * 4 Bit. Der Kernspeicher ist in 6 Matrizen mit 8 * 8 Bit realisiert und sitzt auf auf Platine 12 (genannt 
 	"Speicherschalter"). Alle Schreib-, Lese- und Blockierströme, die durch die Ferritkerne geleitet werden, müssen auf exakt 185 mA eingestellt
-	werden. Hierzu dienen 9 Stromregelstufen, 5 davon sitzen auf Platine 16 "Treiberschalter" und die restlichen 4 auf der Platine 12 "Taktverteiler".
+	werden. Hierzu dienen 9 Stromregelstufen, 5 davon sitzen auf Platine 16 "Treiberschalter" und die restlichen 4 auf der Platine 10 "Taktverteiler".
 	Aufgebaut sind die wie im Schaltbild unten links angegeben:</p>
 	
 	<div class="box center"> 

@@ -233,7 +233,7 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 	Widerstände mal nach außen gelegt und die Spannungen am Oszi angesehen. Prinzipiell lassen sich auf Platine 16 alle fünf Strompulse
 	erfassen, die gemessenen Spannungen liegen im Bereich 0.82 - 1.08 V, weichen also von den geforderten 0.95 V deutlich ab (s. Beispiel oben Bild
 	mitte mit Pulshöhe 0.962V).</p>
-<p>Die Stromregelstufen auf Platine 12 sind etwas anders aufgebaut, sie stabilisieren sowohl positive und negative Ströme. Daher ergeben sich abweichend 
+<p>Die Stromregelstufen auf Platine 10 sind etwas anders aufgebaut, sie stabilisieren sowohl positive und negative Ströme. Daher ergeben sich abweichend 
 	von der Messung an Platine 16 symmetrische Rechteckpulse mit idealerweise 2* 0.95 V Pulshöhe (oben Bild rechts mit +0.875 V und -0.968 V Pulshöhe).</p>
 <p>In den Unterlagen sind keine Angaben zu den Toleranzen bzgl. der Einstellung der 185 mA zu finden. Der Kernspeicher funktioniert ja soweit, er 
 	"vergisst" keine Ziffern. Mit weiteren Maßnahmen wie Neueinstellung der Ströme warten wir daher erstmal ab und setzen die Überprüfung aller Komponenten 

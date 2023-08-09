@@ -223,7 +223,7 @@ Pos 26: 94.5035-110.2   Funktionsregister<br></p>
 
 	
 		<p class="bildtext">Schaltung der 185 mA Stromregelstufen (li), typ. Strompulse von Platine 16 (mi) und
-		von Platine 12 (re). Bitte klicken zum Vergrößern !</p>
+		von Platine 10 (re). Bitte klicken zum Vergrößern !</p>
 	</div>
 	
 	

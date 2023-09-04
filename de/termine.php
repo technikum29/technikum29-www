@@ -38,33 +38,6 @@
 <div id="termine">	
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 22. Jul</p>
-	<h4>Sommerfest des technikum29 Museums</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 22. Juli 2023
-		<dt>Uhrzeit
-		<dd>14:00 - 18:00
-		<dt>Ausführende
-		<dd><a href="/de/team.php#sven">Dr. Sven Köppel</a> und 
-		    <a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Vorherige Anmeldung per E-Mail gerne gesehen zwecks Einschätzung der Besucheranzahl. Ansonsten
-		    gilt: Tag der offenen Tür!
-	</dl>
-</div><!--/.termin -->
-
-
-
-
-
-
-
-
-
-
-
-	
-<div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 14. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
@@ -112,6 +85,22 @@
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 22. Jul</p>
+	<h4>Sommerfest des technikum29 Museums</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 22. Juli 2023
+		<dt>Uhrzeit
+		<dd>14:00 - 18:00
+		<dt>Ausführende
+		<dd><a href="/de/team.php#sven">Dr. Sven Köppel</a> und 
+		    <a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Vorherige Anmeldung per E-Mail gerne gesehen zwecks Einschätzung der Besucheranzahl. Ansonsten
+		    gilt: Tag der offenen Tür!
 	</dl>
 </div><!--/.termin -->
 	

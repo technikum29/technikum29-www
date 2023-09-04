@@ -22,6 +22,8 @@
 
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
+<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
+	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 
@@ -29,8 +31,6 @@
 <p>Wir sind ca 1/2 h vor Beginn der Führung vor Ort. Der Eingang befindet sich an der rechten
 	Seite des Gebäudes (durch das Gittertor, die Klingel befindet sich links von der Glas-Eingangstür).
 	Da wir mit einer wichtigen Einweisung beginnen, bitten wir um pünktliches Erscheinen !
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
-	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 <p><strong>Helfertage</strong> sind Termine, zu denen sich alle Interessierte anmelden können, die uns beim Reparieren, Inventarisieren, 
 	Aufräumen und allen sonst so in einem Museum anfallenden Arbeiten unterstützen möchten. Auch hier bitte Anmeldung
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>

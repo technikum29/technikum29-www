@@ -6,7 +6,7 @@
 	require "../lib/technikum29.php";
 ?>
 
-
+<!--
 <h2>Kalender und Termine</h2>
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
@@ -18,7 +18,7 @@
 	einen Einzeltermin vereinbaren. Ab Mitte September sind wir wieder präsent !
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für den September werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
-
+-->
 
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
@@ -53,6 +53,68 @@
 	</dl>
 </div><!--/.termin -->
 
+
+
+
+
+
+
+
+
+
+
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 14. Okt</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 14. Oktober 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 7. Okt</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 7. Oktober 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 9. Sep</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 9. September 2023
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div><!--/.termin -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 19. Jul</p>
 	<h4>Führung Peter R. UNIVAC 9400</h4> 

@@ -127,100 +127,137 @@
 		<td>Johann O.<br>
 	<tr>	
 		<td>Sa. 22.7.2023
-		<td>Sommerfest<br>
+		<td>Sommerfest
+		<td>
+		<td><br>
 	<tr>	
 		<td>Mi. 19.7.2023
 		<td>Computer-History<br>	
-		<td>Führung UNIVAC 9400 Peter R.<br>
+		<td>Führung UNIVAC 9400 
+		<td>Peter R.<br>
 	<tr>	
 		<td>Sa. 8.7.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Di. 4.7.2023
 		<td>Computer-History<br>	
-		<td>Führung Heinz Nixdorf Museums-Forum<br>
+		<td>Führung Heinz Nixdorf Museums-Forum
+		<td>Rainer G. und Guy F. (MIT)<br>
 	<tr>	
 		<td>Sa. 17.6.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Mo. 12.6.2023
-		<td>Computer-History<br>	
-		<td>Führung BDIS-Team<br>
+		<td>Computer-History	
+		<td>Führung BDIS-Team
+		<td><br>
 	<tr>	
 		<td>Sa. 3.6.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Do. 1.6.2023
 		<td>Computer-History<br>	
-		<td>Führung Hochschule Fulda<br>
+		<td>Führung Hochschule Fulda
+		<td><br>
 	<tr>	
 		<td>Sa. 20.5.2023
 		<td>Helfertag<br>
 	<tr>	
 		<td>Sa. 6.5.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Mo. 30.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Stephen P.<br>
+		<td>Privatführung 
+		<td>Stephen P.<br>
 	<tr>	
 		<td>Fr. 28.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Karl W. (Q1)<br>
+		<td>Privatführung 
+		<td>Karl W. (Q1)<br>
 	<tr>	
 		<td>Sa. 22.4.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Do. 20.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Julia R.<br>
+		<td>Privatführung 
+		<td>Julia R.<br>
 	<tr>	
 		<td>Sa. 8.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Joseph Brix Str. Wi<br>
+		<td>Privatführung 
+		<td>Joseph Brix Str. Wi<br>
 	<tr>	
 		<td>Sa. 8.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Thomas A. und Kerstin R.G<br>
+		<td>Privatführung 
+		<td>Thomas A. und Kerstin R.G<br>
 	<tr>	
 		<td>Di. 4.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Sanofi ICF ENG<br>
+		<td>Privatführung Sanofi ICF ENG
+		<td><br>
 	<tr>	
 		<td>So. 2.4.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Stephanie P.<br>
+		<td>Privatführung 
+		<td>Stephanie P.<br>
 	<tr>	
 		<td>Fr. 31.3.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Karin L.<br>
+		<td>Privatführung 
+		<td>Karin L.<br>
 	<tr>	
 		<td>Mi. 29.3.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Sanofi Ingo B.<br>
+		<td>Privatführung Sanofi 
+		<td>Ingo B.<br>
 	<tr>	
 		<td>Sa. 25.3.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Mo. 13.3.2023
 		<td>Computer-History<br>	
-		<td>Privatführung Sanofi ICF ENG<br>
+		<td>Privatführung Sanofi ICF ENG
+		<td><br>
 	<tr>	
 		<td>Sa. 11.3.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Sa. 25.2.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Sa. 11.2.2023
-		<td>Helfertag<br>		
+		<td>Helfertag
+		<td>
+		<td><br>		
 	<tr>	
 		<td>Do. 2.3.2023
 		<td>Computer-History<br>
-		<td>Privatführung Felix Z.<br>
+		<td>Privatführung 
+		<td>Felix Z.<br>
 	<tr>	
 		<td>Sa. 14.1.2023
-		<td>Helfertag<br>
+		<td>Helfertag
+		<td>
+		<td><br>
 	</table>
 
 	<h2>2022</h2>

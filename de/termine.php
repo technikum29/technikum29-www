@@ -271,39 +271,71 @@
 		<th style="width:13em;">Titel
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
-	<tr>	<td>Fr, 25.11.2022
+	<tr>	
+		<td>Fr, 25.11.2022
 		<td>Computer-History<br>
 		<td>Privatführung<br>			
 		<td>70. Geburtstag Wolfgang D.<br>
-	<tr>	<td>Sa, 19.11.2022
+	<tr>	
+		<td>Sa, 19.11.2022
 		<td>Computer-History<br>
 		<td>Privatführung<br>			
 		<td>20. Geburtstag Lorenz R.<br>
-	<tr>	<td>Sa, 5.11.2022
-		<td>Helfertag<br>
-	<tr>	<td>Sa, 17.9.2022
+	<tr>	
+		<td>Sa, 5.11.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa, 17.9.2022
 		<td>Helfertag/Führung<br>	
-		<td>Privatführung Ludwig K.<br>
-	<tr>	<td>Sa, 3.9.2022
-		<td>Helfertag<br>
-	<tr>	<td>Sa, 6.8.2022
-		<td>Helfertag<br>
-	<tr>	<td>Sa, 23.7.2022
-		<td>Helfertag<br>
-	<tr>	<td>Sa, 9.7.2022
-		<td>Helfertag<br>	
-	<tr>	<td>Sa, 25.6.2022
-		<td>Helfertag<br>
-	<tr>	<td>Sa, 11.6.2022
-		<td>Helfertag<br>
-	<tr>	<td>Mi, 22.6.2022
+		<td>Privatführung Ludwig K.
+		<td><br>
+	<tr>	
+		<td>Sa, 3.9.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa, 6.8.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa, 23.7.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa, 9.7.2022
+		<td>Helfertag
+		<td>
+		<td><br>	
+	<tr>	
+		<td>Sa, 25.6.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa, 11.6.2022
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Mi, 22.6.2022
 		<td>Computer-History<br>
-		<td>Privatführung Markus R.<br>			
-	<tr>	<td>Do, 2.6.2022
-		<td>Helfertag<br>
-		<td>Umzug Depots<br>
-	<tr>	<td>Sa, 21.5.2022
-		<td>Helfertag<br>
+		<td>Privatführung 
+		<td>Markus R.<br>			
+	<tr>	
+		<td>Do, 2.6.2022
+		<td>Helfertag
+		<td>Umzug Depots
+		<td><br>
+	<tr>	
+		<td>Sa, 21.5.2022
+		<td>Helfertag
+		<td>
+		<td><br>
 	</table>
 		
 	<h2>2021</h2>

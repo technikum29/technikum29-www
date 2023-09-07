@@ -86,168 +86,13 @@
 	</dl>
 </div><!--/.termin -->
 
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 22. Jul</p>
-	<h4>Sommerfest des technikum29 Museums</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 22. Juli 2023
-		<dt>Uhrzeit
-		<dd>14:00 - 18:00
-		<dt>Ausführende
-		<dd><a href="/de/team.php#sven">Dr. Sven Köppel</a> und 
-		    <a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Vorherige Anmeldung per E-Mail gerne gesehen zwecks Einschätzung der Besucheranzahl. Ansonsten
-		    gilt: Tag der offenen Tür!
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 19. Jul</p>
-	<h4>Führung Peter R. UNIVAC 9400</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Mittwoch, 19. Juli 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 13:00
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
 
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 8. Jul</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 8. Juli 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 4. Jul</p>
-	<h4>Führung Heinz Nixdorf MuseumsForum</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Dienstag, 4. Juli 2023
-		<dt>Uhrzeit
-		<dd>13:00 - 16:00
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
-
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 17. Jun</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 17. Juni 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 12. Jun</p>
-	<h4>Führung BDIS Team</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Montag, 12. Juni 2023
-		<dt>Uhrzeit
-		<dd>17:30 - 19:30
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 3. Jun</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 3. Juni 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 1. Jun</p>
-	<h4>Führung Hochschule Fulda</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Donnerstag, 1. Juni 2023
-		<dt>Uhrzeit
-		<dd>10:30 - 12:00 und 12:00 - 13:30
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>2 Besuchergruppen
-	</dl>
-</div><!--/.termin -->
-
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 20. Mai</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 20. Mai 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-		
 </div><!--/#termine -->
 
 <div style="margin-top:3em">
-		
-
-	<!--
-	allgemeine Informationen über Führungen und Gruppenanmeldungen
-	finden Sie Hinweise auf der <a href="index.php">Startseite</a>.<br>
-	
-
-	<p>Bitte bedenken Sie: Zu allen Terminen ist eine vorherige Anmeldung notwendig! Kontaktieren Sie uns
-	bitte rechtzeitig per E-Mail: <a href="mailto:post@technikum29.de">post@technikum29.de</a><br>
-	-->
-	
-		<!-- Zurzeit sind keine Führungen geplant. Kleingruppen können sich gerne melden, wir können die Termine mit Einzelinteressenten auffüllen. -->
-		<!--	>>ausgebucht! -->
 	
 	<!--Die folgende Tabelle listet Gruppenanmeldungen und Events auf.-->
-	<h3>Archiv alter Führungen</h3>
+	<h3>Archiv alter Führungen und Events</h3>
 	<p>Zu chronologischen Zwecken existiert 
 	hier eine (unvollständige) Liste aller Termine, die zumindest auf der Homepage
 	des Museums zwischen 2013 bis heute angekündigt wurden.
@@ -268,11 +113,49 @@
 	</p>
 		</br>
 	<table class="termine">
+	
 	<tr class="title">
 		<th style="width:9em">Datum
 		<th style="width:13em;">Titel
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
+	
+	<tr>	
+		<td>Di. 5.9.2023
+		<td>Filmdreh an der Pianola "Jochen Stern"
+		<td>Filmproduktion
+		<td>Johann O.<br>
+	<tr>	
+		<td>Sa. 22.7.2023
+		<td>Sommerfest<br>
+	<tr>	
+		<td>Mi. 19.7.2023
+		<td>Computer-History<br>	
+		<td>Führung UNIVAC 9400 Peter R.<br>
+	<tr>	
+		<td>Sa. 8.7.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Di. 4.7.2023
+		<td>Computer-History<br>	
+		<td>Führung Heinz Nixdorf Museums-Forum<br>
+	<tr>	
+		<td>Sa. 17.6.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Mo. 12.6.2023
+		<td>Computer-History<br>	
+		<td>Führung BDIS-Team<br>
+	<tr>	
+		<td>Sa. 3.6.2023
+		<td>Helfertag<br>
+	<tr>	
+		<td>Do. 1.6.2023
+		<td>Computer-History<br>	
+		<td>Führung Hochschule Fulda<br>
+	<tr>	
+		<td>Sa. 20.5.2023
+		<td>Helfertag<br>
 	<tr>	
 		<td>Sa. 6.5.2023
 		<td>Helfertag<br>

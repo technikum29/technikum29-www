@@ -36,6 +36,22 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">	
+
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 4. Nov</p>
+	<h4>Führung AEG Pensionäre</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 4. November 2023
+		<dt>Uhrzeit
+		<dd>14:30 - 17:30
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
+
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 14. Okt</p>

@@ -36,7 +36,6 @@
 	per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
 
 <div id="termine">	
-
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 4. Nov</p>
@@ -51,7 +50,6 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 14. Okt</p>
@@ -66,7 +64,6 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div><!--/.termin -->
-
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 14. Okt</p>
@@ -85,6 +82,19 @@
 	</dl>
 </div><!--/.termin -->
 	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2023</em> 11. Okt</p>
+	<h4>Führung Ingo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 11. Oktober 2023
+		<dt>Uhrzeit
+		<dd>17:00 - 19:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div><!--/.termin -->
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 7. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -101,7 +111,6 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div><!--/.termin -->
-
 
 </div><!--/#termine -->
 

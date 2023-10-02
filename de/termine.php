@@ -113,22 +113,6 @@
 	</dl>
 </div><!--/.termin -->
 
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 4. Okt</p>
-	<h4>Führung Ingo B.</h4> 
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Mittwoch, 4. Oktober 2023
-		<dt>Uhrzeit
-		<dd>17:00 - 19:00
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>Führung in Englisch, geschlossene Gesellschaft
-	</dl>
-</div><!--/.termin -->
-	
-</div><!--/#termine -->
-
 <div style="margin-top:3em">
 	
 	<!--Die folgende Tabelle listet Gruppenanmeldungen und Events auf.-->

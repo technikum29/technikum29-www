@@ -129,12 +129,12 @@
 			</li>
 			<li><a seiten_id="wissenschaftliche-rechner" href="/de/rechnertechnik/wissenschaftliche-rechner.php" title="Wissenschaftliche Rechner und Minicomputer">Wissenschaftliche Rechner</a>
 				<ul class="u3">
-					<li><a seiten_id="lgp21" href="/de/rechnertechnik/lgp21.php">LGP 21</a></li>
 					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8">PDP 8</a></li>
 					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8i">PDP 8i</a></li>
 					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp8l">PDP 8L</a></li>
 					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#pdp12">PDP 12</a></li>
 					<li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#lab8e">LAB 8e</a></li>
+					<li><a seiten_id="lgp21" href="/de/rechnertechnik/lgp21.php">LGP 21</a></li>
 					<!-- <li><a href="/de/rechnertechnik/wissenschaftliche-rechner.php#nova">NOVA 2</a></li> -->
 				</ul>
 				<ul class="u3 geraete">

@@ -203,32 +203,27 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 	</div>
    
    
-   <!--
-   <h3 id="nova">Data General: <b>NOVA 2</b></h3>
    
-   <div class="box left">
-      <img src="/shared/photos/rechnertechnik/nova2.jpg" width="400" height="561" alt="Data General: NOVA 2 Anlage" />
-	  <p>Edson de Castro war Produktmanager von DEC und hatte die Vision, einen 16-Bit Rechner zu entwickeln, dessen Prozessor auf eine einzige Print-Platine passt. Der Firmengründer von DEC, Ken Olson, konnte sich jedoch dafür nicht erwärmen. So verließ de Castro 1968 mit 3 anderen Hardware-Ingenieuren DEC und gründete in einem leerstehenden Friseurgeschäft eine eigene Firma: <b>Data General Corporation</b> (Massachusetts, USA).<br> 
-	  Bereits 1969 kam der erste 16-Bit Rechner der Serie <b>"NOVA"</b> auf den Markt. Durch die einfachere Fertigung (keine Wire-Wrap-Verdrahtung, nur zwei Platinen + Speicherplatinen ect.) war der Rechner in der Basisversion mit knapp 4000 $ zudem recht preiswert. Mit dem Grundmodell konnte man allerdings nicht viel anfangen. Nach dem Ausbau des Rechners ergab sich dann ein deutlich höherer Gesamtpreis. Der Nova-Computer wurde als "der preiswerteste und schnellste Mini-Computer der Welt" angeboten. DEC baute damals noch die Typen PDP-8I sowie PDP-12 die mit vielen kleinen Flip-Chip-Modulen realisiert wurden.<br>
-	  Im Nachfolgemodell (1973), der <b>NOVA 2</b>, wurden weitere Vereinfachungen und eine nochmals höhere Integrationsdichte vorgenommen, so dass der gesamte Prozessor inklusive der Ansteuerung von langsamen Peripheriegeräten (Teletype, Lochstreifenleser/stanzer) auf einer Platine untergebracht waren. Die hier abgebildete Nova ist eine NOVA 2/10, die Slots für 10 Boards hat und damit den Einbau vieler Interfaces für weitere Peripheriegeräte und Speichererweiterungen ermöglicht.<br>
-	  Aus heutiger Sicht haben die riesigen Boards (38x38cm, damals "IC-Gräber in Backblechgröße" genannt) auch Nachteile: Eine Reparatur ist sehr aufwändig, da eine Eingrenzung des Fehlers durch das Auswechseln kleiner Platinen nicht möglich ist.<br>
-	  Der NOVA-Rechner stammt aus einer Hochschule und ist mit zwei Plattenlaufwerken, einem Doppel-Diskettenlaufwerk (8" Disketten!), einer Teletype und einem Hochgeschwindigkeits-Lochstreifenleser ausgerüstet. Später wurde schließlich ein Terminal hinzugefügt welches den Rechner zu einer komfortabel nutzbaren Anlage erweiterte.</p>
-	  
-	  Hier können Sie Details im Großformat anschauen:
-<a  class="popup" href="/shared/photos/rechnertechnik/nova-detail.jpg">NOVA 2 mit Terminal</a><br>
-	  
-	  <p class="bildtext small">
-	  Bestückung der Anlage von oben nach unten:<br>
-	  <dl>
-	  <dd>Lochstreifenleser (vorwiegend zum Einlesen von Testprogrammen, die bei jedem Rechner 		  mitgeliefert wurden)
-	  <dd>Doppeldiskettenlaufwerk für flexible 8-Zoll Disketten, Mod. 6032
-	  <dd>Prozessor mit Kernspeicher, hier 32 KB. Zykluszeit 0,8 us.
-	  <dd>Zwei Stück Wechselplatten-Laufwerke, Series 30. Speicherkapazität 1.200.000 Wörter mit je 16 Bit, also 2,4 MB
-	  <dd>Disc Cartidge System 4047, notwendig zum Anschluss der zweiten Disc
-	  <dd>Rechts befindet sich das Terminal "<b>DASHER 1</b>", Mod. 6052 von Data General.
-	  </dl>
-	  </small>
+   <h3 id="Pr1me">Pr1me 300</h3>
+   
+  <div class="box left"> 
+		 <a  href="/de/geraete/Pr1me300/Pr1me300_Bilder/Pr1me300_Keller_gr.jpeg" class="popup">
+		<img src="/de/geraete/Pr1me300/Pr1me300_Bilder/Pr1me300_Keller_kl.jpeg" width="150"  />
+	</a>
+		
 	</div>
-	-->
+	<p>Die Firma Pr1me (Natick, MA, USA), bewußt Pr<b>1</b>me und nicht Pr<b>i</b>me geschrieben, war ein Hersteller sehr
+	  leistungsfähiger Minicomputer. Sie stellte 1972 ihr erstes Modell Pr1me 200 vor, eine Kopie des DDP516 von Honeywell. Pr1me machte 
+	  sich einen Namen für leistungsfähige tech.-wiss. Rechner speziell für CAD (computer aided design) Anwendungen.<br><br>
+	  1974 kam die <b>Pr1me 300</b> auf den Markt. Der 16 Bit-Prozessor ist diskret in TTL-Technik aufgebaut. Die Maschine hat eine Speicher-Verwaltungs-Hardware 
+	  (MMU) und erlaubt damit Mehrbenutzerbetrieb mit Speicherschutz. Sie ist auf max. 512 KB Halbleiterspeicher 
+	  aufrüstbar, als Massenspeicher dient eine 6 MB Pertec Festplatte.<br><br>
+	  Unsere Maschine wurde ca 1977 gefertigt und 1978 von der Berufsschule (Bensheim) für Ausbildungszwecke angeschafft. Der Prozessor 
+	  hat 750 µs Zykluszeit, der Halbleiterspeicher wurde auf 384 KB aufgerüstet. Das Betriebssystem ist PRIMOS3. Im Mehrplatzbetrieb 
+	  können max 16 Terminals/Benutzer gleichzeitig aktiv sein.<br><br>
+	  Unsere Pr1me 300 kam im Oktober 2023 ins technikum29. Zur Zeit wird sie geprüft und wird in Kürze wieder in Betrieb genommen. Details 
+	  zur Wiederinbetriebnahme werden wir <a class="go" href="/de/geraete/Pr1me300/Pr1me300-details.php">hier</a> berichten.<br>
+    </p>
+
 
  

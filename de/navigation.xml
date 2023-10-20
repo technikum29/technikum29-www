@@ -77,9 +77,10 @@
 			</li>
 			
 			
-			<li><a href="/de/rechnertechnik/gamma10.php">Gross-Computer und Rechenzentren</a>
+			<li><a href="/de/rechnertechnik/stantec.php">Gross-Computer und Rechenzentren</a>
 				<ul class="u3">
 					
+					<li><a seiten_id="stantec" href="/de/rechnertechnik/stantec.php" title="EDV-Anlage der 2. Generation: Stantec Mk. II">Stantec Mk. II</a></li>
 					<li><a seiten_id="gamma10" href="/de/rechnertechnik/gamma10.php" title="EDV-Anlage der 2. Generation: BULL Gamma 10">BULL Gamma 10</a></li>
 					<li><a seiten_id="gamma55" href="/de/rechnertechnik/gamma55.php" title="Gamma 55 (GE 55)">BULL Gamma 55 (GE-55)</a></li>
 					<li><a seiten_id="ibm1130" href="/de/rechnertechnik/ibm1130.php" title="IBM 1130">IBM 1130</a>

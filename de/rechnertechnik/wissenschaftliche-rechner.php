@@ -219,7 +219,7 @@ Addiert man die Preise, so kommt die atemberaubende Zahl von 387.690 DM heraus, 
 	  (MMU) und erlaubt damit Mehrbenutzerbetrieb mit Speicherschutz. Sie ist auf max. 512 KB Halbleiterspeicher 
 	  aufrüstbar, als Massenspeicher dient eine 6 MB Pertec Festplatte.<br><br>
 	  Unsere Maschine wurde ca 1977 gefertigt und 1978 von der Berufsschule (Bensheim) für Ausbildungszwecke angeschafft. Der Prozessor 
-	  hat 750 µs Zykluszeit, der Halbleiterspeicher wurde auf 384 KB aufgerüstet. Das Betriebssystem ist PRIMOS3. Im Mehrplatzbetrieb 
+	  hat 750 ns Zykluszeit, der Halbleiterspeicher wurde auf 384 KB aufgerüstet. Das Betriebssystem ist PRIMOS3. Im Mehrplatzbetrieb 
 	  können max 16 Terminals/Benutzer gleichzeitig aktiv sein.<br><br>
 	  Unsere Pr1me 300 kam im Oktober 2023 ins technikum29. Zur Zeit wird sie geprüft und wird in Kürze wieder in Betrieb genommen. Details 
 	  zur Wiederinbetriebnahme werden wir <a class="go" href="/de/geraete/Pr1me300/Pr1me300-details.php">hier</a> berichten.<br>

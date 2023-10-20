@@ -1,6 +1,6 @@
 <?php
 	$seiten_id = 'lgp21';
-	$titel = 'Schoppe & Faeser: LGP-21';
+	$titel = 'Schoppe und Faeser: LGP-21';
 	
 	require "../../lib/technikum29.php";
 ?>

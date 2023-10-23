@@ -32,7 +32,7 @@
 
 
 
-<b>Wir bedanken uns bei Dr. Rainer Schmitt für diese tolle Ergänzung unserer Sammlung !</b><br><br>
+<b>Wir bedanken uns bei Dr. Rainer Schmitt (Wiesbaden) für diese tolle Ergänzung unserer Sammlung !</b><br><br>
 
 Roland
 

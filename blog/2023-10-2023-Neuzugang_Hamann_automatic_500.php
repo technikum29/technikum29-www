@@ -15,7 +15,7 @@
 	
 	
 <div class="box center"> 
-		<a  href="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic_gr.jpeg" class="popup">
+		<a  href="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic__gr.jpeg" class="popup">
 		<img src="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic_kl.jpeg" width="500"  "/>
 	</a>
 		

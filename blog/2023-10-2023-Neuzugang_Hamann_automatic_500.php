@@ -1,5 +1,5 @@
 <?php
-	$blog_title = "Neuzugang Hamann auutomatic 500";
+	$blog_title = "Neuzugang Hamann automatic 500";
 	$blog_title_kurz = "Neuzugang Hamann automatic 500";
 	$blog_author = "Roland";
 	$blog_date = "2023-10-23";

@@ -30,7 +30,7 @@
 	Multiplikation und Division sowie Rückübertragung. Sie ist eine Simplexmaschine nach dem System Sperrklinke und hat eine "moderne" Zehnertastatur 
 	ähnlich unserer heutiger Taschenrechner. Mit 17 kg ist sie nicht gerade ein Leichtgewicht. Sie ist sehr gut gekapselt und sehr leise im Betrieb.<br><br>
 	Das Baujahr unserer Maschine ist wohl 1959: sie hat eine frühe Seriennummer (150.198) und ist die 198ste Maschine von ca 9600 produzierten Einheiten.<br><br>Unsere Hamann war in sehr gutem Erhaltungszustand. Nach der 
-	üblichen Reinigung von verharztem Öl und Fett und der Gängigmachung verklebter Mechanik läuft sie wieder problemlos.<br>
+	üblichen Reinigung von verharztem Öl und Fett, dem Austausch zweier defekter Kondensatoren und der Gängigmachung verklebter Mechanik läuft sie wieder problemlos.<br>
 	</p>
 
 <div class="box center"> 

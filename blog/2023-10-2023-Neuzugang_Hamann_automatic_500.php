@@ -10,7 +10,7 @@
 	print_blog_title();
 ?>
 
-<p>Ein weiterer Neuzugang: eine elektro-mechanische Rechenmaschine <b>Hamann automatic 500</b>. Sie wurde uns von Rainer Schmitt (Wiesbaden) gespendet.
+<p>Ein weiterer Neuzugang: eine elektro-mechanische Rechenmaschine <b>Hamann Automatic 500</b>. Sie wurde uns von Rainer Schmitt (Wiesbaden) gespendet.
 	</p>
 	
 	

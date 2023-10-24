@@ -96,7 +96,7 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
    </div>
    	
 <div class="box right clear-after">
-        <img src="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic_kl.jpeg" width="500"  alt="DIEHL VSR-18" />
+        <img src="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic_kl.jpeg" width="400"  alt="Hamann Atomatic 500" />
         <p class="bildtext"><b>Hamann  Automatic 500</b>,<br> ein "10-Tasten-Universal Rechenautomat für alle vier Rechenarten" (Hamann Werbung) der Firma Hamann Rechenmaschinen GmbH (Berlin) von 1959. Sehr modern ist
         das geschlossene Gehäuse und die kompakte Zehnertastatur. <br>Die Maschine beruht auf dem Sperrklinkenprinzip, hat 9*8*16 Stellen und verfügt über
         eine Rückübertragung von Ergebnissen in das Einstellwerk. Weitere Details zu der Maschine haben wir <a class="go" href="/blog/2023-10-2023-Neuzugang_Hamann_automatic_500.php">hier</a> vorgestellt.

@@ -88,12 +88,22 @@ Wer die studiert, wird einsehen, dass diese Art von Taschenrechner nur sehr bedi
 	Im Internet gibt es unendlich viel schöne Literatur hierüber, z.B. auch über die  
 	<a class="go" href="http://www.curta.de/kr21/index.htm" target="_blank"> Geschichte des Erfinders</a> so dass wir es uns ersparen, hier noch viel hinzuzufügen.
 	</div>
-	<div class="box right clear-after">
+	
+<div class="box right clear-after">
         <img src="/shared/photos/rechnertechnik/diehl-vsr18.jpg" width="500" height="375" alt="DIEHL VSR-18" />
         <p class="bildtext"><b>DIEHL VSR-18</b>,<br>  eine von vielen zwischen 1955 und 1965 gebauten mechanischen Rechenmaschinen.
         <br>Die Ingenieure wurden angetrieben, immer komfortablere Maschinen zu konstruieren, oft bis an die Grenze des Machbaren. So hei&szlig;t es in der Bedienungsanleitung: "Das vor ihnen stehende DIEHL-Modell VSR leistet &Uuml;berdurchschnittliches". Das ist wohl wahr: Man konnte z.B. Ergebnisse zwischenspeichern und das Resultat jederzeit r&uuml;ck&uuml;bertragen. So waren oft auftretende Rechnungen wie  25 + 12 x 7 - 17 x 6  l&ouml;sbar ohne dass man etwas notieren musste. Doch der Luxus von 5 Rechenwerken und vielem sonstigen "Schnickschnack" zollte ein Attribut: Die Ger&auml;te waren sehr empfindlich bez&uuml;glich einer Fehlbedienung.</p>
-	
    </div>
+   	
+<div class="box right clear-after">
+        <img src="/de/geraete/Hamann500/Hamann500_Bilder/Hamann500_automatic_kl.jpeg" width="500"  alt="DIEHL VSR-18" />
+        <p class="bildtext"><b>Hamann  Automatic 500</b>,<br> ein "10-Tasten-Universal Rechenautomat für alle vier Rechenarten" (Hamann Werbung) der Firma Hamann Rechenmaschinen GmbH (Berlin) von 1959. Sehr modern ist
+        das geschlossene Gehäuse und die kompakte Zehnertastatur. <br>Die Maschine beruht auf dem Sperrklinkenprinzip, hat 9*8*16 Stellen und verfügt über
+        eine Rückübertragung von Ergebnissen in das Einstellwerk. Weitere Details zu der Maschine haben wir <a class="go" href="/blog/2023-10-2023-Neuzugang_Hamann_automatic_500.php">hier</a> vorgestellt.
+        
+        <br></p>
+   </div>
+   
 <div id="logos" class="box right clear-after">
 	 <img src="/shared/photos/rechnertechnik/olivetti-logos27-2.jpg" width="500" height="362" alt="Oivetti Logos 27-2" />
         <p class="bildtext"><b>Olivetti Logos 27-2</b>,<br>

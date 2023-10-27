@@ -90,11 +90,25 @@ hatte - jetzt ist unsere Maschine auch mechanisch wieder komplett !
 entstanden ist. Vielleicht noch im Dezember, spätestens Anfang 2023 steht ein neuer
 Testlauf an !
 </p>
-
-<p>
+<br>
+<p><b>Status Oktober 2023</b><br>
+	Mittlerweile konnte die Trommelreplika mit unserer LGP30 in Betrieb genommen werden ! Die bisherigen Probleme lagen
+	an der Pegelanpassung der FPGA an die 0V / -20V Pegel der LGP30. In dem Zusammenhang wurde auch ein Fehler in den 
+	Schaltplänen gefunden. Die korrekte Schaltung der -20V Versorgung ist diese hier:
 </p>
-
-<p>
+<div class="box center">
+   <a  href="/de/geraete/LGP30/LGP30_Bilder/LGP30_20_V_Versorgung.jpg" class="popup">
+      <img src="/de/geraete/LGP30/LGP30_Bilder/LGP30_20_V_Versorgung.jpg" width="350"/>
+      </a>
+    <a  href="/de/geraete/LGP30/LGP30_Bilder/LGP30_CRT_gr.jpeg" class="popup">
+      <img src="/de/geraete/LGP30/LGP30_Bilder/LGP30_CRT_kl.jpeg" width="400"/>
+      </a>
+    <p class="bildtext">korrigierte Schaltung der -20 V Versorgung (li), Anzeige der Registerinhalte an der LGP-30 Konsole (re)</p>
+</div>
+<p>Im jetzigen Zustand liest die LGP30 beim Hochfahren das Trommelabbild von der Speicherkarte ein und zeigt 
+	die Registerinhalte an. Mit den Schaltern der Konsole kann man die div. Speicherworte nacheinander anzeigen. 
+	Bei der probeweisen Eingabe vom Flexowriter ergaben sich aber Fehler bei der Übergabe der Daten in den Akkumulator, die auf dejustierte 
+	Schalterkotakte des Flexowriters zurückgeführt werden konnten. Hier steht jetzt eine Neujustage an...
 </p>
 
 <p> *** wird fortgesetzt *** 

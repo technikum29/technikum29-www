@@ -14,7 +14,7 @@
 	
 <p><strong>Wir machen Winterpause !</strong><br>
 <p>Für das Jahr 2023 werden wir keine Führungen und Helfertage (über die u.g. hinaus) einrichten. Ab dem 16.11. sind wir intern 
-	damit beschäftigt, unser neues  <a href="/de/rechnertechnik/stantec.php#">Exponat</a>, eine Stantec Zebra Mk II von 1962, in die Ausstellung zu integrieren. Generell ist die Vorweihnachtszeit ja auch bei 
+	damit beschäftigt, unser neues  <a href="/blog/2023-10-20-weitere-Neuzugaenge-2023.php#">Exponat</a>, eine Stantec Zebra Mk II von 1962, in die Ausstellung zu integrieren. Generell ist die Vorweihnachtszeit ja auch bei 
 	uns und unseren Helfern mit familiären Terminen angefüllt. Wir werden uns ab Mitte Januar 2024 an dieser 
 	Stelle wieder mit neuen Terminen zurückmelden, deshalb...
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2024 werden hier zu gg. Zt. veröffentlicht.</strong>

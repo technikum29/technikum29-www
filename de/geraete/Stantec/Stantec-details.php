@@ -16,7 +16,8 @@
 
 <h3>Vorstellung unserer Stantec Zebra Mk. II</h3>
 
-<p>2023 wurde dem technikum29 eine Stantec Zebra Mk. II von Josef Röger (Weiden, OPflz.) übereignet.</p>
+<p>2023 wurde dem technikum29 eine Stantec Zebra Mk. II von der ehem. SPAR-Zentrale Oberpfalz durch Herrn Josef Röger 
+	(Weiden, OPflz.) als Dauerleihgabe übergeben.</p>
 
 <!--
 <div class="box center"> 

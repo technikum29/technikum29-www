@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-<p>Stand: 20. Okt. 2023   <br><br>
+<p>Stand: 16. Nov. 2023   <br><br>
 	</p>
 	
 <p>*** diese Seite wird noch bearbeitet ! ***

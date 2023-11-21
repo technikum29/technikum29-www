@@ -8,7 +8,7 @@
     <h2>EDV-Anlage der 2. Generation: <b>Stantec Zebra Mk. II</b></h2>
  
  
- <p>Stand: 16.11.2023<br><br>
+ <p>Stand: 21.11.2023<br><br>
 
  </p>
 
@@ -18,10 +18,15 @@
 </p>
 	
 <div class="box center"> 
-		 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" width="700" />
-	</a>
-		<p class="bildtext">Foto aus einer Werbebroschüre</p>
+	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_kl.jpeg" width="480" />
+		</a>
+	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_kl.jpeg" width="270" />
+		</a>
+		<p class="bildtext">Stantec Konsole mit Netzteilen an beiden Seiten, links im Hintergrund der Elektronikschrank mit 
+		der Magnettrommel (links unten im Schrank).<br>
+		Zum Vergrößern Bild anklicken !</p>
 	</div>
 	
 		
@@ -33,14 +38,14 @@
 </p>
 	
 <div class="box center"> 
-	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Konsole_Fundort_gr.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Konsole_Fundort_kl.jpeg" width="350" />
+	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" width="435" />
 		</a>
 	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Zeitungsbericht.jpeg" class="popup">
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Zeitungsbericht.jpeg" width="310" />
 		</a>
-		<p class="bildtext">li: die Konsole der Stantec Mk. II im aktuellen Zustand,<br>
-		re: ein Zeitungsartikel zur Inbetriebnahme der Maschine in 1962</p>
+		<p class="bildtext">li: Bild aus einer Werbebroschüre,<br>
+		re: ein Zeitungsartikel zur Inbetriebnahme unserer Maschine in 1962</p>
 	</div>
 	<br>
 	<p>Über den Fortschritt in der Reparatur der Stantec Zebra Mk. II werden wir im 

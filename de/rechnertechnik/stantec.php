@@ -32,10 +32,22 @@
 		
 <p>Unsere Stantec war von 1962 ab im Lebensmittel-Großhandel in der ehem. SPAR-Zentrale Oberpfalz 
 	zur Lagerverwaltung im Einsatz. 1972 wurde sie eingelagert und
-	stand in einem alten Lagerhaus bis 2023, wo sie von ihrem Besitzer dem Museum angeboten wurde. Nachdem 
-	wir im Museum Platz für sie geschaffen hatten (unsere zweite UNIVAC 9200 kam ins Depot) wurde sie am 
-	14.11.2023 ins technikum29 transportiert.
+	stand in einem alten Lagerhaus bis 2023, wo sie von ihrem Besitzer dem Museum angeboten wurde. 
 </p>
+
+<p>Die Architektur der Stantec Zebra wurde in den 1950er Jahren von dem Niederländer Willem van der Poel in den Dr. Neher Laboratorien der niederländischen 
+	Post (PTT) entwickelt. "ZEBRA" ist die Abkürzung von "<b>Z</b>eer <b>E</b>envoudige <b>B</b>inaire <b>R</b>eken-<b>A</b>utomat", was so viel wie "sehr 
+	einfacher Binärrechner" heisst. Gefertigt wurde die Zebra von der englischen Standard Telephones and Cables Ltd. (Stantec), die später unter STC plc firmierte, bis sie 1991 
+	von der kanadischen NORTEL übernommen wurde. Insgesamt wurden nur etwa 55 Stantec Zebra gefertigt.</p>
+<p>Die Zebra ist ein bit-serieller Computer mit einer Wortlänge von 33 Bit. Die Schaltung basierte in der ersten Version (ab 1958) auf einem Mix von Elektronenröhren
+	und Ge-Transistoren, in der zweiten Version ab ca. 1960 (wie unsere Maschine) nur auf auf Ge-Transistoren. Als Arbeitsspeicher dient ein Magnettrommelspeicher 
+	mit 256 Spuren zu 32 Worten (insgesamt 8K Worte). Jede Spur hat einen eigenen Magnetkopf, die Spurumschaltung erfolgte bei beiden Versionen elektronisch mit einer 
+	Transistorschaltung. Das führte bei einer Umdrehungsgeschwindigkeit von 6000 U/min zu einer Wort-zu-Wort-Zugriffszeit von nur 312 µs.</p>
+<p>Ein Befehlswort besteht aus 15 Funktionsbits, mit denen einzelne Befehle kodiert werden können, eine Kombination von Bits ist erlaubt, was sehr komplexe Befehle 
+	ermöglichte. Hinzu kommen 5 + 8 Adressbits für den Trommelzugriff und 5 Bits für den Register- bzw. I/O-Geräte-Zugriff.</p>
+<p>Als Peripherie wurden Fernschreiber und Lochstreifenleser und -stanzer verwendet.
+	</p>
+
 	
 <div class="box center"> 
 	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" class="popup">

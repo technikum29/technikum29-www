@@ -24,7 +24,7 @@
 	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_gr.jpeg" class="popup">
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_kl.jpeg" width="270" />
 		</a>
-		<p class="bildtext">Stantec Konsole mit Netzteilen an beiden Seiten, links im Hintergrund der Elektronikschrank mit 
+		<p class="bildtext">Stantec Konsole (ohne Abdeckungen) mit Netzteilen an beiden Seiten, links im Hintergrund der Elektronikschrank mit 
 		der Magnettrommel (links unten im Schrank).<br>
 		Zum Vergrößern Bild anklicken !</p>
 	</div>

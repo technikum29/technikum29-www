@@ -19,7 +19,8 @@
 	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_geschlossen_frontal_gr.jpeg" class="popup">
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_geschlossen_frontal_kl.jpeg" width="700" />
 		</a>
-		<p class="bildtext">eine <b>Stantec Zebra Mk. II.</b> von 1962 !!</p>
+		<p class="bildtext">eine <b>Stantec Zebra Mk. II.</b> von 1962 !!<br>
+		Zum Vergrößern Bilder anklicken !</p>
 	</div>
 	
 	<div class="box left"> 

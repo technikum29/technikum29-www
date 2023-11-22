@@ -7,32 +7,32 @@
 ?>
     <h2>EDV-Anlage der 2. Generation: <b>Stantec Zebra Mk. II</b></h2>
  
- 
- <p>Stand: 21.11.2023<br><br>
 
  </p>
 
 		
-<p>Im November 2023 erhielt das technikum29 eine wirkliche Computer-Rarität: <br>
-    eine <b>Stantec Zebra Mk. II.</b> von 1962 !!
+<p>Im November 2023 erhielt das technikum29 eine wirkliche Computer-Rarität: ...<br>
+    
 </p>
 	
 <div class="box center"> 
-	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_gr.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_kl.jpeg" width="480" />
+	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_geschlossen_frontal_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_geschlossen_frontal_kl.jpeg" width="700" />
 		</a>
-	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_gr.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_kl.jpeg" width="270" />
-		</a>
-		<p class="bildtext">Stantec Konsole (ohne Abdeckungen) mit Netzteilen an beiden Seiten, links im Hintergrund der Elektronikschrank mit 
-		der Magnettrommel (links unten im Schrank).<br>
-		Zum Vergrößern Bild anklicken !</p>
+		<p class="bildtext">eine <b>Stantec Zebra Mk. II.</b> von 1962 !!</p>
 	</div>
 	
+	<div class="box left"> 
+	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Typschild_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Typschild_kl.jpeg" width="450" />
+		</a>
+		
+	</div>
 		
 <p>Unsere Stantec war von 1962 ab im Lebensmittel-Großhandel in der ehem. SPAR-Zentrale Oberpfalz 
 	zur Lagerverwaltung im Einsatz. 1972 wurde sie eingelagert und
-	stand in einem alten Lagerhaus bis 2023, wo sie von ihrem Besitzer dem Museum angeboten wurde. 
+	stand in einem alten Lagerhaus bis 2023, wo sie von ihrem Besitzer dem Museum angeboten wurde. </p>
+<p>	Sie ist nahezu komplett, es fehlen nur einige Gehäuseteile an der Konsole.
 </p>
 
 <p>Die Architektur der Stantec Zebra wurde in den 1950er Jahren von dem Niederländer Willem van der Poel in den Dr. Neher Laboratorien der niederländischen 
@@ -50,14 +50,20 @@
 
 	
 <div class="box center"> 
+	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_li_kl.jpeg" width="177" />
+		</a>
+	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_ohne_Cover_re_kl.jpeg" width="98" />
+		</a>
 	<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" width="435" />
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Werbung.jpeg" width="219" />
 		</a>
 	 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Zeitungsbericht.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Zeitungsbericht.jpeg" width="310" />
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Zeitungsbericht.jpeg" width="155" />
 		</a>
-		<p class="bildtext">li: Bild aus einer Werbebroschüre,<br>
-		re: ein Zeitungsartikel zur Inbetriebnahme unserer Maschine in 1962</p>
+		<p class="bildtext">li und 2 v.li: Stantec Zebra ohne Abdeckung<br>
+		2. v. re: Ansicht aus einer Werbebroschüre<br>re: ein Zeitungsartikel zur Inbetriebnahme unserer Maschine in 1962</p>
 	</div>
 	<br>
 	<p>Über den Fortschritt in der Reparatur der Stantec Zebra Mk. II werden wir im 

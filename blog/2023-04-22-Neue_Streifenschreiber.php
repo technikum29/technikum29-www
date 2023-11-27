@@ -3,6 +3,7 @@
 	$blog_title_kurz = "Siemens T32 und Lorenz T36Lo neu in der Ausstellung";
 	$blog_author = "Detlef";
 	$blog_date = "2023-04-22";
+	$blog_lang = "de";
 
 	require "blog.php";
 	

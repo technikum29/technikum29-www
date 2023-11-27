@@ -3,6 +3,7 @@
 	$blog_title_kurz = "Neuzugänge aus unseren Depots: Olympia Tischrechner RAE 4/15 und 4/30";
 	$blog_author = "Roland";
 	$blog_date = "2023-02-23";
+	$blog_lang = "de";
 
 	require "blog.php";
 	

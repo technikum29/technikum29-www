@@ -3,6 +3,7 @@
 	$blog_title_kurz = "technikum29 wünscht schöne Feiertage";
 	$blog_author = "Sven";
 	$blog_date = "2022-12-13";
+	$blog_lang = "de";
 
 	require "blog.php";
 	

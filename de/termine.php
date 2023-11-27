@@ -46,7 +46,7 @@
 	<h4>Führung Tony R. (Schweden)</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 8. Dezember 2023
+		<dd class="termin">Freitag, 8. Dezember 2023
 		<dt>Uhrzeit
 		<dd>10:00 - 13:00
 		<dt>Leitung

@@ -39,46 +39,14 @@
 <div id="termine">	
 
 
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 18. Nov</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 18. November 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
 
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 11. Nov</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 11. November 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 4. Nov</p>
-	<h4>Führung AEG Pensionäre</h4> 
+	<p class="date left"><em>2023</em> 8. Dez</p>
+	<h4>Führung Tony R. (Schweden)</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Samstag, 4. November 2023
+		<dd class="termin">Samstag, 8. Dezember 2023
 		<dt>Uhrzeit
 		<dd>14:30 - 17:30
 		<dt>Leitung
@@ -87,40 +55,8 @@
 	</dl>
 </div><!--/.termin -->
 	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 4. Nov</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 4. November 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 21. Okt</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 21. Oktober 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
+
+<!-- Template Führung	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 14. Okt</p>
 	<h4>Führung Anika N.</h4> 
@@ -133,25 +69,11 @@
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
-</div><!--/.termin -->
-	
-<div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 14. Okt</p>
-	<h4>allgemeiner Helfertag</h4> 
-	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
-		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
-		um eine Anmeldung per Mail !</b>
-	<dl class="daten">
-		<dt>Tag
-		<dd class="termin">Samstag, 14. Oktober 2023
-		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
-		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
-	</dl>
-</div><!--/.termin -->
-	
+</div>	
+-->
+<!--/.termin -->
+
+<!-- Template Helfertag	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2023</em> 7. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -167,7 +89,9 @@
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
-</div><!--/.termin -->
+</div>
+-->
+<!--/.termin -->
 
 <div style="margin-top:3em">
 	
@@ -200,6 +124,51 @@
 		<th style="width:11em;">Typ
 		<th>Teilnehmer     
 	
+	<tr>	
+		<td>Di. 8.12.2023
+		<td>Computer-History<br>	
+		<td>Führung Tony R. (Schweden)
+		<td>Tony R.<br>
+	<tr>	
+		<td>Sa. 18.11.2023
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 11.11.2023
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 4.11.2023
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Di. 4.11.2023
+		<td>Computer-History<br>	
+		<td>Führung Pensionäre AEG Forschung
+		<td>Peter G.<br>
+	<tr>	
+		<td>Sa. 21.10.2023
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Di. 14.10.2023
+		<td>Computer-History<br>	
+		<td>Führung 
+		<td>Anika N.<br>
+	<tr>	
+		<td>Sa. 14.10.2023
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 7.10.2023
+		<td>Helfertag
+		<td>
+		<td><br>
 	<tr>	
 		<td>Di. 5.9.2023
 		<td>Filmdreh an der Pianola "Jochen Stern"

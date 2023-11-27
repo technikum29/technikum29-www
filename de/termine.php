@@ -48,7 +48,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 8. Dezember 2023
 		<dt>Uhrzeit
-		<dd>14:30 - 17:30
+		<dd>10:00 - 13:00
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft

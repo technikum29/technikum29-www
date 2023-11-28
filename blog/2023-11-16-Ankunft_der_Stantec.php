@@ -10,7 +10,7 @@
 	print_blog_title();
 ?>
 
-<p>Am 14.11.2023 war es soweit: die <a href="/blog/2023-10-20-weitere-Neuzugaenge-2023.php">angekündigte</a> <b>Stantec Zebra Mk. II </b> traf im technikum29 ein ! 
+<p>Am 14.11.2023 war es soweit: die <a href="/blog/2023-10-20-weitere_Neuzugaenge_2023.php">angekündigte</a> <b>Stantec Zebra Mk. II </b> traf im technikum29 ein ! 
 	Wie berichtet erhielten wir diesen extrem seltenen Computer Baujahr 1962 von der ehem. SPAR-Zentrale Oberpfalz 
 	durch Herrn Josef Röger als Dauerleihgabe. Wir haben der Stantec Zebra bereits einen vorläufigen Eintrag auf unserer  
 	<a href="/de/rechnertechnik/stantec.php#">Webseite</a> gewidmet.

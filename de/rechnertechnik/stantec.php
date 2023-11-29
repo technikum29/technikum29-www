@@ -40,7 +40,7 @@
 	einfacher Binärrechner" heisst. Gefertigt wurde die Zebra von der englischen Standard Telephones and Cables Ltd. (Stantec), die später unter STC plc firmierte, bis sie 1991 
 	von der kanadischen NORTEL übernommen wurde. Insgesamt wurden nur etwa 55 Stantec Zebra gefertigt.</p>
 <p>Die Zebra ist ein bit-serieller Computer mit einer Wortlänge von 33 Bit. Die Schaltung basierte in der ersten Version (ab 1958) auf einem Mix von Elektronenröhren
-	und Ge-Transistoren, in der zweiten Version ab ca. 1960 (wie unsere Maschine) nur auf auf Ge-Transistoren. Als Arbeitsspeicher dient ein Magnettrommelspeicher 
+	und Ge-Transistoren, in der zweiten Version ab ca. 1960 (wie unsere Maschine) nur auf Ge-Transistoren. Als Arbeitsspeicher dient ein Magnettrommelspeicher 
 	mit 256 Spuren zu 32 Worten (insgesamt 8K Worte). Jede Spur hat einen eigenen Magnetkopf, die Spurumschaltung erfolgte bei beiden Versionen elektronisch mit einer 
 	Transistorschaltung. Das führte bei einer Umdrehungsgeschwindigkeit von 6000 U/min zu einer Wort-zu-Wort-Zugriffszeit von nur 312 µs.</p>
 <p>Ein Befehlswort besteht aus 15 Funktionsbits, mit denen einzelne Befehle kodiert werden können, eine Kombination von Bits ist erlaubt, was sehr komplexe Befehle 

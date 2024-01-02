@@ -9,6 +9,7 @@
 
 <h2>Kalender und Termine</h2>
 
+<!--
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">Stand 3.11.2023</h4>
 	
@@ -19,7 +20,7 @@
 	Stelle wieder mit neuen Terminen zurückmelden, deshalb...
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2024 werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
-
+-->
 
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
@@ -39,21 +40,73 @@
 <div id="termine">	
 
 
-
-	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2023</em> 8. Dez</p>
-	<h4>Führung Tony R. (Schweden)</h4> 
+	<p class="date left"><em>2024</em> 10. Feb</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Freitag, 8. Dezember 2023
+		<dd class="termin">Samstag, 10. Febraur 2024
 		<dt>Uhrzeit
-		<dd>10:00 - 13:00
+		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
-		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>geschlossene Gesellschaft
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
-</div><!--/.termin -->
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 3. Feb</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 3. Februar 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 20. Jan</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 20. Januar 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 13. Jan</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 10:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 13. Januar 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
 	
 
 <!-- Template Führung	

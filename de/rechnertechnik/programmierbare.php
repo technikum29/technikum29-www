@@ -46,7 +46,7 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 		<p class="small"> <b>DIEHL Lochstreifenstanzer ELS830, Combitron-S, Dilector</b></p>
 		</div>
 		 
-		<p> Hier ist die <b>Combitron-S</b> (1968-71) abgebildet, die zusätzlich 10 Programmspeicher, 10 Konstantenspeicher und 2 Sprungbefehle gegenüber der Ur-Combitron hatte. Als Speichermedium dient ein <a href="speichermedien.php#magnetostriktion" name="backlink-diehl" title="Laufzeitspeicher" class="go">Laufzeitspeicher</a> (Kapazität ca. 1000 Bit). Es handelt sich um einen "flüchtigen Speicher". Nach dem Abschalten waren alle Programme und Daten weg. Der Lochstreifenleser "Dilector" erlaubte schließlich das erneute Einlesen abgelochter Programme.</p><br>
+		<p> Hier ist die <b>Combitron-S</b> (1968-71) abgebildet, die zusätzlich 10 Programmspeicher, 10 Konstantenspeicher und 2 Sprungbefehle gegenüber der Ur-Combitron hatte. Als Speichermedium dient ein <a href="speichermedien.php#magnetostriktion" name="backlink-diehl" title="Laufzeitspeicher" class="go">Laufzeitspeicher</a> (Kapazität ca. 11000 Bit). Es handelt sich um einen "flüchtigen Speicher". Nach dem Abschalten waren alle Programme und Daten weg. Der Lochstreifenleser "Dilector" erlaubte schließlich das erneute Einlesen abgelochter Programme.</p><br>
 		
 		
 	

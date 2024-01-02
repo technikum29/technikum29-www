@@ -68,7 +68,7 @@
 <div class="box center manuelle-bildbreite" style="max-width: 860px">
 	<img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher.jpg" alt="Fotografie eines Laufzeitspeichers" width="421" height="393" />
 	<img src="/shared/photos/rechnertechnik/speichermedien/laufzeitspeicher-details.jpg" alt="Details des Laufzeitspeicherfotos" style="margin-left: 3px;" width="421" height="393" />
-	<p class="bildtext"><i>1 KB Laufzeitspeicher</i></p></div>
+	<p class="bildtext"><i>Laufzeitspeicher</i></p></div>
 	
 		<p>Wenn sich (Ultra-)Schall ausbreitet, benötigt er Zeit zum Durchlaufen des Mediums. In dieser Zeit ist der Schall "gespeichert".
 		

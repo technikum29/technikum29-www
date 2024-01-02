@@ -10,8 +10,6 @@
 	print_blog_title();
 ?>
 
-
-
 <p><b>technikum29 wünscht allen Freunden und Förderern ein frohes Neues Jahr 2024 ! </b></p>
 
 <p>Im vergangenen Jahr waren wir sehr aktiv: </p>

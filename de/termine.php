@@ -113,7 +113,7 @@
 	<h4>Privatführung Matthias P.</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Mittwoch, 8. Januar 2024
+		<dd class="termin">Mittwoch, 10. Januar 2024
 		<dt>Uhrzeit
 		<dd>9:30 - 13:00
 		<dt>Leitung

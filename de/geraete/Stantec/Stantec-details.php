@@ -113,7 +113,33 @@
 		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
 	</div>		
 	
+<p><b>Die Peripherie:</b></p>	
+
+<div class="box center"> 
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_papertape_equipment_hi.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_papertape_equipment_lo.jpeg" width="200" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_reader.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_reader.jpeg" width="150" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Elliott_tape_reader.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Elliott_tape_reader.jpeg" width="100" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Teletype_punch.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Teletype_punch.jpeg" width="150" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_teletype_hi.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_teletype_lo.jpeg" width="200" />
+	</a>
+	<p class="bildtext">Betrieben wurde unsere Stantec mit einem Papertape-Leser von Creed (linkes Bild, li.), wahlweise auch 
+	mit einem Leser von Elliott (linkes Bild mi.) und einem Papertape-Stanzer von Teletype (linkes Bild re.)<br>
+	Die zugehörigen Typschilder als Bild 2., 3. und 4. von li.<br>
+	Der Ausgabe diente ein Creed Fernschreiber mit integrierter Papertape Stanzeinrichtung (re.)<br>
+		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
+	</div>		
+
 <p><b>Diverse Hinweise:</b></p>	
+
 
 <div class="box center"> 
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Umschlag_gr.jpeg" class="popup">
@@ -131,9 +157,23 @@
 	<p class="bildtext">Ein Brief lag in dem Elektronikschrank (li, 2.v.li), ein Hinweis klebte an der Trommel (2.v.re) 
 		und ein Zettel klebte in einer der Türen (re)<br>
 		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
+	</div>	
+		
+<div class="box center"> 
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_1.jpg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_1.jpg" width="150" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_2.jpg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_2.jpg" width="150" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_3.jpg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Serviceheft_3.jpg" width="300" />
+	</a>
+	<p class="bildtext">Und dann fanden wir noch ein Notizheftchen mit Notizen zu Reparaturen an der Punch-Einheit.<br>
+		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
 	</div>		
 		
-	
+		
 <h3>Wiederinbetriebnahme unserer Stantec</h3>
 
 

@@ -120,21 +120,24 @@
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_papertape_equipment_lo.jpeg" width="200" />
 	</a>
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_reader.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_reader.jpeg" width="150" />
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_reader.jpeg" width="100" />
 	</a>
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Elliott_tape_reader.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Elliott_tape_reader.jpeg" width="100" />
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Elliott_tape_reader.jpeg" width="70" />
 	</a>
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Teletype_punch.jpeg" class="popup">
-		<img src="/de/geraete/Stantec/Stantec_Bilder/Teletype_punch.jpeg" width="150" />
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Teletype_punch.jpeg" width="120" />
 	</a>
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_teletype_hi.jpeg" class="popup">
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_teletype_lo.jpeg" width="200" />
 	</a>
-	<p class="bildtext">Betrieben wurde unsere Stantec mit einem Papertape-Leser von Creed (linkes Bild, li.), wahlweise auch 
-	mit einem Leser von Elliott (linkes Bild mi.) und einem Papertape-Stanzer von Teletype (linkes Bild re.)<br>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_75_Typschild_gr.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_75_Typschild_kl.jpeg" width="80" />
+	</a>
+	<p class="bildtext">Betrieben wurde unsere Stantec mit einem Papertape-Leser 6S/6M von Creed (linkes Bild, li.), wahlweise auch 
+	mit einem Leser von Elliott (linkes Bild mi.) und einem Papertape-Stanzer von Teletype (linkes Bild re.).<br>
 	Die zugehörigen Typschilder als Bild 2., 3. und 4. von li.<br>
-	Der Ausgabe diente ein Creed Fernschreiber mit integrierter Papertape Stanzeinrichtung (re.)<br>
+	Der Ausgabe diente ein Creed Fernschreiber Modell 75 K4 MK3 mit integrierter Papertape Stanzeinrichtung (2. v. re.) und zugehöriges Typschild (re.)<br><br>
 		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
 	</div>		
 

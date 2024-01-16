@@ -145,7 +145,7 @@
 
 <p><b>Vorhandene Lochstreifen:</b></p>	
 
-<p>Leider sind zu unserer Stantec nur wenige Lochstreifen vorhanden. Sie lassen sich mit üblichem 5-Kanal-Lochstreifenlesern lesen und 
+<p>Leider sind zu unserer Stantec nur wenige Lochstreifen vorhanden. Sie lassen sich mit üblichen 5-Kanal-Lochstreifenlesern lesen und 
 	entsprechend umkodieren. In der Mehrzahl enthalten unsere Streifen Datensätze. Ein Lochstreifen enthält ein Testprogramm für den
 	Streifenstanzer und -leser. Im Downloadbereich (weiter unten) haben wir die Ergebnisse der Digitalisierung dokumentiert.</p>
 

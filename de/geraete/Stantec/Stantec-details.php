@@ -209,7 +209,7 @@
 	Bedienung lernen.<br>
 	Mittlerweile wurde ein Kontakt zu dem Kurator der "History of Computing Collection at Swansea University (GB, Wales)"
 	hergestellt. In deren Sammlung befindet sich die wahrscheinlich einzige überlebende Stantec Zebra Mk. II neben 
-	unserer Maschine. Wir müssen abwarten, was sich in deren Depots an Unterlagen finden lässt...<br>
+	unserer Maschine. Wir müssen abwarten, was sich in deren Depots an Unterlagen finden lässt. <br><br>
 	wird fortgesetzt ...<br>
 </p>
 

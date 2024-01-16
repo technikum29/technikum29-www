@@ -8,7 +8,7 @@
 
 <h2><?php print $title; ?></h2>
 
-<p>Stand: 14. Jan. 2024   <br><br>
+<p>Stand: 16. Jan. 2024   <br><br>
 	</p>
 	
 <p>*** diese Seite wird noch bearbeitet ! ***
@@ -134,12 +134,34 @@
 <a  href="/de/geraete/Stantec/Stantec_Bilder/Creed_75_Typschild_gr.jpeg" class="popup">
 		<img src="/de/geraete/Stantec/Stantec_Bilder/Creed_75_Typschild_kl.jpeg" width="80" />
 	</a>
-	<p class="bildtext">Betrieben wurde unsere Stantec mit einem Papertape-Leser 6S/6M von Creed (linkes Bild, li.), wahlweise auch 
-	mit einem Leser von Elliott (linkes Bild mi.) und einem Papertape-Stanzer von Teletype (linkes Bild re.).<br>
+	<p class="bildtext">Betrieben wurde unsere Stantec mit einem <b>Papertape-Leser 6S/6M von Creed</b> (linkes Bild, li.), wahlweise auch 
+	mit einem <b>Leser von Elliott T2-94</b> (linkes Bild mi.) und einem <b>Papertape-Stanzer BRPE11 von Teletype</b> (linkes Bild re.).<br>
 	Die zugehörigen Typschilder als Bild 2., 3. und 4. von li.<br>
-	Der Ausgabe diente ein Creed Fernschreiber Modell 75 K4 MK3 mit integrierter Papertape Stanzeinrichtung (2. v. re.) und zugehöriges Typschild (re.)<br><br>
+	Der Ausgabe diente ein <b>Creed Fernschreiber Modell 75 K4 MK3</b> mit integrierter Papertape Stanzeinrichtung (2. v. re.) und zugehöriges Typschild (re.)<br><br>
 		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
 	</div>		
+
+<p>Über die Instandsetzung der Peripheriegeräte werden wir hier berichten ... (wird fortgesetzt)</p><br>
+
+<p><b>Vorhandene Lochstreifen:</b></p>	
+
+<p>Leider sind zu unserer Stantec nur wenige Lochstreifen vorhanden. Sie lassen sich mit üblichem 5-Kanal-Lochstreifenlesern lesen und 
+	entsprechend umkodieren. In der Mehrzahl enthalten unsere Streifen Datensätze. Ein Lochstreifen enthält ein Testprogramm für den
+	Streifenstanzer und -leser. Im Downloadbereich (weiter unten) haben wir die Ergebnisse der Digitalisierung dokumentiert.</p>
+
+<div class="box center"> 
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Stantec_Papertapes.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Stantec_Papertapes.jpeg" width="300" />
+	</a>
+<a  href="/de/geraete/Stantec/Stantec_Bilder/Papertape_06_label.jpeg" class="popup">
+		<img src="/de/geraete/Stantec/Stantec_Bilder/Papertape_06_label.jpeg" width="400" />
+	</a>
+	<p class="bildtext">vorhandene Lochstreifen (li.), Beispiel eines Testprogramm-Streifens (re.)<br><br>
+		Für eine vergrößerte Ansicht bitte auf die Bilder klicken !</p>
+	</div>		
+
+<br>
+
 
 <p><b>Diverse Hinweise:</b></p>	
 

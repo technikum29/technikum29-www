@@ -208,7 +208,7 @@
 	Jurjen Bos hat einen sehr schönen <a class="go" href="https://bitbucket.org/jneb/zebra/src/master/">Emulator</a> für die Zebra geschrieben, 
 	an ihm kann man eine Menge zur Bedienung lernen.<br>
 	Mittlerweile wurde ein Kontakt zu dem Kurator der <a class="go" href="https://www.swansea.ac.uk/library/archive-and-research-collections/hocc/">History of Computing Collection at Swansea University (GB, Wales)</a>
-	hergestellt. In deren Sammlung befindet sich die wahrscheinlich einzige überlebende Stantec Zebra Mk. II neben 
+	hergestellt. In deren Sammlung befindet sich die wahrscheinlich einzige noch überlebende Stantec Zebra Mk. II neben 
 	unserer Maschine. Wir müssen abwarten, was sich in deren Depots an Unterlagen finden lässt. <br><br>
 	wird fortgesetzt ...<br>
 </p>

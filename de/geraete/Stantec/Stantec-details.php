@@ -216,7 +216,8 @@
 
 <h3>Eingescannte Manuals und weitere Bilder zur Stantec:</h3>
 
-	<p>zum Download unserer Dokumente geht es <a href="/de/geraete/Stantec/Stantec_PDF">hier</a>
+	<p>zum Download unserer Dokumente geht es <a href="/de/geraete/Stantec/Stantec_PDF">hier</a><br>
+	<p>Eine Vielzahl von Bildern zu unserer Maschine findet sich <a href="/de/geraete/Stantec/Stantec_Bilder">hier</a>
 </p>
 	
 

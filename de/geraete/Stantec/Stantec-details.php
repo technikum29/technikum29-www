@@ -202,7 +202,16 @@
 <h3>Wiederinbetriebnahme unserer Stantec</h3>
 
 
-<p> ..... </p>
+<p>Da wir zu unserer Stantec Zebra Mk II weder eine Bedienungsanleitung, noch Schaltbilder oder Verdrahtungspläne haben, 
+	ist an eine Wiederinbetriebnahme zur Zeit nicht zu denken. Alleine das unkontrollierte Hochfahren der 
+	Speichertrommel wäre ein immenses Risiko.<br>
+	Jurjen Bos hat einen sehr schönen Emulator für die Zebra geschrieben, an ihm kann man eine Menge zur 
+	Bedienung lernen.<br>
+	Mittlerweile wurde ein Kontakt zu dem Kurator der "History of Computing Collection at Swansea University (GB, Wales)"
+	hergestellt. In deren Sammlung befindet sich die wahrscheinlich einzige überlebende Stantec Zebra Mk. II neben 
+	unserer Maschine. Wir müssen abwarten, was sich in deren Depots an Unterlagen finden lässt...<br>
+	wird fortgesetzt ...<br>
+</p>
 
 
 <h3>Eingescannte Manuals und weitere Bilder zur Stantec:</h3>

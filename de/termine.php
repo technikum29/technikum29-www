@@ -87,7 +87,7 @@
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
+		<dd>*** Achtung: Termin entfällt ! ***
 	</dl>
 </div>
 

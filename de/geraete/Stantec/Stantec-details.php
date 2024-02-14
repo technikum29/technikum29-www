@@ -145,7 +145,7 @@
 
 <p><b>Vorhandene Lochstreifen:</b></p>	
 
-<p>Leider sind zu unserer Stantec nur wenige Lochstreifen vorhanden. Sie lassen sich mit üblichem 5-Kanal-Lochstreifenlesern lesen und 
+<p>Leider sind zu unserer Stantec nur wenige Lochstreifen vorhanden. Sie lassen sich mit üblichen 5-Kanal-Lochstreifenlesern lesen und 
 	entsprechend umkodieren. In der Mehrzahl enthalten unsere Streifen Datensätze. Ein Lochstreifen enthält ein Testprogramm für den
 	Streifenstanzer und -leser. Im Downloadbereich (weiter unten) haben wir die Ergebnisse der Digitalisierung dokumentiert.</p>
 
@@ -202,13 +202,22 @@
 <h3>Wiederinbetriebnahme unserer Stantec</h3>
 
 
-<p> ..... </p>
+<p>Da wir zu unserer Stantec Zebra Mk II weder eine Bedienungsanleitung, noch Schaltbilder oder Verdrahtungspläne haben, 
+	ist an eine Wiederinbetriebnahme zur Zeit nicht zu denken. Alleine das unkontrollierte Hochfahren der 
+	Speichertrommel wäre ein immenses Risiko.<br>
+	Jurjen Bos hat einen sehr schönen <a class="go" href="https://bitbucket.org/jneb/zebra/src/master/">Emulator</a> für die Zebra geschrieben, 
+	an ihm kann man eine Menge zur Bedienung lernen.<br>
+	Mittlerweile wurde ein Kontakt zu dem Kurator der <a class="go" href="https://www.swansea.ac.uk/library/archive-and-research-collections/hocc/">History of Computing Collection at Swansea University (GB, Wales)</a>
+	hergestellt. In deren Sammlung befindet sich die wahrscheinlich einzige noch überlebende Stantec Zebra Mk. II neben 
+	unserer Maschine. Wir müssen abwarten, was sich in deren Depots an Unterlagen finden lässt. <br><br>
+	wird fortgesetzt ...<br>
+</p>
 
 
 <h3>Eingescannte Manuals und weitere Bilder zur Stantec:</h3>
 
-	<p>zum Download unserer Dokumente geht es <a href="/de/geraete/Stantec/Stantec_PDF">hier</a>
-</p>
+	<p>zum Download unserer Dokumente geht es <a href="/de/geraete/Stantec/Stantec_PDF">hier</a><br>
+	</p>
 	
 
 <br>

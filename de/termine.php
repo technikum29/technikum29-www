@@ -137,7 +137,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 3. Februar 2024
 		<dt>Uhrzeit
-		<dd>10:00 - 18:00 Uhr
+		<dd>ACHTUNG: geänderte Startzeit <b>11:00</b> - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
@@ -157,7 +157,7 @@
 		<dd>10:00 - 18:00 Uhr
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
-		<dd>Instandsetzung div. Geräte nach Absprache
+		<dd>*** Achtung: Termin entfällt ! ***
 	</dl>
 </div>
 

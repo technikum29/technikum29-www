@@ -62,7 +62,7 @@
 	<h4>Privatführung Alexander B.</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Mittwoch, 23. März 2024
+		<dd class="termin">Samstag, 23. März 2024
 		<dt>Uhrzeit
 		<dd>12:00 - 15:00
 		<dt>Leitung

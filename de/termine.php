@@ -122,6 +122,19 @@
 	</dl>
 </div>
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 24. Feb</p>
+	<h4>Privatführung Sergey N.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 24. Februar 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
 <!-- *** vergangene Termine und Templates
 
 <div class="box termin clear-after">		

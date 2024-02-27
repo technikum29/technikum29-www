@@ -59,7 +59,7 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>
-	<h4>Privatführung Alexander B.</h4> 
+	<h4>Privatführung Alexander B. und Stefan K.</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 23. März 2024

@@ -58,7 +58,7 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 13. Apr</p>
-	<h4>Privatführung "Freude der mechanischen Registrierkassen"</h4> 
+	<h4>Privatführung "Lahn-Registrierkassen Gießen e.V."</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 13. April 2024

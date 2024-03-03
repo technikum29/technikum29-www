@@ -39,6 +39,53 @@
 
 <div id="termine">	
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 20. Apr</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 20. April 2024
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 13. Apr</p>
+	<h4>Privatführung "Freude der mechanischen Registrierkassen"</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 13. April 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 13. Apr</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 13. April 2024
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>

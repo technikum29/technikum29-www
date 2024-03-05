@@ -88,6 +88,18 @@
 </div>
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 30. Mär</p>
+	<h4>Privatführung Philipp K.</h4>
+		<dt>Tag
+		<dd class="termin">Samstag, 30. März 2024
+		<dt>Uhrzeit
+		<dd>09:00 - 12:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit

@@ -89,7 +89,8 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 30. Mär</p>
-	<h4>Privatführung Philipp K.</h4>
+	<h4>Privatführung Philipp K.</h4> 
+	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 30. März 2024
 		<dt>Uhrzeit
@@ -98,7 +99,8 @@
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft
 	</dl>
-</div>	
+</div>
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>
 	<h4>allgemeiner Helfertag</h4> 

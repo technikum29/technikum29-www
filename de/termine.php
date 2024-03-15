@@ -57,6 +57,20 @@
 </div>
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 17. Apr</p>
+	<h4>Privatführung Projektteam Ingo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 17. April 2024
+		<dt>Uhrzeit
+		<dd>17:00 - 20:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 13. Apr</p>
 	<h4>Privatführung "Lahn-Registrierkassen Gießen e.V."</h4> 
 	<dl class="daten">
@@ -145,6 +159,8 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>	
+
+<!-- *** vergangene Termine und Templates
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 9. Mär</p>
@@ -162,8 +178,6 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
-<!-- *** vergangene Termine und Templates
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 2. Mär</p>

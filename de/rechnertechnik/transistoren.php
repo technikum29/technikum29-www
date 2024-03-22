@@ -58,7 +58,7 @@ Unser Ausstellungsstück (erstes Foto) ist eine IME 84. Es zeigt aber an der Geh
         unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
         
 Details zu <b>IME 84</b> und der <b>sehr seltenen IME 84 m</b> stellen wir <a class="go" href="/de/geraete/IME84/IME84_Details.php">hier</a>
-		im Detail vor.</p>
+		vor.</p>
 	
 <h3>Canon Canola 130</h3>
 

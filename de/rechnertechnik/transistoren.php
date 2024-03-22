@@ -21,21 +21,21 @@
  	Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden, es fehlte jedoch die Möglichkeit des Radizierens (Wurzelberechnung).<br>
  	Ganz nebenbei ist das Design des Rechners sehr ansprechend. Der Wert des Gerätes wird durch das Metall-Gehäuse unterstrichen. Verglichen damit wirkt der Olymia-Rechner 
  	im Kunststoff-Gehäuse eher billig (siehe unten).<br><br>
- 	Die IME 84 wurde in verschiedenen Varianten angeboten: als <b>IME 84</b> und als <b>IME 84 m</b>. Beide Versionen wahlweise auch mit <b>Option RC</b> zum Anschluß von 
+ 	Die IME 84 wurde in verschiedenen Varianten angeboten: als <b>IME 84 m</b> und als <b>IME 84</b>. Beide Versionen wahlweise auch mit <b>Option RC</b> zum Anschluß von 
  	Peripherie (siehe unten).<br>
  	
  <div class="box center">
    <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Ansicht_gr.jpeg" class="popup">
-      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_Ansicht_kl.jpeg" width="363" alt="IME84m">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_Ansicht_kl.jpeg" width="380" alt="IME84m">
    </a>
      <a  href="/de/geraete/IME84/IME84_Bilder/IME84_Ansicht_gr.jpeg" class="popup">
-      <img src="/de/geraete/IME84/IME84_Bilder/IME84_Ansicht_kl.jpeg" width="363" alt="IME84">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84_Ansicht_kl.jpeg" width="360" alt="IME84">
    </a>
   </div>
 <p class="center"><b>IME 84 m (li.) und IME 84 (re.), beide mit Option RC</b></p>
 <div class="box left">
    <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_label_gr.jpeg" class="popup">
-      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_label_kl.jpeg" width="220" >
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_label_kl.jpeg" width="225" >
    </a>
      <a  href="/de/geraete/IME84/IME84_Bilder/IME84_label_gr.jpeg" class="popup">
       <img src="/de/geraete/IME84/IME84_Bilder/IME84_label_kl.jpeg" width="185">
@@ -44,7 +44,8 @@
 
 Die <b>Option RC</b> erkennt man an der Schnittstellenbuchse an der linken Geräteseite. Alle 4 Maschinen im Museum sind RC-Versionen, zeigen das "RC" aber nicht im Typschild.<br><br>
 
-Die Version <b>84 m</b> ist eine abgespeckte <b>IME 84</b>: ihr fehlt das zusätzliche Speicherregister. Damit entfallen auch die zur Anzeige und Steuerung notwendigen Tasten.<br><br>
+Die Version <b>84 m</b> ist eine abgespeckte <b>IME 84</b>: ihr fehlt das zusätzliche Speicherregister. Damit entfallen auch die zur Anzeige und Steuerung notwendigen Tasten. Die 
+	Potenzfunktion entfällt ebenfalls.<br><br>
 Unser Ausstellungsstück (erstes Foto) ist eine IME 84. Es zeigt aber an der Gehäusevorderseite das Label "IME 84 m". Wahrscheinlich wurde ihr im Zuge einer früheren Restaurierung ein
 	Gehäuseoberteil einer 84 m spendiert.</p>
  

@@ -39,7 +39,82 @@
 
 <div id="termine">	
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 20. Apr</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 20. April 2024
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 17. Apr</p>
+	<h4>Privatführung Projektteam Ingo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 17. April 2024
+		<dt>Uhrzeit
+		<dd>17:00 - 20:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 13. Apr</p>
+	<h4>Privatführung "Lahn-Registrierkassen Gießen e.V."</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 13. April 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 13. Apr</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 13. April 2024
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 30. Mär</p>
+	<h4>Privatführung Philipp K.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 30. März 2024
+		<dt>Uhrzeit
+		<dd>09:00 - 12:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -58,6 +133,50 @@
 </div>
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 23. Mär</p>
+	<h4>Privatführung Alexander B. und Stefan K.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 23. März 2024
+		<dt>Uhrzeit
+		<dd>12:00 - 15:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 21. Mär</p>
+	<h4>Privatführung Projektteam Jutta H.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 21. März 2024
+		<dt>Uhrzeit
+		<dd>15:00 - 18:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 19. Mär</p>
+	<h4>Privatführung Projektteam Ingo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 19. März 2024
+		<dt>Uhrzeit
+		<dd>18:00 - 20:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
+
+<!-- *** vergangene Termine und Templates
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 9. Mär</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
@@ -73,7 +192,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 2. Mär</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -108,7 +227,19 @@
 	</dl>
 </div>
 
-<!-- *** vergangene Termine und Templates
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 24. Feb</p>
+	<h4>Privatführung Sergey N.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 24. Februar 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>	
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 10. Feb</p>

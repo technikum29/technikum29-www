@@ -15,13 +15,43 @@
     <div class="box center auto-bildbreite">
         <img src="/shared/photos/rechnertechnik/ime84.jpg" alt="IME 84" width="694" height="415" />
         <p class="bildtext"><b>IME 84</b></p></div>
-<p>IME 84 der italienischen Firma "Industria Macchine Elettroniche" ist der erste Tischrechner der Welt mit Transistoren. Gegenüber der "ANITA" war dies ein enormer Fortschritt. Durch einen frei verfügbaren Speicher war die Anwendungsmöglichkeit wesentlich größer. Als Speichermedium dient ein <a href="speichermedien.php#kernspeicher">Kernspeicher</a>.<br>
- Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden, es fehlte jedoch die Möglichkeit des Radizierens (Wurzelberechnung).<br>
- Ganz nebenbei ist das Design des Rechners sehr ansprechend. Der Wert des Gerätes wird durch das Metall-Gehäuse unterstrichen. Verglichen damit wirkt der Olymia-Rechner im Kunststoff-Gehäuse eher billig (siehe unten).</p>
+<p>IME 84 der italienischen Firma "<b>I</b>ndustria <b>M</b>acchine <b>E</b>lettroniche" ist der erste Tischrechner der Welt mit Transistoren. Gegenüber der "ANITA" war dies ein enormer 
+	Fortschritt. Durch einen frei verfügbaren Speicher war die Anwendungsmöglichkeit wesentlich größer. Als Speichermedium dient ein 
+	<a href="speichermedien.php#kernspeicher">Kernspeicher</a>.<br>
+ 	Dieser Rechner kann immerhin schon die Potenz einer Zahl bilden, es fehlte jedoch die Möglichkeit des Radizierens (Wurzelberechnung).<br>
+ 	Ganz nebenbei ist das Design des Rechners sehr ansprechend. Der Wert des Gerätes wird durch das Metall-Gehäuse unterstrichen. Verglichen damit wirkt der Olymia-Rechner 
+ 	im Kunststoff-Gehäuse eher billig (siehe unten).<br><br>
+ 	Die IME 84 wurde in verschiedenen Varianten angeboten: als <b>IME 84</b> und als <b>IME 84 m</b>. Beide Versionen wahlweise auch mit <b>Option RC</b> zum Anschluß von 
+ 	Peripherie (siehe unten).<br>
+ 	
+ <div class="box center">
+   <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Ansicht_gr.jpeg" class="popup">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_Ansicht_kl.jpeg" width="363" alt="IME84m">
+   </a>
+     <a  href="/de/geraete/IME84/IME84_Bilder/IME84_Ansicht_gr.jpeg" class="popup">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84_Ansicht_kl.jpeg" width="363" alt="IME84">
+   </a>
+  </div>
+<p class="center"><b>IME 84 m (li.) und IME 84 (re.), beide mit Option RC</b></p>
+<div class="box left">
+   <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_label_gr.jpeg" class="popup">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84m_label_kl.jpeg" width="220" >
+   </a>
+     <a  href="/de/geraete/IME84/IME84_Bilder/IME84_label_gr.jpeg" class="popup">
+      <img src="/de/geraete/IME84/IME84_Bilder/IME84_label_kl.jpeg" width="185">
+   </a>
+  </div>
+
+Die <b>Option RC</b> erkennt man an der Schnittstellenbuchse an der linken Geräteseite. Alle 4 Maschinen im Museum sind RC-Versionen, zeigen das "RC" aber nicht im Typschild.<br><br>
+
+Die Version <b>84 m</b> ist eine abgespeckte <b>IME 84</b>: ihr fehlt das zusätzliche Speicherregister. Damit entfallen auch die zur Anzeige und Steuerung notwendigen Tasten.<br><br>
+Unser Ausstellungsstück (erstes Foto) ist eine IME 84. Es zeigt aber an der Gehäusevorderseite das Label "IME 84 m". Wahrscheinlich wurde ihr im Zuge einer früheren Restaurierung ein
+	Gehäuseoberteil einer 84 m spendiert.</p>
+ 
     
 <div class="box left">
         <img src="/shared/photos/rechnertechnik/robox103.jpg" alt="Robox 103" width="214" height="211" />
-        <p class="bildtext clear-after">Dieser frühe elektronische Rechner hatte links eine merkwürdige Schnittstelle. Daran war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
+        <p class="bildtext clear-after">An der seitlichen Schnittstelle der RC-Version war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
 	
 <h3>Canon Canola 130</h3>
 

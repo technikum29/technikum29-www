@@ -51,7 +51,13 @@ Unser Ausstellungsstück (erstes Foto) ist eine IME 84. Es zeigt aber an der Geh
     
 <div class="box left">
         <img src="/shared/photos/rechnertechnik/robox103.jpg" alt="Robox 103" width="214" height="211" />
-        <p class="bildtext clear-after">An der seitlichen Schnittstelle der RC-Version war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
+        <p class="bildtext clear-after">An der seitlichen Schnittstelle der RC-Version war die so genannte <b>"ROBOX 103"</b> anschließbar (siehe Bild). Hierdurch ist eine 
+        schnellere Eingabe von Zahlen möglich. Stellt man die Box z.B. auf Addition, so wurde die eingetippte Zahl nach einer kurzen einstellbaren Zeit automatisch übernommen 
+        und im Speicher saldiert. Die Verwendung der Box hatte aber einen gravierenden Nachteil: Ist man bei der Eingabe zu langsam, werden nur Bruchstücke übernommen, was 
+        unbemerkt zu Fehlern führt. Bei dem Nachfolgemodell "IME 86" hat man daher auf die Verwendung der Robox verzichtet.</p></div>
+        
+Details zu <b>IME 84</b> und der <b>sehr seltenen IME 84 m</b> stellen wir <a class="go" href="/de/geraete/IME84/IME84_Details.php">hier</a>
+		im Detail vor.</p>
 	
 <h3>Canon Canola 130</h3>
 

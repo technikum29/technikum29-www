@@ -10,18 +10,55 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: März. 2024
+	Stand: 24. März 2024
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme und Reparatur unserer vier IME 84 Tischrechner.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
+<h3>Platinen der 84m</h3>
 
+<div class="box center"> 
+ <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_1.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_1_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_3-6.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_3-6_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_7_9-11.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_7_9-11_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_13-16.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_13-16_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_17.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_17_kl.jpeg" width="150"  />
+	</a>
+		<p class="bildtext"><b>IME 84m</b> Platine 1, 3-6, 7 & 9-11, 13-16 und 17<br>Zum Vergrößern bitte auf das Bild klicken !</p>
+	</div>
 
+<div class="box center"> 
+ <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_18-21.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_18-21_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_22-25.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_22-25_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_26-29.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_26-29_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_30-32.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_30-32_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_33.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_33_kl.jpeg" width="150"  />
+	</a>
+		<p class="bildtext"><b>IME 84m</b> Platine 18-21, 22-25, 26-29, 30-32 und 33<br>Zum Vergrößern bitte auf das Bild klicken !</p>
+	</div>
 
-
-
+<p>Im Vergleich zur IME 84 fehlen die Platinen 2 und 8. Die Platinen 32 und 33 (Kathodentreiber) der 84m sind nicht kompatibel zu denen der 84. 
+	Einige Platinen (Nr. 18, 23, 26 und 27) sind teilweise unbestückt</p>
 
 <!--
 <h3>Herkunft unserer MAEL</h3>

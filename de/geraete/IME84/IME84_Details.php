@@ -102,6 +102,31 @@
 
 <p>Im Vergleich zur IME 84 fehlen die Platinen 2 und 8. Die Platinen 32 und 33 (Kathodentreiber) der 84m sind nicht kompatibel zu denen der 84. 
 	Einige Platinen (Nr. 18, 23, 26 und 27) sind teilweise unbestückt</p>
+<br>
+<h3>Reparaturen an der IME 84</h3>
+
+<div class="box left"> 
+ <a  href="/de/geraete/IME84/IME84_Bilder/IME84_Ersatzteile.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Ersatzteile_kl.jpeg" width="300"  />
+	</a>
+	</div>
+
+<p>Die Elektronik der IME84 basiert auf Transistor-Dioden Logikschaltungen und lässt sich recht leicht reparieren. Mit einem Oszilloskop-Komponententester 
+	(z.B Hameg HM604) lassen sich recht schnell fehlerhafte Dioden, Transistoren und Elkos aufspüren. Das <b>Bild links</b> zeigt typische Kandidaten für Ausfälle: 
+	am häufigsten sind es die silbernen Elkos mit den rot-schwarzen Kappen. Wenige Dioden und nur ein einziger Transistor wurde bei insgesamt 2 reparierten 
+	Geräten gefunden. Das rote Potentiometer stammt vom Netzteil (Kontaktprobleme), die Glühlampe aus der Registeranzeige im Keyboard. Viele der kleinen 
+	silbernen Elkos befinden sich auch im Bereich der Tastatur.</p>
+<p>Zur den Versorgungsspannungen haben wir keine offiziellen Hinweise. Unser funktionsbereites Gerät läuft mit -11.1 V und -5.00 V (nur gemeinsam einstellbar durch 
+	schwarzes Poti auf der Netzteilplatine) und +5.05 V (rotes Poti).</p>
+
+
+
+
+
+
+
+
+
 
 <!--
 <h3>Herkunft unserer MAEL</h3>

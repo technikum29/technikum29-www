@@ -114,6 +114,8 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
+
+<!-- *** vergangene Termine und Templates
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 23. Mär</p>
@@ -174,7 +176,6 @@
 	</dl>
 </div>	
 
-<!-- *** vergangene Termine und Templates
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 9. Mär</p>

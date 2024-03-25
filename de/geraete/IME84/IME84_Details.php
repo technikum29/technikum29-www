@@ -10,14 +10,57 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 24. März 2024
+	Stand: 25. März 2024
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme und Reparatur unserer vier IME 84 Tischrechner.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
+<h3>Platinen der IME 84</h3>
 
-<h3>Platinen der 84m</h3>
+<p>Die IME 84 hat 33 Platinen, die den eigentlichen Rechner bilden. Platine 1 steckt nicht in einem Busstecker. Platine 12 (der Kernspeicher) 
+	ist nicht gesteckt und Platine 33 hat nur halbe Länge. Die 34ste Position im Modulhalterbleibt leer.</p>
+	
+<div class="box center"> 
+ <a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_1.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_1_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_2-5.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_2-5_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_6-9.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_6-9_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_10,11,13,14.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_10,11,13,14_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_15-18.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_15-18_kl.jpeg" width="150"  />
+	</a>
+		<p class="bildtext"><b>IME 84</b> Platinen 1 bis 18<br>Zum Vergrößern bitte auf das Bild klicken !</p>
+	</div>
+
+<div class="box center"> 
+ <a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_19-22.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_19-22_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_23-25.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_23-25_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_26-29.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_26-29_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_30-32.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_30-32_kl.jpeg" width="150"  />
+	</a>
+<a  href="/de/geraete/IME84/IME84_Bilder/IME84_Platine_33.jpeg" class="popup">
+		<img src="/de/geraete/IME84/IME84_Bilder/IME84_Platine_33_kl.jpeg" width="110"  />
+	</a>
+		<p class="bildtext"><b>IME 84</b> Platinen 19 bis 33<br>Zum Vergrößern bitte auf das Bild klicken !</p>
+	</div>
+
+
+<h3>Platinen der IME 84m</h3>
 
 <div class="box center"> 
  <a  href="/de/geraete/IME84/IME84_Bilder/IME84m_Platine_1.jpeg" class="popup">

@@ -67,12 +67,14 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 27. April 2024
 		<dt>Uhrzeit
-		<dd>9:00 - 18:00 Uhr
+		<dd><b>***ACHTUNG: Termin entfällt ! ***</b>
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
+
+	<!-- *** vergangene Termine und Templates
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 20. Apr</p>
@@ -92,7 +94,7 @@
 </div>
 
 	
-<!-- *** vergangene Termine und Templates
+
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 17. Apr</p>

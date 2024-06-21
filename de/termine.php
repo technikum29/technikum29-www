@@ -72,6 +72,19 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 29. Jun</p>
+	<h4>Privatführung Elisa L. und Robert W.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 29. Juni 2024
+		<dt>Uhrzeit
+		<dd>14:00 - 17:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 29. Jun</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt

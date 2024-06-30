@@ -39,6 +39,21 @@
 
 <div id="termine">	
 
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 31. Aug</p>
+	<h4>Privatführung Martina N. und Jessica K.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 31. August 2024
+		<dt>Uhrzeit
+		<dd>10:30 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 31. Aug</p>
 	<h4>allgemeiner Helfertag</h4> 

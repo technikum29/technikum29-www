@@ -18,7 +18,7 @@
 <ul class="u1">
 	<li><a seiten_id="startseite" href="/de/">Museum</a></li>
 	<!--
-	<li><a seiten_id="termine" href="/de/termine.php">Termine</a></li>
+	<li><a seiten_id="termine" href="/de/termine.php">Termine u. Führungen</a></li>
 	<li><a seiten_id="news" href="/de/news.php">Neues</a></li>
 	-->
 	<li><a seiten_id="termine" href="/de/termine.php">Termine</a></li>

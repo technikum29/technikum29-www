@@ -141,7 +141,7 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 
 		
 	<p>2024 kam dann noch der zugehörige <b>Plotter hp9125A</b> in unsere Sammlung. Auf einer Zeichenfläche von 25 cm auf 38 cm zeichnet er mit einer Genauigkeit von ± 0,8 mm. Die Koordinaten 
-		und die Stiftposition (Stift auf / ab) werden per "FMT"-Befehlt vom hp9100 an den Plotter übergeben</p><br>
+		und die Stiftposition (Stift auf / ab) werden per "FMT"-Befehlt vom hp9100 an den Plotter übergeben</p>
 	<p>Der hp9100 hatte nur einen Anschluß für Peripherie. Um mehr als eines der vorgestellten Geräte (Drucker, Plotter, Speichererweiterung) anschließen zu können 
 	benötigte man die <b>hp9102 Buffer Box</b>. Nur die Kombination 9100 - 9120 - 9125 benötigte keine Buffer Box, weil der Plotter auch einen Ausgang für das Signalkabel hat.</p>
 

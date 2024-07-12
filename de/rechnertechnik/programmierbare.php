@@ -135,15 +135,16 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 		
 <div class="box right">
       <a  href="/de/geraete/hp9125/hp_9125_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9125/hp_9125_kl.jpeg" width="600" ">
+      <img src="/de/geraete/hp9125/hp_9125_kl.jpeg" width="550" ">
    </a>
   </div>
 
 		
 	<p>2024 kam dann noch der zugehörige <b>Plotter hp9125A</b> in unsere Sammlung. Auf einer Zeichenfläche von 25 cm auf 38 cm zeichnet er mit einer Genauigkeit von ± 0,8 mm. Die Koordinaten 
 		und die Stiftposition (Stift auf / ab) werden per "FMT"-Befehlt vom hp9100 an den Plotter übergeben</p>
-	<p>Der hp9100 hatte nur einen Anschluß für Peripherie. Um mehr als eines der vorgestellten Geräte (Drucker, Plotter, Speichererweiterung) anschließen zu können 
-	benötigte man die <b>hp9102 Buffer Box</b>. Nur die Kombination 9100 - 9120 - 9125 benötigte keine Buffer Box, weil der Plotter auch einen Ausgang für das Signalkabel hat.</p>
+	<p>Der hp9100 hatte nur einen Anschluß für Peripherie. Um mehr als eines der vorgestellten Geräte (Drucker, Plotter, Speichererweiterung) anschließen zu können, 
+	benötigte man die <b>hp9102 Buffer Box</b>. Nur die Kombination 9100 - 9120 - 9125 benötigte keine Buffer Box, weil der Plotter auch einen Ausgang für das Signalkabel hat.
+	Aus den Unterlagen geht nicht hervor, ob der Plotterausgang auch die Speichererweiterung bedienen kann.</p>
 
 	
 

@@ -118,27 +118,32 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 		
 	<p>Der Hauptkonkurrent WANG konnte erst 2 Jahre später mit dem  <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700"> WANG 700</a> nachziehen.</p>
         </p>
+        
+<div class="box left">
+
+   <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="500" ">
+   </a>
+     
+  </div>
+
 
 	<p>2023 konnten wir ein seltenes Peripheriegerät als Zugang verbuchen: die <b>externe Speichererweiterung hp9101</b>. Sie erweitert die Rechner
 		9100A bzw. 9100B um 248 zusätzliche Speicherregister oder 3472 Programmspeicherschritte. Zusätzlich werden Unterprogrammverschachtelungen
 		in bis zu 14 Stufen möglich. Auch hier wird ein Kernspeicher eingesetzt. Wir stellen dieses seltene Gerät <a class="go" href="/de/geraete/hp9101/hp9101_Details.php">hier</a>
 		im Detail vor.</p>
 		
+<div class="box right">
+      <a  href="/de/geraete/hp9125/hp_9125_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9125/hp_9125_kl.jpeg" width="600" ">
+   </a>
+  </div>
+
+		
 	<p>2024 kam dann noch der zugehörige <b>Plotter hp9125A</b> in unsere Sammlung. Auf einer Zeichenfläche von 25 cm auf 38 cm zeichnet er mit einer Genauigkeit von ± 0,8 mm. Die Koordinaten 
 		und die Stiftposition (Stift auf / ab) werden per "FMT"-Befehlt vom hp9100 an den Plotter übergeben</p>
 
-	<div class="box center">
-
-   <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="350
-      " ">
-   </a>
-      <a  href="/de/geraete/hp9125/hp_9125_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9125/hp_9125_kl.jpeg" width="350
-      " ">
-   </a>
-  </div>
-  <p class="center"><b>Speicherweiterung hp9101 (li.), Plotter hp9125 mit Testplot (re.)</b></p>
+	
 
 
 

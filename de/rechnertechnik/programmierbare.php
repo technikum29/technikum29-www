@@ -97,30 +97,48 @@ Dieses Verfahren war sehr umständlich und zeitraubend.
 		wissenschaftlichen Funktionen. Als interner Speicher dient ein Kernspeicher, bei dem auch nach dem Abschalten Programme und Daten 
 		nicht verloren gehen. Als externer Speicher werden Magnetkarten (kleiner als die von Olivetti) verwendet. Der aufgesetzte Drucker 
 		war optional. Als Anzeigemedium dient eine Oszilloskopröhre, mit welcher der Inhalt von 3 Registern abgebildet wird. Die 
-		Zeichengenerierung wird von einem gefädelten ROM übernommen. Mit diesem relativ kompakten Rechner hat HP Maßstäbe gesetzt. Billig 
-		war ein solcher Rechner nicht: Er kostete anfangs 23.000,- DM  (etwa 12.000 Euro) und war daher für Privatpersonen praktisch 
+		Zeichengenerierung wird von einem gefädelten ROM übernommen. </p>
+		
+	<div class="box center">
+   <a  href="/shared/photos/rechnertechnik/hp9100-display.jpg" class="popup">
+      <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" width="375">
+   </a>
+    <a  href="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_kl.jpeg" width="300
+      " ">
+   </a>
+
+  </div>
+  <p class="center"><b>HP 9100 Bildröhrendisplay (li.), Ausdruck auf 9120 (re.)</b></p>
+
+		
+		
+	<p>Mit diesem relativ kompakten Rechner hat HP Maßstäbe gesetzt. Billig war ein solcher Rechner nicht: Er kostete anfangs 23.000,- DM  (etwa 12.000 Euro) und war daher für Privatpersonen praktisch 
 		unerschwinglich. <br/>
+		
+	<p>Der Hauptkonkurrent WANG konnte erst 2 Jahre später mit dem  <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700"> WANG 700</a> nachziehen.</p>
+        </p>
+
 	<p>2023 konnten wir ein seltenes Peripheriegerät als Zugang verbuchen: die <b>externe Speichererweiterung hp9101</b>. Sie erweitert die Rechner
 		9100A bzw. 9100B um 248 zusätzliche Speicherregister oder 3472 Programmspeicherschritte. Zusätzlich werden Unterprogrammverschachtelungen
 		in bis zu 14 Stufen möglich. Auch hier wird ein Kernspeicher eingesetzt. Wir stellen dieses seltene Gerät <a class="go" href="/de/geraete/hp9101/hp9101_Details.php">hier</a>
 		im Detail vor.</p>
-	<p>Der Hauptkonkurrent WANG konnte erst 2 Jahre später mit dem  <a class="go" href="/de/rechnertechnik/ic-technik.php#wang700"> WANG 700</a> nachziehen.</p>
-        </p>
+		
+	<p>2024 kam dann noch der zugehörige <b>Plotter hp9125A</b> in unsere Sammlung. Auf einer Zeichenfläche von 25 cm auf 38 cm zeichnet er mit einer Genauigkeit von ± 0,8 mm. Die Koordinaten 
+		und die Stiftposition (Stift auf / ab) werden per "FMT"-Befehlt vom hp9100 an den Plotter übergeben</p>
 
 	<div class="box center">
-   <a  href="/shared/photos/rechnertechnik/hp9100-display.jpg" class="popup">
-      <img src="/shared/photos/rechnertechnik/hp9100-display.jpg" width="250">
-   </a>
-    <a  href="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9100/hp9100_Bilder/hp9100B_print_kl.jpeg" width="200
+
+   <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="350
       " ">
    </a>
-   <a  href="/de/geraete/hp9101/hp9101_Bilder/hp9101_front_gr.jpeg" class="popup">
-      <img src="/de/geraete/hp9101/hp9101_Bilder/hp9101_front.jpeg" width="310
+      <a  href="/de/geraete/hp9125/hp_9125_gr.jpeg" class="popup">
+      <img src="/de/geraete/hp9125/hp_9125_kl.jpeg" width="350
       " ">
    </a>
   </div>
-  <p class="center"><b>HP 9100 Bildröhrendisplay (li), Ausdruck auf 9120 (mi), Speicherweiterung hp9101 (re)</b></p>
+  <p class="center"><b>Speicherweiterung hp9101 (li.), Plotter hp9125 mit Testplot (re.)</b></p>
 
 
 

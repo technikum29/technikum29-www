@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 5. Juni 2023
+	Stand: 12. Juli 2024
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zur hp9101 Speichererweiterung und die Wiederinbetriebnahme der Maschine.
@@ -31,7 +31,8 @@
 	werden. <br>
 	Da Programme nur im Kernspeicher des 9100A/B ausgeführt werden können, werden Programme und Unterprogramme dort erstellt und als Programmmodule 
 	in die Speichererweiterung ausgelagert. Bei Bedarf läd die 9101 Unterprogramme in den Hauptrechner und erlaubt bis zu 14 Ebenen für Unterprogramme. 
-	Ferner können Speicherbereiche in der 9101 gegen Änderung geschützt werden. Alles in allem eine mächtige Erweiterung der Fähigkeiten der 9100er Rechner !<br>
+	Ferner können Speicherbereiche in der 9101 gegen Änderung geschützt werden. Alles in allem eine mächtige Erweiterung der Fähigkeiten der 9100er Rechner (Details 
+	siehe am Ende dieser Seite) !<br>
 	Unsere Maschine ist Baujahr 1971 (Datum-Codes auf den ICs) und hat die Serien-Nr 0980A00880.
 </p>
 
@@ -137,9 +138,24 @@
 	eingetippt werden, da die zum 9101 gehörende Magnetkarte mit dem Diagnoseprogramm fehlt.
 	</p>
 
+<p><b>UPDATE Juli 2024</b><br>
+	Als wir uns den Speicherinhalt der Speichererweiterung etwas näher angesehen hatten, fanden wir die beiden Teile des Testprogramms im Speicher ! Es ist der 
+	Vorteil der Kernspeicher, dass der Speicherinhalt auch ohne Stromversorgung erhalten bleibt. Das ersparte uns das mühevolle Eintippen des Prüfprogramms. Wir 
+	sicherten das Programm auf Magnetkarte und starteten es: es lief ohne Probleme durch, <b>die Speichereinheit ist voll betriebsbereit.</b></p>
+	
+<p>Die <b>Organisation des Speichers</b> ist im Detail im <b>HP Calculator Extended Memory Mod. 9101A Operating Manual</b> beschrieben. Hie nur ganz kurz das Prinzip:<br><br>
+	Die Einheit umfasst 248 Register entsprechend den 16 bzw 32 Register der Rechner 9100A bzw. 9100B. Jedes Register kann 14 Programmschritte aufnehmen, maximal 
+	sind 248 * 14 = 3472 Programmschritte möglich.<br>
+	Programme aus dem Speicher des 9100 werden ab Register 0 in die Erweiterungseinheit geschrieben und fortlaufend nummeriert. Es sind max. 100 Programme (00 - 99) 
+	in der Speichererweiterung möglich. Das erste freie Register "hinter" 
+	dem zuletzt gespeicherten Programm wird zur Grenze für die <b>File Protect Funktion</b>: Register mit kleineren Adressen (also die abgelegten Programme) können 
+	nur gelesen werden. Ab der Grenzadresse 
+	können Register gelesen und geschrieben werden, das ist der Pool der freien Datenregister. Dieser Schutz wandert mit jedem neu hinzu gefügten Programm weiter.<br>
+	Zur Ausführung gespeicherter Programme werden diese mit ihrer Nummer über FMT-Befehle vom Rechner aufgerufen und in den Hauptspeicher des 9100 geladen, nur hier können sie ausgeführt 
+	werden. Der Bereich über der Grenze steht den Programmen als freier Datenbereich zur Verfügung.<br>
+	Für spezielle Zwecke lässt sich die Speichergrenze auch über einen FMT-Befehl manuell ändern.</p>
 
-	<p> *** wird fortgesetzt *** 
-		</p>
+
 
 
 

@@ -146,14 +146,14 @@
 <p>Die <b>Organisation des Speichers</b> ist im Detail im <b>HP Calculator Extended Memory Mod. 9101A Operating Manual</b> beschrieben. Hie nur ganz kurz das Prinzip:<br><br>
 	Die Einheit umfasst 248 Register entsprechend den 16 bzw 32 Register der Rechner 9100A bzw. 9100B. Jedes Register kann 14 Programmschritte aufnehmen, maximal 
 	sind 248 * 14 = 3472 Programmschritte möglich.<br>
-	Programme aus dem Speicher des 9100 werden ab Register 0 in die Erweiterungseinheit geschrieben und fortlaufend nummeriert. Es sind max. 100 Programme (00 - 99) 
+	Programme aus dem Speicher des 9100 werden ab Register 0 in die Erweiterungseinheit geschrieben und eindeutig nummeriert. Es sind max. 100 Programme (00 - 99) 
 	in der Speichererweiterung möglich. Das erste freie Register "hinter" 
 	dem zuletzt gespeicherten Programm wird zur Grenze für die <b>File Protect Funktion</b>: Register mit kleineren Adressen (also die abgelegten Programme) können 
 	nur gelesen werden. Ab der Grenzadresse 
 	können Register gelesen und geschrieben werden, das ist der Pool der freien Datenregister. Dieser Schutz wandert mit jedem neu hinzu gefügten Programm weiter.<br>
 	Zur Ausführung gespeicherter Programme werden diese mit ihrer Nummer über FMT-Befehle vom Rechner aufgerufen und in den Hauptspeicher des 9100 geladen, nur hier können sie ausgeführt 
 	werden. Der Bereich über der Grenze steht den Programmen als freier Datenbereich zur Verfügung.<br>
-	Für spezielle Zwecke lässt sich die Speichergrenze auch über einen FMT-Befehl manuell ändern.</p>
+	Für spezielle Zwecke (z.B. dem Überschreiben von Programmen) lässt sich die Speichergrenze auch über einen FMT-Befehl manuell ändern.</p>
 
 
 

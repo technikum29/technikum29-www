@@ -24,8 +24,11 @@
 
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
-<p>Sie möchten als Gruppe (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
-	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>
+<p>Sie möchten <b>als Gruppe</b> (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
+	Dann melden sie sich bitte per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>. Wir versuchen, ihre
+	Terminwünsche, auch unter der Woche, zu ermöglichen.
+<p>Sie möchten als <b>Einzelperson oder zu zweit</b> einfach mal vorbei schauen ? Dann kommen sie an einem der u.g. <b>Helfertage</b> vorbei. Auch hier
+	bitten wir unbedingt um Anmeldung per Mail an <a href="mailto:kontakt@technikum29.de">kontakt@technikum29.de</a>.
 <p>Unsere <strong>Führungen</strong> dauern etwa 2 bis 2 1/2 h, je nach Interesse der Gruppe auch länger. Nach einer 
 	kurzen Einführung zur Geschichte des Museums und einem Überblick über die Sammlung führen 
 	wir typische Geräte der frühen Computerära vor: Lochkartengeräte, Fernschreiber, frühe FAX-Geräte, 
@@ -110,6 +113,8 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
+
+	<!-- *** vergangene Termine und Templates
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 6. Jul</p>
@@ -202,10 +207,6 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
-
-	<!-- *** vergangene Termine und Templates
-
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 11. Mai</p>

@@ -17,7 +17,7 @@
 	besonderen Sicherheitsmaßnahmen bedeutet das auch, dass Besuche bei uns nicht wie üblich in einem Museum ablaufen. "Eintrittskarte kaufen 
 	und im Museum herumschlendern" geht leider nicht.</p>
 	
-<p>Wir führen auf Anfrage Einzelpersonen und <b>kleine Gruppen</b> von 4 - max 7 Personen. Alle Details zur Anmeldung finden sie <a href="/de/termine.php#">hier</a>.
+<p>Wir führen auf Anfrage <b>Einzelpersonen</b> und <b>kleine Gruppen</b> von 4 - max 7 Personen. Alle Details zur Anmeldung finden sie <a href="/de/termine.php#">hier</a>.
 </p>
 <br>
 Roland

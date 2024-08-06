@@ -10,6 +10,8 @@
 <p>Wir bekommen derzeit häufig ähnliche Fragen gestellt, die wir hier veröffentlichen
 und auch gleich beantworten möchten.
 
+<!--
+
 <h3>Fragen bezüglich der Corona-Pandemie (COVID-19)</h3>
 
 <dl class="faq">
@@ -109,7 +111,7 @@ herzlich eingeladen. Um vorherige Koordination per E-Mail wird gebeten.
 
 </dl>
 
-
+-->
 <h3>Sonstige Fragen</h3>
 
 <dl class="faq">
@@ -117,22 +119,25 @@ herzlich eingeladen. Um vorherige Koordination per E-Mail wird gebeten.
 <dt>
 Ich habe Interesse an einer Führung (Besichtigung).
 <dd>
-Wir befinden uns derzeit in einer Neugründungsphase und haben daher weder regelmäßige
-Öffnungszeiten, noch bieten wir Führungen an. In Einzelfällen führen wir derzeit in
-den Museumsräumen Gespräche mit Menschen, die beim technikum29 mitmachen möchten.
+technikum29 hat keine regulären Öffnungszeiten. Führungen finden nach individueller 
+	Absprache statt.
 
-<dd><em>Update:</em> Wir <a href="/de/termine">bieten ab Januar 2020 wieder Führungen</a> an. 
+Informationen zu Führungen finden sie <a href="/de/termine.php">hier</a>. 
 
 
 <dt>
 Ich habe einen Gegenstand, den ich dem <a href="/">technikum29</a>
    verkaufen oder verschenken möchte.
 <dd>
-Das technikum29 befindet sich in einer Neuorientierungsphase und muss sich zudem 
-räumlich stark verkleinern. Von daher können wir Gerätespenden nur in Ausnahmefällen 
-annehmen, z.B. wenn es sich um eine Ergänzung/Erweiterung zu einem vorhandenen
-Exponat handelt oder um Ersatz- oder Verschleißteile zu unseren Maschinen. Für
-"Neues" haben wir leider im Augenblick keinen Platz.
+technikum29 kauft generell keine Exponate an. Als Spende/Dauerleihgabe nehmen wir gerne 
+	Exponate an, wenn sie in unser Ausstellungskonzept passen.
+	
+<dt>
+Ich möchte das technikum29 durch meine Mitarbeit unterstützen.
+<dd>
+Melden sie sich einfach an einem <a href="/de/termine.php">Helfertag</a> an. Dann besprechen 
+	wir, wie sie uns unterstützen können. Es gibt eine Menge zu tun: Dokumentation, Pflege 
+	der Webseite, Reparatur von Geräten, Erarbeitung von Präsentationen uvam.
 
 <dt>
 Ich habe Zeit oder Geld, welches ich dem technikum29 schenken/spenden möchte.

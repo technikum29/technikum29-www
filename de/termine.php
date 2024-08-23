@@ -42,6 +42,20 @@
 
 <div id="termine">	
 
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 21. Sep</p>
+	<h4>Privatführung Gruppe Markus S.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 21. September 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
@@ -59,6 +73,21 @@
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 14. Sep</p>
+	<h4>Privatführung Anette P.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 14. September 2024
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
 	
@@ -83,7 +112,7 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 31. Aug</p>
-	<h4>Privatführung Martina N. und Jessica K.</h4> 
+	<h4>Privatführung Martina N., Jessica K. und Petra A.</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 31. August 2024

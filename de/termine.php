@@ -42,7 +42,20 @@
 
 <div id="termine">	
 
-
+<div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 1.Okt</p>
+	<h4>Privatführung Gruppe Peter B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 1. Oktober 2024
+		<dt>Uhrzeit
+		<dd>15:00 - 18:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
 	<h4>Privatführung Gruppe Markus S.</h4> 

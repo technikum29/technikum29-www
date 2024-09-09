@@ -51,8 +51,8 @@
 	</div>
 	<div class="slide">
 		
-		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_9.jpeg" width="940" height="705">
-		<p class="bildtext">. elektronische Tischrechner (hi. mitte), davor Teile der UNIVAC 9200, rechts IBM 5100 und IBM 5320</p>
+		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_9_neu.jpeg" width="940" height="705">
+		<p class="bildtext">. elektronische Tischrechner (hi. mitte), davor Stantec ZEBRA MK II</p>
 	</div>
 	<div class="slide">
 		

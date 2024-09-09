@@ -51,7 +51,7 @@
 	</div>
 	<div class="slide">
 		
-		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_9_neu.jpeg" width="940" height="705">
+		<img class="no-copyright" src="/shared/photos/rundgang/rundgang_9_new.jpeg" width="940" height="705">
 		<p class="bildtext">. elektronische Tischrechner (hi. rechts), davor Stantec ZEBRA MK II</p>
 	</div>
 	<div class="slide">

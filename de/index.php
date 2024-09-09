@@ -201,13 +201,13 @@
          Industriekultur Rhein-Main</a> mit Gastrednern, die Förderung von
          <a href="/de/sonstiges.php#leander">Kunst</a>, Film und 
          <a href="/de/sonstiges.php#music">Musik</a>. Mit speziellen
-         <a href="de/lehrerinfo.php">Führungen für Schulklassen</a> sprach er
+         <a href="/de/lehrerinfo.php">Führungen für Schulklassen</a> sprach er
          Kinder an, wobei er insbesondere MittelstufenschülerInnen versuchte mit
          <a href="/robotik/">Roboter-Kurse</a> zu begeistern, die nicht musealen
          Anspruch hatten, sondern in der zeitgenössische Bastlertechnik (LEGO,
          Arduino, »Tinker Toys«) verwendete.
          Für tiefergehende Informationen sei auf die
-         vielfältigen <a href="/de/impressum.php#Über_das_Museum" class="go">Zeitungsberichte</a>
+         vielfältigen <a href="/de/impressum.php#Zeitungsecho_zum_Museum" class="go">Zeitungsberichte</a>
          dieser Zeit verwiesen.
       <p>Seit dem Tod von H. Müller wurde das Museum von EnthusiastInnen, die an
          die Prinzipien glauben, im Geiste Müllers fortgeführt. Der seit 2019

@@ -131,6 +131,7 @@
       <li>2020: <a href="https://www.fnp.de/lokales/main-taunus/kelkheim-ort95937/kelkheim-die-retter-der-technik-spielwiese-90153095.html">Die Retter
       der Technik-Spielwiese: Im privaten "technikum29" tut sich weiterhin einiges, aber Lagerräume werden gesucht</a> (Frankfurter Neue Presse, <a href="/download/zeitungsartikel/FNP 2020 Silvester (Website).pdf">PDF</a>)
       <li>2022: <a href="/shared/photos/blog/2022-06-06-Neuzugaenge-Kassel/Kasselp2.jpeg">Technikum setzt mit Zugängen nun auf Computergeschichte</a> (Höchster Kreisblatt)
+      <li>2024: <a href="/shared/photos/blog/Presse_20240821_gr.jpeg">Tonnenschwerer Rechner-Koloss als Neuzugang</a> (Höchster Kreisblatt)
      
     </ul>
 

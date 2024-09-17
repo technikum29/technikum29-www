@@ -127,7 +127,8 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
-	
+
+<!--
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
 	<h4>Privatführung Gruppe Markus S.</h4> 
@@ -141,7 +142,7 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
-	
+-->	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
 	<h4>allgemeiner Helfertag</h4> 

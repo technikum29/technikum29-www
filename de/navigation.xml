@@ -216,6 +216,11 @@
 					<li><a seiten_id="magnetic-stick-memory" href="/de/geraete/staebchenspeicher.php">Detailerklärung der Stäbchenspeicher</a></li>
 				</ul>
 			</li>
+			<li><a seiten_id="sonstige_computer" href="/de/rechnertechnik/sonstiges.php">Sonstiges</a>
+				<ul class="u3">
+					<li><a href="/de/rechnertechnik/sonstiges.php#enigma">Enigma</a></li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 	<li><a href="/de/kommunikationstechnik/telegraphie.php">Kommunikations-technik</a>

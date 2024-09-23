@@ -39,7 +39,7 @@
 	chiffrierten Text Buchstaben für Buchstaben ein und liest die Nachricht am Glühlampenfeld ab.</p>
 	
 	
-<p>Wir werden in Kürze detailliert über dieses schöne Stück <a href="/de/geraete/Enigma_Replika/Enigma_Replika_Details.php">hier</a>  
+<p>Wir werden in Kürze detailliert über dieses schöne Stück <a href="/de/rechnertechnik/sonstiges.php#enigma">hier</a>  
 	berichten !</p>
 
 

@@ -9,4 +9,4 @@
 
 <h3 id="enigma">Enigma</h3>
 
-<p>Text zur Enigma erscheint an dieser Stelle.
+<p>Text zur Enigma erscheint an dieser Stelle äöü.

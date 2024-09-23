@@ -1,7 +1,7 @@
 <?php
 	$seiten_id = 'EnigmaReplika';
 	$version = '$Id';
-	$titel = 'ENIGMA Replika';
+	$titel = 'Enigma Replika';
 	
 	require '../../../lib/technikum29.php';
 ?>
@@ -10,69 +10,76 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 16.9.2024
+	Stand: 23.9.2024
 </p>
 
-	<p> An dieser Stelle werden wir über die Bestandsaufnahme zu unserer <b>ENIGMA Replika</b> berichten.
+	<p> An dieser Stelle werden wir über die Bestandsaufnahme zu unserer <b>Enigma Replika</b> berichten.
 	Die Seite wird kontinuierlich mit neuen Inhalten ergänzt.
 </p>
 
 
 
-<h3>einige Detailbilder unserer Q1</h3>
+<h3>einige Detailbilder unserer Enigma-Replika</h3>
 
-<!--
-	<p>Zum Vergrößern der Bilder bitte anklicken !</p>
-
+<p>Die Replika ist mit 5 Chiffrierwalzen ausgestattet. Vom Erbauer waren aber nur Walze 2 und Walze 3 bestückt. Entweder kam er 
+	nicht mehr zur Fertigstellung, oder er wollte die Walzen neu verdrahten. Wir haben Walze 5 gemäß dem Schema der zugehörigen 
+	Walze des Modells "I" bestückt, um die Replika in Betrieb nehmen zu können.</p>
+	
 <div class="box center"> 
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Blick_ins-Chassis.jpg" width="700"  height="434"/>
+		<a  href="/de/geraete/Enigma_Replika/Enigma_Replika_Bilder/Enigma_Repika_Rotor_innen_1_gr.jpeg" class="popup">
+		<img src="/de/geraete/Enigma_Replika/Enigma_Replika_Bilder/Enigma_Repika_Rotor_innen_1_kl.jpeg" width="300"  "/>
 	</a>
-		<p class="bildtext"><b>Q1 lite</b> Blick in die geöffnete Maschine von hinten</p>
+		<a  href="/de/geraete/Enigma_Replika/Enigma_Replika_Bilder/Enigma_Repika_Rotor_innen_2_gr.jpeg" class="popup">
+		<img src="/de/geraete/Enigma_Replika/Enigma_Replika_Bilder/Enigma_Repika_Rotor_innen_2_kl.jpeg" width="300"  "/>
+	</a>		
+		<p class="bildtext">Zum Vergrößern bitte das Bild anklicken !</p>
 	</div>
 
+<p>Ein Blick in die geöffnete Walze zeigt den Fortschritt der Neu-Verdrahtung.</p>
 
-<div class="box center"> 
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Hauptplatine.jpg" width="300"  height="200"/>
-	</a>
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_PCB_Display.jpg" width="382"  height="200"/>
-	</a>
-		<p class="bildtext"><b>Q1 lite</b> Hauptplatine (links) und Displayplatine (rechts)</p>
-	</div>
+<h3>Technische Details</h3>
 
-<div class="box center"> 
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_links.jpg" width="350"  height="216"/>
-	</a>
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Netzteil_rechts.jpg" width="352"  height="216"/>
-	</a>
-		<p class="bildtext"><b>Q1 lite</b> Netzteilplatine linke und rechte Seite</p>
-	</div>
+<p>Der innere Aufbau der Replika folgt leider nicht 100% dem Aufbau des Originals:<br><br>
+* ETW hat die Position "A" nicht oben, sondern verdreht einige Positionen nach hinten<br>
+* die Anordnung ETW - 3 Walzen - UKW ist spiegelverkehrt zum Vorbild aufgebaut<br>
+* der Transportmechanismus transportiert wie beim Original die rechte Walze zuerst, ...<br>
+* ... dadurch wird die Walze an der UKW (nicht an der ETW) als erste fortgeschaltet<br>
+* die Walzen 2 und 3 folgen keinem bekannten Schlüssel<br>
+* die Nocken für den Walzenantrieb liegen alle bei Stellung "A"<br>
+* die Buchstabenringe sind drehbar, die Lage der Nocken ist fix zum Walzenkörper<br>
+* Das Patchfeld an der Vorderseite ist außer Funktion.<br></p>
 
+<p><b>ETW</b> = Eintrittswalze, <b>UKW</b> = Umkehrwalze</p>
 
-<div class="box center"> 
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display.jpg" width="300"  height="225"/>
-	</a>
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Display_nah.jpg" width="372"  height="225"/>
-	</a>
-		<p class="bildtext"><b>Q1 lite</b> Plasmadisplay Gesamtansicht und Nahaufnahme</p>
-	</div>
+<p>Bedingt durch diese Änderungen ist die Replika mit keinem Schlüsselsatz einer "echten" Enigma kompatibel. Zur Zeit kann eine Verschlüsselung 
+	mit dieser Maschine nur an dieser auch wieder entschlüsselt werden, nicht aber mit einer "echten" Enigma.</p>
+	
+<p><b>Aktuelle Walzen-Verdrahtung:</b><br><br>
 
-<div class="box center"> 
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Typschild.jpeg" width="281"  height="225"/>
-	</a>
-		<a  href="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" class="popup">
-		<img src="/de/geraete/Q1_lite/Q1_Bilder/Q1_Printer_Typschild.jpeg" width="340"  height="225"/>
-	</a>
-		<p class="bildtext"><b>Q1 lite</b> Typenschild Computer und Drucker</p>
-	</div>
--->
+die <b>ETW</b> hat die Anordnung<br>
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br><br>
+
+<b>Walze 1</b>: frei<br><br>
+
+<b>Walze 2</b>:<br>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+GKHJADFIELMCBVXZNUOPSYQTRW<br><br>
+
+<b>Walze 3</b>:<br>
+ABCDEFGHIJKLMNOPqRSTUVWXYZ<br>
+FJACLMDKHEBIGORVuQWYTPSZNX<br><br>
+
+<b>Walze 4</b>: frei<br><br>
+
+<b>Walze 5</b>:<br>
+ABCDEFGHIJKLMNOPqRSTUVWXYZ<br>
+VZBRGITYUPSDNHLXAWMJQOFECK<br><br>
+
+<b>UKW:</b><br>
+ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
+DFQALBONZXREUHGTCKVPMSYJWI<br>
+<br>
 
 
 <h3>Bedienung der ENIGMA</h3>

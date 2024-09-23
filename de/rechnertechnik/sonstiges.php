@@ -40,6 +40,7 @@
 		<p class="bildtext"><b>links:</b> Bedienfeld mit 26 Eingabetasten, darüber 26 Lampenfelder 
 		zur Ausgabe. Darüber 3 Sichtfenster zur Anzeige der Stellung der 3 Chiffrierwalzen<br>
 		<b>Auf dem rechten Foto</b> ist die Abdeckung der Walzen geöffnet, ganz rechts sind 2 Ersatzwalzen zu sehen.<br><br>
-		Zum Vergrößern bitte die Bilder anklicken !</p>
+		Zum Vergrößern bitte die Bilder anklicken !</p><br><br>
+<p>technikum29 dankt der Witwe von Gunther Tünnermann für die Überlassung der Enigma Replika !</p>
 	</div>
 

@@ -110,7 +110,7 @@
 </div>
 	
 <div class="box termin clear-after">		
-	<p class="date left"><em>2024</em> 12.Okt</p>
+	<p class="date left"><em>2024</em> 12. Okt</p>
 	<h4>Privatführung Gruppe Ute L.</h4> 
 	<dl class="daten">
 		<dt>Tag

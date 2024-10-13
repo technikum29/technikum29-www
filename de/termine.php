@@ -11,7 +11,7 @@
 
 
 <div class="box termin" style="background-color: #f2eded; color: red";>
-  <h4 style="color: #8e1b1b">Stand 3.11.2023</h4>
+  <h4 style="color: #8e1b1b">Stand 13.10.2024</h4>
 	
 <p><strong>Wir machen Winterpause !</strong><br>
 <p>Für das Jahr 2024 werden wir keine Führungen und Helfertage (über die u.g. hinaus) einrichten. 

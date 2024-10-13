@@ -123,6 +123,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
+
 <!--	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 12. Okt</p>
@@ -137,6 +138,7 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>	
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 12. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -183,7 +185,7 @@
 		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
--->	
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -322,7 +324,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
+-->
 	<!-- *** vergangene Termine und Templates
 
 <div class="box termin clear-after">		

@@ -123,7 +123,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-	
+<!--	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 12. Okt</p>
 	<h4>Privatführung Gruppe Ute L.</h4> 
@@ -170,7 +170,6 @@
 	</dl>
 </div>
 
-<!--
 <div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 21. Sep</p>
 	<h4>Privatführung Gruppe Markus S.</h4> 

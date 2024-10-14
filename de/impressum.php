@@ -120,6 +120,7 @@
       <li>2005: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2005-05-14 HK.pdf">Im Herbst will Heribert Müller sein Museum in Hornau eröffnen: Technik zum Anfassen</a> (Höchster Kreisblatt)
       <li>2005: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2005-06-23 FAZ besser.pdf">"Archaische Technik" hilft Computer begreifen: Physiklehrer baut ein privates Museum für Rechner, Fernseher und Radios auf / Schüler sollen Geräte ausprobieren</a> (Frankfurter Allgemeine Zeitung/FAZ)
       <li>2005: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2005-08-02 FR.pdf">Spielwiese für Maschinen-Liebhaber: Der Diplom-Physiker Heribert Müller erfüllt sich einen Traum und eröffnet in Kelkheim ein Technikmuseum</a> (Frankfurter Rundschau)
+      <li>2005: <a href="/shared/photos/blog/2005-11-09 HK.pdf">Ein Paradies für Technik-Fans</a> (Höchster Kreisblatt)
       <li>2007: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2007-03 Inside.pdf">Ab ins Museum: IT zum Anschauen</a> (Magazin "Inside")
       <li>2009: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2009-05-18 FR.pdf">Computer so groß wie ein SChrank: Im Technikum29 sammelt Heribert Müller Rechner, Radios und ein Pianola</a> (Frankfurter Rundschau)
       <li>2009: <a href="/download/zeitungsartikel/ULB-Scans Zeitungen DEZ2019/2009-09-19 HK.pdf">Einblick ins Innere des Klaviers: Klein aber fein, das Technikum29</a> (Höchster Kreisblatt)

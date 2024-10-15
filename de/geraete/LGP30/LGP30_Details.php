@@ -122,7 +122,7 @@ Testlauf an !
 
 <p> Mit einiger Verzögerung ging die Instandsetzung weiter:<br><br>
 		Das Timing der Sendekontakte des Flexowriters wurde neu justiert. Jetzt nimmt die LGP30 Eingaben vom Flexowriter 
-		korrekt an. Der Versuch, gleich mal das Black-Jach Programm zustarten schlug fehl: die Maschine rechnet etwas, bleibt 
+		korrekt an. Der Versuch, gleich mal das Black-Jack Programm zustarten schlug fehl: die Maschine rechnet etwas, bleibt 
 		dann aber stecken.<br><br>
 		Neben einigen vertauschten/abgerissenen Verbindungen zwischen Flexowriter und LGP30 ging es an die systematische Fehlersuche.
 		Jetzt zeigt sich die Flexibilität unserer Trommel-Replika: mit einem PC lässt sich die Speicherkarte mit Prüfprogrammen 

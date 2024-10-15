@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: Nov. 2022
+	Stand: 15.10.2024
 </p>
 
 	<p> An dieser Stelle berichten wir über die Fortschritte bei der Restaurierung der LGP30.
@@ -110,7 +110,31 @@ Testlauf an !
 	Bei der probeweisen Eingabe vom Flexowriter ergaben sich aber Fehler bei der Übergabe der Daten in den Akkumulator, die auf dejustierte 
 	Schalterkotakte des Flexowriters zurückgeführt werden konnten. Hier steht jetzt eine Neujustage an...
 </p>
+<br>
+<br>
+<p><b>Status Oktober 2024</b><br></p>
+<div class="box left">
+   <a  href="/de/geraete/LGP30/LGP30_Bilder/LGP30_Reparatur_gr.jpeg" class="popup">
+      <img src="/de/geraete/LGP30/LGP30_Bilder/LGP30_Reparatur_kl.jpeg" width="400"/>
+      </a>
+    <p class="bildtext"><b>Momentaufnahme:</b>. Die Trommelreplika (im Karton auf der Logikplatte) ist noch ein Prototyp. </p>
+</div>
 
+<p> Mit einiger Verzögerung ging die Instandsetzung weiter:<br><br>
+		Das Timing der Sendekontakte des Flexowriters wurde neu justiert. Jetzt nimmt die LGP30 Eingaben vom Flexowriter 
+		korrekt an. Der Versuch, gleich mal das Black-Jach Programm zustarten schlug fehl: die Maschine rechnet etwas, bleibt 
+		dann aber stecken.<br><br>
+		Neben einigen vertauschten/abgerissenen Verbindungen zwischen Flexowriter und LGP30 ging es an die systematische Fehlersuche.
+		Jetzt zeigt sich die Flexibilität unserer Trommel-Replika: mit einem PC lässt sich die Speicherkarte mit Prüfprogrammen 
+		befüllen, die man dann seitens der LGP30 von der "Trommel" laden kann. So haben wir begonnen, die Maschinenbefehle einzeln 
+		zu testen. Schreiben und Lesen auf den Trommelspeicher funktionierte sofort. Addition auch, Subtraktion hatte ein Problem: jemand hatte 
+		die Koppelkondensatoren auf den Inverterkarten entfernt. Mit den vorgesehenen 500 pF-Kondensatoren funktioniert die Subtraktion 
+		wie vorgesehen. Der Test der anderen Maschinenbefehle steht für die nächsten Wochen an.
+		
+</p>
+
+<br>
+<br>
 <p> *** wird fortgesetzt *** 
 		</p>
 

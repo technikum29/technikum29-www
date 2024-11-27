@@ -10,7 +10,7 @@
 
 	<p>
 	*** ACHTUNG BAUSTELLE ! ***
-	Stand: 23. Okt. 2022
+	Stand: 27. Nov. 2024
 </p>
 
 	<p> An dieser Stelle berichten wir über die Bestandsaufnahme zu unserer Q1 lite und die Wiederinbetriebnahme der Maschine.
@@ -109,8 +109,11 @@
 
 <p>zum Download unserer Scans geht es <a href="/de/geraete/Q1_lite/Q1_PDFs">hier</a>
 </p>
-<p>Besonderer Dank geht an Robin Vowels, der uns mit Scans einiger seltener Manuals versorgt hat !
+<p>Besonderer Dank geht an <b>Robin Vowels</b>, der uns mit Scans einiger seltener Manuals versorgt hat !
 </p>
-<p>Ein weitere Dank geht an Karl Wacker für die Scans der Schaltpläne !
+<p>Ein weitere Dank geht an <b>Karl Wacker</b> für die Scans der Schaltpläne !
+</p>
+<p><b>Morten Jagd Christensen</b> arbeitet an einem Emulator für die Q1 und präsentiert ihn  <a href="https://q1-lite-emulator.readthedocs.io/en/latest/">auf seiner Webseite</a>. 
+Seine Arbeiten stellt er auch bei  <a href="https://github.com/Datamuseum-DK/Q1-Emulator">github</a> der Allgemeinheit zur Verfügung.
 </p>
 

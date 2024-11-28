@@ -39,6 +39,21 @@
 <div id="termine">	
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2024</em> 10. Dez</p>
+	<h4>Privatführung Gruppe Jasmin L.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Dienstag, 10. Dezember 2024
+		<dt>Uhrzeit
+		<dd>12:00 - 14:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2024</em> 30. Nov</p>
 	<h4><b> Letzter Helfertag in 2024 !!!</b></h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit

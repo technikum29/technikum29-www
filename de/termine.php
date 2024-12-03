@@ -39,7 +39,7 @@
 <div id="termine">	
 
 <div class="box termin clear-after">		
-	<p class="date left"><em>2024</em> 10. Dez</p>
+	<p class="date left"><em>2024</em> 13. Dez</p>
 	<h4>Privatführung Gruppe Jasmin L.</h4> 
 	<dl class="daten">
 		<dt>Tag

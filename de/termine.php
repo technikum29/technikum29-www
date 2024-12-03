@@ -43,9 +43,9 @@
 	<h4>Privatführung Gruppe Jasmin L.</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Dienstag, 10. Dezember 2024
+		<dd class="termin">Freitag, 13. Dezember 2024
 		<dt>Uhrzeit
-		<dd>12:00 - 14:00
+		<dd>14:30 - 16:30
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>geschlossene Gesellschaft

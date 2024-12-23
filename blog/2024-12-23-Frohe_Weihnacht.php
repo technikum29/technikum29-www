@@ -27,7 +27,7 @@ in das Neue Jahr !</b>
 	können.
 </p>
 <p><b>Und in 2025 steht ein weiteres Jubiläum an: Vor 20 Jahren wurde das technikum29 eröffnet !</b>, hier ein 
-	Bericht von der Einweihung aus 2005:
+	Bericht des Höchster Kreisblattes vom 9. Nov. 2005:
 	</p>
 	
 <div class="box center"> 

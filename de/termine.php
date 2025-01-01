@@ -9,7 +9,7 @@
 
 <h2>Kalender und Termine</h2>
 
-
+<!--
 <div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b">Stand 13.10.2024</h4>
 	
@@ -18,6 +18,7 @@
 	Wir werden uns ab Mitte Januar 2025 wieder mit neuen Terminen zurückmelden, deshalb...
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2025 werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
+-->
 
 <h3>Informationen zum regulären Museumsbesuch</h3>
 <p>Sie möchten <b>als Gruppe</b> (aus Sicherheitsgründen max 7 Teilnehmer) einen eigenen <b>Termin vereinbaren</b> ? 
@@ -38,7 +39,116 @@
 
 <div id="termine">	
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 18. Jan</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<p>Wer sich das Museum nur mal so anschauen will ist ebenfalls herzlich willkommen ! <b>Aber bitte unbedingt
+	 	per Mail anmelden !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 18. Jan 2025
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
 
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 25. Jan</p>
+	<h4>Führung Gruppe Rainer H.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Freitag, 25. Januar 2025
+		<dt>Uhrzeit
+		<dd>11:00 - 14:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 25. Jan</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<p>Wer sich das Museum nur mal so anschauen will ist ebenfalls herzlich willkommen ! <b>Aber bitte unbedingt
+	 	per Mail anmelden !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 25. Jan 2025
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 8. Feb</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<p>Wer sich das Museum nur mal so anschauen will ist ebenfalls herzlich willkommen ! <b>Aber bitte unbedingt
+	 	per Mail anmelden !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 8. Feb 2025
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 22. Feb</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<p>Wer sich das Museum nur mal so anschauen will ist ebenfalls herzlich willkommen ! <b>Aber bitte unbedingt
+	 	per Mail anmelden !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 22. Feb 2025
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 8. Mär</p>
+	<h4>allgemeiner Helfertag</h4> 
+	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
+		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
+		um eine Anmeldung per Mail !</b>
+	<p>Wer sich das Museum nur mal so anschauen will ist ebenfalls herzlich willkommen ! <b>Aber bitte unbedingt
+	 	per Mail anmelden !</b>
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 8. März 2025
+		<dt>Uhrzeit
+		<dd>9:00 - 18:00 Uhr
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
+		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+	
 <!--	
 	
 <div class="box termin clear-after">		

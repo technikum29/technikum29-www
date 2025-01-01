@@ -193,13 +193,122 @@
 		<td>Di. 8.12.2023
 		<td>Computer-History<br>	
 		<td>Führung Tony R. (Schweden)
-		<td>Tony R.<br>
+		<td><br>
 	<tr>	
 		<td>Sa. 18.11.2023
 		<td>Helfertag
 		<td>
 		<td><br>
 
+
+			
+	<tr>	
+		<td>Sa. 29.6.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 15.6.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 11.5.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 27.4.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 20.4.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>17.4.2024
+		<td>Computer-History<br>	
+		<td>Projektteam Ingo B.
+		<td><br>
+	<tr>	
+		<td>13.4.2024
+		<td>Computer-History<br>	
+		<td>Führung Lahn Registrierkassen Gießen e.V.
+		<td><br>
+	<tr>	
+		<td>Sa. 13.4.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 23.3.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>23.3.2024
+		<td>Computer-History<br>	
+		<td>Führung Alexander B., Stefan K.
+		<td><br>
+	<tr>	
+		<td>21.3.2024
+		<td>Computer-History<br>	
+		<td>Führung Jutta H.
+		<td><br>
+	<tr>	
+		<td>19.3.2024
+		<td>Computer-History<br>	
+		<td>Führung Projektteam Ingo B.
+		<td><br>
+	
+	<tr>	
+		<td>Sa. 9.3.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 2.3.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 24.2.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	
+	<tr>	
+		<td>24.2.2024
+		<td>Computer-History<br>	
+		<td>Führung Sergey N.
+		<td><br>
+	<tr>	
+		<td>Sa. 10.2.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 3.2.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 20.1.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 13.1.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>10.1.2024
+		<td>Computer-History<br>	
+		<td>Führung Matthias P.
+		<td>Matthias P.<br>
 	
 	</table>
 

@@ -190,18 +190,115 @@
 		<th>Teilnehmer    
 
 	<tr>	
-		<td>Di. 8.12.2023
+		<td>13.12.2024
 		<td>Computer-History<br>	
-		<td>Führung Tony R. (Schweden)
+		<td>Führung Jasmin L.
 		<td><br>
 	<tr>	
-		<td>Sa. 18.11.2023
+		<td>Sa. 30.11.2024
 		<td>Helfertag
 		<td>
 		<td><br>
-
-
-			
+	<tr>	
+		<td>30.11.2024
+		<td>Computer-History<br>	
+		<td>Führung Thomas D.
+		<td><br>		
+	<tr>	
+		<td>2.11.2024
+		<td>Computer-History<br>	
+		<td>Führung Marec S.
+		<td><br>
+	<tr>	
+		<td>Sa. 2.11.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 26.10.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>12.10.2024
+		<td>Computer-History<br>	
+		<td>Führung Ute L.
+		<td><br>
+	<tr>	
+		<td>Sa. 12.10.2024
+		<td>Helfertag
+		<td>
+		<td><br>		
+	<tr>	
+		<td>1.10.2024
+		<td>Computer-History<br>	
+		<td>Führung Peter B.
+		<td><br>
+	<tr>	
+		<td>21.9.2024
+		<td>Computer-History<br>	
+		<td>Führung Markus S.
+		<td><br>
+	<tr>	
+		<td>Sa. 21.9.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>14.9.2024
+		<td>Computer-History<br>	
+		<td>Führung Anette P.
+		<td><br>		
+	<tr>	
+		<td>Sa. 14.9.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>31.8.2024
+		<td>Computer-History<br>	
+		<td>Führung Martina N., Jessica K., Petra A.
+		<td><br>
+	<tr>	
+		<td>Sa. 31.8.2024
+		<td>Helfertag
+		<td>
+		<td><br>		
+	<tr>	
+		<td>24.8.2024
+		<td>Computer-History<br>	
+		<td>Führung Kevin R., Helmut D.
+		<td><br>
+	<tr>	
+		<td>Sa. 17.8.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>Sa. 3.8.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>6.7.2024
+		<td>Computer-History<br>	
+		<td>Führung Andreas P.
+		<td><br>
+	<tr>	
+		<td>Sa. 6.7.2024
+		<td>Helfertag
+		<td>
+		<td><br>
+	<tr>	
+		<td>29.6.2024
+		<td>Computer-History<br>	
+		<td>Führung Gregor G.
+		<td><br>
+	<tr>	
+		<td>29.6.2024
+		<td>Computer-History<br>	
+		<td>Führung Elisa S., Robert W.
+		<td><br>
 	<tr>	
 		<td>Sa. 29.6.2024
 		<td>Helfertag

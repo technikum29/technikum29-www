@@ -907,6 +907,14 @@ Template Führung
 
 	<div class="termine">
 	
+	<h2>2024</h2>
+	<p>2024 hatten wir regen Betrieb im technikum29: viele Führungen, sehr aktive Helfertage, viele Neuzugänge an Exponaten
+		und den Bezug unseres neuen "Zentraldepots" im Stadtkern von Kelkheim.
+	</p>
+		</br>
+	
+	<div class="termine">
+	
 	<h2>2023</h2>
 	<p>2023 konnte endlich wieder ein regulärer Museumsbetrieb aufrecht erhalten werden mit einer Vielzahl von Führungen
 		und vielen erfolgreichen Instandsetzungen. Wir verzeichneten auch einen Zulauf an neuen Geräten.

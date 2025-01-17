@@ -41,7 +41,7 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 18. Jan</p>
-	<h4>allgemeiner Helfertag</h4> 
+	<h4>allgemeiner Helfertag <b> *** ACHTUNG *** Termin entfällt </b></h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit
 		dazustossen und an ihren Projekten (weiter-)arbeiten. <b>Zur besseren Planung bitten wir unbedingt
 		um eine Anmeldung per Mail !</b>

@@ -63,7 +63,7 @@
 	<h4>Führung Gruppe Rainer H.</h4> 
 	<dl class="daten">
 		<dt>Tag
-		<dd class="termin">Freitag, 25. Januar 2025
+		<dd class="termin">Samstag, 25. Januar 2025
 		<dt>Uhrzeit
 		<dd>11:00 - 14:00
 		<dt>Leitung
@@ -89,6 +89,21 @@
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
+	</dl>
+</div>
+
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 8. Feb</p>
+	<h4>Führung Gruppe Nikolai K.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 8. Februar 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
 	</dl>
 </div>
 

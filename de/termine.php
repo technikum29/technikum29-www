@@ -103,7 +103,7 @@
 		<dd>10:00 - 13:00
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
-		<dd>
+		<dd>geschlossene Gesellschaft
 	</dl>
 </div>
 

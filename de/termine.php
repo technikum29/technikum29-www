@@ -177,6 +177,22 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
+
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 12. Mar</p>
+	<h4>Führung networker solutions GmbH</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 12. März 2025
+		<dt>Uhrzeit
+		<dd>16:00 - 18:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+
 	
 <!--	vergangene Termine und Templates
 	

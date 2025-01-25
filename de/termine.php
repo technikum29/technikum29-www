@@ -147,7 +147,7 @@
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 8. Mär</p>
-	<h4>Führung Gruppe Emil K.</h4> 
+	<h4>Führung Gruppe Emil K.und Elke W.</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 8. März 2025

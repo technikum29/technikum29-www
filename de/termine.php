@@ -39,6 +39,8 @@
 
 <div id="termine">	
 
+	<!-- zurueckliegende Termine
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 18. Jan</p>
 	<h4>allgemeiner Helfertag <b> *** ACHTUNG *** Termin entfällt </b></h4> 
@@ -92,6 +94,7 @@
 	</dl>
 </div>
 
+	--> ENDE zurueckliegende Termine 
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 8. Feb</p>

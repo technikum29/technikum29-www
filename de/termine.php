@@ -94,7 +94,7 @@
 	</dl>
 </div>
 
-	--> ENDE zurueckliegende Termine 
+-------	ENDE zurueckliegende Termine -->
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 8. Feb</p>

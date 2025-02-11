@@ -94,8 +94,6 @@
 	</dl>
 </div>
 
--------	ENDE zurueckliegende Termine -->
-
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 8. Feb</p>
 	<h4>Führung Gruppe Nikolai K.</h4> 
@@ -128,7 +126,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
+-------	ENDE zurueckliegende Termine -->
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 22. Feb</p>
 	<h4>allgemeiner Helfertag</h4> 

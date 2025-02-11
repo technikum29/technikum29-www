@@ -197,6 +197,20 @@
 </div>
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 13. Mar</p>
+	<h4>Führung Ehemalige MA der Continental AG</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 13. März 2025
+		<dt>Uhrzeit
+		<dd>15:00 - 18:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>geschlossene Gesellschaft
+	</dl>
+</div>
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 15. Mar</p>
 	<h4>Führung Team Lead Software Development</h4> 
 	<dl class="daten">

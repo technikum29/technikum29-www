@@ -258,7 +258,7 @@
 		<dt>Tag
 		<dd class="termin">Samstag, 6. September 2025
 		<dt>Uhrzeit
-		<dd>10:00 - 13:00
+		<dd>14:00 - 17:00
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>

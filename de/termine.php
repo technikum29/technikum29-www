@@ -126,7 +126,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
--------	ENDE zurueckliegende Termine -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 22. Feb</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -145,7 +145,7 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>	
-
+-------	ENDE zurueckliegende Termine -->
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 8. Mär</p>
 	<h4>Führung Gruppe Emil K.und Elke W.</h4> 
@@ -250,7 +250,20 @@
 	Wir werden uns ab Mitte April 2025 wieder mit neuen Terminen zurückmelden, deshalb...
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2025 werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
-	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 6. Sep</p>
+	<h4>Führung Gruppe Arno B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 6. September 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
 
 <div style="margin-top:3em">
 	

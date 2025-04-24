@@ -99,7 +99,7 @@ Tischrechner <strong>Olympia CD401</strong> von 1972 - dafür nochmals vielen Da
 <strong>Abb: </strong>links der neue hp5325B-Zähler mit leuchtender Nixie-Anzeige, rechts die Olympia CD401
 
 <p>
-Und schließlich erhielten wir aus einem größeren Platinenfundus <strong>4 Ersatzplatinen</strong> für unsere <strong>BULL Gamma 10</strong> - hier geht 
-der Dank an Frank Kabjoll (Siegen).
+Und schließlich erhielten wir aus einem größeren Platinenfundus <strong>4 Ersatzplatinen</strong> für unsere 
+	<strong>BULL Gamma 10</strong> 
   
 <?php print_author_info(); ?>

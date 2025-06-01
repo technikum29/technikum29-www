@@ -241,8 +241,6 @@
 	</dl>
 </div>
 
--------	ENDE zurueckliegende Termine -->
-
 	
 	<div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 17. Mai</p>
@@ -300,20 +298,20 @@
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-
+-------	ENDE zurueckliegende Termine -->
 	
-<!-- ausblenden...
+
 
 	<div class="box termin" style="background-color: #f2eded; color: red";>
   <h4 style="color: #8e1b1b"></h4>
 	
 <p><strong>Wir machen Pause !</strong><br>
-<p>Bis Ende April 2025 werden wir keine Führungen und Helfertage (über die o.g. hinaus) einrichten. 
-	Wir werden uns ab Mitte April 2025 wieder mit neuen Terminen zurückmelden, deshalb...
+<p>Wir können zur Zeit keine Führungen und Helfertage einrichten. 
+	Wir werden uns ab Mitte Juli 2025 wieder mit neuen Terminen zurückmelden, deshalb...
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2025 werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
 
-------------------  Ende Ausblendung -->
+
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 6. Sep</p>

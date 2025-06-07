@@ -311,7 +311,19 @@
 <p><strong>Bitte behaltet diese Webseite im Auge, neue Termine für 2025 werden hier zu gg. Zt. veröffentlicht.</strong>
 </div>
 
-
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 12. Juli</p>
+	<h4>Führung Gruppe Timo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 12. Juli 2025
+		<dt>Uhrzeit
+		<dd>14:00 - 17:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 6. Sep</p>

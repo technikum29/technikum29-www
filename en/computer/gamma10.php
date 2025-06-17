@@ -23,8 +23,9 @@
         The maximum power input was 2.5 kW.
         <br/>The standard equipment contains a CPU with
         panel, a punchcard reader/puncher unit and a barrel printer.
-        The RAM consists of a 1kb core memory which could be
-        extended up to 4kb capacity. There are 59 different
+        The core memory has a capacity of 1024 characters (expandable to 4096 characters). 
+	A character consists of 6 bit plus an additional 7th parity bit.
+	There are 59 different
         opcodes to program the CPU.
         <br/>The cycle time from the core memory is 7 micro
         seconds. The calculator is capable of reading and

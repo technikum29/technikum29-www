@@ -25,7 +25,7 @@
         panel, a punchcard reader/puncher unit and a barrel printer.
         The core memory has a capacity of 1024 characters (expandable to 4096 characters). 
 	A character consists of 6 bit plus an additional 7th parity bit.
-	There are 59 different
+	There are 56 different
         opcodes to program the CPU.
         <br/>The cycle time from the core memory is 7 micro
         seconds. The calculator is capable of reading and

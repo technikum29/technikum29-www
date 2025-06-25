@@ -1,3 +1,10 @@
+# eleventy output directory
+_site/
+
+# node/npm stuff
+node_modules/
+
+
 # A cache directory which shall be writable by the PHP process.
 shared/cache/
 

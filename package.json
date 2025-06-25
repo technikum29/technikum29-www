@@ -1,0 +1,29 @@
+{
+  "name": "technikum29-www",
+  "version": "8.0.0",
+  "description": "The technikum29 Computer Museum Homepage",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technikum29/technikum29-www.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "esm",
+  "bugs": {
+    "url": "https://github.com/technikum29/technikum29-www/issues"
+  },
+  "homepage": "https://github.com/technikum29/technikum29-www#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1",
+    "@11ty/eleventy-navigation": "^1.0.4"
+  }
+}

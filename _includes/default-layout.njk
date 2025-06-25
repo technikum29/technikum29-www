@@ -28,7 +28,7 @@
 
 <!-- Show the tour, without the tour link itself -->
 {% set navPages = collections.all | eleventyNavigation("tour") %}
-
+  
 {% macro renderNavListItem(entry, level) -%}
 
 <li class="{% if entry.url == page.url %}active{% endif %} {{ entry.data.nav_class }}">

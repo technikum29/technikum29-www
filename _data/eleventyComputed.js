@@ -1,5 +1,12 @@
+import { translator } from "#data/messages";
+
+
 export default {
   title: (data) => data.title || data.titel,
+  
+  lang: (data) => data.permalink?.includes("en/") ? "en" : "de",
+  
+  msg: (data) => translator(data.lang),
     
   // basically <title>
   html_title: (data) => `${data.title} - technikum29`,

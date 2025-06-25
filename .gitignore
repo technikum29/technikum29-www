@@ -43,4 +43,5 @@ Temporary Items
 shared/photos/blog/.DS_Store
 shared/photos/.DS_Store
 shared/.DS_Store
-.DS_Store
+
+*.kate-swp

@@ -68,7 +68,8 @@ const bodyClasses = [
 
 // still missing: pagecss (conditional css per page)
 
-const urlprefix_lang = `/${data.lang}`;
+const urlprefix = "/";
+const urlprefix_lang = urlprefix + data.lang;
 
 return postprocess(<>
 <DOCTYPE />
@@ -91,12 +92,19 @@ return postprocess(<>
 
 	<Comment> t29v6 template.php has a ton of other stuff here, amongst others:
 		logic for passing data to client side JS, apple logos,
-		links for RSS, interlanguage, JS, CSS </Comment>
+		links for RSS, interlanguage, JS, CSS.
+		
+		Ausserdem wichtiges neues TODO: OG-Links!
+	</Comment>
 
 	<link rel="copyright" href={urlprefix_lang+msg('footer-legal-file')} title={msg('footer-legal-link')} />
 	<link rel="alternate" type="application/rss+xml" href={urlprefix_lang+"/news.rss"} title={msg('rss-title')} />
 	<link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon.png" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	
+	<link rel="stylesheet" type="text/css" data-foo="bar" href={urlprefix+msg('bundle-css-path')} />
+	{/* todo, resolve this promise */}
+	{ data.page_css_file && <link rel="stylesheet" type="text/css" href={urlprefix+data.page_css_file} /> }
 
 	<script src="/shared/js-v6/libs/modernizr-2.0.6.min.js"></script>{/* probably no more neccessary */}
 </head>
@@ -166,7 +174,16 @@ return postprocess(<>
 		<Comment>
 			Weiter geht es hier mit Footer usw!
 		</Comment>
-	</div>{/* #container */}
+	</div><Comment> end of #container -- Note: #container geht for footer.attached zu.</Comment>
+	{/* footer attached */}
+	
+	<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
+	{/* <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script> */}
+	<script src={urlprefix+msg("bundle-js-path")}></script>
+	{/* ...and pagescript if exists */ }
+    {/* Piwik Noscript, Script selbst wird asynchron im JS-Bereich aufgerufen */}
+    <noscript><img src={msg("js-piwik-noscript-imgsrc")} alt="" /></noscript>
+    <Raw html={data.body_append} />
 </body>
 </html>
 

@@ -69,6 +69,12 @@ export const messages = {
     'head-rel-first': ['Deutscher Start', 'English start'],
     'head-rel-prev': ['Zur vorherigen Seite (%s)', 'Previous Page (%s)'],
     'head-rel-next': ['Zur folgenden Seite (%s)', 'Next Page (%s)'],
+    
+    // Paths to bundles, used in SSG template
+    'bundle-js-path':  'shared/js-v6/generated/bundle.js',
+    'bundle-css-path': 'shared/css-v6/generated/bundle.css',
+    'bundle-js-glob':  'shared/js-v6/modules/*.js',
+    'bundle-css-glob': 'shared/css-v6/modules/*.css',
 
     // used in /shared/js/modules/heading_links.js
     'js-heading-links': ['Direktlink zu diesem Abschnitt', 'Link to this section'],

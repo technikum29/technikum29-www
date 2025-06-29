@@ -17,6 +17,9 @@ export const config = {
 
 
 export default async function(eleventyConfig) {
+
+	eleventyConfig.addPassthroughCopy("shared"); // shared folder
+
 	// treat HTML input files independently of file suffix
 	eleventyConfig.addTemplateFormats("htm");
 	eleventyConfig.addExtension("htm", { key: "html" });

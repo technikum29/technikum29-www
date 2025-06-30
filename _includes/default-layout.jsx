@@ -9,19 +9,11 @@ import {format} from 'hast-util-format'
 const doFormat = true;
 const postprocess = (tree) => { if(doFormat) format(tree); return tree; }
 
-import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
-// similar to filter; https://github.com/11ty/eleventy-navigation/blob/main/.eleventy.js#L12
-const eleventyNavigation = eleventyNavigationPlugin.navigation.find;
-
-const Navigation = ({ data, collection, rootKey="" }) => {
+const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   //debugger;
-  const navPages = eleventyNavigation(data.collections[collection], rootKey);
+  const navPages = data[tree_name];
   const currentUrl = data.permalink;
-  
-  if(collection == "nav_horizontal") {
-	  //debugger;
-  }
-    
+      
   const renderNavListItem = (entry, level) => {
     const isActive = entry.url === currentUrl;
     const hasChildren = entry.children && entry.children.length > 0;
@@ -52,7 +44,7 @@ const Navigation = ({ data, collection, rootKey="" }) => {
   };
 
   return (
-    <ul className="u1">
+    <ul className={baseClass}>
       {navPages.map(entry => renderNavListItem(entry, 2))}
     </ul>
   );
@@ -72,7 +64,7 @@ const bodyClasses = [
     "design-2017-06-26" // legacy
 ]
 
-// still missing: pagecss (conditional css per page)
+const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
 
 const urlprefix = "/";
 const urlprefix_lang = urlprefix + data.lang;
@@ -135,16 +127,19 @@ return postprocess(<>
 					<Comment>
 					<a class="button alertbox termine" href="/de/#termine">
 						<strong>Aktuelle Termine</strong>
-						
 					</a>
 					</Comment>
+					
+					<p>Breadcrumbs:</p>
+					<Navigation data={data} tree_name="nav_breadcrumbs" />
+					
 					
 					<h2 class="visuallyhidden" id="tour-navigation">{msg("sidebar-h2-tour")}</h2>
 					{data.sidebar_content ?
 						<nav class="side contains-custom">{data.sidebar_content}</nav>
 					:
 						<nav class="side contains-menu">
-							<Navigation data={data} collection="all" rootKey="tour" />
+							<Navigation data={data} tree_name="nav_main" />
 						</nav>
 					}
 					<Comment>menu changing buttons are made with javascript</Comment>
@@ -161,7 +156,7 @@ return postprocess(<>
 					{
 						data.mainnav_content
 						?	data.mainnav_content
-						:	<Navigation data={data} collection="nav_horizontal" />
+						:	<Navigation data={data} tree_name="nav_horizontal" />
 					}
 				</nav>
 				<nav class="top">
@@ -184,9 +179,9 @@ return postprocess(<>
 	{/* footer attached */}
 	
 	<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
-	{/* <script>window.t29={'conf': <?php print json_encode($this->javascript_config); ?>};</script> */}
+	<Raw html={`<script>window.t29={'conf': ${JSON.stringify(client_js_transfer)}};</script>`} />
 	<script src={urlprefix+msg("bundle-js-path")}></script>
-	{/* ...and pagescript if exists */ }
+	{ data.page_js_file && <script src={urlprefix+data.page_js_file} /> }
     {/* Piwik Noscript, Script selbst wird asynchron im JS-Bereich aufgerufen */}
     <noscript><img src={msg("js-piwik-noscript-imgsrc")} alt="" /></noscript>
     <Raw html={data.body_append} />

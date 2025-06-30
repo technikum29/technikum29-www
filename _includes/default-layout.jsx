@@ -13,16 +13,21 @@ import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 // similar to filter; https://github.com/11ty/eleventy-navigation/blob/main/.eleventy.js#L12
 const eleventyNavigation = eleventyNavigationPlugin.navigation.find;
 
-const Navigation = ({ data }) => {
+const Navigation = ({ data, collection, rootKey="" }) => {
   //debugger;
-  const navPages = eleventyNavigation(data.collections.all, "tour");
+  const navPages = eleventyNavigation(data.collections[collection], rootKey);
   const currentUrl = data.permalink;
+  
+  if(collection == "nav_horizontal") {
+	  //debugger;
+  }
     
   const renderNavListItem = (entry, level) => {
     const isActive = entry.url === currentUrl;
     const hasChildren = entry.children && entry.children.length > 0;
     const liClasses = entry.data.nav_class || [];
     if(isActive) liClasses.push("active");
+	const ariaCurrent = isActive ? "page" : undefined;
     var aTitle = entry.data.title;
     if(aTitle == entry.title) aTitle = undefined;
 
@@ -33,6 +38,7 @@ const Navigation = ({ data }) => {
           data-id={entry.data.page_id}
           data-key={entry.key}
           title={aTitle}
+          aria-current={ariaCurrent}
         >
           {entry.title}
         </a>
@@ -55,7 +61,7 @@ const Navigation = ({ data }) => {
 export default ({msg, ...data}) => {
 
 // TODO: Should define a proper set of variables to be transfered to client
-    
+	
 const bodyClasses = [
     "lang-" + data.lang,
     "page-" + data.page_id,
@@ -138,7 +144,7 @@ return postprocess(<>
 						<nav class="side contains-custom">{data.sidebar_content}</nav>
 					:
 						<nav class="side contains-menu">
-							<Navigation data={data} />
+							<Navigation data={data} collection="all" rootKey="tour" />
 						</nav>
 					}
 					<Comment>menu changing buttons are made with javascript</Comment>
@@ -151,11 +157,11 @@ return postprocess(<>
 		<header class="banner">
 			<h2 class="visuallyhidden">{msg("sidebar-h2-mainnav")}</h2>
 				<nav class="horizontal">
+					{/* Pages with tag: nav_horizontal will get part of this navigation */}
 					{
-						data.mainnav_content ?
-							data.mainnav_content
-						:
-							"" /* print horizontal menu */
+						data.mainnav_content
+						?	data.mainnav_content
+						:	<Navigation data={data} collection="nav_horizontal" />
 					}
 				</nav>
 				<nav class="top">

@@ -24,15 +24,15 @@ export default {
   page_js_file:  (data) => pass_if_exists(`shared/js-v6/pagescripts/${data.seiten_id}.js`),
   page_css_file: (data) => pass_if_exists(`shared/css-v6/pagestyles/${data.seiten_id}.css`),
   
-  eleventyNavigation: {
+  eleventyNavigation: (data) => ({
     // map standard front matter keywords to the ones wanted by the nav plugin.
-    key: (data) => data.page_id,
+    key: data.page_id,
     
     // here, we should also provide a lookup whether "parent" exists,
     // and if not, provide help for resolving or so.
-    parent: (data) => data.parent,
+    parent: data.parent,
     
-    title: (data) => data.nav_title || data.title,
-    order: (data) => data.nav_order,
-  },
+    title: data.nav_title || data.title,
+    order: data.nav_order,
+  }),
 }

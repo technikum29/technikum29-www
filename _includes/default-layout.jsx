@@ -18,20 +18,20 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
 	const isCurrent = entry.url === currentUrl;
     const isActive = data.nav_breadcrumbs.some?.(item => item.url == entry.url);
     const hasChildren = entry.children && entry.children.length > 0;
-    const liClasses = entry.data.nav_class || [];
+    const liClasses = entry?.data?.nav_class || [];
     if(isActive) {
 		liClasses.push("current");
 		liClasses.push("active");
 	}
 	const ariaCurrent = isCurrent ? "page" : undefined;
-    var aTitle = entry.data.title;
+    var aTitle = entry?.data?.title;
     if(aTitle == entry.title) aTitle = undefined;
 
     return (
       <li key={entry.key} className={classes(liClasses)}>
         <a
           href={entry.url}
-          data-id={entry.data.page_id}
+          data-id={entry.data?.page_id}
           data-key={entry.key}
           title={aTitle}
           aria-current={ariaCurrent}

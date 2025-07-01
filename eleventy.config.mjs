@@ -3,6 +3,8 @@
  * This is an ESM file
  **/
 
+import { collectRedirects } from "#data/make_redirects";
+
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import eleventyHastJsxPlugin from "eleventy-hast-jsx";
 
@@ -46,6 +48,8 @@ export default async function(eleventyConfig) {
 		},
 	});
 	eleventyConfig.addTemplateFormats("11ty.jsx,11ty.tsx");
+	
+	collectRedirects(eleventyConfig);
 	
 	// return toplevel config if needed { ... }
 };

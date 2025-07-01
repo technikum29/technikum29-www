@@ -12,6 +12,86 @@ const eleventyNavigationBreadcrumb = eleventyNavigationPlugin.navigation.findBre
 
 const absif = path => path ? "/"+path : path; // prepend if it is a path
 
+/**
+ * Our "improved" version of eleventyNavigation(nodes, key) which allows pages
+ * to inject sub-nodes via their data list "add_sub_navigation"
+ **/
+function enrichNavigation(nodes, key) {
+  const tree = eleventyNavigation(nodes, key);
+  
+  function addToTree(data, key, newChildren, do_prepend = false /* false = append */) {
+      debugger;
+      function findAndInsert(node) {
+          if (node.key === key) {
+              if (!Array.isArray(node.children)) {
+                  node.children = [];
+              }
+              if (do_prepend) {
+                  node.children.unshift(...newChildren);
+              } else {
+                  node.children.push(...newChildren);
+              }
+              return true;
+          }
+          if (Array.isArray(node.children)) {
+              for (let child of node.children) {
+                  if (findAndInsert(child)) {
+                      return true;
+                  }
+              }
+          }
+          return false;
+      }
+
+      for (let node of data) {
+          if (findAndInsert(node)) {
+              return;
+          }
+      }
+  }
+  
+  for(let entry of nodes) {
+    const data = entry?.data || {};
+    const data_key = data?.eleventyNavigation?.key;
+    
+    if(data_key && data?.add_sub_navigation) {
+      if(!Array.isArray(data.add_sub_navigation)) {
+        console.error(`Expecting array at page ${data.eleventyNavigation.key}. Found this instead: ${data.add_sub_navigation}`);
+        continue;
+      }
+      addToTree(tree, data_key, 
+        data.add_sub_navigation.map((subentry,i) => {
+          const key = subentry.key || `${data_key}_sub${i}`;
+          const parentKey = data_key;
+          const title = subentry.text || subentry.title || subentry.titel || "Missing title in subentry";
+          const pluginType = "eleventy-navigation-enriched-by-t29";
+
+          const base_url = data?.page?.url || data.permalink;
+          let url = `${base_url}#${key}`; // default placeholder          
+          url = subentry.link || subentry.url || subentry.permalink || url;
+          if(url.startsWith("#")) url = data?.page?.url + url; // prepend page anchors
+          debugger;
+          // Todo, also resolve realtive links as relative to parent url, for instance
+          // base_url = "/de/bla/bar.htm, url = foo.htm" => "/de/bla/foot.htm"
+
+          return { key, parentKey, url, title, pluginType };          
+        }),
+        true /* always prepend, never append */
+      );
+    }
+    
+    // NOTE: We have access to data.rawInput and data.templateSyntax, so this could
+    //       be the right place to parse HTML and add nodes by headings. Thinking of, for
+    //       instance,
+    //          <h1 id="refName" data-navbar-label="Bla">Bla and Bla</h1>
+    //          <h2 data-navbar-add>Blo</h2>
+    //       For simplicity, we can neglect h1/h2/h3 levels.
+    //       We could also require the presence of an #id, because the auto-generation
+    //       currently takes place only client side (something one could also change).
+  }
+  return tree
+}
+
 export default {
   title: (data) => data.title || data.titel,
   
@@ -33,7 +113,7 @@ export default {
   // note, these are navigation trees, i.e. nested structures and not collection structures.
   // For instance, collections will include all page data including content.
   // Navigation list/dicts only contain keys
-  nav_main: data => eleventyNavigation(data.collections.all, "tour"),
+  nav_main: data => enrichNavigation(data.collections.all, "tour"),
   nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal),
   nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
   

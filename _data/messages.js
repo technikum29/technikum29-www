@@ -39,12 +39,12 @@ export const messages = {
     'js-menu-scroll-show': ['Menü einblenden', 'Show menu'],
     'js-menu-scroll-hide': ['Menü ausblenden', 'Hide menu'],
 
-    'footer-copyright-tag': '&copy; 2003-2023 technikum29.',
+    'footer-copyright-tag': '&copy; 2003-%s technikum29.',
     'footer-legal-link': ['Impressum und Kontakt', 'Legal notices'],
     'footer-legal-file': ['/impressum.php', '/contact.php'],
     'footer-legacy-text': [
-        '&copy; 2003-2023 technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschützt, siehe <a href="/de/impressum.php" class="go">Impressum</a>',
-        '&copy; 2003-2023 technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact.php" class="go">Legal Information</a>.'
+        '&copy; 2003-%s technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschützt, siehe <a href="/de/impressum.php" class="go">Impressum</a>',
+        '&copy; 2003-%s technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact.php" class="go">Legal Information</a>.'
     ],
     'footer-sitemap-text': 'Sitemap',
     'footer-sitemap-link': ['/de/sitemap.php', '/en/sitemap.php'],
@@ -100,9 +100,11 @@ export const messages = {
 };
 
 // msg("de") creates a translator function ("shorthandReturner")
-export const translator = (lang = "de") => (strId) => {
+export const translator = (lang = "de") => (strId, ...args) => {
     const msgEntry = messages?.[strId] || `&lt;${strId}&gt;`; // error; MediaWiki style
-    return Array.isArray(msgEntry) ? msgEntry[order[lang]] : msgEntry;
+    const tmpl = Array.isArray(msgEntry) ? msgEntry[order[lang]] : msgEntry;
+    //if(args.length>1) debugger;
+    return (tmpl || '').replace(/%s/g, () => args.shift() ?? '');
 };
 
 

@@ -15,11 +15,15 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   const currentUrl = data.permalink;
       
   const renderNavListItem = (entry, level) => {
-    const isActive = entry.url === currentUrl;
+	const isCurrent = entry.url === currentUrl;
+    const isActive = data.nav_breadcrumbs.some?.(item => item.url == entry.url);
     const hasChildren = entry.children && entry.children.length > 0;
     const liClasses = entry.data.nav_class || [];
-    if(isActive) liClasses.push("active");
-	const ariaCurrent = isActive ? "page" : undefined;
+    if(isActive) {
+		liClasses.push("current");
+		liClasses.push("active");
+	}
+	const ariaCurrent = isCurrent ? "page" : undefined;
     var aTitle = entry.data.title;
     if(aTitle == entry.title) aTitle = undefined;
 
@@ -50,7 +54,11 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   );
 };
 
-export default ({msg, ...data}) => {
+export default function({msg, ...data}) {
+	
+	///if(data.nav_test_prev) {
+	// debugger;
+	//}
 
 // TODO: Should define a proper set of variables to be transfered to client
 	
@@ -65,6 +73,29 @@ const bodyClasses = [
 ]
 
 const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
+
+const print_footer_menu = true; // count($this->page_relations) || isset($this->conf['force_footer_menu']);
+
+const bigfooter = <div class="bigfooter">
+		<ul class="clearfix">
+		<li class="haus"><a class="block" href={msg('footer-haus-link')}>
+			<img src="/shared/img-v6/logo-haus.footer.png" alt="Museum Haus" title="The Museum building" />
+			<span class="p"><Raw html={msg('footer-haus-text')} /></span>
+		</a></li>
+		<li class="copy"><a class="block" href={msg('footer-legal-file')+"#image-copyright"} class="clearfix">
+			<i>CC</i>
+			<span class="p"><Raw html={msg('footer-image-copyright-text')} /></span>
+		</a></li>
+		<li class="logo"><span class="block clearfix">
+			<i title="technikum29 Logo">Logo</i>
+			<span class="p"><Raw html={msg('footer-copyright-tag', new Date().getFullYear())} />
+			<br/><a class="u" href={msg('footer-legal-file')}>{msg('footer-legal-link')}></a>
+			<br/><a class="u" href={msg('footer-sitemap-link')}>{msg('footer-sitemap-text')}</a>
+			<br/><a class="u" href={msg('footer-privacy-link')}>{msg('footer-privacy-text')}</a>
+			</span>
+		</span></li>
+		</ul>
+	</div>
 
 const urlprefix = "/";
 const urlprefix_lang = urlprefix + data.lang;
@@ -172,11 +203,51 @@ return postprocess(<>
 				</nav>
 		</header>
 		<hr/>
-		<Comment>
-			Weiter geht es hier mit Footer usw!
-		</Comment>
+		<footer class={"in-sheet " + (print_footer_menu || "empty-footer)")}>
+			<nav class="guide">
+				<Comment>hier wird nav.side die Liste per JS reinkopiert</Comment>
+			</nav>
+			<nav class={"rel clearfix "+(print_footer_menu || "empty")}>
+			<ul>
+				{ print_footer_menu ? "stuff comes here" : "" }
+				{/*
+				//if($print_footer_menu)
+					foreach($this->page_relations as $rel => $a) {
+						// only show the links wanted to be shown. Only relevant if
+						// the "show-rel-*"-magic is working.
+						if( $print_footer_menu ||
+							(!$print_footer_menu && $rel == "prev" && $show_rel_prev) ||
+							(!$print_footer_menu && $rel == "next" && $show_rel_next)) {
+						
+							printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
+								$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
+								$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
+							);
+						} // endif
+					} // endfor
+				*/}
+			</ul>
+			</nav>
+			{/* packe Bigfooter bei leerem Footer-Menue in footer.in-sheet */}
+			{ print_footer_menu || bigfooter }
+			<div class="right">
+				<Comment>text der rechts unten steht</Comment>
+			</div>
+		</footer>
 	</div><Comment> end of #container -- Note: #container geht for footer.attached zu.</Comment>
-	{/* footer attached */}
+	<footer class="attached">
+		<Comment><div class="legacy">{msg('footer-legacy-text')}</div></Comment>
+		{/* packe Bigfooter bei gefuelltem footer.in-sheet nach footer.attached. */}
+		{ print_footer_menu &&  bigfooter }
+		{/*
+			// pending log messages
+			if(!$this->log->is_empty()) {
+				echo '<ul class="messages footer nolist">';
+				$this->log->print_all();
+				echo '</ul>';
+			}
+		*/}
+	</footer>
 	
 	<script src="/shared/js-v6/libs/jquery-1.7.2.min.js"></script>
 	<Raw html={`<script>window.t29={'conf': ${JSON.stringify(client_js_transfer)}};</script>`} />

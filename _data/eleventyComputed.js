@@ -15,7 +15,8 @@ const absif = path => path ? "/"+path : path; // prepend if it is a path
 export default {
   title: (data) => data.title || data.titel,
   
-  lang: (data) => data.permalink?.includes?.("en/") ? "en" : "de",
+  // TODO: Should use data.url or this.page.url instead of data.permalink
+  lang: (data) => data?.permalink?.includes?.("en/") ? "en" : "de",
   
   msg: (data) => translator(data.lang),
     
@@ -35,6 +36,8 @@ export default {
   nav_main: data => eleventyNavigation(data.collections.all, "tour"),
   nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal),
   nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
+  
+  //nav_test_prev: function(data) { try { return this.getNextCollectionItem(data.collections.all); } catch(e) { return false; } },
     
   // whether this page is part of nav.horizontal, nav.side or none
   seite_in_nav: (data) => {
@@ -51,7 +54,8 @@ export default {
     // and if not, provide help for resolving or so.
     parent: data.parent,
     
-    title: data.nav_title || data.title,
+    title: data.nav_title || data.nav_titel || data.title,
     order: data.nav_order,
   }),
+
 }

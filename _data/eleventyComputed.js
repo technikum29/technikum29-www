@@ -12,12 +12,63 @@ const eleventyNavigationBreadcrumb = eleventyNavigationPlugin.navigation.findBre
 
 const absif = path => path ? "/"+path : path; // prepend if it is a path
 
+// Lookup a node by key within the tree
+const navTreeLookup = (nodes, key) => nodes.reduce((r, n) => r || (n.key === key ? n : n.children && navTreeLookup(n.children, key)), null);
+
 /**
  * Our "improved" version of eleventyNavigation(nodes, key) which allows pages
- * to inject sub-nodes via their data list "add_sub_navigation"
+ * to inject sub-nodes via their data list "add_sub_navigation".
  **/
 function enrichNavigation(nodes, key) {
   const tree = eleventyNavigation(nodes, key);
+  
+  // Inject next/prev relations *before* adding any non-page node navigation items
+  // to the tree. 
+  /*
+  function addNextPrev(nodes) {
+    for (let i = 0; i < nodes.length; i++) {
+      const node = nodes[i];
+      if(node[i-1]?.children && node[i-1]?.children.length)
+        node.prev_key = nodes[i-1]?.children[ node.children.length-1 ]?.key || null;
+      else
+        node.prev_key = nodes[i-1]?.key || null;        
+      if(node.children && node.children.length) {
+        node.next_key = node.children[0]?.key || null;
+        addNextPrev(node.children);
+      } else
+        node.next_key = nodes[i+1]?.key || null;
+    }
+  }
+  addNextPrev(tree);
+  */
+ 
+  // Flattening the navigation, not destructing or spreading, maintaining references
+  function flatten(nodes, parentKey = null) {
+    return nodes.flatMap(node => {
+      if (parentKey && !node.parentKey) node.parentKey = parentKey;
+      const children = node.children;
+      return [node, ...(children ? flatten(children, node.key) : [])];
+    });
+  }
+  
+  // Geraete pages are always leafs
+  const isContentLeaf = entry => entry.data.tags?.includes("geraete")
+  
+  // Build relations between content pages, well *before* any non-page node navigation
+  // items are inserted.
+  const flatTree = flatten(tree);
+  flatTree.filter(entry => !isContentLeaf(entry)).forEach((cur, i, all) => {
+    cur.prev = all[i-1];
+    cur.next = all[i+1];
+  });
+  
+  // for geraete pages, build only parent relations
+  flatTree.filter(isContentLeaf).forEach(cur => {
+    cur.prev = navTreeLookup(tree, cur.parent)
+    // cur.next is always empty because previous forEach skipped them.
+  })
+  
+  //if(tree.length) debugger;
   
   function addToTree(data, key, newChildren, do_prepend = false /* false = append */) {
       //debugger;
@@ -50,6 +101,8 @@ function enrichNavigation(nodes, key) {
       }
   }
   
+  // For every page, inject the contents of "add_sub_navigation" into the nav tree.
+  // This is not recursive as it is supposed to only work top-level.
   for(let entry of nodes) {
     const data = entry?.data || {};
     const data_key = data?.eleventyNavigation?.key;
@@ -89,6 +142,7 @@ function enrichNavigation(nodes, key) {
     //       We could also require the presence of an #id, because the auto-generation
     //       currently takes place only client side (something one could also change).
   }
+  
   return tree
 }
 
@@ -117,8 +171,12 @@ export default {
   nav_main: data => enrichNavigation(data.collections.all, "tour"),
   nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal),
   nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
+  nav_cur: data => data.nav_main && navTreeLookup(data.nav_main, data.eleventyNavigation.key),
   
-  //nav_test_prev: function(data) { try { return this.getNextCollectionItem(data.collections.all); } catch(e) { return false; } },
+  nav_prev: data => data.nav_cur?.prev,
+  nav_next: data => data.nav_cur?.next,
+  
+  //nav_test_prev: function(data) { return this.getNextCollectionItem(data.collections.nav_horizontal); },
     
   // whether this page is part of nav.horizontal, nav.side or none
   seite_in_nav: (data) => {

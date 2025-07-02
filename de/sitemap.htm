@@ -1,6 +1,7 @@
 ---
 seiten_id: "sitemap"
 titel: "Sitemap"
+templateEngineOverride: njk
 ---
     <h2>Sitemap</h2>
     <p>Im Folgenden ist eine vollständige hierarchisch strukturierte Darstellung aller Einzelseiten
@@ -9,5 +10,21 @@ titel: "Sitemap"
     <a href="/de/suche.php">unsere Seitensuche</a> hin. Fast alle Seiten sind ins Englische übersetzt,
     die <a href="/en/sitemap.php">Sitemap der englischen Seiten</a> unterscheidet sich geringfügig.
     </p>
-    
-    .... SITEMAP follows here ....
+
+{% set navPages = nav_main %}
+{% macro renderNavListItem(entry) -%}
+<li{% if entry.url == page.url %} class="my-active-class"{% endif %}>
+  <a href="{{ entry.url }}">{{ entry.title }}</a>
+  <!--<tt style="font-size:80%">{{ entry.url }}</tt>-->
+  ({% if entry.prev %}{{ entry.prev.key }} ← {% endif %}{{ entry.key }}{% if entry.next %} → {{ entry.next.key }}{% endif %})
+{%- if entry.children.length -%}
+  <ul>
+    {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+  </ul>
+{%- endif -%}
+</li>
+{%- endmacro %}
+
+<ul class="sitemap u0a">
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+</ul>

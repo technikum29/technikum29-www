@@ -54,10 +54,17 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   );
 };
 
+const RelationalLink = ({ dir, target, msg }) => {
+	const text = target.data?.nav_title || target.data?.title;
+	const href = target.url;
+	return <li class={dir}><a href={href} title={msg(`head-rel-${dir}`, text)}>{msg(`nav-rel-${dir}`)} <strong>{text}</strong></a></li>;
+}
+
+
 export default function({msg, ...data}) {
 	
 	///if(data.nav_test_prev) {
-	 debugger;
+	 //debugger;
 	//}
 
 // TODO: Should define a proper set of variables to be transfered to client
@@ -74,7 +81,9 @@ const bodyClasses = [
 
 const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
 
-const print_footer_menu = true; // count($this->page_relations) || isset($this->conf['force_footer_menu']);
+if(data.nav_cur) debugger;
+
+const print_footer_menu = Boolean(data.nav_prev || data.nav_next || data.force_footer_menu);
 
 const bigfooter = <div class="bigfooter">
 		<ul class="clearfix">
@@ -207,23 +216,8 @@ return postprocess(<>
 			</nav>
 			<nav class={"rel clearfix "+(print_footer_menu || "empty")}>
 			<ul>
-				{ print_footer_menu ? "stuff comes here" : "" }
-				{/*
-				//if($print_footer_menu)
-					foreach($this->page_relations as $rel => $a) {
-						// only show the links wanted to be shown. Only relevant if
-						// the "show-rel-*"-magic is working.
-						if( $print_footer_menu ||
-							(!$print_footer_menu && $rel == "prev" && $show_rel_prev) ||
-							(!$print_footer_menu && $rel == "next" && $show_rel_next)) {
-						
-							printf("\t<li class='%s'><a href='%s' title='%s'>%s <strong>%s</strong></a>\n",
-								$rel, $href($a['href']), sprintf($_('head-rel-'.$rel), $this->relational_link_to_string($a)),
-								$_('nav-rel-'.$rel), $this->relational_link_to_string($a)
-							);
-						} // endif
-					} // endfor
-				*/}
+				{print_footer_menu && data.nav_prev && <RelationalLink dir="prev" target={data.nav_prev} msg={msg} /> }
+				{print_footer_menu && data.nav_next && <RelationalLink dir="next" target={data.nav_next} msg={msg} /> }
 			</ul>
 			</nav>
 			{/* packe Bigfooter bei leerem Footer-Menue in footer.in-sheet */}

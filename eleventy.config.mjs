@@ -5,6 +5,7 @@
 
 import { collectRedirects } from "#data/make_redirects";
 import yaml from "js-yaml";
+import { DateTime } from "luxon";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import eleventyHastJsxPlugin from "eleventy-hast-jsx";
 
@@ -28,8 +29,18 @@ export default async function(eleventyConfig) {
 	
 	eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
 	
+	// this could also be a /blog/blog.json file or so.
+	eleventyConfig.addCollection("blog", function(collectionApi) {
+		const blog_items = collectionApi.getAll().
+			filter(item => item.inputPath.startsWith("./blog/"))
+			 .sort((a, b) => b.date - a.date);  // explicitely sort blog posts
+		//blog_items.forEach(item => item.data.layout = "blog.njk");
+		return blog_items;
+	});
+
+	
 	// for the time being, ignore almost everything except de/
-	["en","blog","robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
+	["en","robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
 	
 	// add global default layout, https://github.com/11ty/eleventy/issues/380
 	eleventyConfig.addGlobalData("layout", "default-layout.jsx");
@@ -37,6 +48,10 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 	eleventyConfig.addPlugin(eleventyHastJsxPlugin.plugin, {
 		/* htmlOptions: */
+	});
+	
+	eleventyConfig.addFilter("formatDay", dateObj => {
+		return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("yyyy-LL-dd");
 	});
 	
 	// JSX templates and typescript support at same time:

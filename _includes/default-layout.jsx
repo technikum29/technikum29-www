@@ -57,7 +57,7 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
 export default function({msg, ...data}) {
 	
 	///if(data.nav_test_prev) {
-	// debugger;
+	 debugger;
 	//}
 
 // TODO: Should define a proper set of variables to be transfered to client
@@ -142,10 +142,8 @@ return postprocess(<>
 		<h1 role="banner"><a href="/" title={msg('head-h1-title')}>{msg('head-h1')}</a></h1>
 		<div id="background-color-container">
 			<section class="main content" role="main" id="content">
-				<Comment>
-					<ul class="messages panel <?php if($this->log->is_empty()) echo 'empty'; ?> nolist">
-					</ul>	
-				</Comment>
+				<ul class="messages panel empty nolist"></ul>	{/* class="... <?php if($this->log->is_empty()) echo 'empty'; ?>*/}
+
 				<Comment> *** Start of content *** </Comment>
 
 				<Raw html={data.content} />

@@ -20,7 +20,7 @@ function enrichNavigation(nodes, key) {
   const tree = eleventyNavigation(nodes, key);
   
   function addToTree(data, key, newChildren, do_prepend = false /* false = append */) {
-      debugger;
+      //debugger;
       function findAndInsert(node) {
           if (node.key === key) {
               if (!Array.isArray(node.children)) {
@@ -70,7 +70,7 @@ function enrichNavigation(nodes, key) {
           let url = `${base_url}#${key}`; // default placeholder          
           url = subentry.link || subentry.url || subentry.permalink || url;
           if(url.startsWith("#")) url = data?.page?.url + url; // prepend page anchors
-          debugger;
+          //debugger;
           // Todo, also resolve realtive links as relative to parent url, for instance
           // base_url = "/de/bla/bar.htm, url = foo.htm" => "/de/bla/foot.htm"
 
@@ -96,10 +96,11 @@ export default {
   title: (data) => data.title || data.titel,
   
   // TODO: Should use data.url or this.page.url instead of data.permalink
-  lang: (data) => data?.permalink?.includes?.("en/") ? "en" : "de",
+  // TODO: Use collections and tags instead
+  lang: (data) => data.lang || (data?.permalink?.includes?.("en/") ? "en" : "de"),
   
   msg: (data) => translator(data.lang),
-    
+  
   // basically <title>
   html_title: (data) => `${data.title} - technikum29`,
   

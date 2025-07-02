@@ -1,5 +1,5 @@
 ---
-seiten_id: "blog"
+seiten_id: blog
 titel: "technikum29-Blog"
 tags: nav_horizontal
 nav_title: Neues
@@ -25,31 +25,21 @@ willkommen.
 <h3>Beiträge</h3>
 <p>Die folgenden Beiträge gibt es bislang:
 
-<ul><?php
-	require "../blog/blog.php";
-	$postings = slurp_blog_postings();
-	foreach($postings as $url => $posting)
-		echo "<li>$posting[date]: <a href='$url'>$posting[title]</a>"; //, by $posting[author]</a>";
-?></ul>
+<ul>{% for post in collections.blog %}
+	<li>{{post.date | formatDay}}: <a href="{{post.url}}">{{post.data.title}}</a> <!-- von {post.author} -->
+	</li>
+{% endfor %}</ul>
 
 
 <h3>Autoren</h3>
 <p>Die folgenden Autoren waren bislang aktiv:
 
-<?php
-	$team = simplexml_load_file("team-list.xml");
-	if(!$team) trigger_error("team-list.xml: XML-Datei ist nicht wohlgeformt.");
-	
-	foreach($team as $author) {
-		if(!isset($author['is_active_blog_author'])) continue; // dafuq
-		echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";
-		$thumb = $author->xpath("./img[@class='thumbnail']");
-		$photo = $author->xpath("./img[@class='photo']");
-		$thumb = $thumb ? $thumb[0]->asXML() : '';
-		$photo = $photo ? $photo[0]['src'] : '';
-		echo "<a href='$photo' class='popup'>$thumb</a>";
-		echo $author->abstract->asXML();
-		echo "<div class='more'><a class='go' href='team.php#$author[identifier]'>Biografie lesen</a></div>";
-		echo "</section>";
-	}
-?>
+{% for author_profile in team %}
+{% if author_profile.is_active_blog_author %}
+  <section class='blog author_info left clear-after' id='author-{{ author_profile.identifier }}'>
+	<a href='{{ author_profile.photo }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
+	{{ author_profile.abstract }}
+	<div class='more'><a class='go' href='/de/team#{{ author_profile.identifier }}'>Biografie lesen</a></div>
+  </section>
+{% endif %}
+{% endfor %}

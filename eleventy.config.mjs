@@ -4,7 +4,7 @@
  **/
 
 import { collectRedirects } from "#data/make_redirects";
-
+import yaml from "js-yaml";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import eleventyHastJsxPlugin from "eleventy-hast-jsx";
 
@@ -25,6 +25,8 @@ export default async function(eleventyConfig) {
 	// treat HTML input files independently of file suffix
 	eleventyConfig.addTemplateFormats("htm");
 	eleventyConfig.addExtension("htm", { key: "html" });
+	
+	eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
 	
 	// for the time being, ignore almost everything except de/
 	["en","blog","robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));

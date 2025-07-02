@@ -36,6 +36,7 @@ ul.thumbs a img {
 	display: block;
 	width: 100% !important;
 	border-radius: 50%;
+	aspect-ratio: 1 / 1;
 }
 
 

@@ -1,3 +1,14 @@
+/**
+ * t29v8: The main page eleventy template.
+ * 
+ * This is a JSX file, i.e. a special Javascript dialect with some kind of
+ * "embedded XML/XHTML". It renders the major layout of the technikum29 website.
+ * The layout is basically a function of the (page and global) data.
+ *
+ * For the upstream docs, see https://www.11ty.dev/docs/languages/jsx/ as
+ * well as https://github.com/j-f1/eleventy-hast-jsx
+ **/
+
 import jsx from "eleventy-hast-jsx";
 const { Raw, DOCTYPE, Comment } = jsx;
 

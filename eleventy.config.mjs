@@ -30,6 +30,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
 	
 	// this could also be a /blog/blog.json file or so.
+	// TODO: add "tag":["blog"] to /blog/blog.11tydata.js
 	eleventyConfig.addCollection("blog", function(collectionApi) {
 		const blog_items = collectionApi.getAll().
 			filter(item => item.inputPath.startsWith("./blog/"));

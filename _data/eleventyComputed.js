@@ -1,3 +1,14 @@
+/**
+ * t29v8: Core global computed data file.
+ * 
+ * This file computes the navigation, page-specific attributes and many more.
+ * Together with ../eleventy.config.mjs, these two files are the core of the
+ * t29v8 elventy SSG system.
+ * 
+ * Before editing this file, make sure you understood the eleventy data cascade,
+ * see https://www.11ty.dev/docs/data-cascade/ for details.
+ **/
+
 import { translator } from "#data/messages";
 import { existsSync } from 'fs';
 const pass_if_exists = fn => existsSync(fn) ? fn : null;

@@ -65,6 +65,10 @@ for fname in args.files:
             for k,v in fname_data.items():
                 if v.count("'") == 2 and '"' not in v and v[0] == "'" and v[-1] == "'":
                     fname_data[k] = f'"{v[1:-1]}"'
+                
+                # consider omitting quotes at all if not neccessary
+                if not " " in v:
+                    fname_data[k] = v[1:-1]
             
             if len(fname_data):
                 with dst_name.open("w", encoding="utf-8") as dst:

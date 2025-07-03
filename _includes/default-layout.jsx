@@ -74,12 +74,30 @@ const RelationalLink = ({ dir, target, msg, headerlink }) => {
 		: <li class={dir}><a href={href} title={title}>{msg("nav-rel-"+dir)} <strong>{text}</strong></a></li>;
 }
 
+const InterlangLink = ({data, lang, link_data, msg}) => {
+	const is_current_lang = lang == data.lang;
+	const lang_textual = msg("topnav-interlang-language-"+lang);
+	if(!link_data) {
+		// no translation exists
+		// TODO FIXME URL composing like
+		/* htmlentities(http_build_query(array(
+									'backurl' => $_SERVER['REQUEST_URI'],
+									'backtitle' => $backtitle ? $backtitle : null,
+								     ))), */
+		return <li class="nonexistent"><a href="TODO">{msg("topnav-interlang-nonexistent", lang)}</a></li>;
+	} else if(is_current_lang) {
+		return <li class="active"><a href={link_data.page.url} title={msg("topnav-interlang-active", link_data.title)}>{lang_textual}</a></li>
+	} else {
+		return <li><a href={link_data.page.url} title={msg("topnav-interlang-title", link_data.title)}>{lang_textual}</a></li>
+	}
+}
+
 
 export default function({msg, ...data}) {
 	
-	///if(data.nav_test_prev) {
+	if(data.seiten_id == "startseite") {
 	 //debugger;
-	//}
+	}
 
 // TODO: Should define a proper set of variables to be transfered to client
 	
@@ -221,7 +239,8 @@ return postprocess(<>
 				<nav class="top">
 					<h3 class="visuallyhidden">{msg("sidebar-h2-lang")}</h3>
 					<ul>
-						{/* interlanguage links etc */}
+						{Object.entries(data.interlang_links).map(([lang,link_data]) =>
+								<InterlangLink lang={lang} data={data} link_data={link_data} msg={msg} />)}
 					</ul>
 					<form method="get" action={msg('topnav-search-page')}> {/* TODO: $href make relative Links! */}
 						<span class="no-js">{msg('topnav-search-label')}:</span>

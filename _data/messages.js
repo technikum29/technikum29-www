@@ -30,6 +30,8 @@ export const messages = {
     'topnav-interlang-active': ['Sie betrachten gerade die Seite "%s" auf Deutsch', 'You currently read the page "%s" in English'],
     'topnav-interlang-nonexistent': ['Diese Seite steht auf Deutsch nicht zur Verfügung', 'This page is not available in English'],
     'topnav-interlang-nonexistent-page': '/en/no-translation.php',
+    'topnav-interlang-language-de': 'Deutsch',
+    'topnav-interlang-language-en': 'English',
     'topnav-search-label': ['Suchen', 'Search'],
     'topnav-search-page': ['/suche.php', '/search.php'],
     'opensearch-desc': ['technikum29 (de)', 'technikum29 (en)'],

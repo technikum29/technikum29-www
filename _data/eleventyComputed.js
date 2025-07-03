@@ -180,7 +180,7 @@ export default {
   // For instance, collections will include all page data including content.
   // Navigation list/dicts only contain keys
   nav_main: data => enrichNavigation(data.collections.all, "tour"),
-  nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal),
+  nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal.filter(page => page.data.lang == data.lang)),
   nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
   nav_cur: data => data.nav_main && navTreeLookup(data.nav_main, data.eleventyNavigation.key),
   
@@ -196,6 +196,12 @@ export default {
     const in_nav_side = data.nav_breadcrumbs.some?.(item => item.page_id == "tour");
     return in_nav_horizontal ? "nav_horizontal" : (in_nav_side ? "nav_side" : false);
   },
+  
+  interlang_links: self_data => Object.fromEntries(["de","en"].map(lang => {
+    if(lang == self_data.lang) return [lang, self_data];
+    const other_data = self_data.collections.all.find(other => other.data.lang == lang && other.data.page_id == self_data.page_id)?.data;
+    return [lang, other_data];
+  })),
   
   eleventyNavigation: (data) => ({
     // map standard front matter keywords to the ones wanted by the nav plugin.

@@ -21,6 +21,8 @@ export const config = {
 
 export default async function(eleventyConfig) {
 
+	// TODO: This misses all files e.g. at de/geraete/**.{jpg,pdf,mov,etc.}
+	// They should be most likely moved to another location anyway!
 	eleventyConfig.addPassthroughCopy("shared"); // shared folder
 
 	// treat HTML input files independently of file suffix
@@ -29,27 +31,14 @@ export default async function(eleventyConfig) {
 	
 	eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
 	
-	// this could also be a /blog/blog.json file or so.
-	// TODO: add "tag":["blog"] to /blog/blog.11tydata.js
-	eleventyConfig.addCollection("blog", function(collectionApi) {
-		const blog_items = collectionApi.getAll().
-			filter(item => item.inputPath.startsWith("./blog/"));
-			 //.sort((a, b) => b.date - a.date);  // explicitely sort blog posts
-		//blog_items.forEach(item => item.data.layout = "blog.njk");
-		return blog_items;
-	});
-
-	
 	// for the time being, ignore almost everything except de/
-	["en","robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
+	["robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
 	
 	// add global default layout, https://github.com/11ty/eleventy/issues/380
 	eleventyConfig.addGlobalData("layout", "default-layout.jsx");
 	
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
-	eleventyConfig.addPlugin(eleventyHastJsxPlugin.plugin, {
-		/* htmlOptions: */
-	});
+	eleventyConfig.addPlugin(eleventyHastJsxPlugin.plugin);
 	
 	eleventyConfig.addFilter("formatDay", dateObj => {
 		return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("yyyy-LL-dd");

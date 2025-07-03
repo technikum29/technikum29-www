@@ -6,6 +6,9 @@
 
 
 export default {
+    tags: ["blog"],
+
+    
     eleventyComputed: {
         author_profile: (data) => {
             const author_id = (data.author || data.autor || "").toLowerCase();

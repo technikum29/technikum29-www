@@ -173,10 +173,11 @@ export default {
   nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
   nav_cur: data => data.nav_main && navTreeLookup(data.nav_main, data.eleventyNavigation.key),
   
-  nav_prev: data => data.nav_cur?.prev,
-  nav_next: data => data.nav_cur?.next,
+  // Since computed data dominates, actively allow this to be manually overwritten subdominant data sources.
+  nav_prev: data => data.nav_prev || data.nav_cur?.prev,
+  nav_next: data => data.nav_next || data.nav_cur?.next,
   
-  //nav_test_prev: function(data) { return this.getNextCollectionItem(data.collections.nav_horizontal); },
+  //nav_test_prev: function(data) { return this.getNextCollectionItem(data.collections.blog); },
     
   // whether this page is part of nav.horizontal, nav.side or none
   seite_in_nav: (data) => {

@@ -25,7 +25,7 @@ willkommen.
 <h3>Beiträge</h3>
 <p>Die folgenden Beiträge gibt es bislang:
 
-<ul>{% for post in collections.blog %}
+<ul>{% for post in collections.blog reversed %}
 	<li>{{post.date | formatDay}}: <a href="{{post.url}}">{{post.data.title}}</a> <!-- von {post.author} -->
 	</li>
 {% endfor %}</ul>

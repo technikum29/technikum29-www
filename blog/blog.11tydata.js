@@ -4,6 +4,7 @@
  * template.
  **/
 
+
 export default {
     eleventyComputed: {
         author_profile: (data) => {
@@ -11,6 +12,8 @@ export default {
             return data.team.find(member => member.identifier == author_id)
         },
         title: (data) => data.title || data.titel,
+        nav_prev: function(data) { return this.getCollectionItemWorking(data.collections.blog, data.page, -1); },
+        nav_next: function(data) { return this.getCollectionItemWorking(data.collections.blog, data.page, +1); },
     },
     
     layout: "blog.njk",

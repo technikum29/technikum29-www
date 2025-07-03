@@ -32,8 +32,8 @@ export default async function(eleventyConfig) {
 	// this could also be a /blog/blog.json file or so.
 	eleventyConfig.addCollection("blog", function(collectionApi) {
 		const blog_items = collectionApi.getAll().
-			filter(item => item.inputPath.startsWith("./blog/"))
-			 .sort((a, b) => b.date - a.date);  // explicitely sort blog posts
+			filter(item => item.inputPath.startsWith("./blog/"));
+			 //.sort((a, b) => b.date - a.date);  // explicitely sort blog posts
 		//blog_items.forEach(item => item.data.layout = "blog.njk");
 		return blog_items;
 	});
@@ -52,6 +52,29 @@ export default async function(eleventyConfig) {
 	
 	eleventyConfig.addFilter("formatDay", dateObj => {
 		return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("yyyy-LL-dd");
+	});
+	
+	// copied from eleventy/src/Filters/GetCollectionItem.js as our workaround,
+	// because getCollectionItem is not working for me due to locale bug.
+	eleventyConfig.addFilter("getCollectionItemWorking", function(collection, page, modifier = 0) {
+		let j = 0;
+		let index;
+		for (let item of collection) {
+			if (
+				item.inputPath === page.inputPath &&
+				(item.outputPath === page.outputPath || item.url === page.url)
+			) {
+				index = j;
+				break;
+			}
+			j++;
+		}
+
+		if (index !== undefined && collection?.length) {
+			if (index + modifier >= 0 && index + modifier < collection.length) {
+				return collection[index + modifier];
+			}
+		}
 	});
 	
 	// JSX templates and typescript support at same time:

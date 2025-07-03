@@ -54,10 +54,13 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   );
 };
 
-const RelationalLink = ({ dir, target, msg }) => {
-	const text = target.data?.nav_title || target.data?.title;
+const RelationalLink = ({ dir, target, msg, headerlink }) => {
+	const text = target.data?.nav_title || target.data?.title || target.title;
+	const title = msg("head-rel-"+dir, text);
 	const href = target.url;
-	return <li class={dir}><a href={href} title={msg(`head-rel-${dir}`, text)}>{msg(`nav-rel-${dir}`)} <strong>{text}</strong></a></li>;
+	return headerlink
+		? <link rel={dir} href={href} title={title} />
+		: <li class={dir}><a href={href} title={title}>{msg("nav-rel-"+dir)} <strong>{text}</strong></a></li>;
 }
 
 
@@ -81,7 +84,7 @@ const bodyClasses = [
 
 const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
 
-if(data.nav_cur) debugger;
+//if(data.nav_cur) debugger;
 
 const print_footer_menu = Boolean(data.nav_prev || data.nav_next || data.force_footer_menu);
 
@@ -91,7 +94,7 @@ const bigfooter = <div class="bigfooter">
 			<img src="/shared/img-v6/logo-haus.footer.png" alt="Museum Haus" title="The Museum building" />
 			<span class="p"><Raw html={msg('footer-haus-text')} /></span>
 		</a></li>
-		<li class="copy"><a class="block" href={msg('footer-legal-file')+"#image-copyright"} class="clearfix">
+		<li class="copy"><a class="block clearfix" href={msg('footer-legal-file')+"#image-copyright"}>
 			<i>CC</i>
 			<span class="p"><Raw html={msg('footer-image-copyright-text')} /></span>
 		</a></li>
@@ -134,6 +137,11 @@ return postprocess(<>
 		
 		Ausserdem wichtiges neues TODO: OG-Links!
 	</Comment>
+	
+	
+	<link rel="first" href={urlprefix_lang} title={msg("head-rel-first")} />
+	{ data.nav_prev && <RelationalLink dir="prev" target={data.nav_prev} msg={msg} headerlink /> }
+	{ data.nav_next && <RelationalLink dir="next" target={data.nav_next} msg={msg} headerlink /> }
 
 	<link rel="copyright" href={urlprefix_lang+msg('footer-legal-file')} title={msg('footer-legal-link')} />
 	<link rel="alternate" type="application/rss+xml" href={urlprefix_lang+"/news.rss"} title={msg('rss-title')} />
@@ -168,8 +176,10 @@ return postprocess(<>
 					</a>
 					</Comment>
 					
-					<p>Breadcrumbs:</p>
-					<Navigation data={data} tree_name="nav_breadcrumbs" />
+					<Comment>
+						<p>Breadcrumbs:</p>
+						<Navigation data={data} tree_name="nav_breadcrumbs" />
+					</Comment>
 					
 					
 					<h2 class="visuallyhidden" id="tour-navigation">{msg("sidebar-h2-tour")}</h2>

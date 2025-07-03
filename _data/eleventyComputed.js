@@ -181,7 +181,8 @@ export default {
   // Navigation list/dicts only contain keys
   nav_main: data => enrichNavigation(data.collections.all, "tour"),
   nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal.filter(page => page.data.lang == data.lang)),
-  nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all, data.page_id, {"allowMissing":true, "includeSelf": true}),
+  nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all.filter(page => page.data.lang == data.lang),
+                                                        data.page_id, {"allowMissing":true, "includeSelf": true}),
   nav_cur: data => data.nav_main && navTreeLookup(data.nav_main, data.eleventyNavigation.key),
   
   // Since computed data dominates, actively allow this to be manually overwritten subdominant data sources.

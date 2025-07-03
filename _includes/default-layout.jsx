@@ -205,10 +205,8 @@ return postprocess(<>
 					</a>
 					</Comment>
 					
-					<Comment>
 						<p>Breadcrumbs:</p>
 						<Navigation data={data} tree_name="nav_breadcrumbs" />
-					</Comment>
 					
 					
 					<h2 class="visuallyhidden" id="tour-navigation">{msg("sidebar-h2-tour")}</h2>

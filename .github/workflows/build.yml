@@ -48,6 +48,6 @@ jobs:
             echo '${{secrets.DEPLOY_SSH_KNOWN_HOST}}' > known_host
             chmod 600 known_host
             echo startet at: $(date -u)
-          SSH_ARGS: p 22 -o UserKnownHostsFile=known_host -o StrictHostKeyChecking=yes
+          SSH_ARGS: "-p 22 -o UserKnownHostsFile=known_host -o StrictHostKeyChecking=yes"
           POST_SCRIPT: |
             echo done at $(date -u)

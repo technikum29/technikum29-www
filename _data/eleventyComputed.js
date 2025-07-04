@@ -9,6 +9,11 @@
  * see https://www.11ty.dev/docs/data-cascade/ for details.
  **/
 
+  
+// Available available languages. Order used in language display
+// at some points as well as where mapping is used.
+const all_languages = ["de","en"]
+
 import { translator } from "#data/messages";
 import { existsSync } from 'fs';
 const pass_if_exists = fn => existsSync(fn) ? fn : null;
@@ -33,25 +38,9 @@ const navTreeLookup = (nodes, key) => nodes.reduce((r, n) => r || (n.key === key
 function enrichNavigation(nodes, key) {
   const tree = eleventyNavigation(nodes, key);
   
+  // STEP 1:
   // Inject next/prev relations *before* adding any non-page node navigation items
   // to the tree. 
-  /*
-  function addNextPrev(nodes) {
-    for (let i = 0; i < nodes.length; i++) {
-      const node = nodes[i];
-      if(node[i-1]?.children && node[i-1]?.children.length)
-        node.prev_key = nodes[i-1]?.children[ node.children.length-1 ]?.key || null;
-      else
-        node.prev_key = nodes[i-1]?.key || null;        
-      if(node.children && node.children.length) {
-        node.next_key = node.children[0]?.key || null;
-        addNextPrev(node.children);
-      } else
-        node.next_key = nodes[i+1]?.key || null;
-    }
-  }
-  addNextPrev(tree);
-  */
  
   // Flattening the navigation, not destructing or spreading, maintaining references
   function flatten(nodes, parentKey = null) {
@@ -80,6 +69,9 @@ function enrichNavigation(nodes, key) {
   })
   
   //if(tree.length) debugger;
+  
+  // STEP 2:
+  // Inject "virtual" sub-pages (foo.htm -> foo.htm#bar) as requested on-page.
   
   function addToTree(data, key, newChildren, do_prepend = false /* false = append */) {
       //debugger;
@@ -179,10 +171,9 @@ export default {
   // note, these are navigation trees, i.e. nested structures and not collection structures.
   // For instance, collections will include all page data including content.
   // Navigation list/dicts only contain keys
-  nav_main: data => enrichNavigation(data.collections.all, "tour"),
+  nav_main: data => enrichNavigation(data.collections[data.lang], "tour"),
   nav_horizontal: data => eleventyNavigation(data.collections.nav_horizontal.filter(page => page.data.lang == data.lang)),
-  nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections.all.filter(page => page.data.lang == data.lang),
-                                                        data.page_id, {"allowMissing":true, "includeSelf": true}),
+  nav_breadcrumbs: data => eleventyNavigationBreadcrumb(data.collections[data.lang], data.page_id, {"allowMissing":true, "includeSelf": true}),
   nav_cur: data => data.nav_main && navTreeLookup(data.nav_main, data.eleventyNavigation.key),
   
   // Since computed data dominates, actively allow this to be manually overwritten subdominant data sources.
@@ -198,7 +189,7 @@ export default {
     return in_nav_horizontal ? "nav_horizontal" : (in_nav_side ? "nav_side" : false);
   },
   
-  interlang_links: self_data => Object.fromEntries(["de","en"].map(lang => {
+  interlang_links: self_data => Object.fromEntries(all_languages.map(lang => {
     if(lang == self_data.lang) return [lang, self_data];
     const other_data = self_data.collections.all.find(other => other.data.lang == lang && other.data.page_id == self_data.page_id)?.data;
     return [lang, other_data];

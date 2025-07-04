@@ -21,9 +21,9 @@ const doFormat = true;
 const postprocess = (tree) => { if(doFormat) format(tree); return tree; }
 
 const Navigation = ({ data, tree_name, baseClass="u1" }) => {
-  //debugger;
+  //if(data.lang == "en") debugger;
   const navPages = data[tree_name];
-  const currentUrl = data.permalink;
+  const currentUrl = data.permalink || data.page.url;
       
   const renderNavListItem = (entry, level) => {
 	const isCurrent = entry.url === currentUrl;
@@ -37,6 +37,8 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
 	const ariaCurrent = isCurrent ? "page" : undefined;
     var aTitle = entry?.data?.title;
     if(aTitle == entry.title) aTitle = undefined;
+	
+	//if(currentUrl == "/en/computer/electro-mechanical/") debugger;
 
     return (
       <li key={entry.key} className={classes(liClasses)}>
@@ -205,8 +207,12 @@ return postprocess(<>
 					</a>
 					</Comment>
 					
-						<p>Breadcrumbs:</p>
+						<p>Breadcrumbs:
 						<Navigation data={data} tree_name="nav_breadcrumbs" />
+						</p>
+						
+						<p>Tags:
+						{data.tags?.join(", ")}</p>
 					
 					
 					<h2 class="visuallyhidden" id="tour-navigation">{msg("sidebar-h2-tour")}</h2>

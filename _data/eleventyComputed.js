@@ -12,7 +12,7 @@
   
 // Available available languages. Order used in language display
 // at some points as well as where mapping is used.
-const all_languages = ["de","en"]
+const all_languages = ["de","en"];
 
 import { translator } from "#data/messages";
 import { existsSync } from 'fs';

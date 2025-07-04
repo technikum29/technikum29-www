@@ -33,7 +33,7 @@ export const messages = {
     'topnav-interlang-language-de': 'Deutsch',
     'topnav-interlang-language-en': 'English',
     'topnav-search-label': ['Suchen', 'Search'],
-    'topnav-search-page': ['/suche.php', '/search.php'],
+    'topnav-search-page': ['/suche', '/search'],
     'opensearch-desc': ['technikum29 (de)', 'technikum29 (en)'],
 
     'js-menu-collapse-out': ['Mehr Details', 'Expand menu'],
@@ -43,15 +43,15 @@ export const messages = {
 
     'footer-copyright-tag': '&copy; 2003-%s technikum29.',
     'footer-legal-link': ['Impressum und Kontakt', 'Legal notices'],
-    'footer-legal-file': ['/impressum.php', '/contact.php'],
+    'footer-legal-file': ['/impressum', '/contact'],
     'footer-legacy-text': [
-        '&copy; 2003-%s technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschützt, siehe <a href="/de/impressum.php" class="go">Impressum</a>',
-        '&copy; 2003-%s technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact.php" class="go">Legal Information</a>.'
+        '&copy; 2003-%s technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschützt, siehe <a href="/de/impressum" class="go">Impressum</a>',
+        '&copy; 2003-%s technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact" class="go">Legal Information</a>.'
     ],
     'footer-sitemap-text': 'Sitemap',
-    'footer-sitemap-link': ['/de/sitemap.php', '/en/sitemap.php'],
+    'footer-sitemap-link': ['/de/sitemap', '/en/sitemap'],
     'footer-privacy-text': 'Datenschutz',
-    'footer-privacy-link': ['/de/datenschutz.php', '/en/privacy.php'],
+    'footer-privacy-link': ['/de/datenschutz', '/en/privacy'],
     'footer-haus-text': [
         'Das technikum29 ist ein <u>interaktives Museum</u> im <u>Rhein-Main-Gebiet</u> (nahe Frankfurt). Informationen zu <u>Führungen</u> und <u>Öffnungszeiten</u> erfahren Sie auf der <u>Startseite</u>',
         'The technikum29 is a <u>living computer museum</u> located in <u>Germany, near Frankfurt</u>. We regularly offer <u>guided tours</u>.'
@@ -82,8 +82,8 @@ export const messages = {
     'js-heading-links': ['Direktlink zu diesem Abschnitt', 'Link to this section'],
     // used in /shared/js/modules/img_license.js
     'js-img-license': [
-        '&copy; technikum29. <a href="/de/impressum.php#image-copyright">Lizenzbestimmungen</a>',
-        '&copy; technikum29. <a href="/en/contact.php#image-copyright">Licensing terms</a>'
+        '&copy; technikum29. <a href="/de/impressum#image-copyright">Lizenzbestimmungen</a>',
+        '&copy; technikum29. <a href="/en/contact#image-copyright">Licensing terms</a>'
     ],
 
     // piwik logging settings

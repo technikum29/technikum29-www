@@ -1,0 +1,53 @@
+name: Build Eleventy on Github
+
+on:
+  push:
+    branches:
+      - v8
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [23.x]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies & build
+        run: |
+          npm ci
+          npm run build
+#      - name: Deploy
+#        uses: peaceiris/actions-gh-pages@v3
+#        with:
+#          publish_dir: ./_site
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: static-site
+          path: ./_site/
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: static-site
+      - uses: up9cloud/action-rsync@master
+        env:
+          USER: ${{secrets.DEPLOY_SSH_USER}}
+          HOST: ${{secrets.DEPLOY_SSH_HOST}}
+          KEY: ${{secrets.DEPLOY_SSH_KEY}}
+          SOURCE: ./_site/
+          TARGET: ${{secrets.DEPLOY_SSH_REMOTE_PATH}}
+          PRE_SCRIPT: |
+            echo '${{secrets.DEPLOY_SSH_KNOWN_HOST}}' > known_host
+            chmod 600 known_host
+            echo startet at: $(date -u)
+          SSH_ARGS: p 22 -o UserKnownHostsFile=known_host -o StrictHostKeyChecking=yes
+          POST_SCRIPT: |
+            echo done at $(date -u)

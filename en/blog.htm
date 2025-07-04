@@ -20,29 +20,27 @@ technikum29. This blog was started in February 2019 and will be mixed language
 (German, English). It is authored by the technikum29 team but open for guest
 contributions.
 
+
 <h3>Entries</h3>
 <p>The following entries have been written so far:
 
-<ul><?php
-	require "../blog/blog.php";
-	$postings = slurp_blog_postings();
-	foreach($postings as $url => $posting)
-		echo "<li>$posting[date]: <a href='$url'>$posting[title]</a>"; //, by $posting[author]</a>";
-?></ul>
+
+<ul>{% for post in collections.blog reversed %}
+	<li>{{post.date | formatDay}}: <a href="{{post.url}}">{{post.data.title}}</a> <!-- von {post.author} -->
+	</li>
+{% endfor %}</ul>
 
 
 <h3>Authors</h3>
 <p>So far, we have the following authors:
 
-<?php
-	$team = simplexml_load_file("team-list.xml");
-	if(!$team) trigger_error("team-list.xml: XML-Datei ist nicht wohlgeformt.");
-	
-	foreach($team as $author) {
-		echo "<section class='blog author_info left clear-after' id='author-$author[identifier]'>";
-		foreach($author->xpath("./img[@class='thumbnail']") as $pic)
-			echo "<a href='$pic[src]' class='popup'>".$pic->asXML().'</a>';
-		echo $author->abstract->asXML();
-		echo "</section>";
-	}
-?>
+{% for author_profile in team %}
+{% if author_profile.is_active_blog_author %}
+  <section class='blog author_info left clear-after' id='author-{{ author_profile.identifier }}'>
+	<a href='{{ author_profile.photo }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
+	{{ author_profile.en.abstract | default: author_profile.en.biography }}
+	<div class='more'><a class='go' href='/en/team#{{ author_profile.identifier }}'>Read biography</a></div>
+  </section>
+{% endif %}
+{% endfor %}
+

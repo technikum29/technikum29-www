@@ -132,7 +132,7 @@ const bigfooter = <div class="bigfooter">
 		<li class="logo"><span class="block clearfix">
 			<i title="technikum29 Logo">Logo</i>
 			<span class="p"><Raw html={msg('footer-copyright-tag', new Date().getFullYear())} />
-			<br/><a class="u" href={msg('footer-legal-file')}>{msg('footer-legal-link')}></a>
+			<br/><a class="u" href={msg('footer-legal-file')}>{msg('footer-legal-link')}</a>
 			<br/><a class="u" href={msg('footer-sitemap-link')}>{msg('footer-sitemap-text')}</a>
 			<br/><a class="u" href={msg('footer-privacy-link')}>{msg('footer-privacy-text')}</a>
 			</span>

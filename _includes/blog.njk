@@ -25,6 +25,6 @@ layout: "default-layout.jsx"
   <!-- sollte lokalisiert werden mit einer msg -->
   <h4>About the author of the blog post “{{title}}”</h4><p>
   <a href='{{ author_profile.thumbnail }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
-  {{ author_profile.abstract | safe }}
+  {{ author_profile[lang].abstract | safe }}
   </p><em>Blog post written at {{page.date|formatDay}}.</em></p>
 </section>

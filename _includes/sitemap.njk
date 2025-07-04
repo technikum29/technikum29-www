@@ -1,0 +1,32 @@
+---
+layout: "default-layout.jsx"
+---
+
+{{content|safe}}
+
+<h2>Stats</h2>
+<!-- This is replaced by eleventy after each run -->
+%SSG_STATS%
+
+<p>File stats:</p>
+
+%SSG_FILE_STATS%
+
+<h2>Sitemap ({{lang}})</h2>
+{% set navPages = nav_main %}
+{% macro renderNavListItem(entry) -%}
+<li{% if entry.url == page.url %} class="my-active-class"{% endif %}>
+  <a href="{{ entry.url }}">{{ entry.title }}</a>
+  <!--<tt style="font-size:80%">{{ entry.url }}</tt>-->
+  ({% if entry.prev %}{{ entry.prev.key }} ← {% endif %}{{ entry.key }}{% if entry.next %} → {{ entry.next.key }}{% endif %})
+{%- if entry.children.length -%}
+  <ul>
+    {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+  </ul>
+{%- endif -%}
+</li>
+{%- endmacro %}
+
+<ul class="sitemap u0a">
+{%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+</ul>

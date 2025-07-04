@@ -9,6 +9,9 @@ import { DateTime } from "luxon";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 import eleventyHastJsxPlugin from "eleventy-hast-jsx";
 
+import fs from 'fs';
+import path from 'path';
+
 export const config = {
 /*  dir: {
 	input: "de", // for the time being, for testing.
@@ -80,6 +83,50 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addTemplateFormats("11ty.jsx,11ty.tsx");
 	
 	collectRedirects(eleventyConfig);
+	
+	eleventyConfig.on("eleventy.after", async ({ directories, results, runMode }) => {
+		let fileStats = {}; // e.g. { ".html": { count: 3, size: 1234 }, ... }
+		
+		function collectStats(dir) {
+		for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+			const fullPath = path.join(dir, entry.name);
+			if (entry.isDirectory()) {
+			collectStats(fullPath);
+			} else {
+				const ext = path.extname(entry.name) || "[no ext]";
+				const size = fs.statSync(fullPath).size;
+				if (!fileStats[ext]) fileStats[ext] = { count: 0, size: 0 };
+					fileStats[ext].count++;
+					fileStats[ext].size += size;
+				}
+			}
+		}
+		
+		collectStats(directories.output);
+		const sortedStats = Object.entries(fileStats).sort((a, b) => b[1].size - a[1].size);
+		debugger;
+		
+		const fileStatsHtml = `
+			<table><tr><th>Extension</th><th>Count</th><th>Total Size (KB)</th></tr>
+			${sortedStats.map(([ext, data]) =>
+				`<tr><td>${ext}</td><td>${data.count}</td><td>${(data.size / 1024).toFixed(1)}</td></tr>`
+			).join("\n")}</table>`;
+			
+		const stats = {
+			number_of_templates: results.length,
+			git_commit: "to be done",
+			build_time: new Date().toISOString(),
+		}
+		
+		const statsHtml = `<table>${Object.entries(stats).map(([k,v]) => `<tr><td>${k}<td>${v}</tr>`).join("\n")}</table>`;
+		
+		["_site/de/sitemap/index.html", "_site/en/sitemap/index.html"].forEach(tpl => {
+			let tplContent = fs.readFileSync(tpl, "utf-8");
+			Object.entries({"%SSG_STATS%": statsHtml, "%SSG_FILE_STATS%": fileStatsHtml}).forEach(([k,v]) => tplContent= tplContent.replace(k,v));
+			fs.writeFileSync(tpl, tplContent);
+			console.log("Stats written to "+tpl);
+		});
+	});
 	
 	// return toplevel config if needed { ... }
 };

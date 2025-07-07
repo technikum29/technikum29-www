@@ -48,7 +48,8 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: static-site
-      - uses: up9cloud/action-rsync@master
+      - name: Deploy with ssh/rsync
+        runs-on: sstc/rsync # rsrsync
         # the rsync workflow is errror prone and broken so we will
         # call docker manually.
         #env:
@@ -72,4 +73,4 @@ jobs:
           echo "${{ secrets.DEPLOY_SSH_KNOWN_HOST }}" > ~/.ssh/known_hosts
           set -e # verbose from here
           chmod 0700 ~/.ssh && chmod 600 ~/.ssh/* 
-          rsync -avz ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \
+          rsrsync -avz ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \

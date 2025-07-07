@@ -18,7 +18,7 @@ jobs:
           path: .git
           key: git-cache-${{ runner.os }}-${{ github.sha }}
           restore-keys: |
-            git-cache-${{ runner.os }} -
+            git-cache-${{ runner.os }}-
             
       - name: Checkout code
         uses: actions/checkout@v2
@@ -43,7 +43,9 @@ jobs:
           path: ./_site/
   deploy:
     needs: build
-    runs-on: sstc/rsync
+    runs-on: ubuntu-latest
+    container:
+      image: sstc/rsync
     steps:
       - uses: actions/download-artifact@v4
         with:

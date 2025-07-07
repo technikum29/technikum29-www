@@ -69,9 +69,10 @@ jobs:
         #  POST_SCRIPT: |
         #    echo done at $(date -u)
         run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_rsa
-          echo "${{ secrets.DEPLOY_SSH_KNOWN_HOST }}" > ~/.ssh/known_hosts
-          chmod 0700 ~/.ssh && chmod 600 ~/.ssh/* 
-          id && stat ~/.ssh && ls -l ~/.ssh
+          SSHDIR=/root/.ssh # thanks to the crappy docker image
+          mkdir -p $SSHDIR
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > $SSHDIR/id_rsa
+          echo "${{ secrets.DEPLOY_SSH_KNOWN_HOST }}" > $SSHDIR/known_hosts
+          chmod 0700 $SSHDIR && chmod 600 $SSHDIR/* 
+          id && stat $SSHDIR && ls -l $SSHDIR
           rsync -avz -e "ssh -v" ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \

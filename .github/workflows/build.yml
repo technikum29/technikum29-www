@@ -73,4 +73,4 @@ jobs:
           echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_rsa
           echo "${{ secrets.DEPLOY_SSH_KNOWN_HOST }}" > ~/.ssh/known_hosts
           chmod 0700 ~/.ssh && chmod 600 ~/.ssh/* 
-          rsync -avz ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \
+          rsync -avz -e "ssh -v" ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \

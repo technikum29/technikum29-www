@@ -43,13 +43,12 @@ jobs:
           path: ./_site/
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: sstc/rsync
     steps:
       - uses: actions/download-artifact@v4
         with:
           name: static-site
       - name: Deploy with ssh/rsync
-        runs-on: sstc/rsync # rsrsync
         # the rsync workflow is errror prone and broken so we will
         # call docker manually.
         #env:

@@ -10,7 +10,7 @@
 	print_blog_title();
 ?>
 
-<p><b>Das technikum29 feiert 20sten Geburtstag ! </b>Im Juni 2025 eröffnete Heribert Müller (✝︎ 2018) in den Räumen
+<p><b>Das technikum29 feiert 20sten Geburtstag ! </b>2025 eröffnete Heribert Müller (✝︎ 2018) in den Räumen
 	der ehemaligen Nassauischen Sparkasse in Kelkheim sein Technikmuseum technikum29.
 </p>
 

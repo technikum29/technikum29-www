@@ -400,6 +400,20 @@ Ende Pausenkommentar--->
 </div>
 
 <div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 7. Aug</p>
+	<h4>Führung Gruppe Sven S.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Donnerstag, 7. August 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
+	
+<div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 6. Sep</p>
 	<h4>allgemeiner Helfertag</h4> 
 	<p>An diesem Termin ist ein Betreuer von 9:00-18:00 vor Ort, Unterstützer und Interessierte können gerne jederzeit

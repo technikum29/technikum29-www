@@ -17,7 +17,7 @@
 <div class="box center"> 
 		<img src="/shared/photos/blog/2005-11-09 HK.pdf" width="600"  "/>
 		
-		<p class="bildtext">Heribert Müller eröffnet sein technikum29 in 2005</p>
+		<p class="bildtext">Heribert Müller eröffnet sein technikum29 in 2005 <br>(Höchster Kreisblatt vom 9.11.2005)</p>
 	</div>
 
 <p>Schon viele Jahre vorher sammelte Heribert Müller alte Technik: Röhrenradios, Fernsehgeräte, Videotechik, Kommunikationstechnik 

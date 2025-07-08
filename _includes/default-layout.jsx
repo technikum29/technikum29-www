@@ -20,6 +20,12 @@ import {format} from 'hast-util-format'
 const doFormat = true;
 const postprocess = (tree) => { if(doFormat) format(tree); return tree; }
 
+const log = (data, severity, msg) => {
+	// severity one of "emerg", "alert", "crit", "err", "warn", "notice", "info", "debug"
+	if(!data.log) data.log = []
+	data.log.push([severity,msg])
+}
+
 const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   //if(data.lang == "en") debugger;
   const navPages = data[tree_name];
@@ -143,6 +149,10 @@ const bigfooter = <div class="bigfooter">
 const urlprefix = "/";
 const urlprefix_lang = urlprefix + data.lang;
 
+if(data.redirect_to) {
+	log(data, "info", `Please see <a href="${data.redirect_to}">this page on ${data.title}</a>`);
+}
+
 return postprocess(<>
 <DOCTYPE />
 <Comment>
@@ -159,6 +169,8 @@ return postprocess(<>
 	<meta name="generator" content={`t29v8/${data.eleventy.generator}`} />
 	<meta name="t29.cachedate" content={data.html_time} />
 	<meta name="t29.page_id" content={data.page_id} />
+	
+	{data.redirect_to && <meta http-equiv="refresh" content={"0;url="+data.redirect_to} /> }
 	
 	{data.header_prepend?.map(header => <Raw html={header} />)}
 
@@ -190,7 +202,9 @@ return postprocess(<>
 		<h1 role="banner"><a href="/" title={msg('head-h1-title')}>{msg('head-h1')}</a></h1>
 		<div id="background-color-container">
 			<section class="main content" role="main" id="content">
-				<ul class="messages panel empty nolist"></ul>	{/* class="... <?php if($this->log->is_empty()) echo 'empty'; ?>*/}
+				<ul className={"messages panel nolist " + (data.log?.length ? "" : "empty") }>
+					{ data.log?.map(msg => Array.isArray(msg) ? <li className={msg[0]}><Raw html={msg[1]}/></li> : <li><Raw html={msg} /></li>) }
+				</ul>
 
 				<Comment> *** Start of content *** </Comment>
 

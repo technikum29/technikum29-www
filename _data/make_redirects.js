@@ -24,7 +24,8 @@ export let redirects = {
   // strip deprecated file suffixes such as php, shtml, etc and replace them
   // with the subdirectory idiom, for instance
   //  foo/bar/baz.php => foo/bar/baz/
-  ".(php|shtml?)$": "/",
+  //  foo/bar/baz.htm => foo/bar/baz/ (this may turn out to produce false positives)
+  ".(php|s?html?)$": "/",
 
   // Geraete/Extraseiten
   '/de/geraete/anita': '/de/rechnertechnik/elektronenroehren',

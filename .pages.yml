@@ -9,6 +9,7 @@ content:
   subfolders: false # make flat collection for the time being
   view:
     fields: [ title, date, author ]
+    primary: title
   fields:
   - name: published
     label: Veröffentlicht?
@@ -16,11 +17,13 @@ content:
     default: true
   - name: title
     label: Titel des Postings
+    type: string
     required: true
   - name: author
     label: Autorenname
     # das hier könnte jetzt per fetch API die möglichen Autoren abfragen
     description: Vorname des Autors (kleingeschrieben), zwecks Autorenprofil-Zuordnung
+    type: string
   - name: date
     label: Datum
     type: date

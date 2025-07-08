@@ -5,7 +5,7 @@ content:
 - name: blog
   label: Blog/News
   type: collection
-  path: blog/
+  path: blog
   subfolders: false # make flat collection for the time being
   view:
     fields: [ title, date, author ]

@@ -1,6 +1,6 @@
 media:
-  input: shared/images
-  output: /shares/images
+  input: shared/photos
+  output: /shares/photos
 content:
 - name: blog
   label: Blog/News

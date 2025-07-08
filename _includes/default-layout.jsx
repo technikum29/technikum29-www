@@ -174,13 +174,9 @@ return postprocess(<>
 	
 	{data.header_prepend?.map(header => <Raw html={header} />)}
 
-	<Comment> t29v6 template.php has a ton of other stuff here, amongst others:
-		logic for passing data to client side JS, apple logos,
-		links for RSS, interlanguage, JS, CSS.
-		
-		Ausserdem wichtiges neues TODO: OG-Links!
-	</Comment>
-	
+	{Object.entries(data.open_graph)
+		.filter(([property,content]) => content) // only keep entries which are not empty
+		.map(([property,content]) => <meta property={"og:"+property} content={content} />)}
 	
 	<link rel="first" href={urlprefix_lang} title={msg("head-rel-first")} />
 	{ data.nav_prev && <RelationalLink dir="prev" target={data.nav_prev} msg={msg} headerlink /> }

@@ -24,10 +24,16 @@ export const config = {
 
 export default async function(eleventyConfig) {
 
-	// TODO: This misses all files e.g. at de/geraete/**.{jpg,pdf,mov,etc.}
-	// They should be most likely moved to another location anyway!
 	eleventyConfig.addPassthroughCopy("shared"); // shared folder
+	
+	// This directory is supposed to move somewhere else in the future!
 	eleventyConfig.addPassthroughCopy("de/geraete");
+	eleventyConfig.addPassthroughCopy("robotik"); // Old superseded stuff which we keep anyway
+	
+	// Parts where we rely on PHP:
+	//   /index.php -> Language negotiation
+	//   404.php    -> system for looking up content
+	eleventyConfig.addPassthroughCopy("**/*.php");
 	
 	// emulate passthrought copy during --serve usage, to make development faster
 	eleventyConfig.setServerPassthroughCopyBehavior("passthrough");

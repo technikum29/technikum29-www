@@ -195,6 +195,20 @@ export default {
     return [lang, other_data];
   })),
   
+  open_graph: {
+    title: data => data.open_graph.title || `${data.title} - at technikum29 Living Computer Museum`,
+    site_name: "technikum29 Living Computer Museum",
+    
+    description: data => { data.msg; debugger; return data.open_graph.description || Boolean(data.msg) && data.msg("open-graph-default-description") },
+    // type: "website",
+    // TODO: Ensure the image is an absolute URL.
+    image: data => data.open_graph.image || data.og_image || data.preview_image || "https://technikum29.de/shared/photos/start/startseite.jpg",
+    
+    locale:            data => data.lang == "de" ? "de_DE" : "en_US",
+    "local:alternate": data => data.lang == "de" ? "en_US" : "de_DE",
+    
+  },
+  
   eleventyNavigation: (data) => ({
     // map standard front matter keywords to the ones wanted by the nav plugin.
     key: data.page_id,

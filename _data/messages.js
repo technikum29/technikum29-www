@@ -98,7 +98,12 @@ export const messages = {
     // RSS-feed, used in /lib/news.php
     'rss-title': ['technikum29 Computer Museum - Was gibt es Neues?', "technikum29 Computer Museum - What's new?"],
     'rss-description': ['Neuste Geräte und Erweiterungen im technikum29-Computermuseum', 'The latest devices and news from the technikum29 computer museum'],
-    'rss-copyright': ['Heribert Müller und das technikum29-Team', 'Heribert Müller and the technikum29 team']
+    'rss-copyright': ['Heribert Müller und das technikum29-Team', 'Heribert Müller and the technikum29 team'],
+    
+    'open-graph-default-description': [
+        'Das technikum29 ist ein interaktives Computermuseum mit funktionsfähigen Lochkartengeräten, Rechenzentren der 1970ern und vielem mehr in Frankfurt/Main.',
+        'technikum29 is an interactive Computer museum with operating exhibits of the 1900s such as punch card devices, calculators and many more in Frankfurt, Germany.'
+    ]
 };
 
 // msg("de") creates a translator function ("shorthandReturner")

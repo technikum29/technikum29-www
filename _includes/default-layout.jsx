@@ -92,7 +92,7 @@ const InterlangLink = ({data, lang, link_data, msg}) => {
 									'backurl' => $_SERVER['REQUEST_URI'],
 									'backtitle' => $backtitle ? $backtitle : null,
 								     ))), */
-		return <li class="nonexistent"><a href="TODO">{msg("topnav-interlang-nonexistent", lang)}</a></li>;
+		return <li class="nonexistent"><a href="#TODO_FIXME" title={msg("topnav-interlang-nonexistent", lang)}>{lang_textual}</a></li>;
 	} else if(is_current_lang) {
 		return <li class="active"><a href={link_data.page.url} title={msg("topnav-interlang-active", link_data.title)}>{lang_textual}</a></li>
 	} else {

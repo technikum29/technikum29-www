@@ -27,6 +27,10 @@ export default async function(eleventyConfig) {
 	// TODO: This misses all files e.g. at de/geraete/**.{jpg,pdf,mov,etc.}
 	// They should be most likely moved to another location anyway!
 	eleventyConfig.addPassthroughCopy("shared"); // shared folder
+	eleventyConfig.addPassthroughCopy("de/geraete");
+	
+	// emulate passthrought copy during --serve usage, to make development faster
+	eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
 	// treat HTML input files independently of file suffix
 	eleventyConfig.addTemplateFormats("htm");

@@ -61,5 +61,4 @@ jobs:
           #id && stat $SSHDIR && ls -l $SSHDIR
       - name: Upload
         run: |
-          find
-          rsync -avz -e "ssh -v" ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \
+          rsync -avz ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \

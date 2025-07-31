@@ -431,11 +431,11 @@ Ende Pausenkommentar--->
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>
-	
-	
+
+
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 6. Sep</p>
-	<h4>Führung Gruppe Arno B.</h4> 
+	<h4>Führung Gruppe Christian S.</h4> 
 	<dl class="daten">
 		<dt>Tag
 		<dd class="termin">Samstag, 6. September 2025

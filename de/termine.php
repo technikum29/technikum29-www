@@ -313,6 +313,8 @@
 
 Ende Pausenkommentar--->
 
+<!-- weitere abgelaufene Termine
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 12. Juli</p>
 	<h4>allgemeiner Helfertag</h4> 
@@ -380,6 +382,8 @@ Ende Pausenkommentar--->
 	</dl>
 </div>
 
+-------	ENDE zurueckliegende Termine -->
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 2. Aug</p>
 	<h4>allgemeiner Helfertag</h4> 

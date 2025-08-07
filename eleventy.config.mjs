@@ -30,10 +30,20 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("de/geraete");
 	eleventyConfig.addPassthroughCopy("robotik"); // Old superseded stuff which we keep anyway
 	
-	// Parts where we rely on PHP:
-	//   /index.php -> Language negotiation
-	//   404.php    -> system for looking up content
-	eleventyConfig.addPassthroughCopy("**/*.php");
+	// Parts where we rely offer PHP solutions, but which also have a fallback client-side
+	// JS-only variant with .htm suffix, which is however only meant for local development
+	// in 11ty only and not for production.
+	const php_candidates_without_suffix = [
+		"index",   // Server-side Language negotiation
+		"404",     // system for looking up content
+	];
+	// Note, by default,this env flag is NOT given and thus PHP files are NOT built.
+	if(process.env.BUILD_PHP) {
+		eleventyConfig.addPassthroughCopy("**/*.php"); // or: only the candidate files
+		php_candidates_without_suffix.map(f => eleventyConfig.ignores.add(f+".htm"));
+	} else {
+		// ignore php files, which happens by default
+	}
 	
 	// emulate passthrought copy during --serve usage, to make development faster
 	eleventyConfig.setServerPassthroughCopyBehavior("passthrough");

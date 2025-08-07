@@ -213,3 +213,8 @@ form.inline {
     display: inline;
 }
 
+/* Language negotiation based on JS */
+body.lang-de .only-en,
+body.lang-en .only-de {
+	display: none;
+}

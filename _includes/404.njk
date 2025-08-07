@@ -1,0 +1,29 @@
+---
+# This 11ty template actually creates a "template-like" file which
+# will be used from the actual 404.php code. It *could* also be used
+# directly, in principle.
+
+title: 404 Page Not Found
+permalink: /generated-404-template.htm
+
+layout: "default-layout.jsx"
+---
+
+<h2>404 Seite nicht gefunden</h2>
+<address>404_WANTED_PAGE</address>
+<p>Unsere Website wurde vor kurzem neugestartet. Sie können unsere Suche oder
+die Navigation verwenden, um vielleicht doch noch an die gewünschten Informationen
+zu kommen. Auch kann unsere <a href="/de/sitemap/">Sitemap</a> hilfreich sein.</p>
+
+<form action="/de/suche.php">
+    <input type="text" value="404_QUERY" name="q">
+<input type="submit" value="Suchen">
+</form>
+
+<hr/>
+
+<h2>404 Page not found</h2>
+<address>404_WANTED_PAGE</address>
+<p>Our website was reconstructed in autumn 2012. Maybe you find your wanted website
+in the navigation or our new search form.</p>
+

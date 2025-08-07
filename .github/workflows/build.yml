@@ -28,10 +28,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Install dependencies & build
+      - name: Run npm (dep, build) with BUILD_PHP flag
         run: |
           npm ci
-          npm run build
+          BUILD_PHP=1 npm run build
 #      - name: Deploy
 #        uses: peaceiris/actions-gh-pages@v3
 #        with:

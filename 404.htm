@@ -1,12 +1,12 @@
 ---
-# This 11ty template actually creates a "template-like" file which
-# will be used from the actual 404.php code. It *could* also be used
-# directly, in principle.
+# This template has two functions:
+# First, serve as something the 404.php can consume, thanks to the 404_WANTED_PAGE string.
+# Second, have some JS enrichment. Which only gets active is the <address> does not
+# have the magic string included any more.
 
+seiten_id: 404_handler
 title: 404 Page Not Found
-permalink: /generated-404-template.htm
-
-layout: "default-layout.jsx"
+permalink: /404.htm
 ---
 
 <h2>404 Seite nicht gefunden</h2>

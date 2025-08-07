@@ -9,7 +9,7 @@
  **/
 
 $redirects_file = "redirects.json"; // set in _data/messages.js
-$template_file = "generated-404-template.htm"; // set in _includes/404.njk
+$template_file = "404.htm";
 
 $wanted_page = $_SERVER['REQUEST_URI'];
 

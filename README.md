@@ -3,67 +3,53 @@ The technikum29 Computer Museum Homepage
 
 This directory/repository contains the website of the technikum29 computer
 museum. The official installation of this website is available at
-https://technikum29.de. Documentation about the technical setup can be found
-at the technikum29 Laboraties (http://labs.technikum29.de).
+https://technikum29.de. 
 
 Since 2019-02-05, this website is managed via Github, the repository can be
 found at https://github.com/technikum29/technikum29-www
 
-Overview
---------
+Since the repository is huge, we recommend a shallow copy by running
+`git clone --depth=1 https://github.com/technikum29/technikum29-www.git`.
+However, if you want to commit your changes, you first need to download
+the whole repository, for instance with `git fetch --unshallow origin`.
+This will download ~5GB of data.
 
-Since Version 6 (20129, the website is fully based on PHP. That means this
-is a classical website where every single page is a PHP file. The directory
-structure works like
+t29v8: Getting started with Eleventy Static Site Generator
+----------------------------------------------------------
 
-```
-  /de      - German pages
-  /en      - English pages
-  /lib     - PHP framework files
-  /shared  - All assets (Pictures, CSS, Javascript)
-```
+Between 2012 and 2025, Version 6 of the website was based on a custom PHP
+toolkit. With Version 8 of this website, this dependency was skipped in
+favour the up-to-date static site generator (SSG) [11ty](https://www.11ty.dev/).
+See [Konvertierung-v8.md](KONVERTIERUNG-v8.md) for the background.
+For a quick first start,
 
-The menu/sitemap is composed from the files navigation.xml. As this is quite
-some work, the rendered pages are cached.
+1. you need a JavaScript runtime such as
+   [node](https://nodejs.org/en/download) or [deno](https://deno.com/) on
+   your computer.
+2. Run `npm install` on the fresh git checkout
+3. Run `npx @11ty/eleventy --serve` in order to spin up a development webserver.
+   Open http://localhost:8080/ in your browser and preview your edits locally
+   before commiting/pushing them. The SSG output will be loacted in `_site`.
 
-Getting started with Docker
----------------------------
+Each file has metadata at its top ("front matter"). The navigation/menu/sitemap
+are extracted from these files, there is no more central `navigation.xml` file.
+Content files are in `/de` (German pages) and `/en` (English pages). Static
+assets (Pictures, Photos, CSS/JS) are supposed to be located in `/shared`.
 
-If you like Docker, you can build and run a minimal LAMP container by
-running `./start-docker.sh`. That is, you can run this website on your
-computer as simple as
-
-```
-git clone --depth=1 https://github.com/technikum29/technikum29-www.git
-./technikum29-www/start-docker.sh
-```
-
-and open http://localhost in your browser. Happy editing!
-
-Tip: If you made a shallow copy with the above instructions and want to
-commit your changes, you first need to download the whole repository,
-for instance with `git fetch --unshallow origin`. This will download
-~300MB of data.
-
-
-Manual Installation
+Deployment with PHP
 -------------------
 
-You only need basic PHP extensions to run this website. These are not installed
-on all systems by default:
+In order to make the user experience more convenient, a few dynamic server
+side functions remain even after getting rid of PHP for the content pages. This
+is, in particular, the content negotiating `/index.php` as well as the `404.php`
+error handler which features a little regexp-based URL rewriting map for
+[cool URIs](https://www.w3.org/Provider/Style/URI).
 
-  * [SimpleXML](https://www.php.net/manual/en/book.simplexml.php) (`php-xml`)
-  * [JSON](https://www.php.net/manual/en/book.json.php) (`php-json`)
-  * [DOM](https://www.php.net/manual/en/book.dom.php) (`php7-dom`)
-  * [Ctype](https://www.php.net/manual/en/ref.ctype.php) (`php7-ctype`)
+In order to test this deployment method locally,
 
-There are no other dependencies, this is plain PHP. For running the website,
-setup a classical webserver with PHP support (say a LAMP stack) and just make
-this directory accessible in the webroot (ie. http://localhost).
-
-The website can also run in subdirectories (ie. http://example.com/~you)
-but requires adaptions with the `t29Host` system. The file lib/host.php
-contains some examples how to generate links in such a setup.
-
-The directory `/shared/cache` must be writable for the webserver/PHP process.
+1. You need to [install PHP](https://www.php.net/downloads.php) on your computer,
+   but you don't need an additional webserver.
+1. Run `BUILD_PHP=1 npx @11ty/eleventy`
+3. Optional: Make the router which respects the 404-handler: `tee _site/router.php <<< '<?php if(file_exists(__DIR__.parse_url($_SERVER["REQUEST_URI"],PHP_URL_PATH))) return false; include"404.php";'`
+4. Serve: `cd _site && php -S 127.0.0.1:8080 router.php`
 

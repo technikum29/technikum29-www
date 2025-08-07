@@ -24,8 +24,8 @@ export let redirects = {
   // strip deprecated file suffixes such as php, shtml, etc and replace them
   // with the subdirectory idiom, for instance
   //  foo/bar/baz.php => foo/bar/baz/
-  //  foo/bar/baz.htm => foo/bar/baz/ (this may turn out to produce false positives)
-  ".(php|s?html?)$": "/",
+  //  foo/bar/baz.htm => foo/bar/baz/ (note, this may turn out to produce false positives)
+  "^(.+).(php|s?html?)$": "$1",
 
   // Geraete/Extraseiten
   '/de/geraete/anita': '/de/rechnertechnik/elektronenroehren',
@@ -40,16 +40,18 @@ export let redirects = {
   '/de/geraete/univac9400/univac_9300': '/de/rechnertechnik/univac9200',
   '/en/devices/univac9400/univac_9300': '/en/computer/univac9200',
   '/de/geraete/bull-bs-pr': '/de/rechnertechnik/tabelliermaschine',
-  '/de/kommunikationstechnik/fernsehen.php': '/de/archiv/fernsehen.php',
-  '/de/kommunikationstechnik/rundfunk.php': '/de/archiv/rundfunk.php',
-  '/de/kommunikationstechnik/tontechnik.php': '/de/archiv/tontechnik.php',
-  '/de/rechnertechnik/fruehe-computer.php': '/de/rechnertechnik/wissenschaftliche-rechner.php',
-  '/en/computer/early-computers.php': '/en/computer/scientific-computers.php',
+  '/de/kommunikationstechnik/fernsehen': '/de/archiv/fernsehen',
+  '/de/kommunikationstechnik/rundfunk': '/de/archiv/rundfunk',
+  '/de/kommunikationstechnik/tontechnik': '/de/archiv/tontechnik',
+  '/de/rechnertechnik/fruehe-computer': '/de/rechnertechnik/wissenschaftliche-rechner',
+  '/en/computer/early-computers': '/en/computer/scientific-computers',
 
-  // Inserat 2020-09-03
-  '/lagersuche': '/blog/2020-09-03-Lagersuche.php'
+  // Inserat 2020-09-03, example for short-url kind of links
+  '^/lagersuche': '/blog/2020-09-03-Lagersuche'
 };
 
+// enrich the redirects array with data from all pages
+// (front matter data key "redirect_from").
 export let collectRedirects = (eleventyConfig) => eleventyConfig.addCollection("redirectMap", function(collectionApi) {
   for (const item of collectionApi.getAll()) {
     const data = item.data;

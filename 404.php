@@ -22,13 +22,15 @@ $redirects = json_decode(file_get_contents($redirects_file), true);
 
 if (is_array($redirects)) {
     foreach ($redirects as $pattern => $rewrite) {
+        #error_log("Testing $pattern on $wanted_page -> $rewrite");
         if (preg_match("#$pattern#i", $wanted_page, $matches)) {
             // Replace any $1, $2... in the rewrite using matches
             $target = $rewrite;
-            //foreach ($matches as $index => $match) {
-                //$target = str_replace('$' . $index, $match, $target);
-            //}
+            foreach ($matches as $index => $match) {
+                $target = str_replace('$' . $index, $match, $target);
+            }
 
+            #error_log("Matched, the target is $target. Checking if exists relative to " . $_SERVER['DOCUMENT_ROOT']);
             if (file_exists($_SERVER['DOCUMENT_ROOT'] . $target)) {
                 header("Location: $target", true, 301);
                 exit;

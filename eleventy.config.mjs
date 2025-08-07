@@ -23,12 +23,15 @@ export const config = {
 
 
 export default async function(eleventyConfig) {
-
-	eleventyConfig.addPassthroughCopy("shared"); // shared folder
 	
-	// This directory is supposed to move somewhere else in the future!
-	eleventyConfig.addPassthroughCopy("de/geraete");
-	eleventyConfig.addPassthroughCopy("robotik"); // Old superseded stuff which we keep anyway
+	// use environment variable SKIP_HEAVY_ASSETS to speed up build process
+	if(!process.env.SKIP_HEAVY_ASSETS) {
+		eleventyConfig.addPassthroughCopy("shared"); // shared folder
+		
+		// This directory is supposed to move somewhere else in the future!
+		eleventyConfig.addPassthroughCopy("de/geraete");
+		eleventyConfig.addPassthroughCopy("robotik"); // Old superseded stuff which we keep anyway
+	}
 	
 	// Parts where we rely offer PHP solutions, but which also have a fallback client-side
 	// JS-only variant with .htm suffix, which is however only meant for local development

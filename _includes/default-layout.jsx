@@ -34,7 +34,12 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
   const renderNavListItem = (entry, level) => {
 	const isCurrent = entry.url === currentUrl;
     const isActive = data.nav_breadcrumbs.some?.(item => item.url == entry.url);
-    const hasChildren = entry.children && entry.children.length > 0;
+	
+	const hideGeraeteLinks = true; // I don't even know any more why this choice was made.
+	
+	const children = entry.children?.filter(node => !(hideGeraeteLinks && node.data?.tags?.includes("geraete")))
+	
+    const hasChildren = children && children.length > 0;
     const liClasses = entry?.data?.nav_class || [];
     if(isActive) {
 		liClasses.push("current");
@@ -59,7 +64,7 @@ const Navigation = ({ data, tree_name, baseClass="u1" }) => {
         </a>
         {hasChildren && (
           <ul className={`u${level}`}>
-            {entry.children.map(child => renderNavListItem(child, level + 1))}
+            {children?.map(child => renderNavListItem(child, level + 1))}
           </ul>
         )}
       </li>
@@ -103,27 +108,32 @@ const InterlangLink = ({data, lang, link_data, msg}) => {
 
 export default function({msg, ...data}) {
 	
-	if(data.seiten_id == "startseite") {
-	 //debugger;
+	if(data.seiten_id == "punchcard-sorter") {
+	 debugger;
 	}
-
-// TODO: Should define a proper set of variables to be transfered to client
 	
-const bodyClasses = [
-    "lang-" + data.lang,
-    "page-" + data.page_id,
-    // still missing:
-    // in-nav => seite_in_nav
-    // in- => seite_in_ul
-    
-    "design-2017-06-26" // legacy
-]
+	let bodyClasses = []
+	
+	const body_classprefixes = {
+		// css prefix => configuration array value
+		'lang-': 'lang',
+		'page-': 'page_id', // or seiten_id
+		'in-nav-': 'seite_in_nav',
+		'in-': 'seite_in_ul',
+	}
+	
+	for(const prefix in body_classprefixes) {
+		const key = body_classprefixes[prefix]
+		if(data[key]) bodyClasses.push(prefix + data[key])
+	}
+	
+	bodyClasses.push("design-2017-06-26") // legacy
 
-const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
+	const client_js_transfer = Object.fromEntries(["lang", "seiten_id", "seite_in_nav", "seite_in_ul"].map(key => [key, data[key]]));
 
-//if(data.nav_cur) debugger;
+	//if(data.nav_cur) debugger;
 
-const print_footer_menu = Boolean(data.nav_prev || data.nav_next || data.force_footer_menu);
+	const print_footer_menu = Boolean(data.nav_prev || data.nav_next || data.force_footer_menu);
 
 const bigfooter = <div class="bigfooter">
 		<ul class="clearfix">

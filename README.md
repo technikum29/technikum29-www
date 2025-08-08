@@ -36,6 +36,26 @@ are extracted from these files, there is no more central `navigation.xml` file.
 Content files are in `/de` (German pages) and `/en` (English pages). Static
 assets (Pictures, Photos, CSS/JS) are supposed to be located in `/shared`.
 
+How to debug 11ty
+-----------------
+
+You can inspect the javascript SSG runtime by using
+[Node.js debugging techniques](https://nodejs.org/en/learn/getting-started/debugging).
+That is,
+
+1. Put the keyword `debugger;` somewhere in the code, say for instance somewhere
+   in `data/eleventyComputed.js`
+2. Fire up Chrome, enter `chrome://inspect` into the URL bar, click on
+   *Open dedicated DevTools for Node*. These are the same browser tools you typically
+   use for client side JS debugging.
+3. Invoke `SKIP_HEAVY_ASSETS=1 npx --node-options=--inspect @11ty/eleventy`
+4. You should see some CLI output like `Debugger attached.`.
+
+If you put your break point cleverly, you can inspect all variables such as the holy
+11ty `data` object. Within the computed data, this maybe a `Proxy(Object)` but at later
+times, such as during template evaluatin in `_includes/default-layout.jsx`,
+it is filled with actual data.
+
 Deployment with PHP
 -------------------
 

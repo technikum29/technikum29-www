@@ -183,11 +183,18 @@ export default {
   //nav_test_prev: function(data) { return this.getNextCollectionItem(data.collections.blog); },
     
   // whether this page is part of nav.horizontal, nav.side or none
+  // This information is only used client-side
   seite_in_nav: (data) => {
     const in_nav_horizontal = data.collections.nav_horizontal.some(item => item.page_id == data.page_id); // note, accessing collections not nav tree here
-    const in_nav_side = data.nav_breadcrumbs.some?.(item => item.page_id == "tour");
-    return in_nav_horizontal ? "nav_horizontal" : (in_nav_side ? "nav_side" : false);
+    const in_nav_side = data.nav_breadcrumbs.some?.(item => item.data?.page_id == "tour");
+    return in_nav_horizontal ? "horizontal" : (in_nav_side ? "side" : false);
   },
+  //seite_in_nav: data => data.nav_cur ? "side" : ( data.nav_horizontal && navTreeLookup(data.nav_horizontal, data.eleventyNavigation.key) ? "horizontal" : null ),
+  
+  // Originally, this is derived from parental <ul> in navigation.xml.
+  // However, only the geraete tag is used anywhere. So we don't do in-u1, in-u2, in-u3, etc.
+  // This information is only used client-side
+  seite_in_ul: data => data.tags?.includes("geraete") && "geraete",
   
   interlang_links: self_data => Object.fromEntries(all_languages.map(lang => {
     if(lang == self_data.lang) return [lang, self_data];
@@ -199,7 +206,7 @@ export default {
     title: data => data.open_graph.title || `${data.title} - at technikum29 Living Computer Museum`,
     site_name: "technikum29 Living Computer Museum",
     
-    description: data => { data.msg; debugger; return data.open_graph.description || Boolean(data.msg) && data.msg("open-graph-default-description") },
+    description: data => { data.msg; return data.open_graph.description || Boolean(data.msg) && data.msg("open-graph-default-description") },
     // type: "website",
     // TODO: Ensure the image is an absolute URL.
     image: data => data.open_graph.image || data.og_image || data.preview_image || "https://technikum29.de/shared/photos/start/startseite.jpg",

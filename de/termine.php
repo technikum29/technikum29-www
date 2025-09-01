@@ -417,7 +417,7 @@ Ende Pausenkommentar--->
 </div>
 
 
--------	ENDE zurueckliegende Termine -->
+
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 23. Aug</p>
@@ -452,6 +452,22 @@ Ende Pausenkommentar--->
 	</dl>
 </div>
 
+-------	ENDE zurueckliegende Termine -->
+
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 3. Sep</p>
+	<h4>Führung Gruppe Joachim B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Mittwoch, 3. September 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 6. Sep</p>

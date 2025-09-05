@@ -481,7 +481,7 @@ Ende Pausenkommentar--->
 		<dt>Tag
 		<dd class="termin">Samstag, 6. Sep. 2025
 		<dt>Uhrzeit
-		<dd>9:00 - 18:00 Uhr
+		<dd>9:00 - 18:00 Uhr <b> ACHTUNG: Termin entfällt wg. Krankheit !</b>
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>
 		<dd>Instandsetzung div. Geräte nach Absprache
@@ -496,7 +496,7 @@ Ende Pausenkommentar--->
 		<dt>Tag
 		<dd class="termin">Samstag, 6. September 2025
 		<dt>Uhrzeit
-		<dd>14:00 - 17:00
+		<dd>14:00 - 17:00 <b> ACHTUNG: Termin entfällt wg. Krankheit !</b>
 		<dt>Leitung
 		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
 		<dd>

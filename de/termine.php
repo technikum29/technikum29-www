@@ -503,6 +503,21 @@ Ende Pausenkommentar--->
 
 -------	ENDE zurueckliegende Termine -->
 
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 29. Sep</p>
+	<h4>Führung Gruppe Ingo B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Montag, 29. September 2025
+		<dt>Uhrzeit
+		<dd>18:00 - 20:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
+	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 4. Okt</p>
 	<h4>allgemeiner Helfertag</h4> 

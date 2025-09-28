@@ -543,6 +543,20 @@ Ende Pausenkommentar--->
 
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 18. Okt</p>
+	<h4>Führung Gruppe Martina D.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 18. Oktober 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
+	
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 18. Okt</p>
 	<h4>Führung Gruppe Matthias H.</h4> 
 	<dl class="daten">
 		<dt>Tag

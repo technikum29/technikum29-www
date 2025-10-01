@@ -501,9 +501,6 @@ Ende Pausenkommentar--->
 	</dl>
 </div>
 
--------	ENDE zurueckliegende Termine -->
-
-
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 29. Sep</p>
 	<h4>Führung Gruppe Ingo B.</h4> 
@@ -517,6 +514,8 @@ Ende Pausenkommentar--->
 		<dd>
 	</dl>
 </div>
+
+-------	ENDE zurueckliegende Termine -->
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 4. Okt</p>

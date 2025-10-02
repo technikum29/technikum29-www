@@ -535,6 +535,20 @@ Ende Pausenkommentar--->
 		<dd>Instandsetzung div. Geräte nach Absprache
 	</dl>
 </div>	
+
+<div class="box termin clear-after">		
+	<p class="date left"><em>2025</em> 4. Okt</p>
+	<h4>Führung Gruppe Grigore S. und Michael B.</h4> 
+	<dl class="daten">
+		<dt>Tag
+		<dd class="termin">Samstag, 4. Oktober 2025
+		<dt>Uhrzeit
+		<dd>10:00 - 13:00
+		<dt>Leitung
+		<dd><a href="/de/team.php#roland">Dr. Roland Langfeld</a>	
+		<dd>
+	</dl>
+</div>
 	
 <div class="box termin clear-after">		
 	<p class="date left"><em>2025</em> 18. Okt</p>

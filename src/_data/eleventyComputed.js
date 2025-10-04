@@ -16,7 +16,7 @@ const all_languages = ["de","en"];
 
 import { translator } from "#data/messages";
 import { existsSync } from 'fs';
-const pass_if_exists = fn => existsSync(fn) ? fn : null;
+const pass_if_exists = fn => existsSync("src/" + fn) ? fn : null;
 
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 // ESM workaround to get names similar to template filters, cf https://github.com/11ty/eleventy-navigation/blob/main/.eleventy.js#L12

@@ -64,6 +64,9 @@ export let collectRedirects = (eleventyConfig) => eleventyConfig.addCollection("
     }
   }
 
+  // TODO: This will fail if the directory "_site" doess not exist,
+  //       i.e. a clean installation. Either have to do a mkdir -p
+  //       or propoerly postpone this step to the end of the SSG.
   writeFileSync(outputFile, JSON.stringify(redirects, null, 2));
   console.log(`Redirect map written to: ${outputFile}`);
 });

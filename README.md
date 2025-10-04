@@ -77,3 +77,28 @@ In order to test this deployment method locally,
 3. Optional: Make the router which respects the 404-handler: `tee _site/router.php <<< '<?php if(file_exists(__DIR__.parse_url($_SERVER["REQUEST_URI"],PHP_URL_PATH))) return false; include"404.php";'`
 4. Serve: `cd _site && php -S 127.0.0.1:8080 router.php`
 
+Here is an example nginx configuration for deployment:
+
+```
+server {
+   server_name v8.technikum29.de;
+
+   root /path/to/your/v8.technikum29.de;
+   index index.php index.html index.htm;
+   error_page 404 = /404.php; # important: equal sign required for allow redirection!
+
+   location / {
+      autoindex on;
+      try_files $uri $uri/ =404;
+   }
+
+   location ~ \.php$ {
+      # typical php-fpm configuration here
+   }
+
+   # the .git directory won't be deployed in the _site directory, but cannot harm anyway!
+   location ~ /\.(ht|git|svn) {
+      deny all;
+   }
+}
+```

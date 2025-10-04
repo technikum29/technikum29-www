@@ -32,7 +32,8 @@ if (is_array($redirects)) {
 
             #error_log("Matched, the target is $target. Checking if exists relative to " . $_SERVER['DOCUMENT_ROOT']);
             if (file_exists($_SERVER['DOCUMENT_ROOT'] . $target)) {
-                header("Location: $target", true, 301);
+                $absPrefix = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'];
+                header("Location: $absPrefix$target", true, 301);
                 exit;
             }
         }

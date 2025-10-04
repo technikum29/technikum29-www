@@ -22,3 +22,4 @@ result /de
 result /de/geraete/anita
 result /foo/bar.php  # target does not exist
 result /de/impressum.php # target exists
+result /de/rechnertechnik/gamma3.php # exists

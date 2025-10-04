@@ -52,20 +52,24 @@ export let redirects = {
 
 // enrich the redirects array with data from all pages
 // (front matter data key "redirect_from").
-//
-// Make sure this runs after _site output directory has been created.
-export let collectRedirects = (eleventyConfig) => eleventyConfig.addCollection("redirectMap", function(collectionApi) {
-  for (const item of collectionApi.getAll()) {
-    const data = item.data;
-    const pageUrl = item.url;
+export function addCollection(eleventyConfig) {
+  eleventyConfig.addCollection("redirectMap", function(collectionApi) {
+    for (const item of collectionApi.getAll()) {
+      const data = item.data;
+      const pageUrl = item.url;
 
-    if (Array.isArray(data.redirect_from)) {
-      for (const fromUrl of data.redirect_from) {
-        redirects[fromUrl] = pageUrl;
+      if (Array.isArray(data.redirect_from)) {
+        for (const fromUrl of data.redirect_from) {
+          redirects[fromUrl] = pageUrl;
+        }
       }
     }
-  }
+    return redirects;
+  })
+}
 
+// Make sure this runs after _site output directory has been created.
+export function writeFile() {
   writeFileSync(outputFile, JSON.stringify(redirects, null, 2));
   console.log(`Redirect map written to: ${outputFile}`);
-});
+}

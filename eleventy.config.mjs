@@ -3,7 +3,7 @@
  * This is an ESM file
  **/
 
-import { collectRedirects } from "#data/make_redirects";
+import * as Redirects from "#data/make_redirects";
 import yaml from "js-yaml";
 import { DateTime } from "luxon";
 import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
@@ -105,8 +105,8 @@ export default async function(eleventyConfig) {
 	});
 	eleventyConfig.addTemplateFormats("11ty.jsx,11ty.tsx");
 	
-	// just to make sure the _site output directory exists
-	eleventyConfig.on("eleventy.after", () => collectRedirects(eleventyConfig))
+	Redirects.addCollection(eleventyConfig)
+	eleventyConfig.on("eleventy.after", () => Redirects.writeFile())
 	
 	eleventyConfig.on("eleventy.after", async ({ directories, results, runMode }) => {
 		let fileStats = {}; // e.g. { ".html": { count: 3, size: 1234 }, ... }

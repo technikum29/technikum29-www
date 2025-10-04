@@ -38,7 +38,7 @@ willkommen.
 {% if author_profile.is_active_blog_author %}
   <section class='blog author_info left clear-after' id='author-{{ author_profile.identifier }}'>
 	<a href='{{ author_profile.photo }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
-	{{ author_profile.abstract }}
+	{{ author_profile.de.abstract | default: author_profile.abstract }}
 	<div class='more'><a class='go' href='/de/team/#{{ author_profile.identifier }}'>Biografie lesen</a></div>
   </section>
 {% endif %}

@@ -227,12 +227,15 @@ return postprocess(<>
 					</a>
 					</Comment>
 					
+					<Comment>
+					
 						<p>Breadcrumbs:
 						<Navigation data={data} tree_name="nav_breadcrumbs" />
 						</p>
 						
 						<p>Tags:
 						{data.tags?.join(", ")}</p>
+					</Comment>
 					
 					
 					<h2 class="visuallyhidden" id="tour-navigation">{msg("sidebar-h2-tour")}</h2>

@@ -15,7 +15,7 @@ if(!t29) window.t29 = {}; // the t29 namespace
 
 t29.heading_links = {};
 t29.heading_links.setup = function() {
-	$("#content").find("h2,h3").not("h2:first").each(function(){
+	$("#content").find("h2,h3,.linkable").not("h2:first").each(function(){
 		anchor = ($(this).attr("title") || $(this).attr("id") || $(this).text())
 			.replace(/\s+/g, '_').replace(/[?!"']/g, '').replace(/^_+|_+$/g, '');
 		$("<a class='anchor'> \u00B6</a>").attr({

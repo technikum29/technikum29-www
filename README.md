@@ -36,6 +36,10 @@ are extracted from these files, there is no more central `navigation.xml` file.
 Content files are in `/de` (German pages) and `/en` (English pages). Static
 assets (Pictures, Photos, CSS/JS) are supposed to be located in `/shared`.
 
+For an editorial guide how to edit files and in particular about the meaning
+of the front matter variables, see `src/de/website-guide.md`, which is rendered
+at https://v8.technikum29.de/de/website-guide.
+
 How to debug 11ty
 -----------------
 

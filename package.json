@@ -19,7 +19,7 @@
   "license": "GPL",
   "type": "module",
   "imports": {
-    "#data/*": "./_data/*.js"
+    "#data/*": "./src/_data/*.js"
   },
   "bugs": {
     "url": "https://github.com/technikum29/technikum29-www/issues"

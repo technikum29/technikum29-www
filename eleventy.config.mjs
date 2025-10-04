@@ -12,6 +12,7 @@ import eleventyHastJsxPlugin from "eleventy-hast-jsx";
 import fs from 'fs';
 import path from 'path';
 
+// see return statement of exported default function, i.e. end of file, instead!
 export const config = {
 /*  dir: {
 	input: "de", // for the time being, for testing.
@@ -21,16 +22,17 @@ export const config = {
 */
 };
 
-
 export default async function(eleventyConfig) {
 	
 	// use environment variable SKIP_HEAVY_ASSETS to speed up build process
 	if(!process.env.SKIP_HEAVY_ASSETS) {
-		eleventyConfig.addPassthroughCopy("shared"); // shared folder
+		eleventyConfig.addPassthroughCopy({
+			"src/shared": "shared", // shared folder
 		
-		// This directory is supposed to move somewhere else in the future!
-		eleventyConfig.addPassthroughCopy("de/geraete");
-		eleventyConfig.addPassthroughCopy("robotik"); // Old superseded stuff which we keep anyway
+			// This directory is supposed to move somewhere else in the future!
+			"src/de/geraete": "de/geraete", 
+			"src/robotik": "robotik", // Old superseded stuff which we keep anyway
+		})
 	}
 	
 	// Parts where we rely offer PHP solutions, but which also have a fallback client-side
@@ -56,7 +58,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addDataExtension("yml,yaml", (contents) => yaml.load(contents));
 	
 	// for the time being, ignore almost everything except de/
-	["robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
+	// ["robotik","lib"].forEach(p => eleventyConfig.ignores.add(p+"/**"));
 	
 	// add global default layout, https://github.com/11ty/eleventy/issues/380
 	eleventyConfig.addGlobalData("layout", "default-layout.jsx");
@@ -149,5 +151,9 @@ export default async function(eleventyConfig) {
 		});
 	});
 	
-	// return toplevel config if needed { ... }
+	return {
+		dir: {
+            input: 'src'
+        }
+	}
 };

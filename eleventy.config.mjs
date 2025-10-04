@@ -105,7 +105,8 @@ export default async function(eleventyConfig) {
 	});
 	eleventyConfig.addTemplateFormats("11ty.jsx,11ty.tsx");
 	
-	collectRedirects(eleventyConfig);
+	// just to make sure the _site output directory exists
+	eleventyConfig.on("eleventy.after", () => collectRedirects(eleventyConfig))
 	
 	eleventyConfig.on("eleventy.after", async ({ directories, results, runMode }) => {
 		let fileStats = {}; // e.g. { ".html": { count: 3, size: 1234 }, ... }

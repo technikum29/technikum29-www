@@ -52,6 +52,8 @@ export let redirects = {
 
 // enrich the redirects array with data from all pages
 // (front matter data key "redirect_from").
+//
+// Make sure this runs after _site output directory has been created.
 export let collectRedirects = (eleventyConfig) => eleventyConfig.addCollection("redirectMap", function(collectionApi) {
   for (const item of collectionApi.getAll()) {
     const data = item.data;
@@ -64,9 +66,6 @@ export let collectRedirects = (eleventyConfig) => eleventyConfig.addCollection("
     }
   }
 
-  // TODO: This will fail if the directory "_site" doess not exist,
-  //       i.e. a clean installation. Either have to do a mkdir -p
-  //       or propoerly postpone this step to the end of the SSG.
   writeFileSync(outputFile, JSON.stringify(redirects, null, 2));
   console.log(`Redirect map written to: ${outputFile}`);
 });

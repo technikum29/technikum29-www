@@ -42,8 +42,8 @@ export default async function(eleventyConfig) {
 	// next to 404.{php,htm} = system for redirecting old URLs content gracefully
 	// Note, by default,this env flag is NOT given and thus PHP files are NOT built.
 	if(process.env.BUILD_PHP) {
-		eleventyConfig.addPassthroughCopy("*.php")
-		eleventyConfig.ignores.add("index.htm") // ensure only one index file exists.
+		eleventyConfig.addPassthroughCopy("src/*.php")
+		eleventyConfig.ignores.add("src/index.htm") // ensure only one index file exists.
 	} else {
 		// ignore php files, which happens by default
 	}

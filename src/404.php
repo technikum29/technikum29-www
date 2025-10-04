@@ -33,7 +33,11 @@ if (is_array($redirects)) {
             #error_log("Matched, the target is $target. Checking if exists relative to " . $_SERVER['DOCUMENT_ROOT']);
             if (file_exists($_SERVER['DOCUMENT_ROOT'] . $target)) {
                 $absPrefix = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'];
-                header("Location: $absPrefix$target", true, 301);
+                
+                http_response_code(301); // nginx/php-fpm safe sends header "Status: 301 Moved Permanently"
+                header('HTTP/1.1 301 Moved Permanently'); // apache style
+                header("Location: $absPrefix$target");
+                echo "<html>t29v8 redirects this file to <a href='$target'>$target</a>";
                 exit;
             }
         }

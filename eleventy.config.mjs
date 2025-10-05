@@ -70,6 +70,10 @@ export default async function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat("yyyy-LL-dd");
 	});
 	
+	eleventyConfig.addFilter("dateToRfc3339", dateObj => {
+		return DateTime.fromJSDate(dateObj).toISO()
+	})
+	
 	// copied from eleventy/src/Filters/GetCollectionItem.js as our workaround,
 	// because getCollectionItem is not working for me due to locale bug.
 	eleventyConfig.addFilter("getCollectionItemWorking", function(collection, page, modifier = 0) {

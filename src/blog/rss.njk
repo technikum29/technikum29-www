@@ -1,0 +1,41 @@
+---
+permalink: /blog/feed.xml
+eleventyExcludeFromCollections: true
+layout: null
+redirect_from:              # this does not really make sense with <meta> redirects, but with 301
+- "/blog/rss.php"           # was used in 2019/v6 adhoc blog system
+- "/de/news.php?format=rss" # was used in 2012/v6, derived from menu
+- "/en/news.php?format=rss" # was used in 2012/v6, derived from menu
+metadata:
+  title: technikum29 blog
+  description: The blog of the technikum29 computer museum
+  language: de-DE
+  base: "https://technikum29.de"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.base }}</link>
+    <description>{{ metadata.description }}</description>
+    <language>{{ metadata.language }}</language>
+    <copyright>Sven Köppel and the technikum29 team</copyright>
+    <image>
+      <url>https://www.technikum29.de/shared/img-v6/banner.de.png</url>
+      <title>technikum29 Computermuseum</title>
+      <link>https://www.technikum29.de/</link>
+    </image>
+    <lastBuildDate>{{ page.date | dateToRfc3339 }}</lastBuildDate>
+    <atom:link href="{{ metadata.base }}{{ permalink }}" rel="self" type="application/rss+xml" />
+    {% for post in collections.blog | reverse %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>{{ metadata.base }}{{ post.url }}</link>
+      <author>{{ post.data.author }}</author>
+      <pubDate>{{ post.date | dateToRfc3339 }}</pubDate>
+      <guid isPermaLink="true">{{ metadata.base }}{{ post.url }}</guid>
+      <description>{{ post.templateContent }}</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

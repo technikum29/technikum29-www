@@ -193,7 +193,7 @@ return postprocess(<>
 	{ data.nav_next && <RelationalLink dir="next" target={data.nav_next} msg={msg} headerlink /> }
 
 	<link rel="copyright" href={urlprefix_lang+msg('footer-legal-file')} title={msg('footer-legal-link')} />
-	<link rel="alternate" type="application/rss+xml" href={urlprefix_lang+"/news.rss"} title={msg('rss-title')} />
+	<link rel="alternate" type="application/rss+xml" href="/blog/feed.xml" title={msg('rss-title')} />
 	<link rel="apple-touch-icon" type="image/x-icon" href="/shared/img-v6/touch-icon.png" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	

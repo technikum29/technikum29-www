@@ -1,3 +1,8 @@
+#
+# This works but is super slow. It needs about 8mins per run.
+# Reason is the large repo, 5GB to fetch, 3GB artifacts.
+#
+
 name: Build Eleventy on Github
 
 on:
@@ -7,23 +12,22 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     strategy:
       matrix:
         node-version: [23.x]
     steps:
-      - name: Restore git cache
-        uses: actions/cache@v3
-        with:
-          path: .git
-          key: git-cache-${{ runner.os }}-${{ github.sha }}
-          restore-keys: |
-            git-cache-${{ runner.os }}-
-            
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0 #  Necessary for using existing .git directory
+      - name: Checkout (fast-forward fetch)
+        run: |
+          set -euo pipefail
+          if [ -d .git ]; then
+            git remote set-url origin https://github.com/${{ github.repository }}.git
+            git fetch --prune --tags origin +${{ github.sha }}:${{ github.sha }}
+            git checkout -f ${{ github.sha }}
+          else
+            git clone https://github.com/${{ github.repository }}.git .
+            git checkout -f ${{ github.sha }}
+          fi
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
@@ -32,11 +36,12 @@ jobs:
         run: |
           npm ci
           BUILD_PHP=1 npm run build
-#      - name: Deploy
-#        uses: peaceiris/actions-gh-pages@v3
-#        with:
-#          publish_dir: ./_site
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy locally
+        with:
+          publish_dir: ./_site
+          host_dir: ${{ secrets.DEPLOY_LOCAL_HOST_DIR }}
+        run: |
+          cp -a ./_site/. /home/www-github-action/that-ooutput
       - uses: actions/upload-artifact@v4
         with:
           name: static-site

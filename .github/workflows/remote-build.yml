@@ -1,0 +1,25 @@
+name: Build Eleventy remotely
+
+on:
+  push:
+    branches:
+      - v8
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy via SSH
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.DEPLOY_SSH_HOST }}
+        username: ${{ secrets.DEPLOY_SSH_USER }}
+        key: ${{ secrets.DEPLOY_SSH_KEY }}
+        fingerprint: ${{ secrets.DEPLOY_SSH_FINGERPRINT }}
+        script: |
+          set -euo pipefail
+          cd ~/local-v8
+          git fetch --prune origin
+          git checkout -f $GITHUB_SHA
+          npm ci --prefer-offline
+          BUILD_PHP=1 npm run build

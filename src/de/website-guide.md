@@ -174,11 +174,50 @@ verschachtelte Schlüssel-Werte-Paare sowie Zeilenkommentare die mit einer Raute
 Nach den drei Strichen `---` fängt der eigentliche Seiteninhalt an.
 
 
-### Dokumentation der Frontmatter-Variablen
+## Dokumentation der Frontmatter-Variablen
 
-<dl>
 {% for var in frontmatter_docs %}
-    <dt class="linkable"><tt>{{ var.key }}</tt></dt>
-    <dd>{{ var.meaning }}</dd>
+### `{{ var.key }}`
+{{ var.meaning }}
+
+<detail>
+<summary><b>Seiten die diesen Schlüssel verwenden</b></summary>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Source file</th>
+      <th>Output URL</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for page in collections.all %}
+    {% if page.data[var.key] %}
+      {% assign src = page.inputPath | remove: "./" %}
+      {% assign github = site.repo.base | append: "/blob/" | append: site.repo.branch | append: "/" | append: src %}
+      <tr>
+        <td><a href="{{ github }}">{{ src }}</a></td>
+        <td><a href="{{ site.url | default: "" }}{{ page.url }}">{{ page.url }}</a></td>
+        <td>
+          {% assign val = page.data[var.key] %}
+          {% if val %}
+            {% if val instanceof Array or val instanceof Object %}
+              <pre><code>{{ val | json }}</code></pre>
+            {% else %}
+              {{ val }}
+            {% endif %}
+          {% else %}
+            <em>null</em>
+          {% endif %}
+        </td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+  </tbody>
+</table>
+
+
+</detail>
 {% endfor %}
-</dl>

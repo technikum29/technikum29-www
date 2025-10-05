@@ -18,20 +18,22 @@ t29v8: Getting started with Eleventy Static Site Generator
 ----------------------------------------------------------
 
 Between 2012 and 2025, Version 6 of the website was based on a custom PHP
-toolkit. With Version 8 of this website, this dependency was skipped in
+toolkit. With Version 8 of this website, this technology was dropped in
 favour the up-to-date static site generator (SSG) [11ty](https://www.11ty.dev/).
 See [Konvertierung-v8.md](KONVERTIERUNG-v8.md) for the background.
 For a quick first start,
 
-1. you need a JavaScript runtime such as
-   [node](https://nodejs.org/en/download) or [deno](https://deno.com/) on
-   your computer.
-2. Run `npm install` on the fresh git checkout
+1. you need to have a JavaScript runtime such as
+   [node](https://nodejs.org/en/download) on your computer.
+2. In the terminal, run `npm install` on the fresh git checkout. You only need
+   to do this once at installation.
 3. Run `npx @11ty/eleventy --serve` in order to spin up a development webserver.
    Open http://localhost:8080/ in your browser and preview your edits locally
-   before commiting/pushing them. The SSG output will be loacted in `_site`.
+   before commiting/pushing them.
 
-Each file has metadata at its top ("front matter"). The navigation/menu/sitemap
+The static site generator will convert all input from the `src` directory to
+output in the `_site` directory. Never edit the output files directly.
+Each file has metadata at its top (*front matter*). The navigation/menu/sitemap
 are extracted from these files, there is no more central `navigation.xml` file.
 Content files are in `/de` (German pages) and `/en` (English pages). Static
 assets (Pictures, Photos, CSS/JS) are supposed to be located in `/shared`.
@@ -94,11 +96,6 @@ server {
 
    location ~ \.php$ {
       # typical php-fpm configuration here
-   }
-
-   # the .git directory won't be deployed in the _site directory, but cannot harm anyway!
-   location ~ /\.(ht|git|svn) {
-      deny all;
    }
 }
 ```

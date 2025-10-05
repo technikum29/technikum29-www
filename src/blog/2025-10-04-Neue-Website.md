@@ -9,8 +9,8 @@ Im 20-jährigen Jubiläumsjahr des Museums releasen wir nun im Oktober ein groß
 Upgrade der Website. Das besondere: Es sieht auf den ersten Blick alles genauso aus wie vorher.
 Was sich geändert hat, ist also nicht das *Frontend*, sondern das *Backend*. Dieser Blogpost
 erläutert bearbeitenden Personen sowie einer interessierten Leserschaft,
-warum diese Erneuerung nötig war und was sich in Zukunft ändert. Er ist der erste Teil
-einer Serie von Blogposts rund um die Website des Museums.
+warum diese Erneuerung nötig ist und was sich in Zukunft ändert. Er ist der erste Teil
+einer kleinen Serie von Blogposts rund um die Website des Museums.
 
 ### Die Ausgangssituation
 
@@ -19,33 +19,33 @@ Die technikum29-Website besteht aus fast 300 Einzelseiten und mehr als 1000 Bild
 (Deutsch und Englisch). Die Website gab es schon vor der Museumseröffnung, sie ist also
 mehr als 25 Jahre lang gewachsen und hatte entsprechend schon einige größere Änderungen
 erlebt. Die letzte war 2012, als *Version 6* erschien. Sie brachte das auch heute noch sichtbare
-Design sowie eine Struktur, die in der populären Programmiersprache [PHP](https://www.php.net/)
+Design sowie eine Struktur, die erstmals in der populären Programmiersprache [PHP](https://www.php.net/)
 realisiert wurde. Bemerkenswert ist, dass dies ohne Verwendung populärer Libraries und Tools
-passierte, es handelt sich also um eine komplette Eigenentwicklung bei der die Infrastruktur
-ca. 5.000 Zeilen PHP (*Backend*) nebst 2.000 Zeilen JavaScript und 4.000 Zeilen CSS (*Frontend*)
-umfasst. Die Website ist seit 2008 mit [Subversion](https://subversion.apache.org/) revisioniert, 
+wie etwa *Wordpress* passierte, es handelt sich also um eine komplette Eigenentwicklung im Umfang von
+ca. 5.000 Zeilen PHP (*Backend*) nebst 2.000 Zeilen JavaScript und 4.000 Zeilen CSS (*Frontend*).
+Die Website ist seit 2008 mit [Subversion](https://subversion.apache.org/) revisioniert, 
 2019 erfolgte mit der Neuausrichtung des Museums auch der Wechsel nach Github in das Repository
 [technikum29/technikum29-www](https://github.com/technikum29/technikum29-www).
 
 Prinzipiell ist die Technologie der Website auch heute noch in Ordnung. Die Seite lässt sich nach kurzer
 Einarbeitung sogar auf Github bearbeiten. Es gibt aber Gründe, sie technisch zu überarbeiten:
 
-* Die Lernkurve ist relativ steil, selbst für technisch versierte Menschen. Das liegt daran, dass überhaupt
-  kein Framework verwendet wird und alles Individuallösungen sind, etwa die
-  [Navigation als XML-File](https://github.com/technikum29/technikum29-www/blob/06c2467c7b3b6ab447acd2dbd0053678520d86c5/de/navigation.xml).
-* Das lokale Hosting der Seite während dem Bearbeiten ist für heutige Verhältnisse übermäßig aufwändig,
-  weil man einen Webserver mit PHP benötigt
-  (klassischer [LAMP-Stack](https://de.wikipedia.org/wiki/LAMP_%28Softwarepaket%29)).
-  Zwar bringt PHP mittlerweile einen eingebauten 
-  Entwicklungsserver mit, aber auch diesen zu benutzen benötigt Kommandozeilenerfahrung. Auf Mobilgeräten,
-  etwa iOS/Android-Tablets, lässt sich die Seite überhaupt nicht bearbeiten, außer in Einzeldateien auf Github.
+* Die redaktionelle Lernkurve ist steil, selbst für technisch versierte Menschen. Das liegt daran, dass
+  die individuell gefertigte Seite ein echtes Unikat ist. Ihre
+  [Navigation als XML-File](https://github.com/technikum29/technikum29-www/blob/06c2467c7b3b6ab447acd2dbd0053678520d86c5/de/navigation.xml)
+  findet man so kein zweites mal. Dadurch kann jemand neues, der die Seite tiefgreifender bearbeiten will,
+  sich bei einer Suchmaschine wie Google oder einer KI wie ChatGPT keine gute Hilfe holen.
+* Zum Bearbeiten der Seite benötigt man idealerweise einen Webserver mit PHP für die schnelle Vorschau. Mit
+  dem [XAMPP-Webserver](https://www.apachefriends.org/) gibt es ein benutzerfreundliches Produkt, das
+  aber nur als Desktop-Anwendung (Windows/Mac/Linux) zur Verfügung seht. Auf Mobilgeräten,
+  etwa iOS/Android-Tablets, lässt sich die Seite daher nicht vernünftig bearbeiten, außer in Einzeldateien auf Github.
 * Komplett abhanden geht die Möglichkeit, eine grafische Benutzeroberfläche (GUI) zum Bearbeiten zu benutzen,
-  eben weil kein verbreitetes Content-Managament-System (CMS)
-  verwendet wird. Hier gibt es mittlerweile generische Entwicklungsumgebungen (IDEs) in Webbrowsern, die sich
-  aber eher an Softwareentwickelnde als an redaktionell arbeitenden Menschen orientieren. Das macht zB.
-  das Hinzufügen von Medien oder eine Vorschau der Änderungen schwierig.
-* Die jetzige Seite zu bearbeiten macht keinen Spaß, weil man offensichtlich an einem Altsystem ("Legacy")
-  rumbasteln muss das nicht aktiv weiterentwickelt wird. Das verhindert, dass neue Menschen an der Website mitarbeiten.
+  weil ja eben kein verbreitetes Content-Managament-System (CMS) verwendet wird.
+* Die jetzige Seite zu bearbeiten macht keinen Spaß, weil zeitgenössische Technologien nicht eingesetzt werden
+  können. Das Altsystem ("Legacy") wird nicht weiter entwickelt, da der Aufwand zur Pflege der Indivudallösung
+  unverhältnismäßig groß ist. Die Website stagniert damit.
+* Das Git-Repository ist mittlerweile auf fast 5GB angewachsen, dadurch kommt man an die Grenzen von Github.
+  Hier ist eine bessere Lösung im Medienmanagament nötig, die weiteres Wachstum erlaubt.
 
 Es gibt Seiteninhalte, die seit der Museumsneuausrichtung 2020 prinzipiell neu sind und deren Umsetzung im
 PHP-basierten System eher schlecht als recht funktioniert:
@@ -57,13 +57,9 @@ PHP-basierten System eher schlecht als recht funktioniert:
   sehr leistungsfähige automatische Übersetzungen. Das Altsystem stellt kaum Möglichkeiten zur Verfügung,
   solche automatischen Übersetzungen einzubauen. Beispiele für bislang unübersetzte Inhalte sind etwa die
   [Teamdarstellung](/de/team) und der [Blog](/blog).
-* Hochaufgelöste Bilder: Sie werden bislang händisch erzeugt und in zwei Auflösungen gespeichert.
-  Das lässt sich mit einem modernen Website-System automatisieren. Man spart nicht nur Zeit, sondern auch
+* Hochaufgelöste Bilder werden bislang händisch in mehreren Auflösungen erzeugt/gespeichert.
+  Das lässt sich mit einem modernen Website-System automatisieren. Das spart nicht nur Zeit, sondern auch
   Speicherplatz im Repository.
-* Medienlastige Inhalte: Der Orderner `/de/geraete/` ist auf mehrere Gigabyte an PDFs und Bildern
-  angewachsen. Das Thema ist verzahnt mit der Inventarisierung und weiteren umfangreichen Materialsammlungen
-  die wir etwa in einem internen Google Drive pflegen.
-  Ein neues Websitesystem könnte diese Materialien leichter sichtbar machen.
 
 ### Evaluation von neuen Content-Managament-Lösungen
 
@@ -91,23 +87,26 @@ System für die Website. Dabei wurden unter anderem evaluiert:
 
 ### t29v8: Der Static Site Generator-Ansatz
 
-Im Sommer 2025 habe ich folgende Beobachtungen kombiniert:
+Im Sommer 2025 habe ich folgende Beobachtungen gemacht:
 
 * Das Altsystem (*t29v6*) ist vom Aufbau sehr ähnlich zu einem Static Site Generator (SSG)-basierten System.
-  Dies ermöglicht eine technische Erneuerung, ohne dass dafür mehr als Metadaten angefasst werden müssen. So kann
-  schrittweise ein neues System eingeführt werden ohne dass ein Altsystem weiterbetrieben werden muss,
-  die Website bleibt "aus einem Guss".
+  Dies erlaubt die Website mit nur minimalen Änderungen umzustellen: In jeder Seite/Textdatei müssen nur die
+  Metadaten in der Quelltext-Formatierung leicht verändert werden. Auf diese Weise kann ein neues System
+  leicht eingeführt werden und dann nach und nach um weitere Funktionen ergänzt werden. Gleichzeitig bleibt
+  die Website "aus einem Guss", da das alte PHP-System nicht weiterbetrieben werden muss.
 * SSGs sind gerade bei inhaltslastigen Seiten im Bereich der technischen Dokumentation sehr verbreitet.
-  Der Schritt von t29v6 zu einem SSG ist ein verhältnismäßíg kleiner. Gleichzeitig ist auch der Wechsel von
-  einem SSG zu einem anderen relativ klein, sodass kein [Lock-In-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt)
-  auftritt.
+  Die Technologie "passt" damit prinzipiell gut. Nicht nur das technische Upgrade zu einem "echten SSG" ist
+  damit ein eher kleiner Schritt, sondern auch ein potentieller Wechsel von einem SSG zu einem anderen. Auf
+  diese Weise wird ein [Lock-In-Effekt](https://de.wikipedia.org/wiki/Lock-in-Effekt) vermieden, wie er etwa
+  bei größeren datenbank-basierten Wiki-Systemen oder CMS existiert.
 * Viele SSGs lassen sich mit einem [headless CMS](https://en.wikipedia.org/wiki/Headless_content_management_system)
-  erweitern. So ergibt sich eine Möglichkeit, hybrid zu arbeiten,
-  also die Vorteile eines SSGs mit einem CMS zu kombinieren. Insbesondere kann so weiterhin *git*
-  zur Inhaltsverwaltung verwendet werden. Ein Beispiel für ein solches headless CMS ist
-  https://pagescms.org/docs/, das wurde auch schon evaluiert. Im Ergebnis entsteht (langfristig) ein System,
-  dass sich für den Redaktionsprozess (auch auf Mobilgeräten) im Browser verwenden lässt, ohne dass man dafür
-  etwas installieren muss.
+  erweitern. So ergibt sich in der Praxis eine Möglichkeit, die Vorteile eines SSGs mit einem CMS zu kombinieren.
+  Insbesondere kann so weiterhin *git* zur Inhaltsverwaltung verwendet werden.
+  Ein Beispiel für ein solches headless CMS ist [PagesCMS](https://pagescms.org/docs/), das wurde auch schon evaluiert.
+  Im Ergebnis entsteht (langfristig) ein System, dass sich für den Redaktionsprozess (auch auf Mobilgeräten)
+  im Browser verwenden lässt, ohne dass man dafür etwas installieren muss. Auch *Github codespaces* 
+  oder [DevPods](https://devpod.sh/) können eine portable Entwicklungsumgebung für ein nodejs-Projekt darstellen,
+  wenngleich diese Browser-IDEs sich eher an Software-Entwickelnde oder die Arbeit am Text statt an Medien richten.
 
 Das t29v6-Altsystem hat mit einem typischen SSG folgende Gemeinsamkeiten:
 
@@ -145,7 +144,6 @@ sondern ein seperater Schritt sein. Es spricht daher prinzipiell einiges dafür,
 beizubehalten. An anderen Stellen (etwa im Blog oder dem neuartigen Geräteordner) hingegen kommt Material und
 Text zusammen, sodass es dort vielleicht sinnvoller ist, die mehrsprachigen Texte nah beianander zu halten, also
 im gleichen Ordner.
-
 
 ### Zur Funktionsweise des Menüs
 

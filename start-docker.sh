@@ -11,21 +11,20 @@
 #
 
 cd "$(dirname "$0")"
-if (( $EUID != 0 )); then
-   echo >&2 "Asking for Root permissions to run docker"
-   echo >&2 sudo $0 $@; exec sudo $0 $@
-fi
+#if (( $EUID != 0 )); then
+#   echo >&2 "Asking for Root permissions to run docker"
+#   echo >&2 sudo $0 $@; exec sudo $0 $@
+#fi
 
-tag="svenk/t29devhost"
+tag="svek/t29v8"
 
-(docker images | grep -q $tag) || { echo "Building image $tag..."; docker build -t $tag .; }
+#(docker images | grep -q $tag) || { echo "Building image $tag..."; docker build -t $tag .; }
 
 # NB: Mounting docker volumes doesnt work (at all) for me if the $PWD is softlinked.
 
 # Should be root of technikum29-www
 t29root="$PWD"
 
-# TODO: looks for a better solution
-mkdir -p $t29root/shared/cache && chmod 777 $t29root/shared/cache
+#mkdir -p $t29root/shared/cache && chmod 777 $t29root/shared/cache
 
-exec docker run -it -v "$t29root":/www -p 80:80 $tag $@
+exec docker run -it -v "$t29root":/app -p 8080:8080 $tag $@

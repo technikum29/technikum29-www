@@ -1,0 +1,33 @@
+media:
+  input: shared/photos
+  output: /shares/photos
+content:
+- name: blog
+  label: Blog/News
+  type: collection
+  path: blog
+  subfolders: false # make flat collection for the time being
+  view:
+    fields: [ title, date, author ]
+    primary: title
+  fields:
+  - name: published
+    label: Veröffentlicht?
+    type: boolean
+    default: true
+  - name: title
+    label: Titel des Postings
+    type: string
+    required: true
+  - name: author
+    label: Autorenname
+    # das hier könnte jetzt per fetch API die möglichen Autoren abfragen
+    description: Vorname des Autors (kleingeschrieben), zwecks Autorenprofil-Zuordnung
+    type: string
+  - name: date
+    label: Datum
+    type: date
+    description: Datum, kann leergelassen werden (ist dann heute)
+  - name: body
+    label: Text
+    type: rich-text

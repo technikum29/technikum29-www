@@ -1,0 +1,29 @@
+---
+# This template has two functions:
+# First, serve as something the 404.php can consume, thanks to the 404_WANTED_PAGE string.
+# Second, have some JS enrichment. Which only gets active is the <address> does not
+# have the magic string included any more.
+
+seiten_id: 404_handler
+title: 404 Page Not Found
+permalink: /404.htm
+---
+
+<h2>404 Seite nicht gefunden</h2>
+<address>404_WANTED_PAGE</address>
+<p>Unsere Website wurde vor kurzem neugestartet. Sie können unsere Suche oder
+die Navigation verwenden, um vielleicht doch noch an die gewünschten Informationen
+zu kommen. Auch kann unsere <a href="/de/sitemap/">Sitemap</a> hilfreich sein.</p>
+
+<form action="/de/suche.php">
+    <input type="text" value="404_QUERY" name="q">
+<input type="submit" value="Suchen">
+</form>
+
+<hr/>
+
+<h2>404 Page not found</h2>
+<address>404_WANTED_PAGE</address>
+<p>Our website was reconstructed in autumn 2012. Maybe you find your wanted website
+in the navigation or our new search form.</p>
+

@@ -1,0 +1,172 @@
+- identifier: sven
+  full_name: Sven Köppel
+  is_active_blog_author: true
+  thumbnail: /shared/photos/blog/blog-author-sven.jpg
+  photo: /shared/photos/blog/blog-author-sven.jpg
+  de:
+    abstract: > # Kurzsform, zu sehen im Blog -->
+        <a href="https://svenk.org">Sven Köppel</a>
+        ist promovierter theoretischer Physiker und Entrepreneur. Als
+        Liebhaber exotischer Rechnerarchitekturen arbeitet er seit mehr
+        als 15 Jahren im Rechner- und Kommunikationsmuseum technikum29
+        mit. Er ist eines der drei Kinder des Museumsgründers
+        <a href="/heribert-mueller/">Heribert Müller</a>. 
+    biography: >  #<!-- Langform, zu sehen in Teamliste -->
+        Sven Köppel (Jahrgang 1989) ist Astrophysiker und seit über 15 Jahren
+        Mitarbeiter im Museum. Der Fokus seiner Arbeit lag
+        dabei bei der Anbindung von Lese- und Schreibeinheiten papierbasierter
+        Speichermedien (Lochstreifen und Lochkarten) an "moderne" Computer. Dies
+        war die Grundlage, um Programme über das Internet austauschen zu können
+        und Maschinen damit effektiv von der Ferne zu programmieren. Außerdem
+        ist er aktiv in organisatorischen Dingen, etwa der
+        Öffentlichkeitsarbeit des Museums. 
+        <br/>Sven Köppel ist eines der drei Kinder vom 2018 verstorbenen Museumsgründer
+        <a href="/heribert-mueller/">Heribert Müller</a>.
+        Mit seiner Partnerin (ebenfalls Physikerin) und Tochter
+        (Nachwuchswissenschaftlerin) wohnt er derzeit in Münster (Westfalen).
+  en:
+    abstract: >
+      <a href="http://svenk.org">Sven Köppel</a> is one of the three children of
+      the founder of the museum, <a href="/heribert-mueller/">Heribert Müller</a>.
+      He is a researcher in theoretical and computational physics.
+      Sven is contributing to the <a href="/">technikum29
+      computer museum</a> since more then 15 years.
+    biography: >
+      Sven Köppel (born 1989) is one of the three children of the museum founder
+      <a href="/heribert-mueller/">Heribert Müller</a>. He is contributing to the
+      museum since more then 15 years. The focus of his work was the interfacing
+      of legacy paper based storage media (paper tapes and punch cards) to the
+      contemporary computer world. This was the foundation of exchanging
+      program codes over the internet and to effectively allow collaborators to
+      write (contribute) codes from remote. Furthermore, Sven was active in
+      all kind of organizational topics, such as the museum outreach and
+      paedagocical topics. Personally, he was living for half a decade in Frankfurt
+      am Main, where he obtained a physics degree in 2019. In his research, he
+      got an expert in high enery physics and computational physics. Since
+      some time, he is living with his daughter and wife in the north of
+      Germany (city of Münster/Westfalia; close to Hamburg).
+- identifier: roland
+  full_name: Roland Langfeld
+  is_active_blog_author: true
+  thumbnail: /shared/photos/blog/photo-rl.jpg
+  photo: /shared/photos/blog/photo-rl.jpg"
+  de:
+    abstract: > # Kurzsform, zu sehen im Blog
+        Dr. Roland Langfeld ist seit 2016, damals noch zusammen mit Museumsgründer
+        Heribert Müller, im technikum29 aktiv. Er ist promovierter Physiker
+        und arbeitete bei der SCHOTT AG in verschiedenen leitenden Positionen.
+        Im Museum arbeitet er an diversen Rechnern und entwickelt Interfaceschaltungen.
+    biography: >
+        Dr. Roland Langfeld (Jahrgang 1957) ist Physiker und arbeitete bis 2019 bei der 
+        SCHOTT AG in Mainz in verschiedenen Positionen in der Zentralforschung, 
+        u.a. als Leiter FuE und Research Fellow. Seit 2020 ist er selbständiger FuE-Berater.
+            Er ist seit Kindesbeinen interessiert an aller Art von Technik, baute 
+        bereits 1977 sein erstes Mikroprozessorsystem auf, sammelt alte Computer, 
+        Taschenrechner und Schachcomputer und programmiert nahezu alles, was Bits 
+        und Bytes hat.
+        <br/>Seit 2016 arbeitete er mit Heribert Müller im technikum29 an der 
+        Programmierung div. Rechner und Interfaceschaltungen.
+        Roland Langfeld ist verheiratet, hat 2 Kinder und wohnt in Frankfurt (Main).
+  en:
+    biography: >
+        Dr. Roland Langfeld (born 1957) is physicist and held several leading
+        positions at
+        <a href="https://www.us.schott.com/english/">Schott AG</a>, such
+        as the head of R&amp;D, research fellow and consultant. Since early
+        childhood, he is interested in all kind of technology. In 1977 he
+        built up his first micro processor system. He collects old computers,
+        pocket calculators and chess computers. He is a passionate programmer
+        for all architectures.
+        Since 2016, he is working with Heribert Müller in the technikum29
+        for programming various computers and interfaces. Roland Langfeld
+        is married, has two children and lives in Frankfurt.
+- identifier: juergen
+  full_name: Jürgen Müller
+  thumbnail: /shared/photos/blog/juergen-mueller.jpg
+  photo: /shared/photos/blog/juergen-mueller.jpg
+  de:
+    biography: >
+      Dr. Jürgen Müller (Jahrgang 1963) ist ebenfalls Physiker. Bei PerkinElmer in Hamburg leitet er die Entwicklung optischer Analysegeräte für die biologische und pharmazeutische Forschung. In seiner Freizeit faszinieren ihn alte Mechanik, Elektronik und Rechentechnik. 
+      <br/>
+      Die seriellen Rechnerarchitekturen der 40er und 50er Jahre mit ihren Trommel- und Laufzeitspeichern fand er so spannend, dass er sie in bit-genauen Funktionsmodellen auf FPGA-Basis nachgebaut hat. Als er dann im Technikum29 einem der wenigen erhaltenen Originale in Röhrentechnik begegnete, war sofort klar, dass er mithilft, diesen Computer und seine jüngeren, transistorbasierten "Geschwister" wieder betriebsbereit zu machen.
+  en:
+    biography: >
+      Dr. Jürgen Müller (born 1963) is also physicist. He is leading the
+      development of optical analysers for biological and pharmaceutical
+      research at <a href="https://www.perkinelmer.com/">PerkinElmer</a>.
+      He spends his spare time with any kind of vintage mechanics,
+      electronics and computer technology.
+      <br/>One of his archivements in the museum is the FPGA rebuild of the
+      exact curcuit of the serial computer architectures of the 40s and
+      50s with its drum and runtime storages. At the moment he encountered
+      one of the few original tube computers in the technikum29, it was
+      immediately obvious that he will be helping to restore this
+      computer.
+- identifier: bernd
+  full_name: Bernd Ulmann
+  thumbnail: /shared/photos/blog/bernd-ulmann.thumb.jpg
+  photo: /shared/photos/blog/bernd-ulmann.jpg
+  de:
+    biography: >
+      Bernd Ulmann (Jahrgang 1970) war ein Sammlungsfreund des Museumsgründers
+      Heribert Müller. Er hat auch im Rahmen der "Wochen der Industriekultur"
+      in den vergangenen Jahren mehrere Vorträge gehalten. Seine Hauptinteresse
+      gilt Analogen und Hybridcomputern, aber er ist auch sehr an frühen
+      DEC-Maschinen wie den PDP8/12/11 und frühen VAX-Systemen interessiert.
+      Außerdem fasziniert er sich für klassische Oszilloskope uvm.
+      <br/>Bernd Ulmann wohnt mit seiner Frau, Katzen und Analogen Computern
+      zusammen in Hettenheim. Beruflich entwickelt er moderne Analog- und
+      Hybridrechner. Außerdem hält er an der FOM in Frankfurt eine
+      Professur für Buisness-Informatik inne.
+  en:
+    biography: >
+      Bernd Ulmann (born 1970) was a collector friend of the museum's founder
+      Heribert Müller. He also delivered several talks at the museum during the
+      "Woche der Industriekultur" in recent years. His main interest are analog and
+      hybrid computers but he is also fond of early DEC machines such as PDP8/12/12
+      and early VAX systems. Other areas of interest are classic oscilloscopes etc.
+
+      He lives in Hettenhain with his wife, cats and analog computers and develops
+      modern analog and hybrid computers. He has a professorship for business
+      informatics at the FOM in Frankfurt/Main.
+- identifier: detlef
+  full_name: Detlef Gerhardt
+  thumbnail: /shared/photos/blog/detlef-gerhardt.thumb.jpg
+  photo: /shared/photos/blog/detlef-gerhardt.jpg
+  abstract: >
+    Detlef Gerhardt ist seit 2020 im technikum29 aktiv und kümmert sich 
+    schwerpunktmäßig (gemeinsam mit weiteren Fernschreib-Liebhabern) um die 
+    Geräte im Kommunikationsraum (Morse- und Fernschreibtechnik, Anschluss 
+    ans i-Telex-Netzwerk). Beruflich ist er als Softwareentwickler tätig.
+  biography: >
+    Detlef Gerhardt ist seit 2020 im technikum29 aktiv und kümmert sich 
+    schwerpunktmäßig (gemeinsam mit weiteren Fernschreib-Liebhabern) um die 
+    Geräte im Kommunikationsraum (Morse- und Fernschreibtechnik, Anschluss 
+    ans i-Telex-Netzwerk). Beruflich ist er als Softwareentwickler tätig.
+# Füge an dieser Stelle neue Teammitglieder hinzu (oder sortiere
+# sie alphabetisch ein.
+- identifier: you
+  is_dummy: true
+  full_name: Du?  # TODO: Needs localization in English!
+  is_active_blog_author: Yes
+  thumbnail: /shared/photos/blog/blog-author-you.svg
+  de:
+    abstract: > # angezeigt im BLog
+      <!-- angezeigt im Blog -->
+      <em>Vielleicht Du?</em>
+      Wir laden unsere Besucher und Freunde des Museums ein, uns Texte
+      oder Beiträge in sozialen Netzwerken
+      <a href="/de/impressum.php">per Mail</a> zu schicken.
+    biography: > 
+      <!-- angezeigt in Team-Liste -->
+      Wir sammeln derzeit Kurz-Biographien von unseren Mitarbeitern und
+      Unterstützern. Beiträge bitte <a href="/de/impressum.php">per Mail</a>.
+  en:
+    abstract: >
+      <em>Probably you?</em>
+      If you want to write something, you are very welcome to send
+      us texts <a href="/en/contact.php">by mail</a> or to contribute directly
+      <a href="https://github.com/technikum29/technikum29-www">via Github</a>
+      (it <a href="https://github.blog/2012-12-05-creating-files-on-github/">is easy</a>).
+    biography: >
+      Please send us a short bio if you want to appear here.

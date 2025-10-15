@@ -1,0 +1,33 @@
+---
+titel: Team
+seiten_id: team
+tags: nav_horizontal
+nav_order: 4
+---
+  <h2>Team</h2>
+
+  <p>Das technikum29 befindet sich seit dem <a href="/heribert-mueller/">Tod des Gründers Heribert Müller</a>
+  in einer Übergangsphase, in dem es von einigen Freiwilligen betrieben wird, die sich auf dieser Seite
+  vorstellen. Unerwähnt bleibt dabei das große Netzwerk an Freunden und Förderern, die an dieser Stelle
+  (noch) nicht genannt sind.</p>
+
+<ul class="thumbs">
+  {% for member in team %}
+    <li>
+      <a href="#{{ member.identifier }}">
+        <img class="thumbnail" src="{{ member.thumbnail }}" alt="{{ full_name }}">
+        <span>{{ member.full_name}}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for member in team %}
+  <h3 id="{{ member.identifier }}">{{ member.full_name }}</h3>
+  <div class="box left clear-after" style="margin-top:0">
+    <a href="{{ member.photo }}" class="popup thumbnail">
+      <img class="thumbnail" src="{{ member.thumbnail }}" alt="{{ member.full_name }}">
+    </a>
+    <p>{{ member.de.biography | default: member.biography }}</p>
+  </div>
+{% endfor %}

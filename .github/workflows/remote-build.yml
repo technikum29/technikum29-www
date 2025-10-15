@@ -1,0 +1,19 @@
+name: Build Eleventy remotely
+
+on:
+  push:
+    branches:
+      - v8
+
+jobs:
+  build_on_self_hosted:
+    runs-on: self-hosted
+    steps:
+    - name: Build and Deploy locally
+      run: |
+        set -euo pipefail
+        cd ~/local-v8
+        git fetch --prune origin
+        git checkout -f $GITHUB_SHA
+        npm ci --prefer-offline
+        BUILD_PHP=1 npm run build

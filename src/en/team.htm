@@ -1,0 +1,37 @@
+---
+titel: Team
+seiten_id: team
+tags: nav_horizontal
+nav_order: 4
+---
+
+  <h2>Team</h2>
+  
+  <p>Since the  <a href="/heribert-mueller/">sudden death of the founder and maintainer Heribert Müller</a>,
+  the technikum29 computer museum is still in an interim phase. It is currently maintained by a group of
+  volunteers, which are presented on this page. This doesn't display the full picture, since
+  the big network of friends and supporters is not (yet) listed.</p>
+  
+  
+  <!-- liquid template copied from /de/team.htm -->
+<ul class="thumbs">
+  {% for member in team %}
+    <li>
+      <a href="#{{ member.identifier }}">
+        <img class="thumbnail" src="{{ member.thumbnail }}" alt="{{ full_name }}">
+        <span>{{ member.full_name}}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for member in team %}
+  <h3 id="{{ member.identifier }}">{{ member.full_name }}</h3>
+  <div class="box left clear-after" style="margin-top:0">
+    <a href="{{ member.photo }}" class="popup thumbnail">
+      <img class="thumbnail" src="{{ member.thumbnail }}" alt="{{ member.full_name }}">
+    </a>
+    <p>{{ member.en.biography }}</p>
+  </div>
+{% endfor %}
+

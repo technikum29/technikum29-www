@@ -1,0 +1,45 @@
+---
+seiten_id: blog
+titel: "technikum29-Blog"
+tags: nav_horizontal
+nav_title: Neues
+nav_order: 3
+---
+	<header class="teaser seitenstart blog">
+		<span id="blog-heading">
+			<a class="title" href="/blog/">Neuigkeiten</a>
+			<span class="subtext">Der Blog eines deutschen <a href="/">Computermuseums</a></span>
+		</span>
+		<img class="no-copyright" src="/shared/photos/blog/blog-teaser-background-tubes.jpg" width="940" height="243">
+	</header>
+
+	
+<h2>Tubes: Ein Blog über die Zukunft des technikum29</h2>
+
+<p>An dieser Stelle veröffentlichen wir seit Februar 2019 einen kleinen Blog
+über aktuelle Themen im technikum29. Beiträge erscheinen ausschließlich in
+einer Sprache (Englisch oder Deutsch). Beiträge werden vom
+<a href="/de/team/">technikum29-Team</a> geschrieben, Gastbeiträge sind aber auch
+willkommen.
+
+<h3>Beiträge</h3>
+<p>Die folgenden Beiträge gibt es bislang:
+
+<ul>{% for post in collections.blog reversed %}
+	<li>{{post.date | formatDay}}: <a href="{{post.url}}">{{post.data.title}}</a> <!-- von {post.author} -->
+	</li>
+{% endfor %}</ul>
+
+
+<h3>Autoren</h3>
+<p>Die folgenden Autoren waren bislang aktiv:
+
+{% for author_profile in team %}
+{% if author_profile.is_active_blog_author %}
+  <section class='blog author_info left clear-after' id='author-{{ author_profile.identifier }}'>
+	<a href='{{ author_profile.photo }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
+	{{ author_profile.de.abstract | default: author_profile.abstract }}
+	<div class='more'><a class='go' href='/de/team/#{{ author_profile.identifier }}'>Biografie lesen</a></div>
+  </section>
+{% endif %}
+{% endfor %}

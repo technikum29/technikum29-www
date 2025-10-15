@@ -3,67 +3,99 @@ The technikum29 Computer Museum Homepage
 
 This directory/repository contains the website of the technikum29 computer
 museum. The official installation of this website is available at
-https://technikum29.de. Documentation about the technical setup can be found
-at the technikum29 Laboraties (http://labs.technikum29.de).
+https://technikum29.de. 
 
 Since 2019-02-05, this website is managed via Github, the repository can be
 found at https://github.com/technikum29/technikum29-www
 
-Overview
---------
+Since the repository is huge, we recommend a shallow copy by running
+`git clone --depth=1 https://github.com/technikum29/technikum29-www.git`.
+However, if you want to commit your changes, you first need to download
+the whole repository, for instance with `git fetch --unshallow origin`.
+This will download ~5GB of data.
 
-Since Version 6 (20129, the website is fully based on PHP. That means this
-is a classical website where every single page is a PHP file. The directory
-structure works like
+t29v8: Getting started with Eleventy Static Site Generator
+----------------------------------------------------------
 
-```
-  /de      - German pages
-  /en      - English pages
-  /lib     - PHP framework files
-  /shared  - All assets (Pictures, CSS, Javascript)
-```
+Between 2012 and 2025, Version 6 of the website was based on a custom PHP
+toolkit. With Version 8 of this website, this technology was dropped in
+favour the up-to-date static site generator (SSG) [11ty](https://www.11ty.dev/).
+See [Konvertierung-v8.md](KONVERTIERUNG-v8.md) for the background.
+For a quick first start,
 
-The menu/sitemap is composed from the files navigation.xml. As this is quite
-some work, the rendered pages are cached.
+1. you need to have a JavaScript runtime such as
+   [node](https://nodejs.org/en/download) on your computer.
+2. In the terminal, run `npm install` on the fresh git checkout. You only need
+   to do this once at installation.
+3. Run `npx @11ty/eleventy --serve` in order to spin up a development webserver.
+   Open http://localhost:8080/ in your browser and preview your edits locally
+   before commiting/pushing them.
 
-Getting started with Docker
----------------------------
+The static site generator will convert all input from the `src` directory to
+output in the `_site` directory. Never edit the output files directly.
+Each file has metadata at its top (*front matter*). The navigation/menu/sitemap
+are extracted from these files, there is no more central `navigation.xml` file.
+Content files are in `/de` (German pages) and `/en` (English pages). Static
+assets (Pictures, Photos, CSS/JS) are supposed to be located in `/shared`.
 
-If you like Docker, you can build and run a minimal LAMP container by
-running `./start-docker.sh`. That is, you can run this website on your
-computer as simple as
+For an editorial guide how to edit files and in particular about the meaning
+of the front matter variables, see `src/de/website-guide.md`, which is rendered
+at https://v8.technikum29.de/de/website-guide.
 
-```
-git clone --depth=1 https://github.com/technikum29/technikum29-www.git
-./technikum29-www/start-docker.sh
-```
+How to debug 11ty
+-----------------
 
-and open http://localhost in your browser. Happy editing!
+You can inspect the javascript SSG runtime by using
+[Node.js debugging techniques](https://nodejs.org/en/learn/getting-started/debugging).
+That is,
 
-Tip: If you made a shallow copy with the above instructions and want to
-commit your changes, you first need to download the whole repository,
-for instance with `git fetch --unshallow origin`. This will download
-~300MB of data.
+1. Put the keyword `debugger;` somewhere in the code, say for instance somewhere
+   in `data/eleventyComputed.js`
+2. Fire up Chrome, enter `chrome://inspect` into the URL bar, click on
+   *Open dedicated DevTools for Node*. These are the same browser tools you typically
+   use for client side JS debugging.
+3. Invoke `SKIP_HEAVY_ASSETS=1 npx --node-options=--inspect @11ty/eleventy`
+4. You should see some CLI output like `Debugger attached.`.
 
+If you put your break point cleverly, you can inspect all variables such as the holy
+11ty `data` object. Within the computed data, this maybe a `Proxy(Object)` but at later
+times, such as during template evaluatin in `_includes/default-layout.jsx`,
+it is filled with actual data.
 
-Manual Installation
+Deployment with PHP
 -------------------
 
-You only need basic PHP extensions to run this website. These are not installed
-on all systems by default:
+In order to make the user experience more convenient, a few dynamic server
+side functions remain even after getting rid of PHP for the content pages. This
+is, in particular, the content negotiating `/index.php` as well as the `404.php`
+error handler which features a little regexp-based URL rewriting map for
+[cool URIs](https://www.w3.org/Provider/Style/URI).
 
-  * [SimpleXML](https://www.php.net/manual/en/book.simplexml.php) (`php-xml`)
-  * [JSON](https://www.php.net/manual/en/book.json.php) (`php-json`)
-  * [DOM](https://www.php.net/manual/en/book.dom.php) (`php7-dom`)
-  * [Ctype](https://www.php.net/manual/en/ref.ctype.php) (`php7-ctype`)
+In order to test this deployment method locally,
 
-There are no other dependencies, this is plain PHP. For running the website,
-setup a classical webserver with PHP support (say a LAMP stack) and just make
-this directory accessible in the webroot (ie. http://localhost).
+1. You need to [install PHP](https://www.php.net/downloads.php) on your computer,
+   but you don't need an additional webserver.
+1. Run `BUILD_PHP=1 npx @11ty/eleventy`
+3. Optional: Make the router which respects the 404-handler: `tee _site/router.php <<< '<?php if(file_exists(__DIR__.parse_url($_SERVER["REQUEST_URI"],PHP_URL_PATH))) return false; include"404.php";'`
+4. Serve: `cd _site && php -S 127.0.0.1:8080 router.php`
 
-The website can also run in subdirectories (ie. http://example.com/~you)
-but requires adaptions with the `t29Host` system. The file lib/host.php
-contains some examples how to generate links in such a setup.
+Here is an example nginx configuration for deployment:
 
-The directory `/shared/cache` must be writable for the webserver/PHP process.
+```
+server {
+   server_name v8.technikum29.de;
 
+   root /path/to/your/v8.technikum29.de;
+   index index.php index.html index.htm;
+   error_page 404 = /404.php; # important: equal sign required for allow redirection!
+
+   location / {
+      autoindex on;
+      try_files $uri $uri/ =404;
+   }
+
+   location ~ \.php$ {
+      # typical php-fpm configuration here
+   }
+}
+```

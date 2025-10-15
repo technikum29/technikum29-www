@@ -1,0 +1,30 @@
+---
+# This layout "extends" the main layout by wrapping the actual content with some
+# blog-specific layout. Note that all blog pages have seiten_id=blog.
+# See /blog/blog.11tydata.js for these blog-post specific page data
+layout: "default-layout.jsx"
+---
+
+<header class="teaser seitenstart blog">
+      <span id="blog-heading">
+          <a class="title" href="/blog/">Tubes</a>
+          <span class="subtext">A <a href="/">computer museum</a> blog</span>
+      </span>
+      <img class="no-copyright" src="/shared/photos/blog/blog-teaser-background-tubes.jpg" width="940" height="243">
+</header>
+
+<h2>{% if title_kurz %}{{title_kurz}}{% else %}{{title }}{% endif %}
+    <span class="blog_subline">on {{page.date|formatDay}} by <a href="#author-{{ author }}">{{author_profile.full_name}}</a></span>
+</h2>  
+
+<!-- Begin of blog content -->
+{{ content | safe }}
+<!-- end of blog content -->
+
+<section class='blog author_info left clear-after' id='author-{{ author }}'>
+  <!-- sollte lokalisiert werden mit einer msg -->
+  <h4>About the author of the blog post “{{title}}”</h4><p>
+  <a href='{{ author_profile.thumbnail }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
+  {{ author_profile[lang].abstract | safe }}
+  </p><em>Blog post written at {{page.date|formatDay}}.</em></p>
+</section>

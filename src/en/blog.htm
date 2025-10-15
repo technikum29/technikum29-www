@@ -1,0 +1,46 @@
+---
+seiten_id: blog
+titel: technikum29-Blog
+tags: nav_horizontal
+nav_title: News/Blog
+nav_order: 3
+---
+	<header class="teaser seitenstart blog">
+		<span id="blog-heading">
+			<a class="title" href="/blog/">Tubes</a>
+			<span class="subtext">A <a href="/">computer museum</a> blog</span>
+		</span>
+		<img class="no-copyright" src="/shared/photos/blog/blog-teaser-background-tubes.jpg" width="940" height="243">
+	</header>
+
+<h2>Tubes: A blog about the future of technikum29</h2>
+
+<p>Welcome to our new small blog where we write about current topics in
+technikum29. This blog was started in February 2019 and will be mixed language
+(German, English). It is authored by the technikum29 team but open for guest
+contributions.
+
+
+<h3>Entries</h3>
+<p>The following entries have been written so far:
+
+
+<ul>{% for post in collections.blog reversed %}
+	<li>{{post.date | formatDay}}: <a href="{{post.url}}">{{post.data.title}}</a> <!-- von {post.author} -->
+	</li>
+{% endfor %}</ul>
+
+
+<h3>Authors</h3>
+<p>So far, we have the following authors:
+
+{% for author_profile in team %}
+{% if author_profile.is_active_blog_author %}
+  <section class='blog author_info left clear-after' id='author-{{ author_profile.identifier }}'>
+	<a href='{{ author_profile.photo }}' class='popup'><img class="thumbnail" src="{{ author_profile.thumbnail }}" /></a>
+	{{ author_profile.en.abstract | default: author_profile.en.biography }}
+	<div class='more'><a class='go' href='/en/team#{{ author_profile.identifier }}'>Read biography</a></div>
+  </section>
+{% endif %}
+{% endfor %}
+

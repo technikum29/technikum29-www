@@ -1,0 +1,64 @@
+name: Build Eleventy on Github
+
+on:
+  push:
+    branches:
+      - v8
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [23.x]
+    steps:
+      - name: Restore git cache
+        uses: actions/cache@v3
+        with:
+          path: .git
+          key: git-cache-${{ runner.os }}-${{ github.sha }}
+          restore-keys: |
+            git-cache-${{ runner.os }}-
+            
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 #  Necessary for using existing .git directory
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Run npm (dep, build) with BUILD_PHP flag
+        run: |
+          npm ci
+          BUILD_PHP=1 npm run build
+#      - name: Deploy
+#        uses: peaceiris/actions-gh-pages@v3
+#        with:
+#          publish_dir: ./_site
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: static-site
+          path: ./_site/
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    container:
+      image: sstc/rsync
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: static-site
+          path: ./_site/
+      - name: Prepare SSH remote access
+        run: |
+          SSHDIR=/root/.ssh # thanks to the crappy docker image
+          mkdir -p $SSHDIR
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > $SSHDIR/id_rsa
+          echo "${{ secrets.DEPLOY_SSH_KNOWN_HOST }}" > $SSHDIR/known_hosts
+          chmod 0700 $SSHDIR && chmod 600 $SSHDIR/* 
+          #id && stat $SSHDIR && ls -l $SSHDIR
+      - name: Upload
+        run: |
+          rsync -avz ./_site/ ${{secrets.DEPLOY_SSH_USER}}@${{secrets.DEPLOY_SSH_HOST}}:${{secrets.DEPLOY_SSH_REMOTE_PATH}} \

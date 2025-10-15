@@ -1,3 +1,10 @@
+# eleventy output directory
+_site/
+
+# node/npm stuff
+node_modules/
+
+
 # A cache directory which shall be writable by the PHP process.
 shared/cache/
 
@@ -36,4 +43,5 @@ Temporary Items
 shared/photos/blog/.DS_Store
 shared/photos/.DS_Store
 shared/.DS_Store
-.DS_Store
+
+*.kate-swp

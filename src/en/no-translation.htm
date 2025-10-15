@@ -1,0 +1,48 @@
+---
+seiten_id: no-translation
+lang: en
+titel: "No English translation available"
+dynamischer_inhalt: ru
+#how: isset($_GET['how']) ? $_GET['how'] : 'no'
+#backurl: isset($_GET['backurl']) ? $_GET['backurl'] : null
+#backtitle: isset($_GET['backtitle']) ? $_GET['backtitle'] : null
+---
+    <!--
+       "Not yet translated"-Page Usage
+       Get-Param    optional  values
+       how          yes       (yet|no)   => yet = Not yet translated | no = no translation
+       backurl      yes       == url_de
+       backtitle    required  title of german page
+
+       GET-Parameters can be seperated by using , (commas) or normal sperators (&), for example:
+         ?how=yet&backurl=index.shtm&backtitle=Main%20Page
+         ?how=no,backtitle=Blabla
+    -->
+
+    <?php
+
+	
+	if($how == 'yet')
+		$h2 = "The page &raquo;$backtitle&laquo; has not been translated yet";
+	else
+		$h2 = "There is no translation for ".($backtitle ? " &raquo;$backtitle&laquo" : "the page you requested");
+    
+	print "<h2>$h2</h2>";
+	
+	//$url_de = "/de/"...
+	//$backurl = "/de/".$url_de;
+	
+	if($backurl)  {
+		?><p class="panel-hide">Please <a href="<?=$backurl; ?>">go back to the german page</a>.</p>
+		<p>You can also use automatically generated translations from <a href="https://translate.google.com/">Google Translate</a> or <a href="https://www.bing.com/translator">Microsoft Bing</a>
+		(but don't expect too much):</p>
+		<ul>
+		<li><a href="http://translate.google.com/translate?hl=en&sl=de&u=http://www.technikum29.de/<?=$backurl; ?>&prev=/search%3Fq%3Dtechnikum29%26hl%3Den%26lr%3D%26sa%3DN">Read the google translation</a></li>
+		<li><a href="http://www.microsofttranslator.com/bv.aspx?from=de&to=en&a=http://www.technikum29.de/<?=$backurl; ?>">Read the Microsoft translator (Babelfish/Bing)</a></li>
+		</ul><?php
+	} else {
+		?>
+		<p>There is no english translation for the requested page.</p>
+		<p><a class="go" href="javascript:history.go();">Back to the german page</a></p>
+		<?php
+	}

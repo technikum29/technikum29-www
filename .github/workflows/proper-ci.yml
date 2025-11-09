@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v8
+      - master
 
 jobs:
   build:

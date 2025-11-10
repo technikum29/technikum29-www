@@ -43,7 +43,7 @@ export const messages = {
 
     'footer-copyright-tag': '&copy; 2003-%s technikum29.',
     'footer-legal-link': ['Impressum und Kontakt', 'Legal notices'],
-    'footer-legal-file': ['/impressum', '/contact'],
+    'footer-legal-file': ['/de/impressum', '/en/contact'],
     'footer-legacy-text': [
         '&copy; 2003-%s technikum29. Alle Bilder und Fotografien sind kopierrechtlich geschützt, siehe <a href="/de/impressum" class="go">Impressum</a>',
         '&copy; 2003-%s technikum29. You must not use contents and photographies without the permission of the owner. <a href="/en/contact" class="go">Legal Information</a>.'

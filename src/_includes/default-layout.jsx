@@ -9,16 +9,15 @@
  * well as https://github.com/j-f1/eleventy-hast-jsx
  **/
 
-import jsx from "eleventy-hast-jsx";
+const jsx = require("eleventy-hast-jsx");
 const { Raw, DOCTYPE, Comment } = jsx;
 
 // CSS class helper, usage like className={classes(foo)}, will omit attribute if list is empty
 const classes = (classes) => classes.join(" ") || undefined
 
-// this does not work
-import {format} from 'hast-util-format'
-const doFormat = true;
-const postprocess = (tree) => { if(doFormat) format(tree); return tree; }
+// hast-util-format is pure ESM and cannot be require()'d from this CJS context
+const doFormat = false;
+const postprocess = (tree) => { if(doFormat) {} return tree; }
 
 const log = (data, severity, msg) => {
 	// severity one of "emerg", "alert", "crit", "err", "warn", "notice", "info", "debug"
@@ -106,7 +105,7 @@ const InterlangLink = ({data, lang, link_data, msg}) => {
 }
 
 
-export default function({msg, ...data}) {
+module.exports.default = function({msg, ...data}) {
 	
 	if(data.seiten_id == "punchcard-sorter") {
 	 debugger;

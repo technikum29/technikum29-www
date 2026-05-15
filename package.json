@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve"
+    "build": "eleventy",
+    "start": "eleventy --serve"
   },
   "repository": {
     "type": "git",
